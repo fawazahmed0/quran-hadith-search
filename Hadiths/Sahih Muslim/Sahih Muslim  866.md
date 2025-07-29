@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، بِهَذَا الإِسْنَادِ أَنَّهُ رَأَى نَبِيَّ اللَّهِ صلى الله عليه وسلم وَقَالَ حَتَّى يُحَاذِيَ بِهِمَا فُرُوعَ أُذُنَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه محمد بن المثنى، حدثنا ابن ابي عدي، عن سعيد، عن قتادة، بهذا الاسناد انه راى نبي الله صلى الله عليه وسلم وقال حتى يحاذي بهما فروع اذنيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... কাতাদাহ (রহঃ) হতে উক্ত সূত্রে বর্ণনা করেন যে, মালিক ইবনু হুওয়াইরিস (রাযিঃ) বলেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে কানের লতি বরাবর হাত তুলতে দেখেছেন। (ইসলামিক ফাউন্ডেশনঃ ৭৫০, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted by Qatada with the same chain of transmitters that he saw the Messenger of Allah (ﷺ) doing this (i.e. raising his hands) till they were opposite the lobes of ears
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## French
 
+Rapporté par Qatada : Ce hadith a été transmis avec la même chaîne de rapporteurs, indiquant qu’il a vu le Messager d’Allah ﷺ lever les mains jusqu’à ce qu’elles soient à hauteur des lobes d’oreilles
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) В этой версии хадиса он сказал, что видел, как Пророк Аллаха ﷺ … А так же он сказал: «…пока они не достигали мочек ушей»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize bu hadîsi Muhammed b. el-Müsennâ dahî rivayet etti. (Dediki): Bize îbni Ebî Adiy, Saîd'den, o da Katâde'den bu isnadla rivayet ettiki: Mâlik, Nebi (Sallallahu Aleyhi ve Sellem) (Bu şekilde namaz kılarken görmüş) ve «ellerini ta kulaklarının üst hizasına kadar kaldırırdı demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قتادہ سے ( ابو عوانہ کے بجائے ) سعید نے باقی ماندہ سے اسی سند کے ساتھ روایت کی کہ انہوں نے ( مالک بن حویرث ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) نے اللہ کے نبیﷺ کو دیکھا اور ( سعید نے ) کہا : یہاں تک کہ دونوں ہاتھ اپنے دونوں کانوں کے کناروں کے سامنے لے جاتے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>391.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 29</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 391.03 |
+| Reference | Book 4 Hadith 29 |

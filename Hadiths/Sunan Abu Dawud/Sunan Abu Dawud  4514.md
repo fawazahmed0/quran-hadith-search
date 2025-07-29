@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ خَالِدٍ، حَدَّثَنَا رَبَاحٌ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أُمِّهِ، أَنَّ أُمَّ مُبَشِّرٍ، - قَالَ أَبُو سَعِيدِ بْنُ الأَعْرَابِيِّ كَذَا قَالَ عَنْ أُمِّهِ، وَالصَّوَابُ، عَنْ أَبِيهِ، عَنْ أُمِّ مُبَشِّرٍ، - دَخَلَتْ عَلَى النَّبِيِّ صلى الله عليه وسلم فَذَكَرَ مَعْنَى حَدِيثِ مَخْلَدِ بْنِ خَالِدٍ نَحْوَ حَدِيثِ جَابِرٍ قَالَ فَمَاتَ بِشْرُ بْنُ الْبَرَاءِ بْنِ مَعْرُورٍ فَأَرْسَلَ إِلَى الْيَهُودِيَّةِ فَقَالَ ‏ "‏ مَا حَمَلَكِ عَلَى الَّذِي صَنَعْتِ ‏"‏ ‏.‏ فَذَكَرَ نَحْوَ حَدِيثِ جَابِرٍ فَأَمَرَ بِهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقُتِلَتْ وَلَمْ يَذْكُرِ الْحِجَامَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
+
 حدثنا احمد بن حنبل، حدثنا ابراهيم بن خالد، حدثنا رباح، عن معمر، عن الزهري، عن عبد الرحمن بن عبد الله بن كعب بن مالك، عن امه، ان ام مبشر، - قال ابو سعيد بن الاعرابي كذا قال عن امه، والصواب، عن ابيه، عن ام مبشر، - دخلت على النبي صلى الله عليه وسلم فذكر معنى حديث مخلد بن خالد نحو حديث جابر قال فمات بشر بن البراء بن معرور فارسل الى اليهودية فقال " ما حملك على الذي صنعت " . فذكر نحو حديث جابر فامر بها رسول الله صلى الله عليه وسلم فقتلت ولم يذكر الحجامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
 
 ## Bengali
 
+। উম্মু মুবাশশির (রাঃ) বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট প্রবেশ করলাম। অতঃপর তিনি মাখলাদ ইবনু খালিদের হাদীসের অর্থানুরূপ বর্ণনা করেন জাবির (রাঃ)-এর হাদীসের মতই। বর্ণনাকারী বলেন, বিশর ইবনুল বারাআ ইবনু মা‘রূর (রাঃ) মারা গেলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়াহুদী মহিলাকে ডেকে এনে প্রশ্ন করেনঃ তুমি যা করেছো তা করতে কিসে তোমাকে প্ররোচিত করেছে? অতঃপর জাবির (রাঃ) বর্ণিত হাদীসের অনুরূপ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সম্পর্কে নির্দেশ দিলে পরে তাকে হত্যা করা হয়। বর্ণনাকারী এখানে রক্তমোক্ষণের কথা উল্লেখ করেননি।\[1\] সনদ সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উম্মু মুবাশশির (রাঃ) বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট প্রবেশ করলাম। অতঃপর তিনি মাখলাদ ইবনু খালিদের হাদীসের অর্থানুরূপ বর্ণনা করেন জাবির (রাঃ)-এর হাদীসের মতই। বর্ণনাকারী বলেন, বিশর ইবনুল বারাআ ইবনু মা‘রূর (রাঃ) মারা গেলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইয়াহুদী মহিলাকে ডেকে এনে প্রশ্ন করেনঃ তুমি যা করেছো তা করতে কিসে তোমাকে প্ররোচিত করেছে? অতঃপর জাবির (রাঃ) বর্ণিত হাদীসের অনুরূপ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সম্পর্কে নির্দেশ দিলে পরে তাকে হত্যা করা হয়। বর্ণনাকারী এখানে রক্তমোক্ষণের কথা উল্লেখ করেননি।[1] সনদ সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abd al-Rahman b. 'Abd Allah b. Ka'b b. Malik :On the authority of his mother than Umm Mubashshir said (Abu Sa'id b. al-A'rabi said: So he said it on the authority of his mother ; what is correct is: on the authority of his father, instead of his mother): I entered upon the Prophet (ﷺ). He then mentioned the tradition of Makhlad b. Khalid in a way similar to the tradition of Jabir. The narrator said: Then Bishr b. al-Bara' b. Ma'rur died. So he (the Prophet) sent for the Jewess and said: What did motivate you for your work you have done ? He (the narrator) then mentioned the rest of the tradition like the tradition of Jabir. The Messenger of Allah (ﷺ) ordered regarding her and she was killed. He (the narrator in this version) did not mention cupping
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
+
+## French
+
+Rapporté par ‘Abd al-Rahman ibn ‘Abd Allah ibn Ka’b ibn Malik, d’après son père : Umm Mubashshir a dit (Abu Sa’id ibn al-A’rabi a dit : il l’a donc rapporté d’après sa mère ; ce qui est correct, c’est : d’après son père, et non sa mère) : Je suis entrée auprès du Prophète ﷺ. Il mentionna alors le récit de Makhlad ibn Khalid, semblable à celui de Jabir. Le narrateur dit : Puis Bishr ibn al-Bara’ ibn Ma’rur mourut. Le Prophète ﷺ fit venir la femme juive et lui demanda : « Qu’est-ce qui t’a poussée à faire cela ? » Il rapporta ensuite le reste du récit comme celui de Jabir. Le Messager d’Allah ﷺ ordonna alors qu’elle soit tuée. Dans cette version, il n’est pas fait mention de la saignée
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Умм Мубашшир, что она зашла к Пророку ﷺ. В этой версии упомянуто примерно то же, что и в хадисе Джабира, и говорится: «А Бишр ибн аль-Бара ибн Ма‘рур скончался, и Пророк ﷺ послал к иудейке спросить: “Что побудило тебя сделать это?”» Далее упомянуто примерно то же, что и в хадисе Джабира и говорится: «И по велению Посланника Аллаха ﷺ иудейка была казнена». В этой версии не упоминается кровопускание
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdurrahman b. Abdullah b. Ka'b b. Mâlik annesi Ümmü Mübeşşir'den, -Ebû Saîd b. el-A'rabî: "Böylece annesinden dedi, doğrusu babasından, o da Uuimü Mübeşşir'den demeliydi" deyip- rivayet etti ki; O (Ümmü Mübeşşir) Rasûlullah (s.a.v)'in yanına girdi... (Ravî), Mihled b. Hâlid'in hadisini Câbir'in (4510.) hadisi gibi rivayet etti ve şöyle dedi: Bişr b. el-Berâ b. Ma'rûr öldü. Rasûlullah (s.a.v) Yahudi kadına haber gönderdi (getirtti) ve ona: "Seni yaptığın bu şeye sevkeden ne?" diye sordu. Ravi, Câbir'in (4510.) hadisinin benzerini rivayet etti, ve şunu da zikretti: "Rasûlullah (s.a.v) emretti ve kadın öldürüldü." Kan aldırma mes'elesini anmadı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام مبشر رضی اللہ عنہا سے روایت ہے کہ وہ نبی اکرم صلی اللہ علیہ وسلم کے پاس آئیں پھر راوی نے مخلد بن خالد کی حدیث کا مفہوم اسی طرح ذکر کیا جیسے جابر کی روایت میں ہے، اس میں ہے کہ بشر بن براء بن معرور مر گئے، تو آپ نے یہودی عورت کو بلا بھیجا اور پوچھا: یہ تجھے ایسا کرنے پر کس چیز نے آمادہ کیا تھا؟ پھر راوی نے وہی باتیں ذکر کیں جو جابر کی حدیث میں ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے حکم دیا اور وہ قتل کر دی گئی لیکن انہوں نے پچھنا لگوانے کا ذکر نہیں کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4514</td></tr><tr><td>Arabic No</td><td>4514</td></tr><tr><td>Reference</td><td>Book 41 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4514 |
+| Arabic No | 4514 |
+| Reference | Book 41 Hadith 21 |

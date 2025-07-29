@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُوسَى بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ بَدَّلَ دِينَهُ فَاقْتُلُوهُ ‏"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ وَهَذَا أَوْلَى بِالصَّوَابِ مِنْ حَدِيثِ عَبَّادٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |
+
 اخبرنا موسى بن عبد الرحمن، قال حدثنا محمد بن بشر، قال حدثنا سعيد، عن قتادة، عن الحسن، قال قال رسول الله صلى الله عليه وسلم " من بدل دينه فاقتلوه " . قال ابو عبد الرحمن وهذا اولى بالصواب من حديث عباد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মূসা ইবন আব্দুর রহমান (রহঃ) ... হাসান (রহঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার দীন পরিবর্তন করে, তাকে হত্যা কর।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |
 
 ## English
 
+It was narrated that Al-Hasan said:"The Messenger of Allah \[SAW\] said: 'Whoever changes his religion, kill him
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Al-Hasan said:"The Messenger of Allah [SAW] said: 'Whoever changes his religion, kill him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |
+
+## French
+
+Rapporté par Al-Hasan : Le Messager d’Allah \[SAW\] a dit : "Celui qui change de religion, tuez-le
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Musa bin Abdurrahman\], ia berkata; telah menceritakan kepada kami \[Muhammad bin Bisy\], ia berkata; telah menceritakan kepada kami \[Sa'id\] dari \[Qatadah\] dari \[Al Hasan\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Siapa yang mengganti agamanya maka bunuhlah." Abu Abdurrahman berkata; ini lebih benar daripada hadits 'Abbad
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Musa bin Abdurrahman], ia berkata; telah menceritakan kepada kami [Muhammad bin Bisy], ia berkata; telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Al Hasan], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: ""Siapa yang mengganti agamanya maka bunuhlah." Abu Abdurrahman berkata; ini lebih benar daripada hadits 'Abbad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4063</td></tr><tr><td>Arabic No</td><td>4063</td></tr><tr><td>Reference</td><td>Book 37 Hadith 98</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4063 |
+| Arabic No | 4063 |
+| Reference | Book 37 Hadith 98 |

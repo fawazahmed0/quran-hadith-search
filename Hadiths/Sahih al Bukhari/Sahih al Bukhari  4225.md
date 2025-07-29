@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا شُعْبَةُ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنِ الْبَرَاءِ، قَالَ غَزَوْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسلم، حدثنا شعبة، عن عدي بن ثابت، عن البراء، قال غزونا مع النبي صلى الله عليه وسلم نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
 ## Bengali
 
+বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে খাইবারে অভিযানে গিয়েছিলাম .......। তিনি উপরোল্লিখিত বর্ণনার অনুরূপ বর্ণনা করেছেন। \[৪২২১\] (আধুনিক প্রকাশনীঃ ৩৯০২, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বারাআ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে খাইবারে অভিযানে গিয়েছিলাম .......। তিনি উপরোল্লিখিত বর্ণনার অনুরূপ বর্ণনা করেছেন। [৪২২১] (আধুনিক প্রকাশনীঃ ৩৯০২, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Bara:We took part in a Ghazwa with the Prophet (same as Hadith No)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
+
+## French
+
+Rapporté par Al-Bara : Nous avons participé à une expédition avec le Prophète ﷺ (semblable à celle du hadith)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что аль-Бара сказал: «Мы приняли участие в военном походе вместе с Пророком ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “நாங்கள் நபி (ஸல்) அவர் களுடன் (கைபர்) போருக்குச் சென்றோம்...” (என்று தொடங்கும்) முந்தைய ஹதீஸின் கருத்தில் அமைந்த பராஉ (ரலி) அவர்களின் மற்றோர் அறிவிப்பும் இடம்பெற்றுள்ளது. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bera': "Biz Nebi Sallallahu Aleyhi ve Sellem ile birlikte gazada bulunduk. .. " diye hadisi buna yakın zikretmektedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسلم بن ابراہیم نے بیان کیا ‘ ان سے شعبہ نے بیان کیا ‘ ان سے عدی بن ثابت نے اور ان سے براء بن عازب رضی اللہ عنہ نے بیان کیا کہ ہم نبی کریم صلی اللہ علیہ وسلم کے ساتھ غزوہ میں شریک تھے پھر پہلی حدیث کی طرح روایت نقل کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4225</td></tr><tr><td>Arabic No</td><td>4225</td></tr><tr><td>Reference</td><td>Book 64 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4225 |
+| Arabic No | 4225 |
+| Reference | Book 64 Hadith 263 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، قَالَ أَخْبَرَنَا سُفْيَانُ، عَنْ رَجُلٍ، قَدْ سَمَّاهُ غَيْرِ ابْنِ كَثِيرٍ عَنْ سُفْيَانَ، عَنْ عُبَيْدٍ الصِّيدِ، عَنِ الْحَسَنِ، فِي قَوْلِ اللَّهِ عَزَّ وَجَلَّ ‏(‏ وَحِيلَ بَيْنَهُمْ وَبَيْنَ مَا يَشْتَهُونَ ‏)‏ قَالَ بَيْنَهُمْ وَبَيْنَ الإِيمَانِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
+
 حدثنا محمد بن كثير، قال اخبرنا سفيان، عن رجل، قد سماه غير ابن كثير عن سفيان، عن عبيد الصيد، عن الحسن، في قول الله عز وجل ( وحيل بينهم وبين ما يشتهون ) قال بينهم وبين الايمان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
 
 ## Bengali
 
+। হাসান বাসরী (রহঃ) মহান আল্লাহর এ বাণীঃ ‘‘তাদের ও এদের বাসনার মধ্যে প্রতিবন্ধক সৃষ্টি করা হয়েছে’’ (সূরা সাবাঃ ৫৪) সম্পর্কে বলেন, তাদের ও ঈমানের মধ্যে।\[1\] সনদ সহীহ মাকতু।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হাসান বাসরী (রহঃ) মহান আল্লাহর এ বাণীঃ ‘‘তাদের ও এদের বাসনার মধ্যে প্রতিবন্ধক সৃষ্টি করা হয়েছে’’ (সূরা সাবাঃ ৫৪) সম্পর্কে বলেন, তাদের ও ঈমানের মধ্যে।[1] সনদ সহীহ মাকতু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Explaining the Quranic verse; “And between them and their desire is placed a barrier.” Al-Hasan said:Between them and their faith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
+
+## French
+
+En expliquant le verset coranique : « Et entre eux et ce qu’ils désirent, il y a une barrière », al-Hasan a dit : « Entre eux et leur foi. »
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\] ia berkata; telah mengabarkan kepada kami \[Sufyan\] dari \[seorang laki-laki\] yang banyak disebut namanya kecuali Ibnu Katsir, dari \[Sufyan\] dari \[Ubaid Ash Shaid\] dari \[Al hasan\] tentang firman Allah Azza Wa Jalla: '(Dan dihalangi antara mereka dengan apa yang mereka ingini….) ' -Qs. Saba: 54- ia berkata, "Yaitu antara mereka dengan keimanan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir] ia berkata; telah mengabarkan kepada kami [Sufyan] dari [seorang laki-laki] yang banyak disebut namanya kecuali Ibnu Katsir, dari [Sufyan] dari [Ubaid Ash Shaid] dari [Al hasan] tentang firman Allah Azza Wa Jalla: '(Dan dihalangi antara mereka dengan apa yang mereka ingini….) ' -Qs. Saba: 54- ia berkata, "Yaitu antara mereka dengan keimanan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-Хасан сказал о словах Всемогущего и Великого Аллаха «…между ними и тем, что они пожелают, воздвигнута преграда»: «(Имеется в виду) между ними и верой»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
 
 ## Turkish
 
+Ubeyd es-Sayd'dan; demiştir ki: Hasan (el Basrî hazretleri) Yüce Allah'ın: "Ve kendileriyle arzu ettikleri şey arasına perde çekılmistir"\[Sebe' 54\] ayeti hakkında şu açıklamayı yapmıştır: "(Yâni) onlarla iman arasına perde çekilmiştir
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubeyd es-Sayd'dan; demiştir ki: Hasan (el Basrî hazretleri) Yüce Allah'ın: "Ve kendileriyle arzu ettikleri şey arasına perde çekılmistir"[Sebe' 54] ayeti hakkında şu açıklamayı yapmıştır: "(Yâni) onlarla iman arasına perde çekilmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حسن بصری آیت کریمہ: «وحيل بينهم وبين ما يشتهون» ان کے اور ان کی خواہشات کے درمیان حائل ہو گئی ( سورۃ سبا: ۵۴ ) کی تفسیر میں کہتے ہیں: اس کا مطلب ہے ان کے اور ان کے ایمان کے درمیان حائل ہو گئی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4620</td></tr><tr><td>Arabic No</td><td>4620</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4620 |
+| Arabic No | 4620 |
+| Reference | Book 42 Hadith 25 |

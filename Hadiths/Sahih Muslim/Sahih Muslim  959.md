@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسِ بْنِ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ أَقِيمُوا الرُّكُوعَ وَالسُّجُودَ فَوَاللَّهِ إِنِّي لأَرَاكُمْ مِنْ بَعْدِي - وَرُبَّمَا قَالَ مِنْ بَعْدِ ظَهْرِي - إِذَا رَكَعْتُمْ وَسَجَدْتُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني محمد بن المثنى، وابن، بشار قالا حدثنا محمد بن جعفر، حدثنا شعبة، قال سمعت قتادة، يحدث عن انس بن مالك، عن النبي صلى الله عليه وسلم قال " اقيموا الركوع والسجود فوالله اني لاراكم من بعدي - وربما قال من بعد ظهري - اذا ركعتم وسجدتم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু আল মুসান্না ইবনু বাশশার (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ তোমরা রুকু’-সিজদা ঠিকভাবে আদায় করো। আল্লাহর শপথ আমি তোমাদেরকে আমার পিছন থেকে দেখি। আবার কখনো তিনি বলেছেনঃ তোমরা যখন রুকু’-সিজদা করো, আমি তোমাদেরকে আমার পিছন থেকেও দেখতে পাই। (ইসলামিক ফাউন্ডেশনঃ ৮৪১, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas b. Malik reported. The Messenger of Allah (ﷺ) said:Perform bowing and prostration well. By Allah, I see you even if you are behind me, or he said: (I see you) behind my back when you bow or prostrate
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## French
 
+Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Faites bien l’inclinaison et la prosternation. Par Allah, je vous vois même si vous êtes derrière moi, ou il a dit : (Je vous vois) derrière mon dos quand vous vous inclinez ou vous prosternez. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-D'après Anas Ibn Mâlik (que Dieu l'agrée), le Prophète (paix et bénédiction de Dieu sur lui) a dit : "Parachevez vos inclinations et vos prosternations. Par Dieu! Je vous vois par derrière moi - ou peut-être, suivant une variante : (Par derrière mon dos) -, chaque fois que vous vous inclinez et que vous vous prosternez". Interdiction de s'incliner ou de se prosterner avant l'imam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Анаса ибн Малик, что Пророк ﷺ сказал: «Совершайте поясные и земные поклоны полноценно, ибо, клянусь Аллахом, поистине, я вижу вас за собой возможно, что он сказал: за своей спиной, когда вы совершаете поясные и земные поклоны»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Muhammed b. El-Müsennâ ile İbni Beşsâr rivayet ettiler. Dedilerkî: Bize Muhammed b. Câ'fer rivayet etti. (Dediki): Bize Şu'be rivayet etti. Dediki: Katâde'yi Enes b. Mâlik'den, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen rivayet ederken işittim. Nebi (Sallallahu Aleyhi ve Sellem): «Rüku ve sücudu dosdoğru yapın. Vallahi ben sizi rüku' ve secde ettiğiniz zaman arkamdan (Galiba sııtımın arkasından demiş) görüyorum.» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ شعبہ نے کہا : میں نے قتادہ سے سنا ، وہ حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کر رہے تھے کہ نبیﷺ نے فرمایا : ’’ رکوع اور سجدہ پوری طرح کیا کرو ، اللہ کی قسم! میں تمہیں اپنے پیچھے ( بھی ) دیکھتا ہوں ۔ ‘ ‘ ( بلکہ ) غالباً آپ نے اس طرح فرمایا : ’’ جب تم رکوع اور سجدہ کرتے ہو تو میں تمہیں اپنی پیٹھ پیچھے بھی دیکھتا ہوں ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>959</td></tr><tr><td>Arabic No</td><td>425.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 959 |
+| Arabic No | 425.01 |
+| Reference | Book 4 Hadith 121 |

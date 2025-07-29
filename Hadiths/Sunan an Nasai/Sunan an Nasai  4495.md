@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرًا، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ يَبِيعُ حَاضِرٌ لِبَادٍ دَعُوا النَّاسَ يَرْزُقُ اللَّهُ بَعْضَهُمْ مِنْ بَعْضٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |
+
 اخبرنا ابراهيم بن الحسن، قال حدثنا حجاج، قال قال ابن جريج اخبرني ابو الزبير، انه سمع جابرا، يقول قال رسول الله صلى الله عليه وسلم " لا يبيع حاضر لباد دعوا الناس يرزق الله بعضهم من بعض
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবরাহীম ইবন হাসান (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ শহরের লোক গ্রাম্য লোকদের পণ্যদ্রব্য বিক্রয় করে দিবে না। লোকজনকে ছেড়ে দাও, আল্লাহ্ তা'আলা তাদের কারো দ্বারা কারো রিযিক পৌঁছিয়ে থাকেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir said:"The Messenger of Allah said: 'A town-dweller should not sell for a direst-dweller. Leave the people alone and let Allah provide for them from one another."" (Sahih)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |
+
+## French
+
+Rapporté par Jabir : Le Messager d’Allah a dit : « Un citadin ne doit pas vendre pour un nomade. Laissez les gens tranquilles et qu’Allah pourvoie à leurs besoins les uns par les autres. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ibrahim bin Al Hasan\], ia berkata; telah menceritakan kepada kami \[Hajjaj\], ia berkata; \[Ibnu Juraij\] berkata; telah mengabarkan kepadaku \[Abu Az Zubair\] bahwa ia telah mendengar \[Jabir\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh orang yang tinggal di kota menjualkan untuk orang yang tinggal di desa, biarkan manusia Allah memberi rizki sebagian mereka dengan sebagian yang lain
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ibrahim bin Al Hasan], ia berkata; telah menceritakan kepada kami [Hajjaj], ia berkata; [Ibnu Juraij] berkata; telah mengabarkan kepadaku [Abu Az Zubair] bahwa ia telah mendengar [Jabir] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh orang yang tinggal di kota menjualkan untuk orang yang tinggal di desa, biarkan manusia Allah memberi rizki sebagian mereka dengan sebagian yang lain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4495</td></tr><tr><td>Arabic No</td><td>4495</td></tr><tr><td>Reference</td><td>Book 44 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4495 |
+| Arabic No | 4495 |
+| Reference | Book 44 Hadith 47 |

@@ -18,78 +18,68 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Reference</td><td>Book 0 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Reference | Book 0 Hadith 92 |

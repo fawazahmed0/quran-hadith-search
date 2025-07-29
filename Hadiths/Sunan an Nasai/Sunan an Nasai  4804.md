@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مَيْمُونٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ عِكْرِمَةَ، سَمِعْنَاهُ مَرَّةً، يَقُولُ عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَضَى بِاثْنَىْ عَشَرَ أَلْفًا يَعْنِي فِي الدِّيَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |
+
 اخبرنا محمد بن ميمون، قال حدثنا سفيان، عن عمرو، عن عكرمة، سمعناه مرة، يقول عن ابن عباس، ان النبي صلى الله عليه وسلم قضى باثنى عشر الفا يعني في الدية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন মায়মূন (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দিয়াতে বার হাজার দিরহাম ধার্য করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Abbas that:the Prophet ruled that twelve thousand (should be given) as Diyah. (Hahan)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Prophète ﷺ a jugé que la Diyah devait être de douze mille. (Hasan)
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Maimun\] telah menceritakan kepada kami \[Sufyan\] dari \['Amru\] dari \[Ikrimah\], suatu kali kami mendengarnya berkata; dari \[Ibnu Abbas\] bahwa Nabi shallallahu 'alaihi wasallam telah memutuskan dengan dua belas ribu dalam masalah diyat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Maimun] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Ikrimah], suatu kali kami mendengarnya berkata; dari [Ibnu Abbas] bahwa Nabi shallallahu 'alaihi wasallam telah memutuskan dengan dua belas ribu dalam masalah diyat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4804</td></tr><tr><td>Arabic No</td><td>4804</td></tr><tr><td>Reference</td><td>Book 45 Hadith 99</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4804 |
+| Arabic No | 4804 |
+| Reference | Book 45 Hadith 99 |

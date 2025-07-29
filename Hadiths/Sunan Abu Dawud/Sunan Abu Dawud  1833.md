@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا يَزِيدُ بْنُ أَبِي زِيَادٍ، عَنْ مُجَاهِدٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ الرُّكْبَانُ يَمُرُّونَ بِنَا وَنَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مُحْرِمَاتٌ فَإِذَا حَاذَوْا بِنَا سَدَلَتْ إِحْدَانَا جِلْبَابَهَا مِنْ رَأْسِهَا إِلَى وَجْهِهَا فَإِذَا جَاوَزُونَا كَشَفْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
+
 حدثنا احمد بن حنبل، حدثنا هشيم، اخبرنا يزيد بن ابي زياد، عن مجاهد، عن عايشة، قالت كان الركبان يمرون بنا ونحن مع رسول الله صلى الله عليه وسلم محرمات فاذا حاذوا بنا سدلت احدانا جلبابها من راسها الى وجهها فاذا جاوزونا كشفناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, অনেক কাফেলা আমাদের পাশ দিয়ে অতিক্রম করছিল। তখন আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ইহরাম অবস্থায় ছিলাম। তারা আমাদের সামনা-সামনি আসলে আমাদের নারীরা নিজ মুখাবরণ মাথা থেকে নামিয়ে নিজ মুখমন্ডল ঢেকে ফেলতেন। অতঃপর তারা অতিক্রম করে চলে গেলে আমরা মুখ খুলতাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: Riders would pass us when we accompanied the Messenger of Allah (ﷺ) while we were in the sacred state (wearing ihram). When they came by us, one of us would let down her outer garment from her head over her face, and when they had passed on, we would uncover our faces
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
+
+## French
+
+Rapporté par Aïcha, la mère des croyants رضي الله عنها : Des cavaliers passaient près de nous alors que nous étions avec le Messager d’Allah ﷺ en état de sacralisation (ihram). Quand ils s’approchaient, l’une d’entre nous abaissait son voile depuis sa tête sur son visage, et quand ils étaient partis, nous découvrions nos visages
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Ahmad bin Hanbal\], telah menceritakan kepada Kami \[Husyaim\], telah mengabarkan kepada Kami \[Yazid bin Abu Ziyad\] dari \[Mujahid\] dari \[Aisyah\] ia berkata; orang-orang yang berkendaraan melewati Kami sementara Kami sedang berihram bersama Rasulullah shallAllahu wa'alaihi wa sallam kemudian apabila mereka dekat dengan Kami maka salah seorang diantara Kami menutupkan jilbabnya dari kepala ke wajahnya, kemudian apabila mereka telah melewati Kami maka Kami membukanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Husyaim], telah mengabarkan kepada Kami [Yazid bin Abu Ziyad] dari [Mujahid] dari [Aisyah] ia berkata; orang-orang yang berkendaraan melewati Kami sementara Kami sedang berihram bersama Rasulullah shallAllahu wa'alaihi wa sallam kemudian apabila mereka dekat dengan Kami maka salah seorang diantara Kami menutupkan jilbabnya dari kepala ke wajahnya, kemudian apabila mereka telah melewati Kami maka Kami membukanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Аиша, да будет доволен ею Аллах, сказала: «Когда мы сопровождали Посланника Аллаха ﷺ пребывая в состоянии ихрама, мимо нас проезжали всадники. Когда они приближались к нам, мы спускали покрывала с головы на лица, а когда они проезжали, мы вновь открывали лица»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anhâ)'dan; demiştir ki: Biz Rasûlullah ile birlikte ihramlı iken yanımıza süvariler gelirdi. Karşımıza geldikleri zaman (her) birimiz çarşafını başından yüzüne sarkıtır (ve yüzünü örter)di. Bizden uzaklaştıkları zaman da (yüzünü) açardı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ سوار ہمارے سامنے سے گزرتے اور ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ احرام باندھے ہوتے، جب سوار ہمارے سامنے آ جاتے تو ہم اپنے نقاب اپنے سر سے چہرے پر ڈال لیتے اور جب وہ گزر جاتے تو ہم اسے کھول لیتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1833</td></tr><tr><td>Arabic No</td><td>1833</td></tr><tr><td>Reference</td><td>Book 11 Hadith 113</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1833 |
+| Arabic No | 1833 |
+| Reference | Book 11 Hadith 113 |

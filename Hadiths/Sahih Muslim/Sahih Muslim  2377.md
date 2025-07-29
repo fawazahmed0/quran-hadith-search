@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، حَدَّثَنَا هِشَامٌ، عَنْ عَبَّادِ بْنِ حَمْزَةَ، عَنْ أَسْمَاءَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ لَهَا نَحْوَ حَدِيثِهِمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابن نمير، حدثنا محمد بن بشر، حدثنا هشام، عن عباد بن حمزة، عن اسماء، ان النبي صلى الله عليه وسلم قال لها نحو حديثهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু নুমায়র (রহঃ) ..... আসমা (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন ..... পূর্বোক্ত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২২৪৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Asma' through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## French
 
+Rapporté par Asma’ par une autre chaîne de transmetteurs : (Hadith similaire au précédent)
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize îbni Numeyr rivayet etti. (Dediki): Bize Muhammed b. Bişr rivayet etti. (Dediki): Bize Hişâm, Abbâd b. Hamza'dan, o da Esmâ'dan naklen rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem) kendisine yukarıdakilerin hadîsi gibi beyânda bulunmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن بشر نے کہا : ہمیں ہشا م نے عبا د بن حمزہ سے حدیث بیان کی ، انھوں نے حضرت اسما رضی اللہ تعالیٰ عنہ سے روایت کی کہ نبی صلی اللہ علیہ وسلم نے ان سے کہا ۔ ۔ ۔ ان ( مذکورہ با لا راویوں ) کی حدیث کے ما نند ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2377</td></tr><tr><td>Arabic No</td><td>1029.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2377 |
+| Arabic No | 1029.03 |
+| Reference | Book 12 Hadith 114 |

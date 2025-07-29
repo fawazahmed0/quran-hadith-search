@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، بِهَذَا قَالَ عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، قَالَ سَكْتَتَانِ حَفِظْتُهُمَا عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ فِيهِ قَالَ سَعِيدٌ قُلْنَا لِقَتَادَةَ مَا هَاتَانِ السَّكْتَتَانِ قَالَ إِذَا دَخَلَ فِي صَلاَتِهِ وَإِذَا فَرَغَ مِنَ الْقِرَاءَةِ ثُمَّ قَالَ بَعْدُ وَإِذَا قَالَ ‏(‏ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلاَ الضَّالِّينَ ‏)‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
+
 حدثنا ابن المثنى، حدثنا عبد الاعلى، حدثنا سعيد، بهذا قال عن قتادة، عن الحسن، عن سمرة، قال سكتتان حفظتهما عن رسول الله صلى الله عليه وسلم . قال فيه قال سعيد قلنا لقتادة ما هاتان السكتتان قال اذا دخل في صلاته واذا فرغ من القراءة ثم قال بعد واذا قال ( غير المغضوب عليهم ولا الضالين)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
 
 ## Bengali
 
+। সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সালাতে দু’ স্থানে চুপ থাকা সম্পর্কীত জ্ঞান আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছ থেকে হিফয করেছি। বর্ণনাকারী সাঈদ বলেন, আমরা ক্বাতাদাহ্ (রহঃ)-কে দু’ স্থানে চুপ থাকা সম্পর্কে জিজ্ঞেস করলে তিনি বলেন, যখন কেউ সালাত আরম্ভ করবে এবং যখন কিরাত শেষ করবে (তখন চুপ থাকবে)। পরে তিনি বলেন, (কিরাত শেষ করা অর্থ হচ্ছে) যখন কেউ গইরিল মাগযূবি ‘আলাইহিম ওয়ালয্‌যল্লীন বলবে। \[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সালাতে দু’ স্থানে চুপ থাকা সম্পর্কীত জ্ঞান আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছ থেকে হিফয করেছি। বর্ণনাকারী সাঈদ বলেন, আমরা ক্বাতাদাহ্ (রহঃ)-কে দু’ স্থানে চুপ থাকা সম্পর্কে জিজ্ঞেস করলে তিনি বলেন, যখন কেউ সালাত আরম্ভ করবে এবং যখন কিরাত শেষ করবে (তখন চুপ থাকবে)। পরে তিনি বলেন, (কিরাত শেষ করা অর্থ হচ্ছে) যখন কেউ গইরিল মাগযূবি ‘আলাইহিম ওয়ালয্‌যল্লীন বলবে। [1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Samurah ibn Jundub: I remember from the Messenger of Allah (ﷺ) two periods of silence. Sa'id said: We asked Qatadah: What are those two periods of silence? He said: (one) when he began his prayer, and (one) when he finished the recitation. Then he added: When he finished reciting (the closing verse of the Fatihah): "Not of those with whom Thou art angry, nor of who go astray
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
+
+## French
+
+Rapporté par Samurah ibn Jundub رضي الله عنه : Je me souviens du Messager d’Allah ﷺ de deux moments de silence. Sa’id a dit : Nous avons demandé à Qatadah : « Quels sont ces deux moments de silence ? » Il a répondu : (le premier) au début de la prière, et (le second) à la fin de la récitation. Puis il a ajouté : Quand il terminait la récitation (du dernier verset de la Fatiha) : « Non pas de ceux qui ont encouru Ta colère, ni des égarés. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Al Mutsanna\] telah menceritakan kepada kami \[Abdul A'la\] telah menceritakan kepada kami \[Sa'id\] dengan redaksi ini, katanya; dari \[Qatadah\] dari \[Al Hasan\] dari \[Samurah\] dia berkata; "Dua tempat pemberhentian sejenak yang pernah saya hafal dari Rasulullah shallallahu 'alaihi wasallam, (Abdul A'la) mengatakan dalam hadits tersebut, Sa'id berkata; kami berkata kepada Qatadah; "Di manakah dua tempat pemberhentian sejenak tersebut?" jawabnya; "Apabila telah masuk shalat (setelah takbir -pent) dan ketika selesai dari membaca (surat Al Qur'an)." Setelah itu Qatadah mengatakan; "Ketika selesai membaca; "GHAIRIL MAGHDLUUBI 'ALAIHIM WALADL DLLAALLIN
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Al Mutsanna] telah menceritakan kepada kami [Abdul A'la] telah menceritakan kepada kami [Sa'id] dengan redaksi ini, katanya; dari [Qatadah] dari [Al Hasan] dari [Samurah] dia berkata; "Dua tempat pemberhentian sejenak yang pernah saya hafal dari Rasulullah shallallahu 'alaihi wasallam, (Abdul A'la) mengatakan dalam hadits tersebut, Sa'id berkata; kami berkata kepada Qatadah; "Di manakah dua tempat pemberhentian sejenak tersebut?" jawabnya; "Apabila telah masuk shalat (setelah takbir -pent) dan ketika selesai dari membaca (surat Al Qur'an)." Setelah itu Qatadah mengatakan; "Ketika selesai membaca; "GHAIRIL MAGHDLUUBI 'ALAIHIM WALADL DLLAALLIN
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Имам Абу Дауд сказал): Рассказал нам Ибн аль-Мусанна, (который сказал): Рассказал нам Абдуль-Аля, (который сказал): Рассказал нам этот (хадис) Саид, (который сказал): От Къатады, (передавшего) от аль-Хасана, (передавшего) от Самуры (ибн Джундуб, который) сказал: «Я запомнил от Посланника Аллаха ﷺ два (вида) молчания».(‘Абдуль-А‘ля ас-Самий) сказал в этом хадисе: Са‘ид (ибн Аруба) сказал: Мы спросили у Къатады: «А что это за два (вида) молчания?» Он ответил: «Когда он (молящийся) приступил к молитве, и когда завершает чтение (суры “аль-Фатиха”)». Затем, после этого (Къатада) сказал: «И (молчание) после того, как он сказал: “Не тех, на кого пал гнев, и не заблудших /Гъайриль-магъдуби ‘алейхим ва ла-д-доллийн/”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Semure (r.a.)'den demiştir ki: Nebi (Sallallahu aleyhi ve Sellem)'den iki sekte (sükut) ezberledim. (Ravi Abdul-A'la yahut Îbnu'l-Müsenna) bu hadis hakkında (şöyle) dedi: Biz Katade'ye bu iki sekte nedir, diye sorduk. (O da; "Birinci sekte) namaza girdiği zaman, (ikinci de) kıraati bitirdiği zaman" diye cevap verdi. Biraz sonra da "Ve غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ okuduğunda" dedi. Diğer tahric: Tirmizî, salat; İbn Mace
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سمرہ بن جندب رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم سے دو سکتے یاد رکھے ہیں، سعید کہتے ہیں: ہم نے قتادہ سے پوچھا: یہ دو سکتے کون کون سے ہیں؟ تو انہوں نے کہا: جب آپ صلی اللہ علیہ وسلم نماز میں داخل ہوتے اور جب آپ قرات سے فارغ ہوتے، پھر اس کے بعد انہوں نے یہ بھی کہا: جب آپ صلی اللہ علیہ وسلم «غير المغضوب عليهم ولا الضالين» کہہ لیتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>780</td></tr><tr><td>Arabic No</td><td>780</td></tr><tr><td>Reference</td><td>Book 2 Hadith 390</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 780 |
+| Arabic No | 780 |
+| Reference | Book 2 Hadith 390 |

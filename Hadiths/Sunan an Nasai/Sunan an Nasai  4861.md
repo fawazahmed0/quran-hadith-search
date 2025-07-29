@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏"‏ لَوْ أَنَّ امْرَأً اطَّلَعَ عَلَيْكَ بِغَيْرِ إِذْنٍ فَخَذَفْتَهُ فَفَقَأْتَ عَيْنَهُ مَا كَانَ عَلَيْكَ حَرَجٌ ‏"‏ ‏.‏ وَقَالَ مَرَّةً أُخْرَى ‏"‏ جُنَاحٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 45 Hadith 156</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |
+
 اخبرنا محمد بن منصور، قال حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " لو ان امرا اطلع عليك بغير اذن فخذفته ففقات عينه ما كان عليك حرج " . وقال مرة اخرى " جناح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 45 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন মানসূর (রহঃ) ... আবূ হুরায়রা (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন। তিনি বলেন, যদি কোন ব্যক্তি অনুমতি ব্যতীত তোমার দিকে উঁকি মারে আর তুমি পাথর নিক্ষেপ করে ঐ ব্যক্তির চোখ ফুটা কর, তবে তাতে তোমার কোন পাপ হবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 45 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that the Prophet said:"If a person were to look at you without permission and you were to throw a stone at him and put out his eye, there would be no blame on you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 45 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |
+
+## French
+
+Rapporté par Abou Hourayra : Le Prophète ﷺ a dit : « Si quelqu’un te regarde sans permission et que tu lui jettes une pierre et lui crèves l’œil, tu n’as rien à te reprocher. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Manshur\] telah menceritakan kepada kami \[Sufyan\] dari \[Abu Az Zinad\] dari \[Al A'raj\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Apabila seseorang mengintipmu tanpa izin kemudian engkau melemparnya dan mencungkil matanya maka engkau tidak mendapatkan dosa." Dan pada kali lain beliau mengatakan: "Dosa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Manshur] telah menceritakan kepada kami [Sufyan] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: 'Apabila seseorang mengintipmu tanpa izin kemudian engkau melemparnya dan mencungkil matanya maka engkau tidak mendapatkan dosa." Dan pada kali lain beliau mengatakan: "Dosa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 45 Hadith 156</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 45 Hadith 156</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 45 Hadith 156</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 45 Hadith 156 |

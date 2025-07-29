@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ حُزَابَةَ، حَدَّثَنَا إِسْحَاقُ، - يَعْنِي ابْنَ مَنْصُورٍ - حَدَّثَنَا أَسْبَاطُ الْهَمْدَانِيُّ، عَنِ السُّدِّيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ الإِيمَانُ قَيَّدَ الْفَتْكَ لاَ يَفْتِكُ مُؤْمِنٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
+
 حدثنا محمد بن حزابة، حدثنا اسحاق، - يعني ابن منصور - حدثنا اسباط الهمداني، عن السدي، عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " الايمان قيد الفتك لا يفتك مومن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ঈমানের দাবী হলো, কাউকে ধোঁকা দিয়ে হত্যা না করা। কাজেই কোনো মু‘মিন গুপ্তহত্যা করবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: Faith prevented assassination. A believer should not assassinate
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
+
+## French
+
+Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « La foi empêche l’assassinat. Un croyant ne doit pas assassiner. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Huzabah\], telah menceritakan kepada kami \[Ishaq bin Manshur?\], telah menceritakan kepada kami \[Asbath Al Hamdani\], dari \[As Suddi\] dari \[ayahnya\], dari \[Abu Hurairah\], dari Nabi shallallahu 'alaihi wasallam, beliau berkata; keimanan menghalangi pembunuhan, seorang mukmin tidak boleh membunuh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Huzabah], telah menceritakan kepada kami [Ishaq bin Manshur?], telah menceritakan kepada kami [Asbath Al Hamdani], dari [As Suddi] dari [ayahnya], dari [Abu Hurairah], dari Nabi shallallahu 'alaihi wasallam, beliau berkata; keimanan menghalangi pembunuhan, seorang mukmin tidak boleh membunuh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre'den demiştir ki: Nebi (S.A.V.) şöyle buyurmuştur: "İman ihaneti bağlamıştır. Mü'min, ihanet etmez.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ایمان نے کسی کو دھوکہ سے قتل کرنے کو روک دیا، کوئی مومن دھوکہ سے قتل نہیں کرتا ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2769</td></tr><tr><td>Arabic No</td><td>2769</td></tr><tr><td>Reference</td><td>Book 15 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2769 |
+| Arabic No | 2769 |
+| Reference | Book 15 Hadith 293 |

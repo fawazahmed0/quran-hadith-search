@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ عُبَيْدَ اللَّهِ، يُحَدِّثُ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ يُعْرَضُ عَلَى أَحَدِكُمْ إِذَا مَاتَ مَقْعَدُهُ مِنَ الْغَدَاةِ وَالْعَشِيِّ فَإِنْ كَانَ مِنْ أَهْلِ النَّارِ فَمِنْ أَهْلِ النَّارِ قِيلَ هَذَا مَقْعَدُكَ حَتَّى يَبْعَثَكَ اللَّهُ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>2071</td></tr><tr><td>Reference</td><td>Book 21 Hadith 254</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا المعتمر، قال سمعت عبيد الله، يحدث عن نافع، عن ابن عمر، عن رسول الله صلى الله عليه وسلم قال " يعرض على احدكم اذا مات مقعده من الغداة والعشي فان كان من اهل النار فمن اهل النار قيل هذا مقعدك حتى يبعثك الله عز وجل يوم القيامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>2071</td></tr><tr><td>Reference</td><td>Book 21 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইসহাক ইবনু ইবরাহীম (রহঃ) ... ইবনু উমর (রাঃ) সুত্রে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেন, তোমাদের কেউ যখন মৃত্যুবরণ করে তখন সকাল সন্ধা তাকে তার স্থান দেখানো হয়। যদি সে জান্নাতী হয় তবে তাকে জান্নাতীদের স্থান এবং যদি সে জাহান্নামী হয় তবে তাকে জাহান্নামীদের স্থান দেখিয়ে বলা হয় যে, এটাই তোমার স্থান। কিয়ামতের দিন আল্লাহ তা’আলা তাকে উঠানো পর্যন্ত (তাকে এরূপ দেখানো হবে)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>2071</td></tr><tr><td>Reference</td><td>Book 21 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Umar that the Messenger of Allah said:"When one of you dies, he is shown his place morning and evening. If he is one of the people of hell it is said: 'This is your place, until Allah, the Mighty and Sublime, raises you up on the Day of Resurrection
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>2071</td></tr><tr><td>Reference</td><td>Book 21 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Messager d’Allah a dit : "Quand l’un d’entre vous meurt, on lui montre sa place matin et soir. S’il fait partie des gens de l’Enfer, on lui dit : 'Voici ta place, jusqu’à ce qu’Allah, le Puissant et Majestueux, te ressuscite le Jour de la Résurrection
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] dia berkata; telah memberitakan kepada kami \[Al Mu'tamir\] dia berkata; Aku mendengar \['Ubaidullah\] menceritakan dari \[Nafi'\] dari \[Ibnu 'Umar\] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Salah seorang kalian jika meninggal dunia akan diperlihatkan tempat tinggalnya di waktu pagi dan sore. Jika ia termasuk penghuni neraka, maka ia menjadi penghuni neraka." Dikatakan, "Inilah tempat tinggalmu hingga Allah Azza wa Jalla membangkitkanmu pada hari kiamat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; telah memberitakan kepada kami [Al Mu'tamir] dia berkata; Aku mendengar ['Ubaidullah] menceritakan dari [Nafi'] dari [Ibnu 'Umar] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Salah seorang kalian jika meninggal dunia akan diperlihatkan tempat tinggalnya di waktu pagi dan sore. Jika ia termasuk penghuni neraka, maka ia menjadi penghuni neraka." Dikatakan, "Inilah tempat tinggalmu hingga Allah Azza wa Jalla membangkitkanmu pada hari kiamat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>2071</td></tr><tr><td>Reference</td><td>Book 21 Hadith 254</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>2071</td></tr><tr><td>Reference</td><td>Book 21 Hadith 254</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب تم میں سے کوئی مرتا ہے تو اس پر صبح و شام اس کا ٹھکانا پیش کیا جاتا ہے، چنانچہ اگر وہ جہنمی ہے تو جہنمیوں ( کے ٹھکانوں ) میں سے ( پیش کیا جائے گا ) ، اور کہا جاتا ہے: یہ ہے تمہارا ٹھکانا یہاں تک کہ اللہ تعالیٰ تمہیں قیامت کے روز اٹھائے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2071</td></tr><tr><td>Arabic No</td><td>2071</td></tr><tr><td>Reference</td><td>Book 21 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2071 |
+| Arabic No | 2071 |
+| Reference | Book 21 Hadith 254 |

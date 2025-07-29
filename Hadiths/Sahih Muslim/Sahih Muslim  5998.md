@@ -18,78 +18,72 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আসিম ইবনু নাযর তামীমী ও হুরায়ম ইবনু আবদুল আ'লা (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে রিওয়ায়াত করেন যে, তিনি বলেছেনঃ আমার হাওযের দু' পাশের ব্যবধান এতটুকু যতটুকু মাদীনাহ ও সান'আর মাঝে। (ইসলামিক ফাউন্ডেশন ৫৭৯৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Âsim b. Nadr Et-Teymî ile Hüreym b. Abdü-A'Ia rivayet ettiler. .Lâfız Âsim'ındır. (Dedilerki): Bize Mu'temir rivayet etti. (Dediki): Ben babamdan dinledim. (Dediki): Bize Katâde Enes b. Mâlik'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti: «Havzımın iki tarafının arası San'a ile Medine arası gibidir.» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5998</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5998 |
+| Reference | Book 0 Hadith 0 |

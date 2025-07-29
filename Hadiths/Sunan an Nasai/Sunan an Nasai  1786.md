@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ أَبِي بُكَيْرٍ، قَالَ حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ فَذَكَرَ نَحْوَهُ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ أَبُو جَعْفَرٍ الرَّازِيُّ لَيْسَ بِالْقَوِيِّ فِي الْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 20 Hadith 189</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |
+
 اخبرنا احمد بن نصر، قال حدثنا يحيى بن ابي بكير، قال حدثنا ابو جعفر الرازي، عن محمد بن المنكدر، عن سعيد بن جبير، عن عايشة، ان رسول الله صلى الله عليه وسلم قال فذكر نحوه . قال ابو عبد الرحمن ابو جعفر الرازي ليس بالقوي في الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 20 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমাদ ইবনু নাসর (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তারপর রাবী পূর্বের হাদীসের ন্যায় উল্লেখ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 20 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Sa'eed bin Jubair, from Aishah, that:The Messenger of Allah (ﷺ) said: and he mentioned something similar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 20 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |
+
+## French
+
+Rapporté par Sa‘id bin Jubair, d’Aïcha : Le Messager d’Allah (ﷺ) a dit quelque chose de similaire
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 20 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 20 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: پھر انہوں نے اسی طرح کی حدیث ذکر کی۔ ابوعبدالرحمٰن ( نسائی ) کہتے ہیں: ابو جعفر رازی حدیث میں قوی نہیں ہیں، ( اسی لیے سند میں سے ایک راوی اسود کو ساقط کر دیا ہے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1786</td></tr><tr><td>Arabic No</td><td>1786</td></tr><tr><td>Reference</td><td>Book 20 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1786 |
+| Arabic No | 1786 |
+| Reference | Book 20 Hadith 189 |

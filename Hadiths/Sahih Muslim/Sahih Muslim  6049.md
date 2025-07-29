@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو كُرَيْبٍ، وَابْنُ، نُمَيْرٍ جَمِيعًا عَنْ عَبْدِ اللَّهِ بْنِ نُمَيْرٍ، عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ إِلَى قَوْلِهِ أَيْسَرَهُمَا ‏.‏ وَلَمْ يَذْكُرَا مَا بَعْدَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابو كريب، وابن، نمير جميعا عن عبد الله بن نمير، عن هشام، بهذا الاسناد الى قوله ايسرهما . ولم يذكرا ما بعده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ কুরায়ব ও ইবনু নুমায়র (রহঃ) ..... হিশাম (রাযিঃ) এর সানাদে উপরোক্ত সূত্রে বর্ণিত দু’টোর মাঝে সহজটি পর্যন্ত উল্লেখ করেন এবং তিনি পরবর্তী অংশ উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৫৮৪১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Hisham through another chain of transmitters but with a slight variation of wording
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## French
 
+Rapporté par Aïcha رضي الله عنها : Ce hadith a été rapporté par Hicham à travers une autre chaîne de transmetteurs, avec une légère différence dans les mots
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-78) Bize bu hadîsi Ebû Kureyb ile İbni Numeyr de hep birden Abdullah b. Numeyr'den, o da Hişâm'dan naklen bu isnadla «en kolayını» sözüne kadar rivayet ettiler. Ondan sonrasını anmadılar. İzah 2328 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو کریب اور ابن نمیر دونوں نے عبداللہ بن نمیر سے ، انھوں نے ہشام سے اسی سند کے ساتھ ان کے قول " دونوں میں سے زیادہ آسان " تک روایت کی اور ان دونوں ( ابو کریب اور ابن نمیر ) نے اس کے بعد والا حصہ بیان نہیں کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6049</td></tr><tr><td>Arabic No</td><td>2327.05</td></tr><tr><td>Reference</td><td>Book 43 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6049 |
+| Arabic No | 2327.05 |
+| Reference | Book 43 Hadith 107 |

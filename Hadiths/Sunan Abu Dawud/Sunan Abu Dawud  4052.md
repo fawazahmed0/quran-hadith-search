@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، حَدَّثَنَا ابْنُ شِهَابٍ الزُّهْرِيُّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، - رضى الله عنها - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى فِي خَمِيصَةٍ لَهَا أَعْلاَمٌ فَنَظَرَ إِلَى أَعْلاَمِهَا فَلَمَّا سَلَّمَ قَالَ ‏ "‏ اذْهَبُوا بِخَمِيصَتِي هَذِهِ إِلَى أَبِي جَهْمٍ فَإِنَّهَا أَلْهَتْنِي آنِفًا فِي صَلاَتِي وَأْتُونِي بِأَنْبِجَانِيَّتِهِ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ أَبُو جَهْمِ بْنُ حُذَيْفَةَ مِنْ بَنِي عَدِيِّ بْنِ كَعْبِ بْنِ غَانِمٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
+
 حدثنا موسى بن اسماعيل، حدثنا ابراهيم بن سعد، حدثنا ابن شهاب الزهري، عن عروة بن الزبير، عن عايشة، - رضى الله عنها - ان رسول الله صلى الله عليه وسلم صلى في خميصة لها اعلام فنظر الى اعلامها فلما سلم قال " اذهبوا بخميصتي هذه الى ابي جهم فانها الهتني انفا في صلاتي واتوني بانبجانيته " . قال ابو داود ابو جهم بن حذيفة من بني عدي بن كعب بن غانم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কারুকার্য খচিত একটি চাদর পরে সালাত আদায় করলেন, (সালাতের অবস্থায়) এর কারুকার্যের দিকে তাঁর দৃষ্টি চলে যায়। ফলে সালাম ফিরানোর পর তিনি বললেনঃ এ চাঁদরটি নিয়ে আবূ জাহমের (উপহারদাতার) নিকট যাও, এর কারুকার্য আমার সালাতে বিঘ্ন সৃষ্টি করেছে এবং তার সাদা চাদর নিয়ে এসো।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কারুকার্য খচিত একটি চাদর পরে সালাত আদায় করলেন, (সালাতের অবস্থায়) এর কারুকার্যের দিকে তাঁর দৃষ্টি চলে যায়। ফলে সালাম ফিরানোর পর তিনি বললেনঃ এ চাঁদরটি নিয়ে আবূ জাহমের (উপহারদাতার) নিকট যাও, এর কারুকার্য আমার সালাতে বিঘ্ন সৃষ্টি করেছে এবং তার সাদা চাদর নিয়ে এসো।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) once prayed wearing a garment having marks. He looked at its marks. When he saluted, he said: Take this garment of mine to AbuJahm, for it turned my attention just now in my prayer, and bring a simple garment without marks. Abu Dawud said: The name of Abu Jahm b. Hudhaifah from Banu 'Adi b. Ka'b b. Ghanam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
+
+## French
+
+Rapporté par Aisha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ a prié une fois en portant un vêtement avec des motifs. Il a regardé ces motifs. Quand il a terminé la prière, il a dit : « Emmenez ce vêtement à Abu Jahm, car il a détourné mon attention pendant la prière, et apportez-moi un vêtement simple, sans motifs. » Abu Dawud a précisé : Le nom complet d’Abu Jahm est Abu Jahm ibn Hudhaifah de Banu ‘Adi ibn Ka’b ibn Ghanam
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] berkata, telah menceritakan kepada kami \[Ibrahim bin Sa'd\] berkata, telah menceritakan kepada kami \[Ibnu Syihab Az Zuhri\] dari \[Urwah bin Az Zubair\] dari \['Aisyah radliallahu 'anha\] bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat menggunakan kain yang ada gambarnya. Beliau lalu melihat gambar pada kainnya, selesai salam beliau bersabda: "Bawalah kainku ini kepada Abu Jahm, sesungguhnya ia telah mengganggu shalatku, lalu bawalah kepadaku kainnya yang tidak bergambar." Abu Dawud berkata, "Abu Jahm bin Khudzaifah berasal dari bani Adi bin Ka'b bin Ghanim." Dan telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] dalam hadis-hadis lain, (mereka katakan), telah menceritakan kepada kami \[Sufyan\] dari \[Azzuhri\] dari \['Urwah\] dari \[Aisyah\] dengan redaksi semisal namun hadis pertama lebih komplit
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] berkata, telah menceritakan kepada kami [Ibnu Syihab Az Zuhri] dari [Urwah bin Az Zubair] dari ['Aisyah radliallahu 'anha] bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat menggunakan kain yang ada gambarnya. Beliau lalu melihat gambar pada kainnya, selesai salam beliau bersabda: "Bawalah kainku ini kepada Abu Jahm, sesungguhnya ia telah mengganggu shalatku, lalu bawalah kepadaku kainnya yang tidak bergambar." Abu Dawud berkata, "Abu Jahm bin Khudzaifah berasal dari bani Adi bin Ka'b bin Ghanim." Dan telah menceritakan kepada kami [Utsman bin Abu Syaibah] dalam hadis-hadis lain, (mereka katakan), telah menceritakan kepada kami [Sufyan] dari [Azzuhri] dari ['Urwah] dari [Aisyah] dengan redaksi semisal namun hadis pertama lebih komplit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Аиши, да будет доволен ею Аллах, что однажды Посланник Аллаха ﷺ совершал молитву в одежде (хамиса), на которой были полосы, и посмотрел на эти полосы. Потом он сказал: «Отнесите эту мою хамису Абу Джахму, потому что она отвлекла меня сейчас в молитве, и принесите мне его одежду анбиджанию». Абу Дауд сказал: «Абу Джахм ибн Хузайфа из бану ‘ади ибн Ка‘б ибн Ганим»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aışe (ranha) dan rivayet edildiğine göre; Resûlullah (s.a.v) (bir gün) üstünde damgalar bulunan bir hamîsa üzerinde namaz kılmış, (namaz esnasında onun) damgalarına gözü ilişmiş, (Namazı bitirip de) selam verince; "Benim şu hamîsamı Ebû Cehm'e (geri) götürünüz. Çünkü demin beni o (az kalsın) namazdaki huzurdan alıkoy(uyor)du. Bana (Ebu Cehm'in) elbisesini getiriniz" buyurmuş. Ebû Dâvûd dedi ki: Ebû Cehm b. Huzeyfe, Adiyy b. Ka'b oğullarındarıdır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک دھاری دار چادر میں نماز پڑھی تو آپ کی نظر اس کی دھاریوں پر پڑی جب آپ صلی اللہ علیہ وسلم نے سلام پھیرا تو فرمایا: میری یہ چادر ابوجہم کو لے جا کر دے آؤ کیونکہ اس نے ابھی مجھے نماز سے غافل کر دیا ( یعنی میرا خیال اس کے بیل بوٹوں میں بٹ گیا ) اور اس کی جگہ مجھے ایک سادہ چادر لا کر دو ۔ ابوداؤد کہتے ہیں: ابوجہم بن حذیفہ بنو عدی بن کعب بن غانم میں سے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5817) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4052</td></tr><tr><td>Arabic No</td><td>4052</td></tr><tr><td>Reference</td><td>Book 34 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5817) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4052 |
+| Arabic No | 4052 |
+| Reference | Book 34 Hadith 33 |

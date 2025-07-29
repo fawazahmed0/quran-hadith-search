@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ فُضَيْلِ بْنِ غَزْوَانَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ أَيُّمَا رَجُلٍ مُسْلِمٍ أَكْفَرَ رَجُلاً مُسْلِمًا فَإِنْ كَانَ كَافِرًا وَإِلاَّ كَانَ هُوَ الْكَافِرَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا جرير، عن فضيل بن غزوان، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم " ايما رجل مسلم اكفر رجلا مسلما فان كان كافرا والا كان هو الكافر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে মুসলিম ব্যক্তি অন্য মুসলিমকে কাফির বলে, সে যদি কাফির না হয় তাহলে সে-ই কাফির।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে মুসলিম ব্যক্তি অন্য মুসলিমকে কাফির বলে, সে যদি কাফির না হয় তাহলে সে-ই কাফির।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar reported the Messenger of Allah (May peace be upon him) as saying :If any believing man calls another believing man an unbeliever, if he is actually an infidel, it is all right ; if not, he will become an infidel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
+
+## French
+
+Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si un croyant traite un autre croyant de mécréant, si l’autre l’est vraiment, alors c’est correct ; sinon, c’est celui qui a dit cela qui devient mécréant. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Если один мусульманин назвал другого неверующим, то либо тот человек действительно неверующий, либо он сам неверующий»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.)'den (rivayet edildiğine göre) Rasülullah (s.a.v.) şöyle buyurmuştur: "Bir müslüman diğer bir müslüman'ın kâfir olduğunu söylerse (bakılır); eğer (kafir dediği kimse gerçekten) kâfirse (bu sözün vebalinden kurtulur. Fakat kâfir) değilse kendisi kâfir olmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو مسلمان کسی مسلمان کو کافر قرار دے تو اگر وہ کافر ہے ( تو کوئی بات نہیں ) ورنہ وہ ( قائل ) خود کافر ہو جائے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4687</td></tr><tr><td>Arabic No</td><td>4687</td></tr><tr><td>Reference</td><td>Book 42 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4687 |
+| Arabic No | 4687 |
+| Reference | Book 42 Hadith 92 |

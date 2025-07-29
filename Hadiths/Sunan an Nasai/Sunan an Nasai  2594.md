@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ أَنْبَأَنَا يَحْيَى بْنُ آدَمَ، عَنْ سُفْيَانَ بْنِ عُيَيْنَةَ، عَنْ دَاوُدَ بْنِ شَابُورَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ سَأَلَ وَلَهُ أَرْبَعُونَ دِرْهَمًا فَهُوَ الْمُلْحِفُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 23 Hadith 160</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |
+
 اخبرنا احمد بن سليمان، قال انبانا يحيى بن ادم، عن سفيان بن عيينة، عن داود بن شابور، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم " من سال وله اربعون درهما فهو الملحف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 23 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমদ ইবন সুলায়মান (রহঃ) ... আমর ইবন শুআয়ব (রহঃ)-তার পিতার মাধ্যমে তার দাদা থেকে বর্ণনা করেন। তিনি বলেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি সাহায্য চায় অথচ তার চল্লিশটি দিরহাম রয়েছে সেই পীড়াপীড়িকারী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 23 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said:"The Messenger of Allah said: 'Whoever asks when he has forty Dirhams I being too demanding when asking
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 23 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |
+
+## French
+
+Rapporté par 'Amr bin Shu'aib, d’après son père, d’après son grand-père : Le Messager d’Allah a dit : “Celui qui demande alors qu’il a quarante dirhams est trop exigeant en demandant.”
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin Sulaiman\], ia berkata; Telah memberitahukan kepada kami \[Yahya bin Adam\] dari \[Sufyan bin 'Uyainah\] dari \[Daud bin Syabur\] dari \['Amr bin bin Syu'aib\] dari \[ayahnya\] dari \[kakekknya\] ia berkata Rasulullah shallallahu 'alaihi wasallam bersabda: " Barangsiapa siapa meminta sesuatu kepada orang lain padahal ia memiliki empat puluh dirham, berarti ia orang yang meminta dengan paksaan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin Sulaiman], ia berkata; Telah memberitahukan kepada kami [Yahya bin Adam] dari [Sufyan bin 'Uyainah] dari [Daud bin Syabur] dari ['Amr bin bin Syu'aib] dari [ayahnya] dari [kakekknya] ia berkata Rasulullah shallallahu 'alaihi wasallam bersabda: " Barangsiapa siapa meminta sesuatu kepada orang lain padahal ia memiliki empat puluh dirham, berarti ia orang yang meminta dengan paksaan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 23 Hadith 160</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 23 Hadith 160</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو بن العاص رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس کے پاس چالیس درہم ہوں اور وہ مانگے تو وہ «ملحف» ( چمٹ کر مانگنے والا ) ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2594</td></tr><tr><td>Arabic No</td><td>2594</td></tr><tr><td>Reference</td><td>Book 23 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2594 |
+| Arabic No | 2594 |
+| Reference | Book 23 Hadith 160 |

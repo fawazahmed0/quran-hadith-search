@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا عَقِيلُ بْنُ مَعْقِلٍ، قَالَ سَمِعْتُ وَهْبَ بْنَ مُنَبِّهٍ، يُحَدِّثُ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ النُّشْرَةِ فَقَالَ ‏ "‏ هُوَ مِنْ عَمَلِ الشَّيْطَانِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
+
 حدثنا احمد بن حنبل، حدثنا عبد الرزاق، حدثنا عقيل بن معقل، قال سمعت وهب بن منبه، يحدث عن جابر بن عبد الله، قال سيل رسول الله صلى الله عليه وسلم عن النشرة فقال " هو من عمل الشيطان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
 
 ## Bengali
 
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে নুশরাহ সম্বন্ধে প্রশ্ন করা হলে তিনি বলেনঃ এগুলো শয়তানের কার্যকলাপ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে নুশরাহ সম্বন্ধে প্রশ্ন করা হলে তিনি বলেনঃ এগুলো শয়তানের কার্যকলাপ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) was asked about a charm for one who is possessed (nashrah). He replied: It pertains to the work of the devil
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah رضي الله عنه : On interrogea le Messager d’Allah ﷺ au sujet d’un charme pour celui qui est possédé (nashrah). Il répondit : « Cela fait partie des œuvres du diable. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Abdurrazzaq\] telah menceritakan kepada kami \['Aqil bin Ma'qil\] ia berkata; aku pernah mendengar \[Wahb bin Munabbih\] menceritakan dari \[Jabir bin Abdullah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya mengenai nusyrah (jampi), kemudian beliau menjawab: "Itu adalah perbuatan setan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazzaq] telah menceritakan kepada kami ['Aqil bin Ma'qil] ia berkata; aku pernah mendengar [Wahb bin Munabbih] menceritakan dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah ditanya mengenai nusyrah (jampi), kemudian beliau menjawab: "Itu adalah perbuatan setan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланника Аллаха ﷺ спросили о нушре и он сказал: «Это из деяний шайтана»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir b. Abdullah'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.)'e nuşre (denilen tedavi usulü) sorulmuş da: "O şeytan işidir" cevabını vermiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سے «نشرہ» ۱؎ کے متعلق پوچھا گیا تو آپ نے فرمایا: یہ شیطانی کام ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3868</td></tr><tr><td>Arabic No</td><td>3868</td></tr><tr><td>Reference</td><td>Book 29 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3868 |
+| Arabic No | 3868 |
+| Reference | Book 29 Hadith 14 |

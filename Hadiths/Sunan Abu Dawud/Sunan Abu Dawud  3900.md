@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَهْطًا، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم انْطَلَقُوا فِي سَفْرَةٍ سَافَرُوهَا فَنَزَلُوا بِحَىٍّ مِنْ أَحْيَاءِ الْعَرَبِ فَقَالَ بَعْضُهُمْ إِنَّ سَيِّدَنَا لُدِغَ فَهَلْ عِنْدَ أَحَدٍ مِنْكُمْ شَىْءٌ يَنْفَعُ صَاحِبَنَا فَقَالَ رَجُلٌ مِنَ الْقَوْمِ نَعَمْ وَاللَّهِ إِنِّي لأَرْقِي وَلَكِنِ اسْتَضَفْنَاكُمْ فَأَبَيْتُمْ أَنْ تُضَيِّفُونَا مَا أَنَا بِرَاقٍ حَتَّى تَجْعَلُوا لِي جُعْلاً ‏.‏ فَجَعَلُوا لَهُ قَطِيعًا مِنَ الشَّاءِ فَأَتَاهُ فَقَرَأَ عَلَيْهِ أُمَّ الْكِتَابِ وَيَتْفُلُ حَتَّى بَرَأَ كَأَنَّمَا أُنْشِطَ مِنْ عِقَالٍ ‏.‏ قَالَ فَأَوْفَاهُمْ جُعْلَهُمُ الَّذِي صَالَحُوهُمْ عَلَيْهِ فَقَالُوا اقْتَسِمُوا ‏.‏ فَقَالَ الَّذِي رَقَى لاَ تَفْعَلُوا حَتَّى نَأْتِيَ رَسُولَ اللَّهِ صلى الله عليه وسلم فَنَسْتَأْمِرَهُ ‏.‏ فَغَدَوْا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرُوا لَهُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مِنْ أَيْنَ عَلِمْتُمْ أَنَّهَا رُقْيَةٌ أَحْسَنْتُمُ اقْتَسِمُوا وَاضْرِبُوا لِي مَعَكُمْ بِسَهْمٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
+
 حدثنا مسدد، حدثنا ابو عوانة، عن ابي بشر، عن ابي المتوكل، عن ابي سعيد الخدري، ان رهطا، من اصحاب النبي صلى الله عليه وسلم انطلقوا في سفرة سافروها فنزلوا بحى من احياء العرب فقال بعضهم ان سيدنا لدغ فهل عند احد منكم شىء ينفع صاحبنا فقال رجل من القوم نعم والله اني لارقي ولكن استضفناكم فابيتم ان تضيفونا ما انا براق حتى تجعلوا لي جعلا . فجعلوا له قطيعا من الشاء فاتاه فقرا عليه ام الكتاب ويتفل حتى برا كانما انشط من عقال . قال فاوفاهم جعلهم الذي صالحوهم عليه فقالوا اقتسموا . فقال الذي رقى لا تفعلوا حتى ناتي رسول الله صلى الله عليه وسلم فنستامره . فغدوا على رسول الله صلى الله عليه وسلم فذكروا له فقال رسول الله صلى الله عليه وسلم " من اين علمتم انها رقية احسنتم اقتسموا واضربوا لي معكم بسهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর একদল সাহাবী একটি স্থানের দিকে সফরে বের হলেন। পথে আরব বেদুঈনের একজন জনপদে তারা যাত্রা বিরতি করলে তাদের কেউ এসে বললো, আমাদের নেতাকে বিষাক্ত প্রাণী দংশন করেছে। তোমাদের কারো এমন কিছু জানা আছে কি যাতে তার উপকার হয়? সফরকারী দলের একজন বললেন, হ্যাঁ, আল্লাহর কসম! নিশ্চয়ই আমি ঝাড়ফুঁক করি। কিন্তু আমরা তোমাদের নিকট আতিথেয়তা চেয়েছিলাম, তোমরা তা অস্বীকার করেছো। কাজেই তোমরা আমার জন্য বিনিময় নির্ধারণ না করলে আমি ঝাড়ফুঁক করবো না। সুতরাং তারা এক পাল বকরী দেয়ার চুক্তি করলো। তিনি রোগীর নিকট এসে সূরা ফাতিহা পাঠ করে থুথু ছিটিয়ে দিলেন। সে সুস্থ হয়ে উঠলো, মনে হলো যেন সে বন্দী শিকল থেকে মুক্তি পেয়েছে। বর্ণনাকারী বলেন, অতঃপর তারা চুক্তি মোতাবেক সব বিনিময় প্রদান করলো। দলের কয়েকজন বললো, এগুলো বণ্টন করে দাও। কিন্তু ঝাড়ফুঁককারী বললো, না, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গিয়ে এ ব্যাপারে তাঁর পরামর্শ না নেয়া পর্যন্ত এরূপ করবো না। অতঃপর তারা সকলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে তাঁকে ঘটনাটি জানালো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এ সূরা দ্বারা যে ঝাড়ফুঁক করা যায় তা তোমরা কিভাবে জানলে? তোমরা ভালই করেছো। এগুলো বণ্টন করে নাও এবং তোমাদের সঙ্গে আমাকেও একটি অংশ দিও।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর একদল সাহাবী একটি স্থানের দিকে সফরে বের হলেন। পথে আরব বেদুঈনের একজন জনপদে তারা যাত্রা বিরতি করলে তাদের কেউ এসে বললো, আমাদের নেতাকে বিষাক্ত প্রাণী দংশন করেছে। তোমাদের কারো এমন কিছু জানা আছে কি যাতে তার উপকার হয়? সফরকারী দলের একজন বললেন, হ্যাঁ, আল্লাহর কসম! নিশ্চয়ই আমি ঝাড়ফুঁক করি। কিন্তু আমরা তোমাদের নিকট আতিথেয়তা চেয়েছিলাম, তোমরা তা অস্বীকার করেছো। কাজেই তোমরা আমার জন্য বিনিময় নির্ধারণ না করলে আমি ঝাড়ফুঁক করবো না। সুতরাং তারা এক পাল বকরী দেয়ার চুক্তি করলো। তিনি রোগীর নিকট এসে সূরা ফাতিহা পাঠ করে থুথু ছিটিয়ে দিলেন। সে সুস্থ হয়ে উঠলো, মনে হলো যেন সে বন্দী শিকল থেকে মুক্তি পেয়েছে। বর্ণনাকারী বলেন, অতঃপর তারা চুক্তি মোতাবেক সব বিনিময় প্রদান করলো। দলের কয়েকজন বললো, এগুলো বণ্টন করে দাও। কিন্তু ঝাড়ফুঁককারী বললো, না, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গিয়ে এ ব্যাপারে তাঁর পরামর্শ না নেয়া পর্যন্ত এরূপ করবো না। অতঃপর তারা সকলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে তাঁকে ঘটনাটি জানালো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এ সূরা দ্বারা যে ঝাড়ফুঁক করা যায় তা তোমরা কিভাবে জানলে? তোমরা ভালই করেছো। এগুলো বণ্টন করে নাও এবং তোমাদের সঙ্গে আমাকেও একটি অংশ দিও।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Sa’d al-KHudri said :Some of the Companions of the Prophet (ﷺ) went on a journey. They alighted with a certain clan of the Arabs. Someone of them said : Our chief has been stung by a scorpion or bitten by a snake. Has any of you something which gives relief to our chief? A man of the people said : Yes, I swear by Allah. I shall apply charm ; but we asked you for hospitality and you denied it to us. I shall not apply charm until you give me some payment. So they promised to give some sheep to him. He came to him and recited Surat al-Fatihah over him and spat till he was cured, and ha seemed as if he were set free from a bond. So they gave him the payment that was agreed between them. They said : Apportion them. The man who applied charm said : Do not do it until we approach the Apostle of allah (ﷺ) said: From where did you learn that it was a charm ? you have done right. Apportion them, and give me a share along with you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
+
+## French
+
+Rapporté par Abu Sa’d al-Khudri رضي الله عنه : Des Compagnons du Prophète ﷺ sont partis en voyage. Ils se sont arrêtés chez une tribu arabe. Quelqu’un a dit : « Notre chef a été piqué par un scorpion ou mordu par un serpent. L’un de vous a-t-il quelque chose pour le soulager ? » Un homme du groupe a dit : « Oui, par Allah, je vais faire une incantation ; mais nous vous avons demandé l’hospitalité et vous nous l’avez refusée. Je ne ferai rien tant que vous ne me donnerez pas une récompense. » Ils lui ont promis des moutons. Il est venu, a récité la sourate al-Fatiha sur le malade et a soufflé jusqu’à ce qu’il soit guéri, comme s’il était libéré de ses liens. Ils lui ont donné la récompense convenue. Ils ont dit : « Partage-les. » Celui qui avait fait l’incantation a dit : « Ne le faites pas avant que nous consultions l’Envoyé d’Allah ﷺ. » Le Prophète ﷺ a dit : « D’où as-tu appris que c’était une incantation ? Tu as bien fait. Partagez-les, et donnez-m’en une part avec vous. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Abu 'Awanah\] dari \[Abu Bisyr\] dari \[Abu Al Mutawakkil\] dari \[Abu Sa'id Al Khudri\] bahwa beberapa sahabat Nabi shallallahu 'alaihi wasallam pergi dalam suatu perjalanan yang mereka lakukan. Kemudian mereka singgah di sebuah kampung Arab, sebagian penduduk kampung tersebut lalu berkata, "Sesungguhnya pemimpin kami tersengat, apakah salah seorang di antara kalian memiliki sesuatu yang bermanfaat bagi sahabat kami tersebut?" Kemudian salah seorang dari para sahabat tersebut menjawab, "Ya. Demi Allah, sesungguhnya aku akan menjampi, akan tetapi kami telah meminta kalian agar menjamu kami namun kalian menolak untuk menjadikan kami sebagai tamu. Aku tidak akan menjampi hingga kalian memberikan hadiah kepadaku." Penduduk kampung tersebut kemudian memberikan hadiah sekumpulan kambing kepadanya, lalu sahabat tersebut datang kepada orang yang tersengat dan membacakan Surat Al Fatihah kepadanya, lalu meniupkan hingga orang tersebut sembuh seolah-olah telah terbebas dari ikatan." Abu Sa'id Al Khudri berkata, "Kemudian mereka memenuhi janjinya untuk memberikan hadiah kepada para sahabat sebagaimana yang mereka janjikan. Kemudian para sahabat berkata, "Bagilah kambing-kambing tersebut!" Lalu sahabat yang telah membacakan jampi mengatakan, "Kalian jangan melakukannya hingga kita datang kepada Rasulullah shallallahu 'alaihi wasallam dan minta pertimbangannya." Lalu mereka pergi menemui Rasulullah shallallahu 'alaihi wasallam dan menyebutkan hal tersebut kepada beliau. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Dari mana kalian mengetahui bahwa Al Fatihah adalah jampi? Kalian telah berbuat baik, bagilah dan berilah aku bagian bersama kalian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] dari [Abu Al Mutawakkil] dari [Abu Sa'id Al Khudri] bahwa beberapa sahabat Nabi shallallahu 'alaihi wasallam pergi dalam suatu perjalanan yang mereka lakukan. Kemudian mereka singgah di sebuah kampung Arab, sebagian penduduk kampung tersebut lalu berkata, "Sesungguhnya pemimpin kami tersengat, apakah salah seorang di antara kalian memiliki sesuatu yang bermanfaat bagi sahabat kami tersebut?" Kemudian salah seorang dari para sahabat tersebut menjawab, "Ya. Demi Allah, sesungguhnya aku akan menjampi, akan tetapi kami telah meminta kalian agar menjamu kami namun kalian menolak untuk menjadikan kami sebagai tamu. Aku tidak akan menjampi hingga kalian memberikan hadiah kepadaku." Penduduk kampung tersebut kemudian memberikan hadiah sekumpulan kambing kepadanya, lalu sahabat tersebut datang kepada orang yang tersengat dan membacakan Surat Al Fatihah kepadanya, lalu meniupkan hingga orang tersebut sembuh seolah-olah telah terbebas dari ikatan." Abu Sa'id Al Khudri berkata, "Kemudian mereka memenuhi janjinya untuk memberikan hadiah kepada para sahabat sebagaimana yang mereka janjikan. Kemudian para sahabat berkata, "Bagilah kambing-kambing tersebut!" Lalu sahabat yang telah membacakan jampi mengatakan, "Kalian jangan melakukannya hingga kita datang kepada Rasulullah shallallahu 'alaihi wasallam dan minta pertimbangannya." Lalu mereka pergi menemui Rasulullah shallallahu 'alaihi wasallam dan menyebutkan hal tersebut kepada beliau. Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Dari mana kalian mengetahui bahwa Al Fatihah adalah jampi? Kalian telah berbuat baik, bagilah dan berilah aku bagian bersama kalian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что однажды группа сподвижников Пророка ﷺ отправилась в путешествие и остановилась в одном из арабских кварталов. (Жители квартала) сказали им: «Наш старейшина ужален. Есть ли у кого-то из вас что-то такое, что может помочь ему?» Один из присутствующих сказал: «Да, клянусь Аллахом, я умею читать рукъю, однако вы отказали нам в гостеприимстве, и я не стану читать заклинание, пока вы не назначите мне вознаграждение». Тогда они назначили ему вознаграждение небольшое стадо овец. Тогда он пришёл к больному и прочитал ему «аль-Фатиху», поплёвывая, и тот исцелился и как будто освободился от оков. Они отдали им обещанное вознаграждение, и (сподвижники) сказали (друг другу): «Разделите их». Однако читавший рукъю сказал: «Ничего не предпринимайте, пока не придём к Посланнику Аллаха ﷺ и не спросим у него». И они пришли к Посланнику Аллаха ﷺ и рассказали ему обо всём. Посланник Аллаха ﷺ спросил: «А как вы узнали, что эта сура является рукъей? Вы хорошо поступили. Выделите же и мне долю с вами!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Saîd e-Hudrî (r.a)'den rivayet olunduğuna göre; Nebi (s.a.v.)'in sahâbîlerinden küçük bir topluluk çıktıkları bir yolculukta arap kabilelerinden birine uğramışlar. (Kabilenin fertlerinden) biri (onlara); Bizim başkanımız (zehirli bir böcek tarafından) sokuldu. Birinizin yanında (bizim bu) arkadaşımıza yarayacak (şifalı) bir şey var mıdır? demiş. Yolculardan bir adam da: Evet (var), vallahi ben (hastaları) okuyarak tedavi ederim. Fakat biz size misafir olmak istediğimiz halde siz bizi misafir etmek istemediniz. (Bu sebeple) siz (yapacağım tedaviye karşılık) bana bir ücret, tayin etmedikçe ben nefes etmem, diye karşılık vermiş. Bunun üzerine (kabile mensupları tutmuşlar) bu adam (ın edeceği nefes) için (ortaya) bir koyun sürüsü koymuşlar. (Tedavi edeceğini söyleyen bu yolcu) hastanın yanına varıp ona Fatiha sûresini okumuş ve üfürmüş. Nihayet adam ipten kurtulmuş gibi olmuş. Bunun üzerine (yukarıda sözü geçen şahıs) kabilenin (vermek için) üzerinde anlaşmış oldukları ücreti yolculara ödemiş. (Ücreti alan) yolcular, (birbirlerine) "Bunu bölüşünüz" demeye başlamışlar. Nefes ederek (hastayı) tedavi eden şahıs, "Rasûlullah (s.a.v.)'e varıp kendisine danışıncaya kadar (bunu) yapmayınız" demiş. Rasûlullah (s.a.v.)'e varıp bunu (kendisine) arzetmişler. Rasülullah (s.a.v.): "Fâtiha'nın tedaviye yaradığını nereden bildin? Aferin size, (haydi bu koyunları) bölüşünüz. Sizinle beraber bana da bir pay ayırınız" buyurmuş. Bu hadis Buhari, icâre, tıb; Müslim, selâm; Ebû Dâvûd, buyu', tıb; Tirmizî, tıb; İbn Mace, ticârât; Ahmed b. Hanbel, III, 3, 10, 44. te de var
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے اصحاب کی ایک جماعت ایک سفر پر نکلی اور وہ عرب کے قبیلوں میں سے ایک قبیلہ میں اتری، ان میں سے بعض نے آ کر کہا: ہمارے سردار کو بچھو یا سانپ نے کاٹ لیا ہے، کیا تمہارے پاس کوئی ایسی چیز ہے جو انہیں فائدہ دے؟ تو ہم میں سے ایک شخص نے کہا: ہاں قسم اللہ کی میں جھاڑ پھونک کرتا ہوں لیکن ہم نے تم سے ضیافت کے لیے کہا تو تم نے ہماری ضیافت سے انکار کیا، اس لیے اب میں اس وقت تک جھاڑ پھونک نہیں کر سکتا جب تک تم مجھے اس کی اجرت نہیں دو گے، تو انہوں نے ان کے لیے بکریوں کا ایک ریوڑ اجرت ٹھہرائی، چنانچہ وہ آئے اور سورۃ فاتحہ پڑھ کر اس پر دم کرنے لگے یہاں تک کہ وہ اچھا ہو گیا گویا وہ رسی سے بندھا ہوا تھا چھوٹ گیا، پھر ان لوگوں نے جو اجرت ٹھہرائی تھی پوری ادا کر دی، لوگوں نے کہا: اسے آپس میں تقسیم کر لو، تو جس نے جھاڑ پھونک کیا تھا وہ بولا: اس وقت تک ایسا نہ کرو جب تک کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس آ کر آپ سے اجازت نہ لے لیں، چنانچہ وہ سب رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور آپ سے ذکر کیا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تمہیں کہاں سے معلوم ہوا کہ یہ منتر ہے؟ تم نے بہت اچھا کیا، تم اسے آپس میں تقسیم کر لو اور اپنے ساتھ میرا بھی ایک حصہ لگانا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2276) Sahih Muslim (2201)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3900</td></tr><tr><td>Arabic No</td><td>3900</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2276) Sahih Muslim (2201) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3900 |
+| Arabic No | 3900 |
+| Reference | Book 29 Hadith 46 |

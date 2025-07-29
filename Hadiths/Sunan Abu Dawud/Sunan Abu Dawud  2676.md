@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الدِّمَشْقِيُّ أَبُو النَّضْرِ، حَدَّثَنَا مُحَمَّدُ بْنُ شُعَيْبٍ، أَخْبَرَنِي أَبُو زُرْعَةَ، يَحْيَى بْنُ أَبِي عَمْرٍو السَّيْبَانِيُّ عَنْ عَمْرِو بْنِ عَبْدِ اللَّهِ، أَنَّهُ حَدَّثَهُ عَنْ وَاثِلَةَ بْنِ الأَسْقَعِ، قَالَ نَادَى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةِ تَبُوكَ فَخَرَجْتُ إِلَى أَهْلِي فَأَقْبَلْتُ وَقَدْ خَرَجَ أَوَّلُ صَحَابَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَطَفِقْتُ فِي الْمَدِينَةِ أُنَادِي أَلاَ مَنْ يَحْمِلُ رَجُلاً لَهُ سَهْمُهُ فَنَادَى شَيْخٌ مِنَ الأَنْصَارِ قَالَ لَنَا سَهْمُهُ عَلَى أَنْ نَحْمِلَهُ عَقَبَةً وَطَعَامُهُ مَعَنَا قُلْتُ نَعَمْ ‏.‏ قَالَ فَسِرْ عَلَى بَرَكَةِ اللَّهِ تَعَالَى ‏.‏ قَالَ فَخَرَجْتُ مَعَ خَيْرِ صَاحِبٍ حَتَّى أَفَاءَ اللَّهُ عَلَيْنَا فَأَصَابَنِي قَلاَئِصُ فَسُقْتُهُنَّ حَتَّى أَتَيْتُهُ فَخَرَجَ فَقَعَدَ عَلَى حَقِيبَةٍ مِنْ حَقَائِبِ إِبِلِهِ ثُمَّ قَالَ سُقْهُنَّ مُدْبِرَاتٍ ‏.‏ ثُمَّ قَالَ سُقْهُنَّ مُقْبِلاَتٍ ‏.‏ فَقَالَ مَا أَرَى قَلاَئِصَكَ إِلاَّ كِرَامًا - قَالَ - إِنَّمَا هِيَ غَنِيمَتُكَ الَّتِي شَرَطْتُ لَكَ ‏.‏ قَالَ خُذْ قَلاَئِصَكَ يَا ابْنَ أَخِي فَغَيْرَ سَهْمِكَ أَرَدْنَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
+
 حدثنا اسحاق بن ابراهيم الدمشقي ابو النضر، حدثنا محمد بن شعيب، اخبرني ابو زرعة، يحيى بن ابي عمرو السيباني عن عمرو بن عبد الله، انه حدثه عن واثلة بن الاسقع، قال نادى رسول الله صلى الله عليه وسلم في غزوة تبوك فخرجت الى اهلي فاقبلت وقد خرج اول صحابة رسول الله صلى الله عليه وسلم فطفقت في المدينة انادي الا من يحمل رجلا له سهمه فنادى شيخ من الانصار قال لنا سهمه على ان نحمله عقبة وطعامه معنا قلت نعم . قال فسر على بركة الله تعالى . قال فخرجت مع خير صاحب حتى افاء الله علينا فاصابني قلايص فسقتهن حتى اتيته فخرج فقعد على حقيبة من حقايب ابله ثم قال سقهن مدبرات . ثم قال سقهن مقبلات . فقال ما ارى قلايصك الا كراما - قال - انما هي غنيمتك التي شرطت لك . قال خذ قلايصك يا ابن اخي فغير سهمك اردنا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ওয়াসিলাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাবূকের যুদ্ধে অংশ গ্রহণের ঘোষণা দিলেন। ইতোমধ্যে আমি আমার পরিবারের সঙ্গে একত্রে ফিরে আসি। এরই মধ্যে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীদের প্রথম দলটি রাওয়ানা হয়ে গেছে। আমি মদীনার অলিগলিতে ডেকে ডেকে বললাম, এমন কেউ আছে কি একজনকে বাহন দিবে, তার জন্য তার গানীমাতের অংশ থাকবে। এক প্রবীণ আনসারী ডেকে বললেন, তার অংশ আমি নিতে চাই। সে আমাদের বাহনের পিছনে চড়বে এবং আমাদের সাথেই খাওয়া-দাওয়া করবে। আমি বললাম, হ্যাঁ, ঠিক আছে। প্রবীণ লোকটি বলেন, তাহলে এসো এবং মহান আল্লাহর আশু বরকতের উপর ভরসা করে যাত্রা করো। বর্ণনাকারী বলেন, আমি আমার উত্তম সাথীর সঙ্গে রাওয়ানা দিলাম। আল্লাহ আমাদের গানীমাত দান করলেন। আমার ভাগে কিছু উট পড়লো। আমি এগুলো দ্রুত হাঁকিয়ে আমার সেই উত্তম বন্ধুর কাছে নিয়ে আসি। প্রবীণ ব্যক্তি বেরিয়ে এসে তার উটের পালানের উপর বসলেন, তারপর বললেন, এগুলোকে আমার দিকে পিঠ করে হাঁকাও। তিনি পুনরায় বললেন, এগুলো আমার দিকে মুখ উত্তম মনে হয়। তিনি বললেন, এগুলো আপনার সেই মাল যার চুক্তি আমি আপনার সাথে করেছি। তিনি বললেন, হে ভাতিজা! তুমি তোমার উটগুলোকে নিয়ে যাও। গানীমাতের অংশ নেয়ার ইচ্ছা আমার নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Wathilah ibn al-Asqa: The Messenger of Allah (ﷺ) announced to go on expedition for Tabuk. I went to my family and then proceeded (on journey). The vanguard of the Companions of the Messenger of Allah (ﷺ) had already proceeded. So I began to announce loudly in Medina: Is there anyone who takes a man on his ride, and he will get his share (from the booty? An old man from the Ansar (Helpers) spoke loudly: We shall have his share if we take him with us on our mount by turns, and he will have his meal with us. I said: Yes. He said: So go on journey with Allah's blessing. I then proceeded along with my best companion and Allah gave us booty. Some she-camels were given to me as my share of booty. I drove them till I reached him. He came out and sat on the rear part of the saddle of his camel. He then said: Drive them backward. He again said: Drive them forward. He then said: I find your she-camels very gentle. He said: This is your booty which I stipulated for you. He replied: Take your she-camels, my nephew; we did not intend (to get) your portion
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
+
+## French
+
+Rapporté par Wathilah ibn al-Asqa : Le Messager d’Allah ﷺ annonça une expédition pour Tabuk. Je suis allé voir ma famille puis je me suis mis en route. L’avant-garde des compagnons du Messager d’Allah ﷺ était déjà partie. Alors, j’ai commencé à appeler à haute voix dans Médine : « Y a-t-il quelqu’un qui prendrait un homme sur sa monture, et il recevra une part du butin ? » Un vieil homme des Ansar répondit à voix haute : « Nous aurons sa part si nous le prenons avec nous à tour de rôle sur notre monture, et il mangera avec nous. » J’ai accepté. Il m’a dit : « Pars avec la bénédiction d’Allah. » Je suis donc parti avec mon meilleur compagnon et Allah nous a accordé du butin. On m’a donné quelques chamelles comme part du butin. Je les ai conduites jusqu’à lui. Il est sorti et s’est assis à l’arrière de la selle de son chameau. Il m’a dit : « Fais-les reculer. » Puis : « Fais-les avancer. » Ensuite, il a dit : « Je trouve tes chamelles très douces. » Il a ajouté : « Voici le butin que je t’avais promis. » Il répondit : « Prends tes chamelles, mon neveu ; nous ne voulions pas prendre ta part. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Ibrahim Ad Damasyqi Abu An Nadhr\], telah menceritakan kepada kami \[Muhammad bin Syu'aib\], telah mengabarkan kepadaku \[Abu Zar'ah bin Abu 'Amr As Saibani\], dari \['Amr bin Abdullah\] bahwa ia telah menceritakan kepadanya dari \[Watsilah bin Al Asqa'\], ia berkata; Rasulullah shallallahu 'alaihi wasallam berada pada perang Tabuk, kemudian aku keluar kepada keluargaku lalu datang, sementara sahabat Rasulullah shallallahu 'alaihi wasallam yang pertama telah keluar, kemudian aku berseru di Madinah; adakah orang yang mau membawa seseorang dan untuknya sahamnya? Kemudian terdapat orang tua dari kalangan anshar berseru; untuk kami saham (bagian) nya, dengan kami memboncengkannya di belakang, dan makanannya bersama kami. Aku katakan; ya. Watsilah berkata; lalu aku berjalan dengan berkah Allah ta'ala. Ia berkata; aku keluar bersama teman terbaik hingga Allah memberikan harta fai' (rampasan perang) kepada kami. Aku mendapatkan beberapa unta, kemudian aku menggiringnya hingga aku datang kepadanya. Lalu ia keluar dan duduk di atas ransel diantara ransel-ransel untanya kemudian ia berkata; giringlah unta-unta tersebut mundur! Kemudian ia berkata; giringlah unta-unta tersebut maju! Lalu ia berkata; aku tidak mengetahui unta-untamu melainkan adalah unta-unta yang mulia. Ia berkata; sesungguhnya unta-unta tersebut adalah ghanimahmu yang telah aku syaratkan kepadamu. Ia berkata; ambillah unta-untamu wahai saudaraku. Kami menginginkan selain saham (bagian) mu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Ibrahim Ad Damasyqi Abu An Nadhr], telah menceritakan kepada kami [Muhammad bin Syu'aib], telah mengabarkan kepadaku [Abu Zar'ah bin Abu 'Amr As Saibani], dari ['Amr bin Abdullah] bahwa ia telah menceritakan kepadanya dari [Watsilah bin Al Asqa'], ia berkata; Rasulullah shallallahu 'alaihi wasallam berada pada perang Tabuk, kemudian aku keluar kepada keluargaku lalu datang, sementara sahabat Rasulullah shallallahu 'alaihi wasallam yang pertama telah keluar, kemudian aku berseru di Madinah; adakah orang yang mau membawa seseorang dan untuknya sahamnya? Kemudian terdapat orang tua dari kalangan anshar berseru; untuk kami saham (bagian) nya, dengan kami memboncengkannya di belakang, dan makanannya bersama kami. Aku katakan; ya. Watsilah berkata; lalu aku berjalan dengan berkah Allah ta'ala. Ia berkata; aku keluar bersama teman terbaik hingga Allah memberikan harta fai' (rampasan perang) kepada kami. Aku mendapatkan beberapa unta, kemudian aku menggiringnya hingga aku datang kepadanya. Lalu ia keluar dan duduk di atas ransel diantara ransel-ransel untanya kemudian ia berkata; giringlah unta-unta tersebut mundur! Kemudian ia berkata; giringlah unta-unta tersebut maju! Lalu ia berkata; aku tidak mengetahui unta-untamu melainkan adalah unta-unta yang mulia. Ia berkata; sesungguhnya unta-unta tersebut adalah ghanimahmu yang telah aku syaratkan kepadamu. Ia berkata; ambillah unta-untamu wahai saudaraku. Kami menginginkan selain saham (bagian) mu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vasile b. el-Eşkâ'dan demiştir ki: Rasûlullah (s.a.v.) Tebûk savaşına (gidilmek üzere) çağrıda bulundu. Bunun üzerine ben hemen (harp için gerekli malzemeyi temin etmek için) ailemin yanına vardım. Geri döndüğümde Rasûlullah (s.a.v.)'in sahâbilerinin ilki (savaş için yol'a) çıkmış bulunuyordu. Bunun üzerine Medîne'de Bir adam'a (savaştan kazanacağı) ganimeti karşılığında kiralık at verecek kim vardır? diye bağırmaya başladım. Derken Ensardan yaşlı bir adam; Savaştan kazanacağı ganimetin bizim olması şartıyla ona bizimle nöbetleşe bineceği bir hayvan veririz, yemesi de bizimledir diye haykırdı. Ben de; Kabul dedim. (Yaşlı adam); Yüce Allah'ın bereketi üzere (savaş için) yürü dedi. Ben de (bu) hayırlı arkadaşla (yola) çıktım. Nihayet Allah bize (bu yolculuktan) bir fey nasibetti. Benim hisseme de birtakım genç develer isabet etti. Develeri sürüp o'na getirdim. (Arkadaşım) çıkıp develerin (arkasına konan) heybelerinin birinin üzerine oturdu. Sonra; Bunları geriye, doğru sür dedi. Sonra da; İleri doğru sür dedi. Arkasından da; Senin genç develerinin kıymetli olduklarını görüyorum, dedi. (Ben de ona); Bu(nlar) benim sana şart koştuğum sana ait ganimet(Ier)dir dedi(m). Ey kardeşim (bu) genç develerini al (götür). Bizim arzumuz (aslında) senin ganimetinden başka (Ahiret sevabı ve senin arkadaşlığın) idi. cevâbını verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 واثلہ بن اسقع رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے غزوہ تبوک کے سلسلہ میں منادی کرائی، میں اپنے اہل کے پاس گیا اور وہاں سے ہو کر آیا تو صحابہ کرام نکل چکے تھے، تو میں شہر میں پکار لگانے لگا کہ کوئی ایسا ہے جو ایک آدمی کو سوار کر لے، اور جو حصہ مال غنیمت سے ملے اسے لے لے، ایک بوڑھے انصاری بولے: اچھا ہم اس کا حصہ لے لیں گے، اور اس کو اپنے ساتھ بٹھا لیں گے، اور ساتھ کھانا کھلائیں گے، میں نے کہا: ہاں قبول ہے، انہوں نے کہا: ٹھیک ہے، اللہ کی برکت پر بھروسہ کر کے چلو، میں بہت ہی اچھے ساتھی کے ساتھ نکلا یہاں تک کہ اللہ نے ہمیں غنیمت کا مال دیا، میرے حصہ میں چند تیز رو اونٹنیاں آئیں، میں ان کو ہنکا کر اپنے ساتھی کے پاس لایا، وہ نکلے اور اپنے اونٹ کے پچھلے حصہ ( حقیبہ ) پر بیٹھے، پھر کہا: ان کی پیٹھ میری طرف کر کے ہانکو، پھر بولے: ان کا منہ میری طرف کر کے ہانکو، اس کے بعد کہا: تیری اونٹنیاں میرے نزدیک عمدہ ہیں، میں نے کہا: یہ تو آپ کا وہی مال ہے جس کی میں نے شرط رکھی تھی، انہوں نے کہا: میرے بھتیجے! تو اپنی اونٹنیاں لے لے، میرا ارادہ تیرا حصہ لینے کا نہ تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2676</td></tr><tr><td>Arabic No</td><td>2676</td></tr><tr><td>Reference</td><td>Book 15 Hadith 200</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2676 |
+| Arabic No | 2676 |
+| Reference | Book 15 Hadith 200 |

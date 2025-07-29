@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏(‏لاَ تَتْرُكُوا النَّارَ فِي بُيُوتِكُمْ حِينَ تَنَامُونَ‏)‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو نعيم، حدثنا ابن عيينة، عن الزهري، عن سالم، عن ابيه، عن النبي صلى الله عليه وسلم قال (لا تتركوا النار في بيوتكم حين تنامون)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
 ## Bengali
 
+সালিম (রহ.) তাঁর পিতা থেকে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ যখন তোমরা ঘুমাবে তখন তোমাদের ঘরে আগুন রেখে ঘুমাবে না। \[মুসলিম ৩৬/১২, হাঃ ২০১৫, আহমাদ ৪৫১৫\] (আধুনিক প্রকাশনী- ৫৮৪৯, ইসলামিক ফাউন্ডেশন)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালিম (রহ.) তাঁর পিতা থেকে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। তিনি বলেছেনঃ যখন তোমরা ঘুমাবে তখন তোমাদের ঘরে আগুন রেখে ঘুমাবে না। [মুসলিম ৩৬/১২, হাঃ ২০১৫, আহমাদ ৪৫১৫] (আধুনিক প্রকাশনী- ৫৮৪৯, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Salim's father:The Prophet (ﷺ) said, "Do not keep the fire burning in your houses when you go to bed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
+
+## French
+
+Rapporté par le père de Salim : Le Prophète (ﷺ) a dit : « N’allumez pas de feu dans vos maisons quand vous allez vous coucher. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Nu'aim\] telah menceritakan kepada kami \[Ibnu 'Uyainah\] dari \[Az Zuhri\] dari \[Salim\] dari \[Ayahnya\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kalian meninggalkan api (dalam keadaan menyala) di rumah kalian ketika kalian tidur
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Ibnu 'Uyainah] dari [Az Zuhri] dari [Salim] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Janganlah kalian meninggalkan api (dalam keadaan menyala) di rumah kalian ketika kalian tidur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Ибн ‘Умара, что Пророк ﷺ сказал: «Не оставляйте огонь в домах своих, когда будете спать»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 நபி (ஸல்) அவர்கள் கூறினார்கள்: நீங்கள் உறங்கச் செல்லும்போது உங்கள் வீட்டிலுள்ள நெருப்பை (அணைக்காமல்) விட்டுவிடாதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salim'den, onun babasından rivayete göre; "Nebi Sallallahu Aleyhi ve Sellem: Uyuyacağınız zaman ateşi evinizde (yanar halde) bırakmayınız, buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابونعیم نے بیان کیا، کہا ہم سے سفیان بن عیینہ نے بیان کیا، ان سے زہری نے، ان سے سالم نے، ان سے ان کے والد نے اور ان سے نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”جب سونے لگو تو گھر میں آگ نہ چھوڑو۔“
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6293</td></tr><tr><td>Arabic No</td><td>6293</td></tr><tr><td>Reference</td><td>Book 79 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6293 |
+| Arabic No | 6293 |
+| Reference | Book 79 Hadith 65 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ، بِهَذَا زَادَ وَلاَ أَقُولُ نَهَاكُمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن محمد بن عمرو، عن ابراهيم بن عبد الله، بهذا زاد ولا اقول نهاكم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
 
 ## Bengali
 
+। ইবরাহীম ইবনু আব্দুল্লাহ (রাঃ) সূত্রে এ হাদীস বর্ণিত। এতে আরো রয়েছেঃ ‘‘আমি এ কথা বলছি না যে, তিনি তোমাদেরকে তা নিষেধ করেছেন।’’\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবরাহীম ইবনু আব্দুল্লাহ (রাঃ) সূত্রে এ হাদীস বর্ণিত। এতে আরো রয়েছেঃ ‘‘আমি এ কথা বলছি না যে, তিনি তোমাদেরকে তা নিষেধ করেছেন।’’[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Ibrahim b. 'Abd Allah through a different chain of narrators. This version added:I do not say that he had forbidden you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Ibrahim ibn Abdullah رضي الله عنه par une autre chaîne de transmetteurs. Cette version ajoute : « Je ne dis pas qu’il vous l’a interdit. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибрахим ибн ‘Абдуллах передал тот же хадис, только с добавлением слов ‘Али: «И я не говорю, что он запретил вам»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (bir önceki hadis-i şerif) İbrahim b. Abdullah'dan da rivayet edildi. (Şu farkla ki İbrahim b. Abdullah bu rivayetinde bir önceki hadise şunları da) ilave etti: "Sizi nehyetti demiyorum. Bu hadis Müslim, salât tada var
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ابراہیم بن عبداللہ سے یہی روایت مروی ہے اور اس میں یہ اضافہ ہے کہ میں یہ نہیں کہتا کہ تمہیں منع فرمایا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4046</td></tr><tr><td>Arabic No</td><td>4046</td></tr><tr><td>Reference</td><td>Book 34 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4046 |
+| Arabic No | 4046 |
+| Reference | Book 34 Hadith 27 |

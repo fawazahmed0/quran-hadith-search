@@ -12,54 +12,93 @@
 
 ## Arabic
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 24 Hadith 69 |
 
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 24 Hadith 69 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 24 Hadith 69 |
 
 ## English
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 24 Hadith 69 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Ibnu Abu Umar\], telah menceritakan kepadaku \[Sufyan bin Uyainah\] dari \[Ibnu Abu Najih\] dari \[Mujahid\] dari \[Ummu Hani'\] ia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda masuk Makkah dan beliau memiliki empat rambut yang dikepang." Abu Isa berkata; Ini merupakah hadits Gharib dan Muhammad berkata, "Aku tidak mengetahui Mujahid memiliki sama' (pernah mendengar) dari Ummu Hani'." Telah menceritakan kepadaku \[Muhammad bin Basysyar\], telah menceritakan kepadaku \[Abdurrahman bin Mahdi\], telah menceritakan kepadaku \[Ibrahim bin Nafi' Al Makki\] dari \[Abu Najih\] dari \[Mujahid\] dari \[Ummu Hani'\] ia berkata; Rasulullah shallallahu 'alaihi wasallam datang ke Makkah, dan beliau memiliki empat rambut yang dikepang." Abu Najih adalah Yasar. Abu Isa berkata; Ini adalah hadits gharib. Sedangkan Abdullah bin Abu Najih adalah Makki
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Ibnu Abu Umar], telah menceritakan kepadaku [Sufyan bin Uyainah] dari [Ibnu Abu Najih] dari [Mujahid] dari [Ummu Hani'] ia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda masuk Makkah dan beliau memiliki empat rambut yang dikepang." Abu Isa berkata; Ini merupakah hadits Gharib dan Muhammad berkata, "Aku tidak mengetahui Mujahid memiliki sama' (pernah mendengar) dari Ummu Hani'." Telah menceritakan kepadaku [Muhammad bin Basysyar], telah menceritakan kepadaku [Abdurrahman bin Mahdi], telah menceritakan kepadaku [Ibrahim bin Nafi' Al Makki] dari [Abu Najih] dari [Mujahid] dari [Ummu Hani'] ia berkata; Rasulullah shallallahu 'alaihi wasallam datang ke Makkah, dan beliau memiliki empat rambut yang dikepang." Abu Najih adalah Yasar. Abu Isa berkata; Ini adalah hadits gharib. Sedangkan Abdullah bin Abu Najih adalah Makki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 24 Hadith 69 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 24 Hadith 69 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام ہانی رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مکہ اس حال میں آئے کہ آپ کی چار چوٹیاں تھیں ۱؎۔ امام ترمذی کہتے ہیں: ۱- یہ حدیث غریب ہے، ۲- محمد بن اسماعیل بخاری کہتے ہیں: ام ہانی سے مجاہد کا سماع میں نہیں جانتا ہوں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 24 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 24 Hadith 69 |

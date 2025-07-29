@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ ثَابِتٍ، حَدَّثَنَا أَبُو أُسَامَةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، أَخْبَرَنَا أَبُو أُسَامَةَ، أَخْبَرَنِي عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ صَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَسَلَّمَ فِي الرَّكْعَتَيْنِ ‏.‏ فَذَكَرَ نَحْوَ حَدِيثِ ابْنِ سِيرِينَ عَنْ أَبِي هُرَيْرَةَ قَالَ ثُمَّ سَجَدَ سَجْدَتَىِ السَّهْوِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
+
 حدثنا احمد بن محمد بن ثابت، حدثنا ابو اسامة، ح وحدثنا محمد بن العلاء، اخبرنا ابو اسامة، اخبرني عبيد الله، عن نافع، عن ابن عمر، قال صلى بنا رسول الله صلى الله عليه وسلم فسلم في الركعتين . فذكر نحو حديث ابن سيرين عن ابي هريرة قال ثم سجد سجدتى السهو
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নিয়ে (চার রাক‘আত বিশিষ্ট ফারয) সালাত আদায় করতে গিয়ে (ভুল বশতঃ) দু’ রাক‘আত আদায় করেই সালাম ফিরালেন। অতঃপর আবূ হুরাইরাহ (রাঃ) সূত্রে ইবনু সীরীন বর্ণিত হাদীসের অনুরূপ বর্ণনা করেন। এতে রয়েছেঃ অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম ফিরালেন এবং দুটি সাহু সিজদা্ করলেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নিয়ে (চার রাক‘আত বিশিষ্ট ফারয) সালাত আদায় করতে গিয়ে (ভুল বশতঃ) দু’ রাক‘আত আদায় করেই সালাম ফিরালেন। অতঃপর আবূ হুরাইরাহ (রাঃ) সূত্রে ইবনু সীরীন বর্ণিত হাদীসের অনুরূপ বর্ণনা করেন। এতে রয়েছেঃ অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম ফিরালেন এবং দুটি সাহু সিজদা্ করলেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar said :The Messenger of Allah (ﷺ) led us in prayer and gave the salutation after two rakahs of prayer. He narrated this tradition like that of Ibn Sirin from Abu Hurairah. This version adds; he gave the salutation and prostrated two prostrations due to forgetfulness
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
+
+## French
+
+Ibn ‘Umar رضي الله عنه a dit : Le Messager d’Allah ﷺ nous a dirigés dans la prière et a salué après deux rak‘as. Il a rapporté ce hadith comme celui d’Ibn Sirin d’après Abu Hurairah. Cette version ajoute : Il a salué et a fait deux prosternations pour l’oubli
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ совершал с нами молитву и произнёс слова таслима после второго рак‘ата…» И он передал нечто подобное хадису Ибн Сирина от Абу Хурайры, и в его версии говорится: «И затем он совершил два земных поклона во искупление оплошности»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
 
 ## Turkish
 
+îbn Ömer'den; demiştir ki: Resulullah (s.a.v.) bize (dört rekatlı bir) namaz kıldırıp iki rekatta selâm verdi... (Ebû Usâme bundan sonra) îbn Sîrîn'in Ebû Hureyre'den yaptığı rivayetin benzerini zikretti.\[1008 no'lu hadis\] (İbn Ömer rivayetinin sonunda da) "Resulullah sonra selam verdi, sonra da sehv secdelerini yaptı" dedi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-îbn Ömer'den; demiştir ki: Resulullah (s.a.v.) bize (dört rekatlı bir) namaz kıldırıp iki rekatta selâm verdi... (Ebû Usâme bundan sonra) îbn Sîrîn'in Ebû Hureyre'den yaptığı rivayetin benzerini zikretti.[1008 no'lu hadis] (İbn Ömer rivayetinin sonunda da) "Resulullah sonra selam verdi, sonra da sehv secdelerini yaptı" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں نماز پڑھائی تو دو ہی رکعت میں آپ نے سلام پھیر دیا، پھر انہوں نے محمد بن سیرین کی حدیث کی طرح جسے انہوں نے ابوہریرہ رضی اللہ عنہ سے روایت کیا ہے ذکر کیا، اس میں ہے کہ پھر آپ صلی اللہ علیہ وسلم نے سلام پھیرا اور سہو کے دو سجدے کئے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1017</td></tr><tr><td>Arabic No</td><td>1017</td></tr><tr><td>Reference</td><td>Book 2 Hadith 628</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1017 |
+| Arabic No | 1017 |
+| Reference | Book 2 Hadith 628 |

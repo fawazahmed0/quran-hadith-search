@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ يَزِيدَ الْمُقْرِئُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنِ الْحَسَنِ الْعُرَنِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ بَعَثَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم أُغَيْلِمَةَ بَنِي عَبْدِ الْمُطَّلِبِ عَلَى حُمُرَاتٍ يَلْطَحُ أَفْخَاذَنَا وَيَقُولُ ‏ "‏ أُبَيْنِيَّ لاَ تَرْمُوا جَمْرَةَ الْعَقَبَةِ حَتَّى تَطْلُعَ الشَّمْسُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |
+
 اخبرنا محمد بن عبد الله بن يزيد المقري، قال حدثنا سفيان، عن سفيان الثوري، عن سلمة بن كهيل، عن الحسن العرني، عن ابن عباس، قال بعثنا رسول الله صلى الله عليه وسلم اغيلمة بني عبد المطلب على حمرات يلطح افخاذنا ويقول " ابيني لا ترموا جمرة العقبة حتى تطلع الشمس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন আবদুল্লাহ ইবন ইয়াযীদ আল-মুকরী ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের অর্থাৎ আবদুল মুত্তালিব গোত্রের সন্তানদেরকে গাধায় সওয়ার করিয়ে প্রেরণ করেন। আর আমাদের উরুদেশে মৃদু আঘাত করতে করতে বলেন, হে আমার আদরের সন্তানরা! তোমরা জামরা-ই-আকাবায় সূর্যোদয়ের আগে কংকর নিক্ষেপ করবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn Abbas said:"The Messenger ofAllah sent us young boys of Banu Abdul-Muttalib on donkeys, stalping our things and saying "O my sons, do not stone Jamratulal Aqabah until the sun has risen. (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |
+
+## French
+
+Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ nous a envoyés, nous les jeunes garçons de Banu Abdul-Muttalib, sur des ânes, en portant nos affaires, et il a dit : « Ô mes enfants, ne lapidez pas Jamratul Aqabah avant le lever du soleil. » (Faible)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Abdullah bin Yazid Al Muqri'\], ia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Sufyan Ats Tsauri\] dari \[Salamah bin Kuhail\] dari \[Al Hasan Al 'Urani\] dari \[Ibnu Abbas\], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengutus kami yaitu anak-anak Bani Abdul Muththalib diatas beberapa ekor keledai, beliau memukul pelan paha kami dan bersabda: "Wahai anak-anakku, jangan melempar jumrah Aqabah hingga matahari terbit
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Yazid Al Muqri'], ia berkata; telah menceritakan kepada kami [Sufyan] dari [Sufyan Ats Tsauri] dari [Salamah bin Kuhail] dari [Al Hasan Al 'Urani] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam mengutus kami yaitu anak-anak Bani Abdul Muththalib diatas beberapa ekor keledai, beliau memukul pelan paha kami dan bersabda: "Wahai anak-anakku, jangan melempar jumrah Aqabah hingga matahari terbit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہم بنی عبدالمطلب کے گھرانے کے بچوں کو گدھوں پر سوار کر کے بھیجا، آپ ہماری رانوں کو تھپتھپا رہے تھے، اور فرما رہے تھے: ”میرے ننھے بیٹو! جب تک سورج نکل نہ آئے جمرہ عقبہ کو کنکریاں نہ مارنا“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3064</td></tr><tr><td>Arabic No</td><td>3064</td></tr><tr><td>Reference</td><td>Book 24 Hadith 447</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3064 |
+| Arabic No | 3064 |
+| Reference | Book 24 Hadith 447 |

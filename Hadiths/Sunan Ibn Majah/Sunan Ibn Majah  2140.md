@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَعْقُوبُ بْنُ حُمَيْدِ بْنِ كَاسِبٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ الدَّرَاوَرْدِيُّ، عَنْ ثَوْرِ بْنِ زَيْدٍ الدِّيلِيِّ، عَنْ أَبِي الْغَيْثِ، مَوْلَى ابْنِ مُطِيعٍ عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ قَالَ ‏ "‏ السَّاعِي عَلَى الأَرْمَلَةِ وَالْمِسْكِينِ كَالْمُجَاهِدِ فِي سَبِيلِ اللَّهِ وَكَالَّذِي يَقُومُ اللَّيْلَ وَيَصُومُ النَّهَارَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |
+
 حدثنا يعقوب بن حميد بن كاسب، حدثنا عبد العزيز الدراوردي، عن ثور بن زيد الديلي، عن ابي الغيث، مولى ابن مطيع عن ابي هريرة، ان النبي صلى الله عليه وسلم قال " الساعي على الارملة والمسكين كالمجاهد في سبيل الله وكالذي يقوم الليل ويصوم النهار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বিধবা ও নিঃস্বদের জন্য উপার্জনকারী ব্যক্তি আল্লাহর পথে জিহাদরত ব্যক্ত সমতুল্য এবং যারা রাতে (নফল) ইবাদত করে ও দিনে রোযা রাখে তাদেরও সমতুল্য।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that the Prophet (ﷺ) said:'The one who strives to support the widow and the poor is like a Mujahid who fights in the cause of Allah, and like one who stands in the night (in voluntary prayer) and fasts by day
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète (ﷺ) a dit : "Celui qui s'efforce de soutenir la veuve et le pauvre est comme un combattant dans la voie d'Allah, et comme celui qui prie la nuit et jeûne le jour
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ya'qub bin Humaid bin Kasib\] berkata, telah menceritakan kepada kami \[Abdul Aziz Ad Darawardi\] dari \[Tsaur bin Zaid Ad Daili\] dari \[Abu Al Ghaits\] mantan budak Ibnu Muthi', dari \[Abu Hurairah\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang membantu orang janda dan orang miskin seperti mujahid di jalan Allah, atau seperti orang yang shalat malam dan puasa di siang hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ya'qub bin Humaid bin Kasib] berkata, telah menceritakan kepada kami [Abdul Aziz Ad Darawardi] dari [Tsaur bin Zaid Ad Daili] dari [Abu Al Ghaits] mantan budak Ibnu Muthi', dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Orang yang membantu orang janda dan orang miskin seperti mujahid di jalan Allah, atau seperti orang yang shalat malam dan puasa di siang hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.)'den rivayet edildiğine göre Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir: «Kocasız fakir kadının ve günlük geçimi olmayan kimsenin nafakalarını kazanmaya çalışan müslüman, Allah yolunda savaşan mücahid gibi ve gece namaz kılıp gündüz oruç tutan kişi gibidir.» Diğer tahric: Bu hadisi Buhari, Müslim ve Tirmizi de rivayet etmişlerdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بیوہ عورتوں اور مسکینوں کے لیے محنت و کوشش کرنے والا اللہ کی راہ میں جہاد کرنے والے کے مانند ہے، اور اس شخص کے مانند ہے جو رات بھر قیام کرتا، اور دن کو روزہ رکھتا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2140</td></tr><tr><td>Arabic No</td><td>2140</td></tr><tr><td>Reference</td><td>Book 12 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2140 |
+| Arabic No | 2140 |
+| Reference | Book 12 Hadith 4 |

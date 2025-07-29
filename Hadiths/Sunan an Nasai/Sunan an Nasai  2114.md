@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، عَنْ أَبِي دَاوُدَ، عَنْ سُفْيَانَ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، مُرْسَلٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |
+
 اخبرنا احمد بن سليمان، عن ابي داود، عن سفيان، عن سماك، عن عكرمة، مرسل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমাদ ইবনু সুলায়মান (রহঃ) ... ইকরিমা (রহঃ) থেকেও মুরসাল সুত্রে এই হাদীসটি বর্ণিত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Ikramah:A similar, Mursal, report was narrated from 'Ikramah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |
+
+## French
+
+Rapporté par 'Ikrimah : Un rapport similaire, en Mursal, a été rapporté de 'Ikrimah
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے عکرمہ سے یہ حدیث مرسلاً مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2114</td></tr><tr><td>Arabic No</td><td>2114</td></tr><tr><td>Reference</td><td>Book 22 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2114 |
+| Arabic No | 2114 |
+| Reference | Book 22 Hadith 25 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ آدَمَ، عَنْ عَبْدَةَ، عَنْ هِشَامٍ، عَنْ صَالِحِ بْنِ رَبِيعَةَ بْنِ هُدَيْرٍ، عَنْ عَائِشَةَ، قَالَتْ أَوْحَى اللَّهُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَأَنَا مَعَهُ فَقُمْتُ فَأَجَفْتُ الْبَابَ بَيْنِي وَبَيْنَهُ فَلَمَّا رُفِّهَ عَنْهُ قَالَ لِي ‏ "‏ يَا عَائِشَةُ إِنَّ جِبْرِيلَ يُقْرِئُكِ السَّلاَمَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |
+
 حدثنا محمد بن ادم، عن عبدة، عن هشام، عن صالح بن ربيعة بن هدير، عن عايشة، قالت اوحى الله الى النبي صلى الله عليه وسلم وانا معه فقمت فاجفت الباب بيني وبينه فلما رفه عنه قال لي " يا عايشة ان جبريل يقريك السلام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আদম (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ছিলাম এমতাবস্থায় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উপর আল্লাহপাক ওহী নাযিল করলেন। আমি উঠে গেলাম এবং তাঁর আমার মাঝখানে দরজা ভেজিয়ে দিলাম। যখন ওহী নাযিল শেষ হল ও তার কষ্ট লাঘব হল, তখন তিনি আমাকে বললেনঃ হে আয়েশা! জিবরীল (আ) তোমাকে সালাম পেশ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"Allah sent Revelation to the Prophet when I was with him, so I got up and closed the door between him and I. When it was taken off him, he said to me: 'O 'Aishah, Jibril sends greetings of Salam to you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |
+
+## French
+
+Rapporté par 'Aishah : Allah a envoyé la Révélation au Prophète alors que j’étais avec lui, alors je me suis levée et j’ai fermé la porte entre lui et moi. Quand la Révélation a été levée, il m’a dit : "Ô 'Aishah, Jibril te passe le Salam
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Adam\] dari \['Abdah\] dari \[Hisyam\] dari \[Shalih bin Rabi'ah bin Hudair\] dari \[Aisyah\], dia berkata; "Allah mewahyukan kepada Nabi shallallahu 'alaihi wasallam ketika saya tengah bersama beliau kemudian saya berdiri dan menutup pintu antara diriku dan beliau, kemudian tatkala beliau beristirahat darinya (selesai menerima wahyu) beliau bersabda kepadaku: "Wahai Aisyah, sesungguhnya Jibril mengucapkan salam kepadamu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Adam] dari ['Abdah] dari [Hisyam] dari [Shalih bin Rabi'ah bin Hudair] dari [Aisyah], dia berkata; "Allah mewahyukan kepada Nabi shallallahu 'alaihi wasallam ketika saya tengah bersama beliau kemudian saya berdiri dan menutup pintu antara diriku dan beliau, kemudian tatkala beliau beristirahat darinya (selesai menerima wahyu) beliau bersabda kepadaku: "Wahai Aisyah, sesungguhnya Jibril mengucapkan salam kepadamu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ اللہ تعالیٰ نے نبی اکرم صلی اللہ علیہ وسلم پر وحی نازل کی، میں آپ کے ساتھ تھی، میں اٹھی اور اپنے اور آپ کے درمیان دروازہ بند کر دیا، جب وحی ختم ہو گئی تو آپ نے مجھ سے فرمایا: ”عائشہ! جبرائیل تمہیں سلام کہہ رہے ہیں“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 36 Hadith 14 |

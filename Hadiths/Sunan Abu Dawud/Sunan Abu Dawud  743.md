@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَمُحَمَّدُ بْنُ عُبَيْدٍ الْمُحَارِبِيُّ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ مُحَارِبِ بْنِ دِثَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا قَامَ مِنَ الرَّكْعَتَيْنِ كَبَّرَ وَرَفَعَ يَدَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
+
 حدثنا عثمان بن ابي شيبة، ومحمد بن عبيد المحاربي، قالا حدثنا محمد بن فضيل، عن عاصم بن كليب، عن محارب بن دثار، عن ابن عمر، قال كان رسول الله صلى الله عليه وسلم اذا قام من الركعتين كبر ورفع يديه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের দুই রাক‘আত আদায় শেষে দাঁড়িয়ে তাকবীর বলে উভয় হাত উঠাতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের দুই রাক‘আত আদায় শেষে দাঁড়িয়ে তাকবীর বলে উভয় হাত উঠাতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar said:When the Messenger of Allah (ﷺ) stood at the end of two rak’ahs, he uttered the takbir (Allah is most great) and raised his hands
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
+
+## French
+
+Rapporté par Ibn ‘Umar رضي الله عنه : Quand le Messager d’Allah ﷺ se relevait à la fin de deux rak‘as, il prononçait le takbir (Allah est le plus grand) et levait les mains
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] dan \[Muhammad bin 'Ubaid Al Muharibi\] keduanya berkata; telah menceritakan kepada kami \[Muhammad bin Fudlail\] dari \['Ashim bin Kulaib\] dari \[Muharib bin Ditsar\] dari \[Ibnu Umar\] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam bangkit dari raka'at kedua, beliau bertakbir sambil mengangkat kedua tangannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Muhammad bin 'Ubaid Al Muharibi] keduanya berkata; telah menceritakan kepada kami [Muhammad bin Fudlail] dari ['Ashim bin Kulaib] dari [Muharib bin Ditsar] dari [Ibnu Umar] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam bangkit dari raka'at kedua, beliau bertakbir sambil mengangkat kedua tangannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Умар сказал: «Когда Посланник Аллаха ﷺ вставал после совершения двух рак‘атов (молитвы), он произносил слова «Аллаху акбар» и поднимал руки»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer'den; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) (ilk) iki rekat'tan (ilk teşehhüdden sonra, üçüncü rekata) kalktığında tekbir alır ve ellerini kaldırırdı. Sadece Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب دو رکعتیں پڑھ کر ( تیسری رکعت کے لیے ) کھڑے ہوتے، تو«الله اكبر» کہتے، اور اپنے دونوں ہاتھ اٹھاتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>743</td></tr><tr><td>Arabic No</td><td>743</td></tr><tr><td>Reference</td><td>Book 2 Hadith 353</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 743 |
+| Arabic No | 743 |
+| Reference | Book 2 Hadith 353 |

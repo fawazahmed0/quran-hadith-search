@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، عَنْ يُونُسَ بْنِ عُبَيْدٍ، عَنِ الْحَسَنِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ فِي مَسِيرٍ لَهُ فَنَامُوا عَنْ صَلاَةِ الْفَجْرِ فَاسْتَيْقَظُوا بِحَرِّ الشَّمْسِ فَارْتَفَعُوا قَلِيلاً حَتَّى اسْتَقَلَّتِ الشَّمْسُ ثُمَّ أَمَرَ مُؤَذِّنًا فَأَذَّنَ فَصَلَّى رَكْعَتَيْنِ قَبْلَ الْفَجْرِ ثُمَّ أَقَامَ ثُمَّ صَلَّى الْفَجْرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
+
 حدثنا وهب بن بقية، عن خالد، عن يونس بن عبيد، عن الحسن، عن عمران بن حصين، ان رسول الله صلى الله عليه وسلم كان في مسير له فناموا عن صلاة الفجر فاستيقظوا بحر الشمس فارتفعوا قليلا حتى استقلت الشمس ثم امر موذنا فاذن فصلى ركعتين قبل الفجر ثم اقام ثم صلى الفجر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
 
 ## Bengali
 
+। ‘ইমরান ইবনু হুসাইন (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোন এক সফরে ছিলেন সে সময় লোকেরা ফজরের সালাতের ওয়াক্তে ঘুমিয়ে ছিল। অতঃপর সূর্যের তাপে তাদের ঘুম ভাঙ্গে। তারা কিছুদূর অগ্রসর হওয়ার পর সূর্য উপরে উঠে গেলে রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুয়াজ্জিনকে নির্দেশ দিলে মুয়াজ্জিন আযান দেন। অতঃপর তিনি প্রথমে ফজরের পূর্বের দুই রাক‘আত সুন্নাত আদায় করেন এবং ইক্বামাত(ইকামত/একামত) দেয়ার পর ফজরের ফরয সালাত আদায় করলেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘ইমরান ইবনু হুসাইন (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোন এক সফরে ছিলেন সে সময় লোকেরা ফজরের সালাতের ওয়াক্তে ঘুমিয়ে ছিল। অতঃপর সূর্যের তাপে তাদের ঘুম ভাঙ্গে। তারা কিছুদূর অগ্রসর হওয়ার পর সূর্য উপরে উঠে গেলে রসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুয়াজ্জিনকে নির্দেশ দিলে মুয়াজ্জিন আযান দেন। অতঃপর তিনি প্রথমে ফজরের পূর্বের দুই রাক‘আত সুন্নাত আদায় করেন এবং ইক্বামাত(ইকামত/একামত) দেয়ার পর ফজরের ফরয সালাত আদায় করলেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Imran b. Husain said:The Messenger of Allah (ﷺ) was on his journey. They (the people) slept abandoning the Fajr prayer. They awoke by the heat of the sun. Then they travelled a little until the sun rose high. He (the Prophet) commanded the mu'adhdhin (one who called for prayer) to call for prayer. He then offered two rak'ahs of prayer (sunnah prayer) before the (obligatory) fajr prayer. Then he (the mu'adhdhin) announced for saying the prayer in congregation (i.e. he uttered iqamah). Then he led them in the morning prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
+
+## French
+
+Rapporté par Imran b. Husain رضي الله عنه : Le Messager d’Allah ﷺ était en voyage. Les gens se sont endormis et ont manqué la prière du Fajr. Ils se sont réveillés à cause de la chaleur du soleil. Ils ont alors voyagé un peu jusqu’à ce que le soleil soit bien levé. Il (le Prophète) a ordonné au muezzin d’appeler à la prière. Il a ensuite accompli deux rak‘as de prière (sunnah) avant la prière obligatoire du Fajr. Puis le muezzin a annoncé la prière en groupe (c’est-à-dire il a prononcé l’iqamah). Ensuite, il les a dirigés dans la prière du matin
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Wahb bin Baqiyyah\] dari \[Khalid\] dari \[Yunus bin Ubaid\] dari \[Al Hasan\] dari \[Imran bin Hushain\] bahwasanya pernah Rasulullah Shallallahu alaihi wasallam dalam sebuah perjalanan bersama para sahabat, mereka semua tertidur dari melaksanakan shalat fajar, mereka bangun karena panasnya sinar matahari. Maka mereka berpindah tempat sedikit agar terhindar dari sinar matahari, lalu seseorang diperintahkan untuk mengumandangkan adzan, maka dia pun adzan lalu melaksanakan shalat sunnah dua rakaat sebelum shalat fajar, kemudian dia mengumandangkan iqamat setelah itu beliau baru melaksanakan shalat fajar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari [Yunus bin Ubaid] dari [Al Hasan] dari [Imran bin Hushain] bahwasanya pernah Rasulullah Shallallahu alaihi wasallam dalam sebuah perjalanan bersama para sahabat, mereka semua tertidur dari melaksanakan shalat fajar, mereka bangun karena panasnya sinar matahari. Maka mereka berpindah tempat sedikit agar terhindar dari sinar matahari, lalu seseorang diperintahkan untuk mengumandangkan adzan, maka dia pun adzan lalu melaksanakan shalat sunnah dua rakaat sebelum shalat fajar, kemudian dia mengumandangkan iqamat setelah itu beliau baru melaksanakan shalat fajar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Имрана ибн Хусайна: «Однажды, когда Посланник Аллаха ﷺ (вместе со своими сподвижниками) находился в пути, они проспали утреннюю молитву и проснулись только от жара солнца. Встав ото сна, они немного подождали, пока солнце не поднялось, а потом (Пророк ﷺ) велел муаззину (произнести азан), и тот сделал это, после чего (Пророк ﷺ) совершил молитву в два рак‘ата, (которую он обычно совершал) перед обязательной утренней молитвой. Затем (муаззин) произнёс икаму, и (люди вместе с Пророком ﷺ) совершили утреннюю молитву»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İmran b. Husayn (r.a.)'den nakledildiğine göre; "Resulullah (Sallallahu aleyhi ve Sellem) bir sefer esnasında o ve ashabı sabah namazı vaktinde uyuya kaldılar ve güneşin harareti ile uyandılar. Güneş yükselinceye kadar biraz yürüdüler, sonra Efendimiz müezzine emretti, o da ezanı okudu. Sabah namazının farzından önce iki rekat (sünnet) kıldı, bilahare müezzine emretti o da kamet etti, Resulullah (Sallallahu aleyhi ve Sellem) de sabahın farzını cemaatle birlikte) kıldı." Diğer tahric: Müslim, mesacid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمران بن حصین رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ایک سفر میں تھے کہ لوگ نماز فجر میں سوئے رہ گئے، سورج کی گرمی سے وہ بیدار ہوئے تو تھوڑی دور چلے یہاں تک کہ سورج چڑھ گیا، پھر آپ صلی اللہ علیہ وسلم نے مؤذن کو حکم دیا، تو اس نے اذان دی تو آپ نے فجر ( کی فرض نماز ) سے پہلے دو رکعت سنت پڑھی، پھر ( مؤذن نے ) تکبیر کہی اور آپ نے فجر پڑھائی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>443</td></tr><tr><td>Arabic No</td><td>443</td></tr><tr><td>Reference</td><td>Book 2 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 443 |
+| Arabic No | 443 |
+| Reference | Book 2 Hadith 53 |

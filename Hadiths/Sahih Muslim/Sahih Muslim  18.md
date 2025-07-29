@@ -18,78 +18,76 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## French
 
+Rapporté par Ibn Abbās رضي الله عنه : « Bushayr bin Ka’b est venu voir Ibn Abbās et s’est mis à lui rapporter des hadiths. Ibn Abbās lui dit : “Reviens à tel hadith.” Bushayr y revint et le rapporta. Puis Ibn Abbās lui dit encore : “Reviens à tel hadith.” Bushayr y revint à nouveau et le rapporta. Alors Bushayr lui dit : “Je ne sais pas si tu connais tous mes hadiths et tu rejettes celui-ci et celui-là, ou si tu rejettes tous mes hadiths et tu ne connais que celui-ci et celui-là ?” Ibn Abbās lui répondit : “On nous rapportait des hadiths du Messager d’Allah ﷺ à une époque où personne ne mentait à son sujet. Mais quand les gens ont commencé à mélanger les récits douteux et authentiques, nous avons arrêté d’écouter leurs hadiths.” »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абдуллах ибн ‘Амр ибн аль-‘Ас, да будет доволен им Аллах, сказал: «В море заточены дьяволы, которых приковал пророк Сулейман, мир ему. Очень скоро они освободятся и будут читать людям (свой) Коран»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Muhammed b. Râfi' de rivâyet etti. ki: Bize Abdurrazzâk rivâyet etti. ki: Bize Ma'mer, İbn Tâvûs'dan o da babasından, o da Abdullah b. Amr b. Âs'dan naklen haber verdi, Abdullah Şöyle dedi: deryada mahpus bir takım şeytanlar vardır. Onları Süleyman (aleyhis-selâm) bağlamıştır. Bunların çıkması ve insanlara Kur'ân (diye bir şeyler) okuması yakındır.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن رافع ‘ عبد الرزاق ‘ معمر ‘ ابن طاؤس ‘ طاؤس نے حضرت عبد اللہ بن عمرو بن عاص ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، کہا : سمندر ( کی تہ ) میں بہت سے شیطان قید ہیں جنہیں حضرت سلیمان ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے باندھا تھا ، وقت آ رہا ہے کہ وہ نکلیں گے اور لوگوں کے سامنے قرآن پڑھیں گے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>18</td></tr><tr><td>Reference</td><td>Book 0 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 18 |
+| Reference | Book 0 Hadith 18 |

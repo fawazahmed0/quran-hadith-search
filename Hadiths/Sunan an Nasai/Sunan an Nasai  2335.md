@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا مُعْتَمِرٌ، قَالَ سَمِعْتُ عُبَيْدَ اللَّهِ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ عَبْدِ اللَّهِ، عَنْ حَفْصَةَ، أَنَّهَا كَانَتْ تَقُولُ مَنْ لَمْ يُجْمِعِ الصِّيَامَ مِنَ اللَّيْلِ فَلاَ يَصُومُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 22 Hadith 246</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |
+
 اخبرنا محمد بن عبد الاعلى، قال حدثنا معتمر، قال سمعت عبيد الله، عن ابن شهاب، عن سالم، عن عبد الله، عن حفصة، انها كانت تقول من لم يجمع الصيام من الليل فلا يصوم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 22 Hadith 246</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু আব্দুল আলা (রহঃ) ... আব্দুল্লাহ (রাঃ) হাফসা (রাঃ) থেকে বর্ণিত। তিনি বলতেন, যে ব্যক্তি রাত্রে সাওমের নিয়্যত না করবে তার সাওম পালন হবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 22 Hadith 246</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Hafsah that she used to say:"Whoever does not intend to fast from the night before, should not fast." (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 22 Hadith 246</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |
+
+## French
+
+Rapporté par Hafsah : Elle avait l'habitude de dire : « Celui qui n'a pas l'intention de jeûner dès la nuit précédente ne doit pas jeûner. » (Daif)
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin 'Abdul A'la\] dia berkata; telah menceritakan kepada kami \[Mu'tamir\] dia berkata; aku mendengar \['Ubaidullah\] dari \[Ibnu Syihab\] dari \[Salim\] dari \['Abdullah\] dari \[Hafshah\] bahwa ia berkata; "Barangsiapa yang tidak berniat puasa diwaktu malam, ia -dianggap- tidak berpuasa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin 'Abdul A'la] dia berkata; telah menceritakan kepada kami [Mu'tamir] dia berkata; aku mendengar ['Ubaidullah] dari [Ibnu Syihab] dari [Salim] dari ['Abdullah] dari [Hafshah] bahwa ia berkata; "Barangsiapa yang tidak berniat puasa diwaktu malam, ia -dianggap- tidak berpuasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 22 Hadith 246</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 22 Hadith 246</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین حفصہ رضی الله عنہا کہتی تھیں کہ جس نے رات ہی میں روزہ کی پختہ نیت نہ کر لی ہو تو وہ روزہ نہ رکھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2335</td></tr><tr><td>Arabic No</td><td>2335</td></tr><tr><td>Reference</td><td>Book 22 Hadith 246</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2335 |
+| Arabic No | 2335 |
+| Reference | Book 22 Hadith 246 |

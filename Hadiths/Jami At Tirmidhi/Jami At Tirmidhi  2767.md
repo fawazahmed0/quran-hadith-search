@@ -12,54 +12,117 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ اشْتِمَالِ الصَّمَّاءِ وَالاِحْتِبَاءِ فِي ثَوْبٍ وَاحِدٍ وَأَنْ يَرْفَعَ الرَّجُلُ إِحْدَى رِجْلَيْهِ عَلَى الأُخْرَى وَهُوَ مُسْتَلْقٍ عَلَى ظَهْرِهِ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ صَحِيحٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2767 |
+| Arabic No | 2767 |
+| Reference | Book 43 Hadith 37 |
+
 حدثنا قتيبة، حدثنا الليث، عن ابي الزبير، عن جابر، ان رسول الله صلى الله عليه وسلم نهى عن اشتمال الصماء والاحتباء في ثوب واحد وان يرفع الرجل احدى رجليه على الاخرى وهو مستلق على ظهره . قال ابو عيسى هذا حديث حسن صحيح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2767 |
+| Arabic No | 2767 |
+| Reference | Book 43 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির (রাযিঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশতিমালুস সাম্মা (বাম কাধ অনাবৃত রেখে চাদরের দুই প্রান্ত ডান কাধে জড়ো করে পরতে), ইহতিবা (নিতম্বে ভর করে হাটুদ্বয় উচু করে পেটের সাথে চাদর পেচিয়ে বসতে) এবং এক পায়ের উপর অপর পা (হাঁটু ভাঁজ করে) উঠিয়ে পিঠের উপর চিৎ হয়ে শুতে বারণ করেছেন। সহীহঃ সহীহাহ (১২৫৫), মুসলিম। আবূ ঈসা বলেন, এ হাদীসটি হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2767 |
+| Arabic No | 2767 |
+| Reference | Book 43 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir:"The Messenger of Allah (ﷺ) prohibited Ishtimal As-Samma, Al-Ihtiba in one garment, and that a man raise one of his feet atop the other while he is reclining on his back
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2767 |
+| Arabic No | 2767 |
+| Reference | Book 43 Hadith 37 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah\] telah menceritakan kepada kami \[Al Laits\] dari \[Abu Az Zubair\] dari \[Jabir\] bahwa Rasulullah shallallahu 'alaihi wasallam melarang isytimalus shama' dan duduk ihtiba' dengan mengenakan sehelai kain, dan terlentang diatas punggungnya dengan mengangkat sebelah kaki di atas kaki yang lain." Abu Isa berkata; Hadits ini hasan shahih
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam melarang isytimalus shama' dan duduk ihtiba' dengan mengenakan sehelai kain, dan terlentang diatas punggungnya dengan mengangkat sebelah kaki di atas kaki yang lain." Abu Isa berkata; Hadits ini hasan shahih
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2767 |
+| Arabic No | 2767 |
+| Reference | Book 43 Hadith 37 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) bize iki cins elbiseyi giymeyi yasakladı ki ona “Samma” denilir; baştan ayağa vücudu içine alan tulum gibi bir elbisedir ki kollar da elbise içinde kalır. Ayrıca sırt üstü yatıp avret yerlerini gösterecek şekilde ayak ayak üstüne atmayı da yasakladı. Diğer tahric: Müslim, Libas; Nesâî, Ziyne Tirmizî: Bu hadis sahihtir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2767 |
+| Arabic No | 2767 |
+| Reference | Book 43 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک کپڑے میں صماء ۱؎ اور احتباء ۲؎ کرنے اور ایک ٹانگ دوسری ٹانگ پر رکھ کر چت لیٹنے سے منع فرمایا۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2767</td></tr><tr><td>Arabic No</td><td>2767</td></tr><tr><td>Reference</td><td>Book 43 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2767 |
+| Arabic No | 2767 |
+| Reference | Book 43 Hadith 37 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، قَالاَ حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ لاَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ رَجُلٍ مِنَ الأَنْصَارِ وَامْرَأَتِهِ وَفَرَّقَ بَيْنَهُمَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، ح وحدثنا ابن نمير، حدثنا ابي، قالا حدثنا عبيد الله، عن نافع، عن ابن عمر، قال لاعن رسول الله صلى الله عليه وسلم بين رجل من الانصار وامراته وفرق بينهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শাইবাহ ও ইবনু নুমায়র (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একজন আনসারী পুরুষ ও তার স্ত্রীর মধ্যে লি'আন করালেন এবং তাদের আলাদা করে দিলেন। (ইসলামিক ফাউন্ডেশন ৩৬১১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar (Allah be pleased with them) reported:Allah's Messenger (ﷺ) asked a person from the Anger and his wife to invoke curse (upon one another in order to testify to their truthfulness), and then effected separation between them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## French
 
+Rapporté par Ibn 'Umar رضي الله عنهما : Le Messager d’Allah ﷺ a demandé à un homme de la tribu des Anger et à sa femme d’invoquer la malédiction l’un contre l’autre pour prouver leur sincérité, puis il les a séparés
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebû Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Ebû Usâme rivayet etti. H. Bize îbni Numeyr de rivayet etti. (Dediki): Bize babam rivayet etti. Her iki râvi (Demişler ki) : Bize Ubeydullah, Nâfi'den, o da İbni Ömer'den naklen rivayette bulundu. İbni Ömer şöyle demiş : ResûluIIah (Sallallahu Aleyhi ve Sellem) Ensâr'dan bir zâtla karısının arasmda liân yaptı; ve aralarını ayırdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداﷲ بن عمرؓ سے روایت ہے رسول اﷲ ﷺ نے لعان کروایا درمیان ایک مرد انصاری اور اس کی عورت کے اور جدائی کردی ان دونوں میں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3753</td></tr><tr><td>Arabic No</td><td>1494.02</td></tr><tr><td>Reference</td><td>Book 19 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3753 |
+| Arabic No | 1494.02 |
+| Reference | Book 19 Hadith 11 |

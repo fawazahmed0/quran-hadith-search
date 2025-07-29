@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْفَضْلُ بْنُ يَعْقُوبَ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، حَدَّثَنَا الْعَلاَءُ بْنُ عَبْدِ الرَّحْمَنِ الْحُرَقِيُّ، عَنِ ابْنِ مَاجِدَةَ السَّهْمِيِّ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، - رضى الله عنه - عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
+
 حدثنا الفضل بن يعقوب، حدثنا عبد الاعلى، عن محمد بن اسحاق، حدثنا العلاء بن عبد الرحمن الحرقي، عن ابن ماجدة السهمي، عن عمر بن الخطاب، - رضى الله عنه - عن النبي صلى الله عليه وسلم مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘উমার ইবনুল খাত্তাব (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে উপরোক্ত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Majidah quoted 'Umar b. al-Khattab as saying:I heard the Prophet (ﷺ) say ... narrating the tradition to the same effect
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
+
+## French
+
+Abu Majidah rapporte qu’Umar ibn al-Khattab رضي الله عنه a dit : J’ai entendu le Prophète ﷺ dire… (et il a transmis le même enseignement)
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Похожий хадис передаётся другим путём, также в передаче Ибн Маджиды ас-Сахми со слов ‘Умара ибн аль-Хаттаба от Пророка ﷺ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Fazl b. Yakub haber haber verdi, bize Abdül-A'lâ, Muhammed b. İshak'tan haber verdi. Bize el- A'lâ b. Abdurrahman (el-Hurakî), İbn Mâcide es-Sehmfden haber verdi. O dâ Ömer b. el-Hattâb (r.a) vasıtasıyla Rasûlullah (s.a.v.)'den o (önceki 3430.) hadisin mislini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ابن ماجدہ سہمی عمر بن خطاب رضی اللہ عنہ سے اور انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے اسی کے ہم مثل روایت کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3432</td></tr><tr><td>Arabic No</td><td>3432</td></tr><tr><td>Reference</td><td>Book 24 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3432 |
+| Arabic No | 3432 |
+| Reference | Book 24 Hadith 17 |

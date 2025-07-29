@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ سُهَيْلِ بْنِ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ مَا مِنْ صَاحِبِ كَنْزٍ لاَ يُؤَدِّي حَقَّهُ إِلاَّ جَعَلَهُ اللَّهُ يَوْمَ الْقِيَامَةِ يُحْمَى عَلَيْهَا فِي نَارِ جَهَنَّمَ فَتُكْوَى بِهَا جَبْهَتُهُ وَجَنْبُهُ وَظَهْرُهُ حَتَّى يَقْضِيَ اللَّهُ تَعَالَى بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ ثُمَّ يُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ وَمَا مِنْ صَاحِبِ غَنَمٍ لاَ يُؤَدِّي حَقَّهَا إِلاَّ جَاءَتْ يَوْمَ الْقِيَامَةِ أَوْفَرَ مَا كَانَتْ فَيُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَنْطَحُهُ بِقُرُونِهَا وَتَطَؤُهُ بِأَظْلاَفِهَا لَيْسَ فِيهَا عَقْصَاءُ وَلاَ جَلْحَاءُ كُلَّمَا مَضَتْ أُخْرَاهَا رُدَّتْ عَلَيْهِ أُولاَهَا حَتَّى يَحْكُمَ اللَّهُ بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ ثُمَّ يُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ وَمَا مِنْ صَاحِبِ إِبِلٍ لاَ يُؤَدِّي حَقَّهَا إِلاَّ جَاءَتْ يَوْمَ الْقِيَامَةِ أَوْفَرَ مَا كَانَتْ فَيُبْطَحُ لَهَا بِقَاعٍ قَرْقَرٍ فَتَطَؤُهُ بِأَخْفَافِهَا كُلَّمَا مَضَتْ عَلَيْهِ أُخْرَاهَا رُدَّتْ عَلَيْهِ أُولاَهَا حَتَّى يَحْكُمَ اللَّهُ تَعَالَى بَيْنَ عِبَادِهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ مِمَّا تَعُدُّونَ ثُمَّ يُرَى سَبِيلُهُ إِمَّا إِلَى الْجَنَّةِ وَإِمَّا إِلَى النَّارِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " ما من صاحب كنز لا يودي حقه الا جعله الله يوم القيامة يحمى عليها في نار جهنم فتكوى بها جبهته وجنبه وظهره حتى يقضي الله تعالى بين عباده في يوم كان مقداره خمسين الف سنة مما تعدون ثم يرى سبيله اما الى الجنة واما الى النار وما من صاحب غنم لا يودي حقها الا جاءت يوم القيامة اوفر ما كانت فيبطح لها بقاع قرقر فتنطحه بقرونها وتطوه باظلافها ليس فيها عقصاء ولا جلحاء كلما مضت اخراها ردت عليه اولاها حتى يحكم الله بين عباده في يوم كان مقداره خمسين الف سنة مما تعدون ثم يرى سبيله اما الى الجنة واما الى النار وما من صاحب ابل لا يودي حقها الا جاءت يوم القيامة اوفر ما كانت فيبطح لها بقاع قرقر فتطوه باخفافها كلما مضت عليه اخراها ردت عليه اولاها حتى يحكم الله تعالى بين عباده في يوم كان مقداره خمسين الف سنة مما تعدون ثم يرى سبيله اما الى الجنة واما الى النار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ধনী ব্যক্তি তার হাক্ব (যাকাত) আদায় না করলে কিয়ামতের দিন সোনা ও রূপা জাহান্নামের আগুনে উত্তপ্ত করে তার ললাটে, তার পার্শ্বদেশে ও তার পৃষ্ঠদেশে সেঁক দেয়া হবে। এমন শাস্তি অব্যাহত থাকবে আল্লাহ তাঁর বান্দাদের মধ্যে ফায়সালা করার দিন পর্যন্ত, যে দিন হবে তোমাদের গণনা অনুসারে পঞ্চাশ হাজার বছরের সমান। এরপর সে নিজের গন্তব্যস্থান চাক্ষুস দেখবে, জান্নাত অথবা জাহান্নাম। আর যে মেষপালের মালিক তার যাকাত দেয় না কিয়ামতের দিন সেগুলো পূর্বের চেয়েও সংখ্যায় অধিক ও মোটা-তাজা অবস্থায় উপস্থিত হবে এবং তাকে শিং দিয়ে গুঁতা মারবে ও খুর দিয়ে দলিত করবে। ওসবের কোনোটিই বাঁকা শিংবিশিষ্ট বা শিংবিহীন হবে না। যখন সর্বশেষ জানোয়ারটি তাকে দলিত করে চলে যাবে, তখন প্রথমটিকে আবার তার কাছে আনা হবে। এরূপ চলতে থাকবে আল্লাহ তাঁর বান্দাদের মধ্যে ফয়সালা করার দিন পর্যন্ত, যে দিনটি হবে তোমাদের হিসাব মতে পঞ্চাশ হাজার বছরের সমান। এরপর সে তার গন্তব্যস্থান প্রত্যক্ষ করবে, জান্নাত অথবা জাহান্নাম। আর যে উটের মালিক উটের যাকাত প্রদান করে না কিয়ামতের দিন ঐ উট পূর্বের চাইতেও সংখ্যায় অধিক ও মোটা-তাজা অবস্থায় মালিকের নিকট উপস্থিত হবে। তাকে এক বিশাল সমভূমিতে উপুড় করে শোয়ানো হবে এবং পশুগুলো তাকে খুর দিয়ে দলন করতে থাকবে। সর্বশেষ পশুটি তাকে অতিক্রম করার পর প্রথমটিকে পুনরায় তার কাছে ফিরে আনা হবে। এরূপ চলতে থাকবে আল্লাহ তাঁর বান্দাদের মাঝে ফায়সালা করার দিন পর্যন্ত, যেদিন হবে তোমাদের গণনা অনুযায়ী পঞ্চাশ হাজার বছরের সমান। অতঃপর সে তার গন্তব্যস্থল প্রত্যক্ষ করবে, হয়তো জান্নাত অথবা জাহান্নাম।\[1\] সহীহ : মুসলিম। বুখারী সংক্ষেপে।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ধনী ব্যক্তি তার হাক্ব (যাকাত) আদায় না করলে কিয়ামতের দিন সোনা ও রূপা জাহান্নামের আগুনে উত্তপ্ত করে তার ললাটে, তার পার্শ্বদেশে ও তার পৃষ্ঠদেশে সেঁক দেয়া হবে। এমন শাস্তি অব্যাহত থাকবে আল্লাহ তাঁর বান্দাদের মধ্যে ফায়সালা করার দিন পর্যন্ত, যে দিন হবে তোমাদের গণনা অনুসারে পঞ্চাশ হাজার বছরের সমান। এরপর সে নিজের গন্তব্যস্থান চাক্ষুস দেখবে, জান্নাত অথবা জাহান্নাম। আর যে মেষপালের মালিক তার যাকাত দেয় না কিয়ামতের দিন সেগুলো পূর্বের চেয়েও সংখ্যায় অধিক ও মোটা-তাজা অবস্থায় উপস্থিত হবে এবং তাকে শিং দিয়ে গুঁতা মারবে ও খুর দিয়ে দলিত করবে। ওসবের কোনোটিই বাঁকা শিংবিশিষ্ট বা শিংবিহীন হবে না। যখন সর্বশেষ জানোয়ারটি তাকে দলিত করে চলে যাবে, তখন প্রথমটিকে আবার তার কাছে আনা হবে। এরূপ চলতে থাকবে আল্লাহ তাঁর বান্দাদের মধ্যে ফয়সালা করার দিন পর্যন্ত, যে দিনটি হবে তোমাদের হিসাব মতে পঞ্চাশ হাজার বছরের সমান। এরপর সে তার গন্তব্যস্থান প্রত্যক্ষ করবে, জান্নাত অথবা জাহান্নাম। আর যে উটের মালিক উটের যাকাত প্রদান করে না কিয়ামতের দিন ঐ উট পূর্বের চাইতেও সংখ্যায় অধিক ও মোটা-তাজা অবস্থায় মালিকের নিকট উপস্থিত হবে। তাকে এক বিশাল সমভূমিতে উপুড় করে শোয়ানো হবে এবং পশুগুলো তাকে খুর দিয়ে দলন করতে থাকবে। সর্বশেষ পশুটি তাকে অতিক্রম করার পর প্রথমটিকে পুনরায় তার কাছে ফিরে আনা হবে। এরূপ চলতে থাকবে আল্লাহ তাঁর বান্দাদের মাঝে ফায়সালা করার দিন পর্যন্ত, যেদিন হবে তোমাদের গণনা অনুযায়ী পঞ্চাশ হাজার বছরের সমান। অতঃপর সে তার গন্তব্যস্থল প্রত্যক্ষ করবে, হয়তো জান্নাত অথবা জাহান্নাম।[1] সহীহ : মুসলিম। বুখারী সংক্ষেপে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported that Messenger of Allah (SWAS) as saying If any owner of treasure (gold and silver) does not pay what is due on it, Allah will make it heated in the Hell fire on the Day of Judgment, and his side, forehead and back will be cauterized with it until Allah gives His Judgment among mankind during a day whose extent will be fifty thousand years of your count and he sees whether his path is to take him to Paradise or to Hell. If any owner does not pay zakat on them, the sheep wilkl appear on the Day or Judgment most strong and in great number, a soft sandy plain will be spread out for them ; they will gore him with their horns and trample him with their hoofs; there will be none of them with twisted horns or without horns. As often as the last of them passes him, the first of them will be brought back to him, until Allah pronounces His Judgment among mankind during a day whose extent will be fifty thousand years that you count, and he sees whether his path is to take him to Paradise or to Hell. If any owner of camels does not pay what is due on them, they will appear in on the Day or Judgment most strong and in great number, a soft sandy plain will be spread out for them ; they will gore him with their horns and trample him with their hoofs; there will be none of them with twisted horns or without horns. As often as the last of them passes him, the first of them will be brought back to him, until Allah pronounces His Judgment among mankind during a day whose extent will be fifty thousand years that you count, and he sees whether his path is to take him to Paradise or to Hell
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si un propriétaire de trésor (d’or ou d’argent) ne paie pas ce qui est dû dessus, Allah fera chauffer ce trésor dans le feu de l’Enfer le Jour du Jugement, et ses flancs, son front et son dos seront marqués avec, jusqu’à ce qu’Allah rende son jugement parmi les gens, pendant un jour qui durera cinquante mille ans selon votre façon de compter, et il verra si son chemin le mène au Paradis ou en Enfer. Si un propriétaire ne paie pas la zakat sur ses moutons, ils apparaîtront le Jour du Jugement, forts et nombreux, sur une plaine sablonneuse ; ils le frapperont de leurs cornes et le piétineront de leurs sabots ; aucun n’aura de cornes tordues ou n’en sera dépourvu. Dès que le dernier sera passé, le premier sera ramené, et cela continuera jusqu’à ce qu’Allah rende son jugement parmi les gens, pendant un jour de cinquante mille ans selon votre compte, et il verra si son chemin le mène au Paradis ou en Enfer. Si un propriétaire de chameaux ne paie pas ce qui est dû dessus, ils apparaîtront le Jour du Jugement, forts et nombreux, sur une plaine sablonneuse ; ils le frapperont de leurs cornes et le piétineront de leurs sabots ; aucun n’aura de cornes tordues ou n’en sera dépourvu. Dès que le dernier sera passé, le premier sera ramené, et cela continuera jusqu’à ce qu’Allah rende son jugement parmi les gens, pendant un jour de cinquante mille ans selon votre compte, et il verra si son chemin le mène au Paradis ou en Enfer. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Musa bin Isma'il\], telah menceritakan kepada Kami \[Hammad\] dari \[Suhail bin Abu Shalih\], dari \[ayahnya\] dari \[Abu Hurairah\] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidaklah pemilik barang simpanan yang tidak menunaikan haknya kecuali Allah menjadikannya pada Hari Kiamat dipanaskan barang simpanan tersebut dalam neraka jahannam, lalu dibakar dengannya dahinya, lambung dan punggungnya, hingga Allah memberikan keputusan diantara para hambaNya pada hari yang kadarnya adalah lima puluh ribu tahun menurut perhitungan kalian, kemudian ia akan melihat jalannya, ke Surga atau ke Neraka. Dan tidaklah pemilik kambing yang tidak menunaikan haknya melainkan kambing tersebut akan datang pada Hari Kiamat lebih banyak daripada dahulunya dan pemiliknya di dudukkan di hadapannya pada tanah terbuka yang datar, kambing tersebut menanduknya dengan tanduknya dan menginjaknya dengan sepatu-sepatunya, tidak ada padanya kambing yang bertanduk bengkok serta yang tidak bertanduk. Setiap kali kambing yang terakhir selesai maka kambing yang pertama dikembalikan lagi, hingga Allah memberikan keputusan diantara para hambaNya pada hari yang kadarnya adalah lima puluh ribu tahun menurut perhitungan kalian. Kemudian ia akan melihat jalannya, ke Surga atau ke Neraka. Dan tidaklah pemilik unta yang tidak menunaikan haknya melainkan unta tersebut akan datang pada Hari Kiamat lebih banyak daripada dahulunya dan orang tersebut didudukkan di hadapannya pada tanah terbuka yang datar, unta tersebut menginjaknya dengan sepatunya. Setiap kali unta yang terakhir selesai maka unta yang pertama dikembalikan kepadanya hingga Allah ta'ala memberikan keputusan diantara para hambaNya pada hari kadarnya adalah lima puluh ribu tahun menurut perhitungan kalian. Kemudian ia akan melihat jalannya, ke Surga atau ke Neraka." Telah menceritakan kepada Kami \[Ja'far bin Musafir\], telah menceritakan kepada Kami \[Ibnu Abu Fudaik\] dari \[Hisyam bin Sa'd\] dari \[Zaid bin Aslam\] dari \[Abu Shalih\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam seperti itu. Ia berkata dalam kisah unta, setelah sabdanya: "Tidak menunaikan haknya…." Beliau bersabda: "Dan diantara haknya adalah memerahnya pada hari kedatangannya ke air." Telah menceritakan kepada Kami \[Al Hasan bin Ali\], telah menceritakan kepada Kami \[Yazid bin Harun\], telah mengabarkan kepada Kami \[Syu'bah\] dari \[Qatadah\] dari \[Abu Umar Al Ghudani\], dari \[Abu Hurairah\], ia berkata; saya mendengar Rasulullah shallAllahu wa'alaihi wa sallam seperti kisah ini. Kemudian Abu Umar berkata kepada Abu Hurairah; apakah hak unta? Ia berkata; engkau memberikan yang berharga, memberikan susunya yang deras, meminjamkan untuk dikendarai, mengawinkan pejantan, dan memberi minum susu. Telah menceritakan kepada Kami \[Yahya bin Khalaf\], telah menceritakan kepada Kami \[Abu 'Ashim\] dari \[Ibnu Juraij\], ia berkata; \[Abu Az Zubair\] berkata; saya mendengar \['Ubaid bin 'Umair\] berkata; seorang laki-laki berkata; wahai Rasulullah shallallahu 'alaihi wasallam, apakah hak unta? Kemudian 'Ubaid menyebutkan hadits seperti itu dan menambahkan; "Dan meminjamkan embernya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Musa bin Isma'il], telah menceritakan kepada Kami [Hammad] dari [Suhail bin Abu Shalih], dari [ayahnya] dari [Abu Hurairah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Tidaklah pemilik barang simpanan yang tidak menunaikan haknya kecuali Allah menjadikannya pada Hari Kiamat dipanaskan barang simpanan tersebut dalam neraka jahannam, lalu dibakar dengannya dahinya, lambung dan punggungnya, hingga Allah memberikan keputusan diantara para hambaNya pada hari yang kadarnya adalah lima puluh ribu tahun menurut perhitungan kalian, kemudian ia akan melihat jalannya, ke Surga atau ke Neraka. Dan tidaklah pemilik kambing yang tidak menunaikan haknya melainkan kambing tersebut akan datang pada Hari Kiamat lebih banyak daripada dahulunya dan pemiliknya di dudukkan di hadapannya pada tanah terbuka yang datar, kambing tersebut menanduknya dengan tanduknya dan menginjaknya dengan sepatu-sepatunya, tidak ada padanya kambing yang bertanduk bengkok serta yang tidak bertanduk. Setiap kali kambing yang terakhir selesai maka kambing yang pertama dikembalikan lagi, hingga Allah memberikan keputusan diantara para hambaNya pada hari yang kadarnya adalah lima puluh ribu tahun menurut perhitungan kalian. Kemudian ia akan melihat jalannya, ke Surga atau ke Neraka. Dan tidaklah pemilik unta yang tidak menunaikan haknya melainkan unta tersebut akan datang pada Hari Kiamat lebih banyak daripada dahulunya dan orang tersebut didudukkan di hadapannya pada tanah terbuka yang datar, unta tersebut menginjaknya dengan sepatunya. Setiap kali unta yang terakhir selesai maka unta yang pertama dikembalikan kepadanya hingga Allah ta'ala memberikan keputusan diantara para hambaNya pada hari kadarnya adalah lima puluh ribu tahun menurut perhitungan kalian. Kemudian ia akan melihat jalannya, ke Surga atau ke Neraka." Telah menceritakan kepada Kami [Ja'far bin Musafir], telah menceritakan kepada Kami [Ibnu Abu Fudaik] dari [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam seperti itu. Ia berkata dalam kisah unta, setelah sabdanya: "Tidak menunaikan haknya…." Beliau bersabda: "Dan diantara haknya adalah memerahnya pada hari kedatangannya ke air." Telah menceritakan kepada Kami [Al Hasan bin Ali], telah menceritakan kepada Kami [Yazid bin Harun], telah mengabarkan kepada Kami [Syu'bah] dari [Qatadah] dari [Abu Umar Al Ghudani], dari [Abu Hurairah], ia berkata; saya mendengar Rasulullah shallAllahu wa'alaihi wa sallam seperti kisah ini. Kemudian Abu Umar berkata kepada Abu Hurairah; apakah hak unta? Ia berkata; engkau memberikan yang berharga, memberikan susunya yang deras, meminjamkan untuk dikendarai, mengawinkan pejantan, dan memberi minum susu. Telah menceritakan kepada Kami [Yahya bin Khalaf], telah menceritakan kepada Kami [Abu 'Ashim] dari [Ibnu Juraij], ia berkata; [Abu Az Zubair] berkata; saya mendengar ['Ubaid bin 'Umair] berkata; seorang laki-laki berkata; wahai Rasulullah shallallahu 'alaihi wasallam, apakah hak unta? Kemudian 'Ubaid menyebutkan hadits seperti itu dan menambahkan; "Dan meminjamkan embernya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В День воскресения (накопленные) сокровища любого человека, не отдающего со своего имущества должного, Аллах обязательно сделает так, что они будут раскалены в огне Геенны, и ими будут заклеймены ими его лоб, бока и спина, пока Аллах не подвергнет Суду Своих рабов в течение Дня, продолжительность которого составит пятьдесят тысяч лет, которыми считаете вы. А потом ему будет показана ему его дорога либо в Рай, либо в Ад. И любого владельца овец, не отдающего должного со своего имущества, в День воскресения обязательно повергнут на землю на пустынной равнине, и все овцы станут полными, какими были в мире этом, и начнут бодать его своими рогами и топтать копытами. И не будет среди них животных с закрученными рогами, безрогих и имеющих сломанные рога. И всякий раз, как пройдут по нему первые из них, станут возвращать к нему последних. Это будет происходить, пока не завершится Суд над рабами в течение Дня, продолжительность которого составит пятьдесят тысяч лет. А потом будет показана ему его дорога либо в Рай, либо в Ад. И любого владельца верблюдов, не отдающего должного со своего имущества, в День воскресения обязательно повергнут на землю на пустынной равнине, и все они станут полными, какими были в мире этом, и начнут топтать его. И всякий раз, как пройдут по нему первые из них, станут возвращать к нему последних. Это будет происходить, пока не завершится Суд над рабами в течение Дня, продолжительность которого составит пятьдесят тысяч лет. А потом ему будет показана его дорога либо в Рай, либо в Ад»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre'den rivayet edildiğine göre, Resûlullah (s.a.v.) şöyle buyurmuştur: "Servetinin zekâtını vermeyen hiçbir mal sahibi yoktur ki Allah, kıyamet günü cehennem ateşinde o malı kızdırtmamış olsun ve miktarı sizin saydığınız günlerden elli bin sene olan bir günde Allah, kullarının arasında hükmedinceye kadar- o malla sahibinin yüzü, yanları ve sırtı dağlanmasın. Sonra ya cennet'e ya da cehennem'e (giden) yolu kendisine gösterilir. Zekâtını vermeyen hiç bir koyun sürüsü sahibi yoktur ki, kıyamet günü o koyunlar, olduğundan fazla gelmesin ve sahibi düz ve geniş bir yer'e onların önüne yatırılarak onu boynuzlan ile süsmesin, tırnakları ile çiğnemesinler ki, aralarında ne yamuk boynuzlu ve ne de boynuzsuz yoktur. Miktarı sizin saydığınız günlerden elli bin sene olan bir günde Allah, kullarının arasında hükmedinceye kadar sürünün sonundakiler, onun üzerinden geçtikçe Öndekiler bir daha üzerine gönderilir. Sonra ya cennet'e ya da cehennem'e (giden) yol'u kendisine gösterilir. Zekâtını vermeyen hiç bir deve sahibi yoktur ki kıyamet günü o develer olduğundan fazla gelmesin ve sahibi düz ve geniş bir yer'e onların önüne yatırılarak ayaklarıyla çiğnemesinler. Miktarı sizin saydığımz günlerden elli bin sene olan bir günde Allah, kullarının arasında hükmedinceye kadar sondakiler, onun üzerinden geçtikçe öndekiler bir daha üzerine gönderilir. Sonra ya cennet'e ya da cehennem'e (giden) yol'u kendisine gösterilir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کے پاس مال ہو وہ اس کا حق ادا نہ کرتا ہو تو قیامت کے روز اللہ اسے اس طرح کر دے گا کہ اس کا مال جہنم کی آگ میں گرم کیا جائے گا پھر اس سے اس کی پیشانی، پسلی اور پیٹھ کو داغا جائے گا، یہاں تک کہ اللہ تعالیٰ اپنے بندوں کا ایک ایسے دن میں فیصلہ فرما دے گا جس کی مقدار تمہارے ( دنیاوی ) حساب سے پچاس ہزار برس کی ہو گی، اس کے بعد وہ اپنی راہ دیکھے گا وہ راہ یا تو جنت کی طرف جا رہی ہو گی یا جہنم کی طرف۔ ( اسی طرح ) جو بکریوں والا ہو اور ان کا حق ( زکاۃ ) ادا نہ کرتا ہو تو قیامت کے روز وہ بکریاں اس سے زیادہ موٹی ہو کر آئیں گی، جتنی وہ تھیں، پھر اسے ایک مسطح چٹیل میدان میں ڈال دیا جائے گا، وہ اسے اپنی سینگوں سے ماریں گی اور کھروں سے کچلیں گی، ان میں کوئی بکری ٹیڑھے سینگ کی نہ ہو گی اور نہ ایسی ہو گی جسے سینگ ہی نہ ہو، جب ان کی آخری بکری مار کر گزر چکے گی تو پھر پہلی بکری ( مارنے کے لیے ) لوٹائی جائے گی ( یعنی باربار یہ عمل ہوتا رہے گا ) ، یہاں تک کہ اللہ تعالیٰ اپنے بندوں کے درمیان فیصلہ فرما دے اس دن میں جس کی مقدار تمہارے ( دنیاوی ) حساب سے پچاس ہزار برس کی ہو گی، اس کے بعد وہ اپنی راہ دیکھ لے گا یا تو جنت کی طرف یا جہنم کی طرف۔ ( اسی طرح ) جو بھی اونٹ والا ہے اگر وہ ان کا حق ( زکاۃ ) ادا نہیں کرتا تو یہ اونٹ قیامت کے دن پہلے سے زیادہ طاقتور اور موٹے ہو کر آئیں گے اور اس شخص کو ایک مسطح چٹیل میدان میں ڈال دیا جائے گا، پھر وہ اسے اپنے کھروں سے روندیں گے، جب آخری اونٹ بھی روند چکے گا تو پہلے اونٹ کو ( روندنے کے لیے ) پھر لوٹایا جائے گا، ( یہ عمل چلتا رہے گا ) یہاں تک کہ اللہ تعالیٰ اپنے بندوں کے درمیان فیصلہ فرما دے گا اس دن میں جس کی مقدار تمہارے ( دنیاوی ) حساب سے پچاس ہزار برس کی ہو گی، پھر وہ اپنی راہ دیکھ لے گا یا تو جنت کی طرف یا جہنم کی طرف ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (987)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1658</td></tr><tr><td>Arabic No</td><td>1658</td></tr><tr><td>Reference</td><td>Book 9 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (987) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1658 |
+| Arabic No | 1658 |
+| Reference | Book 9 Hadith 103 |

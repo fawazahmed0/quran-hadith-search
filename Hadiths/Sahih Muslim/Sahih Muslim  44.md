@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## French
 
+Rapporté par Abū Āmir Abd Allah bin Barrād al-Ash’arī : Abū Usāmah nous a rapporté, de la part de Mufaḍḍal, de la part de Mughīrah, il a dit, j’ai entendu ash-Sha’bī dire : « al-Hārith al-A’war m’a rapporté », et il témoignait qu’il faisait partie des menteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bize Kuteybetü İbn Saîd rivâyet etti. ki): Bana Cerîr, Mugîra'dan o da Şa'bî'den naklen rivâyet etti. Şa'bî: «Bana el-Hârisü’l-A'ver el-Hemdânî rivâyet eyledi. Ama o bir yalancı idi.» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قتیبہ بن سعید ‘ جریر نے مغیرہ سے ، انہوں نے شعبی سے روایت کی ، کہا : مجھے حارث اعور ہمدانی نے حدیث سنائی اور وہ کذاب تھا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>44</td></tr><tr><td>Reference</td><td>Book 0 Hadith 44</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 44 |
+| Reference | Book 0 Hadith 44 |

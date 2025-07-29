@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## French
 
+Rapporté par Ubayd Allah bin Mu’ādh al-Anbarī : Mon père m’a rapporté, il a dit : « J’ai écrit à Shu’bah pour lui demander au sujet d’Abū Shaybah, un juge de Wāsit, alors il m’a répondu par écrit : ‘Ne prends rien de lui \[en matière de hadith\] et déchire ma lettre \[à ce sujet\].’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Reference</td><td>Book 0 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Reference | Book 0 Hadith 72 |

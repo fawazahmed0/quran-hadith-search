@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ أَبَانَ الْبَلْخِيُّ، قَالَ حَدَّثَنَا مَعْنٌ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ، قَالَ يُقَالُ الصِّيَامُ فِي السَّفَرِ كَالإِفْطَارِ فِي الْحَضَرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 195</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |
+
 اخبرنا محمد بن ابان البلخي، قال حدثنا معن، عن ابن ابي ذيب، عن الزهري، عن ابي سلمة بن عبد الرحمن، عن عبد الرحمن بن عوف، قال يقال الصيام في السفر كالافطار في الحضر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 195</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু আবান বালাখী (রহঃ) ... আব্দুর রহমান ইবনু আউফ (রাঃ) থেকে বর্ণিত। তিনি বলেন, বলা হয় যে, সফরকালীন অবস্থায় সাওম পালন করা বাড়ীতে অবস্থানকালে সাওম (রোযা/রোজা/সিয়াম/ছিয়াম) ভঙ্গ করার ন্যায়। (সফরকালীন অবস্থায় সাওম পালন দ্বারা যদি সাওম পালনকারী পরিশ্রান্ত হয়ে যায় তবে তার জন্য সাওম ভঙ্গ করাই উত্তম)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 195</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Abdur-Rahman bin 'Awf said:"It is said that fasting while traveling is like not fasting while a resident." (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 195</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |
+
+## French
+
+Rapporté par 'Abdur-Rahman bin 'Awf : "On dit que jeûner en voyage est comme ne pas jeûner en étant résident." (Daif)
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Aban Al Balkhi\] dia berkata; telah menceritakan kepada kami \[Ma'n\] dari \[Ibnu Abu Dzi'b\] dari \[Az Zuhri\] dari \[Abu Salamah bin 'Abdurrahman\] dari \['Abdurrahman bin 'Auf\] dia berkata; "Dikatakan bahwa puasa pada waktu safar seperti halnya berbuka pada waktu mukim (tidak bersafar)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Aban Al Balkhi] dia berkata; telah menceritakan kepada kami [Ma'n] dari [Ibnu Abu Dzi'b] dari [Az Zuhri] dari [Abu Salamah bin 'Abdurrahman] dari ['Abdurrahman bin 'Auf] dia berkata; "Dikatakan bahwa puasa pada waktu safar seperti halnya berbuka pada waktu mukim (tidak bersafar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 195</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 195</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمٰن بن عوف رضی الله عنہ کہتے ہیں کہا جاتا ہے سفر میں روزہ رکھنا ایسا ہے جیسے حضر میں افطار کرنا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2284</td></tr><tr><td>Arabic No</td><td>2284</td></tr><tr><td>Reference</td><td>Book 22 Hadith 195</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Abu Ghuddah |
+| Daif Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2284 |
+| Arabic No | 2284 |
+| Reference | Book 22 Hadith 195 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ، حَدَّثَنَا خَالِدُ بْنُ يَزِيدَ، حَدَّثَنَا أَبُو جَعْفَرٍ الرَّازِيُّ، عَنِ الرَّبِيعِ بْنِ أَنَسٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ عَلَيْكُمْ بِالدُّلْجَةِ فَإِنَّ الأَرْضَ تُطْوَى بِاللَّيْلِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
+
 حدثنا عمرو بن علي، حدثنا خالد بن يزيد، حدثنا ابو جعفر الرازي، عن الربيع بن انس، عن انس، قال قال رسول الله صلى الله عليه وسلم " عليكم بالدلجة فان الارض تطوى بالليل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের রাতের প্রথমাংশে সফর করা উচিত। কেননা রাতের বেলা যমীন সংকুচিত হয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas reported the Apostle of Allaah(ﷺ) as saying “Keep to travelling by night, for the earth is traversed (more easily) by night
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
+
+## French
+
+Anas رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Voyagez de nuit, car la terre se parcourt plus facilement la nuit. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Amr bin Ali\], telah menceritakan kepada kami \[Khalid bin Yazid\], telah menceritakan kepada kami \[Abu Ja'far Ar Razi\], dari \[Ar Rabi' bin Anas\], dari \[Anas\], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Hendaknya kalian pergi pada malam hari, karena sesungguhnya bumi diperpendek jaraknya pada malam hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amr bin Ali], telah menceritakan kepada kami [Khalid bin Yazid], telah menceritakan kepada kami [Abu Ja'far Ar Razi], dari [Ar Rabi' bin Anas], dari [Anas], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Hendaknya kalian pergi pada malam hari, karena sesungguhnya bumi diperpendek jaraknya pada malam hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Вам следует (отправляться в путь) ночью, ибо по ночам землю сворачивают»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a.)'den; demiştir ki: "Rasülullah (s.a.v.) şöyle buyurdu": "Size gereken yolculuğunuzu gece yapmanızdır. Çünkü yer geceleyin durulur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: رات کے آخری حصہ میں سفر کرنے کو لازم پکڑو، کیونکہ زمین رات کو لپیٹ دی جاتی ہے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2571</td></tr><tr><td>Arabic No</td><td>2571</td></tr><tr><td>Reference</td><td>Book 15 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2571 |
+| Arabic No | 2571 |
+| Reference | Book 15 Hadith 95 |

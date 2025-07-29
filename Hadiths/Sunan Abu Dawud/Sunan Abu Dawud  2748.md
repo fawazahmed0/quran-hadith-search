@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، قَالَ أَخْبَرَنَا سُفْيَانُ، عَنْ يَزِيدَ بْنِ يَزِيدَ بْنِ جَابِرٍ الشَّامِيِّ، عَنْ مَكْحُولٍ، عَنْ زِيَادِ بْنِ جَارِيَةَ التَّمِيمِيِّ، عَنْ حَبِيبِ بْنِ مَسْلَمَةَ الْفِهْرِيِّ، أَنَّهُ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُنَفِّلُ الثُّلُثَ بَعْدَ الْخُمُسِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
+
 حدثنا محمد بن كثير، قال اخبرنا سفيان، عن يزيد بن يزيد بن جابر الشامي، عن مكحول، عن زياد بن جارية التميمي، عن حبيب بن مسلمة الفهري، انه قال كان رسول الله صلى الله عليه وسلم ينفل الثلث بعد الخمس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । হাবীব ইবনু মাসলামাহ আল-ফিহরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গানীমাতের এক-পঞ্চমাংশ বের করার পর অবশিষ্ট মালের এক-তৃতীয়াংশ অতিরিক্ত হিসেবে প্রদান করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Habib ibn Maslamah al-Fihri: The Messenger of Allah (ﷺ) would give a third of the spoils after he would keep off the fifth
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
+
+## French
+
+Rapporté par Habib ibn Maslamah al-Fihri رضي الله عنه : Le Messager d’Allah ﷺ donnait un tiers du butin après avoir prélevé le cinquième
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\], ia berkata; telah mengabarkan kepada kami \[Sufyan\] dari \[Yazid bin Yazid bin Jabir Asy Syami\], dari \[Makhul\] dari \[Ziyad bin Jariyah At Taimi\] dari \[Habib bin Maslamah Al Fihri\], bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan tambahan sepertiga setelah diambil seperlima
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir], ia berkata; telah mengabarkan kepada kami [Sufyan] dari [Yazid bin Yazid bin Jabir Asy Syami], dari [Makhul] dari [Ziyad bin Jariyah At Taimi] dari [Habib bin Maslamah Al Fihri], bahwa ia berkata; Rasulullah shallallahu 'alaihi wasallam memberikan tambahan sepertiga setelah diambil seperlima
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Habib b. Meslem el-Fihrî'den, denilmiştir ki: Rasûlullah (s.a.v.) Humus (denilen beşte bir hisseyi ganimetlerden ayırdık) tan sonra (kalanın) üçte biri (ni) nefel olarak (mücahidlere) verirdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حبیب بن مسلمہ فہری رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم ( مال غنیمت میں سے ) خمس ( پانچواں حصہ ) نکالنے کے بعد ثلث ( ایک تہائی ) بطور نفل ( انعام ) دیتے تھے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2748</td></tr><tr><td>Arabic No</td><td>2748</td></tr><tr><td>Reference</td><td>Book 15 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2748 |
+| Arabic No | 2748 |
+| Reference | Book 15 Hadith 272 |

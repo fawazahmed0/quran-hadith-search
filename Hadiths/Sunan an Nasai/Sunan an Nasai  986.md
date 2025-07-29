@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,116 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أُمِّهِ، أَنَّهَا سَمِعَتِ النَّبِيَّ صلى الله عليه وسلم يَقْرَأُ فِي الْمَغْرِبِ بِالْمُرْسَلاَتِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |
+
 اخبرنا قتيبة، قال حدثنا سفيان، عن الزهري، عن عبيد الله، عن ابن عباس، عن امه، انها سمعت النبي صلى الله عليه وسلم يقرا في المغرب بالمرسلات
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... ইবনু আব্বাস (রাঃ) তাঁর মাতার সুত্রে বর্ণনা করেন, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে মাগরিবের সালাতে সূরা “ওয়াল মুরসালাত”- পাঠ করতে শুনেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn Abbas from his mother that:She heard the Prophet (ﷺ) recite Al-Mursalat in Maghrib
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |
+
+## French
+
+Rapporté par Ibn Abbas d’après sa mère : Elle a entendu le Prophète (ﷺ) réciter Al-Mursalat lors du maghrib
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\] dari \[Ubaidillah\] dari \[Ibnu Abbas\] dari \[Ibunya\] bahwa ia pernah mendengar Rasulullah Shallallallahu'alaihi wasallam shalat Maghrib dengan membaca surat Al Mursalaat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Ubaidillah] dari [Ibnu Abbas] dari [Ibunya] bahwa ia pernah mendengar Rasulullah Shallallallahu'alaihi wasallam shalat Maghrib dengan membaca surat Al Mursalaat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہم اپنی ماں (ام الفضل بنت حارث رضی اللہ عنہا) سے روایت کرتے ہیں کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم کو مغرب میں سورۃ المرسلات پڑھتے سنا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>986</td></tr><tr><td>Arabic No</td><td>986</td></tr><tr><td>Reference</td><td>Book 11 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 986 |
+| Arabic No | 986 |
+| Reference | Book 11 Hadith 111 |

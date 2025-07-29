@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ الْيَهُودَ، كَانَتْ إِذَا حَاضَتْ مِنْهُمُ امْرَأَةٌ أَخْرَجُوهَا مِنَ الْبَيْتِ وَلَمْ يُؤَاكِلُوهَا وَلَمْ يُشَارِبُوهَا وَلَمْ يُجَامِعُوهَا فِي الْبَيْتِ فَسُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ فَأَنْزَلَ اللَّهُ سُبْحَانَهُ ‏(‏ وَيَسْأَلُونَكَ عَنِ الْمَحِيضِ قُلْ هُوَ أَذًى فَاعْتَزِلُوا النِّسَاءَ فِي الْمَحِيضِ ‏)‏ إِلَى آخِرِ الآيَةِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ جَامِعُوهُنَّ فِي الْبُيُوتِ وَاصْنَعُوا كُلَّ شَىْءٍ غَيْرَ النِّكَاحِ ‏"‏ ‏.‏ فَقَالَتِ الْيَهُودُ مَا يُرِيدُ هَذَا الرَّجُلُ أَنْ يَدَعَ شَيْئًا مِنْ أَمْرِنَا إِلاَّ خَالَفَنَا فِيهِ ‏.‏ فَجَاءَ أُسَيْدُ بْنُ حُضَيْرٍ وَعَبَّادُ بْنُ بِشْرٍ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالاَ يَا رَسُولَ اللَّهِ إِنَّ الْيَهُودَ تَقُولُ كَذَا وَكَذَا أَفَلاَ نَنْكِحُهُنَّ فِي الْمَحِيضِ فَتَمَعَّرَ وَجْهُ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى ظَنَنَّا أَنْ قَدْ وَجَدَ عَلَيْهِمَا فَخَرَجَا فَاسْتَقْبَلَتْهُمَا هَدِيَّةٌ مِنْ لَبَنٍ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَعَثَ فِي آثَارِهِمَا فَسَقَاهُمَا فَظَنَنَّا أَنَّهُ لَمْ يَجِدْ عَلَيْهِمَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، حدثنا ثابت البناني، عن انس بن مالك، ان اليهود، كانت اذا حاضت منهم امراة اخرجوها من البيت ولم يواكلوها ولم يشاربوها ولم يجامعوها في البيت فسيل رسول الله صلى الله عليه وسلم عن ذلك فانزل الله سبحانه ( ويسالونك عن المحيض قل هو اذى فاعتزلوا النساء في المحيض ) الى اخر الاية فقال رسول الله صلى الله عليه وسلم " جامعوهن في البيوت واصنعوا كل شىء غير النكاح " . فقالت اليهود ما يريد هذا الرجل ان يدع شييا من امرنا الا خالفنا فيه . فجاء اسيد بن حضير وعباد بن بشر الى النبي صلى الله عليه وسلم فقالا يا رسول الله ان اليهود تقول كذا وكذا افلا ننكحهن في المحيض فتمعر وجه رسول الله صلى الله عليه وسلم حتى ظننا ان قد وجد عليهما فخرجا فاستقبلتهما هدية من لبن الى رسول الله صلى الله عليه وسلم فبعث في اثارهما فسقاهما فظننا انه لم يجد عليهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ইয়াহূদীদের নিয়ম ছিল, তাদের নারীদের মাসিক আরম্ভ হলে তারা তাকে ঘর থেকে বের করে দিত। তারা তার সাথে আহার করত না এবং এক ঘরে বসবাসও করত না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ বিষয়ে জিজ্ঞাসা করা হলে মহান আল্লাহ এ প্রসঙ্গে নিম্নোক্ত আয়াত অবতীর্ন করেনঃ ‘‘তারা তোমাকে হায়িয সম্পর্কে জিজ্ঞাসা করে? তুমি বল, তা অপবিত্র। কাজেই তোমরা হায়িয চলাকালে সহবাস বর্জন করবে এবং পবিত্র না হওয়া পর্যন্ত সঙ্গম করবে না। তারা যখন পবিত্র হবে তখন তোমরা তাদের নিকট ঠিক সেভাবে যাও যেভাবে (পূর্বে) যেতে, আল্লাহ তোমাদের আদেশ করেছেন। যারা পাপ কাজ হতে বিরত থাকে ও পবিত্রতা অবলম্বন করে আল্লাহ তাদের ভালবাসেন।’’- (সূরাহ বাক্বারাহ : ২২২)। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমরা তাদের সাথে (তাদের হায়িয অবস্থায়) একই ঘরে অবস্থান ও অন্যান্য কাজ করতে পার শুধু সহবাস ছাড়া। এ কথা শুনে ইয়াহূদীরা বলল, এ লোক (মুহাম্মাদ) তো প্রতিটি কাজেই আমাদের বিরুদ্ধাচরণ করতে চায়। উসাইদ ইবনু হুদায়ির এবং ‘আব্বাদ ইবনু বিশর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললো, হে আল্লাহর রসূল! ইয়াহূদীরা এরূপ এরূপ বলেছে। তবে কি ঋতু অবস্থায় আমরা তাদের সাথে সহবাস করব না? এ কথা শুনে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেহারা পরিবর্তন হয়ে গেল, এমনকি আমরা মনে করলাম, তিনি হয়ত তাঁদের উপর ক্রোধান্বিত হয়েছেন। এরপর তাঁরা সেখান থেকে চলে গিয়ে (জনৈক সাহাবীর মাধ্যমে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট দুধ হাদিয়া পাঠালেন। তিনি তাদের ডেকে দুধ পান করালেন। তখন আমরা বুঝলাম তাদের উপর তাঁর কোন রাগ নেই।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ইয়াহূদীদের নিয়ম ছিল, তাদের নারীদের মাসিক আরম্ভ হলে তারা তাকে ঘর থেকে বের করে দিত। তারা তার সাথে আহার করত না এবং এক ঘরে বসবাসও করত না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এ বিষয়ে জিজ্ঞাসা করা হলে মহান আল্লাহ এ প্রসঙ্গে নিম্নোক্ত আয়াত অবতীর্ন করেনঃ ‘‘তারা তোমাকে হায়িয সম্পর্কে জিজ্ঞাসা করে? তুমি বল, তা অপবিত্র। কাজেই তোমরা হায়িয চলাকালে সহবাস বর্জন করবে এবং পবিত্র না হওয়া পর্যন্ত সঙ্গম করবে না। তারা যখন পবিত্র হবে তখন তোমরা তাদের নিকট ঠিক সেভাবে যাও যেভাবে (পূর্বে) যেতে, আল্লাহ তোমাদের আদেশ করেছেন। যারা পাপ কাজ হতে বিরত থাকে ও পবিত্রতা অবলম্বন করে আল্লাহ তাদের ভালবাসেন।’’- (সূরাহ বাক্বারাহ : ২২২)। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমরা তাদের সাথে (তাদের হায়িয অবস্থায়) একই ঘরে অবস্থান ও অন্যান্য কাজ করতে পার শুধু সহবাস ছাড়া। এ কথা শুনে ইয়াহূদীরা বলল, এ লোক (মুহাম্মাদ) তো প্রতিটি কাজেই আমাদের বিরুদ্ধাচরণ করতে চায়। উসাইদ ইবনু হুদায়ির এবং ‘আব্বাদ ইবনু বিশর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললো, হে আল্লাহর রসূল! ইয়াহূদীরা এরূপ এরূপ বলেছে। তবে কি ঋতু অবস্থায় আমরা তাদের সাথে সহবাস করব না? এ কথা শুনে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর চেহারা পরিবর্তন হয়ে গেল, এমনকি আমরা মনে করলাম, তিনি হয়ত তাঁদের উপর ক্রোধান্বিত হয়েছেন। এরপর তাঁরা সেখান থেকে চলে গিয়ে (জনৈক সাহাবীর মাধ্যমে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট দুধ হাদিয়া পাঠালেন। তিনি তাদের ডেকে দুধ পান করালেন। তখন আমরা বুঝলাম তাদের উপর তাঁর কোন রাগ নেই।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas b. malik said:Among the jews, when a women menstruated, they ejected her from the house, and they did not eat with her, nor did they drink with her, nor did they associate with her in (their houses) so the Messenger of Allah (May peace be upon him) was questioned about that. Thereupon Allah revealed : “They question thee concerning menstruation. Say : I: is an illness, so let woman alone at such times” (ii 222). The Messenger of Allah (May peace be upon him) then said: Associate with them in the houses and do everything except sexual intercourse. Thereupon the Jews said: This man does not want to leave anything we do without opposing us in it. Usaid b. Hudair and Abbad b. Bishr came and said: Messenger of Allah, the jews are saying such and such a thing. Shall we not then have intercourse with women during mensuration? The face of the Apostle Allah(ﷺ) underwent such a change that we thought he was angry with them; but when they went out they received a gift of milk which was being brought to the Messenger of Allah(ﷺ), and he sent after them and gave them a drink, whereupon we thought that he was not angry with them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
+
+## French
+
+Rapporté par Anas ibn Malik رضي الله عنه : Chez les juifs, lorsqu’une femme avait ses règles, ils la faisaient sortir de la maison, ne mangeaient ni ne buvaient avec elle, et ne restaient pas avec elle dans leurs maisons. Le Messager d’Allah ﷺ fut interrogé à ce sujet. Alors Allah révéla : « Ils t’interrogent au sujet des menstrues. Dis : c’est une gêne, éloignez-vous donc des femmes pendant les menstrues » (Sourate 2, verset 222). Le Messager d’Allah ﷺ dit alors : « Restez avec elles dans les maisons et faites tout sauf avoir des rapports sexuels. » Les juifs dirent alors : « Cet homme ne veut rien laisser de ce que nous faisons sans s’y opposer. » Usaid ibn Hudair et Abbad ibn Bishr vinrent et dirent : « Messager d’Allah, les juifs disent ceci et cela. Devons-nous alors avoir des rapports avec les femmes pendant leurs règles ? » Le visage du Messager d’Allah ﷺ changea à tel point que nous avons cru qu’il était en colère contre eux. Mais lorsqu’ils partirent, ils reçurent un cadeau de lait qui était apporté au Messager d’Allah ﷺ, et il les fit appeler pour leur en donner à boire. Nous avons alors compris qu’il n’était pas fâché contre eux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] telah menceritakan kepada kami \[Tsabit Al-Bunani\] dari \[Anas bin Malik\] bahwasanya orang-orang Yahudi, apabila istri-istri mereka datang haidl, maka mereka mengusirnya dari rumah. Mereka tidak makan, tidak minum, dan tidak berkumpul dengannya di rumah. Lalu Rasulullah shallallahu 'alaihi wasallam ditanya tentang hal tersebut, maka Allah Subhanahu wa Ta'ala menurunkan ayat (yang artinya): "Dan mereka bertanya kepadamu tentang haidl. Katakanlah, 'Haidl itu adalah kotoran, oleh sebab itu hendaklah kamu menjauhkan diri dari wanita di waktu haidl... sampai akhir ayat'." (QS. Albaqarah 222), Rasulullah shallallahu 'alaihi wasallam bersabda: "Pergaulilah mereka di rumah, dan lakukanlah segala sesuatu selain bersetubuh". Lalu orang-orang Yahudi berkata; Orang ini (Muhammad) tidak meninggalkan sesuatu dari perkara kita kecuali dia menyelisihi kita dalam perkara itu. Lalu Usaid bin Hudlair dan Abbad bin Bisyr datang kepada Nabi shallallahu 'alaihi wasallam, keduanya berkata; Wahai Rasulullah, sesungguhnya orang-orang Yahudi berkata begini dan begini. Apakah kita tidak menggauli mereka saja dalam masa haidl? Maka raut muka Rasulullah shallallahu 'alaihi wasallam berubah, sehingga kami menyangka bahwa beliau marah kepada keduanya, lalu mereka berdua keluar. Setelah itu datang hadiah berupa susu kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau memerintahkan untuk memanggil kembali keduanya, lalu keduanya diberi minum. Karena itu kami tahu bahwa beliau tidak memarahi keduanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah menceritakan kepada kami [Tsabit Al-Bunani] dari [Anas bin Malik] bahwasanya orang-orang Yahudi, apabila istri-istri mereka datang haidl, maka mereka mengusirnya dari rumah. Mereka tidak makan, tidak minum, dan tidak berkumpul dengannya di rumah. Lalu Rasulullah shallallahu 'alaihi wasallam ditanya tentang hal tersebut, maka Allah Subhanahu wa Ta'ala menurunkan ayat (yang artinya): "Dan mereka bertanya kepadamu tentang haidl. Katakanlah, 'Haidl itu adalah kotoran, oleh sebab itu hendaklah kamu menjauhkan diri dari wanita di waktu haidl... sampai akhir ayat'." (QS. Albaqarah 222), Rasulullah shallallahu 'alaihi wasallam bersabda: "Pergaulilah mereka di rumah, dan lakukanlah segala sesuatu selain bersetubuh". Lalu orang-orang Yahudi berkata; Orang ini (Muhammad) tidak meninggalkan sesuatu dari perkara kita kecuali dia menyelisihi kita dalam perkara itu. Lalu Usaid bin Hudlair dan Abbad bin Bisyr datang kepada Nabi shallallahu 'alaihi wasallam, keduanya berkata; Wahai Rasulullah, sesungguhnya orang-orang Yahudi berkata begini dan begini. Apakah kita tidak menggauli mereka saja dalam masa haidl? Maka raut muka Rasulullah shallallahu 'alaihi wasallam berubah, sehingga kami menyangka bahwa beliau marah kepada keduanya, lalu mereka berdua keluar. Setelah itu datang hadiah berupa susu kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau memerintahkan untuk memanggil kembali keduanya, lalu keduanya diberi minum. Karena itu kami tahu bahwa beliau tidak memarahi keduanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса ибн Малика: «Иудеи, когда у их женщин начинались менструации, выводили их из дома, не садились с ними есть и пить, и не общались с ними в доме. И (люди) спросили об этом Посланника Аллаха ﷺ и Аллах Всевышний ниспослал аят: «Они спрашивают тебя о менструациях. Скажи: “Они причиняют страдания. Посему избегайте половой близости с женщинами во время менструаций…”» и так до конца этого аята. И тогда Посланник Аллаха ﷺ сказал: “Оставайтесь с ними в одном доме и делайте все, кроме совокупления”. Иудеи сказали: “Что бы мы ни делали, этот человек не хочет походить на нас в этом”. И к Пророку ﷺ пришли Усайд ибн Худайр и ‘Аббад ибн Бишр и сказали: “О Посланник Аллаха, поистине, иудеи говорят то-то и то-то, так не можем ли мы вступать в половую близость с женщинами в тот период, когда они с менструациями?” И цвет лица Посланника Аллаха ﷺ изменился так, что они подумали, что он разгневался на них. Когда они выходили от него, к Посланнику Аллаха ﷺ заносили в подарок молоко. Он тут же послал вслед за ними и напоил их, и нам стало ясно, что он не разгневался на них»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
 
 ## Turkish
 
+Enes b. Malik (r.a.) demiştir ki; Yahudiler, bir kadın hayız olduğunda, onu evden çıkarırlar, onunla beraber yemezler, içmezler ve aynı evde birlikte bulunmazlardı. Bu durum Resulullah (sallallahu aleyhi ve sellem)'e soruldu. Bunun üzerine Allah Teala: "Sana kadınların ay halini de sorarlar. De ki, O bir eziyettir. Onun için hayız zamanında kadınlardan ayrı kalın...(ila ahir)"\[Bakara 222\] mealindeki ayet-i kerimeyi indirdi; Resulullah (sallallahu aleyhi ve sekken) de: "Onlarla birlikte evlerde oturunuz ve cinsi temastan başka her şeyi yapınız” buyurdu. Bunun üzerine Yahudiler: "Bu adam, bizim (dinimizin) işinden hiç bir şey bırakmadan hepsine muhalefet etmek istiyor" dediler. (Bunu duyan) Useyd b. Hudayr ve Abbad b.Bişr Nebi (sallallahu aleyhi ve sellem)'e geldiler ve: "Ya Resullah, Yahudiler şöyle şöyle diyorlar (onlara muhalefet olsun diye) hayızlı kadınlarla (cinsi) temasta da bulunsak mı?" dediler. Resulullah (sallallahu aleyhi ve sellem)'in (mübarek) yüzünün (rengi) değişti, hatta biz onlara kızdığını zannettik. Bu iki zat (Resulullah'ın huzurundan) çıkmışlardı ki, Resulullah'a hediye olarak süt getiren biri ile karşılaştılar. Resulullah (sallallahu aleyhi ve sellem) peşlerinden gönderip kendilerine (bu sütten) içirdi. Böylece biz de Resullah'ın onlara kızmadığını anladık." Diğer tahric: Ebu Davud, nikah; Tirmizî, tefsiru’s-sure; Nesai, hayz; Darimi, vudu; Ahmed b. Hanbel I, 419, 421, 452, VI
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik (r.a.) demiştir ki; Yahudiler, bir kadın hayız olduğunda, onu evden çıkarırlar, onunla beraber yemezler, içmezler ve aynı evde birlikte bulunmazlardı. Bu durum Resulullah (sallallahu aleyhi ve sellem)'e soruldu. Bunun üzerine Allah Teala: "Sana kadınların ay halini de sorarlar. De ki, O bir eziyettir. Onun için hayız zamanında kadınlardan ayrı kalın...(ila ahir)"[Bakara 222] mealindeki ayet-i kerimeyi indirdi; Resulullah (sallallahu aleyhi ve sekken) de: "Onlarla birlikte evlerde oturunuz ve cinsi temastan başka her şeyi yapınız” buyurdu. Bunun üzerine Yahudiler: "Bu adam, bizim (dinimizin) işinden hiç bir şey bırakmadan hepsine muhalefet etmek istiyor" dediler. (Bunu duyan) Useyd b. Hudayr ve Abbad b.Bişr Nebi (sallallahu aleyhi ve sellem)'e geldiler ve: "Ya Resullah, Yahudiler şöyle şöyle diyorlar (onlara muhalefet olsun diye) hayızlı kadınlarla (cinsi) temasta da bulunsak mı?" dediler. Resulullah (sallallahu aleyhi ve sellem)'in (mübarek) yüzünün (rengi) değişti, hatta biz onlara kızdığını zannettik. Bu iki zat (Resulullah'ın huzurundan) çıkmışlardı ki, Resulullah'a hediye olarak süt getiren biri ile karşılaştılar. Resulullah (sallallahu aleyhi ve sellem) peşlerinden gönderip kendilerine (bu sütten) içirdi. Böylece biz de Resullah'ın onlara kızmadığını anladık." Diğer tahric: Ebu Davud, nikah; Tirmizî, tefsiru’s-sure; Nesai, hayz; Darimi, vudu; Ahmed b. Hanbel I, 419, 421, 452, VI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ یہود کی عورتوں میں جب کسی کو حیض آتا تو وہ اسے گھر سے نکال دیتے تھے، نہ اس کو ساتھ کھلاتے پلاتے، نہ اس کے ساتھ ایک گھر میں رہتے تھے، اس کے متعلق رسول اللہ صلی اللہ علیہ وسلم سے دریافت کیا گیا تو اس وقت اللہ تعالیٰ نے یہ آیت نازل فرمائی: «ويسألونك عن المحيض قل هو أذى فاعتزلوا النساء في المحيض» اے محمد! لوگ آپ سے حیض کے بارے میں سوال کرتے ہیں، تو کہہ دیجئیے کہ وہ گندگی ہے، لہٰذا حالت حیض میں تم عورتوں سے الگ رہو ، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم ان کے ساتھ گھروں میں رہو اور سارے کام کرو سوائے جماع کے ، یہ سن کر یہودیوں نے کہا: یہ شخص کوئی بھی ایسی چیز نہیں چھوڑنا چاہتا ہے جس میں وہ ہماری مخالفت نہ کرے، چنانچہ اسید بن حضیر اور عباد بن بشر رضی اللہ عنہما نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے اور آپ سے عرض کیا: اللہ کے رسول! یہود ایسی ایسی باتیں کرتے ہیں، پھر ہم کیوں نہ ان سے حالت حیض میں جماع کریں؟ یہ سن کر رسول اللہ صلی اللہ علیہ وسلم کا چہرہ مبارک متغیر ہو گیا، یہاں تک کہ ہم نے گمان کیا کہ آپ صلی اللہ علیہ وسلم ان دونوں پر خفا ہو گئے ہیں، وہ دونوں ابھی نکلے ہی تھے کہ اتنے میں آپ کے پاس دودھ کا ہدیہ آ گیا، آپ صلی اللہ علیہ وسلم نے ان دونوں کو بلا بھیجا اور ( جب وہ آئے تو ) انہیں دودھ پلایا، تب جا کر ہم کو یہ پتہ چلا کہ آپ صلی اللہ علیہ وسلم ان دونوں سے ناراض نہیں ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (302)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>258</td></tr><tr><td>Arabic No</td><td>258</td></tr><tr><td>Reference</td><td>Book 1 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (302) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 258 |
+| Arabic No | 258 |
+| Reference | Book 1 Hadith 258 |

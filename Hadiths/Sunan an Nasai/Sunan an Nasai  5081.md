@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا الْجُرَيْرِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّ أَحْسَنَ مَا غَيَّرْتُمْ بِهِ الشَّيْبَ الْحِنَّاءُ وَالْكَتَمُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |
+
 اخبرنا حميد بن مسعدة، قال حدثنا عبد الوارث، قال حدثنا الجريري، عن عبد الله بن بريدة، قال قال رسول الله صلى الله عليه وسلم " ان احسن ما غيرتم به الشيب الحناء والكتم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হুমায়দ ইবন মাস'আদা (রহঃ) ... আবদুল্লাহ ইবন বুরায়দা (রহঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা যে সকল বস্তু দ্বারা বার্ধক্যের শুভ্রতাকে পরিবর্তন করে থাক, তন্মধ্যে মেহেদী এবং কাতাম সর্বোত্তম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |
 
 ## English
 
+It was narrated that 'Abdullah bin Buraidah said:"The Messenger of Allah \[SAW\] said: 'The best things with which you can change gray hair are Henna and Katam
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that 'Abdullah bin Buraidah said:"The Messenger of Allah [SAW] said: 'The best things with which you can change gray hair are Henna and Katam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |
+
+## French
+
+Rapporté par 'Abdullah bin Buraidah : Le Messager d'Allah ﷺ a dit : « Les meilleures choses pour changer les cheveux blancs sont le henné et le katam. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Humaid bin Mas'adah\], dia berkata; telah menceritakan kepada kami \[Abdul Warits\], dia berkata; telah menceritakan kepada kami \[Al Jurairi\] dari \[Abdullah bin Buraidah\], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya sebaik-baik apa yang kalian gunakan untuk mengubah uban adalah inai dan katam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Humaid bin Mas'adah], dia berkata; telah menceritakan kepada kami [Abdul Warits], dia berkata; telah menceritakan kepada kami [Al Jurairi] dari [Abdullah bin Buraidah], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya sebaik-baik apa yang kalian gunakan untuk mengubah uban adalah inai dan katam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5081</td></tr><tr><td>Arabic No</td><td>5081</td></tr><tr><td>Reference</td><td>Book 48 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5081 |
+| Arabic No | 5081 |
+| Reference | Book 48 Hadith 42 |

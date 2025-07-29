@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، حَدَّثَنِي إِسْمَاعِيلُ بْنُ كَثِيرٍ، عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبْرَةَ، عَنْ أَبِيهِ، وَافِدِ بَنِي الْمُنْتَفِقِ، أَنَّهُ أَتَى عَائِشَةَ فَذَكَرَ مَعْنَاهُ ‏.‏ قَالَ فَلَمْ يَنْشَبْ أَنْ جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَقَلَّعُ يَتَكَفَّأُ ‏.‏ وَقَالَ عَصِيدَةٍ ‏.‏ مَكَانَ خَزِيرَةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
+
 حدثنا عقبة بن مكرم، حدثنا يحيى بن سعيد، حدثنا ابن جريج، حدثني اسماعيل بن كثير، عن عاصم بن لقيط بن صبرة، عن ابيه، وافد بني المنتفق، انه اتى عايشة فذكر معناه . قال فلم ينشب ان جاء رسول الله صلى الله عليه وسلم يتقلع يتكفا . وقال عصيدة . مكان خزيرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
 
 ## Bengali
 
+। ‘আসিম ইবনু লাক্বীত্ব ইবনু সাবরাহ হতে তার পিতার সূত্রে বর্ণিত, যিনি বনু মুনতাফিক্ব গোত্রের সর্দার ছিলেন। একদা তিনি ‘আয়িশাহ্ (রাঃ)-এর নিকট আসলেন। অতঃপর বর্ণনাকারী (ইবনু জুরায়জ) পূর্বোক্ত হাদীসের সমার্থবোধক হাদীস বর্ণনা করেন। বর্ণনাকারী (বৃদ্ধি করে) বলেন, কিছুক্ষণ অপেক্ষার পরই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে মন্থর গতিতে আসলেন। উক্ত বর্ণনায় ‘খাযিরাহ’ শব্দের স্থলে ‘আসীদাহ’ শব্দ উল্লেখ রয়েছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আসিম ইবনু লাক্বীত্ব ইবনু সাবরাহ হতে তার পিতার সূত্রে বর্ণিত, যিনি বনু মুনতাফিক্ব গোত্রের সর্দার ছিলেন। একদা তিনি ‘আয়িশাহ্ (রাঃ)-এর নিকট আসলেন। অতঃপর বর্ণনাকারী (ইবনু জুরায়জ) পূর্বোক্ত হাদীসের সমার্থবোধক হাদীস বর্ণনা করেন। বর্ণনাকারী (বৃদ্ধি করে) বলেন, কিছুক্ষণ অপেক্ষার পরই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে মন্থর গতিতে আসলেন। উক্ত বর্ণনায় ‘খাযিরাহ’ শব্দের স্থলে ‘আসীদাহ’ শব্দ উল্লেখ রয়েছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Laqit b. Sabirah reported that he was the leader of Banu’l-Muntafiq (name of a tribe). He came to ‘A’ishah. He then narrated the tradition in a similar manner. He said:The Prophet (ﷺ) then came shortly with rapid strides inclining forward. The narrator used the word ‘asidah (name of a dish) in this version instead of Khazirah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
+
+## French
+
+Rapporté par Laqit b. Sabirah : Il était le chef des Banu’l-Muntafiq (une tribu). Il est venu voir ‘A’ishah رضي الله عنها. Il a ensuite raconté ce récit de façon similaire. Il a dit : Le Prophète ﷺ est arrivé peu après, marchant rapidement et penché en avant. Le narrateur a utilisé le mot ‘asidah (nom d’un plat) dans cette version au lieu de Khazirah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Асым ибн Лакыт ибн Сабра рассказывал со слов своего отца посланца племени бану мунтафик о том, что он пришел к ‘Аише, и он передал (хадис) с таким же смыслом (что и у предыдущего). Он сказал: «И он не менял его до тех пор, пока не дошел до слов “и пришел Посланник Аллаха ﷺ”, и добавил: “быстрым и уверенным шагом”. И также он сказал «‘асыда» вместо “хазира”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Asim b. Lakit'in Müntefik oğulları elçisi olan babası Lakit b. Sabre'den rivayet ettiğine göre: Lakit, Aişe (r.anha)'ya gelmiş ve bir evvelki hadisin manasını nakletmiştir. (Bir evvelki hadise ilave olarak şunları) söylemiştir. "(Çok) beklemeden Rasulullah (sallallahu aleyhi ve sellem) sert ve mertçe yürüyerek geldi" (Bir de) Hazire (denilen et ve undan yapılan yemek) yerine (Yağ ve undan yapılan) Aside demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بنی منتفق کے وفد میں شریک لقیط بن صبرہ کہتے ہیں کہ وہ ام المؤمنین عائشہ رضی اللہ عنہا کے پاس آئے، پھر راوی نے اسی مفہوم کی حدیث بیان کی، اس میں یہ ہے کہ تھوڑی ہی دیر میں رسول اللہ صلی اللہ علیہ وسلم آگے کو جھکتے ہوئے یعنی تیز چال چلتے ہوئے تشریف لائے، اس روایت میں لفظ «خزيرة» کی جگہ «عصيدة» ( ایک قسم کا کھانا ) کا ذکر ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>143</td></tr><tr><td>Arabic No</td><td>143</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 143 |
+| Arabic No | 143 |
+| Reference | Book 1 Hadith 143 |

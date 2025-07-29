@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا مُعَاذُ بْنُ مُعَاذٍ، - الْمَعْنَى وَاحِدٌ - قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، قَالَ كُنْتُ أَسْأَلُ عَنْ الاِنْتِصَارِ، ‏(‏ وَلَمَنِ انْتَصَرَ بَعْدَ ظُلْمِهِ فَأُولَئِكَ مَا عَلَيْهِمْ مِنْ سَبِيلٍ ‏)‏ فَحَدَّثَنِي عَلِيُّ بْنُ زَيْدِ بْنِ جُدْعَانَ عَنْ أُمِّ مُحَمَّدٍ امْرَأَةِ أَبِيهِ قَالَ ابْنُ عَوْنٍ وَزَعَمُوا أَنَّهَا كَانَتْ تَدْخُلُ عَلَى أُمِّ الْمُؤْمِنِينَ قَالَتْ قَالَتْ أُمُّ الْمُؤْمِنِينَ دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم وَعِنْدَنَا زَيْنَبُ بِنْتُ جَحْشٍ فَجَعَلَ يَصْنَعُ شَيْئًا بِيَدِهِ فَقُلْتُ بِيَدِهِ حَتَّى فَطَنْتُهُ لَهَا فَأَمْسَكَ وَأَقْبَلَتْ زَيْنَبُ تَقْحَمُ لِعَائِشَةَ رضى الله عنها فَنَهَاهَا فَأَبَتْ أَنْ تَنْتَهِيَ فَقَالَ لِعَائِشَةَ ‏"‏ سُبِّيهَا ‏"‏ فَسَبَّتْهَا فَغَلَبَتْهَا فَانْطَلَقَتْ زَيْنَبُ إِلَى عَلِيٍّ رضى الله عنه فَقَالَتْ إِنَّ عَائِشَةَ رضى الله عنها وَقَعَتْ بِكُمْ وَفَعَلَتْ ‏.‏ فَجَاءَتْ فَاطِمَةُ فَقَالَ لَهَا ‏"‏ إِنَّهَا حِبَّةُ أَبِيكِ وَرَبِّ الْكَعْبَةِ ‏"‏ ‏.‏ فَانْصَرَفَتْ فَقَالَتْ لَهُمْ إِنِّي قُلْتُ لَهُ كَذَا وَكَذَا فَقَالَ لِي كَذَا وَكَذَا ‏.‏ قَالَ وَجَاءَ عَلِيٌّ رضى الله عنه إِلَى النَّبِيِّ صلى الله عليه وسلم فَكَلَّمَهُ فِي ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
+
 حدثنا عبيد الله بن معاذ، حدثنا ابي ح، وحدثنا عبيد الله بن عمر بن ميسرة، حدثنا معاذ بن معاذ، - المعنى واحد - قال حدثنا ابن عون، قال كنت اسال عن الانتصار، ( ولمن انتصر بعد ظلمه فاوليك ما عليهم من سبيل ) فحدثني علي بن زيد بن جدعان عن ام محمد امراة ابيه قال ابن عون وزعموا انها كانت تدخل على ام المومنين قالت قالت ام المومنين دخل على رسول الله صلى الله عليه وسلم وعندنا زينب بنت جحش فجعل يصنع شييا بيده فقلت بيده حتى فطنته لها فامسك واقبلت زينب تقحم لعايشة رضى الله عنها فنهاها فابت ان تنتهي فقال لعايشة " سبيها " فسبتها فغلبتها فانطلقت زينب الى علي رضى الله عنه فقالت ان عايشة رضى الله عنها وقعت بكم وفعلت . فجاءت فاطمة فقال لها " انها حبة ابيك ورب الكعبة " . فانصرفت فقالت لهم اني قلت له كذا وكذا فقال لي كذا وكذا . قال وجاء علي رضى الله عنه الى النبي صلى الله عليه وسلم فكلمه في ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
 
 ## Bengali
 
+। ইবনু আওন (রহঃ) বলেন, আমি প্রতিশোধ গ্রহণ ও আল্লাহর বাণী সম্পর্কে প্রশ্ন করতাম, ‘‘তবে নির্যাতিত হওয়ার পর যারা প্রতিশোধ নেয় তাদের বিরুদ্ধে কোনো ব্যবস্থা নেয়া যাবে না’’ (সূরা শু‘রাঃ ৪১)। আলী ইবনু যায়িদ ইবনু জদু‘আন তার বিমাতা উম্মু মুহাম্মাদ সূত্রে আমার নিকট বর্ণনা করেন, ইবনু আওন বলেন, তাদের বর্ণনা অনুযায়ী তার বিমাতা উম্মুল মু‘মিনীন আয়িশাহ (রাঃ)-এর নিকট যাতায়াত করতেন। মুহাম্মাদ বলেন, উম্মুল মু‘মিনীন বলেছেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট আসলেন, তখন আমার নিকট যাইনাব বিনতু জাহশ (রাঃ) উপস্থিত ছিলেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হাত দিয়ে কিছু করতে (আমাকে স্পর্শ করতে) চাইলেন। আমি হাতের ইশারায় যাইনাবের উপস্থিতি সম্পর্কে তাঁকে জানালাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেমে গেলেন। অতঃপর যাইনাব (রাঃ) অগ্রসর হয়ে আয়িশাহ (রাঃ)-কে গালি দিতে লাগলেন। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে গালি দিতে বারণ করলেন কিন্তু তিনি বিরত হলেন না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আয়িশাহ (রাঃ)-কে বললেন, তুমিও তাকে গালি দাও। অতঃপর আয়িশাহ (রাঃ)-ও তাকে গালি দিলেন এবং তাকে পরাভূত করলেন। অতঃপর যাইনাব (রাঃ) আলী (রাঃ)-এর নিকট গিয়ে অভিযোগ করলেন যে, আয়িশাহ (রাঃ) তোমাদের গালি দিয়েছে এবং এ কাজ করেছে। অতঃপর ফাতিমা ফিরে গিয়ে তাদেরকে বললেন, আমি তাঁকে (আব্বাকে) এই এই কথা বলেছি এবং এর উত্তরে তিনি এই এই কথা বলেছেন। বর্ণনাকারী বলেন, অতঃপর আলী (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে এ বিষয়ে আলোচনা করলেন।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আওন (রহঃ) বলেন, আমি প্রতিশোধ গ্রহণ ও আল্লাহর বাণী সম্পর্কে প্রশ্ন করতাম, ‘‘তবে নির্যাতিত হওয়ার পর যারা প্রতিশোধ নেয় তাদের বিরুদ্ধে কোনো ব্যবস্থা নেয়া যাবে না’’ (সূরা শু‘রাঃ ৪১)। আলী ইবনু যায়িদ ইবনু জদু‘আন তার বিমাতা উম্মু মুহাম্মাদ সূত্রে আমার নিকট বর্ণনা করেন, ইবনু আওন বলেন, তাদের বর্ণনা অনুযায়ী তার বিমাতা উম্মুল মু‘মিনীন আয়িশাহ (রাঃ)-এর নিকট যাতায়াত করতেন। মুহাম্মাদ বলেন, উম্মুল মু‘মিনীন বলেছেনঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট আসলেন, তখন আমার নিকট যাইনাব বিনতু জাহশ (রাঃ) উপস্থিত ছিলেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) হাত দিয়ে কিছু করতে (আমাকে স্পর্শ করতে) চাইলেন। আমি হাতের ইশারায় যাইনাবের উপস্থিতি সম্পর্কে তাঁকে জানালাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেমে গেলেন। অতঃপর যাইনাব (রাঃ) অগ্রসর হয়ে আয়িশাহ (রাঃ)-কে গালি দিতে লাগলেন। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে গালি দিতে বারণ করলেন কিন্তু তিনি বিরত হলেন না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আয়িশাহ (রাঃ)-কে বললেন, তুমিও তাকে গালি দাও। অতঃপর আয়িশাহ (রাঃ)-ও তাকে গালি দিলেন এবং তাকে পরাভূত করলেন। অতঃপর যাইনাব (রাঃ) আলী (রাঃ)-এর নিকট গিয়ে অভিযোগ করলেন যে, আয়িশাহ (রাঃ) তোমাদের গালি দিয়েছে এবং এ কাজ করেছে। অতঃপর ফাতিমা ফিরে গিয়ে তাদেরকে বললেন, আমি তাঁকে (আব্বাকে) এই এই কথা বলেছি এবং এর উত্তরে তিনি এই এই কথা বলেছেন। বর্ণনাকারী বলেন, অতঃপর আলী (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে এ বিষয়ে আলোচনা করলেন।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: Ibn Awn said: I asked about the meaning of intisar (revenge) in the Qur'anic verse: "But indeed if any do help and defend themselves (intasara) after a wrong (done) to them, against them there is no cause of blame." Then Ali ibn Zayd ibn Jad'an told me on the authority of Umm Muhammad, the wife of his father. Ibn Awn said: It was believed that she used to go to the Mother of the Faithful (i.e. Aisha). She said: The Mother of the Faithful said: The Messenger of Allah (ﷺ) came upon me while Zaynab, daughter of Jahsh, was with us. He began to do something with his hand. I signalled to him until I made him understand about her. So he stopped. Zaynab came on and began to abuse Aisha. She tried to prevent her but she did not stop. So he (the Prophet) said to Aisha: Abuse her. So she abused her and dominated her. Zaynab then went to Ali and said: Aisha abused you and did (such and such). Then Fatimah came (to the Prophet) and he said to her: She is the favourite of your father, by the Lord of the Ka'bah! She then returned and said to them: I said to him such and such, and he said to me such and such. Then Ali came to the Prophet (ﷺ) and spoke to him about that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
+
+## French
+
+Rapporté par Aisha, la mère des croyants رضي الله عنها : Ibn Awn a dit : J’ai demandé la signification du mot « intisar » (se défendre) dans le verset du Coran : « Mais s’ils se défendent après avoir subi une injustice, il n’y a pas de reproche contre eux. » Alors Ali ibn Zayd ibn Jad'an m’a raconté de la part de Umm Muhammad, l’épouse de son père. Ibn Awn a dit : On pensait qu’elle allait voir la Mère des croyants (c’est-à-dire Aisha). Elle a dit : La Mère des croyants a dit : Le Messager d’Allah ﷺ est venu vers moi alors que Zaynab, fille de Jahsh, était avec nous. Il a commencé à faire un geste avec sa main. Je lui ai fait signe jusqu’à ce qu’il comprenne ce que je voulais dire à son sujet. Alors il s’est arrêté. Zaynab est venue et a commencé à insulter Aisha. Elle a essayé de l’arrêter, mais elle n’a pas arrêté. Alors il (le Prophète) a dit à Aisha : « Réponds-lui. » Alors elle lui a répondu et l’a surpassée. Zaynab est ensuite allée voir Ali et a dit : « Aisha t’a insulté et a fait ceci et cela. » Puis Fatima est venue voir le Prophète et il lui a dit : « C’est la préférée de ton père, par le Seigneur de la Kaaba ! » Elle est alors repartie et leur a dit : « Je lui ai dit ceci et il m’a répondu cela. » Puis Ali est venu voir le Prophète ﷺ et lui a parlé de cela
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ubaidullah bin Mu'adz\] berkata, telah menceritakan kepada kami \[Bapakku\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Ubaidullah bin Umar bin Maisarah\] berkata, telah menceritakan kepada kami \[Mu'adz bin Mu'adz\] dengan makna yang sama. Ia berkata; telah menceritakan kepada kami \[Ibnu Aun\] ia berkata, "Aku pernah bertanya tentang pembelaan diri sebagaimana dalam firman Allah: '(Dan sesungguhnya orang-orang yang membela diri sesudah teraniaya, tidak ada satu dosapun terhadap mereka) ' -Qs. Asy Syura: 41-. Lalu \[Ali bin Zaid bin Jud'an\] menceritakan kepadaku dari \[Ummu Muhammad\], isteri bapaknya. Ibnu Aun berkata, "Orang-orang menyakini bahwa Ummu Muhammad pernah menemui \[Ummul Mukminin\] ('Aisyah), ia berkata, "Ummul Mukminin menerangkan, "Rasulullah shallallahu 'alaihi wasallam pernah masuk menemui kami, sementara di sisi kami ada Zainab binti Jahsy. Beliau melakukan sesuatu dengan tangannya (memegang atau lainnya, mencumbu). Tetapi aku langsung memberi isyarat bahwa di sisi kami ada Zainab hingga beliau pun berhenti. Lalu Zainab masuk dan melabrak 'Aisyah dengan celaan, beliau lantas melerainya namun Zainab menolak. Rasulullah lantas berkata kepada 'Aisyah: "Silahkan engkau ganti mencelanya." 'Aisyah pun ganti mencelanya hingga membuat Zainab diam. Zainab kemudian pergi menemui Ali radliallahu 'anhu. Ia mengatakan, "Sesungguhnya 'Aisyah telah mencela kalian (bani Hasyim) -dan Zainab juga dari bani Hasyim-." Fatimah lalu mendatangi Nabi shallallahu 'alaihi wasallam untuk menyampaikan pesan Zainab, beliau pun berkata kepadanya: "Demi Rabb pemilik Ka'bah, sesungguhnya 'Aisyah itu adalah kekasih bapakmu." Fatimah lalu pergi menemui bani Hasyim dan berkata, "Aku telah menyampaikan kepada bapakku begini dan begini, lalu beliau berkata kepadaku begini dan begini." Perawi berkata, "Ali radliallahu 'anhu kemudian mendatangi Nabi shallallahu 'alaihi wasallam membicarakan persoalan tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Mu'adz] berkata, telah menceritakan kepada kami [Bapakku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] berkata, telah menceritakan kepada kami [Mu'adz bin Mu'adz] dengan makna yang sama. Ia berkata; telah menceritakan kepada kami [Ibnu Aun] ia berkata, "Aku pernah bertanya tentang pembelaan diri sebagaimana dalam firman Allah: '(Dan sesungguhnya orang-orang yang membela diri sesudah teraniaya, tidak ada satu dosapun terhadap mereka) ' -Qs. Asy Syura: 41-. Lalu [Ali bin Zaid bin Jud'an] menceritakan kepadaku dari [Ummu Muhammad], isteri bapaknya. Ibnu Aun berkata, "Orang-orang menyakini bahwa Ummu Muhammad pernah menemui [Ummul Mukminin] ('Aisyah), ia berkata, "Ummul Mukminin menerangkan, "Rasulullah shallallahu 'alaihi wasallam pernah masuk menemui kami, sementara di sisi kami ada Zainab binti Jahsy. Beliau melakukan sesuatu dengan tangannya (memegang atau lainnya, mencumbu). Tetapi aku langsung memberi isyarat bahwa di sisi kami ada Zainab hingga beliau pun berhenti. Lalu Zainab masuk dan melabrak 'Aisyah dengan celaan, beliau lantas melerainya namun Zainab menolak. Rasulullah lantas berkata kepada 'Aisyah: "Silahkan engkau ganti mencelanya." 'Aisyah pun ganti mencelanya hingga membuat Zainab diam. Zainab kemudian pergi menemui Ali radliallahu 'anhu. Ia mengatakan, "Sesungguhnya 'Aisyah telah mencela kalian (bani Hasyim) -dan Zainab juga dari bani Hasyim-." Fatimah lalu mendatangi Nabi shallallahu 'alaihi wasallam untuk menyampaikan pesan Zainab, beliau pun berkata kepadanya: "Demi Rabb pemilik Ka'bah, sesungguhnya 'Aisyah itu adalah kekasih bapakmu." Fatimah lalu pergi menemui bani Hasyim dan berkata, "Aku telah menyampaikan kepada bapakku begini dan begini, lalu beliau berkata kepadaku begini dan begini." Perawi berkata, "Ali radliallahu 'anhu kemudian mendatangi Nabi shallallahu 'alaihi wasallam membicarakan persoalan tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
 
 ## Turkish
 
+(Abdullah) İbn Avn dedi ki: Ben (ilmine güvendiğim kimselere): "Kim, kendisine edilen zulümden sonra hakkını alırsa artık böyleleri üzerine (ceza için) bir yol yoktur"\[Şûra 41\] (âyet-i kerimesinde sözü geçen) intikam almanın hükmünü sorardım. Bana Ali İbn Zeyd İbn Cud'ân, babasının hanımı olan Ümmü Muhammed'den (bir hadis naklederek bu soruma cevap verdi) İbn Avn dedi ki (bana bu hadisi başkaları da rivayet etti. Ravilerin hepsi de şöyle) rivayet ettiler: "Ümmü Muhammed, Müminlerin annesi (Hz. Âişe')nin yanına girer (çıkar)dı. (Birgün) mü'minlerin annesi (Hz. Aişe ona şöyle) demiş: Bir defasında yanımda Zeyneb bint Cahş varken Rasûlullah (s.a.v.) yanıma gelmişti. (Hz. Zeyneb'i görmeden) eliyle (karı koca arasında geçen bir hareket) yaptı. Ben de kendisine bir işarette bulunarak kendisini Zeyneb'in varlığından haberdar ettim. Rasûlullah da (bu hareketi) bıraktı ve (Hz. Aişe'nin verdiği bu habere göre) Hz. Zeyneb de Hz. Aişe'ye (dönüp O'na) dili ile sataşmış, Hz. Nebi onu (bundan) nehyetmiş ise de Hz. Zeyneb sataşmasından vazgeçmemiş. Bunun üzerine Hz. Nebi, Hz.Aişe'ye: Sen de ona dil uzat, demiş o zaman Hz. Aişe de Hz. Zeyneb'e dil uzatmış ve Hz. Zeyneb'in hakkından gelmiş. Bunun üzerine Hz. Zeynep, Ali (r.a.)'e (şikayete gitmiş) ve: "Muhakkak ki Aişe (r.anha) (bana hakaret etmekle Haşimoğullanndan olan) size (de) hakaret etmiş oldu" demiş. (Aynı şekilde varıp Haşimoğullarına şikayet) etmiş, derken Hz. Fatma (durumu arzetmek ve Hz. Zeyneb'in hakkını aramak üzere Hz. Nebi'in huzuruna) gelmiş (Hz. Nebi de) O'na: "Ka'be'nin sahibine yemin olsun ki o, (Aişe) senin babanın sevgili eşidir. (O Haşimoğullarına dil uzatmış bile olsa sakın onun aleyhinde birşeyler söyleme)" buyurmuş. Hz. Fatma da dönüp gitmiş Haşimoğullarına varıp: Gerçekten ben Hz. Nebi'e (varıp) şöyle şöyle dedim; o da bana şunları şunları söyledi, demiş; ayrıca Ali (r.a.) Nebi (s.a.v.)'e varıp O da bu mevzuda kendisiyle konuşmuş
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Abdullah) İbn Avn dedi ki: Ben (ilmine güvendiğim kimselere): "Kim, kendisine edilen zulümden sonra hakkını alırsa artık böyleleri üzerine (ceza için) bir yol yoktur"[Şûra 41] (âyet-i kerimesinde sözü geçen) intikam almanın hükmünü sorardım. Bana Ali İbn Zeyd İbn Cud'ân, babasının hanımı olan Ümmü Muhammed'den (bir hadis naklederek bu soruma cevap verdi) İbn Avn dedi ki (bana bu hadisi başkaları da rivayet etti. Ravilerin hepsi de şöyle) rivayet ettiler: "Ümmü Muhammed, Müminlerin annesi (Hz. Âişe')nin yanına girer (çıkar)dı. (Birgün) mü'minlerin annesi (Hz. Aişe ona şöyle) demiş: Bir defasında yanımda Zeyneb bint Cahş varken Rasûlullah (s.a.v.) yanıma gelmişti. (Hz. Zeyneb'i görmeden) eliyle (karı koca arasında geçen bir hareket) yaptı. Ben de kendisine bir işarette bulunarak kendisini Zeyneb'in varlığından haberdar ettim. Rasûlullah da (bu hareketi) bıraktı ve (Hz. Aişe'nin verdiği bu habere göre) Hz. Zeyneb de Hz. Aişe'ye (dönüp O'na) dili ile sataşmış, Hz. Nebi onu (bundan) nehyetmiş ise de Hz. Zeyneb sataşmasından vazgeçmemiş. Bunun üzerine Hz. Nebi, Hz.Aişe'ye: Sen de ona dil uzat, demiş o zaman Hz. Aişe de Hz. Zeyneb'e dil uzatmış ve Hz. Zeyneb'in hakkından gelmiş. Bunun üzerine Hz. Zeynep, Ali (r.a.)'e (şikayete gitmiş) ve: "Muhakkak ki Aişe (r.anha) (bana hakaret etmekle Haşimoğullanndan olan) size (de) hakaret etmiş oldu" demiş. (Aynı şekilde varıp Haşimoğullarına şikayet) etmiş, derken Hz. Fatma (durumu arzetmek ve Hz. Zeyneb'in hakkını aramak üzere Hz. Nebi'in huzuruna) gelmiş (Hz. Nebi de) O'na: "Ka'be'nin sahibine yemin olsun ki o, (Aişe) senin babanın sevgili eşidir. (O Haşimoğullarına dil uzatmış bile olsa sakın onun aleyhinde birşeyler söyleme)" buyurmuş. Hz. Fatma da dönüp gitmiş Haşimoğullarına varıp: Gerçekten ben Hz. Nebi'e (varıp) şöyle şöyle dedim; o da bana şunları şunları söyledi, demiş; ayrıca Ali (r.a.) Nebi (s.a.v.)'e varıp O da bu mevzuda kendisiyle konuşmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن عون کہتے ہیں آیت کریمہ «ولمن انتصر بعد ظلمه فأولئك ما عليهم من سبيل» اور جو لوگ اپنے مظلوم ہونے کے بعد ( برابر کا ) بدلہ لے لیں تو ایسے لوگوں پر الزام کا کوئی راستہ نہیں ( سورۃ الشوریٰ: ۴۱ ) میں بدلہ لینے کا جو ذکر ہے اس کے متعلق میں پوچھ رہا تھا تو مجھ سے علی بن زید بن جدعان نے بیان کیا، وہ اپنی سوتیلی ماں ام محمد سے روایت کر رہے تھے، ( ابن عون کہتے ہیں: لوگ کہتے ہیں کہ وہ ( ام محمد ) ام المؤمنین ۱؎ کے پاس جایا کرتی تھیں ) ام محمد کہتی ہیں: ام المؤمنین نے کہا: میرے پاس رسول اللہ صلی اللہ علیہ وسلم آئے، ہمارے پاس زینب بنت حجش رضی اللہ عنہا تھیں آپ اپنے ہاتھ سے مجھے کچھ چھیڑنے لگے ( جیسے میاں بیوی میں ہوتا ہے ) تو میں نے ہاتھ کے اشارہ سے آپ کو بتا دیا کہ زینب بنت حجش بیٹھی ہوئی ہیں، تو آپ رک گئے اتنے میں زینب آ کر ام المؤمنین عائشہ رضی اللہ عنہا سے الجھ گئیں اور انہیں برا بھلا کہنے لگیں، تو آپ نے انہیں اس سے منع فرمایا لیکن وہ نہ مانیں، تو آپ نے ام المؤمنین عائشہ سے فرمایا: تم بھی انہیں کہو ، تو انہوں نے بھی کہا اور وہ ان پر غالب آ گئیں، تو ام المؤمنین زینب رضی اللہ عنہا، علی رضی اللہ عنہ کے پاس گئیں، اور ان سے کہا کہ ام المؤمنین عائشہ رضی اللہ عنہا نے تمہیں یعنی بنو ہاشم کو گالیاں دیں ہیں ( کیونکہ ام زینب ہاشمیہ تھیں ) پھر فاطمہ رضی اللہ عنہا ( نبی اکرم صلی اللہ علیہ وسلم کے پاس ام المؤمنین عائشہ رضی اللہ عنہا کی شکایت کرنے ) آئیں تو آپ صلی اللہ علیہ وسلم نے ان سے فرمایا: قسم ہے کعبہ کے رب کی وہ ( یعنی عائشہ ) تمہارے والد کی چہیتی ہیں تو وہ لوٹ گئیں اور بنو ہاشم کے لوگوں سے جا کر انہوں نے کہا: میں نے آپ سے ایسا اور ایسا کہا تو آپ نے مجھے ایسا اور ایسا فرمایا، اور علی رضی اللہ عنہ بھی نبی اکرم صلی اللہ علیہ وسلم کے پاس آپ سے اس سلسلے میں گفتگو کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4898</td></tr><tr><td>Arabic No</td><td>4898</td></tr><tr><td>Reference</td><td>Book 43 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4898 |
+| Arabic No | 4898 |
+| Reference | Book 43 Hadith 126 |

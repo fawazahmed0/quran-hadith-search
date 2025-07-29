@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَقَالَ فَقَالَ أَبُو سَلَمَةَ قَالَ أَبُو قَتَادَةَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ رَآنِي فَقَدْ رَأَى الْحَقَّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وقال فقال ابو سلمة قال ابو قتادة قال رسول الله صلى الله عليه وسلم " من راني فقد راى الحق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ সালামাহ্ (রহঃ) বলেন, আবূ কাতাদাহ্ (রাযিঃ) বলেছেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে আমাকে দেখলো সে যেন (অবশ্যই) সত্যই দেখলো। (ইসলামিক ফাউন্ডেশন ৫৭২৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Qatada reported Allah's Messenger (ﷺ) as saying:He who saw me in dream in fact saw the truth (what is true)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## French
 
+Rapporté par Abu Qatada رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui me voit en rêve a vu la vérité. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (V-11) Râvi demişki: Ebû Seleme de şunu söyledi: Ebû Katâde dediki: Resûlullah (Sallallahu Aleyhi ve Sellem): Beni gören gerçekten hakkı görmüştür. buyurdular
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ ( ابن شہاب نے ) کہا : ابو سلمہ نے کہا : حضرت ابوقتادہ رضی اللہ تعالیٰ عنہ نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : " جس نے مجھے دیکھا اس نے سچ مچ ( سچا خواب ) دیکھا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5921</td></tr><tr><td>Arabic No</td><td>2267.01</td></tr><tr><td>Reference</td><td>Book 42 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5921 |
+| Arabic No | 2267.01 |
+| Reference | Book 42 Hadith 25 |

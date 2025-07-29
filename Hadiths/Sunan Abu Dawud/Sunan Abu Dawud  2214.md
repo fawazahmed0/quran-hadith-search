@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مَعْمَرِ بْنِ عَبْدِ اللَّهِ بْنِ حَنْظَلَةَ، عَنْ يُوسُفَ بْنِ عَبْدِ اللَّهِ بْنِ سَلاَمٍ، عَنْ خُوَيْلَةَ بِنْتِ مَالِكِ بْنِ ثَعْلَبَةَ، قَالَتْ ظَاهَرَ مِنِّي زَوْجِي أَوْسُ بْنُ الصَّامِتِ فَجِئْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم أَشْكُو إِلَيْهِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يُجَادِلُنِي فِيهِ وَيَقُولُ ‏"‏ اتَّقِي اللَّهَ فَإِنَّهُ ابْنُ عَمِّكِ ‏"‏ ‏.‏ فَمَا بَرِحْتُ حَتَّى نَزَلَ الْقُرْآنُ ‏(‏ قَدْ سَمِعَ اللَّهُ قَوْلَ الَّتِي تُجَادِلُكَ فِي زَوْجِهَا ‏)‏ إِلَى الْفَرْضِ فَقَالَ ‏"‏ يُعْتِقُ رَقَبَةً ‏"‏ ‏.‏ قَالَتْ لاَ يَجِدُ قَالَ ‏"‏ فَيَصُومُ شَهْرَيْنِ مُتَتَابِعَيْنِ ‏"‏ ‏.‏ قَالَتْ يَا رَسُولَ اللَّهِ إِنَّهُ شَيْخٌ كَبِيرٌ مَا بِهِ مِنْ صِيَامٍ ‏.‏ قَالَ ‏"‏ فَلْيُطْعِمْ سِتِّينَ مِسْكِينًا ‏"‏ ‏.‏ قَالَتْ مَا عِنْدَهُ مِنْ شَىْءٍ يَتَصَدَّقُ بِهِ قَالَتْ فَأُتِيَ سَاعَتَئِذٍ بِعَرَقٍ مِنْ تَمْرٍ قُلْتُ يَا رَسُولَ اللَّهِ فَإِنِّي أُعِينُهُ بِعَرَقٍ آخَرَ ‏.‏ قَالَ ‏"‏ قَدْ أَحْسَنْتِ اذْهَبِي فَأَطْعِمِي بِهَا عَنْهُ سِتِّينَ مِسْكِينًا وَارْجِعِي إِلَى ابْنِ عَمِّكِ ‏"‏ ‏.‏ قَالَ وَالْعَرَقُ سِتُّونَ صَاعًا قَالَ أَبُو دَاوُدَ فِي هَذَا إِنَّهَا كَفَّرَتْ عَنْهُ مِنْ غَيْرِ أَنْ تَسْتَأْمِرَهُ ‏.‏ وَقَالَ أَبُو دَاوُدَ وَهَذَا أَخُو عُبَادَةَ بْنِ الصَّامِتِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
+
 حدثنا الحسن بن علي، حدثنا يحيى بن ادم، حدثنا ابن ادريس، عن محمد بن اسحاق، عن معمر بن عبد الله بن حنظلة، عن يوسف بن عبد الله بن سلام، عن خويلة بنت مالك بن ثعلبة، قالت ظاهر مني زوجي اوس بن الصامت فجيت رسول الله صلى الله عليه وسلم اشكو اليه ورسول الله صلى الله عليه وسلم يجادلني فيه ويقول " اتقي الله فانه ابن عمك " . فما برحت حتى نزل القران ( قد سمع الله قول التي تجادلك في زوجها ) الى الفرض فقال " يعتق رقبة " . قالت لا يجد قال " فيصوم شهرين متتابعين " . قالت يا رسول الله انه شيخ كبير ما به من صيام . قال " فليطعم ستين مسكينا " . قالت ما عنده من شىء يتصدق به قالت فاتي ساعتيذ بعرق من تمر قلت يا رسول الله فاني اعينه بعرق اخر . قال " قد احسنت اذهبي فاطعمي بها عنه ستين مسكينا وارجعي الى ابن عمك " . قال والعرق ستون صاعا قال ابو داود في هذا انها كفرت عنه من غير ان تستامره . وقال ابو داود وهذا اخو عبادة بن الصامت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
 
 ## Bengali
 
+। খুওয়ইলাহ বিনতু মালিক ইবনু ইবনু সা‘লাবাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমার সাথে আমার স্বামী আওস ইবনুস সামিত (রাযি.) যিহার করলেন। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে অভিযোগ করলাম। তিনি আমার স্বামীর পক্ষ থেকে আমার সাথে বিতর্ক করলেন এবং বললেনঃ আল্লাহকে ভয় করো, সে তো তোমার চাচার ছেলে। মহিলাটি বলেন, আমি সেখান থেকে চলে না আসতেই কুরআনের এ আয়াত অবতীর্ণ হলোঃ ‘‘নিশ্চয় আল্লাহ ঐ মহিলার কথা শুনতে পেয়েছেন, যে তার স্বামীর ব্যাপারে তোমার সাথে বিতর্ক করছে’’ (সূরা আল-মুজাদালাঃ ১) এখান থেকে কাফফারাহ পর্যন্ত অবতীর্ণ হলো। অতঃপর তিনি বললেনঃ সে একটি দাস মুক্ত করবে। মহিলাটি বলেন, তার সে সামর্থ নেই। তিনি বললেনঃ সে একাধারে দু‘মাস সওম পালন করবে। মহিলাটি বললো, হে আল্লাহর রাসূল! সে খুবই বৃদ্ধ, সওম পালন করতে অক্ষম। তিনি বললেনঃ তবে ষাটজন মিসকীনকে আহার করাবে। মহিলাটি বললেন, সাদাকাহ করার মতো পয়সা তার নেই। মহিলাটি বলেন, এ সময় সেখানে এক ঝুড়ি খুরমা আসলো। তখন আমি (মহিলা) বললাম, হে আল্লাহর রাসূল! এ পরিমাণ আর এক ঝুড়ি খুরমা আমি তাকে সহযোগিতা করবো। তিনি বললেনঃ তুমি ভালই বলেছো। তুমি এর দ্বারা তার পক্ষ থেকে ষাটজন মিসকীনকে খাওয়াও এবং তোমার চাচাতো ভাইয়ের কাছে ফিরে যাও। ইয়াহইয়া ইবনু আদম বলেন, ষাট সা‘তে এক ‘আরাক হয়। ইমাম আবূ দাঊদ (রহ.) বলেন, মহিলাটি তার স্বামীর নির্দেশ ছাড়াই তার পক্ষ থেকে কাফফারাহ আদায় করেছে। ইমাম আবূ দাঊদ (রহ.) বলেন, আওস (রাযি.) ছিলেন ‘উবাদাহ ইবনুস সামিত (রাযি.)-এর ভাই।\[1\] হাসান, তার এ কথাটি বাদেঃ ‘‘ষাট সা‘তে এক ‘আরাক।’’ ইরওয়া (২০৮)।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। খুওয়ইলাহ বিনতু মালিক ইবনু ইবনু সা‘লাবাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমার সাথে আমার স্বামী আওস ইবনুস সামিত (রাযি.) যিহার করলেন। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে অভিযোগ করলাম। তিনি আমার স্বামীর পক্ষ থেকে আমার সাথে বিতর্ক করলেন এবং বললেনঃ আল্লাহকে ভয় করো, সে তো তোমার চাচার ছেলে। মহিলাটি বলেন, আমি সেখান থেকে চলে না আসতেই কুরআনের এ আয়াত অবতীর্ণ হলোঃ ‘‘নিশ্চয় আল্লাহ ঐ মহিলার কথা শুনতে পেয়েছেন, যে তার স্বামীর ব্যাপারে তোমার সাথে বিতর্ক করছে’’ (সূরা আল-মুজাদালাঃ ১) এখান থেকে কাফফারাহ পর্যন্ত অবতীর্ণ হলো। অতঃপর তিনি বললেনঃ সে একটি দাস মুক্ত করবে। মহিলাটি বলেন, তার সে সামর্থ নেই। তিনি বললেনঃ সে একাধারে দু‘মাস সওম পালন করবে। মহিলাটি বললো, হে আল্লাহর রাসূল! সে খুবই বৃদ্ধ, সওম পালন করতে অক্ষম। তিনি বললেনঃ তবে ষাটজন মিসকীনকে আহার করাবে। মহিলাটি বললেন, সাদাকাহ করার মতো পয়সা তার নেই। মহিলাটি বলেন, এ সময় সেখানে এক ঝুড়ি খুরমা আসলো। তখন আমি (মহিলা) বললাম, হে আল্লাহর রাসূল! এ পরিমাণ আর এক ঝুড়ি খুরমা আমি তাকে সহযোগিতা করবো। তিনি বললেনঃ তুমি ভালই বলেছো। তুমি এর দ্বারা তার পক্ষ থেকে ষাটজন মিসকীনকে খাওয়াও এবং তোমার চাচাতো ভাইয়ের কাছে ফিরে যাও। ইয়াহইয়া ইবনু আদম বলেন, ষাট সা‘তে এক ‘আরাক হয়। ইমাম আবূ দাঊদ (রহ.) বলেন, মহিলাটি তার স্বামীর নির্দেশ ছাড়াই তার পক্ষ থেকে কাফফারাহ আদায় করেছে। ইমাম আবূ দাঊদ (রহ.) বলেন, আওস (রাযি.) ছিলেন ‘উবাদাহ ইবনুস সামিত (রাযি.)-এর ভাই।[1] হাসান, তার এ কথাটি বাদেঃ ‘‘ষাট সা‘তে এক ‘আরাক।’’ ইরওয়া (২০৮)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
 
 ## English
 
+Narrated Khuwaylah, daughter of Malik ibn Tha'labah: My husband, Aws ibn as-Samit, pronounced the words: You are like my mother. So I came to the Messenger of Allah (ﷺ), complaining to him about my husband. The Messenger of Allah (ﷺ) disputed with me and said: Remain dutiful to Allah; he is your cousin. I continued (complaining) until the Qur'anic verse came down: "Certainly has Allah heard the speech of the one who argues with you, \[O Muhammad\], concerning her husband..." \[58:1\] till the prescription of expiation. He then said: He should set free a slave. She said: He cannot afford it. He said: He should fast for two consecutive months. She said: Messenger of Allah, he is an old man; he cannot keep fasts. He said: He should feed sixty poor people. She said: He has nothing which he may give in alms. At that moment an araq (i.e. date-basket holding fifteen or sixteen sa's) was brought to him. I said: I shall help him with another date-basked ('araq). He said: You have done well. Go and feed sixty poor people on his behalf, and return to your cousin. The narrator said: An araq holds sixty sa's of dates. Abu Dawud said: She atoned on his behalf without seeking his permission. Abu Dawud said: This man (Aws b. al-Samit) is the brother of 'Ubadah b. al-Samit
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Khuwaylah, daughter of Malik ibn Tha'labah: My husband, Aws ibn as-Samit, pronounced the words: You are like my mother. So I came to the Messenger of Allah (ﷺ), complaining to him about my husband. The Messenger of Allah (ﷺ) disputed with me and said: Remain dutiful to Allah; he is your cousin. I continued (complaining) until the Qur'anic verse came down: "Certainly has Allah heard the speech of the one who argues with you, [O Muhammad], concerning her husband..." [58:1] till the prescription of expiation. He then said: He should set free a slave. She said: He cannot afford it. He said: He should fast for two consecutive months. She said: Messenger of Allah, he is an old man; he cannot keep fasts. He said: He should feed sixty poor people. She said: He has nothing which he may give in alms. At that moment an araq (i.e. date-basket holding fifteen or sixteen sa's) was brought to him. I said: I shall help him with another date-basked ('araq). He said: You have done well. Go and feed sixty poor people on his behalf, and return to your cousin. The narrator said: An araq holds sixty sa's of dates. Abu Dawud said: She atoned on his behalf without seeking his permission. Abu Dawud said: This man (Aws b. al-Samit) is the brother of 'Ubadah b. al-Samit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
+
+## French
+
+Rapporté par Khuwaylah, fille de Malik ibn Tha’labah : Mon mari, Aws ibn as-Samit, a prononcé les mots : « Tu es pour moi comme ma mère. » Je suis donc allée me plaindre au Messager d’Allah ﷺ. Le Messager d’Allah ﷺ a discuté avec moi et a dit : « Reste pieuse envers Allah ; il est ton cousin. » J’ai continué à me plaindre jusqu’à ce que le verset du Coran soit révélé : « Allah a certes entendu la parole de celle qui discute avec toi, \[Ô Muhammad\], au sujet de son mari... » \[58:1\] jusqu’à la prescription de l’expiation. Il a ensuite dit : « Il doit affranchir un esclave. » Elle a dit : « Il n’en a pas les moyens. » Il a dit : « Il doit jeûner deux mois consécutifs. » Elle a dit : « Messager d’Allah, c’est un vieil homme, il ne peut pas jeûner. » Il a dit : « Il doit nourrir soixante pauvres. » Elle a dit : « Il n’a rien à donner en aumône. » À ce moment-là, un araq (panier de dattes contenant quinze ou seize sa’s) a été apporté au Prophète. J’ai dit : « Je vais l’aider avec un autre panier de dattes. » Il a dit : « Tu as bien fait. Va nourrir soixante pauvres pour lui, puis retourne auprès de ton cousin. » Le narrateur a précisé : Un araq contient soixante sa’s de dattes. Abu Dawud a dit : « Elle a expié pour lui sans lui demander son avis. » Abu Dawud a ajouté : « Cet homme (Aws ibn as-Samit) est le frère de ‘Ubadah ibn as-Samit. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali\], telah menceritakan kepada kami \[Yahya bin Adam\], telah menceritakan kepada kami \[Ibnu Idris\] dari \[Muhammad bin Ishaq\] dari \[Ma'mar bin Abdullah bin Hanzhalah\] dari \[Yusuf bin Abdullah bin Salam\] dari \[Khuwailah binti Malik bin Tsa'labah\], ia berkata; suamiku yaitu Aus bin Ash Shamit menzhiharku, kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam mengadukannya kepada beliau, sementara Rasulullah shallallahu 'alaihi wasallam berdialog denganku mengenainya, beliau berkata: "Bertakwalah kepada Allah, ia adalah anak pamanmu!" Tidaklah aku beranjak pergi hingga turun Al Qur'an: "Sesungguhnya Allah telah mendengar perkataan wanita yang mengajukan gugatan kepada kamu tentang suaminya, dan mengadukan (halnya) kepada Allah. Dan Allah mendengar soal jawab antara kamu berdua. Sesungguhnya Allah Maha Mendengar lagi Maha Melihat" hingga penyebutan kewajiban yang Allah wajibkan. Kemudian beliau berkata: "Ia bebaskan seorang budak." Khuwailah berkata; ia tidak memilikinya. Beliau berkata; ia berpuasa dua bulan berturut-turut. Khuwailah berkata; wahai rasulullah, sesungguhnya ia adalah orang yang tua renta, ia tidak mampu untuk berpuasa. Beliau berkata: "Hendaknya ia memberi makan enam orang miskin." Khuwailah berkata; ia tidak memiliki sesuatu yang dapat ia sedekahkan. Khuwailah berkata; kemudian pada saat itu ia diberi satu 'araq kurma. Aku katakan; wahai Rasulullah, aku akan membantunya dengan satu 'araq yang lainnya. Beliau bersabda: "Engkau telah berbuat baik, pergilah dan berilah makan untuknya enam puluh orang miskin dan kembalilah kepada anak pamanmu." Ma'mar bin Abdullah bin Hanzhalah berkata; 'Araq adalah enam puluh sha'. Abu Daud berkata dalam hadits ini; sesungguhnya Khuwailah membayar kafarah untuk suaminya tanpa meminta pertimbangan darinya. Abu Daud berkata; dan orang ini adalah saudara 'Ubadah bin Ash Shamit. Telah menceritakan kepada kami \[Al Hasan bin Ali\], telah menceritakan kepada kami \[Abdul Aziz bin Yahya Abu Al Ashbagh Al Harrani\], telah menceritakan kepada kami \[Muhammad bin Salamah\] dari \[Ibnu Ishaq\] dengan sanad ini seperti itu, hanya saja ia mengatakan; dan 'araq adalah keranjang yang memuat tiga puluh sha'. Abu Daud berkata; dan hadits ini lebih shahih daripada hadits Yahya bin Adam. Telah menceritakan kepada kami Musa bin Isma'il, telah menceritakan kepada kami Aban, telah menceritakan kepada kami Yahya dari Abu Salamah bin Abdurrahman, ia berkata; yang dimaksud dengan 'araq yaitu keranjang yang muat lima belas sha
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yahya bin Adam], telah menceritakan kepada kami [Ibnu Idris] dari [Muhammad bin Ishaq] dari [Ma'mar bin Abdullah bin Hanzhalah] dari [Yusuf bin Abdullah bin Salam] dari [Khuwailah binti Malik bin Tsa'labah], ia berkata; suamiku yaitu Aus bin Ash Shamit menzhiharku, kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam mengadukannya kepada beliau, sementara Rasulullah shallallahu 'alaihi wasallam berdialog denganku mengenainya, beliau berkata: "Bertakwalah kepada Allah, ia adalah anak pamanmu!" Tidaklah aku beranjak pergi hingga turun Al Qur'an: "Sesungguhnya Allah telah mendengar perkataan wanita yang mengajukan gugatan kepada kamu tentang suaminya, dan mengadukan (halnya) kepada Allah. Dan Allah mendengar soal jawab antara kamu berdua. Sesungguhnya Allah Maha Mendengar lagi Maha Melihat" hingga penyebutan kewajiban yang Allah wajibkan. Kemudian beliau berkata: "Ia bebaskan seorang budak." Khuwailah berkata; ia tidak memilikinya. Beliau berkata; ia berpuasa dua bulan berturut-turut. Khuwailah berkata; wahai rasulullah, sesungguhnya ia adalah orang yang tua renta, ia tidak mampu untuk berpuasa. Beliau berkata: "Hendaknya ia memberi makan enam orang miskin." Khuwailah berkata; ia tidak memiliki sesuatu yang dapat ia sedekahkan. Khuwailah berkata; kemudian pada saat itu ia diberi satu 'araq kurma. Aku katakan; wahai Rasulullah, aku akan membantunya dengan satu 'araq yang lainnya. Beliau bersabda: "Engkau telah berbuat baik, pergilah dan berilah makan untuknya enam puluh orang miskin dan kembalilah kepada anak pamanmu." Ma'mar bin Abdullah bin Hanzhalah berkata; 'Araq adalah enam puluh sha'. Abu Daud berkata dalam hadits ini; sesungguhnya Khuwailah membayar kafarah untuk suaminya tanpa meminta pertimbangan darinya. Abu Daud berkata; dan orang ini adalah saudara 'Ubadah bin Ash Shamit. Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdul Aziz bin Yahya Abu Al Ashbagh Al Harrani], telah menceritakan kepada kami [Muhammad bin Salamah] dari [Ibnu Ishaq] dengan sanad ini seperti itu, hanya saja ia mengatakan; dan 'araq adalah keranjang yang memuat tiga puluh sha'. Abu Daud berkata; dan hadits ini lebih shahih daripada hadits Yahya bin Adam. Telah menceritakan kepada kami Musa bin Isma'il, telah menceritakan kepada kami Aban, telah menceritakan kepada kami Yahya dari Abu Salamah bin Abdurrahman, ia berkata; yang dimaksud dengan 'araq yaitu keranjang yang muat lima belas sha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Хувайли бинт Малик ибн Саляба, да будет доволен ею Аллах: «Мой муж Аус ибн ас-Самит дал мне зыхар, и я пошла к Посланнику Аллаха ﷺ чтобы пожаловаться на него. А Посланник Аллаха ﷺ увещевал меня, говоря: “Бойся Аллаха в отношении него, ибо он сын дяди твоего!”» Тогда было ниспослано: «Аллах уже услышал слова женщины, которая вступила с тобой в пререкания относительно своего мужа…» (сура 58 «аль-Муджадиля», аят 1) И Посланник Аллаха ﷺ сказал, что Аус должен освободить одного раба. Она сказала: «У него нет (ни раба, ни средств, чтобы купить и освободить раба)». Посланник Аллаха ﷺ сказал: «Тогда пусть постится два месяца подряд». Она сказала: «О Посланник Аллаха! Он старик и не может поститься». Посланник Аллаха ﷺ сказал: «Тогда пусть накормит шестьдесят бедняков». Она сказала: «У него нет ничего, что можно было раздать в качестве милостыни». Она сказала: «В это время Посланнику Аллаха ﷺ принесли корзину фиников (арак), и он отдал их ей. А я сказала: “А я помогу ему и отдам за него ещё один арак”. Посланник Аллаха ﷺ сказал: “Ты поступаешь хорошо. Накорми от его имени шестьдесят бедняков и возвратись к сыну дяди своего”». Передатчик сказал: «Арак это шестьдесят са‘». Абу Дауд сказал: «Отсюда следует, что она совершила искупление за него, не дожидаясь его веления». Абу Дауд также сказал, что Аус ибн ас-Самит брат Убады ибн ас-Самита
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
 
 ## Turkish
 
+Huveyle bint Mâlik b. Sa'lebe'den; demiştir ki: Kocam Evs b. es-Sâmit bana zihar uygulamıştı. Ben de Rasûlullah (s.a.v.)'e varıp (ondan) yakındım. Rasûlullah (s.a.v.); "Allah'tan kork, o senin amcanın oğludur" diyerek onun hakkında benimle tartışıyordu. (Bu tartışmaya) devam ettim, nihayet benim hakkımda Kur'an(dan) “Allah kocası hakkında seninle tartışan ve Allah'a şikâyette bulunan kadın'ın sözünü işitti"\[Mücadele 1.\] (ayeti kerimesinden itibaren zihar için) farz (kılınan keffâreti açıklayan kısım)a kadar (olan âyetler) nazil oldu. Bunun üzerine Rasûlullah (s.a.v.); "(O halde kocan) bir köle azad eder" buyurdu. (Huveyle de); O, (köle azl edecek gücü kendisinde) bulamaz, dedi. (Rasûl-i Ekrem de); "(Öyleyse) Peşi peşine iki ay oruç tutar," buyurdu (Huveyle); -Ya Rasûlallah o yaşlı bir kimsedir. Onda oruç (tutacak bir güç) yoktur diye cevap verdi. (Rasûl-i Ekrem de); "Öyleyse altmış yoksulu doyursun" buyurdu. (Huveyle de); Onun yanında (zihar keffâretine yetecek kadar) dağıtabileceği (bir mal) yoktur. (Daha sonra Huveyle şunları) rivayet etti; Hemen o anda (Rasûl-i Ekremin emriyle) bir arak hurma getirildi. Bende; Bir arakla ona ben de yardım edebilirim, dedim. Aferin sana git o iki arak (hurmay)ı onun adına altmış yoksula yedir ve amcanın oğluna dön," buyurdu. (Bu hadisi nakleden râvilerden Yahya b. Âdem); Arak altmış sa'dır, dedi. Ahmed b. Hanbel, VI, 410; Beyhaki es-Sünenü'1-kübrâ, VII, 391. Ebû Dâvûd dedi ki: "bu meselede benim görüşüm (şudur) Huveyle (kocasının) iznini almadan onun keffâretini ödemiştir. (Huveyle'nin kocası olan) bu (kimse) Ubâde b. es-Sâmit'in erkek kardeşidir.”
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Huveyle bint Mâlik b. Sa'lebe'den; demiştir ki: Kocam Evs b. es-Sâmit bana zihar uygulamıştı. Ben de Rasûlullah (s.a.v.)'e varıp (ondan) yakındım. Rasûlullah (s.a.v.); "Allah'tan kork, o senin amcanın oğludur" diyerek onun hakkında benimle tartışıyordu. (Bu tartışmaya) devam ettim, nihayet benim hakkımda Kur'an(dan) “Allah kocası hakkında seninle tartışan ve Allah'a şikâyette bulunan kadın'ın sözünü işitti"[Mücadele 1.] (ayeti kerimesinden itibaren zihar için) farz (kılınan keffâreti açıklayan kısım)a kadar (olan âyetler) nazil oldu. Bunun üzerine Rasûlullah (s.a.v.); "(O halde kocan) bir köle azad eder" buyurdu. (Huveyle de); O, (köle azl edecek gücü kendisinde) bulamaz, dedi. (Rasûl-i Ekrem de); "(Öyleyse) Peşi peşine iki ay oruç tutar," buyurdu (Huveyle); -Ya Rasûlallah o yaşlı bir kimsedir. Onda oruç (tutacak bir güç) yoktur diye cevap verdi. (Rasûl-i Ekrem de); "Öyleyse altmış yoksulu doyursun" buyurdu. (Huveyle de); Onun yanında (zihar keffâretine yetecek kadar) dağıtabileceği (bir mal) yoktur. (Daha sonra Huveyle şunları) rivayet etti; Hemen o anda (Rasûl-i Ekremin emriyle) bir arak hurma getirildi. Bende; Bir arakla ona ben de yardım edebilirim, dedim. Aferin sana git o iki arak (hurmay)ı onun adına altmış yoksula yedir ve amcanın oğluna dön," buyurdu. (Bu hadisi nakleden râvilerden Yahya b. Âdem); Arak altmış sa'dır, dedi. Ahmed b. Hanbel, VI, 410; Beyhaki es-Sünenü'1-kübrâ, VII, 391. Ebû Dâvûd dedi ki: "bu meselede benim görüşüm (şudur) Huveyle (kocasının) iznini almadan onun keffâretini ödemiştir. (Huveyle'nin kocası olan) bu (kimse) Ubâde b. es-Sâmit'in erkek kardeşidir.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 خویلہ بنت مالک بن ثعلبہ رضی اللہ عنہا کہتی ہیں کہ میرے شوہر اوس بن صامت نے مجھ سے ظہار کر لیا تو میں رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئی، میں آپ سے شکایت کر رہی تھی اور رسول اللہ صلی اللہ علیہ وسلم مجھ سے ان کے بارے میں جھگڑ رہے تھے اور آپ صلی اللہ علیہ وسلم فرما رہے تھے: اللہ سے ڈر، وہ تیرا چچا زاد بھائی ہے ، میں وہاں سے ہٹی بھی نہ تھی کہ یہ آیت نازل ہوئی: «قد سمع الله قول التي تجادلك في زوجها» اللہ تعالیٰ نے اس عورت کی گفتگو سن لی ہے جو آپ سے اپنے شوہر کے متعلق جھگڑ رہی تھی ( سورۃ المجادلہ: ۱ ) ، تو آپ صلی اللہ علیہ وسلم نے فرمایا: وہ ایک گردن آزاد کریں ، کہنے لگیں: ان کے پاس نہیں ہے۔ آپ صلی اللہ علیہ وسلم نے فرمایا: پھر وہ دو مہینے کے پے در پے روزے رکھیں ، کہنے لگیں: اللہ کے رسول! وہ بوڑھے کھوسٹ ہیں انہیں روزے کی طاقت نہیں۔ آپ صلی اللہ علیہ وسلم نے فرمایا: تو پھر وہ ساٹھ مسکینوں کو کھانا کھلائیں ، کہنے لگیں: ان کے پاس صدقہ کرنے کے لیے کچھ بھی نہیں۔ کہتی ہیں: اسی وقت آپ صلی اللہ علیہ وسلم کے پاس کھجوروں کی ایک زنبیل آ گئی، میں نے کہا: اللہ کے رسول ( آپ یہ دے دیجئیے ) ایک اور زنبیل میں دے دوں گی، آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے ٹھیک ہی کہا ہے، لے جاؤ اور ان کی جانب سے ساٹھ مسکینوں کو کھلا دو، اور اپنے چچا زاد بھائی ( یعنی شوہر ) کے پاس لوٹ جاؤ ۔ راوی کا بیان ہے کہ زنبیل ساٹھ صاع کی تھی۔ ابوداؤد کہتے ہیں: کہ اس عورت نے اپنے شوہر سے مشورہ کئے بغیر اس کی جانب سے کفارہ ادا کیا۔ ابوداؤد کہتے ہیں: یہ عبادہ بن صامت کے بھائی ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2214</td></tr><tr><td>Arabic No</td><td>2214</td></tr><tr><td>Reference</td><td>Book 13 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2214 |
+| Arabic No | 2214 |
+| Reference | Book 13 Hadith 40 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنِ الْحَكَمِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عَلِيٍّ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ لَمْ يَذْكُرِ الْخَرِيفَ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ مَنْصُورٌ عَنِ الْحَكَمِ أَبِي حَفْصٍ كَمَا رَوَاهُ شُعْبَةُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا ابو معاوية، حدثنا الاعمش، عن الحكم، عن عبد الرحمن بن ابي ليلى، عن علي، عن النبي صلى الله عليه وسلم بمعناه لم يذكر الخريف . قال ابو داود رواه منصور عن الحكم ابي حفص كما رواه شعبة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী (রাঃ) থেকে এ সনদেও উপরের হাদীসটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে বর্ণিত। কিন্তু এতে ‘খারীফ’ শব্দের উল্লেখ নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by 'Ali from the Prophet (ﷺ) through a different chain of narrators to the same effect. This version does not mention the word "garden" (khartf). Abu Dawud said:This tradition has been narrated by Mansur from al-Hakkam as narrated by Shu'bah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Ali رضي الله عنه du Prophète ﷺ par une autre chaîne de transmetteurs, avec le même sens. Cette version ne mentionne pas le mot « jardin » (khartf). Abu Dawud a dit : Cette tradition a été rapportée par Mansur d’après al-Hakkam comme Shu’bah l’a rapportée
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В другой версии от ‘Али от Пророка ﷺ не упоминаются плоды
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Ali, Nebi (s.a.v.) (bir önceki hadisin bir de) manasını rivayet etmiştir. Fakat (bu rivayetinde bir önceki hadis'in metninde bulunan) harif (kelimesin)i zikretmemiştir. (Ebû Dâvud der ki: Bu hadisi, Şu'be'nin rivayet ettiği şekilde Mansur da el-Hakem 'den (mevkuf olarak) rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم سے اسی معنی کی حدیث روایت کرتے ہیں لیکن انہوں نے اس میں «خریف» کا ذکر نہیں کیا ہے۔ ابوداؤد کہتے ہیں: اسے منصور نے حکم سے اسی طرح روایت کیا ہے جیسے شعبہ نے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3099</td></tr><tr><td>Arabic No</td><td>3099</td></tr><tr><td>Reference</td><td>Book 21 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3099 |
+| Arabic No | 3099 |
+| Reference | Book 21 Hadith 11 |

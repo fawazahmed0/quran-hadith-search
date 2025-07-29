@@ -18,78 +18,80 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، حَدَّثَنَا أَبِي، حَدَّثَنَا دَاوُدُ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، وَجَابِرِ بْنِ عَبْدِ اللَّهِ، قَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ يَكُونُ فِي آخِرِ الزَّمَانِ خَلِيفَةٌ يَقْسِمُ الْمَالَ وَلاَ يَعُدُّهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني زهير بن حرب، حدثنا عبد الصمد بن عبد الوارث، حدثنا ابي، حدثنا داود، عن ابي نضرة، عن ابي سعيد، وجابر بن عبد الله، قالا قال رسول الله صلى الله عليه وسلم " يكون في اخر الزمان خليفة يقسم المال ولا يعده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যুহায়র ইবনু হারব (রহঃ) ..... আবু সাঈদ ও জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তারা বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আখিরী যুগে এমন খলীফার আগমন ঘটবে, সে ধন-সম্পদ ভাগ করবে কিন্তু কোন প্রকার গণনা করবে না। (ইসলামিক ফাউন্ডেশন ৭০৫৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Sa'id and Jabir b. Abdullah reported that Allah's Messenger (ﷺ) said:There would be in the last phase of the time a caliph who would distribute wealth but would not count
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bize Ebû Bekr b. Ebî Şeybe de rivâyet etti. ki): Bize Ebû Muâviye, Dâvud b. Ebî Hind'den, o da Ebû Nadra'dan, o da Ebû Saîd den, o da Peygamber (sallallahü aleyhi ve sellem)’den naklen bu hadîsin mislini rivâyet etti. Câbir rivâyetinin izahı biraz yukarda 2896 numaralı hadîsde geçmişti. Diğer rivâyetlerdeki halîfenin kim olduğu bildirilmemişse de, Tirmizî ile Ebû Dâvud bunun Mehdi olduğunu söylemişlerdir, Tirmizî'nin rivâyet ettiği bir hadîsde: benim ehl-i beytimden ismi ismime uygun bir adam hükmetmedikçe kıyâmet kopmayacaktır.» buyurulmuştur. Tirmizî: «Bu hadîsi hasen sahihdir.» demiştir. Aynı hadisi Ebû Dâvud da rivâyet etmiştir. Onun rivâyetinde: zulümle nasıl doldurulduysa, o da doğruluk ve adaletle dolduracaktır.» ziyâdesi vardır. ve «Yahsî» fiilleri avuçla almak mânâsına gelirler. Halîfenin malı saymadan avuçla vermesi, mal ve ganimetlerin çokluğundan ve kendisinin cömertliğinden olacaktır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ابو معاویہ نے داؤد بن ابی ہندسے انھوں نے ابونضرہ سے انھوں نے حضرت ابو سعید رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7319</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7319 |
+| Reference | Book 0 Hadith 0 |

@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، حَدَّثَنَا مَالِكُ بْنُ مِغْوَلٍ، عَنْ أَبِي، السَّفَرِ عَنِ الْبَرَاءِ، قَالَ آخِرُ آيَةٍ أُنْزِلَتْ يَسْتَفْتُونَكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عمرو الناقد، حدثنا ابو احمد الزبيري، حدثنا مالك بن مغول، عن ابي، السفر عن البراء، قال اخر اية انزلت يستفتونك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর আন নাকিদ (রহঃ) ...... বারা (রাযিঃ) হতে বর্ণিত। তিনি বলেন, সর্বশেষ অবতীর্ণ আয়াত آيَةٍ يَسْتَفْتُونَكَ (ইসলামিক ফাউন্ডেশন ৪০১১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Bara' (Allah be pleased with him) reported that the last verse revealed was:" They ask of thee religious verdict.." (iv)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## French
 
+Rapporté par al-Bara’ رضي الله عنه : Le dernier verset révélé était : « Ils te demandent un avis religieux... » (sourate 4, verset)
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Amru An Naqid\] telah menceritakan kepada kami \[Abu Ahmad Az Zubairi\] telah menceritakan kepada kami \[Malik bin Mighwal\] dari \[Abu Safar\] dari \[Barra'\] dia berkata, "Ayat yang terakhir kali turun adalah YASTAFTUUNAKA (surat An Nisaa)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Abu Ahmad Az Zubairi] telah menceritakan kepada kami [Malik bin Mighwal] dari [Abu Safar] dari [Barra'] dia berkata, "Ayat yang terakhir kali turun adalah YASTAFTUUNAKA (surat An Nisaa)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Amru'n-Nâkıd rivayet etti. (Dediki): Bize Ebû Ahmed Ez-Zübeyrî rivayet etti. (Dediki): Bize Mâlik b. Miğvel Ebu's-Sefer'den, o da Berâ'dan naklen rivayet etti. Berâ': «İndirilen son âyet: Senden fetva istiyorlar... âyetidir.» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسفر نے حضرت براء رضی اللہ عنہ سے روایت کی ، انہوں نے کہا : آخری آیت جو اتاری گئی ، ( يَسْتَفْتُونَكَ ) ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4156</td></tr><tr><td>Arabic No</td><td>1618.05</td></tr><tr><td>Reference</td><td>Book 23 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4156 |
+| Arabic No | 1618.05 |
+| Reference | Book 23 Hadith 17 |

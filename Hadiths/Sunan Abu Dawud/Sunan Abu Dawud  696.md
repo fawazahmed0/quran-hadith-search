@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، وَالنُّفَيْلِيُّ، قَالاَ حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، قَالَ أَخْبَرَنِي أَبِي، عَنْ سَهْلٍ، قَالَ وَكَانَ بَيْنَ مُقَامِ النَّبِيِّ صلى الله عليه وسلم وَبَيْنَ الْقِبْلَةِ مَمَرُّ عَنْزٍ ‏.‏ قَالَ أَبُو دَاوُدَ الْخَبَرُ لِلنُّفَيْلِيِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
+
 حدثنا القعنبي، والنفيلي، قالا حدثنا عبد العزيز بن ابي حازم، قال اخبرني ابي، عن سهل، قال وكان بين مقام النبي صلى الله عليه وسلم وبين القبلة ممر عنز . قال ابو داود الخبر للنفيلي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
 
 ## Bengali
 
+। সাহল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দাঁড়ানোর স্থান ও তাঁর কিবলার মধ্যবর্তী স্থানে একটি বকরী চলাচলের পরিমাণ জায়গা ফাঁকা থাকত।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাহল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর দাঁড়ানোর স্থান ও তাঁর কিবলার মধ্যবর্তী স্থানে একটি বকরী চলাচলের পরিমাণ জায়গা ফাঁকা থাকত।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sahl said:The distance between the place where the Prophet (ﷺ) stood and the qiblah (i.e. the sutrah or the wall of the mosque) was as much as to allow a goat to pass
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
+
+## French
+
+Sahl رضي الله عنه a dit : La distance entre l’endroit où le Prophète ﷺ se tenait et la qibla (c’est-à-dire la sutrah ou le mur de la mosquée) permettait à une chèvre de passer
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al-Qa'nabi\] dan \[An-Nufaili\] mereka berdua berkata; Telah menceritakan kepada kami \[Abdul Aziz bin Abu Hazim\] dia berkata; Telah mengabarkan kepadaku \[Ayahku\] dari \[Sahl\] dia berkata; Jarak antara tempat berdiri Nabi shallallahu 'alaihi wasallam dan antara kiblat adalah sekitar tempat lewat domba. Abu Dawud berkata; Hadits ini adalah riwayat An-Nufaili
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al-Qa'nabi] dan [An-Nufaili] mereka berdua berkata; Telah menceritakan kepada kami [Abdul Aziz bin Abu Hazim] dia berkata; Telah mengabarkan kepadaku [Ayahku] dari [Sahl] dia berkata; Jarak antara tempat berdiri Nabi shallallahu 'alaihi wasallam dan antara kiblat adalah sekitar tempat lewat domba. Abu Dawud berkata; Hadits ini adalah riwayat An-Nufaili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Сахль сказал: «И между местом молитвы Пророка ﷺ и киблой, оставалось такое расстояние, которое было достаточно для того, чтобы там могла пройти коза»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl (r.a.)'den; demiştir ki: “Nebi (Sallallahu aleyhi ve Sellem)'in namaz kıldığı yer ile kıble (duvarı) arasındaki (mesafe) bir dişi keçinin geçebileceği kadardı" Ebu Davud dedi ki; bu haber Nüfeylî'ye aittir. Diğer tahric: Buharî, salat; Müslim, salat; Ahmed b. Hanbel, IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سہل رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے کھڑے ہونے کی جگہ اور قبلہ ( کی دیوار ) کے درمیان ایک بکری کے گزرنے کے بقدر جگہ ہوتی تھی۔ ابوداؤد کہتے ہیں: حدیث کے الفاظ نفیلی کے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (496) Sahih Muslim (508)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>696</td></tr><tr><td>Arabic No</td><td>696</td></tr><tr><td>Reference</td><td>Book 2 Hadith 306</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (496) Sahih Muslim (508) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 696 |
+| Arabic No | 696 |
+| Reference | Book 2 Hadith 306 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مُعَاوِيَةَ، قَالَ حَدَّثَنَا عَبَّادٌ، عَنْ حُسَيْنٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ فِي الأَسْنَانِ خَمْسٌ مِنَ الإِبِلِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |
+
 اخبرنا محمد بن معاوية، قال حدثنا عباد، عن حسين، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم " في الاسنان خمس من الابل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন মুআবিয়া (রহঃ) ... আমর ইবন শুআয়ব (রহঃ) তাঁর পিতার মাধ্যমে তাঁর দাদা থেকে বর্ণনা করেন। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক দাঁতের পরিবর্তে পাঁচ উট দিয়াত দিতে হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from'Amr bin Shu'aib, from his father that his grandfather said; the Messenger of Allah said:"For teeth (the Diyah is) five camels
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |
+
+## French
+
+Rapporté par 'Amr bin Shu'aib, de son père, que son grand-père a dit : Le Messager d’Allah a dit : "Pour les dents, le Diyah est de cinq chameaux
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Mu'awiyah\] telah menceritakan kepada kami \['Abbad\] dari \[Husain\] dari \['Amru bin Syu'aib\] dari \[ayahnya\] dari \[kakeknya\], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Diyat untuk gigi adalah lima ekor unta
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Mu'awiyah] telah menceritakan kepada kami ['Abbad] dari [Husain] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Diyat untuk gigi adalah lima ekor unta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4841</td></tr><tr><td>Arabic No</td><td>4841</td></tr><tr><td>Reference</td><td>Book 45 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4841 |
+| Arabic No | 4841 |
+| Reference | Book 45 Hadith 136 |

@@ -14,62 +14,102 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ، عَنْ عَائِشَةَ، وَحَفْصَةَ، زَوْجَىِ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |
+
 وحدثني عن مالك، عن نافع، عن صفية بنت ابي عبيد، عن عايشة، وحفصة، زوجى النبي صلى الله عليه وسلم ان رسول الله صلى الله عليه وسلم قال " لا يحل لامراة تومن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik from Nafi from Safiyya bint Abi Ubayd from A'isha and Hafsa, the wives of the Prophet, may Allah bless him and grant him peace, that the Messenger of Allah, may Allah bless him and grant him peace, said, "It is not halal for a woman in mourning for someone who has died, if she trusts in Allah and the Last Day, to abstain from adornment for more than three nights, except for a husband
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aicha et Hafsa, les femmes du Prophète r (Sur lui la grâce et la paix d'Allah) ont rapporté que l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) a dit: «II n'est pas licite pour une femme croyant en Allah et au jour du jugement dernier, de s'endeuiller pour un mort, pour plus que trois nuits excepté, que le mort soit son mari»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1266</td></tr><tr><td>Arabic No</td><td>1266</td></tr><tr><td>Reference</td><td>Book 29 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1266 |
+| Arabic No | 1266 |
+| Reference | Book 29 Hadith 63 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ، حَدَّثَنَا عِيسَى، عَنْ مَعْمَرٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رُئِيَ عَلَى جَبْهَتِهِ وَعَلَى أَرْنَبَتِهِ أَثَرُ طِينٍ مِنْ صَلاَةٍ صَلاَّهَا بِالنَّاسِ ‏.‏ قَالَ أَبُو عَلِيٍّ هَذَا الْحَدِيثُ لَمْ يَقْرَأْهُ أَبُو دَاوُدَ فِي الْعَرْضَةِ الرَّابِعَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
+
 حدثنا مومل بن الفضل، حدثنا عيسى، عن معمر، عن يحيى بن ابي كثير، عن ابي سلمة، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم ريي على جبهته وعلى ارنبته اثر طين من صلاة صلاها بالناس . قال ابو علي هذا الحديث لم يقراه ابو داود في العرضة الرابعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। একদা লোকদেরকে নিয়ে জামা‘আতে সালাত আদায়ের পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কপালে ও নাকে মাটি লেগে থাকতে দেখা যায়।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। একদা লোকদেরকে নিয়ে জামা‘আতে সালাত আদায়ের পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কপালে ও নাকে মাটি লেগে থাকতে দেখা যায়।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu sa’I al-Khudri said:The mark of earth was seen on the forehead and nose of the Messenger of Allah(ﷺ) who had led the people I prayer. Abu Ali said: Abu Dawud did not recite this tradition when he recited his collection(of sunan) for the fourth time
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri رضي الله عنه : On voyait la trace de la terre sur le front et le nez du Messager d’Allah ﷺ après qu’il ait dirigé la prière pour les gens. Abu Ali a précisé : Abu Dawud n’a pas récité ce hadith lorsqu’il a relu sa collection (des Sunan) pour la quatrième fois
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Mu'ammal bin Al Fadl\] telah menceritakan kepada kami \[Isa\] dari \[Ma'mar\] dari \[Yahya bin Abu Katsir\] dari \[Abu Salamah\] dari \[Abu Sa'id Al Khudri\] bahwa Rasulullah shallallahu 'alaihi wasallam terlihat pada dahi dan ujung hidung beliau ada bekas tanah, setelah mengerjakan shalat bersama orang-orang." Abu Ali mengatakan; "Hadits ini tidak di baca oleh Abu Daud di pemaparan yang ke empat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Mu'ammal bin Al Fadl] telah menceritakan kepada kami [Isa] dari [Ma'mar] dari [Yahya bin Abu Katsir] dari [Abu Salamah] dari [Abu Sa'id Al Khudri] bahwa Rasulullah shallallahu 'alaihi wasallam terlihat pada dahi dan ujung hidung beliau ada bekas tanah, setelah mengerjakan shalat bersama orang-orang." Abu Ali mengatakan; "Hadits ini tidak di baca oleh Abu Daud di pemaparan yang ke empat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что после молитвы, которую Посланник Аллаха ﷺ совершал с людьми, на его лбу и переносице виднелись следы глины от земного поклона
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Saîd el-Hudrî (r.a.)'den rivayet olunmuştur: "Halka kıldırdığı bir namazdan dolayı Resulullah (Sallallahu aleyhi ve Sellem)'in alnında ve burnunun ucunda toz izleri görüldü. (Sünen-i Ebû Davud'un râvisi) Ebû Ali (el-Lu'luî) dedi ki: Ebû Dâvûd dördüncü (ve son) okutuşunda bu hadisi (burada) okumamıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے لوگوں کو نماز پڑھائی، جس سے آپ کی پیشانی اور ناک پر مٹی کے نشانات دیکھے گئے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>911</td></tr><tr><td>Arabic No</td><td>911</td></tr><tr><td>Reference</td><td>Book 2 Hadith 522</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 911 |
+| Arabic No | 911 |
+| Reference | Book 2 Hadith 522 |

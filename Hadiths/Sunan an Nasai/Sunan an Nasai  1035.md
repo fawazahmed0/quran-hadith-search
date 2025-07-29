@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ أَبِي حَصِينٍ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ السُّلَمِيِّ، قَالَ قَالَ عُمَرُ إِنَّمَا السُّنَّةُ الأَخْذُ بِالرُّكَبِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |
+
 اخبرنا سويد بن نصر، قال انبانا عبد الله، عن سفيان، عن ابي حصين، عن ابي عبد الرحمن السلمي، قال قال عمر انما السنة الاخذ بالركب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুয়ায়দ ইবনু নাসর (রহঃ) ... আবূ আবদূর রহমান সালামী (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমর (রাঃ) বলেছেনঃ সুন্নত হলো হাটু জড়িয়ে ধরা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Abdur-Rahman As-Sulami said:" 'Umar said: 'The Sunnah is to hold the knees
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |
+
+## French
+
+Rapporté par 'Abdur-Rahman As-Sulami : « 'Umar a dit : “La sunna est de tenir les genoux.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid bin Nashr\] dia berkata; telah memberitakan kepada kami \['Abdullah\] dari \[Sufyan\] dari \[Abu Husain\] dari \[Abu 'Abdurrahman As-Sulamiy\] dia berkata; \[Umar\] berkata; "Memegang lutut adalah sunnah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; telah memberitakan kepada kami ['Abdullah] dari [Sufyan] dari [Abu Husain] dari [Abu 'Abdurrahman As-Sulamiy] dia berkata; [Umar] berkata; "Memegang lutut adalah sunnah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوعبدالرحمٰن سلمی کہتے ہیں کہ عمر رضی اللہ عنہ نے کہا: سنت تو گھٹنوں کو پکڑنا ہی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1035</td></tr><tr><td>Arabic No</td><td>1035</td></tr><tr><td>Reference</td><td>Book 12 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1035 |
+| Arabic No | 1035 |
+| Reference | Book 12 Hadith 7 |

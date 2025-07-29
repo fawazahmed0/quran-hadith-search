@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ دَاوُدَ بْنِ أَبِي هِنْدٍ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ تَمِيمٍ الدَّارِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْمَعْنَى قَالَ ‏ "‏ ثُمَّ الزَّكَاةُ مِثْلُ ذَلِكَ ثُمَّ تُؤْخَذُ الأَعْمَالُ عَلَى حَسَبِ ذَلِكَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن داود بن ابي هند، عن زرارة بن اوفى، عن تميم الداري، عن النبي صلى الله عليه وسلم بهذا المعنى قال " ثم الزكاة مثل ذلك ثم توخذ الاعمال على حسب ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
 
 ## Bengali
 
+। তামীম আদ্-দারী (রাঃ) হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ অতঃপর যাকাতের হিসাবও অনুরূপভাবে নেয়া হবে। অতঃপর অন্যান্য আমলের হিসাবও অনুরূপভাবে গ্রহণ করা হবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। তামীম আদ্-দারী (রাঃ) হতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ অতঃপর যাকাতের হিসাবও অনুরূপভাবে নেয়া হবে। অতঃপর অন্যান্য আমলের হিসাবও অনুরূপভাবে গ্রহণ করা হবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Tamim ad-Dari: Tamim reported this tradition from the Prophet (ﷺ) as (Hadith No 863). This version adds: Then zakat will be considered in a similar way. Then all the actions will be considered accordingly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
+
+## French
+
+Rapporté par Tamim ad-Dari : Tamim a rapporté cette tradition du Prophète ﷺ comme dans le hadith n°863. Cette version ajoute : « Ensuite, la zakat sera examinée de la même manière. Puis toutes les actions seront jugées ainsi. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Тамими ад-Дари, да будет доволен им Аллах, что Пророк ﷺ сказал: «Потом так же закят, а потом, исходя из этого, будут оцениваться все остальные дела»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Temim ed-Darî vasıtasıyla Nebi (Sallallahu aleyhi ve Sellem)'den bir önceki (864 ile aynı) manada bir hadis nakledildi. (O rivayette) Nebi (Sallallahu aleyhi ve Sellem); "Sonra zekat'ta böyledir ve sonra bütün ameller bu suretle ele alınır." buyurdu. Diğer tahric: İbn Mace, ikame; Tirmizî, salat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 تمیم داری رضی اللہ عنہ نے بھی نبی اکرم صلی اللہ علیہ وسلم سے اسی مفہوم کی حدیث مرفوعاً روایت کی ہے اس میں ہے: پھر زکاۃ کا یہی حال ہو گا، پھر تمام اعمال کا حساب اسی طرح سے ہو گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>866</td></tr><tr><td>Arabic No</td><td>866</td></tr><tr><td>Reference</td><td>Book 2 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 866 |
+| Arabic No | 866 |
+| Reference | Book 2 Hadith 476 |

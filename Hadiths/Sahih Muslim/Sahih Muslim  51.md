@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## French
 
+Rapporté par Abū Abd ar-Rahman as-Sulamī رحمه الله : « Nous rejoignions Abū Abd ar-Rahman as-Sulamī alors que nous étions jeunes, et il nous disait : “Ne vous asseyez pas avec les conteurs, sauf Abūl-Ahwas, et méfiez-vous de Shaqīq \[Abū Abd ar-Rahīm\].” » \[Muslim\] a précisé : « Ce Shaqīq avait l’opinion des Khawārij et ce n’est pas Abū Wā’il \[Shaqīq bin Salamah, le pieux Tabi’ī\]. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bize Ebû Kâmil El-Cahderî rivâyet etti. ki): Bize Hammâd (İbn Zeyd'dir) rivâyet etti. ki: Bize Âsim rivâyet etti; ve şöyle dedi: Biz yetişkin delikanlılarken Ebû Abdirrahman es-Sülemî ye gelirdik. Bize: Ebû'l-Ahvas'tan başka hikayecilerle düşüp kalkmayın! Hele Şakîk den sakının! derdi. Bu Şakîk haricilerin mezhebinde idi. Ama o Ebû Vâil değildir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمیں عاصم نے حدیث بیان کی ، کہا : ہم بالکل نو عمر لڑکے تھے جو ابو عبد الرحمن سلمی کے پاس حاضر ہوتے تھے ، وہ ہم سے کہا کرتے تھے : ابو احوص کے سوا دوسرے قصہ گوؤں ( واعظوں ) کی مجالس میں مت بیٹھو اور شقیق سے بچ کر رہو ۔ شقیق خوارج کا نقطہ نظر رکھتا تھا ، یہ ابو وائل نہیں ( بلکہ شقیق ضبی ہے ۔)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>51</td></tr><tr><td>Reference</td><td>Book 0 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 51 |
+| Reference | Book 0 Hadith 51 |

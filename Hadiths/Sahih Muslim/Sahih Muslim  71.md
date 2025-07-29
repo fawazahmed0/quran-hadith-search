@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## French
 
+Rapporté par Salamah bin Shabīb : Al-Humaydī nous a rapporté, Sufyān nous a rapporté, il a dit : « J’ai entendu Abū Mūsā \[Isrā’īl bin Mūsā al-Basrī\] dire : ‘Amr bin Ubayd nous a rapporté avant ce qui est arrivé’ \[c’est-à-dire avant qu’il ne devienne Mu’tazilī\]. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>71</td></tr><tr><td>Reference</td><td>Book 0 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 71 |
+| Reference | Book 0 Hadith 71 |

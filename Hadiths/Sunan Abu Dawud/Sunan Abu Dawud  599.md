@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مِقْسَمٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ مُعَاذَ بْنَ جَبَلٍ، كَانَ يُصَلِّي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم الْعِشَاءَ ثُمَّ يَأْتِي قَوْمَهُ فَيُصَلِّي بِهِمْ تِلْكَ الصَّلاَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
+
 حدثنا عبيد الله بن عمر بن ميسرة، حدثنا يحيى بن سعيد، عن محمد بن عجلان، حدثنا عبيد الله بن مقسم، عن جابر بن عبد الله، ان معاذ بن جبل، كان يصلي مع رسول الله صلى الله عليه وسلم العشاء ثم ياتي قومه فيصلي بهم تلك الصلاة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
 
 ## Bengali
 
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। মু‘আয ইবনু জাবাল (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ‘ইশার সালাত আদায়ের পর পুনরায় নিজ কওমের নিকট গিয়ে ঐ সালাতেই তাদের ইমামতি করতেন।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। মু‘আয ইবনু জাবাল (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ‘ইশার সালাত আদায়ের পর পুনরায় নিজ কওমের নিকট গিয়ে ঐ সালাতেই তাদের ইমামতি করতেন।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. ‘Abd Allah said :Mu’adh b. Jabal would pray along with the Messenger of Allah (ﷺ)in the night prayer, then go and lead his people and lead them in the same prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
+
+## French
+
+Jabir b. ‘Abd Allah a dit : Mu’adh b. Jabal priait avec le Messager d’Allah ﷺ la prière de la nuit, puis il allait diriger la même prière pour son peuple
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ubaidullah bin Umar bin Maisarah\] telah menceritakan kepada kami \[Yahya bin Sa'id\] dari \[Muhammad bin 'Ajlan\] telah menceritakan kepada kami \[Ubaidullah bin Miqsam\] dari \[Jabir bin Abdullah\] bahwasanya Mu'adz bin Jabal pernah shalat Isya bersama Rasulullah shallallahu 'alaihi wasallam, kemudian dia pergi kepada kaumnya dan mengimami mereka shalat tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Umar bin Maisarah] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Muhammad bin 'Ajlan] telah menceritakan kepada kami [Ubaidullah bin Miqsam] dari [Jabir bin Abdullah] bahwasanya Mu'adz bin Jabal pernah shalat Isya bersama Rasulullah shallallahu 'alaihi wasallam, kemudian dia pergi kepada kaumnya dan mengimami mereka shalat tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Джабира ибн ‘Абдуллаха: «Обычно, Му‘аз ибн Джабаль совершал вечернюю молитву (‘ишаъ) с посланником Аллаха ﷺ после чего он возвращался к своему племени и совершал с ними ту же молитву»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir b. Abdullah'dan (rivayet edildiğine göre) Mu'az b. Cebel (r.a.) önce Resulullah (Sallallahu aleyhi ve Sellem) ile yatsıyı kılar, sonra kavmine gelip bu namazı (bir de) onlara kıldırırdı. Diğer tahric: Buharî, ezan; Müslim, salat; Ebu Davud, salat; Tirmizî, cum'a; Nesai, imame; Ahmed, I, 450; III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ معاذ بن جبل رضی اللہ عنہ عشاء کی نماز رسول اللہ صلی اللہ علیہ وسلم کے ساتھ پڑھتے پھر اپنی قوم میں آتے اور وہی نماز انہیں پڑھاتے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>599</td></tr><tr><td>Arabic No</td><td>599</td></tr><tr><td>Reference</td><td>Book 2 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 599 |
+| Arabic No | 599 |
+| Reference | Book 2 Hadith 209 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا مُفَضَّلٌ، عَنِ الأَعْمَشِ، وَأَنْبَأَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، وَأَحْمَدُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ مَا تَرَكَ رَسُولُ اللَّهِ صلى الله عليه وسلم دِينَارًا وَلاَ دِرْهَمًا وَلاَ شَاةً وَلاَ بَعِيرًا وَلاَ أَوْصَى بِشَىْءٍ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |
+
 اخبرنا محمد بن رافع، قال حدثنا يحيى بن ادم، قال حدثنا مفضل، عن الاعمش، وانبانا محمد بن العلاء، واحمد بن حرب، قالا حدثنا ابو معاوية، عن الاعمش، عن شقيق، عن مسروق، عن عايشة، قالت ما ترك رسول الله صلى الله عليه وسلم دينارا ولا درهما ولا شاة ولا بعيرا ولا اوصى بشىء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন রাফে' (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দীনার, দিরহাম, বকরি এবং উট কিছুই রেখে যাননি, এবং (তাই) তিনি কোন কিছুর ওয়াসিয়াতও করেন নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"The Messenger of Allah did not leave behind a Dinar or a Dirham, or a sheep or a camel, and he did not leave any will
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |
+
+## French
+
+Rapporté par 'Aïsha : « Le Messager d’Allah ﷺ n’a laissé ni dinar ni dirham, ni mouton ni chameau, et il n’a laissé aucun testament. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Rafi'\] berkata; telah menceritakan kepada kami \[Yahya bin Adam\] berkata; telah menceritakan kepada kami \[Mufadldlal\] dari \[Al A'masy\], dan telah memberitakan kepada kami \[Muhammad bin Al A'la\] dan \[Ahmad bin Harb\] mereka berkata; telah menceritakan kepada kami \[Abu Mu'awiyah\] dari \[Al A'masy\] dari \[Syaqiq\] dari \[Masruq\] dari \[Aisyah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan uang dinar, dirham, kambing atau unta, beliau tidak berwasiat dengan sesuatu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Rafi'] berkata; telah menceritakan kepada kami [Yahya bin Adam] berkata; telah menceritakan kepada kami [Mufadldlal] dari [Al A'masy], dan telah memberitakan kepada kami [Muhammad bin Al A'la] dan [Ahmad bin Harb] mereka berkata; telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Syaqiq] dari [Masruq] dari [Aisyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan uang dinar, dirham, kambing atau unta, beliau tidak berwasiat dengan sesuatu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ( موت کے وقت ) نہ دینار چھوڑا، نہ درہم، نہ بکری چھوڑی، نہ اونٹ اور نہ ہی کسی چیز کی وصیت کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 30 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 30 Hadith 11 |

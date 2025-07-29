@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ يَحْيَى بْنِ الْحَارِثِ، قَالَ أَنْبَأَنَا مَحْبُوبٌ، قَالَ أَنْبَأَنَا أَبُو إِسْحَاقَ، عَنْ شَرِيكٍ، عَنْ خُصَيْفٍ، عَنْ مُجَاهِدٍ، قَالَ الْخُمُسُ الَّذِي لِلَّهِ وَلِلرَّسُولِ كَانَ لِلنَّبِيِّ صلى الله عليه وسلم وَقَرَابَتِهِ لاَ يَأْكُلُونَ مِنَ الصَّدَقَةِ شَيْئًا فَكَانَ لِلنَّبِيِّ صلى الله عليه وسلم خُمُسُ الْخُمُسِ وَلِذِي قَرَابَتِهِ خُمُسُ الْخُمُسِ وَلِلْيَتَامَى مِثْلُ ذَلِكَ وَلِلْمَسَاكِينِ مِثْلُ ذَلِكَ وَلاِبْنِ السَّبِيلِ مِثْلُ ذَلِكَ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ قَالَ اللَّهُ جَلَّ ثَنَاؤُهُ ‏(‏ وَاعْلَمُوا أَنَّمَا غَنِمْتُمْ مِنْ شَىْءٍ فَأَنَّ لِلَّهِ خُمُسَهُ وَلِلرَّسُولِ وَلِذِي الْقُرْبَى وَالْيَتَامَى وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ ‏)‏ وَقَوْلُهُ عَزَّ وَجَلَّ لِلَّهِ ابْتِدَاءُ كَلاَمٍ لأَنَّ الأَشْيَاءَ كُلَّهَا لِلَّهِ عَزَّ وَجَلَّ وَلَعَلَّهُ إِنَّمَا اسْتَفْتَحَ الْكَلاَمَ فِي الْفَىْءِ وَالْخُمُسِ بِذِكْرِ نَفْسِهِ لأَنَّهَا أَشْرَفُ الْكَسْبِ وَلَمْ يَنْسُبِ الصَّدَقَةَ إِلَى نَفْسِهِ عَزَّ وَجَلَّ لأَنَّهَا أَوْسَاخُ النَّاسِ وَاللَّهُ تَعَالَى أَعْلَمُ وَقَدْ قِيلَ يُؤْخَذُ مِنَ الْغَنِيمَةِ شَىْءٌ فَيُجْعَلُ فِي الْكَعْبَةِ وَهُوَ السَّهْمُ الَّذِي لِلَّهِ عَزَّ وَجَلَّ وَسَهْمُ النَّبِيِّ صلى الله عليه وسلم إِلَى الإِمَامِ يَشْتَرِي الْكُرَاعَ مِنْهُ وَالسِّلاَحَ وَيُعْطِي مِنْهُ مَنْ رَأَى مِمَّنْ رَأَى فِيهِ غَنَاءً وَمَنْفَعَةً لأَهْلِ الإِسْلاَمِ وَمِنْ أَهْلِ الْحَدِيثِ وَالْعِلْمِ وَالْفِقْهِ وَالْقُرْآنِ وَسَهْمٌ لِذِي الْقُرْبَى وَهُمْ بَنُو هَاشِمٍ وَبَنُو الْمُطَّلِبِ بَيْنَهُمُ الْغَنِيُّ مِنْهُمْ وَالْفَقِيرُ وَقَدْ قِيلَ إِنَّهُ لِلْفَقِيرِ مِنْهُمْ دُونَ الْغَنِيِّ كَالْيَتَامَى وَابْنِ السَّبِيلِ وَهُوَ أَشْبَهُ الْقَوْلَيْنِ بِالصَّوَابِ عِنْدِي وَاللَّهُ تَعَالَى أَعْلَمُ وَالصَّغِيرُ وَالْكَبِيرُ وَالذَّكَرُ وَالأُنْثَى سَوَاءٌ لأَنَّ اللَّهَ عَزَّ وَجَلَّ جَعَلَ ذَلِكَ لَهُمْ وَقَسَّمَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فِيهِمْ وَلَيْسَ فِي الْحَدِيثِ أَنَّهُ فَضَّلَ بَعْضَهُمْ عَلَى بَعْضٍ وَلاَ خِلاَفَ نَعْلَمُهُ بَيْنَ الْعُلَمَاءِ فِي رَجُلٍ لَوْ أَوْصَى بِثُلُثِهِ لِبَنِي فُلاَنٍ أَنَّهُ بَيْنَهُمْ وَأَنَّ الذَّكَرَ وَالأُنْثَى فِيهِ سَوَاءٌ إِذَا كَانُوا يُحْصَوْنَ فَهَكَذَا كُلُّ شَىْءٍ صُيِّرَ لِبَنِي فُلاَنٍ أَنَّهُ بَيْنَهُمْ بِالسَّوِيَّةِ إِلاَّ أَنْ يُبَيِّنَ ذَلِكَ الآمِرُ بِهِ وَاللَّهُ وَلِيُّ التَّوْفِيقِ وَسَهْمٌ لِلْيَتَامَى مِنَ الْمُسْلِمِينَ وَسَهْمٌ لِلْمَسَاكِينِ مِنَ الْمُسْلِمِينَ وَسَهْمٌ لاِبْنِ السَّبِيلِ مِنَ الْمُسْلِمِينَ وَلاَ يُعْطَى أَحَدٌ مِنْهُمْ سَهْمُ مِسْكِينٍ وَسَهْمُ ابْنِ السَّبِيلِ وَقِيلَ لَهُ خُذْ أَيَّهُمَا شِئْتَ وَالأَرْبَعَةُ أَخْمَاسٍ يَقْسِمُهَا الإِمَامُ بَيْنَ مَنْ حَضَرَ الْقِتَالَ مِنَ الْمُسْلِمِينَ الْبَالِغِينَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |
+
 اخبرنا عمرو بن يحيى بن الحارث، قال انبانا محبوب، قال انبانا ابو اسحاق، عن شريك، عن خصيف، عن مجاهد، قال الخمس الذي لله وللرسول كان للنبي صلى الله عليه وسلم وقرابته لا ياكلون من الصدقة شييا فكان للنبي صلى الله عليه وسلم خمس الخمس ولذي قرابته خمس الخمس ولليتامى مثل ذلك وللمساكين مثل ذلك ولابن السبيل مثل ذلك . قال ابو عبد الرحمن قال الله جل ثناوه ( واعلموا انما غنمتم من شىء فان لله خمسه وللرسول ولذي القربى واليتامى والمساكين وابن السبيل ) وقوله عز وجل لله ابتداء كلام لان الاشياء كلها لله عز وجل ولعله انما استفتح الكلام في الفىء والخمس بذكر نفسه لانها اشرف الكسب ولم ينسب الصدقة الى نفسه عز وجل لانها اوساخ الناس والله تعالى اعلم وقد قيل يوخذ من الغنيمة شىء فيجعل في الكعبة وهو السهم الذي لله عز وجل وسهم النبي صلى الله عليه وسلم الى الامام يشتري الكراع منه والسلاح ويعطي منه من راى ممن راى فيه غناء ومنفعة لاهل الاسلام ومن اهل الحديث والعلم والفقه والقران وسهم لذي القربى وهم بنو هاشم وبنو المطلب بينهم الغني منهم والفقير وقد قيل انه للفقير منهم دون الغني كاليتامى وابن السبيل وهو اشبه القولين بالصواب عندي والله تعالى اعلم والصغير والكبير والذكر والانثى سواء لان الله عز وجل جعل ذلك لهم وقسمه رسول الله صلى الله عليه وسلم فيهم وليس في الحديث انه فضل بعضهم على بعض ولا خلاف نعلمه بين العلماء في رجل لو اوصى بثلثه لبني فلان انه بينهم وان الذكر والانثى فيه سواء اذا كانوا يحصون فهكذا كل شىء صير لبني فلان انه بينهم بالسوية الا ان يبين ذلك الامر به والله ولي التوفيق وسهم لليتامى من المسلمين وسهم للمساكين من المسلمين وسهم لابن السبيل من المسلمين ولا يعطى احد منهم سهم مسكين وسهم ابن السبيل وقيل له خذ ايهما شيت والاربعة اخماس يقسمها الامام بين من حضر القتال من المسلمين البالغين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন ইয়াহইয়া ইবন হারিস (রহঃ) ... মুজাহিদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, কুরআন মজীদে যে বলা হয়েছে, খুমুস বা পঞ্চমাংশ আল্লাহ্ এবং তাঁর রাসূলের জন্য, তা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর নিকটাত্মীয়দের জন্য, কারণ তাঁদের জন্য সদকা গ্রহণ করা বৈধ ছিল না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ পঞ্চমাংশের পঞ্চমাংশ গ্রহণ করতেন আর তার আত্মীয়দের জন্য ছিল পঞ্চমাংশের পঞ্চমাংশ। আর ইয়াতীমদের জন্যও ছিল অনুরূপ। আর মুসাফিরদের জন্য অনুরূপ এবং নিকট আত্মীয়দের জন্য অনুরূপ অংশ ছিল। আবু আবদুর রহমান (ইমাম নাসাঈ) বলেন, আল্লাহ্ তা'আলা যে নিজের নাম নিয়ে শুরু করে (فَأَنَّ لِلَّهِ خُمُسَهُ) বলেছেন, এটা বাক্যের সূচনাবিশেষ। কারণ সমুদয় বস্তু আল্লাহরই। এবং ফায়’ ও ‘খুমুস’-এর ক্ষেত্রে তিনি প্রথমে নিজের নাম নিয়ে শুরু করেছেন। এর কারণ এই যে, এ দু'টো উত্তম অর্জন। আর সাদকার ক্ষেত্রে নিজের নাম নিয়ে আরম্ভ করেন নি। বরং বলেছেনঃ (إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ) অর্থাৎ সাদকা ফকীরদের জন্য ........। কারণ সাদকা মানুষের ময়লা-স্বরূপ। কেউ কেউ বলেছেনঃ গনীমতের মালের কিছু অংশ নিয়ে কা'বার মধ্যে রেখে দেওয়া হবে আর সেটাই আল্লাহর অংশ। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অংশ ইমাম বা শাসক পাবেন। তিনি তা দিয়ে ঘোড়া, অস্ত্র-শস্ত্র ক্রয় করবেন, যাকে দেওয়া ভাল মনে করবেন, দেবেন, যাকে দিলে মুসলিম সাধারণের উপকার ও কল্যাণ হয় তাকে এবং মুহাদ্দিস, ফুকাহা ও কুরআনচর্চাকারীদেরকে দেবেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আত্মীয়দের অংশ বনু হাশিম ও বনূ মুত্তালিব পাবেন; চাই তারা ধনী হন বা দরিদ্র। কেউ কেউ বলেন, তাঁদের মধ্যে যারা দরিদ্র কেবল তারাই পাবেন, ধনীরা পাবেন না। যেমন ইয়াতীম ও মুসাফিরদের মধ্যে যারা দরিদ্র, তারাই পাবে। এ মতই আমার কাছে অধিক সঠিক বলে মনে হয়। কিন্তু পাওয়ার ক্ষেত্রে ছােট-বড়, নারী-পুরুষ সবাই সমান। কেননা আল্লাহ্ তা'আলা এই সম্পদ তাদের দেওয়ার নির্দেশ দিয়েছেন এবং রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের মধ্যে বণ্টন করেছেন। আর হাদীসে উল্লেখ নেই যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাউকে বেশি দেওয়ার নির্দেশ দিয়েছেন এবং কাউকে কম। এই মাসআলায় ইমামগণের কোন মতভেদ আছে বলে আমাদের জানা নেই যে, যদি কেউ কারো সন্তানদের জন্য নিজের এক-তৃতীয়াংশ মাল প্রদানের ওসীয়ত করে, তাহলে সকল সন্তানই সমান হারে পাবে; চাই তারা ছেলে হোক বা মেয়ে যদি তাদের পরিসংখ্যান জানা থাকে। এমনিভাবে যদি কোন জিনিস কারো সন্তানদের দেওয়ার জন্য বলা হয়, তাহলে ঐ জিনিস সকল সন্তানই সমান হারে পাবে। অবশ্য যে ব্যক্তি দেওয়ার নির্দেশ দেয়, সে যদি পরিস্কার বলে দেয় যে, অমুক এতটুকু পাবে, আর অমুক এতটুকু, তাহলে তার কথানুযায়ী দেওয়ার ব্যবস্থা করা হবে। আর এক অংশ মুসলিম ইয়াতীমগণ পাবে। এক অংশ মুসলিম মিসকীনগণ এবং এক অংশ মুসাফিরগণ পাবে। আর কাউকে মিসকীনের অংশ ও মুসাফিরের অংশ-এই দুই অংশ একত্রে দেওয়া হবে না; বরং তাকে বলা হবে তুমি হয় মিসকীনের অংশ গ্রহণ কর অথবা মুসাফিরের অংশ গ্রহণ কর। গনীমতের মালের অবশিষ্ট চারভাগ ইমাম ঐ মুসলিমদের দেবেন, যারা বালেগ এবং যুদ্ধে অংশগ্রহণ করেছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Mujahid said:"The Khumus that is for Allah and His Messenger was for the Prophet and His relatives; they did not take anything from the Sadaqah. The Prophet was allocated one-fifth of the Khumus; his relatives were allocated one-fifth of the Khumus; the same was allocated to orphans, the poor and they wayfarers." (Da 'if) Abu Abdur-Rahman (An-Nasi) said: Allah, the Majestic is he and Praised, said: "And know that whatever of spoils of war that you may gain, verily, one-fifth of it is assigned to Allah, and to the Messenger, and to the near relatives ( of the Messenger (Muhammad)), (and also) the orphans, Al-Masakin (the Poor) and the wayfarer." His, the Mighty and Sublime, saying to Allah starts the speech since everything is of Allah, the Mighty and Sublime, saying to Allah starts the speech since everything is of Allah, the Mighty and Sublime. And perhaps He only oened His speech about the Fay and the Khumus, mentioning Himself, because that is the noblest of earnings. And He did not attribute Sadaqah to Himself, the Mighty and Sublime, because that is the dirt of people. And Allah knows best. It was said that something should be taken form the spoils of war and placed inside the Kabah, and this is the share that is for Allah, the Mighty and Sublime. The share of the Messenger is to be given to the imam to buy horses and weapons, and to give to whomever he thinks will benefit the people of Islam, and to the people of Hadith, Knowledge, Fiqh and the Quran. The share that is for near relatives should be given to Banu Hashim and Banu Al-Muttablib, rich and poor alike, or it was said that it should be given to the poor among them and not to the rich, such as orphans and wayfarers. This is the view that is more appropriate in my view, and Allah knows best. And the young and the old, male and female, are equal in that, because Allah, the mighty and sublime, has allocated it to them and the Messenger of Allah distributed it among them, and there is nothing in the Hadith to indicate that he preferred some of them over others. And there is no scholarly dispute, as far as we know, to suggest that if a man bequeaths one-third of his wealth to such a tribe, to be distributed out among them equally, that it should be done otherwise, unless the giver stipulated otherwise. And Allah is the source of strength. And (there is) a share for the orphans among the Muslims, and a share for the poor among the Muslims, and a share for the wayfarers among the Muslims. No one should be given both a share for the poor and a share for the wayfarer; it is to be said to him: "Take whichever of them you want." And the other four-fifths are to be divided by the imam among those adult Muslims who were present in the battle. (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |
+
+## French
+
+Rapporté par Mujahid : Le Khumus qui est pour Allah et Son Messager était destiné au Prophète ﷺ et à ses proches ; ils ne prenaient rien de la Sadaqah. Le Prophète recevait un cinquième du Khumus ; ses proches recevaient un cinquième du Khumus ; la même chose était attribuée aux orphelins, aux pauvres et aux voyageurs." (Da'if) Abu Abdur-Rahman (An-Nasa'i) a dit : Allah, le Majestueux et Loué, a dit : "Et sachez que, de tout butin que vous obtenez, un cinquième en revient à Allah, au Messager, aux proches (du Messager ﷺ), aux orphelins, aux pauvres et aux voyageurs." Sa parole, le Puissant et Sublime, commence par Allah car tout appartient à Allah. Peut-être a-t-Il commencé Son discours sur le Fay' et le Khumus en se mentionnant Lui-même, car c'est le plus noble des gains. Il n'a pas attribué la Sadaqah à Lui-même, car c'est l'impureté des gens. Et Allah sait mieux. Il a été dit qu'il fallait prendre quelque chose du butin et le placer dans la Kaaba, et c'est la part qui revient à Allah, le Puissant et Sublime. La part du Messager doit être donnée à l'imam pour acheter des chevaux et des armes, et pour donner à ceux qui, selon lui, profiteront à la communauté musulmane, ainsi qu'aux gens du hadith, du savoir, du fiqh et du Coran. La part des proches doit être donnée aux Banu Hashim et Banu Al-Muttalib, riches ou pauvres, ou il a été dit qu'elle devait être donnée aux pauvres parmi eux, comme les orphelins et les voyageurs. C'est l'avis qui me semble le plus approprié, et Allah sait mieux. Les jeunes et les vieux, hommes et femmes, y ont droit de façon égale, car Allah, le Puissant et Sublime, la leur a attribuée et le Messager d'Allah l'a distribuée entre eux, sans indication qu'il ait favorisé certains par rapport à d'autres. Il n'y a pas de divergence savante, à notre connaissance, pour dire que si un homme lègue un tiers de sa richesse à une telle tribu, cela doit être distribué autrement, sauf si le donateur l'a stipulé. Et Allah est la source de force. Il y a une part pour les orphelins parmi les musulmans, une part pour les pauvres parmi les musulmans, et une part pour les voyageurs parmi les musulmans. Personne ne doit recevoir à la fois la part des pauvres et celle des voyageurs ; il faut lui dire : "Prends celle que tu veux." Et les quatre autres cinquièmes doivent être partagés par l'imam entre les musulmans adultes présents à la bataille. (Da'if)
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4147</td></tr><tr><td>Arabic No</td><td>4147</td></tr><tr><td>Reference</td><td>Book 38 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4147 |
+| Arabic No | 4147 |
+| Reference | Book 38 Hadith 15 |

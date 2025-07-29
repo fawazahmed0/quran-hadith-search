@@ -196,3136 +196,3136 @@
 
 ## Achinese
 
-
-<div dir="ltr" lang="ace" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nyang laen bandum Meupeubinasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tgk. H. Mahjiddin Jusuf</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Tgk. H. Mahjiddin Jusuf |
 
 ## Afar
 
-
-<div dir="ltr" lang="aa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tohuk lakat aka mara (Nabii luut mara kinnuk) bayisneh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars |
 
 ## Afrikaans
 
-
-<div dir="ltr" lang="af" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toe het Ons die ander verdelg
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Imam M. A. Baker</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Imam M. A. Baker |
 
 ## Albanian
 
-
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E pastaj te tjeret i shfarosem
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Feti Mehdiu</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Feti Mehdiu |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E pastaj të tjerët i shfarosëm
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Feti Mehdiu</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Feti Mehdiu |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 e pastaj, te tjeret i shkaterruam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Efendi Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Efendi Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 e pastaj, të tjerët i shkatërruam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Efendi Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Efendi Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Pastaj, te tjeret i shkaterruam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Pastaj, të tjerët i shkatërruam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E me pas i zhdukem ata te tjeret
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sherif Ahmeti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sherif Ahmeti |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E më pas i zhdukëm ata të tjerët
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sherif Ahmeti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sherif Ahmeti |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E me pas i zhdukem ata te tjeret
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E më pas i zhdukëm ata të tjerët
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Amharic
 
-
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 keziyami lelochuni at’efani፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 kezīyami lēlochuni āt’efani፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ከዚያም ሌሎቹን አጠፋን፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 «ثم دمرنا الآخرين» أهلناهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 thm 'ahlakna man edahm min alkafarat ashdd 'ihlak, wa'anzalna ealayhim hijaratan min alsama' kalmtr ahlkthm, fqabuh mtr min 'andharahum rusuluhum walam yastajibuu lhm; faqad 'unzl bihim ashdd 'anwae alhlak waltdmyr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثم أهلكنا مَن عداهم من الكفرة أشدَّ إهلاك، وأنزلنا عليهم حجارة من السماء كالمطر أهلكتهم، فقَبُحَ مطرُ من أنذرهم رسلهم ولم يستجيبوا لهم؛ فقد أُنزل بهم أشدُّ أنواع الهلاك والتدمير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thumma dammarna alakhareena
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Summa dammarnal aa khareen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thumma dammarna al-akhareen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thumma dammarna al-akhareena
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 thumma dammarna l-akharina
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 thumma dammarna l-akharina
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 thumma dammarnā l-ākharīna
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا ٱلۡءَاخَرِینَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Academy</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Academy |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Bazzi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Bazzi |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا اَ۬لۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Doori</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Doori |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا اَ۬لۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Doori Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Doori Non Unicode |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا الۡاٰخَرِيۡنَۚ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Indopak</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Indopak |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا ٱلۡـَٔاخَرِینَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Khaled Hosney</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Khaled Hosney |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا الۡاٰخَرِيۡنَ ١٧٢ﶔ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Nastaleeq Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Nastaleeq Non Unicode |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thumma Dammarna Al-'Akharina
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Phonetics Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Phonetics Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thumma Dammarnā Al-'Ākharīna
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Phonetics Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Phonetics Transliteration |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرْنَا اَ۬لْأٓخَرِينَۖ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Qaloon</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Qaloon |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Qumbul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Qumbul |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Shouba</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Shouba |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرْنَا الْآخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Simple</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Simple |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا اَ۬لۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Soosi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Soosi |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا اَ۬لۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Soosi Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Soosi Non Unicode |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Enc</td></tr></tbody></table></div>
+ثُمَّ دَمَّرۡنَا ٱلۡءَاخَرِینَ
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Enc |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Hafs</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Hafs |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثم دمرنا الاخرين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Hafs No Diacritics</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Hafs No Diacritics |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرْنَا اَ۬لَاخَرِينَۖ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Warsh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Warsh |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Siraj Tafseer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Siraj Tafseer |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثم دمرنا الاخرين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Siraj Tafseer No Diacritics</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Siraj Tafseer No Diacritics |
 
 ## Assamese
 
-
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tara pichata ami bakibilakaka dhbansa karailo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tāra pichata āmi bākībilākaka dhbansa karailō
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 তাৰ পিছত আমি বাকীবিলাকক ধ্বংস কৰিলো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
 ## Azerbaijani
 
-
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da o birilərini darmadagın etdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alikhan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alikhan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da o birilərini darmadağın etdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alikhan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alikhan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da o birilərini yerlə yeksan etdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da o birilərini yerlə yeksan etdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da o biriləri məhv edib kokunu kəsdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Vasim Mammadaliyev And Ziya Bunyadov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Vasim Mammadaliyev And Ziya Bunyadov |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da o biriləri məhv edib kökünü kəsdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Vasim Mammadaliyev And Ziya Bunyadov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Vasim Mammadaliyev And Ziya Bunyadov |
 
 ## Bambara
 
-
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߊ߲ ߓߊ߲߫ ߘߊ߫ ߞߊ߬ ߘߏ ߟߎ߬ ߛߌߟߊߛߊ߬
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Deen Muhammad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Deen Muhammad |
 
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߊ߲ ߞߊ߬ ߓߊ߲߫ ߞߊ߬ ߘߏ ߟߎ߬ ߛߌߟߊߛߊ߬ ߟߋߎ߫
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fodi Suliman Kanti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fodi Suliman Kanti |
 
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߊ߲ ߓߊ߲߫ ߘߊ߫ ߞߊ߬ ߘߏ ߟߎ߬ ߛߌߟߊߛߊ߬
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Karamo Baba Mamadi Jani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Karamo Baba Mamadi Jani |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tarapara amara apara sakalake dhbansa karalama
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tārapara āmarā apara sakalakē dhbansa karalāma
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 তারপর আমরা অপর সকলকে ধ্বংস করলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Erapara an'yaderake nipata karalama.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ērapara an'yadērakē nipāta karalāma.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 এরপর অন্যদেরকে নিপাত করলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tarapara amara an'yan'yadera bidhbansa karechilama.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tārapara āmarā an'yān'yadēra bidhbansa karēchilāma.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 তারপর আমরা অন্যান্যদের বিধ্বংস করেছিলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
 ## Berber
 
-
-<div dir="ltr" lang="ber" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sinna, Nessenger wiyav
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ramdane At Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ramdane At Mansour |
 
-<div dir="ltr" lang="ber" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sinna, Nessenger wiyav
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ramdane At Mansour</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ramdane At Mansour |
 
 ## Bosnian
 
-
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale unistili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Besim Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Besim Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale uništili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Besim Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Besim Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale unistili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale uništili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale unistili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhamed Mehanovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhamed Mehanovic |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale uništili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhamed Mehanovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhamed Mehanovic |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zatim smo unistili druge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Mlivo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Mlivo |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zatim smo uništili druge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Mlivo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Mlivo |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 THUMME DEMMERNAL-’AHARINE
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Transliterim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Transliterim |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale unistili…
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a zatim smo ostale uništili…
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Bulgarian
 
-
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Posle unishtozhikhme drugite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Posle unishtozhikhme drugite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 После унищожихме другите
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
 ## Burmese
 
-
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် (တမန်တော်လူးသ်၏မိသားစုနှင့်ယုံကြည်သူနောက်လိုက်များမှအပ) ကျန်လူအားလုံးတို့ကို အမြစ်ဖြတ်သုတ်သင်စေတော်မူခဲ့၏။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alin U Yin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alin U Yin |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-၁၇၂။	ထို့နောက်အခြားကြွင်းကျန်သူအပေါင်းတို့ကို ငါဖျက်ဆီးတော်မူ၏။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
+၁၇၂။ ထို့နောက်အခြားကြွင်းကျန်သူအပေါင်းတို့ကို ငါဖျက်ဆီးတော်မူ၏။
 
+| Details |  |
+| --- | --- |
+| Author | Ba Sein |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့နောက် ငါအရှင်မြတ်သည် ကျန်လူအားလုံးတို့ကို ဖျက်ဆီးတော်မူခဲ့၏။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ghazi Mohammad Hashim |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့‌နောက် ငါအရှင်မြတ်သည် ကျန်သူအားလုံးကို ဖျက်ဆီး‌တော်မူခဲ့သည်။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hashim Tin Myint</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hashim Tin Myint |
 
 ## Catalan
 
-
-<div dir="ltr" lang="ca" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Despres, vam aniquilar als altres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Youssef Lyoussi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Youssef Lyoussi |
 
-<div dir="ltr" lang="ca" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Després, vam aniquilar als altres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Youssef Lyoussi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Youssef Lyoussi |
 
 ## Chichewa
 
-
-<div dir="ltr" lang="ny" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ndipo Ife tidawaononga kwambiri ena onse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Al Haji Yusuf Muhammad Kanyamula</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Al Haji Yusuf Muhammad Kanyamula |
 
-<div dir="ltr" lang="ny" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “Titatero tidawaononga enawo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khaled Ibrahim Betala</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Khaled Ibrahim Betala |
 
 ## Chinese(simplified)
 
-
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ranhou, wo huimiele qiyu de ren.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ránhòu, wǒ huǐmièle qíyú de rén.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 然后，我毁灭了其余的人。
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ranhou, wo huimiele qiyu de ren.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ránhòu, wǒ huǐmièle qíyú de rén.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 然后，我毁灭了其余的人。
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ranhou, wo huimiele qiyu de ren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ránhòu, wǒ huǐmièle qíyú de rén
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 然后，我毁灭了其余的人。
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
 ## Chinese(traditional)
 
-
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ranhou, wo huimiele qiyu de ren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ránhòu, wǒ huǐmièle qíyú de rén
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 然后，我毁灭了其余 的人。
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ranhou, wo huimiele qiyu de ren.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ránhòu, wǒ huǐmièle qíyú de rén.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 然後，我毀滅了其餘的人。
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
 ## Croatian
 
-
-<div dir="ltr" lang="hr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zatim smo unistili druge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="hr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zatim smo uništili druge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Czech
 
-
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a pak zahubili jsme vsechny ostatni
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. R. Nykl</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. R. Nykl |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a pak zahubili jsme všechny ostatní
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. R. Nykl</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. R. Nykl |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 My pak zkosit others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 My pak zkosit others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a potom vsechny ostatni jsme znicili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Preklad I. Hrbek</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Preklad I. Hrbek |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a potom všechny ostatní jsme zničili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Preklad I. Hrbek</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Preklad I. Hrbek |
 
 ## Dagbani
 
-
-<div dir="ltr" lang="dag" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Din nyaaŋa, ka Ti (Tinim’ Naawuni) niŋ ninvuɣu shɛba ban kpalim hallaka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Baba Ghtobo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Baba Ghtobo |
 
 ## Danish
 
-
-<div dir="ltr" lang="da" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vi derefter tilintetgøre others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="da" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna vernietigden Wij de anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Van De Taal |
 
 ## Dari
 
-
-<div dir="rtl" lang="prs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 باز دیگران را هلاک کردیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mawlawi Muhammad Anwar Badkhashani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Mawlawi Muhammad Anwar Badkhashani |
 
 ## Divehi
 
-
-<div dir="rtl" lang="dv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ދެން ތިމަންރަސްކަލާނގެ (އެ قوم ގެ) މީހުން ހަލާކުކުރެއްވީމެވެ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Office Of The President Of Maldives</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Office Of The President Of Maldives |
 
 ## Dutch
 
-
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen vernietigden Wij de anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fred Leemhuis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fred Leemhuis |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna verdelgden wij de overigen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Salomo Keyzer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Salomo Keyzer |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Toen vernietigden Wij de anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sofian S. Siregar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sofian S. Siregar |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Daarna vernietigden Wij de anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Van De Taal |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdel Haleem</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdel Haleem |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then afterward We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hye</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hye |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 But the rest We destroyed utterly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Yusuf Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Yusuf Ali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thereafter We annihilated the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Majid Daryabadi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Majid Daryabadi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thereafter, We utterly destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul Ala Maududi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the rest of them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahmed Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahmed Ali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We utterly destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Aisha Bewley</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Aisha Bewley |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. J. Arberry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. J. Arberry |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 But the rest We caused to perish
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Al Bilal Muhammad Et Al</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Al Bilal Muhammad Et Al |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bakhtiari Nejad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bakhtiari Nejad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Then We destroyed [all] the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Quli Qarai</td></tr></tbody></table></div>
+Then We destroyed \[all\] the rest
 
+| Details |  |
+| --- | --- |
+| Author | Ali Quli Qarai |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Then We destroyed [all] the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Quli Qarai</td></tr></tbody></table></div>
+Then We destroyed \[all\] the others
 
+| Details |  |
+| --- | --- |
+| Author | Ali Quli Qarai |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We annihilated the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Unal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Unal |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And We reduced the rest to a useless form
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Almuntakhab Fi Tafsir Alquran Alkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Almuntakhab Fi Tafsir Alquran Alkarim |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Afterwards We completely destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Kamal Omar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Kamal Omar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Again, We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Laleh Bakhtiar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Laleh Bakhtiar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 After that We annihilated the rest of them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Munir Munshey</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Munir Munshey |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then we destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edward Henry Palmer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edward Henry Palmer |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We utterly destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Farook Malik</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Farook Malik |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Sale</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Sale |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid S Aziz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid S Aziz |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then we destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>John Medows Rodwell</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | John Medows Rodwell |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Literal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Literal |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thereafter, We utterly destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maududi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mir Anees Original</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mir Anees Original |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mir Aneesuddin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mir Aneesuddin |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We utterly destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Habib Shakir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Habib Shakir |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And then We annihilated the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Shafi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Shafi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then afterward We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammed Marmaduke William Pickthall</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammed Marmaduke William Pickthall |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mufti Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mufti Taqi Usmani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and then We utterly destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thereafter We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Mahmoud Ghali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Mahmoud Ghali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Sarwar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Sarwar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then afterward We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Usmani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We utterly destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Khattab Allah Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Khattab Allah Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We utterly destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Khattab God Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Khattab God Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and the others We utterly destroyed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>N J Dawood</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | N J Dawood |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then, We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Safi Kaskas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Safi Kaskas |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then afterward We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Safi Ur Rahman Al Mubarakpuri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Safi Ur Rahman Al Mubarakpuri |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And then We utterly destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shabbir Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shabbir Ahmed |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 But the rest We destroyed totally
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Syed Vickar Ahamed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Syed Vickar Ahamed |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Talal A Itani New Translation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Talal A Itani New Translation |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Talal Itani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Talal Itani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We annihilated the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tbirving</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tbirving |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Monotheist Group Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Monotheist Group Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ThenWe destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Monotheist Group Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Monotheist Group Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Study Quran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Study Quran |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Then We destroyed the others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Umm Muhammad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Umm Muhammad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 then We totally destroyed the rest
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Wahiduddin Khan |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 But the rest We destroyed utterly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yusuf Ali Orig</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yusuf Ali Orig |
 
 ## Esperanto
 
-
-<div dir="ltr" lang="eo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ni tiam detru others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Filipino
 
-
-<div dir="ltr" lang="fil" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 At pagkaraan ay Aming winasak ang mga iba pa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullatif Eduardo M. Arceo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullatif Eduardo M. Arceo |
 
-<div dir="ltr" lang="fil" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Pagkatapos winasak Namin ang mga iba pa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Finnish
 
-
-<div dir="ltr" lang="fi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sitten tuhosimme nuo toiset perinpohjin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="fi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sitten tuhosimme nuo toiset perinpohjin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis Nous aneantimes les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis Nous anéantîmes les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis Nous detruisimes les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hameedullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hameedullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis Nous détruisîmes les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hameedullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hameedullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis Nous detruisimes les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hamidullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hamidullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis Nous détruisîmes les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hamidullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hamidullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nous avons ensuite aneanti les impies
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rashid Maash</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rashid Maash |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nous avons ensuite anéanti les impies
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rashid Maash</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rashid Maash |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis, Nous aneantimes tous les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shahnaz Saidi Benbetka</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shahnaz Saidi Benbetka |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Puis, Nous anéantîmes tous les autres
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shahnaz Saidi Benbetka</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shahnaz Saidi Benbetka |
 
 ## Fulah
 
-
-<div dir="ltr" lang="ff" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Refti Men oƴƴi heddii ɓe ɓen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowad Translation Center And Islamhouse</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowad Translation Center And Islamhouse |
 
 ## Ganda
 
-
-<div dir="ltr" lang="lg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oluvanyuma twazikiriza abalala (bonna)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fareeq Musa</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Fareeq Musa |
 
 ## German
 
-
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dann vernichteten Wir die an deren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Rida Muhammad Ibn Ahmad Ibn Rassoul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Rida Muhammad Ibn Ahmad Ibn Rassoul |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dann vernichteten Wir die an deren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Rida Muhammad Ibn Ahmad Ibn Rassoul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Rida Muhammad Ibn Ahmad Ibn Rassoul |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dann zerstorten Wir die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adel Theodor Khoury</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adel Theodor Khoury |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dann zerstörten Wir die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adel Theodor Khoury</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adel Theodor Khoury |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dann vernichteten WIR die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Amir Zaidan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Amir Zaidan |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dann vernichteten WIR die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Amir Zaidan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Amir Zaidan |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hierauf vernichteten Wir die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. S. F. Bubenheim And N. Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. S. F. Bubenheim And N. Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hierauf vernichteten Wir die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. S. F. Bubenheim And N. Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. S. F. Bubenheim And N. Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hierauf vernichteten Wir die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Frank Bubenheim And Nadeem Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Frank Bubenheim And Nadeem Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hierauf vernichteten Wir die anderen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Frank Bubenheim And Nadeem Elyas</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Frank Bubenheim And Nadeem Elyas |
 
 ## Gujarati
 
-
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pachi ame bija darekane nasta kari didha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pachī amē bījā darēkanē naṣṭa karī dīdhā
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 પછી અમે બીજા દરેકને નષ્ટ કરી દીધા
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
 ## Hausa
 
-
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'an nan kuma Muka hallaka wasu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmood Jummi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmood Jummi |
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'an nan kuma Muka hallaka wasu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmood Jummi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmood Jummi |
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'an nan kuma Muka darkake wasu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmoud Gumi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmoud Gumi |
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'an nan kuma Muka darkãke wasu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmoud Gumi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmoud Gumi |
 
 ## Hebrew
 
-
-<div dir="rtl" lang="he" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 אחר כך הכחדנו את האחרים הנשארים
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Darusalam House In Jerusalem</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Darusalam House In Jerusalem |
 
-<div dir="rtl" lang="he" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 אחר כך הכחדנו את האחרים הנשארים
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Hindi
 
-
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 phir hamane vinaash kar diya doosaron ka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maulana Azizul Haque Al Umari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maulana Azizul Haque Al Umari |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 फिर हमने विनाश कर दिया दूसरों का।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maulana Azizul Haque Al Umari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maulana Azizul Haque Al Umari |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 phir shesh doosare logon ko hamane vinasht kar diya.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Farooq Khan And Muhammad Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Farooq Khan And Muhammad Ahmed |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 फिर शेष दूसरे लोगों को हमने विनष्ट कर दिया।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Farooq Khan And Muhammad Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Farooq Khan And Muhammad Ahmed |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (aur halaak ho gayee) phir hamane un logon ko halaak kar daala
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suhel Farooq Khan And Saifur Rahman Nadwi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suhel Farooq Khan And Saifur Rahman Nadwi |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (और हलाक हो गयी) फिर हमने उन लोगों को हलाक कर डाला
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suhel Farooq Khan And Saifur Rahman Nadwi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Suhel Farooq Khan And Saifur Rahman Nadwi |
 
 ## Hungarian
 
-
-<div dir="ltr" lang="hu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Majd a tobbieket elpusztitottuk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Ahmed Abdel Rahman Okfat Tashaab</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Ahmed Abdel Rahman Okfat Tashaab |
 
-<div dir="ltr" lang="hu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Majd a többieket elpusztítottuk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Ahmed Abdel Rahman Okfat Tashaab</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Dr. Ahmed Abdel Rahman Okfat Tashaab |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kemudian Kami binasakan yang lain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Indonesian Islamic Affairs Ministry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Indonesian Islamic Affairs Ministry |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Kemudian Kami binasakan yang lain) yaitu mereka yang tinggal semuanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kemudian, Kami binasakan yang lain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahd Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahd Complex |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kemudian Allah membinasakan orang-orang kafir yang jahat itu dalam suatu kehancuran yang amat menyeramkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Quraish Shihab Et Al.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Quraish Shihab Et Al. |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kemudian Kami binasakan yang lain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Sabiq Company</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Sabiq Company |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kemudian Kami binasakan yang lain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Iranun
 
-
-<div dir="ltr" lang="ilp" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oriyan niyan na piyolang Ami so manga salakao (kiran)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Aziz Gro Aalem Saromintang</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdul Aziz Gro Aalem Saromintang |
 
 ## Italian
 
-
-<div dir="ltr" lang="it" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Quindi annientammo tutti gli altri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamza Roberto Piccardo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamza Roberto Piccardo |
 
-<div dir="ltr" lang="it" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Quindi annientammo tutti gli altri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamza Roberto Piccardo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hamza Roberto Piccardo |
 
 ## Japanese
 
-
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sore kara, ware wa soto no mono o horoboshita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sore kara, ware wa soto no mono o horoboshita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 それから，われは外の者を滅ぼした。
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
 ## Javanese
 
-
-<div dir="ltr" lang="jv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Para ummate Luth liya - liyane banjur Ingsun tumpes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="jv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Para ummate Luth liya - liyane banjur Ingsun tumpes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Kannada
 
-
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘aikah’davaru (halavu) dutarannu tiraskarisidaru
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘aikaḥ’davaru (halavu) dūtarannu tiraskarisidaru
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘ಐಕಃ’ದವರು (ಹಲವು) ದೂತರನ್ನು ತಿರಸ್ಕರಿಸಿದರು
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
 ## Kazakh
 
-
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sosın qalgandardı da joq ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sosın qalğandardı da joq ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сосын қалғандарды да жоқ еттік
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sodan keyin, basqaların joyıp jiberdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sodan keyin, basqaların joyıp jiberdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Содан кейін, басқаларын жойып жібердік
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
 ## Kendayan
 
-
-<div dir="ltr" lang="knx" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Laka’ koa Kami rapotatni’ nang lain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Khmer
 
-
-<div dir="ltr" lang="km" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 banteabmk yeung ban bamphlanh puok da tei tiet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cambodian Muslim Community Development</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cambodian Muslim Community Development |
 
-<div dir="ltr" lang="km" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 បន្ទាប់មកយើងបានបំផ្លាញពួកដ៏ទៃទៀត។
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cambodian Muslim Community Development</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Cambodian Muslim Community Development |
 
 ## Kinyarwanda
 
-
-<div dir="ltr" lang="rw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hanyuma turimbura abasigaye bose
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>R. M. C. Rwanda</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | R. M. C. Rwanda |
 
-<div dir="ltr" lang="rw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hanyuma turimbura abasigaye bose
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rwanda Muslims Association Team</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rwanda Muslims Association Team |
 
 ## Kirghiz
 
-
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kiyin (osol kempirge kosup) baskalardı da kıyrattık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kiyin (oşol kempirge koşup) başkalardı da kıyrattık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Кийин (ошол кемпирге кошуп) башкаларды да кыйраттык
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
 ## Korean
 
-
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 daleun jadeul-eul myeolmangke haessnola
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid Choi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid Choi |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 다른 자들을 멸망케 했노라
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid Choi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid Choi |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 daleun jadeul-eul myeolmangke haessnola
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 다른 자들을 멸망케 했노라
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Kurdish
 
-
-<div dir="rtl" lang="ku" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 له‌وه‌ودوا ئه‌وانی ترمان ڕیشه‌که‌ن کرد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Burhan Muhammad Amin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Burhan Muhammad Amin |
 
-<div dir="rtl" lang="ku" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پاشان ئەوانی ترمان لەناو برد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Saleh Bamoki</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Saleh Bamoki |
 
 ## Kurmanji
 
-
-<div dir="ltr" lang="kmr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Idi pase me ewane mayi tesqele kirin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="kmr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Îdî paşê me ewanê mayî teşqele kirin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Latin
 
-
-<div dir="ltr" lang="la" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nos tunc destroyed others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Lingala
 
-
-<div dir="ltr" lang="ln" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sima, tobomaki basusu baye batikalaki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zakariya Muhammed Balingongo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zakariya Muhammed Balingongo |
 
 ## Luyia
 
-
-<div dir="ltr" lang="luy" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mana nikhusishia abandi abo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah |
 
 ## Macedonian
 
-
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 а потоа останатите ги уништивме
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Macedonian Scholars</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Macedonian Scholars |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ostanatite Nie gi unistivme
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ostanatite Nie gi uništivme
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 останатите Ние ги уништивме
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
 ## Malay
 
-
-<div dir="ltr" lang="ms" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kemudian Kami hancurkan yang lain (yang menentang Nabi Lut)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Muhammad Basmeih</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdullah Muhammad Basmeih |
 
 ## Malayalam
 
-
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pinnit marrullavare nam takarttukalannu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pinnīṭ maṟṟuḷḷavare nāṁ takarttukaḷaññu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 പിന്നീട് മറ്റുള്ളവരെ നാം തകര്‍ത്തുകളഞ്ഞു
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pinnit marrullavare nam takarttukalannu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pinnīṭ maṟṟuḷḷavare nāṁ takarttukaḷaññu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 പിന്നീട് മറ്റുള്ളവരെ നാം തകര്‍ത്തുകളഞ്ഞു
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pinnit marrullavare nam takartt namavasesamakki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pinnīṭ maṟṟuḷḷavare nāṁ takartt nāmāvaśēṣamākki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 പിന്നീട് മറ്റുള്ളവരെ നാം തകര്‍ത്ത് നാമാവശേഷമാക്കി
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
 ## Maltese
 
-
-<div dir="ltr" lang="mt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Imbagħad qridna lill-oħrajn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Martin R. Zammit, Muhammad El Sadi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Martin R. Zammit, Muhammad El Sadi |
 
-<div dir="ltr" lang="mt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Imbagħad qridna lill-oħrajn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Martin R. Zammit, Muhammad El Sadi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Martin R. Zammit, Muhammad El Sadi |
 
 ## Maranao
 
-
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oriyan iyan na piyolang Ami so manga salakaw (kiran)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Guro Alim Saromantang</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Guro Alim Saromantang |
 
 ## Marathi
 
-
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maga amhi itara sarvanna nasta karuna takale
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Maga āmhī itara sarvānnā naṣṭa karūna ṭākalē
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 १७२. मग आम्ही इतर सर्वांना नष्ट करून टाकले
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
 ## Nepali
 
-
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tyasa uparanta hamile aru sabaila'i nasta garihalyaum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tyasa uparānta hāmīlē aru sabailā'ī naṣṭa garihālyauṁ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 त्यस उपरान्त हामीले अरु सबैलाई नष्ट गरिहाल्यौं ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
 ## Norwegian
 
-
-<div dir="ltr" lang="no" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa ødela Vi de andre
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Einar Berg</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Einar Berg |
 
-<div dir="ltr" lang="no" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Så ødela Vi de andre
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Einar Berg</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Einar Berg |
 
 ## Oromo
 
-
-<div dir="ltr" lang="om" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ergasii warra biroo ni balleessine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghali Apapur Apaghuna</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ghali Apapur Apaghuna |
 
 ## Panjabi
 
-
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Phira asim dusari'am nu barabada kara dita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Phira asīṁ dūsari'āṁ nū barabāda kara ditā
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ਫਿਰ ਅਸੀਂ ਦੂਸਰਿਆਂ ਨੂੰ ਬਰਬਾਦ ਕਰ ਦਿੱਤਾ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
 ## Persian
 
-
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس ديگران را هلاك كرديم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس ديگران را سخت هلاك كرديم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abolfazl Bahrampour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abolfazl Bahrampour |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس دیگران را نابود کردیم‌
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Baha Oddin Khorramshahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Baha Oddin Khorramshahi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس دیگران را نابود ساختیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Hussien Tagi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Hussien Tagi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس دیگران را نابود کردیم،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hussain Ansarian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hussain Ansarian |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس دیگران را نابود کردیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamhouse.com Persian Team</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamhouse.com Persian Team |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آن گاه (جز اهل بیت لوط) دیگران را به خاک هلاک نشانیدیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahdi Elahi Ghomshei</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mahdi Elahi Ghomshei |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پس نگونسار کردیم دگران را
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Kazem Moezzi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Kazem Moezzi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس ديگران را سخت هلاك كرديم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Mahdi Fooladvand</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Mahdi Fooladvand |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس دیگران را سخت هلاک (و) زیر و زبر کردیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Sadeqi Tehrani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Sadeqi Tehrani |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس، دیگران را ریشه‌کن کردیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohsen Gharaati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohsen Gharaati |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس ما دیگران را نابود کردیم (و جملگی اهل شهر را با شهر زیر و رو نموده و درهم کوبیدیم)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mostafa Khorramdel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mostafa Khorramdel |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس دیگران را هلاک کردیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naser Makarem Shirazi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naser Makarem Shirazi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس ديگران- بازماندگان- را هلاك كرديم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sayyed Jalaloddin Mojtabavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sayyed Jalaloddin Mojtabavi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سپس دیگران را نابود ساختیم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Polish
 
-
-<div dir="ltr" lang="pl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nastepnie wytracilismy innych
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jozefa Bielawskiego</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jozefa Bielawskiego |
 
-<div dir="ltr" lang="pl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Następnie wytraciliśmy innych
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jozefa Bielawskiego</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Jozefa Bielawskiego |
 
 ## Portuguese
 
-
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Em seguida, profligamos os outros
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Helmi Nasr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Helmi Nasr |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Em seguida, profligamos os outros
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Helmi Nasr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Helmi Nasr |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Entao, destruimos os demais
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Samir El Hayek</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Samir El Hayek |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Então, destruímos os demais
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Samir El Hayek</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Samir El Hayek |
 
 ## Pushto
 
-
-<div dir="rtl" lang="ps" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیا مونږ هغه نور هلاك كړل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulwali Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulwali Khan |
 
-<div dir="rtl" lang="ps" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بیا مونږ هغه نور هلاك كړل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zakaria Abulsalam</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zakaria Abulsalam |
 
 ## Romanian
 
-
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 si i-am starpit apoi pe ceilalti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Grigore</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Grigore |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 şi i-am stârpit apoi pe ceilalţi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Grigore</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Grigore |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Noi atunci distruge others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Apoi i-am nimicit pe ceilalþi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Apoi i-am nimicit pe ceilalþi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Rundi
 
-
-<div dir="ltr" lang="rn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hanyuma duca turabahonya b’abandi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Amissi Radjabu Ntamba</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Amissi Radjabu Ntamba |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 si i-am starpit apoi pe ceilalti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Adel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Adel |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Потом погубили других [неверующих]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Adel</td></tr></tbody></table></div>
+Потом погубили других \[неверующих\]
 
+| Details |  |
+| --- | --- |
+| Author | Abu Adel |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zatem My unichtozhili ostal'nykh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmir Kuliev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmir Kuliev |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Затем Мы уничтожили остальных
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmir Kuliev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmir Kuliev |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Posle togo, prochikh My istrebili
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gordy Semyonovich Sablukov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gordy Semyonovich Sablukov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 После того, прочих Мы истребили
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gordy Semyonovich Sablukov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gordy Semyonovich Sablukov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Potom pogubili drugikh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ignaty Yulianovich Krachkovsky</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ignaty Yulianovich Krachkovsky |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Потом погубили других
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ignaty Yulianovich Krachkovsky</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ignaty Yulianovich Krachkovsky |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Potom My istrebili ostal'nykh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Magomed Nuri Osmanovich Osmanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Magomed Nuri Osmanovich Osmanov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Потом Мы истребили остальных
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Magomed Nuri Osmanovich Osmanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Magomed Nuri Osmanovich Osmanov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allakh pogubil nevernykh greshnikov, unichtozhiv ikh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ministry Of Awqaf, Egypt</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ministry Of Awqaf, Egypt |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аллах погубил неверных грешников, уничтожив их
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ministry Of Awqaf, Egypt</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ministry Of Awqaf, Egypt |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Potom My pogubili ostal'nykh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>V. Porokhova</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | V. Porokhova |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Потом Мы погубили остальных
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>V. Porokhova</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | V. Porokhova |
 
 ## Serbian
 
-
-<div dir="ltr" lang="sr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 а затим смо остале уништили
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center Islamhouse</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center Islamhouse |
 
 ## Shona
 
-
-<div dir="ltr" lang="sn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mushure mezvo takaparadza vamwe vose
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah J. M. Adini And Students</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdullah J. M. Adini And Students |
 
 ## Sindhi
 
-
-<div dir="rtl" lang="sd" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وري (انھن) ٻـين جي پاڙ پٽي سون
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Taj Mehmood Amroti</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Taj Mehmood Amroti |
 
 ## Sinhala
 
-
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pasuva api an siyallanvama sahamulinma vinasa kara dæmuvemu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pasuva api an siyallanvama sahamulinma vināśa kara dæmuvemu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 පසුව අපි අන් සියල්ලන්වම සහමුලින්ම විනාශ කර දැමුවෙමු
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pasu va api anek aya vinasa kara dæmuvemu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pasu va api anek aya vināśa kara dæmuvemu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 පසු ව අපි අනෙක් අය විනාශ කර දැමුවෙමු
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Slovak
 
-
-<div dir="ltr" lang="sk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 My potom znicit others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Somali
 
-
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Markaasaan waxaan baabbi’innay intii kale
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Hasan Jacob</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Hasan Jacob |
 
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Markaasaan Halaagnay Intii kale
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahmud Muhammad Abduh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mahmud Muhammad Abduh |
 
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Markaasaan Halaagnay Intii kale
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Mahmood Muhammad Abdu</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Mahmood Muhammad Abdu |
 
 ## Sotho
 
-
-<div dir="ltr" lang="st" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Empa Ra ripitla bohle
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Elias Keketso Lelia</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Elias Keketso Lelia |
 
 ## Spanish
 
-
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Luego destruimos a los demas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Qader Mouheddine, Sirhan Ali Sanchez.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Qader Mouheddine, Sirhan Ali Sanchez. |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Luego destruimos a los demás
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Qader Mouheddine, Sirhan Ali Sanchez.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Qader Mouheddine, Sirhan Ali Sanchez. |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Y despues destruimos a los demas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Y después destruimos a los demás
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Y despues destruimos a los demas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Y después destruimos a los demás
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Luego, aniquilamos a los demas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Julio Cortes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Julio Cortes |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Luego, aniquilamos a los demás
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Julio Cortes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Julio Cortes |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 y luego destruimos por completo a los demas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad Abdurrasak Perez</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad Abdurrasak Perez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 y luego destruimos por completo a los demás
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad Abdurrasak Perez</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad Abdurrasak Perez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Luego destrui a los demas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Isa Garcia</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Isa Garcia |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Luego destruí a los demás
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Isa Garcia</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Isa Garcia |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Entonces, destruimos a los otros
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Raul Gonzalez Bornez</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Raul Gonzalez Bornez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Entonces, destruimos a los otros
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Raul Gonzalez Bornez</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Raul Gonzalez Bornez |
 
 ## Swahili
 
-
-<div dir="ltr" lang="sw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kisha tukawaangamiza wasiokuwa wao, miongoni mwa makafiri, kuwaangamiza kukubwa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Muhammad Abu Bakr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Muhammad Abu Bakr |
 
-<div dir="ltr" lang="sw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kisha tukawaangamiza wale wengine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Muhsin Al Barwani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ali Muhsin Al Barwani |
 
 ## Swedish
 
-
-<div dir="ltr" lang="sv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Darefter lat Vi de ovriga ga under
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Knut Bernstrom</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Knut Bernstrom |
 
-<div dir="ltr" lang="sv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Därefter lät Vi de övriga gå under
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Knut Bernstrom</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Knut Bernstrom |
 
 ## Tajik
 
-
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sipas digaronro halok kardem
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sipas digaronro halok kardem
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сипас дигаронро ҳалок кардем
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sipas digaronro, ki az ahli kuffor ʙudand ʙa saxttarin azoʙ halok kardem
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sipas digaronro, ki az ahli kuffor ʙudand ʙa saxttarin azoʙ halok kardem
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сипас дигаронро, ки аз аҳли куффор буданд ба сахттарин азоб ҳалок кардем
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sipas digaronro noʙud kardem
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sipas digaronro noʙud kardem
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сипас дигаронро нобуд кардем
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pinnar, nam marra anaivaraiyum alittu vittom
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 piṉṉar, nām maṟṟa aṉaivaraiyum aḻittu viṭṭōm
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 பின்னர், நாம் மற்ற அனைவரையும் அழித்து விட்டோம்
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 innum, nam avarkal mitu (kal) mari poliyac ceytom. Accamutti eccarikkappatta (anal ataip purakkanit)tavarkal mitu (akkal) mari mikavum kettataka iruntatu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 iṉṉum, nām avarkaḷ mītu (kal) māri poḻiyac ceytōm. Accamūṭṭi eccarikkappaṭṭa (āṉāl ataip puṟakkaṇit)tavarkaḷ mītu (akkal) māri mikavum keṭṭatāka iruntatu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இன்னும், நாம் அவர்கள் மீது (கல்) மாரி பொழியச் செய்தோம். அச்சமூட்டி எச்சரிக்கப்பட்ட (ஆனால் அதைப் புறக்கணித்)தவர்கள் மீது (அக்கல்) மாரி மிகவும் கெட்டதாக இருந்தது
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
 ## Tatar
 
-
-<div dir="ltr" lang="tt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Соңра Лут җәмәгатеннән башкаларын һәммәсен һәлак иттек
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakub Ibn Nugman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yakub Ibn Nugman |
 
 ## Telugu
 
-
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a taruvata, migata varini nirmulincamu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ā taruvāta, migatā vārini nirmūlin̄cāmu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ఆ తరువాత, మిగతా వారిని నిర్మూలించాము
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 మరి మేము మిగిలిన వారందరినీ నాశనం చేశాము
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Aziz Ur Rehman |
 
 ## Thai
 
-
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læw rea di thalay phwk khn xun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læ̂w reā dị̂ thảlāy phwk khn xụ̄̀n
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 แล้วเราได้ทำลายพวกคนอื่น
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læw rea di thalay phwk khn xun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læ̂w reā dị̂ thảlāy phwk khn xụ̄̀n
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 แล้วเราได้ทำลายพวกคนอื่น
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra berikileri mahvettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulbaki Golpinarli</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulbaki Golpinarli |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra berikileri mahvettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulbaki Golpinarli</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulbaki Golpinarli |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra digerlerini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adem Ugur</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adem Ugur |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra diğerlerini helâk ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adem Ugur</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adem Ugur |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bulac</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bulac |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bulac</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bulac |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları hep helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Fikri Yavuz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Fikri Yavuz |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları hep helâk ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Fikri Yavuz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Fikri Yavuz |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da digerlerini yerle bir edip yok ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Celal Y Ld R M</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Celal Y Ld R M |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra da diğerlerini yerle bir edip yok ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Celal Y Ld R M</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Celal Y Ld R M |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Digerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Diğerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekilerin hepsini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekilerin hepsini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra digerlerini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Vakfi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Vakfi |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra diğerlerini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Vakfi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Vakfi |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra digerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edip Yuksel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edip Yuksel |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra diğerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edip Yuksel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edip Yuksel |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekilerin hepsini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmalili Hamdi Yazir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmalili Hamdi Yazir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekilerin hepsini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmalili Hamdi Yazir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmalili Hamdi Yazir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanların hepsini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanların hepsini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekilerin hepsini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekilerin hepsini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yokettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fizilal Il Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fizilal Il Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yokettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fizilal Il Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fizilal Il Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gultekin Onan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gultekin Onan |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gultekin Onan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gultekin Onan |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekileri (tam bir suretde) helak etdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Basri Cantay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Basri Cantay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekileri (tam bir suretde) helak etdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Basri Cantay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Basri Cantay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra digerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ibni Kesir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ibni Kesir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra diğerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ibni Kesir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ibni Kesir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra digerlerini dumura ugrattık (nesillerini sona erdirdik)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iskender Ali Mihr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Iskender Ali Mihr |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra diğerlerini dumura uğrattık (nesillerini sona erdirdik)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iskender Ali Mihr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Iskender Ali Mihr |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Summe demmernel aharın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sümme demmernel aharın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Summe demmernel aharin(aharine)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Summe demmernel âharîn(âharîne)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ve sonra otekileri kırıp gecirdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Esed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Esed |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ve sonra ötekileri kırıp geçirdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Esed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Esed |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 summe demmerne-l'aharin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammet Abay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammet Abay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ŝümme demmerne-l'âḫarîn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammet Abay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammet Abay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra digerlerini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muslim Shahin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muslim Shahin |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra diğerlerini helâk ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muslim Shahin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muslim Shahin |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra, digerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Saban Piris</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Saban Piris |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra, diğerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Saban Piris</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Saban Piris |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra, digerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaban Britch</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaban Britch |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra, diğerlerini yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaban Britch</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaban Britch |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekileri hep imha ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suat Yildirim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suat Yildirim |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geridekileri hep imhâ ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suat Yildirim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suat Yildirim |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra otekilerini hep yıktık, helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suleyman Ates</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suleyman Ates |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra ötekilerini hep yıktık, helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suleyman Ates</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suleyman Ates |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tefhim Ul Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tefhim Ul Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra geride kalanları yerle bir ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tefhim Ul Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tefhim Ul Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra digerlerini helak ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra diğerlerini helâk ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra otekileri mahvedip batırdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra ötekileri mahvedip batırdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra otekileri mahvedip batırdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra ötekileri mahvedip batırdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra otekileri mahvedip batırdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Y. N. Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Y. N. Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonra ötekileri mahvedip batırdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Y. N. Ozturk</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Y. N. Ozturk |
 
 ## Twi
 
-
-<div dir="ltr" lang="tw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Afei Yε’sεee wͻn a aka no pasaa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Haroun Ismaeel</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Haroun Ismaeel |
 
 ## Uighur
 
-
-<div dir="rtl" lang="ug" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ئاندىن قالغانلارنى ھالاك قىلدۇق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Saleh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Saleh |
 
-<div dir="rtl" lang="ug" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ئاندىن قالغانلارنى ھالاك قىلدۇق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Muhammad Saleh</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Muhammad Saleh |
 
 ## Ukrainian
 
-
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Усіх інших Ми знищили
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Mikhailo Yaqubovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Mikhailo Yaqubovic |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 My todi zruynuvaly inshi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ми тоді зруйнували інші
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Usikh inshykh My znyshchyly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mykhaylo Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mykhaylo Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Усіх інших Ми знищили
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mykhaylo Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mykhaylo Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Usikh inshykh My znyshchyly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Усіх інших Ми знищили
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakubovych</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yakubovych |
 
 ## Urdu
 
-
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Phir baaqi maanda(rest) logon ko humne tabaah kardiya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul Ala Maududi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر باقی ماندہ لوگوں کو ہم نے تباہ کر دیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul A Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul A Ala Maududi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے اور سب کو ہلاک کر دیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahmed Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahmed Ali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے اوروں کو ہلاک کردیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fateh Muhammad Jalandhry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fateh Muhammad Jalandhry |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اٹھا مارا ہم نے ان دوسروں کو
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahmood Ul Hassan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mahmood Ul Hassan |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے دوسرے سب لوگوں کو تباہ و برباد کر دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hussain Najafi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hussain Najafi |
 
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Phir hum ney baqi aur sab ko halak ker diya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے باقی اور سب کو ہلاک کر دیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi |
 
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 phir hum ne baaqi aur sab ko halaak kar diya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi, Muhammad Kazim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi, Muhammad Kazim |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے نام و نشان مٹا دیا دوسروں کا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karam Shah Al Azhari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karam Shah Al Azhari |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے دوسروں کو ہلاک کر دیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Tahir Ul Qadri |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر اور سب کو ہم نے تباہ کردیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Usmani |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پھر ہم نے ان لوگوں کو تباہ و برباد کردیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Syed Zeeshan Haider Jawadi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Syed Zeeshan Haider Jawadi |
 
 ## Uzbek
 
-
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сўнгра қолганларини ер билан яксон қилдик
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alaaudeen Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alaaudeen Mansour |
 
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сўнгра бошқаларни ҳам ҳалок қилдик
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alauddin Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alauddin Mansour |
 
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сўнгра қолганларини ер билан яксон қилдик
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Sodik Muhammad Yusuf</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Sodik Muhammad Yusuf |
 
 ## Vietnamese
 
-
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Roi, TA đa tieu diet đam nguoi con lai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Abdulkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Abdulkarim |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Rồi, TA đã tiêu diệt đám người còn lại
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Abdulkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Abdulkarim |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sau đo TA đa tieu diet toan bo đam nguoi con lai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sau đó TA đã tiêu diệt toàn bộ đám người còn lại
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
 ## Xhosa
 
-
-<div dir="ltr" lang="xh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Emva koko Sabatshabalalisa abanye
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Imaam Ismaaeel Ngqoyiyana</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Imaam Ismaaeel Ngqoyiyana |
 
 ## Yau
 
-
-<div dir="ltr" lang="yuw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kaneko ni twajonasile waneo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Bin Abdul Hamid Silika</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Bin Abdul Hamid Silika |
 
-<div dir="ltr" lang="yuw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kaneko ni twajonasile ŵaneo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Bin Abdul Hamid Silika</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Bin Abdul Hamid Silika |
 
 ## Yoruba
 
-
-<div dir="ltr" lang="yo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Leyin naa, A pa awon yooku run
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Abu Rahimah Mikael Aykyuni</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Abu Rahimah Mikael Aykyuni |
 
-<div dir="ltr" lang="yo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Lẹ́yìn náà, A pa àwọn yòókù run
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Abu Rahimah Mikael Aykyuni</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Abu Rahimah Mikael Aykyuni |
 
 ## Zulu
 
-
-<div dir="ltr" lang="zu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sabe sesibabhubhisa abanye
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iqembu Lezifundiswa, Mussa Muhammad Telela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Iqembu Lezifundiswa, Mussa Muhammad Telela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman |

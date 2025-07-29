@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,106 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا النَّضْرُ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ سُلَيْمَانَ، قَالَ سَمِعْتُ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، وَالأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، فَذَكَرَ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا النضر، قال انبانا شعبة، عن سليمان، قال سمعت ابراهيم، عن علقمة، والاسود، عن عبد الله، فذكر نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইসহাক ইবনু ইবরাহীম (রহঃ) ... সুলায়মান (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি ইবরাহীমকে আলকামা (রহঃ) এবং আসওয়াদ (রহঃ) সুত্রে আব্দুল্লাহ ইবনু মাসউদ (রাঃ) থেকে বলতে শুনেছি, এরপর তিনি পুর্ববৎ উল্লেখ করলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Sulaiman said:"I heard Ibrahim (narrate) from 'Alqamah and Al-Aswad from 'Abdullah," and he narrated something similar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |
+
+## French
+
+Rapporté par Sulaiman : J’ai entendu Ibrahim (raconter) de la part de 'Alqamah et Al-Aswad, d’après 'Abdullah, et il a rapporté quelque chose de similaire
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے علقمہ اور اسود نے عبداللہ بن مسعود رضی اللہ عنہ سے اسی جیسی حدیث ذکر کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>720</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 720 |
+| Reference | Book 8 Hadith 33 |

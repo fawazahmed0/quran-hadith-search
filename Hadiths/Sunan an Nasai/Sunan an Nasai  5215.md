@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اتَّخَذَ خَاتَمًا مِنْ ذَهَبٍ وَجَعَلَ فَصَّهُ مِمَّا يَلِي كَفَّهُ فَاتَّخَذَ النَّاسُ خَوَاتِيمَ فَطَرَحَهُ النَّبِيُّ صلى الله عليه وسلم وَقَالَ ‏ "‏ لاَ أَلْبَسُهُ أَبَدًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 48 Hadith 176</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |
+
 اخبرنا اسماعيل بن مسعود، قال حدثنا خالد، عن عبيد الله، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم اتخذ خاتما من ذهب وجعل فصه مما يلي كفه فاتخذ الناس خواتيم فطرحه النبي صلى الله عليه وسلم وقال " لا البسه ابدا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 48 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসমাঈল ইবন মাসউদ (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামসোনার আংটি বানিয়ে এর নগীনা হাতের তালুর দিকে রাখলেন। লোকজনও এরূপ আংটি বানালো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামসেটি ফেলে দিয়ে বললেনঃ আমি তা আর কখনও পরবাে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 48 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |
 
 ## English
 
+It was narrated from Ibn 'Umar that:The Messenger of Allah \[SAW\] put on a ring of gold and put its stone (Fass) toward his palm. Then the people started to wear rings, and the Messenger of Allah \[SAW\] discarded it and said: "I will never wear it again
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Ibn 'Umar that:The Messenger of Allah [SAW] put on a ring of gold and put its stone (Fass) toward his palm. Then the people started to wear rings, and the Messenger of Allah [SAW] discarded it and said: "I will never wear it again
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 48 Hadith 176</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |
+
+## French
+
+Rapporté par Ibn ‘Umar : Le Messager d’Allah ﷺ a mis une bague en or et portait la pierre (fass) tournée vers sa paume. Ensuite, les gens ont commencé à porter des bagues, et le Messager d’Allah ﷺ l’a retirée et a dit : "Je ne la porterai plus jamais
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Isma'il bin Mas'ud\] ia berkata; telah menceritakan kepada kami \[Khalid\] dari \[Ubaidullah\] dari \[Nafi'\] dari \[Ibnu Umar\] berkata, "Rasulullah shallallahu 'alaihi wasallam memakai cincin dari emas dan menghadapkan mata cincinnya ke arah telapak tangan, orang-orang lalu ikut memakai cincin hingga Nabi shallallahu 'alaihi wasallam pun membuang cincinnya. Beliau bersabda: "Aku tidak akan memakai selamanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Isma'il bin Mas'ud] ia berkata; telah menceritakan kepada kami [Khalid] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam memakai cincin dari emas dan menghadapkan mata cincinnya ke arah telapak tangan, orang-orang lalu ikut memakai cincin hingga Nabi shallallahu 'alaihi wasallam pun membuang cincinnya. Beliau bersabda: "Aku tidak akan memakai selamanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 48 Hadith 176</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 48 Hadith 176</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5215</td></tr><tr><td>Arabic No</td><td>5215</td></tr><tr><td>Reference</td><td>Book 48 Hadith 176</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5215 |
+| Arabic No | 5215 |
+| Reference | Book 48 Hadith 176 |

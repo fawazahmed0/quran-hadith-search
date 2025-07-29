@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرًا، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يُقْعَدَ عَلَى الْقَبْرِ وَأَنْ يُقَصَّصَ وَيُبْنَى عَلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
+
 حدثنا احمد بن حنبل، حدثنا عبد الرزاق، اخبرنا ابن جريج، اخبرني ابو الزبير، انه سمع جابرا، يقول سمعت رسول الله صلى الله عليه وسلم نهى ان يقعد على القبر وان يقصص ويبنى عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কবরের উপর বসতে, তাতে চুনকাম করতে এবং তার উপর কিছু নির্মাণ করতে নিষেধ করতে শুনেছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir:I heard the Prophet (ﷺ) forbid to sit on the grave, to plaster it with gypsum, and to build any structure over it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
+
+## French
+
+Rapporté par Jabir رضي الله عنه : J’ai entendu le Prophète ﷺ interdire de s’asseoir sur la tombe, de la recouvrir de plâtre ou d’y construire quoi que ce soit
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
 
 ## Russian
 
+Джабир, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ запрещал сидеть на могиле, покрывать её гипсом \[или известью\] и возводить на ней любые постройки»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Джабир, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ запрещал сидеть на могиле, покрывать её гипсом [или известью] и возводить на ней любые постройки»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir (r.a) dedi ki: Rasûlullah (s.a.v.)'ı kabir(ler) üzerine oturulmasını, (kabirlerin) kireçlenmesini ve (kabir) üzerine bina yapılmasını yasaklarken işittim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو قبر پر بیٹھنے ۱؎، اسے پختہ بنانے، اور اس پر عمارت تعمیر کرنے سے منع فرماتے سنا ہے ۲؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (970)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3225</td></tr><tr><td>Arabic No</td><td>3225</td></tr><tr><td>Reference</td><td>Book 21 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (970) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3225 |
+| Arabic No | 3225 |
+| Reference | Book 21 Hadith 137 |

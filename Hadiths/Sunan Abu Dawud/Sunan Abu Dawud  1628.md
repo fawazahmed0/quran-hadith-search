@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَهِشَامُ بْنُ عَمَّارٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الرِّجَالِ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنْ أَبِيهِ أَبِي سَعِيدٍ، قَالَ قَالَ رَسُولُ اللَّهِ ‏ "‏ مَنْ سَأَلَ وَلَهُ قِيمَةُ أُوقِيَّةٍ فَقَدْ أَلْحَفَ ‏"‏ ‏.‏ فَقُلْتُ نَاقَتِي الْيَاقُوتَةُ هِيَ خَيْرٌ مِنْ أُوقِيَّةٍ ‏.‏ قَالَ هِشَامٌ خَيْرٌ مِنْ أَرْبَعِينَ دِرْهَمًا فَرَجَعْتُ فَلَمْ أَسْأَلْهُ شَيْئًا زَادَ هِشَامٌ فِي حَدِيثِهِ وَكَانَتِ الأُوقِيَّةُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم أَرْبَعِينَ دِرْهَمًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
+
 حدثنا قتيبة بن سعيد، وهشام بن عمار، قالا حدثنا عبد الرحمن بن ابي الرجال، عن عمارة بن غزية، عن عبد الرحمن بن ابي سعيد الخدري، عن ابيه ابي سعيد، قال قال رسول الله " من سال وله قيمة اوقية فقد الحف " . فقلت ناقتي الياقوتة هي خير من اوقية . قال هشام خير من اربعين درهما فرجعت فلم اساله شييا زاد هشام في حديثه وكانت الاوقية على عهد رسول الله صلى الله عليه وسلم اربعين درهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি ভিক্ষা চায়, অথচ তার কাছে এক উকিয়া মূল্যের সম্পদ আছে, সে নিশ্চিত অসংগতভাবে ভিক্ষা চাইল। আমি (মনে মনে) বললাম, আমার ইয়াকুত নামক উষ্ট্রীটি তো এক ঊকিয়ার চেয়েও উত্তম। হিশাম বলেন, চল্লিশ দিরহামের চাইতে উত্তম। অতঃপর তার কাছে কিছু না চেয়েই আমি ফিরে আসি। হিশাম তার বর্ণনায় আরো বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এক ঊকিয়া ছিল চল্লিশ দিরহামের সমান।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি ভিক্ষা চায়, অথচ তার কাছে এক উকিয়া মূল্যের সম্পদ আছে, সে নিশ্চিত অসংগতভাবে ভিক্ষা চাইল। আমি (মনে মনে) বললাম, আমার ইয়াকুত নামক উষ্ট্রীটি তো এক ঊকিয়ার চেয়েও উত্তম। হিশাম বলেন, চল্লিশ দিরহামের চাইতে উত্তম। অতঃপর তার কাছে কিছু না চেয়েই আমি ফিরে আসি। হিশাম তার বর্ণনায় আরো বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এক ঊকিয়া ছিল চল্লিশ দিরহামের সমান।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: If anyone begs when he has something equivalent to an uqiyah in value, he has begged immoderately. So I said: My she-camel, Yaqutah, is better than an uqiyah. The version of Hisham goes: "better than forty dirhams. So I returned and did not beg anything from him." Hisham added in his version: "An uqiyah during the time of the Messenger of Allah (ﷺ) was equivalent to forty dirhams
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
+
+## French
+
+Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un mendie alors qu’il possède l’équivalent d’une uqiyah en valeur, il a exagéré dans sa demande. » J’ai dit : « Ma chamelle, Yaqutah, vaut plus qu’une uqiyah. » La version de Hisham dit : “plus que quarante dirhams. Je suis donc reparti sans rien lui demander.” Hisham a ajouté dans sa version : “À l’époque du Messager d’Allah ﷺ, une uqiyah équivalait à quarante dirhams.”
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Qutaibah bin Sa'id\] serta \[Hisyam bin 'Ammar\], mereka berkata; telah menceritakan kepada Kami \[Abdurrahman bin Abu Ar Rijal\] dari \['Umarah bin Ghaziyyah\] dari \[Abdurrahman bin Abu Sa'id Al Khudri\] dari \[ayahnya yaitu Abu Sa'id\], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang meminta-minta sedangkan ia memiliki harta senilai satu uqiyah maka sungguh ia telah mendesak dalam meminta." Maka aku katakan; untaku yang bernama Al Yaqutah lebih baik dari pada satu uqiyah, -Hisyam berkata; lebih baik daripada empat puluh dirham-, kemudian aku kembali dan tidak lagi meminta kepada beliau sesuatupun. Hisyam berkata dalam haditsnya; satu uqiyah pada masa Rasulullah shallAllahu wa'alaihi wa sallam adalah empat puluh dirham
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Qutaibah bin Sa'id] serta [Hisyam bin 'Ammar], mereka berkata; telah menceritakan kepada Kami [Abdurrahman bin Abu Ar Rijal] dari ['Umarah bin Ghaziyyah] dari [Abdurrahman bin Abu Sa'id Al Khudri] dari [ayahnya yaitu Abu Sa'id], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang meminta-minta sedangkan ia memiliki harta senilai satu uqiyah maka sungguh ia telah mendesak dalam meminta." Maka aku katakan; untaku yang bernama Al Yaqutah lebih baik dari pada satu uqiyah, -Hisyam berkata; lebih baik daripada empat puluh dirham-, kemudian aku kembali dan tidak lagi meminta kepada beliau sesuatupun. Hisyam berkata dalam haditsnya; satu uqiyah pada masa Rasulullah shallAllahu wa'alaihi wa sallam adalah empat puluh dirham
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
 
 ## Russian
 
+ПЕредается от Абу Са‘ид (аль-Худри), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот из вас, кто просит, имея стоимость окии, просит без нужды». Он сказал: «И я подумал, что моя верблюдица аль-Йакута лучше окии (или: лучше, чем сорок дирхемов), и вернулся, так ничего и не попросив». \[Передатчик\] Хишам добавлял, что во времена Посланника Аллаха ﷺ окия равнялась сорока дирхемам
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ПЕредается от Абу Са‘ид (аль-Худри), да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот из вас, кто просит, имея стоимость окии, просит без нужды». Он сказал: «И я подумал, что моя верблюдица аль-Йакута лучше окии (или: лучше, чем сорок дирхемов), и вернулся, так ничего и не попросив». [Передатчик] Хишам добавлял, что во времена Посланника Аллаха ﷺ окия равнялась сорока дирхемам
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebü Saidi'l-Hudrî'den; demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Kim bir okiyye değerinde malı olduğu halde dilenirse haddi aşmış olur.” Bunun üzerine kendi kendime; Yakute adlı dişi devem bir okiyyeden daha değerlidir, dedim. (Hadisin râvilerinden olan) Hişâm, "bir okiyyeden daha değerlidir" sözü yerine "kırk dirhemden daha değerlidir" dedi- ve ondan hiçbir şey istemeden geri döndüm. Hişâm, rivayetinde buna "Resûlullah (s.a.v.) zamanında bir okiyye, kırk dirhemdi." sözünü ilâve etti. Nesâî, zekât; Ahmed b. Hanbel III, 7, 9; IV, 36; V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو سوال کرے حالانکہ اس کے پاس ایک اوقیہ ہو تو اس نے الحاف کیا ، میں نے ( اپنے جی میں ) کہا: میری اونٹنی یاقوتہ ایک اوقیہ سے بہتر ہے۔ ( ہشام کی روایت میں ہے: چالیس درہم سے بہتر ہے ) ، چنانچہ میں لوٹ آیا اور میں نے آپ سے کچھ نہیں مانگا ۱؎۔ ہشام کی روایت میں اتنا زیادہ ہے کہ اوقیہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں چالیس درہم کا ہوتا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>1628</td></tr><tr><td>Reference</td><td>Book 9 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 1628 |
+| Reference | Book 9 Hadith 73 |

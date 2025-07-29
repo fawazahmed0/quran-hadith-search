@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَخَذَ طَرَفَ رِدَائِهِ فَبَصَقَ فِيهِ فَرَدَّ بَعْضَهُ عَلَى بَعْضٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |
+
 اخبرنا علي بن حجر، قال حدثنا اسماعيل، عن حميد، عن انس، ان النبي صلى الله عليه وسلم اخذ طرف ردايه فبصق فيه فرد بعضه على بعض
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী ইবনু হুজর (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার চাঁদরের একদিক উঠিয়ে তাতে থুথু ফেললেন, এরপর এক অংশের উপর অন্য অংশ চাপা দিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Anas that the Prophet (ﷺ took the hem of his garment and spat on it, rubbed it together briefly and let it drop)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |
+
+## French
+
+Rapporté par Anas : Le Prophète (ﷺ) a pris le bord de son vêtement, a craché dessus, l’a frotté brièvement puis l’a laissé retomber
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ali bin Hujr\] dia berkata; Telah menceritakan kepada kami \[Ismail\] dari \[Humaid\] dari \[Anas\] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengambil ujung selendangnya lalu meludah padanya, kemudian melipat sebagian pada sebagian yang lain
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ali bin Hujr] dia berkata; Telah menceritakan kepada kami [Ismail] dari [Humaid] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah mengambil ujung selendangnya lalu meludah padanya, kemudian melipat sebagian pada sebagian yang lain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (radıyallahü anh)’den rivâyete göre, Peygamber (sallallahü aleyhi ve sellem), elbisesinin bir ucunu tuttu arasına tükürdü ve birbirine sürttü. (Buhârî, Vudu’’: 75; Ebû Dâvûd, Tahara:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے اپنی چادر کا کنارہ پکڑا، اس میں تھوکا، اور اسے مل دیا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 309 |

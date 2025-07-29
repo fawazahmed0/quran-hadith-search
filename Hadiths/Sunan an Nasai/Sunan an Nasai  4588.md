@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا مُوسَى بْنُ نَافِعٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، بِمِثْلِهِ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ كَذَا وَجَدْتُهُ فِي هَذَا الْمَوْضِعِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |
+
 اخبرنا محمد بن بشار، قال حدثنا وكيع، قال حدثنا موسى بن نافع، عن سعيد بن جبير، بمثله . قال ابو عبد الرحمن كذا وجدته في هذا الموضع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন বাশশার (রহঃ) ... সাঈদ ইবন জুবায়র (রহঃ) থেকে অনুরূপ ঘটনা বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Something similar was narrated form Saeed bin Jubair. Abu 'Abdur-Rehman (An-Nasai) said:This is what I have found on this topic
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |
+
+## French
+
+Rapporté par Saeed bin Jubair : Un récit similaire a été rapporté de Saeed bin Jubair. Abu 'Abdur-Rehman (An-Nasai) a dit : « C’est ce que j’ai trouvé sur ce sujet. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Abdur Rahman\] telah menceritakan kepada kami \[Sufyan\] dari \[Musa Abu Syihab\] dari \[Sa'id bin Jubair\] bahwa dia melihat tidak mengapa walaupun berasal dari hutang. Telah mengabarkan kepada kami \[Muhammad bin Basyar\] telah menceritakan kepada kami \[Waki'\] telah menceritakan kepada kami \[Musa bin Nafi'\] dari \[Sa'id bin Jubair\] dengan hadits yang semisal. Abu Abdurrahman berkata; "Demikianlah yang saya dapatkan pada permasalahan ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abdur Rahman] telah menceritakan kepada kami [Sufyan] dari [Musa Abu Syihab] dari [Sa'id bin Jubair] bahwa dia melihat tidak mengapa walaupun berasal dari hutang. Telah mengabarkan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Musa bin Nafi'] dari [Sa'id bin Jubair] dengan hadits yang semisal. Abu Abdurrahman berkata; "Demikianlah yang saya dapatkan pada permasalahan ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4588</td></tr><tr><td>Arabic No</td><td>4588</td></tr><tr><td>Reference</td><td>Book 44 Hadith 140</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4588 |
+| Arabic No | 4588 |
+| Reference | Book 44 Hadith 140 |

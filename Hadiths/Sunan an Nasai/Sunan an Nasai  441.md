@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عِمْرَانُ بْنُ يَزِيدَ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُسْلِمٍ الزُّهْرِيُّ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، قَالَ حَدَّثَنِي أَبُو هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا قَامَ أَحَدُكُمْ مِنَ اللَّيْلِ فَلاَ يُدْخِلْ يَدَهُ فِي الإِنَاءِ حَتَّى يُفْرِغَ عَلَيْهَا مَرَّتَيْنِ أَوْ ثَلاَثًا فَإِنَّ أَحَدَكُمْ لاَ يَدْرِي أَيْنَ بَاتَتْ يَدُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |
+
 اخبرنا عمران بن يزيد، قال حدثنا اسماعيل بن عبد الله، قال حدثنا الاوزاعي، قال حدثنا محمد بن مسلم الزهري، قال حدثني سعيد بن المسيب، قال حدثني ابو هريرة، قال قال رسول الله صلى الله عليه وسلم " اذا قام احدكم من الليل فلا يدخل يده في الاناء حتى يفرغ عليها مرتين او ثلاثا فان احدكم لا يدري اين باتت يده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইমরান ইবনু ইয়াযীদ (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্‌ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন রাতে বিছানা ত্যাগ করে, তখন সে যেন দু’বার অথবা তিনবার হাত না ধুয়ে পানির পাত্রে হাত প্রবিষ্ট না করায়। কেননা তোমাদের কারো জানা নেই যে, তার হাত রাতে কোথায় ছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah said:"The Messenger of Allah (ﷺ) said: 'When any one of you gets up after (sleeping) at night, let him not put his hand into the vessel until he has poured water on it two or three times, for none of you knows where his hand spent the night
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d'Allah (ﷺ) a dit : "Quand l'un de vous se lève après avoir dormi la nuit, qu'il ne mette pas sa main dans le récipient avant de l'avoir lavée deux ou trois fois, car aucun de vous ne sait où sa main a passé la nuit
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Imran bin Yazid\] dia berkata; Telah menceritakan kepada kami \[Ismail bin Abdullah\] dia berkata; Telah menceritakan kepada kami \[Al Auza'i\] dia berkata; Telah menceritakan kepada kami \[Muhammad bin Muslim Az-Zuhri\] dia berkata; Telah menceritakan kepadaku \[Sa'id Al Musayyab\] dia berkata; Telah menceritakan kepadaku \[Abu Hurairah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian bangun dari tidurnya, janganlah memasukkan tangannya ke dalam bejana air hingga menuangkan ke tangannya sebanyak dua kali atau tiga kali, karena dia tidak tahu dimana tangannya menginap (berada waktu dia tidur)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Imran bin Yazid] dia berkata; Telah menceritakan kepada kami [Ismail bin Abdullah] dia berkata; Telah menceritakan kepada kami [Al Auza'i] dia berkata; Telah menceritakan kepada kami [Muhammad bin Muslim Az-Zuhri] dia berkata; Telah menceritakan kepadaku [Sa'id Al Musayyab] dia berkata; Telah menceritakan kepadaku [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian bangun dari tidurnya, janganlah memasukkan tangannya ke dalam bejana air hingga menuangkan ke tangannya sebanyak dua kali atau tiga kali, karena dia tidak tahu dimana tangannya menginap (berada waktu dia tidur)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hüreyre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: uykudan uyanınca elini iki veya üç defa yıkamadan su kabına sokmasın. Çünkü elinin uykuda nereye dokunduğunu bilemez.) (Ebû Dâvûd, Tahara: 82; İbn Mâce, Tahara:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن مسیب کہتے ہیں: مجھ سے ابوہریرہ رضی اللہ عنہ نے بیان کیا، وہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی رات میں اٹھے تو اپنا ہاتھ برتن میں داخل نہ کرے، یہاں تک کہ دو یا تین مرتبہ اس پر پانی ڈال لے، کیونکہ وہ نہیں جانتا کہ اس کا ہاتھ رات میں کہاں کہاں رہا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>441</td></tr><tr><td>Arabic No</td><td>441</td></tr><tr><td>Reference</td><td>Book 4 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 441 |
+| Arabic No | 441 |
+| Reference | Book 4 Hadith 47 |

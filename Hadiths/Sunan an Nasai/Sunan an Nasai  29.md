@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا شَرِيكٌ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ مَنْ حَدَّثَكُمْ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم بَالَ قَائِمًا فَلاَ تُصَدِّقُوهُ مَا كَانَ يَبُولُ إِلاَّ جَالِسًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
+
 اخبرنا علي بن حجر، قال انبانا شريك، عن المقدام بن شريح، عن ابيه، عن عايشة، قالت من حدثكم ان رسول الله صلى الله عليه وسلم بال قايما فلا تصدقوه ما كان يبول الا جالسا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী ইবনু হুজর (রহঃ) ... আয়িশা (রাঃ) হতে বর্ণিত। তিনি বলেন, যে ব্যাক্তি তোমাদের বলে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে পেশাব করেছেন, তোমরা তার কথা বিশ্বাস করবে না। (কেননা) তিনি বসেই পেশাব করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"Whoever tells you that the Messenger of Allah (ﷺ) urinated standing up, do not believe him, for he would not urinate except while squatting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
+
+## French
+
+Rapporté par 'Aïsha رضي الله عنها : "Si quelqu’un vous dit que le Messager d’Allah (ﷺ) a uriné debout, ne le croyez pas, car il n’urinait qu’accroupi
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ali bin Hujr\] dia berkata; Telah memberitakan kepada kami \[Syarik\] dari \[Miqdam bin Syuraih\] dari \[Ayahnya\] dari \[Aisyah\] dia berkata: "Barangsiapa mengabarkan kepadamu bahwa Rasulullah shallallahu 'alaihi wasallam buang air kecil sambil berdiri, jangan kamu mempercayainya, karena Rasulullah shallallahu 'alaihi wasallam tidak buang air kecil kecuali sambil duduk
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ali bin Hujr] dia berkata; Telah memberitakan kepada kami [Syarik] dari [Miqdam bin Syuraih] dari [Ayahnya] dari [Aisyah] dia berkata: "Barangsiapa mengabarkan kepadamu bahwa Rasulullah shallallahu 'alaihi wasallam buang air kecil sambil berdiri, jangan kamu mempercayainya, karena Rasulullah shallallahu 'alaihi wasallam tidak buang air kecil kecuali sambil duduk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ جو تم سے یہ بیان کرے کہ رسول اللہ صلی اللہ علیہ وسلم نے کھڑے ہو کر پیشاب کیا، تو تم اس کی تصدیق نہ کرو، آپ صلی اللہ علیہ وسلم بیٹھ کر ہی پیشاب کیا کرتے تھے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Arabic No</td><td>29</td></tr><tr><td>Reference</td><td>Book 1 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Arabic No | 29 |
+| Reference | Book 1 Hadith 29 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا حَفْصٌ، عَنْ جَعْفَرٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُضَحِّي بِكَبْشٍ أَقْرَنَ فَحِيلٍ يَنْظُرُ فِي سَوَادٍ وَيَأْكُلُ فِي سَوَادٍ وَيَمْشِي فِي سَوَادٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
+
 حدثنا يحيى بن معين، حدثنا حفص، عن جعفر، عن ابيه، عن ابي سعيد، قال كان رسول الله صلى الله عليه وسلم يضحي بكبش اقرن فحيل ينظر في سواد وياكل في سواد ويمشي في سواد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন শিংবিশিষ্ট মোটাতাজা দুম্বা কুরবানী করেছেন যার চোখ, মুখ ও পা কালো বর্ণের ছিলো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id al-Khudri: The Messenger of Allah (ﷺ) used to sacrifice a choice, horned ram with black round the eyes, the mouth and the feet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ sacrifiait un bélier choisi, cornu, avec du noir autour des yeux, de la bouche et des pattes
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Ma'in\], telah menceritakan kepada kami \[Hafsh\] dari \[Ja'far\], dari \[ayahnya\], dari \[Abu Sa'id\], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkurban dengan seekor domba yang bertanduk yang sempurna tubuhnya, sekitar matanya hitam, dan perutnya hitam, serta berkaki hitam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Ma'in], telah menceritakan kepada kami [Hafsh] dari [Ja'far], dari [ayahnya], dari [Abu Sa'id], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkurban dengan seekor domba yang bertanduk yang sempurna tubuhnya, sekitar matanya hitam, dan perutnya hitam, serta berkaki hitam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Са‘ида, да будет доволен им Аллах: «Посланник Аллаха ﷺ приносил в жертву рогатого барана, отобранного для покрывания овец, с чёрной шерстью вокруг глаз, чёрным носом и чёрными ногами»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Saîd (el Hudrî)'den demiştir ki: "Rasûlullah (S.A.V.) hayası burulmadık kara gözlü, kara ağızlı ve kara ayaklı bir koçu kurban etmişti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسعید رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سینگ دار فربہ دنبہ کی قربانی کرتے تھے جو دیکھتا تھا سیاہی میں اور کھاتا تھا سیاہی میں اور چلتا تھا سیاہی میں ( یعنی آنکھ کے اردگرد ) ، نیز منہ اور پاؤں سب سیاہ تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2796</td></tr><tr><td>Arabic No</td><td>2796</td></tr><tr><td>Reference</td><td>Book 16 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2796 |
+| Arabic No | 2796 |
+| Reference | Book 16 Hadith 9 |

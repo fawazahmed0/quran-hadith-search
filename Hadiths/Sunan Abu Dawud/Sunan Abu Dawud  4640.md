@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا بُرْدٌ أَبُو الْعَلاَءِ، عَنْ مَكْحُولٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ مَوْضِعُ فُسْطَاطِ الْمُسْلِمِينَ فِي الْمَلاَحِمِ أَرْضٌ يُقَالُ لَهَا الْغُوطَةُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، حدثنا برد ابو العلاء، عن مكحول، ان رسول الله صلى الله عليه وسلم قال " موضع فسطاط المسلمين في الملاحم ارض يقال لها الغوطة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
 
 ## Bengali
 
+। মাকহুল (রহঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমুল যুদ্ধের সময় মুসলিমদের সমাবেশ স্থলের নাম হলো গুতাহ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মাকহুল (রহঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমুল যুদ্ধের সময় মুসলিমদের সমাবেশ স্থলের নাম হলো গুতাহ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Makhul reported the Messenger of Allah (ﷺ) as saying:The place of the assembly of Muslims at the time of war will be in a land called al-Ghutah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
+
+## French
+
+Rapporté par Makhul du Messager d’Allah ﷺ : Le lieu de rassemblement des musulmans au moment de la guerre sera dans une région appelée al-Ghoutah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] berkata, telah menceritakan kepada kami \[Hammad\] berkata, telah menceritakan kepada kami \[Burd Abul 'Ala\] dari \[Makhul\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kota kaum muslimin saat terjadi peperangan yang besar terletak pada sebuah wilayah yang bernama Al Ghuthah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Burd Abul 'Ala] dari [Makhul] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kota kaum muslimin saat terjadi peperangan yang besar terletak pada sebuah wilayah yang bernama Al Ghuthah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Макхуля, что Посланник Аллаха ﷺ сказал: «Во время сражений лагерь мусульман будет в земле, называемой аль-Гута»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mekhûl'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "(Son zamanlarda Deccal'in ordusu ile müslümanlar arasında çıkacak) savaşlarda müslümanların çadır yerleri "el-Ğûta" denilen yerdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مکحول کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مسلمانوں کا خیمہ لڑائیوں کے وقت ایک ایسی سر زمین میں ہو گا جسے غوطہٰ ۱؎کہا جاتا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4640</td></tr><tr><td>Arabic No</td><td>4640</td></tr><tr><td>Reference</td><td>Book 42 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4640 |
+| Arabic No | 4640 |
+| Reference | Book 42 Hadith 45 |

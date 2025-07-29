@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هُدْبَةُ بْنُ خَالِدٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، أَنَّ أَنَسًا، أَخْبَرَهُ قَالَ اعْتَمَرَ النَّبِيُّ صلى الله عليه وسلم مِنَ الْجِعْرَانَةِ، حَيْثُ قَسَمَ غَنَائِمَ حُنَيْنٍ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا هدبة بن خالد، حدثنا همام، عن قتادة، ان انسا، اخبره قال اعتمر النبي صلى الله عليه وسلم من الجعرانة، حيث قسم غنايم حنين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَقَالَ رَافِعٌ كُنَّا مَعَ النَّبِيِّ صلى الله عليه وسلم بِذِي الْحُلَيْفَةِ فَأَصَبْنَا غَنَمًا وَإِبِلًا فَعَدَلَ عَشَرَةً مِنْ الْغَنَمِ بِبَعِيْرٍ রাফি‘ (রাঃ) বলেন, আমরা যুল-হুলাইফাহ নামক স্থানে আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে ছিলাম। তখন আমরা উট ও বকরী লাভ করলাম। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দশটি বকরীকে একটি উটের সমান গণ্য করেন। ৩০৬৬. আনাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিরানা নামক জায়গা হতে ‘উমরাহর জন্য ইহরাম বাঁধলেন, যেখানে তিনি হুনাইন যুদ্ধের গনীমত বণ্টন করেছিলেন। (১৭৭৮) (আধুনিক প্রকাশনীঃ ২৮৩৬, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
 ## English
 
+Narrated Anas:The Prophet (ﷺ) performed 'Umra, setting out from Al-Ji'rana where he distributed the war booty of Hunain
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:The Prophet (ﷺ) performed 'Umra, setting out from Al-Jarana where he distributed the war booty of Hunain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
+
+## French
+
+Rapporté par Anas : Le Prophète (ﷺ) fit la 'Umra en partant d’Al-Ja’rana, où il avait distribué le butin de la bataille de Hunain
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
 ## Indonesian
 
+Telah bercerita kepada kami \[Hudbah bin Khalid\] telah bercerita kepada kami \[Hammam\] dari \[Qatadah\] bahwa \[Anas\] mengabarkan kepadanya, dia berkata; Nabi Shallallahu'alaihiwasallam melaksanakan 'umrah dari Al Ji'ranah ketika (selesai) membagikan ghanimah perang Hunain
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepada kami [Hudbah bin Khalid] telah bercerita kepada kami [Hammam] dari [Qatadah] bahwa [Anas] mengabarkan kepadanya, dia berkata; Nabi Shallallahu'alaihiwasallam melaksanakan 'umrah dari Al Ji'ranah ketika (selesai) membagikan ghanimah perang Hunain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Анас сказал: «Пророк ﷺ совершил умру, отправившись из аль-Джи‘раны, где он распределил военную добычу Хунайна»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் யிஜிஅரானா’வி லிருந்து (புறப்பட்டு) உம்ரா செய்தார்கள். அங்குதான் ஹுனைன் போரில் கிடைத்த செல்வங்களை அவர்கள் பங்கிட்டார்கள்.186 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes İbn Malik r.a. şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem Huneyn ganimetlerini paylaştırdığı yer olan Ci'rane'den umreye niyet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ہدبہ بن خالد نے بیان کیا ‘ کہا ہم سے ہمام بن یحییٰ نے بیان کیا ‘ ان سے قتادہ نے اور انہیں انس رضی اللہ عنہ نے خبر دی ‘ آپ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے مقام جعرانہ سے ‘ جہاں آپ صلی اللہ علیہ وسلم نے جنگ حنین کا مال غنیمت تقسیم کیا تھا ‘ عمرہ کا احرام باندھا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3066</td></tr><tr><td>Arabic No</td><td>3066</td></tr><tr><td>Reference</td><td>Book 56 Hadith 271</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3066 |
+| Arabic No | 3066 |
+| Reference | Book 56 Hadith 271 |

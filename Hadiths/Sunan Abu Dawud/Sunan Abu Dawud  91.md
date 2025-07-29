@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ السُّلَمِيُّ، حَدَّثَنَا أَحْمَدُ بْنُ عَلِيٍّ، حَدَّثَنَا ثَوْرٌ، عَنْ يَزِيدَ بْنِ شُرَيْحٍ الْحَضْرَمِيِّ، عَنْ أَبِي حَىٍّ الْمُؤَذِّنِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏"‏ لاَ يَحِلُّ لِرَجُلٍ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ يُصَلِّيَ وَهُوَ حَقِنٌ حَتَّى يَتَخَفَّفَ ‏"‏ ‏.‏ ثُمَّ سَاقَ نَحْوَهُ عَلَى هَذَا اللَّفْظِ قَالَ ‏"‏ وَلاَ يَحِلُّ لِرَجُلٍ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ يَؤُمَّ قَوْمًا إِلاَّ بِإِذْنِهِمْ وَلاَ يَخْتَصَّ نَفْسَهُ بِدَعْوَةٍ دُونَهُمْ فَإِنْ فَعَلَ فَقَدْ خَانَهُمْ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا مِنْ سُنَنِ أَهْلِ الشَّامِ لَمْ يَشْرَكْهُمْ فِيهَا أَحَدٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
+
 حدثنا محمود بن خالد السلمي، حدثنا احمد بن علي، حدثنا ثور، عن يزيد بن شريح الحضرمي، عن ابي حى الموذن، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " لا يحل لرجل يومن بالله واليوم الاخر ان يصلي وهو حقن حتى يتخفف " . ثم ساق نحوه على هذا اللفظ قال " ولا يحل لرجل يومن بالله واليوم الاخر ان يوم قوما الا باذنهم ولا يختص نفسه بدعوة دونهم فان فعل فقد خانهم " . قال ابو داود هذا من سنن اهل الشام لم يشركهم فيها احد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ ও পরকালে বিশ্বাসী কোন ব্যক্তির জন্য পায়খানা-পেশাবের বেগ হতে মুক্ত না হয়ে সালাত আদায় করা বৈধ নয়। অতঃপর তিনি নিম্নোক্ত শব্দযোগে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেনঃ আল্লাহ ও পরকালে বিশ্বাসী কোন ব্যক্তির জন্য কোন সম্প্রদায়ের অনুমতি ছাড়া তাদের ইমামতি করা এবং অন্যদের বাদ দিয়ে শুধুমাত্র নিজের জন্য দু‘আ করা বৈধ নয়। যদি এরূপ করে, তবে সে তো তাদের প্রতারিত করল। \[1\] সহীহ: তবে ‘দু‘আ করা’ কথাটি বাদে। ইমাম আবূ দাউদ (রহঃ) বলেন, হাদীসটি কেবল সিরিয়ার বর্ণনাকারীগণ বর্ণনা করেছেন, এতে তাদের সাথে অন্য কেউ অংশগ্রহণ করেননি।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আল্লাহ ও পরকালে বিশ্বাসী কোন ব্যক্তির জন্য পায়খানা-পেশাবের বেগ হতে মুক্ত না হয়ে সালাত আদায় করা বৈধ নয়। অতঃপর তিনি নিম্নোক্ত শব্দযোগে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেনঃ আল্লাহ ও পরকালে বিশ্বাসী কোন ব্যক্তির জন্য কোন সম্প্রদায়ের অনুমতি ছাড়া তাদের ইমামতি করা এবং অন্যদের বাদ দিয়ে শুধুমাত্র নিজের জন্য দু‘আ করা বৈধ নয়। যদি এরূপ করে, তবে সে তো তাদের প্রতারিত করল। [1] সহীহ: তবে ‘দু‘আ করা’ কথাটি বাদে। ইমাম আবূ দাউদ (রহঃ) বলেন, হাদীসটি কেবল সিরিয়ার বর্ণনাকারীগণ বর্ণনা করেছেন, এতে তাদের সাথে অন্য কেউ অংশগ্রহণ করেননি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: It is not permissible for a man who believes in Allah and in the Last Day that he should say the prayer while he is feeling the call of nature until he becomes light (by relieving himself). Then the narrator Thawr b. Yazid transmitted a similar tradition with the following wordings: "It is not permissible for a man who believes in Allah and in the Last Day that he should lead the people in prayer but with their permission; and that he should not supplicate to Allah exclusively for himself leaving all others. If he did so, he violated trust." Abu Dawud said: This is a tradition reported by the narrators of Syria; no other person has joined them in relating this tradition
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
+
+## French
+
+Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Il n’est pas permis à un homme qui croit en Allah et au Jour dernier de prier alors qu’il a envie d’aller aux toilettes, jusqu’à ce qu’il se soulage. » Ensuite, le rapporteur Thawr ibn Yazid a transmis une version similaire avec ces mots : « Il n’est pas permis à un homme qui croit en Allah et au Jour dernier de diriger la prière sans l’accord des gens ; et il ne doit pas invoquer Allah uniquement pour lui-même en laissant les autres de côté. S’il fait cela, il trahit la confiance. » Abu Dawud a dit : « Ce hadith a été rapporté par les narrateurs de Syrie ; personne d’autre ne l’a rapporté ainsi. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isa\] telah menceritakan kepada kami \[Ibnu 'Ayyasy\] dari \[Habib bin Shalih\] dari \[Yazid bin Syuraih Al Hadlrami\] dari \[Abu Hayy Al Muadzdzin\] dari \[Tsauban\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga hal yang tidak boleh seorang pun melakukannya; tidak boleh seorang laki-laki mengimami suatu kaum, kemudian mengkhususkan dirinya dalam berdoa tanpa menyertakan mereka, apabila dia melakukannya berarti dia telah mengkhianati mereka. Janganlah dia melihat ke dalam rumah seseorang sebelum dia minta izin, apabila dia melakukannya berarti dia telah memasukinya. Janganlah dia shalat dalam keadaan menahan buang air hingga dia meringankan dirinya (dengan buang air) terlebih dahulu." Telah menceritakan kepada kami \[Mahmud bin Khalid As Sulami\] telah menceritakan kepada kami \[Ahmad bin Ali\] telah menceritakan kepada kami \[Tsaur\] dari \[Yazid bin Syuraih Al Hadlrami\] dari \[Abu Hayy Al Muadzdzin\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak boleh bagi seseorang yang beriman kepada Allah dan Hari Akhir untuk shalat dalam keadaan menahan buang air hingga dia meringankan dirinya (dengan buang air) terlebih dahulu", kemudian dia menyebutkan lafazh semisalnya. Dia menyebutkan (sabda Rasulullah shallallahu 'alaihi wasallam): "Dan tidak boleh bagi seorang laki-laki yang beriman kepada Allah dan Hari Akhir untuk mengimami suatu kaum kecuali dengan izin mereka, serta tidak boleh dia mengkhususkan dirinya dalam berdoa tanpa mengikut sertakan mereka. Apabila dia melakukannya berarti dia telah mengkhianati mereka." Abu Dawud berkata; Hadits ini semuanya dari jalur ahli Syam, tidak ada seorang pun yang ikut meriwayatkannya selain mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Ibnu 'Ayyasy] dari [Habib bin Shalih] dari [Yazid bin Syuraih Al Hadlrami] dari [Abu Hayy Al Muadzdzin] dari [Tsauban] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada tiga hal yang tidak boleh seorang pun melakukannya; tidak boleh seorang laki-laki mengimami suatu kaum, kemudian mengkhususkan dirinya dalam berdoa tanpa menyertakan mereka, apabila dia melakukannya berarti dia telah mengkhianati mereka. Janganlah dia melihat ke dalam rumah seseorang sebelum dia minta izin, apabila dia melakukannya berarti dia telah memasukinya. Janganlah dia shalat dalam keadaan menahan buang air hingga dia meringankan dirinya (dengan buang air) terlebih dahulu." Telah menceritakan kepada kami [Mahmud bin Khalid As Sulami] telah menceritakan kepada kami [Ahmad bin Ali] telah menceritakan kepada kami [Tsaur] dari [Yazid bin Syuraih Al Hadlrami] dari [Abu Hayy Al Muadzdzin] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Tidak boleh bagi seseorang yang beriman kepada Allah dan Hari Akhir untuk shalat dalam keadaan menahan buang air hingga dia meringankan dirinya (dengan buang air) terlebih dahulu", kemudian dia menyebutkan lafazh semisalnya. Dia menyebutkan (sabda Rasulullah shallallahu 'alaihi wasallam): "Dan tidak boleh bagi seorang laki-laki yang beriman kepada Allah dan Hari Akhir untuk mengimami suatu kaum kecuali dengan izin mereka, serta tidak boleh dia mengkhususkan dirinya dalam berdoa tanpa mengikut sertakan mereka. Apabila dia melakukannya berarti dia telah mengkhianati mereka." Abu Dawud berkata; Hadits ini semuanya dari jalur ahli Syam, tidak ada seorang pun yang ikut meriwayatkannya selain mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «Не разрешается человеку, уверовавшему в Аллаха и Последний День, совершать молитву, когда ему требуется справление нужды, пока не освободит себя (от этого)».Затем он, добавив к этому нечто подобное, сказал: «Не разрешается человеку, который верит в Аллаха и Последний день, становиться имамом людей без их согласия, и обращаться с мольбой (к Аллаху) только за себя, оставляя их, а если он сделает это, то предал их».Абу Дауд сказал: «Это из обычаев жителей аш-Шама и никто не разделяет с ними это (мнение)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (radiyallahu anh)'den rivayet edildiğine göre: Rasulullah (sallallahu aleyhi ve sellem) şöyle buyurmuştur: "Allah'a ve ahiret gününe iman eden bir kimse'nin sıkışıklığını gidermeden sıkışmış haliyle namaz kılması helal olmaz." Sonra Sevr b. Yezid, Habib b. Salih'in rivayet ettiği (90 numaralı) hadise benzeyen şu lafızlarla sözlerine devam etti: "Allah'a ve ahiret gününe iman eden kimseye, izinleri olmaksızın bir topluluğa imam olması asla helal olmaz ve duayı sadece kendisine yapıp o toplumu duanın dışında bırakması da helal olmaz. Eğer böyle yaparsa onlara ihanet etmiş olur." Ebu Davud, "bu hadis-i şerif Şamlıların rivayetidir, ravileri arasında Şamlılardan başka kimse yoktur'" dedi. Diğer tahric: Tirmizî, salat; Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: کسی آدمی کے لیے جو اللہ اور آخرت کے دن پر ایمان رکھتا ہو جائز نہیں کہ وہ پیشاب و پاخانہ روک کر نماز پڑھے جب تک کہ ( وہ فارغ ہو کر ) ہلکا نہ ہو جائے ۔ پھر راوی نے اسی طرح ان الفاظ کے ساتھ آگے حدیث بیان کی ہے، اس میں ہے: کسی آدمی کے لیے جو اللہ اور آخرت کے دن پر ایمان رکھتا ہو جائز نہیں کہ وہ کسی قوم کی امامت ان کی اجازت کے بغیر کرے اور نہ ہی یہ جائز ہے کہ وہ انہیں چھوڑ کر صرف اپنے لیے دعا کرے، اگر اس نے ایسا کیا تو ان سے خیانت کی ۔ ابوداؤد کہتے ہیں: یہ اہل شام کی حدیثوں میں سے ہے، اس میں ان کا کوئی شریک نہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Arabic No</td><td>91</td></tr><tr><td>Reference</td><td>Book 1 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Arabic No | 91 |
+| Reference | Book 1 Hadith 91 |

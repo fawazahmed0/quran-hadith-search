@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي أَبُو غَسَّانَ الْمِسْمَعِيُّ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، قَالاَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني ابو غسان المسمعي، ومحمد بن المثنى، قالا حدثنا معاذ بن هشام، حدثني ابي، عن قتادة، عن انس، ان نبي الله صلى الله عليه وسلم قال بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ গাসসান আল মিসমাঈ ও মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন ..... উপরের হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ২২৮১, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been narrated by Anas through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## French
 
+Rapporté par Anas : Un hadith similaire a été rapporté par Anas à travers une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana Ebû Gassân El - Mismai ile Muhammedü'bnu'l- Müsennâ rivayet ettiler. (Dediler ki): Bize Muâz b. Hişâm rivayet etti. (Dediki): Bana, babam, Katâde'den, o da Enes'den naklen rivayet etti ki, Nebiyullah (Sallallahu Aleyhi ve Sellem) yukarki hadisin mislini söylemiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معاذ بن ہشام کے والد ہشام نے قتادہ سے اور انھوں نے حضرت انس رضی اللہ تعالیٰ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔ ۔ ۔ ( آگے ) اسی طرح ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2413</td></tr><tr><td>Arabic No</td><td>1047.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 150</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2413 |
+| Arabic No | 1047.02 |
+| Reference | Book 12 Hadith 150 |

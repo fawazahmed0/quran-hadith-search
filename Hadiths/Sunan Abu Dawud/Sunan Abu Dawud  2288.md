@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنَا سَلَمَةُ بْنُ كُهَيْلٍ، عَنِ الشَّعْبِيِّ، عَنْ فَاطِمَةَ بِنْتِ قَيْسٍ، أَنَّ زَوْجَهَا، طَلَّقَهَا ثَلاَثًا فَلَمْ يَجْعَلْ لَهَا النَّبِيُّ صلى الله عليه وسلم نَفَقَةً وَلاَ سُكْنَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
+
 حدثنا محمد بن كثير، اخبرنا سفيان، حدثنا سلمة بن كهيل، عن الشعبي، عن فاطمة بنت قيس، ان زوجها، طلقها ثلاثا فلم يجعل لها النبي صلى الله عليه وسلم نفقة ولا سكنى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
 
 ## Bengali
 
+। ফাতিমাহ বিনতু কায়িস (রাযি.) সূত্রে বর্ণিত। তার স্বামী তাকে তিন তালাক প্রদান করলো, কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জন্য খোরীকী ও বাসস্থান কিছুই নির্ধারিত করেননি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ফাতিমাহ বিনতু কায়িস (রাযি.) সূত্রে বর্ণিত। তার স্বামী তাকে তিন তালাক প্রদান করলো, কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জন্য খোরীকী ও বাসস্থান কিছুই নির্ধারিত করেননি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Al Sha’bi through a different chain of narrators. This version has “The husband of Fathima daughter of Qais pronounced her triple divorce. The Prophet (ﷺ) did not allow her to have maintenance and dwelling.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
+
+## French
+
+Le récit mentionné ci-dessus a aussi été transmis par Al Sha’bi par une autre chaîne de transmetteurs. Cette version précise : « Le mari de Fatimah, fille de Qais, lui a prononcé le triple divorce. Le Prophète ﷺ ne lui a pas accordé de pension ni de logement. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\], telah mengabarkan kepada kami \[Sufyan\], telah menceritakan kepada kami \[Salamah bin Kuhail\] dari \[Asy Sya'bi\] dari \[Fathimah binti Qais\] bahwa suaminya telah mencerainya sebanyak tiga kali, dan Nabi shallallahu 'alaihi wasallam tidak memberikan nafkah dan rumah kepadanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan], telah menceritakan kepada kami [Salamah bin Kuhail] dari [Asy Sya'bi] dari [Fathimah binti Qais] bahwa suaminya telah mencerainya sebanyak tiga kali, dan Nabi shallallahu 'alaihi wasallam tidak memberikan nafkah dan rumah kepadanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Фатимы бинт Кайс, да будет доволен ею Аллах, что муж дал ей три развода и Пророк ﷺ сказал, что ей не полагается ни жильё, ни содержание
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Fâtıma bint Kays'dan rivayet olunduğuna göre, Kocası onu üç talâkla boşamış da Rasûl-i Ekrem o'na iddet süresi içinde nafaka ve mesken hakkı tanımamıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فاطمہ بنت قیس رضی اللہ عنہا سے روایت ہے کہ ان کے شوہر نے انہیں تین طلاق دے دی تو رسول اللہ صلی اللہ علیہ وسلم نے نہ تو انہیں نفقہ دلایا، اور نہ ہی رہائش دلائی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1480)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2288</td></tr><tr><td>Arabic No</td><td>2288</td></tr><tr><td>Reference</td><td>Book 13 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1480) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2288 |
+| Arabic No | 2288 |
+| Reference | Book 13 Hadith 114 |

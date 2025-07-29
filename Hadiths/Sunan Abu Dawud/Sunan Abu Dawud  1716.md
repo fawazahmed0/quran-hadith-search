@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ التِّنِّيسِيُّ، حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، حَدَّثَنَا مُوسَى بْنُ يَعْقُوبَ الزَّمْعِيُّ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَخْبَرَهُ أَنَّ عَلِيَّ بْنَ أَبِي طَالِبٍ دَخَلَ عَلَى فَاطِمَةَ وَحَسَنٌ وَحُسَيْنٌ يَبْكِيَانِ فَقَالَ مَا يُبْكِيهِمَا قَالَتِ الْجُوعُ فَخَرَجَ عَلِيٌّ فَوَجَدَ دِينَارًا بِالسُّوقِ فَجَاءَ إِلَى فَاطِمَةَ فَأَخْبَرَهَا فَقَالَتِ اذْهَبْ إِلَى فُلاَنٍ الْيَهُودِيِّ فَخُذْ دَقِيقًا فَجَاءَ الْيَهُودِيَّ فَاشْتَرَى بِهِ دَقِيقًا فَقَالَ الْيَهُودِيُّ أَنْتَ خَتَنُ هَذَا الَّذِي يَزْعُمُ أَنَّهُ رَسُولُ اللَّهِ قَالَ نَعَمْ ‏.‏ قَالَ فَخُذْ دِينَارَكَ وَلَكَ الدَّقِيقُ ‏.‏ فَخَرَجَ عَلِيٌّ حَتَّى جَاءَ فَاطِمَةَ فَأَخْبَرَهَا فَقَالَتِ اذْهَبْ إِلَى فُلاَنٍ الْجَزَّارِ فَخُذْ لَنَا بِدِرْهَمٍ لَحْمًا فَذَهَبَ فَرَهَنَ الدِّينَارَ بِدِرْهَمِ لَحْمٍ فَجَاءَ بِهِ فَعَجَنَتْ وَنَصَبَتْ وَخَبَزَتْ وَأَرْسَلَتْ إِلَى أَبِيهَا فَجَاءَهُمْ فَقَالَتْ يَا رَسُولَ اللَّهِ أَذْكُرُ لَكَ فَإِنْ رَأَيْتَهُ لَنَا حَلاَلاً أَكَلْنَاهُ وَأَكَلْتَ مَعَنَا مِنْ شَأْنِهِ كَذَا وَكَذَا ‏.‏ فَقَالَ ‏"‏ كُلُوا بِاسْمِ اللَّهِ ‏"‏ ‏.‏ فَأَكَلُوا فَبَيْنَمَا هُمْ مَكَانَهُمْ إِذَا غُلاَمٌ يَنْشُدُ اللَّهَ وَالإِسْلاَمَ الدِّينَارَ فَأَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَدُعِيَ لَهُ فَسَأَلَهُ ‏.‏ فَقَالَ سَقَطَ مِنِّي فِي السُّوقِ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ يَا عَلِيُّ اذْهَبْ إِلَى الْجَزَّارِ فَقُلْ لَهُ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ لَكَ أَرْسِلْ إِلَىَّ بِالدِّينَارِ وَدِرْهَمُكَ عَلَىَّ ‏"‏ ‏.‏ فَأَرْسَلَ بِهِ فَدَفَعَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
+
 حدثنا جعفر بن مسافر التنيسي، حدثنا ابن ابي فديك، حدثنا موسى بن يعقوب الزمعي، عن ابي حازم، عن سهل بن سعد، اخبره ان علي بن ابي طالب دخل على فاطمة وحسن وحسين يبكيان فقال ما يبكيهما قالت الجوع فخرج علي فوجد دينارا بالسوق فجاء الى فاطمة فاخبرها فقالت اذهب الى فلان اليهودي فخذ دقيقا فجاء اليهودي فاشترى به دقيقا فقال اليهودي انت ختن هذا الذي يزعم انه رسول الله قال نعم . قال فخذ دينارك ولك الدقيق . فخرج علي حتى جاء فاطمة فاخبرها فقالت اذهب الى فلان الجزار فخذ لنا بدرهم لحما فذهب فرهن الدينار بدرهم لحم فجاء به فعجنت ونصبت وخبزت وارسلت الى ابيها فجاءهم فقالت يا رسول الله اذكر لك فان رايته لنا حلالا اكلناه واكلت معنا من شانه كذا وكذا . فقال " كلوا باسم الله " . فاكلوا فبينما هم مكانهم اذا غلام ينشد الله والاسلام الدينار فامر رسول الله صلى الله عليه وسلم فدعي له فساله . فقال سقط مني في السوق . فقال النبي صلى الله عليه وسلم " يا علي اذهب الى الجزار فقل له ان رسول الله صلى الله عليه وسلم يقول لك ارسل الى بالدينار ودرهمك على " . فارسل به فدفعه رسول الله صلى الله عليه وسلم اليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
 
 ## Bengali
 
+। সাহল ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। একদা ‘আলী ইবনু আবূ তালিব (রাঃ) ফাত্বিমাহ (রাঃ) এর কাছে গিয়ে হাসান ও হুসাইন (রাঃ)-কে কাঁন্নারত পেয়ে তাকে কান্নার কারণ জিজ্ঞেস করেন। তখন ফাত্বিমাহ (রাঃ) বলেন, তাঁরা ক্ষুদার জ্বালায় কান্না করছে। ‘আলী (রাঃ) ঘর থেকে বের হলেন এবং বাজারে গিয়ে একটি দীনার পতিত অবস্থায় পেলেন। তিনি দীনারটি ফাত্বিমাহর কাছে নিয়ে এসে বিষয়টি তাকে জানালেন। ফাত্বিমাহ বলেন, আপনি দীনারটি নিয়ে উমুক ইয়াহূদীর কাছে গিয়ে আমাদের জন্য আটা ক্রয় করুন। অতঃপর ‘আলী (রাঃ) ইয়াহূদীর কাছে গিয়ে আটা কিনলেন। ইয়াহূদী বললো, আপনি তো ঐ লোকের জামাতা, যিনি নিজেকে ‘আল্লাহর রসূল’ দাবী করেন। তখন ‘আলী (রাঃ) বলেন, হ্যাঁ। তখন ইয়াহূদী বললো, আপনি দীনারটি ফেরত নিন এবং এই আটাও নিয়ে যান (মূল্য দিতে হবে না)। ‘আলী (রাঃ) আটা নিয়ে ফাত্বিমাহ (রাঃ) এর কাছে এসে বিষয়টি জানালেন। ফাত্বিমাহ (রাঃ) বললেন, আপনি উমুক কসাইয়ের কাছে গিয়ে আমাদের জন্য এক দিরহামের গোশত ক্রয় করুন। তিনি সেখানে গিয়ে দীনারটি বন্ধক রেখে এক দিরহাম মূল্যের গোশত কিনে ঘরে ফিরলেন। ফাত্বিমাহ (রাঃ) আটা দিয়ে রুটি বানালেন এবং গোশত রান্না করলেন এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে খবর দিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁদের কাছে আসলে ফাত্বিমাহ (রাঃ) বলেন, হে আল্লাহর রসূল! আমি আপনাকে ঘটনাটি খুলে বলছি। আপনি যদি এটা আমাদের জন্য হালাল মনে করেন তাহলে আমরা তা খাবো এবং আমাদের সাথে আপনিও খাবেন। ঘটনা এরূপ। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেনঃ তোমরা বিসমিল্লাহ বলে খাও। তাঁরা যখন খাচ্ছিলেন তখন এক যুবক আল্লাহ ও ইসলামের নামে শপথ উচ্চারণ করে দীনারটি খুঁজছিলো। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশ মোতাবেক তাকে ডেকে দীনার সম্পর্কে জিজ্ঞেস করা হলো। সে বললো, দীনারটি আমার নিকট থেকে বাজারে পড়ে গেছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে ‘আলী! তুমি কসাইয়ের নিকট গিয়ে বলো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপনাকে দীনারটি আমার কাছে ফেরত দিতে বলেছেন। আর তিনি আপনার দিরহাম দিয়ে দিবেন। অতঃপর কসাই তা ফেরত দিলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেটি ঐ যুবককে ফিরিয়ে দিলেন।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাহল ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। একদা ‘আলী ইবনু আবূ তালিব (রাঃ) ফাত্বিমাহ (রাঃ) এর কাছে গিয়ে হাসান ও হুসাইন (রাঃ)-কে কাঁন্নারত পেয়ে তাকে কান্নার কারণ জিজ্ঞেস করেন। তখন ফাত্বিমাহ (রাঃ) বলেন, তাঁরা ক্ষুদার জ্বালায় কান্না করছে। ‘আলী (রাঃ) ঘর থেকে বের হলেন এবং বাজারে গিয়ে একটি দীনার পতিত অবস্থায় পেলেন। তিনি দীনারটি ফাত্বিমাহর কাছে নিয়ে এসে বিষয়টি তাকে জানালেন। ফাত্বিমাহ বলেন, আপনি দীনারটি নিয়ে উমুক ইয়াহূদীর কাছে গিয়ে আমাদের জন্য আটা ক্রয় করুন। অতঃপর ‘আলী (রাঃ) ইয়াহূদীর কাছে গিয়ে আটা কিনলেন। ইয়াহূদী বললো, আপনি তো ঐ লোকের জামাতা, যিনি নিজেকে ‘আল্লাহর রসূল’ দাবী করেন। তখন ‘আলী (রাঃ) বলেন, হ্যাঁ। তখন ইয়াহূদী বললো, আপনি দীনারটি ফেরত নিন এবং এই আটাও নিয়ে যান (মূল্য দিতে হবে না)। ‘আলী (রাঃ) আটা নিয়ে ফাত্বিমাহ (রাঃ) এর কাছে এসে বিষয়টি জানালেন। ফাত্বিমাহ (রাঃ) বললেন, আপনি উমুক কসাইয়ের কাছে গিয়ে আমাদের জন্য এক দিরহামের গোশত ক্রয় করুন। তিনি সেখানে গিয়ে দীনারটি বন্ধক রেখে এক দিরহাম মূল্যের গোশত কিনে ঘরে ফিরলেন। ফাত্বিমাহ (রাঃ) আটা দিয়ে রুটি বানালেন এবং গোশত রান্না করলেন এবং নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে খবর দিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁদের কাছে আসলে ফাত্বিমাহ (রাঃ) বলেন, হে আল্লাহর রসূল! আমি আপনাকে ঘটনাটি খুলে বলছি। আপনি যদি এটা আমাদের জন্য হালাল মনে করেন তাহলে আমরা তা খাবো এবং আমাদের সাথে আপনিও খাবেন। ঘটনা এরূপ। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেনঃ তোমরা বিসমিল্লাহ বলে খাও। তাঁরা যখন খাচ্ছিলেন তখন এক যুবক আল্লাহ ও ইসলামের নামে শপথ উচ্চারণ করে দীনারটি খুঁজছিলো। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশ মোতাবেক তাকে ডেকে দীনার সম্পর্কে জিজ্ঞেস করা হলো। সে বললো, দীনারটি আমার নিকট থেকে বাজারে পড়ে গেছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে ‘আলী! তুমি কসাইয়ের নিকট গিয়ে বলো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আপনাকে দীনারটি আমার কাছে ফেরত দিতে বলেছেন। আর তিনি আপনার দিরহাম দিয়ে দিবেন। অতঃপর কসাই তা ফেরত দিলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেটি ঐ যুবককে ফিরিয়ে দিলেন।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sahl bin Sa’d said :'Ali bin Abi Talib entered upon Fatimah while Hasan and Husain were crying. He asked: Why are they crying? She replied: Due to hunger. ‘Ali went out and found a dinar in the market. He then came to Fatima and told her about it. She said: Go to such and such a Jew and get some flour for us. He came to the Jew and purchased flour with it. He said : Are you the son-in-law of him who believes that he is the Messenger of Allah. He said : Yes. The Jew said : Have your dinar with you and you will get the flour. Ali then went out and came to Fatima. He told her about the matter. She then said: Go to such and such a butcher and get some meat for us for a dirham. Ali went out and pawned the dinar for a dirham with him and got the meat, and brought it (to her). She then kneaded the flour, put the utensil on fire and baked the bread. She sent for her father : (i.e. the Prophet (SWAS). He came to them. She said to him : Messenger of Allah, I tell you all the matter. If you think it is lawful for us, we shall eat it and you will eat with us. She said: The matter is such and such. He said: eat in the name of Allah. So they ate it. While they were (eating) at their place, a boy cried adguring in the name of Allah and Islam: He was searching the dinar. The Messenger of Allah (SWAS) commanded and he was called in. He asked him. The boy replied, I lost it somewhere in the market. The Prophet (SWAS) said : 'Ali, go to the butcher and tell him that the Messenger of Allah (SWAS) has asked you : send the dinar to me and one dirham of yours will be due on me. The butcher returned it and the Messenger of Allah (SWAS) handed it to him (the boy)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
+
+## French
+
+Rapporté par Sahl bin Sa’d : Ali bin Abi Talib entra auprès de Fatimah alors que Hasan et Husain pleuraient. Il demanda : « Pourquoi pleurent-ils ? » Elle répondit : « À cause de la faim. » Ali sortit et trouva un dinar au marché. Il revint voir Fatimah et lui en parla. Elle lui dit : « Va chez tel Juif et achète-nous de la farine. » Il alla chez le Juif et acheta de la farine avec le dinar. Le Juif lui demanda : « Es-tu le gendre de celui qui se dit Messager d’Allah ? » Il répondit : « Oui. » Le Juif dit : « Garde ton dinar et tu auras la farine. » Ali sortit et retourna voir Fatimah pour lui raconter. Elle lui dit alors : « Va chez tel boucher et achète-nous de la viande pour un dirham. » Ali alla voir le boucher, mit le dinar en gage contre un dirham et acheta la viande, puis la rapporta. Fatimah pétrit la farine, alluma le feu et fit cuire le pain. Elle fit venir son père, le Prophète ﷺ. Il vint chez eux. Elle lui dit : « Messager d’Allah, je te raconte tout. Si tu penses que c’est permis pour nous, nous mangerons et tu mangeras avec nous. » Elle lui expliqua la situation. Il dit : « Mangez au nom d’Allah. » Ils mangèrent donc. Pendant qu’ils étaient là, un garçon vint en criant au nom d’Allah et de l’islam : il cherchait le dinar. Le Messager d’Allah ﷺ ordonna qu’on le fasse entrer. Il l’interrogea. Le garçon répondit : « Je l’ai perdu quelque part au marché. » Le Prophète ﷺ dit : « Ali, va chez le boucher et dis-lui que le Messager d’Allah ﷺ te demande de lui rendre le dinar, et qu’un dirham de ta part me sera dû. » Le boucher le rendit, et le Messager d’Allah ﷺ le remit au garçon
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Сахля ибн Са‘да, да будет доволен им Аллах, что однажды ‘Али ибн Абу Талиб пришёл к Фатиме и увидел, что Хасан и Хусейн плачут. Он спросил: «Почему они плачут?» Фатима ответила: «От голода». Тогда ‘Али вышел и вскоре нашёл на рынке динар, принёс его Фатиме и рассказал обо всём. Фатима сказала ему: «Пойди к такому-то иудею и купи для нас муки». ‘Али пошёл к иудею и купил муки. Иудей спросил его: «Ты зять того, кто утверждает, что он Посланник Аллаха?» ‘Али ответил: «Да». Иудей сказал: «Тогда возьми муку и забери свой динар». ‘Али вернулся к Фатиме и рассказал ей обо всём. Она сказала: «Пойди к такому-то мяснику и купи у него мяса на дирхем». Он пошёл и оставил мяснику динар в качестве залога и взял мяса на дирхем. Он принёс мясо Фатиме, и она замесила тесто, поставила варить мясо и испекла хлеб, после чего послала за своим отцом. Посланник Аллаха ﷺ пришёл к ним, и она сказала: «О Посланник Аллаха! Мы расскажем тебе всё как есть, и если ты сочтёшь это дозволенным для нас, то мы поедим вместе с тобой. Дело было так-то и так-то». Посланник Аллаха ﷺ сказал: «Ешьте с именем Аллаха». И они начали есть. Когда они сидели на своих местах, они услышали, как мальчик просит ради Аллаха и ислама отдать ему его потерянный динар. Тогда Посланник Аллаха ﷺ велел позвать его и спросил о динаре. Мальчик сказал: «Я выронил его на рынке». Тогда Посланник Аллаха ﷺ сказал: «О ‘Али, пойди к мяснику и передай, что Посланник Аллаха ﷺ говорит ему: “Пошли мне динар, а твой дирхем я верну тебе позже”». И он послал ему динар, и Посланник Аллаха ﷺ отдал этот динар его настоящему владельцу
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl b. Sa'd'dan rivayet edildiğine göre, Ali b. Ebî Tâlib (bir gün) Fâtıma' (r.anha)'nın yanına girmiş. Hz. Hasan ile Hüseyin ağlıyorlarmış. "Bunları ağlatan nedir?" diye sormuş. O da: Açlıktır, demiş. Bunun üzerine Ali (r.a.) (dışarı) çıkmış çarşıda bir dinar bulmuş. Hemen gidip onu Fâtıma'ya haber vermiş. Fâtıma da: Falanca yahudiye git (ondan) bize bir miktar un al, demiş. Bunun üzerine Hz. Ali gidip o dinarla bir miktar un satın almış. O anda Yahudi (onu tanıyarak): Sen kendisinin Allah'ın elçisi olduğunu iddia eden kimsenin damadı değil misin demiş (Ali); "Evet" cevabım vermiş. (Bunun üzerine Yahudi); Sen dinarını al, un da senin olsun, demiş. Ali hemen (unu alıp dükkandan dışarı) çıkmış ve unu Fâtıma'ya getirmiş olayı da kendisine haber vermiş. Hz. Fâtıma da (O'na); Falan kasaba git (bu paradan ayıracağın) bir dirhemle bize et satın al, gel demiş. Ali et için harcayacağı dirhem karşılığında (elindeki) dinarı rehin vermiş ve (bu dirhemle satın aldığı) eti Fâtıma'ya getirmiş, (Fâtıma da unu) yoğurmuş ve (içinde eti pişirmek üzere ateş üzerine bir tencere) koymuş. (Hamuru da) ekmek yapmış ve (yanlarına gelmesi için) babasına (haber) göndermiştir. Biraz sonra da (babası) yanlarına gelmiş. Bunun üzerine (babasına hitaben): Ey Allah'ın Resulü, (durumu) sana anlatacağım. Eğer onu (bizim için) helâl görürsen onu yiyeceğiz ve bizimle beraber sen de yiyeceksin. Onun durumu şöyle şöyledir, demiş. (Bunları dinleyen) Nebi (S.A.V.): "Allah'ın adıyla (onu) yeyiniz." buyurmuş ve (ve Nebi ile birlikte orada bulunan Hz. Ali Fâtıma ve çocukları o ekmeği) yemişler. Onlar yerlerinde (oturup dururlar) iken bir de ne görsünler, biri "Allah aşkına ve İslâm aşkına" diyerek dinarı arıyormuş. Resûlullah (S.A.V.) derhal (orada bulunan birisine) o gencin çağırılıp getirilmesini emretmiş. Bunun üzerine genç, Nebi (S.A.V.)'in huzuruna çağırılmış. (Nebi huzuruna gelen)bu genc'e (aradığı dinarın vasıflarını ve miktarını) sormuş. (Genç de dinar'ın vasıflarını ve miktarını söyledikten sonra): "Çarşıda benden düştü," demiş. Nebi (S.A.V.) de: "Ey Ali, kasaba git, ona, Resûlullah sana "dinarı bana gönder, dirhemin de bendedir” diyor de." buyurmuş. Bunun üzerine (kasab) dinarı göndermiş Resûlullah (S.A.V.)'de dinarı o genc'e (geri) vermiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوحازم کہتے ہیں کہ سہل بن سعد رضی اللہ عنہ نے ان سے بتایا کہ علی بن ابی طالب رضی اللہ عنہ فاطمہ رضی اللہ عنہا کے پاس آئے اور حسن اور حسین رضی اللہ عنہما رو رہے تھے، تو انہوں نے پوچھا: یہ دونوں کیوں رو رہے ہیں؟ فاطمہ نے کہا: بھوک ( سے رو رہے ہیں ) ، علی رضی اللہ عنہ باہر نکلے تو بازار میں ایک دینار پڑا پایا، وہ فاطمہ رضی اللہ عنہا کے پاس آئے اور انہیں بتایا تو انہوں نے کہا: فلاں یہودی کے پاس جائیے اور ہمارے لیے آٹا لے لیجئے، چنانچہ وہ یہودی کے پاس گئے اور اس سے آٹا خریدا، تو یہودی نے پوچھا: تم اس کے داماد ہو جو کہتا ہے کہ وہ اللہ کا رسول ہے؟ وہ بولے: ہاں، اس نے کہا: اپنا دینار رکھ لو اور آٹا لے جاؤ، چنانچہ علی رضی اللہ عنہ آٹا لے کر فاطمہ رضی اللہ عنہا کے پاس آئے اور انہیں بتایا تو وہ بولیں: فلاں قصاب کے پاس جائیے اور ایک درہم کا گوشت لے آئیے، چنانچہ علی رضی اللہ عنہ گئے اور اس دینار کو ایک درہم کے بدلے گروی رکھ دیا اور ایک درہم کا گوشت لے آئے، فاطمہ رضی اللہ عنہا نے آٹا گوندھا، ہانڈی چڑھائی اور روٹی پکائی، اور اپنے والد ( رسول اللہ صلی اللہ علیہ وسلم ) کو بلا بھیجا، آپ تشریف لائے تو وہ بولیں: اللہ کے رسول! میں آپ سے واقعہ بیان کرتی ہوں اگر آپ اسے ہمارے لیے حلال سمجھیں تو ہم بھی کھائیں اور ہمارے ساتھ آپ بھی کھائیں، اس کا واقعہ ایسا اور ایسا ہے، آپ صلی اللہ علیہ وسلم نے فرمایا: اللہ کا نام لے کر کھاؤ ، ابھی وہ لوگ اپنی جگہ ہی پر تھے کہ اسی دوران ایک لڑکا اللہ اور اسلام کی قسم دے کر اپنے کھوئے ہوئے دینار کے متعلق پوچھ رہا تھا، رسول اللہ صلی اللہ علیہ وسلم نے حکم دیا تو اسے بلایا گیا تو آپ صلی اللہ علیہ وسلم نے اس سے پوچھا تو اس نے کہا: بازار میں مجھ سے ( میرا دینار ) گر گیا تھا، تو نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: علی! قصاب کے پاس جاؤ اور اس سے کہو: اللہ کے رسول صلی اللہ علیہ وسلم تم سے کہہ رہے ہیں: دینار مجھے بھیج دو، تمہارا درہم میرے ذمے ہے ، چنانچہ اس نے وہ دینار بھیج دیا تو رسول اللہ صلی اللہ علیہ وسلم نے اسے اس ( لڑکے ) کو دے دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1716</td></tr><tr><td>Arabic No</td><td>1716</td></tr><tr><td>Reference</td><td>Book 10 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1716 |
+| Arabic No | 1716 |
+| Reference | Book 10 Hadith 16 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسِ بْنِ مَالِكٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ الْبَرَكَةُ فِي نَوَاصِي الْخَيْلِ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسدد، حدثنا يحيى، عن شعبة، عن ابي التياح، عن انس بن مالك رضى الله عنه قال قال رسول الله صلى الله عليه وسلم " البركة في نواصي الخيل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। আল্লাহর রাসূল (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, ঘোড়ার কপালের কেশ দামে বরকত আছে। (৩৬৪৫) (মুসলিম ৩৩/২৬ হাঃ ১৮৭৩, আহমাদ ১২৭৫১) (আধুনিক প্রকাশনীঃ ২৬৪১, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
 ## English
 
+Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, "There is a blessing in the fore-heads of horses
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas bin Malik:Allah's Messenger (ﷺ) (ﷺ) said, "There is a blessing in the fore-heads of horses
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
+
+## French
+
+Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) a dit : « Il y a une bénédiction dans le front des chevaux. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
 ## Indonesian
 
+Telah bercerita kepada kami \[Musaddad\] telah bercerita kepada kami \[Yahya\] dari \[Syu'bah\] dari \[Abu At-Tayah\] dari \[Anas bin Malik radliallahu 'anhu\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Keberkahan selalu ada pada ubun-ubun kuda (yang digunakan untuk fii sabilillah)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Syu'bah] dari [Abu At-Tayah] dari [Anas bin Malik radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Keberkahan selalu ada pada ubun-ubun kuda (yang digunakan untuk fii sabilillah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса ибн Малика, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «В чёлках лошадей (заключена) благодать /барака/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: (இறைவழியில் செலுத்தப்படும்) குதிரை களின் நெற்றிகளில் வளம் (பரக்கத்) உள்ளது. இதை அனஸ் பின் மாலிக் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes İbn Malik Resul-i Ekrem Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu nakletmiştir: "Bereket atların alınlarındadır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسدد نے بیان کیا، کہا ہم سے یحییٰ نے بیان کیا، ان سے شعبہ نے، ان سے ابوالتیاح نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”گھوڑے کی پیشانی میں برکت بندھی ہوئی ہے۔“
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2851</td></tr><tr><td>Arabic No</td><td>2851</td></tr><tr><td>Reference</td><td>Book 56 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2851 |
+| Arabic No | 2851 |
+| Reference | Book 56 Hadith 67 |

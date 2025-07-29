@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ دَاوُدَ بْنِ قَيْسٍ، قَالَ حَدَّثَنِي عَلِيُّ بْنُ يَحْيَى بْنِ خَلاَّدِ بْنِ رَافِعِ بْنِ مَالِكٍ الأَنْصَارِيُّ، قَالَ حَدَّثَنِي أَبِي، عَنْ عَمٍّ، لَهُ بَدْرِيٍّ قَالَ كُنْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم جَالِسًا فِي الْمَسْجِدِ فَدَخَلَ رَجُلٌ فَصَلَّى رَكْعَتَيْنِ ثُمَّ جَاءَ فَسَلَّمَ عَلَى النَّبِيِّ صلى الله عليه وسلم وَقَدْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَرْمُقُهُ فِي صَلاَتِهِ فَرَدَّ عَلَيْهِ السَّلاَمَ ثُمَّ قَالَ لَهُ ‏"‏ ارْجِعْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ ‏"‏ ‏.‏ فَرَجَعَ فَصَلَّى ثُمَّ جَاءَ فَسَلَّمَ عَلَى النَّبِيِّ صلى الله عليه وسلم فَرَدَّ عَلَيْهِ السَّلاَمَ ثُمَّ قَالَ ‏"‏ ارْجِعْ فَصَلِّ فَإِنَّكَ لَمْ تُصَلِّ ‏"‏ ‏.‏ حَتَّى كَانَ عِنْدَ الثَّالِثَةِ أَوِ الرَّابِعَةِ فَقَالَ وَالَّذِي أَنْزَلَ عَلَيْكَ الْكِتَابَ لَقَدْ جَهِدْتُ وَحَرَصْتُ فَأَرِنِي وَعَلِّمْنِي ‏.‏ قَالَ ‏"‏ إِذَا أَرَدْتَ أَنْ تُصَلِّيَ فَتَوَضَّأْ فَأَحْسِنْ وُضُوءَكَ ثُمَّ اسْتَقْبِلِ الْقِبْلَةَ فَكَبِّرْ ثُمَّ اقْرَأْ ثُمَّ ارْكَعْ حَتَّى تَطْمَئِنَّ رَاكِعًا ثُمَّ ارْفَعْ حَتَّى تَعْتَدِلَ قَائِمًا ثُمَّ اسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا ثُمَّ ارْفَعْ حَتَّى تَطْمَئِنَّ قَاعِدًا ثُمَّ اسْجُدْ حَتَّى تَطْمَئِنَّ سَاجِدًا ثُمَّ ارْفَعْ فَإِذَا أَتْمَمْتَ صَلاَتَكَ عَلَى هَذَا فَقَدْ تَمَّتْ وَمَا انْتَقَصْتَ مِنْ هَذَا فَإِنَّمَا تَنْتَقِصُهُ مِنْ صَلاَتِكَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |
+
 اخبرنا سويد بن نصر، قال انبانا عبد الله بن المبارك، عن داود بن قيس، قال حدثني علي بن يحيى بن خلاد بن رافع بن مالك الانصاري، قال حدثني ابي، عن عم، له بدري قال كنت مع رسول الله صلى الله عليه وسلم جالسا في المسجد فدخل رجل فصلى ركعتين ثم جاء فسلم على النبي صلى الله عليه وسلم وقد كان النبي صلى الله عليه وسلم يرمقه في صلاته فرد عليه السلام ثم قال له " ارجع فصل فانك لم تصل " . فرجع فصلى ثم جاء فسلم على النبي صلى الله عليه وسلم فرد عليه السلام ثم قال " ارجع فصل فانك لم تصل " . حتى كان عند الثالثة او الرابعة فقال والذي انزل عليك الكتاب لقد جهدت وحرصت فارني وعلمني . قال " اذا اردت ان تصلي فتوضا فاحسن وضوءك ثم استقبل القبلة فكبر ثم اقرا ثم اركع حتى تطمين راكعا ثم ارفع حتى تعتدل قايما ثم اسجد حتى تطمين ساجدا ثم ارفع حتى تطمين قاعدا ثم اسجد حتى تطمين ساجدا ثم ارفع فاذا اتممت صلاتك على هذا فقد تمت وما انتقصت من هذا فانما تنتقصه من صلاتك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুওয়ায়দ ইবনু নাসর (রহঃ) ... ইয়াহয়া ইবনু খাল্লাদ এর চাচা (রিফাআ ইবনু রাফি) (যিনি বদরী সাহাবী ছিলেন) (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি একদা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে মসজিদে বসা ছিলাম। তখন এক ব্যক্তি এসে দু'রাকআত সালাত আদায় করল। তারপর এসে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে সালাম করল। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সালাতের প্রতি লক্ষ্য রাখছিলেন। তিনি তাঁর সালামের উত্তর দিয়ে তাকে বললেন, তুমি ফিরে গিয়ে পুনরায় সালাত আদায় কর, যেহেতু তুমি সালাত আদায় করনি। তারপর সে ফিরে গিয়ে সালাত আদায় করলো। পরে এসে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাম করলো। তিনি সালামের জবাব দিয়ে বললেন, তুমি ফিরে গিয়ে সালাত আদায় কর। কারণ তুমি সালাত আদায় করনি। এমনিভাবে তৃতীয় অথবা চতুর্থ বারে সে বলল, সেই আল্লাহর শপথ, যিনি আপনার উপর কিতাব (কুরআন) অবর্তীর্ণ করেছেন, আমি তো খুব চেষ্টা করে দেখলাম এবং আমি সালাত আদায় করতে চাইও, আপনি আমাকে শিখিয়ে দিন। তখন তিনি বললেন, তুমি যখন সালাত আদায় করতে ইচ্ছা কর তখন উত্তম রূপে উযূ (ওজু/অজু/অযু) করবে, তারপর কিবলার দিকে মুখ করে তাকবীর বলবে, তারপর কুরআন পড়ে (তাকবীর বলে) রুকুতে যাবে। রুকুতে স্থির হবে। তারপর মাথা উঠিয়ে সোজা হয়ে দাঁড়িয়ে যাবে। তারপর সিজদায় গিয়ে স্থিরভাবে সিজদা করবে তারপর সিজদা থেকে মাথা উঠিয়ে স্থিরভাবে বসবে। আবার সিজদায় গিয়ে স্থিরভাবে সিজদা করবে। তারপর মাথা উঠাবে। যদি তুমি এই নিয়মে তোমার সালাত শেষ কর, তবে তোমার সালাতপূর্ণ হবে। আর যদি এই নিয়মে কোন ক্রটি হয় তবে তোমার সালাতও ততটূকু ক্রটি যুক্ত হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ali bin Yahya bin Khallad bin Raf' bin Malik Al-Ansari said:"My father narrated to me that a paternal uncle of his, who had been at Badr, said: 'I was sitting with the Messenger of Allah (ﷺ) in the masjid when a man came in and prayed two rak'ahs, then he came and greeted the Prophet (ﷺ) with salam. The Prophet (ﷺ) had been watching him as he prayed, so he returned his salam, then he said: "Go back and pray, for you have not prayed." So he went back and prayed, then he came back and greeted the Prophet (ﷺ) with salam. He returned the salam, then he said: "Go back and pray, for you have not prayed." The third or fourth time this happened, then the man said: "By the One Who revealed the Book to you, I have done my best and have tried hard; show me and teach me." He said: 'When you want to pray, perform wudu and do it well, then turn to face the Qiblah and say the takbir. Then recite the Quran, then bow until you are at ease in bowing. Then stand up until you are standing straight, then prostrate until you are at ease prostrating, then sit up until you are at ease sitting, then prostrate until you are at ease prostrating, then get up. If you complete the prayer in this manner you wil hve done it properly, and whatever you do less than this is lacking from you prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |
+
+## French
+
+Rapporté par Ali bin Yahya bin Khallad bin Raf’ bin Malik Al-Ansari : Mon père m’a raconté qu’un de ses oncles, qui avait été à Badr, a dit : “J’étais assis avec le Messager d’Allah (ﷺ) dans la mosquée quand un homme entra et pria deux rak‘as, puis il vint saluer le Prophète (ﷺ). Le Prophète (ﷺ) l’avait observé pendant sa prière, il lui rendit le salam puis dit : “Retourne prier, car tu n’as pas prié.” L’homme retourna prier, puis revint saluer le Prophète (ﷺ). Il lui rendit le salam puis dit : “Retourne prier, car tu n’as pas prié.” Cela se produisit une troisième ou quatrième fois, puis l’homme dit : “Par Celui qui t’a révélé le Livre, j’ai fait de mon mieux ; montre-moi et enseigne-moi.” Il répondit : “Lorsque tu veux prier, fais d’abord les ablutions correctement, puis tourne-toi vers la Qibla et prononce le takbir. Ensuite, récite le Coran, puis incline-toi jusqu’à être à l’aise dans l’inclinaison. Relève-toi jusqu’à être bien droit, puis prosterne-toi jusqu’à être à l’aise dans la prosternation. Assieds-toi jusqu’à être à l’aise assis, puis prosterne-toi à nouveau jusqu’à être à l’aise, puis relève-toi. Si tu accomplis la prière de cette manière, tu l’auras bien faite, et tout ce que tu fais en moins sera incomplet dans ta prière.”
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid bin Nashr\] dia berkata; telah memberitakan kepada kami \['Abdullah bin Al Mubarak\] dari \[Dawud bin Qais\] dia berkata; telah menceritakan kepada kami \['Ali bin Yahya bin Khallad bin Rafi' bin Malik Al Anshari\] dia berkata; \[bapakku\] telah menceritakan kepadaku dari pamannya - \[Badri\] -, dia berkata; "Kami pernah duduk-duduk bersama Rasulullah Shalallah 'Alaihi Wa Sallam, dan tiba-tiba ada seorang laki-laki masuk ke dalam masjid, lalu shalat dua rakaat. Setelah itu dia datang kepada Rasulullah Shalallah 'Alaihi Wa Sallam sambil mengucapkan salam kepada beliau, padahal Rasulullah shallallahu 'alaihi wasallam telah memperhatikan shalatnya, setelah beliau menjawab salamnya beliau berkata: 'Kembalilah dan shalatlah lagi karena engkau belum shalat'. Iapun kembali shalat lagi, kemudian menghadap Rasulullah Shalallah 'Alaihi Wa Sallam lagi dengan mengucapkan salam kepada beliau Shallallahu'alaihi wasallam. Beliau membalas salamnya sambil berkata, 'Kembalilah dan shalatlah lagi karena engkau belum shalat'. Hingga pada jawaban yang ketiga atau keempat ia lalu berkata, 'Demi Dzat yang mengutus engkau dengan membawa Al Qur'an, aku telah bersungguh-sungguh dan bersemangat. Jadi perlihatkanlah kepadaku dan ajarilah aku." Rasulullah Shalallah 'Alaihi Wa Sallam bersabda: "Jika kamu hendak shalat, maka berwudhulah dan perbaikilah wudhumu. Kemudian berdiri dan menghadaplah kiblat. Lalu takbir dan bacalah (Al Qur'an). Kemudian ruku'lah hingga kamu tenang (thuma'ninah) dalam ruku'mu. Lalu bangkitlah dari ruku' hingga kamu berdiri tegak, kemudian sujudlah hingga kamu tenang (thuma'ninah) dalam sujudmu. Setelah itu bangkitlah dari sujud hingga kamu tenang (thuma'ninah) dalam keadaan duduk. Jika kamu telah menyempurnakan shalatmu dengan cara seperti ini, maka telah sempurna shalatmu. Apa yang kamu kurangi dari itu maka akan mengurangi kesempurnaan shalatmu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid bin Nashr] dia berkata; telah memberitakan kepada kami ['Abdullah bin Al Mubarak] dari [Dawud bin Qais] dia berkata; telah menceritakan kepada kami ['Ali bin Yahya bin Khallad bin Rafi' bin Malik Al Anshari] dia berkata; [bapakku] telah menceritakan kepadaku dari pamannya - [Badri] -, dia berkata; "Kami pernah duduk-duduk bersama Rasulullah Shalallah 'Alaihi Wa Sallam, dan tiba-tiba ada seorang laki-laki masuk ke dalam masjid, lalu shalat dua rakaat. Setelah itu dia datang kepada Rasulullah Shalallah 'Alaihi Wa Sallam sambil mengucapkan salam kepada beliau, padahal Rasulullah shallallahu 'alaihi wasallam telah memperhatikan shalatnya, setelah beliau menjawab salamnya beliau berkata: 'Kembalilah dan shalatlah lagi karena engkau belum shalat'. Iapun kembali shalat lagi, kemudian menghadap Rasulullah Shalallah 'Alaihi Wa Sallam lagi dengan mengucapkan salam kepada beliau Shallallahu'alaihi wasallam. Beliau membalas salamnya sambil berkata, 'Kembalilah dan shalatlah lagi karena engkau belum shalat'. Hingga pada jawaban yang ketiga atau keempat ia lalu berkata, 'Demi Dzat yang mengutus engkau dengan membawa Al Qur'an, aku telah bersungguh-sungguh dan bersemangat. Jadi perlihatkanlah kepadaku dan ajarilah aku." Rasulullah Shalallah 'Alaihi Wa Sallam bersabda: "Jika kamu hendak shalat, maka berwudhulah dan perbaikilah wudhumu. Kemudian berdiri dan menghadaplah kiblat. Lalu takbir dan bacalah (Al Qur'an). Kemudian ruku'lah hingga kamu tenang (thuma'ninah) dalam ruku'mu. Lalu bangkitlah dari ruku' hingga kamu berdiri tegak, kemudian sujudlah hingga kamu tenang (thuma'ninah) dalam sujudmu. Setelah itu bangkitlah dari sujud hingga kamu tenang (thuma'ninah) dalam keadaan duduk. Jika kamu telah menyempurnakan shalatmu dengan cara seperti ini, maka telah sempurna shalatmu. Apa yang kamu kurangi dari itu maka akan mengurangi kesempurnaan shalatmu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یحییٰ بن خلاد بن رافع بن مالک انصاری کہتے ہیں کہ مجھ سے میرے چچا بدری صحابی روایت کرتے ہیں وہ کہتے ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ مسجد میں بیٹھا ہوا تھا کہ ایک آدمی مسجد میں داخل ہوا، اور اس نے دو رکعت نماز پڑھی، پھر وہ آیا، اور اس نے نبی اکرم صلی اللہ علیہ وسلم کو سلام کیا، آپ صلی اللہ علیہ وسلم اسے نماز پڑھتے ہوئے دیکھ رہے تھے، آپ نے سلام کا جواب دیا، پھر اس سے فرمایا: واپس جاؤ اور نماز پڑھو کیونکہ تم نے نماز نہیں پڑھی ہے ، چنانچہ وہ واپس آیا، اور پھر سے اس نے نماز پڑھی، پھر وہ دوبارہ آیا اور اس نے نبی اکرم صلی اللہ علیہ وسلم کو سلام کیا، آپ نے اسے جواب دیا، پھر فرمایا: واپس جاؤ اور نماز پڑھو کیونکہ تم نے نماز نہیں پڑھی ہے ، یہاں تک کہ تیسری یا چوتھی بار میں اس نے عرض کیا: قسم ہے اس ذات کی جس نے آپ پر کتاب نازل کی ہے، میں اپنی کوشش کر چکا ہوں، اور میری خواہش ہے آپ مجھے ( صحیح نماز پڑھنے کا طریقہ ) دکھا، اور سکھا دیجئیے، آپ نے فرمایا: جب تم نماز کا ارادہ کرو تو پہلے اچھی طرح وضو کرو پھر قبلہ رو ہو کر تکبیر تحریمہ کہو پھر قرآت کرو پھر رکوع میں جاؤ اور رکوع میں رہو یہاں تک کہ تمہیں اطمینان ہو جائے، پھر سر اٹھاؤ یہاں تک کہ تم سیدھے کھڑے ہو جاؤ، پھر سجدہ میں جاؤ اور اطمینان سے سجدہ کرو، پھر سر اٹھاؤ یہاں تک کہ تم آرام سے بیٹھ جاؤ، پھر سجدہ کر اور سجدہ میں رہو یہاں تک کہ تمہیں اطمینان ہو جائے، پھر سر اٹھاؤ تو جب تم اپنی نماز کو اس نہج پر پورا کرو گے تو وہ مکمل ہو گی، اور اگر تم نے اس میں سے کچھ کمی کی تو تم اپنی نماز میں کمی کرو گے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1314</td></tr><tr><td>Arabic No</td><td>1314</td></tr><tr><td>Reference</td><td>Book 13 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1314 |
+| Arabic No | 1314 |
+| Reference | Book 13 Hadith 136 |

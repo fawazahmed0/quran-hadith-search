@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ يَحْيَى بْنُ يَحْيَى، وَأَبُو كُرَيْبٍ جَمِيعًا عَنْ أَبِي مُعَاوِيَةَ، عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ ‏.‏ وَفِيهِ جَارِيَتَانِ تَلْعَبَانِ بِدُفٍّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه يحيى بن يحيى، وابو كريب جميعا عن ابي معاوية، عن هشام، بهذا الاسناد . وفيه جاريتان تلعبان بدف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া ও আবূ কুরায়ব (রহঃ) ..... উভয়ে হিশাম (রহঃ) একই সূত্রে অনুরূপ বর্ণনা করেছেন। এ সূত্রে বর্ণিত হয়েছে- দু'টি বালিকা দফ বাজিয়ে খেলা করছিল। (ইসলামী ফাউন্ডেশন ১৯৩২, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Hisham with the same chain of transmitters, but there the words are:" Two girls were playing upon a tambourine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## French
 
+Rapporté par Hisham avec la même chaîne de transmetteurs : Les mots sont : « Deux jeunes filles jouaient du tambourin. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) В этой версии хадиса говорится, что эти две девушки играли на бубне
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize, bu hadîsi Yahya ile Ebû Kureyb hep birden Ebû Muâviye'den, o da Hişâm'dan naklen bu isnâdla rivayet ettiler. Bu hadîsde: «Yanımda defle oynayan iki câriye vardı...» denilmişdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو معاویہ نے ہشام بن عروہ سے اسی سند کے ساتھ ( سابقہ حدیث کے مانند ) روایت کی اور اس میں ہے دو بچیاں دف سے کھیل ہی تھیں ( دف بجارہیں تھیں)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2062</td></tr><tr><td>Arabic No</td><td>892.02</td></tr><tr><td>Reference</td><td>Book 8 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2062 |
+| Arabic No | 892.02 |
+| Reference | Book 8 Hadith 17 |

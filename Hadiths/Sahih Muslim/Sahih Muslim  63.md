@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## French
 
+Rapporté par Al-Faḍl bin Sahl : Il a dit : « Affān bin Muslim nous a rapporté, Hammām nous a rapporté, il a dit : ‘Abū Dāwud al-A’mā est venu chez nous et a commencé à dire : “Al-Barā’ \[bin Āzib, le Compagnon\] nous a rapporté” ; il a dit : “Zayd bin Arqam nous a rapporté” – et il a mentionné ces chaînes jusqu’à Qatādah. \[Qatādah\] a dit : “Il a menti ; il ne les a pas entendus. Il demandait aux gens \[des hadiths\] au moment de la peste” \[vers 67H\].’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>63</td></tr><tr><td>Reference</td><td>Book 0 Hadith 63</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 63 |
+| Reference | Book 0 Hadith 63 |

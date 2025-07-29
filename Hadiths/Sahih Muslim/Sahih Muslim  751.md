@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، فِي هَذَا الإِسْنَادِ نَحْوَهُ وَقَالَ قَالَ ‏ "‏ سُبْحَانَ اللَّهِ تَطَهَّرِي بِهَا ‏"‏ ‏.‏ وَاسْتَتَرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا عبيد الله بن معاذ، حدثنا ابي، حدثنا شعبة، في هذا الاسناد نحوه وقال قال " سبحان الله تطهري بها " . واستتر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উবাইদুল্লাহ ইবনু মুআয (রহঃ) .... শুবাহ হতে অবিকল বর্ণিত হয়েছে। তিনি বলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সুবহানাল্লাহ! তা দ্বারা পবিত্রতা লাভ করবে। অতঃপর তিনি আড়াল করলেন। (ইসলামিক ফাউন্ডেশনঃ ৬৪২, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith is narrated by 'Ubaidullah b. Mu'adh with the same chain of transmitters (but for the words) that he (the Holy Prophet) said:Cleanse yourself with it, and he covered (his face on account of shyness)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## French
 
+Rapporté par ‘Ubaidullah b. Mu’adh رضي الله عنه : Avec la même chaîne de transmetteurs, mais avec ces mots : Le Prophète ﷺ a dit : « Purifie-toi avec cela », et il a couvert son visage par pudeur
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но в нём Пророк ﷺ сказал: «Преславен Аллах! Очищайся этим!» И прикрыл (своё лицо)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ubeydullah b. Muaz da tahdis etti, bize babam tahdis etti. Bize Şu'be bu isnad ile buna yakın olarak rivayet etti ve şöyle dedi: Resulullah (Sallallahu aleyhi ve Sellem): "Subhanallah, onunla temizlenirsin işte" buyurdu ve örtündü
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعبہ کے ایک دوسرے شاگرد عبید اللہ کے والد معاذ بن معاذ عنبری نے کہا : ہمیں شعبہ نے اسی ( مذکورہ ) سند سے اسی ( سابقہ حدیث ) کے ہم معنی حدیث بیان کی اور کہا : آپ نے فرمایا : ’’سبحان اللہ !اس سے پاکیزگی حاصل کرو ‘ ‘ اور آپ نے اپنا چہرہ چھپا لیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>751</td></tr><tr><td>Arabic No</td><td>332.04</td></tr><tr><td>Reference</td><td>Book 3 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 751 |
+| Arabic No | 332.04 |
+| Reference | Book 3 Hadith 73 |

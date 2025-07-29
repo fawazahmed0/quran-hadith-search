@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَجَّاجٌ، حَدَّثَنَا يَعْقُوبُ، أَخْبَرَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ، حَدَّثَنِي مُحَمَّدُ بْنُ مُسْلِمٍ الزُّهْرِيُّ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ ‏ "‏ فَلْيَسْجُدْ سَجْدَتَيْنِ قَبْلَ أَنْ يُسَلِّمَ ثُمَّ لْيُسَلِّمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
+
 حدثنا حجاج، حدثنا يعقوب، اخبرنا ابي، عن ابن اسحاق، حدثني محمد بن مسلم الزهري، باسناده ومعناه قال " فليسجد سجدتين قبل ان يسلم ثم ليسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
 
 ## Bengali
 
+। মুহাম্মাদ ইবনু মুসলিম আয-যুহরী (রহঃ) উপরোক্ত সানাদ ও অর্থে হাদীসটি বর্ণনা করেছেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, সে যেন সালাম ফিরানোর আগে দু‘টি সিজদা্ আদায় করে, অতঃপর সালাম ফিরায়।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুহাম্মাদ ইবনু মুসলিম আয-যুহরী (রহঃ) উপরোক্ত সানাদ ও অর্থে হাদীসটি বর্ণনা করেছেন। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেছেন, সে যেন সালাম ফিরানোর আগে দু‘টি সিজদা্ আদায় করে, অতঃপর সালাম ফিরায়।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This traditions has also been narrated by Muhammad b. Muslim al-Zuhr through a different chain of transmitters and to the same effect. This version adds; He should perform two prostrations before giving the salutation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
+
+## French
+
+Cette tradition a également été rapportée par Muhammad b. Muslim al-Zuhr à travers une autre chaîne de transmetteurs avec le même sens. Cette version ajoute : « Il doit faire deux prosternations avant de donner la salutation. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Мухаммад ибн Муслим аз-Зухри передал похожий хадис, в котором говорится: «Пусть он совершит два земных поклона перед таслимом»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Haccâc, Yakub'dan; Yakub babasından; O, İbn İshak'dan, o da Muhammed b. Müslim ez-Zührî'den önceki hadisi aynı mânâ ve aynı senetle rivayet etmiş ve "selâm vermeden önce iki defa secde yapsın sonra selâm versin" sözünü eklemiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طریق سے بھی محمد بن مسلم زہری سے اسی سند سے اسی مفہوم کی حدیث مروی ہے اس میں ہے کہ پھر وہ سلام پھیرنے سے پہلے دو سجدے کرے پھر سلام پھیرے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1032</td></tr><tr><td>Arabic No</td><td>1032</td></tr><tr><td>Reference</td><td>Book 2 Hadith 643</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1032 |
+| Arabic No | 1032 |
+| Reference | Book 2 Hadith 643 |

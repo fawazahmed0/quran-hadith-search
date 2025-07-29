@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، عَنْ عَلْقَمَةَ بْنِ مَرْثَدٍ، عَنْ سُلَيْمَانَ بْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ لَعِبَ بِالنَّرْدَشِيرِ فَكَأَنَّمَا غَمَسَ يَدَهُ فِي لَحْمِ خِنْزِيرٍ وَدَمِهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
+
 حدثنا مسدد، حدثنا يحيى، عن سفيان، عن علقمة بن مرثد، عن سليمان بن بريدة، عن ابيه، عن النبي صلى الله عليه وسلم قال " من لعب بالنردشير فكانما غمس يده في لحم خنزير ودمه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
 
 ## Bengali
 
+। সুলাইমান ইবনু বুরাইদাহ (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি পাশা খেললো সে যেন শূকরের মাংস ও রক্তের মধ্যে তার হাত ডুবালো।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সুলাইমান ইবনু বুরাইদাহ (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি পাশা খেললো সে যেন শূকরের মাংস ও রক্তের মধ্যে তার হাত ডুবালো।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Buraidah reported the Prophet (May peace be upon him) as saying :If anyone plays backgammon, he sinks his hand in the flesh of swine and its blood
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
+
+## French
+
+Rapporté par Buraidah رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui joue au backgammon, c’est comme s’il plongeait sa main dans la chair et le sang du porc. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Yahya\] dari \[Sufyan\] dari \[Alqamah bin Martsad\] dari \[Sulaiman bin Buraidah\] dari \[bapaknya\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa bermain-main dengan dadu, maka seakan-akan ia mencelupkan tangannya ke dalam daging dan darah babi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sufyan] dari [Alqamah bin Martsad] dari [Sulaiman bin Buraidah] dari [bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa bermain-main dengan dadu, maka seakan-akan ia mencelupkan tangannya ke dalam daging dan darah babi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Сулеймана ибн Бурейды о том, что его отец, да будет доволен им Аллах, рассказывал, что Пророк ﷺ ска­зал: «Сыг­рав­ший в нар­ды по­до­бен по­гру­зив­ше­му свою ру­ку в мя­со сви­ньи и в её кровь»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süleyman İbn Büreyde'nin babasından (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: "Tavla oynayan kimse sanki elini domuz etine ve kanına batırmış gibidir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بریدہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جس نے نردشیر ( چوسر ) کھیلا گویا اس نے اپنا ہاتھ سور کے گوشت اور خون میں ڈبو دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2060)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4939</td></tr><tr><td>Arabic No</td><td>4939</td></tr><tr><td>Reference</td><td>Book 43 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2060) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4939 |
+| Arabic No | 4939 |
+| Reference | Book 43 Hadith 167 |

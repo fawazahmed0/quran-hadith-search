@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا عَبَّادُ بْنُ الْعَوَّامِ، عَنْ سُفْيَانَ بْنِ حُسَيْنٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، قَالَ كَتَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم كِتَابَ الصَّدَقَةِ فَلَمْ يُخْرِجْهُ إِلَى عُمَّالِهِ حَتَّى قُبِضَ فَقَرَنَهُ بِسَيْفِهِ فَعَمِلَ بِهِ أَبُو بَكْرٍ حَتَّى قُبِضَ ثُمَّ عَمِلَ بِهِ عُمَرُ حَتَّى قُبِضَ فَكَانَ فِيهِ ‏ "‏ فِي خَمْسٍ مِنَ الإِبِلِ شَاةٌ وَفِي عَشْرٍ شَاتَانِ وَفِي خَمْسَ عَشَرَةَ ثَلاَثُ شِيَاهٍ وَفِي عِشْرِينَ أَرْبَعُ شِيَاهٍ وَفِي خَمْسٍ وَعِشْرِينَ ابْنَةُ مَخَاضٍ إِلَى خَمْسٍ وَثَلاَثِينَ فَإِنْ زَادَتْ وَاحِدَةً فَفِيهَا ابْنَةُ لَبُونٍ إِلَى خَمْسٍ وَأَرْبَعِينَ فَإِذَا زَادَتْ وَاحِدَةً فَفِيهَا حِقَّةٌ إِلَى سِتِّينَ فَإِذَا زَادَتْ وَاحِدَةً فَفِيهَا جَذَعَةٌ إِلَى خَمْسٍ وَسَبْعِينَ فَإِذَا زَادَتْ وَاحِدَةً فَفِيهَا ابْنَتَا لَبُونٍ إِلَى تِسْعِينَ فَإِذَا زَادَتْ وَاحِدَةً فَفِيهَا حِقَّتَانِ إِلَى عِشْرِينَ وَمِائَةٍ فَإِنْ كَانَتِ الإِبِلُ أَكْثَرَ مِنْ ذَلِكَ فَفِي كُلِّ خَمْسِينَ حِقَّةٌ وَفِي كُلِّ أَرْبَعِينَ ابْنَةُ لَبُونٍ وَفِي الْغَنَمِ فِي كُلِّ أَرْبَعِينَ شَاةً شَاةٌ إِلَى عِشْرِينَ وَمِائَةٍ فَإِنْ زَادَتْ وَاحِدَةً فَشَاتَانِ إِلَى مِائَتَيْنِ فَإِنْ زَادَتْ وَاحِدَةً عَلَى الْمِائَتَيْنِ فَفِيهَا ثَلاَثُ شِيَاهٍ إِلَى ثَلاَثِمِائَةٍ فَإِنْ كَانَتِ الْغَنَمُ أَكْثَرَ مِنْ ذَلِكَ فَفِي كُلِّ مِائَةِ شَاةٍ شَاةٌ وَلَيْسَ فِيهَا شَىْءٌ حَتَّى تَبْلُغَ الْمِائَةَ وَلاَ يُفَرَّقُ بَيْنَ مُجْتَمِعٍ وَلاَ يُجْمَعُ بَيْنَ مُتَفَرِّقٍ مَخَافَةَ الصَّدَقَةِ وَمَا كَانَ مِنْ خَلِيطَيْنِ فَإِنَّهُمَا يَتَرَاجَعَانِ بَيْنَهُمَا بِالسَّوِيَّةِ وَلاَ يُؤْخَذُ فِي الصَّدَقَةِ هَرِمَةٌ وَلاَ ذَاتُ عَيْبٍ ‏"‏ ‏.‏ قَالَ وَقَالَ الزُّهْرِيُّ إِذَا جَاءَ الْمُصَدِّقُ قُسِمَتِ الشَّاءُ أَثْلاَثًا ثُلُثًا شِرَارًا وَثُلُثًا خِيَارًا وَثُلُثًا وَسَطًا فَأَخَذَ الْمُصَدِّقُ مِنَ الْوَسَطِ وَلَمْ يَذْكُرِ الزُّهْرِيُّ الْبَقَرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
+
 حدثنا عبد الله بن محمد النفيلي، حدثنا عباد بن العوام، عن سفيان بن حسين، عن الزهري، عن سالم، عن ابيه، قال كتب رسول الله صلى الله عليه وسلم كتاب الصدقة فلم يخرجه الى عماله حتى قبض فقرنه بسيفه فعمل به ابو بكر حتى قبض ثم عمل به عمر حتى قبض فكان فيه " في خمس من الابل شاة وفي عشر شاتان وفي خمس عشرة ثلاث شياه وفي عشرين اربع شياه وفي خمس وعشرين ابنة مخاض الى خمس وثلاثين فان زادت واحدة ففيها ابنة لبون الى خمس واربعين فاذا زادت واحدة ففيها حقة الى ستين فاذا زادت واحدة ففيها جذعة الى خمس وسبعين فاذا زادت واحدة ففيها ابنتا لبون الى تسعين فاذا زادت واحدة ففيها حقتان الى عشرين وماية فان كانت الابل اكثر من ذلك ففي كل خمسين حقة وفي كل اربعين ابنة لبون وفي الغنم في كل اربعين شاة شاة الى عشرين وماية فان زادت واحدة فشاتان الى مايتين فان زادت واحدة على المايتين ففيها ثلاث شياه الى ثلاثماية فان كانت الغنم اكثر من ذلك ففي كل ماية شاة شاة وليس فيها شىء حتى تبلغ الماية ولا يفرق بين مجتمع ولا يجمع بين متفرق مخافة الصدقة وما كان من خليطين فانهما يتراجعان بينهما بالسوية ولا يوخذ في الصدقة هرمة ولا ذات عيب " . قال وقال الزهري اذا جاء المصدق قسمت الشاء اثلاثا ثلثا شرارا وثلثا خيارا وثلثا وسطا فاخذ المصدق من الوسط ولم يذكر الزهري البقر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
 
 ## Bengali
 
+। সালিম (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যাকাত হিসেবে যে পত্র লিখেছেন তা কমকর্তাদের নিকট পৌছার পূর্বেই তিনি ইনতিকাল করেন। ফলে তা তাঁর তরবারির খাপের মধ্যেই থেকে যায়। অতঃপর আবূ বাকর (রাঃ) তাঁর মৃত্যু পর্যন্ত সে বিধান অনুযায়ী কাজ করেন। তাঁর পরে ‘উমার (রাঃ) তাঁর মৃত্যু পর্যন্ত তদানুযায়ী কাজ করেন। তাতে লিখা ছিলঃ প্রত্যেক পাঁচটি উটের জন্য একটি বকরী, দশটির জন্য দু‘টি বকরী, পনেরটির জন্য তিনটি বকরী এবং বিশটির জন্য চারটি বকরী প্রদান করতে হবে। পঁচিশটির জন্য দিতে হবে একটি বিনতু মাখাদ এবং তা পঁয়ত্রিশটি পর্যন্ত। এর থেকে একটিও বৃদ্ধি পেলে পঁয়তাল্লিশ পর্যন্ত একটি বিনতু লাবূন দিতে হবে। এর থেকে একটিও বৃদ্ধি পেলে ষাট পর্যন্ত দিতে হবে একটি হিককাহ। যখন এর থেকে একটিও বর্ধিত হবে, তখন পঁচাত্তর পর্যন্ত দিতে হবে একটি জাযাআহ। যখন এর থেকে একটিও বর্ধিত হবে, তখন দু‘টি বিনতু লাবূন দিতে হবে। যখন এর থেকেও একটি বৃদ্ধি পাবে, তখন দু‘টি হিককাহ দিতে হবে, তা একশো বিশ পর্যন্ত। উটের সংখ্যা এর অধিক হলে প্রত্যেক পঞ্চাশে একটি হিককাহ এবং প্রত্যেক চল্লিশে একটি বিনতু লাবূন দিতে হবে। ছাগলের ক্ষেত্রে প্রত্যেক চল্লিশটি ছাগলের জন্য একটি বকরী একশো বিশ পর্যন্ত। এর থেকে একটিও বর্ধিত হলে দুইশো পর্যন্ত দু‘টি বকরী। দুই শতের অধিক হলে তিনশো পর্যন্ত তিনটি বকরী। ছাগলের সংখ্যা এর চাইতে অধিক হলে প্রত্যেক একশো’তে একটি বকরী দিতে হবে। ছাগলের সংখ্যা একশো না হলে কিছুই দিতে হবে না। যাকাত দেয়ার ভয়ে বিচ্ছিন্নকে একত্র এবং একত্রকে ভিন্ন ভিন্ন করা যাবে না। দুই শরীকের উপর যে যাকাত ধার্য হবে, তা উভয়ে সমান হারে বহন করবে। যাকাত হিসেবে অতিবৃদ্ধ অথবা দোষযুক্ত (পশু) গ্রহণ করা যাবে না। বর্ণনাকারী বলেন, যুহরী (রহঃ) বলেছেন, যাকাত আদায়কারীর উচিত হলো, যাকাত আদায়ের সময় সমস্ত বকরীগুলোকে তিন ভাগে ভাগ করবে। এক ভাগ নিকৃষ্ট, এক ভাগ উৎকৃষ্ট এবং এক ভাগ মধ্যম। সুতরাং আদায়কারী ‘মধ্যম’ মানের পশুই নিবে। যুহরীর বর্ণনায় গরুর যাকাত সম্বন্ধে কিছুই উল্লেখ নেই।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সালিম (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যাকাত হিসেবে যে পত্র লিখেছেন তা কমকর্তাদের নিকট পৌছার পূর্বেই তিনি ইনতিকাল করেন। ফলে তা তাঁর তরবারির খাপের মধ্যেই থেকে যায়। অতঃপর আবূ বাকর (রাঃ) তাঁর মৃত্যু পর্যন্ত সে বিধান অনুযায়ী কাজ করেন। তাঁর পরে ‘উমার (রাঃ) তাঁর মৃত্যু পর্যন্ত তদানুযায়ী কাজ করেন। তাতে লিখা ছিলঃ প্রত্যেক পাঁচটি উটের জন্য একটি বকরী, দশটির জন্য দু‘টি বকরী, পনেরটির জন্য তিনটি বকরী এবং বিশটির জন্য চারটি বকরী প্রদান করতে হবে। পঁচিশটির জন্য দিতে হবে একটি বিনতু মাখাদ এবং তা পঁয়ত্রিশটি পর্যন্ত। এর থেকে একটিও বৃদ্ধি পেলে পঁয়তাল্লিশ পর্যন্ত একটি বিনতু লাবূন দিতে হবে। এর থেকে একটিও বৃদ্ধি পেলে ষাট পর্যন্ত দিতে হবে একটি হিককাহ। যখন এর থেকে একটিও বর্ধিত হবে, তখন পঁচাত্তর পর্যন্ত দিতে হবে একটি জাযাআহ। যখন এর থেকে একটিও বর্ধিত হবে, তখন দু‘টি বিনতু লাবূন দিতে হবে। যখন এর থেকেও একটি বৃদ্ধি পাবে, তখন দু‘টি হিককাহ দিতে হবে, তা একশো বিশ পর্যন্ত। উটের সংখ্যা এর অধিক হলে প্রত্যেক পঞ্চাশে একটি হিককাহ এবং প্রত্যেক চল্লিশে একটি বিনতু লাবূন দিতে হবে। ছাগলের ক্ষেত্রে প্রত্যেক চল্লিশটি ছাগলের জন্য একটি বকরী একশো বিশ পর্যন্ত। এর থেকে একটিও বর্ধিত হলে দুইশো পর্যন্ত দু‘টি বকরী। দুই শতের অধিক হলে তিনশো পর্যন্ত তিনটি বকরী। ছাগলের সংখ্যা এর চাইতে অধিক হলে প্রত্যেক একশো’তে একটি বকরী দিতে হবে। ছাগলের সংখ্যা একশো না হলে কিছুই দিতে হবে না। যাকাত দেয়ার ভয়ে বিচ্ছিন্নকে একত্র এবং একত্রকে ভিন্ন ভিন্ন করা যাবে না। দুই শরীকের উপর যে যাকাত ধার্য হবে, তা উভয়ে সমান হারে বহন করবে। যাকাত হিসেবে অতিবৃদ্ধ অথবা দোষযুক্ত (পশু) গ্রহণ করা যাবে না। বর্ণনাকারী বলেন, যুহরী (রহঃ) বলেছেন, যাকাত আদায়কারীর উচিত হলো, যাকাত আদায়ের সময় সমস্ত বকরীগুলোকে তিন ভাগে ভাগ করবে। এক ভাগ নিকৃষ্ট, এক ভাগ উৎকৃষ্ট এবং এক ভাগ মধ্যম। সুতরাং আদায়কারী ‘মধ্যম’ মানের পশুই নিবে। যুহরীর বর্ণনায় গরুর যাকাত সম্বন্ধে কিছুই উল্লেখ নেই।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: The Messenger of Allah (ﷺ) wrote a letter about sadaqah (zakat) but he died before he could send it to his governors. He had kept it with his sword. So AbuBakr acted upon it till he died, and then Umar acted upon it till he died. It contained: "For five camels one goat is to be given; for ten camels two goats are to be given; for fifteen camels three goats are to be given; for twenty camels four goats are to be given; for twenty-five to thirty-five camels a she-camel in her second year is to be given. If the number exceeds by one up to seventy camels, a she-camel in her fourth year is to be given; if they exceed by one up to seventy-five camels, a she-camel in her fifth year is to be given; if they exceed by one up to ninety camels, two she-camels in their third year are to be given; if they exceed by one up to one hundred and twenty, two she-camels in their fourth year are to be given. If the camels are more than this, a she-camel in her fourth year is to be given for every fifty camels, and a she-camel in her third year is to be given for every forty camels. For forty to one hundred and twenty goats one goat is to be given; if they exceed by one up to two hundred, two goats are to be given. If they exceed by one up to three hundred, three goats are to be given; if the goats are more than this, one goat for every hundred goats is to be given. Nothing is payable until they reach one hundred. Those which are in one flock are not to be separated, and those which are in separate flocks are not be brought together from fear of sadaqah (zakat). Regarding that which belongs to two partners, they can make claims for restitution from each other with equity. An old goat and a defective one are not to be accepted as sadaqah (zakat)." Az-Zuhri said: When the collector comes, the goats will be apportioned into three flocks: one containing bad, the second good, and the third moderate. The collector will take zakat from the moderate. Az-Zuhri did not mention the cows (to be apportioned in three flocks)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
+
+## French
+
+Rapporté par Abdullah ibn Umar : Le Messager d’Allah ﷺ a écrit une lettre au sujet de la sadaqa (zakat), mais il est décédé avant de l’envoyer à ses gouverneurs. Il l’avait gardée avec son épée. Abu Bakr l’a appliquée jusqu’à sa mort, puis Omar l’a appliquée jusqu’à sa mort. Elle contenait : « Pour cinq chameaux, on donne une chèvre ; pour dix chameaux, deux chèvres ; pour quinze, trois chèvres ; pour vingt, quatre chèvres ; de vingt-cinq à trente-cinq chameaux, une chamelle de deux ans. Si le nombre dépasse de un jusqu’à soixante-dix chameaux, une chamelle de quatre ans ; s’ils dépassent de un jusqu’à soixante-quinze, une chamelle de cinq ans ; s’ils dépassent de un jusqu’à quatre-vingt-dix, deux chamelles de trois ans ; s’ils dépassent de un jusqu’à cent vingt, deux chamelles de quatre ans. Si les chameaux sont plus nombreux, une chamelle de quatre ans pour chaque cinquante chameaux, et une chamelle de trois ans pour chaque quarante chameaux. Pour quarante à cent vingt chèvres, une chèvre ; si elles dépassent de un jusqu’à deux cents, deux chèvres ; si elles dépassent de un jusqu’à trois cents, trois chèvres ; au-delà, une chèvre pour chaque centaine. Rien n’est dû tant qu’elles n’atteignent pas cent. Les troupeaux réunis ne doivent pas être séparés, et les troupeaux séparés ne doivent pas être réunis par crainte de la zakat. Pour ce qui appartient à deux associés, ils peuvent réclamer réparation l’un envers l’autre avec équité. Une vieille chèvre ou une chèvre défectueuse ne doit pas être acceptée comme zakat. » Az-Zuhri a dit : Quand le collecteur vient, les chèvres sont réparties en trois groupes : les mauvaises, les bonnes et les moyennes. Le collecteur prélève la zakat parmi les moyennes. Az-Zuhri n’a pas mentionné les vaches à répartir en trois groupes
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Салим передаёт от своего отца (‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом), что Посланник Аллаха ﷺ записал размеры закята, но не отдал её своим сборщикам закята до самой своей кончины. Она лежала вместе с его мечом. Согласно этой грамоте поступал Абу Бакр до самой своей кончины и ‘Умар до самой своей кончины. А написано в ней было следующее: «Должна взиматься одна овца с каждых пяти верблюдов, а с каждых десяти две овцы, с пятнадцати три овцы и с двадцати четыре овцы. Если в стаде от двадцати пяти до тридцати пяти верблюдов, за них следует отдать одну годовалую верблюдицу. Если количество их составляет от тридцати шести до сорока пяти, за них следует отдать одну двухлетнюю верблюдицу. Если количество их составляет от сорока шести до шестидесяти, за них следует отдать одну зрелую трёхлетнюю верблюдицу. Если количество их составляет от шестидесяти одного до семидесяти пяти, за них следует отдать одну четырёхлетнюю верблюдицу. Если количество их составляет от семидесяти шести до девяноста, за них следует отдать двух двухлетних верблюдиц. Если количество их составляет от девяноста одного до ста двадцати, за них следует отдать двух зрелых трёхлетних верблюдиц. Если же количество их превышает сто двадцать, то за каждые пятьдесят верблюдов следует отдать одну трёхлетнюю верблюдицу, а за каждые сорок одну двухлетнюю. А относительно овец: если их от сорока до ста двадцати, с них взимается одна овца. Если их от ста двадцати одной до двухсот, за них следует отдать двух овец. Если их от двухсот одной до трёхсот, за них следует отдать трёх овец. А если их будет больше трёхсот, то с каждой сотни следует отдать по одной овце, а если не хватает до очередной сотни, то с этой сотни ничего не взимается. И люди не должны разделять свои стада и, напротив, объединять их из опасения, что с них придётся выплачивать закят. Если стада двух человек объединены в одно, закят берётся с одного, а потом второй возмещает ему свою долю по справедливости. И не следует брать в качестве закята ни старых животных, ни тех, у которых есть какие-нибудь пороки»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salim, babasının şöyle dediğini rivayet etmiştir: Resûlullah (s.a.v.) zekât mektubunu yazdırdı ve vefat edene kadar onu zekât memurlarına vermeyip kılıcının yanında bıraktı. Ebû Bekir, vefat edene kadar onunla amel etti. Sonra da Ömer, vefat edene kadar onunla amel etti. o mektupta şunlar vardı: "Beş devede bir koyun; on devede iki koyun, onbeş devede üç koyun, yirmide dört koyun (zekât) vardır. Yirmi beşten otuz beş .deveye kadar bir yaşını bitirip iki yaşına basmış bir dişi deve; otuz beşi bir tane geçerse, kırk beşe kadar iki yaşını bitirip üç yaşına basmış bir dişi deve; kırk beşi bir tane geçtiğinde altmışa kadar üç yaşını bitirip dört yaşına basmış bir dişi deve; altmışı bir tane geçtiğinde yetmiş beşe kadar dört yaşını bitirip beş yaşma basmış bir dişi deve; yetmiş beşi bir tane geçtiğinde doksana kadar iki yaşını bitirip üç yaşına basmış iki dişi deve; doksanı bir tane geçtiğinde yüz yirmiye kadar üç yaşını bitirip dört yaşına basmış iki dişi deve (zekât)vardır. Eğer develer bundan da fazla olursa, her elli (deve) de üç yaşını bitirip dört yaşına basmış bir dişi deve ve her kırkta iki yaşını bitirip üç yaşına basmış bir dişi deve (zekât) vardır. Davarda kırk koyundan yüz yirmiye kadar bir koyun, yüz yirmiden bir tane fazla olunca iki yüze kadar iki koyun, İki yüzden bir tane fazla olursa, üç yüze kadar üç koyun (zekât) vardır. Davar, bundan da fazla olursa, her yüz koyunda bir koyun (zekât) vardır. Yüze varmadıkça,zekâtı yoktur. Zekât (artar veya eksilir) korkusuya toplu olan (mal), ayrılmaz, ayrı olan da bir araya toplatılmaz. İki halitin (ortak) malından alınan zekât hususunda ikisi aralarında hisselerine göre hesaplaşırlar. Zekâtta ne yaşlı ne de ayıplı (hayvan) alınmaz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ کہ رسول اللہ صلی اللہ علیہ وسلم نے زکاۃ کی کتاب لکھی، لیکن اسے اپنے عمال کے پاس بھیج نہ پائے تھے کہ آپ کی وفات ہو گئی، آپ صلی اللہ علیہ وسلم نے اسے اپنی تلوار سے لگائے رکھا پھر اس پر ابوبکر رضی اللہ عنہ نے عمل کیا یہاں تک کہ وہ وفات پا گئے، پھر عمر رضی اللہ عنہ نے اپنی وفات تک اس پر عمل کیا، اس کتاب میں یہ تھا: پا نچ ( ۵ ) اونٹ میں ایک ( ۱ ) بکری ہے، دس ( ۱۰ ) اونٹ میں دو ( ۲ ) بکریاں، پندرہ ( ۱۵ ) اونٹ میں تین ( ۳ ) بکریاں، اور بیس ( ۲۰ ) میں چار ( ۴ ) بکریاں ہیں، پھر پچیس ( ۲۵ ) سے پینتیس ( ۳۵ ) تک میں ایک بنت مخاض ہے، پینتیس ( ۳۵ ) سے زیادہ ہو جائے تو پینتالیس ( ۴۵ ) تک ایک بنت لبون ہے، جب پینتالیس ( ۴۵ ) سے زیادہ ہو جائے تو ساٹھ ( ۶۰ ) تک ایک حقہ ہے، جب ساٹھ ( ۶۰ ) سے زیادہ ہو جائے تو پچہتر ( ۷۵ ) تک ایک جذعہ ہے، جب پچہتر ( ۷۵ ) سے زیادہ ہو جائے تو نوے ( ۹۰ ) تک دو بنت لبون ہیں، جب نوے ( ۹۰ ) سے زیادہ ہو جائیں تو ایک سو بیس ( ۱۲۰ ) تک دو حقے ہیں، اور جب اس سے بھی زیادہ ہو جائیں تو ہر پچاس ( ۵۰ ) پر ایک حقہ اور ہر چالیس ( ۴۰ ) پر ایک بنت لبون واجب ہے۔ بکریوں میں چالیس ( ۴۰ ) سے لے کر ایک سو بیس ( ۱۲۰ ) بکریوں تک ایک ( ۱ ) بکری واجب ہو گی، اگر اس سے زیادہ ہو جائیں تو دو سو ( ۲۰۰ ) تک دو ( ۲ ) بکریاں ہیں، اس سے زیادہ ہو جائیں تو تین سو ( ۳۰۰ ) تک تین ( ۳ ) بکریاں ہیں، اگر اس سے بھی زیادہ ہو جائیں تو ہر سو ( ۱۰۰ ) بکری پر ایک ( ۱ ) بکری ہو گی، اور جو سو ( ۱۰۰ ) سے کم ہو اس میں کچھ بھی نہیں، زکاۃ کے ڈر سے نہ جدا مال کو اکٹھا کیا جائے اور نہ اکٹھا مال کو جدا کیا جائے اور جو مال دو آدمیوں کی شرکت میں ہو وہ ایک دوسرے سے لے کر اپنا اپنا حصہ برابر کر لیں، زکاۃ میں بوڑھا اور عیب دار جانور نہ لیا جائے گا ۔ زہری کہتے ہیں: جب مصدق ( زکاۃ وصول کرنے والا ) آئے تو بکریوں کے تین غول کریں گے، ایک غول میں گھٹیا درجہ کی بکریاں ہوں گی دوسرے میں عمدہ اور تیسرے میں درمیانی درجہ کی تو مصدق درمیانی درجہ کی بکریاں زکاۃ میں لے گا، زہری نے گایوں کا ذکر نہیں کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1568</td></tr><tr><td>Arabic No</td><td>1568</td></tr><tr><td>Reference</td><td>Book 9 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1568 |
+| Arabic No | 1568 |
+| Reference | Book 9 Hadith 13 |

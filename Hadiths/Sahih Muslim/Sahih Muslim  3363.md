@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ، عَنْ أَبِي عَبْدِ اللَّهِ الْقَرَّاظِ، قَالَ سَمِعْتُهُ يَقُولُ سَمِعْتُ أَبَا هُرَيْرَةَ، وَسَعْدًا، يَقُولاَنِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ اللَّهُمَّ بَارِكْ لأَهْلِ الْمَدِينَةِ فِي مُدِّهِمْ ‏"‏ ‏.‏ وَسَاقَ الْحَدِيثَ وَفِيهِ ‏"‏ مَنْ أَرَادَ أَهْلَهَا بِسُوءٍ أَذَابَهُ اللَّهُ كَمَا يَذُوبُ الْمِلْحُ فِي الْمَاءِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو بكر بن ابي شيبة، حدثنا عبيد الله بن موسى، حدثنا اسامة بن زيد، عن ابي عبد الله القراظ، قال سمعته يقول سمعت ابا هريرة، وسعدا، يقولان قال رسول الله صلى الله عليه وسلم " اللهم بارك لاهل المدينة في مدهم " . وساق الحديث وفيه " من اراد اهلها بسوء اذابه الله كما يذوب الملح في الماء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শায়বাহ্ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) ও সাদ ইবনু মালিক (রাযিঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ “হে আল্লাহ মাদীনাবাসীদের মুদ-এ বারাকাত দান করুন" ... অবশিষ্ট বর্ণনা পূর্ববৎ। তবে এতে আরো আছেঃ “যে ব্যক্তি এখানকার অধিবাসীদের ক্ষতি সাধনের চেষ্টা করবে, আল্লাহ তাকে এমনভাবে গলিয়ে দিবেন যেমন পানিতে লবণ গলে যায়।" (ইসলামিক ফাউন্ডেশন ৩২২৯, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira and Sa'd reported Allah's Messenger (way peace be upon him) as saying:O Allah, bless the people of Medina in their mudd, the rest of the hadith being the same, and in It (this is also mentioned):" He wo intends to do harm to its people, Allah would efface him just as salt it dissolved in water
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## French
 
+Rapporté par Abu Huraira et Sa’d رضي الله عنهما : Le Messager d’Allah ﷺ a dit : « Ô Allah, bénis les habitants de Médine dans leur mesure (mudd)… » (le reste du hadith est identique), et il est aussi mentionné : « Celui qui veut faire du mal à ses habitants, Allah le fera disparaître comme le sel se dissout dans l’eau. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki): Bize Ubeydûllah bin Musa rivayet etti. (Dediki): Bize Usâmetû'bnü Zeyd, Ebû Abdillah El-Karraz'dan naklen rivayet etti. (Dediki): Ben Karrâz'i şöyle derken işittim: Ben Ebû Hureyre ile Sa'd'ı şunu söylerlerken dinledim: Resûlullah (Sallallahu Aleyhi ve Sellem): «Yâ Rabbi! Medînelilere ölçeklerinde berekeî ihsan ey!e...;) buyurdular. Râvi hadîsin tamamını rivayet eyledi. Bu hadîsde : «Her kim Medine halkına bir kötülük yapmak isterse, Allah onu tuzun suda eridiği gibi eritir» cümlesi de vardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسامہ بن زید نے ہمیں ابو عبداللہ قراظ سے حدیث بیان کی ، ( اسامہ نے ) کہا : میں نے ان سے سنا ، کہہ رہے تھے : میں نے ابو ہریرہ رضی اللہ تعالیٰ عنہ اور سعد رضی اللہ تعالیٰ عنہ سے سنا ، وہ دونوں کہہ رہے تھے ، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " اے اللہ ! اہل مدینہ کے لیے ان کے مد میں برکت عطا فرما ۔ " آگے ( اسی طرح ) حدیث بیان کی اور اس میں ہے : " جس نے اس کے باشندوں کے ساتھ برائی کا ارادہ کیا ، اللہ تعالیٰ اسے اس طرح پگھلا دے گا جس طرح پانی میں نمک پگھل جاتا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3363</td></tr><tr><td>Arabic No</td><td>1387.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 567</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3363 |
+| Arabic No | 1387.03 |
+| Reference | Book 15 Hadith 567 |

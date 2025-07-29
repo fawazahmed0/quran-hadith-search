@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، قَالَ إِنَّمَا سُمِّيَتِ الْخَمْرُ لأَنَّهَا تُرِكَتْ حَتَّى مَضَى صَفْوُهَا وَبَقِيَ كَدَرُهَا ‏.‏ وَكَانَ يَكْرَهُ كُلَّ شَىْءٍ يُنْبَذُ عَلَى عَكَرٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 51 Hadith 208</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن شعبة، عن قتادة، عن سعيد بن المسيب، قال انما سميت الخمر لانها تركت حتى مضى صفوها وبقي كدرها . وكان يكره كل شىء ينبذ على عكر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 51 Hadith 208</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... সাঈদ ইবন মুসায়্যিব (রহঃ) থেকে বর্ণিত। তিনি বলেন, খামর (মদ)-কে খামর এজন্য বলা হয় যে, একে রেখে দেয়া হয়, ফলে এর স্বচ্ছতা দূর হয়ে যায় এবং এর ময়লা অবশিষ্ট থাকে। আর তিনি এরূপ নবীযকে মাকরূহ মনে করতেন যাতে তলানী মেশানাে হয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 51 Hadith 208</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Sa'eed bin Al-Musayyab said:"Khamr is so called because it is left until the good parts are gone and the dregs remain." And he disliked everything that was made by using dregs (by adding new materials to the dregs)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 51 Hadith 208</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |
+
+## French
+
+Rapporté par Sa'eed bin Al-Musayyab : "Le Khamr s'appelle ainsi parce qu'on le laisse jusqu'à ce que les bonnes parties disparaissent et que seuls les résidus restent." Et il n'aimait rien qui soit fait en utilisant des résidus (en ajoutant de nouveaux ingrédients aux résidus)
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah memberitakan kepada kami \[Abdullah\] dari \[Syu'bah\] dari \[Qatadah\] dari \[Sa'id Ibnul Musayyab\] ia berkata, "Dinamakan khamer karena ia dibiarkan hingga kemurniannya hilang dan tersisa endapannya. Dan dia memakruhkan setiap sesuatu yang dibuat perasan hingga mengendap
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah memberitakan kepada kami [Abdullah] dari [Syu'bah] dari [Qatadah] dari [Sa'id Ibnul Musayyab] ia berkata, "Dinamakan khamer karena ia dibiarkan hingga kemurniannya hilang dan tersisa endapannya. Dan dia memakruhkan setiap sesuatu yang dibuat perasan hingga mengendap
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 51 Hadith 208</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 51 Hadith 208</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5746</td></tr><tr><td>Arabic No</td><td>5746</td></tr><tr><td>Reference</td><td>Book 51 Hadith 208</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5746 |
+| Arabic No | 5746 |
+| Reference | Book 51 Hadith 208 |

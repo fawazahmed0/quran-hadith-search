@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ قَيْسٍ، عَنْ عَطَاءٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ بِعْنَا أُمَّهَاتِ الأَوْلاَدِ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَبِي بَكْرٍ فَلَمَّا كَانَ عُمَرُ نَهَانَا فَانْتَهَيْنَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن قيس، عن عطاء، عن جابر بن عبد الله، قال بعنا امهات الاولاد على عهد رسول الله صلى الله عليه وسلم وابي بكر فلما كان عمر نهانا فانتهينا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
 
 ## Bengali
 
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আবূ বাকরের যুগে উম্মু ওয়ালাদ বাঁদীদেরকে বিক্রি করেছি। পরবর্তীতে উমার (রাঃ)-এর যুগে তিনি আমাদের বারণ করায় আমরা বিরত হই।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও আবূ বাকরের যুগে উম্মু ওয়ালাদ বাঁদীদেরকে বিক্রি করেছি। পরবর্তীতে উমার (রাঃ)-এর যুগে তিনি আমাদের বারণ করায় আমরা বিরত হই।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: We sold slave-mothers during the time of the Messenger of Allah (ﷺ) and of AbuBakr. When Umar was in power, he forbade us and we stopped
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : « Nous vendions des mères-esclaves à l’époque du Messager d’Allah ﷺ et d’Abu Bakr. Quand Omar est devenu calife, il nous l’a interdit et nous avons arrêté. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dari \[Qais\] dari \['Atha\] dari \[Jabir bin Abdullah\] ia berkata, "Kami pernah membeli beberapa ummul walad pada zaman Rasulullah shallallahu 'alaihi wasallam serta pada zaman Abu Bakr. Ketika Umar menjabat sebagai Khalifah, ia melarang kami, maka kami pun tidak melakukannya lagi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Qais] dari ['Atha] dari [Jabir bin Abdullah] ia berkata, "Kami pernah membeli beberapa ummul walad pada zaman Rasulullah shallallahu 'alaihi wasallam serta pada zaman Abu Bakr. Ketika Umar menjabat sebagai Khalifah, ia melarang kami, maka kami pun tidak melakukannya lagi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Во времена Посланника Аллаха ﷺ и Абу Бакра мы продавали рабынь, которые рожали нам детей, а когда к власти пришёл ‘Умар, он запретил делать это, и мы перестали»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir b. Abdullah'dan rivayet edilmiştir; dedi ki: Biz Resulullah (s.a.v.) ile Ebu Bekir (r.a) dönemlerinde "Ümmühatü'l-evlâd" (denilen, bizden bir çocuğu olan cariyeler)! sattık. Ömer (r.a) (halife) olunca bize (bunu) yasakladı, biz de vazgeçtik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں ہم رسول اللہ صلی اللہ علیہ وسلم اور ابوبکر رضی اللہ عنہ کے عہد میں ام ولد ۱؎ کو بیچا کرتے تھے، پھر جب عمر رضی اللہ عنہ کا زمانہ آیا تو انہوں نے ہمیں اس کے بیچنے سے روک دیا چنانچہ ہم رک گئے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3954</td></tr><tr><td>Arabic No</td><td>3954</td></tr><tr><td>Reference</td><td>Book 31 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3954 |
+| Arabic No | 3954 |
+| Reference | Book 31 Hadith 29 |

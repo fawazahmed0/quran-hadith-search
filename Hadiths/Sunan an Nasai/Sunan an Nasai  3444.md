@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ سُلَيْمَانَ، عَنْ أَبِي الضُّحَى، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، قَالَتْ قَدْ خَيَّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم نِسَاءَهُ أَفَكَانَ طَلاَقًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |
+
 اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، قال حدثنا شعبة، عن سليمان، عن ابي الضحى، عن مسروق، عن عايشة، قالت قد خير رسول الله صلى الله عليه وسلم نساءه افكان طلاقا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন আবদুল আ'লা (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সহধর্মিণীগণকে ইখতিয়ার দিয়েছিলেন, তাতে কি তালাক হয়েছিল?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"The Messenger of Allah gave his wives the choice; was that a divorce?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |
+
+## French
+
+Rapporté par 'Aishah : Le Messager d'Allah ﷺ a donné le choix à ses épouses ; était-ce un divorce ?
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Abdul A'la\], ia berkata; telah menceritakan kepada kami \[Khalid\], ia berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Sulaiman\] dari \[Abu Adh Dhuha\] dari \[Masruq\] dari \[Aisyah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah memberikan pilihan kepada para isterinya. Hal tersebut bukanlah penceraian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Abdul A'la], ia berkata; telah menceritakan kepada kami [Khalid], ia berkata; telah menceritakan kepada kami [Syu'bah] dari [Sulaiman] dari [Abu Adh Dhuha] dari [Masruq] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah memberikan pilihan kepada para isterinya. Hal tersebut bukanlah penceraian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنی بیویوں کو ( انتخاب کا ) اختیار دیا تو کیا یہ ( اختیار ) طلاق تھا؟ ( نہیں، یہ طلاق نہیں تھا ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3444</td></tr><tr><td>Arabic No</td><td>3444</td></tr><tr><td>Reference</td><td>Book 27 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3444 |
+| Arabic No | 3444 |
+| Reference | Book 27 Hadith 56 |

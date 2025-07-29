@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ تَمِيمٍ، مَوْلَى فَاطِمَةَ عَنْ فَاطِمَةَ، نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 27 Hadith 31</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |
+
 اخبرنا عبيد الله بن سعيد، قال حدثنا عبد الرحمن، عن سفيان، عن منصور، عن مجاهد، عن تميم، مولى فاطمة عن فاطمة، نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 27 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উবায়দুল্লাহ ইবন সায়ীদ (রহঃ) ... ফাতিমা (রাঃ) থেকে অনুরূপ হাদীস বর্ণিত হয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 27 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A similar report was narrated from Tamim, the freed slave of Fatimah, from Fatimah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 27 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |
+
+## French
+
+Rapporté par Tamim, l'affranchi de Fatimah, de la part de Fatimah : Un récit similaire a été rapporté
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 27 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 27 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجاہد فاطمہ (فاطمہ بنت قیس) کے غلام تمیم سے اور وہ فاطمہ رضی اللہ عنہا سے اسی کے طرح جیسی کہ اوپر روایت گزری ہے روایت کرتے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3419</td></tr><tr><td>Arabic No</td><td>3419</td></tr><tr><td>Reference</td><td>Book 27 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3419 |
+| Arabic No | 3419 |
+| Reference | Book 27 Hadith 31 |

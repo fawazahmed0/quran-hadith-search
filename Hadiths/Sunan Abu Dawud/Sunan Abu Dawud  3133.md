@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا مَعْنُ بْنُ عِيسَى، ح وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ الْجُشَمِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ إِبْرَاهِيمَ بْنِ طَهْمَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ رُمِيَ رَجُلٌ بِسَهْمٍ فِي صَدْرِهِ أَوْ فِي حَلْقِهِ فَمَاتَ فَأُدْرِجَ فِي ثِيَابِهِ كَمَا هُوَ - قَالَ - وَنَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
+
 حدثنا قتيبة بن سعيد، حدثنا معن بن عيسى، ح وحدثنا عبيد الله بن عمر الجشمي، حدثنا عبد الرحمن بن مهدي، عن ابراهيم بن طهمان، عن ابي الزبير، عن جابر، قال رمي رجل بسهم في صدره او في حلقه فمات فادرج في ثيابه كما هو - قال - ونحن مع رسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, এক ব্যক্তির বুকে বা কণ্ঠনালীতে একটি তীর বিদ্ধ হলে তাতেই সে নিহত হলো। অতঃপর তার পরিহিত কাপড়েই তাকে (দাফনে) জড়ানো হলো। ‘আমরা তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথেই ছিলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: A man had a shot of arrow in his chest or throat (the narrator is doubtful). So he died. He was shrouded in his clothes as he was. The narrator said: We were with the Messenger of Allah (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Un homme a reçu une flèche dans la poitrine ou dans la gorge (le rapporteur n’est pas sûr). Il est mort. On l’a enveloppé dans ses vêtements tels quels. Le rapporteur a dit : Nous étions avec le Messager d’Allah ﷺ
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Ma'n bin Isa\] dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami \['Ubaidullah bin Umar Al Jusyami\], telah menceritakan kepada kami \[Abdurrahman bin Mahdi\] dari \[Ibrahim bin Thahman\], dan \[Abu Az Zubair\] dari \[Jabir\] ia berkata; seorang laki-laki dipanah menggunakan anak panah pada dadanya atau pada tenggorokannya, kemudian ia meninggal. Lalu ia dibiarkan memakai pakainnya sebagaimana apa adanya. Ia berkata sementara kami bersama Rasulullah shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ma'n bin Isa] dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami ['Ubaidullah bin Umar Al Jusyami], telah menceritakan kepada kami [Abdurrahman bin Mahdi] dari [Ibrahim bin Thahman], dan [Abu Az Zubair] dari [Jabir] ia berkata; seorang laki-laki dipanah menggunakan anak panah pada dadanya atau pada tenggorokannya, kemudian ia meninggal. Lalu ia dibiarkan memakai pakainnya sebagaimana apa adanya. Ia berkata sementara kami bersama Rasulullah shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Джабир, да будет доволен Аллах им и его отцом, передаёт: «Одному человеку стрела попала в грудь или в горло, и он умер, и его завернули в его одежду, как он был, и мы в это время были вместе с Посланником Аллаха ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir'den demiştir ki: (Bir savaş esnasında müslümanlardan) birinin göğsüne veya bogazına bir ok atıldı (aldığı yarayla) hemen öldü. Bunun üzerine elbisesiyle beraber, olduğu gibi (yıkanmadan) gömüldü. Biz de Rasûlullal (s.a.v.) ile beraberdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں ایک شخص سینے یا حلق میں تیر لگنے سے مر گیا تو اسی طرح اپنے کپڑوں میں لپیٹا گیا جیسے وہ تھا، اس وقت ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3133</td></tr><tr><td>Arabic No</td><td>3133</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3133 |
+| Arabic No | 3133 |
+| Reference | Book 21 Hadith 45 |

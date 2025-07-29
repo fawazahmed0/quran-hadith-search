@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ، قَالَ أَنْبَأَنَا حَجَّاجُ بْنُ مُحَمَّدٍ، عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ ثَمَنِ الْكَلْبِ وَالسِّنَّوْرِ إِلاَّ كَلْبَ صَيْدٍ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا مُنْكَرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 44 Hadith 220</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |
+
 اخبرني ابراهيم بن الحسن، قال انبانا حجاج بن محمد، عن حماد بن سلمة، عن ابي الزبير، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم نهى عن ثمن الكلب والسنور الا كلب صيد . قال ابو عبد الرحمن هذا منكر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 44 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবরাহীম ইবন হাসান (রহঃ) ... জাবির ইবন আবদুল্লাহ (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুর ও বিড়ালের মূল্য নিতে নিষেধ করেছেন; তবে শিকারী কুকুর ব্যতীত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 44 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Jabir bin 'Adbullah that:the Messenger of Allah forbade the price of dogs and cats, except hunting dogs. (Da'if) Abu 'Abdur-Rahman (An-Nasa'i) said: This is Munkar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 44 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |
+
+## French
+
+Rapporté par Jabir bin 'Abdullah : Le Messager d’Allah ﷺ a interdit le prix des chiens et des chats, sauf pour les chiens de chasse. (Da'if) Abu 'Abdur-Rahman (An-Nasa'i) a dit : Ceci est Munkar
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ibrahim bin Al Hasan\], ia berkata; telah memberitakan kepada kami \[Hajjaj bin Muhammad\] dari \[Hammad bin Salamah\] dari \[Abu Az Zubair\] dari \[Jabir bin Abdullah\] bahwa Rasulullah shallallahu 'alaihi wasallam melarang dari menjual anjing dan kucing kecuali anjing pemburu. Abdur Rahman berkata; hadits ini adalah mungkar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ibrahim bin Al Hasan], ia berkata; telah memberitakan kepada kami [Hajjaj bin Muhammad] dari [Hammad bin Salamah] dari [Abu Az Zubair] dari [Jabir bin Abdullah] bahwa Rasulullah shallallahu 'alaihi wasallam melarang dari menjual anjing dan kucing kecuali anjing pemburu. Abdur Rahman berkata; hadits ini adalah mungkar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 44 Hadith 220</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 44 Hadith 220</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 44 Hadith 220</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 44 Hadith 220 |

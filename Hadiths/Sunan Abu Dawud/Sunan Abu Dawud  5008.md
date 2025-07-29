@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الْحَمِيدِ الْبَهْرَانِيُّ، أَنَّهُ قَرَأَ فِي أَصْلِ إِسْمَاعِيلَ بْنِ عَيَّاشٍ وَحَدَّثَهُ مُحَمَّدُ بْنُ إِسْمَاعِيلَ ابْنُهُ قَالَ حَدَّثَنِي أَبِي قَالَ حَدَّثَنِي ضَمْضَمٌ عَنْ شُرَيْحِ بْنِ عُبَيْدٍ قَالَ حَدَّثَنَا أَبُو ظَبْيَةَ أَنَّ عَمْرَو بْنَ الْعَاصِ قَالَ يَوْمًا وَقَامَ رَجُلٌ فَأَكْثَرَ الْقَوْلَ فَقَالَ عَمْرٌو لَوْ قَصَدَ فِي قَوْلِهِ لَكَانَ خَيْرًا لَهُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ لَقَدْ رَأَيْتُ أَوْ أُمِرْتُ أَنْ أَتَجَوَّزَ فِي الْقَوْلِ فَإِنَّ الْجَوَازَ هُوَ خَيْرٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
+
 حدثنا سليمان بن عبد الحميد البهراني، انه قرا في اصل اسماعيل بن عياش وحدثه محمد بن اسماعيل ابنه قال حدثني ابي قال حدثني ضمضم عن شريح بن عبيد قال حدثنا ابو ظبية ان عمرو بن العاص قال يوما وقام رجل فاكثر القول فقال عمرو لو قصد في قوله لكان خيرا له سمعت رسول الله صلى الله عليه وسلم يقول " لقد رايت او امرت ان اتجوز في القول فان الجواز هو خير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
 
 ## Bengali
 
+। আমর ইবনুল আস (রাঃ) একদিন বলেন, এক ব্যক্তি দাঁড়িয়ে সুদীর্ঘ বক্তৃতা দিলো। আমর (রাঃ) বললেন, যদি সে সংক্ষিপ্ত আলোচনা করতো তবে তার জন্য ভালো হতো। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আমার নিকট উপযুক্ত মনে হয়েছে অথবা আমাকে আদেশ দেয়া হয়েছে ভাষণ সংক্ষিপ্ত করতে। কেননা সংক্ষিপ্ত আলোচনা উত্তম।\[1\] সনদ হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আমর ইবনুল আস (রাঃ) একদিন বলেন, এক ব্যক্তি দাঁড়িয়ে সুদীর্ঘ বক্তৃতা দিলো। আমর (রাঃ) বললেন, যদি সে সংক্ষিপ্ত আলোচনা করতো তবে তার জন্য ভালো হতো। কেননা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ আমার নিকট উপযুক্ত মনে হয়েছে অথবা আমাকে আদেশ দেয়া হয়েছে ভাষণ সংক্ষিপ্ত করতে। কেননা সংক্ষিপ্ত আলোচনা উত্তম।[1] সনদ হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 One day when a man got up and spoke at length Amr ibn al-'As said If he had been moderate in what he said:It would have been better for him. I heard the Messenger of Allah (ﷺ) say: I think (or, I have been commanded) that I should be brief in what I say, for brevity is better
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
+
+## French
+
+Rapporté par Amr ibn al-'As : Un jour, alors qu’un homme s’est levé et a parlé longuement, Amr ibn al-'As a dit : « S’il avait été plus bref, cela aurait été mieux pour lui. J’ai entendu le Messager d’Allah ﷺ dire : “Je pense (ou, j’ai reçu l’ordre) d’être bref dans mes paroles, car la concision est meilleure.” »
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Abdul hamid Al Bahrani\] -ia membaca dalam buku Isma'il bin Ayyasy- dan telah menceritakan kepadanya \[Muhammad bin Isma'il\] anaknya, ia berkata; telah menceritakan kepadaku \[Bapakku\] ia berkata; telah menceritakan kepadaku \[Dhamdham\] dari \[Syuraih bin Ubaid\] ia berkata; telah menceritakan kepada kami \[Abu Zhabyah\] berkata, "Bahwa \[Amr bin Al Ash\] suatu hari pernah berkata -saat itu ada seorang laki-laki berdiri dan banyak berbicara- Amru berkata, "Sekiranya ia biasa saja dalam berbicara tentu itu lebih baik baginya. Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku berpandangan, atau beliau mengatakan, "Aku diperintahkan untuk sederhana dalam berbicara, sebab sederhana dalam berbicara adalah suatu kebaikan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Abdul hamid Al Bahrani] -ia membaca dalam buku Isma'il bin Ayyasy- dan telah menceritakan kepadanya [Muhammad bin Isma'il] anaknya, ia berkata; telah menceritakan kepadaku [Bapakku] ia berkata; telah menceritakan kepadaku [Dhamdham] dari [Syuraih bin Ubaid] ia berkata; telah menceritakan kepada kami [Abu Zhabyah] berkata, "Bahwa [Amr bin Al Ash] suatu hari pernah berkata -saat itu ada seorang laki-laki berdiri dan banyak berbicara- Amru berkata, "Sekiranya ia biasa saja dalam berbicara tentu itu lebih baik baginya. Aku pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Aku berpandangan, atau beliau mengatakan, "Aku diperintahkan untuk sederhana dalam berbicara, sebab sederhana dalam berbicara adalah suatu kebaikan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Zabye'den demiştir ki: Bir gün bir adam ayakta, bir konuşma yapıp sözü uzatmıştı. Bunun üzerine Hz. Amr ibn el-Âs şöyle dedi: Eğer (bu adam) konuşmasını fazla uzatmayıp yerinde kesse idi kendisi için daha hayırlı olurdu. (Nitekim) ben Rasûlullah (s.a.v.)'i şöyle buyururken işittim: "Ben özlü konuşmayı bilirim -yahutta (bu şüphe raviye-aittir) -özlü konuşmakla emr olundum. Çünkü özlü konuşmak daha hayırlıdır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوظبیہ کا بیان ہے کہ عمرو بن العاص نے ایک دن کہا اور ( اس سے پہلے ) ایک شخص کھڑے ہو کر بے تحاشہ بولے جا رہا تھا، اس پر عمرو نے کہا: اگر وہ بات میں درمیانی روش اپناتا تو اس کے لیے بہتر ہوتا، میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: مجھے مناسب معلوم ہوتا ہے یا مجھے حکم ہوا ہے کہ میں گفتگو میں اختصار سے کام یعنی جتنی بات کافی ہو اسی پر اکتفا کروں اس لیے کہ اختصار ہی بہتر روش ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5008</td></tr><tr><td>Arabic No</td><td>5008</td></tr><tr><td>Reference</td><td>Book 43 Hadith 236</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5008 |
+| Arabic No | 5008 |
+| Reference | Book 43 Hadith 236 |

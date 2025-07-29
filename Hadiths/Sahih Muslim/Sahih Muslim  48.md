@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## French
 
+Rapporté par Qutaybah bin Sa’īd : Jarīr nous a rapporté, de la part de Hamzah az-Zayyāt, il a dit : « Murrah al-Hamdānī a entendu quelque chose de la part d’al-Hārith et lui a dit : “Assieds-toi près de la porte.” » Il a dit : « Alors Murrah est rentré à l’intérieur, a pris son épée, et al-Hārith a senti le danger et est parti. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Haccâc rivâyet etti. Dedi ki, bana Ahmed (ki İbn Yunus’dur) rivâyet etti. ki): Bize Zâide, Mansur'la el-Mugîra'dan onlar da İbrahim'den naklen, el-Hâris'in itham olunduğunu rivâyet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ منصور اور مغیرہ نے ابراہیم سے روایت کی کہ حارث متہم راوی ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>48</td></tr><tr><td>Reference</td><td>Book 0 Hadith 48</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 48 |
+| Reference | Book 0 Hadith 48 |

@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، وَأَبِي، سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَنَّهُمَا أَخْبَرَاهُ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ إِذَا أَمَّنَ الإِمَامُ فَأَمِّنُوا فَإِنَّهُ مَنْ وَافَقَ تَأْمِينُهُ تَأْمِينَ الْمَلاَئِكَةِ غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ ‏"‏ ‏.‏ قَالَ ابْنُ شِهَابٍ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ آمِينَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن يحيى، قال قرات على مالك عن ابن شهاب، عن سعيد بن المسيب، وابي، سلمة بن عبد الرحمن انهما اخبراه عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " اذا امن الامام فامنوا فانه من وافق تامينه تامين الملايكة غفر له ما تقدم من ذنبه " . قال ابن شهاب كان رسول الله صلى الله عليه وسلم يقول " امين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ ইমাম যখন "আ-মীন' বলে, তোমরাও তখন "আ-মীন' বল। কেননা যার "আ-মীন' বলা মালায়িকাদের (ফেরেশতাদের) "আ-মীন' বলার সাথে মিলে যাবে তার আগেকার গুনাহ মাফ করে দেয়া হবে। ইবনু শিহাব বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম "আ-মীন' বলতেন। (ইসলামিক ফাউন্ডেশনঃ ৭৯৮, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported:The Messenger of Allah (ﷺ) said: SayAmin when the Imam says Amin, for it anyone's utterance of Amin synchronises with that of the angels, he will be forgiven his past sins
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Dites Amin lorsque l’imam dit Amin, car si la prononciation de Amin par quelqu’un coïncide avec celle des anges, ses péchés passés seront pardonnés. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Yahya\] dia berkata, saya membaca di hadapan \[Malik\] dari \[Ibnu Syihab\] dari \[Sa'id bin al-Musayyab\] dan \[Abu Salamah bin Abdurrahman\] bahwa keduanya telah mengabarkan kepadanya dari \[Abu Hurairah ra\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila imam mengucapkan amin, maka ucapkanlah amin, karena barangsiapa yang aminnya bersesuaian dengan aminnya malaikat, niscaya dosanya yang telah lalu diampuni." Ibnu Syihab berkata, "Dahulu, Rasulullah shallallahu 'alaihi wasallam berkata "? min (semoga Allah mengabulkan) ". Telah menceritakan kepadaku \[Harmalah bin Yahya\] telah mengabarkan kepada kami \[Ibnu Wahb\] telah mengabarkan kepadaku \[Yunus\] dari \[Ibnu Syihab\] telah mengabarkan kepadaku \[Ibnu al-Musayyab\] dan \[Abu Salamah bin Abdurrahman\] bahwa \[Abu Hurairah\] ra berkata, Saya mendengar Rasulullah shallallahu 'alaihi wasallam semisal hadits Malik, dan dia belum menyebutkan perkataan Ibnu syihab
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Ibnu Syihab] dari [Sa'id bin al-Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa keduanya telah mengabarkan kepadanya dari [Abu Hurairah ra] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Apabila imam mengucapkan amin, maka ucapkanlah amin, karena barangsiapa yang aminnya bersesuaian dengan aminnya malaikat, niscaya dosanya yang telah lalu diampuni." Ibnu Syihab berkata, "Dahulu, Rasulullah shallallahu 'alaihi wasallam berkata "? min (semoga Allah mengabulkan) ". Telah menceritakan kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] telah mengabarkan kepadaku [Ibnu al-Musayyab] dan [Abu Salamah bin Abdurrahman] bahwa [Abu Hurairah] ra berkata, Saya mendengar Rasulullah shallallahu 'alaihi wasallam semisal hadits Malik, dan dia belum menyebutkan perkataan Ibnu syihab
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Когда имам произнесёт слово “Амин” (после суры “Аль- Фатиха”), произносите его и вы, ибо, поистине, тому, кто (произнесёт это слово) одновременно с ангелами, простятся его прежние грехи».Ибн Шихаб сказал: «Посланник Аллаха ﷺ всегда произносил слово “Амин”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya rivayet etti. Dediki: Mâlik'e ibn-i Şihâb'dan dinlediğim, onun da Saîd b. el-Müseyyeb ile Ebu Selemetübnü Abdirrahman'dan naklettiği, onların da Ebu Hureyre'den naklen haber verdikleri şu hadîsi okudum: Resulullah (Sallallahu Aleyhi ve Sellem) : «imam Amîn dediği vakit siz de Amin deyin; zira bir kimsenin Amîn demesi meleklerin Amin'ine tesadüf ederse o kimsenin geçmiş günahları affolunur.» buyurmuşlar. İbnl Şihâb: «Resulullah (Sallallahu Aleyhi ve Sellem) Âmin derdi.» demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مالک نے ابن شہاب سے ، انہوں نے سعید بن مسیب اور ابو سلمہ بن عبد الرحمن سے روایت کی کہ ان دونوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ رسول اللہﷺ نے فرمایا : ’’ جب امام آمین کہے تو تم بھی آمین کہو کیونکہ جس کی آمین فرشتوں کی آمین کے موافق ہو جائے گی ، اس کے سابقہ گناہ معاف کر دیے جائیں گے ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>915</td></tr><tr><td>Arabic No</td><td>410.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 77</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 915 |
+| Arabic No | 410.01 |
+| Reference | Book 4 Hadith 77 |

@@ -196,3136 +196,3136 @@
 
 ## Achinese
 
-
-<div dir="ltr" lang="ace" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Geubri areuta zakeut seudeukah Geupeugleh atra deungon droe gopnyan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tgk. H. Mahjiddin Jusuf</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Tgk. H. Mahjiddin Jusuf |
 
 ## Afar
 
-
-<div dir="ltr" lang="aa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Usuk isi maalu yacee numu, ise saytunnoysâ gideh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars |
 
 ## Afrikaans
 
-
-<div dir="ltr" lang="af" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 hy wat van sy rykdom bestee om homself te reinig
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Imam M. A. Baker</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Imam M. A. Baker |
 
 ## Albanian
 
-
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ai i cili jep (sadake) nga pasuria e vet, e pasurohet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Feti Mehdiu</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Feti Mehdiu |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ai i cili jep (sadakë) nga pasuria e vet, e pasurohet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Feti Mehdiu</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Feti Mehdiu |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ai qe ndane nga pasuria e tij, duke e pastruar veten (nga te keqiat)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Efendi Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Efendi Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ai që ndanë nga pasuria e tij, duke e pastruar veten (nga të këqiat)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Efendi Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Efendi Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qe e jep pasurine e tij, duke pastruar veten
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 që e jep pasurinë e tij, duke pastruar veten
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ai qe e jep pasurine e vet e pastrohet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sherif Ahmeti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sherif Ahmeti |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ai që e jep pasurinë e vet e pastrohet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sherif Ahmeti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sherif Ahmeti |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ai qe e jep pasurine e vet e pastrohet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ai që e jep pasurinë e vet e pastrohet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Amharic
 
-
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ya yemit’irara hono genizebuni (ledihochi) yemiset’ewi፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ya yemīt’irara ẖono genizebuni (lediẖochi) yemīset’ewi፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ያ የሚጥራራ ኾኖ ገንዘቡን (ለድኾች) የሚሰጠው፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 «الذي يؤتي ماله يتزكى» متزكيا به عند الله تعالى بأن يخرجه لله تعالى لا رياء ولا سمعة، فيكون زاكيا عند الله، وهذا نزل في الصدّيق رضي الله عنه لما اشترى بلالا المعذب على إيمانه وأعتقه، فقال الكفار: إنما فعل ذلك ليد كانت له عنده فنزلت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 wsyuzhzah eanha shadid altqwa, aldhy ybdhl malah abtigha' almazid min alkhyr. walays 'iinfaquh dhak mkafat liman asda 'iilayh merwfa, lknh ybtghy bdhlk wajh rabih al'aelaa wrdah, walasawf yetyh allah fi aljanat ma yardaa bh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وسيُزحزَح عنها شديد التقوى، الذي يبذل ماله ابتغاء المزيد من الخير. وليس إنفاقه ذاك مكافأة لمن أسدى إليه معروفا، لكنه يبتغي بذلك وجه ربه الأعلى ورضاه، ولسوف يعطيه الله في الجنة ما يرضى به
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allathee yutee malahu yatazakka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allazee yu'tee maalahoo yatazakkaa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allathee yu/tee malahuyatazakka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allathee yu/tee malahu yatazakka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 alladhi yu'ti malahu yatazakka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 alladhi yu'ti malahu yatazakka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 alladhī yu'tī mālahu yatazakkā
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٱلَّذِی یُؤۡتِی مَالَهُۥ یَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Academy</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Academy |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Bazzi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Bazzi |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اَ۬لَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكّٜ يٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Doori</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Doori |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اَ۬لَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكّۭيٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Doori Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Doori Non Unicode |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الَّذِيۡ يُؤۡتِيۡ مَالَهٗ يَتَزَكّٰيۚ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Indopak</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Indopak |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٱلَّذِی یُؤۡتِی مَالَهُۥ یَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Khaled Hosney</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Khaled Hosney |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الَّذِيۡ يُؤۡتِيۡ مَالَهٗ يَتَزَكّٰي ١٨ﶔ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Nastaleeq Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Nastaleeq Non Unicode |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Ladhi Yu'uti Malahu Yatazakka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Phonetics Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Phonetics Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Ladhī Yu'utī Mālahu Yatazakká
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Phonetics Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Phonetics Transliteration |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اَ۬لذِے يُؤْتِے مَالَهُۥ يَتَزَكَّيٰۖ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Qaloon</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Qaloon |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Qumbul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Qumbul |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Shouba</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Shouba |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Simple</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Simple |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اَ۬لَّذِي يُوتِي مَالَهُۥ يَتَزَكّٜ يٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Soosi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Soosi |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اَ۬لَّذِي يُوتِي مَالَهُۥ يَتَزَكّۭيٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Soosi Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Soosi Non Unicode |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Enc</td></tr></tbody></table></div>
+ٱلَّذِی یُؤۡتِی مَالَهُۥ یَتَزَكَّىٰ
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Enc |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Hafs</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Hafs |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الذي يوتي ماله يتزكى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Hafs No Diacritics</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Hafs No Diacritics |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اَ۬لذِے يُوتِے مَالَهُۥ يَتَزَكّ۪يٰۖ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Warsh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Warsh |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Siraj Tafseer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Siraj Tafseer |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الذي يوتي ماله يتزكى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Siraj Tafseer No Diacritics</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Siraj Tafseer No Diacritics |
 
 ## Assamese
 
-
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yiye atmasud'dhira babe nija sampada dana karae
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yiẏē ātmaśud'dhira bābē nija sampada dāna karaē
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যিয়ে আত্মশুদ্ধিৰ বাবে নিজ সম্পদ দান কৰে
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
 ## Azerbaijani
 
-
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kimsə ki, malını Allah yolunda verir, gunahlardan təmizlənir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alikhan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alikhan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kimsə ki, malını Allah yolunda verir, günahlardan təmizlənir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alikhan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alikhan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kimsə ki, malını Allah yolunda verir, gunahlardan tə­miz­lə­nir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kimsə ki, malını Allah yolunda verir, günahlardan tə­miz­lə­nir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kimsə ki, malını (Allah yolunda) verib (gunahlardan) təmizlənər
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Vasim Mammadaliyev And Ziya Bunyadov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Vasim Mammadaliyev And Ziya Bunyadov |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O kimsə ki, malını (Allah yolunda) verib (günahlardan) təmizlənər
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Vasim Mammadaliyev And Ziya Bunyadov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Vasim Mammadaliyev And Ziya Bunyadov |
 
 ## Bambara
 
-
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߡߍ߲ ߦߴߊ߬ ߟߊ߫ ߣߊ߲߬ߝߟߏ ߘߌ߫ ߟߊ߫ ߞߵߊ߬ ߖߘߍ߬ ߟߛߊߣߌ߲ߧߊ߫ ( ߞߊ߬ ߓߐ߫ ߓߏ߬ߞߎ߬ߣߊ߲߬ߦߊ ߡߊ߬)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Deen Muhammad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Deen Muhammad |
 
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߡߍ߲ ߦߴߊ߬ ߟߊ߫ ߣߊ߲߬ߝߟߏ ߘߌ߫ ߟߊ߫ ߞߵߊ߬ ߖߘߍ߬ ߛߊߣߌ߲ߧߊ߫
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fodi Suliman Kanti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fodi Suliman Kanti |
 
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߡߍ߲ ߦߴߊ߬ ߟߊ߫ ߣߊ߲߬ߝߟߏ ߘߌ߫ ߟߊ߫ ߞߵߊ߬ ߖߘߍ߬ ߟߛߊߣߌ߲ߧߊ߫ ( ߞߊ߬ ߓߐ߫ ߓߏ߬ߞߎ߬ߣߊ߲߬ߦߊ ߡߊ߬)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Karamo Baba Mamadi Jani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Karamo Baba Mamadi Jani |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ye sbiya sampada dana kare atasud'dhira jan'ya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yē sbīẏa sampada dāna karē ātaśud'dhira jan'ya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-যে স্বীয় সম্পদ দান করে আতশুদ্ধির জন্য [১]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
+যে স্বীয় সম্পদ দান করে আতশুদ্ধির জন্য \[১\]
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ye atnasud'dhira jan'ye tara dhana-sampada dana kare.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yē ātnaśud'dhira jan'yē tāra dhana-sampada dāna karē.
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যে আত্নশুদ্ধির জন্যে তার ধন-সম্পদ দান করে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ye tara dhanadelata dana kare, a‌tmasud'dhi kare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yē tāra dhanadēlata dāna karē, ā‌tmaśud'dhi karē
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যে তার ধনদেলত দান করে, আ‌ত্মশুদ্ধি করে
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
 ## Berber
 
-
-<div dir="ltr" lang="ber" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i ipseddiqen seg wayla s i tezdeg
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ramdane At Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ramdane At Mansour |
 
-<div dir="ltr" lang="ber" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i ipseddiqen seg wayla s i tezdeg
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ramdane At Mansour</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ramdane At Mansour |
 
 ## Bosnian
 
-
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao, da bi se ocistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Besim Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Besim Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao, da bi se očistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Besim Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Besim Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao, da bi se ocistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao, da bi se očistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao, da bi se ocistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhamed Mehanovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhamed Mehanovic |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao, da bi se očistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhamed Mehanovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhamed Mehanovic |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Koji daje imetak svoj, cisteci se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Mlivo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Mlivo |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Koji daje imetak svoj, čisteći se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Mlivo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Mlivo |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 EL-LEDHI JU’UTI MALEHU JETEZEKKA
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Transliterim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Transliterim |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao da bi se ocistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 onaj koji bude dio imetka svoga udjeljivao da bi se očistio
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Bulgarian
 
-
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 koito razdava svoeto bogat·stvo, za da se prechisti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 koĭto razdava svoeto bogat·stvo, za da se prechisti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 който раздава своето богатство, за да се пречисти
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
 ## Burmese
 
-
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို (အရှင့်ကို သိစိတ်မပြတ် ထားလျက် ဘဝဆောက်တည်) သူသည် (အရှင်မြတ်ပေးအပ်တော်မူထားသော) သူ၏ဥစ္စာဓနပိုင်ဆိုင်မှုများကို (အရှင်မြတ်၏ကျေနပ်နှစ်မြို့အတွက်) ပေးကမ်းလှူဒါန်း၍ သူ့ကိုယ်သူ သန့်ရှင်းစင်ကြယ်စေလေ့ရှိ၏။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alin U Yin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alin U Yin |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၁၈။ ထိုသူမြတ်တို့သည် သန့်ရှင်းစင်ကြယ်စေခြင်းငှာ မိမိပိုင်ပစ္စည်းဥစ္စာကို ပေးကမ်းစွန့်ကြဲ၏။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ba Sein |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 အကြင် (ကြောက်ရွံ့ရိုသေခန့်ညားသော)သူသည် မိမိ သန့်ရှင်းစင်ကြယ်အံ့သောငှာ မိမိ ဥစ္စာပစ္စည်းကိုပေးကမ်းလှူဒါန်း၏။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ghazi Mohammad Hashim |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထိုသူသည် သူသန့်ရှင်းစင်ကြယ်ရန် သူ၏ဥစ္စာပစ္စည်းကို ‌ပေးကမ်းလှူဒါန်းသည်။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hashim Tin Myint</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hashim Tin Myint |
 
 ## Catalan
 
-
-<div dir="ltr" lang="ca" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 que dona la seva hisenda per a purificar-se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Youssef Lyoussi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Youssef Lyoussi |
 
-<div dir="ltr" lang="ca" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 que dóna la seva hisenda per a purificar-se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Youssef Lyoussi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Youssef Lyoussi |
 
 ## Chichewa
 
-
-<div dir="ltr" lang="ny" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amene amapereka chaulere chake poonjezera kudziyeretsa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Al Haji Yusuf Muhammad Kanyamula</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Al Haji Yusuf Muhammad Kanyamula |
 
-<div dir="ltr" lang="ny" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “Amene akupereka chuma chake ndi cholinga chodziyeretsa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khaled Ibrahim Betala</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Khaled Ibrahim Betala |
 
 ## Chinese(simplified)
 
-
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ta qiancheng de shishe ta de caichan,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tā qiánchéng de shīshě tā de cáichǎn,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 他虔诚地施舍他的财产，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-yinwei ta [jingwei zhe] wei jinghua zishen er [wei an la zhi dao] shiyong ziji de caifu,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
+yinwei ta \[jingwei zhe\] wei jinghua zishen er \[wei an la zhi dao\] shiyong ziji de caifu,
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-yīnwèi tā [jìngwèi zhě] wèi jìnghuà zìshēn ér [wéi ān lā zhī dào] shīyòng zìjǐ de cáifù,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
+yīnwèi tā \[jìngwèi zhě\] wèi jìnghuà zìshēn ér \[wéi ān lā zhī dào\] shīyòng zìjǐ de cáifù,
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-因为他[敬畏者]为净化自身而[为安拉之道]施用自己的财富，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
+因为他\[敬畏者\]为净化自身而\[为安拉之道\]施用自己的财富，
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ta qiancheng de shishe ta de caichan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tā qiánchéng de shīshě tā de cáichǎn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 他虔诚地施舍他的财产，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
 ## Chinese(traditional)
 
-
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ta qiancheng de shishe ta de caichan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tā qiánchéng de shīshě tā de cáichǎn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 他 虔诚地施舍他的财产，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ta qiancheng de shishe ta de caichan,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tā qiánchéng de shīshě tā de cáichǎn,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 他虔誠地施捨他的財產，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
 ## Croatian
 
-
-<div dir="ltr" lang="hr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Koji daje imetak svoj, cisteci se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="hr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Koji daje imetak svoj, čisteći se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Czech
 
-
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jenz rozdava ze jmeni sveho, aby cistsim stal se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. R. Nykl</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. R. Nykl |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jenž rozdává ze jmění svého, aby čistším stal se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. R. Nykl</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. R. Nykl |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ktery odevzdat svem penize milodar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Který odevzdat svém peníze milodar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jenz ze jmeni sveho daval, aby cistym se stal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Preklad I. Hrbek</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Preklad I. Hrbek |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jenž ze jmění svého dával, aby čistým se stal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Preklad I. Hrbek</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Preklad I. Hrbek |
 
 ## Dagbani
 
-
-<div dir="ltr" lang="dag" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ŋuna n-nyɛ ŋun tiri o liɣiri, ka niŋdi li kasi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Baba Ghtobo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Baba Ghtobo |
 
 ## Danish
 
-
-<div dir="ltr" lang="da" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Som giver hans penge velgørenhed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="da" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Die zijn rijkdommen weggeeft om zich te louteren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Van De Taal |
 
 ## Dari
 
-
-<div dir="rtl" lang="prs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آن که مال خود را می‌دهد تا پاک شود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mawlawi Muhammad Anwar Badkhashani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Mawlawi Muhammad Anwar Badkhashani |
 
 ## Divehi
 
-
-<div dir="rtl" lang="dv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 އެމީހާއީ، އެމީހާ طاهر ވެގަތުމަށްޓަކައި، އޭނާގެ މުދާ ހޭދަކުރާ މީހާއެވެ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Office Of The President Of Maldives</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Office Of The President Of Maldives |
 
 ## Dutch
 
-
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 hij die zijn bezit gegeven heeft om zich te louteren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fred Leemhuis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fred Leemhuis |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Die zijn vermogen aan aalmoezen besteedt, om zich meer te zuiveren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Salomo Keyzer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Salomo Keyzer |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Degene die van zijn bezit geeft om zich te reinigen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sofian S. Siregar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sofian S. Siregar |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Die zijn rijkdommen weggeeft om zich te louteren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Van De Taal |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who gives his wealth away as self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdel Haleem</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdel Haleem |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 the one who spends his wealth (in charity) that may grow (for self-purification)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hye</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hye |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Those who spend their wealth for increase in self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Yusuf Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Yusuf Ali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who giveth away his substance that he may be cleansed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Majid Daryabadi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Majid Daryabadi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 the Godfearing who spends his wealth to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul Ala Maududi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And gives of his wealth that he may grow in virtue
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahmed Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahmed Ali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 those who give their wealth to purify themselves —
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Aisha Bewley</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Aisha Bewley |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 even he who gives his wealth. to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. J. Arberry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. J. Arberry |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Those who give their wealth for self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Al Bilal Muhammad Et Al</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Al Bilal Muhammad Et Al |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The one who gives his wealth to be purified
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bakhtiari Nejad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bakhtiari Nejad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 —he who gives his wealth to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Quli Qarai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Quli Qarai |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 —he who gives his wealth to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Quli Qarai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Quli Qarai |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who spends his wealth (in God’s cause and for the needy), so that he may grow in purity
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Unal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Unal |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who spends of his wealth in benefaction
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Almuntakhab Fi Tafsir Alquran Alkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Almuntakhab Fi Tafsir Alquran Alkarim |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 that one who spends his wealth: he sanctifies (himself)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Kamal Omar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Kamal Omar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 He who gives of his wealth to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Laleh Bakhtiar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Laleh Bakhtiar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The one who sought to purify ( his soul), and spent his wealth (in charity)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Munir Munshey</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Munir Munshey |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 he who gives his wealth in alms
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edward Henry Palmer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edward Henry Palmer |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 the one who spends in charity for self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Farook Malik</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Farook Malik |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who giveth his substance in alms
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Sale</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Sale |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 He who gives his wealth that he may grow
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid S Aziz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid S Aziz |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who giveth away his substance that he may become pure
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>John Medows Rodwell</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | John Medows Rodwell |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who gives/brings his property/possession/wealth (and) purifies/corrects (himself)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Literal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Literal |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 the Godfearing who spends his wealth to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maududi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 he who gives his wealth for his self purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mir Anees Original</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mir Anees Original |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 he who gives his wealth for his self purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mir Aneesuddin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mir Aneesuddin |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who gives away his wealth, purifying himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Habib Shakir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Habib Shakir |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-He who spends his wealth [on others] to keep himself pure
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Shafi</td></tr></tbody></table></div>
+He who spends his wealth \[on others\] to keep himself pure
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Shafi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who giveth his wealth that he may grow (in goodness)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammed Marmaduke William Pickthall</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammed Marmaduke William Pickthall |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who gives his wealth (in charity) to become purified
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mufti Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mufti Taqi Usmani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-he that spends his possessions [on others] so that he might grow in purity –
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad</td></tr></tbody></table></div>
+he that spends his possessions \[on others\] so that he might grow in purity –
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (He) who brings (forth) his wealth to cleanse himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Mahmoud Ghali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Mahmoud Ghali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and purify themselves will be safe from this fire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Sarwar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Sarwar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 He who spends his wealth for increase in self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who gives his wealth (in charity) to become purified
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Usmani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who donate ˹some of˺ their wealth only to purify themselves
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Khattab Allah Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Khattab Allah Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who donate ˹some of˺ their wealth only to purify themselves
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Khattab God Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Khattab God Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and so shall he that does good works
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>N J Dawood</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | N J Dawood |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who spends his wealth to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who gives his wealth away to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Safi Kaskas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Safi Kaskas |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 He who gives of his wealth for self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Safi Ur Rahman Al Mubarakpuri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Safi Ur Rahman Al Mubarakpuri |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who gives his wealth that he may grow in goodness
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shabbir Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shabbir Ahmed |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Those who spend their wealth for increase in self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Syed Vickar Ahamed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Syed Vickar Ahamed |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 He who gives his money to become pure
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Talal A Itani New Translation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Talal A Itani New Translation |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 He who gives his money to become pure
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Talal Itani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Talal Itani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 the one who gives his money away and (thereby) purifies himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tbirving</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tbirving |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The one who gives his money to develop with
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Monotheist Group Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Monotheist Group Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The one who gives his money to purify
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Monotheist Group Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Monotheist Group Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 who gives his wealth to purify
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Study Quran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Study Quran |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-[He] who gives [from] his wealth to purify himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Umm Muhammad</td></tr></tbody></table></div>
+\[He\] who gives \[from\] his wealth to purify himself
 
+| Details |  |
+| --- | --- |
+| Author | Umm Muhammad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 one who gives his wealth to become purified
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Wahiduddin Khan |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Those who spend their wealth for increase in self-purification
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yusuf Ali Orig</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yusuf Ali Orig |
 
 ## Esperanto
 
-
-<div dir="ltr" lang="eo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Who don his mon charity
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Filipino
 
-
-<div dir="ltr" lang="fil" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sila na gumugugol ng kanilang kayamanan upang magkamit ng kadalisayan (sa kanilang sarili)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullatif Eduardo M. Arceo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullatif Eduardo M. Arceo |
 
-<div dir="ltr" lang="fil" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-na nagbibigay ng yaman niya habang nagpapakalinis [sa kasalanan]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+na nagbibigay ng yaman niya habang nagpapakalinis \[sa kasalanan\]
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Finnish
 
-
-<div dir="ltr" lang="fi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 han, joka antaa pois rikkautensa puhdistuakseen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="fi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 hän, joka antaa pois rikkautensa puhdistuakseen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui depense de ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui dépense de ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui donne ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hameedullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hameedullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui donne ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hameedullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hameedullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui donne ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hamidullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hamidullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui donne ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hamidullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hamidullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a depense ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rashid Maash</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rashid Maash |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a dépensé ses biens pour se purifier
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rashid Maash</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rashid Maash |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui preleve l’aumone sur ses biens pour purifier son ame
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shahnaz Saidi Benbetka</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shahnaz Saidi Benbetka |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 qui prélève l’aumône sur ses biens pour purifier son âme
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shahnaz Saidi Benbetka</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shahnaz Saidi Benbetka |
 
 ## Fulah
 
-
-<div dir="ltr" lang="ff" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oon tottiroowo jawdi makko ngam o laaɓa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowad Translation Center And Islamhouse</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowad Translation Center And Islamhouse |
 
 ## Ganda
 
-
-<div dir="ltr" lang="lg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oyo awaayo ku by'alina ng’anoonya okwetukuza eri Katonda (so si bandabe oba okwatiikirira)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fareeq Musa</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Fareeq Musa |
 
 ## German
 
-
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der sein Vermogen hergibt, um sich zu reinigen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Rida Muhammad Ibn Ahmad Ibn Rassoul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Rida Muhammad Ibn Ahmad Ibn Rassoul |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der sein Vermögen hergibt, um sich zu reinigen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Rida Muhammad Ibn Ahmad Ibn Rassoul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Rida Muhammad Ibn Ahmad Ibn Rassoul |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Der sein Vermogen hergibt, um sich zu lautern
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adel Theodor Khoury</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adel Theodor Khoury |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Der sein Vermögen hergibt, um sich zu läutern
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adel Theodor Khoury</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adel Theodor Khoury |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der sein Vermogen spendet und sich reinhalt
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Amir Zaidan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Amir Zaidan |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der sein Vermögen spendet und sich reinhält
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Amir Zaidan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Amir Zaidan |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der seinen Besitz hingibt, um sich zu lautern
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. S. F. Bubenheim And N. Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. S. F. Bubenheim And N. Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der seinen Besitz hingibt, um sich zu läutern
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. S. F. Bubenheim And N. Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. S. F. Bubenheim And N. Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der seinen Besitz hingibt, um sich zu lautern
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Frank Bubenheim And Nadeem Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Frank Bubenheim And Nadeem Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 der seinen Besitz hingibt, um sich zu läutern
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Frank Bubenheim And Nadeem Elyas</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Frank Bubenheim And Nadeem Elyas |
 
 ## Gujarati
 
-
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 je pavitra thava mate potanum dhana ape che
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jē pavitra thavā māṭē pōtānuṁ dhana āpē chē
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 જે પવિત્ર થવા માટે પોતાનું ધન આપે છે
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
 ## Hausa
 
-
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanda yake bayar da dukiyarsa, alhali yana tsarkaka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmood Jummi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmood Jummi |
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanda yake bãyar da dũkiyarsa, alhãli yana tsarkaka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmood Jummi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmood Jummi |
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanda yake bayar da dukiyarsa, alhali yana tsarkaka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmoud Gumi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmoud Gumi |
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanda yake bãyar da dũkiyarsa, alhãli yana tsarkaka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmoud Gumi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmoud Gumi |
 
 ## Hebrew
 
-
-<div dir="rtl" lang="he" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 אשר תורם ממונו להיטהר
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Darusalam House In Jerusalem</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Darusalam House In Jerusalem |
 
-<div dir="rtl" lang="he" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 אשר תורם ממונו להיטהר
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Hindi
 
-
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jo apana dhan, daan karata hai, taaki pavitr ho jaaye
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maulana Azizul Haque Al Umari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maulana Azizul Haque Al Umari |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 जो अपना धन, दान करता है, ताकि पवित्र हो जाये।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maulana Azizul Haque Al Umari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maulana Azizul Haque Al Umari |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jo apana maal dekar apane aapako nikhaarata hai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Farooq Khan And Muhammad Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Farooq Khan And Muhammad Ahmed |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 जो अपना माल देकर अपने आपको निखारता है
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Farooq Khan And Muhammad Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Farooq Khan And Muhammad Ahmed |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jo apana maal (khuda kee raah) mein deta hai taaki paak ho jae
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suhel Farooq Khan And Saifur Rahman Nadwi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suhel Farooq Khan And Saifur Rahman Nadwi |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 जो अपना माल (ख़ुदा की राह) में देता है ताकि पाक हो जाए
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suhel Farooq Khan And Saifur Rahman Nadwi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Suhel Farooq Khan And Saifur Rahman Nadwi |
 
 ## Hungarian
 
-
-<div dir="ltr" lang="hu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aki odaadja vagyonat, hogy megtisztitsa magat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Ahmed Abdel Rahman Okfat Tashaab</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Ahmed Abdel Rahman Okfat Tashaab |
 
-<div dir="ltr" lang="hu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aki odaadja vagyonát, hogy megtisztítsa magát
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Ahmed Abdel Rahman Okfat Tashaab</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Dr. Ahmed Abdel Rahman Okfat Tashaab |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Indonesian Islamic Affairs Ministry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Indonesian Islamic Affairs Ministry |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Yang menafkahkan hartanya untuk membersihkannya) untuk membersihkannya di sisi Allah swt. seumpamanya dia mengeluarkannya bukan karena ria atau pamer dan gengsi, maka setelah itu harta yang dimilikinya menjadi bersih di sisi-Nya nanti. Ayat ini diturunkan berkenaan dengan Abu Bakar Ash-Shiddiq r.a. yaitu sewaktu ia membeli Bilal yang sedang disiksa oleh majikannya karena beriman. Setelah membelinya lalu langsung memerdekakannya. Pada saat itu juga orang-orang kafir mengatakan, bahwa tiada lain Abu Bakar melakukan hal tersebut karena ia telah berutang jasa kepadanya. Maka pada saat itu turunlah ayat ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yang menafkahkan hartanya (di jalan Allah) untuk membersihkannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahd Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahd Complex |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan orang yang sangat takut untuk bersikap ingkar dan berbuat maksiat yang menafkahkan hartanya di jalan kebaikan untuk menyucikannya dari kotoran kekikiran akan dijauhkan dari api neraka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Quraish Shihab Et Al.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Quraish Shihab Et Al. |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Sabiq Company</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Sabiq Company |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Iranun
 
-
-<div dir="ltr" lang="ilp" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A so Puphamumugai ko tamok iyan ka-an Masoti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Aziz Gro Aalem Saromintang</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdul Aziz Gro Aalem Saromintang |
 
 ## Italian
 
-
-<div dir="ltr" lang="it" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 che da dei suoi beni per purificarsi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamza Roberto Piccardo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamza Roberto Piccardo |
 
-<div dir="ltr" lang="it" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 che dà dei suoi beni per purificarsi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamza Roberto Piccardo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hamza Roberto Piccardo |
 
 ## Japanese
 
-
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sono tomi o hodokoshi, jibun o kiyomeru
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sono tomi o hodokoshi, jibun o kiyomeru
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 その富を施し，自分を清める。
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
 ## Javanese
 
-
-<div dir="ltr" lang="jv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kang mewehake bandhane, anuceni dirine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="jv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kang mewehake bandhane, anuceni dirine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Kannada
 
-
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 avanu parisud'dhanagalikkagi tanna sampattannu (sanmargadalli) dana maduttane
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 avanu pariśud'dhanāgalikkāgi tanna sampattannu (sanmārgadalli) dāna māḍuttāne
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ಅವನು ಪರಿಶುದ್ಧನಾಗಲಿಕ್ಕಾಗಿ ತನ್ನ ಸಂಪತ್ತನ್ನು (ಸನ್ಮಾರ್ಗದಲ್ಲಿ) ದಾನ ಮಾಡುತ್ತಾನೆ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
 ## Kazakh
 
-
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonday malın sarıp qılıp tazargandar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sonday malın sarıp qılıp tazarğandar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сондай малын сарып қылып тазарғандар
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sonday, mal-duniesinen berip tazargan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sonday, mal-dünïesinen berip tazarğan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 сондай, мал-дүниесінен беріп тазарған
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
 ## Kendayan
 
-
-<div dir="ltr" lang="knx" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nang mangefale’katn hartanya (ka’ maraga Allah) nto’ marasehatn (diri’ nya)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Khmer
 
-
-<div dir="ltr" lang="km" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 del brichcheak tropy sa mb tde robsa ke daembi saamatakhluon
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cambodian Muslim Community Development</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cambodian Muslim Community Development |
 
-<div dir="ltr" lang="km" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ដែលបរិច្ចាគទ្រព្យសម្បត្ដិរបស់គេដើម្បីសំអាតខ្លួន។
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cambodian Muslim Community Development</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Cambodian Muslim Community Development |
 
 ## Kinyarwanda
 
-
-<div dir="ltr" lang="rw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wawundi utanga umutungo we kugira ngo yiyeze
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>R. M. C. Rwanda</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | R. M. C. Rwanda |
 
-<div dir="ltr" lang="rw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wa wundi utanga umutungo we kugira ngo yiyeze
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rwanda Muslims Association Team</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rwanda Muslims Association Team |
 
 ## Kirghiz
 
-
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al mal-mulkun (Allaһ jolunda) berip, (ozun saraŋdıktan) tazalagan kisi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al mal-mülkün (Allaһ jolunda) berip, (özün saraŋdıktan) tazalagan kişi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ал мал-мүлкүн (Аллаһ жолунда) берип, (өзүн сараңдыктан) тазалаган киши
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
 ## Korean
 
-
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ideul-eun geudeul-ui jaesan-eul bachi myeo seuseuloleul sungyeolke hasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid Choi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid Choi |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 이들은 그들의 재산을 바치 며 스스로를 순결케 하사
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid Choi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid Choi |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ideul-eun geudeul-ui jaesan-eul bachi myeo seuseuloleul sungyeolke hasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 이들은 그들의 재산을 바치 며 스스로를 순결케 하사
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Kurdish
 
-
-<div dir="rtl" lang="ku" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ئه‌و جۆره که‌سه‌ی ماڵ و سامانی ده‌به‌خشێت به‌وه دڵ و ده‌روونی خۆی خاوێن ڕاده‌گرێت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Burhan Muhammad Amin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Burhan Muhammad Amin |
 
-<div dir="rtl" lang="ku" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ئەوەی ماڵی خۆی دەبەخشێت تا (دڵ ودەرونی) پاك ببێتەوە
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Saleh Bamoki</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Saleh Bamoki |
 
 ## Kurmanji
 
-
-<div dir="ltr" lang="kmr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Ewe Xuda pariz) ew e, ku male xwe (di reya Yezdan da )sixurandiye (mali xwe) paqij kiriye
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="kmr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Ewê Xuda pariz) ew e, ku malê xwe (di rêya Yezdan da )sixurandîye (mali xwe) paqij kirîye
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Latin
 
-
-<div dir="ltr" lang="la" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Qui dedit his moneta charity
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Lingala
 
-
-<div dir="ltr" lang="ln" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oyó azali kopesa bomengo bwaye mpo apetwama
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zakariya Muhammed Balingongo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zakariya Muhammed Balingongo |
 
 ## Luyia
 
-
-<div dir="ltr" lang="luy" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ulia Urusinjia omwandu kukwe khulwo khwitswenula
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah |
 
 ## Macedonian
 
-
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 тој што од имотот свој ќе дава, за да се исчисти
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Macedonian Scholars</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Macedonian Scholars |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 koj go dava imotot svoj da se OCISTI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 koj go dava imotot svoj da se OČISTI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 кој го дава имотот свој да се ОЧИСТИ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
 ## Malay
 
-
-<div dir="ltr" lang="ms" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yang mendermakan hartanya dengan tujuan membersihkan dirinya dan hartabendanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Muhammad Basmeih</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdullah Muhammad Basmeih |
 
 ## Malayalam
 
-
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 parisud'dhinetuvanayi tanre dhanam nalkunna (vyakti)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pariśud'dhinēṭuvānāyi tanṟe dhanaṁ nalkunna (vyakti)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 പരിശുദ്ധിനേടുവാനായി തന്‍റെ ധനം നല്‍കുന്ന (വ്യക്തി)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 parisud'dhinetuvanayi tanre dhanam nalkunna (vyakti)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pariśud'dhinēṭuvānāyi tanṟe dhanaṁ nalkunna (vyakti)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 പരിശുദ്ധിനേടുവാനായി തന്‍റെ ധനം നല്‍കുന്ന (വ്യക്തി)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dhanam vyayam ceyt visud'dhi varikkunnavananavan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dhanaṁ vyayaṁ ceyt viśud'dhi varikkunnavanāṇavan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ധനം വ്യയം ചെയ്ത് വിശുദ്ധി വരിക്കുന്നവനാണവന്‍
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
 ## Maltese
 
-
-<div dir="ltr" lang="mt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 lijagħti gidu (biex) jissaffa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Martin R. Zammit, Muhammad El Sadi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Martin R. Zammit, Muhammad El Sadi |
 
-<div dir="ltr" lang="mt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 lijagħti ġidu (biex) jissaffa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Martin R. Zammit, Muhammad El Sadi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Martin R. Zammit, Muhammad El Sadi |
 
 ## Maranao
 
-
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A so pphammgay ko tamok iyan, ka an masoti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Guro Alim Saromantang</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Guro Alim Saromantang |
 
 ## Marathi
 
-
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jo svaccha sud'dhata (paki) prapta karanyasathi apale dhana deto
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jō svaccha śud'dhatā (pākī) prāpta karaṇyāsāṭhī āpalē dhana dētō
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 १८. जो स्वच्छ शुद्धता (पाकी) प्राप्त करण्यासाठी आपले धन देतो
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
 ## Nepali
 
-
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jasale aphno sampatti di'era aphula'i sud'dha bana'umdacha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jasalē āphnō sampatti di'ēra āphūlā'ī śud'dha banā'um̐dacha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 जसले आफ्नो सम्पत्ति दिएर आफूलाई शुद्ध बनाउँदछ ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
 ## Norwegian
 
-
-<div dir="ltr" lang="no" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 som gir ut det han eier for a rense seg
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Einar Berg</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Einar Berg |
 
-<div dir="ltr" lang="no" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 som gir ut det han eier for å rense seg
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Einar Berg</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Einar Berg |
 
 ## Oromo
 
-
-<div dir="ltr" lang="om" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kan qabeenya isaa qulqulleeffachuuf kennu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghali Apapur Apaghuna</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ghali Apapur Apaghuna |
 
 ## Panjabi
 
-
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jihara pavitara hona la'i apani ja'idada dida hai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jihaṛā pavitara hōṇa la'ī āpaṇī jā'idāda didā hai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ਜਿਹੜਾ ਪਵਿੱਤਰ ਹੋਣ ਲਈ ਆਪਣੀ ਜਾਇਦਾਦ ਦਿੰਦਾ ਹੈ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
 ## Persian
 
-
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آن كه مال خويش مى‌بخشايد و پاكى مى‌جويد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 همان كه مال خود را مى‌دهد تا پاك شود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abolfazl Bahrampour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abolfazl Bahrampour |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 همان کسی که مالش را می‌بخشد که پاکدلی یابد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Baha Oddin Khorramshahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Baha Oddin Khorramshahi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (همان) کسی‌که مال خود را (در راه الله) می‌بخشد تا پاک شود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Hussien Tagi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Hussien Tagi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-همان که مال خود را انفاق می کند تا [مال] رشد و نمو کند
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hussain Ansarian</td></tr></tbody></table></div>
+همان که مال خود را انفاق می کند تا \[مال\] رشد و نمو کند
 
+| Details |  |
+| --- | --- |
+| Author | Hussain Ansarian |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-[همان] کسی‌که مال خود را [در راه الله] می‌بخشد تا [از گناه] پاک شود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamhouse.com Persian Team</td></tr></tbody></table></div>
+\[همان\] کسی‌که مال خود را \[در راه الله\] می‌بخشد تا \[از گناه\] پاک شود
 
+| Details |  |
+| --- | --- |
+| Author | Islamhouse.com Persian Team |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آن کس که مال خود را (به فقیران اسلام) به وجه زکات بدهد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahdi Elahi Ghomshei</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mahdi Elahi Ghomshei |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 که دهد مالش را پاکی جوید
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Kazem Moezzi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Kazem Moezzi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-همان كه مال خود را مى‌دهد [براى آنكه‌] پاك شود،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Mahdi Fooladvand</td></tr></tbody></table></div>
+همان كه مال خود را مى‌دهد \[براى آنكه‌\] پاك شود،
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Mahdi Fooladvand |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کسی که مال خود را می‌دهد، در حالی که خود را پاک می‌کند
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Sadeqi Tehrani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Sadeqi Tehrani |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 همان که مالش را مى‌بخشد تا پاک شود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohsen Gharaati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohsen Gharaati |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آن کسی که دارائی خود را (در راه خدا خرج می‌کند و) می‌دهد تا خویشتن را (به وسیله‌ی این کار، از کثافت بخل) پاکیزه بدارد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mostafa Khorramdel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mostafa Khorramdel |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 همان کس که مال خود را (در راه خدا) می‌بخشد تا پاک شود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naser Makarem Shirazi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naser Makarem Shirazi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 آن كه مال خود را مى‌دهد تا پاك و پيراسته شود- از پليدى بخل و امساك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sayyed Jalaloddin Mojtabavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sayyed Jalaloddin Mojtabavi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (همان) کسی مال خود را (در راه خدا) می بخشد تا پاک شود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Polish
 
-
-<div dir="ltr" lang="pl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ktory daje swoj majatek, by sie oczyscic
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jozefa Bielawskiego</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jozefa Bielawskiego |
 
-<div dir="ltr" lang="pl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Który daje swój majątek, by się oczyścić
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jozefa Bielawskiego</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Jozefa Bielawskiego |
 
 ## Portuguese
 
-
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Que concede sua riqueza, para dignificar-se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Helmi Nasr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Helmi Nasr |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Que concede sua riqueza, para dignificar-se
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Helmi Nasr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Helmi Nasr |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Que aplica os seus bens, com o fito de purifica-los
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Samir El Hayek</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Samir El Hayek |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Que aplica os seus bens, com o fito de purificá-los
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Samir El Hayek</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Samir El Hayek |
 
 ## Pushto
 
-
-<div dir="rtl" lang="ps" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 هغه چې خپل مال د دې لپاره وركوي چې پاك شي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulwali Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulwali Khan |
 
-<div dir="rtl" lang="ps" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 هغه چې خپل مال د دې لپاره وركوي چې پاك شي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zakaria Abulsalam</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zakaria Abulsalam |
 
 ## Romanian
 
-
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ca si cel care da din averea sa intru mantuire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Grigore</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Grigore |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ca şi cel care dă din averea sa întru mântuire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Grigore</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Grigore |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cine da his bani caritate
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Care da averea lui [ca milostenie] ºi se curaþeºte
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+Care da averea lui \[ca milostenie\] ºi se curaþeºte
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Care dã averea lui [ca milostenie] ºi se curãþeºte
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+Care dã averea lui \[ca milostenie\] ºi se curãþeºte
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Rundi
 
-
-<div dir="ltr" lang="rn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Uwutanga amatungo yiwe kugira ngo yisukure
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Amissi Radjabu Ntamba</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Amissi Radjabu Ntamba |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ca si cel care da din averea sa intru mantuire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Adel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Adel |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 который приносит свое имущество (чтобы потратить их на пути блага), чтобы очиститься (только ради того, чтобы быть чистым от грехов перед Аллахом, а не напоказ людям и не для доброй молвы о нем)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Adel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Adel |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 kotoryy razdayet svoye imushchestvo, ochishchayas'
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmir Kuliev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmir Kuliev |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 который раздает свое имущество, очищаясь
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmir Kuliev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmir Kuliev |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tot, kotoryy s imushchestva, kakim nadelen on, dayet ochistitel'nuyu milostynyu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gordy Semyonovich Sablukov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gordy Semyonovich Sablukov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Тот, который с имущества, каким наделен он, дает очистительную милостыню
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gordy Semyonovich Sablukov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gordy Semyonovich Sablukov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 kotoryy prinosit svoye dostoyaniye, chtoby ochistit'sya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ignaty Yulianovich Krachkovsky</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ignaty Yulianovich Krachkovsky |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 который приносит свое достояние, чтобы очиститься
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ignaty Yulianovich Krachkovsky</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ignaty Yulianovich Krachkovsky |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-kotoryy darit svoye dostoyaniye, chtoby ochistit'sya [ot skverny grekhov]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Magomed Nuri Osmanovich Osmanov</td></tr></tbody></table></div>
+kotoryy darit svoye dostoyaniye, chtoby ochistit'sya \[ot skverny grekhov\]
 
+| Details |  |
+| --- | --- |
+| Author | Magomed Nuri Osmanovich Osmanov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-который дарит свое достояние, чтобы очиститься [от скверны грехов]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Magomed Nuri Osmanovich Osmanov</td></tr></tbody></table></div>
+который дарит свое достояние, чтобы очиститься \[от скверны грехов\]
 
+| Details |  |
+| --- | --- |
+| Author | Magomed Nuri Osmanovich Osmanov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 kto raskhoduyet svoyo bogatstvo na puti Allakha, sovershaya blagochestivyye deyaniya, kto ochistitsya ot oskverneniya skarednosti i merzosti skuposti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ministry Of Awqaf, Egypt</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ministry Of Awqaf, Egypt |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 кто расходует своё богатство на пути Аллаха, совершая благочестивые деяния, кто очистится от осквернения скаредности и мерзости скупости
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ministry Of Awqaf, Egypt</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ministry Of Awqaf, Egypt |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A kto raskhoduyet svoye dobro na samoochishchen'ye
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>V. Porokhova</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | V. Porokhova |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 А кто расходует свое добро на самоочищенье
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>V. Porokhova</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | V. Porokhova |
 
 ## Serbian
 
-
-<div dir="ltr" lang="sr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 онај који буде део свога богатства удељивао, да би се очистио
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center Islamhouse</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center Islamhouse |
 
 ## Shona
 
-
-<div dir="ltr" lang="sn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Uye anopa hupfumi hwake kuti azvichenese
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah J. M. Adini And Students</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdullah J. M. Adini And Students |
 
 ## Sindhi
 
-
-<div dir="rtl" lang="sd" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جيڪو پنھنجو مال (الله جي واٽ ۾) ڏئي ٿو ته پاڪ ٿئي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Taj Mehmood Amroti</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Taj Mehmood Amroti |
 
 ## Sinhala
 
-
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ohu (papayangen tamanva) parisuddha kara gænima pinisa tamange vastuva (danamana vasayen) denu æta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ohu (pāpayangen tamanva) pariśuddha kara gænīma piṇisa tamangē vastuva (dānamāna vaśayen) denu æta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ඔහු (පාපයන්ගෙන් තමන්ව) පරිශුද්ධ කර ගැනීම පිණිස තමන්ගේ වස්තුව (දානමාන වශයෙන්) දෙනු ඇත
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ovuhu kavrunda yat) taman pivituru vemin tama dhanaya ( allah udesa) pirinama pivituru veti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ovuhu kavrunda yat) taman pivituru vemin tama dhanaya ( allāh udesā) pirinamā pivituru veti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ඔවුහු කව්රුන්ද යත්) තමන් පිවිතුරු වෙමින් තම ධනය ( අල්ලාහ් උදෙසා) පිරිනමා පිවිතුරු වෙති
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Slovak
 
-
-<div dir="ltr" lang="sk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kto dat jeho peniaze laska k bliznemu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Somali
 
-
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ee bixiya maalkiisa si uu isu daahiriyo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Hasan Jacob</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Hasan Jacob |
 
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ee bixiya Xoolihiisa si uu u daahirnoqdo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahmud Muhammad Abduh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mahmud Muhammad Abduh |
 
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ee bixiya Xoolihiisa si uu u daahirnoqdo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Mahmood Muhammad Abdu</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Mahmood Muhammad Abdu |
 
 ## Sotho
 
-
-<div dir="ltr" lang="st" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ba fanang ka leruo la bona hore ba tle ba hloeke moeeng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Elias Keketso Lelia</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Elias Keketso Lelia |
 
 ## Spanish
 
-
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aquel que da parte de su riqueza con el anhelo de purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Qader Mouheddine, Sirhan Ali Sanchez.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Qader Mouheddine, Sirhan Ali Sanchez. |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aquel que da parte de su riqueza con el anhelo de purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Qader Mouheddine, Sirhan Ali Sanchez.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Qader Mouheddine, Sirhan Ali Sanchez. |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ese que da de sus riquezas (en obediencia a Al-lah) para purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ese que da de sus riquezas (en obediencia a Al-lah) para purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ese que da de sus riquezas (en obediencia a Al-lah) para purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ese que da de sus riquezas (en obediencia a Al-lah) para purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 que da su hacienda para purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Julio Cortes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Julio Cortes |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 que da su hacienda para purificarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Julio Cortes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Julio Cortes |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-aquel que gasta sus bienes [en los demas] con animo de purificarse –
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad Abdurrasak Perez</td></tr></tbody></table></div>
+aquel que gasta sus bienes \[en los demas\] con animo de purificarse –
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad Abdurrasak Perez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-aquel que gasta sus bienes [en los demás] con ánimo de purificarse –
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad Abdurrasak Perez</td></tr></tbody></table></div>
+aquel que gasta sus bienes \[en los demás\] con ánimo de purificarse –
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad Abdurrasak Perez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-aquel que da parte de su riqueza para purificarse [de la avaricia]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Isa Garcia</td></tr></tbody></table></div>
+aquel que da parte de su riqueza para purificarse \[de la avaricia\]
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Isa Garcia |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-aquel que da parte de su riqueza para purificarse [de la avaricia]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Isa Garcia</td></tr></tbody></table></div>
+aquel que da parte de su riqueza para purificarse \[de la avaricia\]
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Isa Garcia |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 que de de sus bienes y los purifique
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Raul Gonzalez Bornez</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Raul Gonzalez Bornez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 que dé de sus bienes y los purifique
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Raul Gonzalez Bornez</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Raul Gonzalez Bornez |
 
 ## Swahili
 
-
-<div dir="ltr" lang="sw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ambaye hutoa mali yake kwa kutaka nyongeza za kheri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Muhammad Abu Bakr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Muhammad Abu Bakr |
 
-<div dir="ltr" lang="sw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ambaye hutoa mali yake kwa ajili ya kujitakasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Muhsin Al Barwani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ali Muhsin Al Barwani |
 
 ## Swedish
 
+han som ger \[av sina agodelar\] for att rena \[sin sjal\]
 
-<div dir="ltr" lang="sv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-han som ger [av sina agodelar] for att rena [sin sjal]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Knut Bernstrom</td></tr></tbody></table></div>
+| Details |  |
+| --- | --- |
+| Author | Knut Bernstrom |
 
+han som ger \[av sina ägodelar\] för att rena \[sin själ\]
 
-<div dir="ltr" lang="sv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-han som ger [av sina ägodelar] för att rena [sin själ]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Knut Bernstrom</td></tr></tbody></table></div>
+| Details |  |
+| --- | --- |
+| Author | Knut Bernstrom |
 
 ## Tajik
 
-
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 on ki moli xud meʙaxsojad va poki mecujad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 on kī moli xud meʙaxşojad va pokī meçūjad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 он кӣ моли худ мебахшояд ва покӣ меҷӯяд
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 kase, ki moli xudro medihad, to xestanro pokiza ʙidorad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 kase, ki moli xudro medihad, to xeştanro pokiza ʙidorad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 касе, ки моли худро медиҳад, то хештанро покиза бидорад
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-[Hamon] Kase, ki moli xudro [dar rohi Alloh taolo] meʙaxsad, to [az gunoh] pok savad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+\[Hamon\] Kase, ki moli xudro \[dar rohi Alloh taolo\] meʙaxsad, to \[az gunoh\] pok savad
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-[Hamon] Kase, ki moli xudro [dar rohi Alloh taolo] meʙaxşad, to [az gunoh] pok şavad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+\[Hamon\] Kase, ki moli xudro \[dar rohi Alloh taolo\] meʙaxşad, to \[az gunoh\] pok şavad
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-[Ҳамон] Касе, ки моли худро [дар роҳи Аллоҳ таоло] мебахшад, то [аз гуноҳ] пок шавад
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+\[Ҳамон\] Касе, ки моли худро \[дар роҳи Аллоҳ таоло\] мебахшад, то \[аз гуноҳ\] пок шавад
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 avar (pavattiliruntu tannaip) paricuttamakkik kolvatarkaka tan porulai(t tanamaka)k kotuppar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 avar (pāvattiliruntu taṉṉaip) paricuttamākkik koḷvataṟkāka taṉ poruḷai(t tāṉamāka)k koṭuppār
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அவர் (பாவத்திலிருந்து தன்னைப்) பரிசுத்தமாக்கிக் கொள்வதற்காக தன் பொருளை(த் தானமாக)க் கொடுப்பார்
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (avar ettakaiyorenral) tam'mai tuymaip patuttiyavarakat tam porulai (iraivan pataiyil) kotukkirar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (avar ettakaiyōreṉṟāl) tam'mai tūymaip paṭuttiyavarākat tam poruḷai (iṟaivaṉ pātaiyil) koṭukkiṟār
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (அவர் எத்தகையோரென்றால்) தம்மை தூய்மைப் படுத்தியவராகத் தம் பொருளை (இறைவன் பாதையில்) கொடுக்கிறார்
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
 ## Tatar
 
-
-<div dir="ltr" lang="tt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ул тәкъва кеше малын Аллаһ күрсәткән урыннарга бирер, гөнаһтан пакьләнмәк нияте белән
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakub Ibn Nugman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yakub Ibn Nugman |
 
 ## Telugu
 
-
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 atade! Evadaite, pavitrudavataniki tana dhanam nundi (itarulaku) istado
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ataḍē! Evaḍaitē, pavitruḍavaṭāniki tana dhanaṁ nuṇḍi (itarulaku) istāḍō
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 అతడే! ఎవడైతే, పవిత్రుడవటానికి తన ధనం నుండి (ఇతరులకు) ఇస్తాడో
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ఎందుకంటే) అతను పవిత్రుడయ్యే నిమిత్తం తన ధనాన్ని ఇస్తాడు
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Aziz Ur Rehman |
 
 ## Thai
 
-
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sung khea bricakh thraphysin khxng khea pheux khadkela tnxeng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sụ̀ng k̄heā bricākh thrạphy̒s̄in k̄hxng k̄heā pheụ̄̀x k̄hạdkelā tnxeng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ซึ่งเขาบริจาคทรัพย์สินของเขาเพื่อขัดเกลาตนเอง
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sung khea bricakh thraphysin khxng khea pheux khadkela tnxeng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sụ̀ng k̄heā bricākh thrạphy̒s̄in k̄hxng k̄heā pheụ̄̀x k̄hạdkelā tnxeng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ซึ่งเขาบริจาคทรัพย์สินของเขาเพื่อขัดเกลาตนเอง
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Oylesine ki malını verir de ozunu tertemiz bir hale kor
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulbaki Golpinarli</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulbaki Golpinarli |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Öylesine ki malını verir de özünü tertemiz bir hale kor
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulbaki Golpinarli</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulbaki Golpinarli |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adem Ugur</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adem Ugur |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adem Ugur</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adem Ugur |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını vererek temizlenip-arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bulac</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bulac |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını vererek temizlenip-arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bulac</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bulac |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malını (hayra) veren, (gosteris yapmıyarak) temizlenen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Fikri Yavuz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Fikri Yavuz |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malını (hayra) veren, (gösteriş yapmıyarak) temizlenen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Fikri Yavuz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Fikri Yavuz |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Allah´tan) saygı ile korkup (fenalıklardan) en cok sakınan ve arınmak icin malını (Allah yolunda) veren de o atesten uzaklastırılır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Celal Y Ld R M</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Celal Y Ld R M |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Allah´tan) saygı ile korkup (fenalıklardan) en çok sakınan ve arınmak için malını (Allah yolunda) veren de o ateşten uzaklaştırılır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Celal Y Ld R M</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Celal Y Ld R M |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Arınmak icin malını veren, en cok sakınan kimse ise ondan uzak tutulur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Arınmak için malını veren, en çok sakınan kimse ise ondan uzak tutulur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malini verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malini verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Vakfi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Vakfi |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Vakfi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Vakfi |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki malını vererek temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edip Yuksel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edip Yuksel |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki malını vererek temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edip Yuksel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edip Yuksel |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmalili Hamdi Yazir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmalili Hamdi Yazir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmalili Hamdi Yazir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmalili Hamdi Yazir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, Allah yolunda malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki malını Allah rızası icin vererek arınır, yucelir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fizilal Il Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fizilal Il Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki malını Allah rızası için vererek arınır, yücelir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fizilal Il Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fizilal Il Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını vererek temizlenip arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gultekin Onan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gultekin Onan |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını vererek temizlenip arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gultekin Onan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gultekin Onan |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Halbuki cok sakınan, malını (Allah nezdinde sırf) temizlenmek icin veren ondan uzaklasdırılacakdır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Basri Cantay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Basri Cantay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Halbuki çok sakınan, malını (Allah nezdinde sırf) temizlenmek için veren ondan uzaklaşdırılacakdır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Basri Cantay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Basri Cantay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını temizlemek icin verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ibni Kesir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ibni Kesir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını temizlemek için verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ibni Kesir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ibni Kesir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki (en ust seviyede takva sahibi olan), malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iskender Ali Mihr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Iskender Ali Mihr |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki (en üst seviyede takva sahibi olan), malını verir, temizlenir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iskender Ali Mihr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Iskender Ali Mihr |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Elleziy yu´tiy malehu yetezekka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Elleziy yü´tiy malehu yetezekka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ellezi yu’ti ma lehu yetezekka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ellezî yu’tî mâ lehu yetezekkâ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 arınmak icin servetini (baskalarına) harcayanlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Esed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Esed |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 arınmak için servetini (başkalarına) harcayanlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Esed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Esed |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ellezi yu'ti malehu yetezekka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammet Abay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammet Abay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 elleẕî yü'tî mâlehû yetezekkâ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammet Abay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammet Abay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Temizlenmek uzere malını hayra veren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muslim Shahin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muslim Shahin |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Temizlenmek üzere malını hayra veren
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muslim Shahin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muslim Shahin |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malını veren ve arınan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Saban Piris</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Saban Piris |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malını veren ve arınan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Saban Piris</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Saban Piris |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malını veren ve arınan…
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaban Britch</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaban Britch |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malını veren ve arınan…
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaban Britch</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaban Britch |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ama Allah'a karsı gelmekten cok sakınan ve gonlunu arındırmak icin Allah yolunda mal harcayan ise ondan uzak tutulur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suat Yildirim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suat Yildirim |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ama Allah'a karşı gelmekten çok sakınan ve gönlünü arındırmak için Allah yolunda mal harcayan ise ondan uzak tutulur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suat Yildirim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suat Yildirim |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki malını hayra vererek arınır, yucelir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suleyman Ates</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suleyman Ates |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki malını hayra vererek arınır, yücelir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suleyman Ates</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suleyman Ates |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını vererek temizlenip arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tefhim Ul Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tefhim Ul Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ki o, malını vererek temizlenip arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tefhim Ul Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tefhim Ul Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Ki o) Malını vererek arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Ki o) Malını vererek arınır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, temizlenip arınsın diye malını verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, temizlenip arınsın diye malını verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, temizlenip arınsın diye malını verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, temizlenip arınsın diye malını verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, temizlenip arınsın diye malını verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Y. N. Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Y. N. Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 O ki, temizlenip arınsın diye malını verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Y. N. Ozturk</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Y. N. Ozturk |
 
 ## Twi
 
-
-<div dir="ltr" lang="tw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Nyame-suroni) no a, oyi ne sika (Nyame nti) dete ne (kraa) ho no
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Haroun Ismaeel</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Haroun Ismaeel |
 
 ## Uighur
 
-
-<div dir="rtl" lang="ug" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 پاكلىنىش ئۈچۈن مال - مۈلكىنى (ياخشىلىق يوللىرىغا) سەرپ قىلىدىغان ئادەم ئۇنىڭدىن (يەنى ئوتتىن) يىراق قىلىنىدۇ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Saleh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Saleh |
 
-<div dir="rtl" lang="ug" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-پاكلىنىش ئۈچۈن مال ـ مۈلكىنى (ياخشىلىق يوللىرىغا) سەرپ قىلىدىغان ئادەم ئۇنىڭدىن (يەنى ئوتتىن) يىراق قىلىنىدۇ[17ـ]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Muhammad Saleh</td></tr></tbody></table></div>
+پاكلىنىش ئۈچۈن مال ـ مۈلكىنى (ياخشىلىق يوللىرىغا) سەرپ قىلىدىغان ئادەم ئۇنىڭدىن (يەنى ئوتتىن) يىراق قىلىنىدۇ\[17ـ\]
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Muhammad Saleh |
 
 ## Ukrainian
 
-
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 який дає свій статок для очищення
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Mikhailo Yaqubovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Mikhailo Yaqubovic |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Khto daye z yoho hroshey dobrodiynosti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Хто дає з його грошей добродійності
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yakyy daye sviy statok dlya ochyshchennya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mykhaylo Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mykhaylo Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 який дає свій статок для очищення
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mykhaylo Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mykhaylo Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yakyy daye sviy statok dlya ochyshchennya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 який дає свій статок для очищення
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakubovych</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yakubovych |
 
 ## Urdu
 
-
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jo paakiza honay ki khatir apna maal deta hai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul Ala Maududi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو پاکیزہ ہونے کی خاطر اپنا مال دیتا ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul A Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul A Ala Maududi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اپنا مال دیتا ہے تاکہ وہ پاک ہو جائے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahmed Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahmed Ali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو مال دیتا ہے تاکہ پاک ہو
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fateh Muhammad Jalandhry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fateh Muhammad Jalandhry |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-جو دیتا ہے اپنا مال دل پاک کرنے کو [۹]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahmood Ul Hassan</td></tr></tbody></table></div>
+جو دیتا ہے اپنا مال دل پاک کرنے کو \[۹\]
 
+| Details |  |
+| --- | --- |
+| Author | Mahmood Ul Hassan |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو پاکیزگی حاصل کرنے کیلئے اپنا مال دیتا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hussain Najafi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hussain Najafi |
 
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jo paaki hasil kernay kay liey apna maal deta hai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو پاکی حاصل کرنے کے لئے اپنا مال دیتا ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi |
 
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jo paaki haasil karne ke liye apna maal deta hai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi, Muhammad Kazim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi, Muhammad Kazim |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو دیتا ہے اپنا مال اپنے (دل) کو پاک کرنے کے لیے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karam Shah Al Azhari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karam Shah Al Azhari |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اپنا مال (اللہ کی راہ میں) دیتا ہے کہ (اپنے جان و مال کی) پاکیزگی حاصل کرے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Tahir Ul Qadri |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اپنا مال پاکیزگی حاصل کرنے کے لیے (اللہ کے راستے میں) دیتا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Usmani |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جو اپنے مال کو دے کر پاکیزگی کا اہتمام کرتا ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Syed Zeeshan Haider Jawadi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Syed Zeeshan Haider Jawadi |
 
 ## Uzbek
 
-
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 У, бойлигини сарфлайдир ва ўзини поклайдир
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alaaudeen Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alaaudeen Mansour |
 
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ўзи поқдомон бўлиб, мол-давлатини (яхшилик йўлида) сарф қиладиган (тақводор зот ундан йироқ қилинур)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alauddin Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alauddin Mansour |
 
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 У бойлигини сарфлайди ва ўзини поклайди
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Sodik Muhammad Yusuf</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Sodik Muhammad Yusuf |
 
 ## Vietnamese
 
-
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nguoi cho (bo thi) cua cai cua minh nham tay sach (ban than)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Abdulkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Abdulkarim |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Người cho (bố thí) của cải của mình nhằm tẩy sạch (bản thân)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Abdulkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Abdulkarim |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Đo la nguoi đa dung cua cai cua y đe tay sach (ban than)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Đó là người đã dùng của cải của y để tẩy sạch (bản thân)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
 ## Xhosa
 
+Lowo uchitha ubutyebi bakhe ekuzongezeleleni ukuhlambuluka komphefumlo wakhe
 
-<div dir="ltr" lang="xh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Lowo	uchitha	ubutyebi	bakhe	ekuzongezeleleni ukuhlambuluka komphefumlo wakhe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Imaam Ismaaeel Ngqoyiyana</td></tr></tbody></table></div>
+| Details |  |
+| --- | --- |
+| Author | Imaam Ismaaeel Ngqoyiyana |
 
 ## Yau
 
-
-<div dir="ltr" lang="yuw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ajula jwaakutola chipanje chakwe pakuliswejesya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Bin Abdul Hamid Silika</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Bin Abdul Hamid Silika |
 
-<div dir="ltr" lang="yuw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ajula jwaakutola chipanje chakwe pakuliswejesya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Bin Abdul Hamid Silika</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Bin Abdul Hamid Silika |
 
 ## Yoruba
 
-
-<div dir="ltr" lang="yo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 eni t’o n fi dukia re tore, ti o n safomo (re)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Abu Rahimah Mikael Aykyuni</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Abu Rahimah Mikael Aykyuni |
 
-<div dir="ltr" lang="yo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ẹni t’ó ń fi dúkìá rẹ̀ tọrẹ, tí ó ń ṣàfọ̀mọ́ (rẹ̀)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Abu Rahimah Mikael Aykyuni</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Abu Rahimah Mikael Aykyuni |
 
 ## Zulu
 
-
-<div dir="ltr" lang="zu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Lowo onikela ngengcebo yakhe ukuze azihlanze
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iqembu Lezifundiswa, Mussa Muhammad Telela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Iqembu Lezifundiswa, Mussa Muhammad Telela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ أَبُو الْجَوْزَاءِ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ أَخَّرَ رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةَ الْعِشَاءِ الآخِرَةِ حَتَّى مَضَى شَطْرُ اللَّيْلِ ثُمَّ خَرَجَ فَصَلَّى بِنَا كَأَنِّي أَنْظُرُ إِلَى بَيَاضِ خَاتَمِهِ فِي يَدِهِ مِنْ فِضَّةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 48 Hadith 163</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |
+
 اخبرنا احمد بن عثمان ابو الجوزاء، قال حدثنا ابو داود، قال حدثنا قرة بن خالد، عن قتادة، عن انس، قال اخر رسول الله صلى الله عليه وسلم صلاة العشاء الاخرة حتى مضى شطر الليل ثم خرج فصلى بنا كاني انظر الى بياض خاتمه في يده من فضة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 48 Hadith 163</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবন উসমান আবূ জাওযা (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশার সালাতে অর্ধরাত্রি পর্যন্ত দেরী করলেন, পরে তিনি বের হয়ে আমাদের সাথে সালাত আদায় করলেন। আমি যেন এখনও তাঁর হাতে রৌপ্য নির্মিত আংটির শুভ্রতা অবলোকন করছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 48 Hadith 163</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |
 
 ## English
 
+It was narrated that Anas said:"The Messenger of Allah \[SAW\] delayed 'Isha' prayer one night, until half the night had passed, then he came out and led us in prayer. And it is as if I can see the whiteness of his silver ring on his hand
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Anas said:"The Messenger of Allah [SAW] delayed 'Isha' prayer one night, until half the night had passed, then he came out and led us in prayer. And it is as if I can see the whiteness of his silver ring on his hand
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 48 Hadith 163</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |
+
+## French
+
+Rapporté par Anas : Le Messager d'Allah ﷺ a retardé la prière de 'Isha une nuit, jusqu'à ce que la moitié de la nuit soit passée, puis il est sorti et nous a dirigés dans la prière. Et c'est comme si je voyais la blancheur de sa bague en argent sur sa main
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin Utsman Abu Al Jauza\] ia berkata; telah menceritakan kepada kami \[Abu Dawud\] ia berkata; telah menceritakan kepada kami \[Qurrah bin Khalid\] dari \[Qatadah\] dari \[Anas\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mengakhirkan shalat isya yang akhir hingga berlalu tengah malam. Kemudian beliau keluar dan shalat bersama kami, dan seakan aku melihat putihnya cincin perak yang melingkar di tangan beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin Utsman Abu Al Jauza] ia berkata; telah menceritakan kepada kami [Abu Dawud] ia berkata; telah menceritakan kepada kami [Qurrah bin Khalid] dari [Qatadah] dari [Anas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mengakhirkan shalat isya yang akhir hingga berlalu tengah malam. Kemudian beliau keluar dan shalat bersama kami, dan seakan aku melihat putihnya cincin perak yang melingkar di tangan beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 48 Hadith 163</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 48 Hadith 163</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>5202</td></tr><tr><td>Reference</td><td>Book 48 Hadith 163</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 5202 |
+| Reference | Book 48 Hadith 163 |

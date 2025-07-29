@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، بِمَعْنَى حَدِيثِ عِيسَى بْنِ يُونُسَ زَادَ فَكَانَ فِي يَدِهِ حَتَّى قُبِضَ وَفِي يَدِ أَبِي بَكْرٍ حَتَّى قُبِضَ وَفِي يَدِ عُمَرَ حَتَّى قُبِضَ وَفِي يَدِ عُثْمَانَ فَبَيْنَمَا هُوَ عِنْدَ بِئْرٍ إِذْ سَقَطَ فِي الْبِئْرِ فَأَمَرَ بِهَا فَنُزِحَتْ فَلَمْ يُقْدَرْ عَلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
+
 حدثنا وهب بن بقية، عن خالد، عن سعيد، عن قتادة، عن انس، بمعنى حديث عيسى بن يونس زاد فكان في يده حتى قبض وفي يد ابي بكر حتى قبض وفي يد عمر حتى قبض وفي يد عثمان فبينما هو عند بير اذ سقط في البير فامر بها فنزحت فلم يقدر عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে ঈসা ইবনু ইউনুসের বর্ণিত উপরের হাদীসের অনুরূপ বর্ণিত। এতে আরো রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রূপার আংটি তাঁর মৃত্যুর পূর্ব পর্যন্ত তাঁর হাতেই ছিলো। অতঃপর সেটি আবূ বাকর (রাঃ)-এর মৃত্যুর পূর্ব পর্যন্ত তাঁর হাতে, এরপর উমার (রাঃ)-এর মৃত্যু পর্যন্ত তাঁর হাতে ছিলো, অতঃপর উসমান (রাঃ)-এর হাতে এলে তিনি কূপের নিকট অবস্থানকালে হঠাৎ তাঁর হাত থেকে সেটি কূপে পড়ে যায়। পরে তার নির্দেশে কূপের সমস্ত পানি নিষ্কাষন করা হয় কিন্তু সেটি আর পাওয়া যায়নি।\[1\] সনদ সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে ঈসা ইবনু ইউনুসের বর্ণিত উপরের হাদীসের অনুরূপ বর্ণিত। এতে আরো রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রূপার আংটি তাঁর মৃত্যুর পূর্ব পর্যন্ত তাঁর হাতেই ছিলো। অতঃপর সেটি আবূ বাকর (রাঃ)-এর মৃত্যুর পূর্ব পর্যন্ত তাঁর হাতে, এরপর উমার (রাঃ)-এর মৃত্যু পর্যন্ত তাঁর হাতে ছিলো, অতঃপর উসমান (রাঃ)-এর হাতে এলে তিনি কূপের নিকট অবস্থানকালে হঠাৎ তাঁর হাত থেকে সেটি কূপে পড়ে যায়। পরে তার নির্দেশে কূপের সমস্ত পানি নিষ্কাষন করা হয় কিন্তু সেটি আর পাওয়া যায়নি।[1] সনদ সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Anas through a different chain of narrators. This version as transmitted by 'Isa b. Yunus adds:It remained in his hand until he died, in the hand of 'Abu Bakr until he died, in the hand of 'Umar until he died, and in the hand of 'Uthman. When he was near a well, it fell down in it. He ordered to take it out, but it could not be found
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Anas رضي الله عنه par une autre chaîne de rapporteurs. Dans cette version, transmise par ‘Isa ibn Yunus, il est ajouté : « Elle est restée dans sa main jusqu’à sa mort, puis dans la main d’Abu Bakr jusqu’à sa mort, puis dans la main de ‘Umar jusqu’à sa mort, puis dans la main de ‘Uthman. Lorsqu’il était près d’un puits, elle est tombée dedans. Il a demandé qu’on la retrouve, mais elle n’a pas pu être retrouvée. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdurrahim bin Mutharrif Ar Ruwasi\] berkata, telah menceritakan kepada kami \[Isa\] dari \[Sa'id\] dari \[Qatadah\] dari \[Anas bin Malik\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam ingin menulis surat untuk orang-orang di luar arab, lalu dikatakan kepada beliau, "Sesungguhnya mereka tidak mau membaca surat tanpa ada setempelnya." Rasulullah kemudian membuat cincin dari perak dan memberi ukiran Muhammad Rasulullah." Telah menceritakan kepada kami \[Wahb bin Baqiyyah\] dari \[Khalid\] dari \[Sa'id\] dari \[Qatadah\] dari \[Anas\] sebagaimana makna hadits Isa bin Yunus. Namun ia menambahkan, "cincin itu tetap berada dijarinya hingga meninggal, lalu pindah ke Abu Bakar hingga meninggal, lalu pindah ke Umar hingga meninggal, lalu pindah ke tangan Utsman. Dan ketika Utsman sedang berada di dekat sumur, cincin itu jatuh. Utsman memerintahkan untuk mencarinya namun tidak ketemu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdurrahim bin Mutharrif Ar Ruwasi] berkata, telah menceritakan kepada kami [Isa] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik] ia berkata, "Rasulullah shallallahu 'alaihi wasallam ingin menulis surat untuk orang-orang di luar arab, lalu dikatakan kepada beliau, "Sesungguhnya mereka tidak mau membaca surat tanpa ada setempelnya." Rasulullah kemudian membuat cincin dari perak dan memberi ukiran Muhammad Rasulullah." Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] dari [Sa'id] dari [Qatadah] dari [Anas] sebagaimana makna hadits Isa bin Yunus. Namun ia menambahkan, "cincin itu tetap berada dijarinya hingga meninggal, lalu pindah ke Abu Bakar hingga meninggal, lalu pindah ke Umar hingga meninggal, lalu pindah ke tangan Utsman. Dan ketika Utsman sedang berada di dekat sumur, cincin itu jatuh. Utsman memerintahkan untuk mencarinya namun tidak ketemu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса (ибн Малика), да будет доволен им Аллах, что (упомянутый в предыдущем хадисе) перстень был на руке Посланника Аллаха ﷺ до самой его кончины, потом его носил Абу Бакр до самой своей кончины, потом его носил ‘Умар до самой своей кончины, а потом его носил ‘Усман и однажды этот перстень упал с его руки в колодец. Он велел достать его, и колодец вычерпали, но его так и не нашли
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Vehb b. Bakiyye, Halid'den; o, Said'den; Said, Katade'den; Katade'de Enes'ten, İsa b. Yunus hadisini rivayet etmiştir. (Halid rivayetinde) şunları da ilâve etmiştir: O yüzük, Rasulullah vefat edinceye kadar elinde idi. (Daha sonra) vefat edinceye kadar Ebu Bekr'in elinde, (Ondan sonra vefat edinceye kadar Ömer'in elinde idi. Sonra Hz. Osman'ın elinde idi, fakat Osman bir kuyu'nun yanında iken kuyuya düşüverdi. Kuyu'nun suyunun boşaltılmasını emretti ve boşaltıldı, fakat onu bulamadı)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی انس سے عیسیٰ بن یونس کی روایت کے ہم معنی حدیث مروی ہے، اور اس میں یہ اضافہ ہے کہ پھر یہ انگوٹھی آپ صلی اللہ علیہ وسلم کی وفات تک آپ کے ہاتھ میں رہی پھر ابوبکر صدیق رضی اللہ عنہ کے ہاتھ میں رہی یہاں تک کہ ان کی وفات ہو گئی، پھر عمر رضی اللہ عنہ کے ہاتھ میں رہی یہاں تک کہ وہ بھی وفات پا گئے، پھر عثمان رضی اللہ عنہ کے ہاتھ میں رہی وہ ایک کنویں کے پاس تھے کہ اسی دوران انگوٹھی کنویں میں گر گئی، انہوں نے حکم دیا تو اس کا سارا پانی نکالا گیا لیکن وہ اسے پا نہیں سکے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4215</td></tr><tr><td>Arabic No</td><td>4215</td></tr><tr><td>Reference</td><td>Book 36 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4215 |
+| Arabic No | 4215 |
+| Reference | Book 36 Hadith 2 |

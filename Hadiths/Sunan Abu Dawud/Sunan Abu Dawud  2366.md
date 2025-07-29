@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنِي يَحْيَى بْنُ سُلَيْمٍ، عَنْ إِسْمَاعِيلَ بْنِ كَثِيرٍ، عَنْ عَاصِمِ بْنِ لَقِيطِ بْنِ صَبِرَةَ، عَنْ أَبِيهِ، لَقِيطِ بْنِ صَبِرَةَ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ بَالِغْ فِي الاِسْتِنْشَاقِ إِلاَّ أَنْ تَكُونَ صَائِمًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
+
 حدثنا قتيبة بن سعيد، حدثني يحيى بن سليم، عن اسماعيل بن كثير، عن عاصم بن لقيط بن صبرة، عن ابيه، لقيط بن صبرة قال قال رسول الله صلى الله عليه وسلم " بالغ في الاستنشاق الا ان تكون صايما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
 
 ## Bengali
 
+। লাক্বীত ইবনু সাবারাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমি উত্তমরূপে নাকে পানি দিয়ে তা পরিস্কার করো- যদি তুমি সওম পালনের অবস্থায় না থাকো।\[1\] সহীহ। এটি পূর্বের ১৪২ নং হাদীসের অংশ বিশেষ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। লাক্বীত ইবনু সাবারাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তুমি উত্তমরূপে নাকে পানি দিয়ে তা পরিস্কার করো- যদি তুমি সওম পালনের অবস্থায় না থাকো।[1] সহীহ। এটি পূর্বের ১৪২ নং হাদীসের অংশ বিশেষ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Laqit ibn Saburah: The Prophet (ﷺ) said: Snuff up water freely unless you are fasting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
+
+## French
+
+Rapporté par Laqit ibn Saburah رضي الله عنه : Le Prophète ﷺ a dit : « Aspirez l’eau dans le nez généreusement, sauf si vous jeûnez. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Yahya bin Sulaim\] dari \[Isma'I bin Katsir\] dari \['Ashim bin Laqith bin Shabrah\] dari \[ayahnya yaitu Laqith bin Shabrah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bersungguh-sungguh dalam beristinsyaq (memasukkan air ke hidung ketika berwudhu) kecuali ketika engkau sedang berpuasa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Yahya bin Sulaim] dari [Isma'I bin Katsir] dari ['Ashim bin Laqith bin Shabrah] dari [ayahnya yaitu Laqith bin Shabrah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bersungguh-sungguh dalam beristinsyaq (memasukkan air ke hidung ketika berwudhu) kecuali ketika engkau sedang berpuasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Лякыта ибн Сабра, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поглубже промывай нос, кроме тех случаев, когда ты постишься»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Lakît b. Sabra (r.a.)'dan: demiştirki; "Rasûlullah (s.a.v.); "Oruçlu olduğun zaman hariç, buruna su verirken su'yu iyice çek." buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لقیط بن صبرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ناک میں پانی ڈالنے میں مبالغہ کرو سوائے اس کے کہ تم روزے سے ہو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2366</td></tr><tr><td>Arabic No</td><td>2366</td></tr><tr><td>Reference</td><td>Book 14 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2366 |
+| Arabic No | 2366 |
+| Reference | Book 14 Hadith 54 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، فِي قَوْلِهِ عَزَّ وَجَلَّ ‏(‏ سَبْعًا مِنَ الْمَثَانِي ‏)‏ قَالَ السَّبْعُ الطُّوَلُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |
+
 اخبرنا علي بن حجر، قال حدثنا شريك، عن ابي اسحاق، عن سعيد بن جبير، عن ابن عباس، في قوله عز وجل ( سبعا من المثاني ) قال السبع الطول
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী ইবনু হুজর (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে “সাব আম মিনাল মাছানী” আয়াতের সম্বন্ধে বর্ণিত। তিনি বলেন, তা কুরআন মজীদের সাতটি বড় সূরা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn Abbas said:Concerning the words of Allah, the Mighty and Sublime: "Seven of Al-Mathani (seven repeatedly-recited): "The seven long ones
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |
+
+## French
+
+Rapporté par Ibn Abbas : À propos des paroles d’Allah, le Puissant et le Sublime : "Les sept de Al-Mathani (sept versets répétés)" : ce sont les sept longues sourates
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Ali bin Hujr\] dia berkata; telah menceritakan kepada kami \[Syarik\] dari \[Abu Ishaq\] dari \[Sa'id bin Jubair\] dari \[Ibnu 'Abbas\] mengenai firman Allah Azza wa Jalla 'Sab'u minal Matsani', dia berkata; yaitu tujuh (surah) yang panjang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Ali bin Hujr] dia berkata; telah menceritakan kepada kami [Syarik] dari [Abu Ishaq] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] mengenai firman Allah Azza wa Jalla 'Sab'u minal Matsani', dia berkata; yaitu tujuh (surah) yang panjang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہم سے اللہ عزوجل کے قول: «سبعا من المثاني» کی تفسیر میں مروی ہے کہ اس سے مراد سات لمبی سورتیں ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>916</td></tr><tr><td>Arabic No</td><td>916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 916 |
+| Arabic No | 916 |
+| Reference | Book 11 Hadith 41 |

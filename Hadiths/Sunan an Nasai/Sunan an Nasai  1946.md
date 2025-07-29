@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، وَعَمْرُو بْنُ زُرَارَةَ النَّيْسَابُورِيُّ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي الْمُهَلَّبِ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّ أَخَاكُمْ قَدْ مَاتَ فَقُومُوا فَصَلُّوا عَلَيْهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 21 Hadith 129</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |
+
 اخبرنا علي بن حجر، وعمرو بن زرارة النيسابوري، قالا حدثنا اسماعيل، عن ايوب، عن ابي قلابة، عن ابي المهلب، عن عمران بن حصين، قال قال رسول الله صلى الله عليه وسلم " ان اخاكم قد مات فقوموا فصلوا عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 21 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী ইবনু হুজর এবং আমর ইবনু যুররা নিশাপুরী (রহঃ) ... ইমরান ইবনু হুসায়ন (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, তোমাদের এক ভাই (নাজ্জাশী) মৃত্যুবরণ করেছে। তোমরা প্রস্তুত হও এবং তার উপর জানাজার সালাত আদায় কর।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 21 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Imran bin Husain said:"The Messenger of Allah said: 'Your brother has died, so get up and pray for him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 21 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |
+
+## French
+
+Rapporté par 'Imran bin Husain : Le Messager d’Allah ﷺ a dit : "Votre frère est décédé, alors levez-vous et priez pour lui
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Ali bin Hujr\] dan \['Amru bin Zurarah An Naisaburi\] mereka berkata; telah menceritakan kepada kami \[Isma'il\] dari \[Ayyub\] dari \[Abu Qilabah\] dari \[Abul Muhallab\] dari \['Imran bin Hushain\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " saudara kalian telah meninggal dunia, berdirilah kemudian shalatkanlah atasnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Ali bin Hujr] dan ['Amru bin Zurarah An Naisaburi] mereka berkata; telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Abu Qilabah] dari [Abul Muhallab] dari ['Imran bin Hushain] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " saudara kalian telah meninggal dunia, berdirilah kemudian shalatkanlah atasnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 21 Hadith 129</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 21 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمران بن حصین رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تمہارا بھائی مر گیا ہے، اٹھو اس کی نماز جنازہ پڑھو“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1946</td></tr><tr><td>Arabic No</td><td>1946</td></tr><tr><td>Reference</td><td>Book 21 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1946 |
+| Arabic No | 1946 |
+| Reference | Book 21 Hadith 129 |

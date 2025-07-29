@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ زَنْجُويَهْ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ دَخَلَ النَّبِيُّ صلى الله عليه وسلم مَكَّةَ فِي عُمْرَةِ الْقَضَاءِ وَابْنُ رَوَاحَةَ بَيْنَ يَدَيْهِ يَقُولُ خَلُّوا بَنِي الْكُفَّارِ عَنْ سَبِيلِهِ الْيَوْمَ نَضْرِبْكُمْ عَلَى تَأْوِيلِهِ ضَرْبًا يُزِيلُ الْهَامَ عَنْ مَقِيلِهِ وَيُذْهِلُ الْخَلِيلَ عَنْ خَلِيلِهِ قَالَ عُمَرُ يَا ابْنَ رَوَاحَةَ فِي حَرَمِ اللَّهِ وَبَيْنَ يَدَىْ رَسُولِ اللَّهِ صلى الله عليه وسلم تَقُولُ هَذَا الشِّعْرَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ خَلِّ عَنْهُ فَوَالَّذِي نَفْسِي بِيَدِهِ لَكَلاَمُهُ أَشَدُّ عَلَيْهِمْ مِنْ وَقْعِ النَّبْلِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 24 Hadith 276</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |
+
 اخبرنا محمد بن عبد الملك بن زنجويه، قال حدثنا عبد الرزاق، قال حدثنا جعفر بن سليمان، عن ثابت، عن انس، قال دخل النبي صلى الله عليه وسلم مكة في عمرة القضاء وابن رواحة بين يديه يقول خلوا بني الكفار عن سبيله اليوم نضربكم على تاويله ضربا يزيل الهام عن مقيله ويذهل الخليل عن خليله قال عمر يا ابن رواحة في حرم الله وبين يدى رسول الله صلى الله عليه وسلم تقول هذا الشعر فقال النبي صلى الله عليه وسلم " خل عنه فوالذي نفسي بيده لكلامه اشد عليهم من وقع النبل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 24 Hadith 276</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আবদুল মালিক (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উমরাতুল কাযা আদায় করার জন্য মক্কায় প্রবেশ করলে ইবন রাওয়াহা তার সামনে বলতে লাগলেনঃ خَلُّوا بَنِي الْكُفَّارِ عَنْ سَبِيلِهِ الْيَوْمَ نَضْرِبْكُمْ عَلَى تَأْوِيلِهِ ضَرَبًا يُزِيلُ الْهَامَ عَنْ مَقِيلِهِ وَيُذْهِلُ الْخَلِيلَ عَنْ خَلِيلِهِ অর্থঃ হে কাফির সম্প্রদায়! তাঁর রাস্তা ছেড়ে দাও। তার প্রবেশে বাধা দিলে তোমাদেরকে আঘাত করবো। এমন আঘাত, যা মাথা স্থানচ্যুত করে দেবে এবং বন্ধুকে বন্ধুর কথা ভুলিয়ে দেবে। তখন উমর (রাঃ) বললেনঃ হে ইবন রাওয়াহা! রাসূলুল্লাহু সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে হারামে তুমি কবিতা আবৃত্তি করছো? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাকে ছেড়ে দাও। ঐ মহান সত্তার শপথ! যার হাতে আমার প্ৰাণ, তার এই কবিতাগুলো তাদের জন্য বর্শার আঘাত অপেক্ষা অধিক কষ্টদায়ক।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 24 Hadith 276</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Anas said:"The Prophet entered Makkah during Umratul-Qada' and Ibn Rawahah went before him, saying: Get out of his way, you unbelievers, make way. Today we will fight about its revelation With blows that will remove heads from shoulders And make friend unmindful of friend. Umar said to him: "O Ibn Rawahah! In the Sanctuary of Allah and in front of the Messenger of Allah you recite poetry?" The Prophet said: "Let him do that, for by the one in whose hand is my soul, his words are harder for them than being shot with arrows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 24 Hadith 276</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |
+
+## French
+
+Rapporté par Anas : Le Prophète est entré à La Mecque pendant la ‘Umratul-Qada’, et Ibn Rawahah marchait devant lui en disant : "Écartez-vous de son chemin, vous les incroyants, faites place. Aujourd’hui, nous combattrons pour sa révélation avec des coups qui feront tomber des têtes et feront oublier l’ami à son ami." Umar lui a dit : "Ô Ibn Rawahah ! Dans le sanctuaire d’Allah et devant le Messager d’Allah, tu récites de la poésie ?" Le Prophète a dit : "Laisse-le faire, car par Celui qui détient mon âme, ses paroles sont plus dures pour eux que des flèches lancées
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Abdul Malik bin Zanjuwiyah\], ia berkata; telah menceritakan kepada kami \[Abdur Razzaq\], ia berkata; telah menceritakan kepada kami \[Ja'far bin Sulaiman\] dari \[Tsabit\] dari \[Anas\], ia berkata; Rasulullah shallallahu 'alaihi wasallam memasuki Mekkah pada saat Umrah Al Qadha', sedangkan Ibnu Rawahah berada di depannya, ia berkata; minggirlah orang-orang kafir dari jalan beliau hari ini, kami akan menebas kalian berdasarkan penjelasannya, dengan tebasan yang membangunkan kepala dari tidur siangnya, dan membingungkan seseorang dari kekasihnya. Lalu Umar berkata kepadanya; wahai Ibn Rawahah, apakah di tanah haram dan di hadapan Rasulullah shallallahu 'alaihi wasallam engkau mengucapkan syair ini? Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku ada di tangannya, sungguh perkataannya lebih dahsyat daripada jatuhnya anak panah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Abdul Malik bin Zanjuwiyah], ia berkata; telah menceritakan kepada kami [Abdur Razzaq], ia berkata; telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Tsabit] dari [Anas], ia berkata; Rasulullah shallallahu 'alaihi wasallam memasuki Mekkah pada saat Umrah Al Qadha', sedangkan Ibnu Rawahah berada di depannya, ia berkata; minggirlah orang-orang kafir dari jalan beliau hari ini, kami akan menebas kalian berdasarkan penjelasannya, dengan tebasan yang membangunkan kepala dari tidur siangnya, dan membingungkan seseorang dari kekasihnya. Lalu Umar berkata kepadanya; wahai Ibn Rawahah, apakah di tanah haram dan di hadapan Rasulullah shallallahu 'alaihi wasallam engkau mengucapkan syair ini? Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku ada di tangannya, sungguh perkataannya lebih dahsyat daripada jatuhnya anak panah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 24 Hadith 276</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 24 Hadith 276</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جب عمرہ قضاء کے موقع پر مکہ میں داخل ہوئے اور ابن رواحہ آپ کے آگے تھے اور کہہ رہے تھے: «خلوا بني الكفار عن سبيله اليوم نضربكم على تأويله ضربا يزيل الهام عن مقيله ويذهل الخليل عن خليله» ”اے کافروں کی اولاد! ان کے راستے سے ہٹ جاؤ، ۱؎ ان کے اشارے پر آج ہم تمہیں ایسی مار ماریں گے جو تمہارے سروں کو گردنوں سے اڑا دے گی اور دوست کو اس کے دوست سے غافل کر دے گی“، عمر رضی اللہ عنہ نے کہا: ابن رواحہ رضی اللہ عنہ! تم اللہ کے حرم میں اور رسول اللہ صلی اللہ علیہ وسلم کے سامنے ایسے شعر پڑھتے ہو؟ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”چھوڑو انہیں ( پڑھنے دو ) قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے، ان کے یہ اشعار کفار پر تیر لگنے سے بھی زیادہ سخت ہیں“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2893</td></tr><tr><td>Arabic No</td><td>2893</td></tr><tr><td>Reference</td><td>Book 24 Hadith 276</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2893 |
+| Arabic No | 2893 |
+| Reference | Book 24 Hadith 276 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ فَنَزَلَ فِي عُلْوِ الْمَدِينَةِ فِي حَىٍّ يُقَالُ لَهُمْ بَنُو عَمْرِو بْنِ عَوْفٍ فَأَقَامَ فِيهِمْ أَرْبَعَ عَشَرَةَ لَيْلَةً ثُمَّ أَرْسَلَ إِلَى بَنِي النَّجَّارِ فَجَاءُوا مُتَقَلِّدِينَ سُيُوفَهُمْ - فَقَالَ أَنَسٌ - فَكَأَنِّي أَنْظُرُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى رَاحِلَتِهِ وَأَبُو بَكْرٍ رِدْفَهُ وَمَلأُ بَنِي النَّجَّارِ حَوْلَهُ حَتَّى أَلْقَى بِفِنَاءِ أَبِي أَيُّوبَ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي حَيْثُ أَدْرَكَتْهُ الصَّلاَةُ وَيُصَلِّي فِي مَرَابِضِ الْغَنَمِ وَإِنَّهُ أَمَرَ بِبِنَاءِ الْمَسْجِدِ فَأَرْسَلَ إِلَى بَنِي النَّجَّارِ فَقَالَ ‏ "‏ يَا بَنِي النَّجَّارِ ثَامِنُونِي بِحَائِطِكُمْ هَذَا ‏"‏ ‏.‏ فَقَالُوا وَاللَّهِ لاَ نَطْلُبُ ثَمَنَهُ إِلاَّ إِلَى اللَّهِ عَزَّ وَجَلَّ ‏.‏ قَالَ أَنَسٌ وَكَانَ فِيهِ مَا أَقُولُ لَكُمْ كَانَتْ فِيهِ قُبُورُ الْمُشْرِكِينَ وَكَانَتْ فِيهِ خِرَبٌ وَكَانَ فِيهِ نَخْلٌ فَأَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِقُبُورِ الْمُشْرِكِينَ فَنُبِشَتْ وَبِالْخِرَبِ فَسُوِّيَتْ وَبِالنَّخْلِ فَقُطِعَ فَصَفُّوا النَّخْلَ قِبْلَةَ الْمَسْجِدِ وَجَعَلُوا عِضَادَتَيْهِ حِجَارَةً وَجَعَلُوا يَنْقُلُونَ الصَّخْرَ وَهُمْ يَرْتَجِزُونَ وَالنَّبِيُّ صلى الله عليه وسلم مَعَهُمْ وَهُوَ يَقُولُ اللَّهُمَّ لاَ خَيْرَ إِلاَّ خَيْرُ الآخِرَهْ فَانْصُرِ الأَنْصَارَ وَالْمُهَاجِرَهْ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
+
 حدثنا مسدد، حدثنا عبد الوارث، عن ابي التياح، عن انس بن مالك، قال قدم رسول الله صلى الله عليه وسلم المدينة فنزل في علو المدينة في حى يقال لهم بنو عمرو بن عوف فاقام فيهم اربع عشرة ليلة ثم ارسل الى بني النجار فجاءوا متقلدين سيوفهم - فقال انس - فكاني انظر الى رسول الله صلى الله عليه وسلم على راحلته وابو بكر ردفه وملا بني النجار حوله حتى القى بفناء ابي ايوب وكان رسول الله صلى الله عليه وسلم يصلي حيث ادركته الصلاة ويصلي في مرابض الغنم وانه امر ببناء المسجد فارسل الى بني النجار فقال " يا بني النجار ثامنوني بحايطكم هذا " . فقالوا والله لا نطلب ثمنه الا الى الله عز وجل . قال انس وكان فيه ما اقول لكم كانت فيه قبور المشركين وكانت فيه خرب وكان فيه نخل فامر رسول الله صلى الله عليه وسلم بقبور المشركين فنبشت وبالخرب فسويت وبالنخل فقطع فصفوا النخل قبلة المسجد وجعلوا عضادتيه حجارة وجعلوا ينقلون الصخر وهم يرتجزون والنبي صلى الله عليه وسلم معهم وهو يقول اللهم لا خير الا خير الاخره فانصر الانصار والمهاجره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদীনায় আগমন করে মদীনার বনু ‘আমর ইবনু ‘আওফ নামক উচ্চভূমির একটি এলাকায় অবতরণ করলেন। সেখানে তিনি চৌদ্দ দিন অবস্থান করেন। অতঃপর তিনি বনু নাজ্জারের নিকট লোক পাঠালেন। তারা তাঁর (সম্মানার্থে) গলায় তরবারী ঝুলিয়ে অস্ত্রে সুসজ্জিত অবস্থায় এলো। আনাস (রাঃ) বলেন, আমি যেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উটের উপর দেখতে পাচ্ছি এবং তার পেছনে আবূ বকর (রাঃ) আরোহিত ছিলেন। আর বনু নাজ্জারের লোকেরা ছিল তাঁর চারপাশে। অবশেষে তিনি আবূ আইয়ূব আনসারী (রাঃ)-এর আঙ্গিনায় অবতরণ করলেন। যেখানেই সালাতের ওয়াক্ত হত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করে নিতেন। তিনি বকরী রাখার স্থানেও সালাত আদায় করতেন। অতঃপর তিনি মাসজিদ নির্মাণের নির্দেশ দিলেন। তিনি বনু নাজ্জারের নিকট সংবাদ পাঠিয়ে ডাকালেন এবং বললেন, হে বনু নাজ্জার! তোমরা এ বাগানের মূল্য নিয়ে নাও। তারা বলল, অ­াল্লাহর শপথ! আমরা এর বিনিময় একমাত্র আল্লাহর নিকটেই চাই। আনাস (রাঃ) বলেন, বাগানটিতে যা যা ছিল আমি তোমাদেরকে তা বলছিঃ তাতে ছিল মুশরিকদের কিছু কবর, পুরাতন ধ্বংসস্তুপ এবং কিছু খেজুর গাছ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশক্রমে মুশরিকদের কবরগুলো খুঁড়ে হাড়গোড় ইত্যাদি বেছে অন্যত্র ফেলে দেয়া হলো। কর্তিত খেজুর গাছের কান্ড মসজিদের সামনে সারিবদ্ধভাবে গেরে দেয়া হলো। দরজার চৌকাঠ নির্মাণ করা হলো পাথর দ্বারা। সাহাবীগণ পাথরগুলো স্থানান্তরের সময় কবিতা আবৃত্তি করছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-ও তাদের সাথেই ছিলেন। তিনি বলছিলেনঃ হে আল্লাহ! আখিরাতের কল্যাণই প্রকৃত কল্যাণ। আপনি আনসার ও মুহাজিরের সাহায্য করুন।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মদীনায় আগমন করে মদীনার বনু ‘আমর ইবনু ‘আওফ নামক উচ্চভূমির একটি এলাকায় অবতরণ করলেন। সেখানে তিনি চৌদ্দ দিন অবস্থান করেন। অতঃপর তিনি বনু নাজ্জারের নিকট লোক পাঠালেন। তারা তাঁর (সম্মানার্থে) গলায় তরবারী ঝুলিয়ে অস্ত্রে সুসজ্জিত অবস্থায় এলো। আনাস (রাঃ) বলেন, আমি যেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উটের উপর দেখতে পাচ্ছি এবং তার পেছনে আবূ বকর (রাঃ) আরোহিত ছিলেন। আর বনু নাজ্জারের লোকেরা ছিল তাঁর চারপাশে। অবশেষে তিনি আবূ আইয়ূব আনসারী (রাঃ)-এর আঙ্গিনায় অবতরণ করলেন। যেখানেই সালাতের ওয়াক্ত হত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাত আদায় করে নিতেন। তিনি বকরী রাখার স্থানেও সালাত আদায় করতেন। অতঃপর তিনি মাসজিদ নির্মাণের নির্দেশ দিলেন। তিনি বনু নাজ্জারের নিকট সংবাদ পাঠিয়ে ডাকালেন এবং বললেন, হে বনু নাজ্জার! তোমরা এ বাগানের মূল্য নিয়ে নাও। তারা বলল, অ­াল্লাহর শপথ! আমরা এর বিনিময় একমাত্র আল্লাহর নিকটেই চাই। আনাস (রাঃ) বলেন, বাগানটিতে যা যা ছিল আমি তোমাদেরকে তা বলছিঃ তাতে ছিল মুশরিকদের কিছু কবর, পুরাতন ধ্বংসস্তুপ এবং কিছু খেজুর গাছ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশক্রমে মুশরিকদের কবরগুলো খুঁড়ে হাড়গোড় ইত্যাদি বেছে অন্যত্র ফেলে দেয়া হলো। কর্তিত খেজুর গাছের কান্ড মসজিদের সামনে সারিবদ্ধভাবে গেরে দেয়া হলো। দরজার চৌকাঠ নির্মাণ করা হলো পাথর দ্বারা। সাহাবীগণ পাথরগুলো স্থানান্তরের সময় কবিতা আবৃত্তি করছিলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-ও তাদের সাথেই ছিলেন। তিনি বলছিলেনঃ হে আল্লাহ! আখিরাতের কল্যাণই প্রকৃত কল্যাণ। আপনি আনসার ও মুহাজিরের সাহায্য করুন।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas b. Malik reported:Messenger of Allah (ﷺ) came over to Medina and encamped at the upper side of Medina among the tribe known as Banu 'Amr b. 'Awf. He stayed among them for fourteen days. He then sent someone to call Banu al-Najjar. They came to him hanging their swords from the necks. Anas then said: As if I am looking at the Messenger of Allah (ﷺ) sitting on his mount and Abu Bakr seated behind him, and Banu al-Najjar standing around him. He descended in the courtyard of Abu Ayyub. The Messenger of Allah (ﷺ) would say his prayer in the folds of the sheep and goats. He commanded us to build a mosque. He then sent for Banu al-Najjar and said to them: Banu al-Najjar, sell this land of yours to me for some price. They replied: By Allah, we do not want any price (from you) except from Allah. Anas said: I tell what this land contained. It contained the graves of the disbelievers, dung-hills, and some trees of date-palm. The Messenger of Allah (ﷺ) commanded and the graves of the disbelievers were dug open, and the trees of the date-palm were cut off. The wood of the date-palm were erected in front of the mosque ; the door-steps wre built of stone. They were reciting verses carrying the stones. The Prophet (ﷺ) also joined them (in reciting verses) saying: O Allah, there is no good except the good of the Hereafter. So grant you aid to the Ansar and the Muhajirah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
+
+## French
+
+Rapporté par Anas b. Malik رضي الله عنه : Le Messager d’Allah ﷺ est arrivé à Médine et s’est installé dans la partie haute de la ville, chez la tribu appelée Banu ‘Amr b. ‘Awf. Il est resté chez eux quatorze jours. Il a ensuite envoyé quelqu’un chercher les Banu al-Najjar. Ils sont venus à lui, leurs épées suspendues à leur cou. Anas a dit : C’est comme si je voyais le Messager d’Allah ﷺ assis sur sa monture, Abu Bakr assis derrière lui, et les Banu al-Najjar debout autour de lui. Il est descendu dans la cour d’Abu Ayyub. Le Messager d’Allah ﷺ priait dans les enclos des moutons et des chèvres. Il nous a ordonné de construire une mosquée. Il a alors envoyé chercher les Banu al-Najjar et leur a dit : « Banu al-Najjar, vendez-moi ce terrain pour un prix. » Ils ont répondu : « Par Allah, nous ne voulons aucun prix de toi, sauf d’Allah. » Anas a dit : Je vais vous dire ce que contenait ce terrain. Il y avait des tombes de mécréants, des tas d’ordures et quelques palmiers. Le Messager d’Allah ﷺ a ordonné de creuser les tombes des mécréants, de couper les palmiers. Le bois de palmier a été dressé devant la mosquée ; les marches ont été construites en pierre. Ils récitaient des vers en portant les pierres. Le Prophète ﷺ se joignait à eux (en récitant) : « Ô Allah, il n’y a de bien que le bien de l’au-delà. Accorde donc Ton aide aux Ansar et aux Muhajirin. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Abdul Warits\] dari \[Abu At Tayyah\] dari \[Anas bin Malik\] dia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam datang ke Madinah, beliau singgah di dataran tinggi Madinah di suatu perkampungan yang penduduknya bernama Bani Amru bin Auf. Beliau tinggal dengan mereka selama empat belas malam. Kemudian mengirimkan surat kepada Bani Najjar agar datang kepada beliau, lalu mereka pun datang dalam keadaan memikul pedang-pedang mereka. Anas berkata; Saya melihat Rasulullah shallallahu 'alaihi wasallam di atas untanya dan Abu Bakar dibelakangnya, sedangkan pembesar-pembesar Bani Najjar di sekitar beliau, hingga singgah di halaman rumah Abu Ayyub, dan Rasulullah shallallahu 'alaihi wasallam shalat tatkala datang waktu shalat, beliau shalat di tempat peristirahatan kambing. Lalu beliau memerintahkan para sahabat untuk membangun Masjid. Beliau mengirim utusan kepada Bani Najjar dengan mengatakan: "Wahai Bani Najjar, juallah kebun kalian?" Mereka menjawab; Kami tidak akan meminta harganya kecuali kepada Allah Azza wa jalla. Anas berkata; Di dalam kebun itu ada sesuatu yang telah saya katakan kepada kalian, di dalamnya terdapat kuburan orang-orang musyrik, reruntuhan-reruntuhan bangunan, dan pohon kurma. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan agar kuburan orang-orang musyrik dibongkar, reruntuhan-reruntuhan bangunan diratakan, dan pohon kurma ditebang. Lalu mereka menjadikan pohon kurma di arah kiblat dan menjadikan temboknya dengan bebatuan. Mereka memindahkan batu-batu besar sembari menyenandungkan syair, sedangkan Nabi shallallahu 'alaihi wasallam bersama mereka, beliau bersabda: "Ya Allah, tidak ada kebaikan kecuali kebaikan akhirat, maka menangkanlah kaum Anshar dan Muhajirin." Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad bin Salamah\] dari \[Abu At Tayyah\] dari \[Anas bin Malik\] dia berkata; Tempat Masjid ketika itu adalah sebuah kebun milik Bani Najjar, yang di dalamnya terdapat tanah pertanian, pohon kurma, dan kuburan orang-orang musyrik. Rasulullah shallallahu 'alaihi wasallam bersabda: "Juallah kebun ini." Maka mereka menjawab; Kami tidak mengharapkan harganya. Lalu pohon kurma ditebang, tanah pertanian diratakan, dan kuburan orang-orang musyrik dibongkar. Dia menyebutkan haditsnya serta menyebutkan kata "Ampunilah" sebagai ganti kata; "menangkanlah". \[Musa\] berkata; Dan telah menceritakan kepada kami \[Abdul Warits\] dengan lafazh semisalnya, dan Abdul Warits menyebutkan reruntuhan-reruntuhan bangunan. Dan dia mengklaim telah menceritakan hadits ini kepada Hammad
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abdul Warits] dari [Abu At Tayyah] dari [Anas bin Malik] dia berkata; Ketika Rasulullah shallallahu 'alaihi wasallam datang ke Madinah, beliau singgah di dataran tinggi Madinah di suatu perkampungan yang penduduknya bernama Bani Amru bin Auf. Beliau tinggal dengan mereka selama empat belas malam. Kemudian mengirimkan surat kepada Bani Najjar agar datang kepada beliau, lalu mereka pun datang dalam keadaan memikul pedang-pedang mereka. Anas berkata; Saya melihat Rasulullah shallallahu 'alaihi wasallam di atas untanya dan Abu Bakar dibelakangnya, sedangkan pembesar-pembesar Bani Najjar di sekitar beliau, hingga singgah di halaman rumah Abu Ayyub, dan Rasulullah shallallahu 'alaihi wasallam shalat tatkala datang waktu shalat, beliau shalat di tempat peristirahatan kambing. Lalu beliau memerintahkan para sahabat untuk membangun Masjid. Beliau mengirim utusan kepada Bani Najjar dengan mengatakan: "Wahai Bani Najjar, juallah kebun kalian?" Mereka menjawab; Kami tidak akan meminta harganya kecuali kepada Allah Azza wa jalla. Anas berkata; Di dalam kebun itu ada sesuatu yang telah saya katakan kepada kalian, di dalamnya terdapat kuburan orang-orang musyrik, reruntuhan-reruntuhan bangunan, dan pohon kurma. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan agar kuburan orang-orang musyrik dibongkar, reruntuhan-reruntuhan bangunan diratakan, dan pohon kurma ditebang. Lalu mereka menjadikan pohon kurma di arah kiblat dan menjadikan temboknya dengan bebatuan. Mereka memindahkan batu-batu besar sembari menyenandungkan syair, sedangkan Nabi shallallahu 'alaihi wasallam bersama mereka, beliau bersabda: "Ya Allah, tidak ada kebaikan kecuali kebaikan akhirat, maka menangkanlah kaum Anshar dan Muhajirin." Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad bin Salamah] dari [Abu At Tayyah] dari [Anas bin Malik] dia berkata; Tempat Masjid ketika itu adalah sebuah kebun milik Bani Najjar, yang di dalamnya terdapat tanah pertanian, pohon kurma, dan kuburan orang-orang musyrik. Rasulullah shallallahu 'alaihi wasallam bersabda: "Juallah kebun ini." Maka mereka menjawab; Kami tidak mengharapkan harganya. Lalu pohon kurma ditebang, tanah pertanian diratakan, dan kuburan orang-orang musyrik dibongkar. Dia menyebutkan haditsnya serta menyebutkan kata "Ampunilah" sebagai ganti kata; "menangkanlah". [Musa] berkata; Dan telah menceritakan kepada kami [Abdul Warits] dengan lafazh semisalnya, dan Abdul Warits menyebutkan reruntuhan-reruntuhan bangunan. Dan dia mengklaim telah menceritakan hadits ini kepada Hammad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Анас ибн Малик сказал: «Прибыв в Медину, Посланник Аллаха ﷺ (сначала) остановился в верхней части города в квартале, (населённом людьми из рода,) которых называли бану ‘амр бин ‘ауф. Среди них он прожил четырнадцать дней, после чего послал за людьми из рода бану ан-наджжар, которые явились к нему, опоясавшись мечами».Анас сказал: «И у меня до сих пор стоят перед глазами Посланник Аллаха ﷺ на своей верблюдице, сидящий в седле позади него Абу Бакр и толпа людей из бану ан-наджжар, которые окружали его до тех пор, пока он не спешился во дворе дома Абу Аййуба. Посланник Аллаха ﷺ совершал молитву там, где его заставало время молитвы, и (в такие моменты) молился даже в загонах для овец. И (после этого) он велел построить мечеть, послал за людьми из бану ан-наджжар и сказал: “О (предводители) бану ан-наджжар, назначьте мне цену за эту вашу стену”. Они ответили: “Нет, клянёмся Аллахом, мы потребуем плату за неё только от Великого и Всемогущего Аллаха!”»Анас сказал: «А там находились как я вам говорил, могилы многобожников, развалины и пальмы. И Посланник Аллаха ﷺ велел (срыть) могилы многобожников и их раскопали, развалины сровняли с землёй, а пальмы вырубили, поставив их рядами как (стену) киблы (будущей) мечети. (Кроме того, люди) выложили из камня две боковые стены и занялись переноской камней, декламируя стихи. Вместе с ними был и Пророк ﷺ который говорил: “О Аллах, нет блага, кроме блага мира вечного! Помоги же ансарам и мухаджирам”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes b. Malik (r.a.)'den, demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem) (Mekke'den Medine'ye gelince Medine'nin (Necid tarafındaki) Ben-i Amr b. Avf denilen mahallesinin yüksek semtine indi. Orada on dört gün kaldı. Sonra, Neccar oğullarına haber gönderdi. Onlar da kılıçları omuzlarına asıllı bir vaziyette geldiler. Sanki şu anda Resulullah'ı hayvanının üzerinde, Ebu Bekr'i terkisinde, Neccar oğullarının ileri gelenlerini de Efendimizin etrafında görür gibiyim. Böylece, Ebu Eyyub'un bahçesine geldi. Resulullah (Sallallahu aleyhi ve Sellem) namazı vakti geldiği yerde hatta koyun ağıllarında kılardı. Mescid'i bina etmekle emrolundu ve Neccar oğullarına haber gönderdi. (Onlar gelince): "Ey Neccar oğulları, Şu bahçenizin fiyatını söyleyiniz (ve bana satınız)" buyurdu. Vallahi bunun ücretini ancak Allah (azze ve celle)'den isteriz, dediler. Enes devamla dedi ki, bahçe'de şu söyleyeceğim şeyler vardı: Bir bölümünde müşriklerin kabirleri, bazı yerlerinde yıkık bina kalıntıları, bir kısmında da hurma ağaçları. Resulullah (Sallallahu aleyhi ve Sellem)'in emri ile müşriklerin kabirleri açılıp (kemikleri) başka yerlere nakledildi. Bina kalıntıları düzeltildi, hurmalar da kesildi. Bu hurmalar, mescidin kıble tarafına dizildi. Kapının kenarlarını taşla yaptılar. Sahabiler recez söyleyerek taş taşımaya başladılar. Hz. Nebi'de onlarla birlikte; "Allah'ım, yegane hayrdır; hayr-i ahiret - Sen Ensar'a ve Muhacirlere yardım et" Diğer tahric: Buhari, salat; Buyu'; vesaya; Medine; Menakibu'l-Ensar; Müslim, mesacid; Nesai, mesacid; Ahmed b. Hanbel, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مدینہ تشریف لائے تو آپ شہر کے بالائی حصہ میں ایک محلہ میں اترے، جسے بنی عمرو بن عوف کا محلہ کہا جاتا تھا، وہاں آپ صلی اللہ علیہ وسلم چودہ دن تک قیام پذیر رہے، پھر آپ نے بنو نجار کے لوگوں کو بلوایا تو وہ اپنی تلواریں لٹکائے آئے، انس رضی اللہ عنہ کہتے ہیں: گویا میں اس وقت رسول اللہ صلی اللہ علیہ وسلم کو دیکھ رہا ہوں، آپ اپنی اونٹنی پر سوار ہیں اور ابوبکر رضی اللہ عنہ آپ کے پیچھے سوار ہیں، اور بنو نجار کے لوگ آپ صلی اللہ علیہ وسلم کے اردگرد ہیں یہاں تک کہ آپ ابوایوب رضی اللہ عنہ کے مکان کے صحن میں اترے، جس جگہ نماز کا وقت آ جاتا آپ صلی اللہ علیہ وسلم نماز پڑھ لیتے تھے، بکریوں کے باڑے میں بھی نماز پڑھ لیتے، پھر آپ صلی اللہ علیہ وسلم نے مسجد بنانے کا حکم فرمایا اور بنو نجار کے لوگوں کو بلوایا، ( وہ آئے ) تو آپ صلی اللہ علیہ وسلم نے ان سے فرمایا: اے بنو نجار! تم مجھ سے اپنے اس باغ کی قیمت لے لو ، انہوں نے کہا: اللہ کی قسم! ہم اس کی قیمت اللہ ہی سے چاہتے ہیں۔ انس رضی اللہ عنہ کہتے ہیں: اس باغ میں جو چیزیں تھیں وہ میں تمہیں بتاتا ہوں: اس میں مشرکوں کی قبریں تھیں، ویران جگہیں، کھنڈرات اور کھجور کے درخت تھے، آپ صلی اللہ علیہ وسلم نے حکم فرمایا، مشرکوں کی قبریں کھود کر پھینک دی گئیں، ویران جگہیں اور کھنڈر ہموار کر دیئے گئے، کھجور کے درخت کاٹ ڈالے گئے، ان کی لکڑیاں مسجد کے قبلے کی طرف قطار سے لگا دی گئیں اور اس کے دروازے کی چوکھٹ کے دونوں بازو پتھروں سے بنائے گئے، لوگ پتھر اٹھاتے جاتے تھے اور اشعار پڑھتے جاتے تھے، آپ صلی اللہ علیہ وسلم بھی ان کے ساتھ تھے اور فرماتے تھے: «اللهم لا خير إلا خير الآخره فانصر الأنصار والمهاجره» اے اللہ! بھلائی تو دراصل آخرت کی بھلائی ہے تو تو انصار و مہاجرین کی مدد فرما۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (428) Sahih Muslim (524)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>453</td></tr><tr><td>Arabic No</td><td>453</td></tr><tr><td>Reference</td><td>Book 2 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (428) Sahih Muslim (524) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 453 |
+| Arabic No | 453 |
+| Reference | Book 2 Hadith 63 |

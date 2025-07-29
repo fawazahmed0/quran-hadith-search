@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## French
 
+Rapporté par Hasan al-Hulwānī : Il a dit : « J’ai entendu Shabābah dire : ‘Abd ul-Quddūs nous rapportait en disant : “Suwayd bin Aqalah a dit…” \[alors qu’il fallait dire ‘bin Ghafalah’\].’ Shabābah a dit : ‘Et j’ai entendu Abd ul-Quddūs dire : “Le Messager d’Allah ﷺ a interdit de prendre un Rawḥ par accident.”’ \[Shabābah\] dit : ‘On lui demanda : “Qu’est-ce que cela veut dire ?” \[Abd ul-Quddūs\] répondit : “Cela veut dire faire une ouverture dans un mur pour laisser entrer une brise par accident.”’ \[Il a changé le hadith d’origine, remplaçant ‘Rūḥ’ (âme) par ‘Rawḥ’ (brise), et ‘Gharaḍān’ (comme cible) par ‘Arḍān’ (par accident), simplement en modifiant quelques lettres.\] Muslim dit : « J’ai entendu Ubayd Allah bin Umar al-Qawārīrī dire, j’ai entendu Hammād bin Zayd dire à un homme après qu’il ait fréquenté Mahdī bin Hilāl pendant des jours : ‘Quel est donc ce puits salé \[c’est-à-dire inutile ou nuisible\] qui a jailli vers toi ?’ Il répondit : ‘Oui, ô Abā Ismā’īl \[en acquiesçant\].’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>77</td></tr><tr><td>Reference</td><td>Book 0 Hadith 77</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 77 |
+| Reference | Book 0 Hadith 77 |

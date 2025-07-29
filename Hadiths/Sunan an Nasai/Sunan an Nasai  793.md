@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدَةَ، عَنْ حَمَّادِ بْنِ زَيْدٍ، ثُمَّ ذَكَرَ كَلِمَةً مَعْنَاهَا قَالَ حَدَّثَنَا أَبُو حَازِمٍ، قَالَ سَهْلُ بْنُ سَعْدٍ كَانَ قِتَالٌ بَيْنَ بَنِي عَمْرِو بْنِ عَوْفٍ فَبَلَغَ ذَلِكَ النَّبِيَّ صلى الله عليه وسلم فَصَلَّى الظُّهْرَ ثُمَّ أَتَاهُمْ لِيُصْلِحَ بَيْنَهُمْ ثُمَّ قَالَ لِبِلاَلٍ ‏"‏ يَا بِلاَلُ إِذَا حَضَرَ الْعَصْرُ وَلَمْ آتِ فَمُرْ أَبَا بَكْرٍ فَلْيُصَلِّ بِالنَّاسِ ‏"‏ ‏.‏ فَلَمَّا حَضَرَتْ أَذَّنَ بِلاَلٌ ثُمَّ أَقَامَ فَقَالَ لأَبِي بَكْرٍ رضى الله عنه تَقَدَّمْ ‏.‏ فَتَقَدَّمَ أَبُو بَكْرٍ فَدَخَلَ فِي الصَّلاَةِ ثُمَّ جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَجَعَلَ يَشُقُّ النَّاسَ حَتَّى قَامَ خَلْفَ أَبِي بَكْرٍ وَصَفَّحَ الْقَوْمُ وَكَانَ أَبُو بَكْرٍ إِذَا دَخَلَ فِي الصَّلاَةِ لَمْ يَلْتَفِتْ فَلَمَّا رَأَى أَبُو بَكْرٍ التَّصْفِيحَ لاَ يُمْسَكُ عَنْهُ الْتَفَتَ فَأَوْمَأَ إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم بِيَدِهِ فَحَمِدَ اللَّهَ عَزَّ وَجَلَّ عَلَى قَوْلِ رَسُولِ اللَّهِ صلى الله عليه وسلم لَهُ امْضِهْ ثُمَّ مَشَى أَبُو بَكْرٍ الْقَهْقَرَى عَلَى عَقِبَيْهِ فَتَأَخَّرَ فَلَمَّا رَأَى ذَلِكَ رَسُولُ اللَّهِ صلى الله عليه وسلم تَقَدَّمَ فَصَلَّى بِالنَّاسِ فَلَمَّا قَضَى صَلاَتَهُ قَالَ ‏"‏ يَا أَبَا بَكْرٍ مَا مَنَعَكَ إِذْ أَوْمَأْتُ إِلَيْكَ أَنْ لاَ تَكُونَ مَضَيْتَ ‏"‏ ‏.‏ فَقَالَ لَمْ يَكُنْ لاِبْنِ أَبِي قُحَافَةَ أَنْ يَؤُمَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ وَقَالَ لِلنَّاسِ ‏"‏ إِذَا نَابَكُمْ شَىْءٌ فَلْيُسَبِّحِ الرِّجَالُ وَلْيُصَفِّحِ النِّسَاءُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |
+
 اخبرنا احمد بن عبدة، عن حماد بن زيد، ثم ذكر كلمة معناها قال حدثنا ابو حازم، قال سهل بن سعد كان قتال بين بني عمرو بن عوف فبلغ ذلك النبي صلى الله عليه وسلم فصلى الظهر ثم اتاهم ليصلح بينهم ثم قال لبلال " يا بلال اذا حضر العصر ولم ات فمر ابا بكر فليصل بالناس " . فلما حضرت اذن بلال ثم اقام فقال لابي بكر رضى الله عنه تقدم . فتقدم ابو بكر فدخل في الصلاة ثم جاء رسول الله صلى الله عليه وسلم فجعل يشق الناس حتى قام خلف ابي بكر وصفح القوم وكان ابو بكر اذا دخل في الصلاة لم يلتفت فلما راى ابو بكر التصفيح لا يمسك عنه التفت فاوما اليه رسول الله صلى الله عليه وسلم بيده فحمد الله عز وجل على قول رسول الله صلى الله عليه وسلم له امضه ثم مشى ابو بكر القهقرى على عقبيه فتاخر فلما راى ذلك رسول الله صلى الله عليه وسلم تقدم فصلى بالناس فلما قضى صلاته قال " يا ابا بكر ما منعك اذ اومات اليك ان لا تكون مضيت " . فقال لم يكن لابن ابي قحافة ان يوم رسول الله صلى الله عليه وسلم . وقال للناس " اذا نابكم شىء فليسبح الرجال وليصفح النساء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমদ ইবনু আবদা (রহঃ) ... সাহল ইবনু সা’দ (রাঃ) থেকে বর্ণিত যে, বনূ আমর ইবনু আউফ-এর মধ্যে মারামারি হচ্ছিল। এ সংবাদ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট পৌছলো। তিনি যোহরের সালাত আদায় করে তাদের মধ্যে আপস করে দেবার জন্য তাদের নিকট গেলেন। তিনি বিলাল (রাঃ)-কে বললেন, বিলাল! যদি আসরের সালাতের সময় হয় আর আমি আসতে না পারি তবে আবূ বকর (রাঃ)-কে বলবে সে যেন লোকদের নিয়ে সালাত আদায় করে। যখন সালাতের সময় উপস্থিত হলো তখন বিলাল (রাঃ) আযান দিলেন। তারপর ইকামত বললেন এবং আবূ বকর (রাঃ)-কে বললেন, সামনে যান। তখন আবূ বকর (রাঃ) সামনে গিয়ে সালাত আরম্ভ করলেন। তারপর রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগমন করলেন এবং লোকদের কাতারের মধ্য দিয়ে এসে আবূ বকরের পেছনে দাঁড়ালেন। লোকজন হাততালি দিয়ে ইংগিত করলেন। আর আবূ বকর (রাঃ) সালাতে দাঁড়ালে কোনদিকে লক্ষ্য করতেন না। যখন তিনি দেখলেন তাদের হাততালি বন্ধ হচ্ছে না। তখন তিনি লক্ষ্য করলেন। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার নিজ হাত দ্বারা ইঙ্গিত করলেন। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সালাত চালিয়ে যাওয়ার ইঙ্গিতের জন্য তিনি আল্লাহর শোকর আদায় করলেন। তারপর আবূ বকর (রাঃ) পেছনে সরে আসলেন। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা দেখে সম্মুখে অগ্রসর হলেন এবং লোকদের নিয়ে সালাত আদায় করলেন। যখন সালাত শেয করলেন তখন তিনি বললেনঃ হে আবূ বকর! আমি যখন তোমাকে ইঙ্গিত করলাম, তখন তুমি পিছে সরে আসা থেকে কেন বিরত থাকলে না? তিনি বললেনঃ আবূ ফুহাফার পুত্রের জন্য রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর ইমামত করা শোভা পায় না। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের বললেনঃ যখন তোমাদের কোন সমস্যা দেখা দেয়, তখন পূরুষরা সুবহানাল্লাহ বলবে আর মহিলারা হাততালি দিবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sahl bin Sa'd said:"There was some fighting among Banu 'Amr bin 'Awf, and news of that reached the Prophet (ﷺ). He prayed Zuhr, then he went to them to reconcile between them. Then he said to Bilal: 'O Bilal, if the time for Asr comes and I have not come back, then tell Abu Bakr to lead the people in prayer.' When the time (for Asr) came, Bilal called the Adhan, then the Iqamah, then he said to Abu Bakr: 'Go forward. So Abu Bakr went forward and started to pray. Then the Messenger of Allah (ﷺ) came and started passing through the rows of people until he stood behind Abu Bakr, and the people clapped. Abu Bakr was such that whenever he started praying, he would never glance sideways, but when he noticed that the clapping persisted he turned around. The Messenger of Allah (ﷺ) gestured to him to carry on praying. Abu Bakr praised Allah the Mighty and Sublime for the Messenger of Allah (ﷺ) having told him to continue. Then Abu Bakr moved backward on his heels, and when the Messenger of Allah (ﷺ) saw that, he came forward and led the people in prayer. When he completed the prayer he said: 'O Abu Bakr, when I gestured to you, what kept you from continuing (to lead the people)?' He said: 'It does not befit the son of Abu Quhafah to lead the Messenger of Allah (ﷺ) in prayer.' And he (the Prophet) said to the people: 'If you notice something (during the prayer), men should say Subhan Allah and women should clap
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |
+
+## French
+
+Rapporté par Sahl bin Sa'd : Il y a eu des disputes parmi les Banu 'Amr bin 'Awf, et le Prophète (ﷺ) en a été informé. Il a prié Zuhr, puis il est allé les voir pour les réconcilier. Ensuite, il a dit à Bilal : "Ô Bilal, si l'heure de Asr arrive et que je ne suis pas revenu, dis à Abu Bakr de diriger la prière." Quand l'heure est arrivée, Bilal a fait l'Adhan, puis l'Iqamah, puis il a dit à Abu Bakr : "Avance." Abu Bakr s'est avancé et a commencé à prier. Ensuite, le Messager d'Allah (ﷺ) est arrivé et a traversé les rangs jusqu'à se placer derrière Abu Bakr, et les gens ont tapé dans leurs mains. Abu Bakr, quand il commençait à prier, ne se retournait jamais, mais quand il a vu que les gens insistaient, il s'est retourné. Le Messager d'Allah (ﷺ) lui a fait signe de continuer. Abu Bakr a loué Allah pour cela, puis il a reculé sur ses talons, et quand le Messager d'Allah (ﷺ) a vu cela, il s'est avancé et a dirigé la prière. Quand il a terminé, il a dit : "Ô Abu Bakr, quand je t'ai fait signe, pourquoi n'as-tu pas continué à diriger la prière ?" Il a répondu : "Il ne convient pas au fils d'Abu Quhafah de diriger la prière devant le Messager d'Allah (ﷺ)." Et il (le Prophète) a dit aux gens : "Si vous remarquez quelque chose pendant la prière, que les hommes disent 'Subhan Allah' et que les femmes tapent dans leurs mains
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |
 
 ## Indonesian
 
+Telah mengkabarkan kepada kami \[Ahmad bin 'Abdah\] dari \[Hammad bin Zaid\] kemudian dia menyebutkan kalimat yang maknanya, dia berkata; telah menceritakan kepada kami \[Abu Hazim\] dia berkata; berkata \[Sahl bin Sa'd\] Bahwa Bani Amru bin Auf mempunyai suatu masalah, lalu hal ini sampai kepada Rasulullah Shallallahu'alaihi wasallam, maka beliau Shallallahu'alaihi wasallam shalat Zhuhur kemudian mendatangi mereka untuk mendamaikan mereka. Rasulullah Shallallahu'alaihi wasallam bersabda kepada Bilal, "Wahai Bilal, jika tiba waktu shalat Ashar sedangkan aku belum datang, maka suruh Abu Bakar (menjadi imam) shalat bersama kaum muslim."Tatkala datang waktu Ashar, maka Bilal segera adzan dan dilanjutkan dengan iqamah. Lantas Bilal berkata kepada Abu Bakar Rabi'ah, "Majulah (jadi imam)." maka Abu Bakar maju menjadi imam shalat. Saat itu Rasulullah Shallallahu'alaihi wasallam datang, beliau Shallallahu'alaihi wasallam segera masuk lewat celah-celah barisan shalat hingga beliau berdiri di belakang Abu Bakar. Orang-orang mulai menepukkan tangannya, dan Abu Bakar bila telah memulai shalat biasanya ia tidak menoleh dalam shalatnya. Setelah Abu Bakar melihat banyaknya orang-orang yang bertepuk tangan, maka Abu Bakar tidak mampu menahan untuk tidak menoleh, sehingga ia mendapati Rasulullah Shallallahu'alaihi wasallam, dan beliau Shallallahu'alaihi wasallam memberikan isyarat dengan tangannya kepada Abu Bakar, namun Abu Bakar memuji Allah Azza wa Jalla atas perintah beliau Shallallahu'alaihi wasallam kepada dirinya, "Lanjutkan saja." Lalu Abu Bakar kembali ke belakang dengan mundur, dan Rasulullah Shallallahu'alaihi wasallam segera maju untuk menjadi imam dan shalat bersama kaum muslim. Setelah selesai, beliau Shallallahu'alaihi wasallam menghadap ke jemaah dan bersabda, "Wahai Abu Bakar, apakah yang menghalangimu untuk shalat menjadi imam bagi para jemaah saat kuisyaratkan demikian." Abu Bakar berkata, "Tidaklah pantas bagi Ibnu Quhafah untuk shalat menjadi imam bagi Rasulullah Shallallahu'alaihi wasallam." Beliau Shallallahu'alaihi wasallam lalu bersabda kepada kaum muslim, "Jika kalian mengalami sesuatu -dalam shalat- maka hendaknya bagi orang laki-laki untuk bertasbih dan bagi orang perempuan untuk bertepuk tangan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkabarkan kepada kami [Ahmad bin 'Abdah] dari [Hammad bin Zaid] kemudian dia menyebutkan kalimat yang maknanya, dia berkata; telah menceritakan kepada kami [Abu Hazim] dia berkata; berkata [Sahl bin Sa'd] Bahwa Bani Amru bin Auf mempunyai suatu masalah, lalu hal ini sampai kepada Rasulullah Shallallahu'alaihi wasallam, maka beliau Shallallahu'alaihi wasallam shalat Zhuhur kemudian mendatangi mereka untuk mendamaikan mereka. Rasulullah Shallallahu'alaihi wasallam bersabda kepada Bilal, "Wahai Bilal, jika tiba waktu shalat Ashar sedangkan aku belum datang, maka suruh Abu Bakar (menjadi imam) shalat bersama kaum muslim."Tatkala datang waktu Ashar, maka Bilal segera adzan dan dilanjutkan dengan iqamah. Lantas Bilal berkata kepada Abu Bakar Rabi'ah, "Majulah (jadi imam)." maka Abu Bakar maju menjadi imam shalat. Saat itu Rasulullah Shallallahu'alaihi wasallam datang, beliau Shallallahu'alaihi wasallam segera masuk lewat celah-celah barisan shalat hingga beliau berdiri di belakang Abu Bakar. Orang-orang mulai menepukkan tangannya, dan Abu Bakar bila telah memulai shalat biasanya ia tidak menoleh dalam shalatnya. Setelah Abu Bakar melihat banyaknya orang-orang yang bertepuk tangan, maka Abu Bakar tidak mampu menahan untuk tidak menoleh, sehingga ia mendapati Rasulullah Shallallahu'alaihi wasallam, dan beliau Shallallahu'alaihi wasallam memberikan isyarat dengan tangannya kepada Abu Bakar, namun Abu Bakar memuji Allah Azza wa Jalla atas perintah beliau Shallallahu'alaihi wasallam kepada dirinya, "Lanjutkan saja." Lalu Abu Bakar kembali ke belakang dengan mundur, dan Rasulullah Shallallahu'alaihi wasallam segera maju untuk menjadi imam dan shalat bersama kaum muslim. Setelah selesai, beliau Shallallahu'alaihi wasallam menghadap ke jemaah dan bersabda, "Wahai Abu Bakar, apakah yang menghalangimu untuk shalat menjadi imam bagi para jemaah saat kuisyaratkan demikian." Abu Bakar berkata, "Tidaklah pantas bagi Ibnu Quhafah untuk shalat menjadi imam bagi Rasulullah Shallallahu'alaihi wasallam." Beliau Shallallahu'alaihi wasallam lalu bersabda kepada kaum muslim, "Jika kalian mengalami sesuatu -dalam shalat- maka hendaknya bagi orang laki-laki untuk bertasbih dan bagi orang perempuan untuk bertepuk tangan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سہل بن سعد رضی اللہ عنہ کہتے ہیں کہ قبیلہ بنی عمرو بن عوف میں آپس میں لڑائی ہوئی، یہ خبر نبی اکرم صلی اللہ علیہ وسلم کے پاس پہنچی تو آپ نے ظہر پڑھی، پھر ان کے پاس آئے تاکہ ان میں صلح کرا دیں، اور بلال رضی اللہ عنہ سے فرمایا: بلال! جب عصر کا وقت آ جائے اور میں نہ آ سکوں تو ابوبکر سے کہنا کہ وہ لوگوں کو نماز پڑھا دیں ، چنانچہ جب عصر کا وقت آیا، تو بلال رضی اللہ عنہ نے اذان دی، پھر اقامت کہی، اور ابوبکر رضی اللہ عنہ سے کہا: آگے بڑھیے، تو ابوبکر رضی اللہ عنہ آگے بڑھے، اور نماز پڑھانے لگے، اتنے میں رسول اللہ صلی اللہ علیہ وسلم تشریف لے آئے، اور لوگوں کو چیرتے ہوئے آگے آئے ۱؎ یہاں تک کہ ابوبکر رضی اللہ عنہ کے پیچھے آ کر کھڑے ہو گئے، تو لوگوں نے تالیاں بجانی شروع کر دیں، اور ابوبکر رضی اللہ عنہ کا حال یہ تھا کہ جب وہ نماز شروع کر دیتے تو کسی اور طرف متوجہ نہیں ہوتے، مگر جب انہوں نے دیکھا کہ برابر تالی بج رہی ہے تو وہ متوجہ ہوئے، تو رسول اللہ صلی اللہ علیہ وسلم نے ان کی طرف اپنے ہاتھ سے اشارہ کیا کہ تم نماز جاری رکھو ، تو اس بات پر انہوں نے اللہ تعالیٰ کا شکر ادا کیا، پھر وہ اپنی ایڑیوں کے بل الٹے چل کر پیچھے آ گئے، جب رسول اللہ صلی اللہ علیہ وسلم نے یہ دیکھا تو آپ نے آگے بڑھ کر لوگوں کو نماز پڑھائی، پھر جب اپنی نماز پوری کر چکے تو آپ نے فرمایا: ابوبکر! جب میں نے تمہیں اشارہ کر دیا تھا تو تم نے نماز کیوں نہیں پڑھائی؟ تو انہوں نے عرض کیا: ابوقحافہ کے بیٹے کو یہ بات زیب نہیں دیتی کہ وہ رسول اللہ صلی اللہ علیہ وسلم کی امامت کرے، پھر آپ صلی اللہ علیہ وسلم نے لوگوں سے فرمایا: جب تمہیں نماز کے اندر کوئی بات پیش آ جائے، تو مرد سبحان اللہ کہیں، اور عورتیں تالی بجائیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>793</td></tr><tr><td>Arabic No</td><td>793</td></tr><tr><td>Reference</td><td>Book 10 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 793 |
+| Arabic No | 793 |
+| Reference | Book 10 Hadith 17 |

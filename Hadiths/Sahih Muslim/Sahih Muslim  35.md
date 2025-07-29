@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## French
 
+Rapporté par Yahyā bin Sa’īd رحمه الله : « J’ai interrogé Sufyān ath-Thawrī, Shu’bah, Mālik et Ibn Uyaynah au sujet d’un homme qui n’est pas fiable dans le hadith, et si quelqu’un me demande à son sujet, ils ont dit : “Informe les autres qu’il n’est pas fiable.” »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Amr b. Ali Ebû Hafs dahi rivâyet etti. ki: «Yahya b. Saîd'i şunu söylerken işittim: Süfyan-ı Sevrî ile Şu'be'ye, Mâlik'e ve İbn üyeyne'ye sordum: Bir kimse hadîsde mevsuk olmaz da, birisi onun hakkında bana sual sorarsa ne yapmalıyım? dedim. «Onun mevsuk olmadığım haber ver!» dediler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یحییٰ بن سعید نے کہا : میں نے سفیان ثوری ، شعبہ ، مالک اور ابن عیینہ سے ایسے آدمی کے بارے میں پوچھا جو حدیث میں پور ی طرح قابل اعتماد ( ثقہ ) نہ ہو ، پھر کوئی آدمی آئے اور مجھ سے اس کے بارے میں سوال کرے؟ تو ان سب نے کہا : اس کے بارے میں بتا دو کہ وہ پوری طرح قابل اعتماد نہیں ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>35</td></tr><tr><td>Reference</td><td>Book 0 Hadith 35</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 35 |
+| Reference | Book 0 Hadith 35 |

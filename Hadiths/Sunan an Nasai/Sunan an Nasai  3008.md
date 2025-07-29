@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ آدَمَ، عَنِ ابْنِ الْمُبَارَكِ، عَنْ سَلَمَةَ بْنِ نُبَيْطٍ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَخْطُبُ يَوْمَ عَرَفَةَ عَلَى جَمَلٍ أَحْمَرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 24 Hadith 391</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |
+
 اخبرنا محمد بن ادم، عن ابن المبارك، عن سلمة بن نبيط، عن ابيه، قال رايت رسول الله صلى الله عليه وسلم يخطب يوم عرفة على جمل احمر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 24 Hadith 391</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আদম (রহঃ) .... সালামা ইন নুবায়ত (রহঃ) তাঁর পিতার সূত্রে বর্ণনা করেন। তার পিতা বলেছেন, আমি আরাফার দিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে লাল বর্ণের উটের উপর বসে খুৎবা দিতে দেখেছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 24 Hadith 391</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Salamah bin Nubait that his father said:"I saw the Messenger of Allah delivering a Khutbah on the day of Arafat atop a red camel." (Hasan) Chpater 200. Delivering A Short Khutbah In 'Arafat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 24 Hadith 391</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |
+
+## French
+
+Rapporté par Salamah bin Nubait, d'après son père : J'ai vu le Messager d'Allah ﷺ faire un sermon le jour d'Arafat sur un chameau rouge. (Bon)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Adam\] dari \[Ibnu Al Mubarak\] dari \[Salamah bin Nubaith\] dari \[ayahnya\], ia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam berkhutbah pada hari Arafah di atas unta merah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Adam] dari [Ibnu Al Mubarak] dari [Salamah bin Nubaith] dari [ayahnya], ia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam berkhutbah pada hari Arafah di atas unta merah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 24 Hadith 391</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 24 Hadith 391</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبیط رضی الله عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو عرفہ کے دن سرخ اونٹ پر سوار ہو کر خطبہ دیتے دیکھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3008</td></tr><tr><td>Arabic No</td><td>3008</td></tr><tr><td>Reference</td><td>Book 24 Hadith 391</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3008 |
+| Arabic No | 3008 |
+| Reference | Book 24 Hadith 391 |

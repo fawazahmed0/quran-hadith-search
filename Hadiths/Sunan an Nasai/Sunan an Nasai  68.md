@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ حُمَيْدَةَ بِنْتِ عُبَيْدِ بْنِ رِفَاعَةَ، عَنْ كَبْشَةَ بِنْتِ كَعْبِ بْنِ مَالِكٍ، أَنَّ أَبَا قَتَادَةَ، دَخَلَ عَلَيْهَا ثُمَّ ذَكَرَتْ كَلِمَةً مَعْنَاهَا فَسَكَبْتُ لَهُ وَضُوءًا فَجَاءَتْ هِرَّةٌ فَشَرِبَتْ مِنْهُ فَأَصْغَى لَهَا الإِنَاءَ حَتَّى شَرِبَتْ - قَالَتْ كَبْشَةُ - فَرَآنِي أَنْظُرُ إِلَيْهِ فَقَالَ أَتَعْجَبِينَ يَا ابْنَةَ أَخِي فَقُلْتُ نَعَمْ ‏.‏ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ إِنَّهَا لَيْسَتْ بِنَجَسٍ إِنَّمَا هِيَ مِنَ الطَّوَّافِينَ عَلَيْكُمْ وَالطَّوَّافَاتِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |
+
 اخبرنا قتيبة، عن مالك، عن اسحاق بن عبد الله بن ابي طلحة، عن حميدة بنت عبيد بن رفاعة، عن كبشة بنت كعب بن مالك، ان ابا قتادة، دخل عليها ثم ذكرت كلمة معناها فسكبت له وضوءا فجاءت هرة فشربت منه فاصغى لها الاناء حتى شربت - قالت كبشة - فراني انظر اليه فقال اتعجبين يا ابنة اخي فقلت نعم . قال ان رسول الله صلى الله عليه وسلم قال " انها ليست بنجس انما هي من الطوافين عليكم والطوافات
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... কাবশা বিনত কা’ব ইবনু মালিক (রাঃ) থেকে বর্ণিত। আবূ কাতাদা (রাঃ) একদিন তাঁর নিকট আগমন করেন। তারপর কাবশা কিছু কথা বলেনঃ যার অর্থ হচ্ছে, আমি আবূ কাতাদা (রাঃ) এর জন্য উযূর পানি রাখি। ইত্যবসরে একটি বিড়াল এসে পাত্র থেকে পানি পান করে। আবূ কাতাদা (রাঃ) পাত্রটি কাত করে দিলে বিড়ালটি পানি পান করে। কাবশা বলেনঃ আবূ কাতাদা (রাঃ) আমাকে তার দিকে তাকিয়ে থাকতে দেখে জিজ্ঞাসা করলেন, হে ভাতিজী! (আমি বিড়ালকে পাত্র থেকে পানি পান করিয়েছে দেখে) তুমি আশ্চর্যান্বিত হয়েছ কি? আমি বললাম, হ্যাঁ। তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, বিড়াল অপবিত্র নয়। কারণ যে সব প্রাণী প্রতিনিয়ত তোমাদের আশে পাশে থাকে, তাদের মধ্যে বিড়ালও একটি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Kabshah bint Ka'b bin Malik that Abu Qatadah entered upon her, then she narrated the following:"I poured some water from him for Wudu', and a cat came and drank from it, so he tilted the vessel for it to drink." Kabshah said: "He saw me looking at him and said: 'Are you surprised, O daughter of my brother?' I said: 'Yes.' He said: 'The Messenger of Allah (ﷺ) said: They are not impure, rather they are among the males and females (animals) who go around among you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |
+
+## French
+
+Rapporté par Kabshah bint Ka'b bin Malik : Abu Qatadah est entré chez elle, puis elle a raconté : « Je lui ai versé de l'eau pour ses ablutions, et un chat est venu boire dedans, alors il a penché le récipient pour qu'il puisse boire. » Kabshah a dit : « Il m'a vue le regarder et a dit : “Es-tu étonnée, ô fille de mon frère ?” J'ai dit : “Oui.” Il a dit : “Le Messager d'Allah (ﷺ) a dit : Ils ne sont pas impurs, ce sont des animaux qui vivent autour de vous.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dari \[Malik\] dari \[Ishaq bin Abdullah bin Abu Thalhah\] dari \[Humaidah binti Ubaid bin Rifa'ah\] dari \[Kabsyah binti Ka'ab bin Malik\] bahwa \[Abu Qatadah\] masuk ke dalam-menemuinya -kemudian menyebutkan suatu kalimat -yang maknanya- aku menuangkan air wudlu kepada beliau, lalu datang seekor kucing yang meminum air wudlu tersebut. Beliau lalu menyodorkan bejana tadi kepada kucing tersebut hingga kucing tersebut meminumnya. Kabsyah berkata, "Dia melihatku sedang memperhatikannya, maka dia berkata, 'Apakah kamu merasa heran wahai anak perempuan saudaraku? ' Aku berkata, 'Ya'. Dia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda, " Kucing itu tidak najis. Kucing itu termasuk hewan yang ada di sekeliling kalian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Humaidah binti Ubaid bin Rifa'ah] dari [Kabsyah binti Ka'ab bin Malik] bahwa [Abu Qatadah] masuk ke dalam-menemuinya -kemudian menyebutkan suatu kalimat -yang maknanya- aku menuangkan air wudlu kepada beliau, lalu datang seekor kucing yang meminum air wudlu tersebut. Beliau lalu menyodorkan bejana tadi kepada kucing tersebut hingga kucing tersebut meminumnya. Kabsyah berkata, "Dia melihatku sedang memperhatikannya, maka dia berkata, 'Apakah kamu merasa heran wahai anak perempuan saudaraku? ' Aku berkata, 'Ya'. Dia berkata, 'Rasulullah shallallahu 'alaihi wasallam bersabda, " Kucing itu tidak najis. Kucing itu termasuk hewan yang ada di sekeliling kalian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kebşe binti Ka’b. b. Mâlik (radıyallahü anh)’den aktarıldığına göre, Ebû Katade, Kebşe’ nin yanına geldi ve şuna yakın bir şeyler söylediğini anlattı: Katade için abdest suyu hazırlamıştım, bir kedi geldi ve o kaptan su içmek istedi. Ebû Katade kabı eğerek kedinin rahat su içmesini sağladı. Kebşe dedi ki: Ebû Katade benim o kaba baktığımı görünce; Ey kardeşimin kızı şaşırdın mı? Diye sordu. Evet dedim, o zaman Ebû Katade şöyle dedi: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: pis değildir, o sizin evlerinizde ve çevrenizde çok dolaşan temiz hayvanlardandır.) (Tirmizî, Tahara: 69; İbn Mâce, Tahara:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کبشہ بنت کعب بن مالک رضی اللہ عنہا سے روایت ہے کہ ابوقتادہ رضی اللہ عنہ ان کے پاس آئے، پھر ( کبشہ نے ) ایک ایسی بات کہی جس کا مفہوم یہ ہے کہ میں نے ان کے لیے وضو کا پانی لا کر ایک برتن میں ڈالا، اتنے میں ایک بلی آئی اور اس سے پینے لگی، تو انہوں نے برتن ٹیڑھا کر دیا یہاں تک کہ اس بلی نے پانی پی لیا، کبشہ کہتی ہیں: تو انہوں نے مجھے دیکھا کہ میں انہیں ( حیرت سے ) دیکھ رہی ہوں، تو کہنے لگے: بھتیجی! کیا تم تعجب کر رہی ہو؟ میں نے کہا: ہاں، انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یہ ناپاک نہیں ہے، یہ تو تمہارے پاس بکثرت آنے جانے والوں اور آنے جانے والیوں میں سے ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>68</td></tr><tr><td>Arabic No</td><td>68</td></tr><tr><td>Reference</td><td>Book 1 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 68 |
+| Arabic No | 68 |
+| Reference | Book 1 Hadith 68 |

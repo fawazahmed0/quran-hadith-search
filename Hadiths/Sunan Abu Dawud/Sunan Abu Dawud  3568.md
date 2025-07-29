@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، حَدَّثَنِي فُلَيْتٌ الْعَامِرِيُّ، عَنْ جَسْرَةَ بِنْتِ دِجَاجَةَ، قَالَتْ قَالَتْ عَائِشَةُ رضى الله عنها مَا رَأَيْتُ صَانِعًا طَعَامًا مِثْلَ صَفِيَّةَ صَنَعَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم طَعَامًا فَبَعَثَتْ بِهِ فَأَخَذَنِي أَفْكَلٌ فَكَسَرْتُ الإِنَاءَ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا كَفَّارَةُ مَا صَنَعْتُ قَالَ ‏ "‏ إِنَاءٌ مِثْلُ إِنَاءٍ وَطَعَامٌ مِثْلُ طَعَامٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
+
 حدثنا مسدد، حدثنا يحيى، عن سفيان، حدثني فليت العامري، عن جسرة بنت دجاجة، قالت قالت عايشة رضى الله عنها ما رايت صانعا طعاما مثل صفية صنعت لرسول الله صلى الله عليه وسلم طعاما فبعثت به فاخذني افكل فكسرت الاناء فقلت يا رسول الله ما كفارة ما صنعت قال " اناء مثل اناء وطعام مثل طعام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাসরাহ বিনতু দাজাজাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা ‘আয়িশাহ (রাঃ) বলেন, সাফিয়্যাহর মতো সুস্বাদু খাবার রান্না করতে কাউকে আমি দেখিনি। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য খাবার তৈরী করে পাঠালেন। এতে রাগান্বিত হয়ে আমি খাবারের পাত্রটি ভেঙ্গে ফেলি। অতঃপর আমি বলি, হে আল্লাহর রাসূল! আমার কৃতকর্মের কাফফারাহ কি? তিনি বলেনঃ অনুরূপ একটি পাত্র ও খাবারের বিনিময়ে অনুরূপ খাবার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: I saw no one cooking food like Safiyyah. She cooked food for the Messenger of Allah (ﷺ) and sent it. I became angry and broke the vessel. I then asked: Messenger of Allah, what is the atonement for what I have done? He replied: A vessel like (this) vessel and food like (this) food
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
+
+## French
+
+Rapporté par Aisha, la mère des croyants رضي الله عنها : Je n’ai vu personne cuisiner comme Safiyyah. Elle a préparé un plat pour le Messager d’Allah ﷺ et l’a envoyé. Je me suis mise en colère et j’ai cassé le récipient. J’ai alors demandé : « Messager d’Allah, quelle est l’expiation pour ce que j’ai fait ? » Il a répondu : « Un récipient comme celui-ci et de la nourriture comme celle-ci. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Sufyan\] telah menceritakan kepadaku \[Fulait Al 'Amiri\] dari \[Jasrah binti Dajajah\] ia berkata, " \[Aisyah\] radliallahu 'anha berkata, "Aku tidak melihat pembuat makanan seperti Shafiyyah, ia membuat makanan untuk Rasulullah shallallahu 'alaihi wasallam lalu mengirimkannya kepada beliau. Maka aku merasa gemetar, hingga aku pun memecahkan bejana tersebut. Kemudian aku katakan, "Wahai Rasulullah, apa hukuman dari apa yang telah aku perbuat?" Beliau menjawab: "Bejana yang sama, dan makanan yang sama
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepadaku [Fulait Al 'Amiri] dari [Jasrah binti Dajajah] ia berkata, " [Aisyah] radliallahu 'anha berkata, "Aku tidak melihat pembuat makanan seperti Shafiyyah, ia membuat makanan untuk Rasulullah shallallahu 'alaihi wasallam lalu mengirimkannya kepada beliau. Maka aku merasa gemetar, hingga aku pun memecahkan bejana tersebut. Kemudian aku katakan, "Wahai Rasulullah, apa hukuman dari apa yang telah aku perbuat?" Beliau menjawab: "Bejana yang sama, dan makanan yang sama
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Аиша, да будет доволен ею Аллах, передаёт: «Я никогда не видела женщину, которая готовила бы лучше, чем Сафийя. И однажды она приготовила еду для Посланника Аллаха ﷺ и послала её ему. Меня же охватила ревность, и я разбила блюдо. Потом я спросила: “О Посланник Аллаха, как мне искупить то, что я сделала?” Он ответил: “За блюдо такое же блюдо, а за еду такая же еда”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'nın şöyle dediği rivayet edilmiştir: Safiyye kadar (güzel) yemek yapan birisini görmedim. O, Rasûlullah için bir yemek yapıp gönderdi. Beni bir titreme aldı ve kab'ı kırdım, (sonra): Ya Rasûlallah, yaptığımın keffareti ne? dedim. "Kabın misli kap ve yemeğin misli yemek" buyurdu. Diğer tahric: Nesai, nisa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جسرہ بنت دجاجہ کہتی ہیں ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں نے صفیہ رضی اللہ عنہا جیسا ( اچھا ) کھانا پکاتے کسی کو نہیں دیکھا، ایک دن انہوں نے رسول اللہ صلی اللہ علیہ وسلم کے لیے کھانا پکا کر آپ کے پاس بھیجا ( اس وقت آپ میرے یہاں تھے ) میں غصہ سے کانپنے لگی ( کہ آپ میرے یہاں ہوں اور کھانا کہیں اور سے پک کر آئے ) تو میں نے ( وہ ) برتن توڑ دیا ( جس میں کھانا آیا تھا ) ، پھر میں نے آپ سے عرض کیا: اللہ کے رسول! مجھ سے جو حرکت سرزد ہو گئی ہے اس کا کفارہ کیا ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: برتن کے بدلے ویسا ہی برتن اور کھانے کے بدلے ویسا ہی دوسرا کھانا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3568</td></tr><tr><td>Arabic No</td><td>3568</td></tr><tr><td>Reference</td><td>Book 24 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3568 |
+| Arabic No | 3568 |
+| Reference | Book 24 Hadith 153 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا ابْنُ الْمُثَنَّى، حَدَّثَنَا أَبُو دَاوُدَ، ح وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا النَّضْرُ بْنُ شُمَيْلٍ، جَمِيعًا عَنْ شُعْبَةَ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابن المثنى، حدثنا ابو داود، ح وحدثناه اسحاق بن ابراهيم، اخبرنا النضر بن شميل، جميعا عن شعبة، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু মুসান্না ও ইসহাক ইবনু ইবরাহীম (রহঃ) ...... শুবাহ্ (রহঃ) এর সূত্রে উক্ত সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৬৬৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The same tradition has been handed down through a different chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## French
 
+La même tradition a été transmise par une autre chaîne de rapporteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Îbnü'l-Müsennâ da rivayet etti (Dedikî): Bize Ebû Dâvûd rivayet etti. H. Bize bu hadîsi İshâk b. İbrahim dahî rivayet etti. (Dediki): Bize Nadr b. Şümeyl haber verdi. Bunlar hep birden Şu'be'den bu isnadla bu hadîsin mislini rivayet etmişlerdir. İzah 1861 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوداود اور نضر بن شمیل نے شعبہ سے اسی سند کے ساتھ اسی کے مانند روایت کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>1857.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 113</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 1857.02 |
+| Reference | Book 33 Hadith 113 |

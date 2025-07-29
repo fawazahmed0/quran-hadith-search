@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ السَّرِيِّ النَّاقِطُ، حَدَّثَنَا بِشْرُ بْنُ مَنْصُورٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ عَتَّابِ بْنِ أَسِيدٍ، قَالَ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُخْرَصَ الْعِنَبُ كَمَا يُخْرَصُ النَّخْلُ وَتُؤْخَذُ زَكَاتُهُ زَبِيبًا كَمَا تُؤْخَذُ زَكَاةُ النَّخْلِ تَمْرًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
+
 حدثنا عبد العزيز بن السري الناقط، حدثنا بشر بن منصور، عن عبد الرحمن بن اسحاق، عن الزهري، عن سعيد بن المسيب، عن عتاب بن اسيد، قال امر رسول الله صلى الله عليه وسلم ان يخرص العنب كما يخرص النخل وتوخذ زكاته زبيبا كما توخذ زكاة النخل تمرا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
 
 ## Bengali
 
+। আত্তাব ইবনু আসীদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আঙ্গুরের পরিমাণ নির্ধারণ করতে নির্দেশ দিয়েছেন, যেমন খেজুরের পরিমাণ নির্ধারণ হয় এবং আঙ্গুরের যাকাত গ্রহণ করবে কিশমিশ দ্বারা, যেমন পাকা খেজুরের যাকাত শুকনা খেজুর দ্বারা নেয়া হয়।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আত্তাব ইবনু আসীদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আঙ্গুরের পরিমাণ নির্ধারণ করতে নির্দেশ দিয়েছেন, যেমন খেজুরের পরিমাণ নির্ধারণ হয় এবং আঙ্গুরের যাকাত গ্রহণ করবে কিশমিশ দ্বারা, যেমন পাকা খেজুরের যাকাত শুকনা খেজুর দ্বারা নেয়া হয়।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Attab ibn Usayd: The Messenger of Allah (ﷺ) commanded to estimate vines (for collecting zakat) as palm-trees are estimated. The zakat is to be paid in raisins as the zakat on palm trees is paid in dried dates
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
+
+## French
+
+Rapporté par Attab ibn Usayd : Le Messager d’Allah ﷺ a ordonné d’estimer les vignes (pour la zakat) comme on estime les palmiers. La zakat doit être payée en raisins secs, comme la zakat des palmiers est payée en dattes sèches
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abdul Aziz bin As Sari An Naqith\], telah menceritakan kepada Kami \[Bisyr bin Manshur\] dari \[Abdurrahman bin Ishaq\] dari \[Az Zuhri\] dari \[Sa'id? bin Al Musayyab\] dari \['Attab bin Usaid\], ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk memperkirakan jumlah anggur sebagaimana memperkirakan jumlah kurma dan diambil zakatnya dalam bentuk kismis sebagaimana pohon kurma diambil zakatnya dalam bentuk kurma. Telah menceritakan kepada Kami \[Muhammad bin Ishak Al Musayyabi\], telah menceritakan kepada Kami \[Abdullah bin Nafi'\] dari \[Muhammad bin Sholih At Tammar\] dari \[Ibnu Syihab\] dengan sanad dan maknanya. Abu daud berkata Sa'id tidak mendengar dari 'Atab sedikit pun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abdul Aziz bin As Sari An Naqith], telah menceritakan kepada Kami [Bisyr bin Manshur] dari [Abdurrahman bin Ishaq] dari [Az Zuhri] dari [Sa'id? bin Al Musayyab] dari ['Attab bin Usaid], ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk memperkirakan jumlah anggur sebagaimana memperkirakan jumlah kurma dan diambil zakatnya dalam bentuk kismis sebagaimana pohon kurma diambil zakatnya dalam bentuk kurma. Telah menceritakan kepada Kami [Muhammad bin Ishak Al Musayyabi], telah menceritakan kepada Kami [Abdullah bin Nafi'] dari [Muhammad bin Sholih At Tammar] dari [Ibnu Syihab] dengan sanad dan maknanya. Abu daud berkata Sa'id tidak mendengar dari 'Atab sedikit pun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Аттаб ибн Асид передаёт, что Посланник Аллаха ﷺ велел определять количество винограда приблизительно, подобно тому, как определял приблизительно и количество фиников на пальмах, и брал с него закят изюмом, подобно тому, как с пальм берут закят сушёными финиками
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Attâb b. Esîc'den; demiştir ki: Resûlullah (s.a.v.) ağaçtaki hurma tahmin edildiği gibi asmadaki üzümün de tahmin edilmesini ve ağaçtaki hurmanın zekâtı kuru hurma olarak alındığı gibi üzümün zekâtının da kuru üzüm olarak alınmasını emretti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عتاب بن اسید رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے انگور کا تخمینہ لگانے کا حکم دیا جیسے درخت پر کھجور کا تخمینہ لگایا جاتا ہے اور ان کی زکاۃ اس وقت لی جائے جب وہ خشک ہو جائیں جیسے کھجور کی زکاۃ سوکھنے پر لی جاتی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1603</td></tr><tr><td>Arabic No</td><td>1603</td></tr><tr><td>Reference</td><td>Book 9 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1603 |
+| Arabic No | 1603 |
+| Reference | Book 9 Hadith 48 |

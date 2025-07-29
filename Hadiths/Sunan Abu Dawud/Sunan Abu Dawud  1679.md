@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,131 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ سَعِيدٍ، أَنَّ سَعْدًا، أَتَى النَّبِيَّ صلى الله عليه وسلم فَقَالَ أَىُّ الصَّدَقَةِ أَعْجَبُ إِلَيْكَ قَالَ ‏ "‏ الْمَاءُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
+
 حدثنا محمد بن كثير، اخبرنا همام، عن قتادة، عن سعيد، ان سعدا، اتى النبي صلى الله عليه وسلم فقال اى الصدقة اعجب اليك قال " الماء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
 
 ## Bengali
 
+। সাঈদ (রহঃ) সূত্রে বর্ণিত। একদা সা‘দ ইবনু ‘উবাদাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললেন, আপনার কাছে কোন সাদাকা অধিক পছন্দনীয়? তিনি বললেনঃ পানি (পান করানো)।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাঈদ (রহঃ) সূত্রে বর্ণিত। একদা সা‘দ ইবনু ‘উবাদাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট এসে বললেন, আপনার কাছে কোন সাদাকা অধিক পছন্দনীয়? তিনি বললেনঃ পানি (পান করানো)।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa’id reported Sa’d came to the Prophet (SWAS) and asked him Which sadaqah do you like most? He replied Water
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
+
+## French
+
+Rapporté par Sa’id رضي الله عنه : Sa’d est venu voir le Prophète ﷺ et lui a demandé : « Quelle aumône préfères-tu ? » Il a répondu : « L’eau. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Са‘ида, что Са‘д пришёл к Пророку ﷺ и спросил: «Какая милостыня нравится тебе больше всего?» Он ответил: «Вода»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Said' (b. el-Müseyyeb)'den rivayet edildiğine göre, Sa'd (b. Ubâde) Peygamber (s.a.v.)'e geldi ve O (s.a.v.)'na: Hangi sadaka (çeşidi) sana daha sevimlidir? dedi. Resûlullah (s.a.v.): "Su'dur" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعد بن عبادہ انصاری خزرجی رضی اللہ عنہ سے روایت ہے کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم کے پاس آ کر عرض کیا: کون سا صدقہ آپ کو زیادہ پسند ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: پانی ( کا صدقہ ) ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1679</td></tr><tr><td>Arabic No</td><td>1679</td></tr><tr><td>Reference</td><td>Book 9 Hadith 124</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1679 |
+| Arabic No | 1679 |
+| Reference | Book 9 Hadith 124 |

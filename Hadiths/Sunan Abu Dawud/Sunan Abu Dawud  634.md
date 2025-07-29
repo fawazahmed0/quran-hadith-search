@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، وَسُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ الدِّمَشْقِيُّ، وَيَحْيَى بْنُ الْفَضْلِ السِّجِسْتَانِيُّ، قَالُوا حَدَّثَنَا حَاتِمٌ، - يَعْنِي ابْنَ إِسْمَاعِيلَ - حَدَّثَنَا يَعْقُوبُ بْنُ مُجَاهِدٍ أَبُو حَزْرَةَ، عَنْ عُبَادَةَ بْنِ الْوَلِيدِ بْنِ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ أَتَيْنَا جَابِرًا - يَعْنِي ابْنَ عَبْدِ اللَّهِ - قَالَ سِرْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي غَزْوَةٍ فَقَامَ يُصَلِّي وَكَانَتْ عَلَىَّ بُرْدَةٌ ذَهَبْتُ أُخَالِفُ بَيْنَ طَرَفَيْهَا فَلَمْ تَبْلُغْ لِي وَكَانَتْ لَهَا ذَبَاذِبُ فَنَكَسْتُهَا ثُمَّ خَالَفْتُ بَيْنَ طَرَفَيْهَا ثُمَّ تَوَاقَصْتُ عَلَيْهَا لاَ تَسْقُطُ ثُمَّ جِئْتُ حَتَّى قُمْتُ عَنْ يَسَارِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخَذَ بِيَدِي فَأَدَارَنِي حَتَّى أَقَامَنِي عَنْ يَمِينِهِ فَجَاءَ ابْنُ صَخْرٍ حَتَّى قَامَ عَنْ يَسَارِهِ فَأَخَذَنَا بِيَدَيْهِ جَمِيعًا حَتَّى أَقَامَنَا خَلْفَهُ قَالَ وَجَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَرْمُقُنِي وَأَنَا لاَ أَشْعُرُ ثُمَّ فَطِنْتُ بِهِ فَأَشَارَ إِلَىَّ أَنْ أَتَّزِرَ بِهَا فَلَمَّا فَرَغَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ يَا جَابِرُ ‏"‏ ‏.‏ قَالَ قُلْتُ لَبَّيْكَ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏"‏ إِذَا كَانَ وَاسِعًا فَخَالِفْ بَيْنَ طَرَفَيْهِ وَإِذَا كَانَ ضَيِّقًا فَاشْدُدْهُ عَلَى حِقْوِكَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
+
 حدثنا هشام بن عمار، وسليمان بن عبد الرحمن الدمشقي، ويحيى بن الفضل السجستاني، قالوا حدثنا حاتم، - يعني ابن اسماعيل - حدثنا يعقوب بن مجاهد ابو حزرة، عن عبادة بن الوليد بن عبادة بن الصامت، قال اتينا جابرا - يعني ابن عبد الله - قال سرت مع النبي صلى الله عليه وسلم في غزوة فقام يصلي وكانت على بردة ذهبت اخالف بين طرفيها فلم تبلغ لي وكانت لها ذباذب فنكستها ثم خالفت بين طرفيها ثم تواقصت عليها لا تسقط ثم جيت حتى قمت عن يسار رسول الله صلى الله عليه وسلم فاخذ بيدي فادارني حتى اقامني عن يمينه فجاء ابن صخر حتى قام عن يساره فاخذنا بيديه جميعا حتى اقامنا خلفه قال وجعل رسول الله صلى الله عليه وسلم يرمقني وانا لا اشعر ثم فطنت به فاشار الى ان اتزر بها فلما فرغ رسول الله صلى الله عليه وسلم قال " يا جابر " . قال قلت لبيك يا رسول الله . قال " اذا كان واسعا فخالف بين طرفيه واذا كان ضيقا فاشدده على حقوك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
 
 ## Bengali
 
+। ‘উবাদাহ ইবনুল ওয়ালীদ ইবনু ‘উবাদাহ্ ইবনুস সামিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা জাবির ইবনু ‘আবদুল্লাহ (রাঃ)-এর নিকট উপস্থিত হলে তিনি বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে একটি যুদ্ধে যাই। তিনি সালাত আদায় করতে দাঁড়ালেন। তখন আমার গায়ে একটি চাদর ছিল। আমি সেটির দু’ প্রান্ত দু’ কাঁধের উপর রাখার চেষ্টা করছিলাম। (চাদরটি ছোট হওয়ায়) সেটি দিয়ে আমার শরীর (বা কাধঁ) ঢাকা যাচ্ছিল না। অবশ্য চাদরটিতে আঁচল লাগানো ছিল। আমি তা উল্টে নিয়ে দুই বিপরীত দিকে দু’ কাঁধের উপর তার দুই মাথা ফেলে দিলাম। তারপর আমি কিছুটা ঝুঁকে গিয়ে তা চিবুক দিয়ে চেপে ধরলাম, যেন পড়ে না যায়। অতঃপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বাম পাশে গিয়ে দাঁড়ালাম। তিনি আমার হাত ধরে আমাকে ঘুরিয়ে এনে তাঁর ডান পাশে দাঁড় করালেন। পরে ইবনু শাখরা এসে তাঁর পাশে দাঁড়ালো। তিনি তাঁর দু’হাতে আমাদের উভয়ের হাত ধরে তাঁর পেছনে দাঁড় করিয়ে দিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার প্রতি লক্ষ্য করছিলেন। অথচ আমি বুঝতেই পারিনি, অবশ্য পরে বুঝেছি। তিনি ইশারায় আমাকে বললেনঃ ওটাকে ‘তহবন্দ’ বানিয়ে নাও। সালাত আদায় শেষে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে জাবির! আমি বললামঃ আমি উপস্থিত, হে আল্লাহর রসূল! তিনি বললেন, চাদর প্রশস্ত হলে সেটির দু’ মাথা বিপরীতভাবে দু’ কাঁধের উপর দিবে। পক্ষান্তরে চাদর ছোট হলে সেটি কোমরে বেঁধে নিবে।\[1\] সহীহ : মুসলিম, বুখারী সংক্ষেপে।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘উবাদাহ ইবনুল ওয়ালীদ ইবনু ‘উবাদাহ্ ইবনুস সামিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা জাবির ইবনু ‘আবদুল্লাহ (রাঃ)-এর নিকট উপস্থিত হলে তিনি বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে একটি যুদ্ধে যাই। তিনি সালাত আদায় করতে দাঁড়ালেন। তখন আমার গায়ে একটি চাদর ছিল। আমি সেটির দু’ প্রান্ত দু’ কাঁধের উপর রাখার চেষ্টা করছিলাম। (চাদরটি ছোট হওয়ায়) সেটি দিয়ে আমার শরীর (বা কাধঁ) ঢাকা যাচ্ছিল না। অবশ্য চাদরটিতে আঁচল লাগানো ছিল। আমি তা উল্টে নিয়ে দুই বিপরীত দিকে দু’ কাঁধের উপর তার দুই মাথা ফেলে দিলাম। তারপর আমি কিছুটা ঝুঁকে গিয়ে তা চিবুক দিয়ে চেপে ধরলাম, যেন পড়ে না যায়। অতঃপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বাম পাশে গিয়ে দাঁড়ালাম। তিনি আমার হাত ধরে আমাকে ঘুরিয়ে এনে তাঁর ডান পাশে দাঁড় করালেন। পরে ইবনু শাখরা এসে তাঁর পাশে দাঁড়ালো। তিনি তাঁর দু’হাতে আমাদের উভয়ের হাত ধরে তাঁর পেছনে দাঁড় করিয়ে দিলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার প্রতি লক্ষ্য করছিলেন। অথচ আমি বুঝতেই পারিনি, অবশ্য পরে বুঝেছি। তিনি ইশারায় আমাকে বললেনঃ ওটাকে ‘তহবন্দ’ বানিয়ে নাও। সালাত আদায় শেষে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, হে জাবির! আমি বললামঃ আমি উপস্থিত, হে আল্লাহর রসূল! তিনি বললেন, চাদর প্রশস্ত হলে সেটির দু’ মাথা বিপরীতভাবে দু’ কাঁধের উপর দিবে। পক্ষান্তরে চাদর ছোট হলে সেটি কোমরে বেঁধে নিবে।[1] সহীহ : মুসলিম, বুখারী সংক্ষেপে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ubadah b. al-Samit said:we came to Jabir b. ‘Abd Allah. He said : I (Jabir) accompanied the Messenger of Allah (ﷺ) in a battle. He got up to pray. I had a sheet of cloth upon me, and I began to cross both the ends, but they did not reach (my shoulders). It had fringes which I turned over and crossed the two ends, and bowed down retaining it with my neck lest it should fall down. Then I came and stood on the left side of the Messenger of Allah (ﷺ). He then took and brought me around him and set me on his right side. Then Ibn Sakhr came and stood on his left side. he then took us with his both hands and made us stand behind him. The Messenger of Allah (ﷺ) began to look at me furtive glances, but I could not understand. When I understood, he hinted at me tie the wrapper. When the Messenger of Allah (ﷺ) finished the prayer, he said (to me): O Jabir. I said; Yes, Messenger of Allah. He said; if it (the sheet) is wide, cross both its ends (over the shoulders); if it is tight, tie it over your loins
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
+
+## French
+
+Rapporté par ‘Ubadah ibn al-Samit رضي الله عنه : Nous sommes allés voir Jabir ibn ‘Abd Allah. Il a dit : « J’ai accompagné le Messager d’Allah ﷺ lors d’une bataille. Il s’est levé pour prier. Je portais un tissu sur moi et j’ai essayé d’en croiser les deux extrémités, mais elles n’atteignaient pas mes épaules. Il y avait des franges que j’ai rabattues et j’ai croisé les deux bouts, puis je me suis penché en avant en le maintenant avec mon cou pour qu’il ne tombe pas. Ensuite, je suis venu me placer à la gauche du Messager d’Allah ﷺ. Il m’a alors pris et m’a placé à sa droite. Puis Ibn Sakhr est venu se mettre à sa gauche. Il nous a alors pris tous les deux par la main et nous a fait nous placer derrière lui. Le Messager d’Allah ﷺ me lançait des regards, mais je ne comprenais pas. Quand j’ai compris, il m’a fait signe d’attacher le tissu. Quand le Messager d’Allah ﷺ a fini la prière, il m’a dit : “Ô Jabir.” J’ai répondu : “Oui, Messager d’Allah.” Il a dit : “Si le tissu est large, croise ses deux extrémités sur tes épaules ; s’il est étroit, attache-le autour de ta taille.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hisyam bin Ammar\] dan \[Sulaiman bin Abdurrahman Ad-Dimasyqi\] dan \[Yahya bin Al-Fadll As-Sijistani\] mereka berkata; Telah menceritakan kepada kami \[Hatim bin Isma'il\] telah menceritakan kepada kami \[Ya'qub bin Mujahid, Abu Hazrah\] dari \[Ubadah bin Al-Walid bin Ubadah bin Ash-Shamit\] dia berkata; Kami pernah mengunjungi \[Jabir bin Abdullah\], dia berkata; Saya pernah pergi bersama Nabi shallallahu 'alaihi wasallam dalam suatu peperangan. Lalu beliau berdiri mengerjakan shalat, sementara saya memakai kain selimut yang saya silangkan kedua ujungnya, namun tidak memadai untukku. Kain itu berumbai bagian bawahnya, maka saya membaliknya, lalu saya silangkan kedua ujungnya, kemudian saya apit (dengan leher) supaya tidak jatuh. Lalu saya datang sehingga saya berdiri di sebelah kiri Rasulullah shallallahu 'alaihi wasallam, maka beliau memegang tanganku, dan memindahkanku sehingga saya ditempatkan di sebelah kanan beliau, tiba tiba datang Ibnu Sakhr langsung berdiri di sebelah kiri beliau, maka beliau memegang kami berdua dengan kedua tangannya, sampai beliau menempatkan kami di belakang. Kata Jabir; Rasulullah menatapku, sedangkan saya tidak merasa, akhirnya saya juga dapat memahaminya. Beliau kemudian memberi isyarat kepadaku supaya saya memakai kain tersebut sebagai sarung. Setelah Rasulullah shallallahu 'alaihi wasallam selesai shalat, beliau bersabda: "Wahai Jabir." Kata Jabir; Aku jawab, ya Rasulullah. Beliau bersabda: "Apabila kain itu longgar, maka silangkanlah kedua ujungnya, dan apabila sempit, ikatlah pada pinggangmu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hisyam bin Ammar] dan [Sulaiman bin Abdurrahman Ad-Dimasyqi] dan [Yahya bin Al-Fadll As-Sijistani] mereka berkata; Telah menceritakan kepada kami [Hatim bin Isma'il] telah menceritakan kepada kami [Ya'qub bin Mujahid, Abu Hazrah] dari [Ubadah bin Al-Walid bin Ubadah bin Ash-Shamit] dia berkata; Kami pernah mengunjungi [Jabir bin Abdullah], dia berkata; Saya pernah pergi bersama Nabi shallallahu 'alaihi wasallam dalam suatu peperangan. Lalu beliau berdiri mengerjakan shalat, sementara saya memakai kain selimut yang saya silangkan kedua ujungnya, namun tidak memadai untukku. Kain itu berumbai bagian bawahnya, maka saya membaliknya, lalu saya silangkan kedua ujungnya, kemudian saya apit (dengan leher) supaya tidak jatuh. Lalu saya datang sehingga saya berdiri di sebelah kiri Rasulullah shallallahu 'alaihi wasallam, maka beliau memegang tanganku, dan memindahkanku sehingga saya ditempatkan di sebelah kanan beliau, tiba tiba datang Ibnu Sakhr langsung berdiri di sebelah kiri beliau, maka beliau memegang kami berdua dengan kedua tangannya, sampai beliau menempatkan kami di belakang. Kata Jabir; Rasulullah menatapku, sedangkan saya tidak merasa, akhirnya saya juga dapat memahaminya. Beliau kemudian memberi isyarat kepadaku supaya saya memakai kain tersebut sebagai sarung. Setelah Rasulullah shallallahu 'alaihi wasallam selesai shalat, beliau bersabda: "Wahai Jabir." Kata Jabir; Aku jawab, ya Rasulullah. Beliau bersabda: "Apabila kain itu longgar, maka silangkanlah kedua ujungnya, dan apabila sempit, ikatlah pada pinggangmu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Убада ибн аль-Уалид ибн ‘Убада ибн ас-Самит сказал: "(Как-то) мы пришли к Джабиру ибн Абдуллах и он сказал: «(Однажды, когда) я участвовал с Пророком ﷺ в военном походе, он начал совершать молитву. На мне (в это время) была накидка с бахрамой и я постарался накинуть её края на плечи, но мне её не хватило. Я перевернул её, затем накинул её края (на плечи) и придерживая его шеей (и подбородком), чтобы она не спала, после чего пришёл и встал слева от Посланника Аллаха ﷺ, но он взял меня за руку и провёл меня вокруг себя, пока не поставил справа от себя. Затем пришёл Ибн Сахр и встал слева от него, а он взял нас обеими руками и поставил позади себя".(Джабир) сказал: "И он стал упорно смотреть на меня, но я этого не замечал. Затем я понял его и он указал мне, чтобы я завязал его. Когда же Посланник Аллаха ﷺ закончил (молитву), он сказал: “О Джабир!”".(Джабир) сказал: "Я сказал: "Я перед тобой, о Посланник Аллаха!". (Посланник Аллаха ﷺ) сказал: “Если (одежда) будет просторной, то накидывай её края на плечи, а если она будет тесной, то завяжи её на пояснице”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ubade b. el-Velid b. Ubade b. Es-Samit'den; demiştir ki: Biz Cabir'in yani İbn Abdillah'ın yanına varmıştık. (Bize şunları) söyledi: "Bir gece Resulullah (Sallallahu aleyhi ve Sellem)'le beraber düşmanı takibe çıkmıştım. Resulullah (Sallallahu aleyhi ve Sellem) namaza kalktı. Benim üzerimde de bir örtü vardı. Bir ucunu sağ omuzuma, öbür ucunu da sol omuzuma atmaya uğraştımsa da yetişmedi (dar geldi). Aynı zamanda saçakları vardı. (Bir de) altını üstüne getirdikten sonra her iki ucundan birini sağ, öbürünü de sol omuzuma aldım, sonra da düşmemesi için üzerine eğildim (ve çenemle tuttum). Gelip Resulullah (Sallallahu aleyhi ve Sellem)'in soluna durdum. Resul-i Ekrem de (hemen) elimi tutup (arkasından) dolandırarak beni sağına durdurdu. (Çok geçmeden) İbn Sahr geldi, o da soluna durdu. (Hz. Nebi) her ikimizi de elleriyle tutup beraberce arkasına durdurdu. (Cabir) dedi ki: Resulullah (Sallallahu aleyhi ve Sellem) gözlerini bana dikmişti. Bense hissetmiyordum. Sonra bunun farkına vardım. Bana bu örtüyü belime bağlamamı işaret etti. Resul-i Ekrem (Sallallahu aleyhi ve Sellem) namazı bitirince bana (hitab ederek); "Ey Cabir" dedi, ben de: "Buyur, ey Allah'ın Resulü" dedim. "Elbise bol olunca iki uçlarını omuzlarına at. Dar olunca da beline bağla" buyurdu." Diğer tahric: Müslim, zuhd; Ahmed b. Hanbel, IH
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبادہ بن ولید بن عبادہ بن صامت کہتے ہیں کہ ہم جابر بن عبداللہ رضی اللہ عنہما کے پاس آئے تو انہوں نے کہا: میں ایک غزوہ میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ چلا ( رات میں میں کسی غرض سے آپ کی خدمت میں حاضر ہوا تو دیکھا کہ ) آپ صلی اللہ علیہ وسلم کھڑے نماز پڑھ رہے ہیں، اس وقت میرے جسم پر صرف ایک چادر تھی، میں اس کے دائیں کنارے کو بائیں کندھے پر اور بائیں کو دائیں کندھے پر ڈالنے لگا تو وہ میرے لیے ناکافی ہوئی، البتہ اس میں کچھ گوٹ اور کناریاں لگی تھیں تو میں نے اسے الٹ لیا اور اس کے دونوں کناروں کو ادھر ادھر ڈال لیا اور گردن سے اسے روکے رکھا تاکہ گرنے نہ پائے، پھر میں آ کر رسول اللہ صلی اللہ علیہ وسلم کی بائیں طرف کھڑا ہو گیا تو آپ نے میرا ہاتھ پکڑا اور مجھے گھما کر اپنی داہنی طرف کھڑا کر لیا۔ پھر ابن صخر رضی اللہ عنہ آئے، وہ آپ صلی اللہ علیہ وسلم کی بائیں طرف کھڑے ہو گئے، آپ نے اپنے دونوں ہاتھوں سے ہم دونوں کو پکڑ کر اپنے پیچھے کھڑا کر دیا، مجھے آپ صلی اللہ علیہ وسلم کنکھیوں سے دیکھنے لگے، میں سمجھ نہیں پا رہا تھا ( کہ آپ مجھ سے کیا کہنا چاہتے ہیں ) ، پھر بات میری سمجھ میں آ گئی، آپ صلی اللہ علیہ وسلم نے مجھے تہہ بند باندھنے کا اشارہ کیا، پھر جب آپ نماز سے فارغ ہوئے تو فرمایا: جابر! ، میں نے کہا: اللہ کے رسول! فرمائیے، حاضر ہوں، آپ صلی اللہ علیہ وسلم نے فرمایا: جب چادر کشادہ ہو تو اس کے دونوں کناروں کو ادھر ادھر ڈال لو، اور جب تنگ ہو تو اسے اپنی کمر پر باندھ لیا کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (3008)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>634</td></tr><tr><td>Arabic No</td><td>634</td></tr><tr><td>Reference</td><td>Book 2 Hadith 244</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (3008) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 634 |
+| Arabic No | 634 |
+| Reference | Book 2 Hadith 244 |

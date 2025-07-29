@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,102 @@
 
 ## Arabic
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |
 
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |
 
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+## French
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3894</td></tr><tr><td>Arabic No</td><td>3894</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3894 |
+| Arabic No | 3894 |
+| Reference | Book 0 Hadith 0 |

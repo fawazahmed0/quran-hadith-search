@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ عَبْدِ اللَّهِ بْنِ شَدَّادٍ، عَنْ أَبِي عُذْرَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ دُخُولِ الْحَمَّامَاتِ ثُمَّ رَخَّصَ لِلرِّجَالِ أَنْ يَدْخُلُوهَا فِي الْمَيَازِرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن عبد الله بن شداد، عن ابي عذرة، عن عايشة، رضى الله عنها ان رسول الله صلى الله عليه وسلم نهى عن دخول الحمامات ثم رخص للرجال ان يدخلوها في الميازر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গণ-গোসলখানায় প্রবেশ করতে নির্দেশ করেছেন। অতঃপর পুরুষদের লুঙ্গি-পাজামা পরে প্রবেশের অনুমতি দিয়েছেন।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গণ-গোসলখানায় প্রবেশ করতে নির্দেশ করেছেন। অতঃপর পুরুষদের লুঙ্গি-পাজামা পরে প্রবেশের অনুমতি দিয়েছেন।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) forbade to enter the hot baths. He then permitted men to enter them in lower garments
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ a interdit d’entrer dans les bains chauds. Il a ensuite permis aux hommes d’y entrer à condition de porter un vêtement couvrant le bas du corps
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dari \[Abdullah bin Syaddad\] dari \[Abu 'Udzrah\] dari \[Aisyah\] radliallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam melarang memasuki tempat-tempat pemandian umum. Dan beliau memberi keringanan bagi kaum laki-laki dengan syarat mengenakan kain sarung
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Abdullah bin Syaddad] dari [Abu 'Udzrah] dari [Aisyah] radliallahu 'anhuma, bahwa Rasulullah shallallahu 'alaihi wasallam melarang memasuki tempat-tempat pemandian umum. Dan beliau memberi keringanan bagi kaum laki-laki dengan syarat mengenakan kain sarung
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сначала запретил всем посещать бани, а потом разрешил мужчинам входить в бани в изаре
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (ranha)'dan rivayet olunduğuna göre; Resulullah (s.a.v), (önceleri) hamamlara girmeyi yasaklamış, sonra erkeklerin peştemalli olarak oralara girmelerine izin vermiştir. Bu hadis; İbn-i mace, edeb; Tirmizi, zdeb: Darimi, isti'zan; Ahmed b. Hanbel III 339 VI. 132.139.173.179.267. de de var
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے حمامات ( غسل خانوں ) میں داخل ہونے سے منع فرمایا، پھر آپ نے مردوں کو تہبند باندھ کر جانے کی رخصت دی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4009</td></tr><tr><td>Arabic No</td><td>4009</td></tr><tr><td>Reference</td><td>Book 33 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4009 |
+| Arabic No | 4009 |
+| Reference | Book 33 Hadith 1 |

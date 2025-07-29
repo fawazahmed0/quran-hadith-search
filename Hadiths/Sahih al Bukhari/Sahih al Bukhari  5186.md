@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ نَصْرٍ، حَدَّثَنَا حُسَيْنٌ الْجُعْفِيُّ، عَنْ زَائِدَةَ، عَنْ مَيْسَرَةَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلاَ يُؤْذِي جَارَهُ ‏"‏‏.‏ وَاسْتَوْصُوا بِالنِّسَاءِ خَيْرًا فَإِنَّهُنَّ خُلِقْنَ مِنْ ضِلَعٍ وَإِنَّ أَعْوَجَ شَيْءٍ فِي الضِّلَعِ أَعْلَاهُ فَإِنْ ذَهَبْتَ تُقِيمُهُ كَسَرْتَهُ وَإِنْ تَرَكْتَهُ لَمْ يَزَلْ أَعْوَجَ فَاسْتَوْصُوا بِالنِّسَاءِ خَيْرًا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا اسحاق بن نصر، حدثنا حسين الجعفي، عن زايدة، عن ميسرة، عن ابي حازم، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " من كان يومن بالله واليوم الاخر فلا يوذي جاره ". واستوصوا بالنساء خيرا فانهن خلقن من ضلع وان اعوج شيء في الضلع اعلاه فان ذهبت تقيمه كسرته وان تركته لم يزل اعوج فاستوصوا بالنساء خيرا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
 ## Bengali
 
+আর তোমরা নারীদের সঙ্গে সদ্ব্যবহার করবে। কেননা, তাদেরকে সৃষ্টি করা হয়েছে পাঁজরার হাড় থেকে এবং সবচেয়ে বাঁকা হচ্ছে পাঁজরার ওপরের হাড়। যদি তা সোজা করতে যাও, তাহলে ভেঙ্গে যাবে। আর যদি তা যেভাবে আছে সেভাবে রেখে দাও তাহলে বাঁকাই থাকবে। অতএব, তোমাদেরকে ওসীয়ত করা হলো নারীদের সঙ্গে সদ্ব্যবহার করার জন্য। \[৩৩৩১\](আধুনিক প্রকাশনী- ৪৮০৪, ইসলামিক ফাউন্ডেশন)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আর তোমরা নারীদের সঙ্গে সদ্ব্যবহার করবে। কেননা, তাদেরকে সৃষ্টি করা হয়েছে পাঁজরার হাড় থেকে এবং সবচেয়ে বাঁকা হচ্ছে পাঁজরার ওপরের হাড়। যদি তা সোজা করতে যাও, তাহলে ভেঙ্গে যাবে। আর যদি তা যেভাবে আছে সেভাবে রেখে দাও তাহলে বাঁকাই থাকবে। অতএব, তোমাদেরকে ওসীয়ত করা হলো নারীদের সঙ্গে সদ্ব্যবহার করার জন্য। [৩৩৩১](আধুনিক প্রকাশনী- ৪৮০৪, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:The Prophet (ﷺ) said, "Whoever believes in Allah and the Last Day should not hurt (trouble) his neighbor. And I advise you to take care of the women, for they are created from a rib and the most crooked portion of the rib is its upper part; if you try to straighten it, it will break, and if you leave it, it will remain crooked, so I urge you to take care of the women
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
+
+## French
+
+Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : « Celui qui croit en Allah et au Jour dernier ne doit pas faire de mal à son voisin. Et je vous recommande de bien traiter les femmes, car elles ont été créées à partir d’une côte, et la partie la plus courbée de la côte est son extrémité supérieure ; si tu essaies de la redresser, elle se cassera, et si tu la laisses, elle restera courbée. Donc, je vous encourage à bien traiter les femmes. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Nashr\] Telah menceritakan kepada kami \[Husain Al Ju'fi\] dari \[Za'idah\] dari \[Maisarah\] dari \[Abu Hazim\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang beriman kepada Allah dan juga kepada hari akhir, maka janganlah ia menyakiti tetangganya. Pergaulilah wanita kaum wanita dengan baik, sesungguhnya mereka diciptakan dari tulang rusuk. Dan sesuatu yang paling bengkok yang terdapat tulang rusuk adalah bagian paling atas. Jika kamu meluruskannya dengan seketika, niscaya kamu akan mematahkannya, namun jika kamu membiarkannya maka ia pun akan selalu dalam keadaan bengkok. Karena itu pergaulilah wanita dengan penuh kebijakan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Nashr] Telah menceritakan kepada kami [Husain Al Ju'fi] dari [Za'idah] dari [Maisarah] dari [Abu Hazim] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa yang beriman kepada Allah dan juga kepada hari akhir, maka janganlah ia menyakiti tetangganya. Pergaulilah wanita kaum wanita dengan baik, sesungguhnya mereka diciptakan dari tulang rusuk. Dan sesuatu yang paling bengkok yang terdapat tulang rusuk adalah bagian paling atas. Jika kamu meluruskannya dengan seketika, niscaya kamu akan mematahkannya, namun jika kamu membiarkannya maka ia pun akan selalu dalam keadaan bengkok. Karena itu pergaulilah wanita dengan penuh kebijakan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Пусть тот, кто верует в Аллаха и в Последний день, не обижает своего соседа! И (всегда) обходитесь с женщинами хорошо, ведь, поистине, были они сотворены из ребра, а наибольшей кривизной отличается его верхняя часть; если ты попытаешься выпрямить (ребро), то сломаешь его, а если оставишь его (в покое), оно так и останется кривым, (а поэтому всегда) обходитесь с женщинами хорошо!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
 ## Turkish
 
+Ebu Hureyre r.a.'den rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Allah'a ve ahiret gününe iman eden bir kimse komşusuna eziyet etmesin. " Bu hadis 6018, 6136, 6138 ve 6475 numara ile de geçiyor. \[-5186-\] "Kadınlar hakkındaki hayır tavsiyemi kabul ediniz. Çünkü onlar bir kaburga kemiğinden yaratılmışlardır. Şüphesiz kaburga kemiğinin en eğri yanı, en üst tarafıdır. Sen onu duzeltmeye kalkışırsan onu kırarsın. Ona ilişmezsen eğri olarak kalır. O halde kadınlar hakkındaki hayır tavsiyemi kabul ediniz
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Hureyre r.a.'den rivayete göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: "Allah'a ve ahiret gününe iman eden bir kimse komşusuna eziyet etmesin. " Bu hadis 6018, 6136, 6138 ve 6475 numara ile de geçiyor. [-5186-] "Kadınlar hakkındaki hayır tavsiyemi kabul ediniz. Çünkü onlar bir kaburga kemiğinden yaratılmışlardır. Şüphesiz kaburga kemiğinin en eğri yanı, en üst tarafıdır. Sen onu duzeltmeye kalkışırsan onu kırarsın. Ona ilişmezsen eğri olarak kalır. O halde kadınlar hakkındaki hayır tavsiyemi kabul ediniz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5186</td></tr><tr><td>Arabic No</td><td>5186</td></tr><tr><td>Reference</td><td>Book 67 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5186 |
+| Arabic No | 5186 |
+| Reference | Book 67 Hadith 120 |

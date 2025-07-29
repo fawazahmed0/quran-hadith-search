@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ يَحْيَى، بِهَذَا الإِسْنَادِ حَتَّى يَبْدُوَ صَلاَحُهُ لَمْ يَذْكُرْ مَا بَعْدَهُ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا محمد بن المثنى، وابن ابي عمر، قالا حدثنا عبد الوهاب، عن يحيى، بهذا الاسناد حتى يبدو صلاحه لم يذكر ما بعده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনুল মুসান্না ও ইবনু আবূ উমার (রহঃ) ..... ইয়াহইয়া (রহঃ) হতে উক্ত সানাদে বর্ণনা করেন, যতক্ষণ না তা পরিপক্ক হয়। এর পরবর্তী অংশ তিনি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশন ৩৭২৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith is reported or the authority of Yahya with the same chain of transmitters up to" until its good condition becomes clear," but lie did not mention what follows (these words)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## French
 
+Rapporté par Yahya, selon la même chaîne de transmetteurs : Ce hadith a été rapporté jusqu’à « avant que leur bon état ne soit évident », mais il n’a pas mentionné la suite
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Muhammed b. Müsennâ ile İbni Ebî Ömer rivayet ettiler. (Dedilerki): Bize Abdülvehhab, Yahya'dan bu isnâdla: «Olgunluğu zuhur edinceye kadar.» diye rivayet etti; ondan sonrasını zikretmedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالوہاب نے یحییٰ سے اسی سند کے ساتھ " حتیٰ کہ اس کی صلاحیت واضح ہو جائے " تک حدیث بیان کی ، اس کے بعد والا حصہ بیان نہیں کیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>1534.04</td></tr><tr><td>Reference</td><td>Book 21 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 1534.04 |
+| Reference | Book 21 Hadith 65 |

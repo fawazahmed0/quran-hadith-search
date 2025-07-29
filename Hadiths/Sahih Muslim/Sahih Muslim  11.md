@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## French
 
+Rapporté par Abd ar-Rahman ibn Mahdi : « Un homme ne peut pas être un imam suivi par les autres tant qu’il ne retient pas certaines choses de ce qu’il entend. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абуль-Ахваса о том, что ‘Абдуллах (ибн Мас‘уд) сказал: «Достаточно для человека лжи, если он рассказывает все, что услышит»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن مثٰنی ‘ عبد الرحمٰن ‘ سفیان ‘ ابو اسحاق ‘ ابو الاحوص نے عبد اللہ ( بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) سے روایت کی ، کہا : آدمی کے جھوٹ میں یہی کافی ہے کہ وہ ہر سنی ہوئی بات بیان کر دے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>11</td></tr><tr><td>Reference</td><td>Book 0 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 11 |
+| Reference | Book 0 Hadith 11 |

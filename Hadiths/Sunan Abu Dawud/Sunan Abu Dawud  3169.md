@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، وَعَبْدُ الرَّحْمَنِ بْنُ حُسَيْنٍ الْهَرَوِيُّ، قَالاَ حَدَّثَنَا الْمُقْرِئُ، حَدَّثَنَا حَيْوَةُ، حَدَّثَنِي أَبُو صَخْرٍ، - وَهُوَ حُمَيْدُ بْنُ زِيَادٍ - أَنَّ يَزِيدَ بْنَ عَبْدِ اللَّهِ بْنِ قُسَيْطٍ، حَدَّثَهُ أَنَّ دَاوُدَ بْنَ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ حَدَّثَهُ عَنْ أَبِيهِ، أَنَّهُ كَانَ عِنْدَ ابْنِ عُمَرَ بْنِ الْخَطَّابِ إِذْ طَلَعَ خَبَّابٌ صَاحِبُ الْمَقْصُورَةِ فَقَالَ يَا عَبْدَ اللَّهِ بْنَ عُمَرَ أَلاَ تَسْمَعُ مَا يَقُولُ أَبُو هُرَيْرَةَ إِنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ مَنْ خَرَجَ مَعَ جَنَازَةٍ مِنْ بَيْتِهَا وَصَلَّى عَلَيْهَا ‏"‏ ‏.‏ فَذَكَرَ مَعْنَى حَدِيثِ سُفْيَانَ فَأَرْسَلَ ابْنُ عُمَرَ إِلَى عَائِشَةَ فَقَالَتْ صَدَقَ أَبُو هُرَيْرَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
+
 حدثنا هارون بن عبد الله، وعبد الرحمن بن حسين الهروي، قالا حدثنا المقري، حدثنا حيوة، حدثني ابو صخر، - وهو حميد بن زياد - ان يزيد بن عبد الله بن قسيط، حدثه ان داود بن عامر بن سعد بن ابي وقاص حدثه عن ابيه، انه كان عند ابن عمر بن الخطاب اذ طلع خباب صاحب المقصورة فقال يا عبد الله بن عمر الا تسمع ما يقول ابو هريرة انه سمع رسول الله صلى الله عليه وسلم يقول " من خرج مع جنازة من بيتها وصلى عليها " . فذكر معنى حديث سفيان فارسل ابن عمر الى عايشة فقالت صدق ابو هريرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । দাঊদ ইবনু ‘আমির ইবনু সা‘দ ইবনু ওয়াক্কাস (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। একদা দাঊদের পিতা ‘আমির (রাঃ) ‘আব্দুল্লাহ ইবনু ‘উমার ইবনুল খাত্তাব (রাঃ)-এর কাছে উপস্থিত ছিলেন। এমন সময় ক্ষুদ্র কুটিরবাসী খাব্বাব (রাঃ) এসে উপস্থিত হয়ে বললেন, হে ‘আব্দুল্লাহ ইবনু ‘উমার! আবূ হুরাইরাহ (রাঃ) কি বলেছেন তা কি আপনি শুনেছেন? তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ যে ব্যক্তি মৃতের ঘর থেকে রওয়ানা হয়ে তার পিছনে পিছনে যায় এবং তার জানাযা পড়ে... অতঃপর সুফিয়ানের হাদীসের অনুরূপ। ইবনু ‘উমার (রাঃ) ‘আয়িশাহ (রাঃ)-এর কাছে লোক পাঠালে তিনি বললেন, আবূ হুরাইরাহ ঠিকই বলেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dawud b. 'Amir b. Sa'd b. Abi Waqqas said that his father 'Amir b. Sa'd was with Ibn 'Umar b. al-Khattab when Khabbab, the owner of the closet (maqsurah), came and said:'Abd Allah b.'Umar dont you hear what Abu Hurairah says ? He heard the Messenger of Allah (ﷺ) say: If anyone goes out of his house, accompanies bier and prays over it.... He then mentioned the rest of the tradition as narrated by Sufyan. Thereupon Ibn 'Umar sent someone to 'Aishah (asking her about it). She replied: Abu Hurairah spoke the truth
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
+
+## French
+
+Dawud ibn Amir ibn Sa’d ibn Abi Waqqas a dit que son père Amir ibn Sa’d était avec Ibn Umar ibn al-Khattab quand Khabbab, le propriétaire de la chambre, est venu et a dit : « Abd Allah ibn Umar, n’entends-tu pas ce qu’Abu Huraira raconte ? Il a entendu le Messager d’Allah ﷺ dire : “Si quelqu’un sort de chez lui, accompagne un cercueil et prie sur lui…” » Il a ensuite mentionné le reste de la tradition comme rapporté par Sufyan. Ibn Umar a alors envoyé quelqu’un demander à Aisha رضي الله عنها à ce sujet. Elle a répondu : « Abu Huraira a dit vrai. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Sufyan\] dari \[Sumai\] dari \[Abu Shalih\] dari \[Abu Hurairah\], ia berkata; barangsiapa yang mengikuti jenazah dan menshalatinya maka baginya pahala satu qirath, dan barangsiapa yang mengikutinya hingga selesai darinya maka baginya pahala dua qirath, paling kecilnya adalah seperti Gunung Uhud atau salah satunya seperti Uhud. Telah menceritakan kepada kami \[Harun bin Abdullah\] dan \[Abdurrahman bin Husain Al Marawi\], mereka berkata; telah menceritakan kepada kami \[Al Muqri'\], telah menceritakan kepada kami \[Haiwah\], telah menceritakan kepadaku \[Abu Shakhr yaitu Humaid bin Ziyad\] bahwa \[Yazid? bin Abdullah bin Qusaith\] telah menceritakan kepadanya bahwa \[Daud bin Amir bin Sa'd bin Abu Waqqash\] telah menceritakan kepadanya dari \[ayahnya\] bahwa ia pernah berada di sisi Ibnu Umar bin Al Khathab tiba-tiba \[Khabbab\] pemilik maqshurah (rumah yang dibentengi dengan pagar) muncul dan berkata; wahai Abdullah bin Umar, tidakkah engkau mendengar apa yang dikatakan \[Abu Hurairah\]? Bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang keluar bersama jenazah dari rumahnya dan menshalatkannya….." kemudian ia menyebutkan makna hadits Sufyan. Kemudian Ibnu Umar mengirimkan utusan kepada Aisyah kemudian, kemudian \[Aisyah\] berkata; Abu Hurairah benar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Sufyan] dari [Sumai] dari [Abu Shalih] dari [Abu Hurairah], ia berkata; barangsiapa yang mengikuti jenazah dan menshalatinya maka baginya pahala satu qirath, dan barangsiapa yang mengikutinya hingga selesai darinya maka baginya pahala dua qirath, paling kecilnya adalah seperti Gunung Uhud atau salah satunya seperti Uhud. Telah menceritakan kepada kami [Harun bin Abdullah] dan [Abdurrahman bin Husain Al Marawi], mereka berkata; telah menceritakan kepada kami [Al Muqri'], telah menceritakan kepada kami [Haiwah], telah menceritakan kepadaku [Abu Shakhr yaitu Humaid bin Ziyad] bahwa [Yazid? bin Abdullah bin Qusaith] telah menceritakan kepadanya bahwa [Daud bin Amir bin Sa'd bin Abu Waqqash] telah menceritakan kepadanya dari [ayahnya] bahwa ia pernah berada di sisi Ibnu Umar bin Al Khathab tiba-tiba [Khabbab] pemilik maqshurah (rumah yang dibentengi dengan pagar) muncul dan berkata; wahai Abdullah bin Umar, tidakkah engkau mendengar apa yang dikatakan [Abu Hurairah]? Bahwa ia mendengar Rasulullah shallallahu 'alaihi wasallam berkata: "Barangsiapa yang keluar bersama jenazah dari rumahnya dan menshalatkannya….." kemudian ia menyebutkan makna hadits Sufyan. Kemudian Ibnu Umar mengirimkan utusan kepada Aisyah kemudian, kemudian [Aisyah] berkata; Abu Hurairah benar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Амир ибн Са‘д ибн Абу Ваккас, да будет доволен Аллах им и его отцом, передаёт, что он был у Ибн ‘Умара ибн аль-Хаттаба и пришёл Хаббаб, владелец небольшого дома, который сказал: «О ‘Абдуллах ибн ‘Умар, ты слышал, что сказал Абу Хурайра? Он утверждает, что слышал, как Посланник Аллаха ﷺ сказал: “Кто провожал погребальные носилки из дома (покойного) и совершил погребальную молитву по нему…”» И он привёл хадис, подобный упомянутому выше. Ибн ‘Умар послал к ‘Аише, и она сказала: «Абу Хурайра сказал правду»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amir b. Sa'd b. Ebî Vakkas'dan (rivayet olunduğuna göre); Kendisi (bir gün) İbn Ömer b. el-Hattab'ın yanında iken (meclis­lerine içinde bulundukları) evin sahibi Habbab çıkagelmiş ve "Ey Ömer'in oğlu Abdullah! Ebû Hureyre'nin söylediğini işitmiyor musun? (güya) o Rasûlüllah (s.a.v.): Kim cenazeyle birlikte (cenazenin) evinden çıkarak onu musallaya kadar uğurlar) da, üzerine namaz kılarsa..." (Habbab Ebû Hureyre'den duyduğu bu hadisin bundan sonraki kısmında bir önceki) Süfyan hadisinin manasını nakletmiş. Bunun üzerine İbn Ömer, Hz. Aişe'ye (Ebû Hureyre'nin bu hadisini sormak üzere birini) göndermiş, (Hz. Aişe'de) "Ebû Hureyre doğru söylemiş" demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عامر بن سعد سے روایت ہے کہ وہ عبداللہ بن عمر بن خطاب رضی اللہ عنہما کے پاس بیٹھے تھے کہ اچانک صاحب مقصورہ ۱؎ خباب رضی اللہ عنہ برآمد ہوئے اور کہنے لگے: عبداللہ بن عمر! کیا جو ابوہریرہ رضی اللہ عنہ کہہ رہے ہیں آپ اسے نہیں سن رہے ہیں کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے کہ جو شخص جنازے کے ساتھ اس کے گھر سے نکلے اور اس کی نماز جنازہ پڑھے۔ آگے راوی نے وہی مفہوم ذکر کیا ہے جو سفیان کی حدیث کا ہے ( یہ سنا تو ) ابن عمر رضی اللہ عنہما نے ام المؤمنین عائشہ رضی اللہ عنہا سے پوچھنے کے لیے آدمی بھیجا تو انہوں نے کہا: ابوہریرہ رضی اللہ عنہ نے صحیح کہا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (945)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3169</td></tr><tr><td>Arabic No</td><td>3169</td></tr><tr><td>Reference</td><td>Book 21 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (945) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3169 |
+| Arabic No | 3169 |
+| Reference | Book 21 Hadith 81 |

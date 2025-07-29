@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بِشْرٍ، بَكْرُ بْنُ خَلَفٍ حَدَّثَنَا أَبُو قُتَيْبَةَ، عَنْ هَمَّامٍ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أُتِيَ بِتَمْرٍ عَتِيقٍ فَجَعَلَ يُفَتِّشُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 29 Hadith 83</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |
+
 حدثنا ابو بشر، بكر بن خلف حدثنا ابو قتيبة، عن همام، عن اسحاق بن عبد الله بن ابي طلحة، عن انس بن مالك، قال رايت رسول الله صلى الله عليه وسلم اتي بتمر عتيق فجعل يفتشه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 29 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আনাস ইবনে মালেক (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামকে দেখেছি যে, তাঁর সামনে খেজুর পেশ করা হলে তিনি ভালো খেজুর খোঁজ করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 29 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Anas bin Malik said:“I saw the Messenger of Allah (ﷺ) when he was brought some old dates; he started to inspect them.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 29 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |
+
+## French
+
+Rapporté par Anas bin Malik : J’ai vu le Messager d’Allah (ﷺ) quand on lui a apporté des vieilles dattes ; il a commencé à les examiner
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bisyr Bakr bin Khalaf\] telah menceritakan kepada kami \[Abu Qutaibah\] dari \[Hammam\] dari \[Ishaq bin Abdullah bin Abu Thalhah\] dari \[Anas bin Malik\] dia berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam diberi kurma yang telah usang, beliau lalu memeriksanya terlebih dahulu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bisyr Bakr bin Khalaf] telah menceritakan kepada kami [Abu Qutaibah] dari [Hammam] dari [Ishaq bin Abdullah bin Abu Thalhah] dari [Anas bin Malik] dia berkata, "Aku melihat Rasulullah shallallahu 'alaihi wasallam diberi kurma yang telah usang, beliau lalu memeriksanya terlebih dahulu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 29 Hadith 83</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes bin Mâlik (r.a.)'dea; Şöyle demiştir: Ben, Resulullah (Sallallahu Aleyhi ve Sellem)'i kendisine eski kuru hurma getirilip (içinde kurt olup olmadığını) kontrol etmeye başlarken gördüm
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 29 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا کہ آپ کے پاس پرانی کھجوریں لائی گئیں، تو آپ اس میں سے اچھی کھجوریں چھانٹنے لگے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3333</td></tr><tr><td>Arabic No</td><td>3333</td></tr><tr><td>Reference</td><td>Book 29 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3333 |
+| Arabic No | 3333 |
+| Reference | Book 29 Hadith 83 |

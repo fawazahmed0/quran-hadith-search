@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنِي عَبْدُ الْحَمِيدِ بْنُ عَبْدِ الْوَاحِدِ، حَدَّثَتْنِي أُمُّ جَنُوبٍ بِنْتُ نُمَيْلَةَ، عَنْ أُمِّهَا، سُوَيْدَةَ بِنْتِ جَابِرٍ عَنْ أُمِّهَا، عَقِيلَةَ بِنْتِ أَسْمَرَ بْنِ مُضَرِّسٍ عَنْ أَبِيهَا، أَسْمَرَ بْنِ مُضَرِّسٍ قَالَ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَبَايَعْتُهُ فَقَالَ ‏ "‏ مَنْ سَبَقَ إِلَى مَاءٍ لَمْ يَسْبِقْهُ إِلَيْهِ مُسْلِمٌ فَهُوَ لَهُ ‏"‏ ‏.‏ قَالَ فَخَرَجَ النَّاسُ يَتَعَادَوْنَ يَتَخَاطُّونَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
+
 حدثنا محمد بن بشار، حدثني عبد الحميد بن عبد الواحد، حدثتني ام جنوب بنت نميلة، عن امها، سويدة بنت جابر عن امها، عقيلة بنت اسمر بن مضرس عن ابيها، اسمر بن مضرس قال اتيت النبي صلى الله عليه وسلم فبايعته فقال " من سبق الى ماء لم يسبقه اليه مسلم فهو له " . قال فخرج الناس يتعادون يتخاطون
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আসমার ইবনু মুদাররিস (রাঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বাই‘আত নিলাম। তিনি বললেন, যে ব্যক্তি কোনো পানির উৎসের নিকট সর্বপ্রথম পৌঁছবে যার নিকট তার পূর্বে কোনো মুসলিম পৌঁছেনি, তা তার জন্য। বর্ণনাকারী বলেন, লোকেরা বের হলো এবং নিশানা লাগাতে থাকলো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Asmar ibn Mudarris: I came to the Prophet (ﷺ), and took the oath of allegiance to him. He said: If anyone reaches a water which has not been approached before by any Muslim, it belongs to him. The people, therefore, went out running and marking (on the land)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
+
+## French
+
+Rapporté par Asmar ibn Mudarris رضي الله عنه : Je suis venu voir le Prophète ﷺ et j’ai prêté serment d’allégeance. Il a dit : « Si quelqu’un arrive à un point d’eau où aucun musulman n’est encore allé, cela lui appartient. » Les gens sont donc sortis en courant pour marquer des terres
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Basysyar\], telah menceritakan kepadaku \[Abdul Hamid bin Abdul Wahid\] telah menceritakan kepadaku \[ummu Janub ninti Numailah\] dari \[Ibunya yaitu Suadah binti Jabir\], dari \[Ibunya yaitu 'Aqilah binti Asmar bin Mudharris\] dari \[ayahnya yaitu Asmar bin Mudharris\] ia berkata; aku datang kepada Nabi shallallahu 'alaihi wasallam kemudian kami membai'atnya. Kemudian beliau berkata: "Barang siapa mendahului menuju sebuah mata air yang belum di dahului seorang muslimpun, maka air tersebut adalah miliiknya." Ia berkata; kemudian orang-orang saling mendahului
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepadaku [Abdul Hamid bin Abdul Wahid] telah menceritakan kepadaku [ummu Janub ninti Numailah] dari [Ibunya yaitu Suadah binti Jabir], dari [Ibunya yaitu 'Aqilah binti Asmar bin Mudharris] dari [ayahnya yaitu Asmar bin Mudharris] ia berkata; aku datang kepada Nabi shallallahu 'alaihi wasallam kemudian kami membai'atnya. Kemudian beliau berkata: "Barang siapa mendahului menuju sebuah mata air yang belum di dahului seorang muslimpun, maka air tersebut adalah miliiknya." Ia berkata; kemudian orang-orang saling mendahului
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Асмара ибн Мударрисы, да будет доволен им Аллах: «Я пришёл к Пророку ﷺ и присягнул ему, и он сказал: “Если кто-то нашёл воду и в этом его не опередил ни один мусульманин, она принадлежит ему”. Услышав это, люди вышли в спешке, чтобы ставить метки на земле (свидетельствующие о том, что она принадлежит им)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Esmer b. Mudarres'den demiştir ki: Ben Nebi (s.a.v.)'in yanına varıp kendisine biat etmiştim. "Her kim herhangi bir müslüman'ın kendisinden önce varamadığı bir su'ya ilk önce varıpta oraya sahipleni)irse, o su o'na aittir." buyurdu. Bunun üzerine halk (sahipsiz suları) işaretlemek üzere koşarak (yollara) çıktılar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسمر بن مضرس رضی اللہ عنہ کہتے ہیں میں نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا اور میں نے آپ سے بیعت کی تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص کسی ایسے پانی ( چشمے یا تالاب ) پر پہنچ جائے ( یعنی اس کا کھوج لگا لے ) جہاں اس سے پہلے کوئی اور مسلمان نہ پہنچا ہو تو وہ اس کا ہے ، ( یعنی وہ اس کا مالک و مختار ہو گا ) ( یہ سن کر ) لوگ دوڑتے اور نشان لگاتے ہوئے چلے ( تاکہ نشانی رہے کہ ہم یہاں تک آئے تھے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3071</td></tr><tr><td>Arabic No</td><td>3071</td></tr><tr><td>Reference</td><td>Book 20 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3071 |
+| Arabic No | 3071 |
+| Reference | Book 20 Hadith 144 |

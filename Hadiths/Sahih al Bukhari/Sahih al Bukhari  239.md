@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَبِإِسْنَادِهِ قَالَ ‏ "‏ لاَ يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ الَّذِي لاَ يَجْرِي، ثُمَّ يَغْتَسِلُ فِيهِ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وباسناده قال " لا يبولن احدكم في الماء الدايم الذي لا يجري، ثم يغتسل فيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 এ সনদেই তিনি বলেনঃ তোমাদের কেউ যেন স্থির- যা প্রবাহিত নয় এমন পানিতে কখনো পেশাব না করে। (সম্ভবত) পরে সে আবার তাতে গোসল করবে। (আধুনিক প্রকাশনীঃ ২৩২, ইসলামিক ফাউন্ডেশনঃ ২৩৮ শেষাংশ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The same narrator said that the Prophet (ﷺ) had said: "You should not pass urine in stagnant water which is not flowing then (you may need to) wash in it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
+
+## French
+
+Le même rapporteur a dit que le Prophète (ﷺ) avait dit : « Vous ne devez pas uriner dans de l’eau stagnante qui ne coule pas, puis (vous risquez de) vous laver dedans. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
 ## Indonesian
 
+Masih dari jalur periwayatan yang sama dengan hadits sebelumnya dari \[Abu Hurairah\]). Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali salah seorang dari kalian kencing pada air yang tidak mengalir, lalu mandi darinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Masih dari jalur periwayatan yang sama dengan hadits sebelumnya dari [Abu Hurairah]). Rasulullah shallallahu 'alaihi wasallam bersabda: "Jangan sekali-kali salah seorang dari kalian kencing pada air yang tidak mengalir, lalu mandi darinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, о том, что Пророк ﷺ сказал: «Пусть никто из вас ни в коем случае не мочится в стоячую непроточную воду, ибо потом эта вода (может понадобиться) ему для полного омовения»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: ஓடாமல் தேங்கி நிற்கும் தண்ணீரில் உங்களில் யாரும் சிறுநீர் கழிக்கவும் வேண்டாம்; பின்னர் அதில் குளிக்கவும் வேண்டாம். மேற்கண்ட இரு ஹதீஸ்களையும் அபூஹுரைரா (ரலி) அவர்கள் அறிவிக் கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bu, geçen hadîsin isnadıyla: Rasûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: biriniz, akmayan durgun suya bevletmesin. Sonra ondan (su alıp) yıkanır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور اسی سند سے ( یہ بھی ) فرمایا کہ تم میں سے کوئی ٹھہرے ہوئے پانی میں جو جاری نہ ہو پیشاب نہ کرے۔ پھر اسی میں غسل کرنے لگے؟
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>239</td></tr><tr><td>Arabic No</td><td>239</td></tr><tr><td>Reference</td><td>Book 4 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 239 |
+| Arabic No | 239 |
+| Reference | Book 4 Hadith 105 |

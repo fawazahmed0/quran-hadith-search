@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
+
 حدثنا عبد الله بن مسلمة، عن مالك، عن نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم بمعناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্ব বর্ণিত হাদীসের সমার্থবোধক হাদীস বর্ণনা করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাযি.) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্ব বর্ণিত হাদীসের সমার্থবোধক হাদীস বর্ণনা করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The aforesaid tradition has also been transmitted by Ibn ‘Umar from the Prophet (ﷺ) to the same effect
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
+
+## French
+
+La tradition précédente a aussi été transmise par Ibn ‘Umar du Prophète ﷺ avec le même sens
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Похожий хадис передаётся от Ибн ‘Умара от Пророка ﷺ другим путём
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Önceki (1823.) hadisin manasını İbn Ömer Nebi (S.A.V.)'den rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے ابن عمر رضی اللہ عنہما سے اسی مفہوم کی حدیث مرفوعاً مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1542) Sahih Muslim (1177)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1824</td></tr><tr><td>Arabic No</td><td>1824</td></tr><tr><td>Reference</td><td>Book 11 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1542) Sahih Muslim (1177) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1824 |
+| Arabic No | 1824 |
+| Reference | Book 11 Hadith 104 |

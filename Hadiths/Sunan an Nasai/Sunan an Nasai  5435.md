@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا مُعَاوِيَةُ، عَنِ الْعَلاَءِ بْنِ الْحَارِثِ، عَنْ مَكْحُولٍ، عَنْ عُقْبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَرَأَ بِهِمَا فِي صَلاَةِ الصُّبْحِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |
+
 اخبرنا محمد بن بشار، قال حدثنا عبد الرحمن، قال حدثنا معاوية، عن العلاء بن الحارث، عن مكحول، عن عقبة، ان رسول الله صلى الله عليه وسلم قرا بهما في صلاة الصبح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন বাশশার (রহঃ) ... উকবা (রাঃ) থেকে বর্ণিত যে, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাতে এ সূরা দুটি তিলাওয়াত করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |
 
 ## English
 
+It was narrated from 'Uqbah that:The Messenger of Allah \[SAW\] recited them in the Subh prayer
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Uqbah that:The Messenger of Allah [SAW] recited them in the Subh prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |
+
+## French
+
+Rapporté par 'Uqbah : Le Messager d'Allah ﷺ a récité ces deux sourates pendant la prière du Subh
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5435</td></tr><tr><td>Arabic No</td><td>5435</td></tr><tr><td>Reference</td><td>Book 50 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5435 |
+| Arabic No | 5435 |
+| Reference | Book 50 Hadith 8 |

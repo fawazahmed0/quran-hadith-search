@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا أَشْعَثُ بْنُ شُعْبَةَ، حَدَّثَنَا أَرْطَاةُ بْنُ الْمُنْذِرِ، قَالَ سَمِعْتُ حَكِيمَ بْنَ عُمَيْرٍ أَبَا الأَحْوَصِ، يُحَدِّثُ عَنِ الْعِرْبَاضِ بْنِ سَارِيَةَ السُّلَمِيِّ، قَالَ نَزَلْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم خَيْبَرَ وَمَعَهُ مَنْ مَعَهُ مِنْ أَصْحَابِهِ وَكَانَ صَاحِبُ خَيْبَرَ رَجُلاً مَارِدًا مُنْكَرًا فَأَقْبَلَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا مُحَمَّدُ أَلَكُمْ أَنْ تَذْبَحُوا حُمُرَنَا وَتَأْكُلُوا ثَمَرَنَا وَتَضْرِبُوا نِسَاءَنَا فَغَضِبَ يَعْنِي النَّبِيَّ صلى الله عليه وسلم وَقَالَ ‏"‏ يَا ابْنَ عَوْفٍ ارْكَبْ فَرَسَكَ ثُمَّ نَادِ أَلاَ إِنَّ الْجَنَّةَ لاَ تَحِلُّ إِلاَّ لِمُؤْمِنٍ وَأَنِ اجْتَمِعُوا لِلصَّلاَةِ ‏"‏ ‏.‏ قَالَ فَاجْتَمَعُوا ثُمَّ صَلَّى بِهِمُ النَّبِيُّ صلى الله عليه وسلم ثُمَّ قَامَ فَقَالَ ‏"‏ أَيَحْسَبُ أَحَدُكُمْ مُتَّكِئًا عَلَى أَرِيكَتِهِ قَدْ يَظُنُّ أَنَّ اللَّهَ لَمْ يُحَرِّمْ شَيْئًا إِلاَّ مَا فِي هَذَا الْقُرْآنِ أَلاَ وَإِنِّي وَاللَّهِ قَدْ وَعَظْتُ وَأَمَرْتُ وَنَهَيْتُ عَنْ أَشْيَاءَ إِنَّهَا لَمِثْلُ الْقُرْآنِ أَوْ أَكْثَرُ وَأَنَّ اللَّهَ عَزَّ وَجَلَّ لَمْ يُحِلَّ لَكُمْ أَنْ تَدْخُلُوا بُيُوتَ أَهْلِ الْكِتَابِ إِلاَّ بِإِذْنٍ وَلاَ ضَرْبَ نِسَائِهِمْ وَلاَ أَكْلَ ثِمَارِهِمْ إِذَا أَعْطَوْكُمُ الَّذِي عَلَيْهِمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
+
 حدثنا محمد بن عيسى، حدثنا اشعث بن شعبة، حدثنا ارطاة بن المنذر، قال سمعت حكيم بن عمير ابا الاحوص، يحدث عن العرباض بن سارية السلمي، قال نزلنا مع النبي صلى الله عليه وسلم خيبر ومعه من معه من اصحابه وكان صاحب خيبر رجلا ماردا منكرا فاقبل الى النبي صلى الله عليه وسلم فقال يا محمد الكم ان تذبحوا حمرنا وتاكلوا ثمرنا وتضربوا نساءنا فغضب يعني النبي صلى الله عليه وسلم وقال " يا ابن عوف اركب فرسك ثم ناد الا ان الجنة لا تحل الا لمومن وان اجتمعوا للصلاة " . قال فاجتمعوا ثم صلى بهم النبي صلى الله عليه وسلم ثم قام فقال " ايحسب احدكم متكيا على اريكته قد يظن ان الله لم يحرم شييا الا ما في هذا القران الا واني والله قد وعظت وامرت ونهيت عن اشياء انها لمثل القران او اكثر وان الله عز وجل لم يحل لكم ان تدخلوا بيوت اهل الكتاب الا باذن ولا ضرب نسايهم ولا اكل ثمارهم اذا اعطوكم الذي عليهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । বনূ সুলাইমের ইবনু সারিয়াহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে খায়বারে অবতরণ করলাম। তখন তাঁর সাথে সাহাবীও ছিলেন। খায়বার অঞ্চলের নেতা ছিলো দুষ্টস্বভাবের বিদ্রোহী ব্যক্তি। সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে এসে বলরো, হে মুহাম্মাদ! আমাদের গাধাগুলোকে যাবাহ করা, আমাদের ফল খাওয়া এবং আমাদের নারীদের নির্যাতন করা কি তোমাদের জন্য বৈধ? একথা শুনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাগান্বিত হলেন। তিনি ইবনু ‘আওফকে বললেনঃ তুমি ঘোড়ায় চড়ে ঘোষণা করোঃ ‘‘মু‘মিন ব্যক্তি ছাড়া কারো জন্য জান্নাত হালাল নয়; তোমরা সালাতের জন্য একত্র হও।’’ বর্ণনাকারী বলেন, সাহাবীগণ একত্র হলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে নিয়ে সালাত আদায় করলেন; তারপর দাঁড়িয়ে বললেনঃ তোমাদের কেউ কি তার আসনে হেলান দিয়ে বসে এরূপ মত ব্যক্ত করবে যে, আল্লাহর এই কুরআনে যা আছে তা ব্যতীত আর কিছুই হারাম করেননি। সাবধান! আল্লাহর শপথ! নিশ্চয়ই আমি তোমাদেরকে কোনো কোনো বিষয়ে উপদেশ দিয়েছি। আমি তোমাদেরকে যা কিছু করার নির্দেশ দিয়েছি এবং যা থেকে বিরত থাকতে বলেছি তা কুরআনেরই অনুরূপ বা তার অতিরিক্ত। আল্লাহ তোমাদের জন্য আহলে কিতাবদের ঘরে তাদের অনুমতি ছাড়া প্রবেশ করা, তাদের নারীদের নির্যাতন করা এবং তাদের উপর ধার্যকৃত জিয্য়া তোমাদের প্রদান করলে তাদের ফল খাওয়া হালাল করেননি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Irbad ibn Sariyah as-Sulami: We alighted with the Prophet (ﷺ) at Khaybar, and he had his companions with him. The chief of Khaybar was a defiant and abominable man. He came to the Prophet (ﷺ) and said: Is it proper for you, Muhammad, that you slaughter our donkeys, eat our fruit, and beat our women? The Prophet (ﷺ) became angry and said: Ibn Awf, ride your horse, and call loudly: Beware, Paradise is lawful only for a believer, and that they (the people) should gather for prayer. They gathered and the Prophet (ﷺ) led them in prayer, stood up and said: Does any of you, while reclining on his couch, imagine that Allah has prohibited only that which is to be found in this Qur'an? By Allah, I have preached, commanded and prohibited various matters as numerous as that which is found in the Qur'an, or more numerous. Allah has not permitted you to enter the houses of the people of the Book without permission, or beat their women, or eat their fruits when they give you that which is imposed on them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
+
+## French
+
+Rapporté par Al-Irbad ibn Sariyah as-Sulami : Nous avons fait halte avec le Prophète ﷺ à Khaybar, et ses compagnons étaient avec lui. Le chef de Khaybar était un homme rebelle et détestable. Il est venu voir le Prophète ﷺ et a dit : « Est-ce convenable pour toi, Muhammad, d’égorger nos ânes, de manger nos fruits et de frapper nos femmes ? » Le Prophète ﷺ s’est mis en colère et a dit : « Ibn Awf, monte à cheval et crie fort : Attention, le Paradis n’est permis qu’au croyant, et que les gens se rassemblent pour la prière. » Ils se sont rassemblés et le Prophète ﷺ a dirigé la prière, puis il s’est levé et a dit : « Est-ce que l’un de vous, allongé sur son divan, pense qu’Allah n’a interdit que ce qui se trouve dans ce Coran ? Par Allah, j’ai prêché, ordonné et interdit autant de choses que ce qui se trouve dans le Coran, voire plus. Allah ne vous a pas permis d’entrer dans les maisons des gens du Livre sans permission, ni de frapper leurs femmes, ni de manger leurs fruits lorsqu’ils vous donnent ce qui leur est imposé. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isa\], telah menceritakan kepada kami \[Asy'ats\], telah menceritakan kepada kami \[Arthoh bin Al Mundzir\], ia berkata; saya mendengar \[Hakim bin 'Umair Abu Al Ahwash\] menceritakan dari \[Al 'Irbadh bin Sariyah As Sulami\], ia berkata; kami singgah bersama Nabi shallallahu 'alaihi wasallam di Khibar dan beliau bersama beberapa sahabatnya. Dan pemimpin Khaibar adalah seorang yang keras dan berlaku mungkar. Kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Muhammad, apakah kalian boleh menyembelih keledai kami, dan memakan buah kami serta memukul wanita kami? Maka Nabi shallallahu 'alaihi wasallam marah dan berkata; wahai Ibnu 'Auf naikilah kudamu kemudian serulah bahwa Surga tidak halal kecuali bagi orang mukmin dan hendaknya mereka berkumpul untuk melakukan shalat. Al 'Irbadh bin Sariyah berkata; kemudian mereka berkumpul kemudian Nabi shallallahu 'alaihi wasallam melakukan shalat bersama mereka. Kemudian beliau berdiri dan berkata; apakah salah seorang diantara kalian dalam keadaan bersandar kepada singgasanannya menyangka bahwa Allah tidak mengharamkan sesuatupun kecuali yang ada dalam Al Qur'an? Ketahuilah, demi Allah, sesungguhnya aku telah memberi nasehat, memerintahkan dan melarang dari berbagai sesuatu, sesungguhnya hal itu adalah seperti Al Qur'an atau lebih banyak. Sesungguhnya Allah 'azza wajalla tidak menghalalkan bagi kalian untuk memasuki rumah-rumah ahli kitab kecuali dengan izin, dan tidak halal memukul wanita mereka, serta makan buah mereka apabila mereka telah memberikan kepada kalian apa yang menjadi kewajiban atas mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Asy'ats], telah menceritakan kepada kami [Arthoh bin Al Mundzir], ia berkata; saya mendengar [Hakim bin 'Umair Abu Al Ahwash] menceritakan dari [Al 'Irbadh bin Sariyah As Sulami], ia berkata; kami singgah bersama Nabi shallallahu 'alaihi wasallam di Khibar dan beliau bersama beberapa sahabatnya. Dan pemimpin Khaibar adalah seorang yang keras dan berlaku mungkar. Kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; wahai Muhammad, apakah kalian boleh menyembelih keledai kami, dan memakan buah kami serta memukul wanita kami? Maka Nabi shallallahu 'alaihi wasallam marah dan berkata; wahai Ibnu 'Auf naikilah kudamu kemudian serulah bahwa Surga tidak halal kecuali bagi orang mukmin dan hendaknya mereka berkumpul untuk melakukan shalat. Al 'Irbadh bin Sariyah berkata; kemudian mereka berkumpul kemudian Nabi shallallahu 'alaihi wasallam melakukan shalat bersama mereka. Kemudian beliau berdiri dan berkata; apakah salah seorang diantara kalian dalam keadaan bersandar kepada singgasanannya menyangka bahwa Allah tidak mengharamkan sesuatupun kecuali yang ada dalam Al Qur'an? Ketahuilah, demi Allah, sesungguhnya aku telah memberi nasehat, memerintahkan dan melarang dari berbagai sesuatu, sesungguhnya hal itu adalah seperti Al Qur'an atau lebih banyak. Sesungguhnya Allah 'azza wajalla tidak menghalalkan bagi kalian untuk memasuki rumah-rumah ahli kitab kecuali dengan izin, dan tidak halal memukul wanita mereka, serta makan buah mereka apabila mereka telah memberikan kepada kalian apa yang menjadi kewajiban atas mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от аль-Ирбада ибн Сария ас-Сулями, да будет доволен им Аллах: «Мы остановились вместе с Пророком ﷺ и его сподвижниками в Хайбаре. А предводитель жителей Хайбара был скверным человеком и бунтовщиком. Он пришёл к Пророку ﷺ и сказал: “О Мухаммад! Есть ли у вас право резать наших ослов, есть наши плоды и бить наших женщин?!” Пророк ﷺ разгневался и сказал: “О Ибн ‘Ауф! Садись на своего коня и объяви, что в Рай войдут только верующие, и вели им собраться на молитву”. Когда же они собрались, он совершил с ними молитву и сказал: “Быть может, один из вас думает, расположившись на своём ложе, что Всевышний Аллах не запрещал ничего, кроме того, что запрещено в Коране? Клянусь Аллахом, я наставлял вас и велел вам делать одно и запрещал делать другое, и этих запретов столько же, сколько и в Коране, а может, и больше. И, поистине, Всемогущий и Великий Аллах не дозволил вам входить в дома людей Писания иначе, как с их разрешения, и не разрешил вам бить их женщин и есть их плоды, если они отдают вам то, то должны”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İrbad b. Sariye es-Sülemi'den demiştir ki: Nebi (S.A.V.) le birlikte Hayber'e inmiştik. Yanında da ashabından (o gün) beraberinde bulunan kimseler vardı. Hayber'in başkanı inatçı ve kurnaz bir adamdı. Nebi (s.a.v.)'e dönerek "Ey Muhammed sizin, bizim eşeklerimizi kesmeniz, meyvelerimizi yemeniz ve kadınlarımıza saldırmanız caiz midir?" dedi. Bunun üzerine Nebi (s.a.v.) öfkelenip: “Ey Avf'ın oğlu atına bin ve -Haberiniz olsun! Cennet (e girmek) mu'min'den başkasına helal değildir. Namaz için toplanınız- diye haykır." buyurdu. (Avf'ın oğlu da bu emri yerine getirdi). Bunun üzerine (ashab-ı kiram bu da'vet'e uyarak) toplandılar. Nebi (s.a.v.) onlara (imam olup) namazı kıldırdı. (Namaz kılındıktan) sonra ayağa kalkıp: "Sizden biriniz koltuğuna yaslanarak Allah'ın şu Kur'ân'daki yasakladığı şeylerden başka hiç bir şeyi yasaklamadığını mı zannediyor? Şunu iyi bilin ki: Vallahi ben (hem) öğüt verdim (hem bazı şeyleri) emrettim, (bazı şeyleri de) yasakladım. (Benim emrettiğim ve yasakladığım bu) şeyler Kur'ân (daki yasaklar) kadar vardır. Yahutta ondan daha fazladır. Yüce Allah sizin izinsiz olarak kitap ehlinin evlerine girmenizi helal kılmadığı gibi üzerlerinde olan vergiyi ödedikleri zaman karılarına saldırmanızı ve meyvelerinizi yemenizi de helal kılmadı" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عرباض بن ساریہ سلمی رضی اللہ عنہ کہتے ہیں ہم نے نبی اکرم صلی اللہ علیہ وسلم کے ساتھ خیبر میں پڑاؤ کیا، جو لوگ آپ کے اصحاب میں سے آپ کے ساتھ تھے وہ بھی تھے، خیبر کا رئیس سرکش و شریر شخص تھا وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور کہنے لگا: محمد! کیا تمہارے لیے روا ہے کہ ہمارے گدھوں کو ذبح کر ڈالو، ہمارے پھل کھاؤ، اور ہماری عورتوں کو مارو پیٹو؟ ( یہ سن کر ) رسول اللہ صلی اللہ علیہ وسلم غصہ ہوئے، اور عبدالرحمٰن بن عوف رضی اللہ عنہ سے فرمایا: عبدالرحمٰن! اپنے گھوڑے پر سوار ہو کر اعلان کر دو کہ جنت سوائے مومن کے کسی کے لیے حلال نہیں ہے، اور سب لوگ نماز کے لیے جمع ہو جاؤ ، تو سب لوگ اکٹھا ہو گئے، نبی اکرم صلی اللہ علیہ وسلم نے انہیں نماز پڑھائی پھر کھڑے ہو کر فرمایا: کیا تم میں سے کوئی شخص اپنی مسند پر تکیہ لگائے بیٹھ کر یہ سمجھتا ہے کہ اللہ نے اس قرآن میں جو کچھ حرام کیا اس کے سوا اور کچھ حرام نہیں ہے؟ خبردار! سن لو میں نے تمہیں کچھ باتوں کی نصیحت کی ہے، کچھ باتوں کا حکم دیا ہے اور کچھ باتوں سے روکا ہے، وہ باتیں بھی ویسی ہی ( اہم اور ضروری ) ہیں جیسی وہ باتیں جن کا ذکر قرآن میں ہے یا ان سے بھی زیادہ ۱؎، اللہ نے تمہیں بغیر اجازت اہل کتاب کے گھروں میں داخل ہونے کی اجازت نہیں دی ہے، اور نہ ہی ان کی عورتوں کو مارنے و ستانے کی، اور نہ ہی ان کے پھل کھانے کی، جب تک کہ وہ تمہیں وہ چیزیں دیتے رہیں جو تمہارا ان پر ہے ( یعنی جزیہ ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3050</td></tr><tr><td>Arabic No</td><td>3050</td></tr><tr><td>Reference</td><td>Book 20 Hadith 123</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3050 |
+| Arabic No | 3050 |
+| Reference | Book 20 Hadith 123 |

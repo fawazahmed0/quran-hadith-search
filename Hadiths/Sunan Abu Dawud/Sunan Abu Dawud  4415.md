@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ حِطَّانَ بْنِ عَبْدِ اللَّهِ الرَّقَاشِيِّ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ خُذُوا عَنِّي خُذُوا عَنِّي قَدْ جَعَلَ اللَّهُ لَهُنَّ سَبِيلاً الثَّيِّبُ بِالثَّيِّبِ جَلْدُ مِائَةٍ وَرَمْىٌ بِالْحِجَارَةِ وَالْبِكْرُ بِالْبِكْرِ جَلْدُ مِائَةٍ وَنَفْىُ سَنَةٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
+
 حدثنا مسدد، حدثنا يحيى، عن سعيد بن ابي عروبة، عن قتادة، عن الحسن، عن حطان بن عبد الله الرقاشي، عن عبادة بن الصامت، قال قال رسول الله صلى الله عليه وسلم " خذوا عني خذوا عني قد جعل الله لهن سبيلا الثيب بالثيب جلد ماية ورمى بالحجارة والبكر بالبكر جلد ماية ونفى سنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
 
 ## Bengali
 
+। উবাদাহ ইবনু সামিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আমার থেকে গ্রহণ করো। আল্লাহ তাদের জন্য বিধান দিয়েছেনঃ বিবাহিত পুরুষ ও বিবাহিতা নারী অপরাধী প্রমাণিত হলে, তাদের শাস্তি হলো একশো বেত্রাঘাত ও পাথর নিক্ষেপে হত্যা করা। আর অবিবাহিত পুরুষ ও অবিবাহিতা নারীর শাস্তি হলো একশো বেত্রাঘাত ও এক বছরের নির্বাসন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উবাদাহ ইবনু সামিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আমার থেকে গ্রহণ করো। আল্লাহ তাদের জন্য বিধান দিয়েছেনঃ বিবাহিত পুরুষ ও বিবাহিতা নারী অপরাধী প্রমাণিত হলে, তাদের শাস্তি হলো একশো বেত্রাঘাত ও পাথর নিক্ষেপে হত্যা করা। আর অবিবাহিত পুরুষ ও অবিবাহিতা নারীর শাস্তি হলো একশো বেত্রাঘাত ও এক বছরের নির্বাসন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ubadah b. al-Samit reported the Messenger of Allah(ﷺ) as sayings:Receive my teachings, receive my teachings. Allah has appointed a way for those women. If the parties have been married, they shall receive a hundred lashes and stoned to death. If the parties are unmarried, they shall receive a hundred lashes and banished for a year
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
+
+## French
+
+Rapporté par ‘Ubadah b. al-Samit رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Recevez mes enseignements, recevez mes enseignements. Allah a prévu une voie pour ces femmes. Si les deux personnes sont mariées, elles recevront cent coups de fouet et seront lapidées à mort. Si elles ne sont pas mariées, elles recevront cent coups de fouet et seront exilées pendant un an. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Убады ибн ас-Самита, что Посланник Аллаха ﷺ сказал: «Слушайте меня! Слушайте меня! Аллах установил для них путь: для прелюбодеев, состоявших в браке /саййиб/, бичевание сотней ударов и побивание камнями, а для не состоявших в браке /бикр/ бичевание сотней ударов и изгнание на год»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ubade b. es-Samit (r.a)'den, demiştir ki; Rasulullah (s,a.); "Benden öğrenin, benden öğrenin, şüphesiz Allah (c.c) o kadınlar hakkında bir yol açtı. Evlenmiş olan evlenmiş olanla (zina ederse onlara) yüz sopa ve taşlarla recm (cezası vardır); bekar bekarla zina ederse yüz sopa ve bir sene sürgün" buyurdu. Diğer Tahric edenler: Müslim, hudud 3; Tirmizi, hudud 8; lbn Mace, hudud
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبادہ بن صامت رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مجھ سے سیکھ لو، مجھ سے سیکھ لو، اللہ تعالیٰ نے ان کے لیے راہ نکال دی ہے غیر کنوارہ مرد غیر کنواری عورت کے ساتھ زنا کرے تو سو کوڑے اور رجم ہے اور کنوارا مرد کنواری عورت کے ساتھ زنا کرے تو سو کوڑے اور ایک سال کی جلا وطنی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1690)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4415</td></tr><tr><td>Arabic No</td><td>4415</td></tr><tr><td>Reference</td><td>Book 40 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1690) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4415 |
+| Arabic No | 4415 |
+| Reference | Book 40 Hadith 65 |

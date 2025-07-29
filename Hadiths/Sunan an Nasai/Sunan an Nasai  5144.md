@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي أَفْلَحَ الْهَمْدَانِيِّ، عَنِ ابْنِ زُرَيْرٍ، أَنَّهُ سَمِعَ عَلِيَّ بْنَ أَبِي طَالِبٍ، يَقُولُ إِنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم أَخَذَ حَرِيرًا فَجَعَلَهُ فِي يَمِينِهِ وَأَخَذَ ذَهَبًا فَجَعَلَهُ فِي شِمَالِهِ ثُمَّ قَالَ ‏ "‏ إِنَّ هَذَيْنِ حَرَامٌ عَلَى ذُكُورِ أُمَّتِي ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 48 Hadith 105</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |
+
 اخبرنا قتيبة، قال حدثنا الليث، عن يزيد بن ابي حبيب، عن ابي افلح الهمداني، عن ابن زرير، انه سمع علي بن ابي طالب، يقول ان نبي الله صلى الله عليه وسلم اخذ حريرا فجعله في يمينه واخذ ذهبا فجعله في شماله ثم قال " ان هذين حرام على ذكور امتي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 48 Hadith 105</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... আলী ইবন আবু তালিব (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিছু রেশমী কাপড় ডান হাতে নিলেন এবং কিছু স্বর্ণ বাম হাতে নিলেন, এরপর বললেনঃ এই দুইটি আমার উম্মতের পুরুষদের জন্য হারাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 48 Hadith 105</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |
 
 ## English
 
+Ali bin Abi Talib said:"The Prophet of Allah \[SAW\] took hold of some silk in his right hand and some gold in his left, then he said: 'These two are forbidden for the males of my Ummah
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ali bin Abi Talib said:"The Prophet of Allah [SAW] took hold of some silk in his right hand and some gold in his left, then he said: 'These two are forbidden for the males of my Ummah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 48 Hadith 105</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |
+
+## French
+
+Rapporté par Ali bin Abi Talib : Le Prophète d’Allah ﷺ a pris de la soie dans sa main droite et de l’or dans sa main gauche, puis il a dit : « Ces deux choses sont interdites aux hommes de ma communauté. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] ia berkata; telah menceritakan kepada kami \[Al Laits\] dari \[Yazid bin Abu Habib\] dari \[Abu Aflah Al Hamdani\] dari \[Ibnu Zurair\] Bahwasanya ia pernah mendengar \[Ali bin Abu Thalib\] berkata, "Nabi shallallahu 'alaihi wasallam mengambil sutra kemudian meletakkan di sisi kanannya, dan mengambil emas lalu meletakkannya di kiri kirinya, kemudian bersabda: "Sesungguhnya kedua benda ini haram untuk kaum laki-laki dari umatku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] ia berkata; telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib] dari [Abu Aflah Al Hamdani] dari [Ibnu Zurair] Bahwasanya ia pernah mendengar [Ali bin Abu Thalib] berkata, "Nabi shallallahu 'alaihi wasallam mengambil sutra kemudian meletakkan di sisi kanannya, dan mengambil emas lalu meletakkannya di kiri kirinya, kemudian bersabda: "Sesungguhnya kedua benda ini haram untuk kaum laki-laki dari umatku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 48 Hadith 105</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 48 Hadith 105</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5144</td></tr><tr><td>Arabic No</td><td>5144</td></tr><tr><td>Reference</td><td>Book 48 Hadith 105</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5144 |
+| Arabic No | 5144 |
+| Reference | Book 48 Hadith 105 |

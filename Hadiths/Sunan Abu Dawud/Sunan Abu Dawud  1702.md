@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، بِمَعْنَاهُ قَالَ ‏ "‏ عَرِّفْهَا حَوْلاً ‏"‏ ‏.‏ وَقَالَ ثَلاَثَ مِرَارٍ قَالَ فَلاَ أَدْرِي قَالَ لَهُ ذَلِكَ فِي سَنَةٍ أَوْ فِي ثَلاَثِ سِنِينَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
+
 حدثنا مسدد، حدثنا يحيى، عن شعبة، بمعناه قال " عرفها حولا " . وقال ثلاث مرار قال فلا ادري قال له ذلك في سنة او في ثلاث سنين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
 
 ## Bengali
 
+। শু‘বাহ হতে এই সানাদে পূর্বোক্ত হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত। তিনি বলেন, ‘‘এক বছর পর্যন্ত ঘোষণা দাও’’- তিনি এ কথাটি তিনবার বলেছেন। বর্ণনাকারী বলেন, আমি অবহিত নই যে, (সালামাহ) এক বছর ঘোষণা করার কথা বলেছেন নাকি তিন বছর।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। শু‘বাহ হতে এই সানাদে পূর্বোক্ত হাদীসের অনুরূপ অর্থের হাদীস বর্ণিত। তিনি বলেন, ‘‘এক বছর পর্যন্ত ঘোষণা দাও’’- তিনি এ কথাটি তিনবার বলেছেন। বর্ণনাকারী বলেন, আমি অবহিত নই যে, (সালামাহ) এক বছর ঘোষণা করার কথা বলেছেন নাকি তিন বছর।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The aforesaid tradition has also been transmitted by Shu’bah through a different chain of narrators to the same effect. The version goes :He said : Make it known for a year. He said this three times. He said: I do not know whether he said “for a year” or “for three years”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
+
+## French
+
+Ce même récit a aussi été rapporté par Shu’bah par une autre chaîne de transmetteurs avec le même sens. Dans cette version, il a dit : « Fais connaître la trouvaille pendant un an. » Il a répété cela trois fois. Il a ajouté : « Je ne sais pas s’il a dit “pendant un an” ou “pendant trois ans”. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Шу‘ба передаёт похожий хадис, и в нём сказано: «Объявляй о находке год». Он сказал: «Три раза». И он сказал: «И я не знаю, сколько лет он велел объявлять об этом, один или три»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu'be'den önceki (1701.) hadisin mânâsı rivayet edilmiştir. (Şu'be'nin bu rivayetine göre hocası Seleme b. Küheyl önceki hadisi, Resûlullah üç defa, "onu bir yıl (boyunca) ilan et." buyurdu şeklinde rivayet etmiş, (sonra da) şöyle demiştir. "Resûlullah (s.a.v.), Ubey b. Ka'b'a bu üç defa tekrarlama işini bir sene içerisinde mi, yoksa üç sene içinde mi, yerine getirmesini emretmiş, iyice bilemiyorum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی شعبہ سے اسی مفہوم کی حدیث مروی ہے وہ کہتے ہیں: «عرفها حولا» تین بار کہا، البتہ مجھے یہ نہیں معلوم کہ آپ نے اسے ایک سال میں کرنے کے لیے کہا یا تین سال میں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2426) Sahih Muslim (1723)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1702</td></tr><tr><td>Arabic No</td><td>1702</td></tr><tr><td>Reference</td><td>Book 10 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2426) Sahih Muslim (1723) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1702 |
+| Arabic No | 1702 |
+| Reference | Book 10 Hadith 2 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ هَارُونَ بْنِ إِبْرَاهِيمَ، عَنِ ابْنِ سِيرِينَ، قَالَ كُلُّ مُسْكِرٍ حَرَامٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>5599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن هارون بن ابراهيم، عن ابن سيرين، قال كل مسكر حرام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>5599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... ইবন সিরীন (রহঃ) বলেন, প্রত্যেক মাদকদ্রব্য হারাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>5599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn Sirin said:"Every intoxicant is unlawful
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>5599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |
+
+## French
+
+Rapporté par Ibn Sirin : « Toute boisson enivrante est interdite. »
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah memberitakan kepada kami \[Abdullah\] dari \[Harun bin Ibrahim\] dari \[Ibnu Sirin\] ia berkata, "Setiap yang memabukkan adalah haram
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah memberitakan kepada kami [Abdullah] dari [Harun bin Ibrahim] dari [Ibnu Sirin] ia berkata, "Setiap yang memabukkan adalah haram
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>5599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>5599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5599</td></tr><tr><td>Arabic No</td><td>5599</td></tr><tr><td>Reference</td><td>Book 51 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5599 |
+| Arabic No | 5599 |
+| Reference | Book 51 Hadith 61 |

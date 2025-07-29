@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا هِشَامٌ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو كريب، حدثنا ابو معاوية، حدثنا هشام، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) আবূ কুরায়ব (রহঃ) হিশাম এর সূত্রে এ সনদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৩৩০, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The above hadith has been transmitted by Hisham with the same chain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## French
 
+Rapporté par Hisham : Le hadith ci-dessus a été transmis par Hisham avec la même chaîne
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-48) Bize Ebû Kureyb rivayet elti, (Dediki): Bize Ebû Muâviye rivayet etti (Dediki): Bize Hişam bu isnadla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو معاویہ نے ہمیں ہشام سے اسی سند کے ساتھ حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6564</td></tr><tr><td>Arabic No</td><td>2572.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 62</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6564 |
+| Arabic No | 2572.04 |
+| Reference | Book 45 Hadith 62 |

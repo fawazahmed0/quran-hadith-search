@@ -18,78 +18,88 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا ابْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي، هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَى حَدِيثِهِمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابن رافع، حدثنا عبد الرزاق، اخبرنا معمر، عن همام بن منبه، عن ابي، هريرة عن النبي صلى الله عليه وسلم بمعنى حديثهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Abu Huraira through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## French
 
+Rapporté par Abu Huraira : Ce hadith a été rapporté d’Abu Huraira par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن سیرین نے ابوہریرہ رضی اللہ عنہ سے اور انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے ان سب کی حدیث کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6747</td></tr><tr><td>Arabic No</td><td>2652.06</td></tr><tr><td>Reference</td><td>Book 46 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6747 |
+| Arabic No | 2652.06 |
+| Reference | Book 46 Hadith 25 |

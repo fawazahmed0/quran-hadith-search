@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ جَمْعٍ بِلَيْلٍ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا سليمان بن حرب، حدثنا حماد بن زيد، عن ايوب، عن عكرمة، عن ابن عباس رضى الله عنهما قال بعثني رسول الله صلى الله عليه وسلم من جمع بليل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে রাতে মুযদালিফা হতে পাঠিয়েছেন। (১৬৭৮, ১৮৫৬, মুসলিম ১৫/৪৯, হাঃ ১২৯৩, ১২৯৪, আহমাদ ২২০৪) (আধুনিক প্রকাশনীঃ ১৫৬৩, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:Allah's Messenger (ﷺ) had sent me from Jam' (i.e. Al-Muzdalifa) at night
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Messager d’Allah (ﷺ) m’a envoyé de Jam' (c’est-à-dire Al-Muzdalifa) pendant la nuit
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Harb\] telah menceritakan kepada kami \[Hammad bin Zaid\] dari \[Ayyub\] dari \['Ikrimah\] dari \[Ibnu 'Abbas radliallahu 'anhuma\] berkata: "Rasulullah Shallallahu'alaihiwasallam mengutusku dari Jama' pada malam hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata: "Rasulullah Shallallahu'alaihiwasallam mengutusku dari Jama' pada malam hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Посланник Аллаха ﷺ отправил меня из Муздалифы ночью»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் என்னை முஸ்தலிஃபாவிலிருந்து இரவிலேயே (மினாவுக்கு) அனுப்பிவைத்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas r.a. şöyle demiştir: "Resulullah (Sallallahu Aleyhi ve Sellem) beni bir grupla birlikte geceleyin Müzdelife'den gönderdi." Tekrar:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے سلیمان بن حرب نے بیان کیا، کہا کہ ہم سے حماد بن زید نے بیان کیا، ان سے ایوب سختیانی نے، ان سے عکرمہ نے اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم نے مجھے مزدلفہ سے رات ہی میں منیٰ روانہ کر دیا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1677</td></tr><tr><td>Arabic No</td><td>1677</td></tr><tr><td>Reference</td><td>Book 25 Hadith 157</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1677 |
+| Arabic No | 1677 |
+| Reference | Book 25 Hadith 157 |

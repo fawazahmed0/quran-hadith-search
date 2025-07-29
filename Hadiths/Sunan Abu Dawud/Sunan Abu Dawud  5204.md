@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ ابْنِ أَبِي حُسَيْنٍ، سَمِعَهُ مِنْ، شَهْرِ بْنِ حَوْشَبٍ يَقُولُ أَخْبَرَتْهُ أَسْمَاءُ بِنْتُ يَزِيدَ، مَرَّ عَلَيْنَا النَّبِيُّ صلى الله عليه وسلم فِي نِسْوَةٍ فَسَلَّمَ عَلَيْنَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
+
 حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن ابن ابي حسين، سمعه من، شهر بن حوشب يقول اخبرته اسماء بنت يزيد، مر علينا النبي صلى الله عليه وسلم في نسوة فسلم علينا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
 
 ## Bengali
 
+। আসমা বিনতু ইয়াযীদ (রাঃ) জানিয়েছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের একদল মহিলার পাশ দিয়ে যাওয়ার সময় আমাদের সালাম দিয়েছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আসমা বিনতু ইয়াযীদ (রাঃ) জানিয়েছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের একদল মহিলার পাশ দিয়ে যাওয়ার সময় আমাদের সালাম দিয়েছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Asma', daughter of Yazid, said :the Prophet (ﷺ), passed us by when we were with some women and gave us a salutation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
+
+## French
+
+Asma, fille de Yazid رضي الله عنها, a dit : Le Prophète ﷺ est passé près de nous alors que nous étions avec d’autres femmes et il nous a saluées
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] berkata, telah menceritakan kepada kami \[Sufyan bin Uyainah\] dari \[Ibnu Abu Husain\] ia mendengarnya dari \[Syahr bin Hausyab\] berkata, " \[Asma binti Yazid\] mengabarkan kepadanya, "Nabi shallallahu 'alaihi wasallam melewati kami (kaum wanita) lalu mengucapkan salam kepada kami
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] berkata, telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Ibnu Abu Husain] ia mendengarnya dari [Syahr bin Hausyab] berkata, " [Asma binti Yazid] mengabarkan kepadanya, "Nabi shallallahu 'alaihi wasallam melewati kami (kaum wanita) lalu mengucapkan salam kepada kami
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Асма бинт Йазид, да будет доволен ею Аллах, сказала: (Однажды) Пророк ﷺ проходивший мимо нас, находившихся среди (других) женщин, приветствовал нас
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Esma bint Yezid'den demiştir ki: (Biz) bir kadınlar topluluğu içerisinde iken Nebi (s.a.v.) (yanımızdan geçti de) bize selâm verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شہر بن حوشب کہتے ہیں کہ انہیں اسماء بنت یزید رضی اللہ عنہا نے خبر دی ہے کہ ہم عورتوں کے پاس سے نبی اکرم صلی اللہ علیہ وسلم گزرے تو آپ نے ہمیں سلام کیا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5204</td></tr><tr><td>Arabic No</td><td>5204</td></tr><tr><td>Reference</td><td>Book 43 Hadith 432</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5204 |
+| Arabic No | 5204 |
+| Reference | Book 43 Hadith 432 |

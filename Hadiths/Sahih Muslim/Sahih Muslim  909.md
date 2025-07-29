@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا وَكِيعٌ، عَنْ شُعْبَةَ، وَمِسْعَرٍ، عَنِ الْحَكَمِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏ وَلَيْسَ فِي حَدِيثِ مِسْعَرٍ أَلاَ أُهْدِي لَكَ هَدِيَّةً
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا زهير بن حرب، وابو كريب قالا حدثنا وكيع، عن شعبة، ومسعر، عن الحكم، بهذا الاسناد مثله . وليس في حديث مسعر الا اهدي لك هدية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যুহায়র ইবনু হারব, আবূ কুরায়ব (রহঃ) ..... হাকাম হতে এ সনদ সূত্রে উপরের হাদীসের অনুরূপ বর্ণিত হয়েছে। কিন্তু মিসআরের বর্ণনায় আমি কি তোমাকে কিছু উপহার দিব না' কথাটুকু নেই। (ইসলামিক ফাউন্ডেশনঃ ৭৯২, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been narrated by Mis'ar on the authority of al-Hakam, but in the hadith transmitted by Mis'ar these words are not found:" Should I not offer you a present?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## French
 
+Rapporté par Mis‘ar d’après al-Hakam : Un hadith similaire a été rapporté, mais dans la version de Mis‘ar, il n’y a pas les mots : « Veux-tu que je t’offre un cadeau ? »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом и в нём нет слов: «Не подарить ли тебе подарок?»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Züheyr b. Harb ile Ebu Kureyb rivayet ettiler. Dediler ki: Bize Vekî, Şu'be ile Mis'ar'dan, onlar da Hakem'den bu isnadla bu hadîsin mislini rivayet ettiler. Yalnız Mis'ar'ın hadîsinde (Sana bir hediyye takdim edeyim mi?) ibaresi yoktur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ وکیع نے شعبہ اور مسعر سے اسی سند کے ساتھ حکم سے اسی کی مانند روایت کی اور مسعر کی حدیث میں یہ جملہ نہیں ہے : کیا میں تمہیں ایک تحفہ نہ دوں؟
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>909</td></tr><tr><td>Arabic No</td><td>406.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 909 |
+| Arabic No | 406.02 |
+| Reference | Book 4 Hadith 71 |

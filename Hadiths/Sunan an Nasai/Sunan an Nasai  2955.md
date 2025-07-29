@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا بِشْرُ بْنُ هِلاَلٍ، قَالَ أَنْبَأَنَا عَبْدُ الْوَارِثِ، عَنْ خَالِدٍ، عَنْ عِكْرِمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَطُوفُ بِالْبَيْتِ عَلَى رَاحِلَتِهِ فَإِذَا انْتَهَى إِلَى الرُّكْنِ أَشَارَ إِلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 24 Hadith 338</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |
+
 اخبرنا بشر بن هلال، قال انبانا عبد الوارث، عن خالد، عن عكرمة، عن عبد الله بن عباس، ان رسول الله صلى الله عليه وسلم كان يطوف بالبيت على راحلته فاذا انتهى الى الركن اشار اليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 24 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 বিশর ইবন হিলাল (রহঃ) ... আবদুল্লাহ ইবন আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সওয়ারীর উপর থেকে বায়তুল্লাহর তাওয়াফ করেছেন, যখন তিনি হাজরে আসওয়াদের নিকট পৌছতেন, তখন তার দিকে (লাঠি দিয়ে) ইঙ্গিত করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 24 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abdullah bin Abbas that:the Messenger of Allah used to circumambulate the House on his mount, and when he reached the Corner be pointed to it." (Sahih) Chpater 161. They Saying Of Allah, The Mighty And Sublimse: "Take Your Adornment To Every Masjid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 24 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |
+
+## French
+
+Rapporté par Abdullah bin Abbas : « Le Messager d'Allah ﷺ avait l'habitude de faire le tour de la Maison sur sa monture, et quand il arrivait au coin, il le montrait du doigt. » (Sahih)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Bisyr bin Hilal\], ia berkata; telah memberitakan kepada kami \[Abdul Warits\] dari \[Khalid\] dari \['Ikrimah\] dari \[Abdullah bin Abbas\] bahwa Rasulullah shallallahu 'alaihi wasallam melakukan thawaf di Ka'bah di atas kendaraan, apabila telah sampai di rukun beliau memberi isyarat kepadanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Bisyr bin Hilal], ia berkata; telah memberitakan kepada kami [Abdul Warits] dari [Khalid] dari ['Ikrimah] dari [Abdullah bin Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam melakukan thawaf di Ka'bah di atas kendaraan, apabila telah sampai di rukun beliau memberi isyarat kepadanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 24 Hadith 338</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 24 Hadith 338</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم اپنی سواری پر خانہ کعبہ کا طواف کر رہے تھے جب آپ کے سامنے پہنچے تو آپ نے اس کی طرف اشارہ کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2955</td></tr><tr><td>Arabic No</td><td>2955</td></tr><tr><td>Reference</td><td>Book 24 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2955 |
+| Arabic No | 2955 |
+| Reference | Book 24 Hadith 338 |

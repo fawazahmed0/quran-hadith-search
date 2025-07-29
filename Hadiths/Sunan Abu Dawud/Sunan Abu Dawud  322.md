@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ الْعَبْدِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ سَلَمَةَ بْنِ كُهَيْلٍ، عَنْ أَبِي مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، قَالَ كُنْتُ عِنْدَ عُمَرَ فَجَاءَهُ رَجُلٌ فَقَالَ إِنَّا نَكُونُ بِالْمَكَانِ الشَّهْرَ وَالشَّهْرَيْنِ ‏.‏ فَقَالَ عُمَرُ أَمَّا أَنَا فَلَمْ أَكُنْ أُصَلِّي حَتَّى أَجِدَ الْمَاءَ ‏.‏ قَالَ فَقَالَ عَمَّارٌ يَا أَمِيرَ الْمُؤْمِنِينَ أَمَا تَذْكُرُ إِذْ كُنْتُ أَنَا وَأَنْتَ فِي الإِبِلِ فَأَصَابَتْنَا جَنَابَةٌ فَأَمَّا أَنَا فَتَمَعَّكْتُ فَأَتَيْنَا النَّبِيَّ صلى الله عليه وسلم فَذَكَرْتُ ذَلِكَ لَهُ فَقَالَ ‏ "‏ إِنَّمَا كَانَ يَكْفِيكَ أَنْ تَقُولَ هَكَذَا ‏"‏ ‏.‏ وَضَرَبَ بِيَدَيْهِ إِلَى الأَرْضِ ثُمَّ نَفَخَهُمَا ثُمَّ مَسَحَ بِهِمَا وَجْهَهُ وَيَدَيْهِ إِلَى نِصْفِ الذِّرَاعِ ‏.‏ فَقَالَ عُمَرُ يَا عَمَّارُ اتَّقِ اللَّهَ ‏.‏ فَقَالَ يَا أَمِيرَ الْمُؤْمِنِينَ إِنْ شِئْتَ وَاللَّهِ لَمْ أَذْكُرْهُ أَبَدًا ‏.‏ فَقَالَ عُمَرُ كَلاَّ وَاللَّهِ لَنُوَلِّيَنَّكَ مِنْ ذَلِكَ مَا تَوَلَّيْتَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
+
 حدثنا محمد بن كثير العبدي، حدثنا سفيان، عن سلمة بن كهيل، عن ابي مالك، عن عبد الرحمن بن ابزى، قال كنت عند عمر فجاءه رجل فقال انا نكون بالمكان الشهر والشهرين . فقال عمر اما انا فلم اكن اصلي حتى اجد الماء . قال فقال عمار يا امير المومنين اما تذكر اذ كنت انا وانت في الابل فاصابتنا جنابة فاما انا فتمعكت فاتينا النبي صلى الله عليه وسلم فذكرت ذلك له فقال " انما كان يكفيك ان تقول هكذا " . وضرب بيديه الى الارض ثم نفخهما ثم مسح بهما وجهه ويديه الى نصف الذراع . فقال عمر يا عمار اتق الله . فقال يا امير المومنين ان شيت والله لم اذكره ابدا . فقال عمر كلا والله لنولينك من ذلك ما توليت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
 
 ## Bengali
 
+। ‘আবদুর রহমান ইবনু আবযা (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-এর নিকট ছিলাম। এমন সময় এক ব্যক্তি তার নিকট এসে বলল, আমরা কোন (পানিবিহীন) জায়গায় এক-দুই মাস অবস্থান করে থাকি (সেখানে অপবিত্র হলে করণীয় কি?)। ‘উমার (রাঃ) বললেন, আমি তো পানি না পাওয়া পর্যন্ত সালাত আদায় করব না। বর্ণনাকারী বলেন, তখন ‘আম্মার (রাঃ) বললেন, হে আমীরুল মু’মিনীন! আপনার কি ঐ ঘটনার কথা মনে নেই, যখন আমি ও আপনি উটের পালে ছিলাম। আমরা জুনুবী হয়ে গেলাম এবং আমি মাটিতে গড়াগড়ি দিলাম। আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বিষয়টি জানালে তিনি বললেনঃ তোমাদের জন্য শুধু এতটুকুই যথেষ্ট ছিল- এই বলে তিনি মাটিতে উভয় হাত মেরে হাতে ফুঁ দিলেন। তারপর হাত দিয়ে মুখমন্ডল এবং উভয় হাতের অর্ধেক পর্যন্ত মুছলেন। ‘উমার (রাঃ) বললেন, হে ‘আম্মার! আল্লাহকে ভয় কর। তিনি বললেন, হে আমীরুল মু’মিনীন! আল্লাহর শপথ! আপনি চাইলে আমি আর কখনো তা বর্ণনা করব না। ‘উমার (রাঃ) বললেন, আল্লাহর শপথ! আমার উদ্দেশ্য এরূপ নয়, বরং তুমি চাইলে অবশ্যই তোমার বক্তব্যের স্বাধীনতা তোমাকে দিব।\[1\] সহীহ। তবে তার ‘উভয় হাতের অর্ধেক পর্যন্ত’- কথাটি বাদে। কেননা তা শায।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুর রহমান ইবনু আবযা (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি ‘উমার (রাঃ)-এর নিকট ছিলাম। এমন সময় এক ব্যক্তি তার নিকট এসে বলল, আমরা কোন (পানিবিহীন) জায়গায় এক-দুই মাস অবস্থান করে থাকি (সেখানে অপবিত্র হলে করণীয় কি?)। ‘উমার (রাঃ) বললেন, আমি তো পানি না পাওয়া পর্যন্ত সালাত আদায় করব না। বর্ণনাকারী বলেন, তখন ‘আম্মার (রাঃ) বললেন, হে আমীরুল মু’মিনীন! আপনার কি ঐ ঘটনার কথা মনে নেই, যখন আমি ও আপনি উটের পালে ছিলাম। আমরা জুনুবী হয়ে গেলাম এবং আমি মাটিতে গড়াগড়ি দিলাম। আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বিষয়টি জানালে তিনি বললেনঃ তোমাদের জন্য শুধু এতটুকুই যথেষ্ট ছিল- এই বলে তিনি মাটিতে উভয় হাত মেরে হাতে ফুঁ দিলেন। তারপর হাত দিয়ে মুখমন্ডল এবং উভয় হাতের অর্ধেক পর্যন্ত মুছলেন। ‘উমার (রাঃ) বললেন, হে ‘আম্মার! আল্লাহকে ভয় কর। তিনি বললেন, হে আমীরুল মু’মিনীন! আল্লাহর শপথ! আপনি চাইলে আমি আর কখনো তা বর্ণনা করব না। ‘উমার (রাঃ) বললেন, আল্লাহর শপথ! আমার উদ্দেশ্য এরূপ নয়, বরং তুমি চাইলে অবশ্যই তোমার বক্তব্যের স্বাধীনতা তোমাকে দিব।[1] সহীহ। তবে তার ‘উভয় হাতের অর্ধেক পর্যন্ত’- কথাটি বাদে। কেননা তা শায।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abd al-Rahman b. Abza said:While I was with 'Umar, a man came to him and said: We live at a place (where water is not found) for a month or two (what should we do, if we are sexually defiled). 'Umar said: So far as I am concerned, I do not pray until I find water. 'Ammar said: Commanded of the faithful, do you not remember when I and you were among the camels (For tending them)? There we became sexually defiled. I rolled down on the ground. We then came to the Prophet (ﷺ) and I mentioned that to him. He said: It was enough for you to do so. Then he struck the ground with both his hands. He then blew over them and wiped his face and both hands by means of them up to half the arms. 'Umar said: 'Ammar, fear Allah. He said: Commander of the faithful, if you want, I will never narrate it. 'Umar said: Nay, by Allah, we shall turn you from that towards which you turned (i.e. you have your choice)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
+
+## French
+
+Rapporté par Abd al-Rahman b. Abza : Alors que j’étais avec 'Umar, un homme est venu lui dire : « Nous vivons dans un endroit (où il n’y a pas d’eau) pendant un ou deux mois (que devons-nous faire si nous sommes en état d’impureté majeure) ? » 'Umar répondit : « Pour ma part, je ne prie pas tant que je ne trouve pas d’eau. » 'Ammar dit alors : « Commandeur des croyants, ne te souviens-tu pas quand toi et moi étions parmi les chameaux (pour les garder) ? Là-bas, nous sommes devenus impurs. Je me suis alors roulé par terre. Nous sommes ensuite allés voir le Prophète ﷺ et je lui ai raconté cela. Il a dit : “Cela t’aurait suffi de faire ainsi.” Puis il a frappé le sol avec ses deux mains, a soufflé dessus et s’est essuyé le visage et les deux mains jusqu’à la moitié des bras. » 'Umar dit : « 'Ammar, crains Allah. » Il répondit : « Commandeur des croyants, si tu veux, je ne le raconterai plus jamais. » 'Umar dit : « Non, par Allah, nous te laisserons faire ce que tu veux. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir Al-'Abdi\] telah menceritakan kepada kami \[Sufyan\] dari \[Salamah bin Kuhail\] dari \[Abu Malik\] dari \[Abdurrahman bin Abza\] dia berkata; Saya pernah bersama Umar, lalu ada seorang laki-laki datang seraya berkata; Mungkin kita berada di tempat yang tidak ada air padanya sebulan atau dua bulan. Maka Umar berkata; Adapun saya, maka saya tidak akan shalat sampai saya menemukan air. Maka \[Ammar\] berkata; "Wahai Amirul Mukminin, Tidakkah Anda ingat tatkala saya dan Anda mengembala unta, kemudian kita junub. Adapun saya, maka saya berguling-guling di tanah. Lalu kita datang kepada Nabi shallallahu 'alaihi wasallam dan saya sebutkan hal itu kepada beliau, maka beliau bersabda: "Sesunngguhnya cukup bagimu melakukan begini", kemudian beliau menepukkan kedua tangannya ke tanah, lalu meniupnya, kemudian mengusapkan keduanya pada wajah dan kedua tangannya hingga pertengahan lengan. Lalu Umar berkata; Wahai Ammar, takutlah kamu kepada Allah. Maka dia berkata; Wahai Amirul Mukminin, demi Allah, jika anda menghendaki saya tidak akan menyebutnya selamanya. Umar berkata; Tidak demi Allah, kami akan biarkan apa yang engkau katakan. Telah menceritakan kepada kami \[Muhammad bin Al-'Ala'\] telah menceritakan kepada kami \[Hafsh\] telah menceritakan kepada kami \[Al-A'masy\] dari \[Salamah bin Kuhail\] dari \[Ibnu Abza\] dari \[Ammar bin Yasir\] dalam hadits ini disebutkan beliau bersabda: "Wahai Ammar, sesungguhnya cukup bagimu begini", kemudian beliau menepukkan kedua tangannya ke tanah, lalu menepukkan salah satu tangannya pada yang lain, kemudian mengusap wajah dan kedua tangannya hingga pertengahan dua lengan dan tidak sampai siku, dengan satu kali tepukan. Abu Dawud berkata; Dan diriwayatkan oleh \[Waki'\] dari \[Al-A'masy\] dari \[Salamah bin Kuhail\] dari \[Abdurrahman bin Abza\]. Dan diriwayatkan oleh \[Jarir\] dari \[Al-A'masy\] dari \[Salamah bin Kuhail\] dari \[Sa'id bin Abdurrahman bin Abza\] yakni dari \[Ayahnya\]. Telah menceritakan kepada kami \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Muhammad bin Ja'far\] telah mengabarkan kepada kami \[Syu'bah\] dari \[Salamah\] dari \[Dzarr\] dari \[Ibnu Abdirrahman bin Abza\] dari \[Ayahnya\] dari \[Ammar\] dengan kisah ini, disebutkan; Sesungguhnya cukup bagimu begini, dan Nabi shallallahu 'alaihi wasallam menepukkan tangannya ke tanah, lalu meniupnya dan mengusapkannya pada wajah dan kedua telapak tangannya, Salamah ragu-ragu dan berkata; Saya tidak tahu apakah sampai siku ataukah sampai telapak tangan. Telah menceritakan kepada kami \[Ali bin Sahl Ar-Ramli\] telah menceritakan kepada kami \[Hajjaj Al-A'war\] telah menceritakan kepada kami \[Syu'bah\] dengan sanadnya dengan hadits ini, dia berkata; Kemudian beliau shallallahu 'alaihi wasallam meniupnya dan mengusapkannya pada wajah dan kedua telapak tangannya hingga siku atau lengan. syu'bah berkata; \[Salamah\] berkata; dia telapak tangan dan wajah dan dua lengan. Manshur pada suatu hari berkata; Lihat apa yang engkau katakan, sesungguhnya tidak ada yang menyebutkan dua lengan selainmu. Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Syu'bah\] dia berkata; Telah menceritakan kepadaku \[Al-Hakam\] dari \[Dzarr\] dari \[Ibnu Abdirrahman bin Abza\] dari \[Ayahnya\] dari \[Ammar\] di dalam hadits ini dia menyebutkan; Nabi shallallahu 'alaihi wasallam bersabda: Sesungguhnya cukup bagimu menepukkan kedua tanganmu ke tanah dan mengusapkan keduanya ke wajah dan dua telapak tanganmu. Lalu dia menyebutkan hadits itu. Abu Dawud berkata; Dan diriwayatkan oleh \[Syu'bah\] dari \[Hushain\] dari \[Abu Malik\] dia berkata; Saya pernah mendengar \[Ammar\] berkhutbah dengan semisal hadits ini, hanya saja dia tidak menyebutkan perihal meniup. Dan \[Husain bin Muhammad\] menyebutkan dari \[Syu'bah\] dari \[Al-Hakam\] di dalam hadits ini dia menyebutkan; Beliau menepukkan dengan kedua telapak tanagnnya ke tanah dan meniupnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir Al-'Abdi] telah menceritakan kepada kami [Sufyan] dari [Salamah bin Kuhail] dari [Abu Malik] dari [Abdurrahman bin Abza] dia berkata; Saya pernah bersama Umar, lalu ada seorang laki-laki datang seraya berkata; Mungkin kita berada di tempat yang tidak ada air padanya sebulan atau dua bulan. Maka Umar berkata; Adapun saya, maka saya tidak akan shalat sampai saya menemukan air. Maka [Ammar] berkata; "Wahai Amirul Mukminin, Tidakkah Anda ingat tatkala saya dan Anda mengembala unta, kemudian kita junub. Adapun saya, maka saya berguling-guling di tanah. Lalu kita datang kepada Nabi shallallahu 'alaihi wasallam dan saya sebutkan hal itu kepada beliau, maka beliau bersabda: "Sesunngguhnya cukup bagimu melakukan begini", kemudian beliau menepukkan kedua tangannya ke tanah, lalu meniupnya, kemudian mengusapkan keduanya pada wajah dan kedua tangannya hingga pertengahan lengan. Lalu Umar berkata; Wahai Ammar, takutlah kamu kepada Allah. Maka dia berkata; Wahai Amirul Mukminin, demi Allah, jika anda menghendaki saya tidak akan menyebutnya selamanya. Umar berkata; Tidak demi Allah, kami akan biarkan apa yang engkau katakan. Telah menceritakan kepada kami [Muhammad bin Al-'Ala'] telah menceritakan kepada kami [Hafsh] telah menceritakan kepada kami [Al-A'masy] dari [Salamah bin Kuhail] dari [Ibnu Abza] dari [Ammar bin Yasir] dalam hadits ini disebutkan beliau bersabda: "Wahai Ammar, sesungguhnya cukup bagimu begini", kemudian beliau menepukkan kedua tangannya ke tanah, lalu menepukkan salah satu tangannya pada yang lain, kemudian mengusap wajah dan kedua tangannya hingga pertengahan dua lengan dan tidak sampai siku, dengan satu kali tepukan. Abu Dawud berkata; Dan diriwayatkan oleh [Waki'] dari [Al-A'masy] dari [Salamah bin Kuhail] dari [Abdurrahman bin Abza]. Dan diriwayatkan oleh [Jarir] dari [Al-A'masy] dari [Salamah bin Kuhail] dari [Sa'id bin Abdurrahman bin Abza] yakni dari [Ayahnya]. Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah mengabarkan kepada kami [Syu'bah] dari [Salamah] dari [Dzarr] dari [Ibnu Abdirrahman bin Abza] dari [Ayahnya] dari [Ammar] dengan kisah ini, disebutkan; Sesungguhnya cukup bagimu begini, dan Nabi shallallahu 'alaihi wasallam menepukkan tangannya ke tanah, lalu meniupnya dan mengusapkannya pada wajah dan kedua telapak tangannya, Salamah ragu-ragu dan berkata; Saya tidak tahu apakah sampai siku ataukah sampai telapak tangan. Telah menceritakan kepada kami [Ali bin Sahl Ar-Ramli] telah menceritakan kepada kami [Hajjaj Al-A'war] telah menceritakan kepada kami [Syu'bah] dengan sanadnya dengan hadits ini, dia berkata; Kemudian beliau shallallahu 'alaihi wasallam meniupnya dan mengusapkannya pada wajah dan kedua telapak tangannya hingga siku atau lengan. syu'bah berkata; [Salamah] berkata; dia telapak tangan dan wajah dan dua lengan. Manshur pada suatu hari berkata; Lihat apa yang engkau katakan, sesungguhnya tidak ada yang menyebutkan dua lengan selainmu. Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] dia berkata; Telah menceritakan kepadaku [Al-Hakam] dari [Dzarr] dari [Ibnu Abdirrahman bin Abza] dari [Ayahnya] dari [Ammar] di dalam hadits ini dia menyebutkan; Nabi shallallahu 'alaihi wasallam bersabda: Sesungguhnya cukup bagimu menepukkan kedua tanganmu ke tanah dan mengusapkan keduanya ke wajah dan dua telapak tanganmu. Lalu dia menyebutkan hadits itu. Abu Dawud berkata; Dan diriwayatkan oleh [Syu'bah] dari [Hushain] dari [Abu Malik] dia berkata; Saya pernah mendengar [Ammar] berkhutbah dengan semisal hadits ini, hanya saja dia tidak menyebutkan perihal meniup. Dan [Husain bin Muhammad] menyebutkan dari [Syu'bah] dari [Al-Hakam] di dalam hadits ini dia menyebutkan; Beliau menepukkan dengan kedua telapak tanagnnya ke tanah dan meniupnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абду-р-Рахман ибн Абза сказал: «Однажды, когда я находился рядом с ‘Умаром, к нему пришел один человек и сказал: “Иногда нам приходится оставаться в каком-либо месте в течение одного или двух месяцев”. ‘Умар сказал: “Что касается меня, то я не совершил бы молитву, пока не найду воду”.(Ибн Абза) сказал: “‘Аммар ибн Йасир сказал: “О повелитель правоверных, разве ты не помнишь, как мы с тобой осквернились, когда пасли верблюдов? Что касается меня, то я повалялся в пыли. Когда мы пришли к Пророку ﷺ я рассказал ему об этом, и он сказал: “Тебе было достаточно сделать вот так”, и он ударил руками о землю, затем стряхнул с них (землю), после чего обтер ими свое лицо и руки до середины локтей”. ‘Умар сказал: “О ‘Аммар, побойся Аллаха!” ‘Аммар сказал: “О повелитель правоверных, если ты хочешь, то я никогда не буду об этом упоминать”. ‘Умар сказал: “Нет, клянусь Аллахом, в этом мы будем следовать тебе”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdurrahman bin Ebza (r.a.)'den şöyle demiştir: Ben Ömer bin el-Hattab (r.a)'ın yanında idim. Bir adam geldi ve; (Ya emire'l-mu'minin) biz bir iki ay bir yerde kalıyoruz. (Cünub oluyor su bulamıyoruz, ne yapalım?) dedi. Hz. Ömer; Ben olsam su buluncaya kadar yıkanmam, cevabını verdi. (Orada bulunan) Ammar şöyle dedi: Ya Emir'el-mu'minin, hatırlıyor musun? Hani seninle deve (gütmek) de idik de ikimiz de cünup olmuştuk. Bunun üzerine ben yerde yuvarlandım.Resulullah (Sallallahu aleyhi ve Sellem)'e gelip durumu söyledim. Resulullah (Sallallahu aleyhi ve Sellem); "Şöyle yapman sana yeterdi" buyurdu ve ellerini yere vurdu, sonra onlara üfledi. Sonra da elleriyle yüzünü ve kolunun yansına kadar ellerini meshetti. Hz. Ömer: Ey Ammar Allah'tan kork! dedi. Ammar da: Ya Emirel-mu'minin, eğer sen istersen vallahi bunu ebediyyen (bir daha) söylemem, dedi. Bunun üzerine Hz. Ömer: Hayır, vallahi bundan (teyemmüm hadisesinden) üzerine aldığın sorumluluğu sana bırakıyorum, dedi. Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; İbni Mace, tahare; Ahmed b. Hanbel IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمٰن بن ابزیٰ کہتے ہیں کہ میں عمر رضی اللہ عنہ کے پاس تھا کہ اتنے میں ان کے پاس ایک شخص آیا اور کہنے لگا: بسا اوقات ہم کسی جگہ ماہ دو ماہ ٹھہرے رہتے ہیں ( جہاں پانی موجود نہیں ہوتا اور ہم جنبی ہو جاتے ہیں تو اس کا کیا حکم ہے؟ ) عمر رضی اللہ عنہ نے کہا: جہاں تک میرا معاملہ ہے تو جب تک مجھے پانی نہ ملے میں نماز نہیں پڑھ سکتا، وہ کہتے ہیں: اس پر عمار رضی اللہ عنہ نے کہا: امیر المؤمنین! کیا آپ کو یاد نہیں کہ جب میں اور آپ اونٹوں میں تھے ( اونٹ چراتے تھے ) اور ہمیں جنابت لاحق ہو گئی، بہرحال میں تو مٹی ( زمین ) پر لوٹا، پھر ہم نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے اور آپ سے اس کا ذکر کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا: تمہیں بس اس طرح کر لینا کافی تھا اور آپ صلی اللہ علیہ وسلم نے اپنے دونوں ہاتھ زمین پر مارے پھر ان پر پھونک ماری اور اپنے چہرے اور اپنے دونوں ہاتھوں پر نصف ذراع تک پھیر لیا، اس پر عمر رضی اللہ عنہ نے کہا: عمار! اللہ سے ڈرو ۱؎، انہوں نے کہا: امیر المؤمنین! اگر آپ چاہیں تو قسم اللہ کی میں اسے کبھی ذکر نہ کروں، عمر رضی اللہ عنہ نے کہا: ہرگز نہیں، قسم اللہ کی ہم تمہاری بات کا تمہیں اختیار دیتے ہیں، یعنی معاملہ تم پر چھوڑتے ہیں تم اسے بیان کرنا چاہو تو کرو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>322</td></tr><tr><td>Arabic No</td><td>322</td></tr><tr><td>Reference</td><td>Book 1 Hadith 322</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 322 |
+| Arabic No | 322 |
+| Reference | Book 1 Hadith 322 |

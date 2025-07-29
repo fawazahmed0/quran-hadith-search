@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Al Mutsanna\] telah menceritakan kepada kami \[Muhammad bin Ja'far\] telah menceritakan kepada kami \[Syu'bah\] dari \[Budail\] dari \[Abdullah bin Syaqiq\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam bahwa beliau selalu meminta pelindungan dari siksa kubur dan siksa Jahannm dan fitnah Dajjal
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Budail] dari [Abdullah bin Syaqiq] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau selalu meminta pelindungan dari siksa kubur dan siksa Jahannm dan fitnah Dajjal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается со слов Абу Хурайры, что Пророк ﷺ прибегал (к Аллаху) за защитой от мучений могилы, от мук Ада и искушения Даджжаля
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن شقیق نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انھوں نے نبی ﷺ سے روایت کی کہ آپ ﷺ قبر کے عذاب سے ، جہنم کے عذاب سے اور دجال کے فتنے سے پناہ مانگا کرتے تھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1332</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1332 |
+| Reference | Book 0 Hadith 0 |

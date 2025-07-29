@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدَةُ، - يَعْنِي ابْنَ سُلَيْمَانَ - حَدَّثَنَا سَعِيدُ بْنُ أَبِي عَرُوبَةَ، عَنْ غَالِبٍ التَّمَّارِ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ مَسْرُوقِ بْنِ أَوْسٍ، عَنْ أَبِي مُوسَى، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ الأَصَابِعُ سَوَاءٌ عَشْرٌ عَشْرٌ مِنَ الإِبِلِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
+
 حدثنا اسحاق بن اسماعيل، حدثنا عبدة، - يعني ابن سليمان - حدثنا سعيد بن ابي عروبة، عن غالب التمار، عن حميد بن هلال، عن مسروق بن اوس، عن ابي موسى، عن النبي صلى الله عليه وسلم قال " الاصابع سواء عشر عشر من الابل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
 
 ## Bengali
 
+। আবূ মূসা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ (দিয়াতের ব্যাপারে) আঙ্গুলগুলো সমান। প্রত্যেক আঙ্গুলের দিয়াত হবে দশটি করে উট।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ মূসা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ (দিয়াতের ব্যাপারে) আঙ্গুলগুলো সমান। প্রত্যেক আঙ্গুলের দিয়াত হবে দশটি করে উট।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuMusa: The Prophet (ﷺ) said: The fingers are equal: ten camels for each finger
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
+
+## French
+
+Rapporté par Abu Musa رضي الله عنه : Le Prophète ﷺ a dit : « Les doigts sont égaux : dix chameaux pour chaque doigt. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Isma'il\] berkata, telah menceritakan kepada kami \[Abdah\] -maksudnya Abdah bin Sulaiman- berkata, telah menceritakan kepada kami \[Said bin Abu Arubah\] dari \[Ghalib At Tammar\] dari \[Humaid bin Hilal\] dari \[Masruq bin Aus\] dari \[Abu Musa\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Semua jari diyatnya sama; puluh ekor unta
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Isma'il] berkata, telah menceritakan kepada kami [Abdah] -maksudnya Abdah bin Sulaiman- berkata, telah menceritakan kepada kami [Said bin Abu Arubah] dari [Ghalib At Tammar] dari [Humaid bin Hilal] dari [Masruq bin Aus] dari [Abu Musa] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Semua jari diyatnya sama; puluh ekor unta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Компенсация /дийа/ за каждый палец одинакова по десять верблюдов»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Musa (el-Eş'arî) (r.a) den; Rasûlullah fs.a.v) şöyle buyurmuştur: "Parmaklar eşittir. (Onların) herbirinin (diyeti) onar devedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوموسیٰ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: انگلیاں سب برابر ہیں، ان کی دیت دس دس اونٹ ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4556</td></tr><tr><td>Arabic No</td><td>4556</td></tr><tr><td>Reference</td><td>Book 41 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4556 |
+| Arabic No | 4556 |
+| Reference | Book 41 Hadith 63 |

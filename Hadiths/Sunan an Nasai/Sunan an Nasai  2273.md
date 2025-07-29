@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، قَالَ أَنْبَأَنَا عَلِيٌّ، عَنْ يَحْيَى، عَنْ أَبِي قِلاَبَةَ، عَنْ رَجُلٍ، أَنَّ أَبَا أُمَيَّةَ، أَخْبَرَهُ أَنَّهُ، أَتَى النَّبِيَّ صلى الله عليه وسلم مِنْ سَفَرٍ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 22 Hadith 184</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |
+
 اخبرنا محمد بن المثنى، قال حدثنا عثمان بن عمر، قال انبانا علي، عن يحيى، عن ابي قلابة، عن رجل، ان ابا امية، اخبره انه، اتى النبي صلى الله عليه وسلم من سفر نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 22 Hadith 184</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু মুছান্না (রহঃ) ... আবূ উমাইয়্যা (রাঃ) তাঁর নিকট বর্ণনা করেছেন যে, তিনি এক সফর থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে আসেন এরপর উক্তরূপ বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 22 Hadith 184</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Oilabah, from a man, that Abu Umayyah told him:That he came to the Prophet from a journey, and he narrated something similar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 22 Hadith 184</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |
+
+## French
+
+Rapporté par Abu Qilabah, d'après un homme, qu'Abu Umayyah lui a dit : Il est venu voir le Prophète ﷺ après un voyage, et il a raconté quelque chose de similaire
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 22 Hadith 184</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 22 Hadith 184</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوامیہ رضی الله عنہ کہتے ہیں کہ وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس سفر سے آئے، آگے راوی نے پوری روایت اسی طرح ذکر کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>2273</td></tr><tr><td>Reference</td><td>Book 22 Hadith 184</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 2273 |
+| Reference | Book 22 Hadith 184 |

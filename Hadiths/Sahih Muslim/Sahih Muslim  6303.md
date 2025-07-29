@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا أَسْبَاطُ بْنُ مُحَمَّدٍ، عَنْ زَكَرِيَّاءَ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه اسحاق بن ابراهيم، اخبرنا اسباط بن محمد، عن زكرياء، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক (রহঃ) ..... যাকারিয়া (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৬০৮৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Zakriyya' through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## French
 
+Rapporté par Zakariya رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmission
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-90-2) Bize bu hadisi yine İshâk b. İbrahim rivayet etti. (Dediki): Bize Esbat b. Muhammed, Zekeriyya'dan bu isnadla bu hadisin mislini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسباط بن محمد نے زکریا سے اسی سند کے ساتھ اسی کے مانند خبر دی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6303</td></tr><tr><td>Arabic No</td><td>2447.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 133</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6303 |
+| Arabic No | 2447.03 |
+| Reference | Book 44 Hadith 133 |

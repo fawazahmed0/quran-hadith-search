@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَيَّاشُ بْنُ الْوَلِيدِ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، حَدَّثَنَا عُمَارَةُ بْنُ الْقَعْقَاعِ، عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ اللَّهُمَّ اغْفِرْ لِلْمُحَلِّقِينَ ‏"‏‏.‏ قَالُوا وَلِلْمُقَصِّرِينَ‏.‏ قَالَ ‏"‏ اللَّهُمَّ اغْفِرْ لِلْمُحَلِّقِينَ ‏"‏‏.‏ قَالُوا وَلِلْمُقَصِّرِينَ‏.‏ قَالَهَا ثَلاَثًا‏.‏ قَالَ ‏"‏ وَلِلْمُقَصِّرِينَ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عياش بن الوليد، حدثنا محمد بن فضيل، حدثنا عمارة بن القعقاع، عن ابي زرعة، عن ابي هريرة رضى الله عنه قال قال رسول الله صلى الله عليه وسلم " اللهم اغفر للمحلقين ". قالوا وللمقصرين. قال " اللهم اغفر للمحلقين ". قالوا وللمقصرين. قالها ثلاثا. قال " وللمقصرين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, একদিন আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আল্লাহ! মাথা মুন্ডনকারীদের ক্ষমা করুন। সাহাবীগণ বললেন, যারা চুল ছোট করেছে তাদের প্রতিও। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আল্লাহ! মাথা মুন্ডনকারীদেরকে ক্ষমা প্রদর্শন করুন। সাহাবীগণ বললেন, যারা চুল ছোট করেছে তাদের প্রতিও। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কথাটি তিনবার বলেন, এরপর বললেনঃ যারা চুল ছোট করেছে তাদের উপরও। (আধুনিক প্রকাশনীঃ ১৬১০. ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "O Allah! Forgive those who get their heads shaved." The people asked. "Also those who get their hair cut short?" The Prophet (ﷺ) said, "O Allah! Forgive those who have their heads shaved." The people said, "Also those who get their hair cut short?" The Prophet (invoke Allah for those who have their heads shaved and) at the third time said, "also (forgive) those who get their hair cut short
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
+
+## French
+
+Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Ô Allah ! Pardonne à ceux qui se rasent la tête. » Les gens ont demandé : « Et aussi à ceux qui se coupent les cheveux courts ? » Le Prophète (ﷺ) a dit : « Ô Allah ! Pardonne à ceux qui se rasent la tête. » Les gens ont dit : « Et aussi à ceux qui se coupent les cheveux courts ? » Le Prophète (ﷺ) a invoqué Allah pour ceux qui se rasent la tête et, la troisième fois, il a dit : « Pardonne aussi à ceux qui se coupent les cheveux courts. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Ayyasy bin Al Walid\] telah menceritakan kepada kami \[Muhammad bin Fudhail\] telah menceritakan kepada kami \['Umarah bin Al Qa'qa'\] dari \[Abu Zur'ah\] dari \[Abu Hurairah radliallahu 'anhu\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, ampunilah orang-orang yang mencukur rambutnya". Orang-orang berkata: "Dan juga bagi orang-orang yang hanya memendekkan rambutnya?". Beliau tetap berkata: "Ya Allah, ampunilah orang-orang yang mencukur rambutnya". Beliau mengucapkannya hingga tiga kali, baru kemudian bersabda: Dan juga orang-orang yang hanya memendekkan rambutnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Muhammad bin Fudhail] telah menceritakan kepada kami ['Umarah bin Al Qa'qa'] dari [Abu Zur'ah] dari [Abu Hurairah radliallahu 'anhu] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Ya Allah, ampunilah orang-orang yang mencukur rambutnya". Orang-orang berkata: "Dan juga bagi orang-orang yang hanya memendekkan rambutnya?". Beliau tetap berkata: "Ya Allah, ampunilah orang-orang yang mencukur rambutnya". Beliau mengucapkannya hingga tiga kali, baru kemudian bersabda: Dan juga orang-orang yang hanya memendekkan rambutnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «(После завершения обрядов хаджа) Посланник Аллаха ﷺ сказал: “О Аллах, прости сбривших волосы”. (Люди) сказали: “(Обратись с мольбой) и за укоротивших”. (Пророк ﷺ снова) сказал: “О Аллах, прости сбривших волосы”. (Люди) сказали: “(Обратись с мольбой) и за укоротивших”. И он повторил это трижды, (после чего) сказал: “И (прости) укоротивших”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இறைவா! (ஹஜ்ஜில்) தலையை மழித்துக் கொள்பவர்களுக்கு மன்னிப்பு அளிப் பாயாக!” எனப் பிரார்த்தித்தார்கள். உடனே தோழர்கள் “முடியைக் குறைத்துக் கொள்பவர்களுக்கும் (பிரார்த்தியுங்கள்)” என்றனர். (மீண்டும்) நபி (ஸல்) அவர்கள், “இறைவா! (ஹஜ்ஜில்) தலையை மழித்துக் கொள்பவர்களுக்கு மன்னிப்பு அளிப் பாயாக!” என்று பிரார்த்தித்தபோது தோழர்கள், “முடியைக் குறைத்துக் கொள்பவர்களுக்கும்...” என்றனர். நபி (ஸல்) அவர்கள் மூன்றாவது தடவையாகவும் அதைக் கூறியபோது “முடியைக் குறைத்துக்கொள்பவர்களுக்கும் (மன்னிப்பு அளிப்பாயாக!)” என்று கூறினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a. şöyle dedi: Resulullah Sallallahu Aleyhi ve Sellem: "Allah'ım saçlarını kazıtanları bağışla" buyurdu. Oradakiler: "Saçlarını kısaltanları da" dediler. Resulullah Sallallahu Aleyhi ve Sellem: "Allah'ım saçlarını kazıtanları bağışla" buyurdu. Oradakiler: "Saçlarını kısaltanları da" dediler. Resulullah sözünü üç kere tekrarladıktan sonra "saçlarını kısaltanları da" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عیاش بن ولید نے بیان کیا، کہا ہم سے محمد بن فضیل نے بیان کیا، ان سے عمارہ بن قعقاع نے بیان کیا، ان سے ابوزرعہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے دعا فرمائی اے اللہ! سر منڈوانے والوں کی مغفرت فرما! صحابہ رضی اللہ عنہم نے عرض کیا اور کتروانے والوں کے لیے بھی ( یہی دعا فرمائیے ) لیکن نبی کریم صلی اللہ علیہ وسلم نے اس مرتبہ بھی یہی فرمایا اے اللہ! سر منڈوانے والوں کی مغفرت کر۔ پھر صحابہ رضی اللہ عنہم نے عرض کیا اور کتروانے والوں کی بھی! تیسری مرتبہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا اور کتروانے والوں کی بھی مغفرت فرما۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1728</td></tr><tr><td>Arabic No</td><td>1728</td></tr><tr><td>Reference</td><td>Book 25 Hadith 206</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1728 |
+| Arabic No | 1728 |
+| Reference | Book 25 Hadith 206 |

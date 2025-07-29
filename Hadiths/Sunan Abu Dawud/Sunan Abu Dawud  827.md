@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، وَأَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، وَمُحَمَّدُ بْنُ أَحْمَدَ بْنِ أَبِي خَلَفٍ، وَعَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الزُّهْرِيُّ، وَابْنُ السَّرْحِ، قَالُوا حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، سَمِعْتُ ابْنَ أُكَيْمَةَ، يُحَدِّثُ سَعِيدَ بْنَ الْمُسَيَّبِ قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، يَقُولُ صَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم صَلاَةً نَظُنُّ أَنَّهَا الصُّبْحُ بِمَعْنَاهُ إِلَى قَوْلِهِ ‏"‏ مَا لِي أُنَازَعُ الْقُرْآنَ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مُسَدَّدٌ فِي حَدِيثِهِ قَالَ مَعْمَرٌ فَانْتَهَى النَّاسُ عَنِ الْقِرَاءَةِ فِيمَا جَهَرَ بِهِ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ ابْنُ السَّرْحِ فِي حَدِيثِهِ قَالَ مَعْمَرٌ عَنِ الزُّهْرِيِّ قَالَ أَبُو هُرَيْرَةَ فَانْتَهَى النَّاسُ ‏.‏ وَقَالَ عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ الزُّهْرِيُّ مِنْ بَيْنِهِمْ قَالَ سُفْيَانُ وَتَكَلَّمَ الزُّهْرِيُّ بِكَلِمَةٍ لَمْ أَسْمَعْهَا فَقَالَ مَعْمَرٌ إِنَّهُ قَالَ فَانْتَهَى النَّاسُ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ عَبْدُ الرَّحْمَنِ بْنُ إِسْحَاقَ عَنِ الزُّهْرِيِّ وَانْتَهَى حَدِيثُهُ إِلَى قَوْلِهِ ‏"‏ مَا لِي أُنَازَعُ الْقُرْآنَ ‏"‏ ‏.‏ وَرَوَاهُ الأَوْزَاعِيُّ عَنِ الزُّهْرِيِّ قَالَ فِيهِ قَالَ الزُّهْرِيُّ فَاتَّعَظَ الْمُسْلِمُونَ بِذَلِكَ فَلَمْ يَكُونُوا يَقْرَءُونَ مَعَهُ فِيمَا يَجْهَرُ بِهِ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو دَاوُدَ سَمِعْتُ مُحَمَّدَ بْنَ يَحْيَى بْنِ فَارِسٍ قَالَ قَوْلُهُ فَانْتَهَى النَّاسُ ‏.‏ مِنْ كَلاَمِ الزُّهْرِيِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
+
 حدثنا مسدد، واحمد بن محمد المروزي، ومحمد بن احمد بن ابي خلف، وعبد الله بن محمد الزهري، وابن السرح، قالوا حدثنا سفيان، عن الزهري، سمعت ابن اكيمة، يحدث سعيد بن المسيب قال سمعت ابا هريرة، يقول صلى بنا رسول الله صلى الله عليه وسلم صلاة نظن انها الصبح بمعناه الى قوله " ما لي انازع القران " . قال ابو داود قال مسدد في حديثه قال معمر فانتهى الناس عن القراءة فيما جهر به رسول الله صلى الله عليه وسلم وقال ابن السرح في حديثه قال معمر عن الزهري قال ابو هريرة فانتهى الناس . وقال عبد الله بن محمد الزهري من بينهم قال سفيان وتكلم الزهري بكلمة لم اسمعها فقال معمر انه قال فانتهى الناس . قال ابو داود ورواه عبد الرحمن بن اسحاق عن الزهري وانتهى حديثه الى قوله " ما لي انازع القران " . ورواه الاوزاعي عن الزهري قال فيه قال الزهري فاتعظ المسلمون بذلك فلم يكونوا يقرءون معه فيما يجهر به صلى الله عليه وسلم . قال ابو داود سمعت محمد بن يحيى بن فارس قال قوله فانتهى الناس . من كلام الزهري
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
 
 ## Bengali
 
+। সাঈদ ইবনুল মুসাইয়্যাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আবূ হুরাইরাহ (রাঃ)-কে বলতে শুনেছিঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নিয়ে সালাত আদায় করেন। সম্ভবতঃ তা ফজরের সালাত। অতঃপর পূর্ববর্তী হাদীসের অনুরূপ উল্লেখ করে ‘‘আমার কুরআন পাঠে কিসে বিঘ্ন সৃষ্টি হলো’’ এই পর্যন্ত বর্ণনা করেন। ইমাম আবূ দাউদ (রহঃ) বলেন, মুসাদ্দাদ তাঁর বর্ণিত হাদীসে উল্লেখ করেন যে, মা‘মার বলেন, অতঃপর লোকেরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্বরব কিরাত সম্পন্ন সালাতে কিরাত পাঠ হতে বিরত থাকেন। ইবনুস সার্‌হ তার বর্ণিত হাদীসে বলেন যে, মা‘মার যুহরী সূত্রে বলেন, আবূ হুরাইরা (রাঃ) বলেন, অতঃপর লোকেরা কিরাত হতে বিরত থাকেন। আর ‘আব্দুল্লাহ ইবনু মুহাম্মাদ আয-যুহরীর বর্ণনায়مِنْ بَيْنِهِمْ শব্দের উল্লেখ আছে। বর্ণনাকারী সুফিয়ান বলেন, ইমাম যুহরী এমন কিছু কথা বলেছেন যা আমি শুনিনি। তখন মা‘মার বলেন, তিনি বলেছেন, অতঃপর লোকেরা বিরত থাকেন। ইমাম আবূ দাউদ (রহঃ) বলেন যে, হাদীসটি ‘আবদুর রহমান ইবনু ইসহাক ইমাম যুহরী সূত্রেمَا لِي أُنَازَعُ الْقُرْآنَ পর্যন্ত বর্ণনা করেছেন। ইমাম আওযাঈ যুহরী সূত্রের বণনা সম্পর্কে বলেন, যুহরীর বর্ণনায় এ কথাও আছে যে, ঐ ঘটনায় মুসলিমগণ উপদেশ গ্রহণ করেন। এরপর তাঁরা স্বরব কিরাত সম্পন্ন সালাতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পিছনে কিরাত পড়তেন না।\[1\] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, আমি মুহাম্মাদ ইবনু ইয়াহইয়াহ ইবনু ফারিসকে বলতে শুনেছি যে, ‘‘অতঃপর লোকেরা ইমামের পিছনে কিরাত পাঠ হতে বিরত থাকেন’’ কথাটুকু ইমাম যুহরীর।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাঈদ ইবনুল মুসাইয়্যাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আবূ হুরাইরাহ (রাঃ)-কে বলতে শুনেছিঃ একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে নিয়ে সালাত আদায় করেন। সম্ভবতঃ তা ফজরের সালাত। অতঃপর পূর্ববর্তী হাদীসের অনুরূপ উল্লেখ করে ‘‘আমার কুরআন পাঠে কিসে বিঘ্ন সৃষ্টি হলো’’ এই পর্যন্ত বর্ণনা করেন। ইমাম আবূ দাউদ (রহঃ) বলেন, মুসাদ্দাদ তাঁর বর্ণিত হাদীসে উল্লেখ করেন যে, মা‘মার বলেন, অতঃপর লোকেরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্বরব কিরাত সম্পন্ন সালাতে কিরাত পাঠ হতে বিরত থাকেন। ইবনুস সার্‌হ তার বর্ণিত হাদীসে বলেন যে, মা‘মার যুহরী সূত্রে বলেন, আবূ হুরাইরা (রাঃ) বলেন, অতঃপর লোকেরা কিরাত হতে বিরত থাকেন। আর ‘আব্দুল্লাহ ইবনু মুহাম্মাদ আয-যুহরীর বর্ণনায়مِنْ بَيْنِهِمْ শব্দের উল্লেখ আছে। বর্ণনাকারী সুফিয়ান বলেন, ইমাম যুহরী এমন কিছু কথা বলেছেন যা আমি শুনিনি। তখন মা‘মার বলেন, তিনি বলেছেন, অতঃপর লোকেরা বিরত থাকেন। ইমাম আবূ দাউদ (রহঃ) বলেন যে, হাদীসটি ‘আবদুর রহমান ইবনু ইসহাক ইমাম যুহরী সূত্রেمَا لِي أُنَازَعُ الْقُرْآنَ পর্যন্ত বর্ণনা করেছেন। ইমাম আওযাঈ যুহরী সূত্রের বণনা সম্পর্কে বলেন, যুহরীর বর্ণনায় এ কথাও আছে যে, ঐ ঘটনায় মুসলিমগণ উপদেশ গ্রহণ করেন। এরপর তাঁরা স্বরব কিরাত সম্পন্ন সালাতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পিছনে কিরাত পড়তেন না।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, আমি মুহাম্মাদ ইবনু ইয়াহইয়াহ ইবনু ফারিসকে বলতে শুনেছি যে, ‘‘অতঃপর লোকেরা ইমামের পিছনে কিরাত পাঠ হতে বিরত থাকেন’’ কথাটুকু ইমাম যুহরীর।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah said:The Messenger of Allah (ﷺ) led us in prayer, that was, we think, the dawn prayer, He further narrated this tradition up to the words “what is the matter with me that I have been contended with in (the recitation of ) the Qur’an.” Abu Dawud said: Musaddad in his tradition said that Ma’mar said: The people ceased to recite (the Qur’an) at the prayer in which the Messenger of Allah (ﷺ) recited aloud. Ibn al-Sarh said in his version that Ma’mar reported from al-Zuhri on the authority of Abu Hurairah. Then the people ceased (to recite behind the imam). Another version says: Sufyan said: Al-Zuhri spoke a word that I could not hear. Then Ma’mar said: He said: Then people ceased (to recite the Qur’an) Abu Dawud said: This tradition has been narrated by ‘Abd al-Raman b. Ishaq on the authority of al-Zuhri. This version ends at the words: “What is the matter with me that I am contended with in (the recitation of) the Qur’an. Al-Awza’i also narrated it on the authority of al-Zuhri. This version has: Al-Zuhri said: The Muslims took lesson from that and thenceforth they did not recite (the Qur’an) at the prayer in which he (the Prophet) recited aloud. Abu Dawud said: I heard Muhammad b. Yaya b. Faris say: The words “the people ceased to recite (the Qur’an)” is a statement of al-zuhri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
+
+## French
+
+Abu Huraira رضي الله عنه a dit : Le Messager d’Allah ﷺ nous a dirigés dans la prière, il s’agissait, pensons-nous, de la prière de l’aube. Il a ensuite rapporté ce récit jusqu’aux mots « pourquoi ai-je été concurrencé dans la récitation du Coran ». Abu Dawud a dit : Musaddad, dans sa version, a dit que Ma’mar a rapporté : Les gens ont cessé de réciter le Coran dans la prière où le Messager d’Allah ﷺ récitait à voix haute. Ibn al-Sarh a dit dans sa version que Ma’mar a rapporté d’al-Zuhri d’après Abu Huraira. Ensuite, les gens ont cessé (de réciter derrière l’imam). Une autre version dit : Sufyan a dit : Al-Zuhri a prononcé un mot que je n’ai pas entendu. Puis Ma’mar a dit : Il a dit : Ensuite, les gens ont cessé (de réciter le Coran). Abu Dawud a dit : Cette tradition a été rapportée par ‘Abd al-Rahman ibn Ishaq d’après al-Zuhri. Cette version s’arrête aux mots : « Pourquoi ai-je été concurrencé dans la récitation du Coran ». Al-Awza’i l’a aussi rapportée d’al-Zuhri. Cette version précise : Al-Zuhri a dit : Les musulmans ont tiré une leçon de cela et, à partir de là, ils n’ont plus récité (le Coran) dans la prière où le Prophète récitait à voix haute. Abu Dawud a dit : J’ai entendu Muhammad ibn Yahya ibn Faris dire : Les mots « les gens ont cessé de réciter (le Coran) » sont une parole d’al-Zuhri
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\] dari \[Ibnu Syihab\] dari \[Ibnu Ukaimah Al Laitsi\] dari \[Abu Hurairah\] bahwa Rasulullah shallallahu 'alaihi wasallam selesai dari shalat yang di baca Jahr (jelas), lalu beliau bersabda; "Apakah ada seseorang yang membaca (ayat) bersamaku tadi?" seorang laki-laki berkata; "Ya, wahai Rasulullah." Beliau bersabda: "Sungguh, aku berkata (dalam hati) kenapa ia membaca bersamaku dan mendahuluiku dalam membaca Al Qur'an?" Az Zuhri berkata; "Seketika itu orang-ornag yang membaca bersama Nabi shallallahu 'alaihi wasallam dalam shalat-shalat yang di baca nyaring pun berhenti, setelah mendengar hal itu dari Rasulullah shallallahu 'alaihi wasallam." Abu Daud berkata; "Hadits Ibnu Ukaimah ini juga telah di riwayatkan pula oleh \[Ma'mar\] dan \[Yunus\] serta \[Usamah bin Zaid\] dari \[Az Zuhri\] dengan makna haditsnya Malik. Telah menceritakan kepada kami \[Musaddad\], \[Ahmad bin Muhammad Al Marwazi\], \[Muhammad bin Ahmad bin Abu Khalaf\], \[Abdullah bin Muhammad Az Zuhri\] dan \[Ibnu Sarh\], mereka berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\] saya mendengar \[Ibnu Ukaimah\] menceritakan kepada Sa'id bin Musayyib katanya; saya mendengar \[Abu Hurairah\] berkata; "Rasulullah shallallahu 'alaihi wasallam shalat bersama kami -kami mengira shalat tersebut adalah shalat shubuh- semakna dengan hadits di atas, sampai pada sabdanya; kenapa ia membaca bersamaku dan mendahuluiku dalam membaca Al Qur'an?" Musaddad berkata dalam haditsnya; Ma'mar mengatakan; "Seketika itu orang-orang berhenti dari membaca dalam shalat yang bacaannya di baca jahr (jelas, nyaring) oleh Rasulullah shallallahu 'alaihi wasallam." Ibnu As Sarh mengatakan dalam haditsnya; Ma'mar berkata dari Az Zuhri, Abu Hurairah berkata; "Orang-orang pun berhenti…" sedangkan Abdullah bin Muhammad Az Zuhri di antara mereka juga Sufyan berkata; lalu Az Zuhri mengatakan suatu perkataan yang tidak aku dengar." Ma'mar mengatakan; Bahwa az Zuhri mengatakan; "Orang-orang berhenti." Abu Daud mengatakan; "Hadits ini juga di riwayatkan \[Abdurrahman bin Ishaq\] dari \[Az Zuhri\] dan haditsnya berhenti sampai sabdanya; kenapa ia membaca bersamaku dan mendahuluiku dalam membaca Al Qur'an?" Dan di riwayatkan pula oleh \[Al Auza'i\] dari \[Az Zuhri\] dia mengatakan dalam masalah itu; "Maka kaum Muslimin pun mengambil pelajaran dari hal itu, sehingga mereka tidak lagi membaca bersama beliau shallallahu 'alaihi wasallam dalam shalat yang bacaannya di baca jahr." Abu Daud mengatakan; "saya mendengar Muhammad bin Yahya bin Faris berkata; "Mengenai perkataannya "orang-orang pun berhenti" merupakan perkataan Az Zuhri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Ibnu Ukaimah Al Laitsi] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam selesai dari shalat yang di baca Jahr (jelas), lalu beliau bersabda; "Apakah ada seseorang yang membaca (ayat) bersamaku tadi?" seorang laki-laki berkata; "Ya, wahai Rasulullah." Beliau bersabda: "Sungguh, aku berkata (dalam hati) kenapa ia membaca bersamaku dan mendahuluiku dalam membaca Al Qur'an?" Az Zuhri berkata; "Seketika itu orang-ornag yang membaca bersama Nabi shallallahu 'alaihi wasallam dalam shalat-shalat yang di baca nyaring pun berhenti, setelah mendengar hal itu dari Rasulullah shallallahu 'alaihi wasallam." Abu Daud berkata; "Hadits Ibnu Ukaimah ini juga telah di riwayatkan pula oleh [Ma'mar] dan [Yunus] serta [Usamah bin Zaid] dari [Az Zuhri] dengan makna haditsnya Malik. Telah menceritakan kepada kami [Musaddad], [Ahmad bin Muhammad Al Marwazi], [Muhammad bin Ahmad bin Abu Khalaf], [Abdullah bin Muhammad Az Zuhri] dan [Ibnu Sarh], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] saya mendengar [Ibnu Ukaimah] menceritakan kepada Sa'id bin Musayyib katanya; saya mendengar [Abu Hurairah] berkata; "Rasulullah shallallahu 'alaihi wasallam shalat bersama kami -kami mengira shalat tersebut adalah shalat shubuh- semakna dengan hadits di atas, sampai pada sabdanya; kenapa ia membaca bersamaku dan mendahuluiku dalam membaca Al Qur'an?" Musaddad berkata dalam haditsnya; Ma'mar mengatakan; "Seketika itu orang-orang berhenti dari membaca dalam shalat yang bacaannya di baca jahr (jelas, nyaring) oleh Rasulullah shallallahu 'alaihi wasallam." Ibnu As Sarh mengatakan dalam haditsnya; Ma'mar berkata dari Az Zuhri, Abu Hurairah berkata; "Orang-orang pun berhenti…" sedangkan Abdullah bin Muhammad Az Zuhri di antara mereka juga Sufyan berkata; lalu Az Zuhri mengatakan suatu perkataan yang tidak aku dengar." Ma'mar mengatakan; Bahwa az Zuhri mengatakan; "Orang-orang berhenti." Abu Daud mengatakan; "Hadits ini juga di riwayatkan [Abdurrahman bin Ishaq] dari [Az Zuhri] dan haditsnya berhenti sampai sabdanya; kenapa ia membaca bersamaku dan mendahuluiku dalam membaca Al Qur'an?" Dan di riwayatkan pula oleh [Al Auza'i] dari [Az Zuhri] dia mengatakan dalam masalah itu; "Maka kaum Muslimin pun mengambil pelajaran dari hal itu, sehingga mereka tidak lagi membaca bersama beliau shallallahu 'alaihi wasallam dalam shalat yang bacaannya di baca jahr." Abu Daud mengatakan; "saya mendengar Muhammad bin Yahya bin Faris berkata; "Mengenai perkataannya "orang-orang pun berhenti" merupakan perkataan Az Zuhri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Аз-Зухри: «Я слышал, как Ибн Укайма рассказывал Са‘иду ибн аль-Мусайябу: “Я слышал, как Абу Хурайра, да будет доволен им Аллах, говорил: “Однажды Посланник Аллаха ﷺ совершал с нами молитву, и, кажется, это была утренняя молитва…””. И он пересказал подобный хадис до слов: “Что такое, почему кто-то перебивает меня во время чтения Корана?”» Абу Дауд передаёт, что Мусаддад сказал в своей версии, что Ма‘мар сказал: «И тогда люди перестали повторять за Посланником Аллаха ﷺ когда он читал вслух».А Ибн ас-Сарх сказал в своей версии, что Мамар передал от аз-Зухри, что Абу Хурайра ﷺ сказал: «И люди прекратили». ‘Абдуллах ибн Мухаммад аз-Зухри как-то говорил, находясь среди людей.Суфьян сказал: «И аз-Зухри сказал что-то, чего я не расслышал, и Ма‘мар сказал, что он сказал: “И люди прекратили”».Абу Дауд сказал: «И его передавал Абду-р-Рахман ибн Исхак от аз-Зухри и его хадис закончился словами: “Что такое, почему меня кто-то перебивает во время чтения Корана”. И его передаёт аль-Авза‘и от аз-Зухри, и в этой версии говорится, что аз-Зухри сказал: “И мусульмане извлекли для себя урок из этого и больше не читали вместе с Пророком ﷺ когда он читал вслух”».Абу Дауд сказал: «Я слышал, как Мухаммад ибн Яхья ибн Фарис говорил: “Слова: “И люди прекратили” принадлежат аз-Зухри”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Said b. el-Museyyeb dedi ki; Ebu Hureyre (r.a)'yi "Peygamber (Sallallahu aleyhi ve Sellem) bize bir namaz kıldırdı. Sabah namazı olduğunu sanırız" derken ve bir önceki (826.) hadisin manasını "neden kıraatime karışılıyor?" sözüne kadar naklederken dinledim. Ebu Davud dediki: (Şeyhim) Müsedded, rivayetinde Ma'mer'in, ''halk bir daha Resulullah (Sallallahu aleyhi ve Sellem)'in sesli okuduğu namazlarda okuma­yı bıraktılar" dediğini söyledi. (Diğer şeyhim) İbnu's-Serh (ise), Ma'mer ve Zührî vasıtasıyla Ebu Hureyre'nin, "Halk (buna) son verdi" dediğini nakletti. (Bu şeyhlerin) arasında bulunan (diğer şeyhim) Ab­dullah b. Muhammed ez-Zuhrî de Süfyan'ın (şöyle) dediğini söyledi: “Zührî, (neden kıraatime karışılıyor?'' cümlesinden sonra) bir söz söy­ledi ama onu işitemedim fakat bunu orada bulunan Ma'mer'e sordum, o da cevab verdi:" Zührî "Halk bu işe son verdi" dedi. Ebu Davud dediki: Bu hadisi bir de Abdurrahman b. İshak, Zührî'den rivayet etmiştir. (Ancak Zührî'nin) hadisi, "neden benim kıra­atime karışılıyor" sözüne kadardır, (gerisi yoktur)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن مسیب کہتے ہیں کہ میں نے ابوہریرہ رضی اللہ عنہ کو کہتے ہوئے سنا کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں نماز پڑھائی، ہمارا گمان ہے کہ وہ نماز فجر تھی، پھر اسی مفہوم کی حدیث «ما لي أنازع القرآن» تک بیان کی۔ مسدد کی روایت میں ہے کہ معمر نے کہا: تو لوگ اس نماز میں قرآت سے رک گئے جن میں رسول اللہ صلی اللہ علیہ وسلم جہری قرآت کرتے تھے، اور ابن سرح کی روایت میں ہے کہ معمر نے زہری سے روایت کی ہے کہ ابوہریرہ رضی اللہ عنہ نے کہا: «فانتهى الناس» یعنی لوگ ( قرآت سے ) رک گئے، عبداللہ بن محمد زہری کہتے ہیں کہ سفیان نے کہا کہ زہری نے کوئی بات کہی، جسے میں سن نہ سکا تو معمر نے کہا وہ یہی «فانتهى الناس» کا کلمہ ہے۔ ابوداؤد کہتے ہیں: اور اسے عبدالرحمٰن بن اسحاق نے زہری سے روایت کیا ہے اور ان کی روایت آپ صلی اللہ علیہ وسلم کے قول «ما لي أنازع القرآن» پر ختم ہے اور اسے اوزاعی نے بھی زہری سے روایت کیا ہے، اس میں یہ ہے کہ زہری نے کہا: اس سے مسلمانوں نے نصیحت حاصل کی، چنانچہ جس نماز میں آپ جہری قرآت کرتے، آپ کے ساتھ قرآت نہیں کرتے تھے۔ ابوداؤد کہتے ہیں: میں نے محمد بن یحییٰ بن فارس کو کہتے ہو ے سنا ہے کہ «فانتهى الناس» زہری کا کلام ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>827</td></tr><tr><td>Arabic No</td><td>827</td></tr><tr><td>Reference</td><td>Book 2 Hadith 437</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 827 |
+| Arabic No | 827 |
+| Reference | Book 2 Hadith 437 |

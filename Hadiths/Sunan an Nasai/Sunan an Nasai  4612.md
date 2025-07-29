@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُثْمَانُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا سَعِيدُ بْنُ سُلَيْمَانَ، عَنْ عَبَّادِ بْنِ الْعَوَّامِ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ أَبِي رَجَاءٍ، - قَالَ عُثْمَانُ هُوَ مُحَمَّدُ بْنُ سَيْفٍ - عَنْ مَطَرٍ الْوَرَّاقِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لَيْسَ عَلَى رَجُلٍ بَيْعٌ فِيمَا لاَ يَمْلِكُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |
+
 اخبرنا عثمان بن عبد الله، قال حدثنا سعيد بن سليمان، عن عباد بن العوام، عن سعيد بن ابي عروبة، عن ابي رجاء، - قال عثمان هو محمد بن سيف - عن مطر الوراق، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم " ليس على رجل بيع فيما لا يملك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উসমান ইবন আবদুল্লাহ (রহঃ) ... আমর ইবন শুআয়ব (রহঃ) তাঁর পিতার মাধ্যমে তাঁর দাদা হতে বর্ণনা করেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তির এমন বস্তু বিক্রয় করা উচিত নয়, যার সে মালিক নয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Amr bin Shu'aib, from his father, that his grandfather said:"The Messenger of Allah said: 'No man is bound by a transaction involving the sale of something that he does not possess
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |
+
+## French
+
+Rapporté par 'Amr bin Shu'aib, d'après son père, que son grand-père a dit : "Le Messager d'Allah a dit : 'Personne n'est engagé dans une transaction qui concerne la vente de ce qu'il ne possède pas
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Utsman bin Abdullah\], ia berkata; telah menceritakan kepada kami \[Sa'id bin Sulaiman\] dari \['Abbad bin Al 'Awwam\] dari \[Sa'id bin Abu 'Arubah\] dari \[Abu Raja'\], Utsman berkata dia adalah Muhammad bin Saif dari \[Mathar\] dari \['Amru bin Syu'aib\] dari \[ayahnya\] dari \[kakeknya\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh seseorang menjual sesuatu yang tidak ia miliki
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Utsman bin Abdullah], ia berkata; telah menceritakan kepada kami [Sa'id bin Sulaiman] dari ['Abbad bin Al 'Awwam] dari [Sa'id bin Abu 'Arubah] dari [Abu Raja'], Utsman berkata dia adalah Muhammad bin Saif dari [Mathar] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh seseorang menjual sesuatu yang tidak ia miliki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4612</td></tr><tr><td>Arabic No</td><td>4612</td></tr><tr><td>Reference</td><td>Book 44 Hadith 164</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4612 |
+| Arabic No | 4612 |
+| Reference | Book 44 Hadith 164 |

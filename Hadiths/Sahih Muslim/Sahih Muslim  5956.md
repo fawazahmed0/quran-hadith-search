@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ عَمْرٌو النَّاقِدُ، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه عمرو الناقد، وابن ابي عمر، قالا حدثنا سفيان، عن ابي الزناد، بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/…) 'আমর আন্‌ নাকিদ ও ইবনু আবূ উমার (রহঃ) ..... আবূ যিনাদ (রহঃ) হতে উপরোক্ত সূত্রে হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৭৫৭, ইসলামিক সেন্টার, নেই)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The above hadith was likewise narrated with another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## French
 
+Le hadith ci-dessus a également été rapporté par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (V-17) Bize bu hadîsi Amru'n-Nakıd ile İbni Ebî Ömer de rivayet ettiler. (Dedilerki): Bize Süfyân, Ebu'z-Zinad'dan, bu isnadla bu hadîsin benzerini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفیان نے ابو زناد سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5956</td></tr><tr><td>Arabic No</td><td>2284.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5956 |
+| Arabic No | 2284.02 |
+| Reference | Book 43 Hadith 19 |

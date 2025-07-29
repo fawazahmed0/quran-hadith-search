@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَلِيُّ بْنُ نَصْرٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا الأَسْوَدُ بْنُ شَيْبَانَ، حَدَّثَنَا خَالِدُ بْنُ سُمَيْرٍ، قَالَ قَدِمَ عَلَيْنَا عَبْدُ اللَّهِ بْنُ رَبَاحٍ الأَنْصَارِيُّ مِنَ الْمَدِينَةِ وَكَانَتِ الأَنْصَارُ تُفَقِّهُهُ - فَحَدَّثَنَا قَالَ حَدَّثَنِي أَبُو قَتَادَةَ الأَنْصَارِيُّ فَارِسُ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ بَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم جَيْشَ الأُمَرَاءِ بِهَذِهِ الْقِصَّةِ ‏.‏ قَالَ فَلَمْ تُوقِظْنَا إِلاَّ الشَّمْسُ طَالِعَةً فَقُمْنَا وَهِلِينَ لِصَلاَتِنَا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ رُوَيْدًا رُوَيْدًا ‏"‏ ‏.‏ حَتَّى إِذَا تَعَالَتِ الشَّمْسُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ مَنْ كَانَ مِنْكُمْ يَرْكَعُ رَكْعَتَىِ الْفَجْرِ فَلْيَرْكَعْهُمَا ‏"‏ ‏.‏ فَقَامَ مَنْ كَانَ يَرْكَعُهُمَا وَمَنْ لَمْ يَكُنْ يَرْكَعُهُمَا فَرَكَعَهُمَا ثُمَّ أَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُنَادَى بِالصَّلاَةِ فَنُودِيَ بِهَا فَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَلَّى بِنَا فَلَمَّا انْصَرَفَ قَالَ ‏"‏ أَلاَ إِنَّا نَحْمَدُ اللَّهَ أَنَّا لَمْ نَكُنْ فِي شَىْءٍ مِنْ أُمُورِ الدُّنْيَا يَشْغَلُنَا عَنْ صَلاَتِنَا وَلَكِنَّ أَرْوَاحَنَا كَانَتْ بِيَدِ اللَّهِ عَزَّ وَجَلَّ فَأَرْسَلَهَا أَنَّى شَاءَ فَمَنْ أَدْرَكَ مِنْكُمْ صَلاَةَ الْغَدَاةِ مِنْ غَدٍ صَالِحًا فَلْيَقْضِ مَعَهَا مِثْلَهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
+
 حدثنا علي بن نصر، حدثنا وهب بن جرير، حدثنا الاسود بن شيبان، حدثنا خالد بن سمير، قال قدم علينا عبد الله بن رباح الانصاري من المدينة وكانت الانصار تفقهه - فحدثنا قال حدثني ابو قتادة الانصاري فارس رسول الله صلى الله عليه وسلم قال بعث رسول الله صلى الله عليه وسلم جيش الامراء بهذه القصة . قال فلم توقظنا الا الشمس طالعة فقمنا وهلين لصلاتنا فقال النبي صلى الله عليه وسلم " رويدا رويدا " . حتى اذا تعالت الشمس قال رسول الله صلى الله عليه وسلم " من كان منكم يركع ركعتى الفجر فليركعهما " . فقام من كان يركعهما ومن لم يكن يركعهما فركعهما ثم امر رسول الله صلى الله عليه وسلم ان ينادى بالصلاة فنودي بها فقام رسول الله صلى الله عليه وسلم فصلى بنا فلما انصرف قال " الا انا نحمد الله انا لم نكن في شىء من امور الدنيا يشغلنا عن صلاتنا ولكن ارواحنا كانت بيد الله عز وجل فارسلها انى شاء فمن ادرك منكم صلاة الغداة من غد صالحا فليقض معها مثلها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
 
 ## Bengali
 
+। খালিদ ইবনু সুমাইর সূত্রে বর্ণিত। তিনি বলেন, ‘আব্দুল্লাহ ইবনু রাবাহ আল-আনসারী (রাঃ) মাদীনাহ থেকে আমাদের এখানে আসলেন। আনসারগণ তাঁকে জ্ঞানী লোক (বিশিষ্ট ফাক্বীহ) হিসেবে গণ্য করতেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঘোড়া রক্ষক আবূ ক্বাতাদাহ্ আল-আনসারী (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুতার যুদ্ধে সামরিক বাহিনী প্রেরণ করলেন। তারপর পূর্ববর্তী হাদীসের অনুরূপ। বর্ণনাকারী আবূ ক্বাতাদাহ্ (রাঃ) বলেন, সূর্যোদয় না হওয়া পর্যন্ত আমাদের ঘুম ভাঙ্গল না। অতঃপর আমরা সালাতের জন্য অস্থির ও ভীত অবস্থায় জাগ্রত হলাম। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ শান্ত হও, শান্ত হও। এমনকি সূর্য উঁচুতে উঠে গেল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের মধ্যকার যারা ফজরের দুই রাক‘আত সুন্নাত আদায়ে অভ্যস্ত তারা যেন তা আদায় করে নেয়। এ কথা শুনে যারা ঐ দুই রাক‘আত সুন্নাত আদায় করত এবং যারা আদায় করত না তারা সকলেই দুই রাক‘আত সুন্নাত আদায় করে নিল। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের আযান দেয়ার নির্দেশ দিলে আযান দেয়া হলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে সালাত আদায় করলেন এবং সালাত শেষে বললেনঃ জেনে রাখ, আমরা আল্লাহরই প্রশংসা করছি, দুনিয়ার কোন কাজ আমাদেরকে আমাদের সালাত থেকে বিরত রাখেনি। বরং আমাদের রূহগুলো আল্লাহর হাতে নিবদ্ধ ছিল। তিনি স্বীয় ইচ্ছা মোতাবেক তা ছেড়েছেন। অতএব তোমাদের কেউ আগামীকাল নির্ধারিত সময়ে ফজরর সালাত পেলে সে যেন তার সাথে অনুরূপ আরেক ওয়াক্ত সালাত (অর্থাৎ এ ক্বাযা সালাতটিও) আদায় করে নেয়।\[1\] শায।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। খালিদ ইবনু সুমাইর সূত্রে বর্ণিত। তিনি বলেন, ‘আব্দুল্লাহ ইবনু রাবাহ আল-আনসারী (রাঃ) মাদীনাহ থেকে আমাদের এখানে আসলেন। আনসারগণ তাঁকে জ্ঞানী লোক (বিশিষ্ট ফাক্বীহ) হিসেবে গণ্য করতেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঘোড়া রক্ষক আবূ ক্বাতাদাহ্ আল-আনসারী (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুতার যুদ্ধে সামরিক বাহিনী প্রেরণ করলেন। তারপর পূর্ববর্তী হাদীসের অনুরূপ। বর্ণনাকারী আবূ ক্বাতাদাহ্ (রাঃ) বলেন, সূর্যোদয় না হওয়া পর্যন্ত আমাদের ঘুম ভাঙ্গল না। অতঃপর আমরা সালাতের জন্য অস্থির ও ভীত অবস্থায় জাগ্রত হলাম। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ শান্ত হও, শান্ত হও। এমনকি সূর্য উঁচুতে উঠে গেল। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের মধ্যকার যারা ফজরের দুই রাক‘আত সুন্নাত আদায়ে অভ্যস্ত তারা যেন তা আদায় করে নেয়। এ কথা শুনে যারা ঐ দুই রাক‘আত সুন্নাত আদায় করত এবং যারা আদায় করত না তারা সকলেই দুই রাক‘আত সুন্নাত আদায় করে নিল। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের আযান দেয়ার নির্দেশ দিলে আযান দেয়া হলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের নিয়ে সালাত আদায় করলেন এবং সালাত শেষে বললেনঃ জেনে রাখ, আমরা আল্লাহরই প্রশংসা করছি, দুনিয়ার কোন কাজ আমাদেরকে আমাদের সালাত থেকে বিরত রাখেনি। বরং আমাদের রূহগুলো আল্লাহর হাতে নিবদ্ধ ছিল। তিনি স্বীয় ইচ্ছা মোতাবেক তা ছেড়েছেন। অতএব তোমাদের কেউ আগামীকাল নির্ধারিত সময়ে ফজরর সালাত পেলে সে যেন তার সাথে অনুরূপ আরেক ওয়াক্ত সালাত (অর্থাৎ এ ক্বাযা সালাতটিও) আদায় করে নেয়।[1] শায।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Khalid b. Sumair said:'Abd Allah b. Rabah al-Ansari, whom the Ansar called faqih (juries), came to us from Medina, and reported us on the authority of Abu Qatadah al-Ansari, the horseman of the Messenger of Allah (ﷺ) saying: The Messenger of Allah (ﷺ) sent a military expedition consisting of the chief Companions. He then narrated the same story, saying Nothing awakened us except the rising sun. We stoop up in bewilderment, for our prayer. The Prophet (ﷺ) said: Wait a little, wait a little. When the sun rose high, the Messenger of Allah (ﷺ) said: Those who sued to observer the two rak'ahs of Fajr prayer (sunnah prayer before obligatory prayer) should observe them. Then those who used to observe and those who would not observe stood up and said prayer. Then the Messenger of Allah (ﷺ) commanded to call for prayer; the call for prayer was made accordingly. The Messenger of Allah (ﷺ) stood and led us in prayer. When he turned away (from the prayer) he said: We thank Allah for the fact that we were not engaged in any wordily affairs which detained us from our prayer. Instead our souls were in the hands of Allah. He released them whenever He wished. If any one of you gets morning prayer tomorrow at its proper time, he should offer a similar prayer as an atonement
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
+
+## French
+
+Khalid b. Sumair a dit : ‘Abd Allah b. Rabah al-Ansari, que les Ansar appelaient le juriste, est venu chez nous de Médine et nous a rapporté, d’après Abu Qatadah al-Ansari, le cavalier du Messager d’Allah ﷺ, que le Messager d’Allah ﷺ avait envoyé une expédition militaire composée des principaux compagnons. Il a ensuite raconté la même histoire, disant : « Rien ne nous a réveillés sauf le lever du soleil. Nous nous sommes levés, déconcertés, pour la prière. Le Prophète ﷺ a dit : “Attendez un peu, attendez un peu.” Quand le soleil s’est élevé, le Messager d’Allah ﷺ a dit : “Ceux qui avaient l’habitude de faire les deux rak‘as de la prière du Fajr (la prière surérogatoire avant l’obligatoire) doivent les accomplir.” Alors, ceux qui avaient l’habitude de les faire et ceux qui ne les faisaient pas se sont levés et ont prié. Ensuite, le Messager d’Allah ﷺ a ordonné d’appeler à la prière ; l’appel a été fait. Le Messager d’Allah ﷺ s’est levé et nous a dirigés dans la prière. Lorsqu’il s’est retourné (après la prière), il a dit : “Nous remercions Allah de ne pas avoir été occupés par des affaires mondaines qui nous auraient empêchés de prier. Nos âmes étaient entre les mains d’Allah. Il les libère quand Il le veut. Si l’un de vous accomplit la prière du matin demain à son heure, qu’il fasse une prière similaire en réparation.” »
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dari \[Tsabit Al Bunani\] dari \[Abdullah bin Rabah Al Anshari\] telah menceritakan kepada kami \[Abu Qatadah\] bahwasanya Nabi Shallallahu alaihi wasallam pernah melakukan suatu safar, tiba-tiba beliau menyimpang dari jalan dan aku pun mengikuti beliau. Beliau bersabda: "Lihatlah (apakah engkau melihat seseorang)?" Saya berkata; Ada seorang penunggang kuda, dua, dan tiga. Hingga kami berjalan bertujuh. Beliau lalu bersabda: "Jagalah shalat kita, yakni shalat Fajar. Lalu telinga-telinga mereka tertutupi (tidak mendengar apa-apa karena tertidur pulas), sehingga tidak ada yang membangunkan mereka kecuali panasnya matahari. Mereka berjalan sebentar, kemudian singgah di suatu tempat dan berwudhu. Bilal mengumandangkan adzan, kemudian mereka shalat sunnah dua rakaat sebelum fajar, lalu shalat fajar dan berjalan kembali. Sebagian mereka berkata kepada sebagian yang lain; Kita telah lalai dalam shalat kita. Maka Nabi Shallallahu alaihi wasallam bersabda: "Tidak ada sikap lalai dalam tidur, sesungguhnya kelalaian itu hanya ada ketika terjaga. Apabila salah seorang di antara kalian lupa shalat, maka shalatlah ketika dia ingat pada waktu yang sama di keesokan harinya. Telah menceritakan kepada kami \[Ali bin Nadlr\] telah menceritakan kepada kami \[Wahb bin Jarir\] telah menceritakan kepada kami \[Al Aswad bin Syaiban\] telah menceritakan kepada kami \[Khalid bin Sumair\] dia berkata; \[Abdullah bin Rabah Al Anshari\] datang kepada kami dari Madinah, orang-orang Anshar menganggapnya sebagai orang yang fakih. Lalu dia menceritakan kepada kami, dia berkata; Telah menceritakan kepadaku \[Abu Qatadah Al Anshari\], penunggang kuda Rasulullah Shallallahu alaihi wasallam, dia berkata; Rasulullah Shallallahu alaihi wasallam pernah mengutus pasukan para pemimpin (Jaisy Al Umara') dengan kisah ini. Dia berkata; Tidak ada yang membangunkan kami kecuali matahari yang telah terbit tinggi. Maka kami pun bangun sangat kaget dan takut karena belum shalat. Nabi Shallallahu alaihi wasallam bersabda: "Pelan-pelanlah." Hingga tatkala matahari telah meninggi, Rasulullah Shallallahu alaihi wasallam bersabda: "Barangsiapa di antara kalian yang mau shalat sunnah dua rakaat fajar silahkan melakukannya." lalu Rasulullah Shallallahu alaihi wasallam memerintahkan adzan shalat, lalu beliau shalat mengimami kami. Seusai shalat beliau bersabda: "Ketahuilah, sesungguhnya kita bersyukur kepada Allah karena tidak sedang berada pada urusan dunia yang menyibukkan kita dari shalat, akan tetapi ruh-ruh kita ada di tangan Allah Azza wa Jalla, Dia membebaskannya kapan Dia mau. Barangsiapa di antara kalian yang mendapatkan shalat shubuh di esok hari, maka qadla'lah ia bersamanya. Telah menceritakan kepada kami \[Amr bin Aun\] telah mengabarkan kepada kami \[Khalid\] dari \[Hushain\] dari \[Ibnu Abu Qatadah\] dari \[Abu Qatadah\] dalam hadits ini. Dia menyebutkan; Rasulullah Shallallahu alaihi wasallam bersabda: "Sesungguhnya Allah menggenggam ruh-ruh kalian sesuai dengan KehendakNya dan melepaskannya sesuai dengan kehendakNya. Bangkit dan kumandangkanlah adzan shalat." Maka mereka pun bangkit dan bersuci, hingga tatkala matahari telah meninggi, Nabi Shallallahu alaihi wasallam berdiri dan shalat mengimami para sahabat. Telah menceritakan kepada kami \[Hannad\] telah menceritakan kepada kami \['Abtsar\] dari \[Hushain\] dari \[Abdullah bin Abu Qatadah\] dari \[Ayahnya\] dari Nabi Shallallahu alaihi wasallam dengan makna yang sama. Dia menyebutkan; Lalu beliau berwudlu tatkala matahari telah meninggi kemudian shalat mengimami mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani] dari [Abdullah bin Rabah Al Anshari] telah menceritakan kepada kami [Abu Qatadah] bahwasanya Nabi Shallallahu alaihi wasallam pernah melakukan suatu safar, tiba-tiba beliau menyimpang dari jalan dan aku pun mengikuti beliau. Beliau bersabda: "Lihatlah (apakah engkau melihat seseorang)?" Saya berkata; Ada seorang penunggang kuda, dua, dan tiga. Hingga kami berjalan bertujuh. Beliau lalu bersabda: "Jagalah shalat kita, yakni shalat Fajar. Lalu telinga-telinga mereka tertutupi (tidak mendengar apa-apa karena tertidur pulas), sehingga tidak ada yang membangunkan mereka kecuali panasnya matahari. Mereka berjalan sebentar, kemudian singgah di suatu tempat dan berwudhu. Bilal mengumandangkan adzan, kemudian mereka shalat sunnah dua rakaat sebelum fajar, lalu shalat fajar dan berjalan kembali. Sebagian mereka berkata kepada sebagian yang lain; Kita telah lalai dalam shalat kita. Maka Nabi Shallallahu alaihi wasallam bersabda: "Tidak ada sikap lalai dalam tidur, sesungguhnya kelalaian itu hanya ada ketika terjaga. Apabila salah seorang di antara kalian lupa shalat, maka shalatlah ketika dia ingat pada waktu yang sama di keesokan harinya. Telah menceritakan kepada kami [Ali bin Nadlr] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [Al Aswad bin Syaiban] telah menceritakan kepada kami [Khalid bin Sumair] dia berkata; [Abdullah bin Rabah Al Anshari] datang kepada kami dari Madinah, orang-orang Anshar menganggapnya sebagai orang yang fakih. Lalu dia menceritakan kepada kami, dia berkata; Telah menceritakan kepadaku [Abu Qatadah Al Anshari], penunggang kuda Rasulullah Shallallahu alaihi wasallam, dia berkata; Rasulullah Shallallahu alaihi wasallam pernah mengutus pasukan para pemimpin (Jaisy Al Umara') dengan kisah ini. Dia berkata; Tidak ada yang membangunkan kami kecuali matahari yang telah terbit tinggi. Maka kami pun bangun sangat kaget dan takut karena belum shalat. Nabi Shallallahu alaihi wasallam bersabda: "Pelan-pelanlah." Hingga tatkala matahari telah meninggi, Rasulullah Shallallahu alaihi wasallam bersabda: "Barangsiapa di antara kalian yang mau shalat sunnah dua rakaat fajar silahkan melakukannya." lalu Rasulullah Shallallahu alaihi wasallam memerintahkan adzan shalat, lalu beliau shalat mengimami kami. Seusai shalat beliau bersabda: "Ketahuilah, sesungguhnya kita bersyukur kepada Allah karena tidak sedang berada pada urusan dunia yang menyibukkan kita dari shalat, akan tetapi ruh-ruh kita ada di tangan Allah Azza wa Jalla, Dia membebaskannya kapan Dia mau. Barangsiapa di antara kalian yang mendapatkan shalat shubuh di esok hari, maka qadla'lah ia bersamanya. Telah menceritakan kepada kami [Amr bin Aun] telah mengabarkan kepada kami [Khalid] dari [Hushain] dari [Ibnu Abu Qatadah] dari [Abu Qatadah] dalam hadits ini. Dia menyebutkan; Rasulullah Shallallahu alaihi wasallam bersabda: "Sesungguhnya Allah menggenggam ruh-ruh kalian sesuai dengan KehendakNya dan melepaskannya sesuai dengan kehendakNya. Bangkit dan kumandangkanlah adzan shalat." Maka mereka pun bangkit dan bersuci, hingga tatkala matahari telah meninggi, Nabi Shallallahu alaihi wasallam berdiri dan shalat mengimami para sahabat. Telah menceritakan kepada kami [Hannad] telah menceritakan kepada kami ['Abtsar] dari [Hushain] dari [Abdullah bin Abu Qatadah] dari [Ayahnya] dari Nabi Shallallahu alaihi wasallam dengan makna yang sama. Dia menyebutkan; Lalu beliau berwudlu tatkala matahari telah meninggi kemudian shalat mengimami mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Нам рассказал Халид ибн Сумайр, который сказал: «Однажды к нам из Медины приехал ‘Абдуллах ибн Рабах аль-Ансари, которому ансары приписывали понимание религии и он рассказал нам, сказав следующее: “Абу Катада аль-Ансари (один) из рыцарей Посланника Аллаха ﷺ сообщил мне о том, что Посланник Аллаха ﷺ отправился в поход (который назвали) “Джайш аль-умараъ”», (и далее он привел) эту историю. И мы не просыпались, пока не взошло солнце и встали напуганные из-за того (что пропустили) молитву, но Пророк ﷺ сказал: “Тихо, тихо!” А когда солнце поднялось высоко, Посланник Аллаха ﷺ сказал: “Тот из вас, кто обычно совершает два рак‘ата (перед) утренней молитвой, пусть совершает их (и сейчас)”. И те, кто совершил их и те, кто ещё не сделал этого, встали и совершили молитву, а затем Посланник Аллаха ﷺ велел сделать призыв к молитве и когда это сделали, Посланник Аллаха ﷺ встал и совершил с нами молитву. Когда он закончил, он сказал “Разве мы не восхваляем Аллаха, что нас от молитвы не отвлекли дела этого мира? Однако, наши души были в руках Великого и Всемогущего Аллаха и Он вернул их когда захотел. И тот из вас, кто застанет утреннюю молитву на следующий день (в обычное время), пусть восполнит ее с ней”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Halid bin Sümeyr demiştir ki; Ensar'ın kendisini fakih tanıdığı Abdullah b. Rebah el-Ensari, Medine'den bize gelip şöyle haber verdi: Resulullah (Sallallahu aleyhi ve Sellem)'in süvarisi Ebu Katade: Resulullah (Sallallahu aleyhi ve Sellem) emirler ordusunu gönderdi dedi ve önceki hadiste geçen hadiseyi anlattı. (Ebu Katade devamla): Bizi ancak doğmakta olan güneş uyandırdı. Namazımız (geçti) diye korku ile kalktık. Efendimiz güneş yükselinceye kadar: "Yavaş olun, acele etmeyin" buyurdu. (Güneş yükselince Resulullah): "Sizden, sabah namazının (sünnet olan) iki rekatini devamlı kılmakta olanlar (şimdi de) kılsın" buyurdu. Bunun üzerine önceden (sünnet olan) iki rekati kılmayı itiyad eden de, etmeyende kalkıp kıldı. Sonra Resulullah (Sallallahu aleyhi ve Sellem) namaz için ezan okunmasını emretti. Ezan okundu ve Efendimiz kalkıp bize namazı kıldırdı. Namazı bitirince: "Dikkat ediniz! Allah'a hamdederiz ki, biz, bizi namazdan alıkoyan dünya işlerinden bir şeyde değildik. Fakat ruhlarımız Allah'ın elindedir (uyuyorduk). Allah (celle celaluhu) ruhlarımızı, dilediği zaman gönderir. Siz'den her kim yarının sabah namazına vaktinde yetişirse, onunla birlikte onun gibisini (bugün vaktinde kılamadığı sabah namazını) kaza etsin" buyurdu. Diğer tahric: Darimi, siyer; Ahmed b. Hanbel, V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 خالد بن سمیر کہتے ہیں کہ مدینہ سے عبداللہ بن رباح انصاری جنہیں انصار مدینہ فقیہ کہتے تھے ہمارے پاس آئے اور انہوں نے ہم سے بیان کیا کہ مجھ سے ابوقتادہ انصاری رضی اللہ عنہ نے جو رسول اللہ صلی اللہ علیہ وسلم کے شہسوار تھے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے مسلمانوں کا ایک لشکر بھیجا ( اور پھر یہی قصہ بیان کیا ) ، اس میں ہے: تو سورج کے نکلنے ہی نے ہمیں جگایا، ہم گھبرائے ہوئے اپنی نماز کے لیے اٹھے، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ٹھہرو، ٹھہرو، یہاں تک کہ جب سورج چڑھ آیا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم میں سے جو لوگ فجر کی دو رکعت سنت پڑھا کرتے تھے پڑھ لیں ، چنانچہ جو لوگ سنت پڑھا کرتے تھے اور جو نہیں پڑھتے تھے، سبھی سنت پڑھنے کے لیے کھڑے ہو گئے اور سبھوں نے دو رکعت سنت ادا کی، اس کے بعد رسول اللہ صلی اللہ علیہ وسلم نے نماز کے لیے اذان دینے کا حکم فرمایا، اذان دی گئی پھر آپ صلی اللہ علیہ وسلم نماز کے لیے کھڑے ہوئے، آپ صلی اللہ علیہ وسلم نے ہمیں نماز پڑھائی، جب نماز سے فارغ ہوئے تو آپ صلی اللہ علیہ وسلم نے فرمایا: سنو! ہم اللہ تعالیٰ کا شکر ادا کرتے ہیں کہ ہم دنیا کے کسی کام میں نہیں پھنسے تھے، جس نے ہم کو نماز سے باز رکھا ہو، ہماری روحیں تو اللہ تعالیٰ کے ہاتھ میں تھیں، جب اس نے چاہا انہیں چھوڑا، تم میں سے جو شخص کل فجر ٹھیک وقت پر پائے وہ اس کے ساتھ ایسی ہی ایک اور نماز پڑھ لے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>438</td></tr><tr><td>Arabic No</td><td>438</td></tr><tr><td>Reference</td><td>Book 2 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 438 |
+| Arabic No | 438 |
+| Reference | Book 2 Hadith 48 |

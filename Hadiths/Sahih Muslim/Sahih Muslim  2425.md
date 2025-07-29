@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد بن حميد، اخبرنا عبد الرزاق، اخبرنا معمر، عن الزهري، بهذا الاسناد . نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) এর সূত্রেও অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন, ২২৯৩, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Zuhri with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## French
 
+Rapporté par Zuhri : Ce hadith a été rapporté par Zuhri avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Abd b. Humeyd rivayet etti. (Dediki): Bize Abdürrazzâk haber verdi. (Dediki): Bize Ma'mer, Zühri'den bu isnâdla bu hadis'in mislini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معمر نے زہری سے اسی سند کے ساتھ اسی طرح روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2425</td></tr><tr><td>Arabic No</td><td>1053.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 162</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2425 |
+| Arabic No | 1053.02 |
+| Reference | Book 12 Hadith 162 |

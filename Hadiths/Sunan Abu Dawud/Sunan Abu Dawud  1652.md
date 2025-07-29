@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا أَبِي، عَنْ خَالِدِ بْنِ قَيْسٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم وَجَدَ تَمْرَةً فَقَالَ ‏ "‏ لَوْلاَ أَنِّي أَخَافُ أَنْ تَكُونَ صَدَقَةً لأَكَلْتُهَا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ هِشَامٌ عَنْ قَتَادَةَ هَكَذَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
+
 حدثنا نصر بن علي، اخبرنا ابي، عن خالد بن قيس، عن قتادة، عن انس، ان النبي صلى الله عليه وسلم وجد تمرة فقال " لولا اني اخاف ان تكون صدقة لاكلتها " . قال ابو داود رواه هشام عن قتادة هكذا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পথে একটি খেজুর পেয়ে বলেনঃ আমি এটি যাকাতের খেজুর হওয়ার আশংকা না করলে এটি খেতাম।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পথে একটি খেজুর পেয়ে বলেনঃ আমি এটি যাকাতের খেজুর হওয়ার আশংকা না করলে এটি খেতাম।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas said:Messenger of Allah (May peace be upon him) found a date and said: Were it not that I fear it may be part of the sadaqah, I would eat it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
+
+## French
+
+Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a trouvé une datte et a dit : « Si je n’avais pas peur qu’elle fasse partie de la sadaqah, je l’aurais mangée. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Nashr bin Ali\], telah mengabarkan kepada Kami \[ayahku\] dari \[Khalid bin Qais\] dari \[Qatadah\] dari \[Anas\] bahwa Nabi shallallahu 'alaihi wasallam mendapatkan sebuah kurma kemudian berkata; seandainya aku tidak khawatir kurma tersebut merupakan kurma zakat niscaya aku memakannya. Abu Daud berkata; \[Hisyam\] meriwayatkannya dari \[Qatadah\] seperti ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Nashr bin Ali], telah mengabarkan kepada Kami [ayahku] dari [Khalid bin Qais] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam mendapatkan sebuah kurma kemudian berkata; seandainya aku tidak khawatir kurma tersebut merupakan kurma zakat niscaya aku memakannya. Abu Daud berkata; [Hisyam] meriwayatkannya dari [Qatadah] seperti ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса (ибн Малик), да будет доволен им Аллах, что однажды Пророк ﷺ нашёл финик и сказал: «Если бы я не опасался, что он может оказаться частью закята, я бы съел его»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a.)'den rivayet edildiğine göre, Nebi (s.a.v.) (yerde) bir hurma buldu da: "Zekât olmasından korkmasaydım, onu yerdim" buyurdu. Buhari, buyu', lukata; Müslim, zekât; Ahmed b. Hanbel II, 317; III, 132, 193, 292. Ebû Dâvûd dedi ki: Hişâm bunu Katâde'den böyle rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے ایک کھجور ( پڑی ) پائی تو فرمایا: اگر مجھے یہ اندیشہ نہ ہو تاکہ یہ صدقے کی ہو گی تو میں اسے کھا لیتا ۔ ابوداؤد کہتے ہیں: ہشام نے بھی اسے قتادہ سے اسی طرح روایت کیا ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2055) Sahih Muslim (1071)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1652</td></tr><tr><td>Arabic No</td><td>1652</td></tr><tr><td>Reference</td><td>Book 9 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2055) Sahih Muslim (1071) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1652 |
+| Arabic No | 1652 |
+| Reference | Book 9 Hadith 97 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي إِبْرَاهِيمُ بْنُ الْحَسَنِ، عَنْ حَجَّاجٍ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرًا، يَقُولُ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ بَيْعِ ضِرَابِ الْجَمَلِ وَعَنْ بَيْعِ الْمَاءِ وَبَيْعِ الأَرْضِ لِلْحَرْثِ يَبِيعُ الرَّجُلُ أَرْضَهُ وَمَاءَهُ فَعَنْ ذَلِكَ نَهَى النَّبِيُّ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 44 Hadith 222</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |
+
 اخبرني ابراهيم بن الحسن، عن حجاج، قال قال ابن جريج اخبرني ابو الزبير، انه سمع جابرا، يقول نهى رسول الله صلى الله عليه وسلم عن بيع ضراب الجمل وعن بيع الماء وبيع الارض للحرث يبيع الرجل ارضه وماءه فعن ذلك نهى النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 44 Hadith 222</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবরাহীম ইবন হাসান (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঊটের পাল দেওয়ার বিনিময় গ্রহণ করতে, পানি বিক্রয় করতে এবং কৃষিযোগ্য জমি বিক্রয় করতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 44 Hadith 222</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir said:"The Messenger of Allah forbade charging stud fees for a camel, the sale of water, the renting of land for cultivation. Selling one's land and water, this is what the Prophet forbade
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 44 Hadith 222</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |
+
+## French
+
+Rapporté par Jabir : Le Messager d’Allah ﷺ a interdit de demander des frais pour la saillie d’un chameau, la vente de l’eau, et la location de terres pour la culture. Vendre sa terre et son eau, c’est cela que le Prophète a interdit
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ibrahim bin Al Hasan\] dari \[Hajjaj\], ia berkata; telah berkata \[Ibnu Juraij\]; telah mengabarkan kepadaku \[Abu Az Zubair\] bahwa ia telah mendengar \[Jabir\] berkata; Rasulullah shallallahu 'alaihi wasallam melarang dari menjual pengawinan unta, dan dari menjual air, menjual tanah bercocok tanam, yaitu seseorang menjual tanahnya dan airnya. Maka dari hal tersebut Nabi shallallahu 'alaihi wasallam melarang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ibrahim bin Al Hasan] dari [Hajjaj], ia berkata; telah berkata [Ibnu Juraij]; telah mengabarkan kepadaku [Abu Az Zubair] bahwa ia telah mendengar [Jabir] berkata; Rasulullah shallallahu 'alaihi wasallam melarang dari menjual pengawinan unta, dan dari menjual air, menjual tanah bercocok tanam, yaitu seseorang menjual tanahnya dan airnya. Maka dari hal tersebut Nabi shallallahu 'alaihi wasallam melarang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 44 Hadith 222</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 44 Hadith 222</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4670</td></tr><tr><td>Arabic No</td><td>4670</td></tr><tr><td>Reference</td><td>Book 44 Hadith 222</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4670 |
+| Arabic No | 4670 |
+| Reference | Book 44 Hadith 222 |

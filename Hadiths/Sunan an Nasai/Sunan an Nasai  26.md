@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُؤَمَّلُ بْنُ هِشَامٍ، قَالَ أَنْبَأَنَا إِسْمَاعِيلُ، قَالَ أَخْبَرَنَا شُعْبَةُ، عَنْ سُلَيْمَانَ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَتَى سُبَاطَةَ قَوْمٍ فَبَالَ قَائِمًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
+
 اخبرنا مومل بن هشام، قال انبانا اسماعيل، قال اخبرنا شعبة، عن سليمان، عن ابي وايل، عن حذيفة، ان رسول الله صلى الله عليه وسلم اتى سباطة قوم فبال قايما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুআম্মাল ইবনু হিশাম (রহঃ) ... হুযায়ফা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের আবর্জনা ফেলার স্থানে আসেন এবং (সেখানে) দাঁড়িয়ে পেশাব করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Hudhifah that the Messenger of Allah (ﷺ)came to some people's garbage dump and urinated while standing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
+
+## French
+
+Rapporté par Hudhayfah : Le Messager d’Allah (ﷺ) est allé sur une décharge et a uriné debout
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muammal bin Hisyam\] dia berkata; Telah memberitakan kepada kami \[Ismail\] berkata; Telah mengabarkan kepada kami \[Syu'bah\] dari \[Sulaiman\] dari \[Abu Wa'il\] dari \[Hudzaifah\] "Rasulullah shallallahu 'alaihi wasallam pernah mendatangi tempat pembuangan sampah suatu kaum, lalu ia buang air kecil dengan berdiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muammal bin Hisyam] dia berkata; Telah memberitakan kepada kami [Ismail] berkata; Telah mengabarkan kepada kami [Syu'bah] dari [Sulaiman] dari [Abu Wa'il] dari [Hudzaifah] "Rasulullah shallallahu 'alaihi wasallam pernah mendatangi tempat pembuangan sampah suatu kaum, lalu ia buang air kecil dengan berdiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حذیفہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم لوگوں کے کوڑا خانہ پر آئے تو کھڑے ہو کر پیشاب کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |

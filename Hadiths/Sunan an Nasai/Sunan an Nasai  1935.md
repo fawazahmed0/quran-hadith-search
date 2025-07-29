@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنِي أَحْمَدُ بْنُ إِسْحَاقَ، قَالَ حَدَّثَنَا وُهَيْبٌ، قَالَ حَدَّثَنَا مَنْصُورُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أُمِّهِ، عَنْ عَائِشَةَ، قَالَتْ ذُكِرَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم هَالِكٌ بِسُوءٍ فَقَالَ ‏ "‏ لاَ تَذْكُرُوا هَلْكَاكُمْ إِلاَّ بِخَيْرٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |
+
 اخبرنا ابراهيم بن يعقوب، قال حدثني احمد بن اسحاق، قال حدثنا وهيب، قال حدثنا منصور بن عبد الرحمن، عن امه، عن عايشة، قالت ذكر عند النبي صلى الله عليه وسلم هالك بسوء فقال " لا تذكروا هلكاكم الا بخير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবরাহীম ইবনু ইয়া'কুব (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সামনে এক মৃত ব্যক্তি সম্পর্কে মন্দ মন্তব্য করা হলে তিনি বললেন, তোমরা মৃত ব্যক্তিদের সম্পর্কে ভাল মন্তব্য ছাড়া মন্তব্য করবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"Something bad was said in the presence of the Prophet about a person who had died. He said: 'Do not say anything but good about your dead
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |
+
+## French
+
+Rapporté par 'Aishah رضي الله عنها : "Quelqu’un a dit du mal d’une personne décédée en présence du Prophète ﷺ. Il a dit : 'Ne dites que du bien de vos morts
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ibrahim bin Ya'qub\] dia berkata; telah menceritakan kepadaku \[Ahmad bin Ishaq\] dia berkata; telah menceritakan kepada kami \[Wuhaib\] dia berkata; telah menceritakan kepada kami \[Manshur bin 'Abdurrahman\] dari \[ibunya\] dari \['Aisyah\] dia berkata; "Kejelekan seorang yang telah meninggal dunia pernah disebutkan di hadapan Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah kalian menyebutkan orang-orang yang telah meninggal dunia di antara kalian kecuali dengan kebaikan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ibrahim bin Ya'qub] dia berkata; telah menceritakan kepadaku [Ahmad bin Ishaq] dia berkata; telah menceritakan kepada kami [Wuhaib] dia berkata; telah menceritakan kepada kami [Manshur bin 'Abdurrahman] dari [ibunya] dari ['Aisyah] dia berkata; "Kejelekan seorang yang telah meninggal dunia pernah disebutkan di hadapan Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah kalian menyebutkan orang-orang yang telah meninggal dunia di antara kalian kecuali dengan kebaikan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے پاس ایک مرے ہوئے شخص کا ذکر برائی سے کیا گیا، تو آپ نے فرمایا: ”تم اپنے مردوں کا ذکر صرف بھلائی کے ساتھ کیا کرو“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1935</td></tr><tr><td>Arabic No</td><td>1935</td></tr><tr><td>Reference</td><td>Book 21 Hadith 118</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1935 |
+| Arabic No | 1935 |
+| Reference | Book 21 Hadith 118 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ يَحْيَى، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، أَنَّهُ قَالَ إِنَّ مِنْ سُنَّةِ الصَّلاَةِ أَنْ تُضْجِعَ رِجْلَكَ الْيُسْرَى وَتَنْصِبَ الْيُمْنَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |
+
 اخبرنا قتيبة بن سعيد، قال حدثنا الليث، عن يحيى، عن القاسم بن محمد، عن عبد الله بن عبد الله بن عمر، عن ابيه، انه قال ان من سنة الصلاة ان تضجع رجلك اليسرى وتنصب اليمنى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা ইবনু সায়ীদ (রহঃ) ... আব্দুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, সালাতের নিয়মের মধ্যে এটাও যে, তুমি তোমার বাম পা বিছিয়ে রাখবে এবং ডান পা খাড়া রাখবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdullah bin 'Abdullah bin 'Umar that his father said:"One of the sunnahs of the prayer is to spread your left foot beneath you, and hold your right foot upright
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Abdullah bin 'Umar, d’après son père : Une des traditions de la prière est de placer son pied gauche sous soi et de garder le pied droit dressé
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah bin Sa'id\] dia berkata; telah menceritakan kepada kami \[Al Laits\] dari \[Yahya\] dari \[Al Qasim bin Muhammad\] dari \['Abdullah bin 'Abdullah bin 'Umar\] dari \[bapaknya\] dia berkata; "Termasuk sunnah shalat adalah engkau menidurkan kaki kiri dan menegakkan kaki kanan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah bin Sa'id] dia berkata; telah menceritakan kepada kami [Al Laits] dari [Yahya] dari [Al Qasim bin Muhammad] dari ['Abdullah bin 'Abdullah bin 'Umar] dari [bapaknya] dia berkata; "Termasuk sunnah shalat adalah engkau menidurkan kaki kiri dan menegakkan kaki kanan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ نماز کی سنت میں سے یہ بات ہے کہ تم اپنے بائیں پیر کو بچھاؤ اور دائیں کو کھڑا رکھو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1157</td></tr><tr><td>Arabic No</td><td>1157</td></tr><tr><td>Reference</td><td>Book 12 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1157 |
+| Arabic No | 1157 |
+| Reference | Book 12 Hadith 129 |

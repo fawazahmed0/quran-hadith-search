@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا إِسْحَاقُ، أَخْبَرَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَمْرٍو، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ، عَنِ الْحَكَمِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا اسحاق، اخبرنا زكرياء بن عدي، عن عبيد الله بن عمرو، عن زيد بن ابي انيسة، عن الحكم، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক (রহঃ) ..... হাকাম (রহঃ) হতে একই সূত্রে অবিকল হাদীস বর্ণিত আছে। (ইসলামিক ফাউন্ডেশনঃ ৫৩১, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith is narrated by Ubaidullah b. 'Amr and Zaid b. Abu Unaisa with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## French
 
+Rapporté par Ubaidullah ibn ‘Amr et Zaid ibn Abu Unaisa, selon la même chaîne de transmission : Le Messager d’Allah ﷺ a fixé les mêmes durées pour l’essuyage sur les chaussettes
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Шурайх ибн Хани сказал: «(В своё время) я спросил у ‘Аиши об обтирании кожаных носков, и она сказала: “Иди к ‘Али (и спроси у него), ибо он знает об этом лучше меня”. Тогда я пришёл к ‘Али …», и (далее) он передал от Пророка ﷺ хадис, подобный предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize İshak da rivayet etti (Dediki): Bize Zekeriyya b. Adiy, Ubeydullah b. Amr'dan, o da Zeyd b. Ebi Üneyse'den, o da Hakem'den bu isnadla bu hadisin mislini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زید بن ابی انیسہ نے حکم سے مذکورہ سند کے ساتھ اس ( سابقہ حدیث ) کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>640</td></tr><tr><td>Arabic No</td><td>276.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 640 |
+| Arabic No | 276.02 |
+| Reference | Book 2 Hadith 106 |

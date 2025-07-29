@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَابْنُ، أَبِي عُمَرَ عَنِ ابْنِ عُيَيْنَةَ، كِلاَهُمَا عَنِ الأَسْوَدِ بْنِ قَيْسٍ، بِهَذَا الإِسْنَادِ وَقَالاَ عَلَى اسْمِ اللَّهِ ‏.‏ كَحَدِيثِ أَبِي الأَحْوَصِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه قتيبة بن سعيد، حدثنا ابو عوانة، ح وحدثنا اسحاق بن ابراهيم، وابن، ابي عمر عن ابن عيينة، كلاهما عن الاسود بن قيس، بهذا الاسناد وقالا على اسم الله . كحديث ابي الاحوص
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতাইবাহ্ ইবনু সাঈদ, ইসহাক ইবনু ইবরাহীম (রহঃ) ও ইবনু আবূ উমার (রহঃ) আসওয়াদ ইবনু কায়স (রহঃ) হতে উক্ত সূত্রে হাদীসটি রিওয়ায়াত করেছেন এবং তারা আবূল আহ্ওয়াস (রহঃ) এর হাদীসের হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯০৬, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of al-Aswad b. Qais with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## French
 
+Rapporté par al-Aswad ibn Qais, selon la même chaîne de transmetteurs : Ce hadith a été transmis par al-Aswad ibn Qais avec la même chaîne de rapporteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize bu hadîsi Kuteybe b. Saîd de rivayet etti, (Dediki): Bize Ebû Avâne rivayet etti. H. Bize İshak b. İsmail ile İbni Ebi Ömer, ibni Uyeyne'den rivayet ettiler. Her iki râvi Esved b. Kays'dan bu îsnadla rivayette bulunmuş ve Ebu'l-Ahvas hadîsinde olduğu gibi «Besmele ile» demişlerdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو عوانہ اور ابن عینیہ نے اسود بن قیس سے اسی سند کے ساتھ روایت کی اور دونوں نے کہا؛ " اللہ کے نام پر ( ذبح کرے ) " جس طرح ابو احوص کی حدیث ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5066</td></tr><tr><td>Arabic No</td><td>1960.03</td></tr><tr><td>Reference</td><td>Book 35 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5066 |
+| Arabic No | 1960.03 |
+| Reference | Book 35 Hadith 3 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، وَمَخْلَدُ بْنُ خَالِدٍ، - الْمَعْنَى - قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، - قَالَ مَخْلَدٌ عَنْ مَعْمَرٍ، - عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ امْرَأَةً، مَخْزُومِيَّةً كَانَتْ تَسْتَعِيرُ الْمَتَاعَ وَتَجْحَدُهُ فَأَمَرَ النَّبِيُّ صلى الله عليه وسلم بِهَا فَقُطِعَتْ يَدُهَا ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ جُوَيْرِيَةُ عَنْ نَافِعٍ عَنِ ابْنِ عُمَرَ أَوْ عَنْ صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ زَادَ فِيهِ وَأَنَّ النَّبِيَّ صلى الله عليه وسلم قَامَ خَطِيبًا فَقَالَ ‏ "‏ هَلْ مِنِ امْرَأَةٍ تَائِبَةٍ إِلَى اللَّهِ عَزَّ وَجَلَّ وَرَسُولِهِ ‏"‏ ‏.‏ ثَلاَثَ مَرَّاتٍ وَتِلْكَ شَاهِدَةٌ فَلَمْ تَقُمْ وَلَمْ تَتَكَلَّمْ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ ابْنُ غَنْجٍ عَنْ نَافِعٍ عَنْ صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ قَالَ فِيهِ فَشَهِدَ عَلَيْهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
+
 حدثنا الحسن بن علي، ومخلد بن خالد، - المعنى - قالا حدثنا عبد الرزاق، اخبرنا معمر، - قال مخلد عن معمر، - عن ايوب، عن نافع، عن ابن عمر، ان امراة، مخزومية كانت تستعير المتاع وتجحده فامر النبي صلى الله عليه وسلم بها فقطعت يدها . قال ابو داود رواه جويرية عن نافع عن ابن عمر او عن صفية بنت ابي عبيد زاد فيه وان النبي صلى الله عليه وسلم قام خطيبا فقال " هل من امراة تايبة الى الله عز وجل ورسوله " . ثلاث مرات وتلك شاهدة فلم تقم ولم تتكلم . قال ابو داود ورواه ابن غنج عن نافع عن صفية بنت ابي عبيد قال فيه فشهد عليها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। জনৈকা মাখযূমী মহিলা বিভিন্ন জিনিস ধার নিয়ে পরে তা অস্বীকার করতো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশে তার হাত কেটে দেয়া হয়। ইমাম আবূ দাঊদ (রহঃ) বলেন, জুরাইরিয়া নাফি‘ থেকে ইবনু উমার অথবা সাফিয়্যাহ বিনতু আবূ উবাইদ সূত্রে বর্ণনা করেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভাষণ দিতে দাঁড়িয়ে বলেনঃ এমন কোনো মহিলা আছে কি যে আল্লাহ ও তাঁর রাসূলের নিকট তওবা করবে? একথা তিনি তিনবার বলেন। তখন ঐ মহিলাটি সেখানে উপস্থিত ছিলো; কিন্তু সে দাঁড়ায়নি এবং কথাও বলেনি। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইবনু গানাজ নাফি‘র সূত্রে সাফিয়্যাহ বিনতু আবূ উবাইদ সূত্রে এ হাদীস বর্ণনা করে বলেনঃ মহিলাটির বিরুদ্ধে সাক্ষ্য দেয়া হয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। জনৈকা মাখযূমী মহিলা বিভিন্ন জিনিস ধার নিয়ে পরে তা অস্বীকার করতো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নির্দেশে তার হাত কেটে দেয়া হয়। ইমাম আবূ দাঊদ (রহঃ) বলেন, জুরাইরিয়া নাফি‘ থেকে ইবনু উমার অথবা সাফিয়্যাহ বিনতু আবূ উবাইদ সূত্রে বর্ণনা করেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভাষণ দিতে দাঁড়িয়ে বলেনঃ এমন কোনো মহিলা আছে কি যে আল্লাহ ও তাঁর রাসূলের নিকট তওবা করবে? একথা তিনি তিনবার বলেন। তখন ঐ মহিলাটি সেখানে উপস্থিত ছিলো; কিন্তু সে দাঁড়ায়নি এবং কথাও বলেনি। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইবনু গানাজ নাফি‘র সূত্রে সাফিয়্যাহ বিনতু আবূ উবাইদ সূত্রে এ হাদীস বর্ণনা করে বলেনঃ মহিলাটির বিরুদ্ধে সাক্ষ্য দেয়া হয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar said:A Makhzuml woman used to borrow goods and deny having received them, so the prophet (ﷺ) gave orders and her hand was cut off. Abu Dawud said: Juwairiyyah has transmitted it from Nafi from Ibn ‘Umar or from Safiyyah daughter of Abu ‘Ubaid. This version adds: The prophet (ﷺ) got up and gave an address saying : Is there any woman who repents to Allah, the Exalted, and to his Apostle? He said it three times, That( woman) was present there but she did not get up and speak. Ibn Ghunj transmitted it from Nafi from Safiyyah daughter of Abu ‘Ubaid. This version has : He witnessed to her
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
+
+## French
+
+Ibn ‘Umar رضي الله عنه a dit : Une femme de la tribu Makhzum empruntait des objets puis niait les avoir reçus. Le Prophète ﷺ a ordonné qu’on lui coupe la main. (Abu Dawud a dit : Juwairiyyah l’a rapporté de Nafi de la part d’Ibn ‘Umar ou de Safiyyah, fille d’Abu ‘Ubaid. Cette version ajoute : Le Prophète ﷺ s’est levé et a fait un discours en disant : « Y a-t-il une femme qui se repent devant Allah, le Très-Haut, et devant Son Messager ? » Il l’a répété trois fois. Cette femme était présente mais ne s’est pas levée pour parler. Ibn Ghunj l’a rapporté de Nafi de la part de Safiyyah, fille d’Abu ‘Ubaid. Cette version précise : Il a témoigné contre elle)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali\] dan \[Makhlad bin Khalid\] secara makna, keduanya berkata; telah menceritakan kepada kami \[Abdurrazaq\] berkata, telah mengabarkan kepada kami \[Ma'mar\] berkata; \[Makhlad\] berkata dari \[Ma'mar\] dari \[Ayyub\] dari \[Nafi'\] dari \[Ibnu Umar\] berkata, "Seorang wanita Makhzumiyah meminjam suatu barang kemudian mengingkarinya. Nabi shallallahu 'alaihi wasallam lalu memerintahkan untuk memotong tangannya." Abu Dawud berkata, "Hadits ini diriwayatkan oleh \[Juwairiyah\] dari \[Nafi'\], dari \[Ibnu Umar\]. Atau, dari \[Shafiyah binti Abu Ubaid\]. Dalam riwayat tersebut ditambahkan, bahwa Nabi shallallahu 'alaihi wasallam berdiri khutbah, beliau bersabda: "Apakah ada seorang wanita yang akan bertaubat kepada Allah Azza Wa Jalla dan Rasul-Nya?." Beliau ulangi hingga tiga kali. Wanita (pencuri) itu juga hadir, namun ia enggan untuk berdiri atau berkata-kata." \[Ibnu Ghanaj\] meriwayatkan hadits itu dari \[Nafi'\], dari \[Shafiyah binti Abu Ubaid\], dalam hadits itu ia mengatakan, "Nabi lalu membuat persaksian atas wanita tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali] dan [Makhlad bin Khalid] secara makna, keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] berkata; [Makhlad] berkata dari [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] berkata, "Seorang wanita Makhzumiyah meminjam suatu barang kemudian mengingkarinya. Nabi shallallahu 'alaihi wasallam lalu memerintahkan untuk memotong tangannya." Abu Dawud berkata, "Hadits ini diriwayatkan oleh [Juwairiyah] dari [Nafi'], dari [Ibnu Umar]. Atau, dari [Shafiyah binti Abu Ubaid]. Dalam riwayat tersebut ditambahkan, bahwa Nabi shallallahu 'alaihi wasallam berdiri khutbah, beliau bersabda: "Apakah ada seorang wanita yang akan bertaubat kepada Allah Azza Wa Jalla dan Rasul-Nya?." Beliau ulangi hingga tiga kali. Wanita (pencuri) itu juga hadir, namun ia enggan untuk berdiri atau berkata-kata." [Ibnu Ghanaj] meriwayatkan hadits itu dari [Nafi'], dari [Shafiyah binti Abu Ubaid], dalam hadits itu ia mengatakan, "Nabi lalu membuat persaksian atas wanita tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что одна женщина из племени махзум брала на время вещи, а потом отказалась возвращать их, и Пророк ﷺ велел отрубить ей руку. А в версии Ибн ‘Умара или Сафийи бинт Абу ‘Убайд говорится, что Пророк ﷺ обратился к людям с проповедью и трижды спросил: «Есть ли среди вас женщина, раскаявшаяся перед Всемогущим и Великим Аллахом и Его посланником?» А она (совершившая кражу женщина до того, как ей отрубили руку) была там, но не встала и ничего не сказала
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a) demiştir ki; Mahzûm kabilesinden bir kadın, eşya ariyet alır ve onu inkâr ederdi. Rasulullah (s.a.v.) emretti ve kadının eli kesildi. Bu Hadisi Müslim, hudud’da tahric etti. Ebû Dâvûd der ki: "Bu hadisi Cüveyriye, Nafi'den o da İbn Ömer veya Safiyye binti Ebu Ubeyd'den rivayet etti, Ravi bu rivayette şunları da ilave etti: Rasulullah (s.a.v.) hitab için kalkıp şöyle buyurdu: "Allah'a tevbe eden, Rasulullah'dan özür dileyen bir kadın var mı?" Rasulullah bu sözü üç kez tekrarladı. Kadın da orada hazır olduğu halde kalkıp konuşmadı. Bu hadisi ibn Qanc, Nafi'den o da Safıyye binti Ebû Ubeyd'den riva­yet etti. Bu rivayette: "(Rasulullah) kadın’ın aleyhine şahitlikte bulundu." dedi. İZAH 4397 DE
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ قبیلہ مخزوم کی ایک عورت لوگوں سے چیزیں منگنی ( مانگ کر ) لے کر مکر جایا کرتی تھی، تو نبی اکرم صلی اللہ علیہ وسلم نے اس کے متعلق حکم دیا تو اس کا ہاتھ کاٹ لیا گیا۔ ابوداؤد کہتے ہیں: اسے جویریہ نے نافع سے، نافع نے ابن عمر سے یا صفیہ بنت ابی عبید سے روایت کیا ہے، اس میں یہ اضافہ ہے کہ نبی اکرم صلی اللہ علیہ وسلم خطبہ کے لیے کھڑے ہوئے، اور آپ نے تین بار فرمایا: کیا کوئی عورت ہے جو اللہ اور اس کے رسول کے سامنے توبہ کرے؟ وہ وہاں موجود تھی لیکن وہ نہ کھڑی ہوئی اور نہ کچھ بولی ۔ اور اسے ابن غنج نے نافع سے، نافع نے صفیہ بنت ابی عبید سے روایت کیا ہے، اس میں ہے کہ آپ نے اس کے خلاف گواہی دی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4395</td></tr><tr><td>Arabic No</td><td>4395</td></tr><tr><td>Reference</td><td>Book 40 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4395 |
+| Arabic No | 4395 |
+| Reference | Book 40 Hadith 45 |

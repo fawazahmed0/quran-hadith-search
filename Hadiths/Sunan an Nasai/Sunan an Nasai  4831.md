@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,112 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مَحْمُودُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا الْوَلِيدُ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، مِثْلَهُ سَوَاءً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |
+
 اخبرني محمود بن خالد، قال حدثنا الوليد، عن ابن جريج، عن عمرو بن شعيب، عن ابيه، عن جده، مثله سواء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মাহমূদ ইবন খালিদ (রহঃ) ... আমর ইবন শু'আয়ব (রহঃ) তাঁর পিতার মাধ্যমে তাঁর দাদা থেকে অনুরূপ বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrator mentioned in hadith:A similar report was narrated from 'Amr bin shu'aib, from his father, from his grandfather. (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |
+
+## French
+
+Rapporté par le narrateur mentionné dans le hadith : Un récit similaire a été rapporté de 'Amr bin Shu'aib, de son père, de son grand-père. (Daif)
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 45 Hadith 126</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 45 Hadith 126 |

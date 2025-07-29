@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو تَوْبَةَ، - يَعْنِي الرَّبِيعَ بْنَ نَافِعٍ - حَدَّثَنَا أَبُو الْمَلِيحِ، عَنِ الْوَلِيدِ بْنِ زَوْرَانَ، عَنْ أَنَسٍ يَعْنِي ابْنَ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا تَوَضَّأَ أَخَذَ كَفًّا مِنْ مَاءٍ فَأَدْخَلَهُ تَحْتَ حَنَكِهِ فَخَلَّلَ بِهِ لِحْيَتَهُ وَقَالَ ‏ "‏ هَكَذَا أَمَرَنِي رَبِّي عَزَّ وَجَلَّ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ابْنُ زَوْرَانَ رَوَى عَنْهُ حَجَّاجُ بْنُ حَجَّاجٍ وَأَبُو الْمَلِيحِ الرَّقِّيُّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
+
 حدثنا ابو توبة، - يعني الربيع بن نافع - حدثنا ابو المليح، عن الوليد بن زوران، عن انس يعني ابن مالك، ان رسول الله صلى الله عليه وسلم كان اذا توضا اخذ كفا من ماء فادخله تحت حنكه فخلل به لحيته وقال " هكذا امرني ربي عز وجل " . قال ابو داود ابن زوران روى عنه حجاج بن حجاج وابو المليح الرقي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করার সময় হাতে এক অঞ্জলি পানি নিতেন। তারপর ঐ পানি চোয়ালের নিম্নদেশে (থুতনির নীচে) লাগিয়ে দাড়ি খিলাল করতেন এবং বলতেনঃ আমার মহান প্রতিপালক আমাকে এরূপ করারই নির্দেশ দিয়েছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করার সময় হাতে এক অঞ্জলি পানি নিতেন। তারপর ঐ পানি চোয়ালের নিম্নদেশে (থুতনির নীচে) লাগিয়ে দাড়ি খিলাল করতেন এবং বলতেনঃ আমার মহান প্রতিপালক আমাকে এরূপ করারই নির্দেশ দিয়েছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas ibn Malik: Whenever the Messenger of Allah (ﷺ) performed ablution, he took a handful of water, and, putting it under his chin, made it go through his beard, saying: Thus did my Lord command me
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
+
+## French
+
+Rapporté par Anas ibn Malik رضي الله عنه : Chaque fois que le Messager d’Allah ﷺ faisait ses ablutions, il prenait une poignée d’eau, la passait sous son menton et la faisait passer dans sa barbe, en disant : « C’est ainsi que mon Seigneur m’a ordonné. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Taubah, Ar-Rabi' bin Nafi'\] telah menceritakan kepada kami \[Abu Al-Malih\] dari \[Al-Walid bin Zauran\] dari \[Anas bin Malik\] bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila berwudhu beliau mengambil air dengan telapak tangannya, lalu memasukkannya ke bawah dagunya lalu beliau menyela-nyela di antara jenggotnya dan bersabda: "Beginilah Rabbku 'azza wajalla memerintahkan aku." Abu Dawud berkata: Hajjaj bin Hajjaj meriwayatkan dari Al-Walid bin Zauran dan Abu Al-Malih Ar-Raqi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Taubah, Ar-Rabi' bin Nafi'] telah menceritakan kepada kami [Abu Al-Malih] dari [Al-Walid bin Zauran] dari [Anas bin Malik] bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila berwudhu beliau mengambil air dengan telapak tangannya, lalu memasukkannya ke bawah dagunya lalu beliau menyela-nyela di antara jenggotnya dan bersabda: "Beginilah Rabbku 'azza wajalla memerintahkan aku." Abu Dawud berkata: Hajjaj bin Hajjaj meriwayatkan dari Al-Walid bin Zauran dan Abu Al-Malih Ar-Raqi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что аль-Валид ибн Зауран передал со слов Анаса ибн Малика о том, что обычно, когда Посланник Аллаха ﷺ совершал омовение, он брал горстку воды, подносил его к подбородку и прочесывал ею свою бороду и как-то он сказал: «Так поступать велел мне мой Великий и Всемогущий Господь»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes b. Malik (r.a.)den, (demiştir ki:) Rasulullah (sallallahu aleyhi ve sellem) abdest alırken bir avuç su alır, o suyu çenesinin altına vererek sakallarının arasına akıtır ve "İşte Aziz ve Celil Rabbim bana böyle emretti" buyururdu. Ebu Davud dediki: Haccac b. Haccac ve Ebu'l~Melih er-Rakiy el-Velid b. Zevran'dan hadis rivayet etmişlerdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب وضو کرتے تو ایک چلو پانی لے کر اسے اپنی ٹھوڑی کے نیچے لے جاتے تھے، پھر اس سے اپنی داڑھی کا خلال کرتے اور فرماتے: میرے رب عزوجل نے مجھے ایسا ہی حکم دیا ہے ۔ ابوداؤد کہتے ہیں: ولید بن زور ان سے حجاج بن حجاج اور ابوالملیح الرقی نے روایت کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>145</td></tr><tr><td>Arabic No</td><td>145</td></tr><tr><td>Reference</td><td>Book 1 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 145 |
+| Arabic No | 145 |
+| Reference | Book 1 Hadith 145 |

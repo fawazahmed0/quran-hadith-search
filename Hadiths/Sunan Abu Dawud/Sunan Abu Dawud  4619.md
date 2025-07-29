@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ كَثِيرٍ، قَالَ أَخْبَرَنَا سُفْيَانُ، عَنْ حُمَيْدٍ الطَّوِيلِ، عَنِ الْحَسَنِ، ‏(‏ كَذَلِكَ نَسْلُكُهُ فِي قُلُوبِ الْمُجْرِمِينَ ‏)‏ قَالَ الشِّرْكُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
+
 حدثنا ابن كثير، قال اخبرنا سفيان، عن حميد الطويل، عن الحسن، ( كذلك نسلكه في قلوب المجرمين ) قال الشرك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
 
 ## Bengali
 
+। হাসান বাসরী (রহঃ) সূত্রে বর্ণিত। আল্লাহর বাণীঃ ‘‘এভাবে আমি পাপীদের অন্তরে তা সঞ্চার করি।’’ (সূরা আল-হিজরঃ ১২)। এর অর্থ হচ্ছে, শিরক।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হাসান বাসরী (রহঃ) সূত্রে বর্ণিত। আল্লাহর বাণীঃ ‘‘এভাবে আমি পাপীদের অন্তরে তা সঞ্চার করি।’’ (সূরা আল-হিজরঃ ১২)। এর অর্থ হচ্ছে, শিরক।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Humaid al-Tawil asked al-Hasan about the verse:“Even so do We let it creep into the hearts of the sinners.” He said: Polytheism
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
+
+## French
+
+Rapporté par Humaid al-Tawil : Il a demandé à al-Hasan à propos du verset : « C’est ainsi que Nous l’introduisons dans les cœurs des criminels. » Il a répondu : « Le polythéisme. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-Хасан (сказал о словах Всевышнего) «Так мы позволяем ему войти в сердца преступников»: «(Имеется в виду) ширк»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
 
 ## Turkish
 
+Humeyd'den (rivayet olunduğuna göre) Hasan-ı basrı; "işıe biz onu suçluların kalbine böyle sokarız."\[Hicr 12\] (ayet-i kerîmesinde ge­çen) "onu" kelimesini "şirki" diye tefsir etmiştir
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Humeyd'den (rivayet olunduğuna göre) Hasan-ı basrı; "işıe biz onu suçluların kalbine böyle sokarız."[Hicr 12] (ayet-i kerîmesinde ge­çen) "onu" kelimesini "şirki" diye tefsir etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حسن بصری آیت کریمہ: «كذلك نسلكه في قلوب المجرمين» اسی طرح سے ہم اسے مجرموں کے دل میں ڈالتے ہیں ( سورۃ الحجر: ۱۱۲ ) کے سلسلہ میں کہتے ہیں: اس سے مراد شرک ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4619</td></tr><tr><td>Arabic No</td><td>4619</td></tr><tr><td>Reference</td><td>Book 42 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4619 |
+| Arabic No | 4619 |
+| Reference | Book 42 Hadith 24 |

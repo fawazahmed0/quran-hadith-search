@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لَيْسَ عَلَى الْمُسْلِمِ فِي عَبْدِهِ وَلاَ فَرَسِهِ صَدَقَةٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا يحيى بن يحيى التميمي، قال قرات على مالك عن عبد الله بن دينار، عن سليمان بن يسار، عن عراك بن مالك، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " ليس على المسلم في عبده ولا فرسه صدقة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া আত তামীমী (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম ব্যক্তির ক্রীতদাস ও ঘোড়ার উপর কোন যাকাত নেই। (ইসলামিক ফাউন্ডেশন ২১৪২, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported Allah's Messsenger (ﷺ) as saying:No Sadaqa is due from a Muslim on his slave or horse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## French
 
+Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Un musulman n’a pas à donner la Sadaqa pour son esclave ou son cheval. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## Indonesian
 
+Dan telah menceritakan kepada kami \[Yahya bin Yahya At Tamimi\] ia berkata, saya telah membacakan kepada \[Malik\] dari \[Abdullah bin Dinar\] dari \[Sulaiman bin Yasar\] dari \[Irak bin Malik\] dari \[Abu Hurairah\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: " Seorang muslim tidak wajib menzakati hamba sahaya dan kudanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Yahya bin Yahya At Tamimi] ia berkata, saya telah membacakan kepada [Malik] dari [Abdullah bin Dinar] dari [Sulaiman bin Yasar] dari [Irak bin Malik] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: " Seorang muslim tidak wajib menzakati hamba sahaya dan kudanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Мусульманин не обязан выплачивать закят ни с раба, ни с коня»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya Et-Temimi rivayet etti. (Dediki): Mâlik'e, Abdullah b. Dinar'dan dinlediğim, onun da Süleyman b. Yesâr'dan, onun da Irak b. Malik'den, onun da Ebû Hureyre'den naklen rivayet ettiği şu hadîsi okudum: Resulullah (Sallallahu Aleyhi ve Sellem): «Müslüman'a kölesi ile atı için zekât yoktur.» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبد اللہ بن دینا ر نے سلیمان بن یسارسے انھوں نے عراک بن مالک سے اور انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا : " مسلمان کے ذمے نہ اس کے غلام میں صدقہ ( زکاۃ ) ہے اور نہ اس کے گھوڑے میں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2273</td></tr><tr><td>Arabic No</td><td>982.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2273 |
+| Arabic No | 982.01 |
+| Reference | Book 12 Hadith 11 |

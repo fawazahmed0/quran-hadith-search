@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا مُعَاوِيَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 37 Hadith 146</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |
+
 اخبرنا محمود بن غيلان، قال حدثنا معاوية، قال حدثنا سفيان، عن منصور، عن ابي وايل، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم " سباب المسلم فسوق وقتاله كفر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 37 Hadith 146</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মাহমূদ ইবন গায়লান (রহঃ) ... মানসূর (রহঃ) থেকে, তিনি আবূ ওয়ায়ল থেকে এবং তিনি আবদুল্লাহ (রাঃ) থেকে। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমকে গালি দেয়া পাপ এবং তার সাথে যুদ্ধ করা কুফরী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 37 Hadith 146</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |
 
 ## English
 
+It was narrated that 'Abdullah said:"The Messenger of Allah \[SAW\] said: 'Defaming a Muslim is evildoing and fighting him is Kufr
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that 'Abdullah said:"The Messenger of Allah [SAW] said: 'Defaming a Muslim is evildoing and fighting him is Kufr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 37 Hadith 146</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |
+
+## French
+
+Rapporté par Abdullah : "Le Messager d'Allah \[SAW\] a dit : 'Insulter un musulman est une mauvaise action et le combattre est un acte de mécréance
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Mahmud bin Ghailan\], ia berkata; telah menceritakan kepada kami \[Mu'awiyah\], ia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Manshur\] dari \[Abu Wail\] dari \[Abdullah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Mencela seorang muslim adalah kefasikan dan membunuhnya adalah kekafiran
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Mahmud bin Ghailan], ia berkata; telah menceritakan kepada kami [Mu'awiyah], ia berkata; telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Abu Wail] dari [Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Mencela seorang muslim adalah kefasikan dan membunuhnya adalah kekafiran
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 37 Hadith 146</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 37 Hadith 146</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4111</td></tr><tr><td>Arabic No</td><td>4111</td></tr><tr><td>Reference</td><td>Book 37 Hadith 146</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4111 |
+| Arabic No | 4111 |
+| Reference | Book 37 Hadith 146 |

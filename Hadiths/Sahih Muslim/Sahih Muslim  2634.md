@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ سَالِمٍ أَبِي، النَّضْرِ بِهَذَا الإِسْنَادِ نَحْوَ حَدِيثِ ابْنِ عُيَيْنَةَ وَقَالَ عَنْ عُمَيْرٍ، مَوْلَى أُمِّ الْفَضْلِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني زهير بن حرب، حدثنا عبد الرحمن بن مهدي، عن سفيان، عن سالم ابي، النضر بهذا الاسناد نحو حديث ابن عيينة وقال عن عمير، مولى ام الفضل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যুহায়র ইবনু হারব (রহঃ) ... সলিম আবূ আন নাযর থেকে এ সানাদে ইবনু উয়ায়নার অনুরূপ হাদীস বর্ণনা করেছেন। এখানেও উম্মুল ফাযুলের আযাদকৃত গোলাম 'উমায়র থেকে বর্ণিত। (ইসলামী ফাউন্ডেশন ২৫০১, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Abu Nadr on the authority of Umair, the freed slave of Umm al-Fadl, through the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## French
 
+Ce hadith a été rapporté par Abou Nadr, d’après Umair, l’affranchi de Umm al-Fadl, avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana Züheyr b. Harb rivayet etti. (Dediki) Bize Abdurrahman b. Mehdi, Süfyân'dan, o da Ebu'n-Nadr Sâlim'den bu isnâdla İbni Uyeyne hadisi gibi rivayette bulundu. Ebu'n-Nadr bu rivayette de «Ümmü Fadi'ın azatlısı Umeyr'den...» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زہیر بن حرب ، عبدالرحمان بن مہدی ، سفیان ، حضرت سالم بن ابی النضر رضی اللہ تعالیٰ عنہ سے اس سند کے ساتھ اسی طرح روایت نقل کی گئی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2634</td></tr><tr><td>Arabic No</td><td>1123.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 140</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2634 |
+| Arabic No | 1123.03 |
+| Reference | Book 13 Hadith 140 |

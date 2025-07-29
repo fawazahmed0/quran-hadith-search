@@ -196,3136 +196,3136 @@
 
 ## Achinese
 
-
-<div dir="ltr" lang="ace" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bantai meusadeu cit ka meuriti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tgk. H. Mahjiddin Jusuf</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Tgk. H. Mahjiddin Jusuf |
 
 ## Afar
 
-
-<div dir="ltr" lang="aa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kaadu Rooruh tan barkumaami (makaddid) kay addal tan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Mahmoud Abdel Qader Hamz And Group Of Scholars |
 
 ## Afrikaans
 
-
-<div dir="ltr" lang="af" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 en gerangskikte kussings
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Imam M. A. Baker</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Imam M. A. Baker |
 
 ## Albanian
 
-
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E nenkrese te renduar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Feti Mehdiu</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Feti Mehdiu |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E nënkresë të renduar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Feti Mehdiu</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Feti Mehdiu |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dhe jastek te renditur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Efendi Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Efendi Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dhe jastëk të renditur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Efendi Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Efendi Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dhe jasteke te renditur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dhe jastëkë të renditur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Nahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Nahi |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Edhe jasteke te renduar per mbeshtetje
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sherif Ahmeti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sherif Ahmeti |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Edhe jastekë të renduar për mbështetje
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sherif Ahmeti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sherif Ahmeti |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Edhe jasteke te renduar per mbeshtetje
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="sq" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Edhe jastëkë të renduar për mbështetje
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Amharic
 
-
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yetederederu mekedawochimi፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yetederederu mekedawochimi፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
-<div dir="ltr" lang="am" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 የተደረደሩ መከዳዎችም፡፡
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Sadiq And Muhammed Sani Habib</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammed Sadiq And Muhammed Sani Habib |
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 «ونمارق» وسائد «مصفوفة» بعضها بجنب بعض يستند إليها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 wjwh almuminin yawm alqiamat dhat nemt; lisaeyiha fi aldunya baltaeat radiatan fi alakhrt, fi janat rafieat almakan walmkant, laa tasmae fiha kalimat laghw wahdt, fiha eayn tatadafaq myahha, fiha surur ealiat wa'akwab mueadat llsharbyn, wwsayd msfwft, alwahidat janb alakhra, wbusut kathirat mfrwsht
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وجوه المؤمنين يوم القيامة ذات نعمة؛ لسعيها في الدنيا بالطاعات راضية في الآخرة، في جنة رفيعة المكان والمكانة، لا تسمع فيها كلمة لغو واحدة، فيها عين تتدفق مياهها، فيها سرر عالية وأكواب معدة للشاربين، ووسائد مصفوفة، الواحدة جنب الأخرى، وبُسُط كثيرة مفروشة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanamariqu masfoofatun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wa namaariqu masfoofah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanamariqu masfoofa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wanamariqu masfoofatun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 wanamariqu masfufatun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 wanamariqu masfufatun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 wanamāriqu maṣfūfatun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Transliteration |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Academy</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Academy |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Bazzi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Bazzi |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Doori</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Doori |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةٞ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Doori Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Doori Non Unicode |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَّنَمَارِقُ مَصۡفُوۡفَةٌۙ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Indopak</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Indopak |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Khaled Hosney</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Khaled Hosney |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَّنَمَارِقُ مَصۡفُوۡفَةٌ ١٥ﶫ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Nastaleeq Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Nastaleeq Non Unicode |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wa Namariqu Masfufahun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Phonetics Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Phonetics Transliteration |
 
-<div dir="ltr" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wa Namāriqu Maşfūfahun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Phonetics Transliteration</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Phonetics Transliteration |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصْفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Qaloon</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Qaloon |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Qumbul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Qumbul |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Shouba</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Shouba |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصْفُوفَةٌ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Simple</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Simple |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Soosi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Soosi |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةٞ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Soosi Non Unicode</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Soosi Non Unicode |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-وَنَمَارِقُ مَصۡفُوفَةٞ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Enc</td></tr></tbody></table></div>
+وَنَمَارِقُ مَصۡفُوفَةࣱ
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Enc |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Hafs</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Hafs |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ونمارق مصفوفة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Uthmani Hafs No Diacritics</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Uthmani Hafs No Diacritics |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصْفُوفَةࣱ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Quran Warsh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Quran Warsh |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَنَمَارِقُ مَصۡفُوفَةٞ (وَنَمَارِقُ: وَسَائِدُ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Siraj Tafseer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Siraj Tafseer |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ونمارق مصفوفة (ونمارق: وسايد)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Siraj Tafseer No Diacritics</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Siraj Tafseer No Diacritics |
 
 ## Assamese
 
-
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 arau sarai saraikai rakha garausamuha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ārau śāraī śāraīkai rakhā gārausamūha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
-<div dir="ltr" lang="as" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আৰু শাৰী শাৰীকৈ ৰখা গাৰুসমূহ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Rafeequl Islam Habibur Rahman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Rafeequl Islam Habibur Rahman |
 
 ## Azerbaijani
 
-
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yan-yana qoyulmus yastıqlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alikhan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alikhan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yan-yana qoyulmuş yastıqlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alikhan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alikhan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yan-yana qoyulmus yas­tıqlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yan-yana qoyulmuş yas­tıqlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khan Musayev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khan Musayev |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bir-birinin yanına duzulmus (yumsaq) balıslar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Vasim Mammadaliyev And Ziya Bunyadov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Vasim Mammadaliyev And Ziya Bunyadov |
 
-<div dir="ltr" lang="az" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bir-birinin yanına düzülmüş (yumşaq) balışlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Vasim Mammadaliyev And Ziya Bunyadov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Vasim Mammadaliyev And Ziya Bunyadov |
 
 ## Bambara
 
-
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߊ߬ ߣߌ߫ ߘߏ߬ߝߙߏ߫ ߟߐ߬ߖߟߎ߬ߡߊ߬ߣߍ߲ ߠߎ߬
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Deen Muhammad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Deen Muhammad |
 
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߊ߬ ߣߌ߫ ߘߏ߬ߝߙߏ߫ ߛߝߊߛߝߊߣߍ߲ ߠߎ߬
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fodi Suliman Kanti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fodi Suliman Kanti |
 
-<div dir="rtl" lang="bm" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ߊ߬ ߣߌ߫ ߘߏ߬ߝߙߏ߫ ߟߐ߬ߖߟߎ߬ߡߊ߬ߣߍ߲ ߠߎ߬
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Karamo Baba Mamadi Jani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Karamo Baba Mamadi Jani |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sari sari upadhana
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sāri sāri upādhāna
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সারি সারি উপাধান
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Bakr Zakaria</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Bakr Zakaria |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ebam sari sari galica
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ēbaṁ sāri sāri gālicā
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 এবং সারি সারি গালিচা
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhiuddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhiuddin Khan |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ara takiyagulo sarisari sajano
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 āra tākiẏāgulō sārisāri sājānō
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আর তাকিয়াগুলো সারিসারি সাজানো
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zohurul Hoque</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zohurul Hoque |
 
 ## Berber
 
-
-<div dir="ltr" lang="ber" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tisumtiwin iderrsen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ramdane At Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ramdane At Mansour |
 
-<div dir="ltr" lang="ber" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tisumtiwin iderrsen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ramdane At Mansour</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ramdane At Mansour |
 
 ## Bosnian
 
-
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Besim Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Besim Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Besim Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Besim Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poređani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poređani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Korkut</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Korkut |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poređani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhamed Mehanovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhamed Mehanovic |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poređani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhamed Mehanovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhamed Mehanovic |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 I jastucici poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Mlivo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Mlivo |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 I jastučići poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Mlivo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Mlivo |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 WE NEMARIKU MESFUFETUN
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Transliterim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Transliterim |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="bs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i jastuci poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Bulgarian
 
-
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i podredeni vuzglavnitsi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i podredeni vŭzglavnitsi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
-<div dir="ltr" lang="bg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 и подредени възглавници
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tzvetan Theophanov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Tzvetan Theophanov |
 
 ## Burmese
 
-
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ဆိုဖာမှီအုံးများသည်လည်း အနှံ့အပြား စီစဉ်ခင်းကျင်းထားလျက် ရှိကြပေမည်။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alin U Yin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alin U Yin |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ၁၅။ ထိုမှတပါး မှီအုံး၊ ထိုင်အုံးများကို သိုက်မြိုက်တင့်တယ်စွာစီတန်းခင်းကျင်းထား၏။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ba Sein</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ba Sein |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် ကော်ဇောများသည်လည်း စနစ်တကျ ခင်းကျင်းထားလျက် ရှိကြပေသည်။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghazi Mohammad Hashim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ghazi Mohammad Hashim |
 
-<div dir="ltr" lang="my" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ထို့ပြင် အတန်းလိုက်စီခင်းထား‌သော မှီအုံးများသည်လည်း ရှိကြသည်။
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hashim Tin Myint</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hashim Tin Myint |
 
 ## Catalan
 
-
-<div dir="ltr" lang="ca" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 coixins alineats
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Youssef Lyoussi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Youssef Lyoussi |
 
-<div dir="ltr" lang="ca" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 coixins alineats
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Youssef Lyoussi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Youssef Lyoussi |
 
 ## Chichewa
 
-
-<div dir="ltr" lang="ny" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ndi makushoni yoikidwa m’mizere
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Al Haji Yusuf Muhammad Kanyamula</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Al Haji Yusuf Muhammad Kanyamula |
 
-<div dir="ltr" lang="ny" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “Ndi misamiro yoikidwa bwino m’mizeremizere
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khaled Ibrahim Betala</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Khaled Ibrahim Betala |
 
 ## Chinese(simplified)
 
-
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 you pailiezhe de kaozhen,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yǒu páilièzhe de kàozhěn,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 有排列著的靠枕，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-you cheng pai de kaodian [kaozhen],
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
+you cheng pai de kaodian \[kaozhen\],
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-yǒu chéng pái de kàodiàn [kàozhěn],
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
+yǒu chéng pái de kàodiàn \[kàozhěn\],
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-有成排的靠垫[靠枕]，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Zhong Gang</td></tr></tbody></table></div>
+有成排的靠垫\[靠枕\]，
 
+| Details |  |
+| --- | --- |
+| Author | Ma Zhong Gang |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 you pailiezhe de kaozhen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yǒu páilièzhe de kàozhěn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 有排列着的靠枕，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Makin</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Makin |
 
 ## Chinese(traditional)
 
-
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 you pailiezhe de kaozhen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yǒu páilièzhe de kàozhěn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 有排列着的靠枕，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Anonymous Group Of Translators</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Anonymous Group Of Translators |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 you pailiezhe de kaozhen,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 yǒu páilièzhe de kàozhěn,
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
-<div dir="ltr" lang="zh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 有排列著的靠枕，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ma Jian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ma Jian |
 
 ## Croatian
 
-
-<div dir="ltr" lang="hr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 I jastucici poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="hr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 I jastučići poredani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Czech
 
-
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 polstare urovnane
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. R. Nykl</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. R. Nykl |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 polštáře urovnané
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. R. Nykl</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. R. Nykl |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dban za zaznam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dbán za záznam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a podusky v radach vyrovnane
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Preklad I. Hrbek</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Preklad I. Hrbek |
 
-<div dir="ltr" lang="cs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 a podušky v řadách vyrovnané
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Preklad I. Hrbek</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Preklad I. Hrbek |
 
 ## Dagbani
 
-
-<div dir="ltr" lang="dag" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ni dufɛmeensi din pempe taba
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Baba Ghtobo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Baba Ghtobo |
 
 ## Danish
 
-
-<div dir="ltr" lang="da" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kander ind ro
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="da" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En kussens gerangschikt
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Van De Taal |
 
 ## Dari
 
-
-<div dir="rtl" lang="prs" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالش‌های در صف نهاده شده است
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mawlawi Muhammad Anwar Badkhashani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Mawlawi Muhammad Anwar Badkhashani |
 
 ## Divehi
 
-
-<div dir="rtl" lang="dv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 އަދި އެތުރިގެންވާ ބާލީސްތައްވެސްމެއެވެ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Office Of The President Of Maldives</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Office Of The President Of Maldives |
 
 ## Dutch
 
-
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 rijen van kussens
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fred Leemhuis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fred Leemhuis |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En kussens in orde gelegd
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Salomo Keyzer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Salomo Keyzer |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En in rijen gezetten kussens
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sofian S. Siregar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sofian S. Siregar |
 
-<div dir="ltr" lang="nl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 En kussens gerangschikt
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Van De Taal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Van De Taal |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdel Haleem</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdel Haleem |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hye</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hye |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Yusuf Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Yusuf Ali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions ranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Majid Daryabadi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Majid Daryabadi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions arrayed in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul Ala Maududi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cushions arranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahmed Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahmed Ali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and lined-up cushions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Aisha Bewley</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Aisha Bewley |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions arrayed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. J. Arberry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. J. Arberry |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Al Bilal Muhammad Et Al</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Al Bilal Muhammad Et Al |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and pillows arranged in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bakhtiari Nejad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bakhtiari Nejad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions laid out in an array
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Quli Qarai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Quli Qarai |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions laid out in an array
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Quli Qarai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Quli Qarai |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions arrayed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Unal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Unal |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions, ranked in rows, so bedecked and ornate
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Almuntakhab Fi Tafsir Alquran Alkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Almuntakhab Fi Tafsir Alquran Alkarim |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Kamal Omar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Kamal Omar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions arrayed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Laleh Bakhtiar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Laleh Bakhtiar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr Munir Munshey</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr Munir Munshey |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions arranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edward Henry Palmer</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edward Henry Palmer |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 silky cushions ranged in order
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Farook Malik</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Farook Malik |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions laid in order
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Sale</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Sale |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions arranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid S Aziz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid S Aziz |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions laid in order
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>John Medows Rodwell</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | John Medows Rodwell |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And lined/arranged small pillows/cushions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Literal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Literal |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions arrayed in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maududi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mir Anees Original</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mir Anees Original |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mir Aneesuddin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mir Aneesuddin |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in a row
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Habib Shakir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Habib Shakir |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Shafi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Shafi |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions ranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammed Marmaduke William Pickthall</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammed Marmaduke William Pickthall |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions, arrayed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mufti Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mufti Taqi Usmani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions ranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions ranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Mahmoud Ghali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Mahmoud Ghali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 well-placed cushions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Sarwar</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Sarwar |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Ud Din Al Hilali And Muhammad Muhsin Khan |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions, arrayed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Usmani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and ˹fine˺ cushions lined up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Khattab Allah Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Khattab Allah Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and ˹fine˺ cushions lined up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mustafa Khattab God Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mustafa Khattab God Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 silken cushions ranged in order
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>N J Dawood</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | N J Dawood |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 and cushions lined up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cushions lined up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Safi Kaskas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Safi Kaskas |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And Namariq, set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Safi Ur Rahman Al Mubarakpuri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Safi Ur Rahman Al Mubarakpuri |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shabbir Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shabbir Ahmed |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Syed Vickar Ahamed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Syed Vickar Ahamed |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Talal A Itani New Translation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Talal A Itani New Translation |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Talal Itani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Talal Itani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cushions lined up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tbirving</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tbirving |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Monotheist Group Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Monotheist Group Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Andcushions arranged in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Monotheist Group Edition</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Monotheist Group Edition |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cushions arrayed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Study Quran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Study Quran |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions lined up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Umm Muhammad</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Umm Muhammad |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cushions ranged
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Wahiduddin Khan |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 And cushions set in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yusuf Ali Orig</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yusuf Ali Orig |
 
 ## Esperanto
 
-
-<div dir="ltr" lang="eo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Krucx en vic
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Filipino
 
-
-<div dir="ltr" lang="fil" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 At mga diban na nakasalansan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullatif Eduardo M. Arceo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullatif Eduardo M. Arceo |
 
-<div dir="ltr" lang="fil" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 at may mga almohadon na nakahanay
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Finnish
 
-
-<div dir="ltr" lang="fi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pieluksia pitkin rivein
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="fi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pieluksia pitkin rivein
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 des coussins bien disposes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 des coussins bien disposés
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 et des coussins ranges
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hameedullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hameedullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 et des coussins rangés
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hameedullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hameedullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 et des coussins ranges
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hamidullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hamidullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 et des coussins rangés
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hamidullah</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hamidullah |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 des coussins parfaitement disposes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rashid Maash</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rashid Maash |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 des coussins parfaitement disposés
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rashid Maash</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rashid Maash |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 des coussins ranges
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shahnaz Saidi Benbetka</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shahnaz Saidi Benbetka |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 des coussins rangés
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shahnaz Saidi Benbetka</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shahnaz Saidi Benbetka |
 
 ## Fulah
 
-
-<div dir="ltr" lang="ff" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E ngaflaaje potndaaɗe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowad Translation Center And Islamhouse</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowad Translation Center And Islamhouse |
 
 ## Ganda
 
-
-<div dir="ltr" lang="lg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 N’emitto egisimbiddwa ennyiriri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fareeq Musa</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Fareeq Musa |
 
 ## German
 
-
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Rida Muhammad Ibn Ahmad Ibn Rassoul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Rida Muhammad Ibn Ahmad Ibn Rassoul |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Rida Muhammad Ibn Ahmad Ibn Rassoul</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Rida Muhammad Ibn Ahmad Ibn Rassoul |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 In Reihen gelegte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adel Theodor Khoury</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adel Theodor Khoury |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 In Reihen gelegte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adel Theodor Khoury</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adel Theodor Khoury |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Amir Zaidan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Amir Zaidan |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Amir Zaidan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Amir Zaidan |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. S. F. Bubenheim And N. Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. S. F. Bubenheim And N. Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>A. S. F. Bubenheim And N. Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | A. S. F. Bubenheim And N. Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Frank Bubenheim And Nadeem Elyas</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Frank Bubenheim And Nadeem Elyas |
 
-<div dir="ltr" lang="de" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 und aufgereihte Kissen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Frank Bubenheim And Nadeem Elyas</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Frank Bubenheim And Nadeem Elyas |
 
 ## Gujarati
 
-
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ane eka kataramam lagela takiya hase
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 anē ēka katāramāṁ lāgēlā takīyā haśē
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
-<div dir="ltr" lang="gu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 અને એક કતારમાં લાગેલા તકીયા હશે
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rabila Al Omari</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rabila Al Omari |
 
 ## Hausa
 
+Da filoli\* jere
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Da filoli* jere
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmood Jummi</td></tr></tbody></table></div>
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmood Jummi |
 
+Da filõli\* jẽre
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Da filõli* jẽre
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmood Jummi</td></tr></tbody></table></div>
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmood Jummi |
 
-
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Da filoli jere
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmoud Gumi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmoud Gumi |
 
-<div dir="ltr" lang="ha" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Da filõli jẽre
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abubakar Mahmoud Gumi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abubakar Mahmoud Gumi |
 
 ## Hebrew
 
-
-<div dir="rtl" lang="he" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ויהיו להם כריות ערוכות נוחות
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Darusalam House In Jerusalem</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Darusalam House In Jerusalem |
 
-<div dir="rtl" lang="he" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ויהיו להם כריות ערוכות נוחות
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Hindi
 
-
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 panktiyon mein galeeche lage honge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maulana Azizul Haque Al Umari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maulana Azizul Haque Al Umari |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 पंक्तियों में गलीचे लगे होंगे।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Maulana Azizul Haque Al Umari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Maulana Azizul Haque Al Umari |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 kram se gaav takie lage honge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Farooq Khan And Muhammad Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Farooq Khan And Muhammad Ahmed |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 क्रम से गाव तकिए लगे होंगे
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Farooq Khan And Muhammad Ahmed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Farooq Khan And Muhammad Ahmed |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 aur gaanv takie qataar kee qataar lage honge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suhel Farooq Khan And Saifur Rahman Nadwi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suhel Farooq Khan And Saifur Rahman Nadwi |
 
-<div dir="ltr" lang="hi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 और गाँव तकिए क़तार की क़तार लगे होंगे
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suhel Farooq Khan And Saifur Rahman Nadwi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Suhel Farooq Khan And Saifur Rahman Nadwi |
 
 ## Hungarian
 
-
-<div dir="ltr" lang="hu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sorba rakott parak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Ahmed Abdel Rahman Okfat Tashaab</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Ahmed Abdel Rahman Okfat Tashaab |
 
-<div dir="ltr" lang="hu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sorba rakott párák
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Ahmed Abdel Rahman Okfat Tashaab</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Dr. Ahmed Abdel Rahman Okfat Tashaab |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan bantal-bantal sandaran yang tersusun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Indonesian Islamic Affairs Ministry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Indonesian Islamic Affairs Ministry |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Dan bantal-bantal) untuk bersandar (yang tersusun) atau dalam keadaan tersusun untuk tempat bersandar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jalal Ad Din Al Mahalli And Jalal Ad Din As Suyuti |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan bantal-bantal sandaran yang tersusun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahd Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahd Complex |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bantal-bantal yang tersusun rapi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Quraish Shihab Et Al.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Quraish Shihab Et Al. |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan bantal-bantal sandaran yang tersusun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>The Sabiq Company</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | The Sabiq Company |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dan bantal-bantal sandaran yang tersusun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Iranun
 
-
-<div dir="ltr" lang="ilp" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Go manga olona a khi-a antibun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Aziz Gro Aalem Saromintang</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdul Aziz Gro Aalem Saromintang |
 
 ## Italian
 
-
-<div dir="ltr" lang="it" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 e cuscini assestati
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamza Roberto Piccardo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamza Roberto Piccardo |
 
-<div dir="ltr" lang="it" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 e cuscini assestati
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamza Roberto Piccardo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hamza Roberto Piccardo |
 
 ## Japanese
 
-
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 shitone wa suretsu ni narabe rare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 shitone wa sūretsu ni narabe rare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
-<div dir="ltr" lang="ja" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 褥は数列に並べられ，
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ryoichi Mita</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ryoichi Mita |
 
 ## Javanese
 
-
-<div dir="ltr" lang="jv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Lan bantal kang jejer - jejer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="jv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Lan bantal kang jejer - jejer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Kannada
 
-
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 salusalagi dimbugaliruvavu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sālusālāgi dimbugaḷiruvavu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
-<div dir="ltr" lang="kn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ಸಾಲುಸಾಲಾಗಿ ದಿಂಬುಗಳಿರುವವು
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdussalam Puthige</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdussalam Puthige |
 
 ## Kazakh
 
-
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tizilgen jatıqtar bar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tizilgen jatıqtar bar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Тізілген жатықтар бар
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jane tizilgen jastıqtar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 jäne tizilgen jastıqtar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
-<div dir="ltr" lang="kk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 және тізілген жастықтар
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khalifah Altai Charity Foundation</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Khalifah Altai Charity Foundation |
 
 ## Kendayan
 
-
-<div dir="ltr" lang="knx" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Man bantal-bantal sanaratn nang tasusun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Khmer
 
-
-<div dir="ltr" lang="km" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ning khnaeykaey rieb dak cheachuor
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cambodian Muslim Community Development</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cambodian Muslim Community Development |
 
-<div dir="ltr" lang="km" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 និងខ្នើយកើយរៀបដាក់ជាជួរៗ។
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cambodian Muslim Community Development</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Cambodian Muslim Community Development |
 
 ## Kinyarwanda
 
-
-<div dir="ltr" lang="rw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 N’imisego ishashe (neza)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>R. M. C. Rwanda</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | R. M. C. Rwanda |
 
-<div dir="ltr" lang="rw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 N’imisego itondetse ku mirongo (neza)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rwanda Muslims Association Team</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rwanda Muslims Association Team |
 
 ## Kirghiz
 
-
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sap-sap tizilgen jazdıktar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sap-sap tizilgen jazdıktar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
-<div dir="ltr" lang="ky" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сап-сап тизилген жаздыктар
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shams Al Din Hakimov</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shams Al Din Hakimov |
 
 ## Korean
 
-
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 anlaghan begaedeul-i juljieo issgo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid Choi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid Choi |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 안락한 베개들이 줄지어 있고
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hamid Choi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hamid Choi |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 anlaghan begaedeul-i juljieo issgo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="ko" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 안락한 베개들이 줄지어 있고
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Kurdish
 
-
-<div dir="rtl" lang="ku" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 هه‌روه‌ها پشتی و سه‌رین و پاڵپشتی جوان و ڕازاوه‌ی تیادایه که به ڕێکو پێکی ڕیزکراون
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Burhan Muhammad Amin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Burhan Muhammad Amin |
 
-<div dir="rtl" lang="ku" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وە پشتی ڕیزکراو
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Saleh Bamoki</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Saleh Bamoki |
 
 ## Kurmanji
 
-
-<div dir="ltr" lang="kmr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Binraxne baha (hene)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="kmr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Binraxne baha (hene)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Latin
 
-
-<div dir="ltr" lang="la" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pitchers in rows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Lingala
 
-
-<div dir="ltr" lang="ln" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mpe bikáta bitandami
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zakariya Muhammed Balingongo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zakariya Muhammed Balingongo |
 
 ## Luyia
 
-
-<div dir="ltr" lang="luy" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nende emitoo olunyaali olunyaali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Mohammad Ramadhan Sebwa, Ramadhan Hajj Ndeka, Ismail Were, Musa Murasi Salim Kukuya, Yusuf Shiundu Malala, Yahya Wafula Ojwang, Haroon Albert Msah |
 
 ## Macedonian
 
-
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 и перници наредени
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Macedonian Scholars</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Macedonian Scholars |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i pernici poredeni
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i pernici poredeni
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
-<div dir="ltr" lang="mk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 и перници поредени
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Hassan Gilo</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Hassan Gilo |
 
 ## Malay
 
-
-<div dir="ltr" lang="ms" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dan bantal-bantal yang teratur (untuk mereka berbaring atau bersandar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Muhammad Basmeih</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdullah Muhammad Basmeih |
 
 ## Malayalam
 
-
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 aniyayi vekkappetta talayanakalum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 aṇiyāyi vekkappeṭṭa talayaṇakaḷuṁ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 അണിയായി വെക്കപ്പെട്ട തലയണകളും
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Hameed Madani And Kunhi Mohammed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Hameed Madani And Kunhi Mohammed |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 aniyayi vekkappetta talayanakalum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 aṇiyāyi vekkappeṭṭa talayaṇakaḷuṁ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 അണിയായി വെക്കപ്പെട്ട തലയണകളും
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Cheriyamundam Abdul Hameed And Kunhi Mohammed Parappoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 nirattivecca talayanakalum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 nirattivecca talayaṇakaḷuṁ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
-<div dir="ltr" lang="ml" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 നിരത്തിവെച്ച തലയണകളും
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karakunnu And Vanidas Elayavoor</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karakunnu And Vanidas Elayavoor |
 
 ## Maltese
 
-
-<div dir="ltr" lang="mt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 u mħaded ħdejn xulxin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Martin R. Zammit, Muhammad El Sadi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Martin R. Zammit, Muhammad El Sadi |
 
-<div dir="ltr" lang="mt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 u mħaded ħdejn xulxin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Martin R. Zammit, Muhammad El Sadi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Martin R. Zammit, Muhammad El Sadi |
 
 ## Maranao
 
-
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Go manga olona a khiaantibn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Guro Alim Saromantang</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Guro Alim Saromantang |
 
 ## Marathi
 
-
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ani eka rangeta lavalele takke asatila
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Āṇi ēkā rāṅgēta lāvalēlē takkē asatīla
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
-<div dir="ltr" lang="mr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 १५. आणि एका रांगेत लावलेले तक्के असतील
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Shafi I Ansari</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Shafi I Ansari |
 
 ## Nepali
 
-
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ra kramaisita masanadaharu saja'i'eka hunechan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ra kramaisita masanadaharū sajā'i'ēkā hunēchan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
-<div dir="ltr" lang="ne" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 र क्रमैसित मसनदहरू सजाइएका हुनेछन् ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahl Al Hadith Central Society Of Nepal</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ahl Al Hadith Central Society Of Nepal |
 
 ## Norwegian
 
-
-<div dir="ltr" lang="no" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 puter pa rekke og rad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Einar Berg</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Einar Berg |
 
-<div dir="ltr" lang="no" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 puter på rekke og rad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Einar Berg</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Einar Berg |
 
 ## Oromo
 
-
-<div dir="ltr" lang="om" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Boraatiiwwan tarree galfamantu (isaaniif jira)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ghali Apapur Apaghuna</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ghali Apapur Apaghuna |
 
 ## Panjabi
 
-
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ate gade (sirahane) pakati'am vica lage (honage) ho'e
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Atē gadē (sirahāṇē) pakatī'āṁ vica lagē (hōṇagē) hō'ē
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
-<div dir="ltr" lang="pa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ਅਤੇ ਗੱਦੇ (ਸਿਰਹਾਣੇ) ਪੰਕਤੀਆਂ ਵਿਚ਼ੱ ਲੱਗੇ (ਹੋਣਗੇ) ਹੋਏ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Dr. Muhamad Habib, Bhai Harpreet Singh, Maulana Wahiduddin Khan |
 
 ## Persian
 
-
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالشهايى در كنار هم چيده،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و پشتى‌هايى به رديف چيده شده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abolfazl Bahrampour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abolfazl Bahrampour |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالشهایی ردیف شده‌
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Baha Oddin Khorramshahi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Baha Oddin Khorramshahi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و پشتی‌ها بالش‌های منظم چیده شده،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Hussien Tagi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Hussien Tagi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-و [دیگر از نعمت هایش] بالش هایی پهلوی هم چیده [برای تکیه زدن بهشتی ها] ست
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hussain Ansarian</td></tr></tbody></table></div>
+و \[دیگر از نعمت هایش\] بالش هایی پهلوی هم چیده \[برای تکیه زدن بهشتی ها\] ست
 
+| Details |  |
+| --- | --- |
+| Author | Hussain Ansarian |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-و بالشت‌های [منظم] چیده‌شده،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamhouse.com Persian Team</td></tr></tbody></table></div>
+و بالشت‌های \[منظم\] چیده‌شده،
 
+| Details |  |
+| --- | --- |
+| Author | Islamhouse.com Persian Team |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و مسند و بالشهای لطیف مرتب داشته‌اند
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahdi Elahi Ghomshei</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mahdi Elahi Ghomshei |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالشهائی چیده (صف آورده)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Kazem Moezzi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Kazem Moezzi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-و بالشهايى پهلوى هم [چيده‌]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Mahdi Fooladvand</td></tr></tbody></table></div>
+و بالشهايى پهلوى هم \[چيده‌\]
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Mahdi Fooladvand |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و نازبالش‌هایی پهلوی هم، چیده شده؛
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohammad Sadeqi Tehrani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohammad Sadeqi Tehrani |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالش‌هایى ردیف شده،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mohsen Gharaati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mohsen Gharaati |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالشها و پشتیهائی که به ردیف چیده شده‌اند
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mostafa Khorramdel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mostafa Khorramdel |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالشها و پشتیهای صف‌داده شده،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naser Makarem Shirazi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naser Makarem Shirazi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و بالشهايى به رديف چيده،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sayyed Jalaloddin Mojtabavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Sayyed Jalaloddin Mojtabavi |
 
-<div dir="rtl" lang="fa" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 و پشتی ها بالشهای منظم چیده شده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Polish
 
-
-<div dir="ltr" lang="pl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Poduszki w rzad ułozone
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jozefa Bielawskiego</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jozefa Bielawskiego |
 
-<div dir="ltr" lang="pl" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Poduszki w rząd ułożone
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jozefa Bielawskiego</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Jozefa Bielawskiego |
 
 ## Portuguese
 
-
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E almofadas enfileiradas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Helmi Nasr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Helmi Nasr |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E almofadas enfileiradas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Helmi Nasr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Helmi Nasr |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E almofadas enfileiradas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Samir El Hayek</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Samir El Hayek |
 
-<div dir="ltr" lang="pt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 E almofadas enfileiradas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Samir El Hayek</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Samir El Hayek |
 
 ## Pushto
 
-
-<div dir="rtl" lang="ps" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 او په قطار كې ایښودل شوي بالښتونه دي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulwali Khan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulwali Khan |
 
-<div dir="rtl" lang="ps" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 او په قطار كې ایښودل شوي بالښتونه دي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Zakaria Abulsalam</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Zakaria Abulsalam |
 
 ## Romanian
 
-
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 perne randuite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Grigore</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Grigore |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 perne rânduite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>George Grigore</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | George Grigore |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ulcior în vâsli
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ªi perne randuite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
-<div dir="ltr" lang="ro" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ªi perne rânduite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Unknown</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Unknown |
 
 ## Rundi
 
-
-<div dir="ltr" lang="rn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 N’imisego itondeshejwe kumirongo n’iyindi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Amissi Radjabu Ntamba</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Amissi Radjabu Ntamba |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 perne randuite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Adel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Adel |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 и подушки разложены (подряд, одна к другой)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abu Adel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abu Adel |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 razlozheny podushki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmir Kuliev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmir Kuliev |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 разложены подушки
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmir Kuliev</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmir Kuliev |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Podushki, ryadami nalozhennyye
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gordy Semyonovich Sablukov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gordy Semyonovich Sablukov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Подушки, рядами наложенные
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gordy Semyonovich Sablukov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gordy Semyonovich Sablukov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i podushki razlozheny
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ignaty Yulianovich Krachkovsky</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ignaty Yulianovich Krachkovsky |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 и подушки разложены
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ignaty Yulianovich Krachkovsky</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ignaty Yulianovich Krachkovsky |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 razlozheny podushki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Magomed Nuri Osmanovich Osmanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Magomed Nuri Osmanovich Osmanov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 разложены подушки
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Magomed Nuri Osmanovich Osmanov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Magomed Nuri Osmanovich Osmanov |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 i razlozheny ryadami podushki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ministry Of Awqaf, Egypt</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ministry Of Awqaf, Egypt |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 и разложены рядами подушки
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ministry Of Awqaf, Egypt</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ministry Of Awqaf, Egypt |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Podushki slozheny ryadami
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>V. Porokhova</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | V. Porokhova |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Подушки сложены рядами
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>V. Porokhova</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | V. Porokhova |
 
 ## Serbian
 
-
-<div dir="ltr" lang="sr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 и поређани јастуци
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center Islamhouse</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center Islamhouse |
 
 ## Shona
 
-
-<div dir="ltr" lang="sn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Uye mapiro akarongwa mumitsara
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah J. M. Adini And Students</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Abdullah J. M. Adini And Students |
 
 ## Sindhi
 
-
-<div dir="rtl" lang="sd" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۽ وھاڻا قطار ڪري رکيل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Taj Mehmood Amroti</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Taj Mehmood Amroti |
 
 ## Sinhala
 
-
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (movunta hansi vi sitimata) pulun kotta peliyata tabannata yedi tikhenu æta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (movunṭa hānsi vī siṭīmaṭa) puḷun koṭṭa pēḷiyaṭa tabannaṭa yedī tikheṇu æta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (මොවුන්ට හාන්සි වී සිටීමට) පුළුන් කොට්ට පේළියට තබන්නට යෙදී තිඛෙණු ඇත
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Naseem Ismail And Masoor Maulana, Kaleel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Naseem Ismail And Masoor Maulana, Kaleel |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 viyana lada kotta da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 viyana lada koṭṭa da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="si" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 වියන ලද කොට්ට ද
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Slovak
 
-
-<div dir="ltr" lang="sk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 pitchers v rad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
 ## Somali
 
-
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Iyo barkimooyin la safay
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Hasan Jacob</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Hasan Jacob |
 
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Iyo Barkimooyin la safay
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahmud Muhammad Abduh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mahmud Muhammad Abduh |
 
-<div dir="ltr" lang="so" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Iyo Barkimooyin la safay
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Mahmood Muhammad Abdu</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Mahmood Muhammad Abdu |
 
 ## Sotho
 
-
-<div dir="ltr" lang="st" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mesangoana e behiloeng ka mekhahlelo
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Elias Keketso Lelia</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Elias Keketso Lelia |
 
 ## Spanish
 
-
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Almohadones ordenados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Qader Mouheddine, Sirhan Ali Sanchez.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Qader Mouheddine, Sirhan Ali Sanchez. |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Almohadones ordenados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Qader Mouheddine, Sirhan Ali Sanchez.</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Qader Mouheddine, Sirhan Ali Sanchez. |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 de cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 de cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 de cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 de cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Islamic Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Islamic Foundation |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Julio Cortes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Julio Cortes |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Julio Cortes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Julio Cortes |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 y cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad Abdurrasak Perez</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad Abdurrasak Perez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 y cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Asad Abdurrasak Perez</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Asad Abdurrasak Perez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Isa Garcia</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Isa Garcia |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 cojines alineados
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Isa Garcia</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Isa Garcia |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 filas de cojines en los que recostarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Raul Gonzalez Bornez</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Raul Gonzalez Bornez |
 
-<div dir="ltr" lang="es" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 filas de cojines en los que recostarse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Raul Gonzalez Bornez</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Raul Gonzalez Bornez |
 
 ## Swahili
 
-
-<div dir="ltr" lang="sw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 na mito iliyopangwa, mmoja baada ya mwingine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdullah Muhammad Abu Bakr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdullah Muhammad Abu Bakr |
 
-<div dir="ltr" lang="sw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Na matakia safu safu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Muhsin Al Barwani</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Ali Muhsin Al Barwani |
 
 ## Swedish
 
-
-<div dir="ltr" lang="sv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 och kuddar ordnats i rader
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Knut Bernstrom</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Knut Bernstrom |
 
-<div dir="ltr" lang="sv" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 och kuddar ordnats i rader
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Knut Bernstrom</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Knut Bernstrom |
 
 ## Tajik
 
-
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 va ʙolishoe dar kanori ham cida
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 va ʙolişhoe dar kanori ham cida
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ва болишҳое дар канори ҳам чида
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdolmohammad Ayati</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdolmohammad Ayati |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 va ʙolisthoe dar kanori ham cida
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 va ʙolişthoe dar kanori ham cida
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ва болиштҳое дар канори ҳам чида
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Khoja Mirov</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Khoja Mirov |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Va ʙolisthoi [munazzam] cidasuda
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+Va ʙolisthoi \[munazzam\] cidasuda
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Va ʙolişthoi [munazzam] cidaşuda
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+Va ʙolişthoi \[munazzam\] cidaşuda
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tg" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ва болиштҳои [муназзам] чидашуда
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
+Ва болиштҳои \[муназзам\] чидашуда
+
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ivarkal cayntu kolvatarkakat) tintu talaiyanaikal varicaiyaka vaikkappattirukkum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ivarkaḷ cāyntu koḷvataṟkākat) tiṇṭu talaiyaṇaikaḷ varicaiyāka vaikkappaṭṭirukkum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (இவர்கள் சாய்ந்து கொள்வதற்காகத்) திண்டு தலையணைகள் வரிசையாக வைக்கப்பட்டிருக்கும்
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulhameed Baqavi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulhameed Baqavi |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 melum, ani aniyakkappattulla tintukalum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 mēlum, aṇi aṇiyākkappaṭṭuḷḷa tiṇṭukaḷum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 மேலும், அணி அணியாக்கப்பட்டுள்ள திண்டுகளும்
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Jan Turst Foundation</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Jan Turst Foundation |
 
 ## Tatar
 
-
-<div dir="ltr" lang="tt" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Вә тезеп куйган күпертелгән ястыклар бардыр
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakub Ibn Nugman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yakub Ibn Nugman |
 
 ## Telugu
 
-
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 mariyu varusaluga veyabadina, dindlu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 mariyu varusalugā vēyabaḍina, diṇḍlu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 మరియు వరుసలుగా వేయబడిన, దిండ్లు
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdul Raheem Mohammad Moulana</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdul Raheem Mohammad Moulana |
 
-<div dir="ltr" lang="te" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 వరుసగా వేయబడిన దిండ్లు ఉంటాయి
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Aziz Ur Rehman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Aziz Ur Rehman |
 
 ## Thai
 
-
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læa mi hmxn xing thuk reiyng wi pen thæw
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læa mī h̄mxn xing t̄hūk reīyng wị̂ pĕn t̄hæw
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 และมีหมอนอิงถูกเรียงไว้เป็นแถว
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Group From The Society Of Graduates Of Thai Universities And Institutes</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Group From The Society Of Graduates Of Thai Universities And Institutes |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læa mi hmxn xing thuk reiyng wi pen thæw
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 læa mī h̄mxn xing t̄hūk reīyng wị̂ pĕn t̄hæw
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
-<div dir="ltr" lang="th" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 และมีหมอนอิงถูกเรียงไว้เป็นแถว
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>King Fahad Quran Complex</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | King Fahad Quran Complex |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve sırasıra konmus yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulbaki Golpinarli</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulbaki Golpinarli |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve sırasıra konmuş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abdulbaki Golpinarli</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abdulbaki Golpinarli |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adem Ugur</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adem Ugur |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Adem Ugur</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Adem Ugur |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizi dizi yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bulac</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bulac |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizi dizi yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Bulac</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Bulac |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Fikri Yavuz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Fikri Yavuz |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ali Fikri Yavuz</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ali Fikri Yavuz |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis koltuklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Celal Y Ld R M</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Celal Y Ld R M |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmiş koltuklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Celal Y Ld R M</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Celal Y Ld R M |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis koltuklar, yastiklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis koltuklar, yastiklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Isleri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Isleri |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Vakfi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Vakfi |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Diyanet Vakfi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Diyanet Vakfi |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yastıklar dizilmis
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edip Yuksel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edip Yuksel |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yastıklar dizilmiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Edip Yuksel</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Edip Yuksel |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmalili Hamdi Yazir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmalili Hamdi Yazir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmiş koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmalili Hamdi Yazir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmalili Hamdi Yazir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dizilmis koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dizilmiş koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmiş koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Elmal L Sadelestirilmis</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Elmal L Sadelestirilmis |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fizilal Il Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fizilal Il Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fizilal Il Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fizilal Il Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizi dizi yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gultekin Onan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gultekin Onan |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizi dizi yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Gultekin Onan</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Gultekin Onan |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sıra sıra dizilmis yasdıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Basri Cantay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Basri Cantay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sıra sıra dizilmiş yasdıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hasan Basri Cantay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hasan Basri Cantay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ibni Kesir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ibni Kesir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ibni Kesir</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ibni Kesir |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iskender Ali Mihr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Iskender Ali Mihr |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iskender Ali Mihr</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Iskender Ali Mihr |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve nemariku masfufetun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve nemariku masfufetün
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve nemarıku masfufeh(masfufetun)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve nemârıku masfûfeh(masfûfetun)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Latin Alphabet</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Latin Alphabet |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Esed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Esed |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammed Esed</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammed Esed |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 venemariku masfufeh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammet Abay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammet Abay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 venemâriḳu maṣfûfeh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammet Abay</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammet Abay |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muslim Shahin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muslim Shahin |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muslim Shahin</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muslim Shahin |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Saban Piris</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Saban Piris |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Saban Piris</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Saban Piris |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaban Britch</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaban Britch |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaban Britch</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaban Britch |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suat Yildirim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suat Yildirim |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmiş koltuklar, yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suat Yildirim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suat Yildirim |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suleyman Ates</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suleyman Ates |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Suleyman Ates</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Suleyman Ates |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizi dizi yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tefhim Ul Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tefhim Ul Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dizi dizi yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Tefhim Ul Kuran</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Tefhim Ul Kuran |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Www.islamhouse.com</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Www.islamhouse.com |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yasar Nuri Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yasar Nuri Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmis yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Y. N. Ozturk</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Y. N. Ozturk |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sıra sıra dizilmiş yastıklar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Y. N. Ozturk</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Y. N. Ozturk |
 
 ## Twi
 
-
-<div dir="ltr" lang="tw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ne mpikyi (anaasε atԑ anaa Kushin) a, yato no santen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Sheikh Haroun Ismaeel</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Sheikh Haroun Ismaeel |
 
 ## Uighur
 
-
-<div dir="rtl" lang="ug" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ئۇ يەردە ئېگىز تەختلەر، قاتار تىزىلغان قەدەھلەر، رەت - رەت قويۇلغان ياستۇقلار، سېلىنغان ئېسىل بىساتلار بار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Saleh</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Saleh |
 
-<div dir="rtl" lang="ug" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ئۇ يەردە ئېگىز تەختلەر، قاتار تىزىلغان قەدەھلەر، رەت ـ رەت قويۇلغان ياستۇقلار، سېلىنغان ئېسىل بىساتلار بار[13ـ]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Muhammad Saleh</td></tr></tbody></table></div>
+ئۇ يەردە ئېگىز تەختلەر، قاتار تىزىلغان قەدەھلەر، رەت ـ رەت قويۇلغان ياستۇقلار، سېلىنغان ئېسىل بىساتلار بار\[13ـ\]
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Muhammad Saleh |
 
 ## Ukrainian
 
-
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 подушки розкладені
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Dr. Mikhailo Yaqubovic</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Dr. Mikhailo Yaqubovic |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ta hleky lavamy
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Та глеки лавами
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hadi Abdollahian</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hadi Abdollahian |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 podushky rozkladeni
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mykhaylo Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mykhaylo Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 подушки розкладені
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mykhaylo Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Mykhaylo Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 podushky rozkladeni
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakubovych</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Yakubovych |
 
-<div dir="ltr" lang="uk" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 подушки розкладені
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Yakubovych</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Yakubovych |
 
 ## Urdu
 
-
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 gaon takiyon(cushions arrayed) ke qatarein lagi hongi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul Ala Maududi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 گاؤ تکیوں کی قطاریں لگی ہوں گی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Abul A Ala Maududi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Abul A Ala Maududi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اورگاؤ تکیے قطار سے لگے ہوئے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Ahmed Ali</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Ahmed Ali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور گاؤ تکیے قطار کی قطار لگے ہوئے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Fateh Muhammad Jalandhry</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Fateh Muhammad Jalandhry |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-اور غالیچے برابر بچھے ہوئے [۱۰]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Mahmood Ul Hassan</td></tr></tbody></table></div>
+اور غالیچے برابر بچھے ہوئے \[۱۰\]
 
+| Details |  |
+| --- | --- |
+| Author | Mahmood Ul Hassan |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور گاؤ تکیے قطار در قطار لگے ہوئے ہوں گے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Hussain Najafi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Hussain Najafi |
 
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aur ik qatar mein lagy hoy takiey hongy
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور ایک قطار میں لگے ہوئے تکیے ہوں گے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi |
 
-<div dir="ltr" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 aur ek qataar mein lage hoye takiye honge
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Junagarhi, Muhammad Kazim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Junagarhi, Muhammad Kazim |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور گاؤ تکیے قطار در قطار لگے ہوں گے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Karam Shah Al Azhari</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Karam Shah Al Azhari |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور غالیچے اور گاؤ تکیے قطار در قطار لگے ہوں گے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Tahir Ul Qadri</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Tahir Ul Qadri |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قطار میں لگائے ہوئے گداز تکیے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Taqi Usmani</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Taqi Usmani |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور قطار سے لگے ہوئے گاؤ تکیے ہوں گے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Syed Zeeshan Haider Jawadi</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Syed Zeeshan Haider Jawadi |
 
 ## Uzbek
 
-
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ва саф-саф қилиб тизилган ёстиқлар бордир
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alaaudeen Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alaaudeen Mansour |
 
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Тизиб қўйилган ёстиқлар
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Alauddin Mansour</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Alauddin Mansour |
 
-<div dir="ltr" lang="uz" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ва саф-саф тизилган ёстиқлар бор
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Sodik Muhammad Yusuf</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Sodik Muhammad Yusuf |
 
 ## Vietnamese
 
-
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Co goi tua sap thanh hang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Abdulkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Abdulkarim |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Có gối tựa sắp thành hàng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Hassan Abdulkarim</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Hassan Abdulkarim |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Voi nhung chiec goi tua đuoc sap thanh hang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
-<div dir="ltr" lang="vi" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Với những chiếc gối tựa được sắp thành hàng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Rowwad Translation Center</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Rowwad Translation Center |
 
 ## Xhosa
 
-
-<div dir="ltr" lang="xh" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Neemandlalo (ezitofo-tofo) esele zidwelisiwe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Imaam Ismaaeel Ngqoyiyana</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Imaam Ismaaeel Ngqoyiyana |
 
 ## Yau
 
-
-<div dir="ltr" lang="yuw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ni misago jejalidwe mu ntungo wambone
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Bin Abdul Hamid Silika</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Muhammad Bin Abdul Hamid Silika |
 
-<div dir="ltr" lang="yuw" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ni misago jejalidwe mu ntungo wambone
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Muhammad Bin Abdul Hamid Silika</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Muhammad Bin Abdul Hamid Silika |
 
 ## Yoruba
 
-
-<div dir="ltr" lang="yo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ati awon irori ti won to si egbe ara won
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Abu Rahimah Mikael Aykyuni</td></tr></tbody></table></div>
 
+| Details |  |
+| --- | --- |
+| Author | Shaykh Abu Rahimah Mikael Aykyuni |
 
-<div dir="ltr" lang="yo" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 àti àwọn ìrọ̀rí tí wọ́n tò sí ẹ̀gbẹ́ ara wọn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Shaykh Abu Rahimah Mikael Aykyuni</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Shaykh Abu Rahimah Mikael Aykyuni |
 
 ## Zulu
 
-
-<div dir="ltr" lang="zu" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nemiqamelo ebekwe yaba uhlu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Details</th> <th></th> </tr> </thead> <tbody> <tr><td>Author</td><td>Iqembu Lezifundiswa, Mussa Muhammad Telela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman</td></tr></tbody></table></div>
+
+| Details |  |
+| --- | --- |
+| Author | Iqembu Lezifundiswa, Mussa Muhammad Telela , Uthman Mfanafuthi Msomi, Moulana Abdur Rahman Chilipa, Haji Ibrahim Mondli Japhet Mthembu, Moulana Imran Ngcobo, Moulana Eshaaq Osman |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، حَدَّثَنَا هَاشِمُ بْنُ هَاشِمٍ، عَنْ عَامِرِ بْنِ سَعْدِ بْنِ أَبِي وَقَّاصٍ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ تَصَبَّحَ سَبْعَ تَمَرَاتِ عَجْوَةٍ لَمْ يَضُرُّهُ ذَلِكَ الْيَوْمَ سَمٌّ وَلاَ سِحْرٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا ابو اسامة، حدثنا هاشم بن هاشم، عن عامر بن سعد بن ابي وقاص، عن ابيه، عن النبي صلى الله عليه وسلم قال " من تصبح سبع تمرات عجوة لم يضره ذلك اليوم سم ولا سحر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
 
 ## Bengali
 
+। আমির ইবনু সা‘দ ইবনু আবূ ওয়াক্‌কাস (রহঃ) থেকে নিজের পিতার সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি প্রত্যহ সকালে সাতটি আজওয়া খেজুর খাবে, সেদিন কোনো ধরণের বিষ ও যাদু তাকে ক্ষতি করতে পারবে না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আমির ইবনু সা‘দ ইবনু আবূ ওয়াক্‌কাস (রহঃ) থেকে নিজের পিতার সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি প্রত্যহ সকালে সাতটি আজওয়া খেজুর খাবে, সেদিন কোনো ধরণের বিষ ও যাদু তাকে ক্ষতি করতে পারবে না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa’d b. Abl Waqqas reported the prophet (ﷺ) as saying:He who has a morning meal of seven ‘Ajwah dates will not suffer from any harm that day through poison or magic
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
+
+## French
+
+Rapporté par Sa’d ibn Abi Waqqas رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui mange sept dattes ‘Ajwah au petit matin ne subira aucun mal ce jour-là, ni par le poison ni par la sorcellerie. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] telah menceritakan kepada kami \[Abu Usamah\] telah menceritakan kepada kami \[Hasyim bin Hasyim\] dari \['Amir bin Sa'd bin Abu Waqqash\] dari \[Ayahnya\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa pada pagi hari makan tujuh butir kurma 'ajwah, maka pada hari itu ia tidak akan terkena racun dan sihir
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] telah menceritakan kepada kami [Hasyim bin Hasyim] dari ['Amir bin Sa'd bin Abu Waqqash] dari [Ayahnya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa pada pagi hari makan tujuh butir kurma 'ajwah, maka pada hari itu ia tidak akan terkena racun dan sihir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Амир ибн Са‘д ибн Абу Ваккас передаёт от своего отца, что Пророк ﷺ сказал: «Кто съедает с утра (, до того, как он съест что-то другое,) семь фиников сорта аджва, тому не повредит в этот день ни яд, ни колдовство»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'd b. Ebî Vakkâs'dan rivayet olunduğuna göre; Nebi (s.a.v.) şöyle buyurmuştur: "Kim her sabah (aç karnına Medine'nin en iyi hurması olan) Acve'den yedi tane yerse ona o gün zehir de zarar vermez, sihir de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعد بن ابی وقاص رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو سات عجوہ کھجوریں نہار منہ کھائے گا تو اس دن اسے نہ کوئی زہر نقصان پہنچائے گا، نہ جادو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5769) Sahih Muslim (2047)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3876</td></tr><tr><td>Arabic No</td><td>3876</td></tr><tr><td>Reference</td><td>Book 29 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5769) Sahih Muslim (2047) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3876 |
+| Arabic No | 3876 |
+| Reference | Book 29 Hadith 22 |

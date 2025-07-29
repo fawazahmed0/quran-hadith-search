@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَفَاضَ يَوْمَ النَّحْرِ ثُمَّ صَلَّى الظُّهْرَ بِمِنًى يَعْنِي رَاجِعًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
+
 حدثنا احمد بن حنبل، حدثنا عبد الرزاق، اخبرنا عبيد الله، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم افاض يوم النحر ثم صلى الظهر بمنى يعني راجعا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরবানীর দিন মক্কায় এসে তাওয়াফে যিয়ারা সমাপ্ত করে পুনরায় মিানয়ই ফিরে এসে সেখানে যুহরের সালাত আদায় করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুরবানীর দিন মক্কায় এসে তাওয়াফে যিয়ারা সমাপ্ত করে পুনরায় মিানয়ই ফিরে এসে সেখানে যুহরের সালাত আদায় করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Umar:The Prophet (ﷺ) performed the obligatory circumambulation (Tawaf al-Ziyarah) on the day of the sacrifice ; he then offered the noon prayer at Mina when he returned
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
+
+## French
+
+Rapporté par Ibn 'Umar رضي الله عنه : Le Prophète ﷺ a accompli la circumambulation obligatoire (Tawaf al-Ziyarah) le jour du sacrifice ; puis il a accompli la prière du midi à Mina à son retour
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\], telah menceritakan kepada kami \[Abdurrazzaq\], telah mengabarkan kepada kami \['Ubaidullah\] dari \[Nafi'\] dari \[Ibnu Umar\] bahwa Nabi shallallahu 'alaihi wasallam melakukan thawaf ifadhah pada hari nahr kemudian melakukan shalat Zhuhur di Mina ketika, yaitu dalam keadaan kembali kepadanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam melakukan thawaf ifadhah pada hari nahr kemudian melakukan shalat Zhuhur di Mina ketika, yaitu dalam keadaan kembali kepadanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ совершил завершающий обход вокруг Каабы /таваф аль-ифада/ в день жертвоприношения и полуденную молитву /зухр/ в Мине, когда возвращался
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.)'den rivayet edildiğine göre, Peygamber (sallallahu aleyhi ve sellem Kurban (bayramının birinci) günü (Minâ'dan Mekke'ye) inmiş sonra (Minâ'ya) dönerek öğleyi Minâ'da kılmıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے یوم النحر کو طواف افاضہ کیا پھر منی میں ظہر ادا کی یعنی ( طواف سے ) لوٹ کر۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1998</td></tr><tr><td>Arabic No</td><td>1998</td></tr><tr><td>Reference</td><td>Book 11 Hadith 278</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1998 |
+| Arabic No | 1998 |
+| Reference | Book 11 Hadith 278 |

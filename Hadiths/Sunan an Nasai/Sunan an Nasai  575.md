@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,118 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مُحَمَّدُ بْنُ قُدَامَةَ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مُغِيرَةَ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، قَالَ قَالَتْ عَائِشَةُ رضى الله تعالى عنها مَا دَخَلَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بَعْدَ الْعَصْرِ إِلاَّ صَلاَّهُمَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |
+
 اخبرني محمد بن قدامة، قال حدثنا جرير، عن مغيرة، عن ابراهيم، عن الاسود، قال قالت عايشة رضى الله تعالى عنها ما دخل على رسول الله صلى الله عليه وسلم بعد العصر الا صلاهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু কুদামা (রহঃ) ... আসওয়াদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আয়িশা (রাঃ) বলেছেনঃ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসরের পরে যখনই আমার কাছে আসতেন, দু’রাক’আত সালাত আদায় করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Al-Aswad said:'Aishah said: "The Messenger of Allah (ﷺ) never entered upon me after 'Asr but he prayed them (the two Rak'ahs)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |
+
+## French
+
+Rapporté par Al-Aswad : 'Aishah a dit : "Le Messager d'Allah (ﷺ) n'entrait jamais chez moi après 'Asr sans prier ces deux Rak'ah
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Qudamah\] dia berkata; Telah menceritakan kepada kami \[Jarir\] dari \[Mughirah\] dari \[Ibrahim\] dari \[Al Aswad\] dia berkata; \[Aisyah\] Radliyallahu'anha berkata; "Rasulullah Shallallahu'alaihi wasallam tidak pernah menemuiku setelah Ashar kecuali setelah mengerjakan shalat dua rakaat (ba'da ashar)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Qudamah] dia berkata; Telah menceritakan kepada kami [Jarir] dari [Mughirah] dari [Ibrahim] dari [Al Aswad] dia berkata; [Aisyah] Radliyallahu'anha berkata; "Rasulullah Shallallahu'alaihi wasallam tidak pernah menemuiku setelah Ashar kecuali setelah mengerjakan shalat dua rakaat (ba'da ashar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yine Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), ikindiden sonra yanıma her girdiğinde mutlaka o iki rekatı kılardı. (Ebû Dâvûd, Salat: 299; Dârimi, Salat:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم عصر کے بعد میرے پاس جب بھی آتے تو دونوں رکعتوں کو پڑھتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>575</td></tr><tr><td>Arabic No</td><td>575</td></tr><tr><td>Reference</td><td>Book 6 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 575 |
+| Arabic No | 575 |
+| Reference | Book 6 Hadith 82 |

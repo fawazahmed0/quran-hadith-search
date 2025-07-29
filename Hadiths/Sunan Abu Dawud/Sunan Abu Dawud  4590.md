@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَبِي نَضْرَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ غُلاَمًا، لأُنَاسٍ فُقَرَاءَ قَطَعَ أُذُنَ غُلاَمٍ لأُنَاسٍ أَغْنِيَاءَ فَأَتَى أَهْلُهُ النَّبِيَّ صلى الله عليه وسلم فَقَالُوا يَا رَسُولَ اللَّهِ إِنَّا أُنَاسٌ فُقَرَاءُ ‏.‏ فَلَمْ يَجْعَلْ عَلَيْهِ شَيْئًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
+
 حدثنا احمد بن حنبل، حدثنا معاذ بن هشام، حدثني ابي، عن قتادة، عن ابي نضرة، عن عمران بن حصين، ان غلاما، لاناس فقراء قطع اذن غلام لاناس اغنياء فاتى اهله النبي صلى الله عليه وسلم فقالوا يا رسول الله انا اناس فقراء . فلم يجعل عليه شييا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইমরান ইবনু হুসাইন (রাঃ) থেকে বর্ণিত। একদা এক দরিদ্র ব্যক্তির গোলাম অপর এক ধনী লোকের গোলামের কান কেটে ফেললো। অতঃপর তার পরিবারের লোকেরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমরা তো গরীব। অতএব তিনি তার উপর কোনো কিছু ধার্য করেননি। সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Imran ibn Husayn: A servant of some poor people cut off the ear of the servant of some rich people. His people came to the Prophet (ﷺ) and said: Messenger of Allah! we are poor people. So he imposed no compensation on them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
+
+## French
+
+Rapporté par Imran ibn Husayn رضي الله عنه : Un serviteur appartenant à des pauvres a coupé l’oreille du serviteur de riches. Les siens sont venus voir le Prophète ﷺ et ont dit : « Ô Messager d’Allah ! Nous sommes pauvres. » Il n’a donc pas imposé de compensation
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] berkata, telah menceritakan kepada kami \[Mu'adz bin Hisyam\] berkata, telah menceritakan kepadaku \[Bapakku\] dari \[Qatadah\] dari \[Abu Nadhrah\] dari \[Imran bin Hushain\] berkata, "Bahwasanya ada budak laki-laki milik orang miskin memotong telinga budak laki-laki milik orang kaya. Lalu keluarga budak (milik orang miskin) tersebut mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Rasulullah, kami ini adalah orang-orang yang miskin! ' Beliau akhirnya tidak memberikan hukuman apapun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Mu'adz bin Hisyam] berkata, telah menceritakan kepadaku [Bapakku] dari [Qatadah] dari [Abu Nadhrah] dari [Imran bin Hushain] berkata, "Bahwasanya ada budak laki-laki milik orang miskin memotong telinga budak laki-laki milik orang kaya. Lalu keluarga budak (milik orang miskin) tersebut mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, 'Wahai Rasulullah, kami ini adalah orang-orang yang miskin! ' Beliau akhirnya tidak memberikan hukuman apapun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İmran b. Husayn (r.a) den rivayet edildi ki: Fakirlere ait bir köle, zengin birilerine ait bir kölenin kulağını kopardı. Bunun üzerine kulağı koparanın sahipleri Rasûlullah'a gelip: "Ya Rasûlallah! biz fakir insanlarız" dediler. Rasûlullah (s.a.v) de onlara hiçbir şey (ceza) yüklemedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمران بن حصین رضی اللہ عنہما سے روایت ہے کہ فقیر لوگوں کے ایک غلام نے کچھ مالدار لوگوں کے ایک غلام کا کان کاٹ لیا، تو جس غلام نے کان کاٹا تھا اس کے مالکان نے نبی اکرم صلی اللہ علیہ وسلم کے پاس آ کر کہا: اللہ کے رسول! ہم فقیر لوگ ہیں، تو آپ نے ان پر کوئی دیت نہیں ٹھہرائی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4590</td></tr><tr><td>Arabic No</td><td>4590</td></tr><tr><td>Reference</td><td>Book 41 Hadith 97</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4590 |
+| Arabic No | 4590 |
+| Reference | Book 41 Hadith 97 |

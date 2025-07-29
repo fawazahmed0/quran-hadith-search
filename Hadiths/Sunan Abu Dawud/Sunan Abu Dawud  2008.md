@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ إِنَّمَا نَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمُحَصَّبَ لِيَكُونَ أَسْمَحَ لِخُرُوجِهِ وَلَيْسَ بِسُنَّةٍ فَمَنْ شَاءَ نَزَلَهُ وَمَنْ شَاءَ لَمْ يَنْزِلْهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
+
 حدثنا احمد بن حنبل، حدثنا يحيى بن سعيد، عن هشام، عن ابيه، عن عايشة، قالت انما نزل رسول الله صلى الله عليه وسلم المحصب ليكون اسمح لخروجه وليس بسنة فمن شاء نزله ومن شاء لم ينزله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহাস্‌সাবে অবতরণ করেছেন, যেন মদীনা অভিমূখে রওয়ানা হওয়া সহজতর হয়। তবে সেখানে অবতরণ করা সুন্নাত নয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহাস্‌সাবে অবতরণ করেছেন, যেন মদীনা অভিমূখে রওয়ানা হওয়া সহজতর হয়। তবে সেখানে অবতরণ করা সুন্নাত নয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah:The Messenger of Allah (ﷺ) alighted at al-Muhassab so that it might be easier for him to proceed (to Medina). It is not a sunnah (i.e. a rite of Hajj). Anyone who desires may alight there, and anyone who does not want may not alight
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ s’est arrêté à al-Muhassab pour que ce soit plus facile pour lui de repartir (vers Médine). Ce n’est pas une sunna (c’est-à-dire un rite du Hajj). Celui qui veut peut s’y arrêter, et celui qui ne veut pas n’est pas obligé
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\], telah menceritakan kepada kami \[Yahya bin Sa'id\] dari \[Hisyam\] dari \[ayahnya\] dari \[Aisyah\], ia berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam singgah di Al Muhashshab agar beliau mudah untuk keluar, hal tersebut bukanlah perkara yang sunnah. Maka barangsiapa yang ingin singgah padanya, ia boleh singgah, dan barangsiapa yang tidak ingin singgah padanya, maka ia boleh tidak singgah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Yahya bin Sa'id] dari [Hisyam] dari [ayahnya] dari [Aisyah], ia berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam singgah di Al Muhashshab agar beliau mudah untuk keluar, hal tersebut bukanlah perkara yang sunnah. Maka barangsiapa yang ingin singgah padanya, ia boleh singgah, dan barangsiapa yang tidak ingin singgah padanya, maka ia boleh tidak singgah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ останавливался в ущелье Мухассаб, которое выходило в Абтах, чтобы легче было выйти, однако это не сунна, и кто желает, может остановиться там, а кто не желает, тот может не останавливаться»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anhâ)'dan; demiştir ki: Resûlullah (s.a.v.) sadece (Medine'ye dönüşte yola) çıkmak için daha kolayına geleceğinden dolayı (Minâ'dan Mekke'ye gelirken) Muhassab'a inmiştir. (Muhassab'a inmek aslında) sünnet değildir. İsteyen orada iner, istemeyen de inmez
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رسول اللہ صلی اللہ علیہ وسلم محصب میں صرف اس لیے اترے تاکہ آپ کے (مکہ سے) نکلنے میں آسانی ہو، یہ کوئی سنت نہیں، لہٰذا جو چاہے وہاں اترے اور جو چاہے نہ اترے ۱؎۔ تخریج دارالدعوہ: تفرد بہ أبو داود، ( تحفة الأشراف: ۱۶۷۸۵، ۱۷۳۳۰ ) ، وقد أخرجہ: صحیح البخاری/الحج ۱۴۷ ( ۱۷۶۵ ) ، صحیح مسلم/الحج ۵۹ ( ۱۳۱۱ ) ، سنن الترمذی/الحج ۸۲ ( ۹۲۳ ) ، سنن ابن ماجہ/المناسک ۸۱ ( ۳۰۶۷ ) ، مسند احمد ( ۶/۱۹۰ ) ( صحیح)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 11 Hadith 288</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 11 Hadith 288 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ الثَّقَفِيُّ، حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، عَنْ أَبِيهِ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ يَحِلُّ لاِمْرَأَةٍ مُسْلِمَةٍ تُسَافِرُ مَسِيرَةَ لَيْلَةٍ إِلاَّ وَمَعَهَا رَجُلٌ ذُو حُرْمَةٍ مِنْهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
+
 حدثنا قتيبة بن سعيد الثقفي، حدثنا الليث بن سعد، عن سعيد بن ابي سعيد، عن ابيه، ان ابا هريرة، قال قال رسول الله صلى الله عليه وسلم " لا يحل لامراة مسلمة تسافر مسيرة ليلة الا ومعها رجل ذو حرمة منها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাযি.) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো মুসলিম নারীর জন্য সাথে মাহরাম (যার সাথে বিবাহ হারাম এমন আত্মীয়) ছাড়া এক রাতের রাস্তা সফর করা বৈধ নয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাযি.) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো মুসলিম নারীর জন্য সাথে মাহরাম (যার সাথে বিবাহ হারাম এমন আত্মীয়) ছাড়া এক রাতের রাস্তা সফর করা বৈধ নয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported :The Messenger of Allah (SWAS) as saying : A muslim woman must not make a journey of a night unless she is accompanied by a man who is within the prohibited degrees
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté : Le Messager d’Allah ﷺ a dit : « Une femme musulmane ne doit pas voyager une nuit sans être accompagnée d’un homme avec qui le mariage lui est interdit. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не разрешается женщине отправляться в путь, занимающий ночь, без сопровождения близкого родственника-мужчины /махрам/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.)'den demiştir ki: Resûlullah (s.a.v.) şöyle buyurdu: "Hiç bir müslüman kadın'a yanında kendisine nikâhı düşmeyen bir adam bulunmaksızın, bir gecelik yol'a çıkması helâl değildir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: کسی مسلمان عورت کے لیے یہ حلال نہیں کہ وہ ایک رات کی مسافت کا سفر کرے مگر اس حال میں کہ اس کے ساتھ اس کا کوئی محرم ہو ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1339)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1723</td></tr><tr><td>Arabic No</td><td>1723</td></tr><tr><td>Reference</td><td>Book 11 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1339) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1723 |
+| Arabic No | 1723 |
+| Reference | Book 11 Hadith 3 |

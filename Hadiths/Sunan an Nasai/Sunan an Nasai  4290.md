@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا وَهْبُ بْنُ بَيَانٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، قَالَ أَنْبَأَنَا ابْنُ شِهَابٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ مَنِ اقْتَنَى كَلْبًا لَيْسَ بِكَلْبِ صَيْدٍ وَلاَ مَاشِيَةٍ وَلاَ أَرْضٍ فَإِنَّهُ يَنْقُصُ مِنْ أَجْرِهِ قِيرَاطَانِ كُلَّ يَوْمٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |
+
 اخبرنا وهب بن بيان، قال حدثنا ابن وهب، قال اخبرني يونس، قال انبانا ابن شهاب، عن سعيد بن المسيب، عن ابي هريرة، عن رسول الله صلى الله عليه وسلم قال " من اقتنى كلبا ليس بكلب صيد ولا ماشية ولا ارض فانه ينقص من اجره قيراطان كل يوم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ওহাব ইবন বায়ান (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি শিকারী কুকুর পালিত পশুর রক্ষক কুকুর কিংবা কৃষিভূমির পাহারার কুকুর ব্যতীত অন্য কোন কুকুর পালন করবে, তার সওয়াব হতে প্রতিদিন দুই কীরাত সওয়াব কমে যাবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that the Messenger of Allah said:"Whoever keeps a dog that is not a dog used for hunting, herding livestock or guarding land, two qirats will be deducted from his reward each day
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d’Allah ﷺ a dit : « Celui qui garde un chien qui n’est pas utilisé pour la chasse, le bétail ou la garde d’un terrain, deux qirats seront retirés de sa récompense chaque jour. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Wahb bin Bayan\], ia berkata; telah menceritakan kepada kami \[Ibnu Wahb\], ia berkata; telah menceritakan kepadaku \[Yunus\], ia berkata; telah memberitakan kepada kami \[Ibnu Syihab\] dari \[Sa'id bin Al Musayyab\] dari \[Abu Hurairah\] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Barang siapa yang memelihara anjing yang bukan anjing pemburu dan anjing penjaga hewan ternak dan kebun maka akan berkurang dari pahalanya setiap hari sebanyak dua qirath
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Wahb bin Bayan], ia berkata; telah menceritakan kepada kami [Ibnu Wahb], ia berkata; telah menceritakan kepadaku [Yunus], ia berkata; telah memberitakan kepada kami [Ibnu Syihab] dari [Sa'id bin Al Musayyab] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam beliau bersabda: "Barang siapa yang memelihara anjing yang bukan anjing pemburu dan anjing penjaga hewan ternak dan kebun maka akan berkurang dari pahalanya setiap hari sebanyak dua qirath
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4290</td></tr><tr><td>Arabic No</td><td>4290</td></tr><tr><td>Reference</td><td>Book 42 Hadith 28</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4290 |
+| Arabic No | 4290 |
+| Reference | Book 42 Hadith 28 |

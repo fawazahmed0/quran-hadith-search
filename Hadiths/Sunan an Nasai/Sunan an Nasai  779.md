@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا أَبُو بَكْرِ بْنُ عَيَّاشٍ، عَنْ عَاصِمٍ، عَنْ زِرٍّ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لَعَلَّكُمْ سَتُدْرِكُونَ أَقْوَامًا يُصَلُّونَ الصَّلاَةَ لِغَيْرِ وَقْتِهَا فَإِنْ أَدْرَكْتُمُوهُمْ فَصَلُّوا الصَّلاَةَ لِوَقْتِهَا وَصَلُّوا مَعَهُمْ وَاجْعَلُوهَا سُبْحَةً ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |
+
 اخبرنا عبيد الله بن سعيد، قال حدثنا ابو بكر بن عياش، عن عاصم، عن زر، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم " لعلكم ستدركون اقواما يصلون الصلاة لغير وقتها فان ادركتموهم فصلوا الصلاة لوقتها وصلوا معهم واجعلوها سبحة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । উবায়দুল্লাহ ইবনু সাঈদ (রহঃ) ... আব্দুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হয়ত তোমরা এমন লোকের সাক্ষাত পাবে যারা অসময়ে সালাত আদায় করবে। যদি তোমরা তাদের পাও, তাহলে সময়মত সালাত আদায় করবে এবং তাদের সাথে সালাত আদায় করবে এবং তা নফল ধরে নেবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Abdullih said:"The Messenger of Allah (ﷺ) said: 'You may live to meet people who will be offering the prayer outside its (prayer) time. If you meet them, then offer the prayer on time, then pray with them and make that a voluntary prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |
+
+## French
+
+Rapporté par 'Abdullah : Le Messager d'Allah (ﷺ) a dit : "Il se peut que vous viviez assez longtemps pour rencontrer des gens qui feront la prière en dehors de son temps. Si cela arrive, faites la prière à l'heure, puis priez avec eux, et considérez cela comme une prière surérogatoire
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |
 
 ## Indonesian
 
+Telah mengkabarkan kepada kami \['Ubaidullah bin Sa'id\] dia berkata; telah menceritakan kepada kami \[Abu Bakr bin 'Ayyasy\] dari \['Ashim\] dari \[Zirr\] dari \[Abdullah\] dia berkata; Rasulullah Shallallahu'alaihi wasallam bersabda, "Mungkin kalian akan menjumpai suatu kaum yang mengerjakan shalat tidak pada waktunya. Jika kalian mendapati mereka, maka shalatlah pada waktunya, kemudian ikutlah shalat bersama mereka dan anggaplah itu sebagai shalat sunnah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; telah menceritakan kepada kami [Abu Bakr bin 'Ayyasy] dari ['Ashim] dari [Zirr] dari [Abdullah] dia berkata; Rasulullah Shallallahu'alaihi wasallam bersabda, "Mungkin kalian akan menjumpai suatu kaum yang mengerjakan shalat tidak pada waktunya. Jika kalian mendapati mereka, maka shalatlah pada waktunya, kemudian ikutlah shalat bersama mereka dan anggaplah itu sebagai shalat sunnah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: عنقریب تم کچھ ایسے لوگوں کو پاؤ گے جو نماز کو بے وقت کر کے پڑھیں گے، تو اگر تم ایسے لوگوں کو پاؤ تو تم اپنی نماز وقت پر پڑھ لیا کرو، اور ان کے ساتھ بھی پڑھ لیا کرو ۱؎ اور اسے سنت ( نفل ) بنا لو ۲؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>779</td></tr><tr><td>Arabic No</td><td>779</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 779 |
+| Arabic No | 779 |
+| Reference | Book 10 Hadith 3 |

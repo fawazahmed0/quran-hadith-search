@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُنَّا نُبَايِعُ النَّبِيَّ صلى الله عليه وسلم عَلَى السَّمْعِ وَالطَّاعَةِ وَيُلَقِّنُنَا فِيمَا اسْتَطَعْتَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
+
 حدثنا حفص بن عمر، حدثنا شعبة، عن عبد الله بن دينار، عن ابن عمر، قال كنا نبايع النبي صلى الله عليه وسلم على السمع والطاعة ويلقننا فيما استطعت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট শ্রবণ এবং আনুগত্যের বাই‘আত করেছি। তিনি আমাদেরকে বলতেনঃ ‘‘তোমাদের সামর্থ অনুপাতে।’’
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Umar:We used to take the oath of allegiance to the Prophet (ﷺ) to hear and obey, and he would tell: In What I am able
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
+
+## French
+
+Rapporté par Ibn Omar رضي الله عنه : Nous prêtions serment d’allégeance au Prophète ﷺ pour écouter et obéir, et il précisait : « Dans la mesure de mes capacités. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar\], telah menceritakan kepada kami \[Syu'bah\] dari \[Abdullah bin Dinar\], dari \[Ibnu Umar\], ia berkata; dahulu kami membai'at Nabi shallallahu 'alaihi wasallam untuk mendengar dan mentaati, dan beliau membisikkan: "Semampumu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Dinar], dari [Ibnu Umar], ia berkata; dahulu kami membai'at Nabi shallallahu 'alaihi wasallam untuk mendengar dan mentaati, dan beliau membisikkan: "Semampumu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Мы присягали Пророку ﷺ и клялись слушаться и повиноваться, а он велел нам говорить: “В том, в чём смогу”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer'den demiştir ki: Biz, Rasûlullah (S.A.V.)'e (emirlerini) dinlemek ve itaat etmek üzere söz verirdik (de, Rasûl-ü Ekrem efendimiz) bize “Gücünün yettiği şeylere (söz ver)" diye telkinde bulunurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ ہم رسول اللہ صلی اللہ علیہ وسلم سے سننے اور اطاعت کرنے کی بیعت کرتے تھے اور ہمیں آپ صلی اللہ علیہ وسلم تلقین کرتے تھے کہ ہم یہ بھی کہیں: جہاں تک ہمیں طاقت ہے ( یعنی ہم اپنی پوری طاقت بھر آپ کی سمع و طاعت کرتے رہیں گے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2702) Sahih Muslim (1867)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2940</td></tr><tr><td>Arabic No</td><td>2940</td></tr><tr><td>Reference</td><td>Book 20 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2702) Sahih Muslim (1867) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2940 |
+| Arabic No | 2940 |
+| Reference | Book 20 Hadith 13 |

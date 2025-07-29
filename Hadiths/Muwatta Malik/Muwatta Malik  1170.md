@@ -14,62 +14,102 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ مَرْوَانَ بْنَ الْحَكَمِ، كَانَ يَقْضِي فِي الرَّجُلِ إِذَا آلَى مِنِ امْرَأَتِهِ أَنَّهَا إِذَا مَضَتِ الأَرْبَعَةُ الأَشْهُرِ فَهِيَ تَطْلِيقَةٌ وَلَهُ عَلَيْهَا الرَّجْعَةُ مَا دَامَتْ فِي عِدَّتِهَا ‏.‏ قَالَ مَالِكٌ وَعَلَى ذَلِكَ كَانَ رَأْىُ ابْنِ شِهَابٍ ‏.‏ قَالَ مَالِكٌ فِي الرَّجُلِ يُولِي مِنِ امْرَأَتِهِ فَيُوقَفُ فَيُطَلِّقُ عِنْدَ انْقِضَاءِ الأَرْبَعَةِ الأَشْهُرِ ثُمَّ يُرَاجِعُ امْرَأَتَهُ أَنَّهُ إِنْ لَمْ يُصِبْهَا حَتَّى تَنْقَضِيَ عِدَّتُهَا فَلاَ سَبِيلَ لَهُ إِلَيْهَا وَلاَ رَجْعَةَ لَهُ عَلَيْهَا إِلاَّ أَنْ يَكُونَ لَهُ عُذْرٌ مِنْ مَرَضٍ أَوْ سِجْنٍ أَوْ مَا أَشْبَهَ ذَلِكَ مِنَ الْعُذْرِ فَإِنَّ ارْتِجَاعَهُ إِيَّاهَا ثَابِتٌ عَلَيْهَا فَإِنْ مَضَتْ عِدَّتُهَا ثُمَّ تَزَوَّجَهَا بَعْدَ ذَلِكَ فَإِنَّهُ إِنْ لَمْ يُصِبْهَا حَتَّى تَنْقَضِيَ الأَرْبَعَةُ الأَشْهُرِ وَقَفَ أَيْضًا فَإِنْ لَمْ يَفِئْ دَخَلَ عَلَيْهِ الطَّلاَقُ بِالإِيلاَءِ الأَوَّلِ إِذَا مَضَتِ الأَرْبَعَةُ الأَشْهُرِ وَلَمْ يَكُنْ لَهُ عَلَيْهَا رَجْعَةٌ لأَنَّهُ نَكَحَهَا ثُمَّ طَلَّقَهَا قَبْلَ أَنْ يَمَسَّهَا فَلاَ عِدَّةَ لَهُ عَلَيْهَا وَلاَ رَجْعَةَ ‏.‏ قَالَ مَالِكٌ فِي الرَّجُلِ يُولِي مِنِ امْرَأَتِهِ فَيُوقَفُ بَعْدَ الأَرْبَعَةِ الأَشْهُرِ فَيُطَلِّقُ ثُمَّ يَرْتَجِعُ وَلاَ يَمَسُّهَا فَتَنْقَضِي أَرْبَعَةُ أَشْهُرٍ قَبْلَ أَنْ تَنْقَضِيَ عِدَّتُهَا إِنَّهُ لاَ يُوقَفُ وَلاَ يَقَعُ عَلَيْهِ طَلاَقٌ وَإِنَّهُ إِنْ أَصَابَهَا قَبْلَ أَنْ تَنْقَضِيَ عِدَّتُهَا كَانَ أَحَقَّ بِهَا وَإِنْ مَضَتْ عِدَّتُهَا قَبْلَ أَنْ يُصِيبَهَا فَلاَ سَبِيلَ لَهُ إِلَيْهَا وَهَذَا أَحْسَنُ مَا سَمِعْتُ فِي ذَلِكَ ‏.‏ قَالَ مَالِكٌ فِي الرَّجُلِ يُولِي مِنِ امْرَأَتِهِ ثُمَّ يُطَلِّقُهَا فَتَنْقَضِي الأَرْبَعَةُ الأَشْهُرِ قَبْلَ انْقِضَاءِ عِدَّةِ الطَّلاَقِ قَالَ هُمَا تَطْلِيقَتَانِ إِنْ هُوَ وُقِفَ وَلَمْ يَفِئْ وَإِنْ مَضَتْ عِدَّةُ الطَّلاَقِ قَبْلَ الأَرْبَعَةِ الأَشْهُرِ فَلَيْسَ الإِيلاَءُ بِطَلاَقٍ وَذَلِكَ أَنَّ الأَرْبَعَةَ الأَشْهُرِ الَّتِي كَانَتْ تُوقَفُ بَعْدَهَا مَضَتْ وَلَيْسَتْ لَهُ يَوْمَئِذٍ بِامْرَأَةٍ ‏.‏ قَالَ مَالِكٌ وَمَنْ حَلَفَ أَنْ لاَ يَطَأَ امْرَأَتَهُ يَوْمًا أَوْ شَهْرًا ثُمَّ مَكَثَ حَتَّى يَنْقَضِيَ أَكْثَرُ مِنَ الأَرْبَعَةِ الأَشْهُرِ فَلاَ يَكُونُ ذَلِكَ إِيلاَءً وَإِنَّمَا يُوقَفُ فِي الإِيلاَءِ مَنْ حَلَفَ عَلَى أَكْثَرَ مِنَ الأَرْبَعَةِ الأَشْهُرِ فَأَمَّا مَنْ حَلَفَ أَنْ لاَ يَطَأَ امْرَأَتَهُ أَرْبَعَةَ أَشْهُرٍ أَوْ أَدْنَى مِنْ ذَلِكَ فَلاَ أَرَى عَلَيْهِ إِيلاَءً لأَنَّهُ إِذَا دَخَلَ الأَجَلُ الَّذِي يُوقَفُ عِنْدَهُ خَرَجَ مِنْ يَمِينِهِ وَلَمْ يَكُنْ عَلَيْهِ وَقْفٌ ‏.‏ قَالَ مَالِكٌ مَنْ حَلَفَ لاِمْرَأَتِهِ أَنْ لاَ يَطَأَهَا حَتَّى تَفْطِمَ وَلَدَهَا فَإِنَّ ذَلِكَ لاَ يَكُونُ إِيلاَءً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |
+
 وحدثني عن مالك، انه بلغه ان مروان بن الحكم، كان يقضي في الرجل اذا الى من امراته انها اذا مضت الاربعة الاشهر فهي تطليقة وله عليها الرجعة ما دامت في عدتها . قال مالك وعلى ذلك كان راى ابن شهاب . قال مالك في الرجل يولي من امراته فيوقف فيطلق عند انقضاء الاربعة الاشهر ثم يراجع امراته انه ان لم يصبها حتى تنقضي عدتها فلا سبيل له اليها ولا رجعة له عليها الا ان يكون له عذر من مرض او سجن او ما اشبه ذلك من العذر فان ارتجاعه اياها ثابت عليها فان مضت عدتها ثم تزوجها بعد ذلك فانه ان لم يصبها حتى تنقضي الاربعة الاشهر وقف ايضا فان لم يفي دخل عليه الطلاق بالايلاء الاول اذا مضت الاربعة الاشهر ولم يكن له عليها رجعة لانه نكحها ثم طلقها قبل ان يمسها فلا عدة له عليها ولا رجعة . قال مالك في الرجل يولي من امراته فيوقف بعد الاربعة الاشهر فيطلق ثم يرتجع ولا يمسها فتنقضي اربعة اشهر قبل ان تنقضي عدتها انه لا يوقف ولا يقع عليه طلاق وانه ان اصابها قبل ان تنقضي عدتها كان احق بها وان مضت عدتها قبل ان يصيبها فلا سبيل له اليها وهذا احسن ما سمعت في ذلك . قال مالك في الرجل يولي من امراته ثم يطلقها فتنقضي الاربعة الاشهر قبل انقضاء عدة الطلاق قال هما تطليقتان ان هو وقف ولم يفي وان مضت عدة الطلاق قبل الاربعة الاشهر فليس الايلاء بطلاق وذلك ان الاربعة الاشهر التي كانت توقف بعدها مضت وليست له يوميذ بامراة . قال مالك ومن حلف ان لا يطا امراته يوما او شهرا ثم مكث حتى ينقضي اكثر من الاربعة الاشهر فلا يكون ذلك ايلاء وانما يوقف في الايلاء من حلف على اكثر من الاربعة الاشهر فاما من حلف ان لا يطا امراته اربعة اشهر او ادنى من ذلك فلا ارى عليه ايلاء لانه اذا دخل الاجل الذي يوقف عنده خرج من يمينه ولم يكن عليه وقف . قال مالك من حلف لامراته ان لا يطاها حتى تفطم ولدها فان ذلك لا يكون ايلاء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 রেওয়ায়ত ৩৫. আবদুল্লাহ্ ইবন উমর (রাঃ) হইতে বর্ণিত, রাসূলুল্লাহ্ সাল্লাল্লাহু আলায়হি ওয়া সাল্লামের যুগে এক ব্যক্তি তাহার স্ত্রীর প্রতি লিআন করিয়াছে এবং ছেলের নসবকে অস্বীকার করিয়াছে। অতঃপর রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাহদের উভয়কে পৃথক করিয়া দিয়াছেন এবং স্ত্রীকে ছেলেটি প্রদান করিয়াছেন। মালিক (রহঃ) বলেনঃ আল্লহ তা'আলা ইরশাদ করিয়াছেনঃ وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ وَلَمْ يَكُن لَّهُمْ شُهَدَاءُ إِلَّا أَنفُسُهُمْ فَشَهَادَةُ أَحَدِهِمْ أَرْبَعُ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الصَّادِقِينَ وَالْخَامِسَةُ أَنَّ لَعْنَتَ اللَّهِ عَلَيْهِ إِن كَانَ مِنَ الْكَاذِبِينَ وَيَدْرَأُ عَنْهَا الْعَذَابَ أَن تَشْهَدَ أَرْبَعَ شَهَادَاتٍ بِاللَّهِ إِنَّهُ لَمِنَ الْكَاذِبِينَ وَالْخَامِسَةَ أَنَّ غَضَبَ اللَّهِ عَلَيْهَا إِن كَانَ مِنَ الصَّادِقِينَ অর্থঃ এবং যাহারা নিজদিগের স্ত্রীর প্রতি অপবাদ আরোপ করে অথচ নিজেরা ব্যতীত তাহাদিগের কোন সাক্ষী নাই, তাহাদিগের প্রত্যেকের সাক্ষ্য এই হইবে যে, সে আল্লাহর নামে চারিবার শপথ করিয়া বলিবে যে, সে অবশ্যই সত্যবাদী এবং পঞ্চমবারে বলিবে, সে মিথ্যাবাদী হইলে তাহার উপর নামিয়া আসিবে আল্লাহর লা'নত। তবে স্ত্রীর শাস্তি রহিত হইবে যদি সে চারিবার আল্লাহর নামে শপথ করিয়া সাক্ষ্য দেয় যে, তাহার স্বামীই মিথ্যাবাদী এবং পঞ্চমবারে বলে, ‘তাহার স্বামী সত্যবাদী হইলে তাহার নিজের উপর নামিয়া আসিবে আল্লাহর গযব’। মালিক (রহঃ) বলেন, আমাদের নিকট বিধান হইল এই, লি'আনকারী তাহারা পরস্পর বিবাহ বন্ধনে আবদ্ধ হইবে না, যদি স্বামী মিথ্যাবাদী প্রমাণিত হয়, তবে তাহাকে শাস্তি (হদ্দ প্রয়োগ) দেওয়া হইবে এবং ছেলেকে তাহার সহিত যুক্ত করা হইবে। স্ত্রী সেই স্বামীর নিকট আর কখনো ফিরিয়া যাইবে না। মালিক (রহঃ) বলেন, আমাদের নিকট ইহাই নিয়ম যাহাতে কোন প্রকার মতানৈক্য বা সন্দেহ নাই। মালিক (রহঃ) বলেনঃ কোন ব্যক্তি যদি স্ত্রীকে বায়েন তালাক দেয় যাহাতে স্ত্রীর দিকে তাহার রুজু করার অধিকার থাকে না, তারপর স্ত্রীর গর্ভ অস্বীকার করে, তবে তাহাকে লি'আন করিতে হইবে। যদি স্ত্রী অন্তঃসত্ত্ব হয় এবং স্ত্রীর গর্ভধারণ সেই ব্যক্তির পক্ষ হইতে হওয়ারই সম্ভাবনা অধিক থাকে এবং স্ত্রীও উহার দাবি করে। অবশ্য যদি তালাকের পর এইরূপ দীর্ঘ সময় অতিবাহিত না হয় যাহাতে স্বামী হইতে গর্ভধারণের সন্দেহ সৃষ্টি হয়। যাহাতে এই গর্ভধারণ উক্ত স্বামী দ্বারা হইয়াছে বলিয়া অনুমান করা যায় না। আমাদের নিকট ইহাই হুকুম আর ইহাই আমি বিজ্ঞ আলিমদের নিকট হইতে শুনিয়াছি। মালিক (রহঃ) বলেনঃ তখন কোন ব্যক্তি নিজের স্ত্রীর প্রতি ব্যভিচারের অপবাদ আরোপ করিল। তিন তালাক দেওয়ার পর স্ত্রী যখন অন্তঃসত্ত্বা অথচ সে ব্যক্তি এই গর্ভধারণ তাহার পক্ষ হইতে হইয়াছে বলিয়া স্বীকারও করে, তারপর সে ধারণা করে যে, সে স্ত্রীকে তালাক দেওয়ার পূর্বে যিনা করিতে দেখিয়াছে, তবে তাহাকে শাস্তি দেওয়া হইবে (অর্থাৎ তাহার উপর ইসলামী বিধানমতে হদ্দ জারি করা হইবে) সে লি’আন করিবে না। আর যদি তিন তালাক দেওয়ার পর সেই স্ত্রীর গর্ভধারণ (তাহার পক্ষ হইতে হওয়ার ব্যাপার) সে অস্বীকার করে সে লিআন করিবে। মালিক (রহঃ) বলেনঃ আমি এরূপই শুনিয়াছি। মালিক (রহঃ) বলেনঃ যিনার অপবাদারোপ করা এবং লিআন-এর ব্যাপারে ক্রীতদাস ও স্বাধীন ব্যক্তির হুকুম একই। অর্থাৎ এই দুই ব্যাপারে ক্রীতদাসের হুকুমত আযাদ ব্যক্তির মতো। কিন্তু নিজের ক্রীতদাসীর প্রতি অপবাদ দিলে মনিবের উপর হদ জারি হইবে না অর্থাৎ মনিবকে শাস্তি দেওয়া হইবে না। মালিক (রহঃ) বলেনঃ মুসলিম ক্রীতদাসী, খ্রীস্টান ও ইহুদী স্বাধীন স্ত্রীলোক স্বাধীন মুসলিম স্বামীর প্রতি লি'আন করিবে, যদি সেই মুসলিম ইহাদের কাহাকেও বিবাহ করে এবং তাহার সহিত সহবাস করিয়া থাকে। কারণ আল্লাহ কুরআনুল করীমে ইরশাদ করিয়াছেনঃ وَالَّذِينَ يَرْمُونَ أَزْوَاجَهُمْ “যাহারা স্ত্রীগণের প্রতি অপবাদ দেয়”। উপরিউক্ত মহিলাগণও স্ত্রীর অন্তর্ভুক্ত। (তাই উহাদিগের প্রতি অপবাদ আরোপ করিলে লি’আন করিতে হইবে।) মালিক (রহঃ) বলেনঃ আমাদের নিকট ইহাই সিদ্ধান্ত। মালিক (রহঃ) বলেনঃ কোন মুসলিম আযাদ নারীকে অথবা মুসলিম ক্রীতদাসীকে অথবা আযাদ খ্রীস্টান অথবা ইহুদী নারীকে কোন ক্রীতদাস বিবাহ করিলে সে স্ত্রীর সহিত লি'আন করিতে পারবে। মালিক (রহঃ) বলেনঃ যে ব্যক্তি নিজের স্ত্রীর সহিত লি'আন করিয়াছে, অতঃপর সে উহা হইতে ফিরিয়া আসে (রুজু করে) এবং মিথ্যা বলিয়াছে বলিয়া স্বীকার করে, একবার অথবা দুইবার কসম খাওয়ার পর পঞ্চমবারের লা'নত উচ্চারণ না করা পর্যন্ত। সে যদি লি'আন সমাপ্ত করার পূর্বে রুজু করে তবে তাহাকে হদ্দ লাগানো (শান্তি দেওয়া) হইবে এবং তাহদের উভয়ের মধ্যে বিচ্ছেদ ঘটানো হইবে না। মালিক (রহঃ) বলেনঃ যে ব্যক্তি স্ত্রীকে তালাক দিয়াছে। অতঃপর তিন মাস অতিবাহিত হইবার পর স্ত্রী বলিলঃ আমি অন্তঃসত্ত্বা। মালিক (রহঃ) বলেন, এমতাবস্থায় তাহার স্বামী গর্ভ ধারণের স্বীকৃতি প্রদান না করিলে তবে লি‘আন করিবে। মালিক (রহঃ) বলেনঃ ক্রীতদাসী স্ত্রীর সহিত তাহার স্বামী লি’আন করিয়াছে, অতঃপর সে ক্রীতদাসীকে খরিদ করিয়াছে, তবে সে মালিক হইলেও ইহার সহিত সহবাস করিতে পারিবে না। কারণ নিয়ম হইতেছে, পরস্পর লি'আনকারী কখনও একে অপরের প্রতি প্রত্যাবর্তন (রুজু) করিতে পারে না। মালিক (রহঃ) বলেনঃ কোন ব্যক্তি স্ত্রীর সহিত সংগত হওয়ার পূর্বে স্ত্রীর সহিত লি'আন করিলে তবে সে মহরের অর্ধেক পাইবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik that he had heard that Marwan ibn al-Hakam decided about a man who had made a vow to abstain from intercourse with his wife, that when four months had passed, it was a divorce and he could return to her as long as she was in her idda. Malik added, "That was also the opinion of Ibn Shihab." Malik said that if a man made a vow to abstain from intercourse with his wife and at the end of four months he declared his intent to continue to abstain, he was divorced. He could go back to his wife, but if he did not have intercourse with her before the end of her idda, he had no access to her and he could not go back to her unless he had an excuse - illness, imprisonment, or a similar excuse. His return to her maintained her as his wife. If her idda passed and then he married her after that and did not have intercourse with her until four months had passed and he declared his intent to continue to abstain, divorce was applied to him by the first vow. If four months passed, and he had not returned to her, he had no idda against her nor access because he had married her and then divorced her before touching her. Malik said that a man who made a vow to abstain from intercourse with his wife and continued to abstain after four months and so divorced her, but then returned and did not touch her and four months were completed before her idda was completed, did not have to declare his intent and divorce did not befall him. If he had intercourse with her before the end of her idda, he was entitled to her. If her idda passed before he had intercourse with her, he had no access to her. This is what Malik preferred of what he had heard on the subject. Malik said that if a man made a vow to abstain from intercourse with his wife and then divorced her, and the four months of the vow were completed before completion of the idda of the divorce, it counted as two pronouncements of divorce. If he declared his intention to continue to abstain and the idda of the divorce finished before the four months the vow of abstention was not a divorce. That was because the four months had passed and she was not his on that day. Malik said, "If someone makes a vow not to have intercourse with his wife for a day or a month and then waits until more than four months have passed, it is not ila. Ila only applies to someone who vows more than four months. As for the one who vows not to have intercourse with his wife for four months or less than that, I do not think that it is ila because when the term enters into it at which it stops, he comes out of his oath and he does not have to declare his intention." Malik said, "If someone vows to his wife not to have intercourse with her until her child has been weaned, that is not ila. I have heard that Ali ibn Abi Talib was asked about that and he did not think that it was ila
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1170</td></tr><tr><td>Arabic No</td><td>1170</td></tr><tr><td>Reference</td><td>Book 29 Hadith 21</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1170 |
+| Arabic No | 1170 |
+| Reference | Book 29 Hadith 21 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الْوَهَّابِ الْفَرَّاءُ، عَنِ الْحُسَيْنِ بْنِ الْوَلِيدِ، عَنْ شُعْبَةَ، بِهَذَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابراهيم، حدثنا محمد بن عبد الوهاب الفراء، عن الحسين بن الوليد، عن شعبة، بهذا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবরাহীম (রহঃ) ... শুবাহ (রহঃ) হতে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৩৭৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted on the authority of Shu'ba
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## French
 
+Ce hadith a été transmis par Shu'ba
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize ibrahim rivayet etti. (Dediki): Bize Muhammed b. Abdilvehhâb El-Ferrâ' Hüseyn b. Velîd'den, o da Şu'be'den bu isnadla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حسین بن ولید نے شعبہ سے یہی حدیث روایت کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4524</td></tr><tr><td>Arabic No</td><td>1731.04</td></tr><tr><td>Reference</td><td>Book 32 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4524 |
+| Arabic No | 1731.04 |
+| Reference | Book 32 Hadith 5 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ نَافِعِ بْنِ أَبِي نَافِعٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ سَبْقَ إِلاَّ فِي خُفٍّ أَوْ فِي حَافِرٍ أَوْ نَصْلٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
+
 حدثنا احمد بن يونس، حدثنا ابن ابي ذيب، عن نافع بن ابي نافع، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " لا سبق الا في خف او في حافر او نصل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহন সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উটের দৌড়, ঘোড়র দৌড় অথবা তীরের ফলা ছাড়া অন্য কোনো প্রতিযোগিতা বাজি ধরা জায়িয নয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: Wagers are allowed only for racing camels, or horses or shooting arrows
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
+
+## French
+
+Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « Les paris ne sont permis que pour les courses de chameaux, de chevaux ou de tir à l’arc. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\], telah menceritakan kepada kami \[Ibnu Abu Dzi'b\] dari \[Nafi'\] dari \[Abu Hurairah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada perlombaan kecuali dalam hewan yang bertapak kaki, yang berkuku serta memanah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Nafi'] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada perlombaan kecuali dalam hewan yang bertapak kaki, yang berkuku serta memanah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Назначать вознаграждение можно только за победу в скачках на верблюдах, в скачках на лошадях и в соревнованиях по стрельбе из лука»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.)'den; demiştir ki: Rasûlullah (s.a.v.) şöyle buyurdu; "Yarış (ödülü) sadece deve, at ve ok yarışmasında olur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مقابلہ میں بازی رکھنا جائز نہیں ۱؎ سوائے اونٹ یا گھوڑے کی دوڑ میں یا تیر چلانے میں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2574</td></tr><tr><td>Arabic No</td><td>2574</td></tr><tr><td>Reference</td><td>Book 15 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2574 |
+| Arabic No | 2574 |
+| Reference | Book 15 Hadith 98 |

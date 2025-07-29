@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَعُودُنِي لَيْسَ بِرَاكِبِ بَغْلٍ وَلاَ بِرْذَوْنٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
+
 حدثنا احمد بن حنبل، حدثنا عبد الرحمن بن مهدي، عن سفيان، عن محمد بن المنكدر، عن جابر، قال كان النبي صلى الله عليه وسلم يعودني ليس براكب بغل ولا برذون
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পায়ে হেঁটে আমাকে দেখতে আসেন। তিনি খচ্চর বা তুর্কী ঘোড়ায় চড়ে আসেননি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir:The Prophet (ﷺ) would visit me (during my illness) riding neither a mule nor a pony
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
+
+## French
+
+Rapporté par Jabir : Le Prophète ﷺ venait me rendre visite pendant ma maladie, sans monter ni une mule ni un poney
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hambal\] telah menceritakan kepada kami \[Abdurrahman bin Mahdi\], dari \[Sufyan\] dari \[Muhammad bin Al Munkadir\], dari \[Jabir\], ia berkata; Nabi shallallahu 'alaihi wasallam menjengukku, beliau tidak naik bighal dan tidak pula kuda
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hambal] telah menceritakan kepada kami [Abdurrahman bin Mahdi], dari [Sufyan] dari [Muhammad bin Al Munkadir], dari [Jabir], ia berkata; Nabi shallallahu 'alaihi wasallam menjengukku, beliau tidak naik bighal dan tidak pula kuda
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Джабир, да будет доволен Аллах им и его отцом, передаёт: «Пророк ﷺ навещал меня, когда я был болен, приходя пешком, и он не приезжал на муле или коне»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir'den demiştir ki: "Rasûlullah (s.a.v.), hastalandığım zaman katıra ve (ya) at'a binmeden (gelir) beni ziyaret ederdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم بغیر کسی خچر اور گھوڑے پر سوار ہوئے میری عیادت کو تشریف لاتے تھے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5664)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3096</td></tr><tr><td>Arabic No</td><td>3096</td></tr><tr><td>Reference</td><td>Book 21 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5664) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3096 |
+| Arabic No | 3096 |
+| Reference | Book 21 Hadith 8 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا الْمُثَنَّى، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه محمد بن المثنى، حدثنا عبد الصمد، حدثنا المثنى، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) এ সূত্রেই হাদীসটি রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৬৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Muthanna through the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## French
 
+Rapporté par Muthanna, selon la même chaîne de transmetteurs : « Ce hadith a été rapporté par Muthanna avec la même chaîne de transmetteurs. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bu hadîsi bana Muhammed b. Müsennâ da rivayet etti. (Dediki): Bize Abdü's-Samed rivayet etti. (Dediki): Bize El-Müsennâ bu isnadla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالصمد نے مثنیٰ ( بن سعید ) سے اسی سند کے ساتھ حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6078</td></tr><tr><td>Arabic No</td><td>2341.06</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6078 |
+| Arabic No | 2341.06 |
+| Reference | Book 43 Hadith 136 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، أَخْبَرَنَا يَحْيَى بْنُ أَيُّوبَ، عَنِ ابْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّهُ لَمَّا حَضَرَهُ الْمَوْتُ دَعَا بِثِيَابٍ جُدُدٍ فَلَبِسَهَا ثُمَّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ إِنَّ الْمَيِّتَ يُبْعَثُ فِي ثِيَابِهِ الَّتِي يَمُوتُ فِيهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
+
 حدثنا الحسن بن علي، حدثنا ابن ابي مريم، اخبرنا يحيى بن ايوب، عن ابن الهاد، عن محمد بن ابراهيم، عن ابي سلمة، عن ابي سعيد الخدري، انه لما حضره الموت دعا بثياب جدد فلبسها ثم قال سمعت رسول الله صلى الله عليه وسلم يقول " ان الميت يبعث في ثيابه التي يموت فيها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ সাঈদ আল-খুদঈ (রাঃ) সূত্রে বর্ণিত। তার মৃত্যুর সময় ঘনিয়ে এলে তিনি নতুন কাপড় নিয়ে ডাকলেন এবং তা পরিধান করে বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কোনো ব্যক্তি যে কাপড় পরিধান করে মারা যাবে, কিয়ামতের দিন তাকে ঐ কাপড়েই উঠানো হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id al-Khudri: When the time of his death came, he called for new clothes and put on them. He then said: I heard the Messenger of Allah (ﷺ) say: A deceased will be raised in the clothes in which he died
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
+
+## French
+
+Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Quand le moment de sa mort arriva, il demanda des vêtements neufs et les mit. Il dit alors : « J’ai entendu le Messager d’Allah ﷺ dire : “Un défunt sera ressuscité avec les vêtements dans lesquels il est mort.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali\], telah menceritakan kepada kami \[Ibnu Abu Maryam\], telah mengabarkan kepada kami \[Yahya bin Ayyub\], dari \[Ibnu Al Had\] dari \[Muhammad bin Ibrahim\], dari \[Abu Salamah\], dari \[Abu Sa'id Al Khudri\] bahwa tatkala ia mendekati kematian ia meminta pakaian baru lalu ia memakainya, kemudian berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang meninggal akan dibangkitkan dengan memakai pakaiannya yang ia pakai tatkala meninggal
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Ibnu Abu Maryam], telah mengabarkan kepada kami [Yahya bin Ayyub], dari [Ibnu Al Had] dari [Muhammad bin Ibrahim], dari [Abu Salamah], dari [Abu Sa'id Al Khudri] bahwa tatkala ia mendekati kematian ia meminta pakaian baru lalu ia memakainya, kemudian berkata; aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang yang meninggal akan dibangkitkan dengan memakai pakaiannya yang ia pakai tatkala meninggal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Саляма передаёт, что, когда Абу Са‘ид аль-Худри почувствовал приближение смерти, он велел принести ему новые одежды и надел их, после чего сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “Поистине, умерший будет воскрешён в той одежде, в которой он умер”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Said el-Hudri'den (rivayet edildiğine göre Kendisine ölüm yaklaşınca yeni elbiseler isteyip onları giymiş, sonra (şöyle) demiştir: "Ben Rasûlullah(s.a.v.)'i, (kişi) ölürken üzerinde bulunan elbiseler içerisinde diriltilir- derken işittim.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ سے روایت ہے کہ جب ان کی موت کا وقت قریب آیا تو انہوں نے نئے کپڑے منگوا کر پہنے اور کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: مردہ اپنے انہیں کپڑوں میں ( قیامت میں ) اٹھایا جائے گا جن میں وہ مرے گا۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3114</td></tr><tr><td>Arabic No</td><td>3114</td></tr><tr><td>Reference</td><td>Book 21 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3114 |
+| Arabic No | 3114 |
+| Reference | Book 21 Hadith 26 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ ‏ "‏ لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ صُورَةٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 32 Hadith 100</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |
+
 حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان بن عيينة، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، عن ابي طلحة، عن النبي صلى الله عليه وسلم قال " لا تدخل الملايكة بيتا فيه كلب ولا صورة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 32 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ তালহা (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ঘরে কুকুর ও ছবি থাকে সে ঘরে ফেরেশতাগণ প্রবেশ করে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 32 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Talhah that the Prophet (ﷺ) said:“The angels do not enter a house in which there is a dog or an image.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 32 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |
+
+## French
+
+Rapporté par Abu Talhah : Le Prophète (ﷺ) a dit : “Les anges n’entrent pas dans une maison où il y a un chien ou une image.”
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] telah menceritakan kepada kami \[Sufyan bin 'Uyainah\] dari \[Az Zuhri\] dari \['Ubaidullah bin Abdullah\] dari \[Ibnu Abbas\] dari \[Abu Thalhah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Malaikat tidak akan masuk ke dalam rumah yang di dalamnya terdapat anjing dan gambar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Abu Thalhah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Malaikat tidak akan masuk ke dalam rumah yang di dalamnya terdapat anjing dan gambar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 32 Hadith 100</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Talha (Zeyd bin Sehl) (r.a.)'den rivayet edildiğine göre Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurmuştur: «İçinde köpek ve suret (yani canlı resmi, heykel) bulunan ev'e melek girmez.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 32 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ ابوطلحہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اس گھر میں فرشتے نہیں داخل ہوتے جس میں کتا اور تصویر ہو ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3649</td></tr><tr><td>Arabic No</td><td>3649</td></tr><tr><td>Reference</td><td>Book 32 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3649 |
+| Arabic No | 3649 |
+| Reference | Book 32 Hadith 100 |

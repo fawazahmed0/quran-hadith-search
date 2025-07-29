@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا ابْنُ الْمُبَارَكِ، عَنْ حَيْوَةَ بْنِ شُرَيْحٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، بِهَذَا الْحَدِيثِ قَالَ إِنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى عَلَى قَتْلَى أُحُدٍ بَعْدَ ثَمَانِ سِنِينَ كَالْمُوَدِّعِ لِلأَحْيَاءِ وَالأَمْوَاتِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
+
 حدثنا الحسن بن علي، حدثنا يحيى بن ادم، حدثنا ابن المبارك، عن حيوة بن شريح، عن يزيد بن ابي حبيب، بهذا الحديث قال ان النبي صلى الله عليه وسلم صلى على قتلى احد بعد ثمان سنين كالمودع للاحياء والاموات
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইয়াযীদ ইবনু আবূ হাবীব (রহঃ) থেকে এ সনদেও একই হাদীস বর্ণিত হয়েছে। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আট বছর পর উহুদ যুদ্ধের শহীদদের জন্য জানাযা পড়েছেন জীবিত ও মৃতের দু‘আ করার অনুরূপ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Yazid b. Habib:The Prophet (ﷺ) prayed over the martyrs of Uhud after eight years like a man who bids farewell to the living and dead
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
+
+## French
+
+Rapporté par Yazid ibn Habib : Le Prophète ﷺ a prié sur les martyrs de Uhud huit ans après, comme un homme qui fait ses adieux aux vivants et aux morts
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\], telah menceritakan kepada kami \[Al Laits\] dari \[Yazid? bin Abu Habib\] dari \[Abu Al Khair\] dari \['Uqbah bin 'Amir\] bahwa Rasulullah shallallahu 'alaihi wasallam keluar pada suatu hari, kemudian ia menshalatkan para korban perang Uhud sebagaimana beliau menshalatkan orang yang meninggal, kemudian beliau pergi. Telah menceritakan kepada kami \[Al Hasan bin Ali\], telah menceritakan kepada kami \[Yahya bin Adam\], telah menceritakan kepada kami \[Ibnu Al Mubarak\] dari \[Yahwah bin Syuraih\] dari \[Yazid? bin Abu Habib\] dengan hadits ini. Ia berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam menshalatkan orang-orang yang terbunuh pada perang Uhud setelah delapan tahun seperti orang yang hendak meninggalkan orang yang hidup dan mati
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Yazid? bin Abu Habib] dari [Abu Al Khair] dari ['Uqbah bin 'Amir] bahwa Rasulullah shallallahu 'alaihi wasallam keluar pada suatu hari, kemudian ia menshalatkan para korban perang Uhud sebagaimana beliau menshalatkan orang yang meninggal, kemudian beliau pergi. Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yahya bin Adam], telah menceritakan kepada kami [Ibnu Al Mubarak] dari [Yahwah bin Syuraih] dari [Yazid? bin Abu Habib] dengan hadits ini. Ia berkata; sesungguhnya Nabi shallallahu 'alaihi wasallam menshalatkan orang-orang yang terbunuh pada perang Uhud setelah delapan tahun seperti orang yang hendak meninggalkan orang yang hidup dan mati
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 А в версии Язида ибн Абу Хабиба говорится, что Пророк ﷺ совершил молитву по убитым в битве при Ухуде спустя восемь лет, прощаясь с живыми и мёртвыми
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (bir önceki 3223.) hadis, Yezid b. Ebî Habib'den (de rivayet olunmuştur. Ancak Yezid burada bir önceki 3223. hadis'e ilâve olarak şunları da) rivayet etti: "Nebi (s.a.v.) Unud şehidleri üzerine (kabre konmalarından) sekiz sene sonra ölülere ve dirilere veda eder gibi namaz kıldı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی یزید بن حبیب سے یہی حدیث مروی ہے، اس میں ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے شہداء احد پر آٹھ سال بعد نماز جنازہ پڑھی، یہ ایسی نماز تھی جیسے کوئی زندوں اور مردوں کو وداع کرتے ہوئے پڑھے ( درد و سوز میں ڈوبی ہوئی ) ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4042)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3224</td></tr><tr><td>Arabic No</td><td>3224</td></tr><tr><td>Reference</td><td>Book 21 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4042) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3224 |
+| Arabic No | 3224 |
+| Reference | Book 21 Hadith 136 |

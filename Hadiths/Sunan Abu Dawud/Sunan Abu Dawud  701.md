@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ أَبِي النَّضْرِ، مَوْلَى عُمَرَ بْنِ عُبَيْدِ اللَّهِ عَنْ بُسْرِ بْنِ سَعِيدٍ، أَنَّ زَيْدَ بْنَ خَالِدٍ الْجُهَنِيَّ، أَرْسَلَهُ إِلَى أَبِي جُهَيْمٍ يَسْأَلُهُ مَاذَا سَمِعَ مِنْ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْمَارِّ بَيْنَ يَدَىِ الْمُصَلِّي فَقَالَ أَبُو جُهَيْمٍ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لَوْ يَعْلَمُ الْمَارُّ بَيْنَ يَدَىِ الْمُصَلِّي مَاذَا عَلَيْهِ لَكَانَ أَنْ يَقِفَ أَرْبَعِينَ خَيْرٌ لَهُ مِنْ أَنْ يَمُرَّ بَيْنَ يَدَيْهِ ‏"‏ ‏.‏ قَالَ أَبُو النَّضْرِ لاَ أَدْرِي قَالَ أَرْبَعِينَ يَوْمًا أَوْ شَهْرًا أَوْ سَنَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
+
 حدثنا القعنبي، عن مالك، عن ابي النضر، مولى عمر بن عبيد الله عن بسر بن سعيد، ان زيد بن خالد الجهني، ارسله الى ابي جهيم يساله ماذا سمع من، رسول الله صلى الله عليه وسلم في المار بين يدى المصلي فقال ابو جهيم قال رسول الله صلى الله عليه وسلم " لو يعلم المار بين يدى المصلي ماذا عليه لكان ان يقف اربعين خير له من ان يمر بين يديه " . قال ابو النضر لا ادري قال اربعين يوما او شهرا او سنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
 
 ## Bengali
 
+। বুসর ইবনু সাঈদ সূত্রে বর্ণিত। যায়িদ ইবনু খালিদ আল-জুহানী (রাঃ) তাকে আবূ জুহায়িম (রাঃ)-এর নিকট পাঠালেন- সালাত আদায়কারীর সামনে দিয়ে গেলে কি (পরিমাণ অন্যায়) হবে এ সম্পর্কে তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে যা শুনেছেন তা জিজ্ঞেস করার জন্য। আবূ জুহায়িম (রাঃ) বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাত আদায়কারীর সামনে দিয়ে অতিক্রমকারী যদি জানত যে, এ কারণে তাকে কত মারাত্মক শাস্তি ভোগ করতে হবে, তাহলে সালাত আদায়কারীর সামনে দিয়ে অতিক্রম করার চেয়ে চল্লিশ (দিন) দাঁড়িয়ে থাকাও অধিকতর উত্তম মনে করত। আবূন নাদর বলেন, আমার স্মরণ নেই যে, তিনি চল্লিশ দিন, মাস, না বছর বলেছেন।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। বুসর ইবনু সাঈদ সূত্রে বর্ণিত। যায়িদ ইবনু খালিদ আল-জুহানী (রাঃ) তাকে আবূ জুহায়িম (রাঃ)-এর নিকট পাঠালেন- সালাত আদায়কারীর সামনে দিয়ে গেলে কি (পরিমাণ অন্যায়) হবে এ সম্পর্কে তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে যা শুনেছেন তা জিজ্ঞেস করার জন্য। আবূ জুহায়িম (রাঃ) বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সালাত আদায়কারীর সামনে দিয়ে অতিক্রমকারী যদি জানত যে, এ কারণে তাকে কত মারাত্মক শাস্তি ভোগ করতে হবে, তাহলে সালাত আদায়কারীর সামনে দিয়ে অতিক্রম করার চেয়ে চল্লিশ (দিন) দাঁড়িয়ে থাকাও অধিকতর উত্তম মনে করত। আবূন নাদর বলেন, আমার স্মরণ নেই যে, তিনি চল্লিশ দিন, মাস, না বছর বলেছেন।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Juhaim : The Messenger of Allah(ﷺ) as saying: "If one who passes in front of a man who is praying knew the responsibility he incurs, he would prefer to stand still for forty. . . rather than pass in front of him. Abu al-Nadr said: I do not know whether he said forty days, or months, or years." Abu Dawud: Sufyan al-Thawri said: If a man passes proudly in front of me while I am praying, I shall stop him, and if a weak man passes, I shall not stop him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
+
+## French
+
+Rapporté par Abu Juhaim رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si celui qui passe devant une personne en prière savait la faute qu’il commet, il préférerait rester immobile quarante… plutôt que de passer devant elle. » Abu al-Nadr a dit : Je ne sais pas s’il a dit quarante jours, ou mois, ou années. Abu Dawud : Sufyan al-Thawri a dit : « Si un homme passe fièrement devant moi pendant que je prie, je l’arrête, mais si c’est une personne faible, je ne l’arrête pas. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\] dari \[Abu Nadlr bekas budak Umar bin Ubaidillah\] dari \[Busr bin Sa'id\] bahwa Zaid bin Khalid Al Juhani mengirinya menemui Abu Juhaim untuk menanyakan sesuatu yang pernah dia dengar dari Rasulullah shallallahu 'alaihi wasallam mengenai seseorang yang lewat di depan orang yang shalat, maka \[Abu Juhaim\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya orang yang lewat di depan orang yang shalat mengetahui (dosa) yang akan di pikulnya, niscaya lebih baik baginya berdiri yang lamanya selama empat puluh, daripada lewat di depan orang yang shalat." Abu Nadlr berkata; "Aku tidak tahu apakah yang di maksud empat puluh hari atau empat puluh bulan atau empat puluh tahun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Abu Nadlr bekas budak Umar bin Ubaidillah] dari [Busr bin Sa'id] bahwa Zaid bin Khalid Al Juhani mengirinya menemui Abu Juhaim untuk menanyakan sesuatu yang pernah dia dengar dari Rasulullah shallallahu 'alaihi wasallam mengenai seseorang yang lewat di depan orang yang shalat, maka [Abu Juhaim] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sekiranya orang yang lewat di depan orang yang shalat mengetahui (dosa) yang akan di pikulnya, niscaya lebih baik baginya berdiri yang lamanya selama empat puluh, daripada lewat di depan orang yang shalat." Abu Nadlr berkata; "Aku tidak tahu apakah yang di maksud empat puluh hari atau empat puluh bulan atau empat puluh tahun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Бусра ибн Са‘ида о том, что (однажды) Зейд ибн Халид аль-Джухани отправил его к Абу Джухайму спросить его о том, что он слышал от Посланника Аллаха ﷺ о прохождении перед молящимся и Абу Джухайма сказал: «Посланник Аллаха ﷺ сказал: “Если бы тот, кто проходит перед молящимся, знал, какой (грех) он берёт на себя, то (понял) бы, что простоять на месте сорок ... было бы для него лучше, чем пройти перед ним!”».Абу Надр сказал: «И я не знаю, (что именно) он сказал: сорок дней, сорок месяцев или сорок лет»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Cüheym (r.a.), Nebi (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu bildirmiştir: "Namaz kılanın önünden geçen kimse, ne kadar günah işlediğini bilseydi kırk beklemeyi önünden geçmekten daha hayırlı bulurdu." Ebu'n-Nadr; "Ravînin kırk gün mü, ay mı, sene mi? dediğini bilemiyorum" dedi. Diğer tahric: Buharî, salat; Müslim, salat; Tirmizî, mevakît; Nesaî, kıble; Darimî, salat; Muvatta, sefer; Ahmed b. Hanbel, IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بسر بن سعید کہتے ہیں کہ زید بن خالد جہنی رضی اللہ عنہ نے انہیں ابوجہیم رضی اللہ عنہ کے پاس یہ پوچھنے کے لیے بھیجا کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے مصلی کے آگے سے گزرنے والے کے بارے میں کیا سنا ہے؟ تو ابوجہیم رضی اللہ عنہ نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ہے: اگر مصلی کے سامنے سے گزرنے والا یہ جان لے کہ اس پر کس قدر گناہ ہے، تو اس کو مصلی کے سامنے گزرنے سے چالیس ( دن یا مہینے یا سال تک ) وہیں کھڑا رہنا بہتر لگتا ۔ ابونضر کہتے ہیں: مجھے معلوم نہیں کہ انہوں نے چالیس دن کہا یا چالیس مہینے یا چالیس سال۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (510) Sahih Muslim (507)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>701</td></tr><tr><td>Arabic No</td><td>701</td></tr><tr><td>Reference</td><td>Book 2 Hadith 311</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (510) Sahih Muslim (507) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 701 |
+| Arabic No | 701 |
+| Reference | Book 2 Hadith 311 |

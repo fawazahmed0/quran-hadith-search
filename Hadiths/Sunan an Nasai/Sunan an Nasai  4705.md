@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْعَزِيزِ بْنِ أَبِي رِزْمَةَ، قَالَ حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ حُسَيْنٍ، - وَهُوَ ابْنُ وَاقِدٍ - عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم بِالشُّفْعَةِ وَالْجِوَارِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |
+
 اخبرنا محمد بن عبد العزيز بن ابي رزمة، قال حدثنا الفضل بن موسى، عن حسين، - وهو ابن واقد - عن ابي الزبير، عن جابر، قال قضى رسول الله صلى الله عليه وسلم بالشفعة والجوار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন আবদুল আযীয (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুফআ এবং প্রতিবেশীর অধিকারের পক্ষে ফায়সালা দিয়েছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Jabir said:"The Messenger of Allah decreed the principle of pre-emption, and the (rights of) neighbors
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |
+
+## French
+
+Rapporté par Jabir : Le Messager d’Allah ﷺ a établi le principe de la préemption et les droits des voisins
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Abdul Aziz bin Abu Rizmah\] telah menceritakan kepada kami \[Al Fadhl bin Musa\] dari \[Husain yaitu Ibnu Waqid\] dari \[Abu Az Zubair\] dari \[Jabir\], dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah memutuskan dengan hak membeli terlebih dahulu dan hak tetangga
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Abdul Aziz bin Abu Rizmah] telah menceritakan kepada kami [Al Fadhl bin Musa] dari [Husain yaitu Ibnu Waqid] dari [Abu Az Zubair] dari [Jabir], dia berkata; "Rasulullah shallallahu 'alaihi wasallam telah memutuskan dengan hak membeli terlebih dahulu dan hak tetangga
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4705</td></tr><tr><td>Arabic No</td><td>4705</td></tr><tr><td>Reference</td><td>Book 44 Hadith 257</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4705 |
+| Arabic No | 4705 |
+| Reference | Book 44 Hadith 257 |

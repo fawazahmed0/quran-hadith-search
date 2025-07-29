@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ وَالْبُخْلِ وَالْجُبْنِ وَالْهَرَمِ وَعَذَابِ الْقَبْرِ وَفِتْنَةِ الْمَحْيَا وَالْمَمَاتِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 50 Hadith 32</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |
+
 اخبرنا عمرو بن علي، قال حدثنا معاذ بن هشام، قال حدثني ابي، عن قتادة، عن انس، ان نبي الله صلى الله عليه وسلم قال " اللهم اني اعوذ بك من العجز والكسل والبخل والجبن والهرم وعذاب القبر وفتنة المحيا والممات
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 50 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে আল্লাহ! আমি অপারগতা, অলসতা, কৃপণতা, কাপুরুষতা, চরম বার্ধক্য, কবর আযাব এবং জীবন-মরণের ফিতনা হতে আপনার নিকট আশ্রয় প্রার্থনা করছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 50 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |
 
 ## English
 
+It was narrated from Anas that:The Prophet of Allah \[SAW\] said: "Allahumma inni a'udhu bika min al-'ajzi, wal-kasali, wal-bukhli, wal-jubni, wal-harami, wa 'adhabil-qabri, wa fitnatil-mahya wal-mamat (O Allah, I seek refuge in You from incapacity, laziness, miserliness, cowardice, old age, the torment of the grave and the trials of life and death)
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Anas that:The Prophet of Allah [SAW] said: "Allahumma inni a'udhu bika min al-'ajzi, wal-kasali, wal-bukhli, wal-jubni, wal-harami, wa 'adhabil-qabri, wa fitnatil-mahya wal-mamat (O Allah, I seek refuge in You from incapacity, laziness, miserliness, cowardice, old age, the torment of the grave and the trials of life and death)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 50 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |
+
+## French
+
+Rapporté par Anas : Le Prophète d'Allah ﷺ disait : "Allahumma inni a'udhu bika min al-'ajzi, wal-kasali, wal-bukhli, wal-jubni, wal-harami, wa 'adhabil-qabri, wa fitnatil-mahya wal-mamat" (Ô Allah, je cherche refuge auprès de Toi contre l'incapacité, la paresse, l'avarice, la lâcheté, la vieillesse, le châtiment de la tombe et les épreuves de la vie et de la mort)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Amru bin Ali\] ia berkata; telah menceritakan kepada kami \[Mu'adz bin Hisyam\] ia berkata; telah menceritakan kepadaku \[Ayahku\] dari \[Qatadah\] dari \[Anas\] bahwa Nabi Allah shallallahu 'alaihi wasallam bersabda: 'ALLAHUMMA INNI A'UUDZU BIKA MINAL 'AJZI WAL KASALI WAL BUKHLI WAL JUBNI WAL HARAMI WA 'ADZAABIL QABRI WA FITNATIL MAHYAA WAL MAMAATI (Ya Allah, aku berlindung kepada-Mu dari kelemahan, kemalasan, kikir, sifat pengecut, pikun, siksa kubur, fitnah kehidupan dan fitnah setelah mati)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Amru bin Ali] ia berkata; telah menceritakan kepada kami [Mu'adz bin Hisyam] ia berkata; telah menceritakan kepadaku [Ayahku] dari [Qatadah] dari [Anas] bahwa Nabi Allah shallallahu 'alaihi wasallam bersabda: 'ALLAHUMMA INNI A'UUDZU BIKA MINAL 'AJZI WAL KASALI WAL BUKHLI WAL JUBNI WAL HARAMI WA 'ADZAABIL QABRI WA FITNATIL MAHYAA WAL MAMAATI (Ya Allah, aku berlindung kepada-Mu dari kelemahan, kemalasan, kikir, sifat pengecut, pikun, siksa kubur, fitnah kehidupan dan fitnah setelah mati)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 50 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 50 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5459</td></tr><tr><td>Arabic No</td><td>5459</td></tr><tr><td>Reference</td><td>Book 50 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5459 |
+| Arabic No | 5459 |
+| Reference | Book 50 Hadith 32 |

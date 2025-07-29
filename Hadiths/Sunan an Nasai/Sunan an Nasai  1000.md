@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم الْعَتَمَةَ فَقَرَأَ فِيهَا بِالتِّينِ وَالزَّيْتُونِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |
+
 اخبرنا قتيبة، عن مالك، عن يحيى بن سعيد، عن عدي بن ثابت، عن البراء بن عازب، قال صليت مع رسول الله صلى الله عليه وسلم العتمة فقرا فيها بالتين والزيتون
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... বারা ইবনু আযিব (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে ইশার সালাত আদায় করেছি। তিনি তাতে ওয়াত তীন ওয়ায যায়তুন পড়েছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Al-Bara' bin Azib said:"I prayed Al-'Atamah (Isha') with the Messenger of Allah (ﷺ) and he recited 'By the gif and the olive' in it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |
+
+## French
+
+Rapporté par Al-Bara' bin Azib : J'ai prié Al-'Atamah (isha) avec le Messager d'Allah (ﷺ) et il a récité : "Par le figuier et l'olivier" pendant cette prière
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dari \[Malik\] dari \[Yahya bin Sa'id\] dari \['Adi bin Tsabit\] dari \[Al Bara' bin 'Azib\] dia berkata, "Aku pernah shalat Isya' bersama Rasulullah Shallallahu'alaihi wasallam, dan beliau Shallallallahu'alaihi wasallam membaca: Wattiini waz-zaituun (Surat. At-Tiin)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dari [Malik] dari [Yahya bin Sa'id] dari ['Adi bin Tsabit] dari [Al Bara' bin 'Azib] dia berkata, "Aku pernah shalat Isya' bersama Rasulullah Shallallahu'alaihi wasallam, dan beliau Shallallallahu'alaihi wasallam membaca: Wattiini waz-zaituun (Surat. At-Tiin)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 براء بن عازب رضی اللہ عنہم کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ عشاء پڑھی، تو آپ صلی اللہ علیہ وسلم نے اس میں «والتین والزیتون»پڑھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1000</td></tr><tr><td>Arabic No</td><td>1000</td></tr><tr><td>Reference</td><td>Book 11 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1000 |
+| Arabic No | 1000 |
+| Reference | Book 11 Hadith 125 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى يَعْنِي ابْنَ سَعِيدٍ، ح حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا الْمُعْتَمِرُ، عَنِ التَّيْمِيِّ، حَدَّثَنَا بَكْرٌ، عَنِ الْحَسَنِ، عَنِ ابْنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم تَوَضَّأَ وَمَسَحَ نَاصِيَتَهُ ‏.‏ وَذَكَرَ فَوْقَ الْعِمَامَةِ - قَالَ عَنِ الْمُعْتَمِرِ - سَمِعْتُ أَبِي يُحَدِّثُ عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ عَنِ الْحَسَنِ عَنِ ابْنِ الْمُغِيرَةِ بْنِ شُعْبَةَ عَنِ الْمُغِيرَةِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَمْسَحُ عَلَى الْخُفَّيْنِ وَعَلَى نَاصِيَتِهِ وَعَلَى عِمَامَتِهِ ‏.‏ قَالَ بَكْرٌ وَقَدْ سَمِعْتُهُ مِنَ ابْنِ الْمُغِيرَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
+
 حدثنا مسدد، حدثنا يحيى يعني ابن سعيد، ح حدثنا مسدد، حدثنا المعتمر، عن التيمي، حدثنا بكر، عن الحسن، عن ابن المغيرة بن شعبة، عن المغيرة بن شعبة، ان رسول الله صلى الله عليه وسلم توضا ومسح ناصيته . وذكر فوق العمامة - قال عن المعتمر - سمعت ابي يحدث عن بكر بن عبد الله عن الحسن عن ابن المغيرة بن شعبة عن المغيرة ان رسول الله صلى الله عليه وسلم كان يمسح على الخفين وعلى ناصيته وعلى عمامته . قال بكر وقد سمعته من ابن المغيرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
 
 ## Bengali
 
+। মুগীরাহ ইবনু শু’বাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযুর সময় তাঁর কপাল মাসাহ্ করলেন। তিনি উল্লেখ করেন, এই মাসাহ্ ছিল পাগড়ীর উপর। মুগীরাহ সূত্রে অপর বর্ণনায় রয়েছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মোজা, কপাল এবং পাগড়ীর উপর মাসাহ্ করতেন।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুগীরাহ ইবনু শু’বাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযুর সময় তাঁর কপাল মাসাহ্ করলেন। তিনি উল্লেখ করেন, এই মাসাহ্ ছিল পাগড়ীর উপর। মুগীরাহ সূত্রে অপর বর্ণনায় রয়েছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মোজা, কপাল এবং পাগড়ীর উপর মাসাহ্ করতেন।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Mughirah b. Shu’bah said:The Messenger of Allah (ﷺ) performed ablution and wiped his forelock and turban. Another version says : The Messenger of Allah (ﷺ) wiped his socks and his forelock and his turban. Bakr said: I heard it from Ibn al-Mughirah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
+
+## French
+
+Al-Mughirah b. Shu’bah رضي الله عنه a dit : Le Messager d’Allah ﷺ a fait ses ablutions et a essuyé le devant de sa tête et son turban. Une autre version dit : Le Messager d’Allah ﷺ a essuyé ses chaussettes, le devant de sa tête et son turban. Bakr a dit : Je l’ai entendu d’Ibn al-Mughirah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya bin Sa'id\] Al Hadits. Dan telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Al-Mu'tamir\] dari \[At-Taimi\] telah menceritakan kepada kami \[Bakr\] dari \[Al Hasan\] dari \[Ibnu Al-Mughirah bin Syu'bah\] dari \[Al-Mughirah bin Syu'bah\] bahwasanya Rasulullah shallallahu 'alaihi wasallam berwudhu dan mengusap ubun-ubunnya. Dan Mughirah menyebutkan bahwa beliau mengusap di atas surbannya. Dia berkata dari \[Al-Mu'tamir\] Saya telah mendengar \[Ayahku\] menceritakan hadits dari \[Bakr bin Abdullah\] dari \[Al Hasan\] dari \[Ibnu Al-Mughirah bin Syu'bah\] dari \[Al-Mughirah\] bahwasanya Rasulullah shallallahu 'alaihi wasallam biasa mengusap bagian atas kedua khuf dan bagian atas ubun-ubun, serta bagian atas surban beliau. Bakr mengatakan; Sungguh, saya telah mendengarnya dari Ibnu Al-Mughirah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Sa'id] Al Hadits. Dan telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al-Mu'tamir] dari [At-Taimi] telah menceritakan kepada kami [Bakr] dari [Al Hasan] dari [Ibnu Al-Mughirah bin Syu'bah] dari [Al-Mughirah bin Syu'bah] bahwasanya Rasulullah shallallahu 'alaihi wasallam berwudhu dan mengusap ubun-ubunnya. Dan Mughirah menyebutkan bahwa beliau mengusap di atas surbannya. Dia berkata dari [Al-Mu'tamir] Saya telah mendengar [Ayahku] menceritakan hadits dari [Bakr bin Abdullah] dari [Al Hasan] dari [Ibnu Al-Mughirah bin Syu'bah] dari [Al-Mughirah] bahwasanya Rasulullah shallallahu 'alaihi wasallam biasa mengusap bagian atas kedua khuf dan bagian atas ubun-ubun, serta bagian atas surban beliau. Bakr mengatakan; Sungguh, saya telah mendengarnya dari Ibnu Al-Mughirah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Мугъиры ибн Шу‘ба: «Совершая омовение, Посланник Аллаха ﷺ обтер свой хохол». И он упомянул об (обтирании) поверх чалмы (Пророком).(Мусаддад) сказал: «Передают со слов Му‘тамира: “Я слышал, как мой отец рассказывал со слов Бакра ибн ‘Абдуллаха от аль-Хасана, от Ибн аль-Мугъиры ибн Шу‘ба со слов аль-Мугъиры о том, что Посланник Аллаха ﷺ (совершая омовение) обтирал кожаные носки /хуффайн/, хохол и чалму”».Бакр (ибн ‘Абдуллах) сказал: «Я слышал этот (хадис) от Ибн аль-Мугъиры»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Müsedded, hocaları Yahya b. Said ve el-Mu'temir vasıtasıyla Muğire b. Şu'be'nin şöyle dediğini haber vermiştir: "Rasulullah (sallallahu aleyhi ve sellem) abdest aldı, başının ön tarafını, sarığının üstünü meshetti." Mu'temir rivayetinde de Muğire b. Şu'be; "Rasulullah (sallallahu aleyhi ve sellem) mestler üzerine, alnına ve sarığı üzerine meshederdi" demiştir. Ravilerden Bekr, "hadis (in bu son rivayetin)i lbn Muğire'den bizzat duydum” demiştir. Diğer tahric: Buhari, vudu; Müslim, tahare; Nesaî, tahare; İbn Mace, tahare; Tirmizî tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مغیرہ بن شعبہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے وضو کیا، اپنی پیشانی پر مسح کیا، مغیرہ نے عمامہ ( پگڑی ) کے اوپر مسح کا بھی ذکر کیا۔ ایک دوسری روایت میں مغیرہ بن شعبہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم دونوں موزوں پر اور اپنی پیشانی اور اپنے عمامہ ( پگڑی ) پر مسح کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (274)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>150</td></tr><tr><td>Arabic No</td><td>150</td></tr><tr><td>Reference</td><td>Book 1 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (274) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 150 |
+| Arabic No | 150 |
+| Reference | Book 1 Hadith 150 |

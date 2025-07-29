@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ حُصَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، قَالَ رَأَيْتُ بِشْرَ بْنَ مَرْوَانَ يَوْمَ جُمُعَةٍ يَرْفَعُ يَدَيْهِ ‏.‏ فَقَالَ عُمَارَةُ بْنُ رُؤَيْبَةَ ‏.‏ فَذَكَرَ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه قتيبة بن سعيد، حدثنا ابو عوانة، عن حصين بن عبد الرحمن، قال رايت بشر بن مروان يوم جمعة يرفع يديه . فقال عمارة بن رويبة . فذكر نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... হুসায়ন ইবনু আবদুর রহমান (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি জুমুআর দিন বিশর ইবনু মারওয়ানকে তার দু' হাত উপরে তুলতে দেখলাম। উমারাহ ইবনু রুয়াইবাহ বলেন ..... পূর্বোক্ত হাদীসের অনুরূপ। (ইসলামী ফাউন্ডেশন ১৮৮৭, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by another chain of transmitters on the authority of Husain b. Abd al-Rahman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## French
 
+Rapporté par Husain ibn Abd al-Rahman رضي الله عنه : Ce hadith a été rapporté par une autre chaîne de transmetteurs selon Husain ibn Abd al-Rahman
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Хусайн ибн ‘Абдуррахман сказал: «Я видел, как в пятницу Бишр ибн Марван поднял руки, и ‘Умара ибн Руайба сказал…»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize bu hadîsi Kuteybetü'bnü Saîd de rivayet etti. (Dediki): Bize Ebû Avâne, Husayn b. Abdirrahmân'dan naklen rivayet etti. Husayn: «Ben Bişru'bnü Mervân'ı cum'a günü ellerini kaldırırken gördüm. Bunun üzerine Umâratü'bnü Rueybe şunları söyledi...» diyerek yukarıki hadis gibi rivayet etmiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو عوانہ نے حصین بن عبدالرحمان سے روایت کی ، انھوں نے کہا : میں نے جمعے کے دن بشر بن مروان کو دونوں ہاتھ اٹھاتے ہوئے دیکھا تو اس پر عمارہ بن رویبہ رضی اللہ تعالیٰ عنہ نے کہا ۔ ۔ ۔ اس کے بعد اس ( مذکورہ بالا روایت ) کے ہم معنی روایت بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2017</td></tr><tr><td>Arabic No</td><td>874</td></tr><tr><td>Reference</td><td>Book 7 Hadith 67</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2017 |
+| Arabic No | 874 |
+| Reference | Book 7 Hadith 67 |

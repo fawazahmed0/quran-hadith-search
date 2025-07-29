@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، قَالَ قُلْتُ لأَنَسٍ هَلْ قَنَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي صَلاَةِ الصُّبْحِ قَالَ نَعَمْ بَعْدَ الرُّكُوعِ يَسِيرًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني عمرو الناقد، وزهير بن حرب، قالا حدثنا اسماعيل، عن ايوب، عن محمد، قال قلت لانس هل قنت رسول الله صلى الله عليه وسلم في صلاة الصبح قال نعم بعد الركوع يسيرا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর আন নাকিদ ও যুহায়র ইবনু হারব (রহঃ) ..... মুহাম্মাদ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আনাসকে জিজ্ঞাসা করলাম, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি ফজরের সালাতে কুনুত পড়তেন? জবাবে তিনি বললেনঃ হ্যাঁ, রুকূর পরে সংক্ষিপ্তভাবে পড়তেন। (ইসলামী ফাউন্ডেশন ১৪১৭, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammad reported:I asked Anas whether the Messenger of Allah (ﷺ) observed Qunut in the dawn prayer. He said: Yes, (he did so) after the ruku', for a short while
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## French
 
+Rapporté par Muhammad : J’ai demandé à Anas si le Messager d’Allah ﷺ récitait le Qunut dans la prière de l’aube. Il a répondu : « Oui, il le faisait après le ruku’, pendant un court moment. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## Indonesian
 
+Dan telah menceritakan kepadaku \['Amru An Naqid\] dan \[Zuhair bin Harb\], keduanya berkata; telah menceritakan kepada kami \[Ismail\] dari \[Ayyub\] dari \[Muhammad\] katanya; aku bertanya kepada \[Anas\]; "Apakah Rasulullah shallallahu 'alaihi wasallam pernah qubut dalam subuhnya?" Anas menjawab; "Benar, sebentar setelah ruku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepadaku ['Amru An Naqid] dan [Zuhair bin Harb], keduanya berkata; telah menceritakan kepada kami [Ismail] dari [Ayyub] dari [Muhammad] katanya; aku bertanya kepada [Anas]; "Apakah Rasulullah shallallahu 'alaihi wasallam pernah qubut dalam subuhnya?" Anas menjawab; "Benar, sebentar setelah ruku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Мухаммад спросил Анаса: «Обращался ли Посланник Аллаха ﷺ с мольбами (к Аллаху) во время утренней молитвы?» Он сказал: «Да, (он делал это) после поясных поклонов в течение короткого времени»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Amrü'n-Nâkıd ile Züheyr b. Harb rivayet ettilerki: Bize İsmâil, Eyyûb'dan, o da Muhammed'den naklen rivayet etti. Muhammed şöyle demiş: «Enes'e: Resulullah (Sallallahu Aleyhi ve Sellem) sabah namazında hiç kunut okudumu?» dedim, Enes': — Evet, rükû'dan sonra bir kaç zaman!..» cevâbını verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد ( بن سیرین ) سے روایت ہے ، کہا : میں نے حضرت انس بن مالک رضی اللہ عنہ سے پوچھا : کیا رسول اللہ ﷺ نے ( کبھی ) صبح کی نماز میں قنو ت کی تھی؟ کہا : ہاں ، رکوع سے تھوڑی دیر بعد ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1546</td></tr><tr><td>Arabic No</td><td>677.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 379</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1546 |
+| Arabic No | 677.02 |
+| Reference | Book 5 Hadith 379 |

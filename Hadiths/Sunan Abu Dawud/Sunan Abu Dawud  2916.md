@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ سُفْيَانَ الثَّوْرِيِّ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ الْوَلاَءُ لِمَنْ أَعْطَى الثَّمَنَ وَوَلِيَ النِّعْمَةَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا وكيع بن الجراح، عن سفيان الثوري، عن منصور، عن ابراهيم، عن الاسود، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم " الولاء لمن اعطى الثمن وولي النعمة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুক্তদাসের পরিত্যক্ত সম্পদ ঐ ব্যক্তি পাবে যে মূল্য পরিশোধ করেছে এবং সদয় ব্যবহার করেছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah:The Messenger of Allah (ﷺ) as saying: The right of inheritance belongs to only to the one who paid the price (of the slave) and patronised him by doing an act of gratitude
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
+
+## French
+
+Rapporté par ‘Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Le droit d’hériter appartient seulement à celui qui a payé le prix (de l’esclave) et l’a patronné par reconnaissance. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah?\], telah menceritakan kepada kami \[Waki' bin Al Jarrah\], dari \[Sufyan Ats Tsauri\] dari \[Manshur\] dari \[Ibrahim\] dari \[Al Aswad\] dari \[Aisyah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perwalian adalah milik orang yang memberikan harga dan membebaskan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Waki' bin Al Jarrah], dari [Sufyan Ats Tsauri] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perwalian adalah milik orang yang memberikan harga dan membebaskan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Покровителем является тот, кто отдаёт стоимость и оказывает милость»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Aişe'den demiştir ki: Rasûlullah (s.a.v.) (şöyle) buyurdu: "Velâ (köley'i hürriyetine kavuşturmak için gereken) fiyatı veren ve (hürriyete kavuşturmak) nimet(in)e sahip olan kimseye aittir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ولاء اس شخص کا حق ہے جو قیمت دے کر خرید لے اور احسان کرے ( یعنی خرید کر غلام کو آزاد کر دے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2916</td></tr><tr><td>Arabic No</td><td>2916</td></tr><tr><td>Reference</td><td>Book 19 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2916 |
+| Arabic No | 2916 |
+| Reference | Book 19 Hadith 32 |

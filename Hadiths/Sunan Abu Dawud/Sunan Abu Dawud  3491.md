@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ الآيَاتُ الأَوَاخِرُ فِي الرِّبَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا ابو معاوية، عن الاعمش، باسناده ومعناه قال الايات الاواخر في الربا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আ‘মাশ (রহঃ) তার নিজস্ব সনদে একই অর্থে হাদীস বর্ণনা করেছেন। তিনি বলেন, (সূরা বাকারাহর) শেষের আয়াতগুলো সুদ (হারাম) সম্পর্কিত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by al-A'mash to the same effect through a different chain of narrators. This version adds:"The last verses about usury
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par al-A'mash avec le même sens, mais par une autre chaîne de rapporteurs. Cette version ajoute : « Les derniers versets à propos de l’usure. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-А‘маш, передавая этот хадис с тем же иснадом, пояснил, что имеются в виду последние аяты о ростовщичестве
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Osman b. Ebî Şeybe ve Ebû Muâviye, A'meş'ten önceki (3490.) hadisi aynı isnad ve aynı ma'na ile rivayet etmişlerdir. A'meş; "Son âyetler faiz hakkındadır" demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اعمش سے بھی اسی سند سے اسی مفہوم کی حدیث مروی ہے اس میں «الآيات الأواخر من سورة البقرہ» ‏‏‏‏ کے بجائے «الآيات الأواخر في الربا» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1580)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3491</td></tr><tr><td>Arabic No</td><td>3491</td></tr><tr><td>Reference</td><td>Book 24 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1580) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3491 |
+| Arabic No | 3491 |
+| Reference | Book 24 Hadith 76 |

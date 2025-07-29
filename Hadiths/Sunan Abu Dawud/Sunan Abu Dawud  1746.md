@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُّ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ زَكَرِيَّا، عَنِ الْحَسَنِ بْنِ عُبَيْدِ اللَّهِ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَأَنِّي أَنْظُرُ إِلَى وَبِيصِ الْمِسْكِ فِي مَفْرِقِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَهُوَ مُحْرِمٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
+
 حدثنا محمد بن الصباح البزاز، حدثنا اسماعيل بن زكريا، عن الحسن بن عبيد الله، عن ابراهيم، عن الاسود، عن عايشة، قالت كاني انظر الى وبيص المسك في مفرق رسول الله صلى الله عليه وسلم وهو محرم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ইহরাম অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সুগন্ধি ব্যবহার করতেন, তাঁর সিঁথির চাকচিক্য যেন আমি এখনও দেখছি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ইহরাম অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যে সুগন্ধি ব্যবহার করতেন, তাঁর সিঁথির চাকচিক্য যেন আমি এখনও দেখছি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A’ishah (may Allah be pleased with her) said :I still seem to see the glistening of the perfume where the hair was parted on the head of the Messenger of Allah (SWAS) while he was wearing Ihram
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
+
+## French
+
+Rapporté par A’ishah رضي الله عنها : Je vois encore la brillance du parfum là où les cheveux du Messager d’Allah ﷺ étaient séparés, alors qu’il portait l’ihram
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Muhammad bin Ash Shabbah Al Bazzaz\], telah menceritakan kepada Kami \[Isma'il bin Zakariya\] dari \[Al Hasan bin 'Ubaidullah\] dari \[Ibrahim\] dari \[Al Aswad\] dari \[Aisyah\], ia berkata; seolah-olah aku melihat kilatan minyak wangi pada belahan rambut Rasulullah shallAllahu wa'alaihi wa sallam sementara beliau dalam keadaan berihram
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Muhammad bin Ash Shabbah Al Bazzaz], telah menceritakan kepada Kami [Isma'il bin Zakariya] dari [Al Hasan bin 'Ubaidullah] dari [Ibrahim] dari [Al Aswad] dari [Aisyah], ia berkata; seolah-olah aku melihat kilatan minyak wangi pada belahan rambut Rasulullah shallAllahu wa'alaihi wa sallam sementara beliau dalam keadaan berihram
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах, что она сказала: «Я и сейчас как будто вижу блеск благовоний на проборе Посланника Аллаха ﷺ облачённого в ихрам»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.a.hâ)dan; demiştir ki: Rasûlullah (s.a.v.) ihrâmlı iken, (O'nun) saç ayrımındaki misk pırıltısını hâlâ görür gibiyim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ گویا میں رسول اللہ صلی اللہ علیہ وسلم کی مانگ میں مشک کی چمک دیکھ رہی ہوں اور آپ احرام باندھے ہوئے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1190)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1746</td></tr><tr><td>Arabic No</td><td>1746</td></tr><tr><td>Reference</td><td>Book 11 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1190) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1746 |
+| Arabic No | 1746 |
+| Reference | Book 11 Hadith 26 |

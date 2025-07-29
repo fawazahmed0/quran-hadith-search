@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو النَّضْرِ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ ثَابِتٍ، حَدَّثَنَا حَسَّانُ بْنُ عَطِيَّةَ، عَنْ أَبِي مُنِيبٍ الْجُرَشِيِّ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا ابو النضر، حدثنا عبد الرحمن بن ثابت، حدثنا حسان بن عطية، عن ابي منيب الجرشي، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم " من تشبه بقوم فهو منهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিজাতির সাদৃশ্য অবলম্বন করে, সে তাদের দলভুক্ত গণ্য হবে।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি বিজাতির সাদৃশ্য অবলম্বন করে, সে তাদের দলভুক্ত গণ্য হবে।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: He who copies any people is one of them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
+
+## French
+
+Rapporté par Abdullah ibn Umar رضي الله عنه : Le Prophète ﷺ a dit : « Celui qui imite un peuple en fait partie. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] berkata, telah menceritakan kepada kami \[Abu An Nadhr\] berkata, telah menceritakan kepada kami \['Abdurrahman bin Tsabit\] berkata, telah menceritakan kepada kami \[Hassan bin Athiyah\] dari \[Abu Munib Al Jurasyi\] dari \[Ibnu Umar\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bertasyabuh dengan suatu kaum, maka ia bagian dari mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu An Nadhr] berkata, telah menceritakan kepada kami ['Abdurrahman bin Tsabit] berkata, telah menceritakan kepada kami [Hassan bin Athiyah] dari [Abu Munib Al Jurasyi] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bertasyabuh dengan suatu kaum, maka ia bagian dari mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто подражает каким-то людям (, уподобляясь им в одежде, поведении, действиях, образе жизни и т. д.), тот сам из них»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer'den rivayet olunduğuna göre; Resulullah (s.a.v) "Kendisini bir kavme benzetmeye çalışan kimse o kavimdendir" buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس نے کسی قوم کی مشابہت اختیار کی تو وہ انہیں میں سے ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4031</td></tr><tr><td>Arabic No</td><td>4031</td></tr><tr><td>Reference</td><td>Book 34 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4031 |
+| Arabic No | 4031 |
+| Reference | Book 34 Hadith 12 |

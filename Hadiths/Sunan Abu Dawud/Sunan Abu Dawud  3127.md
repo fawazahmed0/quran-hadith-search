@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَيُّوبَ، عَنْ حَفْصَةَ، عَنْ أُمِّ عَطِيَّةَ، قَالَتْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَانَا عَنِ النِّيَاحَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
+
 حدثنا مسدد، حدثنا عبد الوارث، عن ايوب، عن حفصة، عن ام عطية، قالت ان رسول الله صلى الله عليه وسلم نهانا عن النياحة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । উম্মু ‘আতিয়্যাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে উচ্চস্বরে বিলাপ করে কাঁদতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umm 'Atiyyah :The Messenger of Allah (ﷺ) prohibited us to wail
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
+
+## French
+
+Rapporté par Umm ‘Atiyyah : Le Messager d’Allah ﷺ nous a interdit de nous lamenter bruyamment
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Abdul Warits\] dari \[Ayyub\] dari \[Hafshah\] dari \[Ummu 'Athiyyah\] ia berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kami dari meratapi kematian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdul Warits] dari [Ayyub] dari [Hafshah] dari [Ummu 'Athiyyah] ia berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam telah melarang kami dari meratapi kematian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Умм ‘Атыйя, да будет доволен ею Аллах, передаёт: «Посланник Аллаха ﷺ запретил нам громко причитать по покойным»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ümmü Atiyye'den demiştir ki: Rasûlullah (s.a.v.) bizi (ölüm karşısında) yüksek sesle ağlamaktan nehyetmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام عطیہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں نوحہ کرنے سے منع فرمایا ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7215)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3127</td></tr><tr><td>Arabic No</td><td>3127</td></tr><tr><td>Reference</td><td>Book 21 Hadith 39</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7215) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3127 |
+| Arabic No | 3127 |
+| Reference | Book 21 Hadith 39 |

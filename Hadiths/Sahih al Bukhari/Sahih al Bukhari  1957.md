@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ يَزَالُ النَّاسُ بِخَيْرٍ مَا عَجَّلُوا الْفِطْرَ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الله بن يوسف، اخبرنا مالك، عن ابي حازم، عن سهل بن سعد، ان رسول الله صلى الله عليه وسلم قال " لا يزال الناس بخير ما عجلوا الفطر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
 ## Bengali
 
+সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা যতদিন শীঘ্র ইফতার করবে \[1\], ততদিন তারা কল্যাণের উপর থাকবে। (মুসলিম ১৩/৯, হাঃ ১০৯৮, আহমাদ ২২৮২৮) (আধুনিক প্রকাশনীঃ ১৮১৮, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সাহল ইবনু সা‘দ (রাঃ) হতে বর্ণিত যে, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ লোকেরা যতদিন শীঘ্র ইফতার করবে [1], ততদিন তারা কল্যাণের উপর থাকবে। (মুসলিম ১৩/৯, হাঃ ১০৯৮, আহমাদ ২২৮২৮) (আধুনিক প্রকাশনীঃ ১৮১৮, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sahl bin Sa'd:Allah's Messenger (ﷺ) said, "The people will remain on the right path as long as they hasten the breaking of the fast
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
+
+## French
+
+Rapporté par Sahl ibn Sa'd : Le Messager d’Allah ﷺ a dit : « Les gens resteront sur la bonne voie tant qu’ils se dépêcheront de rompre le jeûne. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Abdullah bion Yusuf\] telah mengabarkan kepada kami \[Malik\] dari \[Abu HAzim\] dari \[Sahal bin Sa'ad\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Senantiasa manusia berada dalam kebaikan selama mereka menyegerakan berbuka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Abdullah bion Yusuf] telah mengabarkan kepada kami [Malik] dari [Abu HAzim] dari [Sahal bin Sa'ad] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Senantiasa manusia berada dalam kebaikan selama mereka menyegerakan berbuka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Сахля бин Са‘да, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Люди не лишатся блага до тех пор, пока не перестанут разговляться быстро»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: நோன்பு துறப்பதை விரைவுபடுத்தும் வரை மக்கள் நன்மையில் நிலைத்திருப் பார்கள். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl Ibn Sa'd'dan nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur; İftar vakti girer girmez oruçlarını açtıkları sürece insanlar hayır üzerindedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا، کہا ہمیں امام مالک نے خبر دی، انہیں ابوحازم سلمہ بن دینار نے، انہیں سہل بن سعد رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، میری امت کے لوگوں میں اس وقت تک خیر باقی رہے گی، جب تک وہ افطار میں جلدی کرتے رہیں گے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1957</td></tr><tr><td>Arabic No</td><td>1957</td></tr><tr><td>Reference</td><td>Book 30 Hadith 64</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1957 |
+| Arabic No | 1957 |
+| Reference | Book 30 Hadith 64 |

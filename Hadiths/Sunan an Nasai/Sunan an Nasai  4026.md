@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ، قَالَ حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، قَالَ حَدَّثَنِي أَبُو قِلاَبَةَ، عَنْ أَنَسٍ، قَالَ قَدِمَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ثَمَانِيَةُ نَفَرٍ مِنْ عُكْلٍ فَذَكَرَ نَحْوَهُ إِلَى قَوْلِهِ لَمْ يَحْسِمْهُمْ وَقَالَ قَتَلُوا الرَّاعِيَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>4026</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |
+
 اخبرنا اسحاق بن منصور، قال حدثنا محمد بن يوسف، قال حدثنا الاوزاعي، قال حدثني يحيى بن ابي كثير، قال حدثني ابو قلابة، عن انس، قال قدم على رسول الله صلى الله عليه وسلم ثمانية نفر من عكل فذكر نحوه الى قوله لم يحسمهم وقال قتلوا الراعي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>4026</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন মানসূর (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, উকল গোত্রের আট ব্যক্তি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর খিদমতে আগমন করলো। এরপর আগের হাদীসের মত বর্ণনার পর রাবী বলেন, তারা রাখালকে হত্যা করলো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>4026</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |
 
 ## English
 
+It was narrated that Anas said:"Eighty men from 'Ukl came to the Messenger of Allah \[SAW\]" and he (the narrator) mentioned a similar report up to the words: "And he did not have (their wounds) cauterized." And he said: "They killed the herdsman
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Anas said:"Eighty men from 'Ukl came to the Messenger of Allah [SAW]" and he (the narrator) mentioned a similar report up to the words: "And he did not have (their wounds) cauterized." And he said: "They killed the herdsman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>4026</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |
+
+## French
+
+Rapporté par Anas : Quatre-vingts hommes de 'Ukl sont venus voir le Messager d'Allah ﷺ, et il (le narrateur) a rapporté un récit similaire jusqu'aux mots : « Et il n'a pas cautérisé leurs blessures. » Et il a dit : « Ils ont tué le berger. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>4026</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>4026</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4026</td></tr><tr><td>Arabic No</td><td>4026</td></tr><tr><td>Reference</td><td>Book 37 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4026 |
+| Arabic No | 4026 |
+| Reference | Book 37 Hadith 61 |

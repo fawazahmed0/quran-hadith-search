@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,112 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ إِبْرَاهِيمَ بْنِ مُحَمَّدٍ الْقُرَشِيُّ الدِّمَشْقِيُّ أَبُو عَبْدِ الْمَلِكِ، قِرَاءَةً قَالَ حَدَّثَنَا ابْنُ عَائِذٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ حَمْزَةَ، عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي إِدْرِيسَ الْخَوْلاَنِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَأَى عَلَى رَجُلٍ خَاتَمًا مِنْ ذَهَبٍ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 48 Hadith 153</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |
+
 اخبرنا احمد بن ابراهيم بن محمد القرشي الدمشقي ابو عبد الملك، قراءة قال حدثنا ابن عايذ، قال حدثنا يحيى بن حمزة، عن الاوزاعي، عن الزهري، عن ابي ادريس الخولاني، ان رسول الله صلى الله عليه وسلم راى على رجل خاتما من ذهب نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 48 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবন ইবরাহীম (রহঃ) ... আবূ ইদরীস খাওলানী (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তির হাতে সোনার আংটি দেখলেন। তারপর পূর্বের অনুরূপ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 48 Hadith 153</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |
 
 ## English
 
+It was narrated from Abu Idris Al-Khawlani that:The Messenger of Allah \[SAW\] saw a man wearing a gold ring. A similar report
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Idris Al-Khawlani that:The Messenger of Allah [SAW] saw a man wearing a gold ring. A similar report
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 48 Hadith 153</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |
+
+## French
+
+Rapporté par Abu Idris Al-Khawlani : Le Messager d'Allah ﷺ a vu un homme portant une bague en or. Un récit similaire
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 48 Hadith 153</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 48 Hadith 153</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 48 Hadith 153</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 48 Hadith 153 |

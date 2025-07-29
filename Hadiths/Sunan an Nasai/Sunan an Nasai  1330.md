@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، عَنْ عَبْدِ اللَّهِ بْنِ الْمُبَارَكِ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، قَالَ حَدَّثَنَا ضَمْضَمُ بْنُ جَوْسٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سَلَّمَ ثُمَّ سَجَدَ سَجْدَتَىِ السَّهْوِ وَهُوَ جَالِسٌ ثُمَّ سَلَّمَ ‏.‏ قَالَ ذَكَرَهُ فِي حَدِيثِ ذِي الْيَدَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 13 Hadith 152</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |
+
 اخبرنا سويد بن نصر، عن عبد الله بن المبارك، عن عكرمة بن عمار، قال حدثنا ضمضم بن جوس، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم سلم ثم سجد سجدتى السهو وهو جالس ثم سلم . قال ذكره في حديث ذي اليدين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 13 Hadith 152</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুওয়ায়দ ইবনু নাসর (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (একদা সালাতে) সালাম ফিরিয়ে ফেললেন এবং সেই বসা অবস্থায় থেকেই তিনি সাহুর সিজদা করলেন। তারপর সালাম ফিরালেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 13 Hadith 152</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that:"The Messenger of Allah (ﷺ) said the salam then he performed two prostrations of forgetfulness while he was still sitting, then he said the salam." He said: He mentioned it in the hadith of Dhul-Yadain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 13 Hadith 152</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit le salam, puis il a fait deux prosternations de l’oubli alors qu’il était encore assis, puis il a dit le salam. Il a mentionné cela dans le hadith de Dhul-Yadain
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid bin Nashr\] dari \['Abdullah bin Al Mubarak\] dari \['Ikrimah bin 'Ammar\] dia berkata; telah menceritakan kepada kami \[Dhamdham bin Jaus\] dari \[Abu Hurairah\] bahwa Rasulullah Shallallahu 'Alahi Wa Sallam mengucapkan salam, kemudian ia sujud sahwi dua kali sambil duduk, kemudian mengucapkan salam.Ia (perawi) berkata; "Ia menyebutkan pada hadits Dzul Yadain
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid bin Nashr] dari ['Abdullah bin Al Mubarak] dari ['Ikrimah bin 'Ammar] dia berkata; telah menceritakan kepada kami [Dhamdham bin Jaus] dari [Abu Hurairah] bahwa Rasulullah Shallallahu 'Alahi Wa Sallam mengucapkan salam, kemudian ia sujud sahwi dua kali sambil duduk, kemudian mengucapkan salam.Ia (perawi) berkata; "Ia menyebutkan pada hadits Dzul Yadain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 13 Hadith 152</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 13 Hadith 152</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے سلام پھیرا، پھر سہو کے دو سجدے بیٹھے بیٹھے کئے، پھر سلام پھیرا، راوی کہتے ہیں: اس کا ذکر ذوالیدین والی حدیث میں بھی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1330</td></tr><tr><td>Arabic No</td><td>1330</td></tr><tr><td>Reference</td><td>Book 13 Hadith 152</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1330 |
+| Arabic No | 1330 |
+| Reference | Book 13 Hadith 152 |

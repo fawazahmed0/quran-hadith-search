@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ حَمَّادٍ، حَدَّثَنَا دَاوُدُ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اعْتَمَرَ عُمْرَتَيْنِ عُمْرَةً فِي ذِي الْقَعْدَةِ وَعُمْرَةً فِي شَوَّالٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
+
 حدثنا عبد الاعلى بن حماد، حدثنا داود بن عبد الرحمن، عن هشام بن عروة، عن ابيه، عن عايشة، ان رسول الله صلى الله عليه وسلم اعتمر عمرتين عمرة في ذي القعدة وعمرة في شوال
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুইবার ‘উমরা করেছেন। একটি যিলকাদ মাসে এবং অপরটি শাওয়াল মাসে।\[1\] সহীহঃ কিন্তু তার কথাঃ শাওয়াল অর্থাৎ প্রথমটি। অন্যথায় সেটিও যিলকাদ মাসে।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুইবার ‘উমরা করেছেন। একটি যিলকাদ মাসে এবং অপরটি শাওয়াল মাসে।[1] সহীহঃ কিন্তু তার কথাঃ শাওয়াল অর্থাৎ প্রথমটি। অন্যথায় সেটিও যিলকাদ মাসে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) performed two umrahs: one umrah in Dhul-Qa'dah, and the other in Shawwal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
+
+## French
+
+Rapporté par Aïcha, la mère des croyants رضي الله عنها : Le Messager d’Allah ﷺ a accompli deux ‘Umrahs : une ‘Umrah en Dhul-Qa’dah, et l’autre en Shawwal
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abdul A'la bin Hammad\], telah menceritakan kepada Kami \[Daud bin Abdurrahman\] dari \[Hisyam bin 'Urwah\] dari \[ayahnya\] dari \[Aisyah\] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan umrah dua kali, yaitu umrah pada Bulan Dzul Qa'dah dan Umrah pada Bulan Syawal
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abdul A'la bin Hammad], telah menceritakan kepada Kami [Daud bin Abdurrahman] dari [Hisyam bin 'Urwah] dari [ayahnya] dari [Aisyah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam melakukan umrah dua kali, yaitu umrah pada Bulan Dzul Qa'dah dan Umrah pada Bulan Syawal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершил две ‘умры одну в зуль-ка‘де, одну в шаввале
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anha)'dan rivayet olunduğuna göre, Resûlullah (s.a.v.) birisi Zilka'dede birisi de Şevvalde olmak üzere iki defa umre yapmıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے دو عمرے کئے: ایک ذی قعدہ میں اور دوسرا شوال میں ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1991</td></tr><tr><td>Arabic No</td><td>1991</td></tr><tr><td>Reference</td><td>Book 11 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1991 |
+| Arabic No | 1991 |
+| Reference | Book 11 Hadith 271 |

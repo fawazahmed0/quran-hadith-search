@@ -18,78 +18,90 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ عُثْمَانَ النَّوْفَلِيُّ، حَدَّثَنَا أَبُو عَاصِمٍ، كِلاَهُمَا عَنِ ابْنِ جُرَيْجٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه محمد بن حاتم، حدثنا محمد بن بكر، ح وحدثنا احمد بن عثمان النوفلي، حدثنا ابو عاصم، كلاهما عن ابن جريج، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Muhammad b. Hatim, Muhammad b. Bakr, Ahmad b. 'Uthman Naufali, Abu 'Asim, Ibn Juraij
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## French
 
+Rapporté par Muhammad ibn Hatim, Muhammad ibn Bakr, Ahmad ibn ‘Uthman Naufali, Abu ‘Asim et Ibn Juraij : Ce hadith a été rapporté par cette chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bunu bana Muhammed b. Hatim de tahdis etti. Bize Muhammed b. Bekr tahdis etti (H). Bunu bize Ahmed b. Osman en-Nevfel! de tahdis etti. Bize (Muhammed b. Bekr ile birlikte) her ikisi İbn Cureyc'den bu isnat ile aynısını nakletti. Yalnız Müslim rivayet etmiştir; Tuhfetu'I-Eşraf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (ابن جریج کے دوسرے شاگردوں ) محمد بن بکر اور ابو عاصم نےاسی مذکورہ سند کے ساتھ ( سابقہ حدیث ) کےمانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>362</td></tr><tr><td>Arabic No</td><td>141.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 269</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 362 |
+| Arabic No | 141.02 |
+| Reference | Book 1 Hadith 269 |

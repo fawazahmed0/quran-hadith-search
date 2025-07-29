@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ الدِّمَشْقِيُّ، حَدَّثَنَا الْفِرْيَابِيُّ، عَنِ الأَوْزَاعِيِّ، عَنِ الزُّهْرِيِّ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ، بِهَذَا الْخَبَرِ قَالَ فَكَانَ يُدْعَى - يَعْنِي الْوَلَدَ - لأُمِّهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
+
 حدثنا محمود بن خالد الدمشقي، حدثنا الفريابي، عن الاوزاعي، عن الزهري، عن سهل بن سعد الساعدي، بهذا الخبر قال فكان يدعى - يعني الولد - لامه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
 
 ## Bengali
 
+। সাহল ইবনু সা‘দ আস-সাঈদী (রাযি.) সূত্রে উক্ত ঘটনা বর্ণিত হয়েছে। তিনি বলেছেন, সন্তাটিকে তার মায়ের সাথে সম্পৃক্ত করে ডাকা হতো।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাহল ইবনু সা‘দ আস-সাঈদী (রাযি.) সূত্রে উক্ত ঘটনা বর্ণিত হয়েছে। তিনি বলেছেন, সন্তাটিকে তার মায়ের সাথে সম্পৃক্ত করে ডাকা হতো।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Sahl bin Sa’d Al Sa’idi through a different chain of narrators. This version adds the child was attributed to its mother
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Sahl ibn Sa’d Al Sa’idi par une autre chaîne de narrateurs. Cette version ajoute que l’enfant a été attribué à sa mère
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сахль ибн Са‘д ас-Саиди, да будет доволен им Аллах, пересказал эту историю и добавил: «И ребёнка называли по матери»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl b. Sa'd es-Saîdî'den (Uveymir ve hanımı ile ilgili olay hakkında) şöyle dediği de nakledilmiştir. (Doğan çocuğu kastederek) "O annesine nisbet edildi ve (İbn Havle diye) çağrıldı." Bu hadis'i Buhârî de tefsir-i sûre de tahric etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی سہل بن سعد ساعدی رضی اللہ عنہ سے یہی حدیث مروی ہے اس میں ہے: تو اسے یعنی لڑکے کو اس کی ماں کی جانب منسوب کر کے پکارا جاتا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4745)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2249</td></tr><tr><td>Arabic No</td><td>2249</td></tr><tr><td>Reference</td><td>Book 13 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4745) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2249 |
+| Arabic No | 2249 |
+| Reference | Book 13 Hadith 75 |

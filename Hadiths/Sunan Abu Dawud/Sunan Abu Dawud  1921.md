@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ اللَّهِ بْنِ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، - وَهَذَا لَفْظُ حَدِيثِ زُهَيْرٍ - حَدَّثَنَا إِبْرَاهِيمُ بْنُ عُقْبَةَ، أَخْبَرَنِي كُرَيْبٌ، أَنَّهُ سَأَلَ أُسَامَةَ بْنَ زَيْدٍ قُلْتُ أَخْبِرْنِي كَيْفَ، فَعَلْتُمْ - أَوْ صَنَعْتُمْ - عَشِيَّةَ رَدِفْتَ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ جِئْنَا الشِّعْبَ الَّذِي يُنِيخُ النَّاسُ فِيهِ لِلْمُعَرَّسِ فَأَنَاخَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَاقَتَهُ ثُمَّ بَالَ - وَمَا قَالَ زُهَيْرٌ أَهْرَاقَ الْمَاءَ - ثُمَّ دَعَا بِالْوَضُوءِ فَتَوَضَّأَ وُضُوءًا لَيْسَ بِالْبَالِغِ جِدًّا قُلْتُ يَا رَسُولَ اللَّهِ الصَّلاَةَ ‏.‏ قَالَ ‏ "‏ الصَّلاَةُ أَمَامَكَ ‏"‏ ‏.‏ قَالَ فَرَكِبَ حَتَّى قَدِمْنَا الْمُزْدَلِفَةَ فَأَقَامَ الْمَغْرِبَ ثُمَّ أَنَاخَ النَّاسُ فِي مَنَازِلِهِمْ وَلَمْ يَحِلُّوا حَتَّى أَقَامَ الْعِشَاءَ وَصَلَّى ثُمَّ حَلَّ النَّاسُ ‏.‏ زَادَ مُحَمَّدٌ فِي حَدِيثِهِ قَالَ قُلْتُ كَيْفَ فَعَلْتُمْ حِينَ أَصْبَحْتُمْ قَالَ رَدِفَهُ الْفَضْلُ وَانْطَلَقْتُ أَنَا فِي سُبَّاقِ قُرَيْشٍ عَلَى رِجْلَىَّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
+
 حدثنا احمد بن عبد الله بن يونس، حدثنا زهير، ح وحدثنا محمد بن كثير، اخبرنا سفيان، - وهذا لفظ حديث زهير - حدثنا ابراهيم بن عقبة، اخبرني كريب، انه سال اسامة بن زيد قلت اخبرني كيف، فعلتم - او صنعتم - عشية ردفت رسول الله صلى الله عليه وسلم قال جينا الشعب الذي ينيخ الناس فيه للمعرس فاناخ رسول الله صلى الله عليه وسلم ناقته ثم بال - وما قال زهير اهراق الماء - ثم دعا بالوضوء فتوضا وضوءا ليس بالبالغ جدا قلت يا رسول الله الصلاة . قال " الصلاة امامك " . قال فركب حتى قدمنا المزدلفة فاقام المغرب ثم اناخ الناس في منازلهم ولم يحلوا حتى اقام العشاء وصلى ثم حل الناس . زاد محمد في حديثه قال قلت كيف فعلتم حين اصبحتم قال ردفه الفضل وانطلقت انا في سباق قريش على رجلى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
 
 ## Bengali
 
+। কুরাইব (রহ.) সূত্রে বর্ণিত। একদা তিনি উসামাহ ইবনু যায়িদ (রাযি.)-কে জিজ্ঞেস করেন, যে দিন সন্ধ্যায় আপনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পিছনে আরোহণ করে ফিরছিলেন, তখন আপনারা কি করছিলেন? তিনি বললেন, আমরা ঐ পাহাড়ী পথে যাই যেখানে রাত যাপনের জন্য লোকেরা অবতরণ করে। সেখানে পৌঁছে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উষ্ট্রী বসিয়ে পেশাব করলেন। বর্ণনাকারী এখানে পানি প্রবাহের কথা বলেননি। অতঃপর উযুর পানি চাইলেন, তিনি হালকাভাবে উযু করলেন। আমি জিজ্ঞেস করলাম, হে আল্লাহর রাসূল! আপনি কি সালাত আদায় করবেন? তিনি বললেনঃ সালাত সামনে গিয়ে (পড়বো)। বর্ণনাকারী বলেন, অতঃপর তিনি সওয়ারীতে চড়ে মুযদালিফায় আসেন এবং ইকামাত হলে মাগরিবের সালাত আদায় করেন। এদিকে লোকেরা উটের পিঠ থেকে মালপত্র না নামিয়েই তাদের উটগুলো নিজ নিজ তাঁবুতে বসিয়ে দিলেন। এরপর ইকামাত দিয়ে ‘ইশার সালাত আদায় করলেন। অতঃপর লোকেরা তাদের উটের পিঠের মালপত্র নামালো। মুহাম্মাদ ইবনু কাসীর তার হাদীসে বৃদ্ধি করেছেন যে, আমি (কুয়াইব) জিজ্ঞেস করলাম, পরবর্তী সকালে আপনার কি করেছেন? উসামাহ বলেন, আজ ফাদল তাঁর বাহনের পেছণে চড়লেন এবং আমি কুরাইশদের অগ্রগামী দলটির সাথে পায়ে হেঁটে রওয়ানা হলাম।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। কুরাইব (রহ.) সূত্রে বর্ণিত। একদা তিনি উসামাহ ইবনু যায়িদ (রাযি.)-কে জিজ্ঞেস করেন, যে দিন সন্ধ্যায় আপনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পিছনে আরোহণ করে ফিরছিলেন, তখন আপনারা কি করছিলেন? তিনি বললেন, আমরা ঐ পাহাড়ী পথে যাই যেখানে রাত যাপনের জন্য লোকেরা অবতরণ করে। সেখানে পৌঁছে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উষ্ট্রী বসিয়ে পেশাব করলেন। বর্ণনাকারী এখানে পানি প্রবাহের কথা বলেননি। অতঃপর উযুর পানি চাইলেন, তিনি হালকাভাবে উযু করলেন। আমি জিজ্ঞেস করলাম, হে আল্লাহর রাসূল! আপনি কি সালাত আদায় করবেন? তিনি বললেনঃ সালাত সামনে গিয়ে (পড়বো)। বর্ণনাকারী বলেন, অতঃপর তিনি সওয়ারীতে চড়ে মুযদালিফায় আসেন এবং ইকামাত হলে মাগরিবের সালাত আদায় করেন। এদিকে লোকেরা উটের পিঠ থেকে মালপত্র না নামিয়েই তাদের উটগুলো নিজ নিজ তাঁবুতে বসিয়ে দিলেন। এরপর ইকামাত দিয়ে ‘ইশার সালাত আদায় করলেন। অতঃপর লোকেরা তাদের উটের পিঠের মালপত্র নামালো। মুহাম্মাদ ইবনু কাসীর তার হাদীসে বৃদ্ধি করেছেন যে, আমি (কুয়াইব) জিজ্ঞেস করলাম, পরবর্তী সকালে আপনার কি করেছেন? উসামাহ বলেন, আজ ফাদল তাঁর বাহনের পেছণে চড়লেন এবং আমি কুরাইশদের অগ্রগামী দলটির সাথে পায়ে হেঁটে রওয়ানা হলাম।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibrahim bin ’Uqabah said “Kuraib told me that he asked Umamah bin Zaid saying tell me how you did in the evening when you rode behind the Apostle of Allaah(ﷺ). He said “We came to the valley where the people make their Camels kneel down to take rest at night.” The Apostle of Allaah(ﷺ) made his she Camel kneel down and he then urinated. He then called for water for ablution and performed the ablution but he did not perform minutely (but performed lightly). I asked Apostle of Allaah(ﷺ), prayer? He replied “Prayer ahead of you”. He then mounted (the Camel) till we came to Al Muzadalifah. There iqamah for the sunset prayer was called. The people then made their Camels kneel down at their places. The Camels were not unloaded as yet, iqamah for the night prayers was called and he prayed. The people then unloaded the Camels. The narrator Muhammad added in his version of the tradition How did you do when the morning came? He replied Al Fadl rode behind him and I walked on foot among the people of the Quraish who went ahead
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
+
+## French
+
+Rapporté par Ibrahim bin ‘Uqabah : Kuraib m’a dit qu’il avait demandé à Umamah bin Zaid : « Raconte-moi ce que tu as fait le soir où tu étais derrière le Messager d’Allah ﷺ. » Il répondit : « Nous sommes arrivés dans la vallée où les gens font agenouiller leurs chameaux pour se reposer la nuit. Le Messager d’Allah ﷺ a fait agenouiller sa chamelle, a uriné, puis a demandé de l’eau pour faire les ablutions, mais il les a faites légèrement. Je lui ai demandé : “La prière ?” Il répondit : “La prière est devant toi.” Il est alors remonté sur la chamelle jusqu’à ce que nous arrivions à Al-Muzdalifah. Là, l’iqamah pour la prière du coucher du soleil a été faite. Les gens ont fait agenouiller leurs chameaux à leur place. Les chameaux n’étaient pas encore déchargés que l’iqamah pour la prière du soir a été faite et il a prié. Ensuite, les gens ont déchargé les chameaux. » Le narrateur Muhammad ajoute dans sa version : « Qu’as-tu fait le matin ? » Il répondit : « Al-Fadl monta derrière lui et moi, je marchais à pied parmi les gens de Quraysh qui étaient devant. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Ahmad bin Abdullah bin Yunus\], telah menceritakan kepada Kami \[Zuhair\]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami \[Muhammad bin Katsir\], telah mengabarkan kepada Kami \[Sufyan\] dan ini adalah lafazh hadits Zuhair, telah menceritakan kepada Kami \[Ibrahim bin 'Uqbah\], telah mengabarkan kepadaku \[Kuraib\] bahwa ia bertanya kepada \[Usamah bin Zaid\], aku katakan; beritahukan kepadaku apa yang kalian perbuat pada sore hari ketika engkau membonceng Rasulullah shallAllahu wa'alaihi wa sallam!? Ia berkata; Kami datang ke jalan bukit yang padanya orang-orang menderumkan untanya untuk singgah di Al Mu'arras (tempat singgah untuk tidur dan istirahat pada akhir malam). Lalu Rasulullah shallAllahu wa'alaihi wa sallam menderumkan untanya kemudian buang air kecil. -Zuhair tidak mengatakan; beliau menyiramkan air-. Kemudian beliau meminta tempat berwudhu lalu beliau berwudhu, tidak berlebihan sekali. Aku katakan; wahai rasul, Shalat! Beliau mengatakan: "Shalat di depanmu." Usamah berkata; lalu beliau naik unta hingga Kami sampai ke Muzdalifah. Beliau melakukan shalat Maghrib kemudian orang-orang menderumkan unta di tempat-tempat persinggahan mereka, dan mereka tidak bertahallul, hingga beliau mendirikan shalat 'Isya' dan melakukan shalat, kemudian orang-orang bertahallul. - \[Muhammad\] dalam haditsnya menambahkan; \[Kuraib\] berkata; apa yang kalian lakukan ketika pagi hari? Ia berkata; Beliau memboncengkan Al Fadhl, sedangkan aku pergi bersama orang-orang Quraisy yang pergi cepat dengan berjalan kaki. Telah menceritakan kepada Kami \[Ahmad bin Hanbal\], telah menceritakan kepada Kami \[Yahya bin Adam\], telah menceritakan kepada Kami \[Sufyan\] dari \[Abdurrahman bin 'Ayyasy\] dari \[Zaid bin Ali\] dari \[ayahnya\] dari \['Ubaidullah bin Abu Rafi'\] dari \[Ali\] ia berkata; kemudian beliau memboncengkan Usamah, dan beliau memperlambat jalan untanya sementara orang-orang memukul unta kanan dan kiri, dan beliau tidak menoleh kepada mereka dan berkata: "Tenanglah wahai manusia." Dan beliau bertolak ketika matahari tenggelam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Ahmad bin Abdullah bin Yunus], telah menceritakan kepada Kami [Zuhair]. Dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Sufyan] dan ini adalah lafazh hadits Zuhair, telah menceritakan kepada Kami [Ibrahim bin 'Uqbah], telah mengabarkan kepadaku [Kuraib] bahwa ia bertanya kepada [Usamah bin Zaid], aku katakan; beritahukan kepadaku apa yang kalian perbuat pada sore hari ketika engkau membonceng Rasulullah shallAllahu wa'alaihi wa sallam!? Ia berkata; Kami datang ke jalan bukit yang padanya orang-orang menderumkan untanya untuk singgah di Al Mu'arras (tempat singgah untuk tidur dan istirahat pada akhir malam). Lalu Rasulullah shallAllahu wa'alaihi wa sallam menderumkan untanya kemudian buang air kecil. -Zuhair tidak mengatakan; beliau menyiramkan air-. Kemudian beliau meminta tempat berwudhu lalu beliau berwudhu, tidak berlebihan sekali. Aku katakan; wahai rasul, Shalat! Beliau mengatakan: "Shalat di depanmu." Usamah berkata; lalu beliau naik unta hingga Kami sampai ke Muzdalifah. Beliau melakukan shalat Maghrib kemudian orang-orang menderumkan unta di tempat-tempat persinggahan mereka, dan mereka tidak bertahallul, hingga beliau mendirikan shalat 'Isya' dan melakukan shalat, kemudian orang-orang bertahallul. - [Muhammad] dalam haditsnya menambahkan; [Kuraib] berkata; apa yang kalian lakukan ketika pagi hari? Ia berkata; Beliau memboncengkan Al Fadhl, sedangkan aku pergi bersama orang-orang Quraisy yang pergi cepat dengan berjalan kaki. Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Yahya bin Adam], telah menceritakan kepada Kami [Sufyan] dari [Abdurrahman bin 'Ayyasy] dari [Zaid bin Ali] dari [ayahnya] dari ['Ubaidullah bin Abu Rafi'] dari [Ali] ia berkata; kemudian beliau memboncengkan Usamah, dan beliau memperlambat jalan untanya sementara orang-orang memukul unta kanan dan kiri, dan beliau tidak menoleh kepada mereka dan berkata: "Tenanglah wahai manusia." Dan beliau bertolak ketika matahari tenggelam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
 
 ## Russian
 
+Курайб передаёт, что он спросил Усаму ибн Зейда, да будет доволен Аллах им и его отцом: «Что вы делали, когда ты сидел верхом позади Посланника Аллаха ﷺ вечером (после стояния на ‘Арафате), когда ты сидел в седле позади Посланника Аллаха ﷺ?» Усама сказал: «Мы доехали до места, где люди останавливаются в Му‘аррасе (дорогa между ‘Арафатом и Муздалифой). Там Посланник Аллаха ﷺ заставил свою верблюдицу опуститься на колени и помочился, и он не сказал “слил воду”, после чего велел принести воды и совершил облегчённое малое омовение. Я сказал: “О Посланник Аллаха, настало время молитвы”. Посланник Аллаха ﷺ сказал: “Молитва впереди”, а потом снова сел верхом. Когда же мы достигли Муздалифы, он \[велел\] объявить о начале закатной молитвы (магриб). Потом люди стали устраиваться там, где они остановились, но не снимали поклажу. Потом он объявил о начале молитвы и совершил её, после чего они сняли поклажу». Он спросил: «А что вы делали утром?» Усама сказал: «Позади Посланника Аллаха ﷺ сел аль-Фадль ибн ‘Аббас, а я двинулся в путь пешком вместе с курайшитами, которые отправились первыми»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Курайб передаёт, что он спросил Усаму ибн Зейда, да будет доволен Аллах им и его отцом: «Что вы делали, когда ты сидел верхом позади Посланника Аллаха ﷺ вечером (после стояния на ‘Арафате), когда ты сидел в седле позади Посланника Аллаха ﷺ?» Усама сказал: «Мы доехали до места, где люди останавливаются в Му‘аррасе (дорогa между ‘Арафатом и Муздалифой). Там Посланник Аллаха ﷺ заставил свою верблюдицу опуститься на колени и помочился, и он не сказал “слил воду”, после чего велел принести воды и совершил облегчённое малое омовение. Я сказал: “О Посланник Аллаха, настало время молитвы”. Посланник Аллаха ﷺ сказал: “Молитва впереди”, а потом снова сел верхом. Когда же мы достигли Муздалифы, он [велел] объявить о начале закатной молитвы (магриб). Потом люди стали устраиваться там, где они остановились, но не снимали поклажу. Потом он объявил о начале молитвы и совершил её, после чего они сняли поклажу». Он спросил: «А что вы делали утром?» Усама сказал: «Позади Посланника Аллаха ﷺ сел аль-Фадль ибн ‘Аббас, а я двинулся в путь пешком вместе с курайшитами, которые отправились первыми»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kureyb'in haber verdiğine göre, kendisi Üsâme b. Zeyd'e; Resûlullah (S.A.V.)'ın (hayvanının) arkasına bindiğin gece nasıl hareket ettiniz? -yahut- ne yaptınız? diye sormuş. O da (şöyle) demiş: Halkın gece istirahati için develeri çöktürdükleri dağ yoluna geldiğimiz zaman Resûlullah (S.A.V.)'de devesini çöktürdü, de küçük abdest bozdu. Züheyr (Hz. Usâme'den bu hadisi naklederken); "su döktü" demedi, de "küçük abdest bozdu" tabirini kullandı, Hz. Usâme sözlerine şöyle devam etmiş. Sonra abdest suyu isteyip gayet hafif bir abdest aldı. Ben (kendisine): Ya Resûlullah! Namaz (vakti geldi), dedim, "Namaz ilerdedir", diye cevap verip (devesine) bindi. Nihayet Müzdelife'ye geldik. (Orada) akşam namazı (için) ikâmet (edilmesini emr)etti (ve akşam namazını edâ etti). Sonra halk konak yerlerin­de develerini çökerttiler ama yüklerini çözmemişlerdi. Nihayet yatsı namazı (için) ikâmet (edilmesini emr) etti ve (yatsıyı da ) edâ etti. Sonra halk (yüklerini) çözdüler. Muhammed (b. Kesîr) bu hadîse (şunları da) ilâve etti: Ben (Usâme'ye): Sabahladığınız zaman ne yaptınız" diye sordum. Usâme: (Bu sefer) onun terkisine Fadl b. Abbâs bindi. Ben yaya olarak Kureyş'in önden gidenleriyle birlikte yola düştüm, diye cevap verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کریب کہتے ہیں کہ میں نے اسامہ بن زید رضی اللہ عنہما سے پوچھا: جس شام کو آپ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ سوار ہو کر آئے تھے آپ نے کیا کیا کیا؟ وہ بولے: ہم اس گھاٹی میں آئے جہاں لوگ اپنے اونٹ رات کو قیام کے لیے بٹھاتے ہیں، رسول اللہ صلی اللہ علیہ وسلم نے اپنی اونٹنی بیٹھا دی، پھر پیشاب کیا، ( زہیر نے یہ نہیں کہا کہ پانی بہایا ) پھر آپ صلی اللہ علیہ وسلم نے وضو کا پانی منگایا اور وضو کیا، جس میں زیادہ مبالغہ نہیں کیا، میں نے عرض کیا: اللہ کے رسول! نماز، ( پڑھی جائے ) ؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نماز آگے چل کر ( پڑھیں گے ) ۔ اسامہ کہتے ہیں: پھر آپ صلی اللہ علیہ وسلم سوار ہوئے یہاں تک کہ مزدلفہ آئے، وہاں آپ نے مغرب پڑھی پھر لوگوں نے اپنی سواریاں اپنے ٹھکانوں پر بٹھائیں یہاں تک کہ عشاء کی اقامت ہوئی، آپ صلی اللہ علیہ وسلم نے عشاء پڑھی، پھر لوگوں نے اونٹوں سے اپنے بوجھ اتارے، ( محمد کی روایت میں اتنا زیادہ ہے کہ کریب کہتے ہیں ) پھر میں نے پوچھا: صبح ہوئی تو آپ لوگوں نے کیسے کیا؟ انہوں نے کہا: آپ صلی اللہ علیہ وسلم کے ساتھ فضل بن عباس رضی اللہ عنہما سوار ہوئے، اور میں پیدل قریش کے لوگوں کے ساتھ ساتھ چلا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1280)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 11 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1280) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 11 Hadith 201 |

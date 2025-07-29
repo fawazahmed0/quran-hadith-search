@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، بِهَذَا الإِسْنَادِ وَزَادَ فَأَدَعُهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه محمد بن المثنى، حدثنا عبد الرحمن، حدثنا سفيان، بهذا الاسناد وزاد فادعها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (… /...) মুহাম্মদ ইবনুল মুসান্না (রহঃ) ... সুফইয়ান (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীসটি বর্ণিত আছে। তবে তিনিفَأَدَعُهَا কথাটি অতিরিক্ত করেছেন। (ইসলামিক ফাউন্ডেশন ৫২৭৬, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Sufyan with the saule chain of transmitters but with a slight variation of wording
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## French
 
+Rapporté par Jabir ibn Abdullah : Ce hadith a été rapporté par Sufyan avec la même chaîne de transmetteurs, mais avec une légère différence dans les mots
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana bu hadîsi Muhammed b. Müsennâ da rivayet etti. (Dediki): Bize Abdurrahman rivayet etti. Bize Süfyân bu isnad ile rivayette bulundu. Ve «Ben de onu bırakıyorum» cümlesini ziyade etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبد الرحمن نے کہا : ہمیں سفیان نے اسی سند کے ساتھ حدیث بیان کی اور اور یہ اضا فہ کیا : تو میں اسے ( اس کے حال پر ) چھوڑ دیتا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5451</td></tr><tr><td>Arabic No</td><td>2083.03</td></tr><tr><td>Reference</td><td>Book 37 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5451 |
+| Arabic No | 2083.03 |
+| Reference | Book 37 Hadith 66 |

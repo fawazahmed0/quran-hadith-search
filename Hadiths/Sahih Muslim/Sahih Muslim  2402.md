@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي أَبُو الطَّاهِرِ، وَيُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو، بْنُ الْحَارِثِ عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي عُبَيْدٍ، مَوْلَى عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لأَنْ يَحْتَزِمَ أَحَدُكُمْ حُزْمَةً مِنْ حَطَبٍ فَيَحْمِلَهَا عَلَى ظَهْرِهِ فَيَبِيعَهَا خَيْرٌ لَهُ مِنْ أَنْ يَسْأَلَ رَجُلاً يُعْطِيهِ أَوْ يَمْنَعُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني ابو الطاهر، ويونس بن عبد الاعلى، قالا حدثنا ابن وهب، اخبرني عمرو، بن الحارث عن ابن شهاب، عن ابي عبيد، مولى عبد الرحمن بن عوف انه سمع ابا هريرة، يقول قال رسول الله صلى الله عليه وسلم " لان يحتزم احدكم حزمة من حطب فيحملها على ظهره فيبيعها خير له من ان يسال رجلا يعطيه او يمنعه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ তহির ও ইউনুস ইবনু আবদুল আ'লা (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি কোন ব্যক্তি নিজের পিঠে করে লাকড়ির বোঝা বয়ে এনে তা বিক্রি করে তবে এটা তার জন্য কোন লোকের কাছে ভিক্ষা চেয়ে বেড়ানো থেকে উত্তম। কেননা তার জানা নেই যে, সে ব্যক্তি তাকে দিবে না বিমুখ করবে। (ইসলামিক ফাউন্ডেশন ২২৭০, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported Allah's Messenger (ﷺ) as saying:It is better for any one of you to tie a bundle of firewood and carry it on his back and sell it than to beg a person, he may give or may refuse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## French
 
+Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Il vaut mieux pour l’un d’entre vous d’attacher un fagot de bois, de le porter sur son dos et de le vendre, plutôt que de mendier auprès de quelqu’un, qu’il lui donne ou non. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Abu Thahir\] dan \[Yunus bin Abdul A'la\] keduanya berkata, Telah menceritakan kepada kami \[Ibnu Wahb\] telah mengabarkan kepadaku \[Amru bin Harits\] dari \[Ibnu Syihab\] dari \[Abu Ubaid\] Maula Abdurrahman bin Auf, bahwa ia mendengar \[Abu Hurairah\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang dari kalian mengikat satu ikatan kayu bakar, lalu ia memikulnya di atas punggungnya, kemudian ia jual adalah lebih baik baginya daripada harus meminta-minta kepada orang, baik orang itu memberi atau menolaknya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Abu Thahir] dan [Yunus bin Abdul A'la] keduanya berkata, Telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Amru bin Harits] dari [Ibnu Syihab] dari [Abu Ubaid] Maula Abdurrahman bin Auf, bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang dari kalian mengikat satu ikatan kayu bakar, lalu ia memikulnya di atas punggungnya, kemudian ia jual adalah lebih baik baginya daripada harus meminta-minta kepada orang, baik orang itu memberi atau menolaknya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, для любого из вас взять вязанку дров, понести её на своей спине, чтобы продать, лучше, чем обращаться с просьбами к (тому или иному) человеку, который может дать ему (что-либо), а может и отказать»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Ebû't-Tâhir ile Yûnus b. Abdil'a'lâ rivayet ettiler. (Dediler ki): Bize ibni Vehb rivayet etti. (Dediki) -. Bana Amr b. Haris, îbni Şihâb'dan, o da Abdurrahmân b. Avf'ın azatlısı Ebû Ubeyd'den naklen haber verdi. Ebû Ubeyd, Ebû Hureyre'yi şunları söylerken işitmiş: Resulullah (Sallallahu Aleyhi ve Sellem): «Sizden birinizin bir srrt odun toplaması ve onu sırtına yüklenerek satması, kendisi için versin vermesin, bir adama el açmaktan daha hayırlıdır.» buyurdular. İzah için buraya tıklayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت عبدالرحمان بن عوف رضی اللہ تعالیٰ عنہ کے آزادکردہ غلام ابو عبید سے روایت کی کہ انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے سنا ، کہہ رہے تھے : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " تم میں سے کوئی ایندھن کا گٹھا باندھے اور اپنی پیٹھ پرلادے ، اور بیچ دے ، اس کے لئے اس سے بہتر ہے کہ کسی آدمی سے سوال کرے ، ( چاہے ) وہ اسے دے یا نہ دے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2402</td></tr><tr><td>Arabic No</td><td>1042.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 139</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2402 |
+| Arabic No | 1042.03 |
+| Reference | Book 12 Hadith 139 |

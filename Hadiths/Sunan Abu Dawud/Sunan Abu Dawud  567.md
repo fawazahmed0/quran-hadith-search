@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا الْعَوَّامُ بْنُ حَوْشَبٍ، حَدَّثَنِي حَبِيبُ بْنُ أَبِي ثَابِتٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ تَمْنَعُوا نِسَاءَكُمُ الْمَسَاجِدَ وَبُيُوتُهُنَّ خَيْرٌ لَهُنَّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا يزيد بن هارون، اخبرنا العوام بن حوشب، حدثني حبيب بن ابي ثابت، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم " لا تمنعوا نساءكم المساجد وبيوتهن خير لهن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের নারীদের মসজিদে যেতে নিষেধ করো না। তবে তাদের ঘরই তাদের জন্য উত্তম।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের নারীদের মসজিদে যেতে নিষেধ করো না। তবে তাদের ঘরই তাদের জন্য উত্তম।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar reported the Messenger of Allah (ﷺ) as saying; Do not prevent your women from visiting the mosque; but their houses are better for them (for praying)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
+
+## French
+
+Ibn ‘Umar رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : Ne privez pas vos femmes d’aller à la mosquée ; mais leur maison est meilleure pour elles pour prier
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abi Syaibah\] telah menceritakan kepada kami \[Yazid bin Harun\] telah mengabarkan kepada kami \[Al-'Awwam bin Hausyab\] telah menceritakan kepadaku \[Habib bin Abu Tsabit\] dari \[Ibnu Umar\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melarang kaum wanita pergi ke masjid, akan tetapi sebenarnya rumah rumah mereka itu lebih baik bagi mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Al-'Awwam bin Hausyab] telah menceritakan kepadaku [Habib bin Abu Tsabit] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melarang kaum wanita pergi ke masjid, akan tetapi sebenarnya rumah rumah mereka itu lebih baik bagi mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Умар сказал: «Посланник Аллаха ﷺ сказал: “Не запрещайте своим женщинам (ходить) в мечети, однако, их дома лучше для них”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.)'den; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Kadınlarınızı mescidlerden men etmeyiniz. Bununla birlikte evIeri (nde namaz) kendileri için daha hayırlıdır." Diğer tahric: Müslim, salat; İbn Mace, mukaddime; Ahmed b. Hanbel, II
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم اپنی عورتوں کو مسجدوں سے نہ روکو، البتہ ان کے گھر ان کے لیے بہتر ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>567</td></tr><tr><td>Arabic No</td><td>567</td></tr><tr><td>Reference</td><td>Book 2 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 567 |
+| Arabic No | 567 |
+| Reference | Book 2 Hadith 177 |

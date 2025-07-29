@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ سَعِيدِ بْنِ أَبِي أَيُّوبَ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ الْمَكِّيِّ، - يَعْنِي ابْنَ أَبِي لَبِيبَةَ - عَنْ عَبْدِ اللَّهِ بْنِ أَبِي سُلَيْمَانَ، عَنْ جُبَيْرِ بْنِ مُطْعِمٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لَيْسَ مِنَّا مَنْ دَعَا إِلَى عَصَبِيَّةٍ وَلَيْسَ مِنَّا مَنْ قَاتَلَ عَلَى عَصَبِيَّةٍ وَلَيْسَ مِنَّا مَنْ مَاتَ عَلَى عَصَبِيَّةٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
+
 حدثنا ابن السرح، حدثنا ابن وهب، عن سعيد بن ابي ايوب، عن محمد بن عبد الرحمن المكي، - يعني ابن ابي لبيبة - عن عبد الله بن ابي سليمان، عن جبير بن مطعم، ان رسول الله صلى الله عليه وسلم قال " ليس منا من دعا الى عصبية وليس منا من قاتل على عصبية وليس منا من مات على عصبية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
 
 ## Bengali
 
+। জুবায়র ইবনু মুত্ব‘ইম (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আসাবিয়্যাতের দিকে ডাকে বা গোত্রের দিয়ে আহবান করে লোকদেরকে সমবেত করে সে আমার দলভুক্ত নয়। আর ঐ ব্যক্তিও আমাদের দলভুক্ত নয় যে আসবিয়্যাতের ভিত্তিতে যুদ্ধ করে এবং সেও নয় যে আসাবিয়্যাতের উপর মারা যায়।\[1\] দুর্বলঃ মিশকাত হা/ ৪৯০৭, গায়াতুল মারাম হা/ ৩০৪।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জুবায়র ইবনু মুত্ব‘ইম (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আসাবিয়্যাতের দিকে ডাকে বা গোত্রের দিয়ে আহবান করে লোকদেরকে সমবেত করে সে আমার দলভুক্ত নয়। আর ঐ ব্যক্তিও আমাদের দলভুক্ত নয় যে আসবিয়্যাতের ভিত্তিতে যুদ্ধ করে এবং সেও নয় যে আসাবিয়্যাতের উপর মারা যায়।[1] দুর্বলঃ মিশকাত হা/ ৪৯০৭, গায়াতুল মারাম হা/ ৩০৪।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jubair b. Mut’im reported the Messenger of Allah (May peace be upon him) as saying:he who summons others to party-spirit does not belong to us; and he who dies upholding party spirit does not belong to us.’
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
+
+## French
+
+Jubair ibn Mut’im a rapporté que le Messager d’Allah ﷺ a dit : « Celui qui appelle les autres à l’esprit de clan ne fait pas partie de nous ; et celui qui meurt en soutenant l’esprit de clan ne fait pas partie de nous. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu As Sarh\] berkata, telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Sa'id bin Abu Ayyub\] dari \[Muhammad bin 'Abdurrahman Al Makki\] -maksudnya Ibnu Abu Labibah- dari \[Abdullah bin Abu Sulaimn\] dari \[Jubair bin Muth'im\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan dari kami orang yang mengajak kepada golongan, bukan dari kami orang yang berperang karena golongan dan bukan dari kami orang yang mati karena golongan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Sa'id bin Abu Ayyub] dari [Muhammad bin 'Abdurrahman Al Makki] -maksudnya Ibnu Abu Labibah- dari [Abdullah bin Abu Sulaimn] dari [Jubair bin Muth'im] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan dari kami orang yang mengajak kepada golongan, bukan dari kami orang yang berperang karena golongan dan bukan dari kami orang yang mati karena golongan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cübeyr b. Mut'imden (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: (Halkı) asabiyyet (soy-sop) davasına çağıran bizden değildir. Asabiyyet (soy-sop) davası uğrunda savaşan bizden değildir. Asabiyyet (soy-sop) davası uğruna ölen bizden değildir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جبیر بن مطعم رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: وہ شخص ہم میں سے نہیں جو کسی عصبیت کی طرف بلائے، وہ شخص بھی ہم میں سے نہیں جو عصبیت کی بنیاد پر لڑائی لڑے، اور وہ شخص بھی ہم میں سے نہیں جو تعصب کا تصور لیے ہوئے مرے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5121</td></tr><tr><td>Arabic No</td><td>5121</td></tr><tr><td>Reference</td><td>Book 43 Hadith 349</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5121 |
+| Arabic No | 5121 |
+| Reference | Book 43 Hadith 349 |

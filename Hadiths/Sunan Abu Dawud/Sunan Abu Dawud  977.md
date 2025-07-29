@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْحَدِيثِ قَالَ ‏ "‏ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
+
 حدثنا مسدد، حدثنا يزيد بن زريع، حدثنا شعبة، بهذا الحديث قال " صل على محمد وعلى ال محمد كما صليت على ابراهيم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
 
 ## Bengali
 
+। শু‘বাহ (রহঃ) বর্ণিত হাদীসে আছেঃ ‘‘সল্লি ‘আলা মুহাম্মাদিন ওয়া ‘আলা ‘আলি মুহাম্মাদিন কামা সল্লাইতা ‘আলা ইবরাহীমা’’।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। শু‘বাহ (রহঃ) বর্ণিত হাদীসে আছেঃ ‘‘সল্লি ‘আলা মুহাম্মাদিন ওয়া ‘আলা ‘আলি মুহাম্মাদিন কামা সল্লাইতা ‘আলা ইবরাহীমা’’।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This tradition has also been reported by Shu’bah through a different chain of narrators. This version adds:Bless Muhammad and Muhammad’s family as Thou didst bless Abraham
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
+
+## French
+
+Cette tradition a aussi été rapportée par Shu’bah par une autre chaîne de rapporteurs. Cette version ajoute : « Bénis Muhammad et la famille de Muhammad comme Tu as béni Abraham. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В версии Шу‘бы говорится: «Благослови Мухаммада и семейство Мухаммада, как благословил Ты Ибрахима /Салли ‘аля Мухаммад ва ‘аля али мухаммад ка-ма салляйта ‘аля Ибрахим/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
 
 ## Turkish
 
+Müsedded, Yezid b. Zürey' kanalıyla Şu'be'den şu (önceki 976.) hadisi rivayet etmiştir. (Râvi bu rivayette) şöyle dedi: \[Sallu ala Muhammedin ve ala ali Muhammedin kema sallayte ala İbrahim\] Meali: "İbrahim'in âlini yücelttiğin gibi, Muhammed ve âlini de yücelt." Diğer tahric: Müslim, salât; Tirmizî, Tefsiru sûre
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Müsedded, Yezid b. Zürey' kanalıyla Şu'be'den şu (önceki 976.) hadisi rivayet etmiştir. (Râvi bu rivayette) şöyle dedi: [Sallu ala Muhammedin ve ala ali Muhammedin kema sallayte ala İbrahim] Meali: "İbrahim'in âlini yücelttiğin gibi, Muhammed ve âlini de yücelt." Diğer tahric: Müslim, salât; Tirmizî, Tefsiru sûre
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی شعبہ نے یہی حدیث روایت کی ہے اس میں یوں ہے: «صل على محمد وعلى آل محمد كما صليت على إبراهيم» اے اللہ! محمد اور آل محمد پر اپنی رحمت نازل فرما جیسا کہ تو نے ابراہیم علیہ السلام پر اپنی رحمت نازل فرمائی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6357) Sahih Muslim (406)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>977</td></tr><tr><td>Arabic No</td><td>977</td></tr><tr><td>Reference</td><td>Book 2 Hadith 588</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6357) Sahih Muslim (406) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 977 |
+| Arabic No | 977 |
+| Reference | Book 2 Hadith 588 |

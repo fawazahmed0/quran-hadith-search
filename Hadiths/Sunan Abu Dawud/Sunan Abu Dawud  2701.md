@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ الزُّبَيْرِيُّ، قَالَ حَدَّثَنَا أَنَسُ بْنُ عِيَاضٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ جَيْشًا، غَنِمُوا فِي زَمَانِ رَسُولِ اللَّهِ صلى الله عليه وسلم طَعَامًا وَعَسَلاً فَلَمْ يُؤْخَذْ مِنْهُمُ الْخُمُسُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
+
 حدثنا ابراهيم بن حمزة الزبيري، قال حدثنا انس بن عياض، عن عبيد الله، عن نافع، عن ابن عمر، ان جيشا، غنموا في زمان رسول الله صلى الله عليه وسلم طعاما وعسلا فلم يوخذ منهم الخمس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। একদল সৈনিক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে গানীমাত হিসাবে কিছু খাদ্যশস্য ও মধু পায়। কিন্তু তার এক-পঞ্চমাংশ নেয়া হয়নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: In the time of the Messenger of Allah (ﷺ) an army got food and honey and a fifth was not taken from them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
+
+## French
+
+Rapporté par Abdullah ibn Umar : À l’époque du Messager d’Allah ﷺ, une armée a obtenu de la nourriture et du miel, et aucun cinquième n’a été prélevé sur eux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibrahim bin Hamzah Az Zubairi\], ia berkata; telah menceritakan kepada kami \[Anas bin 'Iyadh\] dari \['Ubaidullah\] dari \[Nafi'\] dari \[Ibnu Umar\] bahwa sebuah pasukan telah mendapatkan rampasan perang pada zaman Rasulullah shallallahu 'alaihi wasallam berupa makanan, serta madu dan tidak diambil dari mereka zakat seperlima
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Hamzah Az Zubairi], ia berkata; telah menceritakan kepada kami [Anas bin 'Iyadh] dari ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa sebuah pasukan telah mendapatkan rampasan perang pada zaman Rasulullah shallallahu 'alaihi wasallam berupa makanan, serta madu dan tidak diambil dari mereka zakat seperlima
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer'den rivayet olunduğuna göre; Nebi (S.A.V.) zamanında (yapılan bir savaşta) ordu ganimet olarak (bir mikdar) yiyecek ve bal ele geçirmiş de onlardan beşte bir hisse alınmamıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ ایک لشکر رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں ( دوران جنگ ) غلہ اور شہد غنیمت میں لایا تو اس میں سے خمس نہیں لیا گیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2701</td></tr><tr><td>Arabic No</td><td>2701</td></tr><tr><td>Reference</td><td>Book 15 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2701 |
+| Arabic No | 2701 |
+| Reference | Book 15 Hadith 225 |

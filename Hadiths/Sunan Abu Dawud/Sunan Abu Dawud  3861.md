@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ الْجُمَحِيُّ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنِ احْتَجَمَ لِسَبْعَ عَشْرَةَ وَتِسْعَ عَشْرَةَ وَإِحْدَى وَعِشْرِينَ كَانَ شِفَاءً مِنْ كُلِّ دَاءٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
+
 حدثنا ابو توبة الربيع بن نافع، حدثنا سعيد بن عبد الرحمن الجمحي، عن سهيل، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " من احتجم لسبع عشرة وتسع عشرة واحدى وعشرين كان شفاء من كل داء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি প্রতি মাসের সতেরো, ঊনিশ বা একুশ তারিখে রক্তমোক্ষণ করাবে, তা সকল রোগের মহা ঔষধ।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি প্রতি মাসের সতেরো, ঊনিশ বা একুশ তারিখে রক্তমোক্ষণ করাবে, তা সকল রোগের মহা ঔষধ।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurayrah: The Prophet (ﷺ) said: If anyone has himself cupped on the 17th, 19th and 21st it will be a remedy for every disease
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
+
+## French
+
+Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un se fait saigner (cupping) le 17e, le 19e ou le 21e (du mois lunaire), cela sera un remède pour toute maladie. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Taubah Ar Rabi' bin Nafi'\] telah menceritakan kepada kami \[Sa'id bin Abdurrahman Al Jumahi\] dari \[Suhail\] dari \[Ayahnya\] dari \[Abu Hurairah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berbekam pada tanggal tujuh belas, sembilan belas dan dua puluh satu, maka bekam tersebut menjadi obat dari segala penyakit
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] telah menceritakan kepada kami [Sa'id bin Abdurrahman Al Jumahi] dari [Suhail] dari [Ayahnya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berbekam pada tanggal tujuh belas, sembilan belas dan dua puluh satu, maka bekam tersebut menjadi obat dari segala penyakit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто сделает кровопускание семнадцатого, девятнадцатого или двадцать первого (числа лунного месяца), для того оно послужит исцелением от всякой болезни (, связанной с кровью)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre'den rivayet edildiğine göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: "Kim (kamerî ayların) onyedi, ondokuz ve yirmi bir (inci günlerinden bir)inde kan aldırırsa (bu, kanın çoğalmasından ve bozulma­sından doğan) her hastalığa şifa olur." Ayrıca bu hadis'i Tirmizi, tıb; İbn Mace, tıb İzah; 3963 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو سترہویں، انیسویں اور اکیسویں تاریخ کو پچھنا لگوائے تو اسے ہر بیماری سے شفاء ہو گی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3861</td></tr><tr><td>Arabic No</td><td>3861</td></tr><tr><td>Reference</td><td>Book 29 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3861 |
+| Arabic No | 3861 |
+| Reference | Book 29 Hadith 7 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، حَدَّثَنِي مُحَمَّدُ بْنُ عَبَّادِ بْنِ جَعْفَرٍ، عَنِ ابْنِ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُصَلِّي يَوْمَ الْفَتْحِ وَوَضَعَ نَعْلَيْهِ عَنْ يَسَارِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
+
 حدثنا مسدد، حدثنا يحيى، عن ابن جريج، حدثني محمد بن عباد بن جعفر، عن ابن سفيان، عن عبد الله بن السايب، قال رايت النبي صلى الله عليه وسلم يصلي يوم الفتح ووضع نعليه عن يساره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
 
 ## Bengali
 
+। ‘আব্দুল্লাহ ইবনুস সায়িব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি দেখেছি মাক্কাহ বিজয়ের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর জুতাজোড়া তাঁর বাম পাশে রেখে সালাত আদায় করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আব্দুল্লাহ ইবনুস সায়িব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি দেখেছি মাক্কাহ বিজয়ের দিন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর জুতাজোড়া তাঁর বাম পাশে রেখে সালাত আদায় করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn as-Sa'ib: I saw the Prophet (ﷺ) praying on the day of the conquest of Mecca and he had placed his shoe at his left side
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
+
+## French
+
+Rapporté par Abdullah ibn as-Sa'ib رضي الله عنه : J’ai vu le Prophète ﷺ prier le jour de la conquête de La Mecque, et il avait posé ses chaussures à sa gauche
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Ibnu Juraij\] telah menceritakan kepadaku \[Muhammad bin Abbad bin Ja'far\] dari \[Ibnu Sufyan\] dari \[Abdullah bin As-Sa'ib\] dia berkata; Saya melihat Nabi shallallahu 'alaihi wasallam sedang melaksanakan shalat pada hari Fathu Makkah, sementara kedua sandalnya diletakkan di sisi kirinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] telah menceritakan kepadaku [Muhammad bin Abbad bin Ja'far] dari [Ibnu Sufyan] dari [Abdullah bin As-Sa'ib] dia berkata; Saya melihat Nabi shallallahu 'alaihi wasallam sedang melaksanakan shalat pada hari Fathu Makkah, sementara kedua sandalnya diletakkan di sisi kirinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абдуллах ибн ас-Саиб сказал: «Я видел, как в день покорения Мекки, Пророк ﷺ совершал молитву и он поставил свои сандалии слева от себя»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. es-Saib'den; demiştir ki: "Ben (Mekke'nin) fethi günü Nebi (Sallallahu aleyhi ve Sellem)'i ayakkabılarını (çıkararak) sol tarafına koymuş olduğu halde namaz kılarken gördüm" Diğer tahric: Nesaî, kıble; Ibn Mace, ikame
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن سائب رضی اللہ عنہ کہتے ہیں کہ میں نے نبی اکرم صلی اللہ علیہ وسلم کو فتح مکہ کے دن نماز پڑھتے ہوئے دیکھا، آپ اپنے دونوں جوتوں کو اپنے بائیں جانب رکھے ہوئے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>648</td></tr><tr><td>Arabic No</td><td>648</td></tr><tr><td>Reference</td><td>Book 2 Hadith 258</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 648 |
+| Arabic No | 648 |
+| Reference | Book 2 Hadith 258 |

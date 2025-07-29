@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَاصِمِ بْنِ أَبِي النَّجُودِ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا نَعُدُّ الْمَاعُونَ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم عَارِيَةَ الدَّلْوِ وَالْقِدْرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
+
 حدثنا قتيبة بن سعيد، حدثنا ابو عوانة، عن عاصم بن ابي النجود، عن شقيق، عن عبد الله، قال كنا نعد الماعون على عهد رسول الله صلى الله عليه وسلم عارية الدلو والقدر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
 
 ## Bengali
 
+। ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে ‘মাঊন’ গণ্য করতাম বালতি, হাঁড়ি-পাতিল ইত্যাদি ছোট-খাটো বস্তু ধারে আদান-প্রদান করাকে।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে ‘মাঊন’ গণ্য করতাম বালতি, হাঁড়ি-পাতিল ইত্যাদি ছোট-খাটো বস্তু ধারে আদান-প্রদান করাকে।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Mas'ud: During the time of the Messenger of Allah (ﷺ) we used to consider ma'un (this of daily use) lending a bucket and cooking-pot
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
+
+## French
+
+Rapporté par Abdullah ibn Mas’ud رضي الله عنه : À l’époque du Messager d’Allah ﷺ, nous considérions comme ma‘ûn (choses d’usage quotidien) le fait de prêter un seau ou une marmite
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Qutaibah bin Sa'id\], telah menceritakan kepada Kami \[Abu 'Awanah\], dari \['Ashim bin Abu An Najud\] dari \[Syaqiq\] dari \[Abdullah\], ia berkata: Kami pada zaman Rasulullah shallla Allahu 'alaihi wa sallam menganggap Al Ma'un adalah ember serta periuk
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Abu 'Awanah], dari ['Ashim bin Abu An Najud] dari [Syaqiq] dari [Abdullah], ia berkata: Kami pada zaman Rasulullah shallla Allahu 'alaihi wa sallam menganggap Al Ma'un adalah ember serta periuk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается, что ‘Абдуллах (ибн Мас‘уд), да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха ﷺ мы считали, что ма‘ун это одалживание ведра и котла»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah (b. Mes'ûd)'dan; demiştir ki: Resûlullah (s.a.v.) zamanında mâûnu, kova ve tencerenin ödünç olarak verilmesi sayardık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں ہم ڈول اور دیگچی عاریۃً دینے کو «ماعون» ۱؎میں شمار کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1657</td></tr><tr><td>Arabic No</td><td>1657</td></tr><tr><td>Reference</td><td>Book 9 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1657 |
+| Arabic No | 1657 |
+| Reference | Book 9 Hadith 102 |

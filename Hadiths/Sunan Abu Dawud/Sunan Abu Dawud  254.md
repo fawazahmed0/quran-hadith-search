@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ عُمَرَ بْنِ سُوَيْدٍ، عَنْ عَائِشَةَ بِنْتِ طَلْحَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ كُنَّا نَغْتَسِلُ وَعَلَيْنَا الضِّمَادُ وَنَحْنُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مُحِلاَّتٌ وَمُحْرِمَاتٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
+
 حدثنا نصر بن علي، حدثنا عبد الله بن داود، عن عمر بن سويد، عن عايشة بنت طلحة، عن عايشة، - رضى الله عنها - قالت كنا نغتسل وعلينا الضماد ونحن مع رسول الله صلى الله عليه وسلم محلات ومحرمات
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মাথার চুল কাপড়ে বাঁধা অবস্থায় আমরা গোসল করতাম। তখন অমাদের কেউ ইহরামবিহীন অবস্থায় এবং কেউ ইহরাম বাঁধা অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে থাকতাম।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মাথার চুল কাপড়ে বাঁধা অবস্থায় আমরা গোসল করতাম। তখন অমাদের কেউ ইহরামবিহীন অবস্থায় এবং কেউ ইহরাম বাঁধা অবস্থায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে থাকতাম।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah said:we took a bath while having an adhesive substance over us (our head) in both states, namely, when wearing a robe for Hajj (ihram) and when wearing ordinary clothes (not meant for Hajj)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : Nous avons pris un bain rituel alors que nous avions une substance adhésive sur la tête, aussi bien en état d’ihram pour le Hajj qu’en portant des vêtements ordinaires (hors Hajj)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Nashr bin Ali\] telah menceritakan kepada kami \[Abdullah bin Dawud\] dari \[Amru bin Suwaid\] dari \[Aisyah binti Thalhah\] dari \[Aisyah radliallahu 'anha\] dia berkata; Kami pernah mandi, sedangkan di kepala kami ada kain yang diikatkan dan kami ketika itu bersama Rasulullah shallallahu 'alaihi wasallam, dalam keadaan halal dan muhrim
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Nashr bin Ali] telah menceritakan kepada kami [Abdullah bin Dawud] dari [Amru bin Suwaid] dari [Aisyah binti Thalhah] dari [Aisyah radliallahu 'anha] dia berkata; Kami pernah mandi, sedangkan di kepala kami ada kain yang diikatkan dan kami ketika itu bersama Rasulullah shallallahu 'alaihi wasallam, dalam keadaan halal dan muhrim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша сказала: «Мы купались в повязках, когда находились с посланником Аллаха ﷺ будучи как в ихраме, так и вне ихрама»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r. anha)'dan, demiştir ki; "Bizler ihramlı ve ihramsız olarak Rasulullah (sallallahu aleyhi ve sellem) ile beraber iken ve başımızda (saç örgülerimiz de) olduğu halde (onları çözmeden) yıkanırdık." Ayrıca bak, Ahmed b. Hanbel, VE
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں ہم غسل کرتے تھے اور ہمارے سروں پر لیپ لگا ہوتا تھا خواہ ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ حالت احرام میں ہوتے یا حلال ( احرام سے باہر ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>254</td></tr><tr><td>Arabic No</td><td>254</td></tr><tr><td>Reference</td><td>Book 1 Hadith 254</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 254 |
+| Arabic No | 254 |
+| Reference | Book 1 Hadith 254 |

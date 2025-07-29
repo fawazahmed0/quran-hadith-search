@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، عَنْ مُحَمَّدِ بْنِ سَوَاءٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، وَيَعْلَى بْنِ حَكِيمٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ تَزَوَّجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَيْمُونَةَ بِنْتَ الْحَارِثِ وَهُوَ مُحْرِمٌ وَفِي حَدِيثِ يَعْلَى بِسَرِفَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 26 Hadith 76</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |
+
 اخبرنا عمرو بن علي، عن محمد بن سواء، قال حدثنا سعيد، عن قتادة، ويعلى بن حكيم، عن عكرمة، عن ابن عباس، قال تزوج رسول الله صلى الله عليه وسلم ميمونة بنت الحارث وهو محرم وفي حديث يعلى بسرف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 26 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মায়মুনা বিনত হারিসকে বিবাহ করেন, তখন তিনি মুহরিম ছিলেন। ইয়ালার হাদীসে আছে বিবাহ হয় সারিফ নামক স্থানে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 26 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'Abbas said:"The Messenger of Allah married Maimunah bint Al-Harith when he was a Muhrim." According to the Hadith of Ya'la (one of the narrators): "In Sarif
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 26 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ a épousé Maymouna bint Al-Harith alors qu’il était en état de sacralisation (Muhrim)." Selon le hadith de Ya'la (l’un des rapporteurs) : "À Sarif
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amr bin Ali\] dari \[Muhammad bin Sawa'\], ia berkata; telah menceritakan kepada kami \[Sa'id\] dari \[Qatadah\] serta \[Ya'la bin Hakim\] dari \['Ikrimah\] dari \[Ibnu Abbas\], ia berkata; Rasulullah shallallahu 'alaihi wasallam menikahi Maimunah binti Al Harits dan beliau sedang berihram, dan dalam hadis Ya'la; beliau berada di Sarif
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amr bin Ali] dari [Muhammad bin Sawa'], ia berkata; telah menceritakan kepada kami [Sa'id] dari [Qatadah] serta [Ya'la bin Hakim] dari ['Ikrimah] dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam menikahi Maimunah binti Al Harits dan beliau sedang berihram, dan dalam hadis Ya'la; beliau berada di Sarif
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 26 Hadith 76</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 26 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے میمونہ بنت حارث رضی اللہ عنہا سے اس وقت شادی کی جب کہ آپ احرام باندھے ہوئے تھے ۱؎، اور یعلیٰ ( راوی ) کی حدیث میں «سرف» کا بھی ذکر ہے ۲؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3271</td></tr><tr><td>Arabic No</td><td>3271</td></tr><tr><td>Reference</td><td>Book 26 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3271 |
+| Arabic No | 3271 |
+| Reference | Book 26 Hadith 76 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَطَاءٍ، عَنْ رَافِعِ بْنِ خَدِيجٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ زَرَعَ فِي أَرْضِ قَوْمٍ بِغَيْرِ إِذْنِهِمْ فَلَيْسَ لَهُ مِنَ الزَّرْعِ شَىْءٌ وَلَهُ نَفَقَتُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
+
 حدثنا قتيبة بن سعيد، حدثنا شريك، عن ابي اسحاق، عن عطاء، عن رافع بن خديج، قال قال رسول الله صلى الله عليه وسلم " من زرع في ارض قوم بغير اذنهم فليس له من الزرع شىء وله نفقته
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । রাফি‘ ইবনু খাদীজ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি মালিকের অনুমতি ছাড়া তার জমিতে চাষাবাদ করে সে উৎপাদিত ফসলের অংশ পাবে না। তবে সে তার খরচ ফেরত পাবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Rafi' ibn Khadij: The Prophet (ﷺ) said: If anyone sows in other people's land without their permission, he has no right to any of the crop, but he may have what it cost him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
+
+## French
+
+Rapporté par Rafi’ ibn Khadij : Le Prophète ﷺ a dit : « Si quelqu’un sème sur la terre d’autrui sans sa permission, il n’a aucun droit sur la récolte, mais il peut récupérer ce que cela lui a coûté. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\], telah menceritakan kepada kami \[Syarik\] dari \[Abu Ishaq\], dari \['Atha'\] dari \[Rafi' bin Khadij\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menanam di tanah suatu kaum tanpa seizin mereka, maka ia tidak memiliki hak dari tanamannya sedikitpun, dan baginya pembiayaannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Syarik] dari [Abu Ishaq], dari ['Atha'] dari [Rafi' bin Khadij], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang menanam di tanah suatu kaum tanpa seizin mereka, maka ia tidak memiliki hak dari tanamannya sedikitpun, dan baginya pembiayaannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Рафи‘а ибн Хадиджа, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если человек посеял нечто на чужой земле без разрешения хозяев, то он не имеет права ни на что из урожая, и только его расходы должны быть возмещены»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Râfi' b. Hadîc'ten, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Bir kavmin arazisini izinleri olmadan eken kimseye ekinden hiçbir şey yoktur. Onun için ücreti vardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رافع بن خدیج رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس نے دوسرے لوگوں کی زمین میں بغیر ان کی اجازت کے کاشت کی تو اسے کاشت میں سے کچھ نہیں ملے گا صرف اس کا خرچ ملے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3403</td></tr><tr><td>Arabic No</td><td>3403</td></tr><tr><td>Reference</td><td>Book 23 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3403 |
+| Arabic No | 3403 |
+| Reference | Book 23 Hadith 78 |

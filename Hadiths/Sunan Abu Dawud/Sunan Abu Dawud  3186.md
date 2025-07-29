@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ أَبِي بِشْرٍ، حَدَّثَنِي نَفَرٌ، مِنْ أَهْلِ الْبَصْرَةِ عَنْ أَبِي بَرْزَةَ الأَسْلَمِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يُصَلِّ عَلَى مَاعِزِ بْنِ مَالِكٍ وَلَمْ يَنْهَ عَنِ الصَّلاَةِ عَلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
+
 حدثنا ابو كامل، حدثنا ابو عوانة، عن ابي بشر، حدثني نفر، من اهل البصرة عن ابي برزة الاسلمي، ان رسول الله صلى الله عليه وسلم لم يصل على ماعز بن مالك ولم ينه عن الصلاة عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ বারযা আল-আনসারী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মা‘ইয ইবনু মালিকের জানাযা সালাত পড়েননি এবং পড়তে নিষেধও করেননি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuBarzah al-Aslami: The Messenger of Allah (ﷺ) did not pray over Ma'iz ibn Malik, and he did not prohibit to pray over him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
+
+## French
+
+Rapporté par Abu Barzah al-Aslami : Le Messager d’Allah ﷺ n’a pas prié sur Ma’iz ibn Malik, mais il n’a pas non plus interdit de prier sur lui
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Kamil\] telah menceritakan kepada kami \[Abu 'Awanah\] dari \[Abu Bisyr\] telah menceritakan kepadaku \[beberapa orang Bashrah\], dari \[Abu Barzah Al Aslami\] bahwa Rasulullah shallallahu 'alaihi wasallam tidak menshalati Ma'iz bin Malik dan tidak melarang untuk menshalatkanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Kamil] telah menceritakan kepada kami [Abu 'Awanah] dari [Abu Bisyr] telah menceritakan kepadaku [beberapa orang Bashrah], dari [Abu Barzah Al Aslami] bahwa Rasulullah shallallahu 'alaihi wasallam tidak menshalati Ma'iz bin Malik dan tidak melarang untuk menshalatkanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
 
 ## Russian
 
+Передаётся от Абу Барзы аль-Аслями, да будет доволен им Аллах, что Посланник Аллаха ﷺ не совершал погребальную молитву над телом Ма‘иза ибн Малика \[который был казнён после того, как признался в прелюбодеянии\], однако не запрещал совершать эту молитву другим
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передаётся от Абу Барзы аль-Аслями, да будет доволен им Аллах, что Посланник Аллаха ﷺ не совершал погребальную молитву над телом Ма‘иза ибн Малика [который был казнён после того, как признался в прелюбодеянии], однако не запрещал совершать эту молитву другим
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Berze el-Eslemi'den demiştir ki: Rasûlullah (s.a.v.) Maiz b. Malik'in cenaze namazını kılmamış ve (fakat başkalarını) o'nun cenaze namazını kılmaktan nehyetmemiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوبرزہ اسلمی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ماعز بن مالک رضی اللہ عنہ کی نماز ( جنازہ ) نہیں پڑھی اور نہ ہی اوروں کو ان کی نماز پڑھنے سے روکا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3186</td></tr><tr><td>Arabic No</td><td>3186</td></tr><tr><td>Reference</td><td>Book 21 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3186 |
+| Arabic No | 3186 |
+| Reference | Book 21 Hadith 98 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ يُونُسَ النَّسَائِيُّ، حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ عَمْرٍو، حَدَّثَنَا فُلَيْحٌ، عَنْ هِلاَلِ بْنِ عَلِيٍّ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ مُعَاوِيَةَ بْنِ الْحَكَمِ السُّلَمِيِّ، قَالَ لَمَّا قَدِمْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم عُلِّمْتُ أُمُورًا مِنْ أُمُورِ الإِسْلاَمِ فَكَانَ فِيمَا عُلِّمْتُ أَنْ قَالَ لِي ‏"‏ إِذَا عَطَسْتَ فَاحْمَدِ اللَّهَ وَإِذَا عَطَسَ الْعَاطِسُ فَحَمِدَ اللَّهَ فَقُلْ يَرْحَمُكَ اللَّهُ ‏"‏ ‏.‏ قَالَ فَبَيْنَمَا أَنَا قَائِمٌ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الصَّلاَةِ إِذْ عَطَسَ رَجُلٌ فَحَمِدَ اللَّهَ فَقُلْتُ يَرْحَمُكَ اللَّهُ رَافِعًا بِهَا صَوْتِي فَرَمَانِي النَّاسُ بِأَبْصَارِهِمْ حَتَّى احْتَمَلَنِي ذَلِكَ فَقُلْتُ مَا لَكُمْ تَنْظُرُونَ إِلَىَّ بِأَعْيُنٍ شُزْرٍ قَالَ فَسَبَّحُوا فَلَمَّا قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم الصَّلاَةَ قَالَ ‏"‏ مَنِ الْمُتَكَلِّمُ ‏"‏ ‏.‏ قِيلَ هَذَا الأَعْرَابِيُّ فَدَعَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ لِي ‏"‏ إِنَّمَا الصَّلاَةُ لِقِرَاءَةِ الْقُرْآنِ وَذِكْرِ اللَّهِ جَلَّ وَعَزَّ فَإِذَا كُنْتَ فِيهَا فَلْيَكُنْ ذَلِكَ شَأْنَكَ ‏"‏ ‏.‏ فَمَا رَأَيْتُ مُعَلِّمًا قَطُّ أَرْفَقَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
+
 حدثنا محمد بن يونس النسايي، حدثنا عبد الملك بن عمرو، حدثنا فليح، عن هلال بن علي، عن عطاء بن يسار، عن معاوية بن الحكم السلمي، قال لما قدمت على رسول الله صلى الله عليه وسلم علمت امورا من امور الاسلام فكان فيما علمت ان قال لي " اذا عطست فاحمد الله واذا عطس العاطس فحمد الله فقل يرحمك الله " . قال فبينما انا قايم مع رسول الله صلى الله عليه وسلم في الصلاة اذ عطس رجل فحمد الله فقلت يرحمك الله رافعا بها صوتي فرماني الناس بابصارهم حتى احتملني ذلك فقلت ما لكم تنظرون الى باعين شزر قال فسبحوا فلما قضى رسول الله صلى الله عليه وسلم الصلاة قال " من المتكلم " . قيل هذا الاعرابي فدعاني رسول الله صلى الله عليه وسلم فقال لي " انما الصلاة لقراءة القران وذكر الله جل وعز فاذا كنت فيها فليكن ذلك شانك " . فما رايت معلما قط ارفق من رسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
 
 ## Bengali
 
+। মু‘আবিয়াহ ইবনুল হাকাম আস-সুলামী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসার পর আমাকে ইসলামের কিছু বিষয় শেখানো হলো। আমাকে তখন এটাও শেখানো হয়েছিল যে, তুমি হাঁচি দিলে ‘‘আলহামদুল্লিাহ’’ বলবে। আর অন্য কাউকে হাঁচি দেয়ার পর ‘আলহামদুল্লিাহ’ বলতে শুনলে তুমি বলবে, ‘‘ইয়ারহামুকাল্লাহ’’ (অর্থঃ আল্লাহ তোমার প্রতি রহম করুন)। তিনি বলেন, একবার আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাত আদায় করছিলাম। এমন সময় এক ব্যক্তি হাঁচি দিল এবং ‘‘আলহামদুল্লিাহ’’ বললো। তখন আমি উচ্চস্বরে বললাম, ‘‘ইয়ারহামুকাল্লাহ’’। এতে উপস্থিত সকলেই আমার দিকে রাগত দৃষ্টিতে তাকালো। তাতে আমিও রাগান্বিত হলাম। আমি তাদেরকে বললাম, তোমরা আমার দিকে এভাবে চোখ ঘুরিয়ে দেখছো কেন? বর্ণনাকারী বলেন, তখন তারা সুবহানাল্লাহ বললো। সালাত আদায় শেষে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, (সালাতের মধ্যে) কে কথাবার্তা বলেছে? বলা হলো, এই গ্রাম্য লোকটি। বর্ণনাকারী বলেন, অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ডেকে নিয়ে বললেন, সালাতে কুরআন পাঠ ও আল্লাহর স্মরণ করা হয়। কাজেই সালাতরত অবস্থায় তোমার তা-ই করা উচিত। বর্ণনাকারী বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চাইতে অধিক নম্র ও বিনয়ী শিক্ষক আর কখনো দেখিনি।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মু‘আবিয়াহ ইবনুল হাকাম আস-সুলামী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট আসার পর আমাকে ইসলামের কিছু বিষয় শেখানো হলো। আমাকে তখন এটাও শেখানো হয়েছিল যে, তুমি হাঁচি দিলে ‘‘আলহামদুল্লিাহ’’ বলবে। আর অন্য কাউকে হাঁচি দেয়ার পর ‘আলহামদুল্লিাহ’ বলতে শুনলে তুমি বলবে, ‘‘ইয়ারহামুকাল্লাহ’’ (অর্থঃ আল্লাহ তোমার প্রতি রহম করুন)। তিনি বলেন, একবার আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাত আদায় করছিলাম। এমন সময় এক ব্যক্তি হাঁচি দিল এবং ‘‘আলহামদুল্লিাহ’’ বললো। তখন আমি উচ্চস্বরে বললাম, ‘‘ইয়ারহামুকাল্লাহ’’। এতে উপস্থিত সকলেই আমার দিকে রাগত দৃষ্টিতে তাকালো। তাতে আমিও রাগান্বিত হলাম। আমি তাদেরকে বললাম, তোমরা আমার দিকে এভাবে চোখ ঘুরিয়ে দেখছো কেন? বর্ণনাকারী বলেন, তখন তারা সুবহানাল্লাহ বললো। সালাত আদায় শেষে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, (সালাতের মধ্যে) কে কথাবার্তা বলেছে? বলা হলো, এই গ্রাম্য লোকটি। বর্ণনাকারী বলেন, অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ডেকে নিয়ে বললেন, সালাতে কুরআন পাঠ ও আল্লাহর স্মরণ করা হয়। কাজেই সালাতরত অবস্থায় তোমার তা-ই করা উচিত। বর্ণনাকারী বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চাইতে অধিক নম্র ও বিনয়ী শিক্ষক আর কখনো দেখিনি।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mu’awiyah b. al-Hakam al-Sulami said ; when I came to the Messenger of Allah (ﷺ) I learnt many things about islam. One of the things that I was taught was that it was that it was pointed out me. When you sneeze, praise Allah (I,e, say “praise be to Allah”); and when someone sneezes and praises Allah, say “ May Allah have mercy on you. Meanwhile I was standing along with the Messenger of Allah (may peace be upon him) during prayer, all of a sudden a man sneezed, and he praised Allah. So I said, “may Allah have mercy on you”, in a loud voice. The people gave me disapproving looks so much so that I took ill of it. So I said :what do you mean by looking at me with furtive glances. Then they glorified Allah. When the prophet (ﷺ) finished his prayer, he asked; who was the speaker? The Prophet told him; this Bedouin. The Messenger of Allah (ﷺ) called me and said to me: Prayer is meant for the recitation of the Quran, and making mention of Allah. When you are in it (prayer), this should be your work therein. I never saw an instructor more lenient than the Messenger of Allah (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
+
+## French
+
+Rapporté par Mu’awiyah ibn al-Hakam al-Sulami : Lorsque je suis venu voir le Messager d’Allah ﷺ, j’ai appris beaucoup de choses sur l’islam. Parmi ce qu’on m’a enseigné, il y avait ceci : quand tu éternues, loue Allah (c’est-à-dire dis : « Louange à Allah »), et quand quelqu’un éternue et loue Allah, réponds-lui : « Qu’Allah te fasse miséricorde. » Un jour, alors que j’étais debout avec le Messager d’Allah ﷺ pendant la prière, un homme éternua et loua Allah. J’ai donc dit à voix haute : « Qu’Allah te fasse miséricorde. » Les gens m’ont lancé des regards désapprobateurs, au point que je m’en suis senti mal. J’ai alors dit : « Pourquoi me regardez-vous ainsi ? » Ensuite, ils ont glorifié Allah. Quand le Prophète ﷺ a terminé sa prière, il a demandé : « Qui a parlé ? » On lui a répondu : « C’est ce Bédouin. » Le Messager d’Allah ﷺ m’a appelé et m’a dit : « La prière est faite pour la récitation du Coran et pour l’évocation d’Allah. Lorsque tu es en prière, c’est cela que tu dois faire. » Je n’ai jamais vu un enseignant plus bienveillant que le Messager d’Allah ﷺ
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Yunus An Nasa'i\] telah menceritakan kepada kami \[Abdul Malik bin 'Amru\] telah menceritakan kepada kami \[Fulaih\] dari \[Hilal bin Ali\] dari \['Atha' bin Yasar\] dari \[Mu'awiyah bin Al Hakam As Sulami\] dia berkata; Ketika aku tiba datang menemui Rasulullah shallallahu 'alaihi wasallam, maka aku tahu beberapa perkara Islam, di antara yang aku ketahui adalah, beliau bersabda kepadaku: "Apabila kamu bersin, maka ucapkanlah "Al hamdulillah" dan apabila seseorang bersin, kemudian ia mengucapkan "Al hamdulillah" maka katakanlah "Yarhamukallah (semoga Allah merahmatimu) " Mu'awiyah melanjutkan; "Ketika kami mengerjakan shalat bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba seseorang bersin dan mengucapkan "Al Hamdulillah", maka sambil mengeraskan suaraku, aku berkata; "Yarhamukallah." Dengan itu, orang-orang mengalihkan pandangan ke arahku, sehingga aku gugup karenanya, kataku; "Kenapa kalian memandangku dengan pandangan marah." Katanya; "Bertasbihlah kalian." ketika Rasulullah shallallahu 'alaihi wasallam selesai dari shalatnya, beliau bersabda: "Siapakah yang berbicara tadi?" di jawab; "Orang arab badui ini." lalu Rasulullah shallallahu 'alaihi wasallam memanggilku dan bersabda: "Sesungguhnya shalat itu untuk membaca Al Qur'an dan berdzikir kepada Allah Jalla wa 'Azza, apabila kamu sedang shalat, maka kamu harus seperti itu (membaca Al Qur'an dan berdzikir)." Maka aku belum pernah melihat seorang pengajar yang lebih lembut dari Rasulullah shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yunus An Nasa'i] telah menceritakan kepada kami [Abdul Malik bin 'Amru] telah menceritakan kepada kami [Fulaih] dari [Hilal bin Ali] dari ['Atha' bin Yasar] dari [Mu'awiyah bin Al Hakam As Sulami] dia berkata; Ketika aku tiba datang menemui Rasulullah shallallahu 'alaihi wasallam, maka aku tahu beberapa perkara Islam, di antara yang aku ketahui adalah, beliau bersabda kepadaku: "Apabila kamu bersin, maka ucapkanlah "Al hamdulillah" dan apabila seseorang bersin, kemudian ia mengucapkan "Al hamdulillah" maka katakanlah "Yarhamukallah (semoga Allah merahmatimu) " Mu'awiyah melanjutkan; "Ketika kami mengerjakan shalat bersama Rasulullah shallallahu 'alaihi wasallam, tiba-tiba seseorang bersin dan mengucapkan "Al Hamdulillah", maka sambil mengeraskan suaraku, aku berkata; "Yarhamukallah." Dengan itu, orang-orang mengalihkan pandangan ke arahku, sehingga aku gugup karenanya, kataku; "Kenapa kalian memandangku dengan pandangan marah." Katanya; "Bertasbihlah kalian." ketika Rasulullah shallallahu 'alaihi wasallam selesai dari shalatnya, beliau bersabda: "Siapakah yang berbicara tadi?" di jawab; "Orang arab badui ini." lalu Rasulullah shallallahu 'alaihi wasallam memanggilku dan bersabda: "Sesungguhnya shalat itu untuk membaca Al Qur'an dan berdzikir kepada Allah Jalla wa 'Azza, apabila kamu sedang shalat, maka kamu harus seperti itu (membaca Al Qur'an dan berdzikir)." Maka aku belum pernah melihat seorang pengajar yang lebih lembut dari Rasulullah shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Му‘авия ибн аль-Хакам ас-Сулями, да будет доволен им Аллах, рассказывает: «Когда я прибыл к Посланнику Аллаха ﷺ я научился некоторым предписаниям ислама, в числе которых было и то, что сказал мне Посланник Аллаха ﷺ: “Когда чихнёшь, воздай хвалу Аллаху, и если при тебе кто-то чихнёт и воздаст хвалу Аллаху, скажи ему: “Да помилует тебя Аллах””. И вот, когда я совершал молитву вместе с посланником Аллаха ﷺ один человек чихнул и воздал хвалу Аллаху, а я громко сказал ему: “Да помилует тебя Аллах!” Люди стали бросать на меня красноречивые взгляды, и меня это рассердило. Я спросил: “Чего вы коситесь на меня?!” Они же стали восклицать: “Пречист Аллах!” Завершив молитву, Посланник Аллаха ﷺ спросил: “Кто это говорил?” Ему сказали: “Этот бедуин”. Тогда Посланник Аллаха ﷺ позвал меня и сказал мне: “Поистине, молитва совершается, чтобы читать Коран и поминать Всемогущего Аллаха, и пока ты совершаешь её, ты должен заниматься только этим”. Поистине, я никогда не видел более мягкого и терпеливого учителя, чем Посланник Аллаха ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muaviye b. el-Hakem es-Sülemî'den; demiştir ki: Ben Resûlullah'ın yanına gelip İslâmiyetle ilgili bazı şeyler öğrendim. Öğrendiklerimden biri de (Resûlullah sallallahu aleyhi ve seltemîn) bana söylediği şu sözdür: "Aksırdiğında elhamdülillah (Allah'a hamd olsun) de ve bir kimse aksırıp da Allah'a hamd edecek olursa sen de: "Yerhamukullah (Allah sana merhamet etsin)" de." (Muâviye) dedi ki: Ben Resûlullah (s.a.v.)'la beraber namazda iken adamın biri aksırip Allah'a hamd ediverdi. Ben de (hemen) sesimi yük­selterek "yerhamukellahu" dedim. Cemaat gözlerini bana çevirdi. Bu benim ağrıma gitti. Bunun üzerine ben, "Size ne oluyor da bana (böyle) yan gözle bakıyorsunuz?” dedim. (Muaviye) diyor ki; Bunun üzerine "Sübhanellah" demeye başladılar. Resûlullah (s.a.v.) namazı bitirince: "Konuşan kimdi?" buyurdu. (Kendisine:) Şu A'rabi idi diye cevap verdiler. Bunun üzerine Resûlullah (s.a.v.) beni çağırdı ve: "Namaz ancak Kur'an okumaktan, Aziz ve Celil olan Allah'ı zikretmekten ibarettir. (Bir daha) namazda iken durumun böyle (başka birşeyle uğraşma)!" dedi. Resûlullah (s.a.v.)'den daha yumuşak bir muallimi asla görmedim. Diğer tahric: Müslim, mesâcid; Nesâî, sehv; Ebû Dâvûd, eymân; Dârimî, nüzur; Muvatta, ıtk; Ahmed b. Hanbel, II, 291; HI, 452; IV, 222, 388, 389; V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معاویہ بن حکم سلمی رضی اللہ عنہ کہتے ہیں کہ جب میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا تو مجھے اسلام کی کچھ باتیں معلوم ہوئیں چنانچہ جو باتیں مجھے معلوم ہوئیں ان میں ایک بات یہ بھی تھی کہ جب تمہیں چھینک آئے تو «الحمد الله» کہو اور کوئی دوسرا چھینکے اور«الحمد الله» کہے تو تم «يرحمك الله» کہو۔ معاویہ رضی اللہ عنہ کہتے ہیں: میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ایک نماز میں کھڑا تھا کہ اسی دوران ایک شخص کو چھینک آئی اس نے «الحمد الله» کہا تو میں نے «يرحمك الله» بلند آواز سے کہا تو لوگوں نے مجھے ترچھی نظروں سے دیکھنا شروع کیا تو میں اس پر غصہ میں آ گیا، میں نے کہا: تم لوگ میری طرف کنکھیوں سے کیوں دیکھتے ہو؟ تو ان لوگوں نے «سبحان الله» کہا، پھر جب رسول اللہ صلی اللہ علیہ وسلم نماز سے فارغ ہوئے تو فرمایا: ( دوران نماز ) کس نے بات کی تھی؟ ، لوگوں نے کہا: اس اعرابی نے، آپ صلی اللہ علیہ وسلم نے مجھ کو بلایا اور مجھ سے فرمایا: نماز تو بس قرآن پڑھنے اور اللہ کا ذکر کرنے کے لیے ہے، تو جب تم نماز میں رہو تو تمہارا یہی کام ہونا چاہیئے ۔ معاویہ رضی اللہ عنہ کہتے ہیں میں نے رسول اللہ صلی اللہ علیہ وسلم سے بڑھ کر شفیق اور مہربان کبھی کسی معلم کو نہیں دیکھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>931</td></tr><tr><td>Reference</td><td>Book 2 Hadith 542</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 931 |
+| Reference | Book 2 Hadith 542 |

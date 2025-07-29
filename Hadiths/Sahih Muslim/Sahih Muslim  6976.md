@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا الْمُعْتَمِرُ، عَنْ أَبِيهِ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه محمد بن عبد الاعلى، حدثنا المعتمر، عن ابيه، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) মুহাম্মাদ ইবনু আবদুল আ’লা (রহঃ) ..... মু’তামির এর পিতা থেকে উপরোক্ত সূত্রে হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৭২৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted on the authority of Mu'tamir, reported on the authority of his father
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## French
 
+Rapporté par Mu’tamir, d’après son père : Ce hadith a été transmis selon cette chaîne de rapporteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-20) Bize bu hadîsi Muhammed b. Abdi'l-A'lâ da rivayet etti. (Dediki): Bize Mu'temir, babasından bu isnâdla rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معتمر نے اپنے والد ( سلیمان تیمی ) سے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6976</td></tr><tr><td>Arabic No</td><td>2753.02</td></tr><tr><td>Reference</td><td>Book 50 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6976 |
+| Arabic No | 2753.02 |
+| Reference | Book 50 Hadith 24 |

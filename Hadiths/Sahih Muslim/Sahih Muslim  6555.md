@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا مَرْوَانُ بْنُ مُعَاوِيَةَ، عَنْ عَاصِمٍ الأَحْوَلِ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني سويد بن سعيد، حدثنا مروان بن معاوية، عن عاصم الاحول، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়াইদ ইবনু সাঈদ (রহঃ) ..... ‘আসিম আহওয়াল (রহঃ) থেকে এ সানাদে বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৩২১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Asim al-Ahwal with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## French
 
+Rapporté par Asim al-Ahwal : Ce hadith a été rapporté avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-42) Bana Süveyd b. Saîd rivayet etti. (Dediki): Bize Mervân b. Muâviye, Âsim El-Ahvel'den bu isnadla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مروان بن معاویہ نے عاصم احول سے اسی سند کے ساتھ حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>2568.05</td></tr><tr><td>Reference</td><td>Book 45 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 2568.05 |
+| Reference | Book 45 Hadith 53 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ عَبْدِ الْمُؤْمِنِ بْنِ خَالِدٍ الْحَنَفِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ بُرَيْدَةَ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ كَانَ أَحَبَّ الثِّيَابِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم الْقَمِيصُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
+
 حدثنا ابراهيم بن موسى، حدثنا الفضل بن موسى، عن عبد المومن بن خالد الحنفي، عن عبد الله بن بريدة، عن ام سلمة، قالت كان احب الثياب الى رسول الله صلى الله عليه وسلم القميص
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
 
 ## Bengali
 
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট সবচেয়ে প্রিয় পোশাক ছিলো জামা।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট সবচেয়ে প্রিয় পোশাক ছিলো জামা।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umm Salamah, Ummul Mu'minin: The clothing which the Messenger of Allah (ﷺ) liked best was shirt
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
+
+## French
+
+Rapporté par Umm Salamah (la mère des croyants) رضي الله عنها : Le vêtement que le Messager d’Allah ﷺ préférait était la chemise
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibrahim bin Musa\] berkata, telah menceritakan kepada kami \[Al Fadhl bin Musa\] dari \[Abdul Mukmin bin Khalid Al Hanafi\] dari \[Abdullah bin Buraidah\] dari \[Ummu Salamah\] ia berkata, "Pakaian yang paling disukai oleh Rasulullah shallallahu 'alaihi wasallam adalah gamis
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah menceritakan kepada kami [Al Fadhl bin Musa] dari [Abdul Mukmin bin Khalid Al Hanafi] dari [Abdullah bin Buraidah] dari [Ummu Salamah] ia berkata, "Pakaian yang paling disukai oleh Rasulullah shallallahu 'alaihi wasallam adalah gamis
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Умм Салямы (да будет доволен ею Аллах): «Любимой одеждой Посланника Аллаха ﷺ была рубаха»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ümmü Seleme'den rivayet olunmuştur; dedi ki: "Resulullah (s.a.v)'e elbiselerin en sevimli olanı gömlek idi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کپڑوں میں رسول اللہ صلی اللہ علیہ وسلم کو سب سے زیادہ قمیص پسند تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4025</td></tr><tr><td>Arabic No</td><td>4025</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4025 |
+| Arabic No | 4025 |
+| Reference | Book 34 Hadith 6 |

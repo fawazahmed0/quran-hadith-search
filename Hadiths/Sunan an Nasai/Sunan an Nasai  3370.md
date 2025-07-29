@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، عَنْ أَبِي بَلْجٍ، قَالَ سَمِعْتُ مُحَمَّدَ بْنَ حَاطِبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّ فَصْلَ مَا بَيْنَ الْحَلاَلِ وَالْحَرَامِ الصَّوْتُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 26 Hadith 175</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |
+
 اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، عن شعبة، عن ابي بلج، قال سمعت محمد بن حاطب، قال قال رسول الله صلى الله عليه وسلم " ان فصل ما بين الحلال والحرام الصوت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 26 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আব্দুল আ'লা (রহঃ) ... মুহাম্মদ ইবন হাতিব (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেনঃ হালাল এবং হারাম-এর মধ্যে ব্যবধান হলো - বিবাহের প্রচার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 26 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Balj said:"I heard Muhammad bin Hatib say: 'What differentiates between the lawful and the unlawful is the voice (singing)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 26 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |
+
+## French
+
+Rapporté par Abu Balj : J’ai entendu Muhammad bin Hatib dire : « Ce qui distingue le licite de l’illicite, c’est la voix (le chant). »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al A'la\], ia berkata; telah menceritakan kepada kami \[Khalid\] dari \[Syu'bah\] dari \[Abu Balj\], ia berkata; saya pernah mendengar \[Muhammad bin Hathib\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pemisah antara halal dan haram adalah suara
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al A'la], ia berkata; telah menceritakan kepada kami [Khalid] dari [Syu'bah] dari [Abu Balj], ia berkata; saya pernah mendengar [Muhammad bin Hathib], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Pemisah antara halal dan haram adalah suara
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 26 Hadith 175</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 26 Hadith 175</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن حاطب رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”حلال و حرام ( نکاح ) میں تمیز پیدا کرنے والی چیز آواز ہے“ ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3370</td></tr><tr><td>Arabic No</td><td>3370</td></tr><tr><td>Reference</td><td>Book 26 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3370 |
+| Arabic No | 3370 |
+| Reference | Book 26 Hadith 175 |

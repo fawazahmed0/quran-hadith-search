@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا غُنْدَرٌ، عَنْ هِشَامٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ يَخْطُبْ أَحَدُكُمْ عَلَى خِطْبَةِ أَخِيهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 26 Hadith 47</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |
+
 اخبرنا قتيبة، قال حدثنا غندر، عن هشام، عن محمد، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " لا يخطب احدكم على خطبة اخيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 26 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... আবু হুরায়রা (রাঃ) সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, কোন ব্যক্তি যেন তার অন্য ভাই-এর বিবাহের পয়গামের উপর বিবাহের পয়গাম না দেয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 26 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that the Prophet said:"None of you should propose marriage to a woman when someone else has already proposed to her
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 26 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : "Aucun de vous ne doit demander une femme en mariage si quelqu'un d'autre l'a déjà fait
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[QUtaibah\], ia berkata; telah menceritakan kepada kami \[Ghundur\] dari \[Hisyam\] dari \[Muhammad\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah seseorang diantara kalian meminang di atas pinangan saudaranya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [QUtaibah], ia berkata; telah menceritakan kepada kami [Ghundur] dari [Hisyam] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah seseorang diantara kalian meminang di atas pinangan saudaranya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 26 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 26 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی الله عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”اپنے بھائی کے پیغام نکاح پر کوئی دوسرا پیغام نکاح نہ دے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3242</td></tr><tr><td>Arabic No</td><td>3242</td></tr><tr><td>Reference</td><td>Book 26 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3242 |
+| Arabic No | 3242 |
+| Reference | Book 26 Hadith 47 |

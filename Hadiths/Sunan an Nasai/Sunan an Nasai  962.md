@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا ابْنُ أَبِي فُدَيْكٍ، قَالَ أَنْبَأَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ عَبْدِ الْعَزِيزِ بْنِ عَيَّاشٍ، عَنِ ابْنِ قَيْسٍ، - وَهُوَ مُحَمَّدٌ - عَنْ عُمَرَ بْنِ عَبْدِ الْعَزِيزِ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ سَجَدَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي ‏(‏ إِذَا السَّمَاءُ انْشَقَّتْ ‏)‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |
+
 اخبرنا محمد بن رافع، قال حدثنا ابن ابي فديك، قال انبانا ابن ابي ذيب، عن عبد العزيز بن عياش، عن ابن قيس، - وهو محمد - عن عمر بن عبد العزيز، عن ابي سلمة، عن ابي هريرة، قال سجد رسول الله صلى الله عليه وسلم في ( اذا السماء انشقت)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু রাফি' (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম إِذَا السَّمَاءُ انْشَقَّتْ সূরায় সিজদা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Hurairah said:"The Messenger of Allah (ﷺ) prostrated during: 'When the heaven is split asunder
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d'Allah (ﷺ) s'est prosterné pendant : « Quand le ciel se fendra »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Rafi'\] dia berkata; telah menceritakan kepada kami \[Ibnu Abu Fudaik\] telah memberitakan kepada kami \[Ibnu Abu Dzi'ib\] dari \[Abdul Aziz bin 'Ayyasy\] dari \[Ibnu Qais\] dia adalah Muhammad dari \[Umar bin Abdul Aziz\] dari \[Abu Salamah\] dari \[Abu Hurairah\] dia berkata; "Rasulullah Shallallallahu'alaihi wasallam pernah sujud pada surat Al Insyiqaaq (Idzas-samaaun syaqqat)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Rafi'] dia berkata; telah menceritakan kepada kami [Ibnu Abu Fudaik] telah memberitakan kepada kami [Ibnu Abu Dzi'ib] dari [Abdul Aziz bin 'Ayyasy] dari [Ibnu Qais] dia adalah Muhammad dari [Umar bin Abdul Aziz] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; "Rasulullah Shallallallahu'alaihi wasallam pernah sujud pada surat Al Insyiqaaq (Idzas-samaaun syaqqat)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے «إذا السماء انشقت» میں سجدہ کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>962</td></tr><tr><td>Arabic No</td><td>962</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 962 |
+| Arabic No | 962 |
+| Reference | Book 11 Hadith 87 |

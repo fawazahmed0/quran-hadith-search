@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، عَنْ أَبِي سَعِيدٍ، قَالَ صَلَّى رَسُولُ اللَّهِ ـ صلى الله عليه وسلم ـ عَلَى حَصِيرٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 5 Hadith 227</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |
+
 حدثنا ابو كريب، حدثنا ابو معاوية، عن الاعمش، عن ابي سفيان، عن جابر، عن ابي سعيد، قال صلى رسول الله صلى الله عليه وسلم على حصير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 5 Hadith 227</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ সাঈদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চাটাইয়ের উপর সালাত আদায় করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 5 Hadith 227</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Sa’eed said:“The Messenger of Allah (ﷺ) performed prayer on a reed mat.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 5 Hadith 227</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |
+
+## French
+
+Rapporté par Abu Sa’id : Le Messager d’Allah (ﷺ) a prié sur un tapis en roseau
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Kuraib\] berkata, telah menceritakan kepada kami \[Abu Mu'awiyah\] dari \[Al A'masy\] dari \[Abu Sufyan\] dari \[Jabir\] dari \[Abu Sa'id\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam shalat di atas tikar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Kuraib] berkata, telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Sufyan] dari [Jabir] dari [Abu Sa'id] ia berkata, "Rasulullah shallallahu 'alaihi wasallam shalat di atas tikar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 5 Hadith 227</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Said(-i Hudri (r.a.)'den; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), hasır üzerinde namaz kılmıştır. Diğer tahric: Müslim ve Tirmizi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 5 Hadith 227</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے چٹائی پر نماز پڑھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1029</td></tr><tr><td>Arabic No</td><td>1029</td></tr><tr><td>Reference</td><td>Book 5 Hadith 227</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1029 |
+| Arabic No | 1029 |
+| Reference | Book 5 Hadith 227 |

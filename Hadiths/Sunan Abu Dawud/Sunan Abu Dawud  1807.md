@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادٌ، - يَعْنِي ابْنَ السَّرِيِّ - عَنِ ابْنِ أَبِي زَائِدَةَ، أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الأَسْوَدِ، عَنْ سَلِيمِ بْنِ الأَسْوَدِ، أَنَّ أَبَا ذَرٍّ، كَانَ يَقُولُ فِيمَنْ حَجَّ ثُمَّ فَسَخَهَا بِعُمْرَةٍ لَمْ يَكُنْ ذَلِكَ إِلاَّ لِلرَّكْبِ الَّذِينَ كَانُوا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
+
 حدثنا هناد، - يعني ابن السري - عن ابن ابي زايدة، اخبرنا محمد بن اسحاق، عن عبد الرحمن بن الاسود، عن سليم بن الاسود، ان ابا ذر، كان يقول فيمن حج ثم فسخها بعمرة لم يكن ذلك الا للركب الذين كانوا مع رسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
 
 ## Bengali
 
+। সুলাইম ইবনুল আসওয়াদ (রহ.) সূত্রে বর্ণিত। আবু যার (রাযি.) বললেন, যে ব্যক্তি হজের (হজ্জের) ইহরাম বাঁধার পর তা ‘উমরাতে পরিবর্তন করে এরূপ করা ঠিক নয়। এরূপ করা কেবল তাঁদের জন্যই জায়িয ছিলো, যারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে (বিদায় হজে (হজ্জে)) ছিলেন।\[1\] সহীহ মাওকুফ শায।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সুলাইম ইবনুল আসওয়াদ (রহ.) সূত্রে বর্ণিত। আবু যার (রাযি.) বললেন, যে ব্যক্তি হজের (হজ্জের) ইহরাম বাঁধার পর তা ‘উমরাতে পরিবর্তন করে এরূপ করা ঠিক নয়। এরূপ করা কেবল তাঁদের জন্যই জায়িয ছিলো, যারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে (বিদায় হজে (হজ্জে)) ছিলেন।[1] সহীহ মাওকুফ শায।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Dharr used to say about a person who makes the intention of Hajj but he repeal it for the ‘Umrah (that will not be valid). This cancellation of hajj for ‘Umrah was specially meant for the people who accompanied the Apostle of Allaah(ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
+
+## French
+
+Abu Dharr disait à propos d’une personne qui fait l’intention du hajj mais l’annule pour la ‘umrah (que cela n’est pas valable). Cette annulation du hajj pour la ‘umrah était réservée spécialement aux gens qui accompagnaient l’Envoyé d’Allah ﷺ
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Hannad yaitu Ibnu As Sari\] dari \[Ibnu Abu Zaidah\], telah mengabarkan kepada Kami \[Muhammad bin Ishaq\] dari \[Abdurrahman bin Al Aswad\] dari \[Sulaim bin Al Aswad\] bahwa \[Abu Dzar\] berkata mengenai orang yang ingin haji lalu menggantinya dengan umrah; hal tersebut tidak berlaku kecuali hanya bagi orang yang berkendaraan ketika bersama Rasulullah shallla Allahu 'alaihi wa sallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Hannad yaitu Ibnu As Sari] dari [Ibnu Abu Zaidah], telah mengabarkan kepada Kami [Muhammad bin Ishaq] dari [Abdurrahman bin Al Aswad] dari [Sulaim bin Al Aswad] bahwa [Abu Dzar] berkata mengenai orang yang ingin haji lalu menggantinya dengan umrah; hal tersebut tidak berlaku kecuali hanya bagi orang yang berkendaraan ketika bersama Rasulullah shallla Allahu 'alaihi wa sallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Зарр, да будет доволен Аллах им, говорил о тех, кто начал совершать хадж, а потом превратил его в ‘умру: «Так было разрешено поступать только сопровождавшим Посланника Аллаха ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Selîm b. Esved'den rivayet edildiğine göre Ebû Zer (r.a.); "Hacca niyet edip de sonra haccını umreye tebdil eden kimse(ler) hakkında, bu (ruhsatı) ancak, (Veda Haccında) Resûlullah (s.a.v.)'le birlikte bulunan kimseler içindir" dermiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلیم بن اسود سے روایت ہے کہ ابوذر رضی اللہ عنہ ایسے شخص کے بارے میں جو حج کی نیت کرے پھر اسے عمرے سے فسخ کر دے کہا کرتے تھے: یہ صرف اسی قافلہ کے لیے ( مخصوص ) تھا جو رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تھا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1807</td></tr><tr><td>Arabic No</td><td>1807</td></tr><tr><td>Reference</td><td>Book 11 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1807 |
+| Arabic No | 1807 |
+| Reference | Book 11 Hadith 87 |

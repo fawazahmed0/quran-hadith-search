@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا قُرَّةُ، عَنِ النَّزَّالِ بْنِ عَمَّارٍ، عَنْ أَبِي عُثْمَانَ النَّهْدِيِّ، أَنَّهُ صَلَّى خَلْفَ ابْنِ مَسْعُودٍ الْمَغْرِبَ فَقَرَأَ بِـ ‏(‏ قُلْ هُوَ اللَّهُ أَحَدٌ ‏)‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
+
 حدثنا عبيد الله بن معاذ، حدثنا ابي، حدثنا قرة، عن النزال بن عمار، عن ابي عثمان النهدي، انه صلى خلف ابن مسعود المغرب فقرا ب ( قل هو الله احد)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
 
 ## Bengali
 
+। আবূ ‘উসমান আন-নাহদী সূত্রে বর্ণিত। তিনি বলেন, একবার তিনি ইবনু মাসঊদ (রাঃ)-এর পিছনে মাগরিবের সালাত আদায় করেন। তিনি সূরাহ ইখলাস পাঠ করেন।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ ‘উসমান আন-নাহদী সূত্রে বর্ণিত। তিনি বলেন, একবার তিনি ইবনু মাসঊদ (রাঃ)-এর পিছনে মাগরিবের সালাত আদায় করেন। তিনি সূরাহ ইখলাস পাঠ করেন।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu’Uthman al-Nahdl said that he offered the sunset prayer behind Ibn mas’ud, when he recited “Say:He is Allah, the One” (Surah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
+
+## French
+
+Abu ‘Uthman al-Nahdi a dit qu’il a accompli la prière du coucher du soleil derrière Ibn Mas’ud, qui a récité « Dis : Il est Allah, l’Unique » (sourate)
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Ubaidullah bin Mu'adz\] telah menceritakan kepada kami \[ayahku\] dari \[Qurrah\] dari \[An Nazal bin 'Ammar\] dari \[Abu Utsman An Nahdi\] bahwa dia shalat Maghrib di belakang Ibnu Mas'ud, maka \[Ibnu Mas'ud\] membaca surat Al Ikhlash "Qul Huwallahu Ahad
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz] telah menceritakan kepada kami [ayahku] dari [Qurrah] dari [An Nazal bin 'Ammar] dari [Abu Utsman An Nahdi] bahwa dia shalat Maghrib di belakang Ibnu Mas'ud, maka [Ibnu Mas'ud] membaca surat Al Ikhlash "Qul Huwallahu Ahad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу ‘Усмана ан-Нахди, что он совершал закатную молитву под руководством Ибн Мас‘уда, и тот прочитал суру «Скажи: Он Аллах Единственный»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Osman en-Nehdi'den rivayet edildiğine göre, kendisi İbn Mes'üd (r.a.)'ın arkasında akşam namazı kılmış, (İbn Mes'ud) İhlas Suresi'ni okumuş. Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوعثمان نہدی سے روایت ہے کہ انہوں نے ابن مسعود رضی اللہ عنہ کے پیچھے مغرب پڑھی تو انہوں نے «قل هو الله أحد» پڑھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>815</td></tr><tr><td>Arabic No</td><td>815</td></tr><tr><td>Reference</td><td>Book 2 Hadith 425</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 815 |
+| Arabic No | 815 |
+| Reference | Book 2 Hadith 425 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا الْمُعْتَمِرُ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يَخْرُجُ إِلَى الْغَابَةِ فَلاَ يُفْطِرُ وَلاَ يَقْصُرُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
+
 حدثنا مسدد، حدثنا المعتمر، عن عبيد الله، عن نافع، ان ابن عمر، كان يخرج الى الغابة فلا يفطر ولا يقصر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
 
 ## Bengali
 
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি আল-গাবা বনভূমিতে যেতেন। তখন তিনি সওম ভঙ্গ করতেন না এবং সালাত কসর করতেন না।\[1\] সহীহ মাওকুফ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি আল-গাবা বনভূমিতে যেতেন। তখন তিনি সওম ভঙ্গ করতেন না এবং সালাত কসর করতেন না।[1] সহীহ মাওকুফ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi' said:Ibn 'Umar used to go out to al-Ghabah (jungle), but he neither broke his fast, nor shortened his prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
+
+## French
+
+Nafi’ a dit : Ibn 'Umar رضي الله عنه avait l’habitude d’aller à al-Ghabah (la forêt), mais il ne rompait pas son jeûne et ne raccourcissait pas sa prière
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Al Mu'tamir\] dari \['Ubaidullah\] dari \[Nafi'\] bahwa \[Ibnu Umar\] pernah keluar menuju sebuah hutan dan tidak berbuka dan tidak mengqashar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Al Mu'tamir] dari ['Ubaidullah] dari [Nafi'] bahwa [Ibnu Umar] pernah keluar menuju sebuah hutan dan tidak berbuka dan tidak mengqashar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Нафи‘а, что Ибн ‘Умар уходил в аль-Габу и не прерывал пост и не сокращал молитву
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nâfi'den rivayet edildiğine göre, İbn Ömer (r.a) Ğâbe'ye kadar gider, fakat orucunu bozmaz, namazı da kısaltmazdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نافع سے روایت ہے کہ ابن عمر رضی اللہ عنہما غابہ ۱؎ جاتے تو نہ تو روزہ توڑتے، اور نہ ہی نماز قصر کرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2414</td></tr><tr><td>Arabic No</td><td>2414</td></tr><tr><td>Reference</td><td>Book 14 Hadith 102</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2414 |
+| Arabic No | 2414 |
+| Reference | Book 14 Hadith 102 |

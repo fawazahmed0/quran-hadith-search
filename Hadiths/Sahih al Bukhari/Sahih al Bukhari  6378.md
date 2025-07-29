@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، قَالَ سَمِعْتُ قَتَادَةَ، عَنْ أَنَسٍ، عَنْ أُمِّ سُلَيْمٍ، أَنَّهَا قَالَتْ يَا رَسُولَ اللَّهِ أَنَسٌ خَادِمُكَ ادْعُ اللَّهَ لَهُ قَالَ ‏ "‏ اللَّهُمَّ أَكْثِرْ مَالَهُ وَوَلَدَهُ، وَبَارِكْ لَهُ فِيمَا أَعْطَيْتَهُ ‏"‏‏.‏ وَعَنْ هِشَامِ بْنِ زَيْدٍ، سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، مِثْلَهُ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني محمد بن بشار، حدثنا غندر، حدثنا شعبة، قال سمعت قتادة، عن انس، عن ام سليم، انها قالت يا رسول الله انس خادمك ادع الله له قال " اللهم اكثر ماله وولده، وبارك له فيما اعطيته ". وعن هشام بن زيد، سمعت انس بن مالك، مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
+উম্মু সুলায়ম (রাঃ) হতে বর্ণিত। তিনি বললেনঃ হে আল্লাহর রাসূল! আনাস আপনার খাদিম, আপনি আল্লাহর নিকট তার জন্য দু‘আ করুন। তিনি দু‘আ করলেনঃ হে আল্লাহ! আপনি তার মাল ও সন্তান বৃদ্ধি করে দিন, আর আপনি তাকে যা কিছু দিয়েছেন তাতে বারাকাত দান করুন। হিশাম ইবনু যায়দ (রহ.) বলেন, আমি আনাস ইবনু মালিক (রাঃ)-কে এ রকমই বর্ণনা করতে শুনেছি।\[১৯৮২; মুসলিম ৪৪/৩১, হাঃ ২৪৮০, ২৪৮১, আহমাদ ২৭৪৯৬\] (আধুনিক প্রকাশনী- ৫৯৩২,ইসলামিক ফাউন্ডেশন)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু সুলায়ম (রাঃ) হতে বর্ণিত। তিনি বললেনঃ হে আল্লাহর রাসূল! আনাস আপনার খাদিম, আপনি আল্লাহর নিকট তার জন্য দু‘আ করুন। তিনি দু‘আ করলেনঃ হে আল্লাহ! আপনি তার মাল ও সন্তান বৃদ্ধি করে দিন, আর আপনি তাকে যা কিছু দিয়েছেন তাতে বারাকাত দান করুন। হিশাম ইবনু যায়দ (রহ.) বলেন, আমি আনাস ইবনু মালিক (রাঃ)-কে এ রকমই বর্ণনা করতে শুনেছি।[১৯৮২; মুসলিম ৪৪/৩১, হাঃ ২৪৮০, ২৪৮১, আহমাদ ২৭৪৯৬] (আধুনিক প্রকাশনী- ৫৯৩২,ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Um Sulaim:that she said, "O Allah's Messenger (ﷺ)! Anas is your servant, so please invoke for Allah's blessing for him." The Prophet (ﷺ) said, "O Allah! Increase his wealth and offspring and bless (for him) whatever You give him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
+
+## French
+
+Rapporté par Um Sulaim : Elle a dit : « Ô Messager d’Allah ﷺ ! Anas est ton serviteur, alors invoque la bénédiction d’Allah pour lui. » Le Prophète ﷺ a dit : « Ô Allah ! Accrois sa richesse et sa descendance, et bénis ce que Tu lui donnes. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Ghundar\] telah menceritakan kepada kami \[Syu'bah\] dia berkata; saya mendengar \[Qatadah\] dari \[Anas\] dari Ummu Sulaim bahwa dia berkata; "Wahai Rasulullah, do'akanlah pelayanmu yaitu Anas!." Beliau lalu mengucapkan: 'Ya Allah, karuniailah dia harta dan anak yang banyak dan berkahilah terhadap apa yang telah Engkau berikan kepadanya.' Dan dari \[Hisyam bin Zaid\] saya mendengar \[Anas bin Malik\] seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dia berkata; saya mendengar [Qatadah] dari [Anas] dari Ummu Sulaim bahwa dia berkata; "Wahai Rasulullah, do'akanlah pelayanmu yaitu Anas!." Beliau lalu mengucapkan: 'Ya Allah, karuniailah dia harta dan anak yang banyak dan berkahilah terhadap apa yang telah Engkau berikan kepadanya.' Dan dari [Hisyam bin Zaid] saya mendengar [Anas bin Malik] seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Анас (ибн Малик), да будет доволен им Аллах, передаёт, что (однажды его мать) Умм Сулейм, да будет доволен ею Аллах, сказала: «О Посланник Аллаха, Анас — твой слуга, обратись к Аллаху с мольбой за него», и (Пророк ﷺ) сказал: «О Аллах! Умножь его богатство и детей, и даруй ему благодать в том, что Ты ему даруешь!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: (என் தாயார்) உம்முசுலைம் (ரலி) அவர்கள், “அல்லாஹ்வின் தூதரே! அனஸ் தங்களின் சேவகர் ஆவார். அவருக்காகப் பிரார்த்தியுங்கள்” என்று கூறினார். நபி (ஸல்) அவர்கள், “இறைவா! அனஸின் செல்வத்தையும் குழந்தை களையும் அதிகமாக்கிடுவாயாக! அனஸுக்கு நீ வழங்கிய (எல்லா)வற்றி லும் வளத்தை வழங்குவாயாக” என்று பிரார்த்தித்தார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது.60 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes İbn Malik'ten rivayet edildiğine göre Ümmü Süleym "Ey Allah'ın resulü! Enes hizmetçiniz olsun; ona dua buyurun" dediğinde Resullullah Sallallahu Aleyhi ve Sellem: "Allahım! Malını ve çocuklarını ve ona verdiğin her şeyi bereketli kıl" diye dua etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6378</td></tr><tr><td>Arabic No</td><td>6378</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6378 |
+| Arabic No | 6378 |
+| Reference | Book 0 Hadith 0 |

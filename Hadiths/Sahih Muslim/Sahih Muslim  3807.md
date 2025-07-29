@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ عَمْرٌو النَّاقِدُ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ بْنِ سَعْدٍ، حَدَّثَنَا أَبِي، عَنْ صَالِحٍ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه عمرو الناقد، حدثنا يعقوب بن ابراهيم بن سعد، حدثنا ابي، عن صالح، عن ابن شهاب، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর আন নাকিদ (রহঃ) ..... ইবনু শিহাব (রহঃ) হতে একই সূত্রে উক্ত হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৬৬৫, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Ibn Shihab through the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## French
 
+Rapporté par Ibn Shihab : Ce hadith a été rapporté par Ibn Shihab avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana bu hadîsi Amru'n-Nâkıd da rivayet etti. (Dediki): Bize Yakûb b. İbrâhîm b. Sa'd rivayet etti. (Dediki): Bize babam, Sâlih'den, o da İbni Şihâb'dan naklen bu isnâdla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صالح نے ابن شہاب سے اسی سند کے ساتھ یہی حدیث بیان کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3807</td></tr><tr><td>Arabic No</td><td>1512.02</td></tr><tr><td>Reference</td><td>Book 21 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3807 |
+| Arabic No | 1512.02 |
+| Reference | Book 21 Hadith 7 |

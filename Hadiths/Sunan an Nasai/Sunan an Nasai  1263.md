@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَرْفَعُ يَدَيْهِ إِذَا افْتَتَحَ الصَّلاَةَ وَإِذَا رَكَعَ وَإِذَا رَفَعَ رَأْسَهُ مِنَ الرُّكُوعِ وَإِذَا جَلَسَ أَضْجَعَ الْيُسْرَى وَنَصَبَ الْيُمْنَى وَوَضَعَ يَدَهُ الْيُسْرَى عَلَى فَخِذِهِ الْيُسْرَى وَيَدَهُ الْيُمْنَى عَلَى فَخِذِهِ الْيُمْنَى وَعَقَدَ ثِنْتَيْنِ الْوُسْطَى وَالإِبْهَامَ وَأَشَارَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |
+
 اخبرنا قتيبة، قال حدثنا سفيان، عن عاصم بن كليب، عن ابيه، عن وايل بن حجر، قال رايت رسول الله صلى الله عليه وسلم يرفع يديه اذا افتتح الصلاة واذا ركع واذا رفع راسه من الركوع واذا جلس اضجع اليسرى ونصب اليمنى ووضع يده اليسرى على فخذه اليسرى ويده اليمنى على فخذه اليمنى وعقد ثنتين الوسطى والابهام واشار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... ওয়াইল ইবনু হুজর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দেখেছি তিনি যখন সালাত আরম্ভ করতেন তাঁর হস্তদ্বয় উত্তোলন করতেন, আর যখন রুকু করতেন ও রুকু থেকে মাথা ওঠাতেন তখনও। আর তিনি যখন বসতেন তার বাম পা বিছিয়ে দিতেন এবং ডান পা দাঁড় করে রাখতেন, আর তাঁর বাম হাত বাম উরুর উপর এবং ডান হাত ডান উরুর উপর রাখতেন এবং মধ্যম ও বৃদ্ধাঙ্গুলি দ্বারা গোলাকার বৃত্ত বানিয়ে ইশারা করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Wa'il bin Hujr said:"I saw the Messenger of Allah (ﷺ) raise his hands when he started to pray, and when he bowed, and when he raised his head from bowing. And when he sat, he would ay his left foot on the ground and keep his right foot upright, and he placed his left hand on his left thigh, and his right hand on his right thigh, making a circle with his middle finger and thumb, and pointing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |
+
+## French
+
+Rapporté par Wa'il bin Hujr : J'ai vu le Messager d'Allah (ﷺ) lever les mains quand il commençait la prière, quand il s'inclinait, et quand il relevait la tête de l'inclinaison. Et quand il s'asseyait, il posait son pied gauche au sol et gardait son pied droit dressé, il mettait sa main gauche sur sa cuisse gauche, et sa main droite sur sa cuisse droite, formant un cercle avec son majeur et son pouce, et il pointait
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dia berkata; telah menceritakan kepada kami \[Sufyan\] dari \['Ashim bin Kulaib\] dari \[Bapaknya\] dari \[Wa'il bin Hujr\] dia berkata; "Aku melihat Rasulullah Shalallah 'Alaihi Wa Sallam mengangkat kedua tangannya apabila hendak memulai shalat, hendak ruku' dan bangkit dari ruku' dan apabila beliau duduk, maka beliau menghamparkan kaki kiri dan menegakkan kaki kanan, meletakan tangan kanan diatas paha sebelah kanan dan tangan kiri di paha sebelah kiri dan melipat kedua jari tengah serta ibu jari, dengan mengisyaratkan telunjuknya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada kami [Sufyan] dari ['Ashim bin Kulaib] dari [Bapaknya] dari [Wa'il bin Hujr] dia berkata; "Aku melihat Rasulullah Shalallah 'Alaihi Wa Sallam mengangkat kedua tangannya apabila hendak memulai shalat, hendak ruku' dan bangkit dari ruku' dan apabila beliau duduk, maka beliau menghamparkan kaki kiri dan menegakkan kaki kanan, meletakan tangan kanan diatas paha sebelah kanan dan tangan kiri di paha sebelah kiri dan melipat kedua jari tengah serta ibu jari, dengan mengisyaratkan telunjuknya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وائل بن حجر رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا، جب آپ نماز شروع کرتے تو اپنے دونوں ہاتھ اٹھاتے، اور جب رکوع میں جاتے اور رکوع سے اپنا سر اٹھاتے ( تو بھی اسی طرح اٹھاتے ) اور جب آپ ( قعدہ میں ) بیٹھتے تو بایاں ( پاؤں ) لٹاتے، اور دایاں ( پاؤں ) کھڑا رکھتے، اور اپنا بایاں ہاتھ اپنی بائیں ران پر اور دایاں ہاتھ دائیں ران پر رکھتے، اور درمیان والی انگلی اور انگوٹھے دونوں کو ملا کر گرہ بناتے، اور اشارہ کرتے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1263</td></tr><tr><td>Arabic No</td><td>1263</td></tr><tr><td>Reference</td><td>Book 13 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1263 |
+| Arabic No | 1263 |
+| Reference | Book 13 Hadith 85 |

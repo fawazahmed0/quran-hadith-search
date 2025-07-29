@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي مَالِكٌ، عَنْ أَبِي لَيْلَى بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ سَهْلٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، أَنَّهُ أَخْبَرَهُ هُوَ، وَرِجَالٌ، مِنْ كُبَرَاءِ قَوْمِهِ أَنَّ عَبْدَ اللَّهِ بْنَ سَهْلٍ وَمُحَيِّصَةَ خَرَجَا إِلَى خَيْبَرَ مِنْ جَهْدٍ أَصَابَهُمْ فَأُتِيَ مُحَيِّصَةُ فَأُخْبِرَ أَنَّ عَبْدَ اللَّهِ بْنَ سَهْلٍ قَدْ قُتِلَ وَطُرِحَ فِي فَقِيرٍ أَوْ عَيْنٍ فَأَتَى يَهُودَ فَقَالَ أَنْتُمْ وَاللَّهِ قَتَلْتُمُوهُ ‏.‏ قَالُوا وَاللَّهِ مَا قَتَلْنَاهُ ‏.‏ فَأَقْبَلَ حَتَّى قَدِمَ عَلَى قَوْمِهِ فَذَكَرَ لَهُمْ ذَلِكَ ثُمَّ أَقْبَلَ هُوَ وَأَخُوهُ حُوَيِّصَةُ - وَهُوَ أَكْبَرُ مِنْهُ - وَعَبْدُ الرَّحْمَنِ بْنُ سَهْلٍ فَذَهَبَ مُحَيِّصَةُ لِيَتَكَلَّمَ وَهُوَ الَّذِي كَانَ بِخَيْبَرَ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ كَبِّرْ كَبِّرْ ‏"‏ ‏.‏ يُرِيدُ السِّنَّ فَتَكَلَّمَ حُوَيِّصَةُ ثُمَّ تَكَلَّمَ مُحَيِّصَةُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِمَّا أَنْ يَدُوا صَاحِبَكُمْ وَإِمَّا أَنْ يُؤْذَنُوا بِحَرْبٍ ‏"‏ ‏.‏ فَكَتَبَ إِلَيْهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم بِذَلِكَ فَكَتَبُوا إِنَّا وَاللَّهِ مَا قَتَلْنَاهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِحُوَيِّصَةَ وَمُحَيِّصَةَ وَعَبْدِ الرَّحْمَنِ ‏"‏ أَتَحْلِفُونَ وَتَسْتَحِقُّونَ دَمَ صَاحِبِكُمْ ‏"‏ ‏.‏ قَالُوا لاَ ‏.‏ قَالَ ‏"‏ فَتَحْلِفُ لَكُمْ يَهُودُ ‏"‏ ‏.‏ قَالُوا لَيْسُوا مُسْلِمِينَ فَوَدَاهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ عِنْدِهِ فَبَعَثَ إِلَيْهِمْ مِائَةَ نَاقَةٍ حَتَّى أُدْخِلَتْ عَلَيْهِمُ الدَّارَ ‏.‏ قَالَ سَهْلٌ لَقَدْ رَكَضَتْنِي مِنْهَا نَاقَةٌ حَمْرَاءُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
+
 حدثنا احمد بن عمرو بن السرح، اخبرنا ابن وهب، اخبرني مالك، عن ابي ليلى بن عبد الله بن عبد الرحمن بن سهل، عن سهل بن ابي حثمة، انه اخبره هو، ورجال، من كبراء قومه ان عبد الله بن سهل ومحيصة خرجا الى خيبر من جهد اصابهم فاتي محيصة فاخبر ان عبد الله بن سهل قد قتل وطرح في فقير او عين فاتى يهود فقال انتم والله قتلتموه . قالوا والله ما قتلناه . فاقبل حتى قدم على قومه فذكر لهم ذلك ثم اقبل هو واخوه حويصة - وهو اكبر منه - وعبد الرحمن بن سهل فذهب محيصة ليتكلم وهو الذي كان بخيبر فقال له رسول الله صلى الله عليه وسلم " كبر كبر " . يريد السن فتكلم حويصة ثم تكلم محيصة فقال رسول الله صلى الله عليه وسلم " اما ان يدوا صاحبكم واما ان يوذنوا بحرب " . فكتب اليهم رسول الله صلى الله عليه وسلم بذلك فكتبوا انا والله ما قتلناه . فقال رسول الله صلى الله عليه وسلم لحويصة ومحيصة وعبد الرحمن " اتحلفون وتستحقون دم صاحبكم " . قالوا لا . قال " فتحلف لكم يهود " . قالوا ليسوا مسلمين فوداه رسول الله صلى الله عليه وسلم من عنده فبعث اليهم ماية ناقة حتى ادخلت عليهم الدار . قال سهل لقد ركضتني منها ناقة حمراء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
 
 ## Bengali
 
+। আবূ লায়লা ইবনু আব্দুল্লাহ ইবনু আব্দুর রাহমান (রহঃ) সূত্রে বর্ণিত। আবূ হাসমার পুত্র সাহল (রাঃ) বর্ণনা করেন, সে (সাহল) ও তার গোত্রের কতিপয় গণ্যমান্য লোক তাকে সংবাদ দিয়েছে যে, আব্দুল্লাহ ইবনু সাহল ও মুহাইয়াসা উভয়ে দুর্ভিক্ষে খায়বারে যায়। মুহাইয়াসা তাদের নিকট ফিরে এসে সংবাদ দিলো যে, আব্দুল্লাহ ইবনু সাহল (রাঃ)-কে হত্যা করে গর্তে বা কুপে নিক্ষেপ করা হয়েছে। তিনি ইয়াহুদীদের নিকট গিয়ে বললেন, আল্লাহর কসম! তোমরাই তাকে মেরেছো। তারা বললো, আল্লাহর কসম! আমরা তাকে হত্যা করিনি। অতঃপর সে ফিরে এসে গোত্রের লোকজনকে ঘটনা জানালো। অতঃপর সে, তার ভাই হুয়াইয়াসা এবং আব্দুর রাহমান ইবনু সাহল এগিয়ে এলেন। মুহাইয়াসা কথা বলতে উদ্যোগী হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, যে বয়সে বড় তাকে সম্মান করো এবং কথা বলার জন্য প্রাধান্য দাও। অতঃপর পর্যায়ক্রমে হুয়াইয়াসা ও মুহাইয়াসা আলাপ করলেন। তারপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হয় তারা তোমাদের সাথীর দিয়াত দিবে, না হয় তাদেরকে যুদ্ধের ঘোষণা শুনাবে। এরপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ কথা তাদেরকে লিখে জানালেন এবং তারা উত্তর লিখলো, আল্লাহর কসম! আমরা তাকে হত্যা করিনি। এবাররাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হুয়াইয়াসা, মুহায়াসা ও আব্দুর রাহমানকে প্রশ্ন করলেন, তোমরা কি কসম করে তোমাদের সাথীর দিয়াত নিতে পারবে? তারা বললেন, না। তিনি বললেন, তাহলে ইয়াহুদীরা তোমাদের জন্য কসম করবে? তারা বললেন, ওরা তো মুসলিম নয়। শেষ পর্যন্ত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের পক্ষ থেকে তার দিয়াত পরিশোধ করলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের বাড়িতে একশো উট পাঠিয়ে দিলেন। সাহল (রাঃ) বলেন, ঐ উটগুলোর মধ্যকার একটি লাল রঙের মাদী উট আমাকে লাথি মেরেছিল।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ লায়লা ইবনু আব্দুল্লাহ ইবনু আব্দুর রাহমান (রহঃ) সূত্রে বর্ণিত। আবূ হাসমার পুত্র সাহল (রাঃ) বর্ণনা করেন, সে (সাহল) ও তার গোত্রের কতিপয় গণ্যমান্য লোক তাকে সংবাদ দিয়েছে যে, আব্দুল্লাহ ইবনু সাহল ও মুহাইয়াসা উভয়ে দুর্ভিক্ষে খায়বারে যায়। মুহাইয়াসা তাদের নিকট ফিরে এসে সংবাদ দিলো যে, আব্দুল্লাহ ইবনু সাহল (রাঃ)-কে হত্যা করে গর্তে বা কুপে নিক্ষেপ করা হয়েছে। তিনি ইয়াহুদীদের নিকট গিয়ে বললেন, আল্লাহর কসম! তোমরাই তাকে মেরেছো। তারা বললো, আল্লাহর কসম! আমরা তাকে হত্যা করিনি। অতঃপর সে ফিরে এসে গোত্রের লোকজনকে ঘটনা জানালো। অতঃপর সে, তার ভাই হুয়াইয়াসা এবং আব্দুর রাহমান ইবনু সাহল এগিয়ে এলেন। মুহাইয়াসা কথা বলতে উদ্যোগী হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, যে বয়সে বড় তাকে সম্মান করো এবং কথা বলার জন্য প্রাধান্য দাও। অতঃপর পর্যায়ক্রমে হুয়াইয়াসা ও মুহাইয়াসা আলাপ করলেন। তারপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হয় তারা তোমাদের সাথীর দিয়াত দিবে, না হয় তাদেরকে যুদ্ধের ঘোষণা শুনাবে। এরপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ কথা তাদেরকে লিখে জানালেন এবং তারা উত্তর লিখলো, আল্লাহর কসম! আমরা তাকে হত্যা করিনি। এবাররাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হুয়াইয়াসা, মুহায়াসা ও আব্দুর রাহমানকে প্রশ্ন করলেন, তোমরা কি কসম করে তোমাদের সাথীর দিয়াত নিতে পারবে? তারা বললেন, না। তিনি বললেন, তাহলে ইয়াহুদীরা তোমাদের জন্য কসম করবে? তারা বললেন, ওরা তো মুসলিম নয়। শেষ পর্যন্ত রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের পক্ষ থেকে তার দিয়াত পরিশোধ করলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের বাড়িতে একশো উট পাঠিয়ে দিলেন। সাহল (রাঃ) বলেন, ঐ উটগুলোর মধ্যকার একটি লাল রঙের মাদী উট আমাকে লাথি মেরেছিল।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sahl b. Abi Hathmah and some senior men of the tribe told that 'Abd Allah b. Abi Sahl and Muhayyasah came to Khaibar on account of the calamity (i.e. famine) that befall them. Muhayyasah came and told the 'Abd Allah b. Sahl had been killed and thrown in a well or stream. He hen came to the Jews and said:I swear by Allah, you have killed him. They said: We swear by Allah, we have not killed him. He then proceeded and came to his tribe and mentioned this to them. Then he, his brother Huwayyasah, who was older to him, and 'Abd al-Rahman b. Sahl came forward (to the Prophet). Muhayyasah began to speak. It was he who was at Khaibar. The Messenger of Allah (ﷺ) then said to him: Let the eldest (speak), let the eldest (speak), meaning age. So Huwayyasah spoke, and after him Muhayyasah spoke. The Messenger of Allah (ﷺ) then said: They should either pay the bloodwit for you friend or they should be prepared for war. So the Messenger of Allah (ﷺ) wrote to them about it. They wrote (in reply): We swear by Allah, we have not killed him. The Messenger of Allah (ﷺ) then said to Huwayyasah, Muhayyasah and 'Abd al-Rahman: Will you take an oath and thus have the claim to the blood of your friend ? They said: No. He (the Prophet) said: The Jews will then take an oath. They said: They are not Muslims. Then the Messenger of Allah (ﷺ) himself paid the bloodwit. The Messenger of Allah (ﷺ) then sent on one hundred she-camels and they were entered in their house. Sahl said: A red she-camel of them gave me a kick
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
+
+## French
+
+Sahl ibn Abi Hathmah et quelques anciens de la tribu ont raconté que ‘Abd Allah ibn Abi Sahl et Muhayyasah étaient venus à Khaybar à cause d’une calamité (c’est-à-dire une famine) qui les avait frappés. Muhayyasah est venu et a dit que ‘Abd Allah ibn Sahl avait été tué et jeté dans un puits ou un ruisseau. Il est alors allé voir les Juifs et a dit : « Je jure par Allah que vous l’avez tué. » Ils répondirent : « Nous jurons par Allah que nous ne l’avons pas tué. » Il retourna alors auprès de sa tribu et leur raconta cela. Ensuite, lui, son frère Huwayyasah, qui était plus âgé, et ‘Abd al-Rahman ibn Sahl se présentèrent devant le Prophète ﷺ. Muhayyasah commença à parler, car c’est lui qui était à Khaybar. Le Messager d’Allah ﷺ lui dit alors : « Que l’aîné parle, que l’aîné parle », c’est-à-dire par l’âge. Alors Huwayyasah parla, puis Muhayyasah. Le Messager d’Allah ﷺ dit alors : « Ils doivent soit payer le prix du sang pour votre ami, soit se préparer à la guerre. » Le Messager d’Allah ﷺ leur écrivit à ce sujet. Ils répondirent : « Nous jurons par Allah que nous ne l’avons pas tué. » Le Messager d’Allah ﷺ dit alors à Huwayyasah, Muhayyasah et ‘Abd al-Rahman : « Voulez-vous prêter serment et ainsi réclamer le sang de votre ami ? » Ils répondirent : « Non. » Il dit : « Alors les Juifs prêteront serment. » Ils dirent : « Ils ne sont pas musulmans. » Le Messager d’Allah ﷺ paya alors lui-même le prix du sang. Il envoya cent chamelles qui furent introduites dans leur maison. Sahl dit : « Une chamelle rousse m’a donné un coup de pied. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Amru bin As Sarh\] berkata, telah mengabarkan kepada kami \[Ibnu Wahb\] berkata, telah mengabarkan kepadaku \[Malik\] dari \[Abu Laila bin Abdullah bin 'Abdurrahman bin Sahl\] dari \[Sahl bin Abu Hatsmah\] Bahwasanya ia dan beberapa tokoh kaumnya mengabarkan kepadanya, bahwa Abdullah bin Sahl dan Muhayishah keluar menuju Khaibar karena penderitaan yang mereka alami. Muhayyishah lalu didatangkan, lalu dikabarkan bahwa Abddullah bin Sahl dibunuh dan dibuang ke dalam lubang atau sumur. Muhayishah lalu mendatangi orang-orang Yahudi dan bertanya, "Demi Allah, kalian yang telah membunuhnya?" orang-orang Yahudi itu menjawab, "Demi Allah, kami tidak membunuhnya." Muhayishah lalu pergi hingga sampai ke Madinah, ia lantas ceritakan semua kejadian tersebut kepada kaumnya. Kemudian, ia bersama saudaranya Huwayishah -dan ia umurnya lebih tua- serta 'Abdurrahman bin Sahl pergi menghadap Rasulullah shallallahu 'alaihi wasallam. Muhayishah angkat bicara -karena dialah yang waktu itu di Khaibar-, namun Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang tua dahulu, yang tua dahulu." Huwayishah lalu berbicara dan diteruskan oleh Muhayishah, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mereka mau mambayar diyat untuk temanmu atau mereka mengumumkan peperangan!" Rasulullah shallallahu 'alaihi wasallam kemudian menulis surat kepada mereka menuntut perkara tersebut, lalu mereka membalas (surat beliau) dengan menulis jawaban, "Demi Allah kami tidak membunuhnya." Rasulullah shallallahu 'alaihi wasallam lalu berkata kepada Huwayishah, Muhayishah dan 'Abdurrahman bin Sahl, "Apakah kalian mau bersumpah, sehingga kalian berhak mendapatkan hak atas pembunuhan saudara kalian?" mereka menjawab, "Tidak." Beliau bersabda: "(Padahal) orang-orang Yahudi akan bersumpah atas tuduhan kalian." Mereka menimpali, "Mereka bukan orang-orang muslim!" Rasulullah shallallahu 'alaihi wasallam lalu menebus diyat itu dengan harta pribadinya, beliau kirimkan unta hingga unta-unta tersebut di masukkan ke dalam rumah mereka." Sahl berkata, "Salah satu unta tersebut bahkan telah menendangku, yakni unta merah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] berkata, telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Malik] dari [Abu Laila bin Abdullah bin 'Abdurrahman bin Sahl] dari [Sahl bin Abu Hatsmah] Bahwasanya ia dan beberapa tokoh kaumnya mengabarkan kepadanya, bahwa Abdullah bin Sahl dan Muhayishah keluar menuju Khaibar karena penderitaan yang mereka alami. Muhayyishah lalu didatangkan, lalu dikabarkan bahwa Abddullah bin Sahl dibunuh dan dibuang ke dalam lubang atau sumur. Muhayishah lalu mendatangi orang-orang Yahudi dan bertanya, "Demi Allah, kalian yang telah membunuhnya?" orang-orang Yahudi itu menjawab, "Demi Allah, kami tidak membunuhnya." Muhayishah lalu pergi hingga sampai ke Madinah, ia lantas ceritakan semua kejadian tersebut kepada kaumnya. Kemudian, ia bersama saudaranya Huwayishah -dan ia umurnya lebih tua- serta 'Abdurrahman bin Sahl pergi menghadap Rasulullah shallallahu 'alaihi wasallam. Muhayishah angkat bicara -karena dialah yang waktu itu di Khaibar-, namun Rasulullah shallallahu 'alaihi wasallam bersabda: "Yang tua dahulu, yang tua dahulu." Huwayishah lalu berbicara dan diteruskan oleh Muhayishah, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Mereka mau mambayar diyat untuk temanmu atau mereka mengumumkan peperangan!" Rasulullah shallallahu 'alaihi wasallam kemudian menulis surat kepada mereka menuntut perkara tersebut, lalu mereka membalas (surat beliau) dengan menulis jawaban, "Demi Allah kami tidak membunuhnya." Rasulullah shallallahu 'alaihi wasallam lalu berkata kepada Huwayishah, Muhayishah dan 'Abdurrahman bin Sahl, "Apakah kalian mau bersumpah, sehingga kalian berhak mendapatkan hak atas pembunuhan saudara kalian?" mereka menjawab, "Tidak." Beliau bersabda: "(Padahal) orang-orang Yahudi akan bersumpah atas tuduhan kalian." Mereka menimpali, "Mereka bukan orang-orang muslim!" Rasulullah shallallahu 'alaihi wasallam lalu menebus diyat itu dengan harta pribadinya, beliau kirimkan unta hingga unta-unta tersebut di masukkan ke dalam rumah mereka." Sahl berkata, "Salah satu unta tersebut bahkan telah menendangku, yakni unta merah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Лейли ибн ‘Абдуллаха ибн ‘Абдуррахмана ибн Сахля со слов Сахля ибн Абу Хасмы и со слов старейшин своего племени, что однажды ‘Абдуллах ибн Сахль и Мухаййиса, которые обеднели и оказались в трудном положении, отправились в Хайбар. А потом к Мухаййисе пришли и сообщили ему, что ‘Абдуллах ибн Сахль убит и брошен в колодец (или: в источник). Тогда он явился к иудеям и сказал: «Клянусь Аллахом, это вы убили его!» Они же стали говорить: «Клянёмся Аллахом, что мы его не убивали!» После этого он отправился к своим соплеменникам и обо всём рассказал им, а потом Мухаййиса вместе со своим старшим братом Хуваййисой и (братом убитого) ‘Абдуррахманом ибн Сахлем пошёл (к Посланнику Аллаха ﷺ). Мухаййиса, который был в Хайбаре, начал говорить первым, но Посланник Аллаха ﷺ сказал ему: «Старший, старший!» Тогда заговорил Хуваййиса, а потом стал говорить Мухаййиса. Посланник Аллаха ﷺ сказал: «Либо (эти иудеи) выплатят компенсацию за кровь вашего убитого, либо им будет объявлена война!» Затем Посланник Аллаха ﷺ велел написать об этом иудеям, но те написали ему: «Клянёмся Аллахом, что мы его не убивали!» Тогда Посланник Аллаха ﷺ сказал Хуваййисе, Мухаййисе и ‘Абдуррахману: «Можете ли вы принести клятвенное свидетельство против убийцы, чтобы по праву взыскать с него за кровь вашего убитого?» Они сказали: «Нет». Посланник Аллаха ﷺ сказал: «Тогда пусть иудеи поклянутся вам, (что не убивали его)». Они сказали: «Они ведь не мусульмане». Тогда Посланник Аллаха ﷺ выплатил компенсацию /дийа/ сам, послав им сто верблюдиц, которых привели к ним во двор. Сахль сказал: «И одна рыжая верблюдица из их числа лягнула меня»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl b. Ebi Hasme ve kavminin büyüklerinden (bazı) adamlar haber verdiler ki: Abdullah b. Sehl ve Muhayyisa başlarına gelen bir kıtlık yüzünden Hayber'e doğru yol'a çıktılar. Muhayyisa'ya gelinip, Abdullah b. Sehl'in öldürüldüğü ve bir kuyuya veya çukura atıldığı haber verildi. Muhayyisa Yahudilere gelip: "Vallahi onu siz öldürdünüz" dedi. Yahudiler de: "Vallahi biz öldürmedik" dediler. Bunun üzerine döndü ve kendi kavmine geldi. Olup biteni onlara haber verdi. Sonra da kendisinden büyük olan kardeşi Huveyyisa ve Abdurrahman b. Sehl ile birlikte geldiler. Muhayyisa -Hayberde olan o idi- konuşmak için (Rasûlullah'a) gitti. Rasûlullah (s.a.v) yaşı kasderek "büyült, büyült (büyüğünüz konuşsun)" buyurdu. Bunun üzerine, Huveyyisa konuştu, sonra Muhayyisa konuştu. Rasûlullah (s.a.v): "(Yahudiler) ya arkadaşınızın diyetini verirler yada (Allah ve Rasûlüne) harb açtıklarını bildirirler" buyurdu. Ayrıca bunu Yahudilere yazdı. Yahudiler de: "Vallahi onu biz öldürmedik" diye yazdılar. Rasûlullah (s.a.v): Huveyyisa, Muhayyisa ve Abdurrahman'a: "Yemin eder ve arkadaşınızın kanını hak eder misiniz?" dedi. "Hayır" dediler. Rasûlullah: "Sizin için Yahudiler yemin etsinler mi?" buyurdu. "Onlar müslüman değiller" dediler. Bunun üzerine, Rasûlullah onun diyetini kendi yanından verdi. Onlara, yüz dişi deve gönderdi. O kadar ki, develer evlerine kadar sokuldu. Ravi Sehl şöyle dedi: "O develerden kırmızı bir deve beni tepti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سہل بن ابی حثمہ انصاری رضی اللہ عنہ اور ان کے قبیلہ کے کچھ بڑوں سے روایت ہے کہ عبداللہ بن سہل اور محیصہ رضی اللہ عنہما کسی پریشانی کی وجہ سے جس سے وہ دو چار ہوئے خیبر کی طرف نکلے پھر کسی نے آ کر محیصہ کو خبر دی کہ عبداللہ بن سہل مار ڈالے گئے اور انہیں کسی کنویں یا چشمے میں ڈال دیا گیا، وہ ( محیصہ ) یہود کے پاس آئے اور کہنے لگے: قسم اللہ کی! تم نے ہی انہیں قتل کیا ہے، وہ بولے: اللہ کی قسم ہم نے انہیں قتل نہیں کیا ہے، پھر وہ اپنی قوم کے پاس آئے اور ان سے اس کا ذکر کیا، پھر وہ، ان کے بڑے بھائی حویصہ اور عبدالرحمٰن بن سہل تینوں ( رسول اللہ صلی اللہ علیہ وسلم کے پاس ) آئے، محیصہ نے واقعہ بیان کرنا شروع کیا کیونکہ وہی خیبر میں ساتھ تھے، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بڑوں کو بڑائی دو آپ کی مراد عمر میں بڑائی سے تھی چنانچہ حویصہ نے گفتگو کی، پھر محیصہ نے تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یا تو یہ لوگ تمہارے آدمی کی دیت دیں، یا لڑائی کے لیے تیار ہو جائیں پھر آپ نے اس سلسلے میں انہیں خط لکھا تو انہوں نے اس کا جواب لکھا کہ اللہ کی قسم! ہم نے انہیں قتل نہیں کیا ہے، تو آپ نے حویصہ، محیصہ اور عبدالرحمٰن سے پوچھا: کیا تم قسم کھاؤ گے کہ اپنے بھائی کے خون کا مستحق بن سکو؟ انہوں نے کہا: نہیں، اس پر آپ نے فرمایا: تو پھر یہود تمہارے لیے قسم کھائیں گے اس پر وہ کہنے لگے: وہ تو مسلمان نہیں ہیں، چنانچہ رسول اللہ صلی اللہ علیہ وسلم نے خود اپنے پاس سے ان کی دیت ادا کر دی، اور سو اونٹ بھیج دیے گئے یہاں تک کہ وہ ان کے مکان میں داخل کر دیے گئے، سہل کہتے ہیں: انہیں میں سے ایک سرخ اونٹنی نے مجھے لات ماری ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4521</td></tr><tr><td>Arabic No</td><td>4521</td></tr><tr><td>Reference</td><td>Book 41 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4521 |
+| Arabic No | 4521 |
+| Reference | Book 41 Hadith 28 |

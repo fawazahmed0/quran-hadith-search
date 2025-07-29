@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ حُمَيْدٍ الطَّوِيلِ، حَدَّثَنَا بَكْرٌ، أَنَّهُ ذَكَرَ لاِبْنِ عُمَرَ أَنَّ أَنَسًا حَدَّثَهُمْ أَنَّ النَّبِيَّ صلى الله عليه وسلم أَهَلَّ بِعُمْرَةٍ وَحَجَّةٍ، فَقَالَ أَهَلَّ النَّبِيُّ صلى الله عليه وسلم بِالْحَجِّ، وَأَهْلَلْنَا بِهِ مَعَهُ، فَلَمَّا قَدِمْنَا مَكَّةَ قَالَ ‏"‏ مَنْ لَمْ يَكُنْ مَعَهُ هَدْىٌ فَلْيَجْعَلْهَا عُمْرَةً ‏"‏‏.‏ وَكَانَ مَعَ النَّبِيِّ صلى الله عليه وسلم هَدْىٌ، فَقَدِمَ عَلَيْنَا عَلِيُّ بْنُ أَبِي طَالِبٍ مِنَ الْيَمَنِ حَاجًّا فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ بِمَ أَهْلَلْتَ فَإِنَّ مَعَنَا أَهْلَكَ ‏"‏‏.‏ قَالَ أَهْلَلْتُ بِمَا أَهَلَّ بِهِ النَّبِيُّ صلى الله عليه وسلم‏.‏ قَالَ ‏"‏ فَأَمْسِكْ، فَإِنَّ مَعَنَا هَدْيًا ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسدد، حدثنا بشر بن المفضل، عن حميد الطويل، حدثنا بكر، انه ذكر لابن عمر ان انسا حدثهم ان النبي صلى الله عليه وسلم اهل بعمرة وحجة، فقال اهل النبي صلى الله عليه وسلم بالحج، واهللنا به معه، فلما قدمنا مكة قال " من لم يكن معه هدى فليجعلها عمرة ". وكان مع النبي صلى الله عليه وسلم هدى، فقدم علينا علي بن ابي طالب من اليمن حاجا فقال النبي صلى الله عليه وسلم " بم اهللت فان معنا اهلك ". قال اهللت بما اهل به النبي صلى الله عليه وسلم. قال " فامسك، فان معنا هديا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
+বাকর (রহ.) হতে বর্ণিত যে, ইবনু ‘উমার (রাঃ)-এর কাছে এ কথা উল্লেখ করা হল, ‘আনাস (রাঃ) লোকেদের কাছে বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হাজ্জ ও ‘উমরাহর জন্য ইহরাম বেঁধেছিলেন। তখন ইবনু ‘উমার (রাঃ) বললেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হাজ্জের জন্য ইহরাম বেঁধেছেন, তাঁর সঙ্গে আমরাও হাজ্জের জন্য ইহরাম বাঁধি। যখন আমরা মক্কা্য় পৌঁছলাম তিনি বললেন, তোমাদের যার সঙ্গে কুরবানীর পশু নেই সে যেন তার হাজ্জের ইহরাম ‘উমরাহর ইহরামে পরিণত করে। অবশ্য নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে কুরবানীর পশু ছিল। অতঃপর ‘আলী ইবনু আবূ তালিব (রাঃ) হাজ্জের উদ্দেশে ইয়ামান থেকে আসলেন। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম (তাঁকে) জিজ্ঞেস করলেন, তুমি কিসের ইহরাম বেঁধেছ? কারণ আমাদের সঙ্গে তোমার স্ত্রী পরিবার আছে। তিনি উত্তর দিলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যেটির ইহরাম বেঁধেছেন আমি সেটিরই ইহরাম বেঁধেছি। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, তাহলে (এ অবস্থায়ই) থাক, কেননা আমাদের সঙ্গে কুরবানীর পশু আছে। \[মুসলিম ১৫/২৭, হাঃ ১২৩১, ১২৩২\] (আধুনিক প্রকাশনীঃ ৪০০৮, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-বাকর (রহ.) হতে বর্ণিত যে, ইবনু ‘উমার (রাঃ)-এর কাছে এ কথা উল্লেখ করা হল, ‘আনাস (রাঃ) লোকেদের কাছে বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হাজ্জ ও ‘উমরাহর জন্য ইহরাম বেঁধেছিলেন। তখন ইবনু ‘উমার (রাঃ) বললেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হাজ্জের জন্য ইহরাম বেঁধেছেন, তাঁর সঙ্গে আমরাও হাজ্জের জন্য ইহরাম বাঁধি। যখন আমরা মক্কা্য় পৌঁছলাম তিনি বললেন, তোমাদের যার সঙ্গে কুরবানীর পশু নেই সে যেন তার হাজ্জের ইহরাম ‘উমরাহর ইহরামে পরিণত করে। অবশ্য নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে কুরবানীর পশু ছিল। অতঃপর ‘আলী ইবনু আবূ তালিব (রাঃ) হাজ্জের উদ্দেশে ইয়ামান থেকে আসলেন। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম (তাঁকে) জিজ্ঞেস করলেন, তুমি কিসের ইহরাম বেঁধেছ? কারণ আমাদের সঙ্গে তোমার স্ত্রী পরিবার আছে। তিনি উত্তর দিলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যেটির ইহরাম বেঁধেছেন আমি সেটিরই ইহরাম বেঁধেছি। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, তাহলে (এ অবস্থায়ই) থাক, কেননা আমাদের সঙ্গে কুরবানীর পশু আছে। [মুসলিম ১৫/২৭, হাঃ ১২৩১, ১২৩২] (আধুনিক প্রকাশনীঃ ৪০০৮, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
+Narrated Ibn 'Umar:The Prophet (ﷺ) assumed the state of Ihram for Umra and Hajj, and we too assumed it for Hajj with him. When we arrived at Mecca, the Prophet (ﷺ) said, "Whoever does not possess a Hadi should regard his Ihram for Umra only." The Prophet (ﷺ) had a Hadi with him. 'Ali bin Abi Talib came to us from Yemen with the intention of performing Hajj. The Prophet (ﷺ) said (to him), "With what intention have you assumed the Ihram, for your wife is with us?" 'Ali said, "I assumed the Ihram with the same intention as that of the Prophet (ﷺ) ." The Prophet (ﷺ) said, "Keep on the state of Ihram, as we have got the Hadi
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Ibn 'Umar:The Prophet (ﷺ) assumed the state of Ihram for Umra and Hajj, and we to assumed it for Hajj with him. When we arrived at Mecca, the Prophet (ﷺ) said, "Whoever does not possess a Hadi should regard his Ihram for Umra only." The Prophet (ﷺ) had a Hadi with him. 'Ali bin Abi Talib came to us from Yemen with the intention of performing Hajj. The Prophet (ﷺ) said (to him), "With what intention have you assumed the Ihram, for your wife is with us?" 'Ali said, "I assumed the lhram with the same intention as that of the Prophet (ﷺ) ." The Prophet (ﷺ) said, "Keep on the state of lhram, as we have got the Hadi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Prophète (ﷺ) a pris l’Ihram pour la 'Umra et le Hajj, et nous avons aussi pris l’Ihram pour le Hajj avec lui. Quand nous sommes arrivés à La Mecque, le Prophète (ﷺ) a dit : « Celui qui n’a pas de Hadi doit considérer son Ihram comme étant pour la 'Umra seulement. » Le Prophète (ﷺ) avait un Hadi avec lui. 'Ali bin Abi Talib nous a rejoints du Yémen avec l’intention d’accomplir le Hajj. Le Prophète (ﷺ) lui a dit : « Avec quelle intention as-tu pris l’Ihram, alors que ta femme est avec nous ? » 'Ali a répondu : « J’ai pris l’Ihram avec la même intention que le Prophète (ﷺ). » Le Prophète (ﷺ) a dit : « Reste en état d’Ihram, car nous avons le Hadi. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] Telah menceritakan kepada kami \[Bisyr bin Al Mufadldlal\] dari \[Humaid Ath Thawil\] Telah menceritakan kepada kami \[Bakr\] bahwasanya dia berkata kepada \[Ibnu 'Umar\] bahwa Anas pernah menceritakan kepada mereka mengenai talbiyah Rasulullah shallallahu 'alaihi wasallam dengan umrah dan haji. Anas berkata; Nabi shallallahu 'alaihi wasallam bertalbiyah dengan haji, dan kami pun bertalbiyah bersama beliau. Tatkala kami sampai di Makkah, beliau bersabda; 'Barangsiapa diantara kalian yang tidak memiliki hewan kurban maka niatkanlah untuk umrah.' Sedangkan pada waktu itu Rasulullah memiliki hewan kurban. Tiba-tiba Ali bin Abi Thalib kembali dari Yaman, lalu Nabi Shallallahu'alaihi wasallam bertanya kepadanya: "Dengan apa kamu bertalbiyah sesungguhnya keluargamu bersama kami?, " Ali menjawab; saya bertalbiyah dengan talbiyah Rasulullah Shallallahu'alaihi wasallam, maka Rasulullah Shallallahu'alaihi wasallam bersabda: 'Tenanglah, kami membawa hewan kurban
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Bisyr bin Al Mufadldlal] dari [Humaid Ath Thawil] Telah menceritakan kepada kami [Bakr] bahwasanya dia berkata kepada [Ibnu 'Umar] bahwa Anas pernah menceritakan kepada mereka mengenai talbiyah Rasulullah shallallahu 'alaihi wasallam dengan umrah dan haji. Anas berkata; Nabi shallallahu 'alaihi wasallam bertalbiyah dengan haji, dan kami pun bertalbiyah bersama beliau. Tatkala kami sampai di Makkah, beliau bersabda; 'Barangsiapa diantara kalian yang tidak memiliki hewan kurban maka niatkanlah untuk umrah.' Sedangkan pada waktu itu Rasulullah memiliki hewan kurban. Tiba-tiba Ali bin Abi Thalib kembali dari Yaman, lalu Nabi Shallallahu'alaihi wasallam bertanya kepadanya: "Dengan apa kamu bertalbiyah sesungguhnya keluargamu bersama kami?, " Ali menjawab; saya bertalbiyah dengan talbiyah Rasulullah Shallallahu'alaihi wasallam, maka Rasulullah Shallallahu'alaihi wasallam bersabda: 'Tenanglah, kami membawa hewan kurban
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Анаса, что Пророк ﷺ вошёл в состояние ихрама с намерением совершить умру и хадж. Он сказал: «Пророк ﷺ вошёл в состояние ихрама с намерением совершить хадж, и мы поступили так же. Когда мы прибыли в Мекку, он сказал: “Пусть тот, кто не пригнал с собой жертвенный скот, сделает намерение на совершение умры”. Пророк же ﷺ пригнал с собой жертвенный скот. Когда ’Али ибн Аби Талиб прибыл из Йемена с намерением совершить хадж, Пророк ﷺ спросил его: “С каким намерением ты вошёл в состояние ихрама, ведь твоя жена с нами?” Он ответил: “С тем же, что и Пророк ﷺ”. Тогда он сказал: “Тогда оставайся в состоянии ихрама, ведь мы пригнали жертвенный скот”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஹஜ்ஜுக்காகவும் உம்ராவுக்காகவும் (சேர்த்து ஒரே) இஹ்ராம் கட்டினார்கள். நபி (ஸல்) அவர்கள் ஹஜ்ஜை எண்ணியபோது நாங்களும் அவர்களுடன் ஹஜ்ஜையே எண்ணினோம். நாங்கள் மக்காவுக்கு வந்தபோது நபி (ஸல்) அவர்கள், “எவருடன் குர்பானி பிராணி இல்லையோ அவர் தமது ஹஜ்ஜை உம்ராவாக ஆக்கி (நிய்யத் செய்து ஹஜ்ஜைப் பிறகு செய்து) கொள்ளட்டும்” என்று சொன்னார்கள். நபி (ஸல்) அவர்களுடன் குர்பானி பிராணி இருந்தது. அப்போது எங்களிடம் அலீ பின் அபீதாலிப் (ரலி) அவர்கள் ஹஜ் செய்ய நாடியவராக யமனிலிருந்து வர, நபி (ஸல்) அவர்கள், “எதற்காக இஹ்ராம் கட்டினீர்கள்? ஏனெனில், உங்கள் மனைவி(யும் என் மகளுமான ஃபாத்திமா) நம்முடன்தான் இருக்கிறார்” என்று கேட்டார்கள். அலீ (ரலி) அவர்கள், “நபி (ஸல்) அவர்கள் எதற்காக இஹ்ராம் கட்டினார்களோ அதற்காகவே நானும் இஹ்ராம் கட்டியுள்ளேன்” என்று பதிலளித்தார்கள். நபி (ஸல்) அவர்கள், “உங்கள் இஹ்ராமிலேயே நீடித்திருங்கள். ஏனெனில், நம்முடன் குர்பானி பிராணி உள்ளது” என்று சொன்னார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Humeyd et-Tavil'den bize Bekr'in anlattığına göre o "İbn Ömer'e şunu nakletmiş: Enes'in kendilerine anlattığına göre Nebi Sallallahu Aleyhi ve Sellem bir umre ve bir hac yapmak üzere ihrama girdi. (Enes) dedi ki: Nebi Sallallahu Aleyhi ve Sellem (önce) hac için ihrama girdi, biz de onunla beraber ihrama girdik. Mekke'ye varınca şöyle buyurdu: Beraberinde hediy(elik) kurbanı bulunmayan kimse bunu (ihramını) umre olarak eda etsin. Nebi Sallallahu Aleyhi ve Sellem ile birlikte hediy(elik kurban) bulunuyor idi. Bu sırada Ali b. Ebi Talib yanımıza -Yemen'den hac için ihrama girmiş olarak- geldi. Nebi Sallallahu Aleyhi ve Sellem: Ne diye ihrama girdin? Çünkü senin ehlin (zevcen Fatıma aleyhesselam) bizimle beraber bulunuyor, dedi. Ali: Nebi Sallallahu Aleyhi ve Sellem ne diye ihrama girmiş idiyse ben de aynı şekilde ihrama girdim (dedim) diye cevap verince, Allah Resuıü: Bu halin üzere devam et. Çünkü bizimle beraber hediy(elik kurban) bulunmaktadır, diye buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4353</td></tr><tr><td>Arabic No</td><td>4353</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4353 |
+| Arabic No | 4353 |
+| Reference | Book 0 Hadith 0 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامِ بْنِ سَعْدٍ، قَالَ حَدَّثَنِي يَزِيدُ بْنُ نُعَيْمِ بْنِ هَزَّالٍ، عَنْ أَبِيهِ، قَالَ كَانَ مَاعِزُ بْنُ مَالِكٍ يَتِيمًا فِي حِجْرِ أَبِي ‏.‏ فَأَصَابَ جَارِيَةً مِنَ الْحَىِّ فَقَالَ لَهُ أَبِي ائْتِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَخْبِرْهُ بِمَا صَنَعْتَ لَعَلَّهُ يَسْتَغْفِرُ لَكَ وَإِنَّمَا يُرِيدُ بِذَلِكَ رَجَاءَ أَنْ يَكُونَ لَهُ مَخْرَجًا فَأَتَاهُ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي زَنَيْتُ فَأَقِمْ عَلَىَّ كِتَابَ اللَّهِ ‏.‏ فَأَعْرَضَ عَنْهُ فَعَادَ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي زَنَيْتُ فَأَقِمْ عَلَىَّ كِتَابَ اللَّهِ ‏.‏ حَتَّى قَالَهَا أَرْبَعَ مِرَارٍ ‏.‏ قَالَ صلى الله عليه وسلم ‏"‏ إِنَّكَ قَدْ قُلْتَهَا أَرْبَعَ مَرَّاتٍ فَبِمَنْ ‏"‏ ‏.‏ قَالَ بِفُلاَنَةَ ‏.‏ قَالَ ‏"‏ هَلْ ضَاجَعْتَهَا ‏"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏"‏ هَلْ بَاشَرْتَهَا ‏"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏"‏ هَلْ جَامَعْتَهَا ‏"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ فَأَمَرَ بِهِ أَنْ يُرْجَمَ فَأُخْرِجَ بِهِ إِلَى الْحَرَّةِ ‏.‏ فَلَمَّا رُجِمَ فَوَجَدَ مَسَّ الْحِجَارَةِ جَزِعَ فَخَرَجَ يَشْتَدُّ فَلَقِيَهُ عَبْدُ اللَّهِ بْنُ أُنَيْسٍ وَقَدْ عَجَزَ أَصْحَابُهُ فَنَزَعَ لَهُ بِوَظِيفِ بَعِيرٍ فَرَمَاهُ بِهِ فَقَتَلَهُ ثُمَّ أَتَى النَّبِيَّ صلى الله عليه وسلم فَذَكَرَ ذَلِكَ لَهُ فَقَالَ ‏"‏ هَلاَّ تَرَكْتُمُوهُ لَعَلَّهُ أَنْ يَتُوبَ فَيَتُوبَ اللَّهُ عَلَيْهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
+
 حدثنا محمد بن سليمان الانباري، حدثنا وكيع، عن هشام بن سعد، قال حدثني يزيد بن نعيم بن هزال، عن ابيه، قال كان ماعز بن مالك يتيما في حجر ابي . فاصاب جارية من الحى فقال له ابي ايت رسول الله صلى الله عليه وسلم فاخبره بما صنعت لعله يستغفر لك وانما يريد بذلك رجاء ان يكون له مخرجا فاتاه فقال يا رسول الله اني زنيت فاقم على كتاب الله . فاعرض عنه فعاد فقال يا رسول الله اني زنيت فاقم على كتاب الله . حتى قالها اربع مرار . قال صلى الله عليه وسلم " انك قد قلتها اربع مرات فبمن " . قال بفلانة . قال " هل ضاجعتها " . قال نعم . قال " هل باشرتها " . قال نعم . قال " هل جامعتها " . قال نعم . قال فامر به ان يرجم فاخرج به الى الحرة . فلما رجم فوجد مس الحجارة جزع فخرج يشتد فلقيه عبد الله بن انيس وقد عجز اصحابه فنزع له بوظيف بعير فرماه به فقتله ثم اتى النبي صلى الله عليه وسلم فذكر ذلك له فقال " هلا تركتموه لعله ان يتوب فيتوب الله عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
 
 ## Bengali
 
+। ইয়াযীদ ইবনু সু‘আইম ইবনু হায্‌যাল (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, মাঈয ইবনু মালিক ইয়াতিম ছিলো। সে আমার পিতার তত্ত্বাবধানে ছিলো। সে এক গোত্রের জনৈক বাঁদীর সঙ্গে সঙ্গম করে। আমার পিতা তাকে বলেন, তুমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট যাও এবং তাঁকে তোমার কৃতকর্মের ব্যাপারে জানাও। তিনি হয় তো তোমার জন্য ক্ষমা চাইবেন। বস্তুতঃ এর দ্বারা তিনি তার অপরাধ থেকে মুক্তির সন্ধানই চেয়েছেন। বর্ণনাকারী বলেন, অতঃপর সে তাঁর নিকট এসে বললো, হে আল্লাহর রাসূল! আমি তো যেনা করেছি; সুতরাং আমার উপর আল্লাহর নির্ধারিত শাস্তি বাস্তবায়িত করুন। তিনি তার থেকে মুখ ফিরিয়ে নিলেন। সে পুনরায় বললো, হে আল্লাহর রাসূল! আমি তো যেনা করেছি; আমার উপর আল্লাহর কিতাব বাস্তবায়িত করুন। তিনি তার থেকে মুখ ফিরিয়ে নিলেন। সে আবারো বললো, হে আল্লাহর রাসূল! আমি তো যেনা করেছি; আমার উপর আল্লাহর কিতাব বাস্তবায়িত করুন। একথা সে চারবার বলার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি তো চারবার একথা বললেন, তা কার সঙ্গে? সে বললো, অমুক নারীর সঙ্গে। তিনি প্রশ্ন করলেনঃ তুমি কি তার সঙ্গে শুয়েছ? সে বললো, হ্যাঁ। তিনি আবারো প্রশ্ন করলেনঃ তুমি কি তার শরীরে শরীর মিশিয়েছ? সে বললো, হ্যাঁ। তিনি পুনরায় প্রশ্ন করলেনঃ তুমি কি তার সঙ্গে সঙ্গম করেছো? সে বললো, হ্যাঁ। বর্ণনাকারী বলেন, অতঃপর তাকে আল-হাররা এলাকায় নিয়ে যাওয়া হলো। যখন তাকে পাথর মারা শুরু হলো, সে আঘাতের চোটে আতঙ্কিত হলো এবং দ্রুত দৌঁড়াতে লাগলো। আব্দুল্লাহ ইবনু উনাইস (রাঃ) এমতাবস্থায় তার সাক্ষাৎ পেলেন যে, তাকে পাথর মারার জন্য নিয়োজিত ব্যক্তিগণ তাকে ধরতে অপারগ হলো। তিনি উটের সামনের পায়ের হাড় তুলে তার দিকে নিক্ষেপ করেন এবং তাতে সে নিহত হয়। অতঃপর তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে এ ঘটনা ব্যক্ত করেন। তিনি বললেনঃ তোমরা তাকে ছেড়ে দিলে না কেন? সে হয় তো তওবা করতো, আর আল্লাহ তার তওবা কবূল করতেন।\[1\] সহীহঃ এ কথাটি বাদেঃ (... لعله أن)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইয়াযীদ ইবনু সু‘আইম ইবনু হায্‌যাল (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, মাঈয ইবনু মালিক ইয়াতিম ছিলো। সে আমার পিতার তত্ত্বাবধানে ছিলো। সে এক গোত্রের জনৈক বাঁদীর সঙ্গে সঙ্গম করে। আমার পিতা তাকে বলেন, তুমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট যাও এবং তাঁকে তোমার কৃতকর্মের ব্যাপারে জানাও। তিনি হয় তো তোমার জন্য ক্ষমা চাইবেন। বস্তুতঃ এর দ্বারা তিনি তার অপরাধ থেকে মুক্তির সন্ধানই চেয়েছেন। বর্ণনাকারী বলেন, অতঃপর সে তাঁর নিকট এসে বললো, হে আল্লাহর রাসূল! আমি তো যেনা করেছি; সুতরাং আমার উপর আল্লাহর নির্ধারিত শাস্তি বাস্তবায়িত করুন। তিনি তার থেকে মুখ ফিরিয়ে নিলেন। সে পুনরায় বললো, হে আল্লাহর রাসূল! আমি তো যেনা করেছি; আমার উপর আল্লাহর কিতাব বাস্তবায়িত করুন। তিনি তার থেকে মুখ ফিরিয়ে নিলেন। সে আবারো বললো, হে আল্লাহর রাসূল! আমি তো যেনা করেছি; আমার উপর আল্লাহর কিতাব বাস্তবায়িত করুন। একথা সে চারবার বলার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি তো চারবার একথা বললেন, তা কার সঙ্গে? সে বললো, অমুক নারীর সঙ্গে। তিনি প্রশ্ন করলেনঃ তুমি কি তার সঙ্গে শুয়েছ? সে বললো, হ্যাঁ। তিনি আবারো প্রশ্ন করলেনঃ তুমি কি তার শরীরে শরীর মিশিয়েছ? সে বললো, হ্যাঁ। তিনি পুনরায় প্রশ্ন করলেনঃ তুমি কি তার সঙ্গে সঙ্গম করেছো? সে বললো, হ্যাঁ। বর্ণনাকারী বলেন, অতঃপর তাকে আল-হাররা এলাকায় নিয়ে যাওয়া হলো। যখন তাকে পাথর মারা শুরু হলো, সে আঘাতের চোটে আতঙ্কিত হলো এবং দ্রুত দৌঁড়াতে লাগলো। আব্দুল্লাহ ইবনু উনাইস (রাঃ) এমতাবস্থায় তার সাক্ষাৎ পেলেন যে, তাকে পাথর মারার জন্য নিয়োজিত ব্যক্তিগণ তাকে ধরতে অপারগ হলো। তিনি উটের সামনের পায়ের হাড় তুলে তার দিকে নিক্ষেপ করেন এবং তাতে সে নিহত হয়। অতঃপর তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে এ ঘটনা ব্যক্ত করেন। তিনি বললেনঃ তোমরা তাকে ছেড়ে দিলে না কেন? সে হয় তো তওবা করতো, আর আল্লাহ তার তওবা কবূল করতেন।[1] সহীহঃ এ কথাটি বাদেঃ (... لعله أن)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Nu'aym ibn Huzzal: Yazid ibn Nu'aym ibn Huzzal, on his father's authority said: Ma'iz ibn Malik was an orphan under the protection of my father. He had illegal sexual intercourse with a slave-girl belonging to a clan. My father said to him: Go to the Messenger of Allah (ﷺ) and inform him of what you have done, for he may perhaps ask Allah for your forgiveness. His purpose in that was simply a hope that it might be a way of escape for him. So he went to him and said: Messenger of Allah! I have committed fornication, so inflict on me the punishment ordained by Allah. He (the Prophet) turned away from him, so he came back and said: Messenger of Allah! I have committed fornication, so inflict on me the punishment ordained by Allah. He (again) turned away from him, so he came back and said: Messenger of Allah! I have committed fornication, so inflict on me the punishment ordained by Allah. When he uttered it four times, the Messenger of Allah (ﷺ) said: You have said it four times. With whom did you commit it? He replied: With so and so. He asked: Did you lie down with her? He replied: Yes. He asked: Had your skin been in contact with hers? He replied. Yes. He asked: Did you have intercourse with her? He said: Yes. So he (the Prophet) gave orders that he should be stoned to death. He was then taken out to the Harrah, and while he was being stoned he felt the effect of the stones and could not bear it and fled. But Abdullah ibn Unays encountered him when those who had been stoning him could not catch up with him. He threw the bone of a camel's foreleg at him, which hit him and killed him. They then went to the Prophet (ﷺ) and reported it to him. He said: Why did you not leave him alone. Perhaps he might have repented and been forgiven by Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
+
+## French
+
+Rapporté par Nu’aym ibn Huzzal رضي الله عنه : Yazid ibn Nu’aym ibn Huzzal, d’après son père, a dit : Ma’iz ibn Malik était orphelin sous la protection de mon père. Il a eu des rapports illicites avec une esclave appartenant à un clan. Mon père lui dit : « Va voir le Messager d’Allah ﷺ et informe-le de ce que tu as fait, peut-être qu’il demandera à Allah de te pardonner. » Son intention était simplement d’espérer qu’il trouve ainsi une issue. Il alla donc le voir et dit : « Messager d’Allah ! J’ai commis la fornication, applique-moi la peine prescrite par Allah. » Le Prophète ﷺ se détourna de lui, alors il revint et dit : « Messager d’Allah ! J’ai commis la fornication, applique-moi la peine prescrite par Allah. » Il se détourna encore, puis il revint et dit : « Messager d’Allah ! J’ai commis la fornication, applique-moi la peine prescrite par Allah. » Lorsqu’il l’eut dit quatre fois, le Messager d’Allah ﷺ dit : « Tu l’as dit quatre fois. Avec qui l’as-tu fait ? » Il répondit : « Avec untelle. » Il demanda : « T’es-tu allongé avec elle ? » Il répondit : « Oui. » Il demanda : « Ta peau a-t-elle touché la sienne ? » Il répondit : « Oui. » Il demanda : « As-tu eu un rapport avec elle ? » Il répondit : « Oui. » Alors le Prophète ﷺ ordonna qu’il soit lapidé à mort. Il fut emmené au Harrah, et pendant qu’il était lapidé, il sentit la douleur des pierres, ne put la supporter et s’enfuit. Mais Abdullah ibn Unays le rattrapa alors que ceux qui le lapidaient ne pouvaient pas le rattraper. Il lui lança un os d’épaule de chameau, qui le frappa et le tua. Ils allèrent ensuite voir le Prophète ﷺ et le lui rapportèrent. Il dit : « Pourquoi ne l’avez-vous pas laissé ? Peut-être aurait-il pu se repentir et être pardonné par Allah. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Sulaiman Al Anbari\] berkata, telah menceritakan kepada kami \[Waki'\] dari \[Hisyam bin Sa'd\] ia berkata; telah menceritakan kepadaku \[Yazid bin Nu'aim bin Hazzal\] dari \[Bapaknya\] ia berkata, "Ma'iz bin Malik adalah seorang anak yatim yang diasuh oleh bapakku. Dan ia pernah berzina dengan seorang budak wanita dari suatu kampung. Bapakku lalu berkata kepadanya, "Datanglah kepada Rasulullah shallallahu 'alaihi wasallam, kabarkan kepada beliau dengan apa yang telah engkau lakukan, semoga saja beliau mau memintakan ampun untukmu." Hanyasanya ayahku menginginkan hal itu agar Maiz mendapatkan jalan keluar, lalu ia bergegas menemui Rasulullah. Ma'iz lantas berkata, "Wahai Rasulullah, aku telah berzina, maka laksanakanlah hukum Kitabullah terhadapku!" Beliau berpaling darinya. Maka Ma'iz mengulangi lagi, "Wahai Rasulullah, aku telah berzina, maka laksanakanlah hukum Kitabullah terhadapku!" Beliau berpaling. Ma'iz mengulanginya lagi, "Wahai Rasulullah, aku telah berzina, maka laksanakanlah hukum Kitabullah terhadapku!" Ia ulangi hal itu hingga empat kali. Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Engkau telah mengatakannya hingga empat kali, lalu dengan siapa kamu melakukannya?" Ma'iz menjawab, "Dengan Fulanah." Beliau bertanya lagi: "Apakah menidurinya?" Ma'iz menjawab, "Ya." beliau bertanya lagi: "Apakah kamu menyentuhnya?" Ma'iz menjawab, "Ya." beliau bertanya lagi: "Apakah kamu menyetubuhinya?" Ma'iz menjawab, "Ya." Akhirnya Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk merajamnya. Ma'iz lantas dibawa ke padang pasir, maka ketika ia sedang dirajam dan mulai merasakan sakitnya terkena lemparan batu, ia tidak tahan dan lari dengan kencang. Namun ia bertemu dengan Abdullah bin Unais, orang-orang yang merajam Ma'iz sudah tidak sanggup lagi (lelah), maka Abdullah mendorongnya dengan tulang unta, ia melempari Ma'iz dengan tulang tersebut hingga tewas. Kemudian Abdullah menemui Nabi shallallahu 'alaihi wasallam dan menyebutkan kejadian tersebut, beliau bersabda: "Kenapa kalian tidak membiarkannya, siapa tahu ia bertaubat dan Allah menerima taubatnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] berkata, telah menceritakan kepada kami [Waki'] dari [Hisyam bin Sa'd] ia berkata; telah menceritakan kepadaku [Yazid bin Nu'aim bin Hazzal] dari [Bapaknya] ia berkata, "Ma'iz bin Malik adalah seorang anak yatim yang diasuh oleh bapakku. Dan ia pernah berzina dengan seorang budak wanita dari suatu kampung. Bapakku lalu berkata kepadanya, "Datanglah kepada Rasulullah shallallahu 'alaihi wasallam, kabarkan kepada beliau dengan apa yang telah engkau lakukan, semoga saja beliau mau memintakan ampun untukmu." Hanyasanya ayahku menginginkan hal itu agar Maiz mendapatkan jalan keluar, lalu ia bergegas menemui Rasulullah. Ma'iz lantas berkata, "Wahai Rasulullah, aku telah berzina, maka laksanakanlah hukum Kitabullah terhadapku!" Beliau berpaling darinya. Maka Ma'iz mengulangi lagi, "Wahai Rasulullah, aku telah berzina, maka laksanakanlah hukum Kitabullah terhadapku!" Beliau berpaling. Ma'iz mengulanginya lagi, "Wahai Rasulullah, aku telah berzina, maka laksanakanlah hukum Kitabullah terhadapku!" Ia ulangi hal itu hingga empat kali. Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Engkau telah mengatakannya hingga empat kali, lalu dengan siapa kamu melakukannya?" Ma'iz menjawab, "Dengan Fulanah." Beliau bertanya lagi: "Apakah menidurinya?" Ma'iz menjawab, "Ya." beliau bertanya lagi: "Apakah kamu menyentuhnya?" Ma'iz menjawab, "Ya." beliau bertanya lagi: "Apakah kamu menyetubuhinya?" Ma'iz menjawab, "Ya." Akhirnya Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk merajamnya. Ma'iz lantas dibawa ke padang pasir, maka ketika ia sedang dirajam dan mulai merasakan sakitnya terkena lemparan batu, ia tidak tahan dan lari dengan kencang. Namun ia bertemu dengan Abdullah bin Unais, orang-orang yang merajam Ma'iz sudah tidak sanggup lagi (lelah), maka Abdullah mendorongnya dengan tulang unta, ia melempari Ma'iz dengan tulang tersebut hingga tewas. Kemudian Abdullah menemui Nabi shallallahu 'alaihi wasallam dan menyebutkan kejadian tersebut, beliau bersabda: "Kenapa kalian tidak membiarkannya, siapa tahu ia bertaubat dan Allah menerima taubatnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Язид ибн Ну‘айм ибн Хаззаль передаёт от своего отца: «Ма‘из ибн Малик был сиротой, и мой отец заботился о нём и воспитывал его. И однажды он совершил прелюбодеяние с одной рабыней из нашего квартала. Мой отец сказал: “Иди к Посланнику Аллаха ﷺ и расскажи ему о том, что ты сделал. Может, он попросит для тебя прощения”. Он надеялся, что для него найдётся выход из положения. И он пришёл (к Посланнику Аллаха ﷺ) и сказал: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние. Сделай же со мной то, что велит Книга Аллаха”. Однако (Посланник Аллаха ﷺ) отвернулся от него. Тогда он снова сказал ему: “О Посланник Аллаха! Поистине, я совершил прелюбодеяние. Сделай же со мной то, что велит Книга Аллаха”. Однако Посланник Аллаха ﷺ опять отвернулся от него. И только когда он повторил свои слова в четвёртый раз, Посланник Аллаха ﷺ сказал: “Ты повторил это четыре раза… С кем же ты совершил прелюбодеяние?” Он ответил: “С такой-то”. (Посланник Аллаха ﷺ) спросил: “Ты спал с ней?” Он ответил: “Да”. (Посланник Аллаха ﷺ) спросил: “Ты прикасался к ней?” Он сказал: “Да”. (Посланник Аллаха ﷺ) спросил: “Ты совершал с ней половое сношение?” Он ответил: “Да”. Тогда (Посланник Аллаха ﷺ) велел побить его камнями. Его вывели на пустырь, но, когда в него полетели камни, он испугался и бросился бежать. ‘Абдуллах ибн Унайс, повстречавший его после того, как остальные не могли догнать его, ударил его верблюжьей костью и убил его, а потом пришёл к Пророку ﷺ и рассказал ему обо всём. Пророк ﷺ сказал: “Почему же вы не оставили его в покое? Может, он раскаялся бы и Аллах принял бы его покаяние!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nuaym b. Hezzâl, babasını (Hezzâl)'ın, şöyle dediğini rivayet etmiştir: Mâ'iz b. Mâlik babamın yanında kalan bir yetimdi. Mahalleden bir Cariyeyle cinsî ilişki kurdu. Babam kendisine: "Rasulullah (s.a.v.)'e git, yaptığını haber ver. Belki senin için (Allah'tan) bağış diler" dedi. Bunu, Mâiz için bir çıkış yolu bulunur umuduyla istemişti. Mâiz, Râsûlullah'a gelip: "Yâ Rasulullah! ben zina ettim. Bana Allah'ın Kitabını (n hükmünü) uygula" dedi. Rasulullah ondan yüz çevirdi. Mâiz dönüp tekrar; " Yâ Rasulullah! Ben zina ettim. Bana Allah'ın kitabını (n hükmünü) uygula" dedi. Rasulullah yine ondan yüz çevirdi. Ama Mâiz tekrar dönüp: "Yâ Rasûlullah ! Ben zina ettim. Bana Allah'ın Kitabını uygula dedi." Nihayet bunu dört kez söyleyince, Rasulullah (s.a.v.): "Sen bunu dört kez söyledin. Kiminle zina ettin?" dedi. Mâiz: " Falan kadınla" Onunla birlikte yattın mı? -Evet Derin onun derisine değdi mi? -Evet Onunla cinsel ilişkide bulundun mu? -Evet Bunun üzerine Rasulullah (s.a.v.) recmedilmesini emretti. Mâiz, Harre'ye götürüldü. Recmedilip de (recmedilmeye başlanıp da) taşın acısını hissedince sabredemedi, (recmedildiği yerden) çıkıp kaçtı. Arkadaşları yetişemediği halde Abdulah b. Üneys yetişip, bir deve inciği aldı ona atıp Öldürdü. Sonra Rasulullah (s.a.v.)'e geldi ve bunu kendisine haber verdi. Rasulullah (s.a.v.): "Keşke bıraksaydınız. Belki tevbe ederdi de, Allah tevbesini kabul ederdi" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نعیم بن ہزال بن یزید اسلمی رضی اللہ عنہما کہتے ہیں کہ میرے والد کی گود میں ماعز بن مالک یتیم تھے محلہ کی ایک لڑکی سے انہوں نے زنا کیا، ان سے میرے والد نے کہا: جاؤ جو تم نے کیا ہے رسول اللہ صلی اللہ علیہ وسلم کو بتا دو، ہو سکتا ہے وہ تمہارے لیے اللہ سے مغفرت کی دعا کریں، اس سے وہ یہ چاہتے تھے کہ ان کے لیے کوئی سبیل نکلے چنانچہ وہ آپ کے پاس آئے اور انہوں نے عرض کیا: اللہ کے رسول! میں نے زنا کر لیا ہے مجھ پر اللہ کی کتاب کو قائم کیجئے، آپ صلی اللہ علیہ وسلم نے ان سے اپنا چہرہ پھیر لیا، پھر وہ دوبارہ آئے اور انہوں نے عرض کیا: اللہ کے رسول! میں نے زنا کر لیا ہے، مجھ پر اللہ کی کتاب کو قائم کیجئے، یہاں تک کہ ایسے ہی چار بار انہوں نے کہا تو رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا: تم چار بار کہہ چکے کہ میں نے زنا کر لیا ہے تو یہ بتاؤ کہ کس سے کیا ہے؟ انہوں نے کہا: فلاں عورت سے، آپ صلی اللہ علیہ وسلم نے فرمایا: کیا تم اس کے ساتھ سوئے تھے؟ ماعز نے کہا: ہاں، آپ صلی اللہ علیہ وسلم نے پوچھا: کیا تم اس سے چمٹے تھے؟ انہوں نے کہا: ہاں، پھر آپ صلی اللہ علیہ وسلم نے پوچھا: کیا تم نے اس سے جماع کیا تھا؟ انہوں نے کہا: ہاں، تو آپ صلی اللہ علیہ وسلم نے انہیں رجم ( سنگسار ) کئے جانے کا حکم دیا، انہیں حرہ ۱؎ میں لے جایا گیا، جب لوگ انہیں پتھر مارنے لگے تو وہ پتھروں کی اذیت سے گھبرا کے بھاگے، تو وہ عبداللہ بن انیس کے سامنے آ گئے، ان کے ساتھی تھک چکے تھے، تو انہوں نے اونٹ کا کھر نکال کر انہیں مارا تو انہیں مار ہی ڈالا، پھر نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے، اور ان سے اسے بیان کیا، تو آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے اسے چھوڑ کیوں نہیں دیا ۲؎، شاید وہ توبہ کرتا اور اللہ اس کی توبہ قبول کر لیتا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4419</td></tr><tr><td>Arabic No</td><td>4419</td></tr><tr><td>Reference</td><td>Book 40 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4419 |
+| Arabic No | 4419 |
+| Reference | Book 40 Hadith 69 |

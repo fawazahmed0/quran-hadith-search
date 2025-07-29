@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُتَوَكِّلِ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَخْبَرَنِي مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي ابْنُ كَعْبِ بْنِ مَالِكٍ، قَالَ ‏:‏ كَانَ أَبُو لُبَابَةَ، فَذَكَرَ مَعْنَاهُ وَالْقِصَّةُ لأَبِي لُبَابَةَ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ رَوَاهُ يُونُسُ عَنِ ابْنِ شِهَابٍ عَنْ بَعْضِ بَنِي السَّائِبِ بْنِ أَبِي لُبَابَةَ، وَرَوَاهُ الزُّبَيْدِيُّ عَنِ الزُّهْرِيِّ عَنْ حُسَيْنِ بْنِ السَّائِبِ بْنِ أَبِي لُبَابَةَ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
+
 حدثنا محمد بن المتوكل، حدثنا عبد الرزاق، قال اخبرني معمر، عن الزهري، قال اخبرني ابن كعب بن مالك، قال : كان ابو لبابة، فذكر معناه والقصة لابي لبابة . قال ابو داود : رواه يونس عن ابن شهاب عن بعض بني السايب بن ابي لبابة، ورواه الزبيدي عن الزهري عن حسين بن السايب بن ابي لبابة مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু কা‘ব ইবনু মালিক (রাঃ) বলেন, আবূ লূবাবাহ (রাঃ) ছিলেন ... অতঃপর পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণিত। ঘটনাটি আবূ লুবাবাহ (রাঃ) সংশ্লিষ্ট। আবূ দাঊদ (রহঃ) বলেন, ইউনুস ইবনু শিহাব থেকে তিনি বনু সায়িব ইবনু আবূ লুবাবাহ থেকে বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This tradition has also been transmitted by Ibn Ka'b b. Malik through a different chain of narrators. This version has:"He then mentioned the tradition to the same effect. This versions attributes this story to Abu Lubabah." Abu Dawud said: This tradition has been narrated by Yunus from Ibn Shihab from some of the children of al-Sa'ib son of Abu Lubabah. A similar tradition has also been transmitted by al-Zabidi from al-Zuhri from Husain b. al-Sa'ib son of Abu Lubabah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
+
+## French
+
+Cette tradition a aussi été rapportée par Ibn Ka‘b b. Malik par une autre chaîne de transmetteurs. Cette version dit : Il a ensuite rapporté la tradition dans le même sens. Cette version attribue cette histoire à Abu Lubabah. Abu Dawud a dit : Cette tradition a été rapportée par Yunus, de Ibn Shihab, de certains enfants d’al-Sa‘ib fils d’Abu Lubabah. Une tradition similaire a aussi été transmise par al-Zabidi, de al-Zuhri, de Husain b. al-Sa‘ib fils d’Abu Lubabah
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Амр ибн Шу‘айб передаёт от своего отца рассказ своего деда о том, что Посланник Аллаха ﷺ сказал: «Не может быть обета, кроме как в том, что делается из стремления к Лику Аллаха, и не может быть клятвы, предполагающей разрыв родственных связей»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ma'mer, Zührî'den; Kâ'b b. Mâlik'in oğlunun şöyle deliğini nakleder: Ebû Lübâbe... Ravi önceki rivayeti ma'na olarak zikretti. Hâdise Ebû Lübâbe'ye aittir. Ebû Dâvûd dedi ki: Bu hadisi, Yunus, İbn Şihâb'dan, o da Sâib b. Ebî Lübâbe oğulırının birinden rivayet etti. Zebîdî de, Zührî vasıtasıyla Hüseyn b. Sâib b. Ebî Lübâbe'den ir benzerini rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زہری کہتے ہیں: مجھے ابن کعب بن مالک نے خبر دی ہے، وہ کہتے ہیں کہ یہ ابولبابہ رضی اللہ عنہ تھے پھر انہوں نے اسی مفہوم کی حدیث ذکر کی اور واقعہ ابولبابہ کا ہے۔ ابوداؤد کہتے ہیں: اسے یونس نے ابن شہاب سے اور ابن شہاب نے سائب بن ابولبابہ کے بیٹوں میں سے کسی سے روایت کیا ہے نیز اسے زبیدی نے زہری سے، زہری نے حسین بن سائب بن ابی لبابہ سے اسی کے مثل روایت کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3320</td></tr><tr><td>Arabic No</td><td>3320</td></tr><tr><td>Reference</td><td>Book 22 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3320 |
+| Arabic No | 3320 |
+| Reference | Book 22 Hadith 79 |

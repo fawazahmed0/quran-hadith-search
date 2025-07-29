@@ -18,78 +18,82 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## French
 
+Rapporté par Ubadah ibn Walid ibn Samit رضي الله عنه : J’étais parti avec mon père chercher le savoir auprès d’une tribu des Ansar avant la mort des Compagnons. J’ai d’abord rencontré Abu Yasar, un Compagnon du Messager d’Allah ﷺ, accompagné d’un jeune homme qui portait des lettres et portait un manteau de Ma’afiri. Son serviteur aussi avait un manteau de Ma’afiri. Mon père lui dit : « Mon oncle, je vois sur ton visage des signes de colère ou de peine. » Il répondit : « Oui, un homme de la tribu de Harami me devait de l’argent. Je suis allé voir sa famille, j’ai salué et demandé où il était. Ils ont dit qu’il n’était pas là. Son fils, encore jeune, est sorti et je lui ai demandé où était son père. Il m’a dit : “Dès qu’il t’a entendu, il s’est caché derrière le lit de ma mère.” Je lui ai dit : “Viens, je sais où tu es.” Il est sorti. Je lui ai demandé pourquoi il s’était caché. Il a répondu : “Par Allah, je ne te mentirai pas. J’ai peur de te mentir ou de ne pas tenir parole, car tu es un Compagnon du Messager d’Allah ﷺ. En réalité, je traverse des difficultés financières.” Je lui ai demandé, à plusieurs reprises, de jurer par Allah, ce qu’il a fait. Puis il a apporté la reconnaissance de dette et l’a annulée de sa main, en disant : “Rembourse-moi quand tu pourras ; sinon, tu n’as plus de dette envers moi.” Abu Yasar a mis ses doigts sur ses yeux et son cœur, et a dit : « Le Messager d’Allah ﷺ a dit : “Celui qui accorde un délai à un débiteur en difficulté, ou qui annule sa dette, Allah le mettra sous Son ombre.” » Je lui ai dit : « Mon oncle, si tu prends le manteau de ton serviteur et lui donnes tes deux vêtements, ou si tu prends ses deux vêtements de Ma’afir et lui donnes ton manteau, il y aurait un habit pour chacun. » Il m’a caressé la tête et a dit : « Ô Allah, bénis le fils de mon frère. Ô fils de mon frère, mes yeux ont vu, mes oreilles ont entendu et mon cœur a retenu que le Messager d’Allah ﷺ a dit : “Nourrissez vos serviteurs et habillez-les comme vous vous habillez. Donner des biens de ce monde est plus facile pour moi que de devoir leur donner mes bonnes actions au Jour de la Résurrection.” » Nous sommes ensuite allés voir Jabir ibn Abdullah à la mosquée. Il priait avec un seul vêtement, alors que son manteau était à côté de lui. Je me suis assis entre lui et la Qibla et j’ai dit : « Qu’Allah te fasse miséricorde. Tu pries avec un seul vêtement alors que ton manteau est là ? » Il m’a fait un signe de la main sur la poitrine, puis a dit : « Je pensais qu’un homme comme toi viendrait me voir pour faire comme moi. Le Messager d’Allah ﷺ est venu dans cette mosquée avec une branche de palmier, a vu de la salive vers la Qibla et l’a effacée avec la branche. Puis il a dit : “Qui parmi vous veut qu’Allah détourne Son visage de lui ?” Nous avons eu peur. Il l’a répété trois fois. Nous avons dit : “Personne, ô Messager d’Allah.” Il a dit : “Quand l’un de vous prie, Allah est devant lui : qu’il ne crache pas devant lui ni à sa droite, mais à sa gauche, sous son pied gauche. Et s’il ne peut pas faire autrement, qu’il crache dans son vêtement et le replie.” Il a aussi dit : “Apportez quelque chose qui sente bon.” Un jeune de notre tribu a apporté du parfum, le Prophète ﷺ l’a mis au bout de la branche et a touché l’endroit où il y avait la salive. Jabir a dit : “C’est pour cela qu’il faut parfumer vos mosquées.” » Il a aussi rapporté : « Nous sommes partis avec le Messager d’Allah ﷺ pour l’expédition de Batn Buwat, à la recherche d’al-Majdi ibn Amr al-Juhani. Nous étions si peu équipés que cinq, six ou sept d’entre nous partageaient un seul chameau. Un Ansari devait monter, il a fait agenouiller le chameau, mais celui-ci ne voulait pas se relever. Il a dit : “Qu’Allah te maudisse !” Le Messager d’Allah ﷺ a dit : “Qui a maudit son chameau ?” Il a répondu : “C’est moi, ô Messager d’Allah.” Le Prophète ﷺ a dit : “Descends, nous ne voulons pas voyager avec un animal maudit. Ne maudissez ni vous-mêmes, ni vos enfants, ni vos biens. Il se peut que votre malédiction coïncide avec un moment où Allah va exaucer votre demande.” » Il a aussi rapporté : « Nous sommes partis avec le Messager d’Allah ﷺ jusqu’au soir, près d’un réservoir d’eau. Le Prophète ﷺ a dit : “Qui va aller arranger le réservoir, boire et nous servir ?” J’ai dit : “Moi, ô Messager d’Allah.” Il a demandé : “Qui va accompagner Jabir ?” Jabbar ibn Sakhr s’est levé. Nous avons réparé le réservoir, l’avons rempli, puis le Prophète ﷺ est venu, a fait boire son chameau, puis a fait ses ablutions. J’ai fait comme lui. Jabbar est allé se soulager, puis le Prophète ﷺ a prié. J’ai essayé de couvrir mon corps avec mon manteau, mais il était trop court, alors je l’ai attaché autour de mon cou. Je me suis mis à gauche du Prophète ﷺ, il m’a fait passer derrière lui à droite. Jabbar est venu, s’est mis à gauche, et le Prophète ﷺ nous a fait passer tous les deux derrière lui. Après la prière, il m’a dit : “Jabir ! Quand ton vêtement est court, attache-le autour de ta taille.” » Jabir a aussi raconté : « Nous sommes partis en expédition avec le Messager d’Allah ﷺ, et chacun n’avait qu’une datte par jour à manger. Nous la mâchions, et nous frappions les feuilles pour les manger, au point que nos bouches étaient blessées. Un jour, quelqu’un n’a pas reçu de datte, nous avons témoigné pour lui et il l’a reçue. » Il a aussi dit : « Nous sommes partis avec le Messager d’Allah ﷺ et nous sommes arrivés dans une large vallée. Le Prophète ﷺ est parti se soulager, je l’ai suivi avec un seau d’eau. Il n’a trouvé que deux arbres pour se cacher. Il a pris une branche de l’un, a dit : “Sois sous mon contrôle, avec la permission d’Allah”, et l’arbre s’est plié. Il a fait pareil avec le second. Il a joint les deux branches et a dit : “Rejoignez-vous, avec la permission d’Allah.” Après, il m’a demandé de couper une branche de chaque arbre et de les planter à l’endroit où il s’était tenu, car il avait vu deux tombes dont les occupants étaient punis, et il voulait intercéder pour eux tant que les branches resteraient fraîches. Nous sommes revenus au camp, et le Prophète ﷺ a demandé de l’eau pour les ablutions. Il n’y avait qu’une goutte dans une outre. Il a prononcé des paroles, pressé l’outre, puis a mis ses mains dans une bassine, les doigts écartés. J’ai versé l’eau en disant “Bismillah”, et l’eau a jailli entre ses doigts jusqu’à remplir la bassine. Tout le monde a pu boire. Les gens se sont plaints de la faim, il a invoqué Allah, et nous sommes arrivés au bord de la mer, où une grande bête a été rejetée. Nous l’avons cuite et mangée à satiété. Cinq d’entre nous pouvaient tenir dans son orbite, et un grand chameau pouvait passer sous sa côte sans se baisser. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اور لوگوں نے رسول اللہ صلی اللہ علیہ وسلم سے بھوک کی شکایت کی تو آپ صلی اللہ علیہ وسلم نے فرمایا : " عنقریب اللہ تعالیٰ تمھیں کھانا دے گا ۔ " پھر ہم سمندر کے کنارے پہنچے ، سمندر نے جوش مارا ( ایک لہر سی آئی ) اور اس نے ایک سمندری جانور ( باہر ) پھینک دیا ، ہم نے سمندر کے کنارے پر آگ جلائی اور اس ( کے گوشت ) کو پکایا ، بھونا ، کھایا اور یہ سیر ہوگئے ( حضرت جابر نے کہا : میں اور فلاں اور فلاں ، انھوں نے پانچ آدمی گئے اس کی آنکھ کے گوشے مین گھس گئے تو کوئی ہمیں دیکھ نہیں سکتا تھا حتیٰ کہ ہم باہر نکل آئے اور ہم نے اس کی پسلیوں میں سے ایک پسلی ( ایک جانب ایک بڑا کانٹا ) لےکر اس کو کمان کی ہیت میں کھڑا کردیا ، پھر قافلے میں سب سے بڑے ( قد کے ) آدمی کو بلایا اور قافلے میں سب سے بڑے اونٹ کو اور قافلے کے سب سے بڑے پالان کو منگوایا ، شخص سر جھکا ئے بغیر اس پسلی کے نیچے داخل ہوگیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7520</td></tr><tr><td>Arabic No</td><td>3014</td></tr><tr><td>Reference</td><td>Book 55 Hadith 94</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7520 |
+| Arabic No | 3014 |
+| Reference | Book 55 Hadith 94 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى أَنْ يَشْرَبَ الرَّجُلُ قَائِمًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
+
 حدثنا مسلم بن ابراهيم، حدثنا هشام، عن قتادة، عن انس، ان رسول الله صلى الله عليه وسلم نهى ان يشرب الرجل قايما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোনো ব্যক্তিকে দাঁড়িয়ে পান করতে নিষেধ করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোনো ব্যক্তিকে দাঁড়িয়ে পান করতে নিষেধ করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas ibn Malik: The Prophet (ﷺ) forbade that a man should drink while standing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
+
+## French
+
+Rapporté par Anas ibn Malik رضي الله عنه : « Le Prophète ﷺ a interdit à un homme de boire debout. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\] telah menceritakan kepada kami \[Hisyam\] dari \[Qatadah\] dari \[Anas\] bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang seorang laki-laki minum dalam keadaan berdiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam telah melarang seorang laki-laki minum dalam keadaan berdiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Анаса, да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил пить стоя
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a)'den rivayet olunduğuna göre; Rasûlullah (s.a.v.) kişinin ayakta su içmesini yasaklamıştır. Ayrıca bu hadis'i Müslim, eşribe; Tirmizî, eşribe; İbn Mâce, eşribe; Dârimî, eşribe; Ahmed b. Hanbel, III, 32, 45, 54, 118, 131, 147, 182, 199, 214, 250, 291. de tahric ettiler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں رسول صلی اللہ علیہ وسلم نے منع فرمایا ہے کہ آدمی کھڑے ہو کر کچھ پیئے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2024)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3717</td></tr><tr><td>Arabic No</td><td>3717</td></tr><tr><td>Reference</td><td>Book 27 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2024) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3717 |
+| Arabic No | 3717 |
+| Reference | Book 27 Hadith 49 |

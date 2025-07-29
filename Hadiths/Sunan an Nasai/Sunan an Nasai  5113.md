@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا دَاوُدُ، - وَهُوَ ابْنُ عَبْدِ الرَّحْمَنِ الْعَطَّارُ - عَنْ عَبْدِ اللَّهِ بْنِ عُثْمَانَ بْنِ خُثَيْمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ إِنَّ مِنْ خَيْرِ أَكْحَالِكُمُ الإِثْمِدَ إِنَّهُ يَجْلُو الْبَصَرَ وَيُنْبِتُ الشَّعَرَ ‏"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ عَبْدُ اللَّهِ بْنُ عُثْمَانَ بْنِ خُثَيْمٍ لَيِّنُ الْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |
+
 اخبرنا قتيبة، قال حدثنا داود، - وهو ابن عبد الرحمن العطار - عن عبد الله بن عثمان بن خثيم، عن سعيد بن جبير، عن ابن عباس، ان رسول الله صلى الله عليه وسلم قال " ان من خير اكحالكم الاثمد انه يجلو البصر وينبت الشعر " . قال ابو عبد الرحمن عبد الله بن عثمان بن خثيم لين الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের উত্তম সুরমা হলো ইসমিদ নামক সুরমা। কেননা তা দৃষ্টিশক্তি বৃদ্ধি করে এবং চুল উৎপন্ন করে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |
 
 ## English
 
+It was narrated from Ibn 'Abbas that:The Messenger of Allah \[SAW\] said: "One of the best kinds of kohl that you use is Ithmid (antimony); it brightens the vision and makes the hair (eye-lashes) grow
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Ibn 'Abbas that:The Messenger of Allah [SAW] said: "One of the best kinds of kohl that you use is Ithmid (antimony); it brightens the vision and makes the hair (eye-lashes) grow
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Messager d'Allah ﷺ a dit : "L'un des meilleurs types de khôl que vous pouvez utiliser est l'ithmid (antimoine) ; il rend la vue plus claire et fait pousser les cils
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah\] ia berkata; telah menceritakan kepada kami \[Dawud\] -yaitu Ibnu 'Abdurrahman Al 'Aththar- dari \[Abdullah bin Utsman bin Khutsaim\] dari \[Sa'id bin Jubair\] dari \[Ibnu Abbas\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya celak terbaik untuk kalian pakai adalah Al Itsmid (batu celak), ia bisa membuat tajam pandangan mata dan menumbuhkan rambut." Abu 'Abdurrahman Abdullah bin Utsman bin Khutsaim adalah seorang yang lemah dalam masalah hadits
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah] ia berkata; telah menceritakan kepada kami [Dawud] -yaitu Ibnu 'Abdurrahman Al 'Aththar- dari [Abdullah bin Utsman bin Khutsaim] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya celak terbaik untuk kalian pakai adalah Al Itsmid (batu celak), ia bisa membuat tajam pandangan mata dan menumbuhkan rambut." Abu 'Abdurrahman Abdullah bin Utsman bin Khutsaim adalah seorang yang lemah dalam masalah hadits
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5113</td></tr><tr><td>Arabic No</td><td>5113</td></tr><tr><td>Reference</td><td>Book 48 Hadith 74</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5113 |
+| Arabic No | 5113 |
+| Reference | Book 48 Hadith 74 |

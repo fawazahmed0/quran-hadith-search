@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا بَكْرٌ، - يَعْنِي ابْنَ مُضَرَ - عَنِ ابْنِ عَجْلاَنَ، عَنْ عَبْدِ اللَّهِ بْنِ مُحَمَّدِ بْنِ عَقِيلٍ، أَنَّ رُبَيِّعَ بِنْتَ مُعَوِّذِ ابْنِ عَفْرَاءَ، أَخْبَرَتْهُ قَالَتْ، رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ - قَالَتْ - فَمَسَحَ رَأْسَهُ وَمَسَحَ مَا أَقْبَلَ مِنْهُ وَمَا أَدْبَرَ وَصُدْغَيْهِ وَأُذُنَيْهِ مَرَّةً وَاحِدَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
+
 حدثنا قتيبة بن سعيد، حدثنا بكر، - يعني ابن مضر - عن ابن عجلان، عن عبد الله بن محمد بن عقيل، ان ربيع بنت معوذ ابن عفراء، اخبرته قالت، رايت رسول الله صلى الله عليه وسلم يتوضا - قالت - فمسح راسه ومسح ما اقبل منه وما ادبر وصدغيه واذنيه مرة واحدة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
 
 ## Bengali
 
+। ‘আব্দুল্লাহ ইবনু মুহাম্মাদ ইবনু আক্বীল সূত্রে বর্ণিত। তাকে সংবাদ দিয়েছেন রুবাই' বিনতু মু‘আব্বিয ইবনু ‘আফরা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অযু করতে দেখেছি। তিনি মাথা মাসাহ্ করার সময় মাথার সামনের দিক, পিছন দিক, চোখ ও কানের মধ্যবর্তী স্থান এবং উভয় কান একবার মাসাহ্ করেছেন।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আব্দুল্লাহ ইবনু মুহাম্মাদ ইবনু আক্বীল সূত্রে বর্ণিত। তাকে সংবাদ দিয়েছেন রুবাই' বিনতু মু‘আব্বিয ইবনু ‘আফরা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অযু করতে দেখেছি। তিনি মাথা মাসাহ্ করার সময় মাথার সামনের দিক, পিছন দিক, চোখ ও কানের মধ্যবর্তী স্থান এবং উভয় কান একবার মাসাহ্ করেছেন।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Rubayyi’ daughter of Mu’awwidh b. ‘Afra’ said:I saw the Messenger of Allah (ﷺ) performing ablution. He wiped his head front and back, his temples and his ears once
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
+
+## French
+
+Rapporté par Al-Rubayyi’, fille de Mu’awwidh b. ‘Afra’ : J’ai vu le Messager d’Allah ﷺ faire ses ablutions. Il a essuyé sa tête à l’avant et à l’arrière, ses tempes et ses oreilles une seule fois
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Со слов ‘Абдуллаха ибн Мухаммада ибн ‘Акиля сообщается, что Рубаййи‘ бинт Му‘аввиз ибн ‘Афраъ рассказала ему: «Она сказала: “Я видела, как Посланник Аллаха ﷺ совершал омовение”.(Далее) она сказала: “И он обтер свою голову как спереди, так и сзади, а виски и уши (протер) один раз”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Muhammed b. Akil, er-Rubeyyi' bint-i Muavviz b. Afra'nın şöyle dediğini rivayet etmiştir: "Rasulullah (sallallahu aleyhi ve sellem)'i abdest alırken gördüm. Başını ön ve arka tarafını, gözle kulak arasında kalan kısmını ve kulaklarını birer kere mesnetti. Diğer tahric: Tirmizî. tahare; ibn Mace tahare; Ahmcd b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ربیع بنت معوذ بن عفراء رضی اللہ عنہا کہتی ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو وضو کرتے ہوئے دیکھا، آپ نے اپنے سر کے اگلے اور پچھلے حصے کا اور اپنی دونوں کنپٹیوں اور دونوں کانوں کا ایک بار مسح کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>129</td></tr><tr><td>Arabic No</td><td>129</td></tr><tr><td>Reference</td><td>Book 1 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 129 |
+| Arabic No | 129 |
+| Reference | Book 1 Hadith 129 |

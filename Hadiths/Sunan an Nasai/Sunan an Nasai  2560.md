@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي عَبْدُ اللَّهِ بْنُ الْهَيْثَمِ بْنِ عُثْمَانَ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ بُرَيْدِ بْنِ أَبِي بُرْدَةَ، عَنْ جَدِّهِ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ الْمُؤْمِنُ لِلْمُؤْمِنِ كَالْبُنْيَانِ يَشُدُّ بَعْضُهُ بَعْضًا ‏"‏ ‏.‏ وَقَالَ ‏"‏ الْخَازِنُ الأَمِينُ الَّذِي يُعْطِي مَا أُمِرَ بِهِ طَيِّبًا بِهَا نَفْسُهُ أَحَدُ الْمُتَصَدِّقَيْنِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |
+
 اخبرني عبد الله بن الهيثم بن عثمان، قال حدثنا عبد الرحمن بن مهدي، قال حدثنا سفيان، عن بريد بن ابي بردة، عن جده، عن ابي موسى، قال قال رسول الله صلى الله عليه وسلم " المومن للمومن كالبنيان يشد بعضه بعضا " . وقال " الخازن الامين الذي يعطي ما امر به طيبا بها نفسه احد المتصدقين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদুল্লাহ ইবনুল হায়ছাম (রহঃ) ... আবু মূসা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, এক মুমিন অন্য মু’মিনের জন্য ঐ দেয়াল সমতুল্য, যার এক অংশ অন্য অংশকে মজবুত করে। তিনি আরো বলেছেনঃ বিশ্বস্তু রক্ষণাবেক্ষণকারী যে নির্দেশ প্রাপ্ত হয়ে সন্তুষ্টচিত্তে দান করে সেও দু'জন দানকারীর একজন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Musa said:"The Messenger of Allah said: 'The believers are like a building they support one another.' And he said: "The trustworthy storekeeper who gives that which he has been commanded to give, and is happy with what he is doing, is one of the two giving charity
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |
+
+## French
+
+Rapporté par Abu Musa : Le Messager d'Allah a dit : "Les croyants sont comme un bâtiment, ils se soutiennent les uns les autres." Et il a dit : "Le dépositaire honnête qui donne ce qu'on lui a demandé de donner, et qui le fait avec plaisir, fait partie des deux qui donnent l'aumône
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |
 
 ## Indonesian
 
+Telah mengabarkan kepadaku \['Abdullah bin Al Haitsam bin 'Utsman\] dia berkata; Telah menceritakan kepada kami \['Abdurrahman bin Mahdi\] dia berkata; Telah menceritakan kepada kami \[Sufyan\] dari \[Buraid bin Abu Burdah\] dari \[Kakeknya\] dari \[Abu Musa\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang mukmin dengan mukmin yang lainnya bagaikan satu bangunan yang sebagiannya dengan sebagian yang lain saling menopang. Beliau juga bersabda: "Sesungguhnya bendahara yang dapat dipercaya adalah orang yang memberikan apa yang diperintahkan kepadanya secara baik, dan hatinya merasa rela hingga pun menjadi salah satu dari dua pemberi sedekah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepadaku ['Abdullah bin Al Haitsam bin 'Utsman] dia berkata; Telah menceritakan kepada kami ['Abdurrahman bin Mahdi] dia berkata; Telah menceritakan kepada kami [Sufyan] dari [Buraid bin Abu Burdah] dari [Kakeknya] dari [Abu Musa] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Seorang mukmin dengan mukmin yang lainnya bagaikan satu bangunan yang sebagiannya dengan sebagian yang lain saling menopang. Beliau juga bersabda: "Sesungguhnya bendahara yang dapat dipercaya adalah orang yang memberikan apa yang diperintahkan kepadanya secara baik, dan hatinya merasa rela hingga pun menjadi salah satu dari dua pemberi sedekah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوموسیٰ اشعری رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”مومن، مومن کے لیے عمارت کی طرح ہے جس کا ایک حصہ دوسرے حصے کو مضبوط کرتا ہے“، نیز فرمایا: ”امانت دار خازن جو خوش دلی سے وہ چیز دے جس کا اسے حکم دیا گیا ہو تو وہ بھی صدقہ دینے والوں میں سے ایک ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 23 Hadith 126</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 23 Hadith 126 |

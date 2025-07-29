@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ عَبْدِ اللَّهِ الدَّانَاجِ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، قَالَ لاَ تُقْطَعُ الْخَمْسُ إِلاَّ فِي الْخَمْسِ ‏.‏ قَالَ هَمَّامٌ فَلَقِيتُ عَبْدَ اللَّهِ الدَّانَاجَ فَحَدَّثَنِي عَنْ سُلَيْمَانَ بْنِ يَسَارٍ قَالَ لاَ تُقْطَعُ الْخَمْسُ إِلاَّ فِي الْخَمْسِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 46 Hadith 70</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |
+
 اخبرنا عمرو بن علي، قال حدثنا عبد الرحمن بن مهدي، قال حدثنا همام، عن قتادة، عن عبد الله الداناج، عن سليمان بن يسار، قال لا تقطع الخمس الا في الخمس . قال همام فلقيت عبد الله الداناج فحدثني عن سليمان بن يسار قال لا تقطع الخمس الا في الخمس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 46 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... সুলায়মান ইবন ইয়াসার (রহঃ) থেকে বর্ণিত। তিনি বলেন, পাঁচ দিরহামের জন্যই পাঁচ আঙুল কাটা যাবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 46 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that sulaiman bin Yasar said:"Five (fingers i.e., the hand) should not be cut off except for five." Hammam said: "I met 'Abdullah Ad-Danaj and he narrated to me that Sulaiman bin Yasar said: "Five should not be cut off except for five." (Sahih Maqtu)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 46 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |
+
+## French
+
+Rapporté par Sulaiman bin Yasar : "Cinq (doigts, c'est-à-dire la main) ne doivent être coupés que pour cinq." Hammam a dit : "J'ai rencontré 'Abdullah Ad-Danaj et il m'a raconté que Sulaiman bin Yasar a dit : 'Cinq ne doivent être coupés que pour cinq
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \['Amr bin Ali\], dia berkata; telah menceritakan kepada kami \[Abdur Rahman bin Mahdi\], dia berkata; telah menceritakan kepada kami \[Hammam\] dari \[Qatadah\] dari \[Abdullah Ad Danaj\] dari \[Sulaiman bin Yasar\], dia berkata; "Tidak dipotong lima hal kecuali pada lima hal." \[Hammam\] berkata; "Lalu aku bertemu dengan \[Abdullah Ad Danih\], dia berkata kepadaku; dari \[Sulaiman bin Yasar\], ia berkata; "Tidak dipotong lima hal kecuali pada lima hal
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami ['Amr bin Ali], dia berkata; telah menceritakan kepada kami [Abdur Rahman bin Mahdi], dia berkata; telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Abdullah Ad Danaj] dari [Sulaiman bin Yasar], dia berkata; "Tidak dipotong lima hal kecuali pada lima hal." [Hammam] berkata; "Lalu aku bertemu dengan [Abdullah Ad Danih], dia berkata kepadaku; dari [Sulaiman bin Yasar], ia berkata; "Tidak dipotong lima hal kecuali pada lima hal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 46 Hadith 70</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 46 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4940</td></tr><tr><td>Arabic No</td><td>4940</td></tr><tr><td>Reference</td><td>Book 46 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4940 |
+| Arabic No | 4940 |
+| Reference | Book 46 Hadith 70 |

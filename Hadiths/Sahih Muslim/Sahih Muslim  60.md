@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## French
 
+Rapporté par Ahmad bin Ibrāhīm ad-Dawraqī : Il a dit : « Abd ur-Rahman bin Mahdī m’a rapporté, d’après Hammād bin Zayd, qui a dit : ‘Ayyūb a parlé un jour d’un homme et a dit à son sujet : “Il n’est pas droit dans ses paroles \[c’est-à-dire qu’il ment\]”, puis il a parlé d’un autre et a dit : “Il ajoute dans les récits \[c’est-à-dire qu’il ment\].”’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>60</td></tr><tr><td>Reference</td><td>Book 0 Hadith 60</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 60 |
+| Reference | Book 0 Hadith 60 |

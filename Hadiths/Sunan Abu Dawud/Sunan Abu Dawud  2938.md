@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الْقَطَّانُ، عَنِ ابْنِ مَغْرَاءَ، عَنِ ابْنِ إِسْحَاقَ، قَالَ الَّذِي يَعْشُرُ النَّاسَ يَعْنِي صَاحِبَ الْمَكْسِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
+
 حدثنا محمد بن عبد الله القطان، عن ابن مغراء، عن ابن اسحاق، قال الذي يعشر الناس يعني صاحب المكس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ইসহাক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, জনগণের নিটক থেকে খাজনা আদায়কারীকে তহসিলদার বলা হয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn Ishaq:Sahib maks means one who (receives) tithes (from) people
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
+
+## French
+
+Rapporté par Ibn Ishaq : Sahib maks désigne celui qui prélève la dîme sur les gens
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Abdullah Al Qaththan\] dari \[Ibnu Maghra'\], dari \[Ibnu Ishaq\] ia berkata; orang yang mengambil sepersepuluh dari orang-orang maka adalah mengambil pajak secara zhalim
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Abdullah Al Qaththan] dari [Ibnu Maghra'], dari [Ibnu Ishaq] ia berkata; orang yang mengambil sepersepuluh dari orang-orang maka adalah mengambil pajak secara zhalim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн Исхак сказал, что под собирающими десятину подразумеваются мытари
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn ishak'dan demiştir ki: (Bir önceki 2937. hadisi şerifte geçen) "Meks" alan kimse (sözün)den maksat halktan (mallarının onda birini) toplayan kimsedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن اسحاق کہتے ہیں کہ صاحب مکس وہ ہے جو لوگوں سے عشر لیتا ہے ( بشرطیکہ وہ ظلم و تعدی سے کام لے رہا ہو ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2938</td></tr><tr><td>Arabic No</td><td>2938</td></tr><tr><td>Reference</td><td>Book 20 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2938 |
+| Arabic No | 2938 |
+| Reference | Book 20 Hadith 11 |

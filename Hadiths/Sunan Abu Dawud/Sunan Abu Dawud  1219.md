@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي جَابِرُ بْنُ إِسْمَاعِيلَ، عَنْ عُقَيْلٍ، بِهَذَا الْحَدِيثِ بِإِسْنَادِهِ قَالَ وَيُؤَخِّرُ الْمَغْرِبَ حَتَّى يَجْمَعَ بَيْنَهَا وَبَيْنَ الْعِشَاءِ حِينَ يَغِيبُ الشَّفَقُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
+
 حدثنا سليمان بن داود المهري، حدثنا ابن وهب، اخبرني جابر بن اسماعيل، عن عقيل، بهذا الحديث باسناده قال ويوخر المغرب حتى يجمع بينها وبين العشاء حين يغيب الشفق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
 
 ## Bengali
 
+। উক্বায়িল (রহঃ) হতে উক্ত সানাদে এ হাদীস বর্ণিত হয়েছে। তিনি বলেন, তিনি মাগরিবকে লালিমা দূরীভূত হওয়া পর্যন্ত পিছিয়ে নিয়ে মাগরিব ও ‘ইশা একত্রে আদায় করতেন।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উক্বায়িল (রহঃ) হতে উক্ত সানাদে এ হাদীস বর্ণিত হয়েছে। তিনি বলেন, তিনি মাগরিবকে লালিমা দূরীভূত হওয়া পর্যন্ত পিছিয়ে নিয়ে মাগরিব ও ‘ইশা একত্রে আদায় করতেন।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The above mentioned tradition has also been reported by 'Uqail through a different chain of narrators. He said:He would delay the evening prayer till he combined the evening and the night prayers when the twilight disappeared
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
+
+## French
+
+Le récit mentionné ci-dessus a aussi été rapporté par 'Uqail avec une chaîne différente. Il a dit : Il retardait la prière du coucher du soleil jusqu’à ce qu’il regroupe la prière du coucher du soleil et celle de la nuit, lorsque le crépuscule disparaissait
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 А в версии ‘Укайля сказано, что Посланник Аллаха ﷺ откладывал закатную молитву /магъриб/ и соединял её с вечерней /‘иша/, когда с неба исчезало зарево
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ukayl (önceki 1218.) hadisi aynı senedle rivayet etmiş ve demiştir ki: Akşamı da geciktirir ve şafak kaybolunca yatsıyla birleştirerek kılardı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طریق سے بھی عقیل سے یہی روایت اسی سند سے منقول ہے البتہ اس میں اضافہ ہے کہ مغرب کو مؤخر فرماتے یہاں تک کہ جب شفق غائب ہو جاتی تو اسے اور عشاء کو ملا کر پڑھتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1112) Sahih Muslim (704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1219</td></tr><tr><td>Arabic No</td><td>1219</td></tr><tr><td>Reference</td><td>Book 4 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1112) Sahih Muslim (704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1219 |
+| Arabic No | 1219 |
+| Reference | Book 4 Hadith 22 |

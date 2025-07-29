@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَبُو بَكْرِ بْنُ نَافِعٍ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقُولُ ‏ "‏ اسْتَوُوا اسْتَوُوا اسْتَوُوا فَوَالَّذِي نَفْسِي بِيَدِهِ إِنِّي لأَرَاكُمْ مِنْ خَلْفِي كَمَا أَرَاكُمْ مِنْ بَيْنِ يَدَىَّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |
+
 اخبرنا ابو بكر بن نافع، قال حدثنا بهز بن اسد، قال حدثنا حماد بن سلمة، عن ثابت، عن انس، ان النبي صلى الله عليه وسلم كان يقول " استووا استووا استووا فوالذي نفسي بيده اني لاراكم من خلفي كما اراكم من بين يدى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ বকর ইবনু নাফি (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ তোমরা বরাবর হয়ে দাঁড়াও, বরাবর হয়ে দাঁড়াও, বরাবর হয়ে দাঁড়াও। যার হাতে আমার প্রাণ তাঁর শপথ! আমি তোমাদের দেখছি আমার পেছন থেকে যেভাবে আমি তোমাদের দেখছি আমার সম্মুখ থেকে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Anas that the Prophet (ﷺ) used to say:"Make your rows straight, make your rows straight, make your rows straight. By the One in Whose Hand is my soul! I can see you behind me as I can see you in front of me
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |
+
+## French
+
+Rapporté par Anas : Le Prophète (ﷺ) disait : « Alignez vos rangs, alignez vos rangs, alignez vos rangs. Par Celui qui tient mon âme dans Sa main ! Je peux vous voir derrière moi tout comme je vous vois devant moi. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Abu Bakr bin Nafi'\] dia berkata; telah menceritakan kepada kami \[Bahz bin Asad\] dia berkata; telah menceritakan kepada kami \[Hammad bin Salamah\] dari \[Tsabit\] dari \[Anas\] bahwa Nabi Shallallahu'alaihi wasallam bersabda: "Luruskan, luruskan, luruskan. Demi Dzat yang jiwaku ada di tangan-Nya, aku melihat kalian dari belakang sebagaimana aku melihat kalian dari depan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Abu Bakr bin Nafi'] dia berkata; telah menceritakan kepada kami [Bahz bin Asad] dia berkata; telah menceritakan kepada kami [Hammad bin Salamah] dari [Tsabit] dari [Anas] bahwa Nabi Shallallahu'alaihi wasallam bersabda: "Luruskan, luruskan, luruskan. Demi Dzat yang jiwaku ada di tangan-Nya, aku melihat kalian dari belakang sebagaimana aku melihat kalian dari depan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم فرماتے تھے: برابر ہو جاؤ، برابر ہو جاؤ، برابر ہو جاؤ، قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے، میں تمہیں اپنے پیچھے سے بھی اسی طرح دیکھتا ہوں جس طرح تمہیں اپنے سامنے سے دیکھتا ہوں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>813</td></tr><tr><td>Arabic No</td><td>813</td></tr><tr><td>Reference</td><td>Book 10 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 813 |
+| Arabic No | 813 |
+| Reference | Book 10 Hadith 37 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، أَنَّ مُحَمَّدَ بْنَ جَعْفَرٍ، حَدَّثَهُمْ حَدَّثَنَا سَعِيدٌ، عَنْ مَطَرٍ، وَيَعْلَى بْنِ حَكِيمٍ، عَنْ نَافِعٍ، عَنْ نُبَيْهِ بْنِ وَهْبٍ، عَنْ أَبَانَ بْنِ عُثْمَانَ، عَنْ عُثْمَانَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ذَكَرَ مِثْلَهُ زَادَ ‏ "‏ وَلاَ يَخْطُبُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
+
 حدثنا قتيبة بن سعيد، ان محمد بن جعفر، حدثهم حدثنا سعيد، عن مطر، ويعلى بن حكيم، عن نافع، عن نبيه بن وهب، عن ابان بن عثمان، عن عثمان، ان رسول الله صلى الله عليه وسلم ذكر مثله زاد " ولا يخطب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
 
 ## Bengali
 
+। ‘উসমান (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতঃপর বর্ণনাকারী উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেন। তবে এ বর্ণনায় আরো রয়েছেঃ ‘বিবাহের প্রস্তাবও দিতে পারবে না।’\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘উসমান (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, অতঃপর বর্ণনাকারী উপরোক্ত হাদীসের অনুরূপ বর্ণনা করেন। তবে এ বর্ণনায় আরো রয়েছেঃ ‘বিবাহের প্রস্তাবও দিতে পারবে না।’[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The aforesaid tradition has also been transmitted by Aban bin ‘Uthman on the authority of ‘Uthman from the Apostle of Allaah(ﷺ) in a similar manner. This version adds “And he should not make a betrothal”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
+
+## French
+
+Le même hadith a aussi été transmis par Aban ibn ‘Uthman d’après ‘Uthman, du Messager d’Allah ﷺ, de façon similaire. Cette version ajoute : « Et il ne doit pas non plus faire de demande en mariage. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В другой версии от ‘Усмана, да будет доволен им Аллах, говорится то же, но имеется добавление: «И не заключает помолвку»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Osman (r.a.)'dan rivayet olunduğuna göre, Rasûlullari (S.A.V.) önceki (1841.) hadisin bir benzerini ifâde buyurmuştur. (Ancak Kuteybe bu rivayete şu cümleyi de) ilâve etti: İhram)ı bir kimse dünürlükte yapmasın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی عثمان رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے کہا پھر راوی نے اسی کے مثل ذکر کیا البتہ اس میں انہوں نے «ولا يخطب» ( نہ شادی کا پیغام دے ) کے لفظ کا اضافہ کیا ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1842</td></tr><tr><td>Arabic No</td><td>1842</td></tr><tr><td>Reference</td><td>Book 11 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1842 |
+| Arabic No | 1842 |
+| Reference | Book 11 Hadith 122 |

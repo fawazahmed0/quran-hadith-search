@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ مَا زَالَ جِبْرِيلُ يُوصِينِي بِالْجَارِ حَتَّى قُلْتُ لَيُوَرِّثَنَّهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
+
 حدثنا مسدد، حدثنا حماد، عن يحيى بن سعيد، عن ابي بكر بن محمد، عن عمرة، عن عايشة، رضى الله عنها ان النبي صلى الله عليه وسلم قال " ما زال جبريل يوصيني بالجار حتى قلت ليورثنه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জিবরীল (আঃ) আমাকে নিয়মিত প্রতিবেশী সম্পর্কে উপদেশ দিতে থাকলেন। এমন কি আমি ভাবলাম, অচিরেই তিনি প্রতিবেশীকে উত্তরাধিকারী বানাবেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ জিবরীল (আঃ) আমাকে নিয়মিত প্রতিবেশী সম্পর্কে উপদেশ দিতে থাকলেন। এমন কি আমি ভাবলাম, অচিরেই তিনি প্রতিবেশীকে উত্তরাধিকারী বানাবেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘A’ishah reported the Messenger of Allah (May peace be upon him) as saying:Gabriel kept on commending the neighbor to me so that I thought he would make him an heir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Gabriel n’a cessé de me recommander le voisin au point que j’ai pensé qu’il allait lui accorder une part d’héritage. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Hammad\] dari \[Yahya bin Sa'id\] dari \[Abu Bakar bin Muhammad\] dari \[Amrah\] dari \['Aisyah radliallahu 'anha\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jibril selalu memberiku nasihat agar aku berbuat baik kepada tetangga hingga aku berkata 'sungguh ia akan ikut mewarisi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad] dari [Yahya bin Sa'id] dari [Abu Bakar bin Muhammad] dari [Amrah] dari ['Aisyah radliallahu 'anha] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jibril selalu memberiku nasihat agar aku berbuat baik kepada tetangga hingga aku berkata 'sungguh ia akan ikut mewarisi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Аиши, да будет доволен Аллах ею обоими, что Посланник Аллаха ﷺ сказал: «Джибрил не прекращал давать мне наставления о необходимости хорошего отношения к соседу (так долго), что я даже подумал, что он включит его и в число наследников»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anha)'dan (rivayet edildiğine göre); Nebi (s.a.v.) şöyle buyurmuştur: "Cibril, komşu hakkında o kadar tavsiyede bulundu ki sonunda (kendi kendine) onu mirasçı kılacak, dedim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جبرائیل مجھے برابر پڑوسیوں کے ساتھ حسن سلوک کی تلقین اور وصیت کرتے رہے، یہاں تک کہ میں ( دل میں ) کہنے لگا کہ وہ ضرور اسے وارث بنا دیں گے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6014) Sahih Muslim (2624)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5151</td></tr><tr><td>Arabic No</td><td>5151</td></tr><tr><td>Reference</td><td>Book 43 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6014) Sahih Muslim (2624) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5151 |
+| Arabic No | 5151 |
+| Reference | Book 43 Hadith 379 |

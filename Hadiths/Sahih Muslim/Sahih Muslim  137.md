@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنِ الْوَلِيدِ أَبِي بِشْرٍ، قَالَ سَمِعْتُ حُمْرَانَ، يَقُولُ سَمِعْتُ عُثْمَانَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ مِثْلَهُ سَوَاءً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن ابي بكر المقدمي، حدثنا بشر بن المفضل، حدثنا خالد الحذاء، عن الوليد ابي بشر، قال سمعت حمران، يقول سمعت عثمان، يقول سمعت رسول الله صلى الله عليه وسلم يقول مثله سواء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## Bengali
 
+আবূ বকর ইবনু আবূ শাইবাহ ও যুহায়র ইবনু হারব (রহঃ) ..... উসমান (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যে ব্যক্তি অন্তরে এ বিশ্বাস রেখে মৃত্যুবরণ করলো যে, আল্লাহ ব্যতীত প্রকৃত কোন ইলাহ নেই, সে জান্নাতে প্রবেশ করবে।\* মুহাম্মাদ ইবনু আবূ বকর আল মুকাদ্দামী (রহঃ) ..... উসমান (রাযিঃ) বলেন যে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে অনুরূপ বলতে শুনেছি ..... অবশিষ্টাংশ উপরের হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশনঃ ৪৩-৪৪; ইসলামিক সেন্টারঃ)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বকর ইবনু আবূ শাইবাহ ও যুহায়র ইবনু হারব (রহঃ) ..... উসমান (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেনঃ যে ব্যক্তি অন্তরে এ বিশ্বাস রেখে মৃত্যুবরণ করলো যে, আল্লাহ ব্যতীত প্রকৃত কোন ইলাহ নেই, সে জান্নাতে প্রবেশ করবে।* মুহাম্মাদ ইবনু আবূ বকর আল মুকাদ্দামী (রহঃ) ..... উসমান (রাযিঃ) বলেন যে, তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম কে অনুরূপ বলতে শুনেছি ..... অবশিষ্টাংশ উপরের হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশনঃ ৪৩-৪৪; ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is narrated on the authority of Humran that he heard Uthman saying this:I heard the Messenger of Allah (ﷺ) uttering these words (as stated above)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## French
 
+Rapporté par Humran رضي الله عنه : Il a entendu Uthman dire : « J’ai entendu le Messager d’Allah ﷺ prononcer ces paroles (comme mentionné ci-dessus). »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] dan \[Zuhair bin Harb\] keduanya dari \[Ismail bin Ibrahim\], \[Abu Bakar\] berkata, telah menceritakan kepada kami \[Ibnu Ulayyah\] dari \[Khalid\] dia berkata, telah menceritakan kepada kami \[al-Walid bin Muslim\] dari \[Humran\] dari \[Utsman\] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meningggal sedangkan dia mengetahui bahwa tidak ada tuhan (yang berhak disembah) selain Allah, niscaya dia masuk surga." Telah menceritakan kepada kami \[Muhammad bin Abu Bakar al-Muqaddami\] telah menceritakan kepada kami \[Bisyr bin al-Mufadldlal\] telah menceritakan kepada kami \[Khalid al-Hadzdza'\] dari \[al-Walid Abu Bisyr\] dia berkata, aku mendengar \[Humran\] berkata, aku mendengar \[Utsman\] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda sama seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] keduanya dari [Ismail bin Ibrahim], [Abu Bakar] berkata, telah menceritakan kepada kami [Ibnu Ulayyah] dari [Khalid] dia berkata, telah menceritakan kepada kami [al-Walid bin Muslim] dari [Humran] dari [Utsman] dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa meningggal sedangkan dia mengetahui bahwa tidak ada tuhan (yang berhak disembah) selain Allah, niscaya dia masuk surga." Telah menceritakan kepada kami [Muhammad bin Abu Bakar al-Muqaddami] telah menceritakan kepada kami [Bisyr bin al-Mufadldlal] telah menceritakan kepada kami [Khalid al-Hadzdza'] dari [al-Walid Abu Bisyr] dia berkata, aku mendengar [Humran] berkata, aku mendengar [Utsman] berkata, aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda sama seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Хумрана, что ‘Усман сказал: «Я слышал, как Посланник Аллаха ﷺ говорил эти слова»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Muhammed b. Ebu Bekr el-Mukaddemi de tahdis etti. Bize Bişr b. el-Mufaddal tahdis etti. Bize Halid el-Hazza, Velid b. Bişr'den şöyle dediğini tahdis etti: Humran'ı şöyle derken dinledim: Osman'ı şöyle derken dinledim: Rastılullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim deyip, hadisi aynen nakletti. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 9798 AHMED D. AÇIKLAMASI İÇİN bBURAYA TIKLAYIN
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن علیہ کے بجائے بشر بن مفضل نے بھی خالد حذاء سے یہی روایت بیان کی ، انہوں نے ولید ابو بشر سے روایت کی ، انہوں نے کہا : میں نے حمران سے سنا ، انہوں نے کہا : میں نے حضرت عثمان ‌رضی ‌اللہ ‌عنہ ‌ ‌ سےسنا ، وہ کہتے تھے : میں نے رسول اللہ ﷺ کو فرماتے ہوئے سنا ..... اس کے بعد بالکل سابقہ روایت کی طرح بیان کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>137</td></tr><tr><td>Arabic No</td><td>26.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 44</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 137 |
+| Arabic No | 26.02 |
+| Reference | Book 1 Hadith 44 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي أَبُو دَاوُدَ، سُلَيْمَانُ بْنُ مَعْبَدٍ حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، أَخْبَرَنَا كَهْمَسٌ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني ابو داود، سليمان بن معبد حدثنا عثمان بن عمر، اخبرنا كهمس، بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) আবূ দাউদ সুলাইমান ইবনু মা'বাদ (রহঃ) ..... উসমান ইবনু আমর বলেন, কাহমাস (রহঃ) এ সানাদে আমাদের কাছে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৮৯৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted on the authority of Kahmas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## French
 
+Rapporté par Kahmas : Ce hadith a été transmis par Kahmas
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana Ebû Dâvud, Süleyman b. Ma'bed rivayet etti. (Dediki): Bize Osman b. Ömer rivayet etti. (Dediki): Bize Kehmes bu isnadla bu hadîsin benzerini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عثمان بن عمر نے کہا : ہمیں کہمس نے اسی سند کے ساتھ اسی کے مانند خبر دی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5051</td></tr><tr><td>Arabic No</td><td>1954.02</td></tr><tr><td>Reference</td><td>Book 34 Hadith 80</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5051 |
+| Arabic No | 1954.02 |
+| Reference | Book 34 Hadith 80 |

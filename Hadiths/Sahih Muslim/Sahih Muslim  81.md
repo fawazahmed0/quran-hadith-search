@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## French
 
+Rapporté par Ishāq bin Ibrāhīm al-Hanthalī \[bin Rāhwayh\] : Il a dit : « J’ai entendu un des compagnons de Abd Allah \[bin al-Mubārak\] dire, Ibn al-Mubārak a dit : ‘Quel homme excellent est Baqiyyah, s’il n’avait pas donné des surnoms à ceux qui étaient connus par leur nom de naissance, et inversement. Longtemps il nous a rapporté d’Abī Sa’īd al-Wuhāthī, puis, en enquêtant, \[nous avons découvert qu’\]il s’agissait d’Abd ul-Quddūs.’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>81</td></tr><tr><td>Reference</td><td>Book 0 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 81 |
+| Reference | Book 0 Hadith 81 |

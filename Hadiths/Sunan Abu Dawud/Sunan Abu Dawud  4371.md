@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، قَالَ أَخْبَرَنَا ح، وَحَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، قَالَ كَانَ هَذَا قَبْلَ أَنْ تَنْزِلَ الْحُدُودُ يَعْنِي حَدِيثَ أَنَسٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
+
 حدثنا محمد بن كثير، قال اخبرنا ح، وحدثنا موسى بن اسماعيل، حدثنا همام، عن قتادة، عن محمد بن سيرين، قال كان هذا قبل ان تنزل الحدود يعني حديث انس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
 
 ## Bengali
 
+। মুহাম্মাদ ইবনু সীরীন (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আনাস (রাঃ) বর্ণিত হাদীসের ঘটনাটি ঘটেছিল আয়াত নাযিল হওয়ার পূর্বে।\[1\] দুর্বল মাওকুফ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুহাম্মাদ ইবনু সীরীন (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আনাস (রাঃ) বর্ণিত হাদীসের ঘটনাটি ঘটেছিল আয়াত নাযিল হওয়ার পূর্বে।[1] দুর্বল মাওকুফ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammad bin Sirin said :This happened before the prescribed punishments(hudud) were revealed, meaning the tradition of Anas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
+
+## French
+
+Muhammad ibn Sirin a dit : Cela s’est produit avant que les peines légales (hudud) ne soient révélées, en parlant de la tradition d’Anas
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Мухаммад ибн Сирин сказал: «Это событие произошло до ниспослания установленных Шариатом наказаний», имея в виду хадис Анаса
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammed b. Sirin demiştir ki: "Bu, yani (4364, 4365) Enes hadisi hadler indirilmeden (meşru kılınmadan) önce idi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن سیرین کہتے ہیں کہ یہ حدود کے نازل کئے جانے سے پہلے کی ہے یعنی انس رضی اللہ عنہ کی روایت۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5686)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4371</td></tr><tr><td>Arabic No</td><td>4371</td></tr><tr><td>Reference</td><td>Book 40 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5686) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4371 |
+| Arabic No | 4371 |
+| Reference | Book 40 Hadith 21 |

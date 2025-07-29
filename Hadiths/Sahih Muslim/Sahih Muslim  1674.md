@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي سُلَيْمَانُ بْنُ مَعْبَدٍ، حَدَّثَنَا مُعَلَّى بْنُ أَسَدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُخْتَارٍ، عَنْ عَبْدِ اللَّهِ الدَّانَاجِ، قَالَ حَدَّثَنِي أَبُو رَافِعٍ الصَّائِغُ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، قَالَ أَوْصَانِي خَلِيلِي أَبُو الْقَاسِمِ صلى الله عليه وسلم بِثَلاَثٍ ‏.‏ فَذَكَرَ مِثْلَ حَدِيثِ أَبِي عُثْمَانَ عَنْ أَبِي هُرَيْرَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني سليمان بن معبد، حدثنا معلى بن اسد، حدثنا عبد العزيز بن مختار، عن عبد الله الداناج، قال حدثني ابو رافع الصايغ، قال سمعت ابا هريرة، قال اوصاني خليلي ابو القاسم صلى الله عليه وسلم بثلاث . فذكر مثل حديث ابي عثمان عن ابي هريرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুলায়মান ইবনু মা'বাদ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমার বন্ধু আবূল কাসিম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে তিনটি কাজ করতে আদেশ করেছেন। এতটুকু বর্ণনা করার পর তিনি আবূ হুরায়রাহ থেকে আবূ উসমান বর্ণিত হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৫৪৪, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported:My friend Abu'l-Qasim (ﷺ) instructed me to do three things, and the rest of the hadith is the same
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## French
 
+Rapporté par Abu Huraira : Mon ami Abu’l-Qasim ﷺ m’a recommandé trois choses, et le reste du hadith est identique
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абуд-Дардаъ сказал: «Мой любимый (Пророк ﷺ) завещал мне три (вещи), которые я не оставлю, пока буду жив. (Он завещал мне) соблюдать пост трёх дней каждого месяца, совершать молитву “ад-духа” и засыпать только после совершения молитвы витр»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bana Süleyman b. Ma'bed rivayet etti. (Dediki): Bize Muallâ b. Esed rivayet etti. (Dediki): Bize Abdülâzîz b. Muhtar, Abdullah Ed-Dânâc'dan rivayet etti. Demişki: aBna Ebû Râfi' Es-Sâiğ rivayet etti. Dediki: Ben, Ebû Hureyre'den dinledim. Dediki: «Halilim Ebû'l-Kaasim (Sallallahu Aleyhi ve Sellem), bana üç şeyi vasiyet etti...» Râvî, Ebû Osman'ın, Ebû Hureyre'den rivayet ettiği hadîs gibi rivayette bulunmuştur. İzah 722 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو رافع الصائغ نے کہا : میں نے حضرت ابوہریرہ رضی اللہ تعالیٰ عنہ سے سنا ، انھوں نے کہا ، مجھے میرے خلیل ابو القاسم صلی اللہ علیہ وسلم نے تین باتوں کی تلقین فرمائی ۔ ۔ ۔ آگے حضرت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے ابو عثمان نہدی کی حدیث کی طرح بیان کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1674</td></tr><tr><td>Arabic No</td><td>721.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1674 |
+| Arabic No | 721.03 |
+| Reference | Book 6 Hadith 104 |

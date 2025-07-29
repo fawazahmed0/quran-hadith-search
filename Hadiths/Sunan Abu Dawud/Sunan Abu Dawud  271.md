@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ عَبْدِ الْجَبَّارِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ أَبِي الْيَمَانِ، عَنْ أُمِّ ذَرَّةَ، عَنْ عَائِشَةَ، أَنَّهَا قَالَتْ كُنْتُ إِذَا حِضْتُ نَزَلْتُ عَنِ الْمِثَالِ عَلَى الْحَصِيرِ فَلَمْ نَقْرُبْ رَسُولَ اللَّهِ صلى الله عليه وسلم وَلَمْ نَدْنُ مِنْهُ حَتَّى نَطْهُرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
+
 حدثنا سعيد بن عبد الجبار، حدثنا عبد العزيز، - يعني ابن محمد - عن ابي اليمان، عن ام ذرة، عن عايشة، انها قالت كنت اذا حضت نزلت عن المثال على الحصير فلم نقرب رسول الله صلى الله عليه وسلم ولم ندن منه حتى نطهر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার ঋতুস্রাব হলে আমি বিছানা ছেড়ে চাটাইয়ে অবস্থান করতাম। পবিত্র না হওয়া পর্যন্ত আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকটবর্তী হতাম না।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার ঋতুস্রাব হলে আমি বিছানা ছেড়ে চাটাইয়ে অবস্থান করতাম। পবিত্র না হওয়া পর্যন্ত আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকটবর্তী হতাম না।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: When I menstruated, I left the bed and lay on the reed-mat and did not approach or come near the Messenger of Allah (ﷺ) until we were purified
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
+
+## French
+
+Rapporté par Aishah, la mère des croyants رضي الله عنها : Quand j’avais mes règles, je quittais le lit et m’allongeais sur le tapis en roseau, et je ne m’approchais pas du Messager d’Allah ﷺ jusqu’à ce que nous soyons purifiés
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Abdul Jabbar\] telah menceritakan kepada kami \[Abdul Aziz bin Muhammad\] dari \[Abu Al-Aiman\] dari \[Ummu Dzarrah\] dari \[Aisyah\] bahwasanya dia berkata; Apabila aku haidl maka aku turun dari kasur dan tidur di atas tikar, dan kami tidak mendekati Rasulullah Shallallahu alaihi wasallam hingga kami suci
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Abdul Jabbar] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Abu Al-Aiman] dari [Ummu Dzarrah] dari [Aisyah] bahwasanya dia berkata; Apabila aku haidl maka aku turun dari kasur dan tidur di atas tikar, dan kami tidak mendekati Rasulullah Shallallahu alaihi wasallam hingga kami suci
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша сказала: «Когда у меня начинались менструации, я оставляла ложе и ложилась на циновку. И мы не приближались или не подходили к Посланнику Аллаха ﷺ пока мы не очистимся»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan, şöyle demiştir; "Ben hayızlı olduğum zaman (Rasulullah'm) yatağından bir hasır üzerine iner ve temizleninceye kadar Rasulullah (Sallallahu Akeyhi ve Sellem)'e yaklaşmazdım." Bu hadisi sadece Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں جب حائضہ ہوتی تو بچھونے سے چٹائی پر چلی آتی، اور ہم رسول اللہ صلی اللہ علیہ وسلم سے قریب نہ ہوتے، جب تک کہ ہم پاک نہ ہو جاتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>271</td></tr><tr><td>Arabic No</td><td>271</td></tr><tr><td>Reference</td><td>Book 1 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 271 |
+| Arabic No | 271 |
+| Reference | Book 1 Hadith 271 |

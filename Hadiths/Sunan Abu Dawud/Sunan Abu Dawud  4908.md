@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبَانُ، ح وَحَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ الطَّائِيُّ، حَدَّثَنَا بِشْرُ بْنُ عُمَرَ، حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ الْعَطَّارُ، حَدَّثَنَا قَتَادَةُ، عَنْ أَبِي الْعَالِيَةِ، - قَالَ زَيْدٌ - عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَجُلاً، لَعَنَ الرِّيحَ - وَقَالَ مُسْلِمٌ إِنَّ رَجُلاً نَازَعَتْهُ الرِّيحُ رِدَاءَهُ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَلَعَنَهَا - فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ لاَ تَلْعَنْهَا فَإِنَّهَا مَأْمُورَةٌ وَإِنَّهُ مَنْ لَعَنَ شَيْئًا لَيْسَ لَهُ بِأَهْلٍ رَجَعَتِ اللَّعْنَةُ عَلَيْهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
+
 حدثنا مسلم بن ابراهيم، حدثنا ابان، ح وحدثنا زيد بن اخزم الطايي، حدثنا بشر بن عمر، حدثنا ابان بن يزيد العطار، حدثنا قتادة، عن ابي العالية، - قال زيد - عن ابن عباس، ان رجلا، لعن الريح - وقال مسلم ان رجلا نازعته الريح رداءه على عهد النبي صلى الله عليه وسلم فلعنها - فقال النبي صلى الله عليه وسلم " لا تلعنها فانها مامورة وانه من لعن شييا ليس له باهل رجعت اللعنة عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি বাতাসকে অভিশাপ দিলো। মুসলিমের বর্ণনায় রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এক ব্যক্তির চাদর বাতাসে ওলটপালট হয়ে গেলে সে বাতাসকে অভিশাপ দিলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি বাতাসকে লানত করো না, কেননা সে নির্দেশপ্রাপ্ত। যা অভিশাপযোগ্য নয় কেউ তাকে অভিশাপ দিলে তা অভিশাপকারীর উপরই পতিত হয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি বাতাসকে অভিশাপ দিলো। মুসলিমের বর্ণনায় রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে এক ব্যক্তির চাদর বাতাসে ওলটপালট হয়ে গেলে সে বাতাসকে অভিশাপ দিলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি বাতাসকে লানত করো না, কেননা সে নির্দেশপ্রাপ্ত। যা অভিশাপযোগ্য নয় কেউ তাকে অভিশাপ দিলে তা অভিশাপকারীর উপরই পতিত হয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: A man cursed the wind. The narrator Muslim's version has: The wind snatched away a man's cloak during the time of the Prophet (ﷺ) and he cursed it. The Prophet (ﷺ) said: Do not curse it, for it is under command, and if anyone curses a thing undeservedly, the curse returns upon him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Un homme a maudit le vent. Dans une autre version, le vent a emporté le manteau d’un homme à l’époque du Prophète ﷺ et il l’a maudit. Le Prophète ﷺ a dit : « Ne le maudissez pas, car il agit sur ordre. Si quelqu’un maudit une chose sans raison, la malédiction revient sur lui. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\] berkata, telah menceritakan kepada kami \[Aban\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Zaid bin Akhzam Ath Tha'i\] berkata, telah menceritakan kepada kami \[Bisyr bin Umar\] berkata, telah menceritakan kepada kami \[Aban bin Yazid Al 'Aththar\] berkata, telah menceritakan kepada kami \[Qatadah\] dari \[Abul 'Aliyah\]. \[Zaid\] menyebutkan dari \[Ibnu Abbas\] bahwa ada seorang laki-laki melaknat angin. Muslim menyebutkan, "Pada masa Nabi shallallahu 'alaihi wasallam ada seorang laki-laki yang selendangnya diterbangkan oleh angin, lalu ia melaknat angit tersebut. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Jangan engkau melaknatnya, karena sesungguhnya ia diperintah. Sungguh, orang yang melaknat sesuatu padahal ia tidak pantas mendapatkan laknat, maka laknat tersebut akan kembali kepada dirinya sendiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim] berkata, telah menceritakan kepada kami [Aban]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Zaid bin Akhzam Ath Tha'i] berkata, telah menceritakan kepada kami [Bisyr bin Umar] berkata, telah menceritakan kepada kami [Aban bin Yazid Al 'Aththar] berkata, telah menceritakan kepada kami [Qatadah] dari [Abul 'Aliyah]. [Zaid] menyebutkan dari [Ibnu Abbas] bahwa ada seorang laki-laki melaknat angin. Muslim menyebutkan, "Pada masa Nabi shallallahu 'alaihi wasallam ada seorang laki-laki yang selendangnya diterbangkan oleh angin, lalu ia melaknat angit tersebut. Maka Nabi shallallahu 'alaihi wasallam bersabda: "Jangan engkau melaknatnya, karena sesungguhnya ia diperintah. Sungguh, orang yang melaknat sesuatu padahal ia tidak pantas mendapatkan laknat, maka laknat tersebut akan kembali kepada dirinya sendiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas'dan (rivayet edildiğine göre); Bir adam rüzgâra la­net etti... (Bu hadisi Musannif Ebû Davud'a rivayet eden diğer râvi) Müslim (ise bu hadisi) şöyle rivayet etti: "Hz. Nebi zamanında rüzgâr bir adam'ın etekliğini vücudundan çekip aldı. Adam da rüzgâra la'net etti." Bunun üzerine Nebi (s.a.v.): "O'na, la'net etme! Çünkü o emirle hareket eder ve bir kimse lâ'net'e ehil olmayan bir şeye lanet edecek olursa o lanet kendisine döner" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ ایک شخص نے ہوا پر لعنت کی ( مسلم کی روایت میں اس طرح ہے ) نبی اکرم صلی اللہ علیہ وسلم کے زمانے میں ہوا نے ایک شخص کی چادر اڑا دی، تو اس نے اس پر لعنت کی، تو نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اس پر لعنت نہ کرو، اس لیے کہ وہ تابعدار ہے، اور اس لیے کہ جو کوئی ایسی چیز کی لعنت کرے جس کا وہ اہل نہ ہو تو وہ لعنت اسی کی طرف لوٹ آتی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4908</td></tr><tr><td>Arabic No</td><td>4908</td></tr><tr><td>Reference</td><td>Book 43 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4908 |
+| Arabic No | 4908 |
+| Reference | Book 43 Hadith 136 |

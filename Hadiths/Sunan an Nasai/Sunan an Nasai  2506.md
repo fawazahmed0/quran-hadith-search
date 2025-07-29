@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنِ الْحَكَمِ بْنِ عُتَيْبَةَ، عَنِ الْقَاسِمِ بْنِ مُخَيْمِرَةَ، عَنْ عَمْرِو بْنِ شُرَحْبِيلَ، عَنْ قَيْسِ بْنِ سَعْدِ بْنِ عُبَادَةَ، قَالَ كُنَّا نَصُومُ عَاشُورَاءَ وَنُؤَدِّي زَكَاةَ الْفِطْرِ فَلَمَّا نَزَلَ رَمَضَانُ وَنَزَلَتِ الزَّكَاةُ لَمْ نُؤْمَرْ بِهِ وَلَمْ نُنْهَ عَنْهُ وَكُنَّا نَفْعَلُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2506</td></tr><tr><td>Arabic No</td><td>2506</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |
+
 اخبرنا اسماعيل بن مسعود، قال حدثنا يزيد بن زريع، قال انبانا شعبة، عن الحكم بن عتيبة، عن القاسم بن مخيمرة، عن عمرو بن شرحبيل، عن قيس بن سعد بن عبادة، قال كنا نصوم عاشوراء ونودي زكاة الفطر فلما نزل رمضان ونزلت الزكاة لم نومر به ولم ننه عنه وكنا نفعله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2506</td></tr><tr><td>Arabic No</td><td>2506</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসমাঈল ইবন মাসউদ (রাঃ) ... কায়স ইবন সা'দ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা আশুরার দিন সওম পালন করতাম এবং সাদাকায়ে ফিতর আদায় করতাম। অতঃপর রমযানের সাওম পালন করার এবং যাকাত আদায় করার বিধান অবতীর্ণ হলে আমাদেরকে আর পূর্বের সেগুলো আদায় করার নির্দেশও দেওয়া হত না এবং বারণও করা হত না। তবুও আমরা সেগুলোও পালন করতাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2506</td></tr><tr><td>Arabic No</td><td>2506</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Qais bin Sa'd bin 'Ubadah Said:"We used to fast on 'Ashura and give Zakatul-Fitr, and when the command to fast in Ramadan was revealed, and the command to give Zakah was revealed, we were neither commanded to give it, nor told not to do so, and we used to do it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2506</td></tr><tr><td>Arabic No</td><td>2506</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |
+
+## French
+
+Rapporté par Qais bin Sa'd bin 'Ubadah : Nous jeûnions le jour de ‘Ashura et nous donnions la Zakat al-Fitr. Quand l’ordre de jeûner le Ramadan et de donner la Zakat a été révélé, on ne nous a ni ordonné de continuer, ni interdit de le faire, alors nous avons continué à le faire
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Isma'il bin Mas'ud\] dia berkata; Telah menceritakan kepada kami \[Yazid bin Zurai'\] dia berkata; Telah memberitakan kepada kami \[Syu'bah\] dari \[Al Hakim bin 'Utaibah\] dari \[Al Qasim bin Mukhaimirah\] dari \['Amru bin Syurahbil\] dari \[Qais bin Saad bin Ubadah\] dia berkata; "Kami dahulu berpuasa 'Asyura dan menunaikan zakat fitrah. Setelah turun ayat tentang Ramadlan dan kewajiban zakat, kami tidak diperintah menunaikannya dan tidak pula dilarang, namun kami terus melaksanakannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Isma'il bin Mas'ud] dia berkata; Telah menceritakan kepada kami [Yazid bin Zurai'] dia berkata; Telah memberitakan kepada kami [Syu'bah] dari [Al Hakim bin 'Utaibah] dari [Al Qasim bin Mukhaimirah] dari ['Amru bin Syurahbil] dari [Qais bin Saad bin Ubadah] dia berkata; "Kami dahulu berpuasa 'Asyura dan menunaikan zakat fitrah. Setelah turun ayat tentang Ramadlan dan kewajiban zakat, kami tidak diperintah menunaikannya dan tidak pula dilarang, namun kami terus melaksanakannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2506</td></tr><tr><td>Arabic No</td><td>2506</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2506</td></tr><tr><td>Arabic No</td><td>2506</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قیس بن سعد بن عبادہ رضی الله عنہما کہتے ہیں کہ ہم عاشورہ کا روزہ رکھتے تھے، اور عید الفطر کا صدقہ ادا کرتے تھے، پھر جب رمضان کے روزے فرض ہوئے، اور زکاۃ کی ( فرضیت ) اتری، تو نہ ہمیں ان کا حکم دیا گیا نہ ہی ان کے کرنے سے روکا گیا، اور ہم ( جیسے کرتے تھے ) اسے کرتے رہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2506</td></tr><tr><td>Arabic No</td><td>2506</td></tr><tr><td>Reference</td><td>Book 23 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2506 |
+| Arabic No | 2506 |
+| Reference | Book 23 Hadith 72 |

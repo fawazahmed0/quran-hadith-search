@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا بَدَلُ بْنُ الْمُحَبَّرِ، أَخْبَرَنَا شُعْبَةُ، عَنِ الْعَلاَءِ ابْنِ أَخِي، شُعَيْبٍ الرَّازِيِّ عَنْ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، عَنْ رَجُلٍ، مِنْ بَنِي سُلَيْمٍ قَالَ خَطَبْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم أُمَامَةَ بِنْتَ عَبْدِ الْمُطَّلِبِ فَأَنْكَحَنِي مِنْ غَيْرِ أَنْ يَتَشَهَّدَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
+
 حدثنا محمد بن بشار، حدثنا بدل بن المحبر، اخبرنا شعبة، عن العلاء ابن اخي، شعيب الرازي عن اسماعيل بن ابراهيم، عن رجل، من بني سليم قال خطبت الى النبي صلى الله عليه وسلم امامة بنت عبد المطلب فانكحني من غير ان يتشهد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । বনু সুলাইমের এক ব্যক্তি সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর খেদমতে উমামাহ বিনতু আব্দুল মুত্তালিবকে প্রস্তাব পাঠালে তিনি খুৎবা ছাড়াই আমাকে বিয়ে করান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Isma'il bin Ibrahim:On the authority of a man from Banu Sulaim: I asked the Prophet (ﷺ) to marry Umamah daughter of 'Abd al-Muttalib to me. So he married her to me without reciting the tashahhud (i.e. the sermon for marriage)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
+
+## French
+
+Rapporté par Isma’il bin Ibrahim, d’après un homme de Banu Sulaim : J’ai demandé au Prophète ﷺ de me marier à Umamah, fille de ‘Abd al-Muttalib. Il me la donna en mariage sans réciter le tashahhud (c’est-à-dire le sermon du mariage)
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Basysyar\], telah menceritakan kepada kami \[Badal bin Al Muhabbar\], telah mengabarkan kepada kami \[Syu'bah\] dari \[Al 'Ala'\] anak saudara Syu'aib Ar Razi dari \[Isma'il bin Ibrahim\] dari \[seorang laki-laki dari Bani Sulaim\], ia berkata; aku meminang Umamah binti Abdul Muththalib kepada Rasulullah shallallahu 'alaihi wasallam kemudian beliau menikahkanku tanpa beliau mengucapkan syahadat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Badal bin Al Muhabbar], telah mengabarkan kepada kami [Syu'bah] dari [Al 'Ala'] anak saudara Syu'aib Ar Razi dari [Isma'il bin Ibrahim] dari [seorang laki-laki dari Bani Sulaim], ia berkata; aku meminang Umamah binti Abdul Muththalib kepada Rasulullah shallallahu 'alaihi wasallam kemudian beliau menikahkanku tanpa beliau mengucapkan syahadat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Исма‘иль ибн Ибрахим передаёт от одного человека из бану Суляйм: «Я попросил Пророка ﷺ выдать за меня Умаму бинт ‘Абду-ль-Мутталиб. И он выдал её за меня, не произнося слова свидетельства»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süleym oğulanndan bir adamdan; demiştir ki: Nebi (s.a.v.)'e (giderek kendisinden) Ümâme bint Abdulmuttalib'i istedim. Bunun üzerine hutbe okumaksızın (onu) bana nikahladı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بنی سلیم کے ایک شخص کہتے ہیں میں نے امامہ بنت عبدالمطلب سے نکاح کے لیے نبی اکرم صلی اللہ علیہ وسلم کے پاس پیغام بھیجا تو آپ نے بغیر خطبہ پڑھے ان سے میرا نکاح کر دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2120</td></tr><tr><td>Arabic No</td><td>2120</td></tr><tr><td>Reference</td><td>Book 12 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2120 |
+| Arabic No | 2120 |
+| Reference | Book 12 Hadith 75 |

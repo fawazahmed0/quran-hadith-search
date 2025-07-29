@@ -12,54 +12,101 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي، عَنْ يَحْيَى بْنِ أَيُّوبَ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، بِهَذَا الإِسْنَادِ نَحْوَهُ بِمَعْنَاهُ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ حَسَنٌ غَرِيبٌ صَحِيحٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1697 |
+| Arabic No | 1697 |
+| Reference | Book 23 Hadith 28 |
+
 حدثنا محمد بن بشار، حدثنا وهب بن جرير، حدثنا ابي، عن يحيى بن ايوب، عن يزيد بن ابي حبيب، بهذا الاسناد نحوه بمعناه . قال ابو عيسى هذا حديث حسن غريب صحيح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1697 |
+| Arabic No | 1697 |
+| Reference | Book 23 Hadith 28 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । উপরোক্ত হাদীসের মতো মুহাম্মাদ ইবনু বাশশার-ওয়াহব ইবনু জারীর হতে, তিনি তার পিতা হতে, তিনি ইয়াহিয়া ইবনু আইউব হতে, তিনি ইয়াযীদ ইবনু আবী হাবীব হতে এই সূত্রেও অনুরূপ অর্থের হাদীস বর্ণিত আছে। এ হাদীসটিকে আবূ ঈসা হাসান গারীব সহীহ বলেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1697 |
+| Arabic No | 1697 |
+| Reference | Book 23 Hadith 28 |
 
 ## English
 
+Another chain with similar meaning. \[Abu 'Eisa said:\] This Hadith is Hasan Gharib Sahih
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Another chain with similar meaning. [Abu 'Eisa said:] This Hadith is Hasan Gharib Sahih
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1697 |
+| Arabic No | 1697 |
+| Reference | Book 23 Hadith 28 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1697 |
+| Arabic No | 1697 |
+| Reference | Book 23 Hadith 28 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammed b. Beşşâr (r.a.), Vehb b. Cerir vasıtasıyla Übey’den Yahya b. Eyyûb’tan, Yezîd b. Ebî Habib’den aynı senetle bu (1696.) hadisin mana olarak bir benzerini rivâyet etmiştir. Tirmizî: Bu hadis hasen garib sahihtir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1697 |
+| Arabic No | 1697 |
+| Reference | Book 23 Hadith 28 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یزید بن ابی حبیب سے اسی سند سے اسی معنی کی اسی جیسی حدیث مروی ہے۔ امام ترمذی کہتے ہیں: یہ حدیث حسن غریب صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1697</td></tr><tr><td>Arabic No</td><td>1697</td></tr><tr><td>Reference</td><td>Book 23 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Bashar Awad Maarouf |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1697 |
+| Arabic No | 1697 |
+| Reference | Book 23 Hadith 28 |

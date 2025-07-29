@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ عَلِيُّ بْنُ خَشْرَمٍ، أَخْبَرَنَا عِيسَى، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّهُ سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ كَانَ النَّبِيُّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه علي بن خشرم، اخبرنا عيسى، اخبرنا ابن جريج، اخبرني ابو الزبير، انه سمع جابر بن عبد الله، يقول كان النبي صلى الله عليه وسلم . بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আলী ইবনু খাশরম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম...পূর্বোক্ত হাদীসের অনুরূপ। (ইসলামিক ফাউন্ডেশন ৩০০৮, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. Abdullah reported a hadith like this from Allah's Apostle (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## French
 
+Rapporté par Jabir ibn Abdullah : Un hadith semblable a été rapporté par le Messager d’Allah ﷺ
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize, bu hadîsi Alîyyü'bnü Haşrem de rivayet etti. (Dediki): Bize îsâ haber verdi. (Dediki): Bize İbni Cüreyc haber verdi. (Dediki): Bana Ebû'z-Zübeyr haber verdi. Kendisi Câbir b. Abdillah'ı yukarki hadîsde olduğu gibi: «Nebi (Sallallahu Aleyhi ve Sellem)... taş atardı.» derken işitmiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمیں عیسیٰ بن یونس نے خبردی ، ( کہا : ) ہمیں ابن جریج نے خبر دی ، ( کہا : ) مجھے ابو زبیرنے بتایا کہ انھوں نے جابر بن عبداللہ رضی اللہ تعالیٰ عنہ سے سنا ، وہ کہہ رہے تھے : نبی کریم صلی اللہ علیہ وسلم آگے اسی کے مانند ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3142</td></tr><tr><td>Arabic No</td><td>1299.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 346</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3142 |
+| Arabic No | 1299.03 |
+| Reference | Book 15 Hadith 346 |

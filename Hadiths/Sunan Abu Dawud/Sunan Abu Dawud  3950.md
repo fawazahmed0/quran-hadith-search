@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، - رضى الله عنه - قَالَ مَنْ مَلَكَ ذَا رَحِمٍ مَحْرَمٍ فَهُوَ حُرٌّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
+
 حدثنا محمد بن سليمان الانباري، حدثنا عبد الوهاب، عن سعيد، عن قتادة، ان عمر بن الخطاب، - رضى الله عنه - قال من ملك ذا رحم محرم فهو حر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
 
 ## Bengali
 
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। উমার ইবনুল খাত্তাব (রাঃ) বলেন, কারো মালিকানায় যদি নিকটাত্মীয় মুহাররাম ব্যক্তি গোলাম থাকে তবে সে সরাসরি আযাদ।\[1\] দুর্বল মাকতু।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। উমার ইবনুল খাত্তাব (রাঃ) বলেন, কারো মালিকানায় যদি নিকটাত্মীয় মুহাররাম ব্যক্তি গোলাম থাকে তবে সে সরাসরি আযাদ।[1] দুর্বল মাকতু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umar ibn al-Khattab: Qatadah reported Umar ibn al-Khattab (may Allah be pleased with him) as saying: If anyone gets possession of a relative who is within the prohibited degrees, that person becomes free
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
+
+## French
+
+Rapporté par Omar ibn al-Khattab رضي الله عنه : Qatadah rapporte qu’Omar ibn al-Khattab رضي الله عنه a dit : « Si quelqu’un acquiert un parent qui fait partie des degrés interdits, cette personne devient libre. »
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Sulaiman Al Anbari\] telah menceritakan kepada kami \[Abdul Wahhab\] dari \[Sa'id\] dari \[Qatadah\] bahwa \[Umar bin Al Khathab\] radliallahu 'anhu berkata, "Barangsiapa memiliki hubungan kekerabatan maka ia adalah orang yang merdeka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] telah menceritakan kepada kami [Abdul Wahhab] dari [Sa'id] dari [Qatadah] bahwa [Umar bin Al Khathab] radliallahu 'anhu berkata, "Barangsiapa memiliki hubungan kekerabatan maka ia adalah orang yang merdeka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, сказал: «Если кто-то стал владельцем близкого родственника, этот родственник становится свободным»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Katâde'den rivayet olunduğuna göre; Ömer İbn el-Hattab şöyle buyurmuştur: "Her kim (kendisine nikahı) haram olan bir yakın (ın)a sahip olursa (yakını olan) o (köle) hürdür." Ayrıca bu hadis; Tirmizî. Ahkâm; İbn-i Mâce. ıtk ta da var. İzah 3952 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمر بن خطاب رضی اللہ عنہ کہتے ہیں جو کسی قرابت دار محرم کا مالک ہو جائے تو وہ ( ملکیت میں آتے ہی ) آزاد ہو جائے گا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3950</td></tr><tr><td>Arabic No</td><td>3950</td></tr><tr><td>Reference</td><td>Book 31 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3950 |
+| Arabic No | 3950 |
+| Reference | Book 31 Hadith 25 |

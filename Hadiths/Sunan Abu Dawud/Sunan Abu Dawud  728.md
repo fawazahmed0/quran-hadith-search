@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا شَرِيكٌ، عَنْ عَاصِمِ بْنِ كُلَيْبٍ، عَنْ أَبِيهِ، عَنْ وَائِلِ بْنِ حُجْرٍ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم حِينَ افْتَتَحَ الصَّلاَةَ رَفَعَ يَدَيْهِ حِيَالَ أُذُنَيْهِ - قَالَ - ثُمَّ أَتَيْتُهُمْ فَرَأَيْتُهُمْ يَرْفَعُونَ أَيْدِيَهُمْ إِلَى صُدُورِهُمْ فِي افْتِتَاحِ الصَّلاَةِ وَعَلَيْهِمْ بَرَانِسُ وَأَكْسِيَةٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا شريك، عن عاصم بن كليب، عن ابيه، عن وايل بن حجر، قال رايت النبي صلى الله عليه وسلم حين افتتح الصلاة رفع يديه حيال اذنيه - قال - ثم اتيتهم فرايتهم يرفعون ايديهم الى صدورهم في افتتاح الصلاة وعليهم برانس واكسية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
 
 ## Bengali
 
+। ওয়ায়িল ইবনু হুজর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাত আরম্ভকালে স্বীয় দু’ হাত নিজের কান পর্যন্ত উঠাতে দেখেছি। বর্ণনাকারী বলেন, আমি কয়েক দিন পর সেখানে গিয়ে দেখলাম, সাহাবীগণ সালাত আরম্ভকালে তাদের হাতগুলো বুক পর্যন্ত উঠাচ্ছেন। এ সময় তাঁদের শরীর কোট ও অন্যান্য কাপড়ে আবৃত ছিল।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ওয়ায়িল ইবনু হুজর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সালাত আরম্ভকালে স্বীয় দু’ হাত নিজের কান পর্যন্ত উঠাতে দেখেছি। বর্ণনাকারী বলেন, আমি কয়েক দিন পর সেখানে গিয়ে দেখলাম, সাহাবীগণ সালাত আরম্ভকালে তাদের হাতগুলো বুক পর্যন্ত উঠাচ্ছেন। এ সময় তাঁদের শরীর কোট ও অন্যান্য কাপড়ে আবৃত ছিল।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Wa'il ibn Hujr: I witnessed the Prophet (ﷺ) raise his hands in front of his ears when he began to pray. I then came back and saw them (the people) raising their hands up to their chest when they began to pray. They wore long caps and blankets
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
+
+## French
+
+Rapporté par Wa’il ibn Hujr رضي الله عنه : J’ai vu le Prophète ﷺ lever les mains devant ses oreilles lorsqu’il commençait la prière. Je suis revenu plus tard et j’ai vu les gens lever les mains jusqu’à la poitrine au début de la prière. Ils portaient de longs bonnets et des manteaux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] telah menceritakan kepada kami \[Syarik\] dari \['Ashim bin Kulaib\] dari \[ayahnya\] dari \[Wa'il bin Hujr\] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam ketika memulai shalat, beliau mengangkat kedua tangannya sejajar dengan kedua telinganya, katanya; kemudian aku datang kepada mereka (para sahabat), maka aku melihat mereka mengangkat kedua tangan sampai ke dada mereka ketika memulai shalat, sementara mereka ada yang mengenakan mantel yang menutupi kepala dan ada juga yang mengenakan pakaian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Syarik] dari ['Ashim bin Kulaib] dari [ayahnya] dari [Wa'il bin Hujr] dia berkata; saya melihat Rasulullah shallallahu 'alaihi wasallam ketika memulai shalat, beliau mengangkat kedua tangannya sejajar dengan kedua telinganya, katanya; kemudian aku datang kepada mereka (para sahabat), maka aku melihat mereka mengangkat kedua tangan sampai ke dada mereka ketika memulai shalat, sementara mereka ada yang mengenakan mantel yang menutupi kepala dan ada juga yang mengenakan pakaian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Уаиль ибн Худжр сказал: «Я видел, как приступая к молитве, Пророк ﷺ поднял свои руки параллельно к ушам».Он сказал: «Затем я пришёл к ним и увидел, что они поднимают руки до уровня груди, вступая в молитву, и они были одеты в плащи с капюшонами и рубахи»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Yine) Vail b. Hucr'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem)'i namaza başlayacağı zaman ellerini kulaklarının hizasına kadar kaldırırken gördüm. Daha sonra yanlarına geldiğimde üzerlerinde aba ve başlıklı elbiseler olduğu halde namaza başlarken ellerini (ancak) göğüslerine kadar kaldırdıklarını gördüm. Diğer tahric: Nesai, tatbîk; Ahmed b. Hanbel IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میں نے نبی اکرم صلی اللہ علیہ وسلم کو دیکھا جس وقت آپ نے نماز شروع کی اپنے دونوں ہاتھوں کو کانوں کے بالمقابل اٹھایا، پھر میں (ایک زمانہ کے بعد) لوگوں کے پاس آیا تو میں نے انہیں دیکھا کہ وہ نماز شروع کرتے وقت اپنے ہاتھ اپنے سینوں تک اٹھاتے اور حال یہ ہوتا میں سردی کے موسم میں نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا تو میں نے صحابہ کرام کو دیکھا کہ وہ نماز میں ( سردی کی وجہ سے ) اپنے کپڑوں کے اندر ہی رفع یدین کرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>728</td></tr><tr><td>Arabic No</td><td>728</td></tr><tr><td>Reference</td><td>Book 2 Hadith 338</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 728 |
+| Arabic No | 728 |
+| Reference | Book 2 Hadith 338 |

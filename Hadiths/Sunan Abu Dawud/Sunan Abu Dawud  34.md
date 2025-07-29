@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَطَاءٍ، عَنْ سَعِيدٍ، عَنْ أَبِي مَعْشَرٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمَعْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
+
 حدثنا محمد بن حاتم بن بزيع، حدثنا عبد الوهاب بن عطاء، عن سعيد، عن ابي معشر، عن ابراهيم، عن الاسود، عن عايشة، عن النبي صلى الله عليه وسلم بمعناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
 
 ## Bengali
 
+। এই সানাদে ‘আয়িশাহ্ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণিত আছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। এই সানাদে ‘আয়িশাহ্ (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণিত আছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah, also reported a tradition bearing similar meaning through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
+
+## French
+
+Aishah رضي الله عنها a également rapporté un hadith au sens similaire par une autre chaîne de transmetteurs
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-Асвад передал со слов ‘Аиши, передавшей от Пророка ﷺ (хадис) с таким же смыслом что и у предыдущего
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan bir başka senedle bir önceki hadisle aynı anlamda (ayrıca) rivayet edilmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ام المؤمنین عائشہ رضی اللہ عنہا نے نبی اکرم صلی اللہ علیہ وسلم سے اسی مفہوم کی حدیث روایت کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>34</td></tr><tr><td>Arabic No</td><td>34</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 34 |
+| Arabic No | 34 |
+| Reference | Book 1 Hadith 34 |

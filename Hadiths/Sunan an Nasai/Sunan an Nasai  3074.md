@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مُحَمَّدُ بْنُ آدَمَ، عَنْ عَبْدِ الرَّحِيمِ، عَنْ عُبَيْدِ اللَّهِ بْنِ عُمَرَ، وَذَكَرَ، آخَرَ عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم رَمَى الْجَمْرَةَ بِمِثْلِ حَصَى الْخَذْفِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 24 Hadith 457</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |
+
 اخبرني محمد بن ادم، عن عبد الرحيم، عن عبيد الله بن عمر، وذكر، اخر عن ابي الزبير، عن جابر، ان رسول الله صلى الله عليه وسلم رمى الجمرة بمثل حصى الخذف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 24 Hadith 457</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন আদম (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জামরায় কংকর নিক্ষেপ করেন, দু’আঙ্গুলে নিক্ষেপ করার মত ক্ষুদ্র কংকর।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 24 Hadith 457</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Jabir:That the Messenger of Allah stoned the Jamarat with pebbles like date sones or fingertips
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 24 Hadith 457</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |
+
+## French
+
+Rapporté par Jabir : Le Messager d’Allah ﷺ a lapidé les Jamarat avec des cailloux de la taille de noyaux de dattes ou du bout des doigts
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Adam\] dari \[Abdur Rahim\] dari \['Ubaidullah bin Umar\] dan orang lain menyebutkan dari \[Abu Az Zubair\] dari \[Jabir\] bahwa Rasulullah shallallahu 'alaihi wasallam melempar Jumrah dengan kerikil seperti kerikil untuk melempar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Adam] dari [Abdur Rahim] dari ['Ubaidullah bin Umar] dan orang lain menyebutkan dari [Abu Az Zubair] dari [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam melempar Jumrah dengan kerikil seperti kerikil untuk melempar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 24 Hadith 457</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 24 Hadith 457</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے جمرہ عقبہ کی رمی چٹکی میں آنے والی جیسی کنکریوں سے کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3074</td></tr><tr><td>Arabic No</td><td>3074</td></tr><tr><td>Reference</td><td>Book 24 Hadith 457</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3074 |
+| Arabic No | 3074 |
+| Reference | Book 24 Hadith 457 |

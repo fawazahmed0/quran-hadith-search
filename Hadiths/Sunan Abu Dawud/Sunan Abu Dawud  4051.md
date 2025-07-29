@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، وَمُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالاَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنْ هُبَيْرَةَ، عَنْ عَلِيٍّ، - رضى الله عنه - قَالَ نَهَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ خَاتَمِ الذَّهَبِ وَعَنْ لُبْسِ الْقَسِّيِّ وَالْمِيثَرَةِ الْحَمْرَاءِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
+
 حدثنا حفص بن عمر، ومسلم بن ابراهيم، قالا حدثنا شعبة، عن ابي اسحاق، عن هبيرة، عن علي، - رضى الله عنه - قال نهاني رسول الله صلى الله عليه وسلم عن خاتم الذهب وعن لبس القسي والميثرة الحمراء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
 
 ## Bengali
 
+। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে নিষেধ করেছেন স্বর্ণের আংটি ব্যবহার করতে, রেশমী কাপড় পরতে এবং নরম তুলতুলে লাল রঙের রেশমী জিনপোষে বসতে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে নিষেধ করেছেন স্বর্ণের আংটি ব্যবহার করতে, রেশমী কাপড় পরতে এবং নরম তুলতুলে লাল রঙের রেশমী জিনপোষে বসতে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ali ibn AbuTalib: The Messenger of Allah (ﷺ) forbade me to wear a gold ring, or a Qassi garment or the use purple saddle-cloths
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
+
+## French
+
+Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Messager d’Allah ﷺ m’a interdit de porter une bague en or, un vêtement en qassi ou d’utiliser des tapis de selle violets
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar\] dan \[Muslim bin Ibrahim\] keduanya berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Abu Ishaq\] dari \[Hubairah\] dari \[Ali radliallahu 'anhu\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarangku memakai cincin emas, memakai kain yang bersulam sutera dan alas pelana yang berwarna merah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar] dan [Muslim bin Ibrahim] keduanya berkata; telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Hubairah] dari [Ali radliallahu 'anhu] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarangku memakai cincin emas, memakai kain yang bersulam sutera dan alas pelana yang berwarna merah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Али, да будет доволен им Аллах: «Посланник Аллаха ﷺ запретил мне носить золотые перстни, носить касси (род шёлковой одежды) и ездить на пурпурных подстилках»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Ali (r.a)'dan rivayet olunmuştur; dedi ki: Resulullah (s.a.v), bana altın yüzüğü, ipekli elbiseyi ve kırmızı eğer yastıklarını yasakladı. Bu hadis; Buharî; cenâiz, eşribe, merdâ. libas. İstizan; Müslim, libâs: Tirmizî. Salat. libas. edeb; Nesâî. tatbik, eşribe: Muvatta, nida; Ahmed b. Hanbel. I,80, 81, 92. 94, 104, 105, 114, 119, 121, 123, 126, 128, 132, 133, 134, 137, 138, 145, 146, IV, 284. 287, 299, VI, 228. dede var
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے مجھے سونے کی انگوٹھی سے اور قسی ۱؎ پہننے سے اور سرخ زین پوش سے منع فرمایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>4051</td></tr><tr><td>Reference</td><td>Book 34 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 4051 |
+| Reference | Book 34 Hadith 32 |

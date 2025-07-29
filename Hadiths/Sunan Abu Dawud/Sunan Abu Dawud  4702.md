@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي هِشَامُ بْنُ سَعْدٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنَّ مُوسَى قَالَ يَا رَبِّ أَرِنَا آدَمَ الَّذِي أَخْرَجَنَا وَنَفْسَهُ مِنَ الْجَنَّةِ فَأَرَاهُ اللَّهُ آدَمَ فَقَالَ أَنْتَ أَبُونَا آدَمُ فَقَالَ لَهُ آدَمُ نَعَمْ ‏.‏ قَالَ أَنْتَ الَّذِي نَفَخَ اللَّهُ فِيكَ مِنْ رُوحِهِ وَعَلَّمَكَ الأَسْمَاءَ كُلَّهَا وَأَمَرَ الْمَلاَئِكَةَ فَسَجَدُوا لَكَ قَالَ نَعَمْ ‏.‏ قَالَ فَمَا حَمَلَكَ عَلَى أَنْ أَخْرَجْتَنَا وَنَفْسَكَ مِنَ الْجَنَّةِ فَقَالَ لَهُ آدَمُ وَمَنْ أَنْتَ قَالَ أَنَا مُوسَى ‏.‏ قَالَ أَنْتَ نَبِيُّ بَنِي إِسْرَائِيلَ الَّذِي كَلَّمَكَ اللَّهُ مِنْ وَرَاءِ الْحِجَابِ لَمْ يَجْعَلْ بَيْنَكَ وَبَيْنَهُ رَسُولاً مِنْ خَلْقِهِ قَالَ نَعَمْ ‏.‏ قَالَ أَفَمَا وَجَدْتَ أَنَّ ذَلِكَ كَانَ فِي كِتَابِ اللَّهِ قَبْلَ أَنْ أُخْلَقَ قَالَ نَعَمْ ‏.‏ قَالَ فَفِيمَ تَلُومُنِي فِي شَىْءٍ سَبَقَ مِنَ اللَّهِ تَعَالَى فِيهِ الْقَضَاءُ قَبْلِي ‏"‏ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ ذَلِكَ ‏"‏ فَحَجَّ آدَمُ مُوسَى فَحَجَّ آدَمُ مُوسَى ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
+
 حدثنا احمد بن صالح، قال حدثنا ابن وهب، قال اخبرني هشام بن سعد، عن زيد بن اسلم، عن ابيه، ان عمر بن الخطاب، قال قال رسول الله صلى الله عليه وسلم " ان موسى قال يا رب ارنا ادم الذي اخرجنا ونفسه من الجنة فاراه الله ادم فقال انت ابونا ادم فقال له ادم نعم . قال انت الذي نفخ الله فيك من روحه وعلمك الاسماء كلها وامر الملايكة فسجدوا لك قال نعم . قال فما حملك على ان اخرجتنا ونفسك من الجنة فقال له ادم ومن انت قال انا موسى . قال انت نبي بني اسراييل الذي كلمك الله من وراء الحجاب لم يجعل بينك وبينه رسولا من خلقه قال نعم . قال افما وجدت ان ذلك كان في كتاب الله قبل ان اخلق قال نعم . قال ففيم تلومني في شىء سبق من الله تعالى فيه القضاء قبلي " . قال رسول الله صلى الله عليه وسلم عند ذلك " فحج ادم موسى فحج ادم موسى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
 
 ## Bengali
 
+। উমার ইবনুল খাত্তাব (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মূসা (আঃ) বললেন, হে রব! যে আদম (আঃ) আমাদেরকে ও তাঁর নিজেকে জান্নাত থেকে বিতাড়িত করেছেন, তাঁকে আমি দেখতে চাই। অতঃপর মহান আল্লাহ তাঁকে আদম (আঃ)-কে দেখালেন। তিনি বললেন, আপনিই আমাদের পিতা আদম (আঃ)? আদম (আঃ) বললেন, হ্যাঁ। অতঃপর তিনি বললেন, আপনি সেই মহান ব্যক্তি যাঁর মধ্যে মহান আল্লাহ তাঁর পক্ষ থেকে রূহ সঞ্চার করেছেন এবং আপনাকে সকল কিছুর নাম শিখিয়েছেন, আর ফিরিশতাদেরকে হুকুম দিলে তারা আপনাকে সিজদা করেছেন। তিনি বললেন, হ্যাঁ। তিনি পুনরায় বললেন, আমাদেরকে ও আপনার নিজেকে জান্নাত থেকে বহিষ্কার করার জন্য আপনাকে কোন বস্তু উদ্ধুদ্ধ করেছিল? এবার তাঁকে আদম (আঃ) বললেন, তুমি কে? তিনি বললেন, আমি মূসা (আঃ)। তিনি বললেন, তুমি বনী ইসরাঈলের এমন একজন নবী যাঁর সাথে আল্লাহ পর্দার অন্তরাল থেকে সরাসরি কথা বলেছেন এবং তোমার ও তাঁর মাঝে সৃষ্টি জগতের কাউকে বার্তাবহক হিসেবে গ্রহণ করেননি। তিনি বললেন, হ্যাঁ। তিনি বললেন, তুমি কি আল্লাহর কিতাবে দেখতে পাওনি যে, সেটি নির্ধারিত ছিলো আমাকে সৃষ্টি করার পূর্বেই? তিনি বললেন, হ্যাঁ। তিনি বললেন, যে বিষয়ে মহান আল্লাহর সিদ্ধান্ত আমার পূর্ব থেকেই লিপিবদ্ধ সে ব্যাপারে আমাকে কেন অভিযুক্ত করছো? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সুতরাং এ বিতর্কে আদম (আঃ) মূসা (আঃ)-এর উপর জয়ী হলেন।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উমার ইবনুল খাত্তাব (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মূসা (আঃ) বললেন, হে রব! যে আদম (আঃ) আমাদেরকে ও তাঁর নিজেকে জান্নাত থেকে বিতাড়িত করেছেন, তাঁকে আমি দেখতে চাই। অতঃপর মহান আল্লাহ তাঁকে আদম (আঃ)-কে দেখালেন। তিনি বললেন, আপনিই আমাদের পিতা আদম (আঃ)? আদম (আঃ) বললেন, হ্যাঁ। অতঃপর তিনি বললেন, আপনি সেই মহান ব্যক্তি যাঁর মধ্যে মহান আল্লাহ তাঁর পক্ষ থেকে রূহ সঞ্চার করেছেন এবং আপনাকে সকল কিছুর নাম শিখিয়েছেন, আর ফিরিশতাদেরকে হুকুম দিলে তারা আপনাকে সিজদা করেছেন। তিনি বললেন, হ্যাঁ। তিনি পুনরায় বললেন, আমাদেরকে ও আপনার নিজেকে জান্নাত থেকে বহিষ্কার করার জন্য আপনাকে কোন বস্তু উদ্ধুদ্ধ করেছিল? এবার তাঁকে আদম (আঃ) বললেন, তুমি কে? তিনি বললেন, আমি মূসা (আঃ)। তিনি বললেন, তুমি বনী ইসরাঈলের এমন একজন নবী যাঁর সাথে আল্লাহ পর্দার অন্তরাল থেকে সরাসরি কথা বলেছেন এবং তোমার ও তাঁর মাঝে সৃষ্টি জগতের কাউকে বার্তাবহক হিসেবে গ্রহণ করেননি। তিনি বললেন, হ্যাঁ। তিনি বললেন, তুমি কি আল্লাহর কিতাবে দেখতে পাওনি যে, সেটি নির্ধারিত ছিলো আমাকে সৃষ্টি করার পূর্বেই? তিনি বললেন, হ্যাঁ। তিনি বললেন, যে বিষয়ে মহান আল্লাহর সিদ্ধান্ত আমার পূর্ব থেকেই লিপিবদ্ধ সে ব্যাপারে আমাকে কেন অভিযুক্ত করছো? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সুতরাং এ বিতর্কে আদম (আঃ) মূসা (আঃ)-এর উপর জয়ী হলেন।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Umar b. al-Khattab reported the Messenger of Allah (May peace be upon him) as saying :Moses said : My lord, show us Adam who caused us and himself to come out from Paradise. So Allah showed him Adam. He asked : Are you our father, Adam? Adam said to him : Yes. He said : Are you the one into whom Allah breathed of his spirit, taught you all the names, and commanded angels (to prostrate) and they prostrated to you? He replied : Yes. He asked : Then what moved you to cause us and yourself to come out from paradise? Adam asked him : And who are you? He said : Yes. He asked : Did you not find that was decreed in the book (records) of Allah before I was created? He replied : Yes. He asked : Then why do you blame me about a thing for which Divine decree had already passed before me ? The Messenger of Allah (May peace be upon him) said : So Adam got the better of Moses in argument (peace be upon him)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
+
+## French
+
+Rapporté par ‘Umar b. al-Khattab رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Moïse a dit : “Mon Seigneur, montre-nous Adam qui nous a fait sortir, lui et nous, du Paradis.” Alors Allah lui montra Adam. Il lui demanda : “Es-tu notre père, Adam ?” Adam répondit : “Oui.” Il demanda : “Es-tu celui dans lequel Allah a insufflé de Son esprit, t’a appris tous les noms, et a ordonné aux anges de se prosterner devant toi, et ils se sont prosternés ?” Il répondit : “Oui.” Il demanda : “Qu’est-ce qui t’a poussé à nous faire sortir, toi et nous, du Paradis ?” Adam lui demanda : “Et toi, qui es-tu ?” Il répondit : “Je suis Moïse.” Il demanda : “N’as-tu pas trouvé que cela était déjà écrit dans le livre d’Allah avant que je sois créé ?” Il répondit : “Oui.” Il demanda : “Alors pourquoi me reproches-tu une chose qui était déjà décidée avant moi ?” Le Messager d’Allah ﷺ a dit : « Ainsi, Adam a eu le dessus sur Moïse dans la discussion. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Shalih\] ia berkata; telah menceritakan kepada kami \[Ibnu Wahb\] ia berkata; telah mengabarkan kepadaku \[Hisyam bin Sa'd\] dari \[Zaid bin Aslam\] dari \[Bapaknya\] bahwa \[Umar Ibnul Khaththab\] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Musa berkata, "Wahai Rabb, perlihatkanlah kepadaku Adam, orang yang telah mengeluarkan kami dan dirinya dari surga." Lalu Allah memperlihatkan Adam kepadanya, Musa pun berkata, "Engkau Adam bapak kami!" Adam menjawab, "Benar." Musa berkata lagi, "Engkaukah orang yang telah ditiupkan ruh oleh Allah, diberikan pengetahuan tentang nama-nama segala sesuatu, dan Allah memerintahkan para malaikat untuk sujud, lalu mereka sujud kepadamu?" Adam menjawab, "Benar." Musa bertanya, "Lalu apa yang mendorongmu untuk mengeluarkan kami serta dirimu dari surga?" Adam balik bertanya, "Lalu kamu sendiri siapa?" Musa menjawab, "Aku adalah Musa." Adam bertanya, "Kamukah Nabi dari kalangan bani Isra'il yang Allah telah mengajakmu berbicara dari balik tabir tanpa ada seorang perantara?" Musa menjawab, "Benar." Adam bertanya, "Tidakkah engkau mengerti bahwa itu semua sudah ditentukan oleh Allah dalam kitab-Nya (Al Lauhul Mahfudh) sebelum aku diciptakan?" Musa menjawab, "Benar." Adam bertanya, "Lalu kenapa engkau menyalahkanku atas sesuatu yang telah ditentukan Allah sebelum aku (diciptakan)?" Ketika itu Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Adam mengalahkan Musa, Adam mengalahkan Musa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Shalih] ia berkata; telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [Bapaknya] bahwa [Umar Ibnul Khaththab] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Musa berkata, "Wahai Rabb, perlihatkanlah kepadaku Adam, orang yang telah mengeluarkan kami dan dirinya dari surga." Lalu Allah memperlihatkan Adam kepadanya, Musa pun berkata, "Engkau Adam bapak kami!" Adam menjawab, "Benar." Musa berkata lagi, "Engkaukah orang yang telah ditiupkan ruh oleh Allah, diberikan pengetahuan tentang nama-nama segala sesuatu, dan Allah memerintahkan para malaikat untuk sujud, lalu mereka sujud kepadamu?" Adam menjawab, "Benar." Musa bertanya, "Lalu apa yang mendorongmu untuk mengeluarkan kami serta dirimu dari surga?" Adam balik bertanya, "Lalu kamu sendiri siapa?" Musa menjawab, "Aku adalah Musa." Adam bertanya, "Kamukah Nabi dari kalangan bani Isra'il yang Allah telah mengajakmu berbicara dari balik tabir tanpa ada seorang perantara?" Musa menjawab, "Benar." Adam bertanya, "Tidakkah engkau mengerti bahwa itu semua sudah ditentukan oleh Allah dalam kitab-Nya (Al Lauhul Mahfudh) sebelum aku diciptakan?" Musa menjawab, "Benar." Adam bertanya, "Lalu kenapa engkau menyalahkanku atas sesuatu yang telah ditentukan Allah sebelum aku (diciptakan)?" Ketika itu Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Adam mengalahkan Musa, Adam mengalahkan Musa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Умара ибн аль-Хаттаба, что Посланник Аллаха ﷺ сказал: «Поистине, Муса скажет: “Господи, покажи нам Адама, который вывел и нас, и себя из Рая”. И Аллах покажет ему Адама. Муса спросит: “Ты наш праотец Адам?” Адам ответит ему: “Да”. Муса спросит: “Ты тот, в кого Аллах вдохнул от Своего духа, и кого научил всем именам, и перед кем повелел пасть ниц ангелам?” Он ответил: “Да”. Муса спросит: “А что побудило тебя (сделать то, из-за чего ты) вывел и нас, и себя из Рая?” Адам скажет ему: “А ты кто?” Муса ответит: “Я Муса”. Адам спросит: “Ты пророк бану исраиль, с которым говорил Аллах через завесу, и не сделал между тобой и Им посланца из числа Его творений (будь то ангел или кто-то иной)?” Он ответит: “Да”. Адам спросит: “Разве ты не обнаружил всё это записанным в Книге Аллаха до моего сотворения?” Он ответит: “Да, (обнаружил)”. Он скажет: “Почему же ты упрекаешь меня за то, что Всевышний Аллах предопределил мне до моего сотворения?”» Посланник Аллаха ﷺ сказал: «Так Адам победит Мусу в споре, так Адам победит Мусу в споре»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ömer İbn Hattâb (r.a.)'dan (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: "Musa (a.s. Yüce Allah'a): "Ey rabbim! Bize bizi ve kendisini cennetten çıkaran Âdem'i göster" diye niyaz etti de yüce Allah Adem'i O'na gösterdi. (Hz. Musa, Adem a.s.): "Sen bizim babamız (olan) Âdem misin?" dedi. Âdem de: "-Evet!" cevabını verdi (bunun üzerine Hz. Musa): "Sen, Allah'ın kendi ruhundan üfürdüğü ve isimlerin hepsini öğrettiği, meleklere (secde etmelerini) emredip de onların secde ettiği Âdem (değil mi)sin?" dedi. (Hz. Âdem de): "Evet" cevabını verdi. (Bu sefer Hz. Mûsâ): "Bizi ve kendini Cennetten çıkarmana seni zorlayan (sebep) ne idi?" diye sordu. Hz. Âdem de: "Sen kimsin?" dedi. (Hz. Mûsâ): "-Ben Musa'yım" dedi. (Bunun üzerine Hz. Âdem): "Sen İsrailoğuIIarının Nebilerinden, Allah'ın araya kendi yaratıklarından, bir elçi koymaksızın kendisiyle perde arkasından konuştuğu Nebi (değil mi)sin?" dedi. (Mûsâ aleyhisselâm da): "Evet!" cevabını verdi. (Âdem): Sen bunun ben yaratılmadan önce Allah'ın Kitabında daha önceden takdir edilmiş olduğuna dair (bir bilgiyi sana gelen vahiyler arasında) bulmadın mı? dedi. (Musa:) Evet, dedi. (Bunun üzerine Hz. Âdem: Öyleyse) hakkımda daha önceden Yüce Allah'ın takdir edilmiş hükmü bulunan birşey hususunda beni nasıl kınarsın?" dedi. (Rasûlullah (s.a.v.) sözlerine devam ederek): "Adem, Musa'ya galib geldi. Adem Musa'ya galib geldi. Allah'ın selâmı ikisinin de üzerine olsun" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمر بن خطاب رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: موسیٰ ( علیہ السلام ) نے کہا: اے میرے رب! ہمیں آدم علیہ السلام کو دکھا جنہوں نے ہمیں اور خود کو جنت سے نکلوایا، تو اللہ نے انہیں آدم علیہ السلام کو دکھایا، موسیٰ علیہ السلام نے کہا: آپ ہمارے باپ آدم ہیں؟ تو آدم علیہ السلام نے ان سے کہا: ہاں، انہوں نے کہا: آپ ہی ہیں جس میں اللہ نے اپنی روح پھونکی، جسے تمام نام سکھائے اور فرشتوں کو حکم دیا تو انہوں نے آپ کو سجدہ کیا؟ انہوں نے کہا: ہاں، انہوں نے کہا: تو پھر کس چیز نے آپ کو اس پر آمادہ کیا کہ آپ نے ہمیں اور خود کو جنت سے نکلوا دیا؟ تو آدم نے ان سے کہا: اور تم کون ہو؟ وہ بولے: میں موسیٰ ہوں، انہوں نے کہا: تم بنی اسرائیل کے وہی نبی ہو جس سے اللہ نے پردے کے پیچھے سے گفتگو کی اور تمہارے اور اپنے درمیان اپنی مخلوق میں سے کوئی قاصد مقرر نہیں کیا؟ کہا: ہاں، آدم علیہ السلام نے کہا: تو کیا تمہیں یہ بات معلوم نہیں کہ وہ ( جنت سے نکالا جانا ) میرے پیدا کئے جانے سے پہلے ہی کتاب میں لکھا ہوا تھا؟ کہا: ہاں معلوم ہے، انہوں نے کہا: پھر ایک چیز کے بارے میں جس کے متعلق اللہ تعالیٰ کا فیصلہ میرے پیدا کئے جانے سے پہلے ہی مقدر ہو چکا تھا کیوں مجھے ملامت کرتے ہو؟ یہاں پر رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تو آدم، موسیٰ پر غالب آ گئے، تو آدم موسیٰ پر غالب آ گئے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4702</td></tr><tr><td>Arabic No</td><td>4702</td></tr><tr><td>Reference</td><td>Book 42 Hadith 107</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4702 |
+| Arabic No | 4702 |
+| Reference | Book 42 Hadith 107 |

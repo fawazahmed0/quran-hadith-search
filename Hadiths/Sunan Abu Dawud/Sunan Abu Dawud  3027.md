@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي أُسَامَةَ، عَنْ مُجَالِدٍ، عَنِ الشَّعْبِيِّ، عَنْ عَامِرِ بْنِ شَهْرٍ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَتْ لِي هَمْدَانُ هَلْ أَنْتَ آتٍ هَذَا الرَّجُلَ وَمُرْتَادٌ لَنَا فَإِنْ رَضِيتَ لَنَا شَيْئًا قَبِلْنَاهُ وَإِنْ كَرِهْتَ شَيْئًا كَرِهْنَاهُ قُلْتُ نَعَمْ ‏.‏ فَجِئْتُ حَتَّى قَدِمْتُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَضِيتُ أَمْرَهُ وَأَسْلَمَ قَوْمِي وَكَتَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم هَذَا الْكِتَابَ إِلَى عُمَيْرٍ ذِي مَرَّانَ قَالَ وَبَعَثَ مَالِكَ بْنَ مِرَارَةَ الرَّهَاوِيَّ إِلَى الْيَمَنِ جَمِيعًا فَأَسْلَمَ عَكٌّ ذُو خَيْوَانَ ‏.‏ قَالَ فَقِيلَ لِعَكٍّ انْطَلِقْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَخُذْ مِنْهُ الأَمَانَ عَلَى قَرْيَتِكَ وَمَالِكَ فَقَدِمَ وَكَتَبَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ مِنْ مُحَمَّدٍ رَسُولِ اللَّهِ لِعَكٍّ ذِي خَيْوَانَ إِنْ كَانَ صَادِقًا فِي أَرْضِهِ وَمَالِهِ وَرَقِيقِهِ فَلَهُ الأَمَانُ وَذِمَّةُ اللَّهِ وَذِمَّةُ مُحَمَّدٍ رَسُولِ اللَّهِ ‏"‏ ‏.‏ وَكَتَبَ خَالِدُ بْنُ سَعِيدِ بْنِ الْعَاصِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
+
 حدثنا هناد بن السري، عن ابي اسامة، عن مجالد، عن الشعبي، عن عامر بن شهر، قال خرج رسول الله صلى الله عليه وسلم فقالت لي همدان هل انت ات هذا الرجل ومرتاد لنا فان رضيت لنا شييا قبلناه وان كرهت شييا كرهناه قلت نعم . فجيت حتى قدمت على رسول الله صلى الله عليه وسلم فرضيت امره واسلم قومي وكتب رسول الله صلى الله عليه وسلم هذا الكتاب الى عمير ذي مران قال وبعث مالك بن مرارة الرهاوي الى اليمن جميعا فاسلم عك ذو خيوان . قال فقيل لعك انطلق الى رسول الله صلى الله عليه وسلم فخذ منه الامان على قريتك ومالك فقدم وكتب له رسول الله صلى الله عليه وسلم " بسم الله الرحمن الرحيم من محمد رسول الله لعك ذي خيوان ان كان صادقا في ارضه وماله ورقيقه فله الامان وذمة الله وذمة محمد رسول الله " . وكتب خالد بن سعيد بن العاص
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আমির ইবনু শাহর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রওয়ানা হলেন। তখন হামদান গোত্রের লোকেরা আমাকে বললো, তুমি এ ব্যক্তির (রাসূলের) কাছে আমাদের প্রতিনিধি হয়ে যাবে কি? তুমি তার সাথে যেসব বিষয়ে সমঝোতায় আসবে ‘আমরা তাতে রাজি হবো। আর তুমি যা অপছন্দ করবে ‘আমরাও তা অপছন্দ করবো। আমি বললাম, হ্যাঁ যাবো। অতঃপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে উপস্থিত হয়ে তাঁর ফায়সালা মেনে নেই এবং আমার গোত্রের লোকেরা ইসলাম কবূল করলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উমাইর যি-মাররান (রাঃ)-এর নিকট একটি পত্র লিখালেন। বর্ণনাকারী বলেন, তিনি মালিক ইবনু মুরারাহ আর-রাহাবীকে সমগ্র ইয়ামেনবাসীর কাছে (দীনের দাওয়াতের উদ্দেশ্যে) পাঠালেন। অতঃপর আককু যু-খাইওয়ান ইসলাম কবূল করে। বর্ণনাকারী বলেন, আক্‌কু-কে বলা হলো, তুমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গিয়ে তাঁর কাছ থেকে তোমার গ্রাম ও সম্পদের নিরাপত্তার ব্যবস্থা করো। সুতরাং সে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এলে তিনি তার জন্য নিরাপত্তা লিখালেন। পত্রটি এরূপঃ বিসমিল্লাহির রহমানির রহীম। মুহাম্মাদুর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পক্ষ থেকে ‘আক্‌কু যি-খাইওয়ানের প্রতি। যদি সে (মুসলিম হওয়ার ব্যাপারে) সত্যবাদী হলে তার গ্রাম, সম্পদ ও তার দাস-দাসীর যিম্মাদারীর দায়িত্ব আল্লাহ এবং মুহাম্মাদুর রাসূলুল্লাহর। খালিদ ইবনু সাঈদ ইবনুল ‘আস (রাঃ) এ চিঠির ফরমান লিখেছিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Amir ibn Shahr: When the Messenger of Allah (ﷺ) appeared as a prophet, Hamdan said to me: Will you go to this man and negotiate for us (with him)? If you accept something, we shall accept it, and if you disapprove of something, we shall disapprove of it. I said: Yes. So I proceeded until I came to the Messenger of Allah (ﷺ). I liked his motive and my people embraced Islam. The Messenger of Allah (ﷺ) wrote the document for Umayr Dhu Marran. He also sent Malik ibn Murarah ar-Rahawi to all the (people of) Yemen. So Akk Dhu Khaywan embraced Islam. Akk was told: Go to the Messenger of Allah (ﷺ), and obtain his protection for your town and property. He therefore came (to him) and the Messenger of Allah (ﷺ) wrote a document for him: "In the name of Allah, Most Beneficent, Most Merciful. From Muhammad, the Messenger of Allah, to Akk Dhu Khaywan. If he is true his land, property and slave, he has the security and the protection of Allah, and Muhammad, the Messenger of Allah. Written by Khalid ibn Sa'id ibn al-'As
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
+
+## French
+
+Rapporté par Amir ibn Shahr : Quand le Messager d’Allah ﷺ a été envoyé comme prophète, Hamdan m’a dit : « Veux-tu aller voir cet homme et négocier pour nous avec lui ? Si tu acceptes quelque chose, nous l’accepterons, et si tu refuses quelque chose, nous le refuserons. » J’ai accepté. Je suis donc allé voir le Messager d’Allah ﷺ. J’ai apprécié sa démarche et mon peuple a embrassé l’islam. Le Messager d’Allah ﷺ a rédigé un document pour Umayr Dhu Marran. Il a aussi envoyé Malik ibn Murarah ar-Rahawi à tout le Yémen. Akk Dhu Khaywan a alors embrassé l’islam. On a dit à Akk : « Va voir le Messager d’Allah ﷺ et obtiens sa protection pour ta ville et tes biens. » Il est donc allé le voir et le Messager d’Allah ﷺ a écrit un document pour lui : « Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. De Muhammad, le Messager d’Allah, à Akk Dhu Khaywan. S’il est sincère, sa terre, ses biens et son esclave bénéficient de la sécurité et de la protection d’Allah et de Muhammad, le Messager d’Allah. » Rédigé par Khalid ibn Sa’id ibn al-‘As
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hannad bin As Sari\], dari \[Abu Usamah\] dari \[Mujalid\] dari \[Asy Sya'bi\] dari \['Amir bin Syahr\], ia berkata; Rasulullah shallallahu 'alaihi wasallam keluar, orang-orang Hamdan berkata kepadaku; apakah engkau mau pergi kepada orang ini, dan mencari untuk kami? Apabila engkau merelakan sesuatu untuk kami maka kami akan menerima dan apabila engkau tidak menyukai sesuatu maka kami pun tidak menyukainya. Aku katakan; ya. Kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam kemudian aku menyukai urusan beliau dan kaumku pun masuk Islam. Rasulullah shallallahu 'alaihi wasallam menulis surat ini kepada 'Umair Dzi Marran. Dan beliau mengutus Malik bin Mirarah Ar Rahawi ke seluruh Yaman. Kemudian 'Akku Dzu Khaiwan masuk Islam, lalu dikatakan kepada 'Akku; pergilah kepada Rasulullah shallallahu 'alaihi wasallam dan ambillah keamanan untuk kampong dan hartamu! Kemudian ia datang dan Rasulullah shallallahu 'alaihi wasallam menuliskan surat untuknya: "Bismillahirrahmanirrahim, dari Muhammad Rasulullah, untuk 'Akku Dzu Khaiwan: Apabila ia jujur untuk negeri, harta, dan budaknya maka baginya keamanan dan jaminan Allah dan jaminan Muhammad Rasulullah." Dan Khalid bin Sa'id bin Al 'Ash menulis hal tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hannad bin As Sari], dari [Abu Usamah] dari [Mujalid] dari [Asy Sya'bi] dari ['Amir bin Syahr], ia berkata; Rasulullah shallallahu 'alaihi wasallam keluar, orang-orang Hamdan berkata kepadaku; apakah engkau mau pergi kepada orang ini, dan mencari untuk kami? Apabila engkau merelakan sesuatu untuk kami maka kami akan menerima dan apabila engkau tidak menyukai sesuatu maka kami pun tidak menyukainya. Aku katakan; ya. Kemudian aku datang kepada Rasulullah shallallahu 'alaihi wasallam kemudian aku menyukai urusan beliau dan kaumku pun masuk Islam. Rasulullah shallallahu 'alaihi wasallam menulis surat ini kepada 'Umair Dzi Marran. Dan beliau mengutus Malik bin Mirarah Ar Rahawi ke seluruh Yaman. Kemudian 'Akku Dzu Khaiwan masuk Islam, lalu dikatakan kepada 'Akku; pergilah kepada Rasulullah shallallahu 'alaihi wasallam dan ambillah keamanan untuk kampong dan hartamu! Kemudian ia datang dan Rasulullah shallallahu 'alaihi wasallam menuliskan surat untuknya: "Bismillahirrahmanirrahim, dari Muhammad Rasulullah, untuk 'Akku Dzu Khaiwan: Apabila ia jujur untuk negeri, harta, dan budaknya maka baginya keamanan dan jaminan Allah dan jaminan Muhammad Rasulullah." Dan Khalid bin Sa'id bin Al 'Ash menulis hal tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Амира ибн Шахра, да будет доволен им Аллах: «Появился Посланник Аллаха ﷺ и хамданиты сказали мне: “Может, ты сходишь к этому человеку, чтобы узнать о нём побольше? И если тебе понравится то, что ты увидишь, мы также будем довольны, а если тебе не понравится, мы тоже будем питать к этому отвращение”. Я сказал: “Хорошо”. И я отправился к Посланнику Аллаха ﷺ. Когда я прибыл к нему, я остался доволен тем, к чему он призывал, и мои соплеменники приняли ислам, и Посланник Аллаха ﷺ написал это послание ‘Умайру Зу Маррану. И он послал Малика ибн Мирару ар-Рахави в Йемен, и Акк Зу Хайван принял ислам. Акку сказали: “Иди к Посланнику Аллаха ﷺ и попроси его гарантировать неприкосновенность твоему селению и твоему имуществу”. Он так и сделал, и Посланник Аллаха ﷺ написал ему: “С именем Аллаха Всемилостивого, Милостивого! От Мухаммада, Посланника Аллаха ﷺ Акку Зу Хайвану. Если он искренен и правдив, то его земля, его имущество и его невольники неприкосновенны: они под покровительством Аллаха и под покровительством Мухаммада Посланника Аллаха”. Это записал Халид ибн Са‘ид ибн аль-‘Ас»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amir b. Şehr'den demiştir ki: Rasûluliah (s.a.v.) (bir Nebi olarak ortaya çıkınca (benim mensup olduğum, Yemen'deki) Hemdân (kavmi) bana: "Sen bize bir öncü olarak şu (Nebi olduğu söylenen) adam'a gider misin? Eğer sen bizim için ondan hoşlanacak bir durum görürsen (gelip bize haber verirsin) onu(n Nebiliğini) biz de kabul ederiz. Fakat (onda) hoşlanmadığın bir durum görürsen, ondan bizde hoşlanmayız!" dedi(ler). Ben de: "Evet giderim" dedim ve Rasûlullah (s.a.v.)'in huzuruna vardım. Ve (onun) dinini beğendim (gelip kavmime haber verdim) kavmim de müslüman oldu. (Bunun üzerine) Rasûlullah (s.a.v.) (orada bulunan) Umeyr Zû Merrân'a şu mektub'u yazdı... Malik b. Merare er-Rehavî'yi de tüm (Yemen halkına elçi olmak üzere) Yemen'e gönderdi, (onu gönderince) Akk Zû-Hayvan (isimli şahıs) da müslüman oludu. Akk (ismindeki bu zat)a "Rasûlullah (s.a.v.)'e git de köyün ve malın için ondan bir emân al !" denildi. (O da) bunun üzerine (yola çıkıp Hz. Nebi'ye) vardı. Rasûlullah (s.a.v.) de (şu mektubun) o'na yazıl(ıp verilmesini emretti: "Bismillahirrahmanirrahim (ile başlarım) Allah'ın Rasûlü Muhammed'den Akk Zû Hayvan'a. Eğer (Akk Zû Hayvan isimli bu adam) toprağı, malı ve kölesi üzerindeki (hak iddiasında gerçekten) doğru söylüyorsa, emân ve Allah'ın zimmetiyle Rasûlü Muhammed'in zimmeti o'na aittir." ve (bu mektubu) Halid b. Said b. el-As yazdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عامر بن شہر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کا ( بحیثیت نبی ) ظہور ہوا تو مجھ سے ( قبیلہ ) ہمدان کے لوگوں نے کہا: کیا تم اس آدمی کے پاس جاؤ گے اور ہماری طرف سے اس سے بات چیت کرو گے؟ اگر تمہیں کچھ بھی اطمینان ہوا تو ہم اسے قبول کر لیں گے، اگر تم نے اسے ناپسند کیا تو ہم بھی برا جانیں گے، میں نے کہا: ہاں ( ٹھیک ہے میں جاؤں گا ) پھر میں چلا یہاں تک کہ میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا، تو آپ کا معاملہ ہمیں پسند آ گیا ( تو میں اسلام لے آیا ) اور میری قوم بھی اسلام لے آئی، اور رسول اللہ صلی اللہ علیہ وسلم نے عمیر ذی مران کو یہ تحریر لکھ کر دی، اور آپ صلی اللہ علیہ وسلم نے مالک بن مرارہ رہاوی کو تمام یمن والوں کے پاس ( اسلام کا پیغام پہنچانے کے لیے ) بھیجا، تو عک ذوخیوان ( ایک شخص کا نام ہے ) اسلام لے آیا۔ عک ذوخیوان سے کہا گیا کہ تو رسول اللہ صلی اللہ علیہ وسلم کے پاس جا اور آپ سے اپنی بستی اور اپنے مال کے لیے امان لے کر آ ( تاکہ آئندہ کوئی تجھ پر اور تیری بستی والوں پر زیادتی نہ کرے ) تو وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور رسول اللہ صلی اللہ علیہ وسلم نے اسے لکھ کر دیا آپ نے لکھا: بسم اللہ الرحمن الرحیم محمد صلی اللہ علیہ وسلم کی طرف سے جو اللہ کے رسول ہیں عک ذوخیوان کے لیے اگر وہ سچا ہے تو اسے لکھ کر دیا جاتا ہے کہ اس کو امان ہے، اس کی زمین، اس کے مال اور اس کے غلاموں میں، اسے اللہ اور اللہ کے رسول محمد صلی اللہ علیہ وسلم کی طرف سے ذمہ اور امان و پناہ حاصل ہے ۔ ( راوی کہتے ہیں ) خالد بن سعید بن العاص نے یہ پروانہ ( رسول اللہ صلی اللہ علیہ وسلم کی طرف سے ) اسے لکھ کر دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3027</td></tr><tr><td>Arabic No</td><td>3027</td></tr><tr><td>Reference</td><td>Book 20 Hadith 100</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3027 |
+| Arabic No | 3027 |
+| Reference | Book 20 Hadith 100 |

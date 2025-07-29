@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرِو بْنِ جَبَلَةَ، حَدَّثَنَا أُمَيَّةُ بْنُ خَالِدٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الْحَدِيثِ بِالإِسْنَادَيْنِ جَمِيعًا كَرِوَايَةِ أَبِي دَاوُدَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن عمرو بن جبلة، حدثنا امية بن خالد، حدثنا شعبة، بهذا الحديث بالاسنادين جميعا كرواية ابي داود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) মুহাম্মাদ ইবনু 'আমর ইবনু জাবালাহ্ ..... শুবাহ্ (রহঃ) হতে এ দু’টো সূত্রেই আবূ দাউদের ন্যায় রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৬১২৬, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been reported on the authority of Shu'ba combining the two chains of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## French
 
+Rapporté par Shu’ba : Ce hadith a été rapporté en combinant les deux chaînes de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-126-2) Bize Muhaınmod b. Amr b. Cebele rivayet etti. (Dediki): Bize Ümeyye b. Hâlid rivayet etti. (Dediki): Bize Şu'be bu hadisi iki isnadla birden Ebû Davud'un rivayeti gibi tahdis etti. İzah 2469 da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 امیہ بن خالد نے کہا : ہمیں شعبہ نے یہ حدیث دونوں سندوں سے ابو داود کی روایت کی طرح بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6350</td></tr><tr><td>Arabic No</td><td>2468.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 180</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6350 |
+| Arabic No | 2468.03 |
+| Reference | Book 44 Hadith 180 |

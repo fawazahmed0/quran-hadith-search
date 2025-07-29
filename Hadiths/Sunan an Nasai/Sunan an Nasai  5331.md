@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ أَخْبَرَنِي سَعِيدٌ الْمَقْبُرِيُّ، وَقَدْ كَانَ يُخْبِرُ عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَا أَسْفَلَ مِنَ الْكَعْبَيْنِ مِنَ الإِزَارِ فَفِي النَّارِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 48 Hadith 292</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |
+
 اخبرنا محمود بن غيلان، قال حدثنا ابو داود، قال حدثنا شعبة، قال اخبرني سعيد المقبري، وقد كان يخبر عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " ما اسفل من الكعبين من الازار ففي النار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 48 Hadith 292</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মাহমূদ ইবন গায়লান (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন, তিনি বলেছেনঃ ইযার বা লুঙ্গির যে অংশ গিরার নিচে থাকবে, তা দোযখে অবস্থান করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 48 Hadith 292</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |
 
 ## English
 
+It was narrated from Abu Hurairah that :The Prophet \[SAW\] said: "Whatever of the Izar comes below the ankles is in the Fire
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Hurairah that :The Prophet [SAW] said: "Whatever of the Izar comes below the ankles is in the Fire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 48 Hadith 292</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Toute partie du Izar qui descend en dessous des chevilles sera dans le Feu. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Mahmud bin Ghailan\] ia berkata; telah menceritakan kepada kami \[Abu Dawud\] ia berkata; telah menceritakan kepada kami \[Syu'bah\] ia berkata; telah mengabarkan kepadaku \[Sa'id Al Maqburi\] ia mengabarkan dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Kain sarung yang ada di bawah mata kaki tempatnya adalah di neraka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Mahmud bin Ghailan] ia berkata; telah menceritakan kepada kami [Abu Dawud] ia berkata; telah menceritakan kepada kami [Syu'bah] ia berkata; telah mengabarkan kepadaku [Sa'id Al Maqburi] ia mengabarkan dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Kain sarung yang ada di bawah mata kaki tempatnya adalah di neraka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 48 Hadith 292</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 48 Hadith 292</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5331</td></tr><tr><td>Arabic No</td><td>5331</td></tr><tr><td>Reference</td><td>Book 48 Hadith 292</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5331 |
+| Arabic No | 5331 |
+| Reference | Book 48 Hadith 292 |

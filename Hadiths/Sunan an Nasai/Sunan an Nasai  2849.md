@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ وَهُوَ مُحْرِمٌ عَلَى ظَهْرِ الْقَدَمِ مِنْ وَثْءٍ كَانَ بِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 24 Hadith 232</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا عبد الرزاق، قال حدثنا معمر، عن قتادة، عن انس، ان رسول الله صلى الله عليه وسلم احتجم وهو محرم على ظهر القدم من وثء كان به
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 24 Hadith 232</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পা মুবারকের পিঠে যে ব্যথা ছিল, তার জন্য ইহরাম অবস্থায় তিনি শিংগা লাগিয়েছিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 24 Hadith 232</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Anas:That the Messenger of Allah was treated by means of cupping when he was in Ihram on the top of the foot for contusion that he had suffered. (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 24 Hadith 232</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |
+
+## French
+
+Rapporté par Anas : Le Messager d’Allah ﷺ a été soigné par la saignée alors qu’il était en état d’ihram, sur le dessus du pied, à cause d’une contusion. (Daif)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |
 
 ## Indonesian
 
+Telah memberitakan kepada kami \[Ishaq bin Ibrahim\], ia berkata; telah memberitakan kepada kami \[Abdur Razzaq\], ia berkata; telah menceritakan kepada kami \[Ma'mar\] dari \[Qatadah\] dari \[Anas\] bahwa Rasulullah shallallahu 'alaihi wasallam berbekam dalam keadaan berihram di atas telapak kakinya karena memar yang ada padanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah memberitakan kepada kami [Ishaq bin Ibrahim], ia berkata; telah memberitakan kepada kami [Abdur Razzaq], ia berkata; telah menceritakan kepada kami [Ma'mar] dari [Qatadah] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam berbekam dalam keadaan berihram di atas telapak kakinya karena memar yang ada padanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 24 Hadith 232</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 24 Hadith 232</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے پاؤں کے اوپری حصہ پر اس تکلیف کی وجہ سے جو آپ کو تھی پچھنا لگوایا اور آپ محرم تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2849</td></tr><tr><td>Arabic No</td><td>2849</td></tr><tr><td>Reference</td><td>Book 24 Hadith 232</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2849 |
+| Arabic No | 2849 |
+| Reference | Book 24 Hadith 232 |

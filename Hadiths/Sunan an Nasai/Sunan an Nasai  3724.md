@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي زَكَرِيَّا بْنُ يَحْيَى، قَالَ حَدَّثَنَا زَيْدُ بْنُ أَخْزَمَ، قَالَ أَنْبَأَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، قَالَ حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ الْحَجُورِيِّ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ الْعُمْرَى جَائِزَةٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |
+
 اخبرني زكريا بن يحيى، قال حدثنا زيد بن اخزم، قال انبانا معاذ بن هشام، قال حدثني ابي، عن قتادة، قال حدثنا عمرو بن دينار، عن طاوس، عن الحجوري، عن عبد الله بن عباس، عن النبي صلى الله عليه وسلم قال " العمرى جايزة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যাকারিয়া ইবন ইয়াহইয়া (রহঃ) ... আবদুল্লাহ্ ইব্‌ন আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, উমরারূপে দান বৈধ (চলমান থাকবে)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdullah bin 'Abbas that the Prophet said:"'Umra is permissible
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Abbas : Le Prophète ﷺ a dit : "L''Umra est permise
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Zakaria bin Yahya\] berkata; telah menceritakan kepada kami \[Zaid bin Akhzam\] berkata; telah memberitakan kepada kami \[Mu'adz bin Hisyam\] berkata; telah menceritakan kepada kami \[ayahku\] dari \[Qatadah\] berkata; telah menceritakan kepada kami \['Amru bin Dinar\] dari \[Thawus\] dari \[Al Hajuri\] dari \[Abdullah bin Abbas\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Umra adalah boleh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Zakaria bin Yahya] berkata; telah menceritakan kepada kami [Zaid bin Akhzam] berkata; telah memberitakan kepada kami [Mu'adz bin Hisyam] berkata; telah menceritakan kepada kami [ayahku] dari [Qatadah] berkata; telah menceritakan kepada kami ['Amru bin Dinar] dari [Thawus] dari [Al Hajuri] dari [Abdullah bin Abbas] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Umra adalah boleh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”عمریٰ نافذ ہو گا“ ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3724</td></tr><tr><td>Arabic No</td><td>3724</td></tr><tr><td>Reference</td><td>Book 34 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3724 |
+| Arabic No | 3724 |
+| Reference | Book 34 Hadith 6 |

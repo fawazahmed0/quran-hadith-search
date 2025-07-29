@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا زَيْدُ بْنُ الْحُبَابِ، حَدَّثَنَا حُسَيْنٌ، - يَعْنِي ابْنَ وَاقِدٍ - حَدَّثَنِي عَبْدُ اللَّهِ بْنُ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏ "‏ مَنْ حَلَفَ فَقَالَ إِنِّي بَرِيءٌ مِنَ الإِسْلاَمِ فَإِنْ كَانَ كَاذِبًا فَهُوَ كَمَا قَالَ، وَإِنْ كَانَ صَادِقًا فَلَنْ يَرْجِعَ إِلَى الإِسْلاَمِ سَالِمًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
+
 حدثني احمد بن حنبل، حدثنا زيد بن الحباب، حدثنا حسين، - يعني ابن واقد - حدثني عبد الله بن بريدة، عن ابيه، قال قال رسول الله صلى الله عليه وسلم : " من حلف فقال اني بريء من الاسلام فان كان كاذبا فهو كما قال، وان كان صادقا فلن يرجع الى الاسلام سالما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । বুরাইদাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি যদি শপথ করে বলেঃ আমি ইসলাম থেকে মুক্ত। সে মিথ্যা বললেও সে যেরূপ বলেছে তদ্রূপই হবে। আর সত্যবাদী হলে তার পক্ষে নিরাপদে ইসলামে ফিরে আসা সম্ভব নয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Buraydah ibn al-Hasib: The Prophet (ﷺ) said: If anyone takes an oath and says: I am free from Islam; now if he is a liar (in his oath), he will not return to Islam with soundness
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
+
+## French
+
+Rapporté par Buraydah ibn al-Hasib : Le Prophète ﷺ a dit : « Si quelqu’un fait un serment et dit : “Je suis libre de l’islam”, s’il ment dans son serment, il ne reviendra pas à l’islam en toute intégrité. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\], telah menceritakan kepada kami \[Zaid bin Al Hubab\], telah menceritakan kepada kami \[Husain bin Waqid\] telah menceritakan kepadaku \[Abdullah bin Buraidah\], dari \[ayahnya\] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan mengatakan; sesungguhnya aku berlepas diri dari Islam, apabila ia berdusta maka ia seperti yang ia katakan, dan apabila ia benar maka ia tidak akan kembali kepada Islam dalam keadaan selamat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Zaid bin Al Hubab], telah menceritakan kepada kami [Husain bin Waqid] telah menceritakan kepadaku [Abdullah bin Buraidah], dari [ayahnya] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dengan mengatakan; sesungguhnya aku berlepas diri dari Islam, apabila ia berdusta maka ia seperti yang ia katakan, dan apabila ia benar maka ia tidak akan kembali kepada Islam dalam keadaan selamat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Юсуфа ибн ‘Абдуллаха ибн Саляма: «Я видел, как Пророк ﷺ положил финик на кусок хлеба и сказал: “Это приправа к этому”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Büreyde, babasından, Rasûlullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: "Yemin edip de, "ben İslâm'dan beriyim" diyen kişi eğer yalancı ise dediği gibidir. Sadık ise, asla İslâm'a salim olarak dönmeyecektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بریدہ رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص قسم کھائے اور کہے میں اسلام سے بری ہوں ( اگر میں نے فلاں کام کیا ) اب اگر وہ جھوٹا ہے تو اس نے جیسا ہونے کو کہا ہے ویسا ہی ہو جائے گا، اور اگر سچا ہے تو بھی وہ اسلام میں سلامتی سے ہرگز واپس نہ آ سکے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3258</td></tr><tr><td>Arabic No</td><td>3258</td></tr><tr><td>Reference</td><td>Book 22 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3258 |
+| Arabic No | 3258 |
+| Reference | Book 22 Hadith 17 |

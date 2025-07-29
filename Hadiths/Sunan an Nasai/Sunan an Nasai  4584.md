@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ أَنْبَأَنَا مُوسَى بْنُ نَافِعٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، أَنَّهُ كَانَ يَكْرَهُ أَنْ يَأْخُذَ، الدَّنَانِيرَ مِنَ الدَّرَاهِمِ وَالدَّرَاهِمَ مِنَ الدَّنَانِيرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 44 Hadith 136</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |
+
 اخبرنا محمد بن بشار، قال حدثنا وكيع، قال انبانا موسى بن نافع، عن سعيد بن جبير، انه كان يكره ان ياخذ، الدنانير من الدراهم والدراهم من الدنانير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 44 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন বাশশার (রহঃ) ... মূসা ইবন নাফি সাঈদ ইবন জুবায়র (রহঃ) থেকে। তিনি দীনারের পরিবর্তে দিরহাম এবং দিরহামের বিনিময়ে দীনার লেনদেন করতে অপছন্দ করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 44 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Saeed bin Jubair that:he did not like to exchange Dinars for Dirhams or Dirhams for Dinars
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 44 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |
+
+## French
+
+Rapporté par Saeed bin Jubair : Il n’aimait pas échanger des dinars contre des dirhams, ni des dirhams contre des dinars
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Waki'\] telah memberitakan kepada kami \[Musa bin Nafi'\] dari \[Sa'id bin Jubair\] bahwa dia membenci untuk mengambil dinar sebagai ganti dari dirham dan mengambil dirham sebagai ganti dari dinar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Waki'] telah memberitakan kepada kami [Musa bin Nafi'] dari [Sa'id bin Jubair] bahwa dia membenci untuk mengambil dinar sebagai ganti dari dirham dan mengambil dirham sebagai ganti dari dinar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 44 Hadith 136</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 44 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Abu Ghuddah |
+| Sahih Maqtu | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4584</td></tr><tr><td>Arabic No</td><td>4584</td></tr><tr><td>Reference</td><td>Book 44 Hadith 136</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4584 |
+| Arabic No | 4584 |
+| Reference | Book 44 Hadith 136 |

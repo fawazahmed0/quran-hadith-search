@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا سُلَيْمَانُ، - يَعْنِي ابْنَ الْمُغِيرَةِ - عَنْ ثَابِتٍ، قَالَ قَالَ أَنَسٌ مَا كُنَّا نَدَعُ الْحِجَامَةَ لِلصَّائِمِ إِلاَّ كَرَاهِيَةَ الْجَهْدِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
+
 حدثنا عبد الله بن مسلمة، حدثنا سليمان، - يعني ابن المغيرة - عن ثابت، قال قال انس ما كنا ندع الحجامة للصايم الا كراهية الجهد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
 
 ## Bengali
 
+। সাবিত (রহ.) সূত্রে বর্ণিত। তিনি বলেন, আনাস (রাযি.) বলেছেন, সওম পালনকারী রক্তমোক্ষণ করালে দুর্বল হয়ে যাবে বিধায় আমরা তা পরিত্যাগ করতাম।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাবিত (রহ.) সূত্রে বর্ণিত। তিনি বলেন, আনাস (রাযি.) বলেছেন, সওম পালনকারী রক্তমোক্ষণ করালে দুর্বল হয়ে যাবে বিধায় আমরা তা পরিত্যাগ করতাম।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas:We would not allow a man who was fasting to get himself cupped due to abomination of hardship
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
+
+## French
+
+Rapporté par Anas رضي الله عنه : Nous n’autorisions pas à un homme qui jeûnait de se faire saigner, par crainte de la difficulté
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Maslamah\], telah menceritakan kepada kami \[Sulaiman bin Al Mughirah\] dari \[Tsabit\], ia berkata; \[Anas\] berkata; kami tidak akan meninggalkan bekam bagi orang yang berpuasa, kecuali karena tidak menginginkan kondisi payah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Maslamah], telah menceritakan kepada kami [Sulaiman bin Al Mughirah] dari [Tsabit], ia berkata; [Anas] berkata; kami tidak akan meninggalkan bekam bagi orang yang berpuasa, kecuali karena tidak menginginkan kondisi payah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Анас, да будет доволен им Аллах, сказал: «Мы отказывались от кровопускания во время поста только потому, что не хотели ослабеть»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (b. Mâlik r.a.)' şöyle demiştir: Biz (sahâbîler) oruçlu iken kan aldırmayı, sadece meşakkate düşmemek için (meşakkatten korkarak) terkederdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثابت کہتے ہیں کہ انس رضی اللہ عنہ نے کہا: ہم روزے دار کو صرف مشقت کے پیش نظر سینگی ( پچھنا ) نہیں لگانے دیتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2375</td></tr><tr><td>Arabic No</td><td>2375</td></tr><tr><td>Reference</td><td>Book 14 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2375 |
+| Arabic No | 2375 |
+| Reference | Book 14 Hadith 63 |

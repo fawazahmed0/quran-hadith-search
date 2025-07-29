@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، عَنْ إِسْمَاعِيلَ، عَنْ عَامِرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |
+
 اخبرنا عمرو بن علي، قال حدثنا يحيى، عن اسماعيل، عن عامر، عن عبد الله بن عمرو، قال سمعت رسول الله صلى الله عليه وسلم يقول " المسلم من سلم المسلمون من لسانه ويده والمهاجر من هجر ما نهى الله عنه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... আবদুল্লাহ ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ মুসলিম ঐ ব্যক্তি, যার হাত ও রসনা হতে অন্য মুসলিম নিরাপদ থাকে, আর মুহাজির ঐ ব্যক্তি, যে আল্লাহর নিষিদ্ধ বস্তু থেকে দূরে থাকে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |
 
 ## English
 
+It was narrated that 'Abdullah bin 'Amr said:"I heard the Messenger of Allah \[SAW\] say: "The Muslim is the one from whose tongue and hand the Muslims are safe, and the Muhajir is the one who forsakes (Hajara) that which Allah has forbidden to him
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that 'Abdullah bin 'Amr said:"I heard the Messenger of Allah [SAW] say: "The Muslim is the one from whose tongue and hand the Muslims are safe, and the Muhajir is the one who forsakes (Hajara) that which Allah has forbidden to him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Amr : J'ai entendu le Messager d'Allah \[SAW\] dire : "Le musulman est celui dont les musulmans sont à l'abri de sa langue et de sa main, et le Muhajir est celui qui s'éloigne de ce qu'Allah lui a interdit
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \['Amr bin Ali\], dia berkata; telah menceritakan kepada kami \[Yahya\] dari \[Isma'il\] dari \['Amir\] dari \[Abdullah bin 'Amr\], dia berkata; "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang muslim adalah orang yang seluruh kaum muslimin merasa selamat dari lidah dan tangannya, dan orang yang berhijrah adalah orang yang meninggalkan apa yang Allah larang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami ['Amr bin Ali], dia berkata; telah menceritakan kepada kami [Yahya] dari [Isma'il] dari ['Amir] dari [Abdullah bin 'Amr], dia berkata; "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang muslim adalah orang yang seluruh kaum muslimin merasa selamat dari lidah dan tangannya, dan orang yang berhijrah adalah orang yang meninggalkan apa yang Allah larang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4996</td></tr><tr><td>Arabic No</td><td>4996</td></tr><tr><td>Reference</td><td>Book 47 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4996 |
+| Arabic No | 4996 |
+| Reference | Book 47 Hadith 12 |

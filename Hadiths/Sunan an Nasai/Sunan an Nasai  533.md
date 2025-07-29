@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُؤَخِّرُ الْعِشَاءَ الآخِرَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 6 Hadith 40</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |
+
 اخبرنا قتيبة، قال حدثنا ابو الاحوص، عن سماك، عن جابر بن سمرة، قال كان رسول الله صلى الله عليه وسلم يوخر العشاء الاخرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 6 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... জাবির ইবনু সামুরা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইশার সালাত বিলম্বে আদায় করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 6 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |
 
 ## English
 
+It was narrated that Jabir bin Samurah said:"The Messenger of Allah (ﷺ) used to delay the later 'Isha'."\[1\] \[1\] It is described as the later 'Isha' prayer because the Maghrib prayer is sometimes called 'Isha' prayer, but it is the first 'Isha'. Some scholars are of the opinion that it is disliked to call Maghrib 'Isha' without qualifying it as the first 'Isha'. See Fath Al-Bari
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Jabir bin Samurah said:"The Messenger of Allah (ﷺ) used to delay the later 'Isha'."[1] [1] It is described as the later 'Isha' prayer because the Maghrib prayer is sometimes called 'Isha' prayer, but it is the first 'Isha'. Some scholars are of the opinion that it is disliked to call Maghrib 'Isha' without qualifying it as the first 'Isha'. See Fath Al-Bari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 6 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |
+
+## French
+
+Rapporté par Jabir bin Samurah : Le Messager d’Allah (ﷺ) avait l’habitude de retarder la prière d’Isha la plus tardive
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dia berkata; Telah menceritakan kepada kami \[Abu Al Ahwash\] dari \[Simak\] dari \[Jabir bin Samurah\], dia berkata; "Rasulullah Shallallahu'alaihi wasallam mengakhirkan shalat Isya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Abu Al Ahwash] dari [Simak] dari [Jabir bin Samurah], dia berkata; "Rasulullah Shallallahu'alaihi wasallam mengakhirkan shalat Isya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 6 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 6 Hadith 40</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن سمرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نماز عشاء کو مؤخر کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>533</td></tr><tr><td>Arabic No</td><td>533</td></tr><tr><td>Reference</td><td>Book 6 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 533 |
+| Arabic No | 533 |
+| Reference | Book 6 Hadith 40 |

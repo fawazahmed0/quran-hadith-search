@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي حَيْوَةُ، أَخْبَرَنِي أَبُو عِيسَى الْخُرَاسَانِيُّ، عَنْ عَبْدِ اللَّهِ بْنِ الْقَاسِمِ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، أَنَّ رَجُلاً، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم أَتَى عُمَرَ بْنَ الْخَطَّابِ - رَضِيَ اللَّهُ عَنْهُ - فَشَهِدَ عِنْدَهُ أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم فِي مَرَضِهِ الَّذِي قُبِضَ فِيهِ يَنْهَى عَنِ الْعُمْرَةِ قَبْلَ الْحَجِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
+
 حدثنا احمد بن صالح، حدثنا عبد الله بن وهب، اخبرني حيوة، اخبرني ابو عيسى الخراساني، عن عبد الله بن القاسم، عن سعيد بن المسيب، ان رجلا، من اصحاب النبي صلى الله عليه وسلم اتى عمر بن الخطاب - رضي الله عنه - فشهد عنده انه سمع رسول الله صلى الله عليه وسلم في مرضه الذي قبض فيه ينهى عن العمرة قبل الحج
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
 
 ## Bengali
 
+। সাঈদ ইবনুল মুসাইয়্যাব (রহ.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর এক সাহাবী ‘উমার ইবনুল খাত্তাব (রাযি.)-এর কাছে উপস্থিত হয়ে সাক্ষ্য দেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মৃত্যুশয্যায় হজের (হজ্জের) পূর্বে ‘উমরা করতে নিষেধ করতে শুনেছেন।\[1\] দুর্বলঃ যঈফ আল-জামি্‘উস সাগীর (৬০৫১)।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাঈদ ইবনুল মুসাইয়্যাব (রহ.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর এক সাহাবী ‘উমার ইবনুল খাত্তাব (রাযি.)-এর কাছে উপস্থিত হয়ে সাক্ষ্য দেন যে, তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর মৃত্যুশয্যায় হজের (হজ্জের) পূর্বে ‘উমরা করতে নিষেধ করতে শুনেছেন।[1] দুর্বলঃ যঈফ আল-জামি্‘উস সাগীর (৬০৫১)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sa'id ibn al-Musayyab: A man from the Companions of the Prophet (ﷺ) came to Umar ibn al-Khattab (may Allah be pleased with him). He bore witness before him that when he (the Prophet) was suffering from a disease of which he died he heard the Messenger of Allah (ﷺ) prohibiting performing of umrah before hajj
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
+
+## French
+
+Rapporté par Sa’id ibn al-Musayyab : Un homme parmi les compagnons du Prophète ﷺ est venu voir Omar ibn al-Khattab رضي الله عنه. Il a témoigné devant lui que lorsque le Prophète ﷺ était malade, la maladie dont il est décédé, il a entendu le Messager d’Allah ﷺ interdire d’accomplir la 'Umrah avant le Hajj
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Са‘ид ибн аль-Мусайяб передаёт, что один из сподвижников Пророка ﷺ пришёл к ‘Умару ибн аль-Хаттабу, да будет доволен им Аллах, и засвидетельствовал при нём, что он слышал, как Посланник Аллаха ﷺ в дни своей предсмертной болезни запретил совершать ‘умру перед хаджем
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'îd b. el-Müseyyeb'den rivayet edildiğine göre, Nebi (s.a.v.)'in ashabından bir adam Ömer r.a.'e gelerek; Resûlullah (s.a.v.)'in,,(ruhunun) kabzedildiği hastalığında hacdan önce umre yapmaktan nehyettiğini bildirdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن مسیب سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم کے صحابہ کرام میں سے ایک شخص عمر بن خطاب رضی اللہ عنہ کے پاس آیا اور اس نے ان کے پاس گواہی دی کہ اس نے رسول اللہ صلی اللہ علیہ وسلم کو مرض الموت میں حج سے پہلے عمرہ کرنے سے منع کرتے ہوئے سنا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1793</td></tr><tr><td>Arabic No</td><td>1793</td></tr><tr><td>Reference</td><td>Book 11 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1793 |
+| Arabic No | 1793 |
+| Reference | Book 11 Hadith 73 |

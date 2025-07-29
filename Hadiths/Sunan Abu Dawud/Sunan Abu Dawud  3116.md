@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَالِكُ بْنُ عَبْدِ الْوَاحِدِ الْمِسْمَعِيُّ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، حَدَّثَنِي صَالِحُ بْنُ أَبِي عَرِيبٍ، عَنْ كَثِيرِ بْنِ مُرَّةَ، عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ كَانَ آخِرُ كَلاَمِهِ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
+
 حدثنا مالك بن عبد الواحد المسمعي، حدثنا الضحاك بن مخلد، حدثنا عبد الحميد بن جعفر، حدثني صالح بن ابي عريب، عن كثير بن مرة، عن معاذ بن جبل، قال قال رسول الله صلى الله عليه وسلم " من كان اخر كلامه لا اله الا الله دخل الجنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যার সর্বশেষ বাক্য হবে ‘‘লা ইলাহা ইল্লাল্লাহু’’, সে জান্নাতে প্রবেশ করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Mu’adh bin Jabal :The Messenger of Allah (ﷺ) as saying: If anyone's last words are "There is no god but Allah" he will enter Paradise
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
+
+## French
+
+Rapporté par Mu’adh ibn Jabal رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si les derniers mots de quelqu’un sont “Il n’y a de dieu qu’Allah”, il entrera au Paradis. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Malik bin Abdul Wahid Al Misma'i\], telah menceritakan kepada kami \[Adh Dhahhak bin Makhlad\], telah menceritakan kepada kami \[Abdul Hamid bin Ja'far\], telah menceritakan kepadaku \[Shalih bin Abu 'Arib\] dari \[Katsir bin Murrah\] dari \[Mu'adz bin Jabal\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang akhir perkataannya (sebelum meninggal dunia) 'LAA ILAAHA ILLALLAAH" maka ia akan masuk surga
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Malik bin Abdul Wahid Al Misma'i], telah menceritakan kepada kami [Adh Dhahhak bin Makhlad], telah menceritakan kepada kami [Abdul Hamid bin Ja'far], telah menceritakan kepadaku [Shalih bin Abu 'Arib] dari [Katsir bin Murrah] dari [Mu'adz bin Jabal], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang akhir perkataannya (sebelum meninggal dunia) 'LAA ILAAHA ILLALLAAH" maka ia akan masuk surga
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Му‘аза ибн Джабаля, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Тот, чьими последними словами было “Нет истинного бога, кроме Аллаха”, войдёт в Рай»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muaz b. Cebel'den (rivayet olunduğuna göre), Rasûlullah (s.a.v.) (şöyle) buyurmuştur: "Son sözü la ilahe illallah- olan kimse cennet'e gir(meyi hak et)miştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معاذ بن جبل رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کا آخری کلام «لا إله إلا الله» ہو گا وہ جنت میں داخل ہو گا ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3116</td></tr><tr><td>Arabic No</td><td>3116</td></tr><tr><td>Reference</td><td>Book 21 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3116 |
+| Arabic No | 3116 |
+| Reference | Book 21 Hadith 28 |

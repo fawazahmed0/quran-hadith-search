@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,131 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يُوسُفُ بْنُ مُوسَى، حَدَّثَنَا سَلَمَةُ بْنُ الْفَضْلِ، حَدَّثَنَا ابْنُ إِسْحَاقَ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ الْحُرَقِيُّ، عَنِ ابْنِ مَاجِدَةَ السَّهْمِيِّ، عَنْ عُمَرَ بْنِ الْخَطَّابِ، عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
+
 حدثنا يوسف بن موسى، حدثنا سلمة بن الفضل، حدثنا ابن اسحاق، عن العلاء بن عبد الرحمن الحرقي، عن ابن ماجدة السهمي، عن عمر بن الخطاب، عن النبي صلى الله عليه وسلم نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘উমার ইবনুল খাত্তাব (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A similar tradition has also been transmitted by Abu Majidah al-Sahmi from 'Umar b. al-Khattab through a different chain of narrators
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
+
+## French
+
+Un récit similaire a aussi été transmis par Abu Majidah al-Sahmi de la part d’Umar ibn al-Khattab, par une autre chaîne de transmetteurs
+
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Подобный хадис передаётся другим путём, также в передаче Ибн Маджиды ас-Сахми со слов ‘Умара ибн аль-Хаттаба от Пророка ﷺ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yusuf b. Musa haber verdi, bize Seleme b. Fazl rivayet etti, bize İbn İshak, Alâ b. Abdurrahman (el-Hurakî)'dan rivayet etti. O da İbn Mâcide es-Sehmî vasıtasıyla Ömer (b. el-Hattâb)'dan, o da Rasûlullah (s.a.v.)'dan; (önceki 3430.) hadisin benzerini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن ماجدہ سہمی نے عمر بن خطاب رضی اللہ عنہ سے اور انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے اسی طرح روایت کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3431</td></tr><tr><td>Arabic No</td><td>3431</td></tr><tr><td>Reference</td><td>Book 24 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3431 |
+| Arabic No | 3431 |
+| Reference | Book 24 Hadith 16 |

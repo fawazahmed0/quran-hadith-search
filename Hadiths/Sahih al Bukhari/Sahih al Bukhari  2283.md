@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا شُعْبَةُ، عَنْ مُحَمَّدِ بْنِ جُحَادَةَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ كَسْبِ الإِمَاءِ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسلم بن ابراهيم، حدثنا شعبة، عن محمد بن جحادة، عن ابي حازم، عن ابي هريرة رضى الله عنه قال نهى النبي صلى الله عليه وسلم عن كسب الاماء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাসীদের অবৈধ উপার্জন নিষিদ্ধ করেছেন। (৫৩৪৮) (আধুনিক প্রকাশনীঃ ২১২২, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:The Prophet (ﷺ) prohibited the earnings of slave girls (through prostitution)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
+
+## French
+
+Rapporté par Abu Huraira : Le Prophète (ﷺ) a interdit les gains des servantes par la prostitution
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\] telah menceritakan kepada kami \[Syu'bah\] dari \[Muhammad bin Juhadah\] dari \[Abu Hazim\] dari \[Abu Hurairah radliallahu 'anhu\] berkata; Nabi shallallahu 'alaihi wasallam telah melarang uang bayaran zina
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Juhadah] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam telah melarang uang bayaran zina
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ наложил запрет на заработок рабынь»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அடிமைப் பெண்கள் (தவறான வழியில்) பொருளீட்டுவதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem cariyelerin kazancını yasaklamıştır. Tekrar:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسلم بن ابراہیم نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے محمد بن حجادہ نے بیان کیا، ان سے ابوحازم نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے باندیوں کی زنا کی کمائی سے منع فرمایا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2283</td></tr><tr><td>Arabic No</td><td>2283</td></tr><tr><td>Reference</td><td>Book 37 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2283 |
+| Arabic No | 2283 |
+| Reference | Book 37 Hadith 23 |

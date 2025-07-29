@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو الرَّبِيعِ، وَأَبُو كَامِلٍ قَالاَ حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَيُّوبُ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابو الربيع، وابو كامل قالا حدثنا حماد، حدثنا ايوب، بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ রাবী’ ও আবূ কামিল (রহঃ) ..... আইয়্যুব (রহঃ) এর সূত্রে উক্ত সানাদে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৩৭৫৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been transmitted on the authority of Ayyub
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## French
 
+Rapporté par Ayyub : Un hadith semblable a été transmis
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize bu hadisi Ebû'r-Rabî' ile Ebû Kâmil de rivâyet ettiler. (Dediler ki): Bize Hammâd rivâyet etti. ki): Bize Eyyûb bu isnâdla bu hadîsin benzerini rivâyet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حماد نے ایوب سے اسی سند کے ساتھ اسی کے ہم معنی حدیث بیان کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3898</td></tr><tr><td>Arabic No</td><td>1542.06</td></tr><tr><td>Reference</td><td>Book 21 Hadith 97</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3898 |
+| Arabic No | 1542.06 |
+| Reference | Book 21 Hadith 97 |

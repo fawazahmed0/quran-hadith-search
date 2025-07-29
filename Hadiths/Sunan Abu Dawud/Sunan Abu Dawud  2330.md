@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ عَبْدِ الرَّحْمَنِ الدِّمَشْقِيُّ، - فِي هَذَا الْحَدِيثِ - قَالَ قَالَ الْوَلِيدُ سَمِعْتُ أَبَا عَمْرٍو - يَعْنِي الأَوْزَاعِيَّ - يَقُولُ سِرُّهُ أَوَّلُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
+
 حدثنا سليمان بن عبد الرحمن الدمشقي، - في هذا الحديث - قال قال الوليد سمعت ابا عمرو - يعني الاوزاعي - يقول سره اوله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
 
 ## Bengali
 
+। আবুল ওয়ালীদ (রহ.) বলেন, আমি আবূ ‘আমর আল-আওযাঈকে বলতে শুনেছি, ‘সাররাহ অর্থ মাসের প্রথমভাগ।\[1\] শায মাকতূ’।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবুল ওয়ালীদ (রহ.) বলেন, আমি আবূ ‘আমর আল-আওযাঈকে বলতে শুনেছি, ‘সাররাহ অর্থ মাসের প্রথমভাগ।[1] শায মাকতূ’।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sulaiman b. 'Abd al-Rahman al-Dimashqi said about this tradition that al-Walid said:I heard Abu 'Amr al-Auza'i say: The word sirrahu means beginning of the month
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
+
+## French
+
+Sulaiman ibn ‘Abd al-Rahman al-Dimashqi a dit à propos de ce récit qu’al-Walid a dit : J’ai entendu Abu ‘Amr al-Awza‘i dire : Le mot « sirrahu » signifie le début du mois
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-Авза‘и сказал: «Сирр означает начало месяца»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süleyman b. Abdirrahman ed-Dimaşkî, bu (Önceki 2329.) hadis hakkında demiştir ki: "Velid. şöyle dedi" Ebu Amr -yani Evzâî'-i "(Sirrihu'dan kasıt) ayın başıdır" derken işittim. Ayrıca, Beyhaki, es-Sünenü'l-kübrâ, IV, 211. da da rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلیمان بن عبدالرحمٰن نے اس حدیث کے سلسلہ میں بیان کیا ہے کہ ولید کہتے ہیں: میں نے ابوعمرو یعنی اوزاعی کو کہتے سنا ہے کہ «سرہ»کے معنی اوائل ماہ کے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2330</td></tr><tr><td>Arabic No</td><td>2330</td></tr><tr><td>Reference</td><td>Book 14 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2330 |
+| Arabic No | 2330 |
+| Reference | Book 14 Hadith 18 |

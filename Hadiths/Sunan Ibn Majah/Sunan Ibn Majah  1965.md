@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ خَلاَّدٍ الْبَاهِلِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ نَكَحَ وَهُوَ مُحْرِمٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 9 Hadith 121</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |
+
 حدثنا ابو بكر بن خلاد الباهلي، حدثنا سفيان بن عيينة، عن عمرو بن دينار، عن جابر بن زيد، عن ابن عباس، ان النبي ـ صلى الله عليه وسلم ـ نكح وهو محرم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 9 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম অবস্থায় বিবাহ করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 9 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Abbas that the Prophet got married while he was a Muhrim (in Ihram)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 9 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Prophète s’est marié alors qu’il était en état d’ihram
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 9 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah bin Alılıas (r.a.)'dan: Şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) ihramda iken (Meymune ile) evlendi. EBU DAVUD HADİSİ VE İZAH İÇİN TIKLA
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 9 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1965</td></tr><tr><td>Arabic No</td><td>1965</td></tr><tr><td>Reference</td><td>Book 9 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1965 |
+| Arabic No | 1965 |
+| Reference | Book 9 Hadith 121 |

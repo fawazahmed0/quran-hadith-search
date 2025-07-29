@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، كِلاَهُمَا عَنِ ابْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، بِهَذَا الإِسْنَادِ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى الظُّهْرَ وَقَالَ ‏ "‏ قَدْ عَلِمْتُ أَنَّ بَعْضَكُمْ خَالَجَنِيهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا اسماعيل ابن علية، ح وحدثنا محمد بن المثنى، حدثنا ابن ابي عدي، كلاهما عن ابن ابي عروبة، عن قتادة، بهذا الاسناد ان رسول الله صلى الله عليه وسلم صلى الظهر وقال " قد علمت ان بعضكم خالجنيها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শাইবাহ ও মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... কাতাদাহ (রহঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যুহরের সালাত আদায় করলেন এবং বললেনঃ আমি জানতে পেরেছি তোমাদের কেউ কেউ আমার কাছ থেকে (কুরআন) ছিনিয়ে নিচ্ছো। (ইসলামিক ফাউন্ডেশনঃ ৭৭২, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Qatada with the same chain of transmitters that the Messenger of Allah (ﷺ) observed Zuhr prayer and said:I felt that someone amongst you was disputing with me (in what I was reciting)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## French
 
+Rapporté par Qatada : Ce hadith a été transmis avec la même chaîne de rapporteurs : le Messager d’Allah ﷺ a accompli la prière du Zuhr et a dit : « J’ai senti que l’un d’entre vous discutait avec moi pendant ma récitation. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) В этой версии хадиса с другим иснадом, говорится, что Посланник Аллаха ﷺ совершал полуденную молитву, и он сказал: «Я так и знал, что кто-то из вас соперничает со мной»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebu Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize İsmail b. Uleyye rivayet etti. H. Bize Muhammed b. el-Müsennâ da rivayet etti. (Dediki): Bize İbni Ebî Adiy rivayet etti. Bunların ikisi de İbni Ebî Arube'den, o da Katâde'den bu isnadla rivayet etmişler ki, Resulullah (Sallallahu Aleyhi ve Sellem) öğleyi kılmış ve: «Gerçekten anladım ki bîriniz onu benim ağzımdan aldı» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ قتادہ کے ایک اور شاگرد ابن ابی عروبہ نے اسی سند کے ساتھ ( مذکورہ بالا ) روایت بیان کی کہ رسول اللہ ﷺ نے ظہر کی نماز پڑھائی اور فرمایا : ’’ میں جان گیا کہ تم میں سے کوئی مجھے اس میں الجھا رہا ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>889</td></tr><tr><td>Arabic No</td><td>398.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 51</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 889 |
+| Arabic No | 398.03 |
+| Reference | Book 4 Hadith 51 |

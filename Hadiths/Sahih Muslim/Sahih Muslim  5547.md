@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي الدَّرَاوَرْدِيَّ - كِلاَهُمَا عَنْ سُهَيْلٍ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني زهير بن حرب، حدثنا جرير، ح وحدثنا قتيبة، حدثنا عبد العزيز، - يعني الدراوردي - كلاهما عن سهيل، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) যুহায়র ইবনু হারব (রহঃ) ও কুতাইবাহ (রহঃ) ..... সুহায়ল (রহঃ) হতে উপরোল্লিখিত সূত্রে হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৫৩৬৫, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been reported on the authority of Suhail with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## French
 
+Rapporté par Abû Hurayra رضي الله عنه : Ce hadith a été rapporté par Suhail avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana Züheyr b. Harb da rivayet etti. (Dediki): Bize Cerîr rivayet etti. H. Bize Kuteybe dahî rivayet etti. (Dediki): Bize Abdül'Aziz (yâni Ed-derâverdi) rivayet etti. Her iki râvi Süheyl'den bu isnadla rivayette bulunmuşlardır. İzah 2114 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جریر اور عبد العزیز دراوردی دونوں نے سہل سے اسی سند کے ساتھ حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5547</td></tr><tr><td>Arabic No</td><td>2113.02</td></tr><tr><td>Reference</td><td>Book 37 Hadith 158</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5547 |
+| Arabic No | 2113.02 |
+| Reference | Book 37 Hadith 158 |

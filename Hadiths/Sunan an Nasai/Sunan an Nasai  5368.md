@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا صَفْوَانُ بْنُ عِيسَى، قَالَ حَدَّثَنَا هِشَامٌ، عَنْ مُحَمَّدٍ، عَنْ عَمْرِو بْنِ أَوْسٍ، قَالَ كَانَ لِنَعْلِ رَسُولِ اللَّهِ صلى الله عليه وسلم قِبَالاَنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 48 Hadith 329</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |
+
 اخبرنا عمرو بن علي، قال حدثنا صفوان بن عيسى، قال حدثنا هشام، عن محمد، عن عمرو بن اوس، قال كان لنعل رسول الله صلى الله عليه وسلم قبالان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 48 Hadith 329</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... আমর ইবন আউস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জুতায় দুইটি ফিতা ছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 48 Hadith 329</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |
 
 ## English
 
+It was narrated that 'Amr bin Aws said:"The sandals of the Messenger of Allah \[SAW\] had two straps
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that 'Amr bin Aws said:"The sandals of the Messenger of Allah [SAW] had two straps
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 48 Hadith 329</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |
+
+## French
+
+Rapporté par 'Amr bin Aws : Les sandales du Messager d’Allah ﷺ avaient deux lanières
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Amru bin Ali\] ia berkata; telah menceritakan kepada kami \[Shafwan bin Isa\] ia berkata; telah menceritakan kepada kami \[Hisyam\] dari \[Muhammad\] dari \[Amru bin Aus\] ia berkata, "Sandal Rasulullah shallallahu 'alaihi wasallam mempunyai dua tali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Amru bin Ali] ia berkata; telah menceritakan kepada kami [Shafwan bin Isa] ia berkata; telah menceritakan kepada kami [Hisyam] dari [Muhammad] dari [Amru bin Aus] ia berkata, "Sandal Rasulullah shallallahu 'alaihi wasallam mempunyai dua tali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 48 Hadith 329</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 48 Hadith 329</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5368</td></tr><tr><td>Arabic No</td><td>5368</td></tr><tr><td>Reference</td><td>Book 48 Hadith 329</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5368 |
+| Arabic No | 5368 |
+| Reference | Book 48 Hadith 329 |

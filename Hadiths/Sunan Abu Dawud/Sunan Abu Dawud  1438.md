@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، حَدَّثَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ اجْعَلُوا آخِرَ صَلاَتِكُمْ بِاللَّيْلِ وِتْرًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
+
 حدثنا احمد بن حنبل، حدثنا يحيى، عن عبيد الله، حدثني نافع، عن ابن عمر، عن النبي صلى الله عليه وسلم قال " اجعلوا اخر صلاتكم بالليل وترا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
 
 ## Bengali
 
+। ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিতরকে তোমাদের রাতের শেষ সালাতে পরিণত করবে।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিতরকে তোমাদের রাতের শেষ সালাতে পরিণত করবে।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar reported the Prophet (ﷺ) as suing:Make the last of your prayer at night a witr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
+
+## French
+
+Rapporté par Ibn ‘Umar رضي الله عنه : Le Prophète ﷺ a dit : « Que la dernière prière de votre nuit soit le witr. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Ahmad bin Hanbal\] telah menceritakan kepada Kami \[Yahya\] dari \['Ubaidullah\] telah menceritakan kepadaku \[Nafi'\] dari \[Ibnu Umar\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jadikan shalat terakhir kalian adalah shalat witir
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Ahmad bin Hanbal] telah menceritakan kepada Kami [Yahya] dari ['Ubaidullah] telah menceritakan kepadaku [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jadikan shalat terakhir kalian adalah shalat witir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Сделайте концом вашей ночной молитвы витр»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.)'dan; Resulullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Gece en son kıldığınız namaz vitir olsun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: اپنی رات کی آخری نماز وتر کو بنایا کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (998) Sahih Muslim (751)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1438</td></tr><tr><td>Arabic No</td><td>1438</td></tr><tr><td>Reference</td><td>Book 8 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (998) Sahih Muslim (751) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1438 |
+| Arabic No | 1438 |
+| Reference | Book 8 Hadith 23 |

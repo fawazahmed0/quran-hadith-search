@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ مِهْرَانَ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنِ الأَوْزَاعِيِّ، أَخْبَرَنِي إِسْحَاقُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ، يَذْكُرُ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن مهران، حدثنا الوليد بن مسلم، عن الاوزاعي، اخبرني اسحاق بن عبد الله بن ابي طلحة، انه سمع انس بن مالك، يذكر ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু মিহরান (রহঃ) ..... ইসহাক ইবনু আবদুল্লাহ ইবনু আবূ তালহাহ (রহঃ) থেকে বর্ণিত যে, তিনি আনাস ইবনু মালিক (রাযিঃ) কে এ হাদীস বর্ণনা করতে শুনেছেন (ইসলামিক ফাউন্ডেশনঃ ৭৭৬, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is reported on the authority of Abu Talha that he had heard Anas b. Malik narrating this
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## French
 
+Rapporté par Abu Talha : Il a entendu Anas b. Malik rapporter cela
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Исхак ибн ‘Абдуллах ибн Аби Тальха слышал, как Анас ибн Малик упомянул это
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize Muhammed b. Mihrân rivayet etti. (Dediki): Bize Velîd b. Müslim, Evzâî'den naklen rivayet etti. (Demiş ki): Bana İshâk b. Abdillâh b. Ebî Talhâ haber verdi ki: Enes b. Mâlik'i bunu anlatırken işitmiş. İzah için buraya tıklayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسحاق بن عبد اللہ بن ابی طلحہ نے بتایا کہ انہوں نے انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سنا ، وہ یہی ( سابقہ ) حدیث بیان کرتے تھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>399.04</td></tr><tr><td>Reference</td><td>Book 4 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 399.04 |
+| Reference | Book 4 Hadith 55 |

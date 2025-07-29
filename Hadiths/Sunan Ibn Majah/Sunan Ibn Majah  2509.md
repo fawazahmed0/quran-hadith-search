@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ مَيْمُونٍ الْمَكِّيُّ، وَهِشَامُ بْنُ عَمَّارٍ، قَالاَ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، وَأَبِي، سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ فِي الرِّكَازِ الْخُمُسُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |
+
 حدثنا محمد بن ميمون المكي، وهشام بن عمار، قالا حدثنا سفيان بن عيينة، عن الزهري، عن سعيد، وابي، سلمة عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " في الركاز الخمس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ খনিজ সম্পদের এক-পঞ্চমাংশ (রাষ্ট্রের) প্রাপ্য।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that the Messenger of Allah (ﷺ) said:“One fifth is due on buried treasure.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) a dit : « Un cinquième est dû sur un trésor enfoui. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Maimun Al Makki\] dan \[Hisyam bin Ammar\] keduanya berkata; telah menceritakan kepada kami \[Sufyan bin Uyainah\] dari \[Az Zuhri\] dari \[Sa'id\] dan \[Abu Salamah\] dari \[Abu Hurairah\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda tentang harta yang terpendam: "Zakatnya adalah seperlima
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Maimun Al Makki] dan [Hisyam bin Ammar] keduanya berkata; telah menceritakan kepada kami [Sufyan bin Uyainah] dari [Az Zuhri] dari [Sa'id] dan [Abu Salamah] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda tentang harta yang terpendam: "Zakatnya adalah seperlima
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu demiştir: «Rikaz'da (yâni definede) humus vardır.» Bu hadis Kütüb-i Sitte'nin hepsinde vardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: «رکاز» میں پانچواں حصہ ( بیت المال کا ) ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2509</td></tr><tr><td>Arabic No</td><td>2509</td></tr><tr><td>Reference</td><td>Book 18 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2509 |
+| Arabic No | 2509 |
+| Reference | Book 18 Hadith 8 |

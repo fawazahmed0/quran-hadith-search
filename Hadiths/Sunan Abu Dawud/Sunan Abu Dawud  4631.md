@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ فَارِسٍ، حَدَّثَنَا قَبِيصَةُ، حَدَّثَنَا عَبَّادٌ السَّمَّاكُ، قَالَ سَمِعْتُ سُفْيَانَ الثَّوْرِيَّ، يَقُولُ الْخُلَفَاءُ خَمْسَةٌ أَبُو بَكْرٍ وَعُمَرُ وَعُثْمَانُ وَعَلِيٌّ وَعُمَرُ بْنُ عَبْدِ الْعَزِيزِ رضى الله عنهم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
+
 حدثنا محمد بن فارس، حدثنا قبيصة، حدثنا عباد السماك، قال سمعت سفيان الثوري، يقول الخلفاء خمسة ابو بكر وعمر وعثمان وعلي وعمر بن عبد العزيز رضى الله عنهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
 
 ## Bengali
 
+। সুফিয়ান সাওরী (রহঃ) বলেন, খলিফাগণের সংখ্যা পাঁচজনঃ আবূ বাকর, উমার, উসমান, আলী ও উমার ইবনুল আব্দুল আযীয (রাঃ)।\[1\] সনদ যঈফ মাকতু।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সুফিয়ান সাওরী (রহঃ) বলেন, খলিফাগণের সংখ্যা পাঁচজনঃ আবূ বাকর, উমার, উসমান, আলী ও উমার ইবনুল আব্দুল আযীয (রাঃ)।[1] সনদ যঈফ মাকতু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sufyan al-Thawri said:The Caliphs are five: Abu Bakr, ‘Umar, ‘Uthman, ‘All and ‘Umar b. ‘Abd al-Aziz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
+
+## French
+
+Rapporté par Sufyan al-Thawri : Les califes sont au nombre de cinq : Abu Bakr, ‘Umar, ‘Uthman, ‘Ali et ‘Umar b. ‘Abd al-Aziz
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Yahya bin Faris\] berkata, telah menceritakan kepada kami \[Qabishah\] berkata, telah menceritakan kepada kami \[Abbad As Sammak\] ia berkata, "Aku mendengar \[Sufyan Ats Tsauri\] berkata, "Khalifah (pemimpin) itu ada lima; Abu Bakar, Umar, Utsman, Ali dan Umar bin Abdul Aziz radliallahu 'anhum (semoga Allah meridhoi mereka)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Abbad As Sammak] ia berkata, "Aku mendengar [Sufyan Ats Tsauri] berkata, "Khalifah (pemimpin) itu ada lima; Abu Bakar, Umar, Utsman, Ali dan Umar bin Abdul Aziz radliallahu 'anhum (semoga Allah meridhoi mereka)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Суфьян ас-Саури говорил: «(Праведных) халифов пять: Абу Бакр, ‘Умар, ‘Усман, ‘Али и ‘Умар ибн ‘Абдуль‘азиз»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abbâd es-Semmâk (şöyle) dedi: Ben Süfyân es-Sevrî'yi: "Halifeler beştir: Ebû Bekir, Ömer, Osman, Ali ve Ömer İbn Abdi'l-Azîz. Allah onlardan razı olsun" derken işittim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفیان ثوری کہا کرتے تھے خلفاء پانچ ہیں: ابوبکر رضی اللہ عنہ، عمر رضی اللہ عنہ، عثمان رضی اللہ عنہ، علی رضی اللہ عنہ اور عمر بن عبدالعزیز رحمہ اللہ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4631</td></tr><tr><td>Arabic No</td><td>4631</td></tr><tr><td>Reference</td><td>Book 42 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4631 |
+| Arabic No | 4631 |
+| Reference | Book 42 Hadith 36 |

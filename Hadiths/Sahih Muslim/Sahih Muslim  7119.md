@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، بِالإِسْنَادَيْنِ جَمِيعًا كَرِوَايَةِ ابْنِ نُمَيْرٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا اسحاق بن ابراهيم، حدثنا جرير، عن الاعمش، بالاسنادين جميعا كرواية ابن نمير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আ'মাশ (রহঃ) এর সানাদে ইবনু নুমায়র (রহঃ) এর অবিকল বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৮৫৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been narrated on the authority of A'mash through two other chains of transmitters. The wording is, however, the same
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## French
 
+Rapporté par A’mash : Un hadith similaire a été rapporté par A’mash à travers deux autres chaînes de transmetteurs. Les mots sont cependant les mêmes
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-76) Bize İshak b. İbrahim rivayet etti, (Dediki): Bize Cerir, A'meş'den iki isnadla birden İbni Numeyr'in rivayeti gibi rivayette bulundu. İZAH 2818 DE
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جریر نے اعمش سے گزشتہ دونوں سندوں کے ساتھ ابن نمیر کی روایت کی طرح بیان کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7119</td></tr><tr><td>Arabic No</td><td>2817.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7119 |
+| Arabic No | 2817.02 |
+| Reference | Book 52 Hadith 72 |

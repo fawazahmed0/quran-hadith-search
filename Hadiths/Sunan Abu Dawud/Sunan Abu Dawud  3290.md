@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,131 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏:‏ ‏ "‏ لاَ نَذْرَ فِي مَعْصِيَةٍ، وَكَفَّارَتُهُ كَفَّارَةُ يَمِينٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
+
 حدثنا اسماعيل بن ابراهيم ابو معمر، حدثنا عبد الله بن المبارك، عن يونس، عن الزهري، عن ابي سلمة، عن عايشة، رضى الله عنها ان النبي صلى الله عليه وسلم قال : " لا نذر في معصية، وكفارته كفارة يمين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ গুনাহের কাজে মানত করা জায়িয নেই। (কেউ করলে) এর কাফফারাহ হবে শপথ ভঙ্গের কাফফারাহর সমান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) as saying: No vow must be taken to do an act of disobedience, and the atonement for it is the same as for an oath
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
+
+## French
+
+Rapporté par Aisha, la mère des croyants رضي الله عنها : Le Prophète ﷺ a dit : « Il ne faut pas faire de vœu pour un acte de désobéissance, et l’expiation pour cela est la même que pour un serment. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что сестра ‘Укбы ибн ‘Амира дала обет совершить хадж пешком, однако Пророк ﷺ узнав об этом, сказал: «Поистине, Аллаху не нужен её обет. Вели ей ехать верхом»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anha)'dan, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Allah'a isyan konusunda adak olmaz. (Eğer adanmışsa) onun keffareti yemin keffaretidir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: معصیت کی نذر نہیں ہے ( یعنی اس کا پورا کرنا جائز نہیں ہے ) اور اس کا کفارہ وہی ہے جو قسم کا کفارہ ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3290</td></tr><tr><td>Arabic No</td><td>3290</td></tr><tr><td>Reference</td><td>Book 22 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3290 |
+| Arabic No | 3290 |
+| Reference | Book 22 Hadith 49 |

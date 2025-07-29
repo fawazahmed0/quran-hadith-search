@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مُوسَى الْحَرَشِيُّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ خِلاَسٍ، عَنْ عَلِيٍّ، نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تَحْلِقَ الْمَرْأَةُ رَأْسَهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |
+
 اخبرنا محمد بن موسى الحرشي، قال حدثنا ابو داود، قال حدثنا همام، عن قتادة، عن خلاس، عن علي، نهى رسول الله صلى الله عليه وسلم ان تحلق المراة راسها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন মূসা হাবশী (রহঃ) ... আলী (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নারীদের মাথা মুন্ডন করতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |
 
 ## English
 
+It was narrated from 'Ali:"The Messenger of Allah \[SAW\] forbade women to shave their heads
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Ali:"The Messenger of Allah [SAW] forbade women to shave their heads
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |
+
+## French
+
+Rapporté par 'Ali : Le Messager d’Allah ﷺ a interdit aux femmes de se raser la tête
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Muhammad bin Musa Al Harasyi\], dia berkata; telah menceritakan kepada kami \[Abu Daud\], dia berkata; telah menceritakan kepada kami \[Hammam\] dari \[Qatadah\] dari \[Khilas\] dari \[Ali\] bahwa Rasulullah shallallahu 'alaihi wasallam melarang wanita mencukur rambutnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Muhammad bin Musa Al Harasyi], dia berkata; telah menceritakan kepada kami [Abu Daud], dia berkata; telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Khilas] dari [Ali] bahwa Rasulullah shallallahu 'alaihi wasallam melarang wanita mencukur rambutnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5049</td></tr><tr><td>Arabic No</td><td>5049</td></tr><tr><td>Reference</td><td>Book 48 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5049 |
+| Arabic No | 5049 |
+| Reference | Book 48 Hadith 10 |

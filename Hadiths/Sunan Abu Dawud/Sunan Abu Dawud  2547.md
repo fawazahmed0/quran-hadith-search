@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ سَلْمٍ، - هُوَ ابْنُ عَبْدِ الرَّحْمَنِ - عَنْ أَبِي زُرْعَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ ‏:‏ كَانَ النَّبِيُّ صلى الله عليه وسلم يَكْرَهُ الشِّكَالَ مِنَ الْخَيْلِ ‏.‏ وَالشِّكَالُ ‏:‏ يَكُونُ الْفَرَسُ فِي رِجْلِهِ الْيُمْنَى بَيَاضٌ وَفِي يَدِهِ الْيُسْرَى بَيَاضٌ، أَوْ فِي يَدِهِ الْيُمْنَى وَفِي رِجْلِهِ الْيُسْرَى ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ أَىْ مُخَالِفٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
+
 حدثنا محمد بن كثير، اخبرنا سفيان، عن سلم، - هو ابن عبد الرحمن - عن ابي زرعة، عن ابي هريرة، قال : كان النبي صلى الله عليه وسلم يكره الشكال من الخيل . والشكال : يكون الفرس في رجله اليمنى بياض وفي يده اليسرى بياض، او في يده اليمنى وفي رجله اليسرى . قال ابو داود : اى مخالف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শ্বেতিযুক্ত ঘোড়া অপছন্দ করতেন। শেকাল হলো, কোনো ঘোড়ার পিছনের দিকে ডান পায়ে এবং সামনের দিকের বাম পায়ে সাদা রং হওয়া, অথবা সামনের দিকের ডান পায়ে এবং পিছনের দিকের বাম পায়ে সাদা রং হওয়া।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah said “The Prophet (ﷺ) disapproved the shikal horses. Shikal are the horses that are white on their right hind leg and white on their left foreleg or white on their right foreleg and left hind leg. Abu Dawud said “This means alternate legs”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
+
+## French
+
+Abu Hurairah a dit : Le Prophète ﷺ n’aimait pas les chevaux shikal. Les shikal sont les chevaux qui ont une marque blanche sur la patte arrière droite et la patte avant gauche, ou sur la patte avant droite et la patte arrière gauche. Abu Dawud a dit : « Cela signifie les jambes opposées. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\], telah mengabarkan kepada kami \[Sufyan\] dari \[Salm bin Ibnu Abdurrahman\] dari \[Abu Zur'ah\] dari \[Abu Hurairah\], ia berkata; Nabi shallallahu 'alaihi wasallam tidak menyukai kuda syikal, syikal adalah kuda betina yang pada kaki kanannya terdapat warna putih, dan pada tangan kirinya terdapat warna putih atau pada tangan kanannya dan kaki kirinya. Abu Daud berkata; yaitu secara silang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Salm bin Ibnu Abdurrahman] dari [Abu Zur'ah] dari [Abu Hurairah], ia berkata; Nabi shallallahu 'alaihi wasallam tidak menyukai kuda syikal, syikal adalah kuda betina yang pada kaki kanannya terdapat warna putih, dan pada tangan kirinya terdapat warna putih atau pada tangan kanannya dan kaki kirinya. Abu Daud berkata; yaitu secara silang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.)'den; demiştir ki: "Nebi (s.a.v.) atların şikal olanını beğenmezdi. Şikal, atın sağ arka ayağı ile sol ön ayağında yahut da, sağ ön ayağı ile sol arka ayağında beyazlık olmasıdır." Müslim, imâre; Tirmizi, cihâd; Nesaî, hayl; İbn Mâce, cihâd; Ahmed b. Hanbel, II, 250, 436, 461, 476. Ebû Dâvud dedi ki: "(Ayak renklerinin) çapraz olmasıdır.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم گھوڑے میں «شکال» کو ناپسند فرماتے تھے، اور «شکال» یہ ہے کہ گھوڑے کے دائیں پیر اور بائیں ہاتھ میں، یا دائیں ہاتھ اور بائیں پیر میں سفیدی ہو ۱؎۔ ابوداؤد کہتے ہیں: یعنی دائیں اور بائیں ایک دوسرے کے مخالف ہوں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1875)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2547</td></tr><tr><td>Arabic No</td><td>2547</td></tr><tr><td>Reference</td><td>Book 15 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1875) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2547 |
+| Arabic No | 2547 |
+| Reference | Book 15 Hadith 71 |

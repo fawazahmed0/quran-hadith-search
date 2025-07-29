@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الرَّحِيمِ، حَدَّثَنَا الْمُعَلَّى بْنُ مَنْصُورٍ، أَخْبَرَنَا هُشَيْمٌ، عَنْ مَنْصُورٍ، عَنِ ابْنِ سِيرِينَ، عَنِ ابْنِ الْعَلاَءِ، عَنِ الْعَلاَءِ، - يَعْنِي ابْنَ الْحَضْرَمِيِّ - أَنَّهُ كَتَبَ إِلَى النَّبِيِّ صلى الله عليه وسلم فَبَدَأَ بِاسْمِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
+
 حدثنا محمد بن عبد الرحيم، حدثنا المعلى بن منصور، اخبرنا هشيم، عن منصور، عن ابن سيرين، عن ابن العلاء، عن العلاء، - يعني ابن الحضرمي - انه كتب الى النبي صلى الله عليه وسلم فبدا باسمه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
 
 ## Bengali
 
+। আল আলা ইবনুল হাদরামী (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট চিঠি লিখেছিলেন এবং তাতে প্রথমে নিজের নাম লিখেছিলেন।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল আলা ইবনুল হাদরামী (রাঃ) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট চিঠি লিখেছিলেন এবং তাতে প্রথমে নিজের নাম লিখেছিলেন।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn al-Ala said :Al-Ala b. al-Hadrami wrote to the prophet (May peace be upon him), and he began with his name
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
+
+## French
+
+Rapporté par Ibn al-Ala رضي الله عنه : Al-Ala’ ibn al-Hadrami écrivit au Prophète ﷺ et il commença par son propre nom
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin 'Abdurrahman\] berkata, telah menceritakan kepada kami \[Al Mu'alla bin Manshur\] berkata, telah mengabarkan kepada kami \[Husyaim\] dari \[Manshur\] dari \[Ibnu Sirin\] dari \[Ibnul 'Ala'\] dari \[Al 'Ala'\] -maksudnya Al-'Ala' bin Al Hadhrami- Bahwasanya ia pernah menulis surat kepada Nabi shallallahu 'alaihi wasallam, lalu ia memulai dengan namanya sendiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin 'Abdurrahman] berkata, telah menceritakan kepada kami [Al Mu'alla bin Manshur] berkata, telah mengabarkan kepada kami [Husyaim] dari [Manshur] dari [Ibnu Sirin] dari [Ibnul 'Ala'] dari [Al 'Ala'] -maksudnya Al-'Ala' bin Al Hadhrami- Bahwasanya ia pernah menulis surat kepada Nabi shallallahu 'alaihi wasallam, lalu ia memulai dengan namanya sendiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 el-Alâ b. el-Hadremî'den (rivayet edildiğine göre) kendisi Nebi (s.a.v.)'e mektup yazmış da (sıra isminin zikrine gelince "el-Alâ'dan Allah'ın Rasulüne" şeklinde önce) kendi isminden başlamış
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علاء یعنی ابن حضرمی سے روایت ہے کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم کو لکھا تو پہلے اپنا نام لکھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5135</td></tr><tr><td>Arabic No</td><td>5135</td></tr><tr><td>Reference</td><td>Book 43 Hadith 363</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5135 |
+| Arabic No | 5135 |
+| Reference | Book 43 Hadith 363 |

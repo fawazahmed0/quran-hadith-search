@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مُجَاهِدُ بْنُ مُوسَى، عَنْ هُشَيْمٍ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سُئِلَ النَّبِيُّ صلى الله عليه وسلم عَنْ ذَرَارِيِّ الْمُشْرِكِينَ فَقَالَ ‏ "‏ اللَّهُ أَعْلَمُ بِمَا كَانُوا عَامِلِينَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |
+
 اخبرني مجاهد بن موسى، عن هشيم، عن ابي بشر، عن سعيد بن جبير، عن ابن عباس، قال سيل النبي صلى الله عليه وسلم عن ذراري المشركين فقال " الله اعلم بما كانوا عاملين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুজাহিদ ইবনু মুসা (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুশরিকদের সন্তানদের সম্পর্কে জিজ্ঞাসিত হলে বলেছিলেন, আল্লাহ তা'আলা তাদের ভবিষ্যৎ কর্ম সম্পকে অধিক পরিজ্ঞাত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'Abbas said:"The Messenger of Allah was asked about he children of the idolators and he said: 'Allah knows best what they would have done
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Messager d’Allah ﷺ a été interrogé au sujet des enfants des polythéistes et il a dit : "Allah sait mieux ce qu’ils auraient fait
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |
 
 ## Indonesian
 
+Telah mengabarkan kepadaku \[Mujahid bin Musa\] dari \[Husyaim\] dari \[Abu Bisyr\] dari \[Sa'id bin Jubair\] dari \[Ibnu 'Abbas\] dia berkata; "Nabi shallallahu 'alaihi wasallam ditanya tentang anak cucu kaum musyrikin, lalu beliau bersabda: "Allah maha mengetahui terhadap apa yang mereka perbuat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepadaku [Mujahid bin Musa] dari [Husyaim] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; "Nabi shallallahu 'alaihi wasallam ditanya tentang anak cucu kaum musyrikin, lalu beliau bersabda: "Allah maha mengetahui terhadap apa yang mereka perbuat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم سے مشرکین کی اولاد کے بارے میں پوچھا گیا تو آپ نے فرمایا: ”اللہ تعالیٰ اسے خوب جانتا ہے جو وہ کرنے والے تھے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1952</td></tr><tr><td>Arabic No</td><td>1952</td></tr><tr><td>Reference</td><td>Book 21 Hadith 135</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1952 |
+| Arabic No | 1952 |
+| Reference | Book 21 Hadith 135 |

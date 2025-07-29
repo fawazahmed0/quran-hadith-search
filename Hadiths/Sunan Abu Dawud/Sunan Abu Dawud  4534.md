@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ أَبَا جَهْمِ بْنَ حُذَيْفَةَ مُصَدِّقًا فَلاَجَّهُ رَجُلٌ فِي صَدَقَتِهِ فَضَرَبَهُ أَبُو جَهْمٍ فَشَجَّهُ فَأَتَوُا النَّبِيَّ صلى الله عليه وسلم فَقَالُوا الْقَوَدَ يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ لَكُمْ كَذَا وَكَذَا ‏"‏ ‏.‏ فَلَمْ يَرْضَوْا فَقَالَ ‏"‏ لَكُمْ كَذَا وَكَذَا ‏"‏ ‏.‏ فَلَمْ يَرْضَوْا فَقَالَ ‏"‏ لَكُمْ كَذَا وَكَذَا ‏"‏ ‏.‏ فَرَضُوا ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ إِنِّي خَاطِبٌ الْعَشِيَّةَ عَلَى النَّاسِ وَمُخْبِرُهُمْ بِرِضَاكُمْ ‏"‏ ‏.‏ فَقَالُوا نَعَمْ ‏.‏ فَخَطَبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏"‏ إِنَّ هَؤُلاَءِ اللَّيْثِيِّينَ أَتَوْنِي يُرِيدُونَ الْقَوَدَ فَعَرَضْتُ عَلَيْهِمْ كَذَا وَكَذَا فَرَضُوا أَرَضِيتُمْ ‏"‏ ‏.‏ قَالُوا لاَ ‏.‏ فَهَمَّ الْمُهَاجِرُونَ بِهِمْ فَأَمَرَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يَكُفُّوا عَنْهُمْ فَكَفُّوا ثُمَّ دَعَاهُمْ فَزَادَهُمْ فَقَالَ ‏"‏ أَرَضِيتُمْ ‏"‏ ‏.‏ فَقَالُوا نَعَمْ ‏.‏ قَالَ ‏"‏ إِنِّي خَاطِبٌ عَلَى النَّاسِ وَمُخْبِرُهُمْ بِرِضَاكُمْ ‏"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏ فَخَطَبَ النَّبِيُّ صلى الله عليه وسلم فَقَالَ ‏"‏ أَرَضِيتُمْ ‏"‏ ‏.‏ قَالُوا نَعَمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
+
 حدثنا محمد بن داود بن سفيان، حدثنا عبد الرزاق، اخبرنا معمر، عن الزهري، عن عروة، عن عايشة، ان النبي صلى الله عليه وسلم بعث ابا جهم بن حذيفة مصدقا فلاجه رجل في صدقته فضربه ابو جهم فشجه فاتوا النبي صلى الله عليه وسلم فقالوا القود يا رسول الله . فقال النبي صلى الله عليه وسلم " لكم كذا وكذا " . فلم يرضوا فقال " لكم كذا وكذا " . فلم يرضوا فقال " لكم كذا وكذا " . فرضوا . فقال النبي صلى الله عليه وسلم " اني خاطب العشية على الناس ومخبرهم برضاكم " . فقالوا نعم . فخطب رسول الله صلى الله عليه وسلم فقال " ان هولاء الليثيين اتوني يريدون القود فعرضت عليهم كذا وكذا فرضوا ارضيتم " . قالوا لا . فهم المهاجرون بهم فامرهم رسول الله صلى الله عليه وسلم ان يكفوا عنهم فكفوا ثم دعاهم فزادهم فقال " ارضيتم " . فقالوا نعم . قال " اني خاطب على الناس ومخبرهم برضاكم " . قالوا نعم . فخطب النبي صلى الله عليه وسلم فقال " ارضيتم " . قالوا نعم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ জাহম ইবনু হুযাইফাহ (রাঃ)-কে যাকাত আদায়ের উদ্দেশ্যে পাঠালেন। এক লোক তার যাকাত দেয়ার ব্যাপারে তার সঙ্গে সংঘাতে জড়ালো। আবূ জাহম (রাঃ) তাকে মারধর করলে তাতে তার মাথা ফেটে যায়। তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে অভিযোগ করলো, হে আল্লাহর রাসূল! কিসাস কার্যকর করুন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদেরকে এই এই পরিমাণ দেয়া হবে। কিন্তু এতেও তারা সন্তুষ্ট হলো না। পুনরায় তিনি বললেনঃ তোমাদেরকে এই এই পরিমাণ দেয়া হবে। এতে তারা সম্মত হলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমি আজ বিকেলে লোকদের উদ্দেশ্যে ভাষণ দিবো আর তখন তাদেরকে তোমাদের সম্মতির ব্যাপারে জানাবো। তারা বললো, হ্যাঁ। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ভাষণে বললেন, লাইস গোত্রের এসব লোক আমার নিকট এসে কিসাস চাইলে আমি তাদেরকে এই এই পরিমাণ সম্পদ দেয়ার প্রস্তাব করেছি এবং এতে তারা সম্মত হয়েছে। সুতরাং তোমরা কি রাযী আছো? তারা বললো, না। এতে মুহাজিরগণ তাদের উপর চড়াও হতে চাইলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে হস্তক্ষেপ করতে বারণ করলেন এবং তারাও বিরত রইলেন। অতঃপর তিনি তাদেরকে ডেকে পরিমাণ বাড়িয়ে দিয়ে বললেন, তোমরা কি সম্মত আছো? তারা বললো, হ্যাঁ। তিনি বললেন, আমি লোকদের উদ্দেশ্যে ভাষণ দিবো এবং তখন তোমাদের সম্মতির কথা তাদেরকে জানাবো। তারা বললো, হ্যাঁ। এবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ভাষণে বললেন, তোমরা কি সম্মত আছো? তারা বললো, হ্যাঁ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ জাহম ইবনু হুযাইফাহ (রাঃ)-কে যাকাত আদায়ের উদ্দেশ্যে পাঠালেন। এক লোক তার যাকাত দেয়ার ব্যাপারে তার সঙ্গে সংঘাতে জড়ালো। আবূ জাহম (রাঃ) তাকে মারধর করলে তাতে তার মাথা ফেটে যায়। তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে অভিযোগ করলো, হে আল্লাহর রাসূল! কিসাস কার্যকর করুন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদেরকে এই এই পরিমাণ দেয়া হবে। কিন্তু এতেও তারা সন্তুষ্ট হলো না। পুনরায় তিনি বললেনঃ তোমাদেরকে এই এই পরিমাণ দেয়া হবে। এতে তারা সম্মত হলো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমি আজ বিকেলে লোকদের উদ্দেশ্যে ভাষণ দিবো আর তখন তাদেরকে তোমাদের সম্মতির ব্যাপারে জানাবো। তারা বললো, হ্যাঁ। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ভাষণে বললেন, লাইস গোত্রের এসব লোক আমার নিকট এসে কিসাস চাইলে আমি তাদেরকে এই এই পরিমাণ সম্পদ দেয়ার প্রস্তাব করেছি এবং এতে তারা সম্মত হয়েছে। সুতরাং তোমরা কি রাযী আছো? তারা বললো, না। এতে মুহাজিরগণ তাদের উপর চড়াও হতে চাইলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে হস্তক্ষেপ করতে বারণ করলেন এবং তারাও বিরত রইলেন। অতঃপর তিনি তাদেরকে ডেকে পরিমাণ বাড়িয়ে দিয়ে বললেন, তোমরা কি সম্মত আছো? তারা বললো, হ্যাঁ। তিনি বললেন, আমি লোকদের উদ্দেশ্যে ভাষণ দিবো এবং তখন তোমাদের সম্মতির কথা তাদেরকে জানাবো। তারা বললো, হ্যাঁ। এবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ভাষণে বললেন, তোমরা কি সম্মত আছো? তারা বললো, হ্যাঁ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) sent AbuJahm ibn Hudhayfah as a collector of zakat. A man quarrelled with him about his sadaqah (i.e. zakat), and AbuJahm struck him and wounded his head. His people came to the Prophet (ﷺ) and said: Revenge, Messenger of Allah! The Prophet (ﷺ) said: You may have so much and so much. But they did not agree. He again said: You may have so much and so much. But they did not agree. He again said: You may have so much and so much. So they agreed. The Prophet (ﷺ) said: I am going to address the people in the afternoon and tell them about your consent. They said: Yes. Addressing (the people), the Messenger of Allah (ﷺ) said: These people of faith came to me asking for revenge. I presented them with so much and so much and they agreed. Do you agree? They said: No. The immigrants (muhajirun) intended (to take revenge) on them. But the Messenger of Allah (ﷺ) commanded them to refrain and they refrained. He then called them and increased (the amount), and asked: Do you agree? They replied: Yes. He said: I am going to address the people and tell them about your consent. They said: Yes. The Prophet (ﷺ) addressed and said: Do you agree? They said: Yes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
+
+## French
+
+Rapporté par Aisha, la mère des croyants رضي الله عنها : Le Prophète ﷺ envoya Abu Jahm ibn Hudhayfah pour collecter la zakat. Un homme se disputa avec lui au sujet de sa sadaqa (zakat), et Abu Jahm le frappa et lui blessa la tête. Sa famille vint voir le Prophète ﷺ et dit : « Vengeance, Messager d’Allah ! » Le Prophète ﷺ dit : « Vous pouvez recevoir tant et tant. » Mais ils refusèrent. Il répéta : « Vous pouvez recevoir tant et tant. » Ils refusèrent encore. Il proposa une troisième fois, et ils acceptèrent. Le Prophète ﷺ dit : « Je vais informer les gens cet après-midi de votre accord. » Ils dirent : « Oui. » Le Messager d’Allah ﷺ s’adressa alors aux gens : « Ces croyants sont venus me demander réparation. Je leur ai proposé tant et tant, et ils ont accepté. Êtes-vous d’accord ? » Ils répondirent : « Non. » Les émigrés (muhajiroun) voulurent alors se venger, mais le Messager d’Allah ﷺ leur ordonna de s’arrêter, et ils obéirent. Il rappela ensuite la famille, augmenta la compensation et demanda : « Êtes-vous d’accord ? » Ils répondirent : « Oui. » Il dit : « Je vais informer les gens de votre accord. » Ils dirent : « Oui. » Le Prophète ﷺ s’adressa alors et demanda : « Êtes-vous d’accord ? » Ils répondirent : « Oui. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Dawud bin Sufyan\] berkata, telah menceritakan kepada kami \[Abdurrazaq\] berkata, telah mengabarkan kepada kami \[Ma'mar\] dari \[Az Zuhri\] dari \[Urwah\] dari \['Aisyah\] berkata, "Nabi shallallahu 'alaihi wasallam mengutus Abu Jahm bin Hudzaifah sebagai penengah dalam persengketaan. Namun ada seorang laki-laki laki-laki yang memutar balikkan fakta hingga Abu jahm memukulnya hingga cidera. Mereka pun mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, kami minta qishsash! ' Rasulullah shallallahu 'alaihi wasallam kemudian berkata, "Bagi kalian begini dan begini, " namun mereka tidak rela. Beliau bersabda lagi: "Bagi kalian begini dan begini, " namun mereka tidak rela. Beliau bersabda lagi: "Bagi kalian begini dan begini, ' mereka akhirnya rela. Setelah itu Nabi shallallahu 'alaihi wasallam bersabda: "Aku akan berpidato di hadapan orang-orang petang nanti dan mengabarkan kepada mereka bahwa kalian telah rela." Mereka menjawab, "Ya." Rasulullah shallallahu 'alaihi wasallam lalu berpidato: "Orang-orang bani Laits telah mendatangiku menginginkan qishsas, lalu aku tawarkan kepada mereka begini dan begini hingga mereka rela, maka apakah kalian juga rela?" Mereka menjawab, "Tidak." Orang-orang Muhajirin ingin menghajar mereka, namun Rasulullah shallallahu 'alaihi wasallam melarang mereka melakukan hal itu, sehingga mereka pun menahan diri. Kemudian beliau memanggil mereka semua dan berpidato lagi: "Apakah kalian ridha?" Mereka menjawab, "Ya." Beliau bersabda: "Aku akan berpidato di hadapan orang-orang untuk mengabarkan kepada mereka bahwa kalian telah ridha." Para sahabat menjawab, "Ya." maka Nabi shallallahu 'alaihi wasallam berpidato seraya berkata: "Apakah kalian ridha?" Mereka menjawab, "Ya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Dawud bin Sufyan] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Urwah] dari ['Aisyah] berkata, "Nabi shallallahu 'alaihi wasallam mengutus Abu Jahm bin Hudzaifah sebagai penengah dalam persengketaan. Namun ada seorang laki-laki laki-laki yang memutar balikkan fakta hingga Abu jahm memukulnya hingga cidera. Mereka pun mendatangi Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, kami minta qishsash! ' Rasulullah shallallahu 'alaihi wasallam kemudian berkata, "Bagi kalian begini dan begini, " namun mereka tidak rela. Beliau bersabda lagi: "Bagi kalian begini dan begini, " namun mereka tidak rela. Beliau bersabda lagi: "Bagi kalian begini dan begini, ' mereka akhirnya rela. Setelah itu Nabi shallallahu 'alaihi wasallam bersabda: "Aku akan berpidato di hadapan orang-orang petang nanti dan mengabarkan kepada mereka bahwa kalian telah rela." Mereka menjawab, "Ya." Rasulullah shallallahu 'alaihi wasallam lalu berpidato: "Orang-orang bani Laits telah mendatangiku menginginkan qishsas, lalu aku tawarkan kepada mereka begini dan begini hingga mereka rela, maka apakah kalian juga rela?" Mereka menjawab, "Tidak." Orang-orang Muhajirin ingin menghajar mereka, namun Rasulullah shallallahu 'alaihi wasallam melarang mereka melakukan hal itu, sehingga mereka pun menahan diri. Kemudian beliau memanggil mereka semua dan berpidato lagi: "Apakah kalian ridha?" Mereka menjawab, "Ya." Beliau bersabda: "Aku akan berpidato di hadapan orang-orang untuk mengabarkan kepada mereka bahwa kalian telah ridha." Para sahabat menjawab, "Ya." maka Nabi shallallahu 'alaihi wasallam berpidato seraya berkata: "Apakah kalian ridha?" Mereka menjawab, "Ya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах, что однажды Пророк ﷺ послал Абу Джахма ибн Хузайфу собирать закят, один человек начал спорить с ним из-за закята и Абу Джахм ударил его, из-за чего на голове у него осталась рана. (Его соплеменники) пришли к Пророку ﷺ и сказали: «Мы требуем воздаяния равным, о Посланник Аллаха!» Пророк ﷺ сказал: «Вам то-то и то-то». Но они не согласились. Он сказал: «Вам то-то и то-то!» Но они не согласились. Он сказал: «Вам то-то и то-то!» И они согласились. Тогда Пророк ﷺ сказал: «Во второй половине дня я обращусь к людям с речью и сообщу им о том, что вы довольны». Они сказали: «Хорошо». И Посланник Аллаха ﷺ обратился к людям с речью, сказав: «Поистине, эти лейситы пришли ко мне и требуют воздаяния равным /кысас/. Я предложил им то-то и то-то, и они согласились. Вы согласны?» Они ответили: «Нет». И мухаджиры заволновались. Но Посланник Аллаха ﷺ велел им не трогать лейситов, и они не стали трогать их. Потом он позвал их и добавил им, спросив: «Вы довольны?» Они сказали: «Да». (Посланник Аллаха ﷺ) сказал: «Я обращусь к людям с речью и сообщу им о том, что вы довольны». Они сказали: «Хорошо». И Пророк ﷺ обратился к людям с речью, сказав: «Вы согласны?» Они ответили: «Да»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe radıyallâhu anhâ'dan; şöyle demiştir: Rasûlullah (s.a.v) Ebû Cehm b. Huzeyfe'yi zekât toplayıcı olarak gönderdi. (Gittiği yerde) bir adam, malının zekâtı konusunda onunla tartıştı. Ebû Cehm, adama vurup başını yardı. (Yaralının velîleri) Rasûlullah'a gelip: "Kısas isteriz yâ Rasûlallah!" dediler. Rasûlullah (s.a.v): "Size şu kadar mal var (kısas'tan vazgeçin)" dedi. Razı olmadılar. Rasûlullah tekrar; (artırarak); "Size şu kadar mal" buyurdu, yine razı olmadılar. Hz. Nebi (s.a.v) (üçüncü defa ve artırarak): "Size şu kadar mal var, (kısas'tan vazgeçin)" buyurdu. Bu sefer razı oldular. Nebi (s.a.v): "Öğle'den sonra halka hitâbedip, razı olduğunuzu haber vereceğim" buyurdu. Onlar da: "Evet" dediler. Rasûlullah (s.a.v) halk'a hitabederek şöyle dedi: “Leysliler bana, kısas istemeye geldiler. Ben de onlara şu kadar mal (en son teklif edip de onların razı oldukları malı söyledi) teklif ettim, razı oldular, (halka duyurmak için) razı oldunuz mu?" buyurdu. "Hayır" dediler. Muhacirler, üzerlerine atılmak istediler, Rasûlullah vazgeçmelerini emretti. Onlar da bıraktılar. Rasûlullah sonra davacıları çağırıp, malı artırdı ve: "Razı oldunuz mu?" dedi. "Evet" dediler. Rasûlullah (s.a.v): "Ben halka hitâbedip sizin razı olduğunuzu haber vereceğim" buyurdu. "Evet" dediler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں نبی اکرم صلی اللہ علیہ وسلم نے ابوجہم بن حذیفہ کو زکاۃ وصول کرنے کے لیے بھیجا، ایک شخص نے اپنی زکاۃ کے سلسلہ میں ان سے جھگڑا کر لیا، ابوجہم نے اسے مارا تو اس کا سر زخمی ہو گیا، تو لوگ نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے اور کہا: اللہ کے رسول! قصاص دلوائیے، اس پر آپ نے ان سے فرمایا: تم اتنا اور اتنا لے لو لیکن وہ لوگ راضی نہیں ہوئے، تو آپ نے فرمایا: اچھا اتنا اور اتنا لے لو وہ اس پر بھی راضی نہیں ہوئے تو آپ نے فرمایا: اچھا اتنا اور اتنا لے لو اس پر وہ رضامند ہو گئے پھر نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: آج شام کو میں لوگوں کے سامنے خطبہ دوں گا اور انہیں تمہاری رضا مندی کی خبر دوں گا لوگوں نے کہا: ٹھیک ہے، چنانچہ رسول اللہ صلی اللہ علیہ وسلم نے خطبہ دیا، اور فرمایا: قبیلہ لیث کے یہ لوگ قصاص کے ارادے سے میرے پاس آئے ہیں تو میں نے ان کو اتنا اور اتنا مال پیش کیا اس پر یہ راضی ہو گئے ہیں ( پھر آپ نے انہیں مخاطب کر کے پوچھا: ) بتاؤ کیا تم لوگ راضی ہو؟ انہوں نے کہا: نہیں، تو مہاجرین ان پر جھپٹے تو رسول اللہ صلی اللہ علیہ وسلم نے انہیں ان سے باز رہنے کا حکم دیا، چنانچہ وہ رک گئے، پھر آپ نے انہیں بلایا، اور کچھ اضافہ کیا پھر پوچھا: کیا اب تم راضی ہو؟ انہوں نے کہا: ہاں، آپ نے فرمایا: میں لوگوں کو خطاب کروں گا، اور انہیں تمہاری رضا مندی کے بارے میں بتاؤں گا لوگوں نے کہا: ٹھیک ہے، چنانچہ نبی اکرم صلی اللہ علیہ وسلم نے خطاب کیا، اور پوچھا: کیا تم راضی ہو؟ وہ بولے: ہاں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4534</td></tr><tr><td>Arabic No</td><td>4534</td></tr><tr><td>Reference</td><td>Book 41 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4534 |
+| Arabic No | 4534 |
+| Reference | Book 41 Hadith 41 |

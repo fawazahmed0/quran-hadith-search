@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا ابْنُ مُبَارَكٍ، عَنْ سَعِيدِ بْنِ، يَزِيدَ بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، وابو كريب قالا حدثنا ابن مبارك، عن سعيد بن، يزيد بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... সাঈদ ইবনু ইয়াযীদ (রহঃ) হতে উক্ত রূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৯৩২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this is narrated on the authority of Sa'id b. Yazid with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## French
 
+Rapporté par Sa’id ibn Yazid : Un hadith similaire a été rapporté avec la même chaîne de transmission
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Ebû Bekir b. Ebî Şeybe ile Ebû Kureyb rivayet ettiler. (Dedilerki): Bize İbni Mübarek, Saîd b. Yezid'den bu isnâdla bu hadisin benzerini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن مبارک نے سعید بن یزید سے اسی سند کے ساتھ اسی طرح حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4077</td></tr><tr><td>Arabic No</td><td>1591.03</td></tr><tr><td>Reference</td><td>Book 22 Hadith 116</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4077 |
+| Arabic No | 1591.03 |
+| Reference | Book 22 Hadith 116 |

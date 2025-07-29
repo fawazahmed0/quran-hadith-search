@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
+حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، فِي خُطْبَةِ الْحَاجَةِ فِي النِّكَاحِ وَغَيْرِهِ ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ - الْمَعْنَى - حَدَّثَنَا وَكِيعٌ عَنْ إِسْرَائِيلَ عَنْ أَبِي إِسْحَاقَ عَنْ أَبِي الأَحْوَصِ وَأَبِي عُبَيْدَةَ عَنْ عَبْدِ اللَّهِ قَالَ عَلَّمَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم خُطْبَةَ الْحَاجَةِ ‏"‏ إِنَّ الْحَمْدَ لِلَّهِ نَسْتَعِينُهُ وَنَسْتَغْفِرُهُ وَنَعُوذُ بِهِ مِنْ شُرُورِ أَنْفُسِنَا مَنْ يَهْدِ اللَّهُ فَلاَ مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلاَ هَادِيَ لَهُ وَأَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ يَا أَيُّهَا الَّذِينَ آمَنُوا ‏(‏ اتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالأَرْحَامَ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا ‏)‏ ‏(‏ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلاَ تَمُوتُنَّ إِلاَّ وَأَنْتُمْ مُسْلِمُونَ ‏)‏ ‏(‏ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلاً سَدِيدًا \* يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا ‏)‏ ‏.‏ لَمْ يَقُلْ مُحَمَّدُ بْنُ سُلَيْمَانَ إِنَّ ‏.‏
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، فِي خُطْبَةِ الْحَاجَةِ فِي النِّكَاحِ وَغَيْرِهِ ح وَحَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ - الْمَعْنَى - حَدَّثَنَا وَكِيعٌ عَنْ إِسْرَائِيلَ عَنْ أَبِي إِسْحَاقَ عَنْ أَبِي الأَحْوَصِ وَأَبِي عُبَيْدَةَ عَنْ عَبْدِ اللَّهِ قَالَ عَلَّمَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم خُطْبَةَ الْحَاجَةِ ‏"‏ إِنَّ الْحَمْدَ لِلَّهِ نَسْتَعِينُهُ وَنَسْتَغْفِرُهُ وَنَعُوذُ بِهِ مِنْ شُرُورِ أَنْفُسِنَا مَنْ يَهْدِ اللَّهُ فَلاَ مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلاَ هَادِيَ لَهُ وَأَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ يَا أَيُّهَا الَّذِينَ آمَنُوا ‏(‏ اتَّقُوا اللَّهَ الَّذِي تَسَاءَلُونَ بِهِ وَالأَرْحَامَ إِنَّ اللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا ‏)‏ ‏(‏ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ وَلاَ تَمُوتُنَّ إِلاَّ وَأَنْتُمْ مُسْلِمُونَ ‏)‏ ‏(‏ يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَقُولُوا قَوْلاً سَدِيدًا * يُصْلِحْ لَكُمْ أَعْمَالَكُمْ وَيَغْفِرْ لَكُمْ ذُنُوبَكُمْ وَمَنْ يُطِعِ اللَّهَ وَرَسُولَهُ فَقَدْ فَازَ فَوْزًا عَظِيمًا ‏)‏ ‏.‏ لَمْ يَقُلْ مُحَمَّدُ بْنُ سُلَيْمَانَ إِنَّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حدثنا محمد بن كثير، اخبرنا سفيان، عن ابي اسحاق، عن ابي عبيدة، عن عبد الله بن مسعود، في خطبة الحاجة في النكاح وغيره ح وحدثنا محمد بن سليمان الانباري - المعنى - حدثنا وكيع عن اسراييل عن ابي اسحاق عن ابي الاحوص وابي عبيدة عن عبد الله قال علمنا رسول الله صلى الله عليه وسلم خطبة الحاجة " ان الحمد لله نستعينه ونستغفره ونعوذ به من شرور انفسنا من يهد الله فلا مضل له ومن يضلل فلا هادي له واشهد ان لا اله الا الله واشهد ان محمدا عبده ورسوله يا ايها الذين امنوا ( اتقوا الله الذي تساءلون به والارحام ان الله كان عليكم رقيبا ) ( يا ايها الذين امنوا اتقوا الله حق تقاته ولا تموتن الا وانتم مسلمون ) ( يا ايها الذين امنوا اتقوا الله وقولوا قولا سديدا * يصلح لكم اعمالكم ويغفر لكم ذنوبكم ومن يطع الله ورسوله فقد فاز فوزا عظيما ) . لم يقل محمد بن سليمان ان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+حدثنا محمد بن كثير، اخبرنا سفيان، عن ابي اسحاق، عن ابي عبيدة، عن عبد الله بن مسعود، في خطبة الحاجة في النكاح وغيره ح وحدثنا محمد بن سليمان الانباري - المعنى - حدثنا وكيع عن اسراييل عن ابي اسحاق عن ابي الاحوص وابي عبيدة عن عبد الله قال علمنا رسول الله صلى الله عليه وسلم خطبة الحاجة " ان الحمد لله نستعينه ونستغفره ونعوذ به من شرور انفسنا من يهد الله فلا مضل له ومن يضلل فلا هادي له واشهد ان لا اله الا الله واشهد ان محمدا عبده ورسوله يا ايها الذين امنوا ( اتقوا الله الذي تساءلون به والارحام ان الله كان عليكم رقيبا ) ( يا ايها الذين امنوا اتقوا الله حق تقاته ولا تموتن الا وانتم مسلمون ) ( يا ايها الذين امنوا اتقوا الله وقولوا قولا سديدا \* يصلح لكم اعمالكم ويغفر لكم ذنوبكم ومن يطع الله ورسوله فقد فاز فوزا عظيما ) . لم يقل محمد بن سليمان ان
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু মাসঊদ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে বিবাহের খুৎবা শিক্ষা দিয়েছেনঃ ‘‘সমস্ত প্রশংসার এক আল্লাহর জন্যই। আমরা তাঁর কাছে সাহায্য চাই, তাঁর কাছে ক্ষমা চাই এবং তাঁর কাছে আশ্রয় প্রার্থনা করি আমাদের দেহ ও আত্মার সকল অনিষ্ট থেকে। আল্লাহ যাকে হিদায়াত দেন, কেউ তাকে পথভ্রষ্ট করতে পারে না। আর তিনি যাকে পথভ্রষ্ট করেন, কেউ তাকে হিদায়াত করতে পারে না। আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া কোনো ইলাহ নাই এবং আমি আরো সাক্ষ্য দিচ্ছি যে, মুহাম্মাদ তাঁর বান্দা ও রাসূল। হে ঈমানদারগণ! তোমরা আল্লাহকে ভয় করো, তোমাদের পরস্পরের মধ্যে চাওয়া-নেওয়া এবং আত্মীয়দের ব্যাপারে। নিশ্চয় আল্লাহ তোমাদের উপর তীক্ষ্ণ দৃষ্টি রাখেন।’’ (সুরা নিসাঃ ১) ‘‘হে ঈমানদারগণ! তোমরা যথাযথভাবে আল্লাহকে ভয় করো এবং মুসলিম না হয়ে মরো না।’’ (সূরা আলে ‘ইমরানঃ ১০১) ‘‘হে ঈমানদারগণ! সঠিক কথা বলো। তাহলে তিনি তোমাদের কাজকর্ম সংশোধ করে দিবেন এবং তোমাদের গুনাহ ক্ষমা করবেন। আর যে ব্যক্তি আল্লাহ ও তাঁর রাসূলের আনুগত্য করবে, সে মহাসাফল্য লাভ করবে’’ (সূরা আহযাবঃ ৭০-৭১)।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু মাসঊদ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে বিবাহের খুৎবা শিক্ষা দিয়েছেনঃ ‘‘সমস্ত প্রশংসার এক আল্লাহর জন্যই। আমরা তাঁর কাছে সাহায্য চাই, তাঁর কাছে ক্ষমা চাই এবং তাঁর কাছে আশ্রয় প্রার্থনা করি আমাদের দেহ ও আত্মার সকল অনিষ্ট থেকে। আল্লাহ যাকে হিদায়াত দেন, কেউ তাকে পথভ্রষ্ট করতে পারে না। আর তিনি যাকে পথভ্রষ্ট করেন, কেউ তাকে হিদায়াত করতে পারে না। আমি সাক্ষ্য দিচ্ছি যে, আল্লাহ ছাড়া কোনো ইলাহ নাই এবং আমি আরো সাক্ষ্য দিচ্ছি যে, মুহাম্মাদ তাঁর বান্দা ও রাসূল। হে ঈমানদারগণ! তোমরা আল্লাহকে ভয় করো, তোমাদের পরস্পরের মধ্যে চাওয়া-নেওয়া এবং আত্মীয়দের ব্যাপারে। নিশ্চয় আল্লাহ তোমাদের উপর তীক্ষ্ণ দৃষ্টি রাখেন।’’ (সুরা নিসাঃ ১) ‘‘হে ঈমানদারগণ! তোমরা যথাযথভাবে আল্লাহকে ভয় করো এবং মুসলিম না হয়ে মরো না।’’ (সূরা আলে ‘ইমরানঃ ১০১) ‘‘হে ঈমানদারগণ! সঠিক কথা বলো। তাহলে তিনি তোমাদের কাজকর্ম সংশোধ করে দিবেন এবং তোমাদের গুনাহ ক্ষমা করবেন। আর যে ব্যক্তি আল্লাহ ও তাঁর রাসূলের আনুগত্য করবে, সে মহাসাফল্য লাভ করবে’’ (সূরা আহযাবঃ ৭০-৭১)।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Mas'ud: The Messenger of Allah (ﷺ) taught us the address in case of some need: Praise be to Allah from Whom we ask help and pardon, and in Whom we take refuge from the evils within ourselves. He whom Allah guides has no one who can lead him astray, and he whom He leads astray has no one to guide him. I testify that there is no god but Allah, and I testify that Muhammad is His servant and Apostle. "You who believe,...fear Allah by Whom you ask your mutual rights, and reverence the wombs. Allah has been watching you." ..."you who believe, fear Allah as He should be feared, and die only as Muslims" ...."you who believe, fear Allah as He should be feared, and die only as Muslims"....."you who believe, fear Allah and say what is true. He will make your deeds sound, and forgive your sins. He who obeys Allah and His Apostle has achieved a mighty success." The narrator, Muhammad ibn Sulayman, did mention the word "inna" (verily)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
+
+## French
+
+Rapporté par Abdullah ibn Mas’ud رضي الله عنه : Le Messager d’Allah ﷺ nous a enseigné le discours à prononcer en cas de besoin : « Louange à Allah, à qui nous demandons aide et pardon, et auprès de qui nous cherchons refuge contre le mal de nous-mêmes. Celui qu’Allah guide, personne ne peut l’égarer, et celui qu’Il égare, personne ne peut le guider. J’atteste qu’il n’y a pas de divinité en dehors d’Allah, et j’atteste que Muhammad est Son serviteur et Son Messager. “Ô vous qui croyez, craignez Allah par qui vous vous réclamez vos droits mutuels, et respectez les liens du sang. Allah vous observe.” … “Ô vous qui croyez, craignez Allah comme Il doit être craint, et ne mourez qu’en musulmans.” … “Ô vous qui croyez, craignez Allah et dites la vérité. Il rendra vos actions droites et pardonnera vos péchés. Celui qui obéit à Allah et à Son Messager a réussi grandement.” » Le rapporteur, Muhammad ibn Sulayman, a mentionné le mot « inna » (en vérité)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\], telah mengabarkan kepada kami \[Sufyan\] dari \[Abu Ishaq\] dari \[Abu 'Ubaidah\] dari \[Abdullah bin Mas'ud\] mengenai khutbah hajah dalam pernikahan dan yang lainnya, dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami \[Muhammad bin Sulaiman Al Anbari\] secara makna, telah menceritakan kepada kami \[Waki'\] dari \[Israil\], dari \[Abu Ishaq\] dari \[Abu Al Ahwash\] dan \[Abu 'Ubaidah\] dari \[Abdullah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah mengajarkan kepada khutbah hajah, yaitu: INNAL HAMDA LILLAAH, NAHMADUHU WA NASTA'IINUHU WA NASTAGHFIRUH, WA NA'UUDZU BILLAAHI MIN SYURUURI ANFUSINAA MAN YAHDIHILLAAHU FALAA MUDHILLALAH, WA MAN YUDHLIL FALAA HAADIYALAH. ASYHADU ANLAA ILAAHA ILLALLAAHU WA ASYHADU ANNA MUHAMMADAN 'ABDUHU WA RASUULUH. YAA AYYUHALLADZIINA AAMANUT TAQULLAAHAL LADZII TASAA-ALUUNA BIHII WAL ARHAAM, INNALLAAHA KAANA 'ALAIKUM RAQIIBAA. YAA AYYUHALLADZIINA AAMANUT TAQULLAAHA HAQQA TUQAATIHI WA LAA TAMUUTUNNA ILLAA WA ANTUM MUSLIMUUN, YAA AYYUHALLADZIINA AAMANUUT TAQULLAAHA WA QUULUU QAULAN SADIIDAA, YUSHLIH LAKUM A'MAALAKUM WA YAGHFIRLAKUM DZUNUUBAKUM WA MAYYUTHI'ILLAAHA WA RASUULAHU FAQAD FAAZA FAUZAN 'AZHIIMAA (Segala puji bagi Allah, kami memuji dan memohon pertolongan serta ampunan kepadaNya, dan berlindung kepada Allah dari keburukan diri kita, barangsiapa yang Allah beri petunjuk maka tidak ada yang dapat menyesatkannya dan barangsiapa yang Allah sesatkan, maka tidak ada yang dapat memberinya petunjuk. Aku bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan Muhammad adalah hamba serta rasulNya. Hai orang-orang yang beriman, bertakwalah kepada Allah yang dengan (mempergunakan) nama-Nya kamu saling meminta satu sama lain, dan (peliharalah) hubungan silaturrahim. Sesungguhnya Allah selalu menjaga dan mengawasi kamu. Hai orang-orang yang beriman, bertakwalah kepada Allah sebenar-benar takwa kepada-Nya; dan janganlah sekali-kali kamu mati melainkan dalam keadaan beragama Islam. Hai orang-orang yang beriman, bertakwalah kamu kepada Allah dan katakanlah perkataan yang benar, niscaya Allah memperbaiki bagimu amalan-amalanmu dan mengampuni bagimu dosa-dosamu. Dan barangsiapa mentaati Allah dan Rasul-Nya, maka sesungguhnya ia telah mendapat kemenangan yang besar(. Muhammad bin Sulaiman tidak menyebutkan khutbah tersebut. Telah menceritakan kepada kami \[Muhammad bin Basysyar\], telah menceritakan kepada kami \[Abu 'Ashim\], telah menceritakan kepada kami \['Imran\] dari \[Qatadah\] dari \[Abdu Rabbih\] dari \[Abu 'Iyadh\] dari \[Ibnu Mas'ud\] bahwa Rasulullah shallallahu 'alaihi wasallam apabila bertasayahud menyebutkan seperti itu. Dan ia mengatakan setelah ucapannya: "dan rasulNya" yang Allah utus dengan kebenaran sebagai pemberi kabar gembira dan pemberi peringatan di hadapan Hari Kiamat. Barangsiapa yang mentaati Allah dan rasulNya maka sungguh ia telah mendapatkan petunjuk dan barangsiapa yang mendurhakai mereka berdua, maka sesungguhnya ia tidak merugikan kecuali terhadap dirinya sendiri, dan tidak merugikan Allah sedikitpun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir], telah mengabarkan kepada kami [Sufyan] dari [Abu Ishaq] dari [Abu 'Ubaidah] dari [Abdullah bin Mas'ud] mengenai khutbah hajah dalam pernikahan dan yang lainnya, dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] secara makna, telah menceritakan kepada kami [Waki'] dari [Israil], dari [Abu Ishaq] dari [Abu Al Ahwash] dan [Abu 'Ubaidah] dari [Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam telah mengajarkan kepada khutbah hajah, yaitu: INNAL HAMDA LILLAAH, NAHMADUHU WA NASTA'IINUHU WA NASTAGHFIRUH, WA NA'UUDZU BILLAAHI MIN SYURUURI ANFUSINAA MAN YAHDIHILLAAHU FALAA MUDHILLALAH, WA MAN YUDHLIL FALAA HAADIYALAH. ASYHADU ANLAA ILAAHA ILLALLAAHU WA ASYHADU ANNA MUHAMMADAN 'ABDUHU WA RASUULUH. YAA AYYUHALLADZIINA AAMANUT TAQULLAAHAL LADZII TASAA-ALUUNA BIHII WAL ARHAAM, INNALLAAHA KAANA 'ALAIKUM RAQIIBAA. YAA AYYUHALLADZIINA AAMANUT TAQULLAAHA HAQQA TUQAATIHI WA LAA TAMUUTUNNA ILLAA WA ANTUM MUSLIMUUN, YAA AYYUHALLADZIINA AAMANUUT TAQULLAAHA WA QUULUU QAULAN SADIIDAA, YUSHLIH LAKUM A'MAALAKUM WA YAGHFIRLAKUM DZUNUUBAKUM WA MAYYUTHI'ILLAAHA WA RASUULAHU FAQAD FAAZA FAUZAN 'AZHIIMAA (Segala puji bagi Allah, kami memuji dan memohon pertolongan serta ampunan kepadaNya, dan berlindung kepada Allah dari keburukan diri kita, barangsiapa yang Allah beri petunjuk maka tidak ada yang dapat menyesatkannya dan barangsiapa yang Allah sesatkan, maka tidak ada yang dapat memberinya petunjuk. Aku bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan Muhammad adalah hamba serta rasulNya. Hai orang-orang yang beriman, bertakwalah kepada Allah yang dengan (mempergunakan) nama-Nya kamu saling meminta satu sama lain, dan (peliharalah) hubungan silaturrahim. Sesungguhnya Allah selalu menjaga dan mengawasi kamu. Hai orang-orang yang beriman, bertakwalah kepada Allah sebenar-benar takwa kepada-Nya; dan janganlah sekali-kali kamu mati melainkan dalam keadaan beragama Islam. Hai orang-orang yang beriman, bertakwalah kamu kepada Allah dan katakanlah perkataan yang benar, niscaya Allah memperbaiki bagimu amalan-amalanmu dan mengampuni bagimu dosa-dosamu. Dan barangsiapa mentaati Allah dan Rasul-Nya, maka sesungguhnya ia telah mendapat kemenangan yang besar(. Muhammad bin Sulaiman tidak menyebutkan khutbah tersebut. Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Abu 'Ashim], telah menceritakan kepada kami ['Imran] dari [Qatadah] dari [Abdu Rabbih] dari [Abu 'Iyadh] dari [Ibnu Mas'ud] bahwa Rasulullah shallallahu 'alaihi wasallam apabila bertasayahud menyebutkan seperti itu. Dan ia mengatakan setelah ucapannya: "dan rasulNya" yang Allah utus dengan kebenaran sebagai pemberi kabar gembira dan pemberi peringatan di hadapan Hari Kiamat. Barangsiapa yang mentaati Allah dan rasulNya maka sungguh ia telah mendapatkan petunjuk dan barangsiapa yang mendurhakai mereka berdua, maka sesungguhnya ia tidak merugikan kecuali terhadap dirinya sendiri, dan tidak merugikan Allah sedikitpun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
 
 ## Russian
 
+Передается от ‘Абдуллаха, да будет доволен им Аллах: «Посланник Аллаха ﷺ научил нас хутбе на все случаи жизни: “Поистине, хвала принадлежит Аллаху, Его мы восхваляем, у Него просим помощи и прощения и ищем защиты у Аллаха от зла наших душ и наших дурных дел. Кого ведёт Аллах прямым путём, того никто не введёт в заблуждение, а кого Он вводит в заблуждение, того никто не выведет на прямой путь. Свидетельствую, что нет бога \[заслуживающего поклонение\], кроме Аллаха, и свидетельствую, что Мухаммад Его раб и Посланник. О те, которые уверовали! “Бойтесь Аллаха, именем Которого вы просите друг друга, и бойтесь разрывать родственные связи. Поистине, Аллах наблюдает за вами” (сура 4 «ан-Ниса», аят 1). “О те, которые уверовали! Бойтесь Аллаха должным образом и умирайте не иначе как будучи мусульманами!” (сура 3 «Али ‘Имран», аят 102) “О те, которые уверовали! Бойтесь Аллаха и говорите правое слово. Тогда Он исправит для вас ваши дела и простит вам ваши грехи. А кто повинуется Аллаху и Его Посланнику, тот уже достиг великого успеха” (сура 33 «аль-Ахзаб», аят)
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передается от ‘Абдуллаха, да будет доволен им Аллах: «Посланник Аллаха ﷺ научил нас хутбе на все случаи жизни: “Поистине, хвала принадлежит Аллаху, Его мы восхваляем, у Него просим помощи и прощения и ищем защиты у Аллаха от зла наших душ и наших дурных дел. Кого ведёт Аллах прямым путём, того никто не введёт в заблуждение, а кого Он вводит в заблуждение, того никто не выведет на прямой путь. Свидетельствую, что нет бога [заслуживающего поклонение], кроме Аллаха, и свидетельствую, что Мухаммад Его раб и Посланник. О те, которые уверовали! “Бойтесь Аллаха, именем Которого вы просите друг друга, и бойтесь разрывать родственные связи. Поистине, Аллах наблюдает за вами” (сура 4 «ан-Ниса», аят 1). “О те, которые уверовали! Бойтесь Аллаха должным образом и умирайте не иначе как будучи мусульманами!” (сура 3 «Али ‘Имран», аят 102) “О те, которые уверовали! Бойтесь Аллаха и говорите правое слово. Тогда Он исправит для вас ваши дела и простит вам ваши грехи. А кто повинуется Аллаху и Его Посланнику, тот уже достиг великого успеха” (сура 33 «аль-Ахзаб», аят)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
 
 ## Turkish
 
+Abdullah (b. Mes'ud)'dan; demiştir ki; Resûlullah (s.a.v.) bize (nikâh akdindeki ve başka akitlerdeki) hacet hutbesini (şu şekilde) öğretti. "Şüphesiz her türlü hamd Allaha mahsustur. Ondan yardım ve mağfiret dileriz nefislerimizin şerrinden de ona sığınırız. Allah'ın hidâyete erdirdiği kişiyi saptıracak yoktur. Saptırdığını da hidâyet'e erdirecek yoktur. Ben Allah’tan başka bir İlâh olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna şehâdet ederim. "Ey imân edenler, adıma birbirinizden dilekte bulunduğunuz Allah’tan ve akrabalık (bağlarını kırmak)'tan sakınınız şüphesiz Allah sizin üzerinizde gözetleyicidir".\[Nisâ 1\] "Ey insanlar, Allah'tan ona yaraşacak şekilde korkunuz. Ve ancak müslümanlar olarak ölünüz."\[Âl-i İmrân 102\] "Ey iman edenler, Allah’tan korkun ve doğru söz söyleyin.”\[Ahzab 70\] "Ki (Allah) işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kim Allah'a ve Resulüne itaat ederse, büyük bir başarıya ermiş olur."\[Ahzab 71\] Ebû Dâvûd dedi ki: (Bu hadisi bana nakleden râvilerden) Muhammed b. Süleyman (hutbenin başında bulunan) "înne" harfini rivayet etmedi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah (b. Mes'ud)'dan; demiştir ki; Resûlullah (s.a.v.) bize (nikâh akdindeki ve başka akitlerdeki) hacet hutbesini (şu şekilde) öğretti. "Şüphesiz her türlü hamd Allaha mahsustur. Ondan yardım ve mağfiret dileriz nefislerimizin şerrinden de ona sığınırız. Allah'ın hidâyete erdirdiği kişiyi saptıracak yoktur. Saptırdığını da hidâyet'e erdirecek yoktur. Ben Allah’tan başka bir İlâh olmadığına ve Muhammed'in O'nun kulu ve elçisi olduğuna şehâdet ederim. "Ey imân edenler, adıma birbirinizden dilekte bulunduğunuz Allah’tan ve akrabalık (bağlarını kırmak)'tan sakınınız şüphesiz Allah sizin üzerinizde gözetleyicidir".[Nisâ 1] "Ey insanlar, Allah'tan ona yaraşacak şekilde korkunuz. Ve ancak müslümanlar olarak ölünüz."[Âl-i İmrân 102] "Ey iman edenler, Allah’tan korkun ve doğru söz söyleyin.”[Ahzab 70] "Ki (Allah) işlerinizi düzeltsin ve günahlarınızı bağışlasın. Kim Allah'a ve Resulüne itaat ederse, büyük bir başarıya ermiş olur."[Ahzab 71] Ebû Dâvûd dedi ki: (Bu hadisi bana nakleden râvilerden) Muhammed b. Süleyman (hutbenin başında bulunan) "înne" harfini rivayet etmedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |
 
 ## Urdu
 
+عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں خطبہ حاجت اس طرح سکھایا: «إن الحمد لله نستعينه ونستغفره ونعوذ به من شرور أنفسنا من يهد الله فلا مضل له ومن يضلل فلا هادي له وأشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله» «يا أيها الذين آمنوا اتقوا الله الذي تساءلون به والأرحام إن الله كان عليكم رقيبا» اے ایمان والو! اس اللہ سے ڈرو جس کے نام پر ایک دوسرے سے مانگتے ہو اور رشتے ناتے توڑنے سے بھی بچو بیشک اللہ تعالیٰ تم پر نگہبان ہے ( سورۃ النساء: ۱ ) «يا أيها الذين آمنوا اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون» اے ایمان والو! اللہ سے ڈرو جیسا کہ اس سے ڈرنے کا حق ہے اور مسلمان ہی رہ کر مرو ( سورۃ آل عمران: ۱۰۲ ) ۔ «يا أيها الذين آمنوا اتقوا الله وقولوا قولا سديدا \* يصلح لكم أعمالكم ويغفر لكم ذنوبكم ومن يطع الله ورسوله فقد فاز فوزا عظيما» اے ایمان والو! اللہ سے ڈرو اور نپی تلی بات کہو اللہ تعالیٰ تمہارے کام سنوار دے گا اور تمہارے گناہ معاف کر دے گا اور جو بھی اللہ اور اس کے رسول کی تابعداری کرے گا اس نے بڑی مراد پالی ( سورۃ الاحزاب: ۷۱، ۷۰ ) ، محمد بن سلیمان کی روایت میں «إن» نہیں ہے۔
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہمیں خطبہ حاجت اس طرح سکھایا: «إن الحمد لله نستعينه ونستغفره ونعوذ به من شرور أنفسنا من يهد الله فلا مضل له ومن يضلل فلا هادي له وأشهد أن لا إله إلا الله وأشهد أن محمدا عبده ورسوله» «يا أيها الذين آمنوا اتقوا الله الذي تساءلون به والأرحام إن الله كان عليكم رقيبا» اے ایمان والو! اس اللہ سے ڈرو جس کے نام پر ایک دوسرے سے مانگتے ہو اور رشتے ناتے توڑنے سے بھی بچو بیشک اللہ تعالیٰ تم پر نگہبان ہے ( سورۃ النساء: ۱ ) «يا أيها الذين آمنوا اتقوا الله حق تقاته ولا تموتن إلا وأنتم مسلمون» اے ایمان والو! اللہ سے ڈرو جیسا کہ اس سے ڈرنے کا حق ہے اور مسلمان ہی رہ کر مرو ( سورۃ آل عمران: ۱۰۲ ) ۔ «يا أيها الذين آمنوا اتقوا الله وقولوا قولا سديدا * يصلح لكم أعمالكم ويغفر لكم ذنوبكم ومن يطع الله ورسوله فقد فاز فوزا عظيما» اے ایمان والو! اللہ سے ڈرو اور نپی تلی بات کہو اللہ تعالیٰ تمہارے کام سنوار دے گا اور تمہارے گناہ معاف کر دے گا اور جو بھی اللہ اور اس کے رسول کی تابعداری کرے گا اس نے بڑی مراد پالی ( سورۃ الاحزاب: ۷۱، ۷۰ ) ، محمد بن سلیمان کی روایت میں «إن» نہیں ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2118</td></tr><tr><td>Arabic No</td><td>2118</td></tr><tr><td>Reference</td><td>Book 12 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2118 |
+| Arabic No | 2118 |
+| Reference | Book 12 Hadith 73 |

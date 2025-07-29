@@ -12,54 +12,96 @@
 
 ## Arabic
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan | Bashar Awad Maarouf |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 455 |
+| Arabic No | 455 |
+| Reference | Book 3 Hadith 4 |
 
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan | Bashar Awad Maarouf |
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 455 |
+| Arabic No | 455 |
+| Reference | Book 3 Hadith 4 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan | Bashar Awad Maarouf |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 455 |
+| Arabic No | 455 |
+| Reference | Book 3 Hadith 4 |
 
 ## English
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan | Bashar Awad Maarouf |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 455 |
+| Arabic No | 455 |
+| Reference | Book 3 Hadith 4 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan | Bashar Awad Maarouf |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 455 |
+| Arabic No | 455 |
+| Reference | Book 3 Hadith 4 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan | Bashar Awad Maarouf |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 455 |
+| Arabic No | 455 |
+| Reference | Book 3 Hadith 4 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Hasan | Bashar Awad Maarouf |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Bashar Awad Maarouf</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>455</td></tr><tr><td>Arabic No</td><td>455</td></tr><tr><td>Reference</td><td>Book 3 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 455 |
+| Arabic No | 455 |
+| Reference | Book 3 Hadith 4 |

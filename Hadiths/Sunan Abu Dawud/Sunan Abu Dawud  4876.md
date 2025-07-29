@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ، حَدَّثَنَا أَبُو الْيَمَانِ، حَدَّثَنَا شُعَيْبٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ أَبِي حُسَيْنٍ، حَدَّثَنَا نَوْفَلُ بْنُ مُسَاحِقٍ، عَنْ سَعِيدِ بْنِ زَيْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِنَّ مِنْ أَرْبَى الرِّبَا الاِسْتِطَالَةَ فِي عِرْضِ الْمُسْلِمِ بِغَيْرِ حَقٍّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
+
 حدثنا محمد بن عوف، حدثنا ابو اليمان، حدثنا شعيب، حدثنا عبد الله بن ابي حسين، حدثنا نوفل بن مساحق، عن سعيد بن زيد، عن النبي صلى الله عليه وسلم قال " ان من اربى الربا الاستطالة في عرض المسلم بغير حق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
 
 ## Bengali
 
+। সাঈদ ইবনু যায়িদ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, অন্যায়ভাবে কোনো মুসলিমের মানসম্মানের হস্তক্ষেপ করা ব্যাপকতর সুদের অন্তর্ভুক্ত (মহাপাপ)।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাঈদ ইবনু যায়িদ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, অন্যায়ভাবে কোনো মুসলিমের মানসম্মানের হস্তক্ষেপ করা ব্যাপকতর সুদের অন্তর্ভুক্ত (মহাপাপ)।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sa'id ibn Zayd: The Prophet (ﷺ) said: The most prevalent kind of usury is going to lengths in talking unjustly against a Muslim's honour
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
+
+## French
+
+Rapporté par Sa'id ibn Zayd : Le Prophète ﷺ a dit : « La forme la plus répandue d’usure, c’est de parler longuement et injustement contre l’honneur d’un musulman. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Auf\] berkata, telah menceritakan kepada kami \[Abul Yaman\] berkata, telah menceritakan kepada kami \[Syu'aib\] berkata, telah menceritakan kepada kami \[Abdullah bin Abu Husain\] berkata, telah menceritakan kepada kami \[Naufal bin Musahiq\] dari \[Sa'id bin Zaid\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya seburuk-buruk riba adalah merusak kehormatan orang lain dengan cara yang tidak dibenarkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Auf] berkata, telah menceritakan kepada kami [Abul Yaman] berkata, telah menceritakan kepada kami [Syu'aib] berkata, telah menceritakan kepada kami [Abdullah bin Abu Husain] berkata, telah menceritakan kepada kami [Naufal bin Musahiq] dari [Sa'id bin Zaid] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya seburuk-buruk riba adalah merusak kehormatan orang lain dengan cara yang tidak dibenarkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Са‘ида ибн Зейда, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, наихудшее ростовщичество /ар-риба/ это посягательство на честь мусульманина, без всякого права на это»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Said b. Zeyd'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: "Muhakkak ki Riba'nın en şiddetlisi haksız yere bir müslümamn şerefine (dil) uzatmaktır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن زید رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: سب سے بڑی زیادتی یہ ہے کہ آدمی ناحق کسی مسلمان کی بے عزتی کرے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4876</td></tr><tr><td>Arabic No</td><td>4876</td></tr><tr><td>Reference</td><td>Book 43 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4876 |
+| Arabic No | 4876 |
+| Reference | Book 43 Hadith 104 |

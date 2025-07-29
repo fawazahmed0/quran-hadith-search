@@ -14,62 +14,102 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كُفِّنَ فِي ثَلاَثَةِ أَثْوَابٍ بِيضٍ سَحُولِيَّةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |
+
 وحدثني عن مالك، عن يحيى بن سعيد، ان رسول الله صلى الله عليه وسلم كفن في ثلاثة اثواب بيض سحولية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hadith Translation Not Available
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe'den: Resulullah Sallallahu Aleyhi ve Sellem pamuktan dokunmuş, ince, beyaz, üç kat bezle kefenlendi. Ayrıca üzerinde gömlek ve sarık da yoktu. Diğer tahric: Buharî, Cenaiz; Müslim, Cenaiz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>524</td></tr><tr><td>Arabic No</td><td>524</td></tr><tr><td>Reference</td><td>Book 16 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 524 |
+| Arabic No | 524 |
+| Reference | Book 16 Hadith 5 |

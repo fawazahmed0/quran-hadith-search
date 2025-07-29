@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، أَنَّ هَاشِمَ بْنَ الْقَاسِمِ، وَهِشَامًا، حَدَّثَاهُمْ قَالاَ، حَدَّثَنَا عِكْرِمَةُ بْنُ عَمَّارٍ، قَالَ حَدَّثَنِي إِيَاسُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنِي أَبِي قَالَ، غَزَوْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم هَوَازِنَ - قَالَ - فَبَيْنَمَا نَحْنُ نَتَضَحَّى وَعَامَّتُنَا مُشَاةٌ وَفِينَا ضَعَفَةٌ إِذْ جَاءَ رَجُلٌ عَلَى جَمَلٍ أَحْمَرَ فَانْتَزَعَ طَلَقًا مِنْ حِقْوِ الْبَعِيرِ فَقَيَّدَ بِهِ جَمَلَهُ ثُمَّ جَاءَ يَتَغَدَّى مَعَ الْقَوْمِ فَلَمَّا رَأَى ضَعَفَتَهُمْ وَرِقَّةَ ظَهْرِهِمْ خَرَجَ يَعْدُو إِلَى جَمَلِهِ فَأَطْلَقَهُ ثُمَّ أَنَاخَهُ فَقَعَدَ عَلَيْهِ ثُمَّ خَرَجَ يَرْكُضُهُ وَاتَّبَعَهُ رَجُلٌ مِنْ أَسْلَمَ عَلَى نَاقَةٍ وَرْقَاءَ هِيَ أَمْثَلُ ظَهْرِ الْقَوْمِ - قَالَ - فَخَرَجْتُ أَعْدُو فَأَدْرَكْتُهُ وَرَأْسُ النَّاقَةِ عِنْدَ وَرِكِ الْجَمَلِ وَكُنْتُ عِنْدَ وَرِكِ النَّاقَةِ ثُمَّ تَقَدَّمْتُ حَتَّى كُنْتُ عِنْدَ وَرِكِ الْجَمَلِ ثُمَّ تَقَدَّمْتُ حَتَّى أَخَذْتُ بِخِطَامِ الْجَمَلِ فَأَنَخْتُهُ فَلَمَّا وَضَعَ رُكْبَتَهُ بِالأَرْضِ اخْتَرَطْتُ سَيْفِي فَأَضْرِبَ رَأْسَهُ فَنَدَرَ فَجِئْتُ بِرَاحِلَتِهِ وَمَا عَلَيْهَا أَقُودُهَا فَاسْتَقْبَلَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فِي النَّاسِ مُقْبِلاً فَقَالَ ‏"‏ مَنْ قَتَلَ الرَّجُلَ ‏"‏ ‏.‏ فَقَالُوا سَلَمَةُ بْنُ الأَكْوَعِ ‏.‏ قَالَ ‏"‏ لَهُ سَلَبُهُ أَجْمَعُ ‏"‏ ‏.‏ قَالَ هَارُونُ هَذَا لَفْظُ هَاشِمٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
+
 حدثنا هارون بن عبد الله، ان هاشم بن القاسم، وهشاما، حدثاهم قالا، حدثنا عكرمة بن عمار، قال حدثني اياس بن سلمة، قال حدثني ابي قال، غزوت مع رسول الله صلى الله عليه وسلم هوازن - قال - فبينما نحن نتضحى وعامتنا مشاة وفينا ضعفة اذ جاء رجل على جمل احمر فانتزع طلقا من حقو البعير فقيد به جمله ثم جاء يتغدى مع القوم فلما راى ضعفتهم ورقة ظهرهم خرج يعدو الى جمله فاطلقه ثم اناخه فقعد عليه ثم خرج يركضه واتبعه رجل من اسلم على ناقة ورقاء هي امثل ظهر القوم - قال - فخرجت اعدو فادركته وراس الناقة عند ورك الجمل وكنت عند ورك الناقة ثم تقدمت حتى كنت عند ورك الجمل ثم تقدمت حتى اخذت بخطام الجمل فانخته فلما وضع ركبته بالارض اخترطت سيفي فاضرب راسه فندر فجيت براحلته وما عليها اقودها فاستقبلني رسول الله صلى الله عليه وسلم في الناس مقبلا فقال " من قتل الرجل " . فقالوا سلمة بن الاكوع . قال " له سلبه اجمع " . قال هارون هذا لفظ هاشم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইয়াস ইবনু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা সালামাহ (রাঃ) আমাকে বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গী হয়ে হাওয়াযিন গোত্রের বিরুদ্ধে যুদ্ধে যোগদান করেছি। ‘আমরা দুপুরের খাবার খাচ্ছিলাম। আর আমাদের অধিকাংশ লোক ছিলো পদাতিক ও দুর্বল। ইতোমধ্যে এক ব্যক্তি লাল রঙের একটি উটে চড়ে আমাদের কাছে এলো। সে উটের কোমর থেকে রশি খুলে তার উটটিকে বেঁধে রেখে লোকদের সঙ্গে খেতে বসলো। সে তাদের শারীরিক দুর্বলতা ও বাহনের স্বল্পতা লক্ষ্য করে দৌড়ে তার উটের কাছে গিয়ে উটের রশি খুলে সেটাকে বসিয়ে তার পিঠে চড়লো। অতঃপর তার উট হাঁকিয়ে চলে গেলো। আসলাম গোত্রের এক ব্যক্তি ছাই রঙের একটি উষ্ট্রী নিয়ে তার পিছু করলো। দলের মধ্যে এটাই ছিলো সেরা সওয়ারী। বর্ণনাকারী বলেন, আমি দৌড়ে তার পিছনে ছুটলাম। আমি যখন তার নিকট পৌঁছি তখন উষ্ট্রীটির মাথা ছিলো ঐ গুপ্তচরের উটের পাছার নিকটে। আমি সামনে গিয়ে তার উটের পিছুধরে ফেলি এবং আমি আরো এগিয়ে তার উটের লাগাম ধরে ফেলি এবং উটটিকে বসিয়ে দেই। উটটি হাঁটু গেড়ে বসলে অমি খাপ থেকে তরবারি বের করে লোকটির মাথায় আঘাত হানলে সে মাটিতে লুটিয়ে পড়ে। আমি তার বাহন ও মালপত্র নিয়ে আসলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকলের মাঝখান দিয়ে আমার সামনে এসে বললেনঃ কে লোকটিকে হত্যা করেছে? লোকেরা বললো, সালামাহ ইবনুল আকওয়া।’ তিনি বললেনঃ নিহতের সব মাল-পত্র তার প্রাপ্য।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salamh (bin Al Akwa’) said “I went on an expedition with the Apostle of Allaah(ﷺ) against Hawazin and while we were having a meal in the forenoon and most of our people were on foot and some of us were weak, a man came on a red Camel. He took out a rope from the lion of the Camel and tied his Camel with it and began to take meal with the people. When he saw the weak condition of their people and lack of mounts he went out in a hurry to his Camel, untied it made it kneel down and sat on it and went off galloping it. A man of the tribe of Aslam followed him on a brown she Camel which was best of those of the people. I hastened out and I found him while the head of the she Camel was near the paddock of the she Camel. I then went ahead till I reached near the paddock of the Camel. I then went ahead till I caught the Camel’s nose string. I made it kneel. When it placed its knee on the ground, I drew my sword and struck the man on his head and it fell down. I then brought the Camel leading it with (its equipment) on it. The Apostle of Allaah(ﷺ) came forward facing me and asked “Who killed the man? They (the people) said “Salamah bin Akwa’. He said “he gets all his spoil.” Harun said “This is Hashim’s version
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
+
+## French
+
+Rapporté par Salamah bin Al Akwa’ رضي الله عنه : « Je suis parti en expédition avec l’Envoyé d’Allah ﷺ contre Hawazin. Alors que nous mangions dans la matinée et que la plupart d’entre nous étaient à pied, certains étant faibles, un homme est arrivé sur un chameau rouge. Il a sorti une corde de la selle du chameau, l’a attaché et a commencé à manger avec les gens. Quand il a vu la faiblesse de notre groupe et le manque de montures, il s’est précipité vers son chameau, l’a détaché, l’a fait agenouiller, est monté dessus et est parti au galop. Un homme de la tribu d’Aslam l’a poursuivi sur une chamelle brune, la meilleure du groupe. Je me suis dépêché et je l’ai trouvé alors que la tête de la chamelle était près de l’enclos. J’ai avancé jusqu’à attraper la corde du chameau, je l’ai fait agenouiller. Quand il a posé le genou au sol, j’ai dégainé mon épée et frappé l’homme à la tête, qui est tombé. J’ai ramené le chameau avec tout son équipement. L’Envoyé d’Allah ﷺ est venu vers moi et a demandé : “Qui a tué cet homme ?” Les gens ont répondu : “Salamah bin Akwa’.” Il a dit : “Il garde tout son butin.” Harun a dit : “Ceci est la version de Hashim.” »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Harun bin Abdullah\], bahwa \[Hasyim bin Al Qasim\], dan \[Hisyam\] telah menceritakan kepada mereka; telah menceritakan kepada kami \[Ikrimah\], telah menceritakan kepada kami \[Iyas bin Salamah\], ia berkata; telah menceritakan kepadaku \[ayahku\], ia berkata; aku pernah memerangi Hawazin bersama Rasulullah shallallahu 'alaihi wasallam, kemudian tatkala kami sedang makan pada waktu dhuha dan kebanyakan kami berjalan kaki, serta diantara kami terdapat orang yang lemah tiba-tiba seseorang datang dengan mengendarai unta. Lalu ia melepas tali dari pinggang unta, lalu ia gunakan untuk mengikat untanya. Kemudian ia datang dan makan siang bersama orang-orang. Kemudian tatkala ia melihat orang-orang lemah mereka dan punggung mereka yang lemas, maka ia keluar menuju kepada untanya lalu melepaskannya kemudian menderumkannya. Orang tersebut duduk di atas unta tersebut kemudian keluar dan memukul unta dengan kakinya. Ia diikuti seseorang dari Aslam yang mengendarai unta Abu-Abu yang sama dengan punggung orang-orang tersebut. Ia berkata; kemudian aku keluar mengejarnya, lalu aku mendapatkannya, sementara kepala untaku ada di sisi pantat untanya, kemudian aku maju hingga dapat memegang tali kendali untanya. Lalu aku menderumkannya. Tatkala ia telahmeletakkan lututnya di tanah aku mencabut pedangku lalu menebas kepalanya hingga ia terjatuh. Kemudian aku datang dengan membawa kendaraannya dan apa yang ada di atasnya. Aku menuntunnya, kemudian Rasulullah shallallahu 'alaihi wasallam menyambutku diantara orang-orang. Kemudian ia berkata; siapakah yang membunuh orang tersebut? Mereka berkata; Salamah bin Al Akwa'. Lalu beliau berkata: "Baginya salabnya semua." Harun berkata; ini adalah lafazh Hasyim
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Harun bin Abdullah], bahwa [Hasyim bin Al Qasim], dan [Hisyam] telah menceritakan kepada mereka; telah menceritakan kepada kami [Ikrimah], telah menceritakan kepada kami [Iyas bin Salamah], ia berkata; telah menceritakan kepadaku [ayahku], ia berkata; aku pernah memerangi Hawazin bersama Rasulullah shallallahu 'alaihi wasallam, kemudian tatkala kami sedang makan pada waktu dhuha dan kebanyakan kami berjalan kaki, serta diantara kami terdapat orang yang lemah tiba-tiba seseorang datang dengan mengendarai unta. Lalu ia melepas tali dari pinggang unta, lalu ia gunakan untuk mengikat untanya. Kemudian ia datang dan makan siang bersama orang-orang. Kemudian tatkala ia melihat orang-orang lemah mereka dan punggung mereka yang lemas, maka ia keluar menuju kepada untanya lalu melepaskannya kemudian menderumkannya. Orang tersebut duduk di atas unta tersebut kemudian keluar dan memukul unta dengan kakinya. Ia diikuti seseorang dari Aslam yang mengendarai unta Abu-Abu yang sama dengan punggung orang-orang tersebut. Ia berkata; kemudian aku keluar mengejarnya, lalu aku mendapatkannya, sementara kepala untaku ada di sisi pantat untanya, kemudian aku maju hingga dapat memegang tali kendali untanya. Lalu aku menderumkannya. Tatkala ia telahmeletakkan lututnya di tanah aku mencabut pedangku lalu menebas kepalanya hingga ia terjatuh. Kemudian aku datang dengan membawa kendaraannya dan apa yang ada di atasnya. Aku menuntunnya, kemudian Rasulullah shallallahu 'alaihi wasallam menyambutku diantara orang-orang. Kemudian ia berkata; siapakah yang membunuh orang tersebut? Mereka berkata; Salamah bin Al Akwa'. Lalu beliau berkata: "Baginya salabnya semua." Harun berkata; ini adalah lafazh Hasyim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İyâs b. Seleme'nin babası Seleme'den; Rasûlullah (s.a.v.) ile birlikte Hevâzin'de savaş'a katıldım. Kahvaltı yapıyorduk. Çoğumuz yaya idi ve bizde bir zayıflık hâli vardı. Ansızın kırmızı bir erkek deve üzerinde bir adam çikageldi. Devenin boşböğründen deriden yapılmış bir ip çıkardı, onunla devesini bağladı, sonra geldi cemaatle birlikte kahvaltı yapmaya başladı. (Cemaatin) zayıflığını ve hayvanların cılızlığını görünce, (birdenbire) çıkıp devesine doğru koştu ve onu çözdü sonra çöktürüp üzerine oturdu, sonra da onu koşturmaya başladı. Boz bir dişi deve üzerinde Eslem (kabilesin)den bir adam da onun ardına düştü. Bu deve cemaatin hayvanlarının en iyisiydi. Ben de koşarak çıktım ve o (birinci adamı takip eden) adama yetiştim. Dişi deve'nin başı erkek devenin kalçası hizasında idi. Ben de dişi devenin kalçası hizasında idim. Sonra ilerledim erkek devenin kalçası hizasına geldim. Sonra daha da ilerledim, devenin yularını yakalayıp onu çöktürdüm. Deve dizini yere koyunca kılıcımı çekip (adam'ın) başına vurdum. Derhal (yere) düştü. Hayvanı yüküyle birlikte çekip getirdim. Rasûlullah (s.a.v.) (yüzünü) dönerek beni karşıladı ve "Bu adamı kim öldürdü?" diye sordu. (Oradakiler); Seleme b. el-Ekva (öldürdü) dediler. Bunun üzerine Rasûlullah; "Bunun bütün eşyası onundur." buyurdu. Râvi Harun dedi ki; bu rivayet Hâşime aittir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلمہ بن الاکوع رضی اللہ عنہ کہتے ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ہوازن کا غزوہ کیا، وہ کہتے ہیں: ہم چاشت کے وقت کھانا کھا رہے تھے، اور اکثر لوگ ہم میں سے پیدل تھے، ہمارے ساتھ کچھ ناتواں اور ضعیف بھی تھے کہ اسی دوران ایک شخص سرخ اونٹ پر سوار ہو کر آیا، اور اونٹ کی کمر سے ایک رسی نکال کر اس سے اپنے اونٹ کو باندھا، اور لوگوں کے ساتھ کھانا کھانے لگا، جب اس نے ہمارے کمزوروں اور سواریوں کی کمی کو دیکھا تو اپنے اونٹ کی طرف دوڑتا ہوا نکلا، اس کی رسی کھولی پھر اسے بٹھایا اور اس پر بیٹھا اور اسے ایڑ لگاتے ہوئے تیزی کے ساتھ چل پڑا ( جب لوگوں کو معلوم ہوا کہ یہ جاسوس ہے ) تو قبیلہ اسلم کے ایک شخص نے اپنی خاکستری اونٹنی پر سوار ہو کر اس کا پیچھا کیا اور یہ لوگوں کی سواریوں میں سب سے بہتر تھی، پھر میں آگے بڑھا یہاں تک کہ میں نے اسے پا لیا اور حال یہ تھا کہ اونٹنی کا سر اونٹ کے پٹھے کے پاس اور میں اونٹنی کے پٹھے پر تھا، پھر میں تیزی سے آگے بڑھتا گیا یہاں تک کہ میں اونٹ کے پٹھے کے پاس پہنچ گیا، پھر آگے بڑھ کر میں نے اونٹ کی نکیل پکڑ لی اور اسے بٹھایا، جب اونٹ نے اپنا گھٹنا زمین پر ٹیکا تو میں نے تلوار میان سے نکال کر اس کے سر پر ماری تو اس کا سر اڑ گیا، میں اس کا اونٹ مع ساز و سامان کے کھینچتے ہوئے لایا تو لوگوں کے ساتھ رسول اللہ صلی اللہ علیہ وسلم نے آ کر میرا استقبال کیا اور پوچھا: اس شخص کو کس نے مارا؟ لوگوں نے بتایا: سلمہ بن اکوع نے، آپ صلی اللہ علیہ وسلم نے فرمایا: اس کا سارا سامان انہی کو ملے گا ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1754)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2654</td></tr><tr><td>Arabic No</td><td>2654</td></tr><tr><td>Reference</td><td>Book 15 Hadith 178</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1754) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2654 |
+| Arabic No | 2654 |
+| Reference | Book 15 Hadith 178 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، أَنَّ الْحَكَمَ بْنَ نَافِعٍ، حَدَّثَهُمْ قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ بْنِ كَعْبِ بْنِ مَالِكٍ، عَنْ أَبِيهِ، - وَكَانَ أَحَدَ الثَّلاَثَةِ الَّذِينَ تِيبَ عَلَيْهِمْ - وَكَانَ كَعْبُ بْنُ الأَشْرَفِ يَهْجُو النَّبِيَّ صلى الله عليه وسلم وَيُحَرِّضُ عَلَيْهِ كُفَّارَ قُرَيْشٍ وَكَانَ النَّبِيُّ صلى الله عليه وسلم حِينَ قَدِمَ الْمَدِينَةَ وَأَهْلُهَا أَخْلاَطٌ مِنْهُمُ الْمُسْلِمُونَ وَالْمُشْرِكُونَ يَعْبُدُونَ الأَوْثَانَ وَالْيَهُودُ وَكَانُوا يُؤْذُونَ النَّبِيَّ صلى الله عليه وسلم وَأَصْحَابَهُ فَأَمَرَ اللَّهُ عَزَّ وَجَلَّ نَبِيَّهُ بِالصَّبْرِ وَالْعَفْوِ فَفِيهِمْ أَنْزَلَ اللَّهُ ‏(‏ وَلَتَسْمَعُنَّ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ ‏)‏ الآيَةَ فَلَمَّا أَبَى كَعْبُ بْنُ الأَشْرَفِ أَنْ يَنْزِعَ عَنْ أَذَى النَّبِيِّ صلى الله عليه وسلم أَمَرَ النَّبِيُّ صلى الله عليه وسلم سَعْدَ بْنَ مُعَاذٍ أَنْ يَبْعَثَ رَهْطًا يَقْتُلُونَهُ فَبَعَثَ مُحَمَّدَ بْنَ مَسْلَمَةَ وَذَكَرَ قِصَّةَ قَتْلِهِ فَلَمَّا قَتَلُوهُ فَزِعَتِ الْيَهُودُ وَالْمُشْرِكُونَ فَغَدَوْا عَلَى النَّبِيِّ صلى الله عليه وسلم فَقَالُوا طُرِقَ صَاحِبُنَا فَقُتِلَ ‏.‏ فَذَكَرَ لَهُمُ النَّبِيُّ صلى الله عليه وسلم الَّذِي كَانَ يَقُولُ وَدَعَاهُمُ النَّبِيُّ صلى الله عليه وسلم إِلَى أَنْ يَكْتُبَ بَيْنَهُ وَبَيْنَهُمْ كِتَابًا يَنْتَهُونَ إِلَى مَا فِيهِ فَكَتَبَ النَّبِيُّ صلى الله عليه وسلم بَيْنَهُ وَبَيْنَهُمْ وَبَيْنَ الْمُسْلِمِينَ عَامَّةً صَحِيفَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
+
 حدثنا محمد بن يحيى بن فارس، ان الحكم بن نافع، حدثهم قال اخبرنا شعيب، عن الزهري، عن عبد الرحمن بن عبد الله بن كعب بن مالك، عن ابيه، - وكان احد الثلاثة الذين تيب عليهم - وكان كعب بن الاشرف يهجو النبي صلى الله عليه وسلم ويحرض عليه كفار قريش وكان النبي صلى الله عليه وسلم حين قدم المدينة واهلها اخلاط منهم المسلمون والمشركون يعبدون الاوثان واليهود وكانوا يوذون النبي صلى الله عليه وسلم واصحابه فامر الله عز وجل نبيه بالصبر والعفو ففيهم انزل الله ( ولتسمعن من الذين اوتوا الكتاب من قبلكم ) الاية فلما ابى كعب بن الاشرف ان ينزع عن اذى النبي صلى الله عليه وسلم امر النبي صلى الله عليه وسلم سعد بن معاذ ان يبعث رهطا يقتلونه فبعث محمد بن مسلمة وذكر قصة قتله فلما قتلوه فزعت اليهود والمشركون فغدوا على النبي صلى الله عليه وسلم فقالوا طرق صاحبنا فقتل . فذكر لهم النبي صلى الله عليه وسلم الذي كان يقول ودعاهم النبي صلى الله عليه وسلم الى ان يكتب بينه وبينهم كتابا ينتهون الى ما فيه فكتب النبي صلى الله عليه وسلم بينه وبينهم وبين المسلمين عامة صحيفة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
 
 ## Bengali
 
+। ‘আব্দুর রাহমান ইবনু ‘আব্দুল্লাহ ইবনু কা‘ব ইবনু মালিক (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। কা‘ব ইবনু মালিক (রাঃ) ছিলেন ঐ তিনজনের অন্যতম যাদের তওবা কবূল হয়। কা‘ব ইবনু আশরাফ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিরুদ্ধে কুরাইশ কাফিরদের উত্তেজিত করতো এবং উসকানি দিতো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর পরিবার যখন হিজরাত করে মদীনায় আসেন, তখন সেখানে সব ধরণের লোকেরা বসবাস করতো। তাদের মধ্যে কিছু ছিলো মুসলিম, কিছু মূর্তিপূজারী মুশরিক এবং কিছু ইয়াহুদী সম্প্রদায়ভুক্ত। ইয়াহুদীরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর সাহাবীদের কষ্ট দিতো। মহান আল্লাহ তাঁর নবীকে ধৈর্য ধারণ ও উদারতা প্রদর্শনের নির্দেশ দেন। তাদের সম্পর্কে মহান আল্লাহ আয়াত অবতীর্ণ করেনঃ ‘‘তোমরা আহলে কিতাব ও মুশরিকদের কাছ থেকে বহু কষ্টদায়ক কথা শুনতে পাবে।’’\[সূরা আলে ইমরানঃ ১৮৬\] কা‘ব ইবনু আশরাফ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কষ্ট দেয়া থেকে রিবত থাকতে অস্বীকার করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে হত্যা করতে সা‘দ ইবনু মু‘আয (রাঃ)-কে একটি দল প্রেরণের নির্দেশ দেন। অতঃপর বর্ণনাকারী তার হত্যার ঘটনা বর্ণনা করেনঃ কা‘ব ইবনু আশরাফকে হত্যা করা হলে ইয়াহুদী ও মুশরিকরা ভীত হয়ে পড়লো। সকালবেলা তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বললো, রাতের বেলা কিছু লোক আমাদের সাথীর কাছে এসে তাকে হত্যা করেছে। কা‘ব ইবনু আশরাফ যে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিরুদ্ধে কুৎসা রটাতো তিনি তাদেরকে তা জানান। তারপর ইয়াহুদী ও মুশরিকদেরকে তাদের বিরোধী আচরণ বর্জনের জন্য নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মধ্যে ও তাদের মধ্যে একটি চুক্তি করতে আহবান জানালেন। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের, তাদের ও সকল মুসলিমের পক্ষ থেকে একটি চুক্তিপত্র সম্পাদন করেন।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আব্দুর রাহমান ইবনু ‘আব্দুল্লাহ ইবনু কা‘ব ইবনু মালিক (রাঃ) থেকে তার পিতার সূত্রে বর্ণিত। কা‘ব ইবনু মালিক (রাঃ) ছিলেন ঐ তিনজনের অন্যতম যাদের তওবা কবূল হয়। কা‘ব ইবনু আশরাফ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিরুদ্ধে কুরাইশ কাফিরদের উত্তেজিত করতো এবং উসকানি দিতো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর পরিবার যখন হিজরাত করে মদীনায় আসেন, তখন সেখানে সব ধরণের লোকেরা বসবাস করতো। তাদের মধ্যে কিছু ছিলো মুসলিম, কিছু মূর্তিপূজারী মুশরিক এবং কিছু ইয়াহুদী সম্প্রদায়ভুক্ত। ইয়াহুদীরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর সাহাবীদের কষ্ট দিতো। মহান আল্লাহ তাঁর নবীকে ধৈর্য ধারণ ও উদারতা প্রদর্শনের নির্দেশ দেন। তাদের সম্পর্কে মহান আল্লাহ আয়াত অবতীর্ণ করেনঃ ‘‘তোমরা আহলে কিতাব ও মুশরিকদের কাছ থেকে বহু কষ্টদায়ক কথা শুনতে পাবে।’’[সূরা আলে ইমরানঃ ১৮৬] কা‘ব ইবনু আশরাফ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কষ্ট দেয়া থেকে রিবত থাকতে অস্বীকার করলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে হত্যা করতে সা‘দ ইবনু মু‘আয (রাঃ)-কে একটি দল প্রেরণের নির্দেশ দেন। অতঃপর বর্ণনাকারী তার হত্যার ঘটনা বর্ণনা করেনঃ কা‘ব ইবনু আশরাফকে হত্যা করা হলে ইয়াহুদী ও মুশরিকরা ভীত হয়ে পড়লো। সকালবেলা তারা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে বললো, রাতের বেলা কিছু লোক আমাদের সাথীর কাছে এসে তাকে হত্যা করেছে। কা‘ব ইবনু আশরাফ যে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিরুদ্ধে কুৎসা রটাতো তিনি তাদেরকে তা জানান। তারপর ইয়াহুদী ও মুশরিকদেরকে তাদের বিরোধী আচরণ বর্জনের জন্য নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর মধ্যে ও তাদের মধ্যে একটি চুক্তি করতে আহবান জানালেন। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজের, তাদের ও সকল মুসলিমের পক্ষ থেকে একটি চুক্তিপত্র সম্পাদন করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ka’ab bin Malik who was one of those whose repentance was accepted said “Ka’ab bin Al Ashraf used to satire the Prophet (ﷺ) and incited the infidels of the Quraish against him. When the Prophet (ﷺ) came to Madeena, its people were intermixed, some of them were Muslims and others polytheists aho worshipped idols and some were Jews. They used to hurt the Prophet (ﷺ) and his Companions. Then Allaah Most High commanded His Prophet to show patience and forgiveness. So Allaah revealed about them “And ye shall certainly hear much that will grieve you from those who receive Book before you”. When Ka’ab bin Al Ashraf refused to desist from hurting the Prophet (ﷺ) the Prophet(ﷺ) ordered Sa’d bin Mu’adh to send a band to kill him. He sent Muhammad bin Maslamah and mentioned the story of his murder. When they killed him, the Jews and the polytheist were frightened. Next day they came to the Prophet (ﷺ) and said “Our Companions were attacked and night and killed.” The Prophet(ﷺ) informed them about that which he would say. The Prophet (ﷺ) then called them so that he could write a deed of agreement between him and them and they should fulfill its provisions and desist from hurting him. He then wrote a deed of agreement between him and them and the Muslims in general.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
+
+## French
+
+Rapporté par Ka’ab ibn Malik رضي الله عنه, l’un de ceux dont le repentir a été accepté : « Ka’ab ibn al-Ashraf satirisait le Prophète ﷺ et incitait les mécréants de Quraysh contre lui. Lorsque le Prophète ﷺ arriva à Médine, ses habitants étaient mélangés : certains étaient musulmans, d’autres polythéistes adorant des idoles, et d’autres juifs. Ils faisaient du tort au Prophète ﷺ et à ses compagnons. Alors Allah, le Très-Haut, ordonna à Son Prophète de faire preuve de patience et de pardon. Allah révéla à leur sujet : “Et vous entendrez sûrement beaucoup de choses qui vous peineront de la part de ceux qui ont reçu le Livre avant vous.” Lorsque Ka’ab ibn al-Ashraf refusa de cesser de nuire au Prophète ﷺ, le Prophète ﷺ ordonna à Sa’d ibn Mu’adh d’envoyer un groupe pour le tuer. Il envoya Muhammad ibn Maslamah et raconta l’histoire de son assassinat. Lorsqu’ils le tuèrent, les juifs et les polythéistes furent effrayés. Le lendemain, ils vinrent voir le Prophète ﷺ et dirent : “Nos compagnons ont été attaqués et tués pendant la nuit.” Le Prophète ﷺ leur répondit ce qu’il avait à dire. Il les convoqua alors pour rédiger un acte d’accord entre lui et eux, afin qu’ils respectent ses conditions et cessent de lui nuire. Il rédigea alors un acte d’accord entre lui, eux et l’ensemble des musulmans
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Yahya bin Faris\] bahwa \[Al Hakam bin Nafi'\] telah menceritakan kepada mereka, ia berkata; telah mengabarkan kepada kami \[Syu'aib\] dari \[Az Zuhri\], dari \[Abdurrahman bin Abdullah bin Ka'b bin Malik\], dari \[ayahnya\], dan ia adalah salah satu dari tiga orang yang mendapatkan taubat. Dan dahulu Ka'b bin Al Asyraf mencaci Nabi shallallahu 'alaihi wasallam dan mendorong orang-orang kafir Quraisy untuk menyerang beliau. Dan pada saat Nabi shallallahu 'alaihi wasallam datang ke Madinah, penduduknya adalah campur. Diantara mereka orang-orang muslim, orang-orang musyrik yang menyembah berhala serta orang-orang yahudi. Dan mereka menyakiti Nabi shallallahu 'alaihi wasallam serta para sahabatnya. Kemudian Allah 'azza wajalla memerintahkan NabiNya agar bersabar dan memaafkan. Dan Allah mengirimkan ayat mengenai mereka: "Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi kitab sebelum kamu…" kemudian tatkala Ka'b bin Al Asyraf enggan untuk menghentikan gangguannya kepada Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam memerintahkan Sa'd bin Mu'adz agar mengirim beberapa orang yang akan membunuhnya. Kemudian ia mengutus Muhammad bin Maslamah. - dan ia menyebutkan kisah terbunuhnya Ka'b. kemudian tatkala mereka telah membunuhnya maka orang-orang yahudi dan musyrik kaget. Kemudian mereka mendatangi Nabi shallallahu 'alaihi wasallam dan berkata; sahabat kami telah diketuk kemudian dibunuh. Kemudian Nabi shallallahu 'alaihi wasallam menyebutkan kepada mereka sesuatu yang Ka'b ucapkan. Dan Nabi shallallahu 'alaihi wasallam mengajak mereka agar beliau menulis perjanjian yang mereka taati isinya. Nabi shallallahu 'alaihi wasallam menulis antara beliau, dan mereka serta orang-orang muslim sebuah perjanjian dalam kertas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] bahwa [Al Hakam bin Nafi'] telah menceritakan kepada mereka, ia berkata; telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhri], dari [Abdurrahman bin Abdullah bin Ka'b bin Malik], dari [ayahnya], dan ia adalah salah satu dari tiga orang yang mendapatkan taubat. Dan dahulu Ka'b bin Al Asyraf mencaci Nabi shallallahu 'alaihi wasallam dan mendorong orang-orang kafir Quraisy untuk menyerang beliau. Dan pada saat Nabi shallallahu 'alaihi wasallam datang ke Madinah, penduduknya adalah campur. Diantara mereka orang-orang muslim, orang-orang musyrik yang menyembah berhala serta orang-orang yahudi. Dan mereka menyakiti Nabi shallallahu 'alaihi wasallam serta para sahabatnya. Kemudian Allah 'azza wajalla memerintahkan NabiNya agar bersabar dan memaafkan. Dan Allah mengirimkan ayat mengenai mereka: "Dan (juga) kamu sungguh-sungguh akan mendengar dari orang-orang yang diberi kitab sebelum kamu…" kemudian tatkala Ka'b bin Al Asyraf enggan untuk menghentikan gangguannya kepada Nabi shallallahu 'alaihi wasallam, maka Nabi shallallahu 'alaihi wasallam memerintahkan Sa'd bin Mu'adz agar mengirim beberapa orang yang akan membunuhnya. Kemudian ia mengutus Muhammad bin Maslamah. - dan ia menyebutkan kisah terbunuhnya Ka'b. kemudian tatkala mereka telah membunuhnya maka orang-orang yahudi dan musyrik kaget. Kemudian mereka mendatangi Nabi shallallahu 'alaihi wasallam dan berkata; sahabat kami telah diketuk kemudian dibunuh. Kemudian Nabi shallallahu 'alaihi wasallam menyebutkan kepada mereka sesuatu yang Ka'b ucapkan. Dan Nabi shallallahu 'alaihi wasallam mengajak mereka agar beliau menulis perjanjian yang mereka taati isinya. Nabi shallallahu 'alaihi wasallam menulis antara beliau, dan mereka serta orang-orang muslim sebuah perjanjian dalam kertas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ка‘б ибн Малик, да будет доволен им Аллах, который был одним из тех троих, которые уклонились от участия в походе на Табук и которых Всевышний Аллах простил, передаёт, что Ка‘б ибн Ашраф ругал и высмеивал Пророка ﷺ и натравливал на него язычников-курайшитов. Когда Посланник Аллаха ﷺ прибыл в Медину, там жили и мусульмане, и поклонявшиеся идолам язычники с иудеями, которые обижали Посланника Аллаха ﷺ и его сподвижников и причиняли им беспокойство, и Всемогущий и Великий Аллах повелел Своему Пророку ﷺ проявлять терпение и снисходительность. Это о них Всевышний Аллах ниспослал: «И вы непременно услышите от тех, кому было даровано Писание до вас, и от многобожников много неприятных слов. Но если вы будете терпеливы и богобоязненны, то ведь в этих делах надлежит проявлять решимость» (сура 3 «Али ‘Имран», аят 186). Ка‘б не переставал доставлять Посланнику Аллаха ﷺ хлопоты и беспокойство, и Пророк ﷺ велел Са‘ду ибн Му‘азу послать к нему несколько человек и казнить его. Он послал Мухаммада ибн Масляму. И он упомянул историю его убийства. После его казни иудеи и язычники испугались и пришли к Пророку ﷺ со словами: «На нашего товарища напали ночью! Наш товарищ убит!» И Пророк ﷺ напомнил им то, что говорил ранее, и призвал их подписать договор, который они обязаны будут соблюдать, после чего был записан договор, который Пророк ﷺ и мусульмане заключили с иудеями
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
 
 ## Turkish
 
+(Abdurrahman b. Abdullah b. Ka'b b. Malik'in) babasından (rivayet olunmuştur. Ve Ka'b b. Mâlik) tevbeleri kabul edilen üç kişiden biri idi. (Ka'b b. Malik dedi ki:) Ka'b b. Eşref, Nebi (s.a.v.)'i hicveder, Kureyş kafirlerini de onun aleyhine kışkırtırdı. Peygamber (s.a.v.) Medine'ye yeni gelmişti. O sırada Medine halkı müslümanlardan, put'a tapan müşriklerden ve yahudilerden oluşan karma bir topluluktu. (Yahudiler ise) Nebi (s.a.v.)'le onun sahabilerini incitiyorlardı. Aziz ve celil olan Allah da Nebisine sabır ve hoş görü tavsiye ediyordu. Derken (yüce) Allah onların hakkında "... kendilerine kitap verilenlerden -çok incitici sözler- işiteceksiniz..."\[Ali İmrân 186\] (mealindeki) âyeti indirdi. Ka'b b. Eşref (yine de) Nebi (s.a.v.)'e eziyyet'ten el çekmeyince Nebi (s.a.v.) Sa'd b. Muaz'a Ka'b'ı öldürmek üzere küçük bir kuvvet göndermesini emretti. Bunun üzerine (Hz. Sad ashab'dan bazı kimselerle birlikte) Muhammed b. Mesleme'yi (Eşref'in üzerine) gönderdi. (Râvi) Ka'b b. Malik sözlerine devamla Eşrefin öldürülmesini (şöyle) anlattı. (Hz. Sa'd'in gönderdiği müslüman askerler) Eşrefi öldürünce Yahudilerle müşrikler korkuya düştüler ve öğleden önce Nebi (s.a.v.)'e geldiler ve "Geceleyin bir arkadaşımızın kapısına yüklenilerek zorla evine girilip öldürüldü" dediler. Bunun üzerine Nebi (s.a.v.) (Kab'ın kendisi hakkında) söylemiş olduğu (hicvedici) sözleri onlara hatırlattı.,Ve kendilerini (aralarında bir anlaşmazlık çıkması halinde) başvurmaları için yazacağı bir antlaşmaya davet etti. (Onların bu daveti kabul etmesi üzerine) Nebi (s.a.v.) kendisiyle onların ve tüm müslümanların arasında (geçerli olmak üzere) bir sahifelik anlaşma yazdı
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Abdurrahman b. Abdullah b. Ka'b b. Malik'in) babasından (rivayet olunmuştur. Ve Ka'b b. Mâlik) tevbeleri kabul edilen üç kişiden biri idi. (Ka'b b. Malik dedi ki:) Ka'b b. Eşref, Nebi (s.a.v.)'i hicveder, Kureyş kafirlerini de onun aleyhine kışkırtırdı. Peygamber (s.a.v.) Medine'ye yeni gelmişti. O sırada Medine halkı müslümanlardan, put'a tapan müşriklerden ve yahudilerden oluşan karma bir topluluktu. (Yahudiler ise) Nebi (s.a.v.)'le onun sahabilerini incitiyorlardı. Aziz ve celil olan Allah da Nebisine sabır ve hoş görü tavsiye ediyordu. Derken (yüce) Allah onların hakkında "... kendilerine kitap verilenlerden -çok incitici sözler- işiteceksiniz..."[Ali İmrân 186] (mealindeki) âyeti indirdi. Ka'b b. Eşref (yine de) Nebi (s.a.v.)'e eziyyet'ten el çekmeyince Nebi (s.a.v.) Sa'd b. Muaz'a Ka'b'ı öldürmek üzere küçük bir kuvvet göndermesini emretti. Bunun üzerine (Hz. Sad ashab'dan bazı kimselerle birlikte) Muhammed b. Mesleme'yi (Eşref'in üzerine) gönderdi. (Râvi) Ka'b b. Malik sözlerine devamla Eşrefin öldürülmesini (şöyle) anlattı. (Hz. Sa'd'in gönderdiği müslüman askerler) Eşrefi öldürünce Yahudilerle müşrikler korkuya düştüler ve öğleden önce Nebi (s.a.v.)'e geldiler ve "Geceleyin bir arkadaşımızın kapısına yüklenilerek zorla evine girilip öldürüldü" dediler. Bunun üzerine Nebi (s.a.v.) (Kab'ın kendisi hakkında) söylemiş olduğu (hicvedici) sözleri onlara hatırlattı.,Ve kendilerini (aralarında bir anlaşmazlık çıkması halinde) başvurmaları için yazacağı bir antlaşmaya davet etti. (Onların bu daveti kabul etmesi üzerine) Nebi (s.a.v.) kendisiyle onların ve tüm müslümanların arasında (geçerli olmak üzere) bir sahifelik anlaşma yazdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کعب بن مالک رضی اللہ عنہ سے روایت ہے (اور آپ ان تین لوگوں میں سے ایک ہیں جن کی غزوہ تبوک کے موقع پر توبہ قبول ہوئی۱؎) کعب بن اشرف ( یہودی ) رسول اللہ صلی اللہ علیہ وسلم کی ہجو کیا کرتا تھا اور کفار قریش کو آپ کے خلاف اکسایا کرتا تھا، نبی اکرم صلی اللہ علیہ وسلم جب مدینہ تشریف لائے اس وقت وہاں سب قسم کے لوگ ملے جلے تھے ان میں مسلمان بھی تھے، اور مشرکین بھی جو بتوں کو پوجتے تھے، اور یہود بھی، وہ سب رسول اللہ صلی اللہ علیہ وسلم کو اور آپ کے صحابہ کو بہت ستاتے تھے تو اللہ عزوجل نے اپنے نبی کو صبر اور عفوو درگزر کا حکم دیا، انہیں کی شان میں یہ آیت «ولتسمعن من الذين أوتوا الكتاب من قبلكم» تم ان لوگوں سے جنہیں تم سے پہلے کتاب دی گئی اور ان لوگوں سے جو شرک کرتے ہیں سنو گے بہت سی مصیبت یعنی تم کو برا کہیں گے، تم کو ایذا پہنچائیں گے، اگر تم صبر کرو اور اللہ سے ڈرو تو بڑا کام ہے ( سورۃ آل عمران: ۱۸۶ ) اتری تو کعب بن اشرف جب نبی اکرم صلی اللہ علیہ وسلم کی ایذارسانی سے باز نہیں آیا تو آپ صلی اللہ علیہ وسلم نے سعد بن معاذ رضی اللہ عنہ کو حکم دیا کہ چند آدمیوں کو بھیج کر اس کو قتل کرا دیں تو آپ نے محمد بن مسلمہ رضی اللہ عنہ کو بھیجا، پھر راوی نے اس کے قتل کا قصہ بیان کیا، جب ان لوگوں نے اسے قتل کر دیا تو یہودی اور مشرکین سب خوف زدہ ہو گئے، اور دوسرے دن صبح نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے، اور کہنے لگے: رات میں ہمارا سردار مارا گیا، تو نبی کریم صلی اللہ علیہ وسلم نے ان سے وہ باتیں ذکر کیں جو وہ کہا کرتا تھا، آپ صلی اللہ علیہ وسلم نے انہیں ایک بات کی دعوت دی کہ آپ کے اور ان کے درمیان ایک معاہدہ لکھا جائے جس کی سبھی لوگ پابندی کریں، پھر آپ صلی اللہ علیہ وسلم نے اپنے اور ان کے درمیان ایک عمومی صحیفہ ( تحریری معاہدہ ) لکھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3000</td></tr><tr><td>Arabic No</td><td>3000</td></tr><tr><td>Reference</td><td>Book 20 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3000 |
+| Arabic No | 3000 |
+| Reference | Book 20 Hadith 73 |

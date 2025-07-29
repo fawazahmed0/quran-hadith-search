@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَبْدِ الرَّحْمَنِ، وَمُجَمِّعٍ، ابْنَىْ يَزِيدَ الأَنْصَارِيَّيْنِ عَنْ خَنْسَاءَ بِنْتِ خِدَامٍ الأَنْصَارِيَّةِ، أَنَّ أَبَاهَا، زَوَّجَهَا وَهِيَ ثَيِّبٌ فَكَرِهَتْ ذَلِكَ فَجَاءَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَذَكَرَتْ ذَلِكَ لَهُ فَرَدَّ نِكَاحَهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
+
 حدثنا القعنبي، عن مالك، عن عبد الرحمن بن القاسم، عن ابيه، عن عبد الرحمن، ومجمع، ابنى يزيد الانصاريين عن خنساء بنت خدام الانصارية، ان اباها، زوجها وهي ثيب فكرهت ذلك فجاءت رسول الله صلى الله عليه وسلم فذكرت ذلك له فرد نكاحها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
 
 ## Bengali
 
+। খানসাআ বিনতু খিযাম আল-আনসারিয়্যাহ (রাযি.) সূত্রে বর্ণিত। তার পিতা তাকে বিয়ে দেন তখন তিনি বয়স্কা (সাবালিকা)। তিনি এ বিয়ে অপছন্দ করলেন। অতঃপর তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে অভিযোগ করলে তিনি তার এ বিয়ে বাতিল করে দেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। খানসাআ বিনতু খিযাম আল-আনসারিয়্যাহ (রাযি.) সূত্রে বর্ণিত। তার পিতা তাকে বিয়ে দেন তখন তিনি বয়স্কা (সাবালিকা)। তিনি এ বিয়ে অপছন্দ করলেন। অতঃপর তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে অভিযোগ করলে তিনি তার এ বিয়ে বাতিল করে দেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Khansa’ daughter of Khidham al-Ansariyyah reports that when her father married her when she had previously been married and she disapproved of that she went to the Apostle of Allaah(ﷺ) and mentioned it to him. He (the Prophet) revoked her marriage
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
+
+## French
+
+Rapporté par Khansa’, fille de Khidham al-Ansariyyah : Lorsque son père la maria alors qu’elle avait déjà été mariée auparavant et qu’elle n’était pas d’accord, elle alla voir le Messager d’Allah ﷺ et lui en parla. Le Prophète ﷺ annula alors son mariage
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\], dari \[Malik\], dari \[Abdurrahman bin Al Qasim\], dari \[ayahnya\] dari \[Abdurrahman\] dan \[Mujammi'\], keduanya adalah anak Yazid Al Anshari dari \[Khansa' binti Khidzam Al Anshariyyah\], bahwa ayahnya telah menikahkannya sementara ia adalah seorang janda, kemudian ia tidak menyukai hal tersebut, lalu datang kepada Rasulullah shallallahu 'alaihi wasallam dan menceritakan hal tersebut kepada beliau. Maka beliau menolak pernikahannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dari [Abdurrahman bin Al Qasim], dari [ayahnya] dari [Abdurrahman] dan [Mujammi'], keduanya adalah anak Yazid Al Anshari dari [Khansa' binti Khidzam Al Anshariyyah], bahwa ayahnya telah menikahkannya sementara ia adalah seorang janda, kemudian ia tidak menyukai hal tersebut, lalu datang kepada Rasulullah shallallahu 'alaihi wasallam dan menceritakan hal tersebut kepada beliau. Maka beliau menolak pernikahannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Хансы бинт Хизам аль-Ансарийя, да будет доволен ею Аллах, что она побывала замужем, а потом отец снова выдал её замуж без её согласия. Ей не понравилось это, и она пришла к Посланнику Аллаха ﷺ и рассказала ему обо всём, и он объявил её брак недействительным
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hansa bint Hıdam el-Ensâriyye'den rivayet olunduğu­na göre, "Kendisi dul bir kadın iken babası o'nu (iznini almadan) evlendirmiş. Kendisi buna razı olmamış, Rasûlullah (s.a.v.)'e gidip durumu anlatmış, Resûlullah (s.a.v.) de onun nikahını bozmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 خنسا بنت خذام انصاریہ رضی اللہ عنہا سے روایت ہے کہ ان کے والد نے ان کا نکاح کر دیا اور وہ ثیبہ تھیں تو انہوں نے اسے ناپسند کیا چنانچہ وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس حاضر ہوئیں اور آپ سے اس کا ذکر کیا تو آپ نے ان کا نکاح رد کر دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2101</td></tr><tr><td>Arabic No</td><td>2101</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2101 |
+| Arabic No | 2101 |
+| Reference | Book 12 Hadith 56 |

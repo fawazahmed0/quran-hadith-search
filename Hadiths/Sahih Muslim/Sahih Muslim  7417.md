@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي الدَّرَاوَرْدِيَّ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ الدُّنْيَا سِجْنُ الْمُؤْمِنِ وَجَنَّةُ الْكَافِرِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا قتيبة بن سعيد، حدثنا عبد العزيز، - يعني الدراوردي - عن العلاء، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " الدنيا سجن المومن وجنة الكافر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## Bengali
 
+কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুনিয়া মুমিনের জন্য কয়েদখানা \[কারাগার\] এবং কাফিরের জন্য জান্নাততুল্য। (ইসলামিক ফাউন্ডেশন ৭১৪৯, ইসলামিক সেন্টার)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুনিয়া মুমিনের জন্য কয়েদখানা [কারাগার] এবং কাফিরের জন্য জান্নাততুল্য। (ইসলামিক ফাউন্ডেশন ৭১৪৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported Allah's Messenger (ﷺ) as saying:The world is a prison-house for a believer and Paradise for a non-believer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La vie d’ici-bas est une prison pour le croyant et un paradis pour le non-croyant. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Мир этот тюрьма для верующего и Рай для неверного”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Abdü'I-Aziz (yâni; Derâverdî) Alâ'dan, o da babasından, o da Ebû Hureyre'den naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem) : «Dünya mü'minîn zindanı, kâfir'în cennetidir.» buyurdular. İZAH 2956 DA
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے روایت ہے ، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " دنیا مومن کا قید خانہ اور کافر کی جنت ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7417</td></tr><tr><td>Arabic No</td><td>2956</td></tr><tr><td>Reference</td><td>Book 55 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7417 |
+| Arabic No | 2956 |
+| Reference | Book 55 Hadith 1 |

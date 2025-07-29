@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا انْقَطَعَ شِسْعُ نَعْلِ أَحَدِكُمْ فَلاَ يَمْشِ فِي نَعْلٍ وَاحِدَةٍ حَتَّى يُصْلِحَهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 48 Hadith 330</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |
+
 اخبرنا اسحاق بن ابراهيم، قال حدثنا محمد بن عبيد، قال حدثنا الاعمش، عن ابي صالح، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " اذا انقطع شسع نعل احدكم فلا يمش في نعل واحدة حتى يصلحها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 48 Hadith 330</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কারো জুতার একটি ফিতা ছিড়ে যায়, তখন সে যেন তা মেরামত না করা পর্যন্ত এক জুতা পায়ে দিয়ে না হাঁটে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 48 Hadith 330</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |
 
 ## English
 
+It was narrated from Abu Hurairah that:The Prophet \[SAW\] said: "If the strap of the sandal of one of you breaks, let him not walk in one sandal until he fixes it
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Hurairah that:The Prophet [SAW] said: "If the strap of the sandal of one of you breaks, let him not walk in one sandal until he fixes it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 48 Hadith 330</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : "Si la lanière de la sandale de l’un d’entre vous se casse, qu’il ne marche pas avec une seule sandale tant qu’il ne l’a pas réparée
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] ia berkata; telah menceritakan kepada kami \[Muhammad bin Ubaid\] ia berkata; telah menceritakan kepada kami \[Al A'masy\] dari \[Abu Shalih\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika tali sandal salah seorang dari kalian putus, maka janganlah berjalan dengan satu sandal hingga ia memperbaikinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] ia berkata; telah menceritakan kepada kami [Muhammad bin Ubaid] ia berkata; telah menceritakan kepada kami [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika tali sandal salah seorang dari kalian putus, maka janganlah berjalan dengan satu sandal hingga ia memperbaikinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 48 Hadith 330</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 48 Hadith 330</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5369</td></tr><tr><td>Arabic No</td><td>5369</td></tr><tr><td>Reference</td><td>Book 48 Hadith 330</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5369 |
+| Arabic No | 5369 |
+| Reference | Book 48 Hadith 330 |

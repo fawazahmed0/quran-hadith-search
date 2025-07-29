@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَأَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، وَابْنُ السَّرْحِ، قَالُوا حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، - قَالَ قُتَيْبَةُ فِيهِ - عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم لاَ يَعْرِفُ فَصْلَ السُّورَةِ حَتَّى تُنَزَّلَ عَلَيْهِ ‏(‏ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ ‏)‏ ‏.‏ وَهَذَا لَفْظُ ابْنِ السَّرْحِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
+
 حدثنا قتيبة بن سعيد، واحمد بن محمد المروزي، وابن السرح، قالوا حدثنا سفيان، عن عمرو، عن سعيد بن جبير، - قال قتيبة فيه - عن ابن عباس، قال كان النبي صلى الله عليه وسلم لا يعرف فصل السورة حتى تنزل عليه ( بسم الله الرحمن الرحيم ) . وهذا لفظ ابن السرح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর বিসমিল্লা-হির রহমা-নির রহীম অবতীর্ণ না হওয়া পর্যন্ত তিনি কোন সূরার শুরুর দিক চি‎‎হ্নিত করতে পারতেন না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উপর বিসমিল্লা-হির রহমা-নির রহীম অবতীর্ণ না হওয়া পর্যন্ত তিনি কোন সূরার শুরুর দিক চি‎‎হ্নিত করতে পারতেন না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn Abbas said:The prophet (ﷺ) did not distinguish between the two surahs until the words “In the name of Allah, the Compassionate, the merciful” was revealed to him. These are the words of Ibn al-sarh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
+
+## French
+
+Rapporté par Ibn Abbas رضي الله عنه : Le Prophète ﷺ ne distinguait pas entre les deux sourates jusqu’à ce que les mots « Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux » lui soient révélés. Ce sont les paroles d’Ibn al-Sarh
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] dan \[Ahmad bin Muhammad Al Marwazi\] serta \[Ibnu Sarh\] mereka mengatakan telah menceritakan kepada kami \[Sufyan\] dari \['Amru\] dari \[Sa'id bin Jubair\] -Qutaibah mengatakan dalam riwayat tersebut- dari \[Ibnu Abbas\] dia berkata; "Nabi shallallahu 'alaihi wasallam tidak mengetahui pemisah antar surat hingga diturunkan kepada beliau "Bismillahir Rahmanir Rahim" (dengan menyebut nama Allah yang maha pengasih lagi maha penyayang). Lafadz ini dari Ibnu As Sarh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] dan [Ahmad bin Muhammad Al Marwazi] serta [Ibnu Sarh] mereka mengatakan telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Sa'id bin Jubair] -Qutaibah mengatakan dalam riwayat tersebut- dari [Ibnu Abbas] dia berkata; "Nabi shallallahu 'alaihi wasallam tidak mengetahui pemisah antar surat hingga diturunkan kepada beliau "Bismillahir Rahmanir Rahim" (dengan menyebut nama Allah yang maha pengasih lagi maha penyayang). Lafadz ini dari Ibnu As Sarh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ не знал, где кончается одна сура и начинается другая, пока ему не ниспосылалось: «С именем Аллаха, Всемилостивого, Милостивого»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas'dan; demiştir ki: Nebi (Sallallahu aleyhi ve Sellem) kendisine ininceye kadar surenin sona erdiğini bilemezdi. Bu, İbnu's-Serh'in (rivayetinin) metnidir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم سورۃ کی حد و انتہا کو نہیں جان پاتے تھے، جب تک کہ «بسم الله الرحمن الرحيم» آپ پر نہ اتر جاتی، یہ ابن سرح کی روایت کے الفاظ ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>788</td></tr><tr><td>Arabic No</td><td>788</td></tr><tr><td>Reference</td><td>Book 2 Hadith 398</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 788 |
+| Arabic No | 788 |
+| Reference | Book 2 Hadith 398 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرٍ أَنَّ الْقَعْقَاعَ، وَزَيْدَ بْنَ أَسْلَمَ، أَرْسَلاَهُ إِلَى سَعِيدِ بْنِ الْمُسَيَّبِ يَسْأَلُهُ كَيْفَ تَغْتَسِلُ الْمُسْتَحَاضَةُ فَقَالَ تَغْتَسِلُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ وَتَتَوَضَّأُ لِكُلِّ صَلاَةٍ فَإِنْ غَلَبَهَا الدَّمُ اسْتَثْفَرَتْ بِثَوْبٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَرُوِيَ عَنِ ابْنِ عُمَرَ وَأَنَسِ بْنِ مَالِكٍ تَغْتَسِلُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ ‏.‏ وَكَذَلِكَ رَوَى دَاوُدُ وَعَاصِمٌ عَنِ الشَّعْبِيِّ عَنِ امْرَأَتِهِ عَنْ قَمِيرَ عَنْ عَائِشَةَ إِلاَّ أَنَّ دَاوُدَ قَالَ كُلَّ يَوْمٍ ‏.‏ وَفِي حَدِيثِ عَاصِمٍ عِنْدَ الظُّهْرِ ‏.‏ وَهُوَ قَوْلُ سَالِمِ بْنِ عَبْدِ اللَّهِ وَالْحَسَنِ وَعَطَاءٍ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مَالِكٌ إِنِّي لأَظُنُّ حَدِيثَ ابْنِ الْمُسَيَّبِ مِنْ طُهْرٍ إِلَى طُهْرٍ ‏.‏ فَقَلَبَهَا النَّاسُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ وَلَكِنَّ الْوَهَمَ دَخَلَ فِيهِ وَرَوَاهُ الْمِسْوَرُ بْنُ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَرْبُوعٍ قَالَ فِيهِ مِنْ طُهْرٍ إِلَى طُهْرٍ ‏.‏ فَقَلَبَهَا النَّاسُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
+
 حدثنا القعنبي، عن مالك، عن سمى، مولى ابي بكر ان القعقاع، وزيد بن اسلم، ارسلاه الى سعيد بن المسيب يساله كيف تغتسل المستحاضة فقال تغتسل من ظهر الى ظهر وتتوضا لكل صلاة فان غلبها الدم استثفرت بثوب . قال ابو داود وروي عن ابن عمر وانس بن مالك تغتسل من ظهر الى ظهر . وكذلك روى داود وعاصم عن الشعبي عن امراته عن قمير عن عايشة الا ان داود قال كل يوم . وفي حديث عاصم عند الظهر . وهو قول سالم بن عبد الله والحسن وعطاء . قال ابو داود قال مالك اني لاظن حديث ابن المسيب من طهر الى طهر . فقلبها الناس من ظهر الى ظهر ولكن الوهم دخل فيه ورواه المسور بن عبد الملك بن سعيد بن عبد الرحمن بن يربوع قال فيه من طهر الى طهر . فقلبها الناس من ظهر الى ظهر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
 
 ## Bengali
 
+। আবূ বাকর (রাঃ)-এর আযাদকৃত গোলাম সুমাই সূত্রে বর্ণিত। তিনি বলেন, কা‘কা‘আ এবং যায়িদ ইবনু আসলাম (রহঃ) সুমাইকে সাঈদ ইবনুল মুসাইয়্যাবের নিকট পাঠালেন। যাতে সুমাই তাকে জিজ্ঞেস করেন, মুস্তাহাযা কিভাবে গোসল করবে? সাঈদ (রাঃ) বললেন, মুস্তাহাযা গোসল করবে যুহর থেকে যুহর পর্যন্ত (অর্থাৎ প্রত্যেক যুহর সালাতের পূর্বে গোসল করবে)। আর ওযু করবে প্রত্যেক সালাতের জন্য। যদি অত্যধিক রক্তস্রাব হয় তাহলে যেন কাপড়ের পট্টি পরিধান করে।\[1\] সহীহ। قَالَ أَبُو دَاوُدَ : وَرُوِيَ عَنِ ابْنِ عُمَرَ وَأَنَسِ بْنِ مَالِكٍ تَغْتَسِلُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ ‏.‏ - صحيح ، عن أنس . ইমাম আবূ দাউদ (রহঃ) বলেন, ইবনু উমার ও আনাস ইবনু মালিক (রাঃ) থেকে এরূপ বর্ণনা রয়েছেঃ গোসল করবে এক যুহর থেকে পরবর্তী যুহর পর্যন্ত। সহীহ, আনাস সূত্রে। وَكَذَلِكَ رَوَى دَاوُدُ وَعَاصِمٌ عَنِ الشَّعْبِيِّ عَنِ امْرَأَتِهِ عَنْ قَمِيرَ عَنْ عَائِشَةَ إِلَّا أَنَّ دَاوُدَ قَالَ : كُلَّ يَوْمٍ ‏.‏ - صحيح مضى قريبا . আর এরূপই বর্ণনা রয়েছে ‘আয়িশাহ্ (রাঃ) থেকে। কিন্তু তাতে দাঊদ বলেছেন, প্রত্যেক দিন (গোসল করতে হবে)। সহীহ। وَفِي حَدِيثِ عَاصِمٍ عِنْدَ الظُّهْرِ ‏.‏ وَهُوَ قَوْلُ سَالِمِ بْنِ عَبْدِ اللهِ وَالْحَسَنِ وَعَطَاءٍ ‏. - صحيح ، عن الحسن . ‏ আর আসিমের বর্ণনায় রয়েছেঃ যুহরের সময় গোসল করবে। আর একই অভিমত হলো সালিম ইবনু আবদুল্লাহ, হাসান ও আতা (রাঃ)-এর। সহীহ, হাসান সূত্রে। قَالَ أَبُو دَاوُدَ قَالَ مَالِكٌ إِنِّي لأَظُنُّ حَدِيثَ ابْنِ الْمُسَيَّبِ مِنْ طُهْرٍ إِلَى طُهْرٍ ‏.‏ فَقَلَبَهَا النَّاسُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ وَلَكِنَّ الْوَهَمَ دَخَلَ فِيهِ وَرَوَاهُ الْمِسْوَرُ بْنُ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَرْبُوعٍ قَالَ فِيهِ مِنْ طُهْرٍ إِلَى طُهْرٍ ‏.‏ فَقَلَبَهَا النَّاسُ فَقاًلُوا : مِنْ ظُهْرٍ إِلَى ظُهْرٍ ‏.‏ - ضعيف . ইমাম আবূ দাউদ (রহঃ) বলেন, ইমাম মালিক বলেন, আমার মনে হয় সাঈদ ইবনুল মুসাইয়য়্যাবের হাদীস এরূপ হবেঃ সে গোসল করবে এক তোহর (পবিত্রতাবস্থা) থেকে আরেক তোহরে। কিন্তু তাতে সন্দেহ প্রবেশ করেছে। একই হাদীস বর্ণনা করেছেন মিসওয়ার ইবনু আবদুল মালিক ইবনু সাঈদ ইবনু আবদুর রহমান ইবনু ইয়ারবু'। তাতে এক তোহর থেকে আরেক তোহর পর্যন্তই রয়েছে। কিন্তু লোকেরা তাতে পরিবর্তন করে যুহর থেকে যুহর পর্যন্ত করে নিয়েছে। দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ বাকর (রাঃ)-এর আযাদকৃত গোলাম সুমাই সূত্রে বর্ণিত। তিনি বলেন, কা‘কা‘আ এবং যায়িদ ইবনু আসলাম (রহঃ) সুমাইকে সাঈদ ইবনুল মুসাইয়্যাবের নিকট পাঠালেন। যাতে সুমাই তাকে জিজ্ঞেস করেন, মুস্তাহাযা কিভাবে গোসল করবে? সাঈদ (রাঃ) বললেন, মুস্তাহাযা গোসল করবে যুহর থেকে যুহর পর্যন্ত (অর্থাৎ প্রত্যেক যুহর সালাতের পূর্বে গোসল করবে)। আর ওযু করবে প্রত্যেক সালাতের জন্য। যদি অত্যধিক রক্তস্রাব হয় তাহলে যেন কাপড়ের পট্টি পরিধান করে।[1] সহীহ। قَالَ أَبُو دَاوُدَ : وَرُوِيَ عَنِ ابْنِ عُمَرَ وَأَنَسِ بْنِ مَالِكٍ تَغْتَسِلُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ ‏.‏ - صحيح ، عن أنس . ইমাম আবূ দাউদ (রহঃ) বলেন, ইবনু উমার ও আনাস ইবনু মালিক (রাঃ) থেকে এরূপ বর্ণনা রয়েছেঃ গোসল করবে এক যুহর থেকে পরবর্তী যুহর পর্যন্ত। সহীহ, আনাস সূত্রে। وَكَذَلِكَ رَوَى دَاوُدُ وَعَاصِمٌ عَنِ الشَّعْبِيِّ عَنِ امْرَأَتِهِ عَنْ قَمِيرَ عَنْ عَائِشَةَ إِلَّا أَنَّ دَاوُدَ قَالَ : كُلَّ يَوْمٍ ‏.‏ - صحيح مضى قريبا . আর এরূপই বর্ণনা রয়েছে ‘আয়িশাহ্ (রাঃ) থেকে। কিন্তু তাতে দাঊদ বলেছেন, প্রত্যেক দিন (গোসল করতে হবে)। সহীহ। وَفِي حَدِيثِ عَاصِمٍ عِنْدَ الظُّهْرِ ‏.‏ وَهُوَ قَوْلُ سَالِمِ بْنِ عَبْدِ اللهِ وَالْحَسَنِ وَعَطَاءٍ ‏. - صحيح ، عن الحسن . ‏ আর আসিমের বর্ণনায় রয়েছেঃ যুহরের সময় গোসল করবে। আর একই অভিমত হলো সালিম ইবনু আবদুল্লাহ, হাসান ও আতা (রাঃ)-এর। সহীহ, হাসান সূত্রে। قَالَ أَبُو دَاوُدَ قَالَ مَالِكٌ إِنِّي لأَظُنُّ حَدِيثَ ابْنِ الْمُسَيَّبِ مِنْ طُهْرٍ إِلَى طُهْرٍ ‏.‏ فَقَلَبَهَا النَّاسُ مِنْ ظُهْرٍ إِلَى ظُهْرٍ وَلَكِنَّ الْوَهَمَ دَخَلَ فِيهِ وَرَوَاهُ الْمِسْوَرُ بْنُ عَبْدِ الْمَلِكِ بْنِ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَرْبُوعٍ قَالَ فِيهِ مِنْ طُهْرٍ إِلَى طُهْرٍ ‏.‏ فَقَلَبَهَا النَّاسُ فَقاًلُوا : مِنْ ظُهْرٍ إِلَى ظُهْرٍ ‏.‏ - ضعيف . ইমাম আবূ দাউদ (রহঃ) বলেন, ইমাম মালিক বলেন, আমার মনে হয় সাঈদ ইবনুল মুসাইয়য়্যাবের হাদীস এরূপ হবেঃ সে গোসল করবে এক তোহর (পবিত্রতাবস্থা) থেকে আরেক তোহরে। কিন্তু তাতে সন্দেহ প্রবেশ করেছে। একই হাদীস বর্ণনা করেছেন মিসওয়ার ইবনু আবদুল মালিক ইবনু সাঈদ ইবনু আবদুর রহমান ইবনু ইয়ারবু'। তাতে এক তোহর থেকে আরেক তোহর পর্যন্তই রয়েছে। কিন্তু লোকেরা তাতে পরিবর্তন করে যুহর থেকে যুহর পর্যন্ত করে নিয়েছে। দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sumayy, the freed slave of Abu Bakr, says that al-Qa'qa and Zaid b. Aslam sent him to Sa'id b. al-Musayyab to ask him as to how the woman who has flow of blood should wash. He replied:She should wash at the time of the Zuhr prayer (the bath will be valid one Zuhr prayer to the next Zuhr prayer); and should perform ablution for every prayer. If there is excessive bleed gin, she should tie a cloth over her private part. Abu Dawud said: It has been narrated by Ibn 'Umar and Anas b. Malik that she should take bath at the time of the Zuhr prayer (being valid) until the next Zuhr prayer. This tradition has also been transmuted by Dawud and 'Asim from al-Sha'bi from his wife from Qumair on the authority of 'Aishah, except that the version of Dawud has the words: "every day," and the version of 'Asim has the words: "at the time of Zuhr prayer". This is the view of Salim b. 'Abd Allah, al-Hassan, and 'Ata. Abu Dawud said: Malik said: I think that the tradition narrated by Ibn a;-Musayyab must contain the words: "from one purification to another". But it was misunderstood and the people changed it to: "for one Zuhr prayer to another". It has also been reported by Miswar b. 'Abd al-Malik b. Sa'id b. 'Abd al-Rahman b. Yarbu', saying: "from one purification to another," but the people changed it to: "from one zuhr to another
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
+
+## French
+
+Sumayy, l’affranchi d’Abu Bakr, raconte qu’al-Qa'qa et Zaid b. Aslam l’ont envoyé demander à Sa'id b. al-Musayyab comment la femme ayant un écoulement de sang devait se laver. Il répondit : « Elle doit se laver au moment de la prière du Zuhr (le bain sera valable d’un Zuhr à l’autre) ; et elle doit faire les ablutions pour chaque prière. Si le saignement est abondant, elle doit attacher un tissu sur ses parties intimes. » Abu Dawud a dit : Cela a été rapporté par Ibn 'Umar et Anas b. Malik qu’elle doit prendre un bain au moment de la prière du Zuhr (valable jusqu’au Zuhr suivant). Ce récit a aussi été transmis par Dawud et 'Asim de al-Sha'bi de son épouse de Qumair d’après 'Aishah, sauf que la version de Dawud dit : « chaque jour », et celle de 'Asim dit : « au moment de la prière du Zuhr ». C’est l’avis de Salim b. 'Abd Allah, al-Hassan et 'Ata. Abu Dawud a dit : Malik a dit : Je pense que le récit rapporté par Ibn al-Musayyab doit contenir les mots : « d’une purification à une autre ». Mais cela a été mal compris et les gens l’ont changé en : « d’un Zuhr à l’autre ». Cela a aussi été rapporté par Miswar b. 'Abd al-Malik b. Sa'id b. 'Abd al-Rahman b. Yarbu', disant : « d’une purification à une autre », mais les gens l’ont changé en : « d’un Zuhr à l’autre »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al-Qa'nabi\] dari \[Malik\] dari \[Sumayya, mantan sahaya Abu Bakar\] bahwasanya Al-Qa'qa dan Zaid bin Aslam mengutusnya untuk bertanya kepada \[Sa'id bin Al-Musayyib\]; bagaimanakah cara mandi wanita mustahadlah? Dia menjawab; Cukup mandi sekali untuk shalat Zhuhur sampai Zhuhur esok hari dan cukup dengan berwudhu saja untuk setiap kali shalat. Apabila darahnya membuatnya kewalahan, maka hendaklah dia menutupnya dengan kain. Abu Dawud berkata; Dan telah diriwayatkan dari Ibnu Umar dan Anas bin Malik; bahwa dia mandi dari Zhuhur hingga Zhuhur berikutnya. Demikian pula diriwayatkan oleh \[Dawud\] dan \[Ashim\] dari \[Asy-Sya'bi\] dari \[Istrinya\] dari \[Qamir\] dari \[Aisyah\], hanya saja Dawud menyebutkan; setiap hari. Sedangkan di dalam hadits Ashim; Ketika Zhuhur. Ini adalah pendapat Salim bin Abdullah dan Al-Hasan dan 'Atha'. Abu Dawud berkata; Malik berkata; Saya benar-benar menyangka hadits Ibnu Al-Musayyib adalah dari keadaan suci hingga keadaan suci berikutnya. Akan tetapi masuk wahm (keraguan) padanya, sehingga orang-orang menggantinya dengan menyebutkan; dari Zhuhur hingga Zhuhur berikutnya. Dan diriwayatkan oleh Miswar bin Abdul Malik bin Sa'id bin Abdurrahman bin Yarbu', dia menyebutkan padanya; dari keadaan suci hingga keadaan suci berikutnya, namun orang-orang menggantinya dengan menyebutkan; dari Zhuhur hingga Zhuhur berikutnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al-Qa'nabi] dari [Malik] dari [Sumayya, mantan sahaya Abu Bakar] bahwasanya Al-Qa'qa dan Zaid bin Aslam mengutusnya untuk bertanya kepada [Sa'id bin Al-Musayyib]; bagaimanakah cara mandi wanita mustahadlah? Dia menjawab; Cukup mandi sekali untuk shalat Zhuhur sampai Zhuhur esok hari dan cukup dengan berwudhu saja untuk setiap kali shalat. Apabila darahnya membuatnya kewalahan, maka hendaklah dia menutupnya dengan kain. Abu Dawud berkata; Dan telah diriwayatkan dari Ibnu Umar dan Anas bin Malik; bahwa dia mandi dari Zhuhur hingga Zhuhur berikutnya. Demikian pula diriwayatkan oleh [Dawud] dan [Ashim] dari [Asy-Sya'bi] dari [Istrinya] dari [Qamir] dari [Aisyah], hanya saja Dawud menyebutkan; setiap hari. Sedangkan di dalam hadits Ashim; Ketika Zhuhur. Ini adalah pendapat Salim bin Abdullah dan Al-Hasan dan 'Atha'. Abu Dawud berkata; Malik berkata; Saya benar-benar menyangka hadits Ibnu Al-Musayyib adalah dari keadaan suci hingga keadaan suci berikutnya. Akan tetapi masuk wahm (keraguan) padanya, sehingga orang-orang menggantinya dengan menyebutkan; dari Zhuhur hingga Zhuhur berikutnya. Dan diriwayatkan oleh Miswar bin Abdul Malik bin Sa'id bin Abdurrahman bin Yarbu', dia menyebutkan padanya; dari keadaan suci hingga keadaan suci berikutnya, namun orang-orang menggantinya dengan menyebutkan; dari Zhuhur hingga Zhuhur berikutnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Сумаййа, вольноотпущенника Абу Бакра о том, что аль-Къа‘къа‘ и Зейд ибн Аслам отправили его к Са‘иду ибн аль-Мусаййабу спросить его о том, как должна купаться женщина с хроническим кровотечением, и он сказал: «Она должна купаться (один раз) между двумя полуденными молитвами и совершать омовение для каждой молитвы. А если крови будет много, то ей следует обвязать половые органы тканью».Абу Дауд сказал: «В риваяте этого хадиса переданного от Ибн ‘Умара и Анаса ибн Малика сказано: “Она купается (один раз) между двумя полуденными молитвами”. То же самое передали Дауд и ‘Асым от аш-Ша‘би, которому сообщила его жена от Камира со слов ‘Аиши, за исключением того, что Дауд сказал: “Каждый день”. А в хадисе ‘Асыма сказано: “Во время полуденной /зухр/ молитвы”. Тоже самое сказали Салим ибн ‘Абдуллах, аль-Хасан и ‘Атаъ».Абу Дауд сказал: «Малик сказал: “Я полагаю, что в хадисе Ибн Мусаййаба должно быть “От чистоты до чистоты”. Люди поменяли это на “От полуденной молитвы до полуденной молитвы”. Однако, эта ошибка вошла в хадис”.Также его передал аль-Мисвар ибн ‘Абдуль Малик ибн Са‘ид ибн ‘Абду-р-Рахман ибн Йарбу‘, который сказал в нем: “От чистоты до чистоты”, но люди поменяли это (предложение) на “От полуденной молитвы до полуденной молитвы”».Шейх аль-Албани назвал все эти сообщения достоверными, кроме того, что передано от аль-Мисвара ибн ‘Абдуль Малика, сообщение которого является слабым /да‘иф
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Bekr (İbn Abdirraman)'ın azatlısı Sümeyy'den rivayet edilmiştir ki: Ka'ka ve Zeyd bin Eşlem, Sümeyy'i müstehazanın nasıl yıkandığını sormak üzere Said bin Müseyyeb'e gönderdiler Said: "Öğleden Öğleye gusleder ve her namaz için abdest alır. Eğer kan çok gelecek olursa fercine bir bez bağlar” karşılığını verdi. Ebu Davud dedi ki; ibn Ömer, ve Enes bin Malik'ten "öğleden Öğleye yıkanır" şeklinde rivayet edilmiştir. Davud ve Asim, Şa'bi'den o karısı kanalıyla Kamir'den, Kamir de, Aişe'den aynısını rivayet etmişlerdir. Ancak Davud (yukarıdakine ilave olarak) "hergün" (sözünü de) eklemiştir. Asim'in hadisinde de “öğle vaktinde'' ilavesi vardır. Bu görüş Salim bin Abdillah, Hasen ve Ata'nın görüşüdür. Ebu Davud dedi ki, Malik: "Ben İbn Müseyyeb'in"öğleden öğleye.:.." şeklindeki hadisinin "temizlikten temizliğe,,."şeklinde olduğunu zannediyorum. Ancak buna vehm girmiştir ve insanlar bunu değiştirerek, "öğleden öğleye" şekline çevirmişlerdir." Misver bin Adlimelik bin Said bin Abdirrahman bin Yerbu; bu hadisi rivayet etmiş ve "temizlikten temizliğe...." demiş, insanlar bunu "öğleden öğleye..."şeklinde çevirmişlerdir. Diğer tahric: Dârimî, vudu' (bab başlığında)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوبکر کے غلام سمیّ کہتے ہیں کہ قعقاع اور زید بن اسلم دونوں نے انہیں سعید بن مسیب کے پاس یہ مسئلہ دریافت کرنے کے لیے بھیجا کہ مستحاضہ عورت کس طرح غسل کرے؟ تو انہوں نے کہا: وہ ایک ظہر سے دوسرے ظہر تک ایک غسل کرے، اور ہر نماز کے لیے وضو کرے، اور اگر استحاضہ کا خون زیادہ آئے تو کپڑے کا لنگوٹ باندھ لے۔ ابوداؤد کہتے ہیں: ابن عمر اور انس بن مالک رضی اللہ عنہم سے بھی مروی ہے کہ وہ ظہر سے ظہر تک ایک غسل کرے، اور اسی طرح داود اور عاصم نے شعبی سے، شعبی نے اپنی بیوی سے، انہوں نے قمیر سے، اور قمیر نے ام المؤمنین عائشہ رضی اللہ عنہا سے روایت کی ہے، مگر داود کی روایت میں لفظ «كل يوم» کا ( اضافہ ) ہے یعنی ہر روز غسل کرے، اور عاصم کی روایت میں «عند الظهر» کا لفظ ہے اور یہی قول سالم بن عبداللہ، حسن اور عطاء کا ہے۔ ابوداؤد کہتے ہیں: مالک نے کہا: میں سمجھتا ہوں کہ ابن مسیب کی حدیث: «من ظهرٍ إلى ظهرٍ» کے بجائے «من طهرٍ إلى طهرٍ» ہے، لیکن اس میں وہم داخل ہو گیا اور لوگوں نے اسے بدل کر «من ظهرٍ إلى ظهرٍ» کر دیا، نیز اسے مسور بن عبدالملک بن سعید بن عبدالرحمٰن بن یربوع نے روایت کیا ہے، اس میں انہوں نے «من طهر إلى طهر» کہا ہے، پھر لوگوں نے اسے «من ظهرٍ إلى ظهرٍ» میں بدل دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 1 Hadith 301</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 1 Hadith 301 |

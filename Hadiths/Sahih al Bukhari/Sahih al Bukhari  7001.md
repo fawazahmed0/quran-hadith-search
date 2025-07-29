@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يُوسُفَ، أَخْبَرَنَا مَالِكٌ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي طَلْحَةَ، أَنَّهُ سَمِعَ أَنَسَ بْنَ مَالِكٍ، يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدْخُلُ عَلَى أُمِّ حَرَامٍ بِنْتِ مِلْحَانَ، وَكَانَتْ تَحْتَ عُبَادَةَ بْنِ الصَّامِتِ، فَدَخَلَ عَلَيْهَا يَوْمًا فَأَطْعَمَتْهُ، وَجَعَلَتْ تَفْلِي رَأْسَهُ، فَنَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ اسْتَيْقَظَ وَهْوَ يَضْحَكُ‏.‏ قَالَتْ فَقُلْتُ مَا يُضْحِكُكَ يَا رَسُولَ اللَّهِ قَالَ ‏"‏ نَاسٌ مِنْ أُمَّتِي عُرِضُوا عَلَىَّ، غُزَاةً فِي سَبِيلِ اللَّهِ، يَرْكَبُونَ ثَبَجَ هَذَا الْبَحْرِ، مُلُوكًا عَلَى الأَسِرَّةِ أَوْ مِثْلَ الْمُلُوكِ عَلَى الأَسِرَّةِ ‏"‏‏.‏ شَكَّ إِسْحَاقُ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ، فَدَعَا لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ثُمَّ وَضَعَ رَأْسَهُ ثُمَّ اسْتَيْقَظَ وَهْوَ يَضْحَكُ‏.‏ فَقُلْتُ مَا يُضْحِكُكَ يَا رَسُولَ اللَّهِ قَالَ ‏"‏ نَاسٌ مِنْ أُمَّتِي عُرِضُوا عَلَىَّ، غُزَاةً فِي سَبِيلِ اللَّهِ ‏"‏‏.‏ كَمَا قَالَ فِي الأُولَى‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ‏.‏ قَالَ ‏"‏ أَنْتِ مِنَ الأَوَّلِينَ ‏"‏‏.‏ فَرَكِبَتِ الْبَحْرَ فِي زَمَانِ مُعَاوِيَةَ بْنِ أَبِي سُفْيَانَ فَصُرِعَتْ عَنْ دَابَّتِهَا حِينَ خَرَجَتْ مِنَ الْبَحْرِ، فَهَلَكَتْ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الله بن يوسف، اخبرنا مالك، عن اسحاق بن عبد الله بن ابي طلحة، انه سمع انس بن مالك، يقول كان رسول الله صلى الله عليه وسلم يدخل على ام حرام بنت ملحان، وكانت تحت عبادة بن الصامت، فدخل عليها يوما فاطعمته، وجعلت تفلي راسه، فنام رسول الله صلى الله عليه وسلم ثم استيقظ وهو يضحك. قالت فقلت ما يضحكك يا رسول الله قال " ناس من امتي عرضوا على، غزاة في سبيل الله، يركبون ثبج هذا البحر، ملوكا على الاسرة او مثل الملوك على الاسرة ". شك اسحاق. قالت فقلت يا رسول الله ادع الله ان يجعلني منهم، فدعا لها رسول الله صلى الله عليه وسلم ثم وضع راسه ثم استيقظ وهو يضحك. فقلت ما يضحكك يا رسول الله قال " ناس من امتي عرضوا على، غزاة في سبيل الله ". كما قال في الاولى. قالت فقلت يا رسول الله ادع الله ان يجعلني منهم. قال " انت من الاولين ". فركبت البحر في زمان معاوية بن ابي سفيان فصرعت عن دابتها حين خرجت من البحر، فهلكت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
+উম্মু হারাম (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল! আপনি কেন হাসলেন? তিনি বললেনঃ আমার উম্মাতের একদল লোককে আমার কাছে পেশ করা হয়েছে। যারা আল্লাহর রাস্তায় যুদ্ধরত সাগরের মধ্যে জাহাজের ওপর আরোহণ করে বাদশাহর সিংহাসনে অথবা বাদশাহ্দের মত তারা সিংহাসনে বসে আছে। ইসহাক রাবী সন্দেহ করেছেন। উম্মু হারাম (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল। আপনি আল্লাহর কাছে দু‘আ করুন, তিনি যেন আমাকে তাদের দলে অন্তর্ভুক্ত করে দেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জন্য দু‘আ করলেন। এরপর আবার তিনি মাথা রেখে ঘুমিয়ে পড়লেন। কিছুক্ষণ পর আবার হেসে হেসে জেগে উঠলেন। আমি বললাম, আপনি হাসলেন কেন হে আল্লাহর রাসূল? তিনি বললেনঃ আল্লাহর রাস্তায় জিহাদে লিপ্ত আমার একদল উম্মাতকে আমার কাছে পেশ করা হয়েছে। আগের মত এ দল সম্পর্কেও বললেন। উম্মু হারাম (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল। আপনি আল্লাহর কাছে দু‘আ করুন, তিনি যেন আমাকে এ দলভুক্ত করে দেন। তিনি বললেনঃ তুমি প্রথম দলের অন্তর্ভুক্ত। উম্মু হারাম (রাঃ) মু‘আবীয়াহ ইবনু সুফ্ইয়ান (রাঃ)-এর আমলে সামুদ্রিক জাহাজে উঠেন এবং সমুদ্র থেকে পেরিয়ে আসার সময় আপন সাওয়ারী থেকে মাটিতে পড়ে গিয়ে মারা যান। \[৬৭৮৯\] (আধুনিক প্রকাশনী- ৬৫১৭, ইসলামিক ফাউন্ডেশন)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-উম্মু হারাম (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল! আপনি কেন হাসলেন? তিনি বললেনঃ আমার উম্মাতের একদল লোককে আমার কাছে পেশ করা হয়েছে। যারা আল্লাহর রাস্তায় যুদ্ধরত সাগরের মধ্যে জাহাজের ওপর আরোহণ করে বাদশাহর সিংহাসনে অথবা বাদশাহ্দের মত তারা সিংহাসনে বসে আছে। ইসহাক রাবী সন্দেহ করেছেন। উম্মু হারাম (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল। আপনি আল্লাহর কাছে দু‘আ করুন, তিনি যেন আমাকে তাদের দলে অন্তর্ভুক্ত করে দেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার জন্য দু‘আ করলেন। এরপর আবার তিনি মাথা রেখে ঘুমিয়ে পড়লেন। কিছুক্ষণ পর আবার হেসে হেসে জেগে উঠলেন। আমি বললাম, আপনি হাসলেন কেন হে আল্লাহর রাসূল? তিনি বললেনঃ আল্লাহর রাস্তায় জিহাদে লিপ্ত আমার একদল উম্মাতকে আমার কাছে পেশ করা হয়েছে। আগের মত এ দল সম্পর্কেও বললেন। উম্মু হারাম (রাঃ) বলেন, আমি বললাম, হে আল্লাহর রাসূল। আপনি আল্লাহর কাছে দু‘আ করুন, তিনি যেন আমাকে এ দলভুক্ত করে দেন। তিনি বললেনঃ তুমি প্রথম দলের অন্তর্ভুক্ত। উম্মু হারাম (রাঃ) মু‘আবীয়াহ ইবনু সুফ্ইয়ান (রাঃ)-এর আমলে সামুদ্রিক জাহাজে উঠেন এবং সমুদ্র থেকে পেরিয়ে আসার সময় আপন সাওয়ারী থেকে মাটিতে পড়ে গিয়ে মারা যান। [৬৭৮৯] (আধুনিক প্রকাশনী- ৬৫১৭, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas bin Malik:Allah's Messenger (ﷺ) used to visit Um Haram bint Milhan she was the wife of 'Ubada bin As-Samit. One day the Prophet (ﷺ) visited her and she provided him with food and started looking for lice in his head. Then Allah's Messenger (ﷺ) slept and afterwards woke up smiling. Um Haram asked, "What makes you smile, O Allah's Messenger (ﷺ)?" He said, "Some of my followers were presented before me in my dream as fighters in Allah's Cause, sailing in the middle of the seas like kings on the thrones or like kings sitting on their thrones." (The narrator 'Is-haq is not sure as to which expression was correct). Um Haram added, 'I said, "O Allah's Messenger (ﷺ)! Invoke Allah, to make me one of them;" So Allah's Messenger (ﷺ) invoked Allah for her and then laid his head down (and slept). Then he woke up smiling (again). (Um Haram added): I said, "What makes you smile, O Allah's Messenger (ﷺ)?" He said, "Some people of my followers were presented before me (in a dream) as fighters in Allah's Cause." He said the same as he had said before. I said, "O Allah's Messenger (ﷺ)! Invoke Allah to make me from them." He said, "You are among the first ones." Then Um Haram sailed over the sea during the Caliphate of Muawiya bin Abu Sufyan, and she fell down from her riding animal after coming ashore, and died
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
+
+## French
+
+Rapporté par Anas bin Malik : Le Messager d’Allah (ﷺ) rendait visite à Um Haram bint Milhan, qui était la femme de ‘Ubada bin As-Samit. Un jour, le Prophète (ﷺ) lui rendit visite, elle lui offrit à manger et commença à chercher des poux dans sa tête. Ensuite, le Messager d’Allah (ﷺ) s’endormit puis se réveilla en souriant. Um Haram demanda : « Qu’est-ce qui te fait sourire, ô Messager d’Allah (ﷺ) ? » Il répondit : « Certains de mes compagnons m’ont été montrés en rêve comme des combattants dans la voie d’Allah, naviguant au milieu des mers comme des rois sur leurs trônes ou assis sur leurs trônes. » (Le rapporteur ‘Is-haq n’est pas sûr de l’expression exacte.) Um Haram ajouta : « J’ai dit : “Ô Messager d’Allah (ﷺ) ! Invoque Allah pour qu’Il me fasse être parmi eux.” » Alors le Messager d’Allah (ﷺ) invoqua Allah pour elle puis reposa sa tête (et dormit). Ensuite, il se réveilla en souriant (encore). (Um Haram ajouta :) « J’ai dit : “Qu’est-ce qui te fait sourire, ô Messager d’Allah (ﷺ) ?” » Il répondit : « Certains de mes compagnons m’ont été montrés (en rêve) comme des combattants dans la voie d’Allah. » Il dit la même chose que précédemment. J’ai dit : « Ô Messager d’Allah (ﷺ) ! Invoque Allah pour que je sois parmi eux. » Il répondit : « Tu es parmi les premiers. » Plus tard, Um Haram traversa la mer pendant le califat de Muawiya bin Abu Sufyan, et après être descendue de sa monture en arrivant à terre, elle tomba et mourut
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
 ## Russian
 
+Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ нередко заходил к Умм Харам бинт Мильхан, да будет доволен ею Аллах, которая была женой ‘Убады бин ас-Самита. Однажды Пророк ﷺ зашёл к ней, и она накормила его, а потом начала искать вшей у него в голове. Потом Посланник Аллаха ﷺ заснул, а потом проснулся, смеясь, и она спросила: “Почему ты смеёшься, о Посланник Аллаха?” (В ответ ей Пророк ﷺ) сказал: “Во сне некоторые люди из (числа членов) моей общины были показаны мне как участники военного похода на пути Аллаха, которые сидели посреди этого моря как цари, сидящие на тронах (или: подобно царям, сидящим на тронах)”». \\n(Умм Харам, да будет доволен ею Аллах,) сказала: «Я попросила: “О Посланник Аллаха, обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!”»\\n(Передатчик этого хадиса сказал): «И Посланник Аллаха ﷺ обратился к Аллаху с такой мольбой за неё».\\n(Умм Харам, да будет доволен ею Аллах, сказала): «Затем он преклонил голову (и снова заснул), а потом проснулся, смеясь, и я спросила: “Почему ты смеёшься, о Посланник Аллаха?” — (на что Пророк ﷺ) ответил: “Во сне некоторые люди из (числа членов) моей общины были показаны мне как сражающиеся на пути Аллаха…”, сказав то же, что и в первый раз. Я попросила: “О Посланник Аллаха, обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!” — и он сказал: “Ты — из числа первых”».\\nА когда халифом стал Му‘авийа бин Абу Суфйан, Умм Харам приняла участие в морском (военном походе), сойдя же на берег, она упала со своего верхового животного и разбилась насмерть
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Сообщается, что Анас бин Малик, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ нередко заходил к Умм Харам бинт Мильхан, да будет доволен ею Аллах, которая была женой ‘Убады бин ас-Самита. Однажды Пророк ﷺ зашёл к ней, и она накормила его, а потом начала искать вшей у него в голове. Потом Посланник Аллаха ﷺ заснул, а потом проснулся, смеясь, и она спросила: “Почему ты смеёшься, о Посланник Аллаха?” (В ответ ей Пророк ﷺ) сказал: “Во сне некоторые люди из (числа членов) моей общины были показаны мне как участники военного похода на пути Аллаха, которые сидели посреди этого моря как цари, сидящие на тронах (или: подобно царям, сидящим на тронах)”». \n(Умм Харам, да будет доволен ею Аллах,) сказала: «Я попросила: “О Посланник Аллаха, обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!”»\n(Передатчик этого хадиса сказал): «И Посланник Аллаха ﷺ обратился к Аллаху с такой мольбой за неё».\n(Умм Харам, да будет доволен ею Аллах, сказала): «Затем он преклонил голову (и снова заснул), а потом проснулся, смеясь, и я спросила: “Почему ты смеёшься, о Посланник Аллаха?” — (на что Пророк ﷺ) ответил: “Во сне некоторые люди из (числа членов) моей общины были показаны мне как сражающиеся на пути Аллаха…”, сказав то же, что и в первый раз. Я попросила: “О Посланник Аллаха, обратись к Аллаху с мольбой, чтобы Он причислил к ним и меня!” — и он сказал: “Ты — из числа первых”».\nА когда халифом стал Му‘авийа бин Абу Суфйан, Умм Харам приняла участие в морском (военном походе), сойдя же на берег, она упала со своего верхового животного и разбилась насмерть
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
+Enes b. Malik r.a. şöyle anlatmıştır: Resulullah, Milhan kızı Ümmü Haram'ı ziyaret etmek maksadıyla arasıra yanına giderdi. Ümmü Haram, Ubade b. esSamifin nikahı altında idi. Bir gün Resulullah yine ziyaret maksadıyla onun yanına geldi. Milhan ona yemek ikrametti ve başını taramaya başladı. Resulullah bir süre uyudu, sonra gülümseyerek uyandı. \[-7002-\] Ümmü Haram olayın devamını şöyle nakletti: Resulullah Sallallahu Aleyhi ve Sellem'e "Ya Resulallah! neye gülüyorsun?" diye sordu. Resulullah "Rüyamda bana ümmetimden bir kısım mücahidlerin şu deniz ortasında tahtlar üzerindeki hükümdarlar gibi -veya tahtlar üzerine kuru/muş hükümdar/ar misali- gemilere binerek Allah yolunda deniz savaşına gittikleri gösterildi de ona gülüyordum!" buyurdu. -İfadeyi veya diye şüphe ile söyleyen ravi İshak'tır.- Ümmü Haram şöyle devam etti: Ben "Ya Resulallah! Beni de o deniz gazilerinden kılması için Allah'a dua ediver!" diye rica ettim. Resulullah da ona dua buyurdu. Sonra başını yastığa koydu. (Bir müddet daha uyudu.) Sonra yine gülümseyerek uyandı. Bunun üzerine yine ben tekrar "Ya Resulallah! neye gülüyorsun?" diye sordum. Resulullah bu defa da önce dediği gibi "Bana yine ümmetimden bazı kimselerin -tıpkı birincide olduğu gibi- Allah yolunda gazaya gittikleri gösterildi." Ümmü Haram şöyle dedi: Ben Resulullah'a "Ya Resulallah! Beni de onlardan kılması için Allah'a dua ediver!" dedim. Resulullah "Sen önceki gazilerdensin!" buyurdu. (Enes b. Malik dedi ki:) "Ümmü Haram, Muaviye b. Ebu Süfyan'ın zamanında deniz gazasında gemiye binmişti; fakat denizden karaya çıktıkları zaman Ümmü Haram bindirildiği hayvandan düştü de oracıkta can verdi." Fethu'l-Bari Açıklaması: "İbn Sırın 'Gündüz görülen rüya, gece görülen rüya gibidir' demiştir." İmam Buhari burada Nebi s.a.v.'in Ümmü Haram'ın yanında uyuduğundan söz eden Enes hadisine yer vermiştir. Bu hadisin geniş bir açıklaması İsti'zan bölümünde geçmişti
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes b. Malik r.a. şöyle anlatmıştır: Resulullah, Milhan kızı Ümmü Haram'ı ziyaret etmek maksadıyla arasıra yanına giderdi. Ümmü Haram, Ubade b. esSamifin nikahı altında idi. Bir gün Resulullah yine ziyaret maksadıyla onun yanına geldi. Milhan ona yemek ikrametti ve başını taramaya başladı. Resulullah bir süre uyudu, sonra gülümseyerek uyandı. [-7002-] Ümmü Haram olayın devamını şöyle nakletti: Resulullah Sallallahu Aleyhi ve Sellem'e "Ya Resulallah! neye gülüyorsun?" diye sordu. Resulullah "Rüyamda bana ümmetimden bir kısım mücahidlerin şu deniz ortasında tahtlar üzerindeki hükümdarlar gibi -veya tahtlar üzerine kuru/muş hükümdar/ar misali- gemilere binerek Allah yolunda deniz savaşına gittikleri gösterildi de ona gülüyordum!" buyurdu. -İfadeyi veya diye şüphe ile söyleyen ravi İshak'tır.- Ümmü Haram şöyle devam etti: Ben "Ya Resulallah! Beni de o deniz gazilerinden kılması için Allah'a dua ediver!" diye rica ettim. Resulullah da ona dua buyurdu. Sonra başını yastığa koydu. (Bir müddet daha uyudu.) Sonra yine gülümseyerek uyandı. Bunun üzerine yine ben tekrar "Ya Resulallah! neye gülüyorsun?" diye sordum. Resulullah bu defa da önce dediği gibi "Bana yine ümmetimden bazı kimselerin -tıpkı birincide olduğu gibi- Allah yolunda gazaya gittikleri gösterildi." Ümmü Haram şöyle dedi: Ben Resulullah'a "Ya Resulallah! Beni de onlardan kılması için Allah'a dua ediver!" dedim. Resulullah "Sen önceki gazilerdensin!" buyurdu. (Enes b. Malik dedi ki:) "Ümmü Haram, Muaviye b. Ebu Süfyan'ın zamanında deniz gazasında gemiye binmişti; fakat denizden karaya çıktıkları zaman Ümmü Haram bindirildiği hayvandan düştü de oracıkta can verdi." Fethu'l-Bari Açıklaması: "İbn Sırın 'Gündüz görülen rüya, gece görülen rüya gibidir' demiştir." İmam Buhari burada Nebi s.a.v.'in Ümmü Haram'ın yanında uyuduğundan söz eden Enes hadisine yer vermiştir. Bu hadisin geniş bir açıklaması İsti'zan bölümünde geçmişti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عبداللہ بن یوسف نے بیان کیا، کہا ہم کو امام مالک نے خبر دی، انہیں اسحاق بن عبداللہ بن ابی طلحہ نے اور انہوں نے انس بن مالک رضی اللہ عنہ سے سنا کہ رسول اللہ صلی اللہ علیہ وسلم ام حرام بنت ملحان رضی اللہ عنہا کے ہاں تشریف لے جایا کرتے تھے، وہ عبادہ بن صامت کے نکاح میں تھیں۔ ایک دن آپ ان کے یہاں گئے تو انہوں نے آپ کے سامنے کھانے کی چیز پیش کی اور آپ کا سر جھاڑنے لگیں۔ اس عرصہ میں نبی کریم صلی اللہ علیہ وسلم سو گئے پھر بیدار ہوئے تو آپ صلی اللہ علیہ وسلم مسکرا رہے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7001</td></tr><tr><td>Arabic No</td><td>7001</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7001 |
+| Arabic No | 7001 |
+| Reference | Book 0 Hadith 0 |

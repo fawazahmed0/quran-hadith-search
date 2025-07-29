@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ أَبِي الزُّبَيْرِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، وَطَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّهُ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُعَلِّمُنَا التَّشَهُّدَ كَمَا يُعَلِّمُنَا الْقُرْآنَ وَكَانَ يَقُولُ ‏ "‏ التَّحِيَّاتُ الْمُبَارَكَاتُ الصَّلَوَاتُ الطَّيِّبَاتُ لِلَّهِ السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
+
 حدثنا قتيبة بن سعيد، حدثنا الليث، عن ابي الزبير، عن سعيد بن جبير، وطاوس، عن ابن عباس، انه قال كان رسول الله صلى الله عليه وسلم يعلمنا التشهد كما يعلمنا القران وكان يقول " التحيات المباركات الصلوات الطيبات لله السلام عليك ايها النبي ورحمة الله وبركاته السلام علينا وعلى عباد الله الصالحين اشهد ان لا اله الا الله واشهد ان محمدا رسول الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
 
 ## Bengali
 
+। ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে কুরআন শিক্ষার মত করেই তাশাহহুদ শিক্ষা দিতেন। তিনি বলতেনঃ আত্তাহিয়্যাতুল মুবারাকাতুস সলাওয়াতুত ত্বায়্যিবাতু লিল্লাহি। আসসালামু ‘আলাইকা আয়্যুহান নাবিয়্যু ওয়া রহমাতুল্লাহি ওয়া বারাকাতুহু। আসসালামু ‘আলাইনা ওয়া ‘আলা ‘ইবাদিল্লাহিস সলিহীন। ওয়া আশহাদু আল-লা ইলাহা ইল্লাল্লাহু ওয়া আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুল্লাহ ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে কুরআন শিক্ষার মত করেই তাশাহহুদ শিক্ষা দিতেন। তিনি বলতেনঃ আত্তাহিয়্যাতুল মুবারাকাতুস সলাওয়াতুত ত্বায়্যিবাতু লিল্লাহি। আসসালামু ‘আলাইকা আয়্যুহান নাবিয়্যু ওয়া রহমাতুল্লাহি ওয়া বারাকাতুহু। আসসালামু ‘আলাইনা ওয়া ‘আলা ‘ইবাদিল্লাহিস সলিহীন। ওয়া আশহাদু আল-লা ইলাহা ইল্লাল্লাহু ওয়া আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Abbas said:The Messenger of Allah( may peace be upon him) used to teach us the tashahhud as he would teach us the Qur’an, and would say: The blessed adoration of the tongue, acts of worship (and) all good things are due to Allah. Peace be upon you, O Prophet, and Allah’s mercy and His blessings. Peace be upon us and upon Allah’s upright servants. I testify that there is no god but Allah, and I testify that Muhammad is Allah’s apostle (peace be upon him)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : Le Messager d’Allah ﷺ nous enseignait le tashahhud comme il nous enseignait le Coran, et il disait : « Les louanges bénies de la langue, les actes d’adoration et toutes les bonnes choses reviennent à Allah. Paix sur toi, ô Prophète, ainsi que la miséricorde d’Allah et Sa bénédiction. Paix sur nous et sur les serviteurs vertueux d’Allah. J’atteste qu’il n’y a pas de divinité en dehors d’Allah, et j’atteste que Muhammad est l’Envoyé d’Allah ﷺ. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Al Laits\] dari \[Abu Az Zubair\] dari \[Sa'id bin Jubair\] dan \[Thawus\] dari \[Ibnu Abbas\] bahwa dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengajari kami sebagaimana beliau mengajari kami Al Qur'an, beliau mengucapkan: "Attahiyyatul mubaarakatus shalawaatut thayyibaatu lillah Assalamu 'alaika ayyuhannabiyyu warahmatullahi wabarakatuh assalamu 'alaina wa'ala 'ibadillahis-shalihin Asyhadu alla ilaha illallah wa asyhadu anna muhammadan abduhu warasuluhu" (Segala penghormatan dan kebaktian yang baik hanya bagi Allah, kesejahteraan, rahmat Allah dan berkah-Nya tetap terlimpah kepadamu wahai Nabi, semoga kesejahteraan atas kami dan hamba-hamba Allah yang Shalih, aku bersaksi tidak ada ilah (yang berhak di sembah) kecuali Allah, dan aku bersaksi bahwa Muhammad adalah Rasulullah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al Laits] dari [Abu Az Zubair] dari [Sa'id bin Jubair] dan [Thawus] dari [Ibnu Abbas] bahwa dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengajari kami sebagaimana beliau mengajari kami Al Qur'an, beliau mengucapkan: "Attahiyyatul mubaarakatus shalawaatut thayyibaatu lillah Assalamu 'alaika ayyuhannabiyyu warahmatullahi wabarakatuh assalamu 'alaina wa'ala 'ibadillahis-shalihin Asyhadu alla ilaha illallah wa asyhadu anna muhammadan abduhu warasuluhu" (Segala penghormatan dan kebaktian yang baik hanya bagi Allah, kesejahteraan, rahmat Allah dan berkah-Nya tetap terlimpah kepadamu wahai Nabi, semoga kesejahteraan atas kami dan hamba-hamba Allah yang Shalih, aku bersaksi tidak ada ilah (yang berhak di sembah) kecuali Allah, dan aku bersaksi bahwa Muhammad adalah Rasulullah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
 
 ## Russian
 
+Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывает: «Посланник Аллаха ﷺ учил нас читать ташаххуд подобно тому, как учил он нас Корану. Он говорил: “Благодатные приветствия, благие молитвы Аллаху! Мир тебе, о Пророк, милость и благословение Аллаха! Мир нам и всем праведным рабам Аллаха! Свидетельствую, что нет бога \[заслуживающего поклонение\], кроме Аллаха, и свидетельствую, что Мухаммад Посланник Аллаха /Ат-тахиййату-ль-мубаракату-с-салявату-т-таййибату ли-Лляхи, ас-саляму ‘аляйка аййуха-н-набиййу ва рахмату-Ллахи ва баракатуху, ас-саляму ‘аляйна ва ‘аля ‘ибади-Лляхи-с-салихина, ашхаду алля иляха илля-Ллаху ва ашхаду анна мухаммадан расулю-Ллах/”»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ибн ‘Аббас, да будет доволен Аллах им и его отцом, рассказывает: «Посланник Аллаха ﷺ учил нас читать ташаххуд подобно тому, как учил он нас Корану. Он говорил: “Благодатные приветствия, благие молитвы Аллаху! Мир тебе, о Пророк, милость и благословение Аллаха! Мир нам и всем праведным рабам Аллаха! Свидетельствую, что нет бога [заслуживающего поклонение], кроме Аллаха, и свидетельствую, что Мухаммад Посланник Аллаха /Ат-тахиййату-ль-мубаракату-с-салявату-т-таййибату ли-Лляхи, ас-саляму ‘аляйка аййуха-н-набиййу ва рахмату-Ллахи ва баракатуху, ас-саляму ‘аляйна ва ‘аля ‘ибади-Лляхи-с-салихина, ашхаду алля иляха илля-Ллаху ва ашхаду анна мухаммадан расулю-Ллах/”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs (r.a.)'dan; demiştir ki: Rasûlullah (s.a.v.) bize, Kur'ân'ı öğrettiği gibi, teşehhüd'üde öğretir ve şöyle derdi: “Her türlü selâmlar, bol hayır ve bereketler, bütün ibâdetler ve güzel sözler Allah içindir. Selâm, Allah'ın rahmet ve bereketi sana olsun ey Nebi! Selâm, bizim ve Allah'ın sâlih kullarının üzerine olsun. Şehâdet ederim ki Allah'dan başka ilâh yoktur. Yine şehâdet ederim ki Muhammed Allah'ın Resûlüdür." Diğer tahric: Müslim, salât. Tirmizî, salât; Nesâî; İbn Mâce, ikâme; Ahmed b. Hanbel, I
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ہمیں تشہد اسی طرح سکھاتے تھے جس طرح قرآن سکھاتے تھے، آپ کہا کرتے تھے: «التحيات المباركات الصلوات الطيبات لله السلام عليك أيها النبي ورحمة الله وبركاته السلام علينا وعلى عباد الله الصالحين أشهد أن لا إله إلا الله وأشهد أن محمدا رسول الله» آداب، بندگیاں، پاکیزہ صلاۃ و دعائیں اللہ ہی کے لیے ہیں، اے نبی! آپ پر سلام، اور اللہ کی رحمت اور اس کی برکتیں نازل ہوں، اور سلام ہو ہم پر اور اللہ کے تمام نیک و صالح بندوں پر، میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود برحق نہیں، اور میں گواہی دیتا ہوں کہ محمد صلی اللہ علیہ وسلم اس کے بندے اور رسول ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (403)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>974</td></tr><tr><td>Arabic No</td><td>974</td></tr><tr><td>Reference</td><td>Book 2 Hadith 585</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (403) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 974 |
+| Arabic No | 974 |
+| Reference | Book 2 Hadith 585 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الرَّبِيعُ بْنُ نَافِعٍ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُهَاجِرِ، عَنِ الْعَبَّاسِ بْنِ سَالِمٍ، عَنْ أَبِي سَلاَّمٍ، عَنْ أَبِي أُمَامَةَ، عَنْ عَمْرِو بْنِ عَبَسَةَ السُّلَمِيِّ، أَنَّهُ قَالَ قُلْتُ يَا رَسُولَ اللَّهِ أَىُّ اللَّيْلِ أَسْمَعُ قَالَ ‏ "‏ جَوْفُ اللَّيْلِ الآخِرُ فَصَلِّ مَا شِئْتَ فَإِنَّ الصَّلاَةَ مَشْهُودَةٌ مَكْتُوبَةٌ حَتَّى تُصَلِّيَ الصُّبْحَ ثُمَّ أَقْصِرْ حَتَّى تَطْلُعَ الشَّمْسُ فَتَرْتَفِعَ قِيْسَ رُمْحٍ أَوْ رُمْحَيْنِ فَإِنَّهَا تَطْلُعُ بَيْنَ قَرْنَىْ شَيْطَانٍ وَتُصَلِّي لَهَا الْكُفَّارُ ثُمَّ صَلِّ مَا شِئْتَ فَإِنَّ الصَّلاَةَ مَشْهُودَةٌ مَكْتُوبَةٌ حَتَّى يَعْدِلَ الرُّمْحُ ظِلَّهُ ثُمَّ أَقْصِرْ فَإِنَّ جَهَنَّمَ تُسْجَرُ وَتُفْتَحُ أَبْوَابُهَا فَإِذَا زَاغَتِ الشَّمْسُ فَصَلِّ مَا شِئْتَ فَإِنَّ الصَّلاَةَ مَشْهُودَةٌ حَتَّى تُصَلِّيَ الْعَصْرَ ثُمَّ أَقْصِرْ حَتَّى تَغْرُبَ الشَّمْسُ فَإِنَّهَا تَغْرُبُ بَيْنَ قَرْنَىْ شَيْطَانٍ وَيُصَلِّي لَهَا الْكُفَّارُ ‏"‏ ‏.‏ وَقَصَّ حَدِيثًا طَوِيلاً قَالَ الْعَبَّاسُ هَكَذَا حَدَّثَنِي أَبُو سَلاَّمٍ عَنْ أَبِي أُمَامَةَ إِلاَّ أَنْ أُخْطِئَ شَيْئًا لاَ أُرِيدُهُ فَأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
+
 حدثنا الربيع بن نافع، حدثنا محمد بن المهاجر، عن العباس بن سالم، عن ابي سلام، عن ابي امامة، عن عمرو بن عبسة السلمي، انه قال قلت يا رسول الله اى الليل اسمع قال " جوف الليل الاخر فصل ما شيت فان الصلاة مشهودة مكتوبة حتى تصلي الصبح ثم اقصر حتى تطلع الشمس فترتفع قيس رمح او رمحين فانها تطلع بين قرنى شيطان وتصلي لها الكفار ثم صل ما شيت فان الصلاة مشهودة مكتوبة حتى يعدل الرمح ظله ثم اقصر فان جهنم تسجر وتفتح ابوابها فاذا زاغت الشمس فصل ما شيت فان الصلاة مشهودة حتى تصلي العصر ثم اقصر حتى تغرب الشمس فانها تغرب بين قرنى شيطان ويصلي لها الكفار " . وقص حديثا طويلا قال العباس هكذا حدثني ابو سلام عن ابي امامة الا ان اخطي شييا لا اريده فاستغفر الله واتوب اليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
 
 ## Bengali
 
+। ‘আমর ইবনু আনবাসাহ আস-সুলামী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর রসূল! রাতের কোন অংশ অধিক শ্রবণীয় (অর্থাৎ আল্লাহ দু‘আ বেশি কবুল করেন)? তিনি বলেনঃ রাতের শেষাংশ, এ সময় যতটুকু ইচ্ছা সালাত আদায় করবে। কেননা এ সময়ে মালায়িকাহ (ফিরিশতাগণ) এসে ফজরের সালাত শেষ হওয়া পর্যন্ত উপস্থিত থাকেন এবং লিপিবদ্ধ করেন। অতঃপর সূর্য উঠা পর্যন্ত সালাত হতে বিরত থাকবে, যতক্ষণ না তা এক কিংবা দুই তীর পরিমাণ উপরে উঠে। কারণ সূর্য উদিত হয় শয়তানের দুই শিংয়ের মধ্য দিয়ে। আর কাফিররা এ সময় তার পূজা করে থাকে। এরপর তীরের ছায়া ঠিক থাকা (দ্বি প্রহরের পূর্ব) পর্যন্ত যত ইচ্ছা সালাত আদায় করবে, এ সময়ের সালাত সম্পর্কে ফিরিশতাগণ সাক্ষ্য দিয়ে থাকেন এবং তা লিপিবদ্ধ করেন। অতঃপর সালাত হতে বিরত থাকবে, কেননা এ সময় জাহান্নাম উত্তপ্ত করা হয় এবং তার সমস্ত দরজা খুলে দেয়া হয়। যখন সূর্য পশ্চিমাকাশে হেলে পড়বে তখন যত ইচ্ছা সালাত আদায় করবে, কেননা ‘আসরের সালাত পর্যন্ত এ সময়ের মধ্যকার সালাত সম্পর্কে সাক্ষ্য দেয়া হয়। অতঃপর সূর্য অস্ত যাওয়া পর্যন্ত সালাত হতে বিরত থাকবে, কেননা তা শয়তানের দুই শিংয়ের মধ্য দিয়ে অস্ত যায় এবং এ সময় কাফিররা তার উপাসনা করে থাকে। অতঃপর বর্ণনাকারী এ বিষয়ে দীর্ঘ হাদীস বর্ণনা করেন।\[1\] আল-‘আব্বাস (রহঃ) বলেন, আবূ উমামাহ (রাঃ) হতে আবূ সাল্লাম (রহঃ) আমার কাছে অনুরূপ হাদীস বর্ণনা করেছেন। তবে তাতে আমি অনিচ্ছাকৃত কিছু ভুল করেছি, সেজন্যে আমি আল্লাহর কাছে ক্ষমা চাই এবং তাঁরই কাছে তওবা করি। সহীহ : মুসলিম, এ বাক্য বাদে (جوف الليل)।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আমর ইবনু আনবাসাহ আস-সুলামী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর রসূল! রাতের কোন অংশ অধিক শ্রবণীয় (অর্থাৎ আল্লাহ দু‘আ বেশি কবুল করেন)? তিনি বলেনঃ রাতের শেষাংশ, এ সময় যতটুকু ইচ্ছা সালাত আদায় করবে। কেননা এ সময়ে মালায়িকাহ (ফিরিশতাগণ) এসে ফজরের সালাত শেষ হওয়া পর্যন্ত উপস্থিত থাকেন এবং লিপিবদ্ধ করেন। অতঃপর সূর্য উঠা পর্যন্ত সালাত হতে বিরত থাকবে, যতক্ষণ না তা এক কিংবা দুই তীর পরিমাণ উপরে উঠে। কারণ সূর্য উদিত হয় শয়তানের দুই শিংয়ের মধ্য দিয়ে। আর কাফিররা এ সময় তার পূজা করে থাকে। এরপর তীরের ছায়া ঠিক থাকা (দ্বি প্রহরের পূর্ব) পর্যন্ত যত ইচ্ছা সালাত আদায় করবে, এ সময়ের সালাত সম্পর্কে ফিরিশতাগণ সাক্ষ্য দিয়ে থাকেন এবং তা লিপিবদ্ধ করেন। অতঃপর সালাত হতে বিরত থাকবে, কেননা এ সময় জাহান্নাম উত্তপ্ত করা হয় এবং তার সমস্ত দরজা খুলে দেয়া হয়। যখন সূর্য পশ্চিমাকাশে হেলে পড়বে তখন যত ইচ্ছা সালাত আদায় করবে, কেননা ‘আসরের সালাত পর্যন্ত এ সময়ের মধ্যকার সালাত সম্পর্কে সাক্ষ্য দেয়া হয়। অতঃপর সূর্য অস্ত যাওয়া পর্যন্ত সালাত হতে বিরত থাকবে, কেননা তা শয়তানের দুই শিংয়ের মধ্য দিয়ে অস্ত যায় এবং এ সময় কাফিররা তার উপাসনা করে থাকে। অতঃপর বর্ণনাকারী এ বিষয়ে দীর্ঘ হাদীস বর্ণনা করেন।[1] আল-‘আব্বাস (রহঃ) বলেন, আবূ উমামাহ (রাঃ) হতে আবূ সাল্লাম (রহঃ) আমার কাছে অনুরূপ হাদীস বর্ণনা করেছেন। তবে তাতে আমি অনিচ্ছাকৃত কিছু ভুল করেছি, সেজন্যে আমি আল্লাহর কাছে ক্ষমা চাই এবং তাঁরই কাছে তওবা করি। সহীহ : মুসলিম, এ বাক্য বাদে (جوف الليل)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Amr ibn Anbasah as-Sulami: I asked: Messenger of Allah, in which part of night the supplication is more likely to be accepted? He replied: In the last part: Pray as much as you like, for the prayer is attended by the angels and it is recorded till you offer the dawn prayer; then stop praying when the sun is rising till it has reached the height of one or two lances, for it rises between the two horns of the Devil, and the infidels offer prayer for it (at that time). Then pray as much as you like, because the prayer is witnessed and recorded till the shadow of a lance be- comes equal to it. Then cease prayer, for at that time the Hell-fire is heated up and doors of Hell are opened. When the sun declines, pray as much as you like, for the prayer is witnessed till you pray the afternoon prayer; then cease prayer till the sun sets, for it sets between the horns of the Devil, and (at that time) the infidels offer prayer for it. He narrated a lengthy tradition. Abbas said: AbuSalam narrated this tradition in a similar manner from AbuUmamah. If I have made a mistake unintentionally, I beg pardon of Allah and repent to Him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
+
+## French
+
+Rapporté par Amr ibn Anbasah as-Sulami رضي الله عنه : J’ai demandé : « Ô Messager d’Allah, à quel moment de la nuit l’invocation a-t-elle le plus de chances d’être exaucée ? » Il a répondu : « Dans la dernière partie de la nuit. Prie autant que tu veux, car la prière est accompagnée par les anges et elle est inscrite jusqu’à ce que tu accomplisses la prière de l’aube. Ensuite, arrête-toi de prier pendant que le soleil se lève, jusqu’à ce qu’il atteigne la hauteur d’une ou deux lances, car il se lève entre les deux cornes du Diable, et les mécréants prient pour lui à ce moment-là. Puis prie autant que tu veux, car la prière est observée et enregistrée jusqu’à ce que l’ombre d’une lance soit égale à sa longueur. Ensuite, cesse de prier, car à ce moment-là, le Feu de l’Enfer est attisé et les portes de l’Enfer sont ouvertes. Lorsque le soleil décline, prie autant que tu veux, car la prière est observée jusqu’à la prière de l’après-midi. Ensuite, cesse de prier jusqu’à ce que le soleil se couche, car il se couche entre les cornes du Diable, et à ce moment-là, les mécréants prient pour lui. » Il a rapporté un long récit. Abbas a dit : AbuSalam a rapporté ce récit de façon similaire d’AbuUmamah. Si j’ai commis une erreur sans le vouloir, je demande pardon à Allah et je me repens auprès de Lui
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ar Rabi' bin Nafi'\] telah menceritakan kepada kami \[Muhammad bin Al Muhajir\] dari \[Al 'Abbas bin Salim\] dari \[Abu Salam\] dari \[Abu Umamah\] dari \['Amru bin 'Abasah As Sulami\] bahwa dia berkata; aku bertanya; "Wahai Rasulullah, pada malam hari yang manakah yang paling di dengar (mustajab)?" beliau bersabda: "Di tengah malam yang terakhir, maka shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena sesungguhnya shalat (pada waktu itu) di saksikan (oleh para malaikat) dan di catat (pahalanya) sampai kamu shalat shubuh, setelah itu, berhentilah sampai matahari terbit dan meninggi sampai seukuran satu atau dua tombak, karena sesungguhnya (antara waktu itu) bertepatan dengan keluarnya tanduk setan dan orang-orang kafir sembahyang kepadanya. Setelah itu, shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena pada waktu itu, shalat di saksikan (oleh para Malaikat) dan di catat (pahalanya), sehingga tombak sama lurus dengan bayangannya, kemudian berhentilah (sejenak) karena sesungguhnya neraka Jahannam di nyalakan dan semua pintu-pintunya di buka, dan apabila matahari mulai condong (ke barat), Setelah itu, shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena pada waktu itu, shalat di saksikan (oleh para Malaikat) dan di catat (pahalanya), sampai kamu mengerjakan shalat Ashar, setelah itu berhentilah sampai matahari terbenam, karena (waktu itu) bertepatan dengan terbenamnya kedua tanduk syetan dan orang-orang kafir sembahyang kepadanya…" selanjutnya Perawi menceritakan hadits yang panjang." Abbas berkata; Demikianlah Abu Salam menuturkan haditsnya kepadaku dari Abu Umamah, kecuali kalau ada kesalahan sedikit yang tidak aku sengaja, maka aku meminta ampun kepada Allah dan bertaubat kepada-Nya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ar Rabi' bin Nafi'] telah menceritakan kepada kami [Muhammad bin Al Muhajir] dari [Al 'Abbas bin Salim] dari [Abu Salam] dari [Abu Umamah] dari ['Amru bin 'Abasah As Sulami] bahwa dia berkata; aku bertanya; "Wahai Rasulullah, pada malam hari yang manakah yang paling di dengar (mustajab)?" beliau bersabda: "Di tengah malam yang terakhir, maka shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena sesungguhnya shalat (pada waktu itu) di saksikan (oleh para malaikat) dan di catat (pahalanya) sampai kamu shalat shubuh, setelah itu, berhentilah sampai matahari terbit dan meninggi sampai seukuran satu atau dua tombak, karena sesungguhnya (antara waktu itu) bertepatan dengan keluarnya tanduk setan dan orang-orang kafir sembahyang kepadanya. Setelah itu, shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena pada waktu itu, shalat di saksikan (oleh para Malaikat) dan di catat (pahalanya), sehingga tombak sama lurus dengan bayangannya, kemudian berhentilah (sejenak) karena sesungguhnya neraka Jahannam di nyalakan dan semua pintu-pintunya di buka, dan apabila matahari mulai condong (ke barat), Setelah itu, shalatlah kamu dengan shalat apa saja yang kamu kehendaki, karena pada waktu itu, shalat di saksikan (oleh para Malaikat) dan di catat (pahalanya), sampai kamu mengerjakan shalat Ashar, setelah itu berhentilah sampai matahari terbenam, karena (waktu itu) bertepatan dengan terbenamnya kedua tanduk syetan dan orang-orang kafir sembahyang kepadanya…" selanjutnya Perawi menceritakan hadits yang panjang." Abbas berkata; Demikianlah Abu Salam menuturkan haditsnya kepadaku dari Abu Umamah, kecuali kalau ada kesalahan sedikit yang tidak aku sengaja, maka aku meminta ampun kepada Allah dan bertaubat kepada-Nya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Амра ибн ‘Абасы ас-Сулями, да будет доволен им Аллах: «Я сказал: “О Посланник Аллаха, в какую часть ночи больше надежды получить ответ на мольбу?” Он сказал: “В последнюю её часть. Молись, сколько хочешь, и у молитвы твоей будут свидетели, и она будет записываться до утренней молитвы, а потом не молись до тех пор, пока солнце не взойдёт и не поднимется над горизонтом на высоту копья или двух копий, ибо, поистине, восходит оно между рогов шайтана, и в это время (солнцу) молятся неверующие. А после этого можешь молиться и у молитвы твоей будут свидетели, и она будет записываться до тех пор, пока тень от копья не станет равна длине самого копья. С этого момента воздерживайся от молитвы, ибо в это время в Геенне разжигают пламя и открывают её врата. А когда солнце отклонится от точки зенита, можешь молиться снова и у молитвы твоей будут свидетели, и она будет записываться до тех пор, пока не совершишь послеполуденную молитву. А после неё снова воздержись от молитв до тех пор, пока не зайдёт солнце, ибо, поистине, садится оно между рогов шайтана, и в это время (солнцу) молятся неверующие”». И он передал длинный хадис. Аль-‘Аббас сказал: «Так передал его мне Абу Саллям от Абу Умамы, за исключением того, в чём я невольно ошибся, и я прошу у Аллаха прощения за это и приношу Ему покаяние»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr b. Abese'den; demiştir ki: Ben (Resûl-i Ekrem'e hitaben): "Ey Allah'ın Resulü, gecenin hangi saatinde (ibadet ve) dua daha çok makbuldür?" dedim. (O şöyle) cevab verdi: "Gecenin son vaktinde. Sabah namazını kılıncaya kadar ve istediğin (nâfiley)'i kıl. Çünkü (bu vakitte kılınan) namaz şahitlidir, (ve sevabı) yazılmıştır. (Sabah namazını kıldıktan) sonra, güneş doğup da bir veya iki mızrak boyu yükselinceye kadar (namaz kılmayı) bırak. Çünkü güneş şeytanın boynuzları arasından doğar ve kâfirler güneşe (o saatte) tapınırlar. Sonra mızrak gölgesiyle bir oluncaya kadar ve istediğin kadar kıl. Çünkü (bu saate kadar kılınan) namaz şahitlidir (ve sevabı) yazılmıştır. Mızrak gölgesiyle bir olduktan sonra namazı bırak. (Çünkü o saatte) cehennem kızdırılır ve kapıları açılır. Güneş (batıya) meyledince ikindi namazını kıhncaya kadar (ve) istediğin (nafiley)i kıl. Çünkü bu (saatte kılınan) namaz şahidlidir. (İkindi namazından) sonra güneş batıncaya kadar namazı bırak. Çünkü (güneş) şeytanın boynuzları arasında batar ve kâfirler ona (o saatte) tapınırlar." (Ebû Dâvûd dedi ki) ve (şeyhim bana) uzunca bir hadis nakletti. el-Abbâs (b. Sâlity) dedi ki: "Ebû Sellâm da sana Ebü Ümame'den buna benzer şeyler nakletti. Ancak (ben naklederken belki) istemeye­rek bazı hatalar yapıyorum: A ilah 'dan af diliyorum ve ona tevbe edi­yorum." Diğer tahric: Buhari, bedu'l-halk, Müslim, müsâfirîn; mesacid; Nesâî, mevâkît; İbn Mâce, ikâme ; Muvatta', Kur'ân; Ahmed b. Hanbel, II, 13, 19f 24, 86, 106,210,223, 111, 348, 393, IV, 111, 112, 223f 348, 349, 385; V, 15,20, 190,216, 260, VI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمرو بن عبسہ سلمی رضی اللہ عنہ کہتے ہیں کہ میں نے عرض کیا: اللہ کے رسول! رات کے کس حصے میں دعا زیادہ قبول ہوتی ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: رات کے آخری حصے میں، اس وقت جتنی نماز چاہو پڑھو، اس لیے کہ ان میں فرشتے حاضر ہوتے ہیں اور فجر پڑھنے تک ( ثواب ) لکھے جاتے ہیں، اس کے بعد سورج نکلنے تک رک جاؤ یہاں تک کہ وہ ایک یا دو نیزے کے برابر بلند ہو جائے، اس لیے کہ سورج شیطان کی دو سینگوں کے درمیان نکلتا ہے اور کافر ( سورج کے پجاری ) اس وقت اس کی پوجا کرتے ہیں، پھر تم جتنی نماز چاہو پڑھو، اس لیے کہ اس نماز میں فرشتے حاضر ہوتے ہیں اور ( ثواب ) لکھے جاتے ہیں، یہاں تک کہ جب نیزے کا سایہ اس کے برابر ہو جائے تو ٹھہر جاؤ، اس لیے کہ اس وقت جہنم دہکائی جاتی ہے اور اس کے دروازے کھول دیئے جاتے ہیں، پھر جب سورج ڈھل جائے تو تم جتنی نماز چاہو پڑھو، اس لیے کہ اس وقت بھی فرشتے حاضر ہوتے ہیں، یہاں تک کہ تم عصر پڑھ لو تو سورج ڈوبنے تک ٹھہر جاؤ، اس لیے کہ وہ شیطان کی دو سینگوں کے بیچ ڈوبتا ہے، اور کافر اس کی پوجا کرتے ہیں ، انہوں نے ایک لمبی حدیث بیان کی۔ عباس کہتے ہیں: ابوسلام نے اسی طرح مجھ سے ابوامامہ کے واسطہ سے بیان کیا ہے، البتہ نادانستہ مجھ سے جو بھول ہو گئی ہو تو اس کے لیے میں اللہ سے مغفرت طلب کرتا ہوں اور اس کی طرف رجوع ہوتا ہوں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1277</td></tr><tr><td>Arabic No</td><td>1277</td></tr><tr><td>Reference</td><td>Book 5 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1277 |
+| Arabic No | 1277 |
+| Reference | Book 5 Hadith 28 |

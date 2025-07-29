@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ، عَنْ شُعْبَةَ، ك ف ر ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
+
 حدثنا محمد بن المثنى، عن محمد بن جعفر، عن شعبة، ك ف ر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু মুসান্না, মুহাম্মাদ ইবনু জা‘ফার থেকে শু‘বাহ (রহঃ) সূত্রে (কাফ), (ফা), (রা), এভাবে উল্লেখ রয়েছে। আমি এটি সহীহ এবং যঈফেও পাইনি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Shu’bah said in his version:“the letters k, f, r” (are on his forehead)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
+
+## French
+
+Shu‘bah a précisé dans sa version : « Les lettres k, f, r (kafir) sont sur son front. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В другой версии от Шу‘бы говорится, что надпись будет состоять из букв «к-ф-р»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed b. el-Müsenna, Muhammed b. Cafer'den o da Şu'be'den (Deccal'in iki gözü arasında) " Ke fe re" yazılı olduğunu haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعبہ سے ک ف ر مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4317</td></tr><tr><td>Arabic No</td><td>4317</td></tr><tr><td>Reference</td><td>Book 39 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4317 |
+| Arabic No | 4317 |
+| Reference | Book 39 Hadith 27 |

@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## French
 
+Rapporté par Muhammad bin Abd Allah bin Quhzādh : Alī bin Husayn bin Wāqid m’a informé, il a dit qu’Abd Allah bin al-Mubārak a dit : « J’ai dit à Sufyān ath-Thawrī : “En effet, Abbād bin Kathīr, dont tu connais la situation, lorsqu’il rapportait…” » Il a dit : « Quand j’étais dans une assemblée et qu’on mentionnait Abbād, je faisais son éloge pour sa religion mais je disais : “Ne prenez pas de hadith de lui.” » Muhammad a dit : Abd Allah bin Uthmān nous a rapporté, il a dit, mon père a dit, Abd Allah bin al-Mubārak a dit : « Je me suis retrouvé dans une assemblée de Shu’bah, et il a dit : “Voici Abbād bin Kathīr, alors méfiez-vous de lui.” »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Merv halkından Muhammed b. Abdillâh b. Kuhzâz da rivâyet etti. ki: Bana Adlî b. Hüseyn b. Vâkıd haber verdi. ki: b. el-Mubârek şunları söyledi: Süfyan-ı Sevrî'ye- dedim ki: Şüphesiz Abbâd b. Kesîr, hâlini (zayıf olduğunu) bildiğin bir kimsedir. Hadîs rivâyet ettiği zaman yüksekten atar. Şu halde halka: ondan hadîs almayın, dememi münasib görür müsün?» Süfyan: Hay hay!, cevabını verdi. Abdullah dedi ki: zamandan beri, bulunduğum bir meclisde Abbâd'in sözü geçti mi, dîni hususunda onu över; fakat: ondan hadîs almayın derim.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمیں شبابہ نے بتایا ، کہا : شعبہ نے کہا : میں شہر سے ملا لیکن ( روایت حدیث کے حوالے سے ) میں نے انہیں اہمیت نہ دی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>37</td></tr><tr><td>Reference</td><td>Book 0 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 37 |
+| Reference | Book 0 Hadith 37 |

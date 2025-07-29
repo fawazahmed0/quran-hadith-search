@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُتَوَكِّلِ الْعَسْقَلاَنِيُّ، وَسَلَمَةُ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ مَعْمَرٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ عِكْرِمَةَ، عَنْ عَبْدِ اللَّهِ بْنِ رَافِعٍ، عَنِ الْحَجَّاجِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ كُسِرَ أَوْ عَرِجَ أَوْ مَرِضَ ‏"‏ ‏.‏ فَذَكَرَ مَعْنَاهُ ‏.‏ قَالَ سَلَمَةُ بْنُ شَبِيبٍ قَالَ أَنَا مَعْمَرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
+
 حدثنا محمد بن المتوكل العسقلاني، وسلمة، قالا حدثنا عبد الرزاق، عن معمر، عن يحيى بن ابي كثير، عن عكرمة، عن عبد الله بن رافع، عن الحجاج بن عمرو، عن النبي صلى الله عليه وسلم قال " من كسر او عرج او مرض " . فذكر معناه . قال سلمة بن شبيب قال انا معمر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
 
 ## Bengali
 
+। আল-হাজ্জাজ ইবনু ‘আমর (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কারো পা ভেঙ্গে গেলে অথবা খোঁড়া হয়ে গেলে অথবা ব্যাধিগ্রস্ত হলে ... অতঃপর পূর্ববর্তী হাদীসের অর্থানুযায়ী বর্ণিত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-হাজ্জাজ ইবনু ‘আমর (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কারো পা ভেঙ্গে গেলে অথবা খোঁড়া হয়ে গেলে অথবা ব্যাধিগ্রস্ত হলে ... অতঃপর পূর্ববর্তী হাদীসের অর্থানুযায়ী বর্ণিত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated al-Hajjaj ibn Amr: The Prophet (ﷺ) said: If anyone breaks (a leg) or becomes lame or falls ill. He then narrated the tradition to the same effect. The narrator Salamah ibn Shabib said: Ma'mar narrated (this tradition) to us
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
+
+## French
+
+Rapporté par al-Hajjaj ibn Amr : Le Prophète ﷺ a dit : « Si quelqu’un se casse une jambe, devient boiteux ou tombe malade… » Il a ensuite raconté le récit dans le même sens. Le rapporteur Salamah ibn Shabib a dit : Ma’mar nous a transmis ce récit
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В другой версии аль-Хаджжаджа ибн ‘Амра от Пророка ﷺ говорится: «Кто сломал что-то или охромел или заболел…». И он передал подобный хадис
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Haccâc b. Amr'dan, Nebi (S.A.V.)'in; “Kim(in bir tarafı) kırılır, veya ayağı sakatlanır veya hastalanırsa..." buyurduğu rivayet edilmiş (ve Ma'mer bir önceki (1862.) hadisin) manasını nakletmiştir. (Râvi) Seleme b. Şebîb, (Abdurrezzak'ın); "Enbeenâ Ma'mer" bize Ma'mer haber verdi" tabirini kullandığını söyledi. Şunlar da rivayet etti: Tirmizî, hac; Nesâî, menâsik; İbn Mâce, menâsik; Dârimî menâsik; Ahmed b. Hanbel, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حجاج بن عمرو رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جس شخص کی ہڈی ٹوٹ جائے یا لنگڑا ہو جائے یا بیمار ہو جائے ، پھر راوی نے اسی مفہوم کی حدیث ذکر کی، سلمہ بن شبیب نے «عن معمر» کے بجائے «أنبأنا معمر» کہا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1863</td></tr><tr><td>Arabic No</td><td>1863</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1863 |
+| Arabic No | 1863 |
+| Reference | Book 11 Hadith 143 |

@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الأَنْصَارِيُّ، حَدَّثَنَا هِشَامُ بْنُ حَسَّانَ، حَدَّثَنَا حُمَيْدُ بْنُ هِلاَلٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الأَعْلَى، - وَهَذَا حَدِيثُهُ - حَدَّثَنَا هِشَامٌ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، قَالَ - وَلاَ أَعْلَمُهُ إِلاَّ عَنْ أَبِي بُرْدَةَ، - عَنْ أَبِي مُوسَى، قَالَ اخْتَلَفَ فِي ذَلِكَ رَهْطٌ مِنَ الْمُهَاجِرِينَ وَالأَنْصَارِ فَقَالَ الأَنْصَارِيُّونَ لاَ يَجِبُ الْغُسْلُ إِلاَّ مِنَ الدَّفْقِ أَوْ مِنَ الْمَاءِ ‏.‏ وَقَالَ الْمُهَاجِرُونَ بَلْ إِذَا خَالَطَ فَقَدْ وَجَبَ الْغُسْلُ ‏.‏ قَالَ قَالَ أَبُو مُوسَى فَأَنَا أَشْفِيكُمْ مِنْ ذَلِكَ ‏.‏ فَقُمْتُ فَاسْتَأْذَنْتُ عَلَى عَائِشَةَ فَأُذِنَ لِي فَقُلْتُ لَهَا يَا أُمَّاهْ - أَوْ يَا أُمَّ الْمُؤْمِنِينَ - إِنِّي أُرِيدُ أَنْ أَسْأَلَكِ عَنْ شَىْءٍ وَإِنِّي أَسْتَحْيِيكِ ‏.‏ فَقَالَتْ لاَ تَسْتَحْيِي أَنْ تَسْأَلَنِي عَمَّا كُنْتَ سَائِلاً عَنْهُ أُمَّكَ الَّتِي وَلَدَتْكَ فَإِنَّمَا أَنَا أُمُّكَ ‏.‏ قُلْتُ فَمَا يُوجِبُ الْغُسْلَ قَالَتْ عَلَى الْخَبِيرِ سَقَطْتَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا جَلَسَ بَيْنَ شُعَبِهَا الأَرْبَعِ وَمَسَّ الْخِتَانُ الْخِتَانَ فَقَدْ وَجَبَ الْغُسْلُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا محمد بن المثنى، حدثنا محمد بن عبد الله الانصاري، حدثنا هشام بن حسان، حدثنا حميد بن هلال، عن ابي بردة، عن ابي موسى الاشعري، ح وحدثنا محمد بن المثنى، حدثنا عبد الاعلى، - وهذا حديثه - حدثنا هشام، عن حميد بن هلال، قال - ولا اعلمه الا عن ابي بردة، - عن ابي موسى، قال اختلف في ذلك رهط من المهاجرين والانصار فقال الانصاريون لا يجب الغسل الا من الدفق او من الماء . وقال المهاجرون بل اذا خالط فقد وجب الغسل . قال قال ابو موسى فانا اشفيكم من ذلك . فقمت فاستاذنت على عايشة فاذن لي فقلت لها يا اماه - او يا ام المومنين - اني اريد ان اسالك عن شىء واني استحييك . فقالت لا تستحيي ان تسالني عما كنت سايلا عنه امك التي ولدتك فانما انا امك . قلت فما يوجب الغسل قالت على الخبير سقطت قال رسول الله صلى الله عليه وسلم " اذا جلس بين شعبها الاربع ومس الختان الختان فقد وجب الغسل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু আল মুসান্না (রহঃ) ..... আবূ মূসা আশ'আরী (রাযিঃ) হতে বর্ণিত। তিনি বলেন, মুহাজির ও আনসারদের একটি দল এ ব্যাপারে মতবিরোধ করল। আনসারগণ বলল, জোরে অথবা স্বাভাবিক গতিতে পানি (বীর্য) বের না হলে গোসল ফরয হয় না। আর মুহাজিরগণ বলল, স্ত্রীর সঙ্গে শুধু মিললেই গোসল ফরয (বীর্য বের হোক বা না হোক) আবূ মূসা (রাযিঃ) বললেন, আমি এ ব্যাপারে তোমাদেরকে শান্ত করছি। এরপর আমি উঠে গিয়ে আয়িশাহ (রাযিঃ) এর কাছে (প্রবেশের) অনুমতি চাইলাম। আমাকে অনুমতি দেয়া হল। আমি তাকে বললাম, মা! অথবা (তিনি বলেছিলেন) হে মুমিনদের মা! আমি আপনার কাছে একটি বিষয়ে জিজ্ঞেস করতে চাই কিন্তু আমি লজ্জাবোধ করছি। তিনি বললেন, তুমি তোমার গর্ভধারিণী মাকে যে ব্যাপারে প্রশ্ন করতে পারতে সে ব্যাপারে আমাকে প্রশ্ন করতে লজ্জাবোধ করো না। আমি তো তোমার মা। আমি বললাম, গোসল কিসে ফরয হয়? তিনি বললেন, জানা-কোন লোকের কাছেই তুমি প্রশ্ন করেছ। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যখন কোন পুরুষ স্ত্রীর চার হাত-পায়ের মাঝখানে বসবে এবং একের লজ্জাস্থান অপরের লজ্জাস্থানের সাথে লাগবে তখন গোসল ফরয হবে। (ইসলামিক ফাউন্ডেশনঃ ৬৭৬, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Musa reported:There cropped up a difference of opinion between a group of Muhajirs (Emigrants and a group of Ansar (Helpers) (and the point of dispute was) that the Ansar said: The bath (because of sexual intercourse) becomes obligatory only-when the semen spurts out or ejaculates. But the Muhajirs said: When a man has sexual intercourse (with the woman), a bath becomes obligatory (no matter whether or not there is seminal emission or ejaculation). Abu Musa said: Well, I satisfy you on this (issue). He (Abu Musa, the narrator) said: I got up (and went) to 'A'isha and sought her permission and it was granted, and I said to her: 0 Mother, or Mother of the Faithful, I want to ask you about a matter on which I feel shy. She said: Don't feel shy of asking me about a thing which you can ask your mother, who gave you birth, for I am too your mother. Upon this I said: What makes a bath obligatory for a person? She replied: You have come across one well informed! The Messenger of Allah (ﷺ) said: When anyone sits amidst four parts (of the woman) and the circumcised parts touch each other a bath becomes obligatory
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## French
 
+Rapporté par Abu Musa : Il y a eu une divergence d’opinion entre un groupe de Mouhajiroun (émigrés) et un groupe d’Ansar (auxiliaires). Les Ansar disaient : « Le bain rituel (ghusl) après un rapport sexuel n’est obligatoire que si le sperme est émis. » Mais les Mouhajiroun disaient : « Dès qu’un homme a un rapport sexuel, le bain rituel devient obligatoire, qu’il y ait émission de sperme ou non. » Abu Musa dit : « Je vais vous apporter une réponse à ce sujet. » Il raconte : Je me suis levé et je suis allé voir ‘Aïsha رضي الله عنها, j’ai demandé la permission d’entrer et elle me l’a accordée. Je lui ai dit : « Ô mère, ou mère des croyants, je veux te poser une question sur un sujet qui me gêne. » Elle répondit : « N’aie pas honte de me demander ce que tu pourrais demander à ta propre mère, car je suis aussi ta mère. » J’ai alors demandé : « Qu’est-ce qui rend le bain rituel obligatoire ? » Elle répondit : « Tu t’adresses à quelqu’un qui connaît bien la question ! Le Messager d’Allah ﷺ a dit : “Quand quelqu’un s’assoit entre les quatre membres (de la femme) et que les parties intimes se touchent, le bain rituel devient obligatoire.” »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## Indonesian
 
+Dan telah menceritakan kepada kami \[Muhammad bin al-Mutsanna\] telah menceritakan kepada kami \[Muhammad bin Abdullah al-Anshari\] telah menceritakan kepada kami \[Hisyam bin Hassan\] telah menceritakan kepada kami \[Humaid bin Hilal\] dari \[Abu Burdah\] dari \[Abu Musa al-Asy'ari\] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami \[Muhammad bin al-Mutsanna\] telah menceritakan kepada kami \[Abdul A'la\] dan ini adalah haditsnya, Telah menceritakan kepada kami \[Hisyam\] dari \[Humaid bin Hilal\] dia berkata, "Dan saya tidak mengetahuinya melainkan dari riwayat \[Abu Burdah\] dari \[Abu Musa\] dia berkata, "Sejumlah Muhajirin dan Anshar berselisih dalam hal tersebut. Kaum Anshar berpendapat bahwa tidak wajib mandi kecuali disebabkan mengucurnya air mani atau keluarnya air mani. Sedangkan kaum Muhajirin berpendapat, 'Bahkan apabila seseorang telah mencampuri istrinya (sekalipun tidak keluar mani), maka dia telah wajib mandi.' Perawi berkata, "Abu Musa berkata, 'Aku adalah yang paling sehat dari pertikaian tersebut, lalu aku berdiri untuk meminta izin \[Aisyah\], lalu dia memberikanku izin. Lalu aku berkata kepadanya, 'Wahai ibu atau wahai Ummul Mukminin, sesungguhnya aku berkeinginan untuk menanyakan kepadamu tentang sesuatu, dan sungguh aku malu kepadamu.' Lalu dia berkata, 'Janganlah kamu malu untuk bertanya kepadaku tentang sesuatu yang kamu dahulu pernah bertanya kepada ibumu yang melahirkanmu. aku adalah ibumu.' Aku bertanya, 'Apa yang mewajibkan mandi? ' Dia menjawab, 'Sungguh telah kau temukan manusia arif terhadap pertanyaan yang kau ajukan, Rasulullah shallallahu 'alaihi wasallam bersabda, 'Apabila seorang laki-laki duduk di antara cabang empat wanita (maksudnya kedua paha dan kedua tangan) dan bertemulah kelamin laki-laki dengan kelamin wanita maka sungguh telah wajib mandi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Muhammad bin Abdullah al-Anshari] telah menceritakan kepada kami [Hisyam bin Hassan] telah menceritakan kepada kami [Humaid bin Hilal] dari [Abu Burdah] dari [Abu Musa al-Asy'ari] --lewat jalur periwayatan lain-- dan telah menceritakan kepada kami [Muhammad bin al-Mutsanna] telah menceritakan kepada kami [Abdul A'la] dan ini adalah haditsnya, Telah menceritakan kepada kami [Hisyam] dari [Humaid bin Hilal] dia berkata, "Dan saya tidak mengetahuinya melainkan dari riwayat [Abu Burdah] dari [Abu Musa] dia berkata, "Sejumlah Muhajirin dan Anshar berselisih dalam hal tersebut. Kaum Anshar berpendapat bahwa tidak wajib mandi kecuali disebabkan mengucurnya air mani atau keluarnya air mani. Sedangkan kaum Muhajirin berpendapat, 'Bahkan apabila seseorang telah mencampuri istrinya (sekalipun tidak keluar mani), maka dia telah wajib mandi.' Perawi berkata, "Abu Musa berkata, 'Aku adalah yang paling sehat dari pertikaian tersebut, lalu aku berdiri untuk meminta izin [Aisyah], lalu dia memberikanku izin. Lalu aku berkata kepadanya, 'Wahai ibu atau wahai Ummul Mukminin, sesungguhnya aku berkeinginan untuk menanyakan kepadamu tentang sesuatu, dan sungguh aku malu kepadamu.' Lalu dia berkata, 'Janganlah kamu malu untuk bertanya kepadaku tentang sesuatu yang kamu dahulu pernah bertanya kepada ibumu yang melahirkanmu. aku adalah ibumu.' Aku bertanya, 'Apa yang mewajibkan mandi? ' Dia menjawab, 'Sungguh telah kau temukan manusia arif terhadap pertanyaan yang kau ajukan, Rasulullah shallallahu 'alaihi wasallam bersabda, 'Apabila seorang laki-laki duduk di antara cabang empat wanita (maksudnya kedua paha dan kedua tangan) dan bertemulah kelamin laki-laki dengan kelamin wanita maka sungguh telah wajib mandi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Муса сказал: «Несколько человек из числа мухаджиров и ансаров разошлись во мнениях относительно этого (относительно того, в каких случаях необходимо совершать полное омовение). Ансары говорили: “Полное омовение следует совершать только в случае семяизвержения (или: для очищения от жидкости)”, тогда как мухаджиры утверждали, что делать это обязательно (в любом случае), если (половое сношение имело место)”».(Передатчик этого хадиса сообщил, что) Абу Муса сказал: «Я избавлю вас от этого (затруднения)». (Абу Муса сказал): «После этого я встал и попросил разрешения войти к ‘Аише. Когда меня впустили, я сказал ей: “О матушка (или: мать правоверных), я хочу спросить тебя об одной вещи, но стесняюсь”. Она сказала: “Не стесняйся спрашивать о том же, о чём ты спрашивал твою мать, которая родила тебя, ведь я (тоже) твоя мать”. Тогда я спросил: “В каких случаях полное омовение становится обязательным?” (‘Аиша) сказала: “Ты обратился к тому, кто хорошо знает (об этом). Посланник Аллаха ﷺ сказал: “После того, как (мужчина) усядется меж четырёх частей (тела женщины), и места обрезания соприкоснутся друг с другом, обязательно (следует) совершить полное омовение”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed b. el-Müsenna rivayet etti. (Dediki); Bize Muhammed b. Abdillah el Ensarı rivayet etti. (Dediki): Bize Hişam b. Hassan rivayet etti. (Dediki): Humeyd b. Hilal Ebu Bürde'den, o da Ebu Musa el-Eş'ari'den naklen rivayet etti. H. Bize yine Muhammed b. el-Müsenna rivayet ettj. (Dediki): Bize Abdül Â'la rivayet etti. Bu hadis onundur. (Dediki): Bize Hişam, Humeyd b. Hllal'den rivayet etti, o: Ebu Musa'dan demiş: Halbuki ben bu hadisin yalnız Ebu Bürde'de rivayet edildiğini bilirim. Ebu Musa şöyle demiş. Bu babta Muhacirlerle Ensar'dan bir cemaat ihtilaf ettiler. Ensar; «Gusl ancak deik'den yahut meniden dolayı lazım gelir, dediler Muhacirler ise: «Hayır, Cima' varmı? gusl vacibdir» mukabelesinde bulundular. Ravi diyorki, Ebu Musa şöyle dedi: «Ben sizi bu münakaşadan kurtarayım dedim ve kalkarak, Aişe'nin yanına girmek için izin istedim. Bana izin verildi. Aişe'ye dedim ki; Ey anneciğim; yahut ey müminlerin annesi! Ben sana birşey sormak istiyorum, ama senden de utanıyorum.» Aişe : «Seni doğuran annene sorabileceğin bîrşeyi bana sormaktan utanma; çünkü ben de senin annenim» dedi ben : «Öyle ise guslü icab eden nedir?» dedim Aişe : «Bilene rastladın; Resulullah (Sallallahu Aleyhi ve Sellem): «Erkek (kadının dört şu'besi arasına oturur da sünnet mahalli sünnet mahalline temas ederse gusl vacib olur.» buyurdular, dedi)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 دو مختلف سندوں کے ساتھ ابو بردہ کے حوالے سے ( ان کے والد ) حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ اس مسئلے میں مہاجرین اور انصار کے ایک گروہ نے اختلاف کیا ۔ انصار نے کہا : غسل صرف ( منی کے ) زور سے نکلنے یا پانی ( کے انزال ) سے فرض ہوتا ہے او رمہاجرین نے کہا : بلکہ جب اختلاط ہو تو غسل واجب ہو جاتا ہے ۔ ( ابو بردہ نے ) کہا : حضرت ابو موسیٰ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : میں تمہیں اس مسئلے سے چھٹکارا دلاتا ہوں ، میں اٹھا اور حضرت عائشہؓ کی خدمت میں حاضری کی اجازت طلب کی ، مجھے اجازت دے دی گئی تو میں نے کہا : میری ماں ، یا کہا : ام المؤمنین! میں آپ سے ایک چیز کے بارے میں پوچھنا چاہتا ھوں او رمجھے آپ سے شرم ( بھی ) آر ہی ہے ۔ تو انہوں نے کہا : جو بات تم اپنی اس ماں سے جس نے ( اپنے پیٹ سے ) تمہیں جنم دیا ، پوچھ سکتے تھے ، وہ مجھ سے پوچھناے میں شرم نہ کرو کیونکہ میں بھی تمہاری ماں ہوں ۔ میں نے کہا : تو کون سا ( کام ) غسل کو واجب کرتا ہے؟ انہوں نے کہا : تم ( اس مسئلے کے متعلق ) اس سے ملے ہو جو ( اس سے ) اچھی طرح باخبر ہے ۔ رسول اللہﷺ نے فرمایا : ’’جب وہ ( مرد ) اس ( عورت ) کی چا رشاخوں کے درمیان بیٹھا اور ختنے کی جگہ ختنے کی جگہ سے مَس ہوئی تمو غسل واجب ہو گیا ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>785</td></tr><tr><td>Arabic No</td><td>349</td></tr><tr><td>Reference</td><td>Book 3 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 785 |
+| Arabic No | 349 |
+| Reference | Book 3 Hadith 107 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَأَبُو كُرَيْبٍ قَالُوا حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي الزِّنَادِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو بكر بن ابي شيبة، وزهير بن حرب، وابو كريب قالوا حدثنا وكيع، عن سفيان، عن ابي الزناد، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও আবূ কুরায়ব (রহঃ) ..... আবূয যিনাদ (রহঃ) হতে উক্ত সানাদে অনুরূপ বর্ণিত হয়েছে। ইসলামিক ফাউন্ডেশন ৪৭৪০, ইসলামিক সেন্টার
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The same tradition has been narrated on the authority of Abu Zinad (with the same chain of transmitters)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## French
 
+Rapporté par Abu Zinad : Le même récit a été rapporté par Abu Zinad avec la même chaîne de transmission
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Ebu Bekir b, Ebî Şeybe ile Züheyr b. Harb ve Ebu Kureyb de rivayet ettiler. (Dedilerki): Bize Vekî', Süfyan'dan, o da Ebu'z-Zinad'dan bu isnadla bu hadîsin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وکیع نے سفیان سے ، انہوں نے ابوزناد سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4893</td></tr><tr><td>Arabic No</td><td>1890.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 189</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4893 |
+| Arabic No | 1890.02 |
+| Reference | Book 33 Hadith 189 |

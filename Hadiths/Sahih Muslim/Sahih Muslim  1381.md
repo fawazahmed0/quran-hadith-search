@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ عُرْوَةُ وَلَقَدْ حَدَّثَتْنِي عَائِشَةُ، زَوْجُ النَّبِيِّ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي الْعَصْرَ وَالشَّمْسُ فِي حُجْرَتِهَا قَبْلَ أَنْ تَظْهَرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قال عروة ولقد حدثتني عايشة، زوج النبي صلى الله عليه وسلم ان رسول الله صلى الله عليه وسلم كان يصلي العصر والشمس في حجرتها قبل ان تظهر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উরওয়াহ বললেনঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী আয়িশাহ (রাযিঃ) আমার কাছে বর্ণনা করেছেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এমন সময় আসরের সালাত আদায় করতেন যখন সূর্য কিরণ তার কামরার মধ্যে থাকত, তখনো তা দেয়ালের উপর উঠে যেত না। (ইসলামী ফাউন্ডেশন ১২৫৫, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Urwah (also) said:'A'isha?, the wife of the Apostle (ﷺ) narrated it to me that the Messenger of Allah (ﷺ) used to say the afternoon prayer, when the light of the sun was there in her apartment before it went out (of it)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## French
 
+Rapporté par ‘Urwa : Aïcha رضي الله عنها, l’épouse du Prophète ﷺ, m’a rapporté que le Messager d’Allah ﷺ accomplissait la prière de l’après-midi alors que la lumière du soleil entrait encore dans sa chambre, avant qu’elle ne disparaisse
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Урва сказал: «И ‘Аиша, жена Пророка ﷺ сообщила мне о том, что обычно, Посланник Аллаха ﷺ совершал послеполуденную молитву /‘аср/, когда солнце всё ещё заглядывало в её комнату, до того, как оно появлялось там (полностью)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Urve demiş ki: Vallahi Resulullah (Sallallahu Aleyhi ve Sellem) 'in ikindiyi, güneş Âişe'nin odasında iken, henüz oradan çıkmadan kılardığını bana zevcesi Âişe rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زہر ی سے امام مالک کی سابقہ سند ہی سے روایت ہے کہ عروہ نے کہاے : مجھے نبی اکرم ﷺ کی زوجہ حضرت عائشہ رضی اللہ تعالٰی عنہا نے بتایا کہ رسول اللہ ﷺ عصر کی نماز ( اس وقت ) پڑھتے کہ دھوپ ان کے حجرے میں ہوتی ، ( حجرے میں سے ) دھوپ باہر نکلنے سے پہلے ۔ ( مغربی دیوار کا سایہ حجرے کے دروازے تک نہ پہنچا ہوتا ۔)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1381</td></tr><tr><td>Arabic No</td><td>611.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 215</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1381 |
+| Arabic No | 611.01 |
+| Reference | Book 5 Hadith 215 |

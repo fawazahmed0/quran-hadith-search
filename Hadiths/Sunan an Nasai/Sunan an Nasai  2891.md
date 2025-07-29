@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ عَبْدَةَ، قَالَ أَنْبَأَنَا حَمَّادٌ، قَالَ حَدَّثَنَا هِشَامٌ، - وَهُوَ ابْنُ عُرْوَةَ - عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ خَمْسُ فَوَاسِقَ يُقْتَلْنَ فِي الْحَرَمِ الْعَقْرَبُ وَالْفَأْرَةُ وَالْغُرَابُ وَالْكَلْبُ الْعَقُورُ وَالْحِدَأَةُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 24 Hadith 274</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |
+
 اخبرنا احمد بن عبدة، قال انبانا حماد، قال حدثنا هشام، - وهو ابن عروة - عن ابيه، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم " خمس فواسق يقتلن في الحرم العقرب والفارة والغراب والكلب العقور والحداة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 24 Hadith 274</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমদ ইবন আবদা (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পাঁচ প্রকার অনিষ্টকারী জন্তু হারামে হত্যা করা যাবে। বিচ্ছু, ইদুর, কাক, দংশনকারী কুকুর এবং চিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 24 Hadith 274</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Aishah said:"The Messenger of Allah said: 'There are five kinds of vermin that may be killed in the Haram: Scorpions, mice, crows, vicious dogs, and kites." (Sahih) Chaper 120. The Prohibition Of Disturbing The Game Of The Haram
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 24 Hadith 274</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : Le Messager d’Allah a dit : "Il y a cinq sortes de nuisibles qu’on peut tuer dans le Haram : les scorpions, les souris, les corbeaux, les chiens dangereux et les milans." (Sahih)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin 'Abdah\], ia berkata; telah memberitakan kepada kami \[Hammad\], ia berkata; telah menceritakan kepada kami \[Hisyam yaitu Ibnu 'Urwah\] dari \[ayahnya\] dari \[Aisyah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Lima hewan pengganggu yang boleh dibunuh di tanah haram, yaitu Kalajengking, Tikus, Burung Gagak, Anjing buas, dan Burung Rajawali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin 'Abdah], ia berkata; telah memberitakan kepada kami [Hammad], ia berkata; telah menceritakan kepada kami [Hisyam yaitu Ibnu 'Urwah] dari [ayahnya] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Lima hewan pengganggu yang boleh dibunuh di tanah haram, yaitu Kalajengking, Tikus, Burung Gagak, Anjing buas, dan Burung Rajawali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 24 Hadith 274</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 24 Hadith 274</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”پانچ جانور فاسق ( موذی ) ہیں انہیں حرم میں ( بھی ) مارا جا سکتا ہے ( وہ ہیں ) : بچھو، چوہیا، کوا، کاٹ کھانے والا کتا اور چیل“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2891</td></tr><tr><td>Arabic No</td><td>2891</td></tr><tr><td>Reference</td><td>Book 24 Hadith 274</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2891 |
+| Arabic No | 2891 |
+| Reference | Book 24 Hadith 274 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ حَيْوَةَ، عَنْ أَبِي عُثْمَانَ الْوَلِيدِ بْنِ أَبِي الْوَلِيدِ، عَنْ عِمْرَانَ بْنِ أَبِي أَنَسٍ، عَنْ أَبِي خِرَاشٍ السُّلَمِيِّ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ مَنْ هَجَرَ أَخَاهُ سَنَةً فَهُوَ كَسَفْكِ دَمِهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
+
 حدثنا ابن السرح، حدثنا ابن وهب، عن حيوة، عن ابي عثمان الوليد بن ابي الوليد، عن عمران بن ابي انس، عن ابي خراش السلمي، انه سمع رسول الله صلى الله عليه وسلم يقول " من هجر اخاه سنة فهو كسفك دمه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
 
 ## Bengali
 
+। আবূ খিরাশ আস-সুলামী (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ যে তার ভাইয়ের সঙ্গে এক বছর সম্পর্ক ছিন্ন রাখলো সে যেন তাকে হত্যা করলো।\[1\] \[সহীহ\]
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ খিরাশ আস-সুলামী (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ যে তার ভাইয়ের সঙ্গে এক বছর সম্পর্ক ছিন্ন রাখলো সে যেন তাকে হত্যা করলো।[1] [সহীহ]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuKhirash as-Sulami: AbuKhirash heard the Messenger of Allah (ﷺ) say: If one keeps apart from his brother for a year, it is like shedding his blood
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
+
+## French
+
+Rapporté par Abu Khirash as-Sulami رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Si quelqu’un s’éloigne de son frère pendant un an, c’est comme s’il avait versé son sang. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu As Sarh\] berkata, telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Haiwah\] dari \[Abu Utsman Al Walid bin Abu Al Walid\] dari \[Imran bin Abu Anas\] dari \[Abu Khirasy As Sulami\] Bahwasanya ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendiamkan saudaranya selama satu tahun, maka sama dengan menumpahkan darahnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Haiwah] dari [Abu Utsman Al Walid bin Abu Al Walid] dari [Imran bin Abu Anas] dari [Abu Khirasy As Sulami] Bahwasanya ia pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa mendiamkan saudaranya selama satu tahun, maka sama dengan menumpahkan darahnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hıraş es-Sülemî'den (rivayet edildiğine göre); kendisi Resûlullah (s.a.v.)'i şöyle buyururken işitmiş: "(Müslüman) kardeşine bir sene küs duran kimse onun kanını dökmüş gibi (günah kazanmış) olur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو خراش سلمی رضی اللہ عنہ کہتے ہیں کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: جس نے اپنے بھائی سے ایک سال تک قطع تعلق رکھا تو یہ اس کے خون بہانے کی طرح ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4915</td></tr><tr><td>Arabic No</td><td>4915</td></tr><tr><td>Reference</td><td>Book 43 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4915 |
+| Arabic No | 4915 |
+| Reference | Book 43 Hadith 143 |

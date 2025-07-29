@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا خَالِدُ بْنُ الْحَارِثِ، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، أَنَّهُ ذَكَرَ أَنَّهُ سَمِعَ جُرَىَّ بْنَ كُلَيْبٍ، يُحَدِّثُ أَنَّهُ سَمِعَ عَلِيًّا، يُحَدِّثُ أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى أَنْ يُضَحَّى بِأَعْضَبِ الْقَرْنِ وَالأُذُنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |
+
 حدثنا حميد بن مسعدة، حدثنا خالد بن الحارث، حدثنا سعيد، عن قتادة، انه ذكر انه سمع جرى بن كليب، يحدث انه سمع عليا، يحدث ان رسول الله صلى الله عليه وسلم نهى ان يضحى باعضب القرن والاذن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আলী (রাঃ) বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিং ভাংগা ও কান কাটা পশু কোরবানী করতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Qatadah that he said that he heard Juray bin Kulaib narrate that he heard ‘Ali narrate that the Messenger of Allah (ﷺ) forbade sacrificing animals with broken horns and ears
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |
+
+## French
+
+Rapporté par Qatadah, qui a entendu Juray bin Kulaib rapporter qu’il a entendu ‘Ali dire : Le Messager d’Allah (ﷺ) a interdit de sacrifier des animaux ayant les cornes ou les oreilles cassées
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Humaid bin Mas'adah\] telah menceritakan kepada kami \[Khalid bin Al Harits\] telah menceritakan kepada kami \[Sa'id\] dari \[Qatadah\] dia menyebutkan bahwa dirinya pernah mendengar \[Jurayya bin Kulaib\] menceritakan bahwa dia mendengar \[Ali\] menceritakan, bahwa Rasulullah shallallahu 'alaihi wasallam melarang berkurban dengan hewan yang tanduk dan telinganya terpotong (cacat)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Humaid bin Mas'adah] telah menceritakan kepada kami [Khalid bin Al Harits] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dia menyebutkan bahwa dirinya pernah mendengar [Jurayya bin Kulaib] menceritakan bahwa dia mendengar [Ali] menceritakan, bahwa Rasulullah shallallahu 'alaihi wasallam melarang berkurban dengan hewan yang tanduk dan telinganya terpotong (cacat)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alî (r.a.)'den rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), boynuzunun veya kulağının yarısından fazlası kesilmiş olan hayvanı kurban etmeyi yasaklamıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سینگ ٹوٹے اور کن کٹے جانور کی قربانی سے منع فرمایا ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3145</td></tr><tr><td>Arabic No</td><td>3145</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3145 |
+| Arabic No | 3145 |
+| Reference | Book 26 Hadith 26 |

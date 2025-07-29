@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْحَرَّانِيُّ، حَدَّثَنَا مُحَمَّدٌ، - يَعْنِي ابْنَ سَلَمَةَ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ طَلْحَةَ بْنِ يَزِيدَ بْنِ رُكَانَةَ، عَنْ عُبَيْدِ اللَّهِ الْخَوْلاَنِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ دَخَلَ عَلَىَّ عَلِيٌّ - يَعْنِي ابْنَ أَبِي طَالِبٍ - وَقَدْ أَهْرَاقَ الْمَاءَ فَدَعَا بِوَضُوءٍ فَأَتَيْنَاهُ بِتَوْرٍ فِيهِ مَاءٌ حَتَّى وَضَعْنَاهُ بَيْنَ يَدَيْهِ فَقَالَ يَا ابْنَ عَبَّاسٍ أَلاَ أُرِيكَ كَيْفَ كَانَ يَتَوَضَّأُ رَسُولُ اللَّهِ صلى الله عليه وسلم قُلْتُ بَلَى ‏.‏ قَالَ فَأَصْغَى الإِنَاءَ عَلَى يَدِهِ فَغَسَلَهَا ثُمَّ أَدْخَلَ يَدَهُ الْيُمْنَى فَأَفْرَغَ بِهَا عَلَى الأُخْرَى ثُمَّ غَسَلَ كَفَّيْهِ ثُمَّ تَمَضْمَضَ وَاسْتَنْثَرَ ثُمَّ أَدْخَلَ يَدَيْهِ فِي الإِنَاءِ جَمِيعًا فَأَخَذَ بِهِمَا حَفْنَةً مِنْ مَاءٍ فَضَرَبَ بِهَا عَلَى وَجْهِهِ ثُمَّ أَلْقَمَ إِبْهَامَيْهِ مَا أَقْبَلَ مِنْ أُذُنَيْهِ ثُمَّ الثَّانِيَةَ ثُمَّ الثَّالِثَةَ مِثْلَ ذَلِكَ ثُمَّ أَخَذَ بِكَفِّهِ الْيُمْنَى قَبْضَةً مِنْ مَاءٍ فَصَبَّهَا عَلَى نَاصِيَتِهِ فَتَرَكَهَا تَسْتَنُّ عَلَى وَجْهِهِ ثُمَّ غَسَلَ ذِرَاعَيْهِ إِلَى الْمِرْفَقَيْنِ ثَلاَثًا ثَلاَثًا ثُمَّ مَسَحَ رَأْسَهُ وَظُهُورَ أُذُنَيْهِ ثُمَّ أَدْخَلَ يَدَيْهِ جَمِيعًا فَأَخَذَ حَفْنَةً مِنْ مَاءٍ فَضَرَبَ بِهَا عَلَى رِجْلِهِ وَفِيهَا النَّعْلُ فَفَتَلَهَا بِهَا ثُمَّ الأُخْرَى مِثْلَ ذَلِكَ ‏.‏ قَالَ قُلْتُ وَفِي النَّعْلَيْنِ قَالَ وَفِي النَّعْلَيْنِ ‏.‏ قَالَ قُلْتُ وَفِي النَّعْلَيْنِ قَالَ وَفِي النَّعْلَيْنِ ‏.‏ قَالَ قُلْتُ وَفِي النَّعْلَيْنِ قَالَ وَفِي النَّعْلَيْنِ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ ابْنِ جُرَيْجٍ عَنْ شَيْبَةَ يُشْبِهُ حَدِيثَ عَلِيٍّ لأَنَّهُ قَالَ فِيهِ حَجَّاجُ بْنُ مُحَمَّدٍ عَنِ ابْنِ جُرَيْجٍ وَمَسَحَ بِرَأْسِهِ مَرَّةً وَاحِدَةً ‏.‏ وَقَالَ ابْنُ وَهْبٍ فِيهِ عَنِ ابْنِ جُرَيْجٍ وَمَسَحَ بِرَأْسِهِ ثَلاَثًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
+
 حدثنا عبد العزيز بن يحيى الحراني، حدثنا محمد، - يعني ابن سلمة - عن محمد بن اسحاق، عن محمد بن طلحة بن يزيد بن ركانة، عن عبيد الله الخولاني، عن ابن عباس، قال دخل على علي - يعني ابن ابي طالب - وقد اهراق الماء فدعا بوضوء فاتيناه بتور فيه ماء حتى وضعناه بين يديه فقال يا ابن عباس الا اريك كيف كان يتوضا رسول الله صلى الله عليه وسلم قلت بلى . قال فاصغى الاناء على يده فغسلها ثم ادخل يده اليمنى فافرغ بها على الاخرى ثم غسل كفيه ثم تمضمض واستنثر ثم ادخل يديه في الاناء جميعا فاخذ بهما حفنة من ماء فضرب بها على وجهه ثم القم ابهاميه ما اقبل من اذنيه ثم الثانية ثم الثالثة مثل ذلك ثم اخذ بكفه اليمنى قبضة من ماء فصبها على ناصيته فتركها تستن على وجهه ثم غسل ذراعيه الى المرفقين ثلاثا ثلاثا ثم مسح راسه وظهور اذنيه ثم ادخل يديه جميعا فاخذ حفنة من ماء فضرب بها على رجله وفيها النعل ففتلها بها ثم الاخرى مثل ذلك . قال قلت وفي النعلين قال وفي النعلين . قال قلت وفي النعلين قال وفي النعلين . قال قلت وفي النعلين قال وفي النعلين . قال ابو داود وحديث ابن جريج عن شيبة يشبه حديث علي لانه قال فيه حجاج بن محمد عن ابن جريج ومسح براسه مرة واحدة . وقال ابن وهب فيه عن ابن جريج ومسح براسه ثلاثا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমার কাছে ‘আলী ইবনু আবূ তালিব (রাঃ) এলেন। তিনি ইস্তিঞ্জার কাজ সম্পন্ন করে অযুর পানি চাইলেন। আমরা একটি পাত্রে পানি এনে তাঁর সামনে রাখলাম। তিনি বললেন, হে ইবনু ‘আব্বাস! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিভাবে অযু করতেন তা কি তোমাকে দেখাব না? আমি বললাম, হ্যাঁ। ‘আলী (রাঃ) পাত্রটি কাঁত করে হাতে পানি ঢেলে হাত ধুলেন। এরপর ডান হাত কব্জি পর্যন্ত ধুলেন, কুলি করলেন, নাকে পানি দিলেন। এরপর উভয় হাত একত্রে পাত্রে ডুবিয়ে অঞ্জলি ভরে পানি নিয়ে মুখমন্ডলে নিক্ষেপ করলেন (ধুলেন)। তারপর উভয় বৃদ্ধাঙ্গুলি উভয় কানের সম্মুখভাগে (ভিতরে) ঘোরালেন, দ্বিতীয়বার এবং তৃতীয়বারও এরূপই করলেন। এরপর ডান হাতে এক অঞ্জলি পানি নিয়ে কপালে ঢেলে দিলেন, তা তাঁর মুখমন্ডলে গড়িয়ে পড়ছিল। এরপর তিনবার করে উভয় হাত কনুই পর্যন্ত ধুলেন, মাথা মাসাহ্ করলেন ও উভয় কানের পিঠ মাসাহ্ করলেন। এরপর উভয় হাত একত্রে পাত্রে ঢুকিয়ে পানি তুলে পায়ের উপর ঢাললেন, তখন তাঁর পায়ে ছিল জুতা। এরপর তিনি হাত দিয়ে পা ঘষলেন। অপর পায়েও অনুরূপ করলেন। ইবনু ‘আব্বাস (রাঃ) বলেন, জুতা পরিহিত অবস্থায় এরূপ করা হয়েছিল কি? তিনি বললেন, জুতা পরিহিত অবস্থায়ই। আমি বললাম, জুতা পরিহিত অবস্থায়? তিনি বললেন, জুতা পরিহিত অবস্থায়ই। আমি বললাম, জুতা পরিহিত অবস্থায়? তিনি বললেন, হ্যাঁ, জুতা পরিহিত অবস্থায়ই। হাসান। ইমাম আবূ দাউদ (রহঃ) বলেন, শায়বাহ হতে ইবনু জুরাইজ সূত্রে বর্ণিত হাদীস ‘আলী (রাঃ)-এর হাদীসের সাথে সামঞ্জস্যপূর্ণ। কারণ হাদীটির বক্তব্য হলোঃ তিনি একবার মাথা মাসাহ্ করেছেন। ইবনু ওয়াহ্‌ব হতে ইবনু জুরাইজ সূত্রে বর্ণিত হাদীস রয়েছেঃ তিনি মাথা মাসাহ্ করেছেন তিনবার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn’Abbas said:‘Ali b. Abi Talib entered upon me after he has passed water. He then called for water for ablution. We brought to him a vessel containing water, and placed it before him. He said: O Ibn’Abbas, may I not show you how the Messenger of Allah(ﷺ) used to perform ablution? I replied : Why not? He then inclined the vessel to his hand and washed it. He then put his right hand in the vessel and poured water over the other hand and washed his hands up to the wrist. He then rinsed his mouth and snuffed up water. He then put both of his hands together in the water and took out a handful of water and threw it upon the face. He then inserted both of his thumbs in the front part of the ears. He did like that twice and thrice. He then took a handful of water and poured it over his forehead and left it running down his face. He then washed his forearms up to the elbow three times. He then wiped his head and the back of his ears. He then put both of his hands together in the water and took a handful of it and threw it on his foot. He had a shoe foot like that. Do you wash your foot while it is in the shoe? He replied : Yes, while it is in the shoe. This question and answer were repeated thrice. Abu Dawud said: The version transmitted by Ibn Juraij from Shaibah is similar to the one narrated by ‘ Ali. In this version Hajjaj reported on the authority of Ibn Juraij the wording: He wiped his head once. Ibn Wahb narrated from Ibn Juraij the wording: he wiped his head three times
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : ‘Ali b. Abi Talib est entré chez moi après être allé aux toilettes. Il a alors demandé de l’eau pour faire ses ablutions. Nous lui avons apporté un récipient d’eau et l’avons posé devant lui. Il a dit : « Ô Ibn ‘Abbas, veux-tu que je te montre comment le Messager d’Allah ﷺ faisait ses ablutions ? » J’ai répondu : « Bien sûr. » Il a alors incliné le récipient vers sa main et l’a lavée. Ensuite, il a mis sa main droite dans le récipient, a versé de l’eau sur l’autre main et a lavé ses mains jusqu’aux poignets. Il s’est ensuite rincé la bouche et a pris de l’eau dans le nez. Puis il a mis ses deux mains ensemble dans l’eau, a pris une poignée d’eau et l’a jetée sur son visage. Ensuite, il a inséré ses deux pouces dans le devant des oreilles. Il a fait cela deux ou trois fois. Ensuite, il a pris une poignée d’eau et l’a versée sur son front, laissant l’eau couler sur son visage. Il a ensuite lavé ses avant-bras jusqu’aux coudes trois fois. Il a ensuite essuyé sa tête et l’arrière de ses oreilles. Ensuite, il a mis ses deux mains ensemble dans l’eau, a pris une poignée d’eau et l’a jetée sur son pied. Il avait un soulier au pied ainsi. Il a demandé : « Laves-tu ton pied alors qu’il est dans la chaussure ? » Il a répondu : « Oui, alors qu’il est dans la chaussure. » Cette question et cette réponse ont été répétées trois fois. Abu Dawud a dit : La version transmise par Ibn Juraij d’après Shaibah est similaire à celle rapportée par ‘Ali. Dans cette version, Hajjaj rapporte d’après Ibn Juraij : « Il a essuyé sa tête une fois. » Ibn Wahb rapporte d’après Ibn Juraij : « Il a essuyé sa tête trois fois. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdul Aziz bin Yahya Al Harrani\] telah menceritakan kepada kami \[Muhammad, yakni Ibnu Salamah\] dari \[Muhammad bin Ishaq\] dari \[Muhammad bin Thalhah bin Yazid bin Rukanah\] dari \[Ubaidullah Al-Khaulani\] dari \[Ibnu Abbas\] dia berkata; \[Ali bin Abi Thalib\] pernah menemuiku, kemudian dia meminta untuk didatangkan air wudhu, maka kami membawakan bejana berisi air untuknya hingga kami letakkan di depannya, lalu dia berkata; Wahai Ibnu Abbas, maukah aku perlihatkan kepadamu bagaimana Rasulullah shallallahu 'alaihi wasallam berwudhu? Saya menjawab; Tentu. Dia berkata; Dia menuangkan bejana tersebut pada tangannya, lalu membasuhnya, kemudian memasukkan tangan kanannya, lalu dia menuangkan air dengannya pada tangan lainnya, kemudian membasuh dua telapak tangannya, lalu berkumur dan (beristinsyaq dan) beristintsar, kemudian memasukkan kedua tangannya, lalu mengambil air sepenuh kedua telapak tangan, kemudian menyiramkannya pada wajahnya, lalu memasukkan (mengusapkan) kedua ibu jarinya pada kedua telinga bagian luar, kemudian dia melakukan yang kedua dan ketiga juga demikian, lalu mengambil segenggam air dengan telapak tangan kanannya, kemudian menuangkannya pada ubun-ubunnya dan membiarkannya mengalir pada wajahnya, lalu membasuh kedua lengannya hingga dua siku tiga kali tiga kali, kemudian mengusap kepalanya dan bagian luar dua telinganya lalu memasukkan kedua jarinya padanya, lalu mengambil air sepenuh kedua telapak tangan dan menyiramkannya pada kakinya yang kala itu mengenakan sandal, lalu memilinnya, dan demikian juga pada kaki satunya. Dia (Abdullah Al-Khaulani) berkata; Aku bertanya (kepada Ibnu Abbas); Kedua kakinya tetap mengenakan sandal? Dia (Ibnu Abbas) menjawab; Ya, kedua kakinya tetap mengenakan sandal. Dia (Abdullah Al-Khaulani) berkata; Aku bertanya (kepada Ibnu Abbas); Kedua kakinya tetap mengenakan sandal? Dia (Ibnu Abbas) menjawab; Ya, kedua kakinya tetap mengenakan sandal. Dia (Abdullah Al-Khaulani) berkata; Aku bertanya (kepada Ibnu Abbas); Kedua kakinya tetap mengenakan sandal? Dia (Ibnu Abbas) menjawab; Ya, kedua kakinya tetap mengenakan sandal. Abu Dawud berkata; Hadits Ibnu Juraij dari Syaibah menyerupai hadits Ali, karena Hajjaj bin Muhammad bin Jurair mengatakan padanya; Dan dia mengusap kepalanya satu kali usapan. Sedangkan Ibnu Wahb berkata padanya dari Ibnu Jurair; Dan dia mengusap kepalanya tiga kali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdul Aziz bin Yahya Al Harrani] telah menceritakan kepada kami [Muhammad, yakni Ibnu Salamah] dari [Muhammad bin Ishaq] dari [Muhammad bin Thalhah bin Yazid bin Rukanah] dari [Ubaidullah Al-Khaulani] dari [Ibnu Abbas] dia berkata; [Ali bin Abi Thalib] pernah menemuiku, kemudian dia meminta untuk didatangkan air wudhu, maka kami membawakan bejana berisi air untuknya hingga kami letakkan di depannya, lalu dia berkata; Wahai Ibnu Abbas, maukah aku perlihatkan kepadamu bagaimana Rasulullah shallallahu 'alaihi wasallam berwudhu? Saya menjawab; Tentu. Dia berkata; Dia menuangkan bejana tersebut pada tangannya, lalu membasuhnya, kemudian memasukkan tangan kanannya, lalu dia menuangkan air dengannya pada tangan lainnya, kemudian membasuh dua telapak tangannya, lalu berkumur dan (beristinsyaq dan) beristintsar, kemudian memasukkan kedua tangannya, lalu mengambil air sepenuh kedua telapak tangan, kemudian menyiramkannya pada wajahnya, lalu memasukkan (mengusapkan) kedua ibu jarinya pada kedua telinga bagian luar, kemudian dia melakukan yang kedua dan ketiga juga demikian, lalu mengambil segenggam air dengan telapak tangan kanannya, kemudian menuangkannya pada ubun-ubunnya dan membiarkannya mengalir pada wajahnya, lalu membasuh kedua lengannya hingga dua siku tiga kali tiga kali, kemudian mengusap kepalanya dan bagian luar dua telinganya lalu memasukkan kedua jarinya padanya, lalu mengambil air sepenuh kedua telapak tangan dan menyiramkannya pada kakinya yang kala itu mengenakan sandal, lalu memilinnya, dan demikian juga pada kaki satunya. Dia (Abdullah Al-Khaulani) berkata; Aku bertanya (kepada Ibnu Abbas); Kedua kakinya tetap mengenakan sandal? Dia (Ibnu Abbas) menjawab; Ya, kedua kakinya tetap mengenakan sandal. Dia (Abdullah Al-Khaulani) berkata; Aku bertanya (kepada Ibnu Abbas); Kedua kakinya tetap mengenakan sandal? Dia (Ibnu Abbas) menjawab; Ya, kedua kakinya tetap mengenakan sandal. Dia (Abdullah Al-Khaulani) berkata; Aku bertanya (kepada Ibnu Abbas); Kedua kakinya tetap mengenakan sandal? Dia (Ibnu Abbas) menjawab; Ya, kedua kakinya tetap mengenakan sandal. Abu Dawud berkata; Hadits Ibnu Juraij dari Syaibah menyerupai hadits Ali, karena Hajjaj bin Muhammad bin Jurair mengatakan padanya; Dan dia mengusap kepalanya satu kali usapan. Sedangkan Ibnu Wahb berkata padanya dari Ibnu Jurair; Dan dia mengusap kepalanya tiga kali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Убайдуллы ибн аль-Хауляни, что Ибн ‘Аббас (да будет доволен Аллах ими обоими) сказал: «Однажды ко мне зашел ‘Али то есть Ибн Абу Талиб, после того, как справил малую нужду, и попросил (принести воды) для омовения. Мы принесли ему воды в медном сосуде, который поставили перед ним, и он сказал: “О Ибн ‘Аббас, не показать ли мне тебе, как совершал омовение Посланник Аллаха ﷺ?” Я сказал: “Конечно”».(Ибн ‘Аббас) сказал: «И он наклонил сосуд к руке и помыл её. Затем он окунул правую руку (в сосуд) и, зачерпнув ею воды, налил на другую и помыл кисти рук. Затем он прополоснул рот и нос. Затем он погрузил вместе обе руки в сосуд и, набрав ими пригоршню воды, выплеснул себе в лицо, после чего стал большими пальцами рук мыть переднюю часть ушей, и затем (сделал) то же самое во второй и третий раз. Потом он набрал горсть воды правой рукой и налил её на свой хохол и оставил её стекать по своему лицу. Затем он помыл свои руки включая локти, каждую по три раза, после чего обтёр голову и тыльную часть ушей. Затем он опустил обе руки (в сосуд) и, набрав пригоршню воды, выплеснул её на свою ногу, обутую в сандалию, и обмыл её, и затем также (поступил) с другой».(‘Убайдуллах ибн аль-Хауляни) сказал: «Я спросил: “(Он сделал это будучи) в сандалиях?” Он ответил: “В сандалиях!” Он сказал: “Я спросил (у Ибн ‘Аббаса): “В сандалиях?” Он ответил: “В сандалиях!” Он сказал: «Я (ещё раз) спросил: “В сандалиях?”» Он ответил: “В сандалиях!”»Абу Дауд сказал: «Хадис Ибн Джурейджа от Шейбы, схож с хадисом ‘Али, поскольку Хаджадж ибн Мухаммад от Ибн Джурейджа сказал: “Он обтёр голову один раз”. А Ибн Вахб от Ибн Джурейджа сказал: “И он обтёр голову три раза”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ubeydullah el-HavIani'nin rivayetine göre İbn Abbas (r.a.) şöyle demiştir: "Bir gün Ali b. Ebi Talib abdest bozmuş olarak bulunduğum yere girdi ve su istedi. Biz de ona içinde su bulunan bir kap getirip önüne koyduk. Ali bana: "Ey İbni Abbas, Resul-i Ekrem (sallallahu aleyhi ve sellem)'in nasıl abdest aldığını sana göstereyim mi?" dedi. Bende, "evet göster" dedim. Bunun üzerine önce kabı elinin üzerine eğerek (sağ) elini güzelce yıkadı. Sonra sağ elini suya daldırıp onunla diğer (sol) elini yıkadı. Sonra da bileklerine kadar iki elini yıkadı. Nihayet ağzına, burnuna su verdikten sonra iki elini birden kab'a daldırıp su ile doldurarak yüzüne çarptı. Baş parmaklarının birini sağ kulağının diğerini de sol kulağının iç kısımlarına soktu. Yüzünü ikinci ve üçüncü yıkayışında da aynı şekilde yaptı. Sağ eliyle bir avuç su alıp yüzüne akabilecek şekilde alnına döktü, kollarını dirsekleriyle beraber üçer kere yıkadı. Başını ve kulaklarının dış kısmını mesh etti. Ellerini suya daldırıp iki elinin dolusu su avuçlayıp ayağı nalin'li (bir tür terlik'li) iken üstüne dökerek ovdu, Diğer ayağına da aynı şeyi yaptı. (İbn Abbas) dedi ki: "Ben (Ali'ye); nalinli iken ha!" dedim. (O da): "Evet nalinli iken" dedi (sonra tekrar) "nalinli iken mi?" dedim, "Evet! Nalinli iken" dedi. (Sonra tekrar) "Nalinli iken mi?" dedim. "Evet! Nalinli iken" Cevabını verdi. Ebu Davud dedi ki: İbn Cüreyc'in Şeybe'den rivayeti (106-127 numaralı hadislerde geçen ve muhtelif raviler tarafından nakledilen) Ali (r.a.) hadisine benzemektedir. Ancak Haccac'ın İbn Cüneyc'den rivayet ettiği hadis‘te: "başına bir defa mesh etti” denilirken, İbn Vehb'in, İbn Cüreyc'den rivayet ettiği (aynı) hadis‘te: "üç defa mesh etti" denilmektedir. (İbn Vehb tedlisçi bir ravi olduğuna göre onun bu rivayetinin diğer sahih rivayetler karşısında bir kıymeti yoktur demek oluyor. Diğer tahric: Nesai tahare. İbn Mâce, tahâre; Tirmizî, tahâre)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ علی بن ابی طالب رضی اللہ عنہ استنجاء کر کے میرے پاس آئے، اور وضو کے لیے پانی مانگا، ہم ایک پیالہ لے کر ان کے پاس آئے جس میں پانی تھا یہاں تک کہ ہم نے انہیں ان کے سامنے رکھا تو انہوں نے مجھ سے کہا: اے ابن عباس! کیا میں تمہیں دکھاؤں کہ رسول اللہ صلی اللہ علیہ وسلم کس طرح وضو کرتے تھے؟ میں نے کہا: ہاں، ضرور دکھائیے، تو آپ نے برتن جھکا کر ہاتھ پر پانی ڈالا پھر اسے دھویا پھر اپنا داہنا ہاتھ ( برتن میں ) داخل کیا ( اور پانی لے کر ) اسے دوسرے پر ڈالا پھر اپنی دونوں ہتھیلیوں کو دھویا، پھر کلی کی اور ناک جھاڑی، پھر اپنے دونوں ہاتھ ( ملا کر ) ایک ساتھ برتن میں ڈالے اور لپ بھر پانی لیا اور اسے اپنے منہ پر مارا پھر دونوں انگوٹھوں کو کانوں کے اندر یعنی سامنے کے رخ پر پھیرا، پھر دوسری اور تیسری بار ( بھی ) ایسا ہی کیا، پھر اپنی داہنی ہتھیلی میں ایک چلو پانی لے کر اپنی پیشانی پر ڈالا اور اسے چھوڑ دیا، وہ آپ کے چہرے پر بہہ رہا تھا، پھر دونوں ہاتھ تین تین بار کہنیوں تک دھوئے، اس کے بعد سر اور دونوں کانوں کے اوپری حصہ کا مسح کیا، پھر اپنے دونوں ہاتھ پانی میں ڈال کر ایک لپ بھر پانی لیا اور اسے ( دائیں ) پیر پر ڈالا، اس وقت وہ پیر میں جوتا پہنے ہوئے تھے اور اس سے پیر دھویا پھر دوسرے پیر پر بھی اسی طرح پانی ڈال کر اسے دھویا ۱؎۔ عبیداللہ خولانی کہتے ہیں کہ میں نے ( عبداللہ بن عباس رضی اللہ عنہما سے ) پوچھا: علی رضی اللہ عنہ نے دونوں پیر میں جوتا پہنے پہنے ایسا کیا؟ آپ نے کہا: ہاں، جوتا پہنے پہنے کیا، میں نے کہا: جوتا پہنے پہنے؟ آپ نے کہا: ہاں، جوتا پہنے پہنے، پھر میں نے کہا: جوتا پہنے پہنے؟ آپ نے کہا: ہاں چپل پہنے پہنے۔ ابوداؤد کہتے ہیں: ابن جریج کی حدیث جسے انہوں نے شیبہ سے روایت کیا ہے علی رضی اللہ عنہ کی حدیث کے مشابہ ہے اس لیے کہ اس میں حجاج بن محمد نے ابن جریج سے «مسح برأسه مرة واحدة» کہا ہے اور ابن وہب نے اس میں ابن جریج سے «ومسح برأسه ثلاثا» روایت کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>117</td></tr><tr><td>Arabic No</td><td>117</td></tr><tr><td>Reference</td><td>Book 1 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 117 |
+| Arabic No | 117 |
+| Reference | Book 1 Hadith 117 |

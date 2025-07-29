@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، عَنْ حَجَّاجٍ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، أَنَّهُ سَمِعَ عُبَيْدَ بْنَ عُمَيْرٍ، قَالَ سَمِعْتُ عَائِشَةَ، زَوْجَ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَمْكُثُ عِنْدَ زَيْنَبَ وَيَشْرَبُ عِنْدَهَا عَسَلاً فَتَوَاصَيْتُ وَحَفْصَةَ أَيَّتُنَا مَا دَخَلَ عَلَيْهَا النَّبِيُّ صلى الله عليه وسلم فَلْتَقُلْ إِنِّي أَجِدُ مِنْكَ رِيحَ مَغَافِيرَ فَدَخَلَ عَلَى إِحْدَاهُمَا فَقَالَتْ ذَلِكَ لَهُ فَقَالَ ‏"‏ بَلْ شَرِبْتُ عَسَلاً عِنْدَ زَيْنَبَ - وَقَالَ - لَنْ أَعُودَ لَهُ ‏"‏ ‏.‏ فَنَزَلَ ‏(‏ يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ ‏)‏ ‏(‏ إِنْ تَتُوبَا إِلَى اللَّهِ ‏)‏ لِعَائِشَةَ وَحَفْصَةَ ‏(‏ وَإِذْ أَسَرَّ النَّبِيُّ إِلَى بَعْضِ أَزْوَاجِهِ حَدِيثًا ‏)‏ لِقَوْلِهِ ‏"‏ بَلْ شَرِبْتُ عَسَلاَ ‏"‏ ‏.‏ كُلُّهُ فِي حَدِيثِ عَطَاءٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |
+
 اخبرنا قتيبة، عن حجاج، عن ابن جريج، عن عطاء، انه سمع عبيد بن عمير، قال سمعت عايشة، زوج النبي صلى الله عليه وسلم ان النبي صلى الله عليه وسلم كان يمكث عند زينب ويشرب عندها عسلا فتواصيت وحفصة ايتنا ما دخل عليها النبي صلى الله عليه وسلم فلتقل اني اجد منك ريح مغافير فدخل على احداهما فقالت ذلك له فقال " بل شربت عسلا عند زينب - وقال - لن اعود له " . فنزل ( يا ايها النبي لم تحرم ما احل الله لك ) ( ان تتوبا الى الله ) لعايشة وحفصة ( واذ اسر النبي الى بعض ازواجه حديثا ) لقوله " بل شربت عسلا " . كله في حديث عطاء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... আতা (রহঃ) থেকে বর্ণিত যে, তিনি উবায়দ ইবন উমোয়র (রহঃ)-কে বলতে শুনেছেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী আয়েশা (রাঃ)-কে বলতে শুনেছিঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যায়নাব (রাঃ) এর নিকট অবস্থান করতেন এবং তাঁর নিকট মধু পান করতেন। আমি এবং হাফসা (রাঃ) পরামর্শ করলাম, আমাদের মধ্যে যার নিকটই রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগমন করেন, সে যেন বলেঃ আমি আপনার থেকে মাগাফির-এর গন্ধ পাচ্ছি। এরপর তিনি তাদের একজনের নিকট আগমন করলে, তিনি তাকে তা বললেন। তখন তিনি বললেনঃ বরং আমি তো যায়নবের নিকট মধু পান করেছি। তিনি আরও বললেনঃ আমি আর পুনরায় তা পান করবো না। তখন এ আয়াত নাযিল হয়ঃ (يَا أَيُّهَا النَّبِيُّ لِمَ تُحَرِّمُ مَا أَحَلَّ اللَّهُ لَكَ) আর আয়েশা এবং হাফসা (রাঃ) সম্বন্ধে নাযিল হয়ঃ (إِنْ تَتُوبَا إِلَى اللَّهِ) আর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উক্তিঃ বরং আমি মধু পান করেছি। এর জন্য (وَإِذْ أَسَرَّ النَّبِيُّ إِلَى بَعْضِ أَزْوَاجِهِ حَدِيثًا) আয়াত নাযিল হয়। এর সমস্তই আতা (রহঃ)-এর হাদীসে রয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ubaid bin 'Umair narrated from 'Aishah, the wife of the Prophet:"The Prophet used to stay with Zainab bint Jahsh and drink honey at her house. Hafsah and I agreed that if the Prophet came to either of us, she would say: 'I detect the smell of Maghafir (a nasty-smelling gum) on you; have you eaten Maghafir?' He came to one of them and she said that to him. He said: 'No, rather I drank honey at the house of Zainab bint Jahsh, but I will never do it again.' Then the following was revealed: 'O Prophet! Why do you forbid (for yourself) that which Allah has allowed to you.' 'If you two turn in repentance to Allah, (it will be better for you).' addressing 'Aishah and Hafsah; 'And (remember) when the Prophet disclosed a matter in confidence to one of his wives.' refers to him saying: "No, rather I drank honey
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |
+
+## French
+
+Rapporté par Ubaid bin 'Umair, d'après 'Aishah, l'épouse du Prophète : Le Prophète avait l'habitude de rester chez Zainab bint Jahsh et de boire du miel chez elle. Hafsah et moi avons convenu que si le Prophète venait chez l'une de nous, elle dirait : "Je sens l'odeur de Maghafir (une gomme à l'odeur désagréable) sur toi ; as-tu mangé du Maghafir ?" Il est venu chez l'une de nous et elle lui a dit cela. Il a dit : "Non, j'ai bu du miel chez Zainab bint Jahsh, mais je n'en boirai plus jamais." Ensuite, ce verset a été révélé : "Ô Prophète ! Pourquoi interdis-tu ce qu'Allah t'a permis ?" "Si vous vous repentez toutes deux auprès d'Allah, ce sera mieux pour vous", s'adressant à 'Aishah et Hafsah ; "Et (rappelez-vous) quand le Prophète confia un secret à l'une de ses épouses", cela fait référence à ses paroles : "Non, j'ai bu du miel
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dari \[Hajjaj\] dari \[Ibnu Juraij\] dari \['Atho'\] bahwa ia mendengar \['Ubaid bin 'Umair\], ia berkata; saya mendengar \[Aisyah\] isteri Nabi shallallahu 'alaihi wasallam bahwa Nabi shallallahu 'alaihi wasallam pernah tinggal di rumah Zainab, dan minum madu di rumahnya. Kemudian saya dan Hafshah bersepakat apabila Nabi shallallahu 'alaihi wasallam menemui salah seorang dari kami maka hendaknya ia mengatakan; sesungguhnya saya mendapatkan bau Maghafir. Lalu beliau menemui salah seorang dari mereka berdua, kemudian ia mengatakan hal tersebut kepadanya. Kemudian beliau bersabda: "Melainkan saya minum madu di rumah Zainab." Dan beliau bersabda: "Saya tidak akan kembali untuk melakukannya." Kemudian turunlah ayat: 'Hai Nabi kenapa engkau haramkan apa yang Allah halalkan kepadamu'. 'Jika kamu berdua bertaubat kepada Allah' untuk Aisyah dan Hafshah. Dan Allah menurunkan ayat 'Dan ingatlah ketika Nabi membicarakan secara rahasia kepada salah seorang isterinya (Hafsah) suatu peristiwa' atas ucapan beliau: "Melainkan saya minum madu." Seluruhnya ada dalam hadis 'Atho
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dari [Hajjaj] dari [Ibnu Juraij] dari ['Atho'] bahwa ia mendengar ['Ubaid bin 'Umair], ia berkata; saya mendengar [Aisyah] isteri Nabi shallallahu 'alaihi wasallam bahwa Nabi shallallahu 'alaihi wasallam pernah tinggal di rumah Zainab, dan minum madu di rumahnya. Kemudian saya dan Hafshah bersepakat apabila Nabi shallallahu 'alaihi wasallam menemui salah seorang dari kami maka hendaknya ia mengatakan; sesungguhnya saya mendapatkan bau Maghafir. Lalu beliau menemui salah seorang dari mereka berdua, kemudian ia mengatakan hal tersebut kepadanya. Kemudian beliau bersabda: "Melainkan saya minum madu di rumah Zainab." Dan beliau bersabda: "Saya tidak akan kembali untuk melakukannya." Kemudian turunlah ayat: 'Hai Nabi kenapa engkau haramkan apa yang Allah halalkan kepadamu'. 'Jika kamu berdua bertaubat kepada Allah' untuk Aisyah dan Hafshah. Dan Allah menurunkan ayat 'Dan ingatlah ketika Nabi membicarakan secara rahasia kepada salah seorang isterinya (Hafsah) suatu peristiwa' atas ucapan beliau: "Melainkan saya minum madu." Seluruhnya ada dalam hadis 'Atho
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم زینب رضی اللہ عنہا کے پاس ٹھہرتے اور ان کے پاس شہد پی کر آتے تو ہم نے اور حفصہ نے آپس میں صلاح و مشورہ کیا کہ ہم میں سے جس کے پاس بھی نبی اکرم صلی اللہ علیہ وسلم آئیں وہ کہے کہ ( کیا بات ہے ) مجھے آپ کے منہ سے مغافیر ۱؎ کی بو آتی ہے، آپ ہم میں سے ایک کے پاس آئے تو اس نے آپ صلی اللہ علیہ وسلم سے یہی بات کہی۔ آپ نے کہا: ”میں نے تو کچھ کھایا پیا نہیں بس زینب کے پاس صرف شہد پیا ہے ( اور جب تم ایسا کہہ رہی ہو کہ اس سے مغافیر کی بو آتی ہے ) تو آئندہ نہ پیوں گا“۔ چنانچہ عائشہ اور حفصہ کی وجہ سے یہ آیت: «يا أيها النبي لم تحرم ما أحل اللہ لك» ”اے نبی جس چیز کو اللہ تعالیٰ نے حلال کر دیا ہے اسے آپ کیوں حرام کرتے ہیں“ ( التحریم: ۱ ) اور «إن تتوبا إلى اللہ» ” ( اے نبی کی دونوں بیویو! ) اگر تم دونوں اللہ کے سامنے توبہ کر لو ( تو بہت بہتر ہے ) “۔ ( التحریم: ۴ ) نازل ہوئی اور آپ صلی اللہ علیہ وسلم کے اس قول: میں نے تو شہد پیا ہے کی وجہ سے یہ آیت: «وإذ أسر النبي إلى بعض أزواجه حديثا» ”اور یاد کر جب نبی نے اپنی بعض عورتوں سے ایک پوشیدہ بات کہی“ ( التحریم: ۳ ) نازل ہوئی ہے، اور یہ ساری تفصیل عطا کی حدیث میں موجود ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3421</td></tr><tr><td>Arabic No</td><td>3421</td></tr><tr><td>Reference</td><td>Book 27 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3421 |
+| Arabic No | 3421 |
+| Reference | Book 27 Hadith 33 |

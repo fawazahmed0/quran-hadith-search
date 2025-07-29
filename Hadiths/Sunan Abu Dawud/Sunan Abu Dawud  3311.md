@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي جَعْفَرٍ، عَنْ مُحَمَّدِ بْنِ جَعْفَرِ بْنِ الزُّبَيْرِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏:‏ ‏ "‏ مَنْ مَاتَ وَعَلَيْهِ صِيَامٌ صَامَ عَنْهُ وَلِيُّهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
+
 حدثنا احمد بن صالح، حدثنا ابن وهب، اخبرني عمرو بن الحارث، عن عبيد الله بن ابي جعفر، عن محمد بن جعفر بن الزبير، عن عروة، عن عايشة، ان النبي صلى الله عليه وسلم قال : " من مات وعليه صيام صام عنه وليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো ব্যক্তি সওম অনাদায়ী রেখে মারা গেলে তার পক্ষ থেকে তার ওয়ারিসগণ সওম পালন করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah:The Prophet (ﷺ) as saying: If anyone dies when some fast due from him has been unfulfilled, his heir must fast on his behalf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : Le Prophète ﷺ a dit : « Si quelqu’un meurt alors qu’il lui restait des jours de jeûne à accomplir, son héritier doit jeûner à sa place. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Shalih\], telah menceritakan kepada kami \[Ibnu Wahb\], telah mengabarkan kepadaku \['Amr bin Al Harits\] dari \['Ubaidullah bin Abu Ja'far\] dari \[Muhammad bin Ja'far bin Az Zubair\] dari \['Urwah\] dari \[Aisyah\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang meninggal dalam keadaan memiliki tanggungan puasa, maka walinya berpuasa (sebagai pengganti) untuknya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Shalih], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku ['Amr bin Al Harits] dari ['Ubaidullah bin Abu Ja'far] dari [Muhammad bin Ja'far bin Az Zubair] dari ['Urwah] dari [Aisyah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang meninggal dalam keadaan memiliki tanggungan puasa, maka walinya berpuasa (sebagai pengganti) untuknya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ка‘ба ибн Малика, да будет доволен им Аллах, что он сказал Пророку ﷺ: «Раскаиваясь перед Аллахом, я оставлю дом моего народа, в котором я совершил свой грех, и раздам всё своё имущество в качестве милостыни». (Посланник Аллаха ﷺ) сказал: «Тебе достаточно раздать треть»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anha)'dan, Hz. Nebi (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Oruç borcu olduğu halde ölen kimsenin orurcunu onun yerine velisi (en yakın akrabası) tutar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو مر جائے اور اس کے ذمہ روزے ہوں تو اس کا ولی اس کی طرف سے روزے رکھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1952) Sahih Muslim (1147)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3311</td></tr><tr><td>Arabic No</td><td>3311</td></tr><tr><td>Reference</td><td>Book 22 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1952) Sahih Muslim (1147) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3311 |
+| Arabic No | 3311 |
+| Reference | Book 22 Hadith 70 |

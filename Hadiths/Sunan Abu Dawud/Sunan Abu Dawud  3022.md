@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ، حَدَّثَنَا سَلَمَةُ، - يَعْنِي ابْنَ الْفَضْلِ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنِ الْعَبَّاسِ بْنِ عَبْدِ اللَّهِ بْنِ مَعْبَدٍ، عَنْ بَعْضِ، أَهْلِهِ عَنِ ابْنِ عَبَّاسٍ، قَالَ لَمَّا نَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَرَّ الظَّهْرَانِ قَالَ الْعَبَّاسُ قُلْتُ وَاللَّهِ لَئِنْ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَكَّةَ عَنْوَةً قَبْلَ أَنْ يَأْتُوهُ فَيَسْتَأْمِنُوهُ إِنَّهُ لَهَلاَكُ قُرَيْشٍ فَجَلَسْتُ عَلَى بَغْلَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقُلْتُ لَعَلِّي أَجِدُ ذَا حَاجَةٍ يَأْتِي أَهْلَ مَكَّةَ فَيُخْبِرُهُمْ بِمَكَانِ رَسُولِ اللَّهِ صلى الله عليه وسلم لِيَخْرُجُوا إِلَيْهِ فَيَسْتَأْمِنُوهُ فَإِنِّي لأَسِيرُ إِذْ سَمِعْتُ كَلاَمَ أَبِي سُفْيَانَ وَبُدَيْلِ بْنِ وَرْقَاءَ فَقُلْتُ يَا أَبَا حَنْظَلَةَ فَعَرَفَ صَوْتِي فَقَالَ أَبُو الْفَضْلِ قُلْتُ نَعَمْ ‏.‏ قَالَ مَا لَكَ فِدَاكَ أَبِي وَأُمِّي قُلْتُ هَذَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَالنَّاسُ ‏.‏ قَالَ فَمَا الْحِيلَةُ قَالَ فَرَكِبَ خَلْفِي وَرَجَعَ صَاحِبُهُ فَلَمَّا أَصْبَحَ غَدَوْتُ بِهِ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَسْلَمَ قُلْتُ يَا رَسُولَ اللَّهِ إِنَّ أَبَا سُفْيَانَ رَجُلٌ يُحِبُّ هَذَا الْفَخْرَ فَاجْعَلْ لَهُ شَيْئًا ‏.‏ قَالَ ‏ "‏ نَعَمْ مَنْ دَخَلَ دَارَ أَبِي سُفْيَانَ فَهُوَ آمِنٌ وَمَنْ أَغْلَقَ عَلَيْهِ دَارَهُ فَهُوَ آمِنٌ وَمَنْ دَخَلَ الْمَسْجِدَ فَهُوَ آمِنٌ ‏"‏ ‏.‏ قَالَ فَتَفَرَّقَ النَّاسُ إِلَى دُورِهِمْ وَإِلَى الْمَسْجِدِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
+
 حدثنا محمد بن عمرو الرازي، حدثنا سلمة، - يعني ابن الفضل - عن محمد بن اسحاق، عن العباس بن عبد الله بن معبد، عن بعض، اهله عن ابن عباس، قال لما نزل رسول الله صلى الله عليه وسلم مر الظهران قال العباس قلت والله لين دخل رسول الله صلى الله عليه وسلم مكة عنوة قبل ان ياتوه فيستامنوه انه لهلاك قريش فجلست على بغلة رسول الله صلى الله عليه وسلم فقلت لعلي اجد ذا حاجة ياتي اهل مكة فيخبرهم بمكان رسول الله صلى الله عليه وسلم ليخرجوا اليه فيستامنوه فاني لاسير اذ سمعت كلام ابي سفيان وبديل بن ورقاء فقلت يا ابا حنظلة فعرف صوتي فقال ابو الفضل قلت نعم . قال ما لك فداك ابي وامي قلت هذا رسول الله صلى الله عليه وسلم والناس . قال فما الحيلة قال فركب خلفي ورجع صاحبه فلما اصبح غدوت به على رسول الله صلى الله عليه وسلم فاسلم قلت يا رسول الله ان ابا سفيان رجل يحب هذا الفخر فاجعل له شييا . قال " نعم من دخل دار ابي سفيان فهو امن ومن اغلق عليه داره فهو امن ومن دخل المسجد فهو امن " . قال فتفرق الناس الى دورهم والى المسجد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, (মক্কা বিজয়ের সময়) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মাররুয-যাহরান নামক স্থানে অবস্থান করছিলেন তখন আব্বাস (রাঃ) মনে মনে বললেন, আল্লাহর শপথ করে বলছি! তারা এসে আশ্রয় চাওয়ার আগেই যদি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জোরপূর্বক মক্কায় ঢুকেন তাহলে তা কুরাইশদের জন্য ধ্বংসের কারণ হবে। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর খচ্চরের পিঠে বসে মনে মনে বললাম, আমি যদি যাওয়ার মতো লোক পেতাম, আর ঐ লোক মক্কাবাসীদের নিকট গিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অবস্থানস্থল সম্পর্কে অবহিত করতো এবং তাঁর কাছে এসে তারা নিরাপত্তা চাইতো। এ চিন্তা করতে করতে আমি সওয়ারী নিয়ে এগুচ্ছিলাম। হঠাৎ আমি আবূ সুফিয়ান ও বুদাইল ইবনু ওয়ারাকার কথোপকথন শুনতে পাই। আমি বললাম, হে আবূ হানযালাহ! সে আমার কণ্ঠস্বর চিনতে পেরে বললো, আবুল ফাদল নাকি? আমি বললাম, হ্যাঁ। সে বললো, আমার পিতামাতা তোমার জন্য কুরবান হোক। কি ব্যাপার? আমি বললাম, এই তো রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাথের সৈন্যবাহিনী। সে বললো, বাঁচার জন্য কি কৌশল অবলম্বন করা যায়? আব্বাস (রাঃ) বলেন, আবূ সুফিয়ান আমার পিছনে সওয়ার হলো এবং তার সাথী ফিরে গেলো। অতঃপর ভোর বেলায় উপস্থিত হলাম। সে ইসলাম কবূল করলো। আমি বললাম, হে আল্লাহর রাসূল! আবূ সুফিয়ান এমন লোক যে এর নেতৃত্বের গৌরব পছন্দ করে, তার জন্য কিছু করুন। তিনি বললেন, হ্যাঁ। যে ব্যক্তি আবূ সুফিয়ানের ঘরে আশ্রয় নিবে সে নিরাপদ; যে নিজের ঘরের দরজা বন্ধ করবে সেও নিরাপদ। বর্ণনাকারী বলেন, লোকজন নিজেদের ঘর ও মাসজিদুল হারামে আশ্রয় নিলো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah Ibn Abbas: When the Prophet (ﷺ) alighted at Marr az-Zahran, al-Abbas said: I thought, I swear by Allah, if the Messenger of Allah (ﷺ) enters Mecca with the army by force before the Quraysh come to him and seek protection from him, it will be their total ruin. So I rode on the mule of the Messenger of Allah (ﷺ) and thought, Perhaps I may find a man coming for his needs who will to the people of Mecca and inform them of the position of the Messenger of Allah (ﷺ), so that they may come to him and seek protection from him. While I was on my way, I heard AbuSufyan and Budayl ibn Warqa' speaking. I said: O AbuHanzalah! He recognized my voice and said: AbulFadl? I replied: Yes. He said: who is with you, may my parents be a sacrifice for you? I said: Here are the Messenger of Allah (ﷺ) and his people (with him). He asked: Which is the way out? He said: He rode behind me, and his companion returned. When the morning came, I brought him to the Messenger of Allah (ﷺ) and he embraced Islam. I said: Messenger of Allah, AbuSufyan is a man who likes this pride, do something for him. He said: Yes, he who enters the house of AbuSufyan is safe; he who closes the door upon him is safe; and he who enters the mosque is safe. The people scattered to their houses and in the mosque
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
+
+## French
+
+Rapporté par Abdullah Ibn Abbas رضي الله عنه : Lorsque le Prophète ﷺ s’est arrêté à Marr az-Zahran, Al-Abbas a dit : « J’ai pensé, par Allah, que si le Messager d’Allah ﷺ entrait à La Mecque avec l’armée par la force avant que les Quraysh ne viennent à lui demander sa protection, ce serait leur perte totale. J’ai donc monté la mule du Messager d’Allah ﷺ en me disant : Peut-être trouverai-je quelqu’un qui ira prévenir les gens de La Mecque de la situation du Messager d’Allah ﷺ, afin qu’ils viennent lui demander sa protection. En chemin, j’ai entendu Abu Sufyan et Budayl ibn Warqa’ parler. J’ai dit : “Ô Abu Hanzalah !” Il a reconnu ma voix et a dit : “Abul Fadl ?” J’ai répondu : “Oui.” Il a demandé : “Qui est avec toi, que mes parents te soient sacrifiés ?” J’ai dit : “Voici le Messager d’Allah ﷺ et son peuple avec lui.” Il a demandé : “Quelle est la voie de sortie ?” Il est monté derrière moi, et son compagnon est reparti. Le matin venu, je l’ai amené au Messager d’Allah ﷺ et il a embrassé l’islam. J’ai dit : “Ô Messager d’Allah, Abu Sufyan est un homme qui aime se distinguer, fais quelque chose pour lui.” Il a répondu : “Oui, celui qui entre dans la maison d’Abu Sufyan est en sécurité ; celui qui ferme sa porte sur lui est en sécurité ; et celui qui entre dans la mosquée est en sécurité.” Les gens se sont alors dispersés dans leurs maisons et dans la mosquée. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin 'Amr Ar Razi\], telah menceritakan kepada kami \[Salamah bin Al Fadhl\] dari \[Muhammad bin Ishaq\] dari \[Al Abbas bin Abdullah bin Ma'bad\] dari \[sebagian keluarganya\], dari \[Ibnu Abbas\], ia berkata; tatkala Rasulullah shallallahu 'alaihi wasallam singgah di Marru Azh Zhahran aku katakan; demi Allah, seandainya Rasulullah shallallahu 'alaihi wasallam memasuki Mekkah dengan paksa sebelum mereka mendatangi beliau dan meminta keamanan maka sesungguhnya hal itu adalah kebinasaan orang-orang Quraisy. Aku duduk di atas Bighal Rasulullah shallallahu 'alaihi wasallam, kemudian aku katakan kepada Ali; aku mendapati orang yang memiliki hajat datang kepada penduduk Mekkah kemudian mengabarkan kepada mereka tempat Rasulullah shallallahu 'alaihi wasallam agar mereka keluar menuju kepadanya dan meminta keamanan. Sesungguhnya aku sedang berjalan kemudian tiba-tiba aku mendengar perkataan Abu Sufyan serta Budail bin Warqa', lalu aku katakan; wahai Abu Hanzhalah! Kemudian ia mengenal suaraku, lalu ia berkata; Abu Al Fadhl? Aku katakan; ya. Ia berkata; ada denganmu? Aku katakan; ini, Rasulullah dan orang-orang telah datang. Ia berkata; bagaimana siasatnya? Kemudian ia naik di belakangku sedangkan sahabatnya kembali. Kemudian setelah pagi hari aku membawanya kepada Rasulullah shallallahu 'alaihi wasallam, lalu ia masuk Islam. Aku katakan; wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang suka berbangga diri, maka berikanlah sesuatu kepadanya! Beliau berkata: "Ya, barang siapa yang memasuki rumah Abu Sufyan, maka ia aman dan barang siapa yang menutup rumahnya maka ia aman, and barang siapa yang masuk masjid maka dia aman." Kemudian orang-orang berpencaran menuju rumah-rumah mereka serta menuju ke masjid
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin 'Amr Ar Razi], telah menceritakan kepada kami [Salamah bin Al Fadhl] dari [Muhammad bin Ishaq] dari [Al Abbas bin Abdullah bin Ma'bad] dari [sebagian keluarganya], dari [Ibnu Abbas], ia berkata; tatkala Rasulullah shallallahu 'alaihi wasallam singgah di Marru Azh Zhahran aku katakan; demi Allah, seandainya Rasulullah shallallahu 'alaihi wasallam memasuki Mekkah dengan paksa sebelum mereka mendatangi beliau dan meminta keamanan maka sesungguhnya hal itu adalah kebinasaan orang-orang Quraisy. Aku duduk di atas Bighal Rasulullah shallallahu 'alaihi wasallam, kemudian aku katakan kepada Ali; aku mendapati orang yang memiliki hajat datang kepada penduduk Mekkah kemudian mengabarkan kepada mereka tempat Rasulullah shallallahu 'alaihi wasallam agar mereka keluar menuju kepadanya dan meminta keamanan. Sesungguhnya aku sedang berjalan kemudian tiba-tiba aku mendengar perkataan Abu Sufyan serta Budail bin Warqa', lalu aku katakan; wahai Abu Hanzhalah! Kemudian ia mengenal suaraku, lalu ia berkata; Abu Al Fadhl? Aku katakan; ya. Ia berkata; ada denganmu? Aku katakan; ini, Rasulullah dan orang-orang telah datang. Ia berkata; bagaimana siasatnya? Kemudian ia naik di belakangku sedangkan sahabatnya kembali. Kemudian setelah pagi hari aku membawanya kepada Rasulullah shallallahu 'alaihi wasallam, lalu ia masuk Islam. Aku katakan; wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang suka berbangga diri, maka berikanlah sesuatu kepadanya! Beliau berkata: "Ya, barang siapa yang memasuki rumah Abu Sufyan, maka ia aman dan barang siapa yang menutup rumahnya maka ia aman, and barang siapa yang masuk masjid maka dia aman." Kemudian orang-orang berpencaran menuju rumah-rumah mereka serta menuju ke masjid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Посланник Аллаха ﷺ приехал в Марр-аз-Захран, аль-‘Аббас сказал: «Я сказал: “Клянусь Аллахом, если Посланник Аллаха ﷺ вступит в Мекку с боем до того, как курайшиты придут к нему и попросят пощадить их, это будет их гибель!” И я сел на мулицу Посланника Аллаха ﷺ сказав себе: “Может быть, мне удастся встретить кого-нибудь, кто отправится в Мекку и скажет им, где находится Посланник Аллаха ﷺ чтобы они пришли к нему и заключили с ним мир”. Я ехал, и вдруг услышал голоса Абу Суфьяна и Будайля ибн Варка. Я сказал: “О Абу Ханзаля!” Абу Суфьян узнал меня по голосу и сказал в ответ: “Абу аль-Фадль?” Я ответил: “Да”. Он спросил: “Что ты делаешь здесь, да станут мои отец и мать выкупом за тебя?” Я сказал: “Здесь Посланник Аллаха ﷺ со своими людьми”. Он воскликнул: “Что же делать?” После этого он сел на мулицу позади меня, а его товарищ вернулся. Утром я привёл Абу Суфьяна к Посланнику Аллаха ﷺ и он принял ислам. Я сказал: “О Посланник Аллаха! Поистине, Абу Суфьян человек, любящий, чтобы ему было чем гордиться. Сделай же для него что-нибудь”. Тогда Посланник Аллаха ﷺ сказал: “Кто войдёт в дом Абу Суфьяна, тот в безопасности, и кто запер за собой двери дома своего, тот в безопасности, и кто вошёл в мечеть, тот в безопасности”. И люди разошлись некоторые пошли к себе домой, некоторые в мечеть»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn-i Abbas'dan demiştir ki: Rasûlullah (s.a.v.) (ordusuyla beraber gecelemek üzere) Mehrizzahran (denilen yer) e inince, (kendi kendine) -Allah'a yemin olsun ki: Eğer Rasûlullah (s.a.v.) Mekkeli'ler kendisine gelip de emân istemelerinden önce Mekke'ye zorla girecek olursa, bu Kureyş'in helaki (olur)- dedim, Rasûlullah (s.a.v.)'ın katırı­nın üzerine oturdum ve (yine kendi kendine) "Herhalde Mekke'ye giden (ve yolu buradan geçen) iş-güç sahibi birini bulurum da (Mekke'ye varınca) (Kureyşlilerin) Hz. Nebi (in karşısın)a çıkmaları ve ondan emân istemeleri için Rasûlullah (s.a.v.)'in (şu) durumunu onlara haber verir" dedim. (Bu maksatla) yürüyordum ki birden bire Ebû Süfyan'la Budeyl b. Verka'nın ses(ler)ini işittim, ve “Ey Ebû'l-Hanzala ! diye seslendim. Sesimi hemen tanıdı ve: “Ebu'l-Fadl'mısın?" dedi. "Evet!" cevabını verdim. "Anam, babam sana feda olsun! Bu ne hal böyle?" dedi (bende): “Bu, Rasûlullah (s.a.v.) ve (şu askerlerde ona tabi olan) insanlardır." dedim. (Bunların hücumundan kurtulmak için) "Çâre ne nedir?" diye sordu ve arkama bindi. Arkadaşı (ise Mekke'ye) dönüp gitti. Sabah olunca o'nu Rasûlullah (s.a.v.)'in huzuruna götürdüm. (Orada) müslüman oldu. (Ben de): "Ey Allah'ın Rasûlu muhakkak ki Ebû Süfyân şu (dünyalık) övünmeyi seven bir kişidir. O'na da (övünebileceği) birşey ver!" dedim. (Hz. Peygamber de): "Evet Ebû Süfyân'ın evine giren emniyettedir, (kendi) Evini (n kapısını kendi) üzerine kapayan kimse de emniyettedir. Mescid'e giren emniyettedir" buyurdu. Halk evlerine ve mescid'e (girmek üzere dağıldılar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں جب رسول اللہ صلی اللہ علیہ وسلم نے مرالظہران میں ( فتح مکہ کے لیے آنے والے مبارک لشکر کے ساتھ ) پڑاؤ کیا، عباس رضی اللہ عنہ کہتے ہیں کہ میں نے ( اپنے جی میں ) کہا کہ اگر رسول اللہ صلی اللہ علیہ وسلم بزور مکہ میں داخل ہوئے اور قریش نے آپ کے مکہ میں داخل ہونے سے پہلے حاضر ہو کر امان حاصل نہ کر لی تو قریش تباہ ہو جائیں گے، پھر میں رسول اللہ صلی اللہ علیہ وسلم کے خچر پر سوار ہو کر نکلا، میں نے ( اپنے جی ) میں کہا: شاید کوئی ضرورت مند اپنی ضرورت سے مکہ جاتا ہوا مل جائے ( تو میں اسے بتا دوں ) اور وہ جا کر اہل مکہ کو آپ صلی اللہ علیہ وسلم کے متعلق خبر کر دے ( کہ آپ مع لشکر جرار تمہارے سر پر آ پہنچے ہیں ) تاکہ وہ آپ کے حضور میں پہنچ کر آپ سے امان حاصل کر لیں۔ میں اسی خیال میں چلا جا رہا تھا کہ اچانک ابوسفیان اور بدیل بن ورقاء کی آواز سنی، میں نے پکار کر کہا: اے ابوحنظلہ ( ابوسفیان کی کنیت ہے ) اس نے میری آواز پہچان لی، اس نے کہا: ابوفضل؟ ( عباس کی کنیت ہے ) میں نے کہا: ہاں، اس نے کہا: کیا بات ہے، تم پر میرے ماں باپ فدا ہوں، میں نے کہا: دیکھ! یہ رسول اللہ صلی اللہ علیہ وسلم ہیں اور آپ کے ساتھ کے لوگ ہیں ( سوچ لے ) ابوسفیان نے کہا: پھر کیا تدبیر کروں؟ وہ کہتے ہیں: ابوسفیان میرے پیچھے ( خچر پر ) سوار ہوا، اور اس کا ساتھی ( بدیل بن ورقاء ) لوٹ گیا۔ پھر جب صبح ہوئی تو میں ابوسفیان کو اپنے ساتھ لے کر رسول اللہ صلی اللہ علیہ وسلم کے پاس گیا ( وہ مسلمان ہو گیا ) میں نے کہا: اللہ کے رسول! ابوسفیان فخر کو پسند کرتا ہے، تو آپ اس کے لیے ( اس طرح کی ) کوئی چیز کر دیجئیے، تو آپ صلی اللہ علیہ وسلم نے کہا: ہاں ( ایسی کیا بات ہے، لو کر دیا میں نے ) ، جو ابوسفیان کے گھر میں داخل ہو جائے اس کے لیے امن ہے ( وہ قتل نہیں کیا جائے گا ) اور جو اپنے گھر میں دروازہ بند کر کے بیٹھ رہے اس کے لیے امن ہے، اور جو خانہ کعبہ میں داخل ہو جائے اس کو امن ہے ، یہ سن کر لوگ اپنے اپنے گھروں میں اور مسجد میں بٹ گئے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3022</td></tr><tr><td>Arabic No</td><td>3022</td></tr><tr><td>Reference</td><td>Book 20 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3022 |
+| Arabic No | 3022 |
+| Reference | Book 20 Hadith 95 |

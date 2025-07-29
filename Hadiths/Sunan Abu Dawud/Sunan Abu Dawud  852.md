@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنِ الْحَكَمِ، عَنِ ابْنِ أَبِي لَيْلَى، عَنِ الْبَرَاءِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ سُجُودُهُ وَرُكُوعُهُ وَقُعُودُهُ وَمَا بَيْنَ السَّجْدَتَيْنِ قَرِيبًا مِنَ السَّوَاءِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
+
 حدثنا حفص بن عمر، حدثنا شعبة، عن الحكم، عن ابن ابي ليلى، عن البراء، ان رسول الله صلى الله عليه وسلم كان سجوده وركوعه وقعوده وما بين السجدتين قريبا من السواء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
 
 ## Bengali
 
+। আল-বারাআ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সিজদা্, রুকূ‘ ও দু’ সাজদার মধ্যবর্তী বৈঠক প্রায় একই সমান হতো।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-বারাআ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সিজদা্, রুকূ‘ ও দু’ সাজদার মধ্যবর্তী বৈঠক প্রায় একই সমান হতো।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Bara’ said:The prostration observed by the Messenger of Allah(ﷺ), his bowing, and his sitting between the two prostrations were nearly equal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
+
+## French
+
+Rapporté par Al-Bara’ : La prosternation du Messager d’Allah ﷺ, son inclinaison et sa position assise entre les deux prosternations étaient presque de même durée
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar\] telah menceritakan kepada kami \[Syu'bah\] dari \[Al Hakam\] dari \[Ibnu Abu Laila\] dari \[Al Barra'\] bahwa lama sujud, ruku' dan duduk di antara dua sujudnya Rasulullah shallallahu 'alaihi wasallam hampir sama
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Al Hakam] dari [Ibnu Abu Laila] dari [Al Barra'] bahwa lama sujud, ruku' dan duduk di antara dua sujudnya Rasulullah shallallahu 'alaihi wasallam hampir sama
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Аль-Бара, да будет доволен им Аллах, что совершение поясного и земного поклонов, а также сидение между двумя земными поклонами занимало у Посланника Аллаха ﷺ примерно одинаковое время
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bera (r.a.)'den, Resul-i Ekrem (sallallahu aleyhi ve selIem)'in sücudunun, ruku'unun ve iki secde arasındaki oturuşu (süre olarak) birbirine çok yakın olduğu rivayet edilmiştir. Diğer tahric: Buharî, ezan; Müslim, salat; Tirmizî, salat. Nesaî, tatbîk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 براء رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کا رکوع، سجدہ اور دونوں سجدوں کے درمیان بیٹھنا سب قریب قریب برابر ہوتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (792) Sahih Muslim (471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>852</td></tr><tr><td>Arabic No</td><td>852</td></tr><tr><td>Reference</td><td>Book 2 Hadith 462</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (792) Sahih Muslim (471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 852 |
+| Arabic No | 852 |
+| Reference | Book 2 Hadith 462 |

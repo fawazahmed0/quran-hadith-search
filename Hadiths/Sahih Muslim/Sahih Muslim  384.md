@@ -18,78 +18,82 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Этот хадис подобен предыдущему, но здесь он сказал: « …Затем он прочитал этот аят до конца»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو اویس نے بھی زہری سے اسی طرح روایت کی ہے جس طرح مالک نے کی ہے البتہ اس نے ( حتی جازھا ) حتی کہ اس سے آگے نکل گئے کے بجائےئ ) حتی أنجزها ( حتی کہ اس کو مکمل کیا ) کہا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>384</td></tr><tr><td>Arabic No</td><td>151.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 200</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 384 |
+| Arabic No | 151.03 |
+| Reference | Book 43 Hadith 200 |

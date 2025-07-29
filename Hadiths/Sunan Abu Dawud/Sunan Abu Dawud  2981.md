@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ الْعِجْلِيُّ، حَدَّثَنَا وَكِيعٌ، عَنِ الْحَسَنِ بْنِ صَالِحٍ، عَنِ السُّدِّيِّ، فِي ذِي الْقُرْبَى قَالَ هُمْ بَنُو عَبْدِ الْمُطَّلِبِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
+
 حدثنا حسين بن علي العجلي، حدثنا وكيع، عن الحسن بن صالح، عن السدي، في ذي القربى قال هم بنو عبد المطلب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আস-সুদ্দী (রহঃ) সূত্রে বর্ণিত। তিনি যিল-কুরবা এর ব্যাখ্যায় বলেন, এখানে নিকটত্মীয় বলতে বনূ মুত্তালিব লোকদেরকে বুঝানো হয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Explaining the relatives of the Prophet (ﷺ) al-Saddi said:They are Banu 'Abd al-Muttalib
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
+
+## French
+
+En expliquant qui sont les proches du Prophète ﷺ, al-Saddi a dit : « Ce sont les Banu ‘Abd al-Muttalib. »
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Husain bin Ali Al 'Ajli\], telah menceritakan kepada kami \[Waki'\], dari \[Al Hasan bin Shalih\] dari \[As Suddi\] mengenai kaum kerabat. Ia berkata; mereka adalah Bani Abdul Muththalib
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Husain bin Ali Al 'Ajli], telah menceritakan kepada kami [Waki'], dari [Al Hasan bin Shalih] dari [As Suddi] mengenai kaum kerabat. Ia berkata; mereka adalah Bani Abdul Muththalib
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ас-Судди сказал, что под близкими Посланника Аллаха ﷺ подразумеваются бану ‘абду-ль-мутталиб
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 es-Süddi'den (Allah'ın Rasûlü ile) akrabalığı bulunan (lar) hakkında "Onlar Abdülmuttalib oğullarıdır." dedi(ği rivayet olunmuştur)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سدی کہتے ہیں کہ کلام اللہ میں «ذي القربى» کا جو لفظ آیا ہے اس سے مراد عبدالمطلب کی اولاد ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2981</td></tr><tr><td>Arabic No</td><td>2981</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2981 |
+| Arabic No | 2981 |
+| Reference | Book 20 Hadith 54 |

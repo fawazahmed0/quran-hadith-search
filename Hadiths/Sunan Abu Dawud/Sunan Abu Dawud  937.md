@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ بْنِ رَاهَوَيْهِ، أَخْبَرَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَاصِمٍ، عَنْ أَبِي عُثْمَانَ، عَنْ بِلاَلٍ، أَنَّهُ قَالَ يَا رَسُولَ اللَّهِ لاَ تَسْبِقْنِي ‏ "‏ بِآمِينَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
+
 حدثنا اسحاق بن ابراهيم بن راهويه، اخبرنا وكيع، عن سفيان، عن عاصم، عن ابي عثمان، عن بلال، انه قال يا رسول الله لا تسبقني " بامين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
 
 ## Bengali
 
+। বিলাল (রাঃ) সূত্রে বর্ণিত। তিনি বললেন, হে আল্লাহর রসূল! আপনি আমার আগে ‘‘আমীন’’ বলবেন না। (রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূরাহ ফাতিহা পাঠ শেষ হয়ে যেতো অথচ তখনও বিলালের (রাঃ) পড়া শেষ হতো না। তাই তিনি এ কথা বলতেন)।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। বিলাল (রাঃ) সূত্রে বর্ণিত। তিনি বললেন, হে আল্লাহর রসূল! আপনি আমার আগে ‘‘আমীন’’ বলবেন না। (রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূরাহ ফাতিহা পাঠ শেষ হয়ে যেতো অথচ তখনও বিলালের (রাঃ) পড়া শেষ হতো না। তাই তিনি এ কথা বলতেন)।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bilal reported that he said :Messenger of Allah, do not say Amin before me
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
+
+## French
+
+Rapporté par Bilal رضي الله عنه : Il a dit : « Ô Messager d’Allah, ne dis pas “Amin” avant moi. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Ibrahim bin Rahawaih\] telah mengabarkan kepada kami \[Waki'\] dari \[Sufyan\] dari \['Ashim\] dari \[Abu Utsman\] dari \[Bilal\] bahwa dia berkata; "Wahai Rasulullah, janganlah anda mendahului kami dengan ucapan amin
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Ibrahim bin Rahawaih] telah mengabarkan kepada kami [Waki'] dari [Sufyan] dari ['Ashim] dari [Abu Utsman] dari [Bilal] bahwa dia berkata; "Wahai Rasulullah, janganlah anda mendahului kami dengan ucapan amin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу ‘Усмана, что Биляль, да будет доволен им Аллах, однажды сказал: «О Посланник Аллаха, не опережай меня со словом “амин”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bilal (r.a.)'den; demiştir ki: Ya Resûlallah, âmin demek de beni geçme. Diğer tahric: Buhari, ezan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلال رضی اللہ عنہ سے روایت ہے کہ انہوں نے عرض کیا: اللہ کے رسول! آپ مجھ سے پہلے آمین نہ کہا کیجئے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>937</td></tr><tr><td>Arabic No</td><td>937</td></tr><tr><td>Reference</td><td>Book 2 Hadith 548</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 937 |
+| Arabic No | 937 |
+| Reference | Book 2 Hadith 548 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ، أَبِي شَيْبَةَ حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، كِلاَهُمَا عَنْ يُونُسَ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني زهير بن حرب، حدثنا اسماعيل بن ابراهيم، ح وحدثنا ابو بكر بن، ابي شيبة حدثنا وكيع، عن سفيان، كلاهما عن يونس، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যুহায়র ইবনু হারব ও আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) থেকে এ সানাদে অনুরূপ বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪৬৯৫, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The above tradition has also been narrated on the authority of Yunus through a different chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## French
 
+La tradition précédente a aussi été rapportée par Yunus à travers une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana Züheyr b. Harb da rivayet etti. (Dediki): Bize İsmâîl b. İbrahim rivayet etti. H. Bize Ebû Bekir b. Ebî Şeybe dahî rivayet etti. (Dediki): Bize Vekî', Süfyân'dan rivayet etti. Her iki râvî Yûnus'dan bu isnâdfa bu hadîsin mislini rivayet etmişlerdir. İzah 1874 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ترجمہ وہی جو اوپر گزرا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>1872.02</td></tr><tr><td>Reference</td><td>Book 33 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 1872.02 |
+| Reference | Book 33 Hadith 144 |

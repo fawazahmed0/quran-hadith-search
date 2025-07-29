@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يُوسُفُ بْنُ حَمَّادٍ الْمَعْنِيُّ الْبَصْرِيُّ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ أَبِي التَّيَّاحِ، قَالَ حَدَّثَنَا حَفْصٌ اللَّيْثِيُّ، قَالَ أَشْهَدُ عَلَى عِمْرَانَ أَنَّهُ حَدَّثَنَا قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لُبْسِ الْحَرِيرِ وَعَنِ التَّخَتُّمِ بِالذَّهَبِ وَعَنِ الشُّرْبِ فِي الْحَنَاتِمِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 48 Hadith 148</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |
+
 اخبرنا يوسف بن حماد المعني البصري، قال حدثنا عبد الوارث، عن ابي التياح، قال حدثنا حفص الليثي، قال اشهد على عمران انه حدثنا قال نهى رسول الله صلى الله عليه وسلم عن لبس الحرير وعن التختم بالذهب وعن الشرب في الحناتم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 48 Hadith 148</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইউসুফ ইবন হাম্মাদ মা'আনী (রহঃ) ... ইমরান (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রেশমী কাপড় পরতে, সোনার আংটি ও হান্তাম পাত্র ব্যবহার করতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 48 Hadith 148</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |
 
 ## English
 
+Hafs Al-Laithi said:"I bear witness that 'Imran narrated to us, he said: 'The Messenger of Allah \[SAW\] forbade wearing silk, and gold rings, and drinking from Al-Hanatim
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Hafs Al-Laithi said:"I bear witness that 'Imran narrated to us, he said: 'The Messenger of Allah [SAW] forbade wearing silk, and gold rings, and drinking from Al-Hanatim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 48 Hadith 148</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |
+
+## French
+
+Rapporté par Hafs Al-Laithi : "Je témoigne qu'‘Imran nous a raconté : 'Le Messager d'Allah ﷺ a interdit de porter de la soie, des bagues en or, et de boire dans les récipients Al-Hanatim
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Yunus bin Hammad Al Ma'ni Al Bashri\] ia berkata; telah menceritakan kepada kami \[Abdul Warits\] dari \[Abu At Tayyah\] ia berkata; telah menceritakan kepada kami \[Hafsh Al Laitsi\] ia berkata; Aku bersaksi atas \[Imran\] bahwa ia menceritakan kepada kami, ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang dari memakai kain sutera, memakai cincin emas dan minum dengan menggunakan Al Hantam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Yunus bin Hammad Al Ma'ni Al Bashri] ia berkata; telah menceritakan kepada kami [Abdul Warits] dari [Abu At Tayyah] ia berkata; telah menceritakan kepada kami [Hafsh Al Laitsi] ia berkata; Aku bersaksi atas [Imran] bahwa ia menceritakan kepada kami, ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang dari memakai kain sutera, memakai cincin emas dan minum dengan menggunakan Al Hantam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 48 Hadith 148</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 48 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5187</td></tr><tr><td>Arabic No</td><td>5187</td></tr><tr><td>Reference</td><td>Book 48 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5187 |
+| Arabic No | 5187 |
+| Reference | Book 48 Hadith 148 |

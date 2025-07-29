@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا حَرِيزُ بْنُ عُثْمَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ مَيْسَرَةَ، عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ تَوَضَّأَ فَمَسَحَ بِرَأْسِهِ وَأُذُنَيْهِ ظَاهِرَهُمَا وَبَاطِنَهُمَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |
+
 حدثنا هشام بن عمار، حدثنا الوليد، حدثنا حريز بن عثمان، عن عبد الرحمن بن ميسرة، عن المقدام بن معديكرب، ان رسول الله صلى الله عليه وسلم توضا فمسح براسه واذنيه ظاهرهما وباطنهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মিক্বদাম ইবনু মাদীকারিব (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উযূ (ওজু/অজু/অযু) করেন, তাঁর মাথা মাসহ(মাসেহ) করেন এবং দু কান ভেতর ও বাইরের অংশ সমেত মাসহ(মাসেহ) করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Miqdam bin Ma'dikarib that:The Messenger of Allah performed ablution and he wiped his head and his ears, inside and out
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |
+
+## French
+
+Rapporté par Miqdam bin Ma'dikarib : Le Messager d'Allah a fait ses ablutions et il a essuyé sa tête et ses oreilles, à l'intérieur et à l'extérieur
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hisyam bin 'Ammar\] berkata, telah menceritakan kepada kami \[Al Walid\] berkata, telah menceritakan kepada kami \[Hariz bin Utsman\] dari \[Abdurrahman bin Maisarah\] dari \[Al Miqdam bin Ma'dikarib\] berkata; "Rasulullah shallallahu 'alaihi wasallam berwudlu, lalu mengusap kepalanya dan kedua telinga baik luar maupun dalamnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hisyam bin 'Ammar] berkata, telah menceritakan kepada kami [Al Walid] berkata, telah menceritakan kepada kami [Hariz bin Utsman] dari [Abdurrahman bin Maisarah] dari [Al Miqdam bin Ma'dikarib] berkata; "Rasulullah shallallahu 'alaihi wasallam berwudlu, lalu mengusap kepalanya dan kedua telinga baik luar maupun dalamnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 El-Mıkdam bin Madikerib (Radiyallahu anh)'den: şöyle söylemiştir: Resulullah (Sallallahu Aleyhi ve Sellem) abdest aldı ve (abdest alırken) başını ve kulaklarının zahirini ve batınını mesnetti. Ebu Davud, El-Beyhaki ve Ahmed (r.a.) de hadisi rivayet ettiler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مقدام بن معدیکرب رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے وضو کیا، اور اپنے سر کا اور اپنے کان کے اندرونی و بیرونی حصے کا مسح کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>442</td></tr><tr><td>Arabic No</td><td>442</td></tr><tr><td>Reference</td><td>Book 1 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 442 |
+| Arabic No | 442 |
+| Reference | Book 1 Hadith 176 |

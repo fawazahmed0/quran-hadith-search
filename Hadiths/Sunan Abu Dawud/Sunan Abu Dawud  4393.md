@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ زَادَ ‏ "‏ وَلاَ عَلَى الْمُخْتَلِسِ قَطْعٌ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَانِ الْحَدِيثَانِ لَمْ يَسْمَعْهُمَا ابْنُ جُرَيْجٍ مِنْ أَبِي الزُّبَيْرِ وَبَلَغَنِي عَنْ أَحْمَدَ بْنِ حَنْبَلٍ أَنَّهُ قَالَ إِنَّمَا سَمِعَهُمَا ابْنُ جُرَيْجٍ مِنْ يَاسِينَ الزَّيَّاتِ ‏.‏ قَالَ أَبُو دَاوُدَ وَقَدْ رَوَاهُمَا الْمُغِيرَةُ بْنُ مُسْلِمٍ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
+
 حدثنا نصر بن علي، اخبرنا عيسى بن يونس، عن ابن جريج، عن ابي الزبير، عن جابر، عن النبي صلى الله عليه وسلم بمثله زاد " ولا على المختلس قطع " . قال ابو داود هذان الحديثان لم يسمعهما ابن جريج من ابي الزبير وبلغني عن احمد بن حنبل انه قال انما سمعهما ابن جريج من ياسين الزيات . قال ابو داود وقد رواهما المغيرة بن مسلم عن ابي الزبير عن جابر عن النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
 
 ## Bengali
 
+। জাবির (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ হাদীস বর্ণিত। তাতে আরো রয়েছেঃ লুণ্ঠনকারীর হাত কাটা যাবে না। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইবনু জুরাইজ উপরোক্ত হাদীসদ্বয় আবুয-যুবায়র থেকে শুনেননি। আমি আহমাদ ইবনু হাম্বাল (রহঃ) থেকে জেনেছি, তিনি বলেছেন, ইবনু জুরাইজ উপরোক্ত হাদীসদ্বয় ইয়াসীন আয-যাইয়াতের কাছে শুনেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, মুগীরাহ ইবনু মুসলিম হাদীসদ্বয় আবূ-যুবায়র (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে বর্ণনা করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ হাদীস বর্ণিত। তাতে আরো রয়েছেঃ লুণ্ঠনকারীর হাত কাটা যাবে না। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইবনু জুরাইজ উপরোক্ত হাদীসদ্বয় আবুয-যুবায়র থেকে শুনেননি। আমি আহমাদ ইবনু হাম্বাল (রহঃ) থেকে জেনেছি, তিনি বলেছেন, ইবনু জুরাইজ উপরোক্ত হাদীসদ্বয় ইয়াসীন আয-যাইয়াতের কাছে শুনেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, মুগীরাহ ইবনু মুসলিম হাদীসদ্বয় আবূ-যুবায়র (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে বর্ণনা করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Jabir through a different chain of narrators. This version adds :Cutting of the hand is not be inflicted on one who snatches something. Abu Dawud said : Ibn Juraij did not hear these two traditions from Abu al-Zubair, I have been informed by Ahmad. B. Hanbal saving : Ibn Juraij heard them from Yasin al-Zayyat. Aby Dawud said: Al-Mughirah b. Muslim has transmitted it from Abu al-Zubair from Jabir From the prophet(ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été rapportée par Jabir par une autre chaîne de transmetteurs. Cette version ajoute : « On ne coupe pas la main à celui qui arrache quelque chose. » (Abu Dawud a dit : Ibn Juraij n’a pas entendu ces deux traditions d’Abu al-Zubair, Ahmad b. Hanbal m’a informé qu’Ibn Juraij les a entendues de Yasin al-Zayyat. Abu Dawud a dit : Al-Mughirah b. Muslim l’a rapportée d’Abu al-Zubair, de Jabir, du Prophète ﷺ)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
 
 ## Indonesian
 
+Dengan sanad ini pula ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Penghianat tidak mendapat hukuman potong tangan." Telah menceritakan kepada kami \[Nashr bin Ali\] berkata, telah mengabarkan kepada kami \[Isa bin Yunus\] dari \[ibnu Juraij\] dari \[Abu Az Zubair\] dari \[Jabir\] dari Nabi shallallahu 'alaihi wasallam seperti dalam hadits tersebut. Namun ia menambahkan, "Dan bagi orang yang mencopet (korupsi) juga tidak ada hukuman potong tangan." Abu Dawud berkata, "Dua hadits ini belum pernah didengar oleh Ibnu Juraij dari Abu Az Zubair. Telah sampai kepadaku dari jalur Ahmad, bahwa ia berkata, "Ibnu Juraij mendengar kedua hadits tersebut justru dari Yasin bin Az Zayyat." Abu Dawud melanjutkan, " \[Al Mughirah bin Muslim\] juga telah meriwayatkannya dari \[Abu Az Zubair\], dari \[Jabir\], dari Nabi shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dengan sanad ini pula ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Penghianat tidak mendapat hukuman potong tangan." Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah mengabarkan kepada kami [Isa bin Yunus] dari [ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] dari Nabi shallallahu 'alaihi wasallam seperti dalam hadits tersebut. Namun ia menambahkan, "Dan bagi orang yang mencopet (korupsi) juga tidak ada hukuman potong tangan." Abu Dawud berkata, "Dua hadits ini belum pernah didengar oleh Ibnu Juraij dari Abu Az Zubair. Telah sampai kepadaku dari jalur Ahmad, bahwa ia berkata, "Ibnu Juraij mendengar kedua hadits tersebut justru dari Yasin bin Az Zayyat." Abu Dawud melanjutkan, " [Al Mughirah bin Muslim] juga telah meriwayatkannya dari [Abu Az Zubair], dari [Jabir], dari Nabi shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу аз-Зубайр передаёт от Джабира, да будет доволен Аллах им и его отцом, от Пророка ﷺ подобный хадис с добавлением: «Укравшему (тому, кто быстро хватает) что-то лежащее открыто не отрубают руку»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم سے اسی کے مثل روایت کرتے ہیں اس میں اتنا اضافہ ہے اور نہ اچکے کا ہاتھ کاٹا جائے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4393</td></tr><tr><td>Arabic No</td><td>4393</td></tr><tr><td>Reference</td><td>Book 40 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4393 |
+| Arabic No | 4393 |
+| Reference | Book 40 Hadith 43 |

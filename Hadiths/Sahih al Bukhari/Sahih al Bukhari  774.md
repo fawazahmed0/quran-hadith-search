@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,124 +18,170 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَرَأَ النَّبِيُّ صلى الله عليه وسلم فِيمَا أُمِرَ، وَسَكَتَ فِيمَا أُمِرَ ‏(‏وَمَا كَانَ رَبُّكَ نَسِيًّا‏)‏ ‏(‏لَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ‏)‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَقَالَ عُبَيْدُ اللَّهِ عَنْ ثَابِتٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ كَانَ رَجُلٌ مِنَ الأَنْصَارِ يَؤُمُّهُمْ فِي مَسْجِدِ قُبَاءٍ، وَكَانَ كُلَّمَا افْتَتَحَ سُورَةً يَقْرَأُ بِهَا لَهُمْ فِي الصَّلاَةِ مِمَّا يَقْرَأُ بِهِ افْتَتَحَ بِ ـ ‏(‏قُلْ هُوَ اللَّهُ أَحَدٌ‏)‏ حَتَّى يَفْرُغَ مِنْهَا، ثُمَّ يَقْرَأُ سُورَةً أُخْرَى مَعَهَا، وَكَانَ يَصْنَعُ ذَلِكَ فِي كُلِّ رَكْعَةٍ، فَكَلَّمَهُ أَصْحَابُهُ فَقَالُوا إِنَّكَ تَفْتَتِحُ بِهَذِهِ السُّورَةِ، ثُمَّ لاَ تَرَى أَنَّهَا تُجْزِئُكَ حَتَّى تَقْرَأَ بِأُخْرَى، فَإِمَّا أَنْ تَقْرَأَ بِهَا وَإِمَّا أَنْ تَدَعَهَا وَتَقْرَأَ بِأُخْرَى‏.‏ فَقَالَ مَا أَنَا بِتَارِكِهَا، إِنْ أَحْبَبْتُمْ أَنْ أَؤُمَّكُمْ بِذَلِكَ فَعَلْتُ، وَإِنْ كَرِهْتُمْ تَرَكْتُكُمْ‏.‏ وَكَانُوا يَرَوْنَ أَنَّهُ مِنْ أَفْضَلِهِمْ، وَكَرِهُوا أَنْ يَؤُمَّهُمْ غَيْرُهُ، فَلَمَّا أَتَاهُمُ النَّبِيُّ صلى الله عليه وسلم أَخْبَرُوهُ الْخَبَرَ فَقَالَ ‏"‏ يَا فُلاَنُ مَا يَمْنَعُكَ أَنْ تَفْعَلَ مَا يَأْمُرُكَ بِهِ أَصْحَابُكَ وَمَا يَحْمِلُكَ عَلَى لُزُومِ هَذِهِ السُّورَةِ فِي كُلِّ رَكْعَةٍ ‏"‏‏.‏ فَقَالَ إِنِّي أُحِبُّهَا‏.‏ فَقَالَ ‏"‏ حُبُّكَ إِيَّاهَا أَدْخَلَكَ الْجَنَّةَ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسدد، قال حدثنا اسماعيل، قال حدثنا ايوب، عن عكرمة، عن ابن عباس، قال قرا النبي صلى الله عليه وسلم فيما امر، وسكت فيما امر (وما كان ربك نسيا) (لقد كان لكم في رسول الله اسوة حسنة)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وقال عبيد الله عن ثابت، عن انس رضى الله عنه كان رجل من الانصار يومهم في مسجد قباء، وكان كلما افتتح سورة يقرا بها لهم في الصلاة مما يقرا به افتتح ب (قل هو الله احد) حتى يفرغ منها، ثم يقرا سورة اخرى معها، وكان يصنع ذلك في كل ركعة، فكلمه اصحابه فقالوا انك تفتتح بهذه السورة، ثم لا ترى انها تجزيك حتى تقرا باخرى، فاما ان تقرا بها واما ان تدعها وتقرا باخرى. فقال ما انا بتاركها، ان احببتم ان اومكم بذلك فعلت، وان كرهتم تركتكم. وكانوا يرون انه من افضلهم، وكرهوا ان يومهم غيره، فلما اتاهم النبي صلى الله عليه وسلم اخبروه الخبر فقال " يا فلان ما يمنعك ان تفعل ما يامرك به اصحابك وما يحملك على لزوم هذه السورة في كل ركعة ". فقال اني احبها. فقال " حبك اياها ادخلك الجنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘আব্বাস (রাযি.) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যেখানে কিরাআত পাঠের জন্য আদেশ পেয়েছেন, সেখানে পড়েছেন। আর যেখানে চুপ থাকতে আদেশ পেয়েছেন সেখানে চুপ থেকেছেন। (আল্লাহ্ তা‘আলার বাণীঃ) ‘‘তোমার প্রতিপালক ভুল করেন না’’- (সূরাহ্ মারইয়াম ১৯/৬৪)। ‘‘নিশ্চয় তোমাদের জন্য আল্লাহর রাসূল-এর মধ্যে রয়েছে উত্তম আদর্শ।’’ (সূরাহ্ আল-আহযাব ৩৩/২১) (আধুনিক প্রকাশনীঃ ৭৩০, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:The Prophet (ﷺ) recited aloud in the prayers in which he was ordered to do so and quietly in the prayers in which he was ordered to do so. "And your Lord is not forgetful." "Verily there was a good example for you in the ways of the Prophet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Anas said:One of the Ansar used to lead the Ansar in Salat in the Quba' mosque and it was his habit to recite Qul Huwal-lahu Ahad whenever he wanted to recite something in Salat. When he finished that Surah, he would recite another one with it. He followed the same procedure in each Rak'a. His companions discussed this with him and said, "You recite this Surah and do not consider it sufficient and then you recite another. So would you recite it alone or leave it and recite some other." He said, "I will never leave it and if you want me to be your Imam on this condition then it is all right ; otherwise I will leave you." They knew that he was the best amongst them and they did not like someone else to lead them in Salat. When the Prophet (ﷺ) went to them as usual, they informed him about it. The Prophet (ﷺ) addressed him and said, "O so-and-so, what forbids you from doing what your companions ask you to do ? Why do you read this Surah particularly in every Rak'a ?" He repiled, "I love this Surah." The Prophet (ﷺ) said, "Your love for this Surah will make you enter Paradise
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+Anas said:One of the Ansar used to lead the Ansar in Salat in the Quba' mosque and it was his habit to recite Qul Huwal-lahu Ahad whenever he wanted to recite something in Salat. When he finished that Surah, he would recite another one with it. He followed the same procedure in each Rak'a. His companions discussed this with him and said, "You recite this Surah and do not consider it sufficient and then you recite another. So would you recite it alone or leave it and recite some other." He said, "I will never leave it and if you want me to be your Imam on this condition then it is all right ; otherwise I will leave you." They knew that he was the best amongst them and they did not like someone else to lead them in Salat. When the Prophet (ﷺ) went to them as usual, they informed him about it. The Prophet (ﷺ) addressed him and said, "O so-and-so, what forbids you from doing what your companions ask you to do ? Why do you read this Surah particularly in every Rak'a?" He replied, "I love this Surah." The Prophet (ﷺ) said, "Your love for this Surah will make you enter Paradise
+
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Prophète ﷺ récitait à haute voix dans ce qui lui avait été ordonné, et récitait à voix basse dans ce qui lui avait été ordonné : « Et ton Seigneur n’est pas oublieux. » « Il y a certes pour vous dans le Messager d’Allah un excellent modèle. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
+
+Rapporté par Anas : Un homme parmi les Ansar dirigeait la prière pour eux dans la mosquée de Quba, et chaque fois qu’il ouvrait une sourate pour la leur réciter dans la prière, il commençait par : « Dis : Il est Allah, Unique » jusqu’à ce qu’il la termine, puis il récitait une autre sourate avec elle. Il faisait cela à chaque rak‘a. Ses compagnons lui parlèrent et dirent : « Tu commences par cette sourate, puis tu ne la considères pas suffisante jusqu’à ce que tu en récites une autre. Ou bien tu la récites seule, ou bien tu la laisses et tu en récites une autre. » Il répondit : « Je ne la laisserai pas. Si vous aimez que je vous dirige ainsi, je le ferai, sinon je vous laisserai. » Ils considéraient qu’il était le meilleur d’entre eux et n’aimaient pas qu’un autre les dirige. Lorsque le Prophète ﷺ vint à eux, ils l’informèrent de l’affaire. Il dit alors : « Ô untel, qu’est-ce qui t’empêche de faire ce que tes compagnons te demandent, et qu’est-ce qui te pousse à t’attacher à cette sourate dans chaque rak‘a ? » Il répondit : « Je l’aime. » Le Prophète ﷺ dit : « Ton amour pour elle t’a fait entrer au Paradis. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Isma'il\] berkata, telah menceritakan kepada kami \[Ayyub\] dari \['Ikrimah\] dari \[Ibnu 'Abbas\] berkata, "Nabi shallallahu 'alaihi wasallam membaca (dengan suara dikeraskan) sesuai apa yang diperintahkan dan juga diam (tidak mengeraskan) sesuai apa yang diperintahkan '(Dan tidaklah Rabbmu lupa) ' (Qs. Maryam: 64). '(Sesungguhnya telah ada pada diri Rasulullah itu suri teladan yang baik bagimu) ' (Qs. Al Ahzab:)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Isma'il] berkata, telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas] berkata, "Nabi shallallahu 'alaihi wasallam membaca (dengan suara dikeraskan) sesuai apa yang diperintahkan dan juga diam (tidak mengeraskan) sesuai apa yang diperintahkan '(Dan tidaklah Rabbmu lupa) ' (Qs. Maryam: 64). '(Sesungguhnya telah ada pada diri Rasulullah itu suri teladan yang baik bagimu) ' (Qs. Al Ahzab:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Икримы (да помилует его Аллах), что Ибн ‘Аббас (да будет доволен Аллах ими обоими) сказал: «(Во время намазов) Пророк ﷺ читал (Коран вслух), когда получал веление (поступать так), и молчал, когда получал веление (молчать, а в Коране сказано): “…и не забывает Господь твой”. (В Коране также сказано): “В Посланнике Аллаха был прекрасный пример для вас …”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-И ‘Убайдуллах сказал:\n— От Сабита, (передавшего) от Анаса, да будет доволен им Аллах, (который сказал): «Один человек из числа ансаров возглавлял людей в намазе в мечети Къубáъ. Каждый раз, когда он читал для них какую-то суру во время намаза, он всегда читал перед ней (суру) “Скажи: Он — Аллах един” /Куль: Хува-Ллаху ахад/, пока не заканчивал её, после чего он читал за ней другую суру, и делал это в каждом рак‘ате. Его товарищи поговорили с ним и сказали: “Поистине, ты начинаешь с этой суры, затем, посчитав, что её не достаточно для тебя, ты читаешь (ещё) другую (суру). Либо читай её, либо оставь её и читай другую”. Он сказал: “Я не оставлю её. Если вы желаете, чтобы я возглавлял вас (читая) её, то я сделаю это, а если не желаете, то покину вас”. Однако, они считали его лучшим среди них и не хотели, чтобы их намазом руководил кто-то другой, и когда к ним пришёл Пророк ﷺ они рассказали ему об этом, и он сказал: “O такой-то, что мешает тебе сделать то, что велят тебе сделать твои товарищи? И что побуждает тебя придерживаться (чтения) этой суры в каждом рак‘ате?” Он сказал: “Поистине, я люблю её”. И (тогда Пророк ﷺ) сказал: “Твоя любовь к ней введёт тебя в Рай!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+И ‘Убайдуллах сказал:\\n— От Сабита, (передавшего) от Анаса, да будет доволен им Аллах, (который сказал): «Один человек из числа ансаров возглавлял людей в намазе в мечети Къубáъ. Каждый раз, когда он читал для них какую-то суру во время намаза, он всегда читал перед ней (суру) “Скажи: Он — Аллах един” /Куль: Хува-Ллаху ахад/, пока не заканчивал её, после чего он читал за ней другую суру, и делал это в каждом рак‘ате. Его товарищи поговорили с ним и сказали: “Поистине, ты начинаешь с этой суры, затем, посчитав, что её не достаточно для тебя, ты читаешь (ещё) другую (суру). Либо читай её, либо оставь её и читай другую”. Он сказал: “Я не оставлю её. Если вы желаете, чтобы я возглавлял вас (читая) её, то я сделаю это, а если не желаете, то покину вас”. Однако, они считали его лучшим среди них и не хотели, чтобы их намазом руководил кто-то другой, и когда к ним пришёл Пророк ﷺ они рассказали ему об этом, и он сказал: “O такой-то, что мешает тебе сделать то, что велят тебе сделать твои товарищи? И что побуждает тебя придерживаться (чтения) этой суры в каждом рак‘ате?” Он сказал: “Поистине, я люблю её”. И (тогда Пророк ﷺ) сказал: “Твоя любовь к ней введёт тебя в Рай!”»
+
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள், தமக்கு (அல்லாஹ்வால்) பிறப்பிக்கப்பட்ட உத்தரவுக்கேற்பவே (சில தொழுகைகளில்) சப்தமிட்டு ஓதினார்கள்; தமக்குப் பிறப்பிக் கப்பட்ட உத்தரவுக்கேற்பவே (சில தொழுகைகளில்) மெதுவாக ஓதினார்கள். (ஏனெனில்,) “உம் இறைவன் மறப்பவன் அல்லன்” (19:64) என்று அல்லாஹ் கூறு கின்றான். “அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உண்டு” (33:21) என்றும் அல்லாஹ் கூறுகின்றான்.52 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
 ## Turkish
 
+İbn Abbas (radiyallahu anh) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem kendisine hangi namazlarda (açıktan) okuması emredilmişse o namazlarda (açıktan) okumuş, içinden okuması emredilen namazlarda da İçinden okumuştur. 'Senin Rabbin asla unutkan değildir \[Meryem, 64\] 'Andolsun ki, Resûlullahta sizin için, Allah'a ve âhiret gününe kavuşmayı umanlar ve Allah'ı çokça zikredenler için güzel bir örnek vardır.\[Ahzâb\]
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (radiyallahu anh) şöyle demiştir: "Resûlullah Sallallahu Aleyhi ve Sellem kendisine hangi namazlarda (açıktan) okuması emredilmişse o namazlarda (açıktan) okumuş, içinden okuması emredilen namazlarda da İçinden okumuştur. 'Senin Rabbin asla unutkan değildir [Meryem, 64] 'Andolsun ki, Resûlullahta sizin için, Allah'a ve âhiret gününe kavuşmayı umanlar ve Allah'ı çokça zikredenler için güzel bir örnek vardır.[Ahzâb]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes İbn Mâlik (r.a.) şöyle demiştir: "Ensar'dan bir zat bize Kubâ mescidinde namaz kıldinrdı. Kıraatin açıktan olduğu her namazda Fatiha suresinden sonra okuduğu surelerden önce muhakkak İhlas suresini sonuna kadar okur ve ondan sonra okuyacağı asıl sureyi okurdu. Bunu namazların her rekatında yapardı. Bunun üzerine cemaatte bulunanlar onun niçin bu şekilde davrandığını öğrenmek için onunla konuşmaya karar verdiler ve aralarında şöyle bir konuşma geçti; Sen her zaman İhlas suresi ile namaza başlıyorsun, sonra da bunun yeterli olmadığını düşünerek başka bir sure okuyorsun. Bu durumda ya sadece İhlas suresini okumalısın ya da bunu okumaktan vazgeçip başka bir sure okumakla yetinmelisin. Bunu asla terk etmem. Eğer size bu şekilde imamlık etmemden hoşnut iseniz ve buna devam etmemi istiyorsanız ne âlâ, ama bu durumdan hoşnut değilseniz size imamlık yapmaktan vazgeçebilirim. Cemaat ise onu aralarındaki en faziletli insan olarak gördükleri ve başkasının imamlık yapmasına razı olmadıkları için bir şey söylemediler. Bir defasında Resulullah Sallallahu Aleyhi ve Sellem onların yanına vardığında durumu zât-ı âlîlerine arz ettiler. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem zâta, 'Seni namaz kıldırmakta olduğun cemaatin sözünü tutmamaya ve kıldırdığın her rekatta İhlâs sure­sini okumaya sevk eden düşünce nedir?' diye sordu. Adamcağız şu cevabı verdi: 'Ey Allah'ın Resulü ben bu sureyi çok seviyorum!' Bunu duyan Resulullah Sallallahu Aleyhi ve Sellem: 'Senin İhlas suresine olan sevgin seni cennete soktu bile' diye mukabelede bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے اسماعیل بن علیہ نے بیان کیا، کہا کہ ہم سے ایوب سختیانی نے عکرمہ سے بیان کیا، انہوں نے ابن عباس رضی اللہ عنہما سے، آپ نے بتلایا کہ نبی کریم صلی اللہ علیہ وسلم کو جن نمازوں میں بلند آواز سے قرآن مجید پڑھنے کا حکم ہوا تھا۔ آپ صلی اللہ علیہ وسلم نے ان میں بلند آواز سے پڑھا اور جن میں آہستہ سے پڑھنے کا حکم ہوا تھا ان میں آپ صلی اللہ علیہ وسلم نے آہستہ سے پڑھا اور تیرا رب بھولنے والا نہیں اور رسول اللہ صلی اللہ علیہ وسلم کی زندگی تمہارے لیے بہترین نمونہ ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774</td></tr><tr><td>Arabic No</td><td>774</td></tr><tr><td>Reference</td><td>Book 10 Hadith 168</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 774 |
+| Arabic No | 774 |
+| Reference | Book 10 Hadith 168 |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>774.2</td></tr><tr><td>Arabic No</td><td>774.2</td></tr><tr><td>Reference</td><td>Book 10 Hadith 169</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 774.2 |
+| Arabic No | 774.2 |
+| Reference | Book 10 Hadith 169 |

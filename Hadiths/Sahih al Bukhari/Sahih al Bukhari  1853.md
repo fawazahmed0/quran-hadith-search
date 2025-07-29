@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو عَاصِمٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ الْفَضْلِ بْنِ عَبَّاسٍ ـ رضى الله عنهم ـ أَنَّ امْرَأَةً، ح‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو عاصم، عن ابن جريج، عن ابن شهاب، عن سليمان بن يسار، عن ابن عباس، عن الفضل بن عباس رضى الله عنهم ان امراة، ح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ফাযল ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, একজন মহিলা বললেন। (আধুনিক প্রকাশনীঃ নাই, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:A woman from the tribe of Khath'am came in the year (of ,Hajjat-al-Wada' of the Prophet (ﷺ) ) and said, "O Allah's Messenger (ﷺ)! My father has come under Allah's obligation of performing Hajj but he is a very old man and cannot sit properly on his Mount. Will the obligation be fulfilled if I perform Hajj on his behalf?" The Prophet (ﷺ) replied in the affirmative
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Une femme de la tribu de Khath'am est venue l'année du Hajjat-al-Wada' du Prophète (ﷺ) et a dit : « Ô Messager d'Allah (ﷺ) ! Mon père doit accomplir le Hajj pour Allah, mais il est très âgé et ne peut pas s'asseoir correctement sur sa monture. Est-ce que l'obligation sera remplie si j'accomplis le Hajj à sa place ? » Le Prophète (ﷺ) a répondu par l'affirmative
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн ‘Аббас передал от Фадля Ибн ‘Аббаса, да будет доволен ими Аллах, что одна женщина
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: ‘கஸ்அம்’ எனும் குலத்தைச் சேர்ந்த ஒரு பெண்மணி (நபி (ஸல்) அவர்களிடம்) விடைபெறும் ஹஜ்ஜின்போது வந்து, “அல்லாஹ்வின் தூதரே! அல்லாஹ் தன் அடியார்கள்மீது விதியாக்கியுள்ள ஹஜ் கடமை முதியவரான என் தந்தைக்கு ஏற்பட்டுள்ளது. அவர் வாகனத்தில் அமர முடியாதவராகவும் இருக்கிறார். நான் அவர் சார்பாக ஹஜ் செய்தால் அது நிறை வேறுமா?’ என்று கேட்டார். நபி (ஸல்) அவர்கள் “ஆம்” என்றார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابوعاصم نے ابن جریج سے بیان کیا، انہوں نے کہا ان سے ابن شہاب نے، ان سے سلیمان بن یسار نے، ان سے عبداللہ بن عباس رضی اللہ عنہما نے اور ان سے فضل بن عیاض رضی اللہ عنہم نے کہ ایک خاتون۔۔۔ ( حدیث نمبر 1854 دیکھیں)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1853</td></tr><tr><td>Arabic No</td><td>1853</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1853 |
+| Arabic No | 1853 |
+| Reference | Book 28 Hadith 33 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنَا اللَّيْثُ، عَنْ دَرَّاجٍ، عَنِ ابْنِ حُجَيْرَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا سَجَدَ أَحَدُكُمْ فَلاَ يَفْتَرِشْ يَدَيْهِ افْتِرَاشَ الْكَلْبِ وَلْيَضُمَّ فَخِذَيْهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
+
 حدثنا عبد الملك بن شعيب بن الليث، حدثنا ابن وهب، حدثنا الليث، عن دراج، عن ابن حجيرة، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال " اذا سجد احدكم فلا يفترش يديه افتراش الكلب وليضم فخذيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ সিজদা করার সময় যেন স্বীয় দু’ হাত কুকুরের ন্যায় বিছিয়ে না রাখে এবং দু’ উরু যেন মিলিয়ে রাখে।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ সিজদা করার সময় যেন স্বীয় দু’ হাত কুকুরের ন্যায় বিছিয়ে না রাখে এবং দু’ উরু যেন মিলিয়ে রাখে।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Prophet(ﷺ) as saying:when one of you prostrates himself, he should not stretch out his forearms( on the ground) like a dog and he should join both of his thighs
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : Lorsque l’un de vous se prosterne, il ne doit pas étendre ses avant-bras (au sol) comme le fait un chien, et il doit joindre ses deux cuisses
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdul Malik bin Syu'aib bin Al Laits\] telah menceritakan kepada kami \[Ibnu Wahb\] telah menceritakan kepada kami \[Al Laits\] dari \[Darraj\] dari \[Ibnu Hujairah\] dari \[Abu Hurairah\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian sujud, janganlah ia membentangkan kedua tangannya ke lantai sebagaimana seekor anjing, dan hendaklah ia meletakkan di kedua pahanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdul Malik bin Syu'aib bin Al Laits] telah menceritakan kepada kami [Ibnu Wahb] telah menceritakan kepada kami [Al Laits] dari [Darraj] dari [Ibnu Hujairah] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian sujud, janganlah ia membentangkan kedua tangannya ke lantai sebagaimana seekor anjing, dan hendaklah ia meletakkan di kedua pahanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Когда любой из вас совершает земной поклон, пусть он не опускает руки на землю, как делает собака, и пусть соединяет бёдра»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Biriniz secdeye vardığı zaman köpeğin yayıldığı gibi yapmasın, uyluklarını birleştirsin." Diğer tahric: Tirmizî, salat; Nesaî, tatbîk; İbn Mace, ikame; Ahmed b. Hanbel, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی سجدہ کرے تو اپنے دونوں ہاتھ کتے کی طرح نہ بچھائے اور چاہیئے کہ اپنی دونوں رانوں کو ملا کر رکھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>901</td></tr><tr><td>Arabic No</td><td>901</td></tr><tr><td>Reference</td><td>Book 2 Hadith 511</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 901 |
+| Arabic No | 901 |
+| Reference | Book 2 Hadith 511 |

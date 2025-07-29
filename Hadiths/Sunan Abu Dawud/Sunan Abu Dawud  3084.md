@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنِ الصَّعْبِ بْنِ جَثَّامَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم حَمَى النَّقِيعَ وَقَالَ ‏ "‏ لاَ حِمَى إِلاَّ لِلَّهِ عَزَّ وَجَلَّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
+
 حدثنا سعيد بن منصور، حدثنا عبد العزيز بن محمد، عن عبد الرحمن بن الحارث، عن ابن شهاب، عن عبيد الله بن عبد الله، عن عبد الله بن عباس، عن الصعب بن جثامة، ان النبي صلى الله عليه وسلم حمى النقيع وقال " لا حمى الا لله عز وجل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আস-সা‘ব ইবনু জাসসামাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আন-নাকী’ নাম চারণভূমি সংরক্ষণ করেছিলেন। তিনি বলেছেনঃ চারণভূমি সংরক্ষণ করার অধিকার মহান আল্লাহ ব্যতীত অন্য কারো নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated As-Sa'b ibn Jaththamah: The Prophet (ﷺ) protected Naqi and said: There is no (permission for) protected land except for Allah Most High
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
+
+## French
+
+Rapporté par As-Sa’b ibn Jaththamah : Le Prophète ﷺ a protégé Naqi et a dit : « Il n’y a pas de terre protégée sauf pour Allah le Très-Haut. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Manshur?\] telah menceritakan kepada kami \[Abdul Aziz bin Muhammad\] dari \[Abdurrahman bin Al Harits\] dari \[Ibnu Syihab\] dari \['Ubaidullah bin Abdullah\] dari \[Abdullah bin Abbas\] dari \[Ash Sha'b bin Jatstsamah\] bahwa Rasulullah shallallahu 'alaihi wasallam telah melindungi Naqi' (mata air dekat dengan Madinah) dan berkata: "Tidak ada daerah larangan kecuali milik Allah dan RasulNya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Manshur?] telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Abdurrahman bin Al Harits] dari [Ibnu Syihab] dari ['Ubaidullah bin Abdullah] dari [Abdullah bin Abbas] dari [Ash Sha'b bin Jatstsamah] bahwa Rasulullah shallallahu 'alaihi wasallam telah melindungi Naqi' (mata air dekat dengan Madinah) dan berkata: "Tidak ada daerah larangan kecuali milik Allah dan RasulNya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ас-Са‘ба ибн Джассама, да будет доволен им Аллах, что Пророк ﷺ объявил заповедным место ан-Накы и сказал: «Не бывает заповедной земли ни у кого, кроме Всемогущего и Великого Аллаха»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn. Cessâme'den demiştir ki: Nebi (s.a.v.) "Nakı" denilen yeri koru ilan etmiş ve: "Koru (ilan etme hakkı) ancak aziz ve celil olan Allah'a aittir.” buyurmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صعب بن جثامہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے نقیع کو چراگاہ بنایا، اور فرمایا: اللہ کے سوا کسی اور کے لیے چراگاہ نہیں ہے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3084</td></tr><tr><td>Arabic No</td><td>3084</td></tr><tr><td>Reference</td><td>Book 20 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3084 |
+| Arabic No | 3084 |
+| Reference | Book 20 Hadith 157 |

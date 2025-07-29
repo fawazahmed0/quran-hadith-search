@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ عَبَّادٍ، وَابْنُ أَبِي عُمَرَ، قَالاَ حَدَّثَنَا مَرْوَانُ، عَنْ يَزِيدَ بْنِ كَيْسَانَ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ، بِهَذَا الإِسْنَادِ وَقَالَ ‏ "‏ هَذَا وَقَعَ فِي أَسْفَلِهَا فَسَمِعْتُمْ وَجْبَتَهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه محمد بن عباد، وابن ابي عمر، قالا حدثنا مروان، عن يزيد بن كيسان، عن ابي حازم، عن ابي هريرة، بهذا الاسناد وقال " هذا وقع في اسفلها فسمعتم وجبتها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) মুহাম্মাদ ইবনু আব্বাদ ও ইবনু আবূ উমর (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে এ সানাদে হুবহু হাদীস বর্ণনা করেছেন। তবে এতে এ কথা বর্ধিত বর্ণিত রয়েছে যে, এ পাথরটি এখন জাহান্নামের অতল গভীরে গিয়ে পৌছেছে, তাই তোমরা বিকট আওয়াজ শুনতে পেয়েছো। (ইসলামিক ফাউন্ডেশন ৬৯০৫, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Abfi Huraira with the same chain of transmitters but with this change of wording that the Prophet (may. peace be upon him) said:It reached at its base and you heard its sound
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Ce hadith a été rapporté par la même chaîne de transmetteurs, mais avec cette différence : le Prophète ﷺ a dit : « Elle a atteint le fond et vous en avez entendu le bruit. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-31) Bize bu hadîsi Muhammed b. Abbâd ile İbni Ebî Ömer de rivâyet ettiler. (Dedilerki): Bize Mervan, Yezîd b. Keysaıı'dan, o da Ebû Hâzim'den, o da Ebû Hureyre'den naklen bu isnadla rivayet etti: «Bu cehennemin dibine düştü de, siz onun sesini işittiniz.» dedi. İZAH 2845 TE
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مروان نے ہمیں یزید بن کیسان سے حدیث بیان کی ، انھوں نے ابوحازم سے اور انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے اسی سند کے ساتھ روایت کی اور کہا : " یہ ( اب ) اس کے نچلے حصے میں گرا ہے اور تم نے اس کے گرنے کی آوازسنی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7168</td></tr><tr><td>Arabic No</td><td>2844.02</td></tr><tr><td>Reference</td><td>Book 53 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7168 |
+| Arabic No | 2844.02 |
+| Reference | Book 53 Hadith 37 |

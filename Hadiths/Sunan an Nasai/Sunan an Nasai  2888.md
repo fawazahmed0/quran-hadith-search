@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ، أَنَّ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ خَمْسٌ مِنَ الدَّوَابِّ كُلُّهَا فَاسِقٌ يُقْتَلْنَ فِي الْحَرَمِ الْغُرَابُ وَالْحِدَأَةُ وَالْكَلْبُ الْعَقُورُ وَالْفَأْرَةُ وَالْعَقْرَبُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 24 Hadith 271</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |
+
 اخبرنا يونس بن عبد الاعلى، قال انبانا ابن وهب، قال اخبرني يونس، عن ابن شهاب، عن عروة، ان عايشة، قالت قال رسول الله صلى الله عليه وسلم " خمس من الدواب كلها فاسق يقتلن في الحرم الغراب والحداة والكلب العقور والفارة والعقرب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 24 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইউনুস ইবন আবদুল আ'লা (রহঃ) ... উরওয়া (রহঃ) থেকে বর্ণিত। আয়েশা (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ বিচরণকারী জন্তুদের মধ্যে পাঁচটি জন্তু অনিষ্টকর। হারামে তাদেরকে হত্যা করা যাবে। সেগুলো হলোঃ কাক, চিল, দংশনকারী কুকুর, ইঁদুর ও বিচ্ছু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 24 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Urwah that Aishah said:"The Messenger of Allah said: "There are five animals all of which are vermin and may be killed inside the sanctuary: Crow, kites, vicious dogs, mice and scorpions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 24 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |
+
+## French
+
+Rapporté par Urwah, d’après Aishah رضي الله عنها : Le Messager d’Allah a dit : "Il y a cinq animaux qui sont tous des nuisibles et qu’on peut tuer dans le sanctuaire : le corbeau, le milan, les chiens dangereux, les souris et les scorpions
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Yunus bin Abdul A'la\], ia berkata; telah memberitakan kepada kami \[Ibnu Wahb\], ia berkata; telah mengabarkan kepadaku \[Yunus\] dari \[Ibnu Syihab\] dari \['Urwah\] bahwa \[Aisyah\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Lima binatang melata, semuanya adalah pengganggu dan boleh dibunuh di tanah haram, yaitu Burung Gagak, Burung Rajawali, Anjing buas, Tikus, dan Kalajengking
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Yunus bin Abdul A'la], ia berkata; telah memberitakan kepada kami [Ibnu Wahb], ia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari ['Urwah] bahwa [Aisyah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Lima binatang melata, semuanya adalah pengganggu dan boleh dibunuh di tanah haram, yaitu Burung Gagak, Burung Rajawali, Anjing buas, Tikus, dan Kalajengking
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 24 Hadith 271</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 24 Hadith 271</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جانوروں میں پانچ ایسے ہیں جو سب کے سب فاسق ( موذی ) ہیں وہ حرم میں ( بھی ) مارے جا سکتے ہیں: کوا، چیل، کاٹ کھانے والا کتا، چوہیا اور بچھو“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2888</td></tr><tr><td>Arabic No</td><td>2888</td></tr><tr><td>Reference</td><td>Book 24 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2888 |
+| Arabic No | 2888 |
+| Reference | Book 24 Hadith 271 |

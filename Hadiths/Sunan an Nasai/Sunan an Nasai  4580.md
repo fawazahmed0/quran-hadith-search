@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عُبَيْدِ اللَّهِ بْنِ أَبِي يَزِيدَ، سَمِعَ ابْنَ عَبَّاسٍ، يَقُولُ حَدَّثَنِي أُسَامَةُ بْنُ زَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ رِبًا إِلاَّ فِي النَّسِيئَةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 44 Hadith 132</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |
+
 اخبرنا عمرو بن علي، قال حدثنا سفيان، عن عبيد الله بن ابي يزيد، سمع ابن عباس، يقول حدثني اسامة بن زيد، ان رسول الله صلى الله عليه وسلم قال " لا ربا الا في النسيية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 44 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... উসামা ইবন যায়দ (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সুদ কেবল বাকি লেনদেনেই হয়ে থাকে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 44 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Usmah bin Zaid Narrated that the Messenger of Allah said:"There is no Riba except in credit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 44 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |
+
+## French
+
+Rapporté par Usmah bin Zaid : Le Messager d'Allah ﷺ a dit : "Il n'y a de riba que dans le crédit
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin Ali\] telah menceritakan kepada kami \[Sufyan\] dari \['Ubaidullah bin Abu Yazid\], dia telah mendengar \[Ibnu Abbas\] berkata; "Telah menceritakan kepadaku \[Usamah bin Zaid\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada riba kecuali di dalam kredit
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Sufyan] dari ['Ubaidullah bin Abu Yazid], dia telah mendengar [Ibnu Abbas] berkata; "Telah menceritakan kepadaku [Usamah bin Zaid] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak ada riba kecuali di dalam kredit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 44 Hadith 132</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 44 Hadith 132</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 44 Hadith 132</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 44 Hadith 132 |

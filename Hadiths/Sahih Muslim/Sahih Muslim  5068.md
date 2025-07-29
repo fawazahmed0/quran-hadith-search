@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن المثنى، وابن، بشار قالا حدثنا محمد بن جعفر، حدثنا شعبة، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ও ইবনু বাশশার (রহঃ) ..... শু'বাহ্ (রহঃ) হতে উল্লেখিত সূত্রে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৪৯০৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Shu'ba through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## French
 
+Rapporté par Shu'ba : Ce hadith a été rapporté par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Muhammed b. Müsennâ ile İbni Beşşâr rivayet ettiler. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be bu isnadla bu hadîsin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن جعفر نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5068</td></tr><tr><td>Arabic No</td><td>1960.05</td></tr><tr><td>Reference</td><td>Book 35 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5068 |
+| Arabic No | 1960.05 |
+| Reference | Book 35 Hadith 5 |

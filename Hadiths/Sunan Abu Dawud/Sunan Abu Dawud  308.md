@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا إِسْمَاعِيلُ، أَخْبَرَنَا أَيُّوبُ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أُمِّ عَطِيَّةَ، بِمِثْلِهِ ‏.‏ قَالَ أَبُو دَاوُدَ أُمُّ الْهُذَيْلِ هِيَ حَفْصَةُ بِنْتُ سِيرِينَ كَانَ ابْنُهَا اسْمُهُ هُذَيْلٌ وَاسْمُ زَوْجِهَا عَبْدُ الرَّحْمَنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
+
 حدثنا مسدد، حدثنا اسماعيل، اخبرنا ايوب، عن محمد بن سيرين، عن ام عطية، بمثله . قال ابو داود ام الهذيل هي حفصة بنت سيرين كان ابنها اسمه هذيل واسم زوجها عبد الرحمن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
 
 ## Bengali
 
+। মুহাম্মাদ ইবনু সীরীন (রহঃ) উম্মু ‘আত্বিয়্যাহ (রাঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন। ইমাম আবূ দাউদ (রহঃ) বলেন, উম্মুল হুযাইল হলেন হাফসাহ বিনতু সীরীন। তার ছেলের নাম হুযাইল এবং স্বামীর নাম ‘আবদুর রহমান। \[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুহাম্মাদ ইবনু সীরীন (রহঃ) উম্মু ‘আত্বিয়্যাহ (রাঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন। ইমাম আবূ দাউদ (রহঃ) বলেন, উম্মুল হুযাইল হলেন হাফসাহ বিনতু সীরীন। তার ছেলের নাম হুযাইল এবং স্বামীর নাম ‘আবদুর রহমান। [1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Umm 'Atiyyah has narrated this tradition through a different chain of transmitters. Abu DAwud said:The name of Umm al-Hudhail is Hafsah daughter os Sirin. The name of her son was Hudhail and his husband 'Abd al-Rahman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
+
+## French
+
+Rapporté par Umm 'Atiyyah à travers une autre chaîne de transmetteurs. Abu Dawud a dit : Le nom d’Umm al-Hudhail est Hafsah, fille de Sirin. Le nom de son fils était Hudhail et son mari s’appelait 'Abd al-Rahman
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah mengabarkan kepada kami \[Hammad\] dari \[Qatadah\] dari \[Ummu Al-Hudzail\] dari \[Ummu 'Athiyyah\] -dan dia adalah wanita yang berbaiat kepada Rasulullah Shallallahu alaihi wasallam-, dia berkata; Kami tidak menganggap darah yang keruh atau kekuning-kuningan setelah suci dari haidl sebagai (darah haidh). Telah menceritakan kepada kami \[Musaddad\] Telah menceritakan kepada kami \[Ismail\] telah mengabarkan kepada kami \[Ayyub\] dari \[Muhammad bin Sirin\] dari \[Ummu Athiyah\] dengan yang semisalnya. Abu Dawud berkata; Ummu Hudzail adalah Hafshah binti Sirin, anaknya bernama Hudzail dan suaminya Abdurrahman
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah mengabarkan kepada kami [Hammad] dari [Qatadah] dari [Ummu Al-Hudzail] dari [Ummu 'Athiyyah] -dan dia adalah wanita yang berbaiat kepada Rasulullah Shallallahu alaihi wasallam-, dia berkata; Kami tidak menganggap darah yang keruh atau kekuning-kuningan setelah suci dari haidl sebagai (darah haidh). Telah menceritakan kepada kami [Musaddad] Telah menceritakan kepada kami [Ismail] telah mengabarkan kepada kami [Ayyub] dari [Muhammad bin Sirin] dari [Ummu Athiyah] dengan yang semisalnya. Abu Dawud berkata; Ummu Hudzail adalah Hafshah binti Sirin, anaknya bernama Hudzail dan suaminya Abdurrahman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 От Мухаммада ибн Сирина со слов Умм ‘Атиййи передают хадис похожий (на предыдущий)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammed bin Sirin; Ümmü Atiyye'den evvelki hadisin aynısını rivayet etti. Ebu Davud dedi ki; (Evvelki hadisin senedinde adı geçen) Ümmü Huzeyl, Hafsa binti Sirtn'dir. Oğlunun ismi Huzeyl, kocasının ismi de Abdurrahman'dır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ام عطیہ رضی اللہ عنہا سے اسی کے مثل مروی ہے۔ ابوداؤد کہتے ہیں: ام ہذیل حفصہ بنت سیرین ہیں، ان کے لڑکے کا نام ہذیل اور شوہر کا نام عبدالرحمٰن ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (326)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>308</td></tr><tr><td>Arabic No</td><td>308</td></tr><tr><td>Reference</td><td>Book 1 Hadith 308</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (326) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 308 |
+| Arabic No | 308 |
+| Reference | Book 1 Hadith 308 |

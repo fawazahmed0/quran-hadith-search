@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَمْرٍو الرَّازِيُّ، حَدَّثَنَا سَلَمَةُ، - يَعْنِي ابْنَ الْفَضْلِ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، حَدَّثَنِي يَزِيدُ بْنُ رُومَانَ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ ‏:‏ لَمَّا مَاتَ النَّجَاشِيُّ كُنَّا نَتَحَدَّثُ أَنَّهُ لاَ يَزَالُ يُرَى عَلَى قَبْرِهِ نُورٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
+
 حدثنا محمد بن عمرو الرازي، حدثنا سلمة، - يعني ابن الفضل - عن محمد بن اسحاق، حدثني يزيد بن رومان، عن عروة، عن عايشة، قالت : لما مات النجاشي كنا نتحدث انه لا يزال يرى على قبره نور
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, যখন (বাদশা) নাজ্জাশী মারা যান, তখন ‘আমরা বলাবলি করছিলাম যে, তার কবরের উপর সর্বদা নূর দেখা যাবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: When Negus died, we were told that a light would be seen perpetually at his grave
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
+
+## French
+
+Rapporté par Aisha (la mère des croyants) رضي الله عنها : Lorsque le Négus est mort, on nous a dit qu’une lumière était constamment visible sur sa tombe
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin 'Amr Ar Razi\], telah menceritakan kepada kami \[Salamah bin Al Fadhl\], dari \[Muhammad bin Ishaq\], telah menceritakan kepadaku \[Yazid bin Ruman\], dari \['Urwah\] dari \[Aisyah\], ia berkata; tatkala An Najasyi meninggal kami bercerita bahwa terus terlihat cahaya di atas kuburannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin 'Amr Ar Razi], telah menceritakan kepada kami [Salamah bin Al Fadhl], dari [Muhammad bin Ishaq], telah menceritakan kepadaku [Yazid bin Ruman], dari ['Urwah] dari [Aisyah], ia berkata; tatkala An Najasyi meninggal kami bercerita bahwa terus terlihat cahaya di atas kuburannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan; demiştir ki: Necâşi öldüğü zaman biz (kendi aramızda); "artık onun kabri üzerinde bir nur görünüp duracaktır," diye konuşurduk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ جب نجاشی کا انتقال ہو گیا تو ہم کہا کرتے تھے کہ ان کی قبر پر ہمیشہ روشنی دکھائی دیتی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2523</td></tr><tr><td>Arabic No</td><td>2523</td></tr><tr><td>Reference</td><td>Book 15 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2523 |
+| Arabic No | 2523 |
+| Reference | Book 15 Hadith 47 |

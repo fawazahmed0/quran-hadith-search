@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ عَلْقَمَةَ، عَنْ أَبِي جَعْفَرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ قُتِلَ دُونَ مَظْلَمَتِهِ فَهُوَ شَهِيدٌ ‏"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ حَدِيثُ الْمُؤَمَّلِ خَطَأٌ وَالصَّوَابُ حَدِيثُ عَبْدِ الرَّحْمَنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 37 Hadith 128</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |
+
 اخبرنا محمد بن المثنى، قال حدثنا عبد الرحمن، قال حدثنا سفيان، عن علقمة، عن ابي جعفر، قال قال رسول الله صلى الله عليه وسلم " من قتل دون مظلمته فهو شهيد " . قال ابو عبد الرحمن حديث المومل خطا والصواب حديث عبد الرحمن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 37 Hadith 128</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন মুসান্না (রহঃ) ... আবূ জা'ফার (রহঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি যুলুমের কারণে মারা যায়, সে শহীদ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 37 Hadith 128</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |
 
 ## English
 
+It was narrated that Abu Ja'far said:"The Messenger of Allah \[SAW\] said: 'Whoever is killed defending his wealth and is killed unjustly, he is a martyr
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Abu Ja'far said:"The Messenger of Allah [SAW] said: 'Whoever is killed defending his wealth and is killed unjustly, he is a martyr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 37 Hadith 128</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |
+
+## French
+
+Rapporté par Abu Ja'far : Le Messager d’Allah ﷺ a dit : "Celui qui est tué en défendant ses biens et qui est tué injustement, c’est un martyr
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al Mutsanna\], ia berkata; telah menceritakan kepada kami \[Abdurrahman\], ia berkata; telah menceritakan kepada kami \[Sufyan\] dari \['Alqamah\] dari \[Abu Ja'far\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " Barangsiapa yang terbunuh mempertahankan sesuatu yang dizhalimi darinya maka ia adalah syahid, " Abu abdurrahman berkata hadits Al Muammal salah dan yang benar adalah hadits Abdurrahman
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna], ia berkata; telah menceritakan kepada kami [Abdurrahman], ia berkata; telah menceritakan kepada kami [Sufyan] dari ['Alqamah] dari [Abu Ja'far], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " Barangsiapa yang terbunuh mempertahankan sesuatu yang dizhalimi darinya maka ia adalah syahid, " Abu abdurrahman berkata hadits Al Muammal salah dan yang benar adalah hadits Abdurrahman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 37 Hadith 128</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 37 Hadith 128</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4093</td></tr><tr><td>Arabic No</td><td>4093</td></tr><tr><td>Reference</td><td>Book 37 Hadith 128</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4093 |
+| Arabic No | 4093 |
+| Reference | Book 37 Hadith 128 |

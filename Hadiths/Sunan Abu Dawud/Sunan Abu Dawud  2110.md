@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ جِبْرِيلَ الْبَغْدَادِيُّ، أَخْبَرَنَا يَزِيدُ، أَخْبَرَنَا مُوسَى بْنُ مُسْلِمِ بْنِ رُومَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ أَعْطَى فِي صَدَاقِ امْرَأَةٍ مِلْءَ كَفَّيْهِ سَوِيقًا أَوْ تَمْرًا فَقَدِ اسْتَحَلَّ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ عَنْ صَالِحِ بْنِ رُومَانَ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ مَوْقُوفًا وَرَوَاهُ أَبُو عَاصِمٍ عَنْ صَالِحِ بْنِ رُومَانَ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ قَالَ كُنَّا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم نَسْتَمْتِعُ بِالْقُبْضَةِ مِنَ الطَّعَامِ عَلَى مَعْنَى الْمُتْعَةِ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ ابْنُ جُرَيْجٍ عَنْ أَبِي الزُّبَيْرِ عَنْ جَابِرٍ عَلَى مَعْنَى أَبِي عَاصِمٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
+
 حدثنا اسحاق بن جبريل البغدادي، اخبرنا يزيد، اخبرنا موسى بن مسلم بن رومان، عن ابي الزبير، عن جابر بن عبد الله، ان النبي صلى الله عليه وسلم قال " من اعطى في صداق امراة ملء كفيه سويقا او تمرا فقد استحل " . قال ابو داود رواه عبد الرحمن بن مهدي عن صالح بن رومان عن ابي الزبير عن جابر موقوفا ورواه ابو عاصم عن صالح بن رومان عن ابي الزبير عن جابر قال كنا على عهد رسول الله صلى الله عليه وسلم نستمتع بالقبضة من الطعام على معنى المتعة . قال ابو داود رواه ابن جريج عن ابي الزبير عن جابر على معنى ابي عاصم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
 
 ## Bengali
 
+। জাবির ইবনু আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি মোহর হিসেবে এক মুষ্টি ছাতু অথবা খোরমা দিলে তার বিয়ে বৈধ। দুর্বলঃ যঈফ আল-জামি‘উস সাগীর (৫৪৫৩), মিশকাত (৩২০৫)। জাবির (রাযি.) অপর একটি হাদীসে বর্ণনা করেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সময় এক মুষ্টি খাদ্যের বিনিময়ে ফায়দা ভোগ করতাম। এরূপ হতো মুত‘আহ বিবাহের ক্ষেত্রে। আবূ দাঊদ (রহ.) বলেন, ইবনু জুরাইজ আবুয-যুবায়রের উদ্ধৃতি দিয়ে জাবির (রাযি.) সূত্রে আবূ ‘আসিমের অনুরূপ অর্থে হাদীস বর্ণনা করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি মোহর হিসেবে এক মুষ্টি ছাতু অথবা খোরমা দিলে তার বিয়ে বৈধ। দুর্বলঃ যঈফ আল-জামি‘উস সাগীর (৫৪৫৩), মিশকাত (৩২০৫)। জাবির (রাযি.) অপর একটি হাদীসে বর্ণনা করেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সময় এক মুষ্টি খাদ্যের বিনিময়ে ফায়দা ভোগ করতাম। এরূপ হতো মুত‘আহ বিবাহের ক্ষেত্রে। আবূ দাঊদ (রহ.) বলেন, ইবনু জুরাইজ আবুয-যুবায়রের উদ্ধৃতি দিয়ে জাবির (রাযি.) সূত্রে আবূ ‘আসিমের অনুরূপ অর্থে হাদীস বর্ণনা করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If anyone gives as a dower to his wife two handfuls of flour or dates he has made her lawful for him. AbuDawud said: This tradition has been narrated by Abdur Rahman ibn Mahdi, from Salih ibn Ruman, from Abu al-Zubayr on the authority of Jabir as his own statement (not going back to the Prophet). It has also been transmitted by AbuAsim from Salih ibn Ruman , from AbuzZubayr on the authority of Jabir who said: During the lifetime of the Messenger of Allah (ﷺ) we used to contract temporary marriage for a handful of grain. Abu Dawud said: This tradition has also been transmitted by Ibn Juraij from Abu al-Zubair on the authority of Jabir similar to the one narrated by Abu 'Asim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un donne à sa femme comme dot deux poignées de farine ou de dattes, elle lui est permise. » Abu Dawud a précisé : Ce récit a aussi été rapporté par Abdur Rahman ibn Mahdi, de Salih ibn Ruman, d’Abu al-Zubayr, de la part de Jabir, comme étant sa propre parole (et non celle du Prophète). Il a aussi été transmis par Abu Asim, de Salih ibn Ruman, d’Abu al-Zubayr, de la part de Jabir, qui a dit : « Du vivant du Messager d’Allah ﷺ, nous contractons un mariage temporaire pour une poignée de grains. » Abu Dawud a ajouté : Ce récit a aussi été transmis par Ibn Juraij, d’Abu al-Zubayr, de la part de Jabir, de façon similaire à celui rapporté par Abu Asim
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Jibrail Al Baghdadi\], telah mengabarkan kepada kami \[Yazid\], telah mengabarkan kepada kami \[Musa bin Muslim bin Ruman\], dari \[Abu Az Zubair\] dari \[Jabir bin Abdullah\] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Barangsiapa yang memberi mahar seorang wanita berupa gandum atau kurma sepenuh dua telapak tangannya, maka (pemberiannya) itu ia telah menghalalkannya (menjadi mahar bagi istrinya))." Abu Daud berkata; hadits tersebut diriwayatkan oleh \[Abdurrahman bin Mahdi\] dari \[Shalih bin Ruman\] dari \[Abu Az Zubair\] dari \[Jabir\] secara mauquf. Dan diriwayatkan oleh \[Abu 'Ashim\] dari \[Shalih bin Ruman\] dari \[Abu Az Zubair\] dari \[Jabir\], ia berkata; kami pada zaman Rasulullah shallallahu 'alaihi wasallam menikah mut'ah dengan memberikan mahar satu genggam makanan. Abu Daud berkata; hadits tersebut diriwayatkan oleh \[Ibnu Juraij\] dari \[Abu Az Zubair\] dari \[Jabir\] seperti ma'na hadits Abu 'Ashim
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Jibrail Al Baghdadi], telah mengabarkan kepada kami [Yazid], telah mengabarkan kepada kami [Musa bin Muslim bin Ruman], dari [Abu Az Zubair] dari [Jabir bin Abdullah] bahwa Nabi shallallahu 'alaihi wasallam berkata: "Barangsiapa yang memberi mahar seorang wanita berupa gandum atau kurma sepenuh dua telapak tangannya, maka (pemberiannya) itu ia telah menghalalkannya (menjadi mahar bagi istrinya))." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Abdurrahman bin Mahdi] dari [Shalih bin Ruman] dari [Abu Az Zubair] dari [Jabir] secara mauquf. Dan diriwayatkan oleh [Abu 'Ashim] dari [Shalih bin Ruman] dari [Abu Az Zubair] dari [Jabir], ia berkata; kami pada zaman Rasulullah shallallahu 'alaihi wasallam menikah mut'ah dengan memberikan mahar satu genggam makanan. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir] seperti ma'na hadits Abu 'Ashim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Дар того, кто дал женщине в качестве брачного дара полную пригоршню савика или фиников, действителен»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
 
 ## Turkish
 
+Cabir b. Abdullah (r.a.)'dan rivayet olunduğuna göre, Nebi (s.a.v.), "Kim bir kadın'a avuçları dolusu feavut veya hurma verirse (o kadınla evlenmek ona) helâl olur." buyurmuştur. Darekutnî, Sünen, III, 243; Beyhaki, es-Sünenü'l-kübrâ, VII, 238. Ebû Dâvud dedi ki: "Bu hadîsi, Abdurrahman b. Mehdi de Salih b. Rûman'dan (o da) Eb'uz-Zübeyr'den (o da) Câbir'den mevkuf olarak rivayet etti. " Yine bu hadîsi Ebû Âsim; Salih b. Rumân'dan (o da) Eb'uz-Zübeyr’den (o da) Câbir'den rivayet etti. (Câbir) dedi ki: "Biz Resûlullahı (s.a.v.) zamanında mut'a (nikâhı) olmak üzere bir avuç buğday karşılığında (belli bir süre kadınlardan) faydalanırdık. \[Müslim, nikâh\] Ebû Dâvud dedi ki: "Şu (önceki) hadîsi, Ebû Âsım'ın (rivayet ettiği hadîsin) manasına uygun olarak İbn Cüreyc de Eb 'uz-Zübeyr vasıtasıyla Câbir'den rivayet etti
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Cabir b. Abdullah (r.a.)'dan rivayet olunduğuna göre, Nebi (s.a.v.), "Kim bir kadın'a avuçları dolusu feavut veya hurma verirse (o kadınla evlenmek ona) helâl olur." buyurmuştur. Darekutnî, Sünen, III, 243; Beyhaki, es-Sünenü'l-kübrâ, VII, 238. Ebû Dâvud dedi ki: "Bu hadîsi, Abdurrahman b. Mehdi de Salih b. Rûman'dan (o da) Eb'uz-Zübeyr'den (o da) Câbir'den mevkuf olarak rivayet etti. " Yine bu hadîsi Ebû Âsim; Salih b. Rumân'dan (o da) Eb'uz-Zübeyr’den (o da) Câbir'den rivayet etti. (Câbir) dedi ki: "Biz Resûlullahı (s.a.v.) zamanında mut'a (nikâhı) olmak üzere bir avuç buğday karşılığında (belli bir süre kadınlardan) faydalanırdık. [Müslim, nikâh] Ebû Dâvud dedi ki: "Şu (önceki) hadîsi, Ebû Âsım'ın (rivayet ettiği hadîsin) manasına uygun olarak İbn Cüreyc de Eb 'uz-Zübeyr vasıtasıyla Câbir'den rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما سے روایت ہے کہ کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جس نے کسی عورت کو مہر میں مٹھی بھر ستو یا کھجور دیا تو اس نے ( اس عورت کو اپنے لیے ) حلال کر لیا ۔ ابوداؤد کہتے ہیں: اسے عبدالرحمٰن بن مہدی نے صالح بن رومان سے انہوں نے ابوزبیر سے انہوں نے جابر رضی اللہ عنہ سے موقوفاً روایت کیا ہے اور اسے ابوعاصم نے صالح بن رومان سے، صالح نے ابو الزبیر سے، ابو الزبیر نے جابر رضی اللہ عنہ سے روایت کیا ہے اس میں ہے کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں ایک مٹھی اناج دے کر متعہ کرتے تھے ۱؎۔ ابوداؤد کہتے ہیں: اسے ابن جریج نے ابو الزبیر سے انہوں نے جابر سے ابوعاصم کی روایت کے ہم معنی روایت کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2110</td></tr><tr><td>Arabic No</td><td>2110</td></tr><tr><td>Reference</td><td>Book 12 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2110 |
+| Arabic No | 2110 |
+| Reference | Book 12 Hadith 65 |

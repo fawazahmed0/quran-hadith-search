@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْمَرٍ، قَالَ حَدَّثَنَا حَبَّانُ، قَالَ حَدَّثَنَا سَلْمُ بْنُ زَرِيرٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ طَرَفَةَ، عَنْ جَدِّهِ، عَرْفَجَةَ بْنِ أَسْعَدَ أَنَّهُ أُصِيبَ أَنْفُهُ يَوْمَ الْكُلاَبِ فِي الْجَاهِلِيَّةِ فَاتَّخَذَ أَنْفًا مِنْ وَرِقٍ فَأَنْتَنَ عَلَيْهِ فَأَمَرَهُ النَّبِيُّ صلى الله عليه وسلم أَنْ يَتَّخِذَ أَنْفًا مِنْ ذَهَبٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 48 Hadith 122</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |
+
 اخبرنا محمد بن معمر، قال حدثنا حبان، قال حدثنا سلم بن زرير، قال حدثنا عبد الرحمن بن طرفة، عن جده، عرفجة بن اسعد انه اصيب انفه يوم الكلاب في الجاهلية فاتخذ انفا من ورق فانتن عليه فامره النبي صلى الله عليه وسلم ان يتخذ انفا من ذهب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 48 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন মা'মার (রহঃ) ... আরফাজাহ্ ইবন আসআদ (রাঃ) থেকে বর্ণিত, জাহিলী যুগে কুলাবের যুদ্ধে তাঁর নাক যখম হয়ে যায়। ফলে তিনি রূপার একটি নাক বানিয়ে নেন, কিন্তু তাতে নাকে পচন ধরে। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁকে সোনার নাক বানাতে আদেশ দেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 48 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |
 
 ## English
 
+It was narrated from 'Arafah bin As'ad that:His nose was cut off at the battle of Al-Kulab during the Jahiliyyah, so he wore a nose made of silver, but it began to rot, so the Prophet \[SAW\] told him to wear a nose made of gold
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Arafah bin As'ad that:His nose was cut off at the battle of Al-Kulab during the Jahiliyyah, so he wore a nose made of silver, but it began to rot, so the Prophet [SAW] told him to wear a nose made of gold
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 48 Hadith 122</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |
+
+## French
+
+Rapporté par 'Arafah bin As'ad : Son nez a été coupé lors de la bataille d'Al-Kulab pendant la Jahiliyyah, alors il a porté un nez en argent, mais il a commencé à pourrir. Le Prophète ﷺ lui a alors dit de porter un nez en or
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Ma'mar\] ia berkata; telah menceritakan kepada kami \[Habban\] ia berkata; telah menceritakan kepada kami \[Salm bin Zurair\] ia berkata; telah menceritakan kepada kami \['Abdurrahman bin Tharafah\] dari kakeknya \['Arfajah bin As'ad\], bahwa hidungnya terluka saat terjadi perang Kulab pada masa Jahiliyah. Kemudian ia memakai hidung palsu dari perak, namun hal itu justru menimbulkan bau busuk. Maka Nabi shallallahu 'alaihi wasallam memerintahkan kepadanya untuk memakai hidung dari emas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Ma'mar] ia berkata; telah menceritakan kepada kami [Habban] ia berkata; telah menceritakan kepada kami [Salm bin Zurair] ia berkata; telah menceritakan kepada kami ['Abdurrahman bin Tharafah] dari kakeknya ['Arfajah bin As'ad], bahwa hidungnya terluka saat terjadi perang Kulab pada masa Jahiliyah. Kemudian ia memakai hidung palsu dari perak, namun hal itu justru menimbulkan bau busuk. Maka Nabi shallallahu 'alaihi wasallam memerintahkan kepadanya untuk memakai hidung dari emas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 48 Hadith 122</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 48 Hadith 122</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5161</td></tr><tr><td>Arabic No</td><td>5161</td></tr><tr><td>Reference</td><td>Book 48 Hadith 122</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5161 |
+| Arabic No | 5161 |
+| Reference | Book 48 Hadith 122 |

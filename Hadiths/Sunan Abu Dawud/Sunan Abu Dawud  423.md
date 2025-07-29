@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عَمْرَةَ بِنْتِ عَبْدِ الرَّحْمَنِ، عَنْ عَائِشَةَ، - رضى الله عنها - أَنَّهَا قَالَتْ إِنْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لَيُصَلِّي الصُّبْحَ فَيَنْصَرِفُ النِّسَاءُ مُتَلَفِّعَاتٍ بِمُرُوطِهِنَّ مَا يُعْرَفْنَ مِنَ الْغَلَسِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
+
 حدثنا القعنبي، عن مالك، عن يحيى بن سعيد، عن عمرة بنت عبد الرحمن، عن عايشة، - رضى الله عنها - انها قالت ان كان رسول الله صلى الله عليه وسلم ليصلي الصبح فينصرف النساء متلفعات بمروطهن ما يعرفن من الغلس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজর সালাত এমন সময় আদায় করতেন যে, মহিলারা সালাত আদায় করে গায়ে চাদর জড়িয়ে প্রত্যাবর্তন করত এবং অন্ধকারের কারণে তাদের চেনা যেত না।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজর সালাত এমন সময় আদায় করতেন যে, মহিলারা সালাত আদায় করে গায়ে চাদর জড়িয়ে প্রত্যাবর্তন করত এবং অন্ধকারের কারণে তাদের চেনা যেত না।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah reported:The Messenger of Allah (ﷺ) would say the Fajr prayer after which the women would depart wrapped up their woolen garments, being unrecognizable because of the darkness before dawn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : « Le Messager d’Allah ﷺ faisait la prière du Fajr, après quoi les femmes partaient, enveloppées dans leurs vêtements de laine, méconnaissables à cause de l’obscurité avant l’aube. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\] dari \[Yahya bin Sa'id\] dari \['Amrah binti Abdirrahman\] dari \[Aisyah radliallahu 'anha\] bahwasanya dia berkata; Rasulullah Shallallahu alaihi wasallah shalat Shubuh, sementara para wanita pergi ke masjid dengan menutupi wajah dan badan mereka dengan kain dari bulu domba, mereka tidak diketahui karena masih gelap
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Yahya bin Sa'id] dari ['Amrah binti Abdirrahman] dari [Aisyah radliallahu 'anha] bahwasanya dia berkata; Rasulullah Shallallahu alaihi wasallah shalat Shubuh, sementara para wanita pergi ke masjid dengan menutupi wajah dan badan mereka dengan kain dari bulu domba, mereka tidak diketahui karena masih gelap
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала: «Когда Посланник Аллаха ﷺ совершал утреннюю молитву, то женщины (которые молились с ним) закончив (молитву) закутывались в свои покрывала, и никто их не узнавал в предрассветном сумраке»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan, şöyle demiştir: "Resulullah (Sallallahu aleyhi ve Sellem) sabah namazını kılardı da kadınlar, örtülerine bürünmüş olarak ayrılırlar (ve) karanlıktan dolayı tanınmazlardı'' Diğer tahric: Buhari, salat, mevakit; Müslim, mesacid; Tirmizî, mevakit; Nesai, mevakit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نماز صبح ( فجر ) ادا فرماتے، پھر عورتیں اپنی چادروں میں لپٹی واپس لوٹتیں تو اندھیرے کی وجہ سے وہ پہچانی نہیں جاتی تھیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (867) Sahih Muslim (645)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>423</td></tr><tr><td>Arabic No</td><td>423</td></tr><tr><td>Reference</td><td>Book 2 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (867) Sahih Muslim (645) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 423 |
+| Arabic No | 423 |
+| Reference | Book 2 Hadith 33 |

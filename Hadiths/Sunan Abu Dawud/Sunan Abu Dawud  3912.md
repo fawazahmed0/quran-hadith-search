@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ عَدْوَى وَلاَ هَامَةَ وَلاَ نَوْءَ وَلاَ صَفَرَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
+
 حدثنا القعنبي، حدثنا عبد العزيز، - يعني ابن محمد - عن العلاء، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " لا عدوى ولا هامة ولا نوء ولا صفر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ছোঁয়াচে রোগ বলতে কিছু নেই, পেঁচা সম্পর্কে যেসব কথা প্রচলিত তা সঠিক নয়, কোনো নক্ষত্রের নির্দিষ্ট তারিখে আকাশের কোনো স্থানে অবস্থান করলে বৃষ্টিপাত হয় এরূপ বিশ্বাসও ঠিক নয় এবং সফর মাসকে অশুভ মনে করবে না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ছোঁয়াচে রোগ বলতে কিছু নেই, পেঁচা সম্পর্কে যেসব কথা প্রচলিত তা সঠিক নয়, কোনো নক্ষত্রের নির্দিষ্ট তারিখে আকাশের কোনো স্থানে অবস্থান করলে বৃষ্টিপাত হয় এরূপ বিশ্বাসও ঠিক নয় এবং সফর মাসকে অশুভ মনে করবে না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurairah:The Messenger of Allah (ﷺ) as saying: There is no infection, no hamah, no other promising rain, and no serpent in a hungry belly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
+
+## French
+
+Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il n’y a pas de contagion, pas de hamah, pas de présage annonçant la pluie, et pas de serpent dans un ventre affamé. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Нет заразы, и нет хамы (, суеверия, связанные с совой), и нет влияния планет, и нет сафара»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre'den rivayet olunduğuna göre; Rasûlullah (s.a.v.): "Hastalığın(sebepsiz olarak) bulaşması, (uğursuzluk getiren) baykuş, (insanların kaderine hükmeden bir) yıldız batması, (karında bulunan bir yılanın hareketlerinden doğan ve başkalarına bulaşan bir) karın ağrısı yoktur" buyurdu. Ayrıca bu hadis Buharî, tıb; Müslim, selâm; İbn Mâce, mukaddime, tıb; Ahmed b. Hanbel, I, 174, 180, 269, 328, II, 25, 153, 222, 266, 267, 406,420,434,453,487,507,524, III, il8, 130, 154, 173, 178,251,276,278,293,312. de var. İzah, 3916 da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: نہ کسی کو کسی کی بیماری لگتی ہے، نہ کسی کی کھوپڑی سے الو کی شکل نکلتی ہے، نہ نچھتر کوئی چیز ہے، اور نہ صفر کے مہینہ میں نحوست ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2220 After 2221)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3912</td></tr><tr><td>Arabic No</td><td>3912</td></tr><tr><td>Reference</td><td>Book 30 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2220 After 2221) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3912 |
+| Arabic No | 3912 |
+| Reference | Book 30 Hadith 9 |

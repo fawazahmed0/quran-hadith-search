@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ الْهَادِ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ خَيْرُ يَوْمٍ طَلَعَتْ فِيهِ الشَّمْسُ يَوْمُ الْجُمُعَةِ فِيهِ خُلِقَ آدَمُ وَفِيهِ أُهْبِطَ وَفِيهِ تِيبَ عَلَيْهِ وَفِيهِ مَاتَ وَفِيهِ تَقُومُ السَّاعَةُ وَمَا مِنْ دَابَّةٍ إِلاَّ وَهِيَ مُسِيخَةٌ يَوْمَ الْجُمُعَةِ مِنْ حِينَ تُصْبِحُ حَتَّى تَطْلُعَ الشَّمْسُ شَفَقًا مِنَ السَّاعَةِ إِلاَّ الْجِنَّ وَالإِنْسَ وَفِيهِ سَاعَةٌ لاَ يُصَادِفُهَا عَبْدٌ مُسْلِمٌ وَهُوَ يُصَلِّي يَسْأَلُ اللَّهَ حَاجَةً إِلاَّ أَعْطَاهُ إِيَّاهَا ‏"‏ ‏.‏ قَالَ كَعْبٌ ذَلِكَ فِي كُلِّ سَنَةٍ يَوْمٌ ‏.‏ فَقُلْتُ بَلْ فِي كُلِّ جُمُعَةٍ ‏.‏ قَالَ فَقَرَأَ كَعْبٌ التَّوْرَاةَ فَقَالَ صَدَقَ النَّبِيُّ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو هُرَيْرَةَ ثُمَّ لَقِيتُ عَبْدَ اللَّهِ بْنَ سَلاَمٍ فَحَدَّثْتُهُ بِمَجْلِسِي مَعَ كَعْبٍ فَقَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ قَدْ عَلِمْتُ أَيَّةَ سَاعَةٍ هِيَ ‏.‏ قَالَ أَبُو هُرَيْرَةَ فَقُلْتُ لَهُ فَأَخْبِرْنِي بِهَا ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ هِيَ آخِرُ سَاعَةٍ مِنْ يَوْمِ الْجُمُعَةِ ‏.‏ فَقُلْتُ كَيْفَ هِيَ آخِرُ سَاعَةٍ مِنْ يَوْمِ الْجُمُعَةِ وَقَدْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ لاَ يُصَادِفُهَا عَبْدٌ مُسْلِمٌ وَهُوَ يُصَلِّي ‏"‏ ‏.‏ وَتِلْكَ السَّاعَةُ لاَ يُصَلَّى فِيهَا ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ أَلَمْ يَقُلْ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ مَنْ جَلَسَ مَجْلِسًا يَنْتَظِرُ الصَّلاَةَ فَهُوَ فِي صَلاَةٍ حَتَّى يُصَلِّيَ ‏"‏ ‏.‏ قَالَ فَقُلْتُ بَلَى ‏.‏ قَالَ هُوَ ذَاكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
+
 حدثنا القعنبي، عن مالك، عن يزيد بن عبد الله بن الهاد، عن محمد بن ابراهيم، عن ابي سلمة بن عبد الرحمن، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " خير يوم طلعت فيه الشمس يوم الجمعة فيه خلق ادم وفيه اهبط وفيه تيب عليه وفيه مات وفيه تقوم الساعة وما من دابة الا وهي مسيخة يوم الجمعة من حين تصبح حتى تطلع الشمس شفقا من الساعة الا الجن والانس وفيه ساعة لا يصادفها عبد مسلم وهو يصلي يسال الله حاجة الا اعطاه اياها " . قال كعب ذلك في كل سنة يوم . فقلت بل في كل جمعة . قال فقرا كعب التوراة فقال صدق النبي صلى الله عليه وسلم . قال ابو هريرة ثم لقيت عبد الله بن سلام فحدثته بمجلسي مع كعب فقال عبد الله بن سلام قد علمت اية ساعة هي . قال ابو هريرة فقلت له فاخبرني بها . فقال عبد الله بن سلام هي اخر ساعة من يوم الجمعة . فقلت كيف هي اخر ساعة من يوم الجمعة وقد قال رسول الله صلى الله عليه وسلم " لا يصادفها عبد مسلم وهو يصلي " . وتلك الساعة لا يصلى فيها . فقال عبد الله بن سلام الم يقل رسول الله صلى الله عليه وسلم " من جلس مجلسا ينتظر الصلاة فهو في صلاة حتى يصلي " . قال فقلت بلى . قال هو ذاك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সূর্য উদিত হওয়ার দিনগুলোর মধ্যে জুমু‘আহর দিনই হচ্ছে সর্বোত্তম। আদম (আ)-কে এদিনেই সৃষ্টি করা হয়েছিলো। এদিনই তাঁকে জান্নাত থেকে বের করে পৃথিবীতে পাঠানো হয়েছিলো। এদিনই তাঁর তওবা কবুল হয়েছিলো। এদিনই তিনি ইন্তিকাল করেছিলেন এবং এদিনই ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে। জিন ও মানুষ ছাড়া প্রতিটি প্রাণী শুক্রবার দিন ভোর হতে সূর্যোদয় পর্যন্ত কিয়ামতের ভয়ে ভীত থাকে। এদিন এমন একটি বিশেষ সময় রয়েছে, সালাতরত অবস্থায় কোন মুসলিম বান্দা মহান ও সর্বশক্তিমান আল্লাহর কাছে কোন অভাব পূরণের জন্য দু‘আ করলে মহান আল্লাহ তাকে তা দান করেন। কা‘ব বললেন, এ সময়টি প্রতি এক বছরে একটি জুমু‘আহর দিনে থাকে। আমি (আবূ হুরাইরাহ) বললাম, না, বরং প্রতি জামু‘আহর দিনেই থাকে। অতঃপর কা‘ব (এর প্রমাণে) তাওরাত পাঠ করে বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সত্যই বলেছেন। আবূ হুরাইরাহ (রাঃ) বর্ণনা করেন, অতঃপর আমি ‘আবদুল্লাহ ইবনু সালাম (রাঃ) এর সাথে সাক্ষাৎ করে বিষয়টি অবহিত করি। সেখানে কা‘ব (রাঃ)-ও উপস্থিত ছিলেন। ‘আবদুল্লাহ ইবনু সালাম (রাঃ) বললেন, আমি দু‘আ কবুলের বিশেষ সময়টি সম্পর্ক জানি। আবূ হুরাইরাহ (রাঃ) বলেন, আমাকে তা অবহিত করুন। তিনি বলেন, সেটি হলো জুমু‘আহর দিনের সর্বশেষ সময়। আমি (আবূ হুরাইরাহ) বললাম, জুমু‘আহর দিনের সর্বশেষ সময় কেমন করে হবে? অথচ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘যে কোন মুসলিম বান্দা সালাতরত অবস্থায় ঐ সময়টি পাবে...।’’ কিন্তু আপনার বর্ণনাকৃত সময়ে তো সালাত আদায় করা যায় না। ‘আবদুল্লাহ ইবনু সালাম (রাঃ) বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি বলেননি, যে ব্যক্তি সালাতের জন্য বসে অপেক্ষা করবে সে সালাত আদায় না করা পর্যন্ত সালাতরত বলে গণ্য হবে। আবূ হুরাইরাহ বলেন, আমি বললাম, হ্যাঁ। ‘আবদুল্লাহ ইবনু সালাম (রাঃ) বললেন, তা এরূপই।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সূর্য উদিত হওয়ার দিনগুলোর মধ্যে জুমু‘আহর দিনই হচ্ছে সর্বোত্তম। আদম (আ)-কে এদিনেই সৃষ্টি করা হয়েছিলো। এদিনই তাঁকে জান্নাত থেকে বের করে পৃথিবীতে পাঠানো হয়েছিলো। এদিনই তাঁর তওবা কবুল হয়েছিলো। এদিনই তিনি ইন্তিকাল করেছিলেন এবং এদিনই ক্বিয়ামাত (কিয়ামত) সংঘটিত হবে। জিন ও মানুষ ছাড়া প্রতিটি প্রাণী শুক্রবার দিন ভোর হতে সূর্যোদয় পর্যন্ত কিয়ামতের ভয়ে ভীত থাকে। এদিন এমন একটি বিশেষ সময় রয়েছে, সালাতরত অবস্থায় কোন মুসলিম বান্দা মহান ও সর্বশক্তিমান আল্লাহর কাছে কোন অভাব পূরণের জন্য দু‘আ করলে মহান আল্লাহ তাকে তা দান করেন। কা‘ব বললেন, এ সময়টি প্রতি এক বছরে একটি জুমু‘আহর দিনে থাকে। আমি (আবূ হুরাইরাহ) বললাম, না, বরং প্রতি জামু‘আহর দিনেই থাকে। অতঃপর কা‘ব (এর প্রমাণে) তাওরাত পাঠ করে বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সত্যই বলেছেন। আবূ হুরাইরাহ (রাঃ) বর্ণনা করেন, অতঃপর আমি ‘আবদুল্লাহ ইবনু সালাম (রাঃ) এর সাথে সাক্ষাৎ করে বিষয়টি অবহিত করি। সেখানে কা‘ব (রাঃ)-ও উপস্থিত ছিলেন। ‘আবদুল্লাহ ইবনু সালাম (রাঃ) বললেন, আমি দু‘আ কবুলের বিশেষ সময়টি সম্পর্ক জানি। আবূ হুরাইরাহ (রাঃ) বলেন, আমাকে তা অবহিত করুন। তিনি বলেন, সেটি হলো জুমু‘আহর দিনের সর্বশেষ সময়। আমি (আবূ হুরাইরাহ) বললাম, জুমু‘আহর দিনের সর্বশেষ সময় কেমন করে হবে? অথচ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘যে কোন মুসলিম বান্দা সালাতরত অবস্থায় ঐ সময়টি পাবে...।’’ কিন্তু আপনার বর্ণনাকৃত সময়ে তো সালাত আদায় করা যায় না। ‘আবদুল্লাহ ইবনু সালাম (রাঃ) বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি বলেননি, যে ব্যক্তি সালাতের জন্য বসে অপেক্ষা করবে সে সালাত আদায় না করা পর্যন্ত সালাতরত বলে গণ্য হবে। আবূ হুরাইরাহ বলেন, আমি বললাম, হ্যাঁ। ‘আবদুল্লাহ ইবনু সালাম (রাঃ) বললেন, তা এরূপই।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Messenger of Allah (ﷺ) said: The best day on which the sun has risen is Friday; on it Adam was created, on it he was expelled (from Paradise), on it his contrition was accepted, on it he died, and on it the Last Hour will take place. On Friday every beast is on the lookout from dawn to sunrise in fear of the Last Hour, but not jinn and men, and it contains a time at which no Muslim prays and asks anything from Allah but He will give it to him. Ka'b said: That is one day every year. So I said: It is on every Friday. Ka'b read the Torah and said: The Messenger of Allah (ﷺ) has spoken the truth. AbuHurayrah said: I met Abdullah ibn Salam and told him of my meeting with Ka'b. Abdullah ibn Salam said: I know what time it is. AbuHurayrah said: I asked him to tell me about it. Abdullah ibn Salam said: It is at the very end of Friday. I asked: How can it be when the Messenger of Allah (ﷺ) has said: "No Muslim finds it while he is praying...." and this is the moment when no prayer is offered. Abdullah ibn Salam said: Has the Messenger of Allah (ﷺ) not said: "If anyone is seated waiting for the prayer, he is engaged in the prayer until he observes it." I said: Yes, it is so
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le meilleur jour sur lequel le soleil se lève est le vendredi : c’est ce jour-là qu’Adam a été créé, qu’il a été expulsé (du Paradis), que son repentir a été accepté, qu’il est mort et que l’Heure dernière aura lieu. Le vendredi, chaque bête est attentive du lever du jour jusqu’au lever du soleil, craignant l’Heure, sauf les djinns et les hommes. Il y a, ce jour-là, un moment où aucun musulman ne prie et ne demande quelque chose à Allah sans qu’Il ne le lui accorde. Ka‘b a dit : “C’est un jour chaque année.” J’ai dit : “C’est chaque vendredi.” Ka‘b a lu la Torah et a dit : “Le Messager d’Allah ﷺ a dit vrai.” Abu Huraira a dit : J’ai rencontré Abdullah ibn Salam et je lui ai parlé de ma rencontre avec Ka‘b. Abdullah ibn Salam a dit : “Je sais à quel moment il s’agit.” Abu Huraira a dit : Je lui ai demandé de me l’indiquer. Abdullah ibn Salam a dit : “C’est tout à la fin du vendredi.” J’ai demandé : “Comment cela, alors que le Messager d’Allah ﷺ a dit : ‘Aucun musulman ne la trouve alors qu’il prie…’ et c’est le moment où l’on ne prie pas ?” Abdullah ibn Salam a dit : “Le Messager d’Allah ﷺ n’a-t-il pas dit : ‘Celui qui est assis en attendant la prière est considéré comme étant en prière jusqu’à ce qu’il l’accomplisse’ ?” J’ai dit : “Oui, c’est bien cela.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\] dari \[Yazid bin Abdullah bin Al Had\] dari \[Muhammad bin Ibrahim\] dari \[Abu Salamah bin Abdurrahman\] dari \[Abu Hurairah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik hari ketika matahari terbit adalah hari Jum'at, pada hari itu Adam di cipta, pada hari itu Adam di turunkan dari surga, pada hari itu pula taubatnya di terima, pada hari itu juga ia wafat, pada hari itu Kiamat akan terjadi dan tidak ada binatang melata satu pun kecuali mereka menunggu pada hari Jum'at sejak shubuh sampai terbit matahari karena takut akan datangnya hari Kiamat kecuali Jin dan manusia, pada hari Jum 'at ada suatu waktu yang tidaklah seorang mukmin pun ketika shalat, dan berdoa meminta sesuatu kepada Allah yang bertepatan dengan waktu itu, melainkan Allah akan mengabulkannya". Ka'ab lalu berkata; 'Apakah waktu itu hanya ada dalam satu hari di setiap tahun? '. Jawabku; 'Bahkan waktu itu ada pada setiap hari Jum'at'. Lantas Ka'ab membaca Taurat. Kemudian berkata; 'Rasulullah Shalallahu 'Alaihi Wa Sallam benar, hari itu ada pada setiap hari Jum'at'. Abu Hurairah berkata; "Kemudian aku menemui Abdullah bin Salam, lalu aku ceritakan peristiwaku bersama Ka'ab ketika di majlisku." Maka \[Abdullah bin Salam\] berkata; "Sungguh aku tahu saat itu." Abu Hurairah berkata; "Beritahukanlah kepadaku saat itu." Abdullah bin Salam menjawab; "Saat itu adalah waktu terakhir pada hari Jum'at." Kataku; "Bagaimana saat itu bisa terjadi di akhir hari Jum'at? Padahal Rasulullah shallallahu 'alaihi wasallam bersabda: "Dan tidaklah seorang hamba muslim yang shalat pada waktu itu, dan tidaklah ia shalat …" Maka Abdullah bin Salam berkata; "Tidakkah Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bermajlis untuk menunggu shalat, maka ia terus dihitung dalam shalat hingga ia benar-benar shalat." Abu Hurairah berkata; jawabku; "Benar." Abdullah bin Salam berkata; "Itulah waktunya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Yazid bin Abdullah bin Al Had] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik-baik hari ketika matahari terbit adalah hari Jum'at, pada hari itu Adam di cipta, pada hari itu Adam di turunkan dari surga, pada hari itu pula taubatnya di terima, pada hari itu juga ia wafat, pada hari itu Kiamat akan terjadi dan tidak ada binatang melata satu pun kecuali mereka menunggu pada hari Jum'at sejak shubuh sampai terbit matahari karena takut akan datangnya hari Kiamat kecuali Jin dan manusia, pada hari Jum 'at ada suatu waktu yang tidaklah seorang mukmin pun ketika shalat, dan berdoa meminta sesuatu kepada Allah yang bertepatan dengan waktu itu, melainkan Allah akan mengabulkannya". Ka'ab lalu berkata; 'Apakah waktu itu hanya ada dalam satu hari di setiap tahun? '. Jawabku; 'Bahkan waktu itu ada pada setiap hari Jum'at'. Lantas Ka'ab membaca Taurat. Kemudian berkata; 'Rasulullah Shalallahu 'Alaihi Wa Sallam benar, hari itu ada pada setiap hari Jum'at'. Abu Hurairah berkata; "Kemudian aku menemui Abdullah bin Salam, lalu aku ceritakan peristiwaku bersama Ka'ab ketika di majlisku." Maka [Abdullah bin Salam] berkata; "Sungguh aku tahu saat itu." Abu Hurairah berkata; "Beritahukanlah kepadaku saat itu." Abdullah bin Salam menjawab; "Saat itu adalah waktu terakhir pada hari Jum'at." Kataku; "Bagaimana saat itu bisa terjadi di akhir hari Jum'at? Padahal Rasulullah shallallahu 'alaihi wasallam bersabda: "Dan tidaklah seorang hamba muslim yang shalat pada waktu itu, dan tidaklah ia shalat …" Maka Abdullah bin Salam berkata; "Tidakkah Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bermajlis untuk menunggu shalat, maka ia terus dihitung dalam shalat hingga ia benar-benar shalat." Abu Hurairah berkata; jawabku; "Benar." Abdullah bin Salam berkata; "Itulah waktunya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что он сказал: «Посланник Аллаха ﷺ сказал: “Лучшим из дней, в которые всходило солнце, является пятница. В этот день был создан Адам, и в этот день он был низвергнут оттуда, и в этот день он был прощён, и в этот день он умер, и в этот день наступит Час. И всякое живое существо в пятницу напряжённо прислушивается с раннего утра и пока не поднимется солнце, опасаясь наступления Часа, за исключением джиннов и людей, и в этом дне есть час, в который мольба раба (Аллаха) мусульманина, который, молясь, просит у Всемогущего и Великого Аллаха чего-либо, не остаётся без ответа”. Ка‘б спросил (меня): “Это бывает раз в год?” Я ответил: “Нет, это бывает каждую пятницу”. Потом Ка‘б почитал Тору и сказал: “Правду сказал Пророк ﷺ!”» Абу Хурайра сказал: «Затем я встретил ‘Абдуллаха ибн Саляма и поведал ему о моём разговоре с Ка‘бом. ‘Абдуллах ибн Салям сказал: “Я знаю, что это за час”». Абу Хурайра передаёт: «Я сказал: “Сообщи же мне об этом!” ‘Абдуллах ибн Салям сказал: “Это последний час пятницы”. Я сказал: “Как же это может быть последний час пятницы, когда Посланник Аллаха ﷺ сказал: “Если застанет раб (Аллаха) мусульманин этот час, молясь…” А ведь в это время не совершается молитва!” ‘Абдуллах ибн Салям сказал: “Но разве Пророк ﷺ не сказал: “Кто остаётся сидеть на месте в ожидании следующей молитвы, считается пребывающим в молитве до тех пор, пока не совершит её?””» Он сказал: «Я ответил: “Да, это так”. (‘Абдуллах) сказал: “Именно это и имеется в виду”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.)'den; demiştir ki: Nebi (s.a.v.) şöyle buyurdu: "Güneşin doğduğu günlerin en hayırlısı cum'a günüdür. Âdem (a.s.) o günde yaratılmış, o günde (dünyaya) indirilmiş, o günde tevbesi kabul edilmiş ve o günde ölmüştür. Kıyamet de o günde kopacaktır. İnsanlar ve cinlerden başka hiçbir canlı yok ki kıyâmet(in kopmasın)dan korkarak cum'a günü sabah olunca güneş doğuncaya kadar kulak kabartır olmasın. O günde bir an vardır ki, müslüman namaz kılarak ve Allah'tan bir hacetini isteyerek o ana tesadüf ederse, Allah mutlaka onu verir." Ebu Hureyre dedi ki: Ka'b (el-Ahbar) bu (makbul an)nun, bütün senenin bir günün­de olduğunu söyler. Bense, "aksine her cum'a gününde olduğu" kanaatindeyim. Ka'b Tevrat'ı okuyup, "Resûlullah (s.a.v.) doğru söyledi" dedi. Ebû Hureyre devamla şöyle der: Daha sonra Abdullah b.Selam'la karşılaşıp Ka'b'la beraber oturduğumuzu haber verdim. Abdullah b. Selâm: O ânın hangi saat olduğunu biliyorum, dedi. Onu bana haber ver, dedim. Cum'a gününün son saati, dedi. Resûlullah (s.a.v.); "Müslüman namaz kılarken o vakte tesadüf etmez ki..." buyurduğu halde o an, nasıl cuma gününün son saati olur, halbuki bu vakitte namaz kılınmaz, dedim. Resûlullah (s.a.v.), "bir kimse bir yerde namazı bekleyerek oturursa, namazı kılıncaya kadar namazda gibidir" buyurmadı mı? dedi. Evet, buyurdu dedim. Abdullah: İşte o, budur" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بہتر دن جس میں سورج طلوع ہوا جمعہ کا دن ہے، اسی دن آدم پیدا لیے گئے، اسی دن وہ زمین پر اتارے گئے، اسی دن ان کی توبہ قبول کی گئی، اسی دن ان کا انتقال ہوا، اور اسی دن قیامت برپا ہو گی، انس و جن کے علاوہ سبھی جاندار جمعہ کے دن قیامت برپا ہونے کے ڈر سے صبح سے سورج نکلنے تک کان لگائے رہتے ہیں، اس میں ایک ساعت ( گھڑی ) ایسی ہے کہ اگر کوئی مسلمان بندہ نماز پڑھتے ہوئے اس گھڑی کو پا لے، پھر اللہ تعالیٰ سے اپنی کسی ضرورت کا سوال کرے تو اللہ اس کو ( ضرور ) دے گا ۔ کعب الاحبار نے کہا: یہ ساعت ( گھڑی ) ہر سال میں کسی ایک دن ہوتی ہے تو میں نے کہا: نہیں بلکہ ہر جمعہ میں ہوتی ہے پھر کعب نے تورات پڑھی اور کہا: نبی اکرم صلی اللہ علیہ وسلم نے سچ فرمایا، ابوہریرہ رضی اللہ عنہ کہتے ہیں: پھر میں عبداللہ بن سلام رضی اللہ عنہ سے ملا، اور کعب کے ساتھ اپنی اس مجلس کے متعلق انہیں بتایا تو آپ نے کہا: وہ کون سی ساعت ہے؟ مجھے معلوم ہے، میں نے ان سے کہا: اسے مجھے بھی بتائیے تو عبداللہ بن سلام رضی اللہ عنہ نے کہا: وہ جمعہ کے دن کی آخری ساعت ( گھڑی ) ہے، میں نے عرض کیا: وہ جمعہ کے دن کی آخری ساعت ( گھڑی ) کیسے ہو سکتی ہے؟ جب کہ رسول اللہ صلی اللہ علیہ وسلم کا ارشاد ہے کہ: کوئی مسلمان بندہ اس وقت کو اس حال میں پائے کہ وہ نماز پڑھ رہا ہو ، اور اس وقت میں نماز تو نہیں پڑھی جاتی ہے تو اس پر عبداللہ بن سلام رضی اللہ عنہ نے کہا: کیا رسول اللہ صلی اللہ علیہ وسلم نے یہ نہیں فرمایا: جو شخص نماز کے انتظار میں بیٹھا رہے، وہ حکماً نماز ہی میں رہتا ہے جب تک کہ وہ نماز نہ پڑھ لے ، ابوہریرہ رضی اللہ عنہ کہتے ہیں: میں نے کہا: کیوں نہیں، رسول اللہ صلی اللہ علیہ وسلم نے تو یہ فرمایا ہے، انہوں نے کہا: تو اس سے مراد یہی ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1046</td></tr><tr><td>Arabic No</td><td>1046</td></tr><tr><td>Reference</td><td>Book 2 Hadith 657</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1046 |
+| Arabic No | 1046 |
+| Reference | Book 2 Hadith 657 |

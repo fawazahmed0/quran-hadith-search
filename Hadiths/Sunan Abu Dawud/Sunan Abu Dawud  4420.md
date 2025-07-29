@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ بْنِ مَيْسَرَةَ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، قَالَ ذَكَرْتُ لِعَاصِمِ بْنِ عُمَرَ بْنِ قَتَادَةَ قِصَّةَ مَاعِزِ بْنِ مَالِكٍ فَقَالَ لِي حَدَّثَنِي حَسَنُ بْنُ مُحَمَّدِ بْنِ عَلِيِّ بْنِ أَبِي طَالِبٍ، قَالَ حَدَّثَنِي ذَلِكَ، مِنْ قَوْلِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏"‏ فَهَلاَّ تَرَكْتُمُوهُ ‏"‏ ‏.‏ مَنْ شِئْتُمْ مِنْ رِجَالِ أَسْلَمَ مِمَّنْ لاَ أَتَّهِمُ ‏.‏ قَالَ وَلَمْ أَعْرِفْ هَذَا الْحَدِيثَ قَالَ فَجِئْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ فَقُلْتُ إِنَّ رِجَالاً مِنْ أَسْلَمَ يُحَدِّثُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهُمْ حِينَ ذَكَرُوا لَهُ جَزَعَ مَاعِزٍ مِنَ الْحِجَارَةِ حِينَ أَصَابَتْهُ ‏"‏ أَلاَّ تَرَكْتُمُوهُ ‏"‏ ‏.‏ وَمَا أَعْرِفُ الْحَدِيثَ قَالَ يَا ابْنَ أَخِي أَنَا أَعْلَمُ النَّاسِ بِهَذَا الْحَدِيثِ كُنْتُ فِيمَنْ رَجَمَ الرَّجُلَ إِنَّا لَمَّا خَرَجْنَا بِهِ فَرَجَمْنَاهُ فَوَجَدَ مَسَّ الْحِجَارَةِ صَرَخَ بِنَا يَا قَوْمِ رُدُّونِي إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَإِنَّ قَوْمِي قَتَلُونِي وَغَرُّونِي مِنْ نَفْسِي وَأَخْبَرُونِي أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم غَيْرُ قَاتِلِي فَلَمْ نَنْزِعْ عَنْهُ حَتَّى قَتَلْنَاهُ فَلَمَّا رَجَعْنَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَخْبَرْنَاهُ قَالَ ‏"‏ فَهَلاَّ تَرَكْتُمُوهُ وَجِئْتُمُونِي بِهِ ‏"‏ ‏.‏ لِيَسْتَثْبِتَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْهُ فَأَمَّا لِتَرْكِ حَدٍّ فَلاَ قَالَ فَعَرَفْتُ وَجْهَ الْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
+
 حدثنا عبيد الله بن عمر بن ميسرة، حدثنا يزيد بن زريع، عن محمد بن اسحاق، قال ذكرت لعاصم بن عمر بن قتادة قصة ماعز بن مالك فقال لي حدثني حسن بن محمد بن علي بن ابي طالب، قال حدثني ذلك، من قول رسول الله صلى الله عليه وسلم " فهلا تركتموه " . من شيتم من رجال اسلم ممن لا اتهم . قال ولم اعرف هذا الحديث قال فجيت جابر بن عبد الله فقلت ان رجالا من اسلم يحدثون ان رسول الله صلى الله عليه وسلم قال لهم حين ذكروا له جزع ماعز من الحجارة حين اصابته " الا تركتموه " . وما اعرف الحديث قال يا ابن اخي انا اعلم الناس بهذا الحديث كنت فيمن رجم الرجل انا لما خرجنا به فرجمناه فوجد مس الحجارة صرخ بنا يا قوم ردوني الى رسول الله صلى الله عليه وسلم فان قومي قتلوني وغروني من نفسي واخبروني ان رسول الله صلى الله عليه وسلم غير قاتلي فلم ننزع عنه حتى قتلناه فلما رجعنا الى رسول الله صلى الله عليه وسلم واخبرناه قال " فهلا تركتموه وجيتموني به " . ليستثبت رسول الله صلى الله عليه وسلم منه فاما لترك حد فلا قال فعرفت وجه الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
 
 ## Bengali
 
+। মুহাম্মাদ ইবনু ইসহাক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি মাঈয ইবনু মালিকের ঘটনা আসিম ইবনু উমার ইবনু কাতাদাহর নিকট উল্লেখ করলাম। তিনি আমাকে বললেন, হাসান ইবনু মুহাম্মাদ ইবনু আলী ইবনু আবূ তালিব আমাকে বলেছেন, এরা আসলাম গোত্রের কতক লোক যাদেরকে আমি দোষারোপ করি না এবং যাদের নিকট থেকে তুমি আমার নিকট রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বাণীঃ ‘‘তোমরা তাকে ছেড়ে দিলে না কেন’’ বর্ণনা করেছো আমি এ হাদীস হৃদয়ঙ্গম করতে পারিনি। অতএব আমি তাকে জাবির ইবনু আব্দুল্লাহ (রাঃ)-এর নিকট এসে বললাম, আসলাম গোত্রের কয়েকজন লোক বর্ণনা করছে যে, পাথর নিক্ষেপের মারাত্মক চোট পেয়ে মাঈযের হতবুদ্ধি হয়ে যাওয়ার ঘটনা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আলোচনা করাতে তিনি বলেনঃ ‘‘তোমরা তাকে ছেড়ে দিলে না কেন?’’ অথচ আমি তো এ হাদীস সম্পর্কে জানি না। জাবির বললেন, হে ভাতিজা! এ হাদীস সম্পর্কিত ঘটনা আমি অধিক জ্ঞাত। কেননা আমিও লোকটিকে পাথর মারার জন্য নিয়োজিত ব্যক্তিদের অন্যতম। আমরা যখন তাকে নিয়ে বেরিয়ে গিয়ে পাথর মারা শুরু করলাম তখন পাথর নিক্ষেপের মারাত্মক চোট পেয়ে সে আমাদের নিকট চিৎকার করে বলতে লাগলো, হে লোক সকল! তোমরা আমাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ফিরিয়ে নিয়ে চলো। আমার আপনজনেরাই আমাকে হত্যার জন্য দায়ী। তারা আমার সঙ্গে প্রতারণা করেছে। তারা আমাকে বলেছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে হত্যা করবেন না। তথাপি আমরা তাকে হত্যা না করে ছাড়িনি। অতঃপর আমরা যখন ফিরে এসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসব কথা বললাম, তখন তিনি বললেনঃ তোমরা তাকে ছেড়ে দিলে না কেন এবং আমার নিকট নিয়ে এলে না কেন? যাতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার অনুতাপ কবূল করতেন। কিন্তু তিনি হাদ্দ পরিত্যাগ করার জন্য একথা বলেননি। বর্ণনাকারী বলেন, এবার আমি এ হাদীসের মর্ম বুঝতে পারলাম।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুহাম্মাদ ইবনু ইসহাক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি মাঈয ইবনু মালিকের ঘটনা আসিম ইবনু উমার ইবনু কাতাদাহর নিকট উল্লেখ করলাম। তিনি আমাকে বললেন, হাসান ইবনু মুহাম্মাদ ইবনু আলী ইবনু আবূ তালিব আমাকে বলেছেন, এরা আসলাম গোত্রের কতক লোক যাদেরকে আমি দোষারোপ করি না এবং যাদের নিকট থেকে তুমি আমার নিকট রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বাণীঃ ‘‘তোমরা তাকে ছেড়ে দিলে না কেন’’ বর্ণনা করেছো আমি এ হাদীস হৃদয়ঙ্গম করতে পারিনি। অতএব আমি তাকে জাবির ইবনু আব্দুল্লাহ (রাঃ)-এর নিকট এসে বললাম, আসলাম গোত্রের কয়েকজন লোক বর্ণনা করছে যে, পাথর নিক্ষেপের মারাত্মক চোট পেয়ে মাঈযের হতবুদ্ধি হয়ে যাওয়ার ঘটনা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আলোচনা করাতে তিনি বলেনঃ ‘‘তোমরা তাকে ছেড়ে দিলে না কেন?’’ অথচ আমি তো এ হাদীস সম্পর্কে জানি না। জাবির বললেন, হে ভাতিজা! এ হাদীস সম্পর্কিত ঘটনা আমি অধিক জ্ঞাত। কেননা আমিও লোকটিকে পাথর মারার জন্য নিয়োজিত ব্যক্তিদের অন্যতম। আমরা যখন তাকে নিয়ে বেরিয়ে গিয়ে পাথর মারা শুরু করলাম তখন পাথর নিক্ষেপের মারাত্মক চোট পেয়ে সে আমাদের নিকট চিৎকার করে বলতে লাগলো, হে লোক সকল! তোমরা আমাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ফিরিয়ে নিয়ে চলো। আমার আপনজনেরাই আমাকে হত্যার জন্য দায়ী। তারা আমার সঙ্গে প্রতারণা করেছে। তারা আমাকে বলেছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে হত্যা করবেন না। তথাপি আমরা তাকে হত্যা না করে ছাড়িনি। অতঃপর আমরা যখন ফিরে এসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসব কথা বললাম, তখন তিনি বললেনঃ তোমরা তাকে ছেড়ে দিলে না কেন এবং আমার নিকট নিয়ে এলে না কেন? যাতে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার অনুতাপ কবূল করতেন। কিন্তু তিনি হাদ্দ পরিত্যাগ করার জন্য একথা বলেননি। বর্ণনাকারী বলেন, এবার আমি এ হাদীসের মর্ম বুঝতে পারলাম।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: Muhammad ibn Ishaq said: I mentioned the story of Ma'iz ibn Malik to Asim ibn Umar ibn Qatadah. He said to me: Hasan ibn Muhammad ibn Ali ibn AbuTalib said to me: Some men of the tribe of Aslam whom I do not blame and whom you like have transmitted to me the saying of the Messenger of Allah (ﷺ): Why did you not leave him alone? He said: But I did not understand this tradition. So I went to Jabir ibn Abdullah and said (to him): Some men of the tribe of Aslam narrate that the Messenger of Allah (ﷺ) said when they mentioned to him the anxiety of Ma'iz when the stones hurt him: "Why did you not leave him alone?' But I do not know this tradition. He said: My cousin, I know this tradition more than the people. I was one of those who had stoned the man. When we came out with him, stoned him and he felt the effect of the stones, he cried: O people! return me to the Messenger of Allah (ﷺ). My people killed me and deceived me; they told me that the Messenger of Allah (ﷺ) would not kill me. We did not keep away from him till we killed him. When we returned to the Messenger of Allah (ﷺ) we informed him of it. He said: Why did you not leave him alone and bring him to me? and he said this so that the Messenger of Allah (ﷺ) might ascertain it from him. But he did not say this to abandon the prescribed punishment. He said: I then understood the intent of the tradition
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah رضي الله عنه : Muhammad ibn Ishaq a dit : J’ai raconté l’histoire de Ma’iz ibn Malik à Asim ibn Umar ibn Qatadah. Il m’a dit : Hasan ibn Muhammad ibn Ali ibn AbuTalib m’a dit : « Des hommes de la tribu d’Aslam, que je ne blâme pas et que tu apprécies, m’ont transmis cette parole du Messager d’Allah ﷺ : “Pourquoi ne l’avez-vous pas laissé ?” » Il a dit : Mais je n’ai pas compris cette tradition. Je suis donc allé voir Jabir ibn Abdullah et lui ai dit : « Des hommes de la tribu d’Aslam rapportent que le Messager d’Allah ﷺ a dit, lorsqu’on lui a parlé de l’angoisse de Ma’iz à cause des pierres : “Pourquoi ne l’avez-vous pas laissé ?” Mais je ne connais pas cette tradition. » Il a dit : « Mon cousin, je connais cette tradition mieux que quiconque. J’étais parmi ceux qui ont lapidé cet homme. Quand nous sommes sortis avec lui, que nous l’avons lapidé et qu’il a ressenti la douleur des pierres, il a crié : “Ô gens ! Ramenez-moi au Messager d’Allah ﷺ. Mon peuple m’a tué et trompé ; ils m’ont dit que le Messager d’Allah ﷺ ne me tuerait pas.” Nous ne l’avons pas laissé jusqu’à ce que nous le tuions. Quand nous sommes revenus auprès du Messager d’Allah ﷺ, nous l’en avons informé. Il a dit : “Pourquoi ne l’avez-vous pas laissé et ne me l’avez-vous pas ramené ?” et il a dit cela afin que le Messager d’Allah ﷺ puisse s’en assurer auprès de lui. Mais il n’a pas dit cela pour abandonner la peine prescrite. » Il a dit : « J’ai alors compris le sens de la tradition. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ubaidullah bin Umar bin maisarah\] berkata, telah menceritakan kepada kami \[Yazid bin Zurai'\] dari \[Muhammad bin Ishaq\] ia berkata; Aku menceritakan kisah Ma'iz bin Malik kepada \[Ashim bin Umar bin Qatadah\], lalu ia berkata kepadaku; telah menceritakan kepadaku \[Hasan bin Muhammad bin Ali bin Abu Thalib\] ia berkata, "Aku mendengar kisah itu dari sabda Rasulullah shallallahu 'alaihi wasallam, 'Mengapa kalian tidak membiarkannya' dari orang-orang bani Aslam yang aku tidak merasa ragu dengan mereka." Hasan bin Muhammad berkata lagi, "Tetapi aku tidak tahu hadits ini." Aku (Muhammad bin Ishaq) lalu mendatangi \[Jabir bin Abdullah\], dan kukatakan kepadanya, "Beberapa lelaki dari bani Aslam menceritakan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam pernah berkata kepada mereka 'Mengapa kalian tidak membiarkan (Ma'iz lari) saja? ', yakni ketika mereka menceritakan tentang kejadian kaburnya Ma'iz karena tidak tahan dengan sakitnya lemparan batu, dan aku juga tidak tahu keberadaan hadits tersebut." Jabir berkata, "Wahai keponakanku, aku adalah orang yang paling tahu dengan hadits ini, karena aku termasuk orang yang ikut merajam Ma'iz. Ketika kami keluar dan merajam Ma'iz, dan ia merasakan sakitnya lemparan batu, maka ia kesakitan dan berteriak kepada kami, "Wahai kaum, kembalikanlah aku kepada Rasulullah shallallahu 'alaihi wasallam. Sungguh, kaumku telah menipuku dan ingin membunuhku. Mereka kabarkan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam tidak akan membunuhku." Namun kami tidak berhenti merajam Ma'iz, sehingga kami pun membunuhnya. Maka ketika kami kembali dan kami kabarkan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Kenapa kalian tidak biarkan saja, lalu kalian bawa ia kemari?" Hal itu beliau lakukan untuk mendapat kepastian darinya, bukan untuk melepaskan hukuman had." Hasan bin Muhammad berkata, "Dari situlah aku tahu konteks hadits itu sebenarnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Umar bin maisarah] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] dari [Muhammad bin Ishaq] ia berkata; Aku menceritakan kisah Ma'iz bin Malik kepada [Ashim bin Umar bin Qatadah], lalu ia berkata kepadaku; telah menceritakan kepadaku [Hasan bin Muhammad bin Ali bin Abu Thalib] ia berkata, "Aku mendengar kisah itu dari sabda Rasulullah shallallahu 'alaihi wasallam, 'Mengapa kalian tidak membiarkannya' dari orang-orang bani Aslam yang aku tidak merasa ragu dengan mereka." Hasan bin Muhammad berkata lagi, "Tetapi aku tidak tahu hadits ini." Aku (Muhammad bin Ishaq) lalu mendatangi [Jabir bin Abdullah], dan kukatakan kepadanya, "Beberapa lelaki dari bani Aslam menceritakan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam pernah berkata kepada mereka 'Mengapa kalian tidak membiarkan (Ma'iz lari) saja? ', yakni ketika mereka menceritakan tentang kejadian kaburnya Ma'iz karena tidak tahan dengan sakitnya lemparan batu, dan aku juga tidak tahu keberadaan hadits tersebut." Jabir berkata, "Wahai keponakanku, aku adalah orang yang paling tahu dengan hadits ini, karena aku termasuk orang yang ikut merajam Ma'iz. Ketika kami keluar dan merajam Ma'iz, dan ia merasakan sakitnya lemparan batu, maka ia kesakitan dan berteriak kepada kami, "Wahai kaum, kembalikanlah aku kepada Rasulullah shallallahu 'alaihi wasallam. Sungguh, kaumku telah menipuku dan ingin membunuhku. Mereka kabarkan kepadaku bahwa Rasulullah shallallahu 'alaihi wasallam tidak akan membunuhku." Namun kami tidak berhenti merajam Ma'iz, sehingga kami pun membunuhnya. Maka ketika kami kembali dan kami kabarkan hal itu kepada Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Kenapa kalian tidak biarkan saja, lalu kalian bawa ia kemari?" Hal itu beliau lakukan untuk mendapat kepastian darinya, bukan untuk melepaskan hukuman had." Hasan bin Muhammad berkata, "Dari situlah aku tahu konteks hadits itu sebenarnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Мухаммада ибн Исхака: «Я пересказал ‘Асыму ибн ‘Умару ибн Катаде историю Ма‘иза ибн Малика и он сказал мне: “Хасан ибн Мухаммад ибн ‘Али ибн Абу Талиб рассказал мне: мол, я передаю это со слов Посланника Аллаха, передаёт: “Почему же они не оставили его в покое?” Возьмите кого пожелаете из аслямитов (передавших мне это), честность никого из них я не могу поставить под сомнение”». Он сказал: «А я не знал этот хадис». Он сказал: «И я пришёл к Джабиру и сказал: “Поистине, некие аслямиты рассказывают, что Посланник Аллаха ﷺ сказал им, когда они рассказали ему о страхе, объявшем Ма‘иза после того, как полетевшие в него камни причинили ему боль: “Почему же вы не оставили его в покое?” Но я не знаю этот хадис”. Тогда он сказал: “О сын брата моего! Я больше других людей знаю об этом хадисе, ибо я был среди тех, кто побивал камнями этого мужчину. Когда мы вывели его и начали бросать в него камни, он закричал: “О люди! Отведите меня назад к Посланнику Аллаха ﷺ! Мои соплеменники погубили и обольстили меня, утверждая, что Посланник Аллаха ﷺ не станет убивать меня!” Однако мы не оставляли его в покое, пока не убили его. Вернувшись к Посланнику Аллаха ﷺ мы рассказали ему обо всём, и он сказал: “Почему же вы не оставили его и не пришли с ним ко мне?” То есть чтобы Посланник Аллаха ﷺ удостоверился, что он стоит на своём. Что же касается отмены наказания, то об этом речь не шла”. И тогда я понял смысл хадиса»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammed b. İshak şöyle demiştir: Asım b. Umer b. Katâde'ye Mâiz b. Mâlik kıssasını haber verdim. O da bana şöyle dedi: Bana Hasen b. Muhammed b. Ali b. Ebû Talib (r.a.) şöyle haber verdi: Rasulullah'ın ; "Keşke onu bıraksaydınız" sözünü bana Eslem kabilesinden, hiç itham edemeyeceğim, istediğin (kadar) kişi haber verdi. Ben bu hadisi (sözü veya hadisin tümünü) bilmiyordum. Cabir b. Abdullah'a gidip: "Şüphesiz, Eşlem kabilesinden bazı adamlar, Rasulullah'a, Mâız'in taşlar değmeye başlayınca sabredemediğini söyleyince efendimizin, kendilerine; "Onu bıraksaydınız ya!" dediğini söylüyorlar.Oysa ben bunu bilmiyorum" dedim. Câbir şöyle dedi:, Ey kardeşimin oğlu! Ben bu hadisi insanların en iyi bileniyim. Ben, o zat'ı recmedenler arasındaydım. Biz onu (Mâiz'i) çıkarıp da recm etmeye başlayınca taşın acısını duydu ve bize: "Ey kavmim! beni Rasulullah'a geri götüranüz, şüphesiz kavmim beni öldürdü ve beni aldattı. Bana Rasûlullah'ın , beni öldürmeyeceğini haber vermişlerdi" diye feryâd etti. Ama biz onu olduğu yerden çıkarmadık ve onu öldürdük. Rasulullah (s.a.v.)'e dönüp de, olayı haber verdiğimizde: "Onu serbest bırakıp da bana getirseydiniz ya !" buyurdu. Rasulullah bunu, durumu iyice anlamak (tevbe ettirmek) için söyledi. Haddi terketmek için hiç değil. Hasen der ki: (İşte o zaman) Hadisin vechini anladım. Diğer Tahric edenler: Buhari, hudûd; Müslim, hudûd İzah 4434 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن اسحاق کہتے ہیں کہ میں نے عاصم بن عمر بن قتادہ سے ماعز بن مالک رضی اللہ عنہ کے واقعہ کا ذکر کیا تو انہوں نے مجھ سے کہا کہ مجھ سے حسن بن محمد بن علی بن ابی طالب نے بیان کیا ہے وہ کہتے ہیں: مجھے قبیلہ اسلم کے کچھ لوگوں نے جو تمہیں محبوب ہیں اور جنہیں میں متہم نہیں قرار دیتا بتایا ہے کہ «فهلا تركتموه» رسول اللہ صلی اللہ علیہ وسلم کا قول ہے، حسن کہتے ہیں: میں نے یہ حدیث سمجھی نہ تھی، تو میں جابر بن عبداللہ رضی اللہ عنہما کے پاس آیا، اور ان سے کہا کہ قبیلہ اسلم کے کچھ لوگ بیان کرتے ہیں کہ لوگوں نے پتھر پڑنے سے ماعز کی گھبراہٹ کا جب رسول اللہ صلی اللہ علیہ وسلم سے ذکر کیا تو آپ نے ان سے فرمایا: تم نے اسے چھوڑ کیوں نہیں دیا یہ بات میرے سمجھ میں نہیں آئی، تو جابر رضی اللہ عنہ نے کہا: بھتیجے! میں اس حدیث کا سب سے زیادہ جانکار ہوں، میں ان لوگوں میں سے تھا جنہوں نے انہیں رجم کیا جب ہم انہیں لے کر نکلے اور رجم کرنے لگے اور پتھر ان پر پڑنے لگا تو وہ چلائے اور کہنے لگے: لوگو! مجھے رسول اللہ صلی اللہ علیہ وسلم کے پاس واپس لے چلو، میری قوم نے مجھے مار ڈالا، ان لوگوں نے مجھے دھوکہ دیا ہے، انہوں نے مجھے یہ بتایا تھا کہ رسول اللہ صلی اللہ علیہ وسلم مجھے مار نہیں ڈالیں گے، لیکن ہم لوگوں نے انہیں جب تک مار نہیں ڈالا چھوڑا نہیں، پھر جب ہم لوٹ کر رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور آپ سے اس کا ذکر کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے اسے چھوڑ کیوں نہیں دیا، میرے پاس لے آتے یہ آپ صلی اللہ علیہ وسلم نے اس لیے فرمایا تاکہ آپ ان سے مزید تحقیق کر لیتے، نہ اس لیے کہ آپ انہیں چھوڑ دیتے، اور حد قائم نہ کرتے، وہ کہتے ہیں: تو میں اس وقت حدیث کا مطلب سمجھ سکا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4420</td></tr><tr><td>Arabic No</td><td>4420</td></tr><tr><td>Reference</td><td>Book 40 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4420 |
+| Arabic No | 4420 |
+| Reference | Book 40 Hadith 70 |

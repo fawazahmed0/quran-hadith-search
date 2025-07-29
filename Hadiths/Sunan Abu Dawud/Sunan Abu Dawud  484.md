@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا الْفَرَجُ بْنُ فَضَالَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ رَأَيْتُ وَاثِلَةَ بْنَ الأَسْقَعِ فِي مَسْجِدِ دِمَشْقَ بَصَقَ عَلَى الْبُورِيِّ ثُمَّ مَسَحَهُ بِرِجْلِهِ فَقِيلَ لَهُ لِمَ فَعَلْتَ هَذَا قَالَ لأَنِّي رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَفْعَلُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
+
 حدثنا قتيبة بن سعيد، حدثنا الفرج بن فضالة، عن ابي سعيد، قال رايت واثلة بن الاسقع في مسجد دمشق بصق على البوري ثم مسحه برجله فقيل له لم فعلت هذا قال لاني رايت رسول الله صلى الله عليه وسلم يفعله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি দেখলাম, ওয়াসিলাহ ইবনু আসক্বা' (রাঃ) দামিশক্বের মসজিদে চাটাইয়ের উপর থু থু নিক্ষেপ করে পরে তা পা দিয়ে মুছে ফেলেন। তাকে এরূপ করার কারণ জিজ্ঞেস করা হলে তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপই করতে দেখেছি। \[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি দেখলাম, ওয়াসিলাহ ইবনু আসক্বা' (রাঃ) দামিশক্বের মসজিদে চাটাইয়ের উপর থু থু নিক্ষেপ করে পরে তা পা দিয়ে মুছে ফেলেন। তাকে এরূপ করার কারণ জিজ্ঞেস করা হলে তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে এরূপই করতে দেখেছি। [1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Wathilah ibn al-Asqa': AbuSa'id said: I saw Wathilah ibn al-Asqa' in the mosque of Damascus. He spat at the mat and then rubbed it with his foot. He was asked: Why did you do so? He said: Because I saw the Messenger of Allah (ﷺ) doing so
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
+
+## French
+
+Rapporté par Wathilah ibn al-Asqa' : AbuSa'id a dit : J’ai vu Wathilah ibn al-Asqa' dans la mosquée de Damas. Il a craché sur le tapis puis a frotté avec son pied. On lui demanda : « Pourquoi as-tu fait cela ? » Il répondit : « Parce que j’ai vu le Messager d’Allah ﷺ faire ainsi. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Al-Faraj bin Fadlalah\] dari \[Abu Sa'id\] dia berkata; Saya pernah melihat \[Watsilah bin Al-Asqa'\] di Masjid Damaskus, meludah pada tikar sejenis alburiyy, kemudian dia mengusapnya dengan kakinya. Lalu ditanyakan kepadanya; Mengapa kamu melakukan ini? Maka dia menjawab; Karena saya pernah melihat Rasulullah shallallahu 'alaihi wasallam melakukannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al-Faraj bin Fadlalah] dari [Abu Sa'id] dia berkata; Saya pernah melihat [Watsilah bin Al-Asqa'] di Masjid Damaskus, meludah pada tikar sejenis alburiyy, kemudian dia mengusapnya dengan kakinya. Lalu ditanyakan kepadanya; Mengapa kamu melakukan ini? Maka dia menjawab; Karena saya pernah melihat Rasulullah shallallahu 'alaihi wasallam melakukannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абуль-‘Аляа, сообщившего от своего отца похожий хадис с дополнением: «Затем он затер его своей сандалией»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Said (el-Himyeri)'den, demiştir ki; - Vasile b. el-Eska'ı Dimeşk mescidinde gördüm. Hasıra tükürdü sonra onu ayağı ile sürteledi. Kendisine bunu niçin yaptığı sorulunca: "İnanın, ben Resulullah (Sallallahu aleyhi ve Sellem) böyle yaparken gördüm" dedi. Sadece Ebu Davüd rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسعید حمیری کہتے ہیں کہ میں نے دمشق کی مسجد میں واثلہ بن اسقع رضی اللہ عنہ کو دیکھا کہ انہوں نے بوریے پر تھوکا، پھر اپنے پاؤں سے اسے مل دیا، ان سے پوچھا گیا: آپ نے ایسا کیوں کیا؟ انہوں نے کہا: اس لیے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو ایسا کرتے ہوئے دیکھا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>484</td></tr><tr><td>Arabic No</td><td>484</td></tr><tr><td>Reference</td><td>Book 2 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 484 |
+| Arabic No | 484 |
+| Reference | Book 2 Hadith 94 |

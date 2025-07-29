@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ النَّمَرِيُّ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنِ الْحَسَنِ، عَنْ سَمُرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ كُلُّ غُلاَمٍ رَهِينَةٌ بِعَقِيقَتِهِ تُذْبَحُ عَنْهُ يَوْمَ السَّابِعِ وَيُحْلَقُ رَأْسُهُ وَيُدَمَّى ‏"‏ ‏.‏ فَكَانَ قَتَادَةُ إِذَا سُئِلَ عَنِ الدَّمِ كَيْفَ يُصْنَعُ بِهِ قَالَ إِذَا ذَبَحْتَ الْعَقِيقَةَ أَخَذْتَ مِنْهَا صُوفَةً وَاسْتَقْبَلْتَ بِهِ أَوْدَاجَهَا ثُمَّ تُوضَعُ عَلَى يَافُوخِ الصَّبِيِّ حَتَّى يَسِيلَ عَلَى رَأْسِهِ مِثْلُ الْخَيْطِ ثُمَّ يُغْسَلُ رَأْسُهُ بَعْدُ وَيُحْلَقُ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا وَهَمٌ مِنْ هَمَّامٍ ‏"‏ وَيُدَمَّى ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ خُولِفَ هَمَّامٌ فِي هَذَا الْكَلاَمِ وَهُوَ وَهَمٌ مِنْ هَمَّامٍ وَإِنَّمَا قَالُوا ‏"‏ يُسَمَّى ‏"‏ ‏.‏ فَقَالَ هَمَّامٌ ‏"‏ يُدَمَّى ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَلَيْسَ يُؤْخَذُ بِهَذَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
+
 حدثنا حفص بن عمر النمري، حدثنا همام، حدثنا قتادة، عن الحسن، عن سمرة، عن رسول الله صلى الله عليه وسلم قال " كل غلام رهينة بعقيقته تذبح عنه يوم السابع ويحلق راسه ويدمى " . فكان قتادة اذا سيل عن الدم كيف يصنع به قال اذا ذبحت العقيقة اخذت منها صوفة واستقبلت به اوداجها ثم توضع على يافوخ الصبي حتى يسيل على راسه مثل الخيط ثم يغسل راسه بعد ويحلق . قال ابو داود وهذا وهم من همام " ويدمى " . قال ابو داود خولف همام في هذا الكلام وهو وهم من همام وانما قالوا " يسمى " . فقال همام " يدمى " . قال ابو داود وليس يوخذ بهذا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সামুরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ প্রত্যেক শিশু তার আক্বীকাহর সাথে বন্ধক থাকে। সপ্তম দিনে তার পক্ষ থেকে আক্বীকাহ করতে হয়, মাথা মুড়াতে হয় এবং (মাথায়) রক্ত মাখাতে হয়। কাতাদাহকে জিজ্ঞেস করা হলো, রক্ত কিভাবে মাখতে হয়? তিনি বলেন, আক্বীকাহর পশু যবাহ করে তা থেকে একটু পশম দিয়ে তাতে রক্ত মেখে তা বাচ্চার মাথায় নরম তালুতে রেখে দিবে। অতঃপর মাথা থেকে সূতার ন্যায় রক্ত গড়িয়ে পড়লে মাথা ধুইয়ে তা ন্যাড়া করবে। আবূ দাঊদ বলেন, ‘রক্তমাখার’ শব্দটি হাম্মামের ধারণামূলক, অন্যরা তা বর্জন করেছেন। আবূ দাঊদ বলেন, এখন এ হাদীস আমলযোগ্য নয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: A boy is in pledge for his Aqiqah. Sacrifice is made for him on the seventh day, his head is shaved and is smeared with blood. When Qatadah was asked about smearing with blood, how that should be done, he said: When you cut the head (i.e. throat) of the animal (meant for Aqiqah), you may take a few hair of it, place them on its veins, and then place them in the middle of the head of the infant, so that the blood flows on the hair (of the infant) like a threat. Then its head may be washed and shaved off. Abu Dawud said: In narrating the word "is smeared with blood" (yudamma) there is a misunderstanding on the part of Hammam. Abu Dawud said: Hammam has been opposed in narrating the words "is smeared with blood". This is misunderstanding of Hammam. They narrated he word "he is given a name (yusamma) and Hammam narrated it "is smeared with blood" (yudamma). Abu Dawud said: This tradition is not followed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
+
+## French
+
+Rapporté par Samurah ibn Jundub رضي الله عنه : Le Prophète ﷺ a dit : « Un garçon est lié à son ‘Aqiqah. On sacrifie pour lui le septième jour, on lui rase la tête et on la frotte avec du sang. » Lorsque Qatadah a été interrogé sur la manière de frotter avec du sang, il a expliqué : « Quand on égorge l’animal destiné à l’Aqiqah, on prend quelques poils de l’animal, on les place sur ses veines, puis on les met au milieu de la tête du nourrisson, afin que le sang coule sur ses cheveux comme un fil. Ensuite, on peut laver et raser sa tête. » Abu Dawud a dit : Concernant l’expression « on la frotte avec du sang » (yudamma), il y a une confusion de la part de Hammam. Abu Dawud a dit : Hammam s’est trompé en rapportant ces mots. D’autres ont rapporté « on lui donne un nom » (yusamma) et Hammam a rapporté « on la frotte avec du sang » (yudamma). Abu Dawud a dit : Cette tradition n’est pas suivie
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar An Namari\], telah menceritakan kepada kami \[Hammam\], telah menceritakan kepada kami \[Qatadah\], dari \[Al Hasan\] dari \[Samurah\] dari Rasulullah shallallahu wa'alaihi wa sallam, beliau berkata: "Setiap anak tergadaikan dengan aqiqahnya, disembelih untuknya pada hari ketujuh dan rambutnya dicukur, dan dilumuri dengan darah aqiqah." Qatadah apabila ditanya mengenai darah bagaimana dilakukan dengannya? Ia berkata; apabila engkau menyembelih aqiqah, maka engkau mengambil darinya satu bulu wol, dan engkau bawa ke arah urat-urat lehernya kemudian diletakkan pada pertengahan kepala anak kecil tersebut hingga mengalir di atas kelapa tersebut darah seperti benang, kemudian dicuci kepalanya setelah itu, dan dicukur. Abu Daud berkata; dan ini adalah kesalahan dari Hammam, yaitu kata; wa yudamma. Abu Daud berkata; Hammam diselisihi dalam perkataan ini, dan hal tersebut adalah kesalahan dari Hammam. Sesungguhnya mereka mengatakan; yusamma (diberi nama), namun Hammam berkata; wa yudamma (dan dilumuri darah). Abu Daud berkata; dan hadits tersebut tidak diambil dengan hal ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar An Namari], telah menceritakan kepada kami [Hammam], telah menceritakan kepada kami [Qatadah], dari [Al Hasan] dari [Samurah] dari Rasulullah shallallahu wa'alaihi wa sallam, beliau berkata: "Setiap anak tergadaikan dengan aqiqahnya, disembelih untuknya pada hari ketujuh dan rambutnya dicukur, dan dilumuri dengan darah aqiqah." Qatadah apabila ditanya mengenai darah bagaimana dilakukan dengannya? Ia berkata; apabila engkau menyembelih aqiqah, maka engkau mengambil darinya satu bulu wol, dan engkau bawa ke arah urat-urat lehernya kemudian diletakkan pada pertengahan kepala anak kecil tersebut hingga mengalir di atas kelapa tersebut darah seperti benang, kemudian dicuci kepalanya setelah itu, dan dicukur. Abu Daud berkata; dan ini adalah kesalahan dari Hammam, yaitu kata; wa yudamma. Abu Daud berkata; Hammam diselisihi dalam perkataan ini, dan hal tersebut adalah kesalahan dari Hammam. Sesungguhnya mereka mengatakan; yusamma (diberi nama), namun Hammam berkata; wa yudamma (dan dilumuri darah). Abu Daud berkata; dan hadits tersebut tidak diambil dengan hal ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Самуры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Каждый мальчик является заложником своей ‘акыки. Животное режется за него на седьмой день после рождения, и тогда же ему бреют голову и окропляют её кровью животного». Когда Катаду спрашивали о том, что представляет собой окропление головы младенца кровью жертвенного животного, он обычно говорил: «Когда животное зарежут, берут кусок шерсти и обмакивают его в кровь животного, вытекающую из вен, а потом прикладывают к макушке младенца, чтобы кровь струйкой потекла по его голове. А потом ему моют голову и сбривают волосы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Semure'den demiştir ki: Rasûlullah (S.A.V.): "Her çocuk (doğumunun) yedinci gününde kendisi için, kesilecek olan akîka kurbanı karşılığında (konmuş) bir rehine (gibi)dir. (Bu kurban kesildikten sonra çocuğun) başı traş edilir ve (kurbanın kanıyla) boyanır." buyurmuştur. Katâde'ye (akika kurbanının kanı ile) çocuğun başını kana boyamanın nasıl yapıldığı sorulduğu zaman (şöyle) derdi: "Akîkayı kestiğin zaman ondan bir tüy alırsın, o tüyü (hayvanın boğazındaki kesilmiş ve kanamakta olan) can damarının karşısına tutarsın. Sonra (Kan'a boyanmış olan bu tüyü) çocuğun bıngıldağının üzerine koyarsın; nihayet (o tüyden) çocuğun başında iplik gibi (kanlar) ak(maya başl)ar. Daha sonra çocuğun başı yıkanır ve traş edilir. Ebû Dâvud der ki: (Me­tinde geçen) şu (çocuğun başı kurbanın kanıyla) boyanır (sözü) Hemmam'dan (gelen) hata(lı bir rivâyet)tir. Bu söz(ün rivayetinde) Hemmam'a ters düşüldü. Bu (çelişki) Hemmam'dan gelen bir hatadan (doğmakta)dır. (Bu sözü) Hemmam "yüdernmâ = kana boyanır" diye rivayet ederken (Hemmam'ın dışındaki râvîler) "yüsemmâ =isimlendirilir" diye rivayet etmişlerdir. (Hemmam'in) bu (rivayeti) alınamaz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سمرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر لڑکا اپنے عقیقہ کے بدلے میں گروی ہے ساتویں دن اس کی طرف سے ذبح کیا جائے اور اس کا سر مونڈا جائے اور عقیقہ کا خون اس کے سر پر لگایا جائے ۱؎ ۔ قتادہ سے جب پوچھا جاتا کہ کس طرح خون لگایا جائے؟ تو کہتے: جب عقیقے کا جانور ذبح کرنے لگو تو اس کے بالوں کا ایک گچھا لے کر اس کی رگوں پر رکھ دو، پھر وہ گچھا لڑکے کی چندیا پر رکھ دیا جائے، یہاں تک کہ خون دھاگے کی طرح اس کے سر سے بہنے لگے پھر اس کے بعد اس کا سر دھو دیا جائے اور سر مونڈ دیا جائے۔ ابوداؤد کہتے ہیں: «يدمى» ہمام کا وہم ہے، اصل میں «ويسمى» تھا جسے ہمام نے «يدمى» کر دیا، ابوداؤد کہتے ہیں: اس پر عمل نہیں ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 16 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 16 Hadith 50 |

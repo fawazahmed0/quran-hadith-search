@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ بْنِ سُفْيَانَ، حَدَّثَنَا الْوَلِيدُ، عَنِ الأَوْزَاعِيِّ، قَالَ مَا زِلْتُ لَهُ كَاتِمًا حَتَّى رَأَيْتُهُ انْتَشَرَ ‏.‏ يَعْنِي حَدِيثَ عَبْدِ اللَّهِ بْنِ بُسْرٍ هَذَا فِي صَوْمِ يَوْمِ السَّبْتِ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ مَالِكٌ هَذَا كَذِبٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
+
 حدثنا محمد بن الصباح بن سفيان، حدثنا الوليد، عن الاوزاعي، قال ما زلت له كاتما حتى رايته انتشر . يعني حديث عبد الله بن بسر هذا في صوم يوم السبت . قال ابو داود قال مالك هذا كذب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
 
 ## Bengali
 
+। আল-আওযাঈ (রহ.) সূত্রে বর্ণিত। তিনি বলেন, শনিবারের সওম সম্পর্কিত ইবনু বুসর বর্ণিত হাদীসটি আমি গোপন রেখেছিলাম। কিন্তু আমি দেখলাম যে, তা ব্যাপকভাবে প্রসার পেয়েছে। ইমাম আবূ দাঊদ (রহ.) বলেন, ইমাম মালিক (রহ.) বলেছেন, এ হাদীসটি মিথ্যা।\[1\] সহীহ মাকতূ‘।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-আওযাঈ (রহ.) সূত্রে বর্ণিত। তিনি বলেন, শনিবারের সওম সম্পর্কিত ইবনু বুসর বর্ণিত হাদীসটি আমি গোপন রেখেছিলাম। কিন্তু আমি দেখলাম যে, তা ব্যাপকভাবে প্রসার পেয়েছে। ইমাম আবূ দাঊদ (রহ.) বলেন, ইমাম মালিক (রহ.) বলেছেন, এ হাদীসটি মিথ্যা।[1] সহীহ মাকতূ‘।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Auza'i said:I always concealed it, but I found that it became known widely, that is, the tradition on Ibn Busr about fasting on Saturday. Abu Dawud said: Malik said: This is a false (tradition)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
+
+## French
+
+Al-Awza’i a dit : J’ai longtemps gardé cela pour moi, mais j’ai vu que cela s’est répandu, c’est-à-dire la tradition rapportée par Ibn Busr sur le jeûne du samedi. Abu Dawud a dit : Malik a dit : « C’est une tradition fausse. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdul Malik bin Syu'aib\], telah menceritakan kepada kami \[Ibnu Wahb\], ia berkata; saya mendengar \[Al Laits\] menceritakan dari \[Ibnu Syihab\] bahwa ia apabila menyebutkan kepadanya bahwa beliau melarang dari berpuasa pada Hari Sabtu Ibnu Syihab berkata; ini adalah hadits orang Himshi. Telah menceritakan kepada kami \[Muhammad bin Ash Shabah bin Sufyan\], telah menceritakan kepada kami \[Al Walid\] dari \[Al Auza'i\], ia berkata; aku masih menyembunyikannya hingga aku melihatnya telah menyebar. Yang ia maksud adalah hadits Abdullah bin Busr ini yang berbicara mengenai puasa pada Hari Sabtu. Abu Daud berkata; Malik berkata; ini adalah dusta
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdul Malik bin Syu'aib], telah menceritakan kepada kami [Ibnu Wahb], ia berkata; saya mendengar [Al Laits] menceritakan dari [Ibnu Syihab] bahwa ia apabila menyebutkan kepadanya bahwa beliau melarang dari berpuasa pada Hari Sabtu Ibnu Syihab berkata; ini adalah hadits orang Himshi. Telah menceritakan kepada kami [Muhammad bin Ash Shabah bin Sufyan], telah menceritakan kepada kami [Al Walid] dari [Al Auza'i], ia berkata; aku masih menyembunyikannya hingga aku melihatnya telah menyebar. Yang ia maksud adalah hadits Abdullah bin Busr ini yang berbicara mengenai puasa pada Hari Sabtu. Abu Daud berkata; Malik berkata; ini adalah dusta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-Авза‘и сказал: «Я скрывал этот хадис, пока не увидел, что он распространился». Он имел в виду хадис ‘Абдуллаха ибн Бусра о посте в субботу
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Evzâî'den; demiştir ki: "Bunu, yani îbn Büsr'ün, cumartesi günü orucu hakkındaki hadisini onun yayıldığını görünceye kadar gizlemeye devam ettim." Beyhakî, es-Sünenü'l-kübrâ, IV, 303. Ebû Dâvud, "Malik bu yalan (uydurma)'dır dedi" der
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اوزاعی کہتے ہیں کہ میں برابر عبداللہ بن بسر رضی اللہ عنہما کی حدیث ( یعنی سنیچر ( ہفتے ) کے روزے کی ممانعت والی حدیث ) کو چھپاتا رہا یہاں تک کہ میں نے دیکھا کہ وہ لوگوں میں مشہور ہو گئی۔ ابوداؤد کہتے ہیں: مالک کہتے ہیں: یہ روایت جھوٹی ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2424</td></tr><tr><td>Arabic No</td><td>2424</td></tr><tr><td>Reference</td><td>Book 14 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2424 |
+| Arabic No | 2424 |
+| Reference | Book 14 Hadith 112 |

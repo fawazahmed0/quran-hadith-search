@@ -18,78 +18,82 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## French
 
+Rapporté par Ibn Buraida, d’après son père : Le Messager d’Allah ﷺ a dit : « Je vous avais interdit (de préparer le Nabidh) et d’en boire dans certains récipients, (mais maintenant vous pouvez le faire si vous le souhaitez), car ce n’est pas le récipient qui rend une chose licite ou illicite. Ce qui est illicite, c’est tout ce qui enivre. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علقمہ بن مرثد نے ابن بریدہ سے ، انھوں نے اپنے والد سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " میں نے پہلے تمھیں منع کیا تھا ۔ " پھر ابن سنان کی حدیث کے ہم معنی حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5115</td></tr><tr><td>Arabic No</td><td>977.04</td></tr><tr><td>Reference</td><td>Book 36 Hadith 82</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5115 |
+| Arabic No | 977.04 |
+| Reference | Book 36 Hadith 82 |

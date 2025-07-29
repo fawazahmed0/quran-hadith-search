@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَوَى سَعْدَ بْنَ مُعَاذٍ مِنْ رَمِيَّتِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن ابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم كوى سعد بن معاذ من رميته
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
 
 ## Bengali
 
+। জাবির (রাঃ) সূত্রে বর্ণিত। সা‘দ ইবনু মুআয (রাঃ)-এর তীরের আঘাতের স্থানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গরম লোহার স্যক দিয়ে চিকিৎসা করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির (রাঃ) সূত্রে বর্ণিত। সা‘দ ইবনু মুআয (রাঃ)-এর তীরের আঘাতের স্থানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গরম লোহার স্যক দিয়ে চিকিৎসা করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir said:The Prophet (ﷺ) cauterized Sa’d b. Mu’adh from the wound of an arrow
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
+
+## French
+
+Jabir رضي الله عنه a dit : Le Prophète ﷺ a cautérisé Sa’d ibn Mu’adh à cause d’une blessure par flèche
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dari \[Abu Az Zubair\] dari \[Jabir\] bahwa Nabi shallallahu 'alaihi wasallam pernah melakukan pengobatan kay untuk Sa'd bin Mu'adz karena luka panah yang ia derita
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Abu Az Zubair] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam pernah melakukan pengobatan kay untuk Sa'd bin Mu'adz karena luka panah yang ia derita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира, да будет доволен Аллах им и его отцом, что Пророк ﷺ сделал Са‘ду ибн Му‘азу прижигание, когда того ранило стрелой
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir (r.a)'den rivayet olunduğuna göre; Nebi (s.a.v.), ok yarasından dolayı Sa'd b. Muaz'ı dağlamıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے سعد بن معاذ رضی اللہ عنہ کو تیر کے زخم کی وجہ سے جو انہیں لگا تھا داغا۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2208)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3866</td></tr><tr><td>Arabic No</td><td>3866</td></tr><tr><td>Reference</td><td>Book 29 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2208) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3866 |
+| Arabic No | 3866 |
+| Reference | Book 29 Hadith 12 |

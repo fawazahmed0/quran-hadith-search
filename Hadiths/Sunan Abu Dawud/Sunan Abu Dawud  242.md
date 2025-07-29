@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ الْوَاشِحِيُّ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا اغْتَسَلَ مِنَ الْجَنَابَةِ - قَالَ سُلَيْمَانُ يَبْدَأُ فَيُفْرِغُ مِنْ يَمِينِهِ عَلَى شِمَالِهِ ‏.‏ وَقَالَ مُسَدَّدٌ غَسَلَ يَدَيْهِ يَصُبُّ الإِنَاءَ عَلَى يَدِهِ الْيُمْنَى ثُمَّ اتَّفَقَا فَيَغْسِلُ فَرْجَهُ ‏.‏ - قَالَ مُسَدَّدٌ - يُفْرِغُ عَلَى شِمَالِهِ وَرُبَّمَا كَنَتْ عَنِ الْفَرْجِ ثُمَّ يَتَوَضَّأُ وُضُوءَهُ لِلصَّلاَةِ ثُمَّ يُدْخِلُ يَدَيْهِ فِي الإِنَاءِ فَيُخَلِّلُ شَعْرَهُ حَتَّى إِذَا رَأَى أَنَّهُ قَدْ أَصَابَ الْبَشَرَةَ أَوْ أَنْقَى الْبَشَرَةَ أَفْرَغَ عَلَى رَأْسِهِ ثَلاَثًا فَإِذَا فَضَلَ فَضْلَةٌ صَبَّهَا عَلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
+
 حدثنا سليمان بن حرب الواشحي، ومسدد، قالا حدثنا حماد، عن هشام بن عروة، عن ابيه، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم اذا اغتسل من الجنابة - قال سليمان يبدا فيفرغ من يمينه على شماله . وقال مسدد غسل يديه يصب الاناء على يده اليمنى ثم اتفقا فيغسل فرجه . - قال مسدد - يفرغ على شماله وربما كنت عن الفرج ثم يتوضا وضوءه للصلاة ثم يدخل يديه في الاناء فيخلل شعره حتى اذا راى انه قد اصاب البشرة او انقى البشرة افرغ على راسه ثلاثا فاذا فضل فضلة صبها عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন জানাবাতের গোসল করতেন-সুলাইমানের বর্ণনা মতে- তখন প্রথমে ডান হাত দিয়ে বাম হাতে পানি ঢালতেন। আর মুসাদ্দাদের বর্ণনা মতে- তিনি উভয় হাত ধৌত করে ডান হাতে পাত্রের পানি ঢালতেন। অতঃপর উভয় বর্ণনাকারী এ বিষয়ে একমত হন যে, এরপর তিনি লজ্জাস্থান ধৌত করতেন। মুসাদ্দাদ বলেন, (ডান হাতের পর) তিনি বাম হাতের উপর পানি ঢালতেন। ‘আয়িশাহ্ (রাঃ) কখনো কখনো লজ্জাস্থানের কথা ইঙ্গিতে বর্ণনা করেছেন। তারপর তিনি সালাতের অযুর ন্যায় অযু করতেন। তারপর উভয় হাত পাত্রে ঢুকিয়ে (পানি নিয়ে) চুল খিলাল করতেন। যখন তিনি দেখতেন যে, সারা শরীরে পানি পৌঁছেছে অথবা শরীর পরিষ্কার হয়েছে, তখন তিনবার মাথায় পানি ঢালতেন। সবশেষে অবশিষ্ট থাকলে তা নিজের গায়ে ঢেলে দিতেন।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন জানাবাতের গোসল করতেন-সুলাইমানের বর্ণনা মতে- তখন প্রথমে ডান হাত দিয়ে বাম হাতে পানি ঢালতেন। আর মুসাদ্দাদের বর্ণনা মতে- তিনি উভয় হাত ধৌত করে ডান হাতে পাত্রের পানি ঢালতেন। অতঃপর উভয় বর্ণনাকারী এ বিষয়ে একমত হন যে, এরপর তিনি লজ্জাস্থান ধৌত করতেন। মুসাদ্দাদ বলেন, (ডান হাতের পর) তিনি বাম হাতের উপর পানি ঢালতেন। ‘আয়িশাহ্ (রাঃ) কখনো কখনো লজ্জাস্থানের কথা ইঙ্গিতে বর্ণনা করেছেন। তারপর তিনি সালাতের অযুর ন্যায় অযু করতেন। তারপর উভয় হাত পাত্রে ঢুকিয়ে (পানি নিয়ে) চুল খিলাল করতেন। যখন তিনি দেখতেন যে, সারা শরীরে পানি পৌঁছেছে অথবা শরীর পরিষ্কার হয়েছে, তখন তিনবার মাথায় পানি ঢালতেন। সবশেষে অবশিষ্ট থাকলে তা নিজের গায়ে ঢেলে দিতেন।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah reported :When the Messenger of Allah (May peace be upon him) would take a bath because of sexual defilement, according to the version of Sulaiman, in the beginning he would pour water with his right hand (upon his left hand); and according to the version of Musaddad, he would wash both (hands) pouring water from the vessel upon his right hand. According to the agreed version, he then would wash the private part. He would then perform ablution as he did for prayer, then put his hands in the vessel and made the water go through his hair. When he knew that water had reached the entire surface of the body and cleaned it well, he would pour water upon his head three times. If some water was left, he would pour it also upon himself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : Lorsque le Messager d’Allah ﷺ prenait un bain rituel après une impureté majeure, selon la version de Sulaiman, il commençait par verser de l’eau avec sa main droite (sur sa main gauche) ; et selon la version de Musaddad, il lavait les deux mains en versant de l’eau du récipient sur sa main droite. Selon la version commune, il lavait ensuite la partie intime. Puis il faisait les ablutions comme pour la prière, puis mettait ses mains dans le récipient et faisait passer l’eau dans ses cheveux. Lorsqu’il savait que l’eau avait atteint toute la surface de son corps et qu’il l’avait bien nettoyé, il versait de l’eau sur sa tête trois fois. S’il restait de l’eau, il s’en versait aussi sur lui-même
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Harb Al-Wasyihi\] dan \[Musaddad\] mereka berdua berkata; Telah menceritakan kepada kami \[Hammad\] dari \[Hisyam bin Urwah\] dari \[Ayahnya\] dari \[Aisyah\] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam mandi junub, Sulaiman menyebutkan; Beliau memulai dengan menuangkan air dengan tangan kanan beliau ke tangan kirinya. Musaddad menyebutkan; Beliau membasuh kedua tangannya dengan menuangkan bejana ke tangan kanannya. Kemudian mereka berdua bersepakat menyebutkan; Lalu beliau mencuci kemaluannya. Setelah itu, beliau berwudhu sebagaimana berwudhu untuk shalat, lalu memasukkan kedua tangannya ke dalam bejana, dilanjutkan dengan menyela-nyela rambutnya. Setelah Rasulullah telah yakin bahwa kulitnya terkena air, beliau menuangkannya ke atas kepalanya tiga kali. Apabila ternyata masih ada sisa air, maka beliau menuangkannya lagi ke atas kepalanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Harb Al-Wasyihi] dan [Musaddad] mereka berdua berkata; Telah menceritakan kepada kami [Hammad] dari [Hisyam bin Urwah] dari [Ayahnya] dari [Aisyah] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam mandi junub, Sulaiman menyebutkan; Beliau memulai dengan menuangkan air dengan tangan kanan beliau ke tangan kirinya. Musaddad menyebutkan; Beliau membasuh kedua tangannya dengan menuangkan bejana ke tangan kanannya. Kemudian mereka berdua bersepakat menyebutkan; Lalu beliau mencuci kemaluannya. Setelah itu, beliau berwudhu sebagaimana berwudhu untuk shalat, lalu memasukkan kedua tangannya ke dalam bejana, dilanjutkan dengan menyela-nyela rambutnya. Setelah Rasulullah telah yakin bahwa kulitnya terkena air, beliau menuangkannya ke atas kepalanya tiga kali. Apabila ternyata masih ada sisa air, maka beliau menuangkannya lagi ke atas kepalanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ купался из-за осквернения».Сулейман (ибн Харб в своем риваяте) сказал: «Он начинал с того, что наливал (воду) правой рукой на левую».А Мусаддад сказал: «Он мыл свои руки, наливая (воды) из сосуда на правую руку». Затем (Сулейман и Мусаддад) сошлись (в своих риваятах и сказали ): «И он мыл свои половые органы».Мусаддад сказал: «Он наливал (воду) на левую руку, но возможно она намекнула и на половые органы. Затем он совершал такое же омовение, которое совершается для молитвы, после чего опускал свои руки в сосуд и (затем) прочесывал волосы (руками) пока не убеждался, что она достигла кожи (или : постигла кожу) головы, наливая на нее воды три раза. А если оставалась вода, то он наливал её на себя»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Ebu Davud'un Süleyman b. Harb el-Vaşihi ve Müsedded'den rivayet ettiği hadiste) Aişe (r.anha) şöyle demiştir: "Resulullah (sallallahu aleyhi ve sellem) cünuplükten dolayı guslet (mek iste)diği zaman -Süleyman b. Harb'in rivayetine göre,- önce sağ eliyle sol eline su döker -Müsedded'in rivayetine göre de- önce kaptan suyu sağ eli üzerine dökerek ellerini yıkar,- sonra ikisinin ittifakla rivayetine göre- ve fercini yıkardı. (Bundan sonra Müsedded): Suyu sol eline dökerdi. Aişe (r.anha) bazan ferci kinayeli olarak söylerdi (sözlerini ilave etti). (Hadis'in bundan sonraki kısmında Süleyman ve Müsedded ittifak etmişlerdir:) Resulullah (s.a.v.) sonra namaz için aldığı abdest gibi abdest alır, her iki elini de kab'a daldırıp (su alır) suyun (başının) derisine ulaştığını bilinceye veya deriyi paklayıncaya kadar saçlarını hilaller ve başına üç defa su dökerdi. Sudan artan olursa onu da vücuduna dökerdi." Diğer tahric: Ahmed b. Hanbel Müsned
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب غسل جنابت کرتے ( سلیمان کی روایت میں ہے: تو آپ صلی اللہ علیہ وسلم پہلے اپنے داہنے ہاتھ سے بائیں ہاتھ پر پانی ڈالتے، اور مسدد کی روایت میں ہے: برتن کو اپنے داہنے ہاتھ پر انڈیل کر دونوں ہاتھ دھوتے، پھر دونوں سیاق حدیث کے ذکر میں متفق ہیں کہ ) تو آپ صلی اللہ علیہ وسلم ( اس کے بعد ) اپنی شرمگاہ دھوتے ( اور مسدد کی روایت میں ہے: آپ صلی اللہ علیہ وسلم اپنے بائیں ہاتھ پر پانی بہاتے، کبھی ام المؤمنین عائشہ نے فرج ( شرمگاہ ) کو کنایۃً بیان کیا ہے ) پھر آپ صلی اللہ علیہ وسلم نماز کے وضو کی طرح وضو کرتے، پھر اپنے دونوں ہاتھ برتن میں داخل کرتے اور ( پانی لے کر ) اپنے بالوں کا خلال کرتے، یہاں تک کہ جب آپ صلی اللہ علیہ وسلم یہ جان لیتے کہ پانی پوری کھال کو پہنچ گیا ہے یا کھال کو صاف کر لیا ہے، تو اپنے سر پر تین بار پانی ڈالتے، پھر جو پانی بچ جاتا اسے اپنے اوپر بہا لیتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (248) Sahih Muslim (316)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>242</td></tr><tr><td>Reference</td><td>Book 1 Hadith 242</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (248) Sahih Muslim (316) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 242 |
+| Reference | Book 1 Hadith 242 |

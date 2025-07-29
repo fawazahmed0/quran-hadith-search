@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هِلاَلُ بْنُ بِشْرٍ، قَالَ حَدَّثَنَا حَمَّادٌ، قَالَ أَخْبَرَنِي حُمَيْدٌ، قَالَ كَانَ الْحَسَنُ يَقُولُ لأَنْ يُسْقَطَ مِنَ السَّمَاءِ إِلَى الأَرْضِ أَحَبُّ إِلَيْهِ مِنْ أَنْ يَقُولَ الأَمْرُ بِيَدِي ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
+
 حدثنا هلال بن بشر، قال حدثنا حماد، قال اخبرني حميد، قال كان الحسن يقول لان يسقط من السماء الى الارض احب اليه من ان يقول الامر بيدي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
 
 ## Bengali
 
+। হুমাইদ (রহঃ) বলেন, হাসান বাসরী (রহঃ) বলতেন, তার আকাশ (জান্নাত) থেকে জমিনে পতিত হওয়া একথা বলা তার নিকট এটা কথা বলার চেয়ে উত্তম যে, ‘বিষয়টি আমারই কর্তৃত্বে।’’\[1\] সনদ সহীহ মাকতু।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হুমাইদ (রহঃ) বলেন, হাসান বাসরী (রহঃ) বলতেন, তার আকাশ (জান্নাত) থেকে জমিনে পতিত হওয়া একথা বলা তার নিকট এটা কথা বলার চেয়ে উত্তম যে, ‘বিষয়টি আমারই কর্তৃত্বে।’’[1] সনদ সহীহ মাকতু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Humaid said:Al-Hasan used to say that his fall from the heaven on the earth is dearer to him than uttering: The matter is in my hand
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
+
+## French
+
+Rapporté par Humaid : Al-Hasan disait que tomber du ciel sur la terre lui serait préférable que de dire : « L’affaire est entre mes mains. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hilal bin Bisyr\] ia berkata; telah menceritakan kepada kami \[Hammad\] ia berkata; telah mengabarkan kepadaku \[Humaid\] berkata; \[Al Hasan\] berkata, "Dijatuhkannya (adam) dari langit ke bumi lebih disukai daripada harus mengatakan segala urusan ada di tanganku (meniadakan takdir)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hilal bin Bisyr] ia berkata; telah menceritakan kepada kami [Hammad] ia berkata; telah mengabarkan kepadaku [Humaid] berkata; [Al Hasan] berkata, "Dijatuhkannya (adam) dari langit ke bumi lebih disukai daripada harus mengatakan segala urusan ada di tanganku (meniadakan takdir)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-Хасан сказал: «Лучше мне упасть с небес на землю, чем сказать, (отрицая таким образом предопределение): “Всё в моих руках”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hammâd (İbn Zeyd), Humeyd (İbn Ebi Humeyd) in (şöyle) dedi (ğini) söyledi: Hasan-ı Basrî (r.a.): "Gökten yere düşmek bana -iş, kendi elimdedir- demekten daha iyidir" derdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حمید کہتے ہیں کہ حسن بصری کہتے تھے: آسمان سے زمین پر گر پڑنا اس بات سے مجھے زیادہ عزیز ہے کہ میں کہوں: معاملہ تو میرے ہاتھ میں ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4617</td></tr><tr><td>Arabic No</td><td>4617</td></tr><tr><td>Reference</td><td>Book 42 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Sahih Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4617 |
+| Arabic No | 4617 |
+| Reference | Book 42 Hadith 22 |

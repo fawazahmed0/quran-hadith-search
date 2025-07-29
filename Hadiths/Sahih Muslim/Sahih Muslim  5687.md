@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه عبد بن حميد، اخبرنا عبد الرزاق، اخبرنا معمر، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদ ইবনু হুমায়দ (রহঃ) আবদুর রাযযাক ও মা'মার (রহঃ) হতে উপরোক্ত সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৪৯৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith hilt been reported on the authority of Ma'mar with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## French
 
+Rapporté par Ma‘mar : Ce hadith a été rapporté par Ma‘mar avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-29) Bize bu hadîsi Abd b. Humeyd de rivayet etti. (Dediki): Bize Abdürrezzak haber verdi. (Dediki): Bize Ma'mer bu isnadla bu hadîsin mislini haber verdi. İzah 2178 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبد الرزاق نے کہا : معمر نے ہمیں اسی سند کے ساتھ اسی کے مانند خبر دی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5687</td></tr><tr><td>Arabic No</td><td>2177.05</td></tr><tr><td>Reference</td><td>Book 39 Hadith 41</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5687 |
+| Arabic No | 2177.05 |
+| Reference | Book 39 Hadith 41 |

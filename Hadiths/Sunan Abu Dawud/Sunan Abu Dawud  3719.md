@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا قَتَادَةُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الشُّرْبِ مِنْ فِي السِّقَاءِ وَعَنْ رُكُوبِ الْجَلاَّلَةِ وَالْمُجَثَّمَةِ ‏.‏ قَالَ أَبُو دَاوُدَ الْجَلاَّلَةُ الَّتِي تَأْكُلُ الْعَذِرَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، اخبرنا قتادة، عن عكرمة، عن ابن عباس، قال نهى رسول الله صلى الله عليه وسلم عن الشرب من في السقاء وعن ركوب الجلالة والمجثمة . قال ابو داود الجلالة التي تاكل العذرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কলসের মুখে মুখ লাগিয়ে পানি পান করতে, জাল্লালায় সওয়ার থেকে এবং কোনো প্রাণীকে বেঁধে তীর নিক্ষেপ করে হত্যা করতে বারণ করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, জাল্লালা হলো, যে প্রাণী নাপাক বস্তু খায়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কলসের মুখে মুখ লাগিয়ে পানি পান করতে, জাল্লালায় সওয়ার থেকে এবং কোনো প্রাণীকে বেঁধে তীর নিক্ষেপ করে হত্যা করতে বারণ করেছেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, জাল্লালা হলো, যে প্রাণী নাপাক বস্তু খায়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn Abbas said:The apostle of allah (ﷺ) forbade drinking from the mouth of a water-skin, and riding the animal which feeds on filth and eating the animal which is killed in confinement. Abu Dawud said: Jallalah means an animal which eats filth and impurities
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
+
+## French
+
+Rapporté par Ibn Abbas رضي الله عنه : « L’Envoyé d’Allah ﷺ a interdit de boire à l’embouchure d’une outre, de monter un animal qui se nourrit d’impuretés, et de manger un animal tué en captivité. » Abu Dawud a dit : « Jallalah » désigne un animal qui mange des saletés et des impuretés
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] telah mengabarkan kepada kami \[Qatadah\] dari \[Ikrimah\] dari \[Ibnu Abbas\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang minum langsung melalui mulut geriba (bejana), menaiki hewan jallalah dan mujatstsamah (hewan yang diikat kemudian dilempari hingga mati)." Abu Daud berkata, "Jallalah adalah hewan yang makan kotoran
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Qatadah] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang minum langsung melalui mulut geriba (bejana), menaiki hewan jallalah dan mujatstsamah (hewan yang diikat kemudian dilempari hingga mati)." Abu Daud berkata, "Jallalah adalah hewan yang makan kotoran
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил пить из горлышка бурдюка, а также ездить на верховых животных, поедающих навоз, и превращать животное в мишень
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.a)'dan rivayet olunmuştur; dedi ki: Rasûlullah (s.a.v.), (içi görünmeyen bir su) kabın(ın) ağzından su içmeyi, bir de pislik yiyen hayvana binmeyi ve (nişan alınarak vurulması için) bir yere bağlanan hayvanı (n etini yemeyi) yasaklamıştır. Ebû Dâvûd dedi ki: "Cellâle" dışkı yiyen hayvandır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مشکیزے میں منہ لگا کر پینے سے، نجاست کھانے والے جانور کی سواری سے اور جس پرندہ کو باندھ کر تیر وغیرہ سے نشانہ لگا کر مارا گیا ہو اسے کھانے سے منع فرمایا۔ ابوداؤد کہتے ہیں: «جلّالہ» وہ جانور ہے جو نجاست کھاتا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3719</td></tr><tr><td>Arabic No</td><td>3719</td></tr><tr><td>Reference</td><td>Book 27 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3719 |
+| Arabic No | 3719 |
+| Reference | Book 27 Hadith 51 |

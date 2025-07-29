@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا الْجُرَيْرِيُّ، عَنْ حَيَّانَ بْنِ عُمَيْرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ سَمُرَةَ، قَالَ بَيْنَمَا أَنَا أَتَرَمَّى، بِأَسْهُمٍ فِي حَيَاةِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِذْ كُسِفَتِ الشَّمْسُ فَنَبَذْتُهُنَّ وَقُلْتُ لأَنْظُرَنَّ مَا أُحْدِثَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي كُسُوفِ الشَّمْسِ الْيَوْمَ فَانْتَهَيْتُ إِلَيْهِ وَهُوَ رَافِعٌ يَدَيْهِ يُسَبِّحُ وَيُحَمِّدُ وَيُهَلِّلُ وَيَدْعُو حَتَّى حُسِرَ عَنِ الشَّمْسِ فَقَرَأَ بِسُورَتَيْنِ وَرَكَعَ رَكْعَتَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
+
 حدثنا مسدد، حدثنا بشر بن المفضل، حدثنا الجريري، عن حيان بن عمير، عن عبد الرحمن بن سمرة، قال بينما انا اترمى، باسهم في حياة رسول الله صلى الله عليه وسلم اذ كسفت الشمس فنبذتهن وقلت لانظرن ما احدث لرسول الله صلى الله عليه وسلم في كسوف الشمس اليوم فانتهيت اليه وهو رافع يديه يسبح ويحمد ويهلل ويدعو حتى حسر عن الشمس فقرا بسورتين وركع ركعتين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
 
 ## Bengali
 
+। ‘আবদুর রহমান ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জীবদ্দশায় একটি জায়গাতে আমি তীর চালনা শিখছিলাম। এমন সময় সূর্যগ্রহণ হলে আমি তীরগুলো ফেলে দিয়ে বলি, আজ সূর্যগ্রহণের দরুন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য কি ঘটে, তা অবশ্যই স্বচক্ষে দেখবো। আমি তাঁর কাছে গিয়ে দেখলাম, তিনি দু’ হাত উঠিয়ে তাসবীহ, তাহমীদ, কালিমাহ ও দু‘আ পাঠেরত আছেন। অবশেষে সূর্য গ্রাসমুক্ত হয়ে গেল। তিনি দু‘টি সূরার দ্বারা দু’ রাক‘আত সালাত আদায় করলেন।\[1\] সহীহ : মুসলিম সংক্ষেপে।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুর রহমান ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জীবদ্দশায় একটি জায়গাতে আমি তীর চালনা শিখছিলাম। এমন সময় সূর্যগ্রহণ হলে আমি তীরগুলো ফেলে দিয়ে বলি, আজ সূর্যগ্রহণের দরুন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য কি ঘটে, তা অবশ্যই স্বচক্ষে দেখবো। আমি তাঁর কাছে গিয়ে দেখলাম, তিনি দু’ হাত উঠিয়ে তাসবীহ, তাহমীদ, কালিমাহ ও দু‘আ পাঠেরত আছেন। অবশেষে সূর্য গ্রাসমুক্ত হয়ে গেল। তিনি দু‘টি সূরার দ্বারা দু’ রাক‘আত সালাত আদায় করলেন।[1] সহীহ : মুসলিম সংক্ষেপে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abd al-Rahman b. Samurah :During the lifetime of the Messenger of Allah (peace be upon him) I was shooting some arrows when an eclipse of the sun tok place. I, therefore , threw them (the arrows) away and said: I must see how the Messenger of Allah (ﷺ) acts in a solar eclipse today. So I came to him; he was standing (in prayer) raising his hands, glorifying Allah, praising Him, acknowledging that He is the only Deity, and making supplication till the sun was clear. He then recited two surahs and prayed two rak'ahs
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
+
+## French
+
+Rapporté par 'Abd al-Rahman b. Samurah رضي الله عنه : Du vivant du Messager d’Allah ﷺ, je tirais des flèches lorsqu’il y eut une éclipse du soleil. J’ai donc posé mon arc en disant : « Je dois voir comment le Messager d’Allah ﷺ agit aujourd’hui lors d’une éclipse solaire. » Je suis allé le voir ; il était debout en prière, levant les mains, glorifiant Allah, Le louant, affirmant qu’Il est l’unique Divinité, et invoquant jusqu’à ce que le soleil redevienne clair. Ensuite, il récita deux sourates et pria deux unités
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Bisr bin Al Mufadlal\] telah menceritakan kepada kami \[Al Jurairi\] dari \[Hayyan bin 'Umair\] dari \[Abdurrahman bin Samurah\] dia berkata; "Ketika kami melepaskan anak panah di masa hidupnya Rasulullah shallallahu 'alaihi wasallam, tiba-tiba terjadi gerhana Matahari, lalu aku segera meletakkan anak panah tersebut dan berkata; "Sungguh aku akan melihat kejadian apa yang akan menimpa Rasulullah shallallahu 'alaihi wasallam pada hari terjadinya gerhana Matahari ini." lalu aku menemui beliau, ternyata beliau sedang mengangkat kedua tangannya sambil bertasbih, tahmid dan bertahlil serta berdo'a hingga gerhana hilang dari matahari. Beliau membaca dua surat dan shalat dua raka'at
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisr bin Al Mufadlal] telah menceritakan kepada kami [Al Jurairi] dari [Hayyan bin 'Umair] dari [Abdurrahman bin Samurah] dia berkata; "Ketika kami melepaskan anak panah di masa hidupnya Rasulullah shallallahu 'alaihi wasallam, tiba-tiba terjadi gerhana Matahari, lalu aku segera meletakkan anak panah tersebut dan berkata; "Sungguh aku akan melihat kejadian apa yang akan menimpa Rasulullah shallallahu 'alaihi wasallam pada hari terjadinya gerhana Matahari ini." lalu aku menemui beliau, ternyata beliau sedang mengangkat kedua tangannya sambil bertasbih, tahmid dan bertahlil serta berdo'a hingga gerhana hilang dari matahari. Beliau membaca dua surat dan shalat dua raka'at
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Рассказывается от ‘Абдуррахмана ибн Самуры, да будет доволен им Аллах: «Однажды при жизни Посланника Аллаха ﷺ я упражнялся в стрельбе из лука и вдруг началось солнечное затмение. Бросив стрелы, я сказал себе: “Пойду посмотрю, что делает Посланник Аллаха ﷺ в связи с сегодняшним затмением”. Когда я пришёл к нему, он стоял, подняв руки, восхваляя Аллаха, прославляя Его, свидетельствуя о Его единственности и обращаясь к Нему с мольбами. Это продолжалось до тех пор, пока затмение не закончилось. Он прочитал две суры и совершил молитву в два рак‘ата»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdurrahman b. Semure (r.a.)'den; demiştir ki: Resûlullah (S.A.V.)'in sağlığında ben ok atarken birden bire güneş tutuldu. Hemen okları (yere) attım ve (kendi kendime) "güneş tutulması bugün Resûlullah (S.A.V.)'e neler yaptıracak bakacağım" deyip doğru ona gittim. Peygamber (S.A.V.) ellerini kaldırmış tesbih, tahmid ediyor, tehlîl getiriyor ve dua ediyordu. Bu, güneş açılıncaya kadar devam et­ti. (Efendimiz) iki sûre okudu ve iki rekat namaz kıldı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمٰن بن سمرہ رضی اللہ عنہ کہتے ہیں میں رسول اللہ صلی اللہ علیہ وسلم کی زندگی میں تیر اندازی کی مشق کر رہا تھا کہ اسی دوران سورج گرہن لگا تو میں نے انہیں پھینک دیا اور کہا کہ میں ضرور دیکھوں گا کہ رسول اللہ صلی اللہ علیہ وسلم کے لیے یہ سورج گرہن آج کیا نیا واقعہ رونما کرے گا، تو میں آپ صلی اللہ علیہ وسلم کے پاس پہنچا اور آپ دونوں ہاتھ اٹھائے اللہ کی تسبیح، تحمید اور تہلیل اور دعا کر رہے تھے یہاں تک کہ سورج سے گرہن چھٹ گیا، اس وقت آپ نے ( نماز کسوف کی دونوں رکعتوں ) میں دو سورتیں پڑھیں اور دو رکوع کئے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (913)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1195</td></tr><tr><td>Arabic No</td><td>1195</td></tr><tr><td>Reference</td><td>Book 3 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (913) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1195 |
+| Arabic No | 1195 |
+| Reference | Book 3 Hadith 35 |

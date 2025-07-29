@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنْ حَبِيبٍ، - وَهُوَ ابْنُ أَبِي عَمْرَةَ - عَنْ سَعِيدِ بْنِ جُبَيْرٍ، قَالَ السَّكَرُ خَمْرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا جرير، عن حبيب، - وهو ابن ابي عمرة - عن سعيد بن جبير، قال السكر خمر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... সাঈদ ইবন জুবায়র (রহঃ) থেকে বর্ণিত। তিনি বলেন, (سكر) অর্থ মদ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Sa'eed bin Jubair said:"Strong drink is Khamr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |
+
+## French
+
+Rapporté par Sa'eed bin Jubair : "La boisson forte, c’est le khamr
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] ia berkata; telah memberitakan kepada kami \[Jarir\] dari \[Habib yaitu bin Amrah\] dari \[Sa'id bin Jubair\] ia berkata; "Minuman yang memabukkan adalah khamer
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] ia berkata; telah memberitakan kepada kami [Jarir] dari [Habib yaitu bin Amrah] dari [Sa'id bin Jubair] ia berkata; "Minuman yang memabukkan adalah khamer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5576</td></tr><tr><td>Arabic No</td><td>5576</td></tr><tr><td>Reference</td><td>Book 51 Hadith 38</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5576 |
+| Arabic No | 5576 |
+| Reference | Book 51 Hadith 38 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمٌ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْبَرَاءِ، قَالَ اسْتُصْغِرْتُ أَنَا وَابْنُ، عُمَرَ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسلم، حدثنا شعبة، عن ابي اسحاق، عن البراء، قال استصغرت انا وابن، عمر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Bara:I and Ibn 'Umar were considered too young to take part in the battle of Badr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
+
+## French
+
+Rapporté par Al-Bara : Ibn 'Umar et moi étions considérés comme trop jeunes pour participer à la bataille de Badr
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что аль-Бара сказал: «Я и Ибн ‘Умар считались слишком молодыми, (чтобы участвовать в битве при Бадре)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 பராஉ பின் ஆஸிப் (ரலி) அவர்கள் கூறியதாவது: நானும் இப்னு உமர் (ரலி) அவர்களும் (பத்ர் போரின்போது) சிறுவர்களாகக் கருதப்பட்டோம். (அதனால் எனக்கும் அவருக்கும் பத்ர் போரில் கலந்துகொள்ள அனுமதி வழங்கப்படவில்லை.) அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu İshak, Bera'dan rivayetle dedi ki: "Ben ve İbn Ömer yaşça küçük görüldük. .. " Bu Hadis 3956 numara ile gelecektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسلم بن ابراہیم نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے ابواسحاق نے اور ان سے براء بن عازب رضی اللہ عنہما نے بیان کیا کہ ( بدر کی لڑائی کے موقع پر ) مجھے اور ابن عمر رضی اللہ عنہما کو نابالغ قرار دے دیا گیا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3955</td></tr><tr><td>Arabic No</td><td>3955</td></tr><tr><td>Reference</td><td>Book 64 Hadith 7</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3955 |
+| Arabic No | 3955 |
+| Reference | Book 64 Hadith 7 |

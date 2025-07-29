@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ سِنَانٍ الْعَوَقِيُّ، حَدَّثَنَا شَرِيكٌ، عَنْ مُغِيرَةَ، عَنْ إِبْرَاهِيمَ، وَجَابِرٍ، عَنِ الشَّعْبِيِّ، قَالَ الْغُرَّةُ خَمْسُمِائَةِ دِرْهَمٍ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ رَبِيعَةُ الْغُرَّةُ خَمْسُونَ دِينَارًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
+
 حدثنا محمد بن سنان العوقي، حدثنا شريك، عن مغيرة، عن ابراهيم، وجابر، عن الشعبي، قال الغرة خمسماية درهم . قال ابو داود قال ربيعة الغرة خمسون دينارا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
 
 ## Bengali
 
+। আশ-শা‘বী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আল-গুররাহ হলো পাঁচশ দিরহাম। ইমাম আবূ দাঊদ (রহঃ) বলেন, রাবী‘আহ বলেছেন, গুররাহ হলো পাঁচশ দীনার।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আশ-শা‘বী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আল-গুররাহ হলো পাঁচশ দিরহাম। ইমাম আবূ দাঊদ (রহঃ) বলেন, রাবী‘আহ বলেছেন, গুররাহ হলো পাঁচশ দীনার।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Sha'bi: The price of a male or a female slave is five hundred dirhams. Abu Dawud said: Rabi'ah said: The price of a male or a female slave is fifty dinars
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
+
+## French
+
+Rapporté par Al-Sha'bi : Le prix d’un esclave homme ou femme est de cinq cents dirhams. Abu Dawud a dit : Rabi'ah a dit : Le prix d’un esclave homme ou femme est de cinquante dinars
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Sinan Al 'Awaqi\] berkata, telah menceritakan kepada kami \[Syarik\] dari \[Mughirah\] dari \[Ibrahim\] dan \[Jabir\] dari \[Asy Sya'bi\] berkata, "ghurrah (terbusan memerdekakan budak) sama nilainya dengan lima ratus dirham." Abu Dawud berkata, "Rabi'ah menyebutkan, "ghurrah (tebusan memerdekakan budak) sama nilainya dengan lima puluh dinar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Sinan Al 'Awaqi] berkata, telah menceritakan kepada kami [Syarik] dari [Mughirah] dari [Ibrahim] dan [Jabir] dari [Asy Sya'bi] berkata, "ghurrah (terbusan memerdekakan budak) sama nilainya dengan lima ratus dirham." Abu Dawud berkata, "Rabi'ah menyebutkan, "ghurrah (tebusan memerdekakan budak) sama nilainya dengan lima puluh dinar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аш-Ша‘би сказал, что компенсация за погибший плод составляет пять сотен дирхемов. Абу Дауд сказал: «А Раби‘ утверждал, что эта компенсация составляет пятьдесят динаров»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şâ'bî'den şöyle dediği rivayet edilmiştir: "Gurre beşyüz dirhem gümüştür." Ebû Davud derki: Rabîa: "Gurre elli dinar altındır" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعبی کہتے ہیں کہ غرہ ( غلام یا لونڈی ) کی قیمت پانچ سو درہم ہے۔ ابوداؤد کہتے ہیں: ربیعہ نے کہا: غرہ ( غلام یا لونڈی ) پچاس دینار کا ہوتا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4580</td></tr><tr><td>Arabic No</td><td>4580</td></tr><tr><td>Reference</td><td>Book 41 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4580 |
+| Arabic No | 4580 |
+| Reference | Book 41 Hadith 87 |

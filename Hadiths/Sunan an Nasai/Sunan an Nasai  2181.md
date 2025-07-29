@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، عَنْ سُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ خَالِدِ بْنِ سَعْدٍ، عَنْ عَائِشَةَ، قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم يَصُومُ شَعْبَانَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 22 Hadith 92</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |
+
 اخبرنا احمد بن سليمان، قال حدثنا ابو داود، عن سفيان، عن منصور، عن خالد بن سعد، عن عايشة، قالت كان النبي صلى الله عليه وسلم يصوم شعبان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 22 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমদ ইবনু সূলায়মাল (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শা'বান মাস সাওম (সিয়াম/রোজা/রোযা) পালন করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 22 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Aishah said:"The Prophet used to fast Shaban
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 22 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |
+
+## French
+
+Rapporté par Aïcha رضي الله عنها : Le Prophète ﷺ avait l’habitude de jeûner Chaabane
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin Sulaiman\] dia berkata; telah menceritakan kepada kami \[Abu Dawud\] dari \[Sufyan\] dari \[Manshur\] dari \[Khalid bin Sa'd\] dari \['Aisyah\] dia berkata; "Nabi shallallahu 'alaihi wasallam berpuasa di bulan Sya'ban
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin Sulaiman] dia berkata; telah menceritakan kepada kami [Abu Dawud] dari [Sufyan] dari [Manshur] dari [Khalid bin Sa'd] dari ['Aisyah] dia berkata; "Nabi shallallahu 'alaihi wasallam berpuasa di bulan Sya'ban
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 22 Hadith 92</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 22 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم شعبان میں روزہ رکھتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2181</td></tr><tr><td>Arabic No</td><td>2181</td></tr><tr><td>Reference</td><td>Book 22 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2181 |
+| Arabic No | 2181 |
+| Reference | Book 22 Hadith 92 |

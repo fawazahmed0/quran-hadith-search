@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي ابْنُ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عُمَرَ، أَنَّ رَجُلاً، جَاءَهُ فَقَالَ أَنَهَى النَّبِيُّ صلى الله عليه وسلم أَنْ يُنْبَذَ فِي الْجَرِّ وَالدُّبَّاءِ قَالَ نَعَمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني محمد بن رافع، حدثنا عبد الرزاق، اخبرنا ابن جريج، اخبرني ابن طاوس، عن ابيه، عن ابن عمر، ان رجلا، جاءه فقال انهى النبي صلى الله عليه وسلم ان ينبذ في الجر والدباء قال نعم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু রাফি (রহঃ) ..... ইবনু উমার (রাযিঃ) হতে বর্ণিত যে, এক লোক তার নিকট এসে বলল, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি কলসী ও লাউয়ের খোলে নবীয তৈরি করতে বারণ করেছেন? তিনি বললেন, হ্যাঁ। (ইসলামিক ফাউন্ডেশন ৫০২৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar reported that a person came to him and said:Did Allah's Apostle (ﷺ) forbid the preparation of Nabidh in a green pitcher (besmeared with pitch and) in varnished jar? He said: Yes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## French
 
+Rapporté par Ibn ‘Umar رضي الله عنه : Un homme est venu le voir et a demandé : Est-ce que le Messager d’Allah ﷺ a interdit de préparer le nabidh dans une cruche verte (enduite de poix) et dans une jarre vernie ? Il a répondu : Oui
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Muhammed b. Râfi de rivayet etti. (Dediki): Bize Abdûrrezzak rivayet etti. (Dediki): Bize İbn-i Cüreyc haber verdi. (Dediki): Bana İbn-i Tavus, babasından, o da İbn-i Ömerden naklen haber verdiki: İbn-i Ömer'e bir adam gelerek: Nebi (Sallallahu Aleyhi ve Sellem) küp ile dubbâ'da nebiz yapılmasını yasak etti mi? diye sormuş. İbn-i Ömer: — Evet! cevâbını vermiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن جریج نے کہا : مجھے ابن طاوس نے اپنے والد سے خبر دی ، انھوں نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی کہ ایک شخص ان کے پاس آیا اور پوچھا : کیا رسول اللہ صلی اللہ علیہ وسلم نے مٹی کے گھڑوں اور کدو کے ( بنے ہوئے ) برتن میں نبیذ بنانے سے منع فرمایاتھا؟انھوں نے کہاہاں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>1997.07</td></tr><tr><td>Reference</td><td>Book 36 Hadith 66</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 1997.07 |
+| Reference | Book 36 Hadith 66 |

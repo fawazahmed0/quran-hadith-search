@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الْمَقْبُرِيِّ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ لَمْ يَدَعْ قَوْلَ الزُّورِ وَالْعَمَلَ بِهِ فَلَيْسَ لِلَّهِ حَاجَةٌ أَنْ يَدَعَ طَعَامَهُ وَشَرَابَهُ ‏"‏ ‏.‏ قَالَ أَحْمَدُ فَهِمْتُ إِسْنَادَهُ مِنَ ابْنِ أَبِي ذِئْبٍ وَأَفْهَمَنِي الْحَدِيثَ رَجُلٌ إِلَى جَنْبِهِ أُرَاهُ ابْنَ أَخِيهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
+
 حدثنا احمد بن يونس، حدثنا ابن ابي ذيب، عن المقبري، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " من لم يدع قول الزور والعمل به فليس لله حاجة ان يدع طعامه وشرابه " . قال احمد فهمت اسناده من ابن ابي ذيب وافهمني الحديث رجل الى جنبه اراه ابن اخيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহন সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ যদি সওম পালন করেও মিথ্যা বলা ও অপকর্ম ত্যাগ না করে, তাহলে তার পানাহার বর্জন করাতে আল্লাহর কোনো প্রয়োজন নেই।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহন সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কেউ যদি সওম পালন করেও মিথ্যা বলা ও অপকর্ম ত্যাগ না করে, তাহলে তার পানাহার বর্জন করাতে আল্লাহর কোনো প্রয়োজন নেই।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurairah: The Messenger of Allah (ﷺ) as saying: If anyone does not abandon falsehood and action is accordance with it, Allah has no need that he should abandon his food and drink. The narrator Ahmad (b. Yunus) said: I learnt the chain of narrators from Ibn Abi Dhi'b, and a man by his side made me understand the tradition. I think he was his cousin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un ne renonce pas au mensonge et à agir selon celui-ci, Allah n’a pas besoin qu’il s’abstienne de manger et de boire. » Le narrateur Ahmad (b. Yunus) a dit : J’ai appris la chaîne de transmission de Ibn Abi Dhi'b, et un homme à côté de lui m’a expliqué la tradition. Je pense que c’était son cousin
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\], telah menceritakan kepada kami \[Ibnu Abu Dzi'bin\], dari \[Al Maqburi\], dari \[ayahnya\] dari \[Abu Hurairah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang tidak meninggalkan perkataan palsu dan pengamalannya, maka Allah tidak butuh ia meninggalkan makan dan minumnya." Ahmad berkata; aku memahami sanadnya dari Ibnu Abu Dzi'bin, dan seseorang yang ada di sampingku yang aku kira adalah anak saudaranya telah memahamkan hadits tersebut kepadaku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Ibnu Abu Dzi'bin], dari [Al Maqburi], dari [ayahnya] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang tidak meninggalkan perkataan palsu dan pengamalannya, maka Allah tidak butuh ia meninggalkan makan dan minumnya." Ahmad berkata; aku memahami sanadnya dari Ibnu Abu Dzi'bin, dan seseorang yang ada di sampingku yang aku kira adalah anak saudaranya telah memahamkan hadits tersebut kepadaku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если человек не отказывается от ложных и непристойных слов и поступков и от невежественного поведения, то Аллах не нуждается в том, чтобы он оставлял свою еду и питьё»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.)'dan, demiştir ki; Rasûlullah (s.a.v.); "Bir kimse yalan söylemeyi ve yalanla iş görmeyi terketmezse, Allah (C.C.)'nun, onun yeme içmeyi terketmesîne ihtiyacı yoktur." diye buyurdu. Ahmed (b. Yunus) dedi ki; Bu hadîsin isnadını İbn Ebî Zi'b'den sema'an aldım. Ancak bana hadîs'in metnini) yanında olan ve kardeşinin oğlu olduğunu zannettiğim bir adam (iyice) anlattı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص ( روزے کی حالت میں ) جھوٹ بولنا، اور برے عمل کرنا نہ چھوڑے تو اللہ تعالیٰ کو حاجت نہیں کہ وہ اپنا کھانا پینا چھوڑ دے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1903)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2362</td></tr><tr><td>Arabic No</td><td>2362</td></tr><tr><td>Reference</td><td>Book 14 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1903) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2362 |
+| Arabic No | 2362 |
+| Reference | Book 14 Hadith 50 |

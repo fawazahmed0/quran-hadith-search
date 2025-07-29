@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَمْرٍو، عَنْ عَبْدِ اللَّهِ بْنِ الْوَلِيدِ، عَنْ سُفْيَانَ، عَنْ جَابِرٍ، - يَعْنِي الْجُعْفِيَّ - قَالَ حَدَّثَنَا الْمُغِيرَةُ بْنُ شُبَيْلٍ الأَحْمَسِيُّ، عَنْ قَيْسِ بْنِ أَبِي حَازِمٍ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا قَامَ الإِمَامُ فِي الرَّكْعَتَيْنِ فَإِنْ ذَكَرَ قَبْلَ أَنْ يَسْتَوِيَ قَائِمًا فَلْيَجْلِسْ فَإِنِ اسْتَوَى قَائِمًا فَلاَ يَجْلِسْ وَيَسْجُدُ سَجْدَتَىِ السَّهْوِ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَلَيْسَ فِي كِتَابِي عَنْ جَابِرٍ الْجُعْفِيِّ إِلاَّ هَذَا الْحَدِيثُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
+
 حدثنا الحسن بن عمرو، عن عبد الله بن الوليد، عن سفيان، عن جابر، - يعني الجعفي - قال حدثنا المغيرة بن شبيل الاحمسي، عن قيس بن ابي حازم، عن المغيرة بن شعبة، قال قال رسول الله صلى الله عليه وسلم " اذا قام الامام في الركعتين فان ذكر قبل ان يستوي قايما فليجلس فان استوى قايما فلا يجلس ويسجد سجدتى السهو " . قال ابو داود وليس في كتابي عن جابر الجعفي الا هذا الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
 
 ## Bengali
 
+। মুগীরাহ ইবনু শু‘বাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’ রাক‘আতের পরে ইমাম দাঁড়িয়ে গেলে এবং সোজা হয়ে দাঁড়ানোর পূর্বেই তার স্মরণ হলে তিনি বসে যাবেন; কিন্তু সোজা হয়ে দাঁড়িয়ে গেলে তিনি বসবেন না, বরং সাহু সিজদা্ আদায় করবেন।\[1\] সহীহ। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমার কিতাবে জাবির আল-জু‘ফা সূত্রে বর্ণিত এ হাদীস ছাড়া অন্য কোন হাদীস নেই।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুগীরাহ ইবনু শু‘বাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’ রাক‘আতের পরে ইমাম দাঁড়িয়ে গেলে এবং সোজা হয়ে দাঁড়ানোর পূর্বেই তার স্মরণ হলে তিনি বসে যাবেন; কিন্তু সোজা হয়ে দাঁড়িয়ে গেলে তিনি বসবেন না, বরং সাহু সিজদা্ আদায় করবেন।[1] সহীহ। ইমাম আবূ দাঊদ (রহঃ) বলেন, আমার কিতাবে জাবির আল-জু‘ফা সূত্রে বর্ণিত এ হাদীস ছাড়া অন্য কোন হাদীস নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Mughirah ibn Shu'bah: The Prophet (ﷺ) said: When an imam stands up at the end of two rak'ahs , if he remembers before standing straight up, he should sit down, but if he stands straight up, he must not sit down, but perform the two prostrations of forgetfulness. Abu Dawud said: I have not narrated in this book of mine any hadith from Jabir Al-Ju'fi (one of the narrators) except this one
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
+
+## French
+
+Rapporté par Al-Mughirah ibn Shu‘bah : Le Prophète ﷺ a dit : « Lorsque l’imam se lève à la fin de deux rak‘ah, s’il se rappelle avant d’être complètement debout, il doit s’asseoir ; mais s’il est déjà debout, il ne doit pas s’asseoir, mais faire les deux prosternations de l’oubli. » Abu Dawud a dit : Je n’ai rapporté dans ce livre aucun hadith de Jabir Al-Ju‘fi (un des rapporteurs) sauf celui-ci
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin 'Amru\] dari \[Abdullah bin Walid\] dari \[Sufyan\] dari \[Jabir yaitu Al Ju'fi\] dia berkata; telah menceritakan kepada kami \[Al Mughirah bin Syubail Al Ahmasi\] dari \[Qais bin Abu Hazim\] dari \[Al Mughirah bin Syu'bah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Apabila seorang imam terlanjur berdiri pada raka'at kedua, dan ingat sebelum berdiri tegak, hendaknya ia kembali duduk, dan apabila telah berdiri tegak hendaknya ia tidak duduk dan sujudlah dua kali yaitu sujud sahwi." Abu Daud berkata; "Dan dalam kitabku tidak di sebutkan dari Jabir Al Ju'fi kecuali dari hadits ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin 'Amru] dari [Abdullah bin Walid] dari [Sufyan] dari [Jabir yaitu Al Ju'fi] dia berkata; telah menceritakan kepada kami [Al Mughirah bin Syubail Al Ahmasi] dari [Qais bin Abu Hazim] dari [Al Mughirah bin Syu'bah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; "Apabila seorang imam terlanjur berdiri pada raka'at kedua, dan ingat sebelum berdiri tegak, hendaknya ia kembali duduk, dan apabila telah berdiri tegak hendaknya ia tidak duduk dan sujudlah dua kali yaitu sujud sahwi." Abu Daud berkata; "Dan dalam kitabku tidak di sebutkan dari Jabir Al Ju'fi kecuali dari hadits ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Аль-Мугиры ибн Шу‘бы, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если имам поднялся после двух рак‘атов, то, если он заметил свою оплошность до того, как полностью выпрямился, ему следует сесть. Если же он уже встал, то он уже не должен садиться, но ему следует совершить два земных поклона во искупление своей оплошности»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muğîre b. Şu'be (r.a.)'den; demiştir ki: Nebi (s.a.v.) şöyle buyurdu: "İmam iki rekatte(n sonra oturmadan) kalktığı zaman, eğer iyice doğrulmadan Önce hatırlarsa otursun. İyice doğrulursa, oturmasın, (sonunda) iki defa sehv secdesi yapsın." İbn Mâce, ikâme; Beyhakî, es-Sunenu'l-kübrâ, II, 343; Darekûtnî, Sünen, I, 378. Ebû Dâvûd, benim kitabımda Cabir el-Cu'fî'den (rivayet edilen) bundan başka hadis yoktur, dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مغیرہ بن شعبہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب امام دو رکعت پڑھ کر کھڑا ہو جائے پھر اگر اس کو سیدھا کھڑا ہونے سے پہلے یاد آ جائے تو بیٹھ جائے، اگر سیدھا کھڑا ہو جائے تو نہ بیٹھے اور سہو کے دو سجدے کرے ۔ ابوداؤد کہتے ہیں: میری کتاب میں جابر جعفی سے صرف یہی ایک حدیث مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1036</td></tr><tr><td>Arabic No</td><td>1036</td></tr><tr><td>Reference</td><td>Book 2 Hadith 647</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1036 |
+| Arabic No | 1036 |
+| Reference | Book 2 Hadith 647 |

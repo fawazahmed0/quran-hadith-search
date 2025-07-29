@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ لاَ تَنَاجَشُوا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
+
 حدثنا احمد بن عمرو بن السرح، حدثنا سفيان، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، قال قال النبي صلى الله عليه وسلم " لا تناجشوا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ধোঁকাপূর্ণ দালালী করো না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurairah:The Prophet (ﷺ) forbade to bid against one another
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
+
+## French
+
+Rapporté par Abu Huraira : Le Prophète ﷺ a interdit de surenchérir les uns contre les autres
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin 'Amr bin sarah\], telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\], dari \[Sa'id bin Al Musayyab\], dari \[Abu Hurairah\] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melakukan najsy
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin 'Amr bin sarah], telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], dari [Sa'id bin Al Musayyab], dari [Abu Hurairah] ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Janganlah kalian melakukan najsy
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Хурайра, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Не взвинчивайте цены»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a), Rasûlullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: Satın almayacaksanız, müşteri kızıştırmak için fiat artırmayınız
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: نجش نہ کرو ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2140) Sahih Muslim (1413)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3438</td></tr><tr><td>Arabic No</td><td>3438</td></tr><tr><td>Reference</td><td>Book 24 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2140) Sahih Muslim (1413) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3438 |
+| Arabic No | 3438 |
+| Reference | Book 24 Hadith 23 |

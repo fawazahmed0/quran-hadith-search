@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ التَّسْبِيحُ لِلرِّجَالِ وَالتَّصْفِيقُ لِلنِّسَاءِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
+
 حدثنا قتيبة بن سعيد، حدثنا سفيان، عن الزهري، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " التسبيح للرجال والتصفيق للنساء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, (সালাত আদায়কালে ইমামের কোন ভুল পরিলক্ষিত হলে) পুরুষ (মুক্তাদীরা) সুবহানাল্লাহ বলবে আর নারী (মুক্তাদীরা) হাতের উপর হাত মেরে শব্দ করবে।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, (সালাত আদায়কালে ইমামের কোন ভুল পরিলক্ষিত হলে) পুরুষ (মুক্তাদীরা) সুবহানাল্লাহ বলবে আর নারী (মুক্তাদীরা) হাতের উপর হাত মেরে শব্দ করবে।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (ﷺ) as saying; Glorifying Allah applies to men and clapping applies only to women
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La glorification d’Allah concerne les hommes, et les applaudissements ne concernent que les femmes. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\] dari \[Abu Salamah\] dari \[Abu Hurairah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tasbih (mengucapkan subhanallah) untuk laki-laki dan tepuk tangan untuk wanita
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tasbih (mengucapkan subhanallah) untuk laki-laki dan tepuk tangan untuk wanita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Восхваление Аллаха /тасбих/ во время молитвы для мужчин, а хлопанье для женщин»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre'den; demiştir ki: Resülullah (s.a.v.) şöyle buyurdu: "Tesbih (sübhânallah demek) erkekler için ve el çırpmak da kadınlar içindir" Diğer tahric: Buharî, amel fi's-salat, ezan, sehv; Müslim, ikame; Muvatta, sefer; Ahmed b. Hanbel, II, 261, 317, 376, 432, 440, 473, 479, 492, 507, 529; III, 348, 357; V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: نماز میں مردوں کو «سبحان الله» کہنا چاہیئے اور عورتوں کو تالی بجانی چاہیئے ۱؎
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1203) Sahih Muslim (422)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>939</td></tr><tr><td>Arabic No</td><td>939</td></tr><tr><td>Reference</td><td>Book 2 Hadith 550</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1203) Sahih Muslim (422) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 939 |
+| Arabic No | 939 |
+| Reference | Book 2 Hadith 550 |

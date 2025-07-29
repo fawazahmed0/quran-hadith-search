@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ أَبُو دَاوُدَ قَرَأْتُ عَلَى سَعِيدِ بْنِ يَعْقُوبَ الطَّالْقَانِيِّ قَالَ حَدَّثَنَا أَبُو تُمَيْلَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، قَالَ ذَكَرَ عَطَاءٌ عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ فَرَضَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَذَكَرَ مِثْلَ حَدِيثِ مُوسَى ‏.‏ قَالَ وَعَلَى أَهْلِ الطَّعَامِ شَيْئًا لاَ أَحْفَظُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
+
 قال ابو داود قرات على سعيد بن يعقوب الطالقاني قال حدثنا ابو تميلة، حدثنا محمد بن اسحاق، قال ذكر عطاء عن جابر بن عبد الله، قال فرض رسول الله صلى الله عليه وسلم فذكر مثل حديث موسى . قال وعلى اهل الطعام شييا لا احفظه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
 
 ## Bengali
 
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফরজ করেছেনঃ এর বাকী অংশ মূসা বর্ণিত হাদীসের অনুরূপ। অতঃপর তিনি বলেন, খাদ্য দ্রব্যের মালিকদের জন্য যা (ফরজ) করেছেন তা আমি স্মরণ রাখিনি।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফরজ করেছেনঃ এর বাকী অংশ মূসা বর্ণিত হাদীসের অনুরূপ। অতঃপর তিনি বলেন, খাদ্য দ্রব্যের মালিকদের জন্য যা (ফরজ) করেছেন তা আমি স্মরণ রাখিনি।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Dawud said:I read out to Sa'id b. Ya'qub al-Taliqini who said: Abu Tumailah transmitted to us, saying: Muhammad b. Ishaq transmitted to us saying: 'Ata reported Jabir b. 'Abd Allah as saying: The Messenger of Allah (ﷺ) fixed; and he mentioned the tradition like that of Musa; he said: And those who possess corn food should pay something which I do not remember
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
+
+## French
+
+Abu Dawud a dit : J’ai lu à Sa’id ibn Ya’qub al-Taliqini qui a dit : Abu Tumailah nous a transmis, en disant : Muhammad ibn Ishaq nous a transmis, disant : ‘Ata a rapporté de Jabir ibn ‘Abd Allah رضي الله عنه que le Messager d’Allah ﷺ a fixé ; et il a mentionné la tradition comme celle de Musa ; il a dit : « Et ceux qui possèdent des céréales doivent donner une quantité que je ne me rappelle pas. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Мухаммад ибн Исхак сказал: «‘Ата передавал от Джабира ибн ‘Абдуллаха, что Пророк ﷺ постановил…» И он упомянул нечто подобное предыдущему хадису, Мухаммад сказал: «И я не помню, сколько он велел взимать с владельцев еды (зерна)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Atâ b. Ebî Rabah, Câbir b. Abdillah (r.a) den, şöyle dediğini rivayet etmiştir: "Rasûlulîah (s.a.v) diyeti... takdir etti" Râvî, (bir önceki 4543. hadisi Ebû Davud'a nakleden) Musa'nın (rivayet ettiği) hadisinin mislini zikretti ve: "Buğday sahiplerine de birşey takdir etti, ama ben aklımda tutamadım" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مقرر کیا پھر راوی نے ایسے ہی ذکر کیا جیسے موسیٰ کی روایت میں ہے البتہ اس میں اس طرح ہے کہ طَعام والوں پر کچھ مقرر کیا جو کہ مجھ کو یاد نہیں رہا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4544</td></tr><tr><td>Arabic No</td><td>4544</td></tr><tr><td>Reference</td><td>Book 41 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4544 |
+| Arabic No | 4544 |
+| Reference | Book 41 Hadith 51 |

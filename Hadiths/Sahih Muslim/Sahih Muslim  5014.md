@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو كُرَيْبٍ، وَإِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَبُو كُرَيْبٍ حَدَّثَنَا ابْنُ بِشْرٍ، عَنْ مِسْعَرٍ، عَنْ ثَابِتِ بْنِ عُبَيْدٍ، قَالَ سَمِعْتُ الْبَرَاءَ، يَقُولُ نُهِينَا عَنْ لُحُومِ الْحُمُرِ الأَهْلِيَّةِ، ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو كريب، واسحاق بن ابراهيم، قال ابو كريب حدثنا ابن بشر، عن مسعر، عن ثابت بن عبيد، قال سمعت البراء، يقول نهينا عن لحوم الحمر الاهلية،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ কুরায়ব ও ইসহাক ইবনু ইবরাহীম (রহঃ) ..... সাবিত ইবনু উবায়দ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি বারা (রাযিঃ) কে বলতে শুনেছি, আমাদেরকে গৃহপালিত গাধার গোশত খেতে নিষেধ করা হয়েছে। (ইসলামিক ফাউন্ডেশন ৪৮৫৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bara was heard saying:We were forbidden (to eat) the flesh of the domestic asses
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## French
 
+Al-Bara' رضي الله عنه a dit : « On nous a interdit de manger la chair des ânes domestiques. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## Indonesian
 
+Dan telah menceritakan kepada kami \[Abu Kuraib\] dan \[Ishaq bin Ibrahim\], \[Abu Kuraib\] berkata; telah menceritakan kepada kami \[Ibnu Bisyr\] dari \[Mis'ar\] dari \[Tsabit bin 'Ubaid\] dia berkata; saya mendengar \[Al Barra\] berkata, "Kami telah dilarang makan daging keledai jinak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Abu Kuraib] dan [Ishaq bin Ibrahim], [Abu Kuraib] berkata; telah menceritakan kepada kami [Ibnu Bisyr] dari [Mis'ar] dari [Tsabit bin 'Ubaid] dia berkata; saya mendengar [Al Barra] berkata, "Kami telah dilarang makan daging keledai jinak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebû ile ishâk b. ibrahim de rivayet ettiler. Ebû Kureyb (Dediki): Bize ibni Bişr, Misar'dan, o da Sabit b. Ubeyd'den naklen rivayet etti. (Demşiki): Berâ'ı dinledim: «Biz ehli eşeklerin etlerinden nehyolunduk» diyordu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثابت بن عبید نے کہا : میں نے حضرت براء رضی اللہ تعالیٰ عنہ کویہ کہتے ہوئے سنا کہ ہمیں پالتو گدھوں کے گوشت ( کھانے ) سے منع کردیا گیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5014</td></tr><tr><td>Arabic No</td><td>1938.03</td></tr><tr><td>Reference</td><td>Book 34 Hadith 43</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5014 |
+| Arabic No | 1938.03 |
+| Reference | Book 34 Hadith 43 |

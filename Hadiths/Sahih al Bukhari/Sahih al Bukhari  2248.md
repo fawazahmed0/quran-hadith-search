@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو الْوَلِيدِ، حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرٍو، عَنْ أَبِي الْبَخْتَرِيِّ، قَالَ سَأَلْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ عَنِ السَّلَمِ، فِي النَّخْلِ فَقَالَ نُهِيَ عَنْ بَيْعِ النَّخْلِ، حَتَّى يَصْلُحَ، وَعَنْ بَيْعِ الْوَرِقِ، نَسَاءً بِنَاجِزٍ‏.‏ وَسَأَلْتُ ابْنَ عَبَّاسٍ عَنِ السَّلَمِ، فِي النَّخْلِ، فَقَالَ نَهَى النَّبِيُّ صلى الله عليه وسلم عَنْ بَيْعِ النَّخْلِ حَتَّى يُؤْكَلَ مِنْهُ، أَوْ يَأْكُلَ مِنْهُ، وَحَتَّى يُوزَنَ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو الوليد، حدثنا شعبة، عن عمرو، عن ابي البختري، قال سالت ابن عمر رضى الله عنهما عن السلم، في النخل فقال نهي عن بيع النخل، حتى يصلح، وعن بيع الورق، نساء بناجز. وسالت ابن عباس عن السلم، في النخل، فقال نهى النبي صلى الله عليه وسلم عن بيع النخل حتى يوكل منه، او ياكل منه، وحتى يوزن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবুল বাখতারী (রহ.) হতে বর্ণিত। তিনি বলেন, আমি ইবনু ‘উমার (রাঃ)-কে খেজুর ‘সলম’ করা সম্পর্কে জিজ্ঞেস করলাম, তিনি বললেন, খেজুর আহারযোগ্য হওয়ার আগে তা বিক্রয় করা নিষেধ করা হয়েছে, আর নগদ রূপার বিনিময়ে বাকী রূপা বিক্রয় করতেও (নিষেধ করা হয়েছে)। আমি ইবনু ‘আব্বাস (রাঃ)-কে খেজুরে ‘সলম’ করা সম্পর্কে জিজ্ঞেস করলাম, তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খাওয়ার যোগ্য এবং ওজনের যোগ্য হবার পূর্বে খেজুর বিক্রয় করতে নিষেধ করেছেন। (১৪৮৬, ২২৪৬) (আধুনিক প্রকাশনীঃ ২০৯০, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Al-Bakhtari:I asked Ibn 'Umar about Salam (the fruits of) date-palms. He replied, "The Prophet (ﷺ) forbade the sale of dates till their benefit becomes evident and fit for eating and also the sale of silver (for gold) on credit." I asked Ibn 'Abbas about Salam for dates and he replied, "The Prophet (ﷺ) forbade the sale of dates till they were fit for eating and could be estimated
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
+
+## French
+
+Rapporté par Abu Al-Bakhtari : J'ai demandé à Ibn 'Umar au sujet du Salam pour les fruits des palmiers-dattiers. Il a répondu : « Le Prophète (ﷺ) a interdit la vente de dattes tant que leur utilité n'est pas évidente et qu'elles ne sont pas mûres, ainsi que la vente d'argent (contre de l'or) à crédit. » J'ai demandé à Ibn 'Abbas au sujet du Salam pour les dattes et il a répondu : « Le Prophète (ﷺ) a interdit la vente de dattes tant qu'elles ne sont pas mûres et qu'elles ne peuvent pas être estimées. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Al Walid\] telah menceritakan kepada kami \[Syu'bah\] dari \['Amru\] dari \[Abu Al Bakhtariy\] berkata: "Aku bertanya kepada \[Ibnu'Umar radliallahu 'anhuma\] tentang As-Salam pada pohon kurma. Maka dia berkata: "Dilarang menjual pohon kurma hingga buahnya baik (bisa dimakan) dan dilarang pula menjual emas dengan cara tempo". Dan aku bertanya kepada \[Ibnu 'Abbas radliallahu 'anhu\] tentang As-Salam pada pohon kurma. Maka dia menjawab: "Nabi shallallahu 'alaihi wasallam melarang jual beli pohon kurma hingga buahnya bisa dimakan atau dapat dimakan dan hingga ditimbang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Al Walid] telah menceritakan kepada kami [Syu'bah] dari ['Amru] dari [Abu Al Bakhtariy] berkata: "Aku bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang As-Salam pada pohon kurma. Maka dia berkata: "Dilarang menjual pohon kurma hingga buahnya baik (bisa dimakan) dan dilarang pula menjual emas dengan cara tempo". Dan aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhu] tentang As-Salam pada pohon kurma. Maka dia menjawab: "Nabi shallallahu 'alaihi wasallam melarang jual beli pohon kurma hingga buahnya bisa dimakan atau dapat dimakan dan hingga ditimbang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу аль-Бахтари сказал: «Я спросил Ибн ‘Умара, да будет доволен Аллах им и его отцом, о предварительной оплате (салям) за финики на пальмах, и он ответил: “Было запрещено продавать финики на пальмах до тех пор, пока они не станут пригодны для еды, а также продажу серебра (за золото) в рассрочку”. И я спросил Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, о предварительной оплате (салям) за финики на пальмах, и он ответил: “Пророк ﷺ запретил продавать финики на пальмах до тех пор, пока они не станут пригодны для еды и не будут взвешены”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபுல்பக்தரீ சயீத் பின் ஃபைரூஸ் (ரஹ்) அவர்கள் கூறியதாவது: பேரீச்சம்பழத்தில் முன்பண வணிகம் செய்வது குறித்து இப்னு உமர் (ரலி) அவர்களிடம் நான் கேட்டேன். அதற்கு அவர்கள், ‘‘மரத்திலுள்ள கனிகள் பக்குவ மடையாத வரை அவற்றை விற்பது தடை செய்யப்பட்டுள்ளது; மேலும், (தங்கத்திற்கு) வெள்ளியைக் கடனாக (தவணையில்) விற்பதும் தடை செய்யப்பட்டுள்ளது” என்றார்கள். பேரீச்சம்பழத்தில் முன்பண வணிகம் செய்வது குறித்து இப்னு அப்பாஸ் (ரலி) அவர்களிடம் நான் கேட்டேன். ‘‘மரத்தி லுள்ள கனிகள் உண்ணப்படும் பக்கு வத்தை அடையாத வரையிலும், எடை போடப்படாத வரையிலும் அவற்றை விற்பதை நபி (ஸல்) அவர்கள் தடை செய்தார்கள்” என்று இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebul Buhteri şöyle anlatır: "İbn Ömer (r.a.)'e hurmanın selem akdine konu olmasını sordum. Bana cevap olarak, "Hastalıktan emin olunmadıkça (ağaçtaki) hurmanın satışı ve gümüş paranın, (altın karşılığında) biri peşin diğeri vadeli olacak şekilde satışı yasaklanmıştır" dedi. "İbn Abbas (r.a.)'a hurmanın selem akdine konu olmasını sordum. Bana, "Resulullah Sallallahu Aleyhi ve Sellem, (ağaçtaki) hurmanın, yenilecek duruma gelinceye kadar veya yenilecek seviyeye gelmedikten sonra tartılmadıkça satılmasını yasakladı" diye cevap verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2248</td></tr><tr><td>Arabic No</td><td>2248</td></tr><tr><td>Reference</td><td>Book 35 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2248 |
+| Arabic No | 2248 |
+| Reference | Book 35 Hadith 10 |

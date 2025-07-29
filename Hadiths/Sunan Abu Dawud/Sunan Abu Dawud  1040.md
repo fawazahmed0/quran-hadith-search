@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، وَمُحَمَّدُ بْنُ رَافِعٍ، قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ هِنْدَ بِنْتِ الْحَارِثِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا سَلَّمَ مَكَثَ قَلِيلاً وَكَانُوا يَرَوْنَ أَنَّ ذَلِكَ كَيْمَا يَنْفُذَ النِّسَاءُ قَبْلَ الرِّجَالِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
+
 حدثنا محمد بن يحيى، ومحمد بن رافع، قالا حدثنا عبد الرزاق، اخبرنا معمر، عن الزهري، عن هند بنت الحارث، عن ام سلمة، قالت كان رسول الله صلى الله عليه وسلم اذا سلم مكث قليلا وكانوا يرون ان ذلك كيما ينفذ النساء قبل الرجال
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
 
 ## Bengali
 
+। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের সালাম ফিরানোর পর কিছুক্ষণ অপেক্ষা করতেন। লোকদের ধারণা, মহিলারা যেন পুরুষদের আগে চলে যেতে পারে সেজন্য তিনি এরূপ করতেন।\[1\] সহীহ : বুখারী, কিন্তু তার বক্তব্যঃ ‘‘লোকদের ধারণা....’’ এটি মুদরাজ, যুহরীর উক্তি।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উম্মু সালামাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের সালাম ফিরানোর পর কিছুক্ষণ অপেক্ষা করতেন। লোকদের ধারণা, মহিলারা যেন পুরুষদের আগে চলে যেতে পারে সেজন্য তিনি এরূপ করতেন।[1] সহীহ : বুখারী, কিন্তু তার বক্তব্যঃ ‘‘লোকদের ধারণা....’’ এটি মুদরাজ, যুহরীর উক্তি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Umm Salamah said; When the Messenger of Allah (ﷺ) gave the salutation, he stayed for a while. By this people thought that women should return earlier than men
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
+
+## French
+
+Umm Salamah رضي الله عنها a dit : Lorsque le Messager d’Allah ﷺ donnait la salutation, il restait assis un moment. À cause de cela, les gens pensaient que les femmes devaient partir avant les hommes
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Yahya\] dan \[Muhammad bin Rafi'\] keduanya berkata; telah menceritakan kepada kami \[Abdurrazaq\] telah mengabarkan kepada kami \[Ma'mar\] dari \[Az Zuhri\] dari \[Hind binti Al Harits\] dari \[Ummu Salamah\] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam salam (dari shalat), beliau berhenti sejenak." -mereka berpendapat, yang demikian supaya para wanita keluar lebih dahulu sebelum kaum laki-laki
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yahya] dan [Muhammad bin Rafi'] keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Hind binti Al Harits] dari [Ummu Salamah] dia berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam salam (dari shalat), beliau berhenti sejenak." -mereka berpendapat, yang demikian supaya para wanita keluar lebih dahulu sebelum kaum laki-laki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Умм Салямы, да будет доволен ею Аллах, что Посланник Аллаха ﷺ произнеся слова таслима, оставался на своём месте ещё некоторое время, и люди считали, что он делал это для того, чтобы давать возможность женщинам покинуть место молитвы прежде, чем начнут расходиться мужчины
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ümmü Seleme (r.anhâ)'dan; demiştiı ki; Resûlullah (s.a.v.) selâmı verdiği zaman biraz (yerinde) kalırdı. Ashab, kadınların namazdan sonra mescitten erkeklerden önce çıkması için olduğunu zannederlerdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین ام سلمی رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب ( نماز سے ) سلام پھیرتے تو تھوڑی دیر ٹھہر جاتے، لوگ سمجھتے تھے کہ یہ اس وجہ سے ہے تاکہ عورتیں مردوں سے پہلے چلی جائیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (837)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1040</td></tr><tr><td>Arabic No</td><td>1040</td></tr><tr><td>Reference</td><td>Book 2 Hadith 651</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (837) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1040 |
+| Arabic No | 1040 |
+| Reference | Book 2 Hadith 651 |

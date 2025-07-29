@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ بَكْرٍ، حَدَّثَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي مُوسَى بْنُ عُقْبَةَ، عَنْ نَافِعٍ، أَخْبَرَهُ ابْنُ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم حَلَقَ فِي حَجَّةِ الْوَدَاعِ وَأُنَاسٌ مِنْ أَصْحَابِهِ وَقَصَّرَ بَعْضُهُمْ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبيد الله بن سعيد، حدثنا محمد بن بكر، حدثنا ابن جريج، اخبرني موسى بن عقبة، عن نافع، اخبره ابن عمر، ان النبي صلى الله عليه وسلم حلق في حجة الوداع واناس من اصحابه وقصر بعضهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
 ## Bengali
 
+নাফি‘ (রহ.) হতে বর্ণিত। ইবনু ‘উমার (রাঃ) তাঁকে অবহিত করেন যে, বিদায় হাজ্জে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীদের অনেকেই মাথা মুন্ডন করেন আর তাঁদের কেউ কেউ মাথার চুল ছেঁটে ফেলেন। \[১৭২৬\] (আধুনিক প্রকাশনীঃ ৪০৬৩, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-নাফি‘ (রহ.) হতে বর্ণিত। ইবনু ‘উমার (রাঃ) তাঁকে অবহিত করেন যে, বিদায় হাজ্জে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীদের অনেকেই মাথা মুন্ডন করেন আর তাঁদের কেউ কেউ মাথার চুল ছেঁটে ফেলেন। [১৭২৬] (আধুনিক প্রকাশনীঃ ৪০৬৩, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Umar:During Hajjat-ul-Wada', the Prophet (ﷺ) and some of his companions got their heads shaved while some of his companions got their head-hair cut short
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
+
+## French
+
+Rapporté par Ibn ‘Umar : Lors du pèlerinage d’adieu, le Prophète (ﷺ) et certains de ses compagnons se sont fait raser la tête, tandis que d’autres se sont fait couper les cheveux courts
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Ибн ‘Умара, да будет доволен Аллах ими обоими, что во время Прощального паломничества Пророк ﷺ обрил себе голову, и так же поступили некоторые из его сподвижников, тогда как некоторые другие (только) укоротили себе волосы
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்களும் அவர்களுடைய தோழர்களில் சிலரும் விடைபெறும் ஹஜ்ஜின்போது (ஹஜ் வழிபாடுகளை நிறைவு செய்தபின்) தம் தலையை மழித்துக்கொண்டார்கள். (தோழர்கள்) சிலர் தம் தலைமுடியைக் குறைத்துக் கொண்டார்கள்.448 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer'den rivayete göre "Nebi Sallallahu Aleyhi ve Sellem ile ashabından bir takım kimseler saçlarını traş ettikleri gibi bazıları da kısaltmışlardı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عبیداللہ بن سعید نے بیان کیا، کہا ہم سے محمد بن بکر نے بیان کیا، کہا ہم سے ابن جریج نے بیان کیا، ان سے موسیٰ بن عقبہ نے، انہیں نافع نے اور انہیں ابن عمر رضی اللہ عنہما نے خبر دی کہ نبی کریم صلی اللہ علیہ وسلم اور آپ صلی اللہ علیہ وسلم کے ساتھ آپ کے بعض اصحاب نے حجۃ الوداع کے موقع پر سر منڈوایا تھا اور بعض دوسرے صحابہ رضی اللہ عنہم نے صرف ترشوا لیا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4411</td></tr><tr><td>Arabic No</td><td>4411</td></tr><tr><td>Reference</td><td>Book 64 Hadith 433</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4411 |
+| Arabic No | 4411 |
+| Reference | Book 64 Hadith 433 |

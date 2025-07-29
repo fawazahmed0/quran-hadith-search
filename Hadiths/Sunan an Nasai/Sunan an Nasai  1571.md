@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ أَيُّوبَ، قَالَ حَدَّثَنَا الْفَضْلُ بْنُ مُوسَى، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى الْعِيدَ قَالَ ‏ "‏ مَنْ أَحَبَّ أَنْ يَنْصَرِفَ فَلْيَنْصَرِفْ وَمَنْ أَحَبَّ أَنْ يُقِيمَ لِلْخُطْبَةِ فَلْيُقِمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |
+
 حدثنا محمد بن يحيى بن ايوب، قال حدثنا الفضل بن موسى، قال حدثنا ابن جريج، عن عطاء، عن عبد الله بن السايب، ان النبي صلى الله عليه وسلم صلى العيد قال " من احب ان ينصرف فلينصرف ومن احب ان يقيم للخطبة فليقم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু ইয়াহইয়া (রহঃ) ... আবদুল্লাহ ইবনু সায়িব (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদের সালাত আদায় শেষে বললেন, যে চলে যাওয়া ভাল মনে করে সে যেন চলে যায়, আর যে খুৎবা শ্রবণের জন্য অপেক্ষা করা ভাল মনে করে সে যেন অপেক্ষা করে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdullah bin As-SA'ib that:The Prophet (ﷺ) offered the 'Eid prayer and said: 'Whoever would like to leave, let him leave, and whoever would like to stay for the Khutbah, let him stay
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |
+
+## French
+
+Rapporté par ‘Abdullah bin As-SA'ib : Le Prophète (ﷺ) a accompli la prière de l’Aïd et a dit : « Celui qui veut partir peut partir, et celui qui veut rester pour le prêche peut rester. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Yahya bin Ayyub\] dia berkata; telah menceritakan kepada kami \[Al Fadhl bin Musa\] dia berkata; telah menceritakan kepada kami \[Ibnu Juraij\] dari \['Atha\] dari \['Abdullah bin As Saib\] bahwa Nabi Shalallahu 'Alaihi Wa Sallam pernah shalat Id, dan beliau bersabda: "Barangsiapa ingin pulang, maka hendaklah ia pulang, dan barangsiapa ingin tetap tinggal untuk mendengar khutbah maka hendaklah ia tetap tinggal mendengarkannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Yahya bin Ayyub] dia berkata; telah menceritakan kepada kami [Al Fadhl bin Musa] dia berkata; telah menceritakan kepada kami [Ibnu Juraij] dari ['Atha] dari ['Abdullah bin As Saib] bahwa Nabi Shalallahu 'Alaihi Wa Sallam pernah shalat Id, dan beliau bersabda: "Barangsiapa ingin pulang, maka hendaklah ia pulang, dan barangsiapa ingin tetap tinggal untuk mendengar khutbah maka hendaklah ia tetap tinggal mendengarkannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن سائب رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے عید کی نماز پڑھی، پھر فرمایا: جو ( واپس ) لوٹنا چاہے لوٹ جائے، اور جو خطبہ سننے کے لیے ٹھہرنا چاہے ٹھہرے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1571</td></tr><tr><td>Arabic No</td><td>1571</td></tr><tr><td>Reference</td><td>Book 19 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1571 |
+| Arabic No | 1571 |
+| Reference | Book 19 Hadith 16 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا الْمَسْعُودِيُّ، عَنِ الْقَاسِمِ، بِهَذِهِ الْقِصَّةِ قَالَ فَلَمْ يَنْزِلْ حَتَّى ضُرِبَ عُنُقُهُ وَمَا اسْتَتَابَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
+
 حدثنا ابن معاذ، حدثنا ابي، حدثنا المسعودي، عن القاسم، بهذه القصة قال فلم ينزل حتى ضرب عنقه وما استتابه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
 
 ## Bengali
 
+। কাসিম (রহঃ) সূত্রে অনুরূপ ঘটনা বর্ণিত। তিনি বলেন, তাকে হত্যা না করা পর্যন্ত তিনি (মু‘আয) অবতরণ করেননি। আর তাকে ইসলামে ফিরে আসার আহবানও করা হয়নি।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। কাসিম (রহঃ) সূত্রে অনুরূপ ঘটনা বর্ণিত। তিনি বলেন, তাকে হত্যা না করা পর্যন্ত তিনি (মু‘আয) অবতরণ করেননি। আর তাকে ইসলামে ফিরে আসার আহবানও করা হয়নি।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mention above has also been transmitted by Abu Musa through a different chain if narrators. But there is no mention of demand of repentance
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Abu Musa à travers une autre chaîne de rapporteurs. Mais il n’y est pas fait mention de la demande de repentir
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В другой версии этой истории в передаче аль-Касима говорится, что Му‘аз не спешился, пока того человека не казнили, и он не предлагал ему покаяться и вернуться в ислам
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Mes'ûdî (Abdurrahman b. Abdullah b. Utbe b. Abdullah b. Mes'ud) Kasım (İbn Abdurrahman b. Abdullah b. Mesûd)dan bu kıssayı haber verip şöyle dedi: "Onun boynu vuruluncaya kadar Muaz hayvanından inmedi ve onu tevbeye de davet etmedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قاسم سے بھی یہی واقعہ مروی ہے اس میں ہے کہ جب تک اس کی گردن مار نہیں دی گئی وہ سواری سے نیچے نہیں اترے اور انہوں نے اس سے توبہ نہیں کرائی ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4357</td></tr><tr><td>Arabic No</td><td>4357</td></tr><tr><td>Reference</td><td>Book 40 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4357 |
+| Arabic No | 4357 |
+| Reference | Book 40 Hadith 7 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ، وَمُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، قَالاَ أَخْبَرَنَا ابْنُ أَبِي فُدَيْكٍ، عَنْ عَبْدِ الْمَلِكِ بْنِ زَيْدٍ، - نَسَبَهُ جَعْفَرٌ إِلَى سَعِيدِ بْنِ زَيْدِ بْنِ عَمْرِو بْنِ نُفَيْلٍ - عَنْ مُحَمَّدِ بْنِ أَبِي بَكْرٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ أَقِيلُوا ذَوِي الْهَيْئَاتِ عَثَرَاتِهِمْ إِلاَّ الْحُدُودَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
+
 حدثنا جعفر بن مسافر، ومحمد بن سليمان الانباري، قالا اخبرنا ابن ابي فديك، عن عبد الملك بن زيد، - نسبه جعفر الى سعيد بن زيد بن عمرو بن نفيل - عن محمد بن ابي بكر، عن عمرة، عن عايشة، رضى الله عنها قالت قال رسول الله صلى الله عليه وسلم " اقيلوا ذوي الهييات عثراتهم الا الحدود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা উত্তম গুণাবলীর অধিকারী লোকদের পদস্খলন (ছোটখাট ত্রুটি) এড়িয়ে যাও, হদ্দের অপরাধ ব্যতীত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা উত্তম গুণাবলীর অধিকারী লোকদের পদস্খলন (ছোটখাট ত্রুটি) এড়িয়ে যাও, হদ্দের অপরাধ ব্যতীত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Messenger of Allah (ﷺ) Said: Forgive the people of good qualities their slips, but not faults to which prescribed penalties apply
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
+
+## French
+
+Rapporté par Aïcha (la mère des croyants) رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Pardonnez les fautes des gens de bonne moralité, mais pas celles qui impliquent une peine prescrite. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ja'far bin Musafir\] dan \[Muhammad bin Sulaiman Al Anbari\] keduanya berkata; telah mengabarkan kepada kami \[Ibnu Abu Fudaik\] dari \[Abdul Malik bin Zaid\]. Ja'far menyandarkannya kepada Sa'id bin Zaid bin Amru bin Nufail dari \[Muhammad bin Abu Bakr\] dari \[Amrah\] dari \['Aisyah radliallahu 'anha\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Maafkanlah kekeliruan (tergelincirnya) orang-orang yang baik, kecuali dalam masalah hukum had
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ja'far bin Musafir] dan [Muhammad bin Sulaiman Al Anbari] keduanya berkata; telah mengabarkan kepada kami [Ibnu Abu Fudaik] dari [Abdul Malik bin Zaid]. Ja'far menyandarkannya kepada Sa'id bin Zaid bin Amru bin Nufail dari [Muhammad bin Abu Bakr] dari [Amrah] dari ['Aisyah radliallahu 'anha] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Maafkanlah kekeliruan (tergelincirnya) orang-orang yang baik, kecuali dalam masalah hukum had
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Прощайте достойным людям их проступки, за исключением тех случаев, в которых полагается применить установленное Шариатом наказание»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe radıyallahu anha'dan; rivayet edildiğine göre, Rasulullah (s.a.v.) şöyle buyurmuştur: "İyi haslet sahiplerinin haddi gerektirenler dışındaki hatalarını bağışlayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: صاحب حیثیت اور محترم وبا وقار لوگوں کی لغزشوں کو معاف کر دیا کرو سوائے حدود کے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4375</td></tr><tr><td>Arabic No</td><td>4375</td></tr><tr><td>Reference</td><td>Book 40 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4375 |
+| Arabic No | 4375 |
+| Reference | Book 40 Hadith 25 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُلَيْمَانُ بْنُ عُبَيْدِ اللَّهِ، قَالَ أَنْبَأَنَا بَهْزٌ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ سُلَيْمَانَ، وَمَنْصُورٌ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم مَشَى إِلَى سُبَاطَةِ قَوْمٍ فَبَالَ قَائِمًا ‏.‏ قَالَ سُلَيْمَانُ فِي حَدِيثِهِ وَمَسَحَ عَلَى خُفَّيْهِ وَلَمْ يَذْكُرْ مَنْصُورٌ الْمَسْحَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
+
 اخبرنا سليمان بن عبيد الله، قال انبانا بهز، قال انبانا شعبة، عن سليمان، ومنصور، عن ابي وايل، عن حذيفة، ان النبي صلى الله عليه وسلم مشى الى سباطة قوم فبال قايما . قال سليمان في حديثه ومسح على خفيه ولم يذكر منصور المسح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুলায়মান ইবনু উবায়দুল্লাহ (রহঃ) ... হুযায়ফা (রাঃ) হতে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবর্জনা ফেলবার স্থানে গমন করলেন এবং দাঁড়িয়ে পেশাব করলেন। সুলাইমান (রহঃ) তার হাদিসে বলেছেন, তিনি তার মোজার উপর মাসাহ করেছেন, কিন্তু মনসূর মাসাহ এর কথা উল্লেখ করেন নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
 
 ## English
 
+It was narrated from Hudhaifah that the Prophet (ﷺ) went to some people's garbage dump and urinated while standing. In his narration, Sulaiman bin 'Ubaidullah said:"And he wiped over his Khuffs," but Mansur did not mention the wiping. \[1\] \[1\]Meaning, in this route, since Shu'bah narrated it from both Sulaiman and Mansur
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Hudhaifah that the Prophet (ﷺ) went to some people's garbage dump and urinated while standing. In his narration, Sulaiman bin 'Ubaidullah said:"And he wiped over his Khuffs," but Mansur did not mention the wiping. [1] [1]Meaning, in this route, since Shu'bah narrated it from both Sulaiman and Mansur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
+
+## French
+
+Rapporté par Hudhayfah : Le Prophète (ﷺ) est allé sur une décharge et a uriné debout. Dans son récit, Sulaiman bin 'Ubaidullah a dit : "Et il a passé la main sur ses khuffs (chaussons en cuir)", mais Mansur n’a pas mentionné ce geste
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Sulaiman bin 'Ubaidillah\] dia berkata; Telah memberitakan kepada kami \[Bahzun\] berkata; Telah memberitakan kepada kami \[Syu'bah\] dari \[Sulaiman\] dan \[Manshur\] dari \[Abu Wa'il\] dari \[Hudzaifah\] bahwasannya Rasulullah shallallahu 'alaihi wasallam pernah berjalan menuju tempat pembuangan sampah suatu kaum, lalu ia buang air kecil dengan berdiri. Sulaiman berkata dalam hadisnya; "dan Beliau mengusap kedua khufnya (kedua sepatunya) sedangkan Manshur tidak menyebutkan tentang mengusap khuf sepatu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Sulaiman bin 'Ubaidillah] dia berkata; Telah memberitakan kepada kami [Bahzun] berkata; Telah memberitakan kepada kami [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Abu Wa'il] dari [Hudzaifah] bahwasannya Rasulullah shallallahu 'alaihi wasallam pernah berjalan menuju tempat pembuangan sampah suatu kaum, lalu ia buang air kecil dengan berdiri. Sulaiman berkata dalam hadisnya; "dan Beliau mengusap kedua khufnya (kedua sepatunya) sedangkan Manshur tidak menyebutkan tentang mengusap khuf sepatu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: size Rasûlüllah (sallallahü aleyhi ve sellem)’in ayakta küçük abdestini bozduğunu söylerse inanmayın. Rasûlüllah (sallallahü aleyhi ve sellem), oturarak küçük abdestini bozardı.) Tahara: 8; İbn Mâce, Tahara:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حذیفہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم لوگوں کے ایک کوڑا خانہ پر چل کر آئے تو آپ نے کھڑے ہو کر پیشاب کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |

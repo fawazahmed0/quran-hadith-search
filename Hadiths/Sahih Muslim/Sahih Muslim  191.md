@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالاَ حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ وَلَمْ يَذْكُرْ ‏ "‏ رَأْسُ الْكُفْرِ قِبَلَ الْمَشْرِقِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا قتيبة بن سعيد، وزهير بن حرب، قالا حدثنا جرير، عن الاعمش، بهذا الاسناد ولم يذكر " راس الكفر قبل المشرق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতাইবাহ ইবনু সাঈদ ও যুহায়র ইবনু হারব (রহঃ) ..... আ'মাশ (রহঃ)-এর সূত্রে এ সনদেই অনুরূপ হাদীস বর্ণনা করেছেন। তবে তার বর্ণনায় কুফরের উৎস রয়েছে পূর্ব দিকে' কথাটি উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশনঃ ৯৭, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Qutaiba b. Sa'id and Zubair b. Harb say:Jarir narrated this on the authority of A'mash with the same chain of narrators (as mentioned above)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## French
 
+Rapporté par Qutaiba b. Sa'id et Zubair b. Harb : Jarir a rapporté ce hadith d’après A'mash avec la même chaîne de transmetteurs (comme mentionné ci-dessus)
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с тем же иснадом, что и предыдущий, однако в нём нет слов: «Вершина неверия же (находится) на востоке»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Kuteybe b. Said ve Zuheyr b. Harb da tahdis edip dediler ki: Bize Cerir A'meş'ten bu isnad ile hadisi buna yakın olarak tahdis etti ve: "Küfrün başı doğu tarafındadır" ibaresini zikretmedi. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جریر نے اعمش سے اسی سند کے ساتھ حدیث بیان کی ، لیکن اس نے ’’ کفر کا مرکز مشرق کی طرف ہے ‘ ‘ کے الفاظ ذکر نہیں کیے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>191</td></tr><tr><td>Arabic No</td><td>52.10</td></tr><tr><td>Reference</td><td>Book 1 Hadith 98</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 191 |
+| Arabic No | 52.10 |
+| Reference | Book 1 Hadith 98 |

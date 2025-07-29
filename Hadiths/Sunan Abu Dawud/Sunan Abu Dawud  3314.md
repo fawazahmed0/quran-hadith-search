@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَزِيدَ بْنِ مِقْسَمٍ الثَّقَفِيُّ، مِنْ أَهْلِ الطَّائِفِ قَالَ حَدَّثَتْنِي سَارَّةُ بِنْتُ مِقْسَمٍ الثَّقَفِيِّ، أَنَّهَا سَمِعَتْ مَيْمُونَةَ بِنْتَ كَرْدَمٍ، قَالَتْ ‏:‏ خَرَجْتُ مَعَ أَبِي فِي حَجَّةِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم وَسَمِعْتُ النَّاسَ يَقُولُونَ ‏:‏ رَسُولُ اللَّهِ صلى الله عليه وسلم فَجَعَلْتُ أُبِدُّهُ بَصَرِي، فَدَنَا إِلَيْهِ أَبِي وَهُوَ عَلَى نَاقَةٍ لَهُ مَعَهُ دِرَّةٌ كَدِرَّةِ الْكُتَّابِ، فَسَمِعْتُ الأَعْرَابَ وَالنَّاسَ يَقُولُونَ ‏:‏ الطَّبْطَبِيَّةَ الطَّبْطَبِيَّةَ، فَدَنَا إِلَيْهِ أَبِي فَأَخَذَ بِقَدَمِهِ قَالَتْ ‏:‏ فَأَقَرَّ لَهُ وَوَقَفَ فَاسْتَمَعَ مِنْهُ فَقَالَ ‏:‏ يَا رَسُولَ اللَّهِ إِنِّي نَذَرْتُ إِنْ وُلِدَ لِي وَلَدٌ ذَكَرٌ أَنْ أَنْحَرَ عَلَى رَأْسِ بُوَانَةَ فِي عَقَبَةٍ مِنَ الثَّنَايَا عِدَّةً مِنَ الْغَنَمِ ‏.‏ قَالَ ‏:‏ لاَ أَعْلَمُ إِلاَّ أَنَّهَا قَالَتْ خَمْسِينَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏"‏ هَلْ بِهَا مِنَ الأَوْثَانِ شَىْءٌ ‏"‏ ‏.‏ قَالَ ‏:‏ لاَ ‏.‏ قَالَ ‏:‏ ‏"‏ فَأَوْفِ بِمَا نَذَرْتَ بِهِ لِلَّهِ ‏"‏ ‏.‏ قَالَتْ ‏:‏ فَجَمَعَهَا فَجَعَلَ يَذْبَحُهَا فَانْفَلَتَتْ مِنْهَا شَاةٌ فَطَلَبَهَا، وَهُوَ يَقُولُ ‏:‏ اللَّهُمَّ أَوْفِ عَنِّي نَذْرِي ‏.‏ فَظَفِرَهَا فَذَبَحَهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
+
 حدثنا الحسن بن علي، حدثنا يزيد بن هارون، حدثنا عبد الله بن يزيد بن مقسم الثقفي، من اهل الطايف قال حدثتني سارة بنت مقسم الثقفي، انها سمعت ميمونة بنت كردم، قالت : خرجت مع ابي في حجة رسول الله صلى الله عليه وسلم فرايت رسول الله صلى الله عليه وسلم وسمعت الناس يقولون : رسول الله صلى الله عليه وسلم فجعلت ابده بصري، فدنا اليه ابي وهو على ناقة له معه درة كدرة الكتاب، فسمعت الاعراب والناس يقولون : الطبطبية الطبطبية، فدنا اليه ابي فاخذ بقدمه قالت : فاقر له ووقف فاستمع منه فقال : يا رسول الله اني نذرت ان ولد لي ولد ذكر ان انحر على راس بوانة في عقبة من الثنايا عدة من الغنم . قال : لا اعلم الا انها قالت خمسين . فقال رسول الله صلى الله عليه وسلم : " هل بها من الاوثان شىء " . قال : لا . قال : " فاوف بما نذرت به لله " . قالت : فجمعها فجعل يذبحها فانفلتت منها شاة فطلبها، وهو يقول : اللهم اوف عني نذري . فظفرها فذبحها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কারদাম- কন্যা মাইমুনাহ (রাঃ) বলেনঃ আমি আমার পিতার সাথে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিদায় হজের (হজ্জের) উদ্দেশ্যে রাওয়ানা হই। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দেখতে পেলাম। আমি যখন লোকজনকে বলতে শুনলাম রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তখন আমি এক দৃষ্টিতে তাঁর দিকে তাকিয়ে রইলাম। আমার পিতা তাঁর কাছে গেলেন, তখন তিনি তাঁর উষ্ট্রীতে আরোহিত ছিলেন। তাঁর সাথে সচিবের চাবুকের মতো একটি চাবুক ছিলো। আমি লোকদেরকে এবং বেদুঈনদের বলতে শুনলাম, চাবুক, চাবুক। আমার পিতা তাঁর কাছে গিয়ে তাঁর পা ধরলেন। বর্ণনাকারী বলেন, আমার পিতা তাঁর নাবুওয়াতের স্বীকারোক্তি করলেন এবং তাঁর কথা শুনলেন। তিনি বললেন, হে আল্লাহর রাসূল! আমি মানত করেছিলাম, আমার একটি পুত্র সন্তান হলে আমি বুওয়ানার শেষ প্রান্তে পাহাড়ের পাদদেশে কিছু সংখ্যক মেষ যাবাহ করবো। অধস্তন বর্ণনাকারী বলেন, আমার মনে হয় মাইমূনাহ (রাঃ) পঞ্চাশটি বলেছেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জিজ্ঞেস করলেনঃ সেখানে কি কোনো প্রতিমা আছে? তিনি বললেন, না। তিনি বললেনঃ তাহলে তুমি আল্লাহর নামে কৃত মানত পূর্ণ করতে পারো। বর্ণনাকারী বলেন, তিনি তার মেষগুলো একত্র করে যাবাহ করতে লাগলেন। তার মধ্য থেকে একটি মেষ ছুটে পালালে তিনি এই বলতে বলতে তার পিছু ধাওয়া করেনঃ ‘হে আল্লাহ! আপনি আমার পক্ষ থেকে আমার মানত পূর্ণ করুন।’ সুতরাং তিনি সেটিকে ধরে ফেলেন এবং যাবাহ করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Maymunah, daughter of Kardam: I went out with my father to see the hajj performed by the Messenger of Allah (ﷺ). I saw the Messenger of Allah (ﷺ). I fixed my eyes on him. My father came near him while he was riding his she-camel. He had a whip like the whip of scribes. I heard the bedouin and the people say: The whip, the whip. My father came near him and held his foot. She said: He admitted his Prophethood and stood and listened to him. He said: Messenger of Allah, I have made a vow that if a son is born to me, I shall slaughter a number of sheep at the end of Buwanah in the dale of hill. The narrator said: I do not know (for certain) that she said: Fifty (sheep). The Messenger of Allah (ﷺ) said: Does it contain any idol? He said: No. Then he said: Fulfil your vow that you have taken for Allah. He then gathered them (i.e. the sheep) and began to slaughter them. A sheep ran away from them. He searched for it saying: O Allah, fulfil my vow on my behalf. So he succeeded (in finding it) and slaughtered it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
+
+## French
+
+Rapporté par Maymunah, fille de Kardam : Je suis sortie avec mon père pour voir le hajj accompli par le Messager d’Allah ﷺ. Je l’ai vu et je l’ai observé attentivement. Mon père s’est approché de lui alors qu’il était sur sa chamelle. Il avait un fouet comme celui des scribes. J’ai entendu les bédouins et les gens dire : « Le fouet, le fouet. » Mon père s’est approché et a tenu son pied. Elle a dit : Il a reconnu sa prophétie, s’est levé et l’a écouté. Il a dit : « Messager d’Allah, j’ai fait le vœu que si j’ai un fils, j’égorgerai un certain nombre de moutons à la fin de Buwanah, dans la vallée de la colline. » Le rapporteur a dit : Je ne sais pas avec certitude si elle a dit : cinquante (moutons). Le Messager d’Allah ﷺ a dit : « Y a-t-il une idole là-bas ? » Il a répondu : « Non. » Puis il a dit : « Accomplis le vœu que tu as fait pour Allah. » Il les a alors rassemblés (c’est-à-dire les moutons) et a commencé à les sacrifier. Un mouton s’est échappé. Il l’a cherché en disant : « Ô Allah, accomplis mon vœu pour moi. » Il a réussi à le retrouver et l’a sacrifié
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali\], telah menceritakan kepada kami \[Yazid? bin Harun\], telah menceritakan kepada kami \[Abdullah bin Yazid? bin Miqsam Ats Tsaqafi\] dari penduduk Thaif, ia berkata; telah menceritakan kepadaku \[Sarrah binti Miqsam Ats Tsaqafi\] bahwa ia telah mendengar \[Maimunah binti Kardam\], ia berkata; aku pernah keluar bersama ayahku ketika Rasulullah shallallahu 'alaihi wasallam melakukan haji, kemudian aku melihat Rasulullah shallallahu 'alaihi wasallam dan aku mendengar orang-orang berkata; Rasulullah shallallahu 'alaihi wasallam. Lalu aku memandangnya dengan tajam, kemudian ayahku mendekat kepada beliau sementera beliau berada di atas untanya. Kemudian beliau berhenti dan mendengar darinya dengan membawa cambuk seperti cambuk orang mengajar anak-anak. Kemudian aku mendengar orang-orang dan orang-orang badui berkata; jangan bersuara! Jangan bersuara! Jangan bersuara! Kemudian ayahku mendekat kepada beliau, mengambil posisi di hadapan beliau, dan mengakui risalah serta kenabian beliau dan beliau berhenti serta mendengarkan darinya. Kemudian ia berkata; wahai Rasulullah, sesungguhnya aku telah bernadzar, apabila anakku terlahirkan laki-laki maka aku akan menyembelih di puncak Buwanah beberapa ekor kambing. Yazid? bin Miqsam mengatakan; yang aku ketahui hanya ia mengatakan; lima ekor. Kemudian Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah padanya terdapat sebagian berhala?" Ia berkata; tidak. Beliau bersabda: "Penuhilah apa yang engkau nadzarkan untuk Allah!" Maimunah binti Kardam berkata; kemudian ia mengumpulkan kambing-kambing tersebut dan menyembelihnya. Lalu terdapat satu ekor kambing yang kabur. Lalu ia mencarinya dan berdoa; ya Allah, penuhkanlah nadzarku. Lalu ia mendapatkan kambing tersebut lalu menyembelihnya. Telah menceritakan kepada kami \[Muhammad bin Basysyar\], telah menceritakan kepada kami \[Abu Bakr Al Hanafi\], telah menceritakan kepada kami \[Abdul Hamid bin Ja'far\] dari \['Amr bin Syu'aib\], dari \[Maimunah binti Kardam bin Sufyan\] dari \[ayahnya\] seperti itu secara ringkas. Beliau bersabda: "Apakah padanya terdapat berhala, atau hari besar jahiliyah?" Ia berkata; tidak. aku katakan; sesungguhnya ibuku memiliki tanggungan nadzar dan berjalan. Apakah aku boleh menunaikan untuknya? Dan Ibnu Basysyar berkata; apakah aku boleh menunaikannya? Beliau berkata: "Ya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Yazid? bin Harun], telah menceritakan kepada kami [Abdullah bin Yazid? bin Miqsam Ats Tsaqafi] dari penduduk Thaif, ia berkata; telah menceritakan kepadaku [Sarrah binti Miqsam Ats Tsaqafi] bahwa ia telah mendengar [Maimunah binti Kardam], ia berkata; aku pernah keluar bersama ayahku ketika Rasulullah shallallahu 'alaihi wasallam melakukan haji, kemudian aku melihat Rasulullah shallallahu 'alaihi wasallam dan aku mendengar orang-orang berkata; Rasulullah shallallahu 'alaihi wasallam. Lalu aku memandangnya dengan tajam, kemudian ayahku mendekat kepada beliau sementera beliau berada di atas untanya. Kemudian beliau berhenti dan mendengar darinya dengan membawa cambuk seperti cambuk orang mengajar anak-anak. Kemudian aku mendengar orang-orang dan orang-orang badui berkata; jangan bersuara! Jangan bersuara! Jangan bersuara! Kemudian ayahku mendekat kepada beliau, mengambil posisi di hadapan beliau, dan mengakui risalah serta kenabian beliau dan beliau berhenti serta mendengarkan darinya. Kemudian ia berkata; wahai Rasulullah, sesungguhnya aku telah bernadzar, apabila anakku terlahirkan laki-laki maka aku akan menyembelih di puncak Buwanah beberapa ekor kambing. Yazid? bin Miqsam mengatakan; yang aku ketahui hanya ia mengatakan; lima ekor. Kemudian Rasulullah shallallahu 'alaihi wasallam bertanya: "Apakah padanya terdapat sebagian berhala?" Ia berkata; tidak. Beliau bersabda: "Penuhilah apa yang engkau nadzarkan untuk Allah!" Maimunah binti Kardam berkata; kemudian ia mengumpulkan kambing-kambing tersebut dan menyembelihnya. Lalu terdapat satu ekor kambing yang kabur. Lalu ia mencarinya dan berdoa; ya Allah, penuhkanlah nadzarku. Lalu ia mendapatkan kambing tersebut lalu menyembelihnya. Telah menceritakan kepada kami [Muhammad bin Basysyar], telah menceritakan kepada kami [Abu Bakr Al Hanafi], telah menceritakan kepada kami [Abdul Hamid bin Ja'far] dari ['Amr bin Syu'aib], dari [Maimunah binti Kardam bin Sufyan] dari [ayahnya] seperti itu secara ringkas. Beliau bersabda: "Apakah padanya terdapat berhala, atau hari besar jahiliyah?" Ia berkata; tidak. aku katakan; sesungguhnya ibuku memiliki tanggungan nadzar dan berjalan. Apakah aku boleh menunaikan untuknya? Dan Ibnu Basysyar berkata; apakah aku boleh menunaikannya? Beliau berkata: "Ya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Умара, да будет доволен им Аллах, что он сказал: «О Посланник Аллаха, во времена невежества я дал обет неотлучного пребывания в Заповедной мечети (Аль-Харам) в течение одной ночи». Пророк ﷺ сказал ему: «Выполни свой обет»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Meymûne binti Kerdem'in şöyle dediği rivayet edilmiştir: Hz. Nebi'in (veda) haccında babamla birlikte çıktım. Ra-sûlullah (s.a.v.)'ı gördüm. İnsanların "Rasûlullah" dediklerini duydum. Gözümle o'nu takibe başladım. Babam kendisine yaklaştı. Rasûlullah devesinin üzerinde idi. Elinde öğretmenlerin sopası gibi (ince) bir sopa vardı. Bedevilerin ve insanların "Tab, tab" dediklerini duydum. Babam o'na (iyice) yaklaştı, ayağını tuttu. Hz. Nebi buna ses çıkarmadı, durup babamı dinledi. Babam: Ya Rasûlallah, ben bir erkek çocuğum dünyaya gelirse, Büvâne (dağı)'nın tepesinde dik yokuşlu yollarda birkaç koyun kurban etmeyi adadım, dedi. -Abdullah b. Zeyd: "Tam bilmiyorum ama, galiba elli koyun demişti" dedi.- Rasûlullah: "Orada putlardan bir şey var mı?" diye sordu. Babam: Hayır, dedi. Rasûlullah (s.a.v.): "Allah için adadığın şeyi yerine getir" buyurdu.Meymûne devamla şöyle dedi: Babam koyunları toplayıp kesmeye başladı. Koyunlardan biri kurtulup kaçtı. Babam; "Ey Allah'ım, benim adağımı ödet" diyerek o'nu aradı. Buldu ve kesti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 میمونہ بنت کردم کہتی ہیں کہ میں اپنے والد کے ساتھ حجۃ الوداع میں نکلی، تو میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا، اور لوگوں کو کہتے ہوئے سنا کہ یہ رسول اللہ صلی اللہ علیہ وسلم ہیں، میں نے آپ پر اپنی نظریں گاڑ دیں، میرے والد آپ صلی اللہ علیہ وسلم سے قریب ہوئے آپ اپنی ایک اونٹنی پر سوار تھے، آپ صلی اللہ علیہ وسلم کے پاس معلمین مکتب کے درہ کے طرح ایک درہ تھا، میں نے بدویوں اور لوگوں کو کہتے ہوئے سنا: شن شن ( درے کی آواز جو تیزی سے مارتے اور گھماتے وقت نکلتی ہے ) تو میرے والد آپ صلی اللہ علیہ وسلم سے قریب ہو گئے اور ( جا کر ) آپ کے قدم پکڑ لیے، آپ صلی اللہ علیہ وسلم کی رسالت کا اعتراف و اقرار کیا، آپ کھڑے ہو گئے اور ان کی باتیں آپ نے توجہ سے سنیں، پھر انہوں نے کہا: اللہ کے رسول! میں نے نذر مانی ہے کہ اگر میرے یہاں لڑکا پیدا ہو گا تو میں بوانہ کی دشوار گزار پہاڑیوں میں بہت سی بکریوں کی قربانی کروں گا۔ راوی کہتے ہیں: میں یہی جانتا ہوں کہ انہوں نے پچاس بکریاں کہیں۔ آپ صلی اللہ علیہ وسلم نے پوچھا: کیا وہاں کوئی بت بھی ہے؟ انہوں نے کہا: نہیں، تو آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے اللہ کے لیے جو نذر مانی ہے اسے پوری کرو انہوں نے ( بکریاں ) اکٹھا کیں، اور انہیں ذبح کرنے لگے، ان میں سے ایک بکری بدک کر بھاگ گئی تو وہ اسے ڈھونڈنے لگے اور کہہ رہے تھے اے اللہ! میری نذر پوری کر دے پھر وہ اسے پا گئے تو ذبح کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3314</td></tr><tr><td>Arabic No</td><td>3314</td></tr><tr><td>Reference</td><td>Book 22 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3314 |
+| Arabic No | 3314 |
+| Reference | Book 22 Hadith 73 |

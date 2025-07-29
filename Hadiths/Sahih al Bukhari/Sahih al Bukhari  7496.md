@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو الْيَمَانِ، أَخْبَرَنَا شُعَيْبٌ، حَدَّثَنَا أَبُو الزِّنَادِ، أَنَّ الأَعْرَجَ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ نَحْنُ الآخِرُونَ السَّابِقُونَ يَوْمَ الْقِيَامَةِ ‏"‏‏.‏ وَبِهَذَا الإِسْنَادِ ‏"‏ قَالَ اللَّهُ أَنْفِقْ أُنْفِقْ عَلَيْكَ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو اليمان، اخبرنا شعيب، حدثنا ابو الزناد، ان الاعرج، حدثه انه، سمع ابا هريرة، انه سمع رسول الله صلى الله عليه وسلم يقول " نحن الاخرون السابقون يوم القيامة ". وبهذا الاسناد " قال الله انفق انفق عليك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
 ## Bengali
 
+হাদীসটির এ সনদে আরো আছে যে, আল্লাহ্ বলেনঃ তুমি খরচ কর, তাহলে আমিও তোমার ওপর খরচ করব। \[৪৬৮৪\] (আধুনিক প্রকাশনী- ৬৯৭৭ শেষাংশ, ইসলামিক ফাউন্ডেশন- ৬৯৮৭ শেষাংশ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাদীসটির এ সনদে আরো আছে যে, আল্লাহ্ বলেনঃ তুমি খরচ কর, তাহলে আমিও তোমার ওপর খরচ করব। [৪৬৮৪] (আধুনিক প্রকাশনী- ৬৯৭৭ শেষাংশ, ইসলামিক ফাউন্ডেশন- ৬৯৮৭ শেষাংশ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "We (Muslims) are the last (to come) but will be the foremost on the Day of Resurrection." The narrators of this Hadith said: Allah said (to man), 'Spend (in charity), for then I will compensate you (generously)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
+
+## French
+
+Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Nous (les musulmans) sommes les derniers à venir, mais nous serons les premiers au Jour de la Résurrection. » Les rapporteurs de ce hadith ont dit : Allah a dit à l’homme : « Dépense (en aumône), Je te récompenserai généreusement. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся с таким же иснадом, что Аллах сказал: «Расходуй, и Я стану расходовать на тебя»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a.'in nakline göre Resulullah Sallallahu Aleyhi ve Sellem "Bizler (dünyada) en sonra gelenleriz, kıyamet gününde ise en başa geçecek olanlarız" buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7496</td></tr><tr><td>Arabic No</td><td>7496</td></tr><tr><td>Reference</td><td>Book 97 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7496 |
+| Arabic No | 7496 |
+| Reference | Book 97 Hadith 121 |

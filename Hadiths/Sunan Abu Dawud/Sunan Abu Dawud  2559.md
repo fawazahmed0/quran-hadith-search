@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ مُعَاذٍ، قَالَ كُنْتُ رِدْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى حِمَارٍ يُقَالُ لَهُ عُفَيْرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
+
 حدثنا هناد بن السري، عن ابي الاحوص، عن ابي اسحاق، عن عمرو بن ميمون، عن معاذ، قال كنت ردف رسول الله صلى الله عليه وسلم على حمار يقال له عفير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মু‘আয (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি উফাইর নামীয় একটি গাধার পিঠে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পিছনে আরোহী ছিলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mu’adh said “I was seated behind the Prophet (ﷺ) on a donkey that was called ‘Ufair”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
+
+## French
+
+Mu’adh a dit : « J’étais assis derrière le Prophète ﷺ sur un âne qui s’appelait ‘Ufair. »
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hannad bin As Sari\], dari \[Abu Al Ajwash\] dari \[Abu Ishaq\], dari \['Amr bin Maimun\], dari \[Mu'adz\], ia berkaa; aku pernah membonceng Rasulullah shallallahu 'alaihi wasallam di atas keledai yang bernama 'Ufair
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hannad bin As Sari], dari [Abu Al Ajwash] dari [Abu Ishaq], dari ['Amr bin Maimun], dari [Mu'adz], ia berkaa; aku pernah membonceng Rasulullah shallallahu 'alaihi wasallam di atas keledai yang bernama 'Ufair
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muaz (r.a.)'dan; demiştir ki. 'Ben Ufeyr denilen bir merkebin üzerinde, Rasûlullah (s.a.v.)'in terkisinde idim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معاذ رضی اللہ عنہ کہتے ہیں کہ میں ایک گدھے پر رسول اللہ صلی اللہ علیہ وسلم کے پیچھے سوار تھا جس کو «عفیر» کہا جاتا تھا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2856)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2559</td></tr><tr><td>Arabic No</td><td>2559</td></tr><tr><td>Reference</td><td>Book 15 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2856) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2559 |
+| Arabic No | 2559 |
+| Reference | Book 15 Hadith 83 |

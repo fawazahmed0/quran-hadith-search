@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ أَبُو عَبْدِ الرَّحْمَنِ الأَذْرَمِيُّ، عَنْ حَكَّامِ بْنِ سَلْمٍ الرَّازِيِّ، عَنْ عَلِيِّ بْنِ عَبْدِ الأَعْلَى، عَنْ أَبِيهِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏ "‏ اللَّحْدُ لَنَا وَالشَّقُّ لِغَيْرِنَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 21 Hadith 192</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |
+
 اخبرنا عبد الله بن محمد ابو عبد الرحمن الاذرمي، عن حكام بن سلم الرازي، عن علي بن عبد الاعلى، عن ابيه، عن سعيد بن جبير، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم : " اللحد لنا والشق لغيرنا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 21 Hadith 192</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আব্দুল্লাহ ইবনু মুহাম্মাদ আবূ আব্দুর রহমান আযরামী (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, লাহদ কবর আমাদের জন্য আর শাক্ক কবর অন্যদের জন্য।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 21 Hadith 192</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Sa'eed bin Jubair that Ibn 'Abbas said:The Messenger of Allah said: "The niche is for us and the ditch is for others." (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 21 Hadith 192</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |
+
+## French
+
+Rapporté par Sa'eed bin Jubair d'après Ibn 'Abbas : Le Messager d'Allah a dit : "La niche est pour nous et la fosse est pour les autres." (Daif)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Abdullah bin Muhammad Abu 'Abdurrahman Al Adzrami\] dari \[Hukkam bin Salm Ar Razi\] dari \['Ali bin 'Abdul A'la\] dari \[bapaknya\] dari \[Sa'id bin Jubair\] dari \[Ibnu 'Abbas\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " Liang lahad (galian yang dimiringkan) ditanah adalah untuk kita sedangkan Syaq (galian yang sekelilingnya di semen) adalah untuk selain kita
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Abdullah bin Muhammad Abu 'Abdurrahman Al Adzrami] dari [Hukkam bin Salm Ar Razi] dari ['Ali bin 'Abdul A'la] dari [bapaknya] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " Liang lahad (galian yang dimiringkan) ditanah adalah untuk kita sedangkan Syaq (galian yang sekelilingnya di semen) adalah untuk selain kita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 21 Hadith 192</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 21 Hadith 192</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”بغلی قبر ہم ( مسلمانوں ) کے لیے ہے، اور صندوقی قبر دوسروں کے لیے ہے“ ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2009</td></tr><tr><td>Arabic No</td><td>2009</td></tr><tr><td>Reference</td><td>Book 21 Hadith 192</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2009 |
+| Arabic No | 2009 |
+| Reference | Book 21 Hadith 192 |

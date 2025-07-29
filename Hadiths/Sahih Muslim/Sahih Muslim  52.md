@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## French
 
+Rapporté par Jarīr bin Abd al-Hamīd رحمه الله : « J’ai rencontré Jābir bin Yazīd al-Ju’fī et je n’ai pas pris de hadiths de lui ; il croyait au retour \[ar-Raj’ah, une croyance des Rāfiḍa concernant le retour de Ali\]. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebû Gassân Muhammed b. Amr er Râzî rivâyet etti. ki: Cerîr'i şöyle derken işittim: b. Yezîd el-Cu'fî ile görüştüm, fakat ondan hadîs yazmadım. (Zira) o rac'ata inanırdı.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جریر کہتے ہیں : میں جابر بن یزید جعفی سے ملا تو میں نے اس سے حدیث نہ لکھی ، وہ رجعت پر ایمان رکھتا تھا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>52</td></tr><tr><td>Reference</td><td>Book 0 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 52 |
+| Reference | Book 0 Hadith 52 |

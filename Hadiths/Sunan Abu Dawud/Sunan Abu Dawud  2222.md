@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الزَّعْفَرَانِيُّ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنِ الْحَكَمِ بْنِ أَبَانَ، عَنْ عِكْرِمَةَ، أَنَّ رَجُلاً، ظَاهَرَ مِنَ امْرَأَتِهِ فَرَأَى بَرِيقَ سَاقِهَا فِي الْقَمَرِ فَوَقَعَ عَلَيْهَا فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَأَمَرَهُ أَنْ يُكَفِّرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
+
 حدثنا الزعفراني، حدثنا سفيان بن عيينة، عن الحكم بن ابان، عن عكرمة، ان رجلا، ظاهر من امراته فراى بريق ساقها في القمر فوقع عليها فاتى النبي صلى الله عليه وسلم فامره ان يكفر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
 
 ## Bengali
 
+। ইকরিমা (রহ.) সূত্রে বর্ণিত। এক ব্যক্তি তার স্ত্রীর সাথে যিহার করলো। সে চাঁদের আলোয় স্ত্রীর ঊরুর উজ্জলতা দেখতে পেয়ে তার সাথে সঙ্গম করে। অতঃপর সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এলে তিনি তাকে কাফফারাহ দেয়ার নির্দেশ দেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইকরিমা (রহ.) সূত্রে বর্ণিত। এক ব্যক্তি তার স্ত্রীর সাথে যিহার করলো। সে চাঁদের আলোয় স্ত্রীর ঊরুর উজ্জলতা দেখতে পেয়ে তার সাথে সঙ্গম করে। অতঃপর সে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এলে তিনি তাকে কাফফারাহ দেয়ার নির্দেশ দেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ikrimah said “A man made his wife like the back of his mother. When he saw the illumination of her shin in the moonlight, he had intercourse with her. He came to the Prophet (ﷺ). He ordered him to atone for it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
+
+## French
+
+Ikrimah a dit : Un homme a rendu sa femme pour lui comme le dos de sa mère. Quand il a vu la clarté de ses jambes au clair de lune, il a eu un rapport avec elle. Il est venu voir le Prophète ﷺ, qui lui a ordonné d’expier pour cela
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Икримы, что один человек дал жене зыхар, а потом увидел белизну её лодыжек в лунном свете и вступил с ней в близость. Потом он пришёл к Пророку ﷺ и Пророк ﷺ велел ему искупить зыхар
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İkrime'den rivayet olunduğuna göre, Bir adam karısına zihar yapmış kısa bir süre sonra da ay(ışığın)da onun inciğinin pırıltısını görünce (dayanamayıp) onunla cinsi münâsebette bulunmuş. Bunun üzerine Nebi (s.a.v.)'e gelmiş (Hz. Nebi de) ona keffâret ödemesini emretmiştir. Bu Hadisi Sadece Ebû Dâvud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عکرمہ سے روایت ہے کہ ایک شخص نے اپنی بیوی سے ظہار کر لیا، پھر اس نے چاندنی میں اس کی پنڈلی کی چمک دیکھی، تو اس سے صحبت کر بیٹھا، پھر وہ نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا تو آپ نے اسے کفارہ ادا کرنے کا حکم فرمایا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2222</td></tr><tr><td>Arabic No</td><td>2222</td></tr><tr><td>Reference</td><td>Book 13 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2222 |
+| Arabic No | 2222 |
+| Reference | Book 13 Hadith 48 |

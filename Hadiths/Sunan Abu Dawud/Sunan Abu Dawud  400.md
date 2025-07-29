@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبِيدَةُ بْنُ حُمَيْدٍ، عَنْ أَبِي مَالِكٍ الأَشْجَعِيِّ، سَعْدِ بْنِ طَارِقٍ عَنْ كَثِيرِ بْنِ مُدْرِكٍ، عَنِ الأَسْوَدِ، أَنَّ عَبْدَ اللَّهِ بْنَ مَسْعُودٍ، قَالَ كَانَتْ قَدْرُ صَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الصَّيْفِ ثَلاَثَةَ أَقْدَامٍ إِلَى خَمْسَةِ أَقْدَامٍ وَفِي الشِّتَاءِ خَمْسَةَ أَقْدَامٍ إِلَى سَبْعَةِ أَقْدَامٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا عبيدة بن حميد، عن ابي مالك الاشجعي، سعد بن طارق عن كثير بن مدرك، عن الاسود، ان عبد الله بن مسعود، قال كانت قدر صلاة رسول الله صلى الله عليه وسلم في الصيف ثلاثة اقدام الى خمسة اقدام وفي الشتاء خمسة اقدام الى سبعة اقدام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
 
 ## Bengali
 
+। আসওয়াদ সূত্রে বর্ণিত। ‘আব্দুল্লাহ ইবনু মাসউদ (রাঃ) বলেন, গ্রীষ্মকালে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর (যুহর) সালাত আদায়ের সময় ছিল (ছায়ার) তিন কদম হতে পাঁচ কদম পর্যন্ত। আর শীতকালে ছিল পাঁচ কদম হতে সাত কদম পর্যন্ত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আসওয়াদ সূত্রে বর্ণিত। ‘আব্দুল্লাহ ইবনু মাসউদ (রাঃ) বলেন, গ্রীষ্মকালে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর (যুহর) সালাত আদায়ের সময় ছিল (ছায়ার) তিন কদম হতে পাঁচ কদম পর্যন্ত। আর শীতকালে ছিল পাঁচ কদম হতে সাত কদম পর্যন্ত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Mas'ud: The extent of the shadow when the Messenger of Allah prayed (the noon prayer) was three to five feet in summer and five to seven feet in winter
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
+
+## French
+
+Rapporté par Abdullah ibn Mas'ud رضي الله عنه : L’ombre au moment où le Messager d’Allah ﷺ priait le zuhr mesurait entre un et un mètre cinquante en été, et entre un mètre cinquante et deux mètres en hiver
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] telah menceritakan kepada kami \[Abidah bin Humaid\] dari \[Abu Malik Al Asyja'i, Sa'd bin Thariq\] dari \[Katsir bin Mudrik\] dari \[Al Aswad\] bahwasanya \[Abdullah bin Mas'ud\] berkata; bahwasanya Rasulullah shallallahu 'alaihi wasallam shalat Zhuhur pada musim dingin disaat sekitar panjang bayangan tiga kaki hingga lima kaki, dan apabila musim panas sekitar lima kaki hingga tujuh kaki
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Abidah bin Humaid] dari [Abu Malik Al Asyja'i, Sa'd bin Thariq] dari [Katsir bin Mudrik] dari [Al Aswad] bahwasanya [Abdullah bin Mas'ud] berkata; bahwasanya Rasulullah shallallahu 'alaihi wasallam shalat Zhuhur pada musim dingin disaat sekitar panjang bayangan tiga kaki hingga lima kaki, dan apabila musim panas sekitar lima kaki hingga tujuh kaki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Асвада о том, что ‘Абдуллах ибн Мас‘уд сказал: «Когда Посланник Аллаха ﷺ совершал (полуденную) молитву, длина тени (отбрасываемого от предмета) равнялось от трех до пяти ступней летом и от пяти до семи ступней зимой»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah bin Mes'ud (r.a.)'den, şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem)'in (öğle) namazını (zevalden sonraya bırakma) müddeti, (insanın gölgesi) yazın, üç ayaktan beş ayağa, kışın da beş ayaktan yedi ayağa varıncaya kadardır. Diğer tahric: Nesai, mevakit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسود کہتے ہیں کہ عبداللہ بن مسعود رضی اللہ عنہ نے فرمایا: رسول اللہ صلی اللہ علیہ وسلم کی ( نماز ظہر ) کا اندازہ گرمی میں تین قدم سے پانچ قدم تک اور جاڑے میں پانچ قدم سے سات قدم تک تھا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>400</td></tr><tr><td>Arabic No</td><td>400</td></tr><tr><td>Reference</td><td>Book 2 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 400 |
+| Arabic No | 400 |
+| Reference | Book 2 Hadith 10 |

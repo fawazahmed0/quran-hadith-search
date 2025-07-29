@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا هَنَّادُ بْنُ السَّرِيِّ، عَنْ أَبِي زُبَيْدٍ، عَبْثَرِ بْنِ الْقَاسِمِ عَنْ مُطَرِّفٍ، عَنْ عَامِرٍ، عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ أَعْتَقَ جَارِيَتَهُ ثُمَّ تَزَوَّجَهَا فَلَهُ أَجْرَانِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 26 Hadith 150</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |
+
 اخبرنا هناد بن السري، عن ابي زبيد، عبثر بن القاسم عن مطرف، عن عامر، عن ابي بردة، عن ابي موسى، قال قال رسول الله صلى الله عليه وسلم " من اعتق جاريته ثم تزوجها فله اجران
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 26 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হান্নাদ ইবন সারী (রহঃ) ... আবু মূসা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার দাসীকে মুক্ত করে বিবাহ করে, তার জন্য দ্বিগুণ প্রতিদান রয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 26 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Musa said:"The Messenger of Allah said: 'Whoever manumits his female slave, then marries her, he will have two rewards
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 26 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |
+
+## French
+
+Rapporté par Abu Musa : Le Messager d’Allah ﷺ a dit : « Celui qui affranchit sa femme esclave puis l’épouse aura deux récompenses. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Hannad bin As Sari\] dari \[Abu Zubaid 'Abtsar bin Al Qasim\] dari \[Mutharrif\] dari \['Amir\] dari \[Abu Burdah\] dari \[Abu Musa\], Ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang memerdekakan seorang sahaya wanita kemudian menikahinya, baginya dua pahala
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Hannad bin As Sari] dari [Abu Zubaid 'Abtsar bin Al Qasim] dari [Mutharrif] dari ['Amir] dari [Abu Burdah] dari [Abu Musa], Ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang memerdekakan seorang sahaya wanita kemudian menikahinya, baginya dua pahala
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 26 Hadith 150</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 26 Hadith 150</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوموسیٰ اشعری رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جس نے اپنی باندی کو آزاد کیا اور پھر اس سے شادی کر لی، اسے دوہرا اجر ملے گا“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3345</td></tr><tr><td>Arabic No</td><td>3345</td></tr><tr><td>Reference</td><td>Book 26 Hadith 150</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3345 |
+| Arabic No | 3345 |
+| Reference | Book 26 Hadith 150 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانُ، حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ الْعَنْقَزِيُّ، حَدَّثَنَا أَسْبَاطُ بْنُ نَصْرٍ، عَنِ السُّدِّيِّ، عَنْ عَدِيِّ بْنِ ثَابِتٍ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، فِي قَوْلِهِ سُبْحَانَهُ ‏(‏وَمِمَّا أَخْرَجْنَا لَكُمْ مِنَ الأَرْضِ وَلاَ تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ)‏ ‏.‏ قَالَ نَزَلَتْ فِي الأَنْصَارِ كَانَتِ الأَنْصَارُ تُخْرِجُ إِذَا كَانَ جِدَادُ النَّخْلِ مِنْ حِيطَانِهَا أَقْنَاءَ الْبُسْرِ فَيُعَلِّقُونَهُ عَلَى حَبْلٍ بَيْنَ أُسْطُوَانَتَيْنِ فِي مَسْجِدِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ فَيَأْكُلُ مِنْهُ فُقَرَاءُ الْمُهَاجِرِينَ فَيَعْمِدُ أَحَدُهُمْ فَيُدْخِلُ قِنْوَ الْحَشَفِ يَظُنُّ أَنَّهُ جَائِزٌ فِي كَثْرَةِ مَا يُوضَعُ مِنَ الأَقْنَاءِ فَنَزَلَ فِيمَنْ فَعَلَ ذَلِكَ ‏(وَلاَ تَيَمَّمُوا الْخَبِيثَ مِنْهُ تُنْفِقُونَ)‏ ‏.‏ يَقُولُ لاَ تَعْمِدُوا لِلْحَشَفِ مِنْهُ تُنْفِقُونَ ‏.‏ ‏(وَلَسْتُمْ بِآخِذِيهِ إِلاَّ أَنْ تُغْمِضُوا فِيهِ )‏ يَقُولُ لَوْ أُهْدِيَ لَكُمْ مَا قَبِلْتُمُوهُ إِلاَّ عَلَى اسْتِحْيَاءٍ مِنْ صَاحِبِهِ غَيْظًا أَنَّهُ بَعَثَ إِلَيْكُمْ مَا لَمْ يَكُنْ لَكُمْ فِيهِ حَاجَةٌ وَاعْلَمُوا أَنَّ اللَّهَ غَنِيٌّ عَنْ صَدَقَاتِكُمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |
+
 حدثنا احمد بن محمد بن يحيى بن سعيد القطان، حدثنا عمرو بن محمد العنقزي، حدثنا اسباط بن نصر، عن السدي، عن عدي بن ثابت، عن البراء بن عازب، في قوله سبحانه (ومما اخرجنا لكم من الارض ولا تيمموا الخبيث منه تنفقون) . قال نزلت في الانصار كانت الانصار تخرج اذا كان جداد النخل من حيطانها اقناء البسر فيعلقونه على حبل بين اسطوانتين في مسجد رسول الله صلى الله عليه وسلم فياكل منه فقراء المهاجرين فيعمد احدهم فيدخل قنو الحشف يظن انه جايز في كثرة ما يوضع من الاقناء فنزل فيمن فعل ذلك (ولا تيمموا الخبيث منه تنفقون) . يقول لا تعمدوا للحشف منه تنفقون . (ولستم باخذيه الا ان تغمضوا فيه ) يقول لو اهدي لكم ما قبلتموه الا على استحياء من صاحبه غيظا انه بعث اليكم ما لم يكن لكم فيه حاجة واعلموا ان الله غني عن صدقاتكم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । বারাআ ইবনু আযেব (রাঃ) থেকে মহান আল্লাহর বাণী (অনুবাদ) ‘‘এবং আমি যা ভূমি থেকে উৎপাদন করে দেই তার মধ্যে যা উৎকৃষ্ট তা ব্যয় করো এবং তা থেকে নিকৃষ্ট অংশ ব্যয় করার সংকল্প করো না’’ (২ঃ ২৬৭) সম্পর্কে বর্ণিত। তিনি বলেন, এ আয়াত আনসারদের সম্পর্ক নাযিল হয়েছে। কেননা তাদের বাগানে উৎপন্ন খেজুর আধাপাকা হলে তারা খেজুরের কিছু ছড়া রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর মসজিদের দু’ খুঁটির মাঝখানে বাঁধা রশিতে ঝুলিয়ে রাখতেন। গরীব মুহাজিরগণ উক্ত ছড়া থেকে খেজুর খেতেন। দানকারীদের ধারণা ছিলো যে, ভালো খেজুরের সাথে নিম্ন মানের খেজুরও থাকলে দোষের কিছু নেই। যারা এরূপ করতো তাদের সম্পর্কে এ আয়াত নাযিল হয় (অনুবাদ) ‘‘তোমরা তা থেকে নিকৃষ্ট অংশ ব্যয় করার সংকল্প করো না। কেননা তোমরাও সন্তুষ্টচিত্তে এমন মাল গ্রহণ করবে না।’’ অর্থাৎ কেউ যদি তোমাদেরকে এমন নিকৃষ্ট জিনিস উপহারস্বরূপ দেয় তবে হয়তো তোমরা দাতার প্রতি চক্ষুলজ্জায় অসন্তুষ্ট চিত্তে তা গ্রহণ করবে আর বলবে, তোমাদের এরূপ উপহারের প্রয়োজন ছিলো না। তোমরা জেনে রাখো! আল্লাহ্ তোমাদের দান-খয়রাত থেকে মুখাপেক্ষীহীন। (আল্লাহ্ তা‘আলা প্রয়োজনের উর্ধ্বে, তিনি প্রশংসিত)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |
 
 ## English
 
+It was narrated that:Bara bin Azib said concerning the Verse: “And of that which We have priduced from the earth for you, and don not aim at that which is bad to spend from it. ” \[Al-Baqarah 2:267\] “This was revealed concerning the Ansar. At the time of the new date-palm harvest, they would take a bunch of dates that were beginning to ripen and hang it on a rope between two of the pillars in the mosque of the Messenger of Allah (ﷺ), and the poor emigrants would eat from it.” One of them deliberately mixed a bunch containing rotten and shriveled dates, and thought this was permissible because of the large number of dates that had been put there. So the following was revealed about the one who did that: '… and do not aim at that which is bad to spend from it'. Meaning do not seek out the rotten and shriveled dates to give in charity: '…(thought) you would not accept it save if you close your eyes and tolerate therein.' Meaning, if you were given this as a gift you would only accept it because you felt embarrassed, and you would get angry that he had sent something of which you have no need. And know that Allah has no need of your charity.”
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that:Bara bin Azib said concerning the Verse: “And of that which We have priduced from the earth for you, and don not aim at that which is bad to spend from it. ” [Al-Baqarah 2:267] “This was revealed concerning the Ansar. At the time of the new date-palm harvest, they would take a bunch of dates that were beginning to ripen and hang it on a rope between two of the pillars in the mosque of the Messenger of Allah (ﷺ), and the poor emigrants would eat from it.” One of them deliberately mixed a bunch containing rotten and shriveled dates, and thought this was permissible because of the large number of dates that had been put there. So the following was revealed about the one who did that: '… and do not aim at that which is bad to spend from it'. Meaning do not seek out the rotten and shriveled dates to give in charity: '…(thought) you would not accept it save if you close your eyes and tolerate therein.' Meaning, if you were given this as a gift you would only accept it because you felt embarrassed, and you would get angry that he had sent something of which you have no need. And know that Allah has no need of your charity.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |
+
+## French
+
+Rapporté par Bara bin Azib à propos du verset : « Et de ce que Nous avons fait sortir de la terre pour vous, ne cherchez pas à donner ce qui est mauvais. » \[Al-Baqarah 2:267\] « Ce verset a été révélé à propos des Ansar. Au moment de la récolte des dattes, ils prenaient une grappe de dattes qui commençaient à mûrir et l’accrochaient entre deux piliers de la mosquée du Messager d’Allah (ﷺ), et les pauvres émigrants en mangeaient. L’un d’eux a volontairement mélangé une grappe contenant des dattes pourries et sèches, pensant que c’était permis à cause de la quantité de dattes déposées. Alors ce verset a été révélé à propos de celui qui a fait cela : “... et ne cherchez pas à donner ce qui est mauvais.” Cela veut dire : ne choisissez pas les dattes pourries et sèches pour l’aumône. “... (pensant) que vous ne l’accepteriez que si vous fermiez les yeux et supportiez cela.” Cela signifie que si on vous offrait cela comme cadeau, vous ne l’accepteriez que par gêne, et vous seriez fâchés qu’on vous ait envoyé quelque chose dont vous n’avez pas besoin. Et sachez qu’Allah n’a pas besoin de votre aumône. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Muhammad bin Yahya bin Sa'id Al Qaththan\] berkata; telah menceritakan kepada kami \[Amru bin Muhammad Al 'Anqazi\] berkata, telah menceritakan kepada kami \[Asbath bin Nashr\] dari \[As Suddi\] dari \['Adi bin Tsabit\] dari \[Al Barra bin 'Azib\] tentang firman Allah Subhaanahu: "(Dan sebagian dari apa yang kami keluarkan dari bumi untuk kamu. Dan janganlah kamu memilih yang buruk-buruk lalu kamu nafkahkan darinya) ", ia berkata, "Ayat ini turun kepada sahabat Anshar. Orang-orang Anshar biasa memberikan jika tandan kurma dari kebunnya masih berupa kurma muda, mereka menggantungkannya pada sebuah tali antara dua tiang masjid Rasulullah shallallahu 'alaihi wasallam. Sehingga orang-orang miskin dari kalangan Muhajirin dapat memakannya. Salah seorang dari mereka sengaja memasukkan tandan yang berisi kurma jelek. Dia mengira hal demikian adalah diperbolehkan karena banyaknya kurma yang diletakkan di dalam tandan-tandan. Maka turunlah ayat kepada orang-orang yang melakukan seperti itu: "(Dan janganlah kamu memilih yang buruk-buruk lalu kamu nafkahkan darinya, padahal kamu sendiri tidak mau mengambilnya) ". Al Barra mengatakan, "Janganlah kalian sengaja menginfakan kurma yang paling buruk, sementara kamu sendiri tidak mau mengambilnya. 'Melainkan dengan memicingkan mata terhadapnya', Al Barra berkata, "Sekiranya itu dikirimkan kepada kalian, maka kalian tidak ingin menerimanya kecuali karena malu dengan pemiliknya. Dan kalian kecewa karena ia mengirimkan sesuatu yang kalian tidak butuh. Ketahuilah, bahwa Allah Maha Kaya terhadap apa yang kalian sedekahkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad bin Yahya bin Sa'id Al Qaththan] berkata; telah menceritakan kepada kami [Amru bin Muhammad Al 'Anqazi] berkata, telah menceritakan kepada kami [Asbath bin Nashr] dari [As Suddi] dari ['Adi bin Tsabit] dari [Al Barra bin 'Azib] tentang firman Allah Subhaanahu: "(Dan sebagian dari apa yang kami keluarkan dari bumi untuk kamu. Dan janganlah kamu memilih yang buruk-buruk lalu kamu nafkahkan darinya) ", ia berkata, "Ayat ini turun kepada sahabat Anshar. Orang-orang Anshar biasa memberikan jika tandan kurma dari kebunnya masih berupa kurma muda, mereka menggantungkannya pada sebuah tali antara dua tiang masjid Rasulullah shallallahu 'alaihi wasallam. Sehingga orang-orang miskin dari kalangan Muhajirin dapat memakannya. Salah seorang dari mereka sengaja memasukkan tandan yang berisi kurma jelek. Dia mengira hal demikian adalah diperbolehkan karena banyaknya kurma yang diletakkan di dalam tandan-tandan. Maka turunlah ayat kepada orang-orang yang melakukan seperti itu: "(Dan janganlah kamu memilih yang buruk-buruk lalu kamu nafkahkan darinya, padahal kamu sendiri tidak mau mengambilnya) ". Al Barra mengatakan, "Janganlah kalian sengaja menginfakan kurma yang paling buruk, sementara kamu sendiri tidak mau mengambilnya. 'Melainkan dengan memicingkan mata terhadapnya', Al Barra berkata, "Sekiranya itu dikirimkan kepada kalian, maka kalian tidak ingin menerimanya kecuali karena malu dengan pemiliknya. Dan kalian kecewa karena ia mengirimkan sesuatu yang kalian tidak butuh. Ketahuilah, bahwa Allah Maha Kaya terhadap apa yang kalian sedekahkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bera' bin A'zib (r.a.)'ın Allah Teala'mn (Bakara suresi 267 de): ومما أخرجنا لكم من الأرض ولا تيمموا الخبيث منه تنفقون. (Ey iman edenler! Kazandığınız şeylerin) ve yerden sizin için çıkardığımız şeylerin temizlerinden (infak ediniz.) Ve malın kötüsünden infak etmeye kalkmayın.» kavli celH-i hakkında şöyle dediği rivayet olunmuştur: Bu ayeti celile Ensar-ı Kiram hakkında inmiştir. Hurma devşirme zamanı olunca, Ensar-ı kiram, kendi hurma bahçelerinden taze hurma salkımlarını toplarlar ve Resulullah (Sallallahu Aleyhi ve Sellem)'in mescidinde İki direk arasında (gerilmiş durumda) ki ipin üzerine asarlar. Muhacirlerin fakirleri de ondan yerlerdi. Oraya konulan salkımların çokluğu dolayısıyla kimse farkına varmaz ve geçişir zanniyle bir adam, bozuk hurmalı bir salkımı bile bile getirip (oradaki salkımların arasına) sokar. İşte böyle yapan adam hakkında şunlar nazil oldu: ''Zekat'ı bozuk ve kötü kuru hurmadan vermek kastında bulunmayınız.'' (Şu) nazmı celilindede: Allah Teala: ''Öyle kötü hurmalarki; eğer size hediye edilmiş olsaydı işinize yaramayan bir şeyi size gönderdiği için (duyduğunuz) öfkeden dolayı ancak sahibinden utanarak kabul edecektiniz.'' buyuruyor. Şu cümlede de buyruluyor ki: ''Bilmiş olunuz ki şüphesiz Allah sizin zekatlarınızdan müstağnidir.'' Not: Zevaid'de şöyle denilmiştir: Bu hadisin senedi sahihtir. Çünkü bu senettekl ravi Ahmed bln Muhammed bin Yahya'nın çok Sadık olduğunu İbn-i Ebi Hatim ve Zehebi söylemişlerdir. İbn-i Hibban da: O. sikalardandır, rivayetIerinde muhkem idi. demiştir. Senedin kalan ravileri de Müslim'in şanı üzerinde sahihtir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 براء بن عازب رضی اللہ عنہما کہتے ہیں آیت کریمہ: «ومما أخرجنا لكم من الأرض ولا تيمموا الخبيث منه تنفقون» ( سورة التوبة: 267 ) انصار کے بارے میں نازل ہوئی، جب باغات سے کھجور توڑنے کا وقت آتا تو وہ اپنے باغات سے کھجور کے چند خوشے ( صدقے کے طور پر ) نکالتے، اور مسجد نبوی میں دونوں ستونوں کے درمیان رسی باندھ کر لٹکا دیتے، پھر فقراء مہاجرین اس میں سے کھاتے، انصار میں سے کوئی یہ کرتا کہ ان خوشوں میں خراب کھجور کا خوشہ شامل کر دیتا، اور یہ سمجھتا کہ بہت سارے خوشوں میں ایک خراب خوشہ رکھ دینا جائز ہے، تو انہیں لوگوں کے سلسلہ میں یہ آیت کریمہ نازل ہوئی: «ولا تيمموا الخبيث منه تنفقون» قصد نہ کرو خراب کا اس میں سے کہ اسے خرچ کرو اور تم اسے خود ہرگز لینے والے نہیں ہو، الا یہ کہ چشم پوشی سے کام لو، اگر تمہیں کوئی ایسے خراب مال سے تحفہ بھیجے تو تم کبھی بھی اس کو قبول نہ کرو گے مگر شرم کی وجہ سے، اور دل میں غصہ ہو کر کہ اس نے تمہارے پاس ایسی چیز بھیجی ہے جو تمہارے کام کی نہیں ہے، اور تم جان لو کہ اللہ تمہارے صدقات سے بے نیاز ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1822</td></tr><tr><td>Arabic No</td><td>1822</td></tr><tr><td>Reference</td><td>Book 8 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1822 |
+| Arabic No | 1822 |
+| Reference | Book 8 Hadith 40 |

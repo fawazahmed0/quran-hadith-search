@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَبُو مُحَمَّدٍ، مُوسَى بْنُ مُحَمَّدٍ - هُوَ الشَّامِيُّ - قَالَ حَدَّثَنَا مَيْمُونُ بْنُ الأَصْبَغِ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، قَالَ أَنْبَأَنَا شَرِيكٌ، عَنْ أَبِي إِسْحَاقَ، عَنِ الْقَاسِمِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ، رَضِيَ اللَّهُ عَنْهُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ أَمَرَ بِقَتْلِ الْحَيَّاتِ وَقَالَ ‏ "‏ مَنْ خَافَ ثَأْرَهُنَّ فَلَيْسَ مِنَّا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |
+
 اخبرنا ابو محمد، موسى بن محمد - هو الشامي - قال حدثنا ميمون بن الاصبغ، قال حدثنا يزيد بن هارون، قال انبانا شريك، عن ابي اسحاق، عن القاسم بن عبد الرحمن، عن ابيه، عن عبد الله، رضي الله عنه عن رسول الله صلى الله عليه وسلم انه امر بقتل الحيات وقال " من خاف ثارهن فليس منا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবু মুহাম্মাদ ইবন মূসা ইবন মুহাম্মাদ (রহঃ) ... আবদুল্লাহ (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণনা করেন, তিনি সাপ মারতে আদেশ করেছেন এবং বলেছেনঃ যে ব্যাক্তি ওদের প্রতিশোধ নেয়াকে ভয় করে, সে আমাদের (দ্বীনের) অন্তর্ভুক্ত নয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdullah (may Allah be pleased with him) that the Messenger of Allah (ﷺ) commanded that snakes be killed and he said:"Whoever fears their vengeance is not one of us
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |
+
+## French
+
+Rapporté par 'Abdullah (رضي الله عنه) : Le Messager d’Allah (ﷺ) a ordonné de tuer les serpents et il a dit : "Celui qui a peur de leur vengeance ne fait pas partie des nôtres
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Abu Muhammad Musa bin Muhammad yaitu Asy Syami\], ia berkata; telah menceritakan kepada kami \[Maimun bin Al Ashbagh\], ia berkata; telah menceritakan kepada kami \[Yazid bin Harun\], ia berkata; telah memberitakan kepada kami \[Syarik\] dari \[abu Ishaq\] dari \[Al Qasim bin Abdur Rahman\] dari \[ayahnya\] dari \[Abdullah\] radliallahu 'anhu dari rasulullah shallallahu 'alaihi wasallam bahwa beliau memerintahkan untuk membunuh ular, beliau bersabda: "Barang siapa yang takut kepada pengaruhnya maka bukan dari golongan kami
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Abu Muhammad Musa bin Muhammad yaitu Asy Syami], ia berkata; telah menceritakan kepada kami [Maimun bin Al Ashbagh], ia berkata; telah menceritakan kepada kami [Yazid bin Harun], ia berkata; telah memberitakan kepada kami [Syarik] dari [abu Ishaq] dari [Al Qasim bin Abdur Rahman] dari [ayahnya] dari [Abdullah] radliallahu 'anhu dari rasulullah shallallahu 'alaihi wasallam bahwa beliau memerintahkan untuk membunuh ular, beliau bersabda: "Barang siapa yang takut kepada pengaruhnya maka bukan dari golongan kami
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی الله عنہ روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سانپوں کے مارنے کا حکم دیا اور فرمایا: ”جو ان کے بدلے ( اور انتقام و قصاص ) سے ڈرے ( اور ان کو نہ مارے ) وہ ہم میں سے نہیں ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3193</td></tr><tr><td>Arabic No</td><td>3193</td></tr><tr><td>Reference</td><td>Book 25 Hadith 109</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3193 |
+| Arabic No | 3193 |
+| Reference | Book 25 Hadith 109 |

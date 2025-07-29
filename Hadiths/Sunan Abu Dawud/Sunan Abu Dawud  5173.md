@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,131 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الرَّبِيعُ بْنُ سُلَيْمَانَ الْمُؤَذِّنُ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ سُلَيْمَانَ، - يَعْنِي ابْنَ بِلاَلٍ - عَنْ كَثِيرٍ، عَنْ وَلِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا دَخَلَ الْبَصَرُ فَلاَ إِذْنَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
+
 حدثنا الربيع بن سليمان الموذن، حدثنا ابن وهب، عن سليمان، - يعني ابن بلال - عن كثير، عن وليد، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال " اذا دخل البصر فلا اذن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ চোখ প্রবেশ করলে এরপর অনুমতি নেয়ার দরকার থাকলো কই!\[1\] দুর্বলঃ যঈফাহ হা/ ২৫৮৬।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ চোখ প্রবেশ করলে এরপর অনুমতি নেয়ার দরকার থাকলো কই![1] দুর্বলঃ যঈফাহ হা/ ২৫৮৬।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: When one has a look into the house, then there is no (need of) permission
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Quand quelqu’un regarde dans la maison (sans permission), il n’y a plus lieu de lui accorder la permission. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ar Rabi' bin Sulaiman Al Muadzdzin\] berkata, telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Sulaiman\] -maksudnya Sulaiman bin Bilal- dari \[Katsir\] dari \[Al Walid\] dari \[Abu Hurairah\] Bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika (pandangan) mata telah masuk (ke dalam rumah), maka tidak ada izin (seperti masuk tanpa izin)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ar Rabi' bin Sulaiman Al Muadzdzin] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Sulaiman] -maksudnya Sulaiman bin Bilal- dari [Katsir] dari [Al Walid] dari [Abu Hurairah] Bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Jika (pandangan) mata telah masuk (ke dalam rumah), maka tidak ada izin (seperti masuk tanpa izin)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a.'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: "(Kişi evin içine baktı da) Bakış (eve) girdi mi, artık (eve girmek için) izin (almaya lüzum) yoktur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب نگاہ اندر پہنچ گئی تو پھر اجازت کا کوئی مطلب ہی نہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5173</td></tr><tr><td>Arabic No</td><td>5173</td></tr><tr><td>Reference</td><td>Book 43 Hadith 401</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5173 |
+| Arabic No | 5173 |
+| Reference | Book 43 Hadith 401 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا بَكْرٌ، - يَعْنِي ابْنَ مُضَرَ - عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنْ بُكَيْرٍ، عَنْ يَزِيدَ، مَوْلَى سَلَمَةَ عَنْ سَلَمَةَ بْنِ الأَكْوَعِ، قَالَ لَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏(‏ وَعَلَى الَّذِينَ يُطِيقُونَهُ فِدْيَةٌ طَعَامُ مِسْكِينٍ ‏)‏ كَانَ مَنْ أَرَادَ مِنَّا أَنْ يُفْطِرَ وَيَفْتَدِيَ فَعَلَ حَتَّى نَزَلَتِ الآيَةُ الَّتِي بَعْدَهَا فَنَسَخَتْهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
+
 حدثنا قتيبة بن سعيد، حدثنا بكر، - يعني ابن مضر - عن عمرو بن الحارث، عن بكير، عن يزيد، مولى سلمة عن سلمة بن الاكوع، قال لما نزلت هذه الاية ( وعلى الذين يطيقونه فدية طعام مسكين ) كان من اراد منا ان يفطر ويفتدي فعل حتى نزلت الاية التي بعدها فنسختها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
 
 ## Bengali
 
+। সালামাহ ইবনু আকওয়া‘ (রাযি.)-এর আযাদকৃত গোলাম ইয়াযীদ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, (আল্লাহর বাণী) ‘‘যারা সামর্থবান (কিন্তু সওম পালনে অক্ষম) তারা এর পরিবর্তে ফিদ্ইয়া হিসেবে একজন মিসকীনকে খাদ্য দিবে’’ (সূরা আল-বাকারাহঃ ১৮৪) এ আয়াত অবতীর্ণ হওয়ার পর আমাদের কারোর ইচ্ছে হলে সওম না রেখে ফিদ্ইয়া দিতে চাইলে তাই করতো। অতঃপর পরবর্তী আয়াত (২ঃ ১৮৫) দ্বারা উপরের প্রথম বিধানটি মানসূখ হয়ে যায়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সালামাহ ইবনু আকওয়া‘ (রাযি.)-এর আযাদকৃত গোলাম ইয়াযীদ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, (আল্লাহর বাণী) ‘‘যারা সামর্থবান (কিন্তু সওম পালনে অক্ষম) তারা এর পরিবর্তে ফিদ্ইয়া হিসেবে একজন মিসকীনকে খাদ্য দিবে’’ (সূরা আল-বাকারাহঃ ১৮৪) এ আয়াত অবতীর্ণ হওয়ার পর আমাদের কারোর ইচ্ছে হলে সওম না রেখে ফিদ্ইয়া দিতে চাইলে তাই করতো। অতঃপর পরবর্তী আয়াত (২ঃ ১৮৫) দ্বারা উপরের প্রথম বিধানটি মানসূখ হয়ে যায়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salamah bin Al Akwa said “After the revelation of the verse “For those who can do it(with hardship) is a ransom, the feeding of one, that is indigent, is one of us intended to leave fast and pay ransom, he could do so.” until the verse following it was revealed and abrogated the (previous) verse.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
+
+## French
+
+Rapporté par Salamah bin Al Akwa رضي الله عنه : « Après la révélation du verset : “Pour ceux qui peuvent le faire avec difficulté, il y a une compensation : nourrir un pauvre”, l’un d’entre nous pouvait choisir de ne pas jeûner et de payer la compensation. Jusqu’à ce que le verset suivant soit révélé et abroge le précédent. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\], Telah menceritakan kepada kami \[Bakr bin Mudhar\] dari \['Amr bin Al Harits\] dari \[Bukair\] dari \[Yazid\] mantan budak Salamah bin Al Akwa', dari \[Salamah bin Al Akwa\] 'ia berkata; tatkala telah turun ayat ini: WA 'ALALLADZII YUTHIIQUUNAHU FIDYATUN THA'AAMU MISKIIN (dan bagi orang yang berat menjalankannya, wajib membayar fidyah, yaitu memberi makan seorang miskin), maka barangsiapa diantara kami yang hendak berbuka dan membayar fidyah, ia boleh melakukannya, hingga turunlah ayat yang setelahnya, dan menggantikan hukum ayat tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id], Telah menceritakan kepada kami [Bakr bin Mudhar] dari ['Amr bin Al Harits] dari [Bukair] dari [Yazid] mantan budak Salamah bin Al Akwa', dari [Salamah bin Al Akwa] 'ia berkata; tatkala telah turun ayat ini: WA 'ALALLADZII YUTHIIQUUNAHU FIDYATUN THA'AAMU MISKIIN (dan bagi orang yang berat menjalankannya, wajib membayar fidyah, yaitu memberi makan seorang miskin), maka barangsiapa diantara kami yang hendak berbuka dan membayar fidyah, ia boleh melakukannya, hingga turunlah ayat yang setelahnya, dan menggantikan hukum ayat tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Салямы ибн аль-Аква‘, да будет доволен им Аллах: «После того как был ниспослан аят “А тем, которые способны поститься с трудом, следует в искупление накормить бедняка” (сура 2 «аль-Бакара», аят 184), каждый из нас, кто не хотел соблюдать пост и намеревался искупить это, так и делал, и это продолжалось до тех пор, пока не был ниспослан следующий аят, который отменил это постановление»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
 
 ## Turkish
 
+Seleme b. el-Ekva (r.a.)'dan; demiştir ki: Şu "Oruca dayanamayanlara, bir yoksul doyurma fidyesi (vermeleri) lâzımdır."\[Bakara 184\] âyet-i kerimesi inince, bizden dileyen oruç tutar, dileyen de fidye verirdi. (Bu hal) bundan sonraki âyet inip de bu âyeti neshedinceye kadar devam etti
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Seleme b. el-Ekva (r.a.)'dan; demiştir ki: Şu "Oruca dayanamayanlara, bir yoksul doyurma fidyesi (vermeleri) lâzımdır."[Bakara 184] âyet-i kerimesi inince, bizden dileyen oruç tutar, dileyen de fidye verirdi. (Bu hal) bundan sonraki âyet inip de bu âyeti neshedinceye kadar devam etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلمہ بن الاکوع رضی اللہ عنہ کہتی ہیں کہ جب یہ آیت «وعلى الذين يطيقونه فدية طعام مسكين» اور جو لوگ روزہ رکھنے کی طاقت رکھتے ہیں وہ ایک مسکین کا کھانا فدیہ دے دیں ( سورۃ البقرہ: ۱۸۳ ) نازل ہوئی تو جو شخص ہم میں سے روزے نہیں رکھنا چاہتا وہ فدیہ ادا کر دیتا پھر اس کے بعد والی آیت نازل ہوئی تو اس نے اس حکم کو منسوخ کر دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4507) Sahih Muslim (1145)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2315</td></tr><tr><td>Arabic No</td><td>2315</td></tr><tr><td>Reference</td><td>Book 14 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4507) Sahih Muslim (1145) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2315 |
+| Arabic No | 2315 |
+| Reference | Book 14 Hadith 3 |

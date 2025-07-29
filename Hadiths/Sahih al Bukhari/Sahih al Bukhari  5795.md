@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ، أَخْبَرَنَا ابْنُ عُيَيْنَةَ، عَنْ عَمْرٍو، سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ قَالَ أَتَى النَّبِيُّ صلى الله عليه وسلم عَبْدَ اللَّهِ بْنَ أُبَىٍّ بَعْدَ مَا أُدْخِلَ قَبْرَهُ، فَأَمَرَ بِهِ فَأُخْرِجَ، وَوُضِعَ عَلَى رُكْبَتَيْهِ، وَنَفَثَ عَلَيْهِ مِنْ رِيقِهِ، وَأَلْبَسَهُ قَمِيصَهُ، وَاللَّهُ أَعْلَمُ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الله بن محمد، اخبرنا ابن عيينة، عن عمرو، سمع جابر بن عبد الله رضى الله عنهما قال اتى النبي صلى الله عليه وسلم عبد الله بن ابى بعد ما ادخل قبره، فامر به فاخرج، ووضع على ركبتيه، ونفث عليه من ريقه، والبسه قميصه، والله اعلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 জাবির ইবনু ‘আবদুল্লাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আবদুল্লাহ ইবনু উবাইকে কবরে রাখার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সেখানে এলেন। তিনি তার লাশ কবর থেকে উঠানোর নির্দেশ দিলেন। তখন লাশ কবর থেকে উঠান হল এবং তাঁর দু’হাঁটুর উপর রাখা হল। তিনি তার উপর থুথু প্রদান করলেন এবং তাকে নিজের জামা পরিয়ে দিলেন। আল্লাহই বেশি জানেন। (আধুনিক প্রকাশনী- ৫৩৭১, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir bin 'Abdullah:The Prophet (ﷺ) came to visit 'Abdullah bin Ubai (bin Salul) after he had been put in his grave. The Prophet (ﷺ) ordered that 'Abdullah be taken out. He was taken out and was placed on the knees of the Prophet, who blew his (blessed) breath on him and dressed the body with his own shirt. And Allah knows better
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
+
+## French
+
+Rapporté par Jabir bin 'Abdullah : Le Prophète (ﷺ) est venu rendre visite à 'Abdullah bin Ubai (bin Salul) après qu’il ait été mis dans sa tombe. Le Prophète (ﷺ) a demandé qu’on sorte 'Abdullah. Il a été sorti et placé sur les genoux du Prophète, qui a soufflé sur lui et l’a enveloppé avec sa propre chemise. Et Allah sait mieux
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Utsman\] telah mengabarkan kepada kami \[Ibnu 'Uyainah\] dari \['Amru\] dia mendengar \[Jabir bin Abdullah\] radliallahu 'anhuma berkata; "Nabi shallallahu 'alaihi wasallam pernah mendatangi kuburan Abdullah bin Ubay setelah ia dikuburkan, beliau kemudian menyuruh untuk mengeluarkannya, lalu diletakkan di atas lututnya, beliau kemudian meniup sedikit air liurnya dan memakaikan bajunya." Wallahhu Ta'ala A'lam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Utsman] telah mengabarkan kepada kami [Ibnu 'Uyainah] dari ['Amru] dia mendengar [Jabir bin Abdullah] radliallahu 'anhuma berkata; "Nabi shallallahu 'alaihi wasallam pernah mendatangi kuburan Abdullah bin Ubay setelah ia dikuburkan, beliau kemudian menyuruh untuk mengeluarkannya, lalu diletakkan di atas lututnya, beliau kemudian meniup sedikit air liurnya dan memakaikan bajunya." Wallahhu Ta'ala A'lam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Джабир ибн ‘Абдуллах, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ пришёл к (могиле) ‘Абдуллаха ибн Убаййа уже после того, как (тело) было опущено в могилу, и приказал вытащить его оттуда. После того как его вынули, он положил его тело на свои колени, поплевал на него небольшим количеством слюны и одел на него свою рубаху, а Аллах знает лучше (почему он так поступил)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: (நயவஞ்சகர்களின் தலைவர்) அப்துல்லாஹ் பின் உபையின் பிரேதம் மண்ணறைக்குள் வைக்கப்பட்டபிறகு நபி (ஸல்) அவர்கள் வந்தார்கள். அவரை வெளியே எடுக்கும்படி உத்தரவிட்டார் கள். அவ்வாறே அவர் வெளியே எடுக்கப்பட்டு நபி (ஸல்) அவர்களின் முழங்கால்களின் மீது வைக்கப்பட்டார். நபி (ஸல்) அவர்கள் தமது உமிழ்நீரை அவர்மீது உமிழ்ந்து தமது (முழுநீளச்) சட்டையை அவருக்கு அணிவித்தார்கள். (இதன் காரணத்தை) அல்லாஹ்வே அறிவான்.14 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir b. Abdullah r.a.'dan, dedi ki: "Abdullah b. Ubey (b. Selul) kabrine indirildikten sonra Nebi Sallallahu Aleyhi ve Sellem onun yanına geldi. Emir verilerek kabrinden dışarıya çıkarıldı, Nebiin dizleri üzerine konuldu. Nebi Sallallahu Aleyhi ve Sellem kendi tükürüğünden ona üfledi ve gömleğini ona giydirdi. Artık (niçin böyle yaptığını) Allah en iyi bilendir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عبداللہ بن محمد مسندی نے بیان کیا، کہا ہم کو ابن عیینہ نے خبر دی، انہیں عمرو نے اور انہوں نے جابر بن عبداللہ رضی اللہ عنہما سے سنا، انہوں نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم عبداللہ بن ابی ( منافق ) کے پاس جب اسے قبر میں داخل کیا جا چکا تھا تشریف لائے پھر آپ کے حکم سے اس کی لاش نکالی گئی اور نبی کریم صلی اللہ علیہ وسلم کے گھٹنوں پر اسے رکھا گیا نبی کریم صلی اللہ علیہ وسلم نے اس پر دم کرتے ہوئے اپنی قمیص پہنائی اور اللہ ہی خوب جاننے والا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5795</td></tr><tr><td>Arabic No</td><td>5795</td></tr><tr><td>Reference</td><td>Book 77 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5795 |
+| Arabic No | 5795 |
+| Reference | Book 77 Hadith 13 |

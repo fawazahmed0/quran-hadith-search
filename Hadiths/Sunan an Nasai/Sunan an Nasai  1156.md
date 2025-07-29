@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا نَصْرُ بْنُ عَلِيٍّ، وَسَوَّارُ بْنُ عَبْدِ اللَّهِ بْنِ سَوَّارٍ، قَالاَ حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ، وَعَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، أَنَّهُمَا صَلَّيَا خَلْفَ أَبِي هُرَيْرَةَ - رضى الله عنه - فَلَمَّا رَكَعَ كَبَّرَ فَلَمَّا رَفَعَ رَأْسَهُ قَالَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ ثُمَّ سَجَدَ وَكَبَّرَ وَرَفَعَ رَأْسَهُ وَكَبَّرَ ثُمَّ كَبَّرَ حِينَ قَامَ مِنَ الرَّكْعَةِ ثُمَّ قَالَ وَالَّذِي نَفْسِي بِيَدِهِ إِنِّي لأَقْرَبُكُمْ شَبَهًا بِرَسُولِ اللَّهِ صلى الله عليه وسلم مَا زَالَتْ هَذِهِ صَلاَتُهُ حَتَّى فَارَقَ الدُّنْيَا ‏.‏ وَاللَّفْظُ لِسَوَّارٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |
+
 اخبرنا نصر بن علي، وسوار بن عبد الله بن سوار، قالا حدثنا عبد الاعلى، عن معمر، عن الزهري، عن ابي بكر بن عبد الرحمن، وعن ابي سلمة بن عبد الرحمن، انهما صليا خلف ابي هريرة - رضى الله عنه - فلما ركع كبر فلما رفع راسه قال سمع الله لمن حمده ربنا ولك الحمد ثم سجد وكبر ورفع راسه وكبر ثم كبر حين قام من الركعة ثم قال والذي نفسي بيده اني لاقربكم شبها برسول الله صلى الله عليه وسلم ما زالت هذه صلاته حتى فارق الدنيا . واللفظ لسوار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । নাসর ইবনু আলী ও সাওয়ার ইবনু আব্দুল্লাহ ইবনু সাওয়ার (রহঃ) ... আর বকর ইবনু আব্দুর রহমান এবং আবূ সালমা ইবনু আবদুর রহমান (রহঃ) থেকে বর্ণিত। তাঁরা উভয়ে আবূ হুরায়রা (রাঃ) এর পেছনে সালাত আদায় করেন। যখন তিনি রুকু করলেন তখন তাকবীর বললেন। যখন মাথা উঠালেন তখন বললেন سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ رَبَّنَا وَلَكَ الْحَمْدُ তারপর সিজদা দিতে তাকবীর বললেন এবং যখন তাঁর মাথা উঠালেন তখনও তাকবীর বললেন। এরপর এক রাকআতের পর যখন দাঁড়ালেন তখন তাকবীর বললেন। পরে বললেন, যার হাতে আমার প্রাণ, তাঁর শপথ! আমি তোমাদের মধ্যে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে অধিক সামঞ্জস্যশীল। পৃথিবী ত্যাগ করা পর্যন্ত তার সালাত এরূপই ছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Bakr bin 'Abdur-Rahman and from Abu Salamah bin 'Abdur-Rahman that:They prayed behind Abu Hurairah, may Allah (SWT) be pleased with him, and he when he bowed, he said the Takbir, when he raised his head he said: 'Sami Allahu liman hamidah, Rabbana wa lakal-hamd. Then he prostrated and said the takbir, then he raised his head and said the takbir, then he said the takbir when he stood up following that Rak'ah. Then he said: 'By the One in Whose Hand is my soul, I am the one among you whose prayer most closely resembles that of the Messenger of Allah (ﷺ). And this is how he continued to pray until he left this world
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |
+
+## French
+
+Rapporté par Abu Bakr bin 'Abdur-Rahman et Abu Salamah bin 'Abdur-Rahman : Ils ont prié derrière Abu Hurairah, que Allah (SWT) l’agrée, et lorsqu’il s’inclinait, il disait le takbir, puis en se relevant il disait : "Sami Allahu liman hamidah, Rabbana wa lakal-hamd." Ensuite il se prosternait en disant le takbir, puis se relevait en disant le takbir, puis il disait le takbir en se levant après cette rak‘a. Il disait ensuite : "Par Celui qui détient mon âme, parmi vous, c’est ma prière qui ressemble le plus à celle du Messager d’Allah (ﷺ). Et il a continué à prier ainsi jusqu’à sa mort
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Nashr bin 'Ali\] dan \[Sawwar bin 'Abdullah bin Sawwar\] dia berkata; telah menceritakan kepada kami \['Abdul A'la\] dari \[Ma'mar\] dari \[Az Zuhri\] dari \[Abu Bakr bin 'Abdurrahman\] dan dari \[Abu Salamah bin 'Abdurrahman\] bahwasanya keduanya shalat di belakang \[Abu Hurairah\] Radliyallahu'anhu; bila hendak ruku' maka ia bertakbir. Jika ia mengangkat kepalanya dari ruku' maka ia mengucapkan, "Sami'allahu liman hamidah rabbana lakal hamdu (Allah Mendengar semua yang memuji-Nya. Ya Allah, untuk-Mu segala pujian)." Kemudian ia bertakbir ketika turun untuk sujud dan bertakbir ketika hendak bangun dari rakaat. Kemudian ia berkata; "Demi Dzat yang jiwaku ada di tangan-Nya, aku adalah orang yang paling serupa dengan Rasulullah Shallallahu'alaihiwasallam, dan masih seperti inilah shalat beliau sampai meninggal dunia." Lafazh ini milik Surur
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Nashr bin 'Ali] dan [Sawwar bin 'Abdullah bin Sawwar] dia berkata; telah menceritakan kepada kami ['Abdul A'la] dari [Ma'mar] dari [Az Zuhri] dari [Abu Bakr bin 'Abdurrahman] dan dari [Abu Salamah bin 'Abdurrahman] bahwasanya keduanya shalat di belakang [Abu Hurairah] Radliyallahu'anhu; bila hendak ruku' maka ia bertakbir. Jika ia mengangkat kepalanya dari ruku' maka ia mengucapkan, "Sami'allahu liman hamidah rabbana lakal hamdu (Allah Mendengar semua yang memuji-Nya. Ya Allah, untuk-Mu segala pujian)." Kemudian ia bertakbir ketika turun untuk sujud dan bertakbir ketika hendak bangun dari rakaat. Kemudian ia berkata; "Demi Dzat yang jiwaku ada di tangan-Nya, aku adalah orang yang paling serupa dengan Rasulullah Shallallahu'alaihiwasallam, dan masih seperti inilah shalat beliau sampai meninggal dunia." Lafazh ini milik Surur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوبکر بن عبدالرحمٰن اور ابوسلمہ بن عبدالرحمٰن سے روایت ہے کہ ان دونوں نے ابوہریرہ رضی اللہ عنہ کے پیچھے نماز پڑھی، جب انہوں نے رکوع کیا تو اللہ اکبر کہا، پھر رکوع سے اپنا سر اٹھایا تو «سمع اللہ لمن حمده ربنا ولك الحمد» کہا، پھر سجدہ کیا تو «اللہ اکبر» کہا، اور سجدہ سے اپنا سر اٹھایا تو «اللہ اکبر» کہا، پھر جس وقت رکعت پوری کر کے کھڑے ہوئے تو «اللہ اکبر» کہا، پھر کہا: اس ذات کی قسم جس کے ہاتھ میں میری جان ہے، میں نماز میں ازروئے مشابہت تم میں رسول اللہ صلی اللہ علیہ وسلم سے سب سے زیادہ قریب ہوں، برابر آپ کی نماز ایسے رہی یہاں تک کہ آپ دنیا سے رخصت ہو گئے، یہ الفاظ «سّوار» کے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1156</td></tr><tr><td>Arabic No</td><td>1156</td></tr><tr><td>Reference</td><td>Book 12 Hadith 128</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1156 |
+| Arabic No | 1156 |
+| Reference | Book 12 Hadith 128 |

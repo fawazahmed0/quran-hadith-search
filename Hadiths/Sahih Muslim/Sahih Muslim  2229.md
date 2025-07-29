@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو كريب، حدثنا ابن ابي زايدة، عن يحيى بن سعيد، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ কুরায়ব (রহঃ) ..... ইয়াহইয়া ইবনু সাঈদ (রহঃ) থেকে একই সানাদে বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ২০৯৭, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Yahya b. Sa'id with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## French
 
+Ce hadith a été rapporté par Yahya b. Sa'id avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Ebû Küreyb rivayet etti. (dediki): Bize ibni Ebî Zaide, Yahya b. Saîd'den bu isnâdla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن ابی زائدہ نے یحییٰ بن سعید سے اسی سند کے ساتھ یہی روایت بیا ن کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2229</td></tr><tr><td>Arabic No</td><td>962.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 106</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2229 |
+| Arabic No | 962.03 |
+| Reference | Book 11 Hadith 106 |

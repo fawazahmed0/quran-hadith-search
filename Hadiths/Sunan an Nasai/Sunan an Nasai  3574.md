@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ أَبُو كُرَيْبٍ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ حُصَيْنٍ، عَنْ عَامِرٍ، عَنْ عُرْوَةَ الْبَارِقِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ الْخَيْلُ مَعْقُودٌ فِي نَوَاصِيهَا الْخَيْرُ إِلَى يَوْمِ الْقِيَامَةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |
+
 حدثنا محمد بن العلاء ابو كريب، قال حدثنا ابن ادريس، عن حصين، عن عامر، عن عروة البارقي، قال قال رسول الله صلى الله عليه وسلم " الخيل معقود في نواصيها الخير الى يوم القيامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন আলা আবূ কুরায়ব (রহঃ) ... উরওয়া বারিকী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ঘোড়ার ললাটে কিয়ামত পর্যন্ত কল্যাণ ও মঙ্গল নিবদ্ধ থাকবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Urwah Al-Bariqi said:"The Messenger of Allah said: 'Goodness is tied to the forelocks of horses until the Day of Resurrection
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |
+
+## French
+
+Rapporté par 'Urwah Al-Bariqi : Le Messager d’Allah a dit : "Le bien est attaché à la crinière des chevaux jusqu’au Jour de la Résurrection
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al 'Ala Abu Kuraib\] berkata; telah menceritakan kepada kami \[Ibnu Idris\] dari \[Hushain\] dari \['Amir\] dari \['Urwah Al Bariqi\] Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada ubun-ubun kuda telah tertulis padanya kebaikan hingga Hari Kiamat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al 'Ala Abu Kuraib] berkata; telah menceritakan kepada kami [Ibnu Idris] dari [Hushain] dari ['Amir] dari ['Urwah Al Bariqi] Rasulullah shallallahu 'alaihi wasallam bersabda: "Pada ubun-ubun kuda telah tertulis padanya kebaikan hingga Hari Kiamat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عروہ بارقی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”گھوڑے کی پیشانی میں قیامت تک کے لیے خیر رکھ دی گئی ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3574</td></tr><tr><td>Arabic No</td><td>3574</td></tr><tr><td>Reference</td><td>Book 28 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3574 |
+| Arabic No | 3574 |
+| Reference | Book 28 Hadith 14 |

@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا حَاتِمٌ، - وَهُوَ ابْنُ إِسْمَاعِيلَ - عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي الْمَغْرِبَ إِذَا غَرَبَتِ الشَّمْسُ وَتَوَارَتْ بِالْحِجَابِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا قتيبة بن سعيد، حدثنا حاتم، - وهو ابن اسماعيل - عن يزيد بن ابي عبيد، عن سلمة بن الاكوع، ان رسول الله صلى الله عليه وسلم كان يصلي المغرب اذا غربت الشمس وتوارت بالحجاب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... সালামাহ ইবনুল আকওয়া (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, সূর্য অস্তমিত হয়ে অদৃশ্য হলেই রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাগরিবের সালাত আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৩১৩, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salama b. al-Akwa' reported that the Messenger of Allah (ﷺ) used to pray the evening prayer when the sun had set and disappeared (behind the horizon)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## French
 
+Rapporté par Salama ibn al-Akwa’ رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de faire la prière du Maghrib lorsque le soleil était couché et avait complètement disparu derrière l’horizon
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Said\] telah menceritakan kepada kami \[Hatim\] maksudnya bin Ismail dari \[Yazid bin Abu 'Ubaid\] dari \[Salamah bin Al Akwa'\], bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat maghrib ketika matahari terbenam dan tak kelihatan lagi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Said] telah menceritakan kepada kami [Hatim] maksudnya bin Ismail dari [Yazid bin Abu 'Ubaid] dari [Salamah bin Al Akwa'], bahwa Rasulullah shallallahu 'alaihi wasallam pernah shalat maghrib ketika matahari terbenam dan tak kelihatan lagi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Салямы ибн аль-Аква‘, что Посланник Аллаха ﷺ совершал закатную молитву (сразу) после того, как солнце исчезало из виду и скрывалось (за горизонтом)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 சலமா பின் அக்வஃ (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், சூரியன் திரையில் (அடிவானில்) மறையும்போது மஃக்ரிப் தொழுவார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Hatim, —ki îbni İsmail'dir.— Yezîd b. Ebî Ubeyd'den, o da Selemetü'bnü Ekva'dan naklen rivayet etti ki, Resulullah (Sallallahu Aleyhi ve Sellem) akşam namazını, güneş kavuşarak perde arkasına gizlendiği zaman kılarmış
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت سلمہ بن اکوع ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ رسول اللہﷺ مغرب کی نماز اس وقت پڑھتے جب سورج غروب ہوتا اور پردے کی اوٹ میں چلا جاتا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1440</td></tr><tr><td>Arabic No</td><td>636</td></tr><tr><td>Reference</td><td>Book 5 Hadith 273</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1440 |
+| Arabic No | 636 |
+| Reference | Book 5 Hadith 273 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، بِإِسْنَادِ جَرِيرٍ وَوَكِيعٍ فِي رِوَايَةِ أَبِي بَكْرٍ عَنْ أَبِي مُعَاوِيَةَ، قَدَّمَ مُعَاذًا قَبْلَ أُبَىٍّ ‏.‏ وَفِي رِوَايَةِ أَبِي كُرَيْبٍ أُبَىٌّ قَبْلَ مُعَاذٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، وابو كريب قالا حدثنا ابو معاوية، عن الاعمش، باسناد جرير ووكيع في رواية ابي بكر عن ابي معاوية، قدم معاذا قبل ابى . وفي رواية ابي كريب ابى قبل معاذ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... আ'মাশ (রাযিঃ) থেকে জারীর ও ওয়াকীর সানাদে আবূ মু'আবিয়াহ্ হতে আবূ বাকর (রাযিঃ) এর বর্ণিত সূত্রে মুআয ইবনু জাবালকে উবাইয়ের আগে এনেছে। আর আবূ কুরায়বের বর্ণনায় উবাই এর নাম মুআয (রাযিঃ) এর নামের আগে এসেছে। (ইসলামিক ফাউন্ডেশন ৬১১৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been reported on the authority of Abu Bakr b. Abu Shaiba and Abu Kuraib, and both of them said:Abu Mu'awiya narrated to us from A'mash on the authority of Jarir and Waki', and in a narration of Abu Bakr transmitted on the authority of Abu Mu'awiya the mention of Mu'adh has preceded Ubayy's, and in the narration transmitted on the authority of Abu Kuraib, the name of Ubayy preceded Mu'ddh's
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## French
 
+Ce hadith a été rapporté par Abu Bakr ibn Abu Shayba et Abu Kuraib. Tous deux ont dit : Abu Mu’awiya nous a transmis de la part de A’mash, de la part de Jarir et Waki’. Dans le récit d’Abu Bakr transmis par Abu Mu’awiya, le nom de Mu’adh est cité avant celui d’Ubayy, et dans le récit transmis par Abu Kuraib, le nom d’Ubayy précède celui de Mu’adh
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-117) Bize Ebû Bekr b, Ebi Şeybe ile Ebû Kureyb rivayet ettiler. (Dedilerki): Bize Ebû Muaviye A'meş'den, Cerir ile Veki'in isnâdiyle rivayet etti. Ebû Bekr'in, Ebû Muaviye'den rivayetinde, Muaz'ı Übey'den önce zikretmiştir. Ebû Kureyb'in rivayetinde ise Übey Muâz'dan öncedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو بکر بن ابی شیبہ اور ابو کریب نے کہا : ہمیں ابو معاویہ نے اعمش سے جریر اور وکیع کی سند کے ساتھ حدیث بیان کی ۔ ابو معاویہ سے ابو بکر کی روایت میں انھوں نے معاذ رضی اللہ تعالیٰ عنہ کو ابی رضی اللہ تعالیٰ عنہ سے مقدم رکھا اورابو کریب کی روایت میں ابی ( بن کعب رضی اللہ تعالیٰ عنہ ) معاذ رضی اللہ تعالیٰ عنہ سے پہلے ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6336</td></tr><tr><td>Arabic No</td><td>2464.03</td></tr><tr><td>Reference</td><td>Book 44 Hadith 166</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6336 |
+| Arabic No | 2464.03 |
+| Reference | Book 44 Hadith 166 |

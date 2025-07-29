@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ سُوَيْدٍ الرَّمْلِيُّ، وَعُمَرُ بْنُ الْخَطَّابِ أَبُو حَفْصٍ، وَحَدِيثُهُ، أَتَمُّ أَنَّ سَعِيدَ بْنَ الْحَكَمِ، حَدَّثَهُمْ قَالَ أَخْبَرَنَا نَافِعُ بْنُ يَزِيدَ، حَدَّثَنِي حَيْوَةُ بْنُ شُرَيْحٍ، أَنَّ أَبَا سَعِيدٍ الْحِمْيَرِيَّ، حَدَّثَهُ عَنْ مُعَاذِ بْنِ جَبَلٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ اتَّقُوا الْمَلاَعِنَ الثَّلاَثَ الْبَرَازَ فِي الْمَوَارِدِ وَقَارِعَةِ الطَّرِيقِ وَالظِّلِّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
+
 حدثنا اسحاق بن سويد الرملي، وعمر بن الخطاب ابو حفص، وحديثه، اتم ان سعيد بن الحكم، حدثهم قال اخبرنا نافع بن يزيد، حدثني حيوة بن شريح، ان ابا سعيد الحميري، حدثه عن معاذ بن جبل، قال قال رسول الله صلى الله عليه وسلم " اتقوا الملاعن الثلاث البراز في الموارد وقارعة الطريق والظل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Bengali
 
+। মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তিনটি অভিশপ্ত কাজ থেকে বিরত থাকবে। সেগুলো হচ্ছেঃ মানুষের অবতরণ স্থল, চলাচলের পথ ও জলাশয়ে চলাচলের পথে ছায়াবিশিষ্ট জায়গায় পায়খানা করা।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তিনটি অভিশপ্ত কাজ থেকে বিরত থাকবে। সেগুলো হচ্ছেঃ মানুষের অবতরণ স্থল, চলাচলের পথ ও জলাশয়ে চলাচলের পথে ছায়াবিশিষ্ট জায়গায় পায়খানা করা।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Mu'adh ibn Jabal: The Messenger of Allah (ﷺ) said: Be on your guard against three things which provoke cursing: easing in the watering places and on the thoroughfares, and in the shade (of the tree)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
+
+## French
+
+Rapporté par Mu’adh ibn Jabal : Le Messager d’Allah ﷺ a dit : « Prenez garde à trois choses qui provoquent les malédictions : faire ses besoins dans les points d’eau, sur les chemins, ou à l’ombre (des arbres). »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Suwaid Ar Ramli\] dan \[Umar bin Al Khaththab Abu Hafsh\] dan haditsnya lebih sempurna, bahwasanya \[Sa'id bin Al Hakam\] telah menceritakan kepada mereka, dia berkata; Telah mengabarkan kepada kami \[Nafi' bin Yazid\] telah menceritakan kepada kami \[Haiwah bin Syuraih\] bahwasanya \[Abu Sa'id Al Himyari\] telah menceritakan kepadanya dari \[Mu'adz bin Jabal\], dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Takutlah kalian terhadap tiga hal yang terlaknat; buang air besar di sumber air, tengah jalanan, dan tempat berteduh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Suwaid Ar Ramli] dan [Umar bin Al Khaththab Abu Hafsh] dan haditsnya lebih sempurna, bahwasanya [Sa'id bin Al Hakam] telah menceritakan kepada mereka, dia berkata; Telah mengabarkan kepada kami [Nafi' bin Yazid] telah menceritakan kepada kami [Haiwah bin Syuraih] bahwasanya [Abu Sa'id Al Himyari] telah menceritakan kepadanya dari [Mu'adz bin Jabal], dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Takutlah kalian terhadap tiga hal yang terlaknat; buang air besar di sumber air, tengah jalanan, dan tempat berteduh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Му‘аз ибн Джабаль сказал: «Посланник Аллаха ﷺ сказал: “Остерегайтесь трех вещей, которые навлекают проклятие: испражнение в источники воды, на прохожей части дороги, где ходят люди и в тени (деревьев)”». Иснад этого хадиса является слабым из-за разрыва между Му‘азом ибн Джабаль и (Абу Са‘идом) аль-Химьяри, и его слабым назвали автор данной книги (Абу Дауд) и другие. Но у этого хадиса есть другой подтверждающий хадис со слов Ибн ‘Аббаса, который передал имам Ахмад (1/299). Подробнее см. «Сахих Аби Дауд»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muaz b. Cebel (r.a.)'den demiştir ki; Resulullah (Sallallahu Aleyhi ve Sellem): "La'net vesilesi olan üç şeyi yapmaktan; su yollarına ve kaynaklarına (insanların uğradığı ve toplandığı yerlere) yol ortasına, gölgelik yerlere abdest bozmaktan akınınız." buyurdu. Diğer tahric: İbn Mace, tahare, Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معاذ بن جبل رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: لعنت کی تین چیزوں سے بچو: مسافروں کے اترنے کی جگہ میں، عام راستے میں، اور سائے میں پاخانہ پیشاب کرنے سے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>26</td></tr><tr><td>Arabic No</td><td>26</td></tr><tr><td>Reference</td><td>Book 1 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 26 |
+| Arabic No | 26 |
+| Reference | Book 1 Hadith 26 |

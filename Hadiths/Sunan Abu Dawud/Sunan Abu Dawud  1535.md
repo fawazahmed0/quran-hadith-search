@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ زِيَادٍ، عَنْ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْعَاصِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ إِنَّ أَسْرَعَ الدُّعَاءِ إِجَابَةً دَعْوَةُ غَائِبٍ لِغَائِبٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
+
 حدثنا احمد بن عمرو بن السرح، حدثنا ابن وهب، حدثني عبد الرحمن بن زياد، عن ابي عبد الرحمن، عن عبد الله بن عمرو بن العاص، ان رسول الله صلى الله عليه وسلم قال " ان اسرع الدعاء اجابة دعوة غايب لغايب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
 
 ## Bengali
 
+। ‘আবদুল্লাহ ইবনু ‘আমর ইবনুল ‘আস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, অনুপস্থিত ব্যক্তিদের পরস্পরের জন্য দু‘আ অতি দ্রুত কবুল হয়।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুল্লাহ ইবনু ‘আমর ইবনুল ‘আস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, অনুপস্থিত ব্যক্তিদের পরস্পরের জন্য দু‘আ অতি দ্রুত কবুল হয়।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: The supplication which gets the quickest answer is that made by one distant Muslim for another
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
+
+## French
+
+Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Le Prophète ﷺ a dit : « L’invocation qui reçoit la réponse la plus rapide est celle qu’un musulman fait pour un autre musulman en son absence. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Ahmad bin 'Amru bin As Sarh\], telah menceritakan kepada Kami \[Ibnu Wahb\], telah menceritakan kepadaku \[Abdurrahman bin Ziyad\] dari \[Abu Abdurrahman\] dari \[Abdullah bin 'Amr bin Al 'Ash\] bahwa Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Sesungguhnya do'a yang paling cepat dikabulkan adalah do'a orang yang ghaib (tidak hadir) untuk saudaranya yang tidak hadir
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Ahmad bin 'Amru bin As Sarh], telah menceritakan kepada Kami [Ibnu Wahb], telah menceritakan kepadaku [Abdurrahman bin Ziyad] dari [Abu Abdurrahman] dari [Abdullah bin 'Amr bin Al 'Ash] bahwa Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Sesungguhnya do'a yang paling cepat dikabulkan adalah do'a orang yang ghaib (tidak hadir) untuk saudaranya yang tidak hadir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Абдуллаха ибн ‘Амра ибн аль-‘Ас, да будет доволен ими Аллах, о том, что Посланник Аллаха ﷺ сказал: «Поистине, быстрее всех отвечают на такую мольбу, когда один отсутствующий обращается с мольбой за другого (отсутствующего)». Этот хадис передали аль-Бухари в «Адабуль-муфрад» 623, Абу Дауд 1535, ат-Тирмизи 1981.Шейх аль-Албани назвал хадис слабым. См. «Мишкат аль-масабих» 2247.Иснад этого хадиса является слабым из-за слабой памяти передатчика по имени ‘Абдуррахмана ибн Зияда ибн Ан‘ум аль-Ифрикъи, о чем сказал хафиз Ибн Хаджар. См. «Да‘иф Сунан Абу Дауд»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Amr b. el-As (r.a.)'dan rivayet edildiğine göre, Resulullah (s.a.v.) şöyle buyurmuştur: "En çabuk kabul edilen dua, gaibin gâib için yaptığı duadır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: سب سے جلد قبول ہونے والی دعا وہ ہے جو غائب کسی غائب کے لیے کرے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1535</td></tr><tr><td>Arabic No</td><td>1535</td></tr><tr><td>Reference</td><td>Book 8 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1535 |
+| Arabic No | 1535 |
+| Reference | Book 8 Hadith 120 |

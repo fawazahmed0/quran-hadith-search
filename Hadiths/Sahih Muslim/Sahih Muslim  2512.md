@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا ابْنُ مَهْدِيٍّ، عَنْ سُفْيَانَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، بِهَذَا الإِسْنَادِ وَلَمْ يَذْكُرْ لِلشَّهْرِ الثَّانِي ثَلاَثِينَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه محمد بن حاتم، حدثنا ابن مهدي، عن سفيان، عن الاسود بن قيس، بهذا الاسناد ولم يذكر للشهر الثاني ثلاثين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আসওয়াদ ইবনু কায়স থেকে এ সূত্রে হাদীসের অনুরূপ বর্ণিত হয়েছে। কিন্তু এ সূত্রে “দ্বিতীয় মাসের ত্রিশদিন” এ কথা উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ২৩৭৯, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Aswad b. Qais with the same chain of transmitters, but herein no mention has been made of the other month (consisting of) thirty days
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## French
 
+Rapporté par Aswad ibn Qais selon la même chaîne de transmetteurs : Mais ici, il n’est pas fait mention de l’autre mois (composé de) trente jours
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana, bu hadisi Muhammed b. Hatim dahî rivayet etti. (Dediki): Bize İbni Mehdi, Süfyan'dan, o da Esved b. Kays'dan bu isnâdla rivayette bulundu. Yalnız ikinci ay için «Otuz» tâbirini söylemedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفیان نے اسود بن قیس سے اسی سندکے ساتھ روایت کی اور دوسرے مہینے کے تیس ( دنوں ) کا ذکر نہیں کیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2512</td></tr><tr><td>Arabic No</td><td>1080.15</td></tr><tr><td>Reference</td><td>Book 13 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2512 |
+| Arabic No | 1080.15 |
+| Reference | Book 13 Hadith 18 |

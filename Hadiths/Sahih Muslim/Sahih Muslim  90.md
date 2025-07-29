@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## French
 
+Rapporté par Abd ur-Rahman bin Bishr al-Abdī : J’ai entendu Muhammad bin Abd Allah bin Ubayd bin Umayr al-Laythī être mentionné devant Yahyā bin Sa’īd al-Qattān, alors il l’a fortement critiqué. On a alors demandé à Yahyā : « Est-il plus faible que Ya’qūb bin Atā’ ? » Il a répondu : « Oui. » Puis il a dit : « Je n’ai vu personne rapporter de Muhammad bin Abd Allah bin Ubayd bin Umayr. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>90</td></tr><tr><td>Reference</td><td>Book 0 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 90 |
+| Reference | Book 0 Hadith 90 |

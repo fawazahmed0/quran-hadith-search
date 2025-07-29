@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنِ الْمِسْوَرِ بْنِ مَخْرَمَةَ، وَمَرْوَانَ، قَالاَ خَرَجَ النَّبِيُّ صلى الله عليه وسلم مِنَ الْمَدِينَةِ زَمَنَ الْحُدَيْبِيَةِ فِي بِضْعَ عَشْرَةَ مِائَةً مِنْ أَصْحَابِهِ، حَتَّى إِذَا كَانُوا بِذِي الْحُلَيْفَةِ قَلَّدَ النَّبِيُّ صلى الله عليه وسلم الْهَدْىَ وَأَشْعَرَ وَأَحْرَمَ بِالْعُمْرَةِ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا احمد بن محمد، اخبرنا عبد الله، اخبرنا معمر، عن الزهري، عن عروة بن الزبير، عن المسور بن مخرمة، ومروان، قالا خرج النبي صلى الله عليه وسلم من المدينة زمن الحديبية في بضع عشرة ماية من اصحابه، حتى اذا كانوا بذي الحليفة قلد النبي صلى الله عليه وسلم الهدى واشعر واحرم بالعمرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মিসওয়ার ইবনু মাখরামা ও মারওয়ান (রাযি.) হতে বর্ণিত। তাঁরা উভয়েই বলেছেন, হুদায়বিয়ার সন্ধির পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক হাজারেরও অধিক সাহাবী নিয়ে মাদ্বীনা হতে বের হয়ে যুল-হুলাইফা পৌঁছে কুরবানীর পশুটিকে কিলাদা পরালেন এবং ইশ‘আর করলেন। এরপর তিনি ‘উমরাহ’র ইহরাম বাঁধলেন। (১৬৯৪=১৮১১, ২৭১২, ২৭৩১, ৪১৫৮, ৪১৭৮, ৪১৮১) (১৬৯৫=২৭১১, ২৭৩২, ৪১৫৭, ৪১৭৯, ৪১৮০) (আধুনিক প্রকাশনীঃ ১৫৭৭, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Miswar bin Makhrama and Marwan:The Prophet (ﷺ) set out from Medina with over one thousand of his companions (at the time of the Treaty of Hudaibiya) and when they reached Dhul-Hulaifa, the Prophet (ﷺ) garlanded his Hadi and marked it and assumed Ihram for 'Umra
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
+
+## French
+
+Rapporté par Al-Miswar ibn Makhrama et Marwan : Le Prophète (ﷺ) partit de Médine avec plus de mille de ses compagnons (au moment du traité de Hudaibiya) et, lorsqu'ils atteignirent Dhul-Hulaifa, le Prophète (ﷺ) mit des colliers à son animal destiné au sacrifice, le marqua et entra en état d'Ihram pour la 'Umra
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Muhammad\] telah mengabarkan kepada kami \['Abdullah\] telah mengabarkan kepada kami \[Ma'mar\] dari \[Az Zuhriy\] dari \['Urwah bin Az Zubair\] dari \[Al Miswar bin Makhramah\] dan \[Marwan\] keduanya berkata: "Nabi Shallallahu'alaihiwasallam berangkat saat perjanjian Al Hudaibiyah dari Madinah bersama sekitar seribu orang sahabat Beliau hingga ketika sampai di Dzul Hulaifah, Nabi Shallallahu'alaihiwasallam mengikatnya dan menandai hewan qurban Beliau, lalu berihram untuk 'umrah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhriy] dari ['Urwah bin Az Zubair] dari [Al Miswar bin Makhramah] dan [Marwan] keduanya berkata: "Nabi Shallallahu'alaihiwasallam berangkat saat perjanjian Al Hudaibiyah dari Madinah bersama sekitar seribu orang sahabat Beliau hingga ketika sampai di Dzul Hulaifah, Nabi Shallallahu'alaihiwasallam mengikatnya dan menandai hewan qurban Beliau, lalu berihram untuk 'umrah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов аль-Мисвара бин Махрама и Марвана, да будет доволен Аллах ими обоими, что Пророк ﷺ выехал из Медины в сопровождении более тысячи своих сподвижников, а когда они достигли Зуль-Хулейфы, Пророк ﷺ обвязал шеи своему скоту верёвками и пометил его, после чего вошёл в состояние ихрама для совершения умры
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 மிஸ்வர் பின் மக்ரமா (ரலி), மர்வான் பின் அல்ஹகம் ஆகியோர் கூறியதாவது: ஹுதைபியா உடன்படிக்கை நடந்த ஆண்டு நபி (ஸல்) அவர்கள் ஆயிரத்துக் கும் மேற்பட்ட தோழர்களுடன் மதீனா விலிருந்து புறப்பட்டார்கள்; துல்ஹுலை ஃபாவுக்கு வந்ததும் குர்பானிப் பிராணி யின் கழுத்தில் அடையாள மாலை தொங்க விட்டு அடையாளமும் இட்டார்கள்; பின்னர் உம்ராவுக்காக இஹ்ராம் கட்டினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Misver İbn Mahrame ve Mervan şöyle demişlerdir: " Nebi (Sallallahu aleyhi ve Sellem), Hudeybiye anlaşmasının yapıldığı yıl, bir kaç onluk yüzer kişilik on civarında sahabî grubu ile birlikte yola çıkmıştı. Zu'l-Huleyfe'ye geldikleri zaman Resulullah kurbanlık hayvana gerdanlık takmış, bellik koymuş sonra da ihrama girmişti." 1694’ün Geçtiği diğer yerler: 1694, 1811, 2712, 2731, 4158, 4178, 4181. 1695’in geçtiği diğer yerler:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1694</td></tr><tr><td>Arabic No</td><td>1694</td></tr><tr><td>Reference</td><td>Book 25 Hadith 173</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1694 |
+| Arabic No | 1694 |
+| Reference | Book 25 Hadith 173 |

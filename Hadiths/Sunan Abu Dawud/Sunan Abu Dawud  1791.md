@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنِي أَبِي، حَدَّثَنَا النَّهَّاسُ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا أَهَلَّ الرَّجُلُ بِالْحَجِّ ثُمَّ قَدِمَ مَكَّةَ فَطَافَ بِالْبَيْتِ وَبِالصَّفَا وَالْمَرْوَةِ فَقَدْ حَلَّ وَهِيَ عُمْرَةٌ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ ابْنُ جُرَيْجٍ عَنْ رَجُلٍ عَنْ عَطَاءٍ دَخَلَ أَصْحَابُ النَّبِيِّ صلى الله عليه وسلم مُهِلِّينَ بِالْحَجِّ خَالِصًا فَجَعَلَهَا النَّبِيُّ صلى الله عليه وسلم عُمْرَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
+
 حدثنا عبيد الله بن معاذ، حدثني ابي، حدثنا النهاس، عن عطاء، عن ابن عباس، عن النبي صلى الله عليه وسلم قال " اذا اهل الرجل بالحج ثم قدم مكة فطاف بالبيت وبالصفا والمروة فقد حل وهي عمرة " . قال ابو داود رواه ابن جريج عن رجل عن عطاء دخل اصحاب النبي صلى الله عليه وسلم مهلين بالحج خالصا فجعلها النبي صلى الله عليه وسلم عمرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি হজের (হজ্জের) ইহরাম বেঁধে মক্কায় উপস্থিত হয়ে বায়তুল্লাহ তাওয়াফ এবং সাফা-মারওয়া সাঈ করলে সে অবশ্যই হালাল হয়ে গেলো। আর এটাই হচ্ছে ‘উমরা। আবূ দাঊদ বলেন, ইবনু জুরাইজ এক ব্যক্তি থেকে ‘আতা সূত্রে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ শুধুমাত্র হজের (হজ্জের) ইহরাম বেঁধে (মক্কায়) প্রবেশ করেছিলেন। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা ‘উমরায় রূপান্তরিত করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোনো ব্যক্তি হজের (হজ্জের) ইহরাম বেঁধে মক্কায় উপস্থিত হয়ে বায়তুল্লাহ তাওয়াফ এবং সাফা-মারওয়া সাঈ করলে সে অবশ্যই হালাল হয়ে গেলো। আর এটাই হচ্ছে ‘উমরা। আবূ দাঊদ বলেন, ইবনু জুরাইজ এক ব্যক্তি থেকে ‘আতা সূত্রে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ শুধুমাত্র হজের (হজ্জের) ইহরাম বেঁধে (মক্কায়) প্রবেশ করেছিলেন। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা ‘উমরায় রূপান্তরিত করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Abbas reported the Prophet(ﷺ) as saying If a man raises his voice in talbiya for Hajj, then he comes to Makkah, goes round the House(the Ka’bah) and runs between Al Safa’ and Al Marwah he may take off his ihram. That will be considered as ihram for ‘Umrah. Abu Dawud said Ibn Juraij narrated from a man on the authority of ‘Ata that the companions of the Prophet (ﷺ) entered Makkah raising their voices in talbiyah for Hajj alone, but the Prophet (ﷺ) changed it to ‘Umrah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
+
+## French
+
+Rapporté par Ibn 'Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un prononce la talbiyah pour le Hajj, puis arrive à La Mecque, fait le tour de la Ka'bah et parcourt al-Safa et al-Marwah, il peut retirer son ihram. Cela sera considéré comme un ihram pour la 'Umrah. » Abu Dawud a dit : Ibn Juraij a rapporté d’un homme, d’après Ata, que les compagnons du Prophète ﷺ sont entrés à La Mecque en prononçant la talbiyah uniquement pour le Hajj, mais le Prophète ﷺ l’a transformé en 'Umrah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
 
 ## Russian
 
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если человек произнёс тальбию для хаджа, а потом прибыл в Мекку, совершил обход вокруг Каабы и пробег между холмами Сафа и Марва, то он выходит из ихрама, а это зачтётся ему как ‘умра». Абу Дауд сказал, что Ибн Джурайдж передаёт от одного человека от ‘Ата: «Сподвижники Пророка ﷺ прибыли \[в Мекку\], объявив о намерении совершить только хадж, а Пророк ﷺ сделал это ‘умрой»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Если человек произнёс тальбию для хаджа, а потом прибыл в Мекку, совершил обход вокруг Каабы и пробег между холмами Сафа и Марва, то он выходит из ихрама, а это зачтётся ему как ‘умра». Абу Дауд сказал, что Ибн Джурайдж передаёт от одного человека от ‘Ата: «Сподвижники Пророка ﷺ прибыли [в Мекку], объявив о намерении совершить только хадж, а Пророк ﷺ сделал это ‘умрой»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.a.)'dan rivayet edildiğine göre, Nebi (s.a.v.); "Bir kimse (sadece) hacca niyet eder, sonra Mekke'ye gelir de Beyt-i ve Safa ile Merve'yi tavaf ederse ihramdan çıkabilir ve bu (yaptığı) umredir," buyurmuştur. Ebû Dâvûd dedi ki: Bu hadisi İbn Cüreyc de bir adam vasıta­sıyla Ata'dan (şu şekilde) rivayet etmiştir: "Nebi (s.a.v.)'in as­habı sadece hacca niyet ederek (Mekke'ye) gelmişti. (Ashabının ni­yet ettiği) haca umreye çevirtti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ نے فرمایا: جب آدمی حج کا احرام باندھ کر مکہ آئے اور بیت اللہ کا طواف اور صفا و مروہ کی سعی کر لے تو وہ حلال ہو گیا اور یہ عمرہ ہے ۔ ابوداؤد کہتے ہیں: اسے ابن جریج نے ایک شخص سے انہوں نے عطا سے روایت کیا ہے کہ نبی اکرم صلی اللہ علیہ وسلم کے صحابہ خالص حج کا احرام باندھ کر مکہ میں داخل ہوئے تو نبی کریم صلی اللہ علیہ وسلم نے اسے عمرہ سے بدل دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1791</td></tr><tr><td>Arabic No</td><td>1791</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1791 |
+| Arabic No | 1791 |
+| Reference | Book 11 Hadith 71 |

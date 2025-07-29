@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## French
 
+Rapporté par Muhammad bin Rāfi’ et Hajjāj bin ash-Shā’ir : Ils ont dit : « Abd ur-Razzāq nous a rapporté, Ma’mar a dit : ‘Je n’ai jamais vu Ayyūb parler en mal de qui que ce soit, sauf d’Abd al-Karīm – c’est-à-dire Abū Umayyah.’ Il l’a donc mentionné et a dit, qu’Allah lui fasse miséricorde : ‘Il n’est pas digne de confiance – il m’a demandé au sujet d’un hadith d’Ikrimah puis il a dit “J’ai entendu d’Ikrimah” \[en rapportant le hadith\].’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>62</td></tr><tr><td>Reference</td><td>Book 0 Hadith 62</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 62 |
+| Reference | Book 0 Hadith 62 |

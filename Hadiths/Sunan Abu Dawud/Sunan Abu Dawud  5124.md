@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ ثَوْرٍ، قَالَ حَدَّثَنِي حَبِيبُ بْنُ عُبَيْدٍ، عَنِ الْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، - وَقَدْ كَانَ أَدْرَكَهُ - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا أَحَبَّ الرَّجُلُ أَخَاهُ فَلْيُخْبِرْهُ أَنَّهُ يُحِبُّهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
+
 حدثنا مسدد، حدثنا يحيى، عن ثور، قال حدثني حبيب بن عبيد، عن المقدام بن معديكرب، - وقد كان ادركه - عن النبي صلى الله عليه وسلم قال " اذا احب الرجل اخاه فليخبره انه يحبه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
 
 ## Bengali
 
+। আল-মিকদাম ইবনু মা‘দীকারিব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার কোনো মুসলিম ভাইকে ভালবাসে, তার উচিৎ তাকে তাঁর ভালবাসা সম্পর্কে অবহিত করা।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-মিকদাম ইবনু মা‘দীকারিব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তার কোনো মুসলিম ভাইকে ভালবাসে, তার উচিৎ তাকে তাঁর ভালবাসা সম্পর্কে অবহিত করা।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Miqdam ibn Ma'dikarib: The Prophet (ﷺ) said: When a man loves his brother, he should tell him that he loves him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
+
+## French
+
+Rapporté par Al-Miqdam ibn Ma’dikarib : Le Prophète ﷺ a dit : « Quand un homme aime son frère, il doit lui dire qu’il l’aime. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Yahya\] dari \[Tsaur\] ia berkata; telah menceritakan kepadaku \[Habib bin Ubaid\] dari \[Al Miqdam bin Ma'diKarib\] -dan Habib pernah bertemu dengan Al Miqdam- dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang laki-laki menyukai saudaranya, maka hendaklah ia mengabarkan kepadanya bahwa ia menyukainya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Tsaur] ia berkata; telah menceritakan kepadaku [Habib bin Ubaid] dari [Al Miqdam bin Ma'diKarib] -dan Habib pernah bertemu dengan Al Miqdam- dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika seorang laki-laki menyukai saudaranya, maka hendaklah ia mengabarkan kepadanya bahwa ia menyukainya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов аль-Микдама бин Ма‘дикариба, да будет доволен им Аллах, что Пророк ﷺ сказал: «Если человек полюбит брата своего, пусть сообщит ему о том, что он любит его»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 el-Mikdam b. Ma'dikerib'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: Bir kimse (din) kardeşini sevdiği zaman kendisini sevdiğini ona bildirsin." Tahric edenler: Tirmizî, zühd; Ahmed b. Hanbel, IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مقدام بن معد یکرب رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب آدمی اپنے بھائی سے محبت رکھے تو اسے چاہیئے کہ وہ اسے بتا دے کہ وہ اس سے محبت رکھتا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5124</td></tr><tr><td>Arabic No</td><td>5124</td></tr><tr><td>Reference</td><td>Book 43 Hadith 352</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5124 |
+| Arabic No | 5124 |
+| Reference | Book 43 Hadith 352 |

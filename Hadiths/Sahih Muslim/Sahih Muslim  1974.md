@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَلَمْ يَقُلْ وَهِيَ سَاعَةٌ خَفِيفَةٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه محمد بن رافع، حدثنا عبد الرزاق، حدثنا معمر، عن همام بن منبه، عن ابي هريرة، عن النبي صلى الله عليه وسلم . ولم يقل وهي ساعة خفيفة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, এ সানাদ সূত্রে "সে মুহুর্তটি স্বল্প" কথাটি উল্লেখ নেই। (ইসলামী ফাউন্ডেশন ১৮৪৪, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hammam b. Munabbih reported this hadith from Abu Huraira who reported from the Messenger of Allah (ﷺ) but he did not say:" That time is short
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## French
 
+Rapporté par Hammam ibn Munabbih رضي الله عنه : Il a rapporté ce hadith d’Abu Huraira رضي الله عنه, qui le tenait du Messager d’Allah ﷺ, mais il n’a pas dit : « Ce moment est court. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) В этой версии хадиса с другим иснадом нет слов: «И это короткий период»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize bu hadîsi Muhammed b. Râfi'de rivayet etti. (Dediki): Bize Abdurrazzâk rivayet etti. (Dediki): Bize Ma'mer, Hemmâm b. Münebbih'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. Yalnız: «o, hafif bir saatdir.» cümlesini söylemedi. İzah için buraya tıklayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمام بن منبہ نے حضڑت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی صلی اللہ علیہ وسلم سے روایت کی لیکن انھوں نے ( وهي ساعة خفيفة ) ( وہ ایک چھوٹی سی گھڑی ہے ) نہیں کہا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>852.06</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 852.06 |
+| Reference | Book 7 Hadith 24 |

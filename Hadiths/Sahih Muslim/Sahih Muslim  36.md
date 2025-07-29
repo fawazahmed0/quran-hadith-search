@@ -18,78 +18,72 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## French
 
+Rapporté par an-Naḍr رحمه الله : « On a interrogé Ibn Awn au sujet des hadiths de Shahr alors qu’il était sur le seuil de la porte. Il répondit : “En effet, ils ont critiqué Shahr, ils ont critiqué Shahr.” » Muslim رحمه الله a dit : « Il veut dire que beaucoup de gens l’ont critiqué. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ نضر کہتے ہیں کہ ابن عون سے شہر ( بن حوشب ) کی حدیث کے بارے میں سوال کیا گیا ، ( اس وقت ) وہ ( اپنی ) دہلیز پر کھڑے تھے ، وہ کہنے لگے : انہوں ( محدثین ) نے یقینا شہر کو مطعون ٹھہرایا ہے ، انہوں نے شہر کو مطعون ٹھہرایا ہے ۔ امام مسلم ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے کہا : لوگوں کی زبانوں نے انہیں نشانہ بنایا ، ان کے بارے میں باتیں کیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>36</td></tr><tr><td>Reference</td><td>Book 0 Hadith 36</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 36 |
+| Reference | Book 0 Hadith 36 |

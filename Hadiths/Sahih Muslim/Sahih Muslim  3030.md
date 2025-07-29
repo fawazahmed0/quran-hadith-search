@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، جَمِيعًا عَنِ ابْنِ عُيَيْنَةَ، - قَالَ سَعِيدٌ حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، - حَدَّثَنِي الزُّهْرِيُّ، عَنْ حَنْظَلَةَ الأَسْلَمِيِّ، قَالَ سَمِعْتُ أَبَا هُرَيْرَةَ، - رضى الله عنه - يُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏"‏ وَالَّذِي نَفْسِي بِيَدِهِ لَيُهِلَّنَّ ابْنُ مَرْيَمَ بِفَجِّ الرَّوْحَاءِ حَاجًّا أَوْ مُعْتَمِرًا أَوْ لَيَثْنِيَنَّهُمَا ‏"‏ ‏.‏ وَحَدَّثَنَاهُ قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ قَالَ ‏"‏ وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا سعيد بن منصور، وعمرو الناقد، وزهير بن حرب، جميعا عن ابن عيينة، - قال سعيد حدثنا سفيان بن عيينة، - حدثني الزهري، عن حنظلة الاسلمي، قال سمعت ابا هريرة، - رضى الله عنه - يحدث عن النبي صلى الله عليه وسلم قال " والذي نفسي بيده ليهلن ابن مريم بفج الروحاء حاجا او معتمرا او ليثنينهما " . وحدثناه قتيبة بن سعيد، حدثنا ليث، عن ابن شهاب، بهذا الاسناد . مثله قال " والذي نفس محمد بيده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... ইবনু শিহাব (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। তিনি বলেন, “সে সত্তার শপথ যার হাতে মুহাম্মাদ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর প্রাণ" (ইসলামিক ফাউন্ডেশন ২৮৯৭, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hanzala al-Aslami reported:I heard Abu Huraira (Allah be pleased with him) as narrating from Allah's Apostle (ﷺ) who said: By Him in Whose Hand is my life. Ibn Maryam (Jesus Christ) would certainly pronounce Talbiya for Hajj or for Umra or for both (simultaneously as a Qiran) In the valley of Rauha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## French
 
+Rapporté par Hanzala al-Aslami : J’ai entendu Abu Huraira رضي الله عنه rapporter du Messager d’Allah ﷺ qui a dit : « Par Celui qui tient ma vie dans Sa main, le fils de Maryam (Jésus) prononcera certainement la Talbiya pour le Hajj ou pour la ‘Umra, ou pour les deux en même temps (en Qiran), dans la vallée de Rauha. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## Indonesian
 
+Dan Telah meceritakan kepada kami \[Sa'id bin Manshur\] dan \[Amru An Naqid\] dan \[Zuhair bin Harb\] semuanya dari \[Ibnu Uyainah\] - \[Sa'id\] berkata- Telah menceritakan kepada kami \[Sufyan bin Uyainah\] telah menceritakan kepadaku \[Az Zuhri\] dari \[Hanzhalah Al Aslami\] ia berkata, saya mendengar \[Abu Hurairah\] radliallahu 'anhu menceritakan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya, Ibnu Maryam benar-benar bertalbiyah memulai ihram di Fajjurraiha' dengan niat haji atau umrah, atau ia menggabunggkan keduanya." Dan Telah menceritakannya kepada kami \[Qutaibah bin Sa'id\] Telah menceritakan kepada kami \[Laits\] dari \[Ibnu Syihab\] dengan isnad ini, semisalnya. Ia menyebutkan; "Demi Dzat yang jiwa Muhammad ada di Tangan-Nya." Dan telah menceritakannya kepadaku \[Harmalah bin Yahya\] telah mengabarkan kepada kami \[Ibnu Wahb\] telah mengabarkan kepadaku \[Yunus\] dari \[Ibnu Syihab\] dari \[Hanzhalah bin Ali Aslami\] bahwa ia mendengar \[Abu Hurairah\] radliallahu 'anhu, berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya." Yakni serupa dengan hadits keduanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan Telah meceritakan kepada kami [Sa'id bin Manshur] dan [Amru An Naqid] dan [Zuhair bin Harb] semuanya dari [Ibnu Uyainah] - [Sa'id] berkata- Telah menceritakan kepada kami [Sufyan bin Uyainah] telah menceritakan kepadaku [Az Zuhri] dari [Hanzhalah Al Aslami] ia berkata, saya mendengar [Abu Hurairah] radliallahu 'anhu menceritakan dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya, Ibnu Maryam benar-benar bertalbiyah memulai ihram di Fajjurraiha' dengan niat haji atau umrah, atau ia menggabunggkan keduanya." Dan Telah menceritakannya kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Laits] dari [Ibnu Syihab] dengan isnad ini, semisalnya. Ia menyebutkan; "Demi Dzat yang jiwa Muhammad ada di Tangan-Nya." Dan telah menceritakannya kepadaku [Harmalah bin Yahya] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dari [Hanzhalah bin Ali Aslami] bahwa ia mendengar [Abu Hurairah] radliallahu 'anhu, berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku berada di Tangan-Nya." Yakni serupa dengan hadits keduanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bize Saîdü'bnü Mansûr ile Amru'n-Nâkıd ve Züheyir b. Harb hep birden İbn Uyeyne'den rivâyet ettiler. Saîd dedi ki: Bize Süfyân b. Uyeyne rivâyet etti. ki): Bize Zührî, Hanzaletü’l-Esle-mi'den rivâyet etti. ki): Ebû Hüreyre (radıyallahü anh)'ı Peygamber (sallallahü aleyhi ve sellem)’den naklen rivâyet ederken dinledim. (Efendimiz): yed-i kudretinde olan Allah'a yemîn ederim ki Meryem oğlu hacc veya Ömre yahut ikisini birden yapmak için mutlaka Fecc-i Ravhâ'da telbîye getirecektir.» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفیان بن عیینہ نے ہمیں حدیث بیان کی ، ( کہا ) مجھے زہری نے حنظلہ اسلمی کے واسطے سے حدیث بیان کی کہا : میں حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے سنا وہ نبی صلی اللہ علیہ وسلم سے حدیث بیان کر رہے تھے ( کہ آپ صلی اللہ علیہ وسلم نے ) فرمایا : " اس ذات اقدس کی قسم جس کے ہا تھ میں میری جا ن ہے ۔ !ابن مریمؑ ( زمین پر دوبارہ آنے کے بعد ) فج روھاء ( کے مقام ) سے حج کا یا عمرے کا یا دونوں کا نام لیتے ہو ئے تلبیہ پکا ریں گے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3030</td></tr><tr><td>Arabic No</td><td>1252.01</td></tr><tr><td>Reference</td><td>Book 15 Hadith 237</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3030 |
+| Arabic No | 1252.01 |
+| Reference | Book 15 Hadith 237 |

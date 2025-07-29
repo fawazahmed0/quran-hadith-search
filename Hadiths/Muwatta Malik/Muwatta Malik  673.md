@@ -14,62 +14,104 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، كَانَ يُسْأَلُ هَلْ يَصُومُ أَحَدٌ عَنْ أَحَدٍ، أَوْ يُصَلِّي أَحَدٌ عَنْ أَحَدٍ، فَيَقُولُ لاَ يَصُومُ أَحَدٌ عَنْ أَحَدٍ، وَلاَ يُصَلِّي أَحَدٌ عَنْ أَحَدٍ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |
+
 وحدثني عن مالك، انه بلغه ان عبد الله بن عمر، كان يسال هل يصوم احد عن احد، او يصلي احد عن احد، فيقول لا يصوم احد عن احد، ولا يصلي احد عن احد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 রেওয়ায়ত ৪৩. আবদুল্লাহ ইবন উমর (রাঃ)-কে প্রশ্ন করা হইলঃ একজন আর একজনের পক্ষে রোযা রাখিবে কি? অথবা একজন অন্যজনের পক্ষে নামায পড়িবে কি? তিনি উত্তরে বলিলেনঃ একজন আর একজনের পক্ষে রোযা রাখিবে না এবং একে অপরের পক্ষে নামাযও পড়িবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hadith Translation Not available
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İmam Malik'ten: Abdullah b. Ömer'e, «— Bir kimse başka birinin yerine oruç tutabilir veya namaz kılabilir mi?» diye sorulurdu. O da: «— Bir kimse, başka bir kimsenin yerine ne oruç tutabilir, ne de namaz kılabilir!» cevabını verir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>673</td></tr><tr><td>Arabic No</td><td>673</td></tr><tr><td>Reference</td><td>Book 18 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 673 |
+| Arabic No | 673 |
+| Reference | Book 18 Hadith 44 |

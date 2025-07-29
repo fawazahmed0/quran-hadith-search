@@ -14,62 +14,94 @@
 
 ## Arabic
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |
 
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |
 
 ## English
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Maqtu Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1528</td></tr><tr><td>Arabic No</td><td>1528</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1528 |
+| Arabic No | 1528 |
+| Reference | Book 0 Hadith 1 |

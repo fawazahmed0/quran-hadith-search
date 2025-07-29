@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، حَدَّثَنَا أُسَامَةُ بْنُ زَيْدٍ، عَنِ الزُّهْرِيِّ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَزْهَرَ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم غَدَاةَ الْفَتْحِ وَأَنَا غُلاَمٌ شَابٌّ يَتَخَلَّلُ النَّاسَ يَسْأَلُ عَنْ مَنْزِلِ خَالِدِ بْنِ الْوَلِيدِ فَأُتِيَ بِشَارِبٍ فَأَمَرَهُمْ فَضَرَبُوهُ بِمَا فِي أَيْدِيهِمْ فَمِنْهُمْ مَنْ ضَرَبَهُ بِالسَّوْطِ وَمِنْهُمْ مَنْ ضَرَبَهُ بِعَصًا وَمِنْهُمْ مَنْ ضَرَبَهُ بِنَعْلِهِ وَحَثَى رَسُولُ اللَّهِ صلى الله عليه وسلم التُّرَابَ فَلَمَّا كَانَ أَبُو بَكْرٍ أُتِيَ بِشَارِبٍ فَسَأَلَهُمْ عَنْ ضَرْبِ النَّبِيِّ صلى الله عليه وسلم الَّذِي ضَرَبَهُ فَحَزَرُوهُ أَرْبَعِينَ فَضَرَبَ أَبُو بَكْرٍ أَرْبَعِينَ فَلَمَّا كَانَ عُمَرُ كَتَبَ إِلَيْهِ خَالِدُ بْنُ الْوَلِيدِ إِنَّ النَّاسَ قَدِ انْهَمَكُوا فِي الشُّرْبِ وَتَحَاقَرُوا الْحَدَّ وَالْعُقُوبَةَ ‏.‏ قَالَ هُمْ عِنْدَكَ فَسَلْهُمْ ‏.‏ وَعِنْدَهُ الْمُهَاجِرُونَ الأَوَّلُونَ فَسَأَلَهُمْ فَأَجْمَعُوا عَلَى أَنْ يَضْرِبَ ثَمَانِينَ ‏.‏ قَالَ وَقَالَ عَلِيٌّ إِنَّ الرَّجُلَ إِذَا شَرِبَ افْتَرَى فَأَرَى أَنْ يَجْعَلَهُ كَحَدِّ الْفِرْيَةِ ‏.‏ قَالَ أَبُو دَاوُدَ أَدْخَلَ عُقَيْلُ بْنُ خَالِدٍ بَيْنَ الزُّهْرِيِّ وَبَيْنَ ابْنِ الأَزْهَرِ فِي هَذَا الْحَدِيثِ عَبْدَ اللَّهِ بْنَ عَبْدِ الرَّحْمَنِ بْنِ الأَزْهَرِ عَنْ أَبِيهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
+
 حدثنا الحسن بن علي، حدثنا عثمان بن عمر، حدثنا اسامة بن زيد، عن الزهري، عن عبد الرحمن بن ازهر، قال رايت رسول الله صلى الله عليه وسلم غداة الفتح وانا غلام شاب يتخلل الناس يسال عن منزل خالد بن الوليد فاتي بشارب فامرهم فضربوه بما في ايديهم فمنهم من ضربه بالسوط ومنهم من ضربه بعصا ومنهم من ضربه بنعله وحثى رسول الله صلى الله عليه وسلم التراب فلما كان ابو بكر اتي بشارب فسالهم عن ضرب النبي صلى الله عليه وسلم الذي ضربه فحزروه اربعين فضرب ابو بكر اربعين فلما كان عمر كتب اليه خالد بن الوليد ان الناس قد انهمكوا في الشرب وتحاقروا الحد والعقوبة . قال هم عندك فسلهم . وعنده المهاجرون الاولون فسالهم فاجمعوا على ان يضرب ثمانين . قال وقال علي ان الرجل اذا شرب افترى فارى ان يجعله كحد الفرية . قال ابو داود ادخل عقيل بن خالد بين الزهري وبين ابن الازهر في هذا الحديث عبد الله بن عبد الرحمن بن الازهر عن ابيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
 
 ## Bengali
 
+। আব্দুর রাহমান ইবনু আযহার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি মক্কা বিজয়ের দিন সকালবেলা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জনতার ভীড়ের মধ্যে পদব্রজে খালিদ ইবনুল ওয়ালীদ (রাঃ)-এর শিবিরের সন্ধান করতে দেখি। আমি তখন উঠতি বয়সের যুবক। তাঁর নিকট এক মদ্যপায়ীকে উপস্থিত করা হলে তাঁর নির্দেশে লোকজন তাকে তাদের হাতের নিকট সহজলভ্য জিনিস দ্বারা প্রহার করে। আর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার প্রতি ধূলা নিক্ষেপ করেন। আবূ বাকর (রাঃ)-এর সময় এক মদপায়ীকে উপস্থিত করা হলে তিনি লোকজনকে প্রশ্ন করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উক্ত ব্যক্তিকে কয়টি বেত্রাঘাত করেছেন? তারা চল্লিশ বার বেত্রাঘাতের কথা উল্লেখ করে। অতএব আবূ বাকর (রাঃ) চল্লিশটি বেত্রাঘাত করেন। উমার (রাঃ) খলীফাহ হলে খালিদ ইবনুল ওয়ালীদ (রাঃ) তাকে লিখে পাঠান যে, লোকজন মাদক গ্রহণের নিষেধাজ্ঞাকে উপেক্ষা করছে এবং হাদ্দ ও শাস্তির ভয়কে পরোয়া করছে না। উমার (রাঃ) বলেন, আপনার নিকট যারা আছে তাদের প্রশ্ন করুন। তার সঙ্গে ছিলেন সর্বাগ্রে ইসলাম গ্রহণকারী মুহাজিরগণ। তিনি তাদের নিকট প্রশ্ন করলে তারা আশিটি বেত্রাঘাত সম্পর্কে ঐকমত্য হন। বর্ণনাকারী বলেন, ‘আলী (রাঃ) বলেছেন, কোনো ব্যক্তি মাদক গ্রহণ করলে সে মিথ্যা কথা বলে। অতএব আমি মনে করি, তাকে মিথ্যা বলার শাস্তির মতই শাস্তি দেয়া উচিত।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুর রাহমান ইবনু আযহার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি মক্কা বিজয়ের দিন সকালবেলা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জনতার ভীড়ের মধ্যে পদব্রজে খালিদ ইবনুল ওয়ালীদ (রাঃ)-এর শিবিরের সন্ধান করতে দেখি। আমি তখন উঠতি বয়সের যুবক। তাঁর নিকট এক মদ্যপায়ীকে উপস্থিত করা হলে তাঁর নির্দেশে লোকজন তাকে তাদের হাতের নিকট সহজলভ্য জিনিস দ্বারা প্রহার করে। আর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার প্রতি ধূলা নিক্ষেপ করেন। আবূ বাকর (রাঃ)-এর সময় এক মদপায়ীকে উপস্থিত করা হলে তিনি লোকজনকে প্রশ্ন করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উক্ত ব্যক্তিকে কয়টি বেত্রাঘাত করেছেন? তারা চল্লিশ বার বেত্রাঘাতের কথা উল্লেখ করে। অতএব আবূ বাকর (রাঃ) চল্লিশটি বেত্রাঘাত করেন। উমার (রাঃ) খলীফাহ হলে খালিদ ইবনুল ওয়ালীদ (রাঃ) তাকে লিখে পাঠান যে, লোকজন মাদক গ্রহণের নিষেধাজ্ঞাকে উপেক্ষা করছে এবং হাদ্দ ও শাস্তির ভয়কে পরোয়া করছে না। উমার (রাঃ) বলেন, আপনার নিকট যারা আছে তাদের প্রশ্ন করুন। তার সঙ্গে ছিলেন সর্বাগ্রে ইসলাম গ্রহণকারী মুহাজিরগণ। তিনি তাদের নিকট প্রশ্ন করলে তারা আশিটি বেত্রাঘাত সম্পর্কে ঐকমত্য হন। বর্ণনাকারী বলেন, ‘আলী (রাঃ) বলেছেন, কোনো ব্যক্তি মাদক গ্রহণ করলে সে মিথ্যা কথা বলে। অতএব আমি মনে করি, তাকে মিথ্যা বলার শাস্তির মতই শাস্তি দেয়া উচিত।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbdurRahman ibn Azhar: I saw the Messenger of Allah (ﷺ) on the morning of the conquest of Mecca when I was a young boy. He was walking among the people, seeking the camp of Khalid ibn al-Walid. A man who had drunk wine was brought (before him) and he ordered them (to beat him). So they beat him with what they had in their hands. Some struck him with whips, some with sticks and some with sandals. The Messenger of Allah (ﷺ) threw some dust on his face. When a man who had drunk wine was brought before AbuBakr, he asked them (i.e. the people) about the number of beatings which they gave him. They numbered it forty. So AbuBakr gave him forty lashes. When Umar came to power, Khalid ibn al-Walid wrote to him: The people have become addicted to drinking wine and they look down upon the prescribed punishment and its penalty. He said: They are with you, ask them. The immigrants who embraced Islam in the beginning were with him. He asked them and they agreed on the fact that (a drunkard) should be given eighty lashes. Ali said: When a man drinks wine, he tells lies. I, therefore, think that he should be prescribed punishment that is prescribed for telling lies.. Abu Dawud said: 'Uqail b. Khalid included in the chain of this tradition: "Abd Allah b. Abd al-Rahman b. al-Azhar from his father" between al-Zuhri and Ibn al-Azhar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
+
+## French
+
+Rapporté par AbdurRahman ibn Azhar رضي الله عنه : J’ai vu le Messager d’Allah ﷺ le matin de la conquête de La Mecque alors que j’étais un jeune garçon. Il marchait parmi les gens, cherchant le camp de Khalid ibn al-Walid. Un homme qui avait bu du vin a été amené devant lui et il a ordonné qu’on le frappe. Alors ils l’ont frappé avec ce qu’ils avaient sous la main. Certains l’ont frappé avec des fouets, d’autres avec des bâtons et d’autres avec des sandales. Le Messager d’Allah ﷺ a jeté de la poussière sur son visage. Lorsqu’un homme qui avait bu du vin a été amené devant Abu Bakr, il a demandé aux gens combien de coups ils lui avaient donnés. Ils ont compté quarante. Donc Abu Bakr lui a donné quarante coups. Quand Umar est devenu calife, Khalid ibn al-Walid lui a écrit : « Les gens sont devenus accros à la consommation de vin et ils prennent à la légère la peine prescrite et sa sanction. » Il a dit : « Ils sont avec toi, demande-leur. » Les premiers immigrés qui avaient embrassé l’islam étaient avec lui. Il les a consultés et ils sont tombés d’accord sur le fait qu’un buveur devait recevoir quatre-vingts coups. Ali a dit : « Quand un homme boit du vin, il ment. Je pense donc qu’il faut lui appliquer la même peine que pour le mensonge. » Abu Dawud a dit : ‘Uqail b. Khalid a inclus dans la chaîne de ce récit : « ‘Abd Allah b. ‘Abd al-Rahman b. al-Azhar, de son père » entre al-Zuhri et Ibn al-Azhar
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al hasan bin Ali\] berkata, telah menceritakan kepada kami \[Utsman bin Umar\] berkata, telah menceritakan kepada kami \[Usamah bin Zaid\] dari \[Az Zuhri\] dari \['Abdurrahman bin Azhar\] ia berkata, "Saat aku masih kecil, dipagi hari penaklukan kota Makkah, aku melihat Rasulullah shallallahu 'alaihi wasallam bertanya kepada orang-orang di mana letak rumah Khalid bin Walid. Lalu didatangkanlah seorang peminum khamer kepada beliau, beliau lalu memerintahkan kepada orang-orang untuk menghukumnya. Maka mereka memukuli orang itu dengan apa saja yang ada di tangan mereka; di antara mereka ada yang memukul dengan pecut, tongkat dan sandal, sementara Rasulullah shallallahu 'alaihi wasallam melemparnya dengan pasir. Ketika dihadapkan seorang peminum khamer kepada Abu Bakar, maka ia bertanya kepada orang-orang bagaimana Nabi shallallahu 'alaihi wasallam memberi hukuman. Mereka lalu memeritahukan bahwa Rasulullah memukulnya sebanyak empat puluh kali, maka ia memukul (peminum itu) sebanyak empat puluh kali. Ketika Umar memerintah, Khalid Ibnul Walid menulis surat kepadanya bahwa orang-orang telah banyak minum khamer dan meremehkan hukuman hudud. Umar menjawab, "Kasus mereka terserah kamu, maka tanyakanlah kepada mereka (kaum muhajirin)." Karena di sisi Khalid banyak sahabat-sahabat Muhajirin, maka ia bertanya kepada mereka, dan mereka pun sepakat untuk mendera peminum khamer sebanyak delapan puluh kali." Ali radliallahu 'anhu berkata, "Seorang laki-laki jika minum khamer, maka ia akan mudah berdusta, maka aku berpandangan untuk menyamakan hukuman mereka dengan pelaku firyah (menuduh zina tanpa bukti)." Abu Dawud berkata, " \[Uqail bin Khalid\] menempatkan \[Abdullah bin 'Abdurrahman Ibnul Azhar\] dari \[ayahnya\] (sebagai sanad) dalam hadits ini berada di antara Az Zuhri dan Ibnul Azhar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al hasan bin Ali] berkata, telah menceritakan kepada kami [Utsman bin Umar] berkata, telah menceritakan kepada kami [Usamah bin Zaid] dari [Az Zuhri] dari ['Abdurrahman bin Azhar] ia berkata, "Saat aku masih kecil, dipagi hari penaklukan kota Makkah, aku melihat Rasulullah shallallahu 'alaihi wasallam bertanya kepada orang-orang di mana letak rumah Khalid bin Walid. Lalu didatangkanlah seorang peminum khamer kepada beliau, beliau lalu memerintahkan kepada orang-orang untuk menghukumnya. Maka mereka memukuli orang itu dengan apa saja yang ada di tangan mereka; di antara mereka ada yang memukul dengan pecut, tongkat dan sandal, sementara Rasulullah shallallahu 'alaihi wasallam melemparnya dengan pasir. Ketika dihadapkan seorang peminum khamer kepada Abu Bakar, maka ia bertanya kepada orang-orang bagaimana Nabi shallallahu 'alaihi wasallam memberi hukuman. Mereka lalu memeritahukan bahwa Rasulullah memukulnya sebanyak empat puluh kali, maka ia memukul (peminum itu) sebanyak empat puluh kali. Ketika Umar memerintah, Khalid Ibnul Walid menulis surat kepadanya bahwa orang-orang telah banyak minum khamer dan meremehkan hukuman hudud. Umar menjawab, "Kasus mereka terserah kamu, maka tanyakanlah kepada mereka (kaum muhajirin)." Karena di sisi Khalid banyak sahabat-sahabat Muhajirin, maka ia bertanya kepada mereka, dan mereka pun sepakat untuk mendera peminum khamer sebanyak delapan puluh kali." Ali radliallahu 'anhu berkata, "Seorang laki-laki jika minum khamer, maka ia akan mudah berdusta, maka aku berpandangan untuk menyamakan hukuman mereka dengan pelaku firyah (menuduh zina tanpa bukti)." Abu Dawud berkata, " [Uqail bin Khalid] menempatkan [Abdullah bin 'Abdurrahman Ibnul Azhar] dari [ayahnya] (sebagai sanad) dalam hadits ini berada di antara Az Zuhri dan Ibnul Azhar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Абдуррахмана ибн Азхара: «Утром в день покорения Мекки, будучи юношей, я видел, как Посланник Аллаха ﷺ спрашивал людей о доме Халида ибн аль-Валида. И тут к нему привели пившего вино, и он велел людям побить его тем, что у них в руках, и одни били его плетью, другие палкой, а третьи сандалиями, и Посланник Аллаха ﷺ бросил в него землёй. Позже, когда к Абу Бакру привели пившего вино, он спросил сподвижников о том, сколько ударов велел наносить таким людям Пророк ﷺ и ему ответили, что сорок, и он тоже велел наносить пившим вино сорок ударов. А когда к власти пришёл ‘Умар, Халид ибн аль-Валид написал ему, что всё больше людей пьют вино и такое наказание их не пугает. Он сказал: “Они у тебя, так спроси же их”. А при ‘Умаре находились первые мухаджиры, и он спросил их и они единогласно решили, что число ударов следует довести до восьмидесяти». Он сказал: «‘Али сказал: “Поистине, когда человек пьёт вино, он начинает клеветать, поэтому я считаю, что его наказание следует приравнять к наказанию за клевету”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdurrahman b. Ezher (r.a) şöyle dedi: Mekke fethinin ertesi günü Rasulullah (s.a.v.)'i insanlar arasında dolaşıp Halid b. Velid"in evini sorarken gördüm. O esnada ben bir delikanlı idim. Rasulullah (s.a.v.)'e içki içmiş olan birisi getirildi. Efendimiz sahabelere (ona dayak atmalarını) emretti. Onlar da ellerinde olan şeylerle vurdular; kimisi kamçı ile kimisi sopa ile kimisi de ayakkabısı ile vurdu. Rasûlullah (s.a.v.) de adama toprak serpti. Ebu Bekir halife olunca, kendisine içki içen birisi getirildi. Ebu Bekir (r.a) sahabelere, Rasulullah'ın içki içene vurduğu haddi sordu. Onu kırk değnek diye zabt (muhafaza) ettiler. Ebu Bekir de kırk değnek vurdu. Ömer halife olunca Halid b. Velid kendisine, insanların içki içmeye düşkünlük gösterdiklerini, haddi ve cezayı küçümsediklerini yazıp; "(Sahabeler) Senin yanında - ilk muhacirler Hz. Ömer'in yanında idiler - onlara sor" dedi. Ömer de onlarla istişare etti. Seksen değnek vurması için icma' eltiler. Ali (r.a) "İnsan içliği zaman iftira eder. Onu iftira (kazf) haddi gibi takdir etmeyi uygun görürüm." dedi. Ebu Davıul şöyle der: "Ukayl b. Halici bu hadiste Zührî ile Ibm'i 'l-Eiher arasına Abdullah b, Abdurrahman b. Ezhert sokmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمٰن بن ازہر کہتے ہیں کہ میں نے فتح مکہ کے دوسرے دن صبح کو رسول اللہ صلی اللہ علیہ وسلم کو دیکھا میں ایک کمسن لڑکا تھا، لوگوں میں گھس کر آیا جایا کرتا تھا، آپ خالد بن ولید رضی اللہ عنہ کی قیام گاہ ڈھونڈ رہے تھے کہ اتنے میں ایک شرابی لایا گیا، آپ نے اسے مارنے کا حکم دیا، تو لوگوں کے ہاتھوں میں جو چیز بھی تھی اسی سے انہوں نے اس کی پٹائی کی، کسی نے اسے کوڑے سے، کسی نے لاٹھی سے، کسی نے جوتے سے پیٹا، اور رسول اللہ صلی اللہ علیہ وسلم نے اس کے منہ پر مٹی ڈال دی، پھر جب ابوبکر رضی اللہ عنہ کا زمانہ آیا تو ان کے پاس ایک شرابی لایا گیا تو انہوں نے لوگوں سے نبی اکرم صلی اللہ علیہ وسلم کی اس مار کے متعلق دریافت کیا جسے آپ نے مارا تھا تو لوگوں نے اس کا اندازہ لگایا کہ یہ چالیس کوڑے رہے ہوں گے، تو ابوبکر رضی اللہ عنہ نے اس کی حد چالیس کوڑے مقرر کر دی، پھر جب عمر رضی اللہ عنہ کا زمانہ آیا تو خالد بن ولید نے انہیں لکھا کہ لوگ کثرت سے شراب پینے لگے ہیں اور اس کی حد اور سزا کو کوئی اہمیت نہیں دیتے اور لکھا کہ لوگ آپ کے پاس ہیں ان سے پوچھ لیں، اس وقت ان کے پاس مہاجرین اولین موجود تھے، آپ نے ان سے پوچھا تو سب کا اس بات پر اتفاق ہو گیا کہ اسی کوڑے مارے جائیں، علی رضی اللہ عنہ نے کہا: آدمی جب شراب پیتا ہے تو بہتان باندھتا ہے اس لیے میری رائے یہ ہے کہ اس کی حد بہتان کی حد کر دی جائے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4489</td></tr><tr><td>Arabic No</td><td>4489</td></tr><tr><td>Reference</td><td>Book 40 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4489 |
+| Arabic No | 4489 |
+| Reference | Book 40 Hadith 139 |

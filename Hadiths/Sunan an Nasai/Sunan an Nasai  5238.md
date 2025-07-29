@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَسْدُلُ شَعْرَهُ وَكَانَ الْمُشْرِكُونَ يَفْرُقُونَ شُعُورَهُمْ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُحِبُّ مُوَافَقَةَ أَهْلِ الْكِتَابِ فِيمَا لَمْ يُؤْمَرْ فِيهِ بِشَىْءٍ ثُمَّ فَرَقَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَعْدَ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 48 Hadith 199</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |
+
 اخبرنا محمد بن سلمة، قال حدثنا ابن وهب، عن يونس، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، ان رسول الله صلى الله عليه وسلم كان يسدل شعره وكان المشركون يفرقون شعورهم وكان رسول الله صلى الله عليه وسلم يحب موافقة اهل الكتاب فيما لم يومر فيه بشىء ثم فرق رسول الله صلى الله عليه وسلم بعد ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 48 Hadith 199</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন সালামা (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর চুল আঁচড়িয়ে ছেড়ে দিতেন, আর মুশরিকরা তাদের চুলে সিঁথি কাটতো। যে সকল ব্যাপারে কোন আদেশ করা হয়নি, এমন ব্যাপারে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আহলে কিতাবীর মত চলতে পছন্দ করতেন। পরবর্তীতে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চুলে সিঁথি কেটেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 48 Hadith 199</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |
 
 ## English
 
+It was narrated from Ibn 'Abbas that:The Messenger of Allah \[SAW\] used to let his hair hang down (without a parting) and the Mushrikun used to part their hair. The Messenger of Allah \[SAW\] liked to act in accordance with the People of the Book, in matters where no specific command had been given to him. Then the Messenger of Allah \[SAW\] parted his hair after that
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Ibn 'Abbas that:The Messenger of Allah [SAW] used to let his hair hang down (without a parting) and the Mushrikun used to part their hair. The Messenger of Allah [SAW] liked to act in accordance with the People of the Book, in matters where no specific command had been given to him. Then the Messenger of Allah [SAW] parted his hair after that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 48 Hadith 199</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Messager d'Allah ﷺ laissait ses cheveux retomber sans raie, alors que les polythéistes faisaient une raie. Le Messager d'Allah ﷺ aimait suivre la pratique des Gens du Livre dans les domaines où il n'avait pas reçu de commandement précis. Ensuite, le Messager d'Allah ﷺ a commencé à faire une raie dans ses cheveux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Salamah\] ia berkata; telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Yunus\] dari \[Az Zuhri\] dari \[Ubaidullah bin Abdullah\] dari \[Ibnu Abbas\] berkata, "Rasulullah shallallahu 'alaihi wasallam biasa membiarkan rambutnya terurai, sementara orang-orang musyrik membelah rambut mereka. Rasulullah shallallahu 'alaihi wasallam biasanya suka berkesesuaian dengan orang-orang ahli kitab dalam hal-hal yang tidak ada perintah di dalamnya, setelah itu Rasulullah shallallahu 'alaihi wasallam membelah rambutnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Salamah] ia berkata; telah menceritakan kepada kami [Ibnu Wahb] dari [Yunus] dari [Az Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam biasa membiarkan rambutnya terurai, sementara orang-orang musyrik membelah rambut mereka. Rasulullah shallallahu 'alaihi wasallam biasanya suka berkesesuaian dengan orang-orang ahli kitab dalam hal-hal yang tidak ada perintah di dalamnya, setelah itu Rasulullah shallallahu 'alaihi wasallam membelah rambutnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 48 Hadith 199</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 48 Hadith 199</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5238</td></tr><tr><td>Arabic No</td><td>5238</td></tr><tr><td>Reference</td><td>Book 48 Hadith 199</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5238 |
+| Arabic No | 5238 |
+| Reference | Book 48 Hadith 199 |

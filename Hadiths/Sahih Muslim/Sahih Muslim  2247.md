@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنْ أَيُّوبَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نُهِيَ عَنْ تَقْصِيصِ الْقُبُورِ، ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا يحيى بن يحيى، اخبرنا اسماعيل ابن علية، عن ايوب، عن ابي الزبير، عن جابر، قال نهي عن تقصيص القبور،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ... জাবির (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কবর পাকা করতে নিষেধ করেছেন। (ইসলামী ফাউন্ডেশন ২১১৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir said that he was forbidden to plaster graves
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## French
 
+Rapporté par Jabir رضي الله عنه : Il lui a été interdit de recouvrir les tombes de plâtre
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## Indonesian
 
+Dan telah menceritakan kepada kami \[Yahya bin Yahya\] telah mengabarkan kepada kami \[Isma'il bin Ulayyah\] dari \[Ayyub\] dari \[Abu Zubair\] dari \[Jabir\] ia berkata; "Telah dilarang untuk mengapur kuburan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Yahya bin Yahya] telah mengabarkan kepada kami [Isma'il bin Ulayyah] dari [Ayyub] dari [Abu Zubair] dari [Jabir] ia berkata; "Telah dilarang untuk mengapur kuburan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 – Сообщается, что Джабир, да будет доволен им Аллах, сказал: «Было запрещено покрывать могилы гипсом»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya rivayet etti.. (dediki): Bize İsmail b. Uleyye, Eyyûb'dan, o da Ebû'z-Zübeyr'den, o da Câbir'den naklen haber verdi. Câbir: «Kabirleri kireçlemek yasak edildi.» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایوب نے ابو زبیر سے اور انھوں نے حضرت جابر رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا : قبروں کوچونا لگانے سے منع کیا گیا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2247</td></tr><tr><td>Arabic No</td><td>970.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 123</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2247 |
+| Arabic No | 970.03 |
+| Reference | Book 11 Hadith 123 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، عَنْ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَسْقَى وَصَلَّى رَكْعَتَيْنِ وَقَلَبَ رِدَاءَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |
+
 اخبرنا قتيبة، عن سفيان، عن عبد الله بن ابي بكر، عن عباد بن تميم، عن عمه، ان النبي صلى الله عليه وسلم استسقى وصلى ركعتين وقلب رداءه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... আব্বাদ ইবনু তামীম-এর চাচা থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (একবার) বৃষ্টির জন্য দোয়া করলেন ও দু’রাকআত সালাত আদায় করলেন আর তার চাদর উল্টিয়ে দিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abbad bin Tamim, from his paternal uncle that:The Prophet (ﷺ) prayed for rain, and prayed two rak'ahs, and turned his rida' around
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |
+
+## French
+
+Rapporté par 'Abbad bin Tamim, de son oncle paternel : Le Prophète (ﷺ) a prié pour la pluie, a prié deux rak‘as et a retourné son rida’
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dari \[Sufyan\] dari \['Abdullah bin Abu Bakr\] dari \['Abbad bin Tamim\] dari \[pamannya\], bahwa Nabi Shalallahu 'Alaihi Wa Sallam pernah meminta hujan, Beliau shalat dua raka'at serta membalik selendangnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dari [Sufyan] dari ['Abdullah bin Abu Bakr] dari ['Abbad bin Tamim] dari [pamannya], bahwa Nabi Shalallahu 'Alaihi Wa Sallam pernah meminta hujan, Beliau shalat dua raka'at serta membalik selendangnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عباد بن تمیم کے چچا عبداللہ بن زید رضی اللہ عنہ روایت کرتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم استسقاء کے لیے نکلے، تو آپ نے دو رکعت نماز پڑھی، اور اپنی چادر پلٹی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1510</td></tr><tr><td>Arabic No</td><td>1510</td></tr><tr><td>Reference</td><td>Book 17 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1510 |
+| Arabic No | 1510 |
+| Reference | Book 17 Hadith 7 |

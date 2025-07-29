@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ لاَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ رَجُلٍ وَامْرَأَتِهِ وَفَرَّقَ بَيْنَهُمَا وَأَلْحَقَ الْوَلَدَ بِالأُمِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 27 Hadith 89</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |
+
 اخبرنا قتيبة، قال حدثنا مالك، عن نافع، عن ابن عمر، قال لاعن رسول الله صلى الله عليه وسلم بين رجل وامراته وفرق بينهما والحق الولد بالام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 27 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষ এবং স্ত্রীলোকটির মধ্যে লি’আন করার আদেশ দেন এবং তাদের পৃথক করে দেন, আর সন্তানকে তার মায়ের হাতে ন্যাস্ত করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 27 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'Umar said:"The Messenger of Allah conducted the procedure of Li'an between a man and his wife, and he separated them and attributed the child to his mother
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 27 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Messager d'Allah a appliqué la procédure de li'an entre un homme et sa femme, il les a séparés et a attribué l’enfant à la mère
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] ia berkata; telah menceritakan kepada kami \[Malik\] dari \[Nafi'\] dari \[Ibnu Umar\] berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan antara suami dan isterinya untuk saling laknat (sumpah), lalu memisahkan antara keduanya dan menisbatkan sang anak kepada ibunya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] ia berkata; telah menceritakan kepada kami [Malik] dari [Nafi'] dari [Ibnu Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan antara suami dan isterinya untuk saling laknat (sumpah), lalu memisahkan antara keduanya dan menisbatkan sang anak kepada ibunya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 27 Hadith 89</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 27 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مرد اور اس کی بیوی کے درمیان لعان کا حکم دیا اور ان دونوں کے درمیان تفریق کر دی اور بچے کو ماں کی سپردگی میں دے دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3477</td></tr><tr><td>Arabic No</td><td>3477</td></tr><tr><td>Reference</td><td>Book 27 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3477 |
+| Arabic No | 3477 |
+| Reference | Book 27 Hadith 89 |

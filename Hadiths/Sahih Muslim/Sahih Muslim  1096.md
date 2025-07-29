@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدٌ، - وَهُوَ ابْنُ جَعْفَرٍ - حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ أُمِرْتُ أَنْ أَسْجُدَ عَلَى سَبْعَةِ أَعْظُمٍ وَلاَ أَكُفَّ ثَوْبًا وَلاَ شَعْرًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن بشار، حدثنا محمد، - وهو ابن جعفر - حدثنا شعبة، عن عمرو بن دينار، عن طاوس، عن ابن عباس، عن النبي صلى الله عليه وسلم قال " امرت ان اسجد على سبعة اعظم ولا اكف ثوبا ولا شعرا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু বাশশার (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ আমাকে সাতটি অঙ্গের সাহায্যে সিজদা করার নির্দেশ দেয়া হয়েছে এবং চুল ও কাপড়গুলোকে ঠেকিয়ে রাখতে নিষেধ করা হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৯৭৮, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Abbas reported from the Messenger of Allah (ﷺ):I was commanded to prostrate myself on seven bones and not to fold back clothing or hair
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## French
 
+Rapporté par Ibn ‘Abbas رضي الله عنه du Messager d’Allah ﷺ : J’ai reçu l’ordre de me prosterner sur sept parties du corps et de ne pas replier les vêtements ni les cheveux
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Muhammad, yaitu Ibnu Ja'far\] telah menceritakan kepada kami \[Syu'bah\] dari \[Amru bin Dinar\] dari \[Thawus\] dari \[Ibnu Abbas\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda, "Aku diperintahkan untuk bersujud pada tujuh anggota badan, dan aku tidak melipat baju dan mengikat rambut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad, yaitu Ibnu Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Amru bin Dinar] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda, "Aku diperintahkan untuk bersujud pada tujuh anggota badan, dan aku tidak melipat baju dan mengikat rambut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается со слов Ибн ‘Аббаса, что Пророк ﷺ сказал: «Мне было велено совершать земные поклоны(, опираясь) на семь костей, и не подбирать одежду и волосы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed b. Beşşâr rivayet etti. (Dediki): Bize Muhammed -ki İbni Câ'fer'dir rivayet etti. (Dediki): Bize Şu'be, Amr b. Dinar'dan» o da Tâvus'dan, o da îbni Abbas'dan, o da Nebi (Sallallahu Aleyhi ve Sellem) 'den naklen rivayet ettiki, şöyle buyurmuşlar: «Bana yedi kemik üzerine secde etmem, elbise ve saçımı toplamamam emrolundu.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعبہ نے عمرو بن دینار سے ، انہوں نے طاؤس اور انہوں نے حضرت ابن عباس رضی اللہ عنہما سے روایت کی ، انہوں نے کہا : نبی اکرمﷺ نے فرمایا : ’’مجھے حکم دیا گیا کہ میں سات ہڈیوں ( والے اعضاء ) پر سجدہ کروں اور یہ کہ میں ( نماز میں ) نہ کپڑا اڑسوں اور نہ بال ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1096</td></tr><tr><td>Arabic No</td><td>490.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 258</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1096 |
+| Arabic No | 490.02 |
+| Reference | Book 4 Hadith 258 |

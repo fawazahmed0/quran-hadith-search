@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ مَعْمَرٌ وَرُبَّمَا ذَكَرَ ابْنَ الْمُسَيَّبِ قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم وَأَبُو بَكْرٍ وَعُمَرُ وَعُثْمَانُ يَقْرَءُونَ ‏(‏ مَالِكِ يَوْمِ الدِّينِ ‏)‏ وَأَوَّلُ مَنْ قَرَأَهَا ‏(‏ مَلِكِ يَوْمِ الدِّينِ ‏)‏ مَرْوَانُ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا أَصَحُّ مِنْ حَدِيثِ الزُّهْرِيِّ عَنْ أَنَسٍ وَالزُّهْرِيِّ عَنْ سَالِمٍ عَنْ أَبِيهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
+
 حدثنا احمد بن حنبل، حدثنا عبد الرزاق، اخبرنا معمر، عن الزهري، قال معمر وربما ذكر ابن المسيب قال كان النبي صلى الله عليه وسلم وابو بكر وعمر وعثمان يقرءون ( مالك يوم الدين ) واول من قراها ( ملك يوم الدين ) مروان . قال ابو داود هذا اصح من حديث الزهري عن انس والزهري عن سالم عن ابيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
 
 ## Bengali
 
+। ইবনুল মুসাইয়্যাব (রহঃ) বর্ণনা করে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর, উমার ও উসমান (রাঃ) এ আয়াত (مَالِكِ يَوْمِ الدِّينِ) এর নিয়মে অর্থাৎ ‘মীম’-এর সাথে আলিফসহ পড়েন। মারওয়ান সর্বপ্রথম ‘আলিফ’ ছাড়া পড়েন।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনুল মুসাইয়্যাব (রহঃ) বর্ণনা করে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ বাকর, উমার ও উসমান (রাঃ) এ আয়াত (مَالِكِ يَوْمِ الدِّينِ) এর নিয়মে অর্থাৎ ‘মীম’-এর সাথে আলিফসহ পড়েন। মারওয়ান সর্বপ্রথম ‘আলিফ’ ছাড়া পড়েন।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn al-Musayyab: The Prophet (ﷺ), AbuBakr, Umar and Uthman used to read "maliki yawmid-din (master of the Day of Judgment)". The first to read maliki yawmid-din was Marwan. Abu Dawud said: This is sounder that the tradition which transmitted by al-Zuhri from Anas, and al-Zuhri from Salim, from his father (Ibn 'Umar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
+
+## French
+
+Rapporté par Ibn al-Musayyab : Le Prophète ﷺ, Abu Bakr, Omar et Uthman récitaient : « maliki yawmid-din » (Maître du Jour du Jugement). Le premier à réciter « maliki yawmid-din » fut Marwan. Abu Dawud a dit : Ceci est plus authentique que le récit transmis par al-Zuhri d’après Anas, et al-Zuhri d’après Salim, d’après son père (Ibn ‘Umar)
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аз-Зухри передаёт от Ма‘мара и, возможно, он упоминал Ибн аль-Мусайяба, что Пророк ﷺ Абу Бакр, ‘Умар и ‘Усман читали аят «Властелин Судного дня» с удлинением первого слога в слове «малик», а первым, кто начал читать слово «малик» без удлинения, был Мерван (ибн аль-Хакам)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
 
 ## Turkish
 
+İbnü'l-Müseyyeb dedi ki: Nebi (s.a.v) ile Ebu Bekir, Ömer ve Osman (r.a), ("Din gününün sahibi"\[Fatiha 3\] mealindeki ayet-i kerimeyi) ... (şeklinde) okumuşlardır. (Bu hadisin ravilerinden İbn Şihâb'ez Zührî) dedi ki: (Bu ayet-i kerimeyi) ilk defa "Meliki yevmiddin" şeklinde okuyan Mervan'dır. Ebu Davud dedi ki: (Mürsel olarak rivayet edilen) bu hadis, Zühri'nin (bu mevzuda) Enes'den rivayet ettiği hadisten de Salim vasıtasıyla Abdul­lah b. Ömer'den rivayet ettiği hadisten de sağlamdır
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbnü'l-Müseyyeb dedi ki: Nebi (s.a.v) ile Ebu Bekir, Ömer ve Osman (r.a), ("Din gününün sahibi"[Fatiha 3] mealindeki ayet-i kerimeyi) ... (şeklinde) okumuşlardır. (Bu hadisin ravilerinden İbn Şihâb'ez Zührî) dedi ki: (Bu ayet-i kerimeyi) ilk defa "Meliki yevmiddin" şeklinde okuyan Mervan'dır. Ebu Davud dedi ki: (Mürsel olarak rivayet edilen) bu hadis, Zühri'nin (bu mevzuda) Enes'den rivayet ettiği hadisten de Salim vasıtasıyla Abdul­lah b. Ömer'den rivayet ettiği hadisten de sağlamdır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرزاق کہتے ہیں ہمیں معمر نے زہری کے واسطہ سے خبر دی ہے اور معمر نے کبھی کبھی زہری کے بجائے ابن مسیب کا ذکر کیا ہے، وہ کہتے ہیں نبی اکرم صلی اللہ علیہ وسلم ابوبکر و عمر اور عثمان «مَالِكِ يَوْمِ الدِّينِ» پڑھتے تھے اور «مَلِكِ يَوْمِ الدِّينِ» سب سے پہلے مروان نے پڑھا ہے۔ ابوداؤد کہتے ہیں: یہ مرسل سند زہری کی حدیث سے جو انس رضی اللہ عنہ سے مروی ہے نیز زہری کی اس حدیث سے جو سالم سے مروی ہے اور وہ اپنے والد سے روایت کرتے ہیں زیادہ صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4000</td></tr><tr><td>Arabic No</td><td>4000</td></tr><tr><td>Reference</td><td>Book 32 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4000 |
+| Arabic No | 4000 |
+| Reference | Book 32 Hadith 32 |

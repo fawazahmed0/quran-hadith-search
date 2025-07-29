@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، عَنْ دَاوُدَ، عَنْ بَكْرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم بَعَثَ أَبَا ذَرٍّ بِهَذَا الْحَدِيثِ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَذَا أَصَحُّ الْحَدِيثَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
+
 حدثنا وهب بن بقية، عن خالد، عن داود، عن بكر، ان النبي صلى الله عليه وسلم بعث ابا ذر بهذا الحديث . قال ابو داود وهذا اصح الحديثين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
 
 ## Bengali
 
+। বকর (রহঃ) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ যার (রাঃ)-কে পাঠালেন ... অতঃপর উপরোক্ত হাদীস। ইমাম আবূ দাঊদ (রহঃ) বলেন, দু’টি হাদীসের মধ্যে এটি অধিক সহীহ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। বকর (রহঃ) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আবূ যার (রাঃ)-কে পাঠালেন ... অতঃপর উপরোক্ত হাদীস। ইমাম আবূ দাঊদ (রহঃ) বলেন, দু’টি হাদীসের মধ্যে এটি অধিক সহীহ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bakr said:The Prophet (ﷺ) sent Mu'adh for some of his work. He then transmitted the rest of the tradition mentioned above. Abu Dawud said: This tradition is sounder of the two traditions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
+
+## French
+
+Bakr a dit : Le Prophète ﷺ a envoyé Mu‘adh pour une de ses missions. Il a ensuite transmis le reste de la tradition mentionnée plus haut. Abu Dawud a dit : Cette version du récit est la plus fiable des deux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Рассказал нам Вахб ибн Бакъиййа, передавший от Халида, передавшего от Дауда, передавшего от Бакра, что Пророк ﷺ отправил Абу Зарра с этим хадисом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Beker'den (rivayet edildiğine göre); Nebi (s.a.v.), Ebû Zerr'i (bir ihtiyacı dolayısıyla) bir yere gönderdi (deyip) bir önceki (4782.) hadisi aynennakletmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بکر سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے ابوذر کو بھیجا آگے یہی حدیث مروی ہے۔ ابوداؤد کہتے ہیں: دونوں حدیثوں میں یہ زیادہ صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4783</td></tr><tr><td>Arabic No</td><td>4783</td></tr><tr><td>Reference</td><td>Book 43 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4783 |
+| Arabic No | 4783 |
+| Reference | Book 43 Hadith 11 |

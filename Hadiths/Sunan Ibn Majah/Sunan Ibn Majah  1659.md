@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ قَالَ: ‏ "‏ شَهْرَا عِيدٍ لاَ يَنْقُصَانِ رَمَضَانُ وَذُو الْحِجَّةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |
+
 حدثنا حميد بن مسعدة، حدثنا يزيد بن زريع، حدثنا خالد الحذاء، عن عبد الرحمن بن ابي بكرة، عن ابيه، عن النبي صلى الله عليه وسلم قال: " شهرا عيد لا ينقصان رمضان وذو الحجة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ বাকরাহ (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ঈদের দু’মাস রমযান এবং যুল-হিজ্জা (সাধারণত) একই বছরে কম (ঊনতিরিশ দিনে) হয় না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that from ‘Abdur-Rahman bin Abu Bakrah, from his father, that the Prophet (ﷺ) said:“Two months of ‘Eid whose reward cannot be reduced (even if they are twenty-nine days): ‘Ramadan and Dhul-Hijjah.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |
+
+## French
+
+Rapporté par ‘Abdur-Rahman bin Abu Bakrah, d’après son père : Le Prophète (ﷺ) a dit : « Deux mois de fête dont la récompense ne diminue pas (même s’ils comptent vingt-neuf jours) : Ramadan et Dhul-Hijjah. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Humaid bin Mas'adah\] berkata, telah menceritakan kepada kami \[Yazid bin Zurai'\] berkata, telah menceritakan kepada kami \[Khalid Al Hadzdza\] dari \['Abdurrahman bin Abu Bakrah\] dari \[Bapaknya\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dua bulan hari raya tidak berkurang (pahalanya); bulan Ramadlan dan bulan Dzul Hijjah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Humaid bin Mas'adah] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] berkata, telah menceritakan kepada kami [Khalid Al Hadzdza] dari ['Abdurrahman bin Abu Bakrah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Dua bulan hari raya tidak berkurang (pahalanya); bulan Ramadlan dan bulan Dzul Hijjah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu, Bekrete (r.a.)'den rivayet edildiğine göre; Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «İki bayram ayları (olan) Ramazan ve Zi'l-hicce noksan olmazlar.» Diğer tahric: Buharî, Savm; Müslim, Sıyam Ebu Davud savm; Tirmizi savm; Ahmed V, 38 de tahric etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوبکرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: عید کے دونوں مہینے رمضان اور ذی الحجہ کم نہیں ہوتے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1659</td></tr><tr><td>Arabic No</td><td>1659</td></tr><tr><td>Reference</td><td>Book 7 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1659 |
+| Arabic No | 1659 |
+| Reference | Book 7 Hadith 22 |

@@ -12,54 +12,117 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، وَمُحَمَّدُ بْنُ مَدُّويَهْ، قَالاَ حَدَّثَنَا الْفَضْلُ بْنُ دُكَيْنٍ، حَدَّثَنَا إِسْرَائِيلُ، عَنْ ثُوَيْرٍ، عَنْ رَجُلٍ، مِنْ أَهْلِ قُبَاءَ عَنْ أَبِيهِ، وَكَانَ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم - قَالَ أَمَرَنَا النَّبِيُّ صلى الله عليه وسلم أَنْ نَشْهَدَ الْجُمُعَةَ مِنْ قُبَاءَ ‏.‏ وَقَدْ رُوِيَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم فِي هَذَا وَلاَ يَصِحُّ ‏.‏ قَالَ أَبُو عِيسَى هَذَا حَدِيثٌ لاَ نَعْرِفُهُ إِلاَّ مِنْ هَذَا الْوَجْهِ وَلاَ يَصِحُّ فِي هَذَا الْبَابِ عَنِ النَّبِيِّ صلى الله عليه وسلم شَيْءٌ ‏.‏ وَقَدْ رُوِيَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ "‏ الْجُمُعَةُ عَلَى مَنْ آوَاهُ اللَّيْلُ إِلَى أَهْلِهِ ‏"‏ ‏.‏ وَهَذَا حَدِيثٌ إِسْنَادُهُ ضَعِيفٌ إِنَّمَا يُرْوَى مِنْ حَدِيثِ مُعَارِكِ بْنِ عَبَّادٍ عَنْ عَبْدِ اللَّهِ بْنِ سَعِيدٍ الْمَقْبُرِيِّ ‏.‏ وَضَعَّفَ يَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ عَبْدَ اللَّهِ بْنَ سَعِيدٍ الْمَقْبُرِيَّ فِي الْحَدِيثِ ‏.‏ قَالَ وَاخْتَلَفَ أَهْلُ الْعِلْمِ عَلَى مَنْ تَجِبُ الْجُمُعَةُ فَقَالَ بَعْضُهُمْ تَجِبُ الْجُمُعَةُ عَلَى مَنْ آوَاهُ اللَّيْلُ إِلَى مَنْزِلِهِ ‏.‏ وَقَالَ بَعْضُهُمْ لاَ تَجِبُ الْجُمُعَةُ إِلاَّ عَلَى مَنْ سَمِعَ النِّدَاءَ وَهُوَ قَوْلُ الشَّافِعِيِّ وَأَحْمَدَ وَإِسْحَاقَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Ahmad Muhammad Shakir |
+| Daif Isnaad | Al-Albani |
+| Daif | Bashar Awad Maarouf |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 501 |
+| Arabic No | 501 |
+| Reference | Book 4 Hadith 14 |
+
 حدثنا عبد بن حميد، ومحمد بن مدويه، قالا حدثنا الفضل بن دكين، حدثنا اسراييل، عن ثوير، عن رجل، من اهل قباء عن ابيه، وكان، من اصحاب النبي صلى الله عليه وسلم - قال امرنا النبي صلى الله عليه وسلم ان نشهد الجمعة من قباء . وقد روي عن ابي هريرة عن النبي صلى الله عليه وسلم في هذا ولا يصح . قال ابو عيسى هذا حديث لا نعرفه الا من هذا الوجه ولا يصح في هذا الباب عن النبي صلى الله عليه وسلم شيء . وقد روي عن ابي هريرة عن النبي صلى الله عليه وسلم انه قال " الجمعة على من اواه الليل الى اهله " . وهذا حديث اسناده ضعيف انما يروى من حديث معارك بن عباد عن عبد الله بن سعيد المقبري . وضعف يحيى بن سعيد القطان عبد الله بن سعيد المقبري في الحديث . قال واختلف اهل العلم على من تجب الجمعة فقال بعضهم تجب الجمعة على من اواه الليل الى منزله . وقال بعضهم لا تجب الجمعة الا على من سمع النداء وهو قول الشافعي واحمد واسحاق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Ahmad Muhammad Shakir |
+| Daif Isnaad | Al-Albani |
+| Daif | Bashar Awad Maarouf |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 501 |
+| Arabic No | 501 |
+| Reference | Book 4 Hadith 14 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জনৈক সাহাবী হতে বর্ণিত আছে, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে কুবা পল্লী হতে জুমু'আর নামাযে হাযির হওয়ার নির্দেশ দিয়েছেন। এই হাদীসটির সনদ দুর্বল আবূ ঈসা বলেনঃ এ হাদীসটি আমরা কেবল উল্লেখিত সনদেই জানতে পেরেছি। এ অনুচ্ছেদে সহীহ সনদ সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামের কোন হাদীস নেই। আবূ হুরাইরা (রাঃ) হতে বর্ণিত আছে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ “এমন ব্যক্তির উপরও জুমুআ ওয়াজিব যে নামায আদায় করে রাতের প্রথম দিকেই নিজ পরিবারে পৌছে যেতে পারে।" এটাও যঈফ হাদীস। কেননা এ হাদীসের এক রাবী আবদুল্লাহ ইবনু সাঈদ আল-মাকবুরী হাদীসশাস্ত্রে দুর্বল। ইয়াহইয়া ইবনু সাঈদ আল কাত্তান তাকে দুর্বল বলেছেন। জুমু'আর নামায কার উপর ওয়াজিব তা নিয়ে আলিমদের মধ্যে মতের অমিল আছে। কেউ কেউ বলেছেন, যে ব্যক্তি জুমু'আর নামায আদায় করে রাতের মধ্যেই ঘরে পৌছে যেতে পারে তার উপর জুমুআ ওয়াজিব। অন্য একদল মনীষী বলেছেন, যতদূর আযানের শব্দ পৌছে ততদূর পর্যন্ত লোকদের উপর জুমুআ ওয়াজিব। ইমাম শাফিঈ, আহমাদ ও ইসহাক এই মত দিয়েছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Ahmad Muhammad Shakir |
+| Daif Isnaad | Al-Albani |
+| Daif | Bashar Awad Maarouf |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 501 |
+| Arabic No | 501 |
+| Reference | Book 4 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thuwair narrated from a man among the people of Quba, from his father, who was one of the Companions of the Prophet, that :he said: "The Prophet ordered us to attend the Friday prayer in Quba
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Ahmad Muhammad Shakir |
+| Daif Isnaad | Al-Albani |
+| Daif | Bashar Awad Maarouf |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 501 |
+| Arabic No | 501 |
+| Reference | Book 4 Hadith 14 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abd bin Humaid\] dan \[Muhammad bin Madduwaih\] keduanya berkata, telah menceritakan kepada kami \[Al Fadll bin Dukain\] telah menceritakan kepada kami \[Isra'il\] dari \[Tsuwair\] dari \[seorang lelaki penduduk Quba'\] dari \[ayahnya\] dia termasuk dari sahabat Nabi Shallahu 'alaihi wa sallam, dia berkata, Nabi Shallahu 'alaihi wa sallam memerintahkan kami menghadiri shalat Jum'at di Quba'. Dan telah diriwayatkan dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam dalam hal ini, namun (periwayatannya) tidak shahih. Abu Isa berkata, kami tidak mengetahui hadits ini kecuali dari jalur ini, dan dalam bab ini juga tidak ada yang sah (jalur periwayatannya). Telah diriwayatkan dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam bahwa beliau bersabda: "Kewajiban Jum'at adalah bagi orang yang mendapati malam bersama keluarganya." Hadits ini sanadnya lemah, yang diriwayatkan dari hadits Mu'arik bin 'Abbad dari Abdullah bin Sa'id Al Maqburi. Yahya bin Sa'id Al Qatthan telah melemahkan Abdullah bin Sa'id Al Maqburi dalam masalah hadits. (perawi) berkata, para ahli ilmu berbeda pendapat tentang siapakah yang diwajibkan melaksanakan shalat Jum'at, sebagian berpendapat bahwa Jum'at wajib bagi orang yang dapat bermalam dengan keluarganya, sedangkan sebagian yang lain berpendapat Jum'at tidak wajib kecuali bagi orang yang dapat mendengar panggilan, ini adalah pendapat Imam Syafi'i, Ahmad dan Ishaq, (perawi berkata) saya telah mendengar Ahmad bin Al Hasan berkata, kami berada di sisi Ahmad bin Hambal, kemudian orang-orang berbicara mengenai orang yang diwajibkan melaksanakan shalat Jum'at, Ahmad tidak menyebutkan dalam masalah itu satu haditspun dari Nabi Shallahu 'alaihi wa sallam, Ahmad bin Al Hasan berkata, maka saya berkata kepada Ahmad bin Hambal, ternyata dalam masalah ini ada riwayat dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam. Maka Ahmad bertanya, dari Nabi Shallahu 'alaihi wa sallam? Saya menjawab, ya. Ahmad bin Al Hasan berkata, telah menceritakan kepada kami Hajjaj bin Nushair telah menceritakan kepada kami Mu'arik bin 'Abbad dari Abdullah bin Sa'id Al Maqburi dari ayahnya dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam, beliau bersabda: "Jum'at itu wajib bagi orang yang dapat bermalam dengan keluarganya." Ahmad bin Al Hasan berkata, maka Ahmad bin Hambal langsung marah kepadaku sambil berkata kepadaku, beristighfarlah kepada Rabbmu, beristighfarlah kepada Rabbmu. Abu Isa berkata, Ahmad bin Hambal melakukan demikian ini karena dia tidak menganggap hadits ini sama sekali, bahkan dia melemahkan karena sanadnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abd bin Humaid] dan [Muhammad bin Madduwaih] keduanya berkata, telah menceritakan kepada kami [Al Fadll bin Dukain] telah menceritakan kepada kami [Isra'il] dari [Tsuwair] dari [seorang lelaki penduduk Quba'] dari [ayahnya] dia termasuk dari sahabat Nabi Shallahu 'alaihi wa sallam, dia berkata, Nabi Shallahu 'alaihi wa sallam memerintahkan kami menghadiri shalat Jum'at di Quba'. Dan telah diriwayatkan dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam dalam hal ini, namun (periwayatannya) tidak shahih. Abu Isa berkata, kami tidak mengetahui hadits ini kecuali dari jalur ini, dan dalam bab ini juga tidak ada yang sah (jalur periwayatannya). Telah diriwayatkan dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam bahwa beliau bersabda: "Kewajiban Jum'at adalah bagi orang yang mendapati malam bersama keluarganya." Hadits ini sanadnya lemah, yang diriwayatkan dari hadits Mu'arik bin 'Abbad dari Abdullah bin Sa'id Al Maqburi. Yahya bin Sa'id Al Qatthan telah melemahkan Abdullah bin Sa'id Al Maqburi dalam masalah hadits. (perawi) berkata, para ahli ilmu berbeda pendapat tentang siapakah yang diwajibkan melaksanakan shalat Jum'at, sebagian berpendapat bahwa Jum'at wajib bagi orang yang dapat bermalam dengan keluarganya, sedangkan sebagian yang lain berpendapat Jum'at tidak wajib kecuali bagi orang yang dapat mendengar panggilan, ini adalah pendapat Imam Syafi'i, Ahmad dan Ishaq, (perawi berkata) saya telah mendengar Ahmad bin Al Hasan berkata, kami berada di sisi Ahmad bin Hambal, kemudian orang-orang berbicara mengenai orang yang diwajibkan melaksanakan shalat Jum'at, Ahmad tidak menyebutkan dalam masalah itu satu haditspun dari Nabi Shallahu 'alaihi wa sallam, Ahmad bin Al Hasan berkata, maka saya berkata kepada Ahmad bin Hambal, ternyata dalam masalah ini ada riwayat dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam. Maka Ahmad bertanya, dari Nabi Shallahu 'alaihi wa sallam? Saya menjawab, ya. Ahmad bin Al Hasan berkata, telah menceritakan kepada kami Hajjaj bin Nushair telah menceritakan kepada kami Mu'arik bin 'Abbad dari Abdullah bin Sa'id Al Maqburi dari ayahnya dari Abu Hurairah dari Nabi Shallahu 'alaihi wa sallam, beliau bersabda: "Jum'at itu wajib bagi orang yang dapat bermalam dengan keluarganya." Ahmad bin Al Hasan berkata, maka Ahmad bin Hambal langsung marah kepadaku sambil berkata kepadaku, beristighfarlah kepada Rabbmu, beristighfarlah kepada Rabbmu. Abu Isa berkata, Ahmad bin Hambal melakukan demikian ini karena dia tidak menganggap hadits ini sama sekali, bahkan dia melemahkan karena sanadnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Ahmad Muhammad Shakir |
+| Daif Isnaad | Al-Albani |
+| Daif | Bashar Awad Maarouf |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 501 |
+| Arabic No | 501 |
+| Reference | Book 4 Hadith 14 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kubâ’lı Süveyr (radıyallahü anh)’in babasından -ki bu kimse Rasûlüllah (sallallahü aleyhi ve sellem)’in ashabındandı- rivâyete göre, şöyle demiştir: “Rasûlüllah (sallallahü aleyhi ve sellem) bize Kubâ’dan Cumaya katılmamızı emrederdi.” (Tirmizî rivâyet etmiştir.) Hüreyre’den bu konuda yine bir hadis rivâyet edilmiştir ve sahih değildir. Bu hadisi sadece bu şekliyle bilmekteyiz. Bu konuda Rasûlüllah (sallallahü aleyhi ve sellem)’den sahih bir hadis rivâyet edilmemiştir. Hüreyre’den şu şekilde de bir rivâyet vardır: “Cuma için mescide gitmek, gece olmadan evine dönebilen kimseye gereklidir.” Bu hadisin senedi zayıftır, çünkü Abdullah b. Sa’d el Makburî’den, Muarik b. Abbâd yoluyla gelmektedir. Yahya b. Saîd el Kattan: Abdullah b. Saîd el Makburî’nin hadisinde zayıf bir kimse olduğunu söylemektedir. İlim adamları Cuma’ya gidilebilecek mesafe konusunda değişik görüşler ortaya koymuşlardır. Bir kısmı gece olmadan evine dönebilecek uzaklıkta olanlar gelebilir derken, bir kısmı da ezanı duyabilen kimselerin üzerine vâcibtir derler. Ahmed ve İshâk’ta bu görüşte olanlardandır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Ahmad Muhammad Shakir |
+| Daif Isnaad | Al-Albani |
+| Daif | Bashar Awad Maarouf |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 501 |
+| Arabic No | 501 |
+| Reference | Book 4 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اہل قباء میں سے ایک شخص اپنے والد سے روایت کرتا ہے – اس کے والد صحابہ میں سے ہیں – وہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ہم قباء سے آ کر جمعہ میں شریک ہوں۔ اس سلسلے میں ابوہریرہ رضی الله عنہ سے بھی روایت کی گئی ہے، وہ نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں، لیکن یہ صحیح نہیں ہے۔ امام ترمذی کہتے ہیں: ۱- اس حدیث کو ہم صرف اسی سند سے جانتے ہیں، اور اس باب میں نبی اکرم صلی اللہ علیہ وسلم سے مروی کوئی چیز صحیح نہیں ہے، ۲- ابوہریرہ رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جمعہ اس پر فرض ہے جو رات کو اپنے گھر والوں تک پہنچ سکے“، اس حدیث کی سند ضعیف ہے، یہ حدیث معارک بن عباد سے روایت کی جاتی ہے اور معارک عبداللہ بن سعید مقبری سے روایت کرتے ہیں، یحییٰ بن سعید قطان نے عبداللہ بن سعید مقبری کی حدیث کی تضعیف کی ہے، ۳- اہل علم کا اس میں اختلاف ہے کہ جمعہ کس پر واجب ہے، بعض کہتے ہیں: جمعہ اس شخص پر واجب ہے جو رات کو اپنے گھر پہنچ سکے اور بعض کہتے ہیں: جمعہ صرف اسی پر واجب جس نے اذان سنی ہو، شافعی، احمد اور اسحاق بن راہویہ کا یہی قول ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Bashar Awad Maarouf</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>501</td></tr><tr><td>Arabic No</td><td>501</td></tr><tr><td>Reference</td><td>Book 4 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Ahmad Muhammad Shakir |
+| Daif Isnaad | Al-Albani |
+| Daif | Bashar Awad Maarouf |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 501 |
+| Arabic No | 501 |
+| Reference | Book 4 Hadith 14 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ ذَرٍّ، عَنْ يُسَيْعٍ الْحَضْرَمِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏"‏ الدُّعَاءُ هُوَ الْعِبَادَةُ ‏(‏ قَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ ‏)‏ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
+
 حدثنا حفص بن عمر، حدثنا شعبة، عن منصور، عن ذر، عن يسيع الحضرمي، عن النعمان بن بشير، عن النبي صلى الله عليه وسلم قال " الدعاء هو العبادة ( قال ربكم ادعوني استجب لكم)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
 
 ## Bengali
 
+। নু‘মান ইবনু বাশীর (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু‘আও একটি ‘ইবাদাত। তোমাদের রব বলেছেনঃ ‘‘তোমরা আমাকে ডাকো, আমি তোমাদের ডাকে সাড়া দিবো’’ (সূরাহ আল-মু’মিন : ৬০)।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নু‘মান ইবনু বাশীর (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু‘আও একটি ‘ইবাদাত। তোমাদের রব বলেছেনঃ ‘‘তোমরা আমাকে ডাকো, আমি তোমাদের ডাকে সাড়া দিবো’’ (সূরাহ আল-মু’মিন : ৬০)।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated An-Nu'man ibn Bashir: The Prophet (ﷺ) said: Supplication (du'a') is itself the worship. (He then recited:) "And your Lord said: Call on Me, I will answer you" (xI)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
+
+## French
+
+Rapporté par An-Nu'man ibn Bashir : Le Prophète ﷺ a dit : « L’invocation (du’a) est en elle-même l’adoration. » Puis il a récité : « Et votre Seigneur a dit : Invoquez-Moi, Je vous répondrai. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ан-Ну‘мана ибн Башира, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Обращение с мольбами и есть поклонение: “И сказал Господь ваш: “Взывайте ко Мне, и Я отвечу вам…” (сура “Гафир”, аят 60)”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
 
 ## Turkish
 
+Nûman b. Beşîr (r.a.)'den rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Duâ ibadetin tâ kendisidir. Rabbiniz (c.c.) "Bana dua ediniz, size icabet (ve duanızı kabul) edeyim"\[Mu'min 60\] buyurdu. Diğer tahric: Tirmizi, tefsirü sure; İbn Mace, dua; Ahmed b. Hanbel, IV
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nûman b. Beşîr (r.a.)'den rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurmuştur: "Duâ ibadetin tâ kendisidir. Rabbiniz (c.c.) "Bana dua ediniz, size icabet (ve duanızı kabul) edeyim"[Mu'min 60] buyurdu. Diğer tahric: Tirmizi, tefsirü sure; İbn Mace, dua; Ahmed b. Hanbel, IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نعمان بن بشیر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: دعا عبادت ہے ۱؎، تمہارا رب فرماتا ہے: مجھ سے دعا کرو، میں تمہاری دعا قبول کروں گا ( سورۃ غافر: ۶۰ ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1479</td></tr><tr><td>Arabic No</td><td>1479</td></tr><tr><td>Reference</td><td>Book 8 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1479 |
+| Arabic No | 1479 |
+| Reference | Book 8 Hadith 64 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ حَمْزَةَ الضَّبِّيِّ، قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، قَالَ كُنَّا إِذَا نَزَلْنَا مَنْزِلاً لاَ نُسَبِّحُ حَتَّى نَحُلَّ الرِّحَالَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
+
 حدثنا محمد بن المثنى، حدثني محمد بن جعفر، حدثنا شعبة، عن حمزة الضبي، قال سمعت انس بن مالك، قال كنا اذا نزلنا منزلا لا نسبح حتى نحل الرحال
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা কোনো স্থানে অবতরণ করলে বাহনের পিঠ থেকে হাওদা নামিয়ে এর বিশ্রামের ব্যবস্থা না করা পর্যন্ত সালাত আদায় করতাম না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas ibn Malik: When we alighted at a station (for stay), we did not pray until we united the saddles of the camels
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
+
+## French
+
+Rapporté par Anas ibn Malik : Lorsque nous faisions une halte lors d’un voyage, nous ne faisions pas la prière avant d’avoir rassemblé les selles des chameaux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Al Mutsanna\], telah menceritakan kepadaku \[Muhammad bin Ja'far\], telah menceritakan kepada kami \[Syu'bah\] dari \[Hamzah Adh Dhabbi\], ia berkata; saya mendengar \[Anas bin Malik\], berkata; dahulu kami apabila singgah di suatu tempat maka kami tidak melakukan shalat hingga menurunkan beban dari hewan tunggangan kami
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepadaku [Muhammad bin Ja'far], telah menceritakan kepada kami [Syu'bah] dari [Hamzah Adh Dhabbi], ia berkata; saya mendengar [Anas bin Malik], berkata; dahulu kami apabila singgah di suatu tempat maka kami tidak melakukan shalat hingga menurunkan beban dari hewan tunggangan kami
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes b. Mâlik (r.a.) dedi ki: "Biz (yolculukta) bir yere konakladığımız zaman, hayvanların yükü indirilmedikçe nafile namaz kılmazdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حمزہ ضبی کہتے ہیں کہ میں نے انس بن مالک رضی اللہ عنہ کو کہتے سنا کہ ہم کسی جگہ اترتے تو نماز نہ پڑھتے جب تک کہ ہم کجاؤں کو اونٹوں سے نیچے نہ اتار دیتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2551</td></tr><tr><td>Arabic No</td><td>2551</td></tr><tr><td>Reference</td><td>Book 15 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2551 |
+| Arabic No | 2551 |
+| Reference | Book 15 Hadith 75 |

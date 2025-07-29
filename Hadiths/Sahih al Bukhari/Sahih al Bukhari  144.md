@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا آدَمُ، قَالَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، قَالَ حَدَّثَنَا الزُّهْرِيُّ، عَنْ عَطَاءِ بْنِ يَزِيدَ اللَّيْثِيِّ، عَنْ أَبِي أَيُّوبَ الأَنْصَارِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا أَتَى أَحَدُكُمُ الْغَائِطَ فَلاَ يَسْتَقْبِلِ الْقِبْلَةَ وَلاَ يُوَلِّهَا ظَهْرَهُ، شَرِّقُوا أَوْ غَرِّبُوا ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ادم، قال حدثنا ابن ابي ذيب، قال حدثنا الزهري، عن عطاء بن يزيد الليثي، عن ابي ايوب الانصاري، قال قال رسول الله صلى الله عليه وسلم " اذا اتى احدكم الغايط فلا يستقبل القبلة ولا يولها ظهره، شرقوا او غربوا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
 ## Bengali
 
+আবূ আইয়ুব আনসারী (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন শৌচাগারে যায়, তখন সে যেন কিবলার দিকে মুখ না করে এবং তার দিকে পিঠও না করে, বরং তোমরা পূর্ব দিক এবং পশ্চিম দিকে ফিরে বসবে (এই নির্দেশ মাদ্বীনার বাসিন্দাদের জন্য)।\* (৩৯৪; মুসলিম ২/১৭, হাঃ ২৬৪, আহমাদ ২৩৫৮৩, ২৩৫৯৫) (আধুনিক প্রকাশনীঃ ১৪১, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ আইয়ুব আনসারী (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন শৌচাগারে যায়, তখন সে যেন কিবলার দিকে মুখ না করে এবং তার দিকে পিঠও না করে, বরং তোমরা পূর্ব দিক এবং পশ্চিম দিকে ফিরে বসবে (এই নির্দেশ মাদ্বীনার বাসিন্দাদের জন্য)।* (৩৯৪; মুসলিম ২/১৭, হাঃ ২৬৪, আহমাদ ২৩৫৮৩, ২৩৫৯৫) (আধুনিক প্রকাশনীঃ ১৪১, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Aiyub Al-Ansari:Allah's Messenger (ﷺ) said, "If anyone of you goes to an open space for answering the call of nature he should neither face nor turn his back towards the Qibla; he should either face the east or the west
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
+
+## French
+
+Rapporté par Abu Aiyub Al-Ansari : Le Messager d’Allah (ﷺ) a dit : « Si l’un de vous va dans un endroit ouvert pour faire ses besoins, qu’il ne se tourne ni vers la Qibla ni ne lui tourne le dos ; qu’il se tourne plutôt vers l’est ou l’ouest. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Adam\] berkata, telah menceritakan kepada kami \[Ibnu Abu Dzi'b\] berkata, telah menceritakan kepada kami \[Az Zuhri\] dari \['Atha' bin Yazid Al Laitsi\] dari \[Abu Ayyub Al Anshari\] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian masuk ke dalam WC untuk buang hajat, maka janganlah menghadap ke arah kiblat membelakanginya. Hendaklah ia menghadap ke arah timurnya atau baratnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Adam] berkata, telah menceritakan kepada kami [Ibnu Abu Dzi'b] berkata, telah menceritakan kepada kami [Az Zuhri] dari ['Atha' bin Yazid Al Laitsi] dari [Abu Ayyub Al Anshari] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorang dari kalian masuk ke dalam WC untuk buang hajat, maka janganlah menghadap ke arah kiblat membelakanginya. Hendaklah ia menghadap ke arah timurnya atau baratnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Аййюб аль-Ансари, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Если кто-нибудь из вас станет справлять большую нужду (на открытом пространстве), пусть не обращается к кибле лицом и не поворачивается к ней спиной. Поворачивайтесь (лицом) к востоку или к западу”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: உங்களில் ஒருவர் மலம் கழிக்கச் சென்றால் அவர் கிப்லாவை முன்னோக்க வேண்டாம்; (அதன் திசையில்) தமது முதுகைக் காட்டி அமரவும் வேண்டாம். (மாறாக) கிழக்கு நோக்கியோ மேற்கு நோக்கியோ திரும்பிக்கொள்ளுங்கள்.9 இதை அபூஅய்யூப் அல்அன்சாரி (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Eyyub el-Ensâri r.a. şöyle demiştir; Nebi (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Biriniz tuvaletini yapacağı zaman kıbleye önünü ve arkasını dönmesin. Doğuya veya batıya dönün. Tekrar:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے آدم نے بیان کیا، کہا کہ ہم سے ابن ابی ذئب نے، کہا کہ ہم سے زہری نے عطاء بن یزید اللیثی کے واسطے سے نقل کیا، وہ ابوایوب انصاری رضی اللہ عنہ سے روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ جب تم میں سے کوئی بیت الخلاء میں جائے تو قبلہ کی طرف منہ کرے نہ اس کی طرف پشت کرے ( بلکہ ) مشرق کی طرف منہ کر لو یا مغرب کی طرف۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>144</td></tr><tr><td>Arabic No</td><td>144</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 144 |
+| Arabic No | 144 |
+| Reference | Book 4 Hadith 10 |

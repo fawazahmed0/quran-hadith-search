@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ حَدَّثَنَا عِيسَى، عَنِ الأَعْمَشِ، ح أَنْبَأَنَا الْحَسَنُ بْنُ إِسْمَاعِيلَ، قَالَ حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنِ الأَعْمَشِ، عَنْ عَبْدِ اللَّهِ بْنِ مُرَّةَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ وَشَقَّ الْجُيُوبَ وَدَعَا بِدُعَاءِ الْجَاهِلِيَّةِ ‏"‏ ‏.‏ وَاللَّفْظُ لِعَلِيٍّ وَقَالَ الْحَسَنُ ‏"‏ بِدَعْوَى ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |
+
 اخبرنا علي بن خشرم، قال حدثنا عيسى، عن الاعمش، ح انبانا الحسن بن اسماعيل، قال حدثنا ابن ادريس، عن الاعمش، عن عبد الله بن مرة، عن مسروق، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم " ليس منا من ضرب الخدود وشق الجيوب ودعا بدعاء الجاهلية " . واللفظ لعلي وقال الحسن " بدعوى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী ইবনু খাশরাম ও হাসান ইবনু ইসমাঈল (রহঃ) ... আব্দুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ঐ ব্যক্তি আমার উম্মাতের অন্তর্ভুক্ত নয়, যে গণ্ডদেশে আঘাত করে, আঁচল ছিড়ে এবং জাহিলী যুগের দোয়ার ন্যায় দোয়া করে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Abdullah said:"The Messenger of Allah said: 'He is not one of us who strikes his cheeks, rends his garment, calls out the calls of the Jahiliyyah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |
+
+## French
+
+Rapporté par 'Abdullah : Le Messager d'Allah ﷺ a dit : "N'est pas des nôtres celui qui se frappe les joues, déchire son vêtement ou crie des appels de l'époque de l'ignorance
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Ali bin Khasyram\] dia berkata; telah menceritakan kepada kami \['Isa\] dari \[Al A'masy\]. Demikian juga diriwayatkan dari jalur lain, telah memberitakan kepada kami \[Al Hasan bin Isma'il\] dia berkata; telah menceritakan kepada kami \[Ibnu Idris\] dari \[Al A'masy\] dari \['Abdullah bin Murrah\] dari \[Masruq\] dari \['Abdullah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan termasuk golongan kami yang menampar pipi, merobek saku dan berseru dengan seruan Jahiliyyah." Lafazh ini dari Ali. Al Hasan berkata; -Dengan lafazh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Ali bin Khasyram] dia berkata; telah menceritakan kepada kami ['Isa] dari [Al A'masy]. Demikian juga diriwayatkan dari jalur lain, telah memberitakan kepada kami [Al Hasan bin Isma'il] dia berkata; telah menceritakan kepada kami [Ibnu Idris] dari [Al A'masy] dari ['Abdullah bin Murrah] dari [Masruq] dari ['Abdullah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Bukan termasuk golongan kami yang menampar pipi, merobek saku dan berseru dengan seruan Jahiliyyah." Lafazh ini dari Ali. Al Hasan berkata; -Dengan lafazh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: وہ شخص ہم میں سے نہیں ۱؎ جو منہ پیٹے، گریباں پھاڑے، اور جاہلیت کی پکار پکارے ( یعنی نوحہ کرے ) ۔ یہ الفاظ علی بن خشرم کے ہیں، اور حسن کی روایت «بدعا الجاہلیۃ» کی جگہ «بدعویٰ الجاہلیۃ» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1860</td></tr><tr><td>Arabic No</td><td>1860</td></tr><tr><td>Reference</td><td>Book 21 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1860 |
+| Arabic No | 1860 |
+| Reference | Book 21 Hadith 43 |

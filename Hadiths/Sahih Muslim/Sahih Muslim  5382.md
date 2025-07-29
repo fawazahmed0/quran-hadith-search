@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، وَعَبْدُ الْمَلِكِ بْنُ عَمْرٍو، وَعُمَرُ بْنُ سَعْدٍ، أَبُو دَاوُدَ الْحَفَرِيُّ كُلُّهُمْ عَنْ سُفْيَانَ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا عبد بن حميد، اخبرنا عبد الرزاق، وعبد الملك بن عمرو، وعمر بن سعد، ابو داود الحفري كلهم عن سفيان، عن الاعمش، بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আব্‌দ ইবনু হুমায়দ (রহঃ) ..... আ'মাশ (রহঃ) হতে উল্লেখিত সানাদে হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫২০৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been narrated on the authority of A'mash
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## French
 
+Rapporté par A'mash : Un hadith similaire a été rapporté par A'mash
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-2) Bize Abd b. Humeyd dahi rivayet eiti. (Dediki): Bize Ahdurrezzâk ile Abdulmelik b. Amr ve Ömer b. Sa'd Ebû Dâvud EI-Haferî hepsi Süfyan'dan, o da A'meş'den naklen bu isnadla bu badisin benzerini haber verdiler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفیان نے اعمش سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5382</td></tr><tr><td>Arabic No</td><td>2064.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 256</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5382 |
+| Arabic No | 2064.03 |
+| Reference | Book 36 Hadith 256 |

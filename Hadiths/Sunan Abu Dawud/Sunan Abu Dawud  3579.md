@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، حَدَّثَنَا حُمَيْدُ بْنُ هِلاَلٍ، حَدَّثَنِي أَبُو بُرْدَةَ، قَالَ قَالَ أَبُو مُوسَى قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ لَنْ نَسْتَعْمِلَ - أَوْ لاَ نَسْتَعْمِلُ - عَلَى عَمَلِنَا مَنْ أَرَادَهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
+
 حدثنا احمد بن حنبل، حدثنا يحيى بن سعيد، حدثنا قرة بن خالد، حدثنا حميد بن هلال، حدثني ابو بردة، قال قال ابو موسى قال النبي صلى الله عليه وسلم " لن نستعمل - او لا نستعمل - على عملنا من اراده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
 
 ## Bengali
 
+। আবূ মূসা (রাঃ) বর্ণনা করে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা কখনো আমাদের কোন দায়িত্বপূর্ণ পদে এমন ব্যক্তিকে নিয়োগ করবো না যে উক্ত পদের জন্য লালায়িত হয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ মূসা (রাঃ) বর্ণনা করে বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমরা কখনো আমাদের কোন দায়িত্বপূর্ণ পদে এমন ব্যক্তিকে নিয়োগ করবো না যে উক্ত পদের জন্য লালায়িত হয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Buradah reported the Prophet (ﷺ) as saying:"We will never employ or we shall not employ (the narrator is doubtful) in our work one who wants it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
+
+## French
+
+Abu Buradah a rapporté que le Prophète ﷺ a dit : « Nous n’emploierons jamais, ou nous n’emploierons pas (le narrateur hésite), dans nos affaires, quelqu’un qui le désire. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Yahya bin Sa'id\] telah menceritakan kepada kami \[Qurrah bin Khalid\] telah menceritakan kepada kami \[Humaid bin Hilal\] telah menceritakan kepadaku \[Abu Burdah\] ia berkata, \[Abu Musa\] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kami tidak akan memberikan jabatan untuk mengurusi suatu pekerjaan kami kepada orang yang menginginkannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Qurrah bin Khalid] telah menceritakan kepada kami [Humaid bin Hilal] telah menceritakan kepadaku [Abu Burdah] ia berkata, [Abu Musa] berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kami tidak akan memberikan jabatan untuk mengurusi suatu pekerjaan kami kepada orang yang menginginkannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Мусы, да будет доволен им Аллах, что Пророк ﷺ сказал: «Мы никогда не будем назначать (или: мы не назначаем) на должности тех, кто сам стремится к назначению на них»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Musa (el-Eş'arî'den; Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Biz bu görevimize onu isteyeni hiçbir zaman getirmeyiz" yahutta "getirmeyeceğiz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ہم ہرگز کسی ایسے شخص کو عامل مقرر نہیں کریں گے جو عامل بننا چاہے ۔ ابوموسیٰ رضی اللہ عنہ کہتے ہیں کہ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3579</td></tr><tr><td>Arabic No</td><td>3579</td></tr><tr><td>Reference</td><td>Book 25 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3579 |
+| Arabic No | 3579 |
+| Reference | Book 25 Hadith 9 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنْ رَجُلٍ، مِنْ بَنِي أَسَدٍ أَنَّهُ قَالَ نَزَلْتُ أَنَا وَأَهْلِي، بِبَقِيعِ الْغَرْقَدِ فَقَالَ لِي أَهْلِي اذْهَبْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَسَلْهُ لَنَا شَيْئًا نَأْكُلُهُ فَجَعَلُوا يَذْكُرُونَ مِنْ حَاجَتِهِمْ فَذَهَبْتُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَوَجَدْتُ عِنْدَهُ رَجُلاً يَسْأَلُهُ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ لاَ أَجِدُ مَا أُعْطِيكَ ‏"‏ ‏.‏ فَتَوَلَّى الرَّجُلُ عَنْهُ وَهُوَ مُغْضَبٌ وَهُوَ يَقُولُ لَعَمْرِي إِنَّكَ لَتُعْطِي مَنْ شِئْتَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ يَغْضَبُ عَلَىَّ أَنْ لاَ أَجِدَ مَا أُعْطِيهِ مَنْ سَأَلَ مِنْكُمْ وَلَهُ أُوقِيَّةٌ أَوْ عَدْلُهَا فَقَدْ سَأَلَ إِلْحَافًا ‏"‏ ‏.‏ قَالَ الأَسَدِيُّ فَقُلْتُ لَلَقِحَةٌ لَنَا خَيْرٌ مِنْ أُوقِيَّةٍ وَالأُوقِيَّةُ أَرْبَعُونَ دِرْهَمًا ‏.‏ قَالَ فَرَجَعْتُ وَلَمْ أَسْأَلْهُ فَقَدِمَ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بَعْدَ ذَلِكَ شَعِيرٌ أَوْ زَبِيبٌ فَقَسَمَ لَنَا مِنْهُ - أَوْ كَمَا قَالَ - حَتَّى أَغْنَانَا اللَّهُ ‏.‏ قَالَ أَبُو دَاوُدَ هَكَذَا رَوَاهُ الثَّوْرِيُّ كَمَا قَالَ مَالِكٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
+
 حدثنا عبد الله بن مسلمة، عن مالك، عن زيد بن اسلم، عن عطاء بن يسار، عن رجل، من بني اسد انه قال نزلت انا واهلي، ببقيع الغرقد فقال لي اهلي اذهب الى رسول الله صلى الله عليه وسلم فسله لنا شييا ناكله فجعلوا يذكرون من حاجتهم فذهبت الى رسول الله صلى الله عليه وسلم فوجدت عنده رجلا يساله ورسول الله صلى الله عليه وسلم يقول " لا اجد ما اعطيك " . فتولى الرجل عنه وهو مغضب وهو يقول لعمري انك لتعطي من شيت . فقال رسول الله صلى الله عليه وسلم " يغضب على ان لا اجد ما اعطيه من سال منكم وله اوقية او عدلها فقد سال الحافا " . قال الاسدي فقلت للقحة لنا خير من اوقية والاوقية اربعون درهما . قال فرجعت ولم اساله فقدم على رسول الله صلى الله عليه وسلم بعد ذلك شعير او زبيب فقسم لنا منه - او كما قال - حتى اغنانا الله . قال ابو داود هكذا رواه الثوري كما قال مالك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
 
 ## Bengali
 
+। ‘আত্বা ইবনু ইয়াসার (রহঃ) হতে বনী আসাদের এক ব্যক্তি সূত্রে বর্ণিত। তিনি বলেন, একদা আমি ও আমার পরিবার-পরিজন বাকী‘ আল-গারকাদ (কবরস্থানে) যাত্রাবিরতী করি। আমার স্ত্রী বললো, আপনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে গিয়ে আমাদের আহারের জন্য কিছু খাবার চান। পরিবারের প্রত্যেকেই তাদের প্রয়োজন বর্ণনা করলো। অতঃপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে গিয়ে দেখি, এক লোক তাঁর নিকট কিছু চাইছে। আর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলছেন, আমার কাছে তোমাকে দেয়ার মতো কিছু নাই। অতঃপর লোকটি রাগান্বিত অবস্থায় একথা বলতে বলতে চলে গেলো যে, আমার জীবনের শপথ! আপনি কেবল আপনার পছন্দের লোককেই দিয়ে থাকেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এ ব্যক্তি আমার উপর এ জন্যই ক্ষুদ্ধ হয়েছে যে, আমি তাকে দিতে পারলাম না। তোমাদের যে কেউ ভিক্ষা করে, অথচ তার এক ‘উকিয়া বা তার সমপরিমাণ সম্পদ আছে, সে তো বিরক্ত করার জন্যই ভিক্ষা করে। আসাদী লোকটি বলেন, (আমি ভাবলাম) আমাদের একটি উষ্ট্রী আছে, যা উকিয়ার চাইতে উত্তম, এক উকিয়া হচ্ছে চল্লিশ দিরহাম। অতঃপর আমি তার কাছে কিছু না চেয়েই ফিরে আসি। পরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট কিছু যব ও কিশমিশ এলে তিনি তা থেকে আমাদেরকেও একভাগ দিলেন, অথবা বর্ণনাকার বলেছেনঃ এমনকি মহান আল্লাহ আমাদেরকে সম্পদশালী করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আত্বা ইবনু ইয়াসার (রহঃ) হতে বনী আসাদের এক ব্যক্তি সূত্রে বর্ণিত। তিনি বলেন, একদা আমি ও আমার পরিবার-পরিজন বাকী‘ আল-গারকাদ (কবরস্থানে) যাত্রাবিরতী করি। আমার স্ত্রী বললো, আপনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে গিয়ে আমাদের আহারের জন্য কিছু খাবার চান। পরিবারের প্রত্যেকেই তাদের প্রয়োজন বর্ণনা করলো। অতঃপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে গিয়ে দেখি, এক লোক তাঁর নিকট কিছু চাইছে। আর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলছেন, আমার কাছে তোমাকে দেয়ার মতো কিছু নাই। অতঃপর লোকটি রাগান্বিত অবস্থায় একথা বলতে বলতে চলে গেলো যে, আমার জীবনের শপথ! আপনি কেবল আপনার পছন্দের লোককেই দিয়ে থাকেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, এ ব্যক্তি আমার উপর এ জন্যই ক্ষুদ্ধ হয়েছে যে, আমি তাকে দিতে পারলাম না। তোমাদের যে কেউ ভিক্ষা করে, অথচ তার এক ‘উকিয়া বা তার সমপরিমাণ সম্পদ আছে, সে তো বিরক্ত করার জন্যই ভিক্ষা করে। আসাদী লোকটি বলেন, (আমি ভাবলাম) আমাদের একটি উষ্ট্রী আছে, যা উকিয়ার চাইতে উত্তম, এক উকিয়া হচ্ছে চল্লিশ দিরহাম। অতঃপর আমি তার কাছে কিছু না চেয়েই ফিরে আসি। পরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট কিছু যব ও কিশমিশ এলে তিনি তা থেকে আমাদেরকেও একভাগ দিলেন, অথবা বর্ণনাকার বলেছেনঃ এমনকি মহান আল্লাহ আমাদেরকে সম্পদশালী করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ata’ b. Yasar said :A man from Banu Asad said : I and my family alighted at Baqi al-Gharqad. My wife said to me : Go the Messenger of Allah(ﷺ) and beg something from him for our eating, and made a mention of there need. So I went to the Messenger of Allah(May peace be upon him). I found with a man who was begging from him and he was saying to him: I have nothing to give you. The man turned away from him in anger while he was saying: By my life, you give anyone you wish. The Messenger of Allah(May peace be upon him) said : He’s anger with me, for I have nothing to give him. If any of you begs when he has an Uqiyah or its equivalent, he has begged immoderately. The man of Banu Asad said : So I said : The she camel of ours is better than an uqiyah, while an uqiyah is equivalent to 40 Dirhams. I therefore returned and did not beg from him. Afterwards some barley and raisins where brought to the Messenger of Allah (May peace be upon him). He gave us a share from them (or as he reported)till Allah, the Exalted, made us self-sufficient(i.e well off). Abu Dawud said: Al-Thawri narrated it as Malik narrated
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
+
+## French
+
+‘Ata’ ibn Yasar a dit : Un homme des Banu Asad a raconté : « Ma famille et moi nous sommes installés à Baqi al-Gharqad. Ma femme m’a dit : “Va voir le Messager d’Allah ﷺ et demande-lui quelque chose à manger pour nous”, en évoquant nos besoins. Je suis donc allé voir le Messager d’Allah ﷺ. J’ai trouvé auprès de lui un homme qui lui demandait l’aumône, et il lui disait : “Je n’ai rien à te donner.” L’homme est parti en colère en disant : “Par ma vie, tu donnes à qui tu veux.” Le Messager d’Allah ﷺ a dit : “Il est en colère contre moi parce que je n’ai rien à lui donner. Si l’un de vous mendie alors qu’il possède une uqiyah ou son équivalent, il a exagéré dans sa demande.” L’homme des Banu Asad a dit : “Notre chamelle vaut plus qu’une uqiyah, et une uqiyah équivaut à quarante dirhams. Je suis donc reparti sans rien demander.” Plus tard, de l’orge et des raisins ont été apportés au Messager d’Allah ﷺ. Il nous en a donné une part (ou comme il l’a rapporté) jusqu’à ce qu’Allah, le Très-Haut, nous rende autonomes. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abdullah bin Maslamah\] dari \[Malik\] dari \[Zaid bin Aslam\] dari \['Atho' bin Yasar\] dari \[seorang laki-laki dari Bani Asad\] bahwa ia berkata; aku dan keluargaku singgah di Baqi' yang terdapat padanya pohon Gharqad. Kemudian keluargaku berkata; pergilah kepada Rasulullah shallAllahu wa'alaihi wa sallam dan mintakan kepada Rasulullah shallAllahu wa'alaihi wa sallam untuk kita sesuatu yang dapat kita makan. Kemudian mereka menyebutkan sebagian dari keperluan mereka, lalu aku pergi kepada Rasulullah shallAllahu wa'alaihi wa sallam dan aku dapati seorang laki-laki sedang meminta-minta kepada beliau sementara Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Aku tidak memiliki sesuatu yang dapat aku berikan kepadamu." Kemudian orang tersebut pergi dari beliau dalam keadaan marah, dan berkata; demi umurku, sungguh engkau memberi orang yang engkau kehendaki. Maka Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Ia marah kepadaku karena aku tidak mendapatkan sesuatu yang dapat aku berikan kepadanya. Barang siapa diantara kalian yang meminta-minta sedangkan ia memiliki satu uqiyah atau yang setara dengannya maka sungguh ia telah meminta-minta dengan mendesak." Al Asadi berkata; sungguh unta Kami yang hampir melahirkan lebih baik daripada satu uqiyah. Satu uqiyah adalah empat puluh dirham. Laki-laki tersebut berkata; kemudian aku kembali dan tidak meminta-minta kepada beliau. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam setelah itu datang membawa gandum, dan kismis. Kemudian beliau membagikannya kepada Kami, atau sebagaimana ia katakana, hingga Allah 'azza wajalla memberikan kecukupan kepada Kami. Abu Daud berkata; demikianlah \[Ats Tsauri\] meriwayatkan sebagaimana yang dikatakan oleh Malik
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abdullah bin Maslamah] dari [Malik] dari [Zaid bin Aslam] dari ['Atho' bin Yasar] dari [seorang laki-laki dari Bani Asad] bahwa ia berkata; aku dan keluargaku singgah di Baqi' yang terdapat padanya pohon Gharqad. Kemudian keluargaku berkata; pergilah kepada Rasulullah shallAllahu wa'alaihi wa sallam dan mintakan kepada Rasulullah shallAllahu wa'alaihi wa sallam untuk kita sesuatu yang dapat kita makan. Kemudian mereka menyebutkan sebagian dari keperluan mereka, lalu aku pergi kepada Rasulullah shallAllahu wa'alaihi wa sallam dan aku dapati seorang laki-laki sedang meminta-minta kepada beliau sementara Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Aku tidak memiliki sesuatu yang dapat aku berikan kepadamu." Kemudian orang tersebut pergi dari beliau dalam keadaan marah, dan berkata; demi umurku, sungguh engkau memberi orang yang engkau kehendaki. Maka Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Ia marah kepadaku karena aku tidak mendapatkan sesuatu yang dapat aku berikan kepadanya. Barang siapa diantara kalian yang meminta-minta sedangkan ia memiliki satu uqiyah atau yang setara dengannya maka sungguh ia telah meminta-minta dengan mendesak." Al Asadi berkata; sungguh unta Kami yang hampir melahirkan lebih baik daripada satu uqiyah. Satu uqiyah adalah empat puluh dirham. Laki-laki tersebut berkata; kemudian aku kembali dan tidak meminta-minta kepada beliau. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam setelah itu datang membawa gandum, dan kismis. Kemudian beliau membagikannya kepada Kami, atau sebagaimana ia katakana, hingga Allah 'azza wajalla memberikan kecukupan kepada Kami. Abu Daud berkata; demikianlah [Ats Tsauri] meriwayatkan sebagaimana yang dikatakan oleh Malik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ата ибн Йасар передаёт от человека из бану асад: «Вместе со своей семьёй я поселился в Бакы‘-аль-Гаркаде, и моя семья сказала мне: “Сходи к Посланнику Аллаха ﷺ попроси для нас чего-нибудь съестного”. После этого они стали жаловаться на нужду, и я отправился к Посланнику Аллаха ﷺ чтобы попросить у него что-нибудь. Придя к нему, я застал у него человека, который просил у него, а он говорил: “Мне нечего дать тебе”. Потом этот человек вышел разгневанным со словами: “Клянусь, ты даёшь только тем, кому хочешь!” Посланник Аллаха ﷺ сказал: “Он гневается оттого, что мне нечего дать ему… Тот из вас, кто просит, имея окию или её стоимость, просит без нужды”. Я сказал себе: “Дойная верблюдица, которая есть у нас, лучше окии”. А окия это сорок дирхемов. И я вернулся домой, не став ни о чём просить. А потом Посланнику Аллаха ﷺ привезли ячмень и изюм, и он выделил нам долю, а потом Аллах избавил нас от необходимости просить»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Atâ b. Yesâr, Esed oğullarından bir adamın şöyle dediğini rivayet etmiştir: Ben ve ailem Bakî el-Garkad'a inmiştik. Ailem bana: "Resûlullah (s.a.v.)'e git de ondan yiyecek bir şey iste" dedi ve ihtiyaçlarını saymaya başladı. Bunun üzerine Resûlullah (s.a.v.)'e gittim. Yanında kendisinden (bir şeyler) isteyen bir adam gördüm. Resûlullah (s.a.v.), ona: "Sana verecek bir şey bulamıyorum" diyordu. Bunun üzerine şöyle söyleyerek kızgın bir halde döndü. Hayatıma yemin ederim ki sen, dilediklerine veriyorsun. Resûlullah (s.a.v.): "Ona verecek bir şey bulamadığım için bana kızıyor. Sizden biriniz bir okiyye gümüşü veya bu değerde malı olduğu halde dilenirse, haddi aşarak dilenmiş olur" buyurdu. Esed'li (adam devamla) şöyle dedi: Kendi kendime, sütlü devemiz bir okiyyeden daha değerlidir, dedim ve hiçbir şey istemeden geri döndüm. Bir okiyye, kırk dirhem gümüştür.Ondan sonra Resûlullah (s.a.v.)'e arpa ve kuru üzüm geldi de Aziz ve Celîl olan Allah, bizi zengin edene kadar gelenlerden Resûlullah (s.a.v.) bize pay ayırdı. Ebû Dâvûd dedi ki: Mâlik'in dediği gibi, (Süfyan) Sevrî de bu hadisi böyle rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بنی اسد کے ایک صاحب کہتے ہیں کہ میں اور میری بیوی بقیع غرقد میں جا کر اترے، میری بیوی نے مجھ سے کہا: رسول اللہ صلی اللہ علیہ وسلم کے پاس جاؤ اور ہمارے لیے کچھ مانگ کر لاؤ جو ہم کھائیں، پھر وہ لوگ اپنی محتاجی کا ذکر کرنے لگے، چنانچہ میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا تو مجھے آپ کے پاس ایک شخص ملا، وہ آپ سے مانگ رہا تھا اور آپ اس سے کہہ رہے تھے: میرے پاس کچھ نہیں ہے جو میں تجھے دوں، آخر وہ ناراض ہو کر یہ کہتے ہوئے چلا گیا کہ میری عمر کی قسم، تم جسے چاہتے ہو دیتے ہو، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یہ میرے اوپر اس لیے غصہ ہو رہا ہے کیونکہ اسے دینے کے لیے میرے پاس کچھ نہیں ہے، تم میں سے جو سوال کرے اور اس کے پاس ایک اوقیہ ( چالیس درہم ) یا اس کے برابر مالیت ہو تو وہ الحاح کے ساتھ سوال کرنے کا مرتکب ہوتا ہے ۱؎ ، اسدی کہتے ہیں: میں نے ( اپنے جی میں ) کہا: ہماری اونٹنی تو اوقیہ سے بہتر ہے، اوقیہ تو چالیس ہی درہم کا ہوتا ہے، وہ کہتے ہیں: چنانچہ میں لوٹ آیا اور آپ سے کچھ بھی نہیں مانگا، اس کے بعد رسول اللہ صلی اللہ علیہ وسلم کے پاس جو اور منقی آیا، آپ نے اس میں سے ہمیں بھی حصہ دیا، «أو كما قال» یہاں تک کہ اللہ نے ہمیں غنی کر دیا۔ ابوداؤد کہتے ہیں: اسے ثوری نے بھی اسی طرح روایت کیا ہے جیسے مالک نے کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1627</td></tr><tr><td>Arabic No</td><td>1627</td></tr><tr><td>Reference</td><td>Book 9 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1627 |
+| Arabic No | 1627 |
+| Reference | Book 9 Hadith 72 |

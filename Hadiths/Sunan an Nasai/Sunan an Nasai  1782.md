@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَمْرُو بْنُ مُحَمَّدٍ، قَالَ حَدَّثَنَا عَثَّامُ بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي رَكْعَتَىِ الْفَجْرِ إِذَا سَمِعَ الأَذَانَ وَيُخَفِّفُهُمَا ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا حَدِيثٌ مُنْكَرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 20 Hadith 185</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |
+
 اخبرنا احمد بن نصر، قال حدثنا عمرو بن محمد، قال حدثنا عثام بن علي، قال حدثنا الاعمش، عن حبيب بن ابي ثابت، عن سعيد بن جبير، عن ابن عباس، قال كان النبي صلى الله عليه وسلم يصلي ركعتى الفجر اذا سمع الاذان ويخففهما . قال ابو عبد الرحمن هذا حديث منكر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 20 Hadith 185</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমদ ইবনু নাসর (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের আযান শুনতে পেলে দু’রাকআত সুন্নাত আদায় করতেন এবং তা সংক্ষিপ্তভাবে আদায় করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 20 Hadith 185</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'Abbas said:"The Prophet (ﷺ) used to pray two rak'ahs of Fajr when he heard the Adhan and he made them brief
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 20 Hadith 185</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) avait l’habitude de prier deux rak‘a du Fajr quand il entendait l’adhan, et il les faisait courtes
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 20 Hadith 185</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 20 Hadith 185</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہم کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جب اذان سنتے تو فجر کی دو رکعتیں پڑھتے، اور انہیں ہلکی پڑھتے تھے۔ ابوعبدالرحمٰن نسائی کہتے ہیں: یہ حدیث منکر ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1782</td></tr><tr><td>Arabic No</td><td>1782</td></tr><tr><td>Reference</td><td>Book 20 Hadith 185</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1782 |
+| Arabic No | 1782 |
+| Reference | Book 20 Hadith 185 |

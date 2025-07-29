@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو إِسْحَاقَ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ فِي آخِرِهِ قَالَ هَذَا يَقُولُ فِي الْوِتْرِ فِي الْقُنُوتِ وَلَمْ يَذْكُرْ أَقُولُهُنَّ فِي الْوِتْرِ ‏.‏ قَالَ أَبُو دَاوُدَ أَبُو الْحَوْرَاءِ رَبِيعَةُ بْنُ شَيْبَانَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
+
 حدثنا عبد الله بن محمد النفيلي، حدثنا زهير، حدثنا ابو اسحاق، باسناده ومعناه قال في اخره قال هذا يقول في الوتر في القنوت ولم يذكر اقولهن في الوتر . قال ابو داود ابو الحوراء ربيعة بن شيبان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
 
 ## Bengali
 
+। আবূ ইসহাক হতে উপরোক্ত সানাদ ও অর্থে বর্ণিত। তাতে শেষাংশে রয়েছেঃ এগুলো বিতরের কুনূতে বলেছেন। কিন্তু এ কথা উল্লেখ নেই যে, ‘আমি এগুলো বিতরে বলেছি।’\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ ইসহাক হতে উপরোক্ত সানাদ ও অর্থে বর্ণিত। তাতে শেষাংশে রয়েছেঃ এগুলো বিতরের কুনূতে বলেছেন। কিন্তু এ কথা উল্লেখ নেই যে, ‘আমি এগুলো বিতরে বলেছি।’[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The aforesaid tradition has been transmitted by Abu Ishaq with the same chain and to the same effect. In the last of this tradition he said:The version has the words: "He would recite the supplication of the witr." He did not mention the words: "I say them in the witr." Abu Dawud said: The name of Abu al-Hawra' is Rabi'ah b. Shaiban
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
+
+## French
+
+Le hadith mentionné précédemment a été transmis par Abu Ishaq avec la même chaîne de transmission et dans le même sens. À la fin de ce hadith, il est dit : « Il récitait l’invocation du witr. » Il n’a pas mentionné les mots : « Je les dis dans le witr. » Abu Dawud a dit : Le nom de Abu al-Hawra’ est Rabi’ah b. Shaiban
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В похожей версии Абу Исхака, в конце говорится только «кунут во время витра», но он не упоминал: «Я говорю их во время витра»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Muhammed en-Nüfeyli, Zuheyr'den, o da Ebu îshak'dan önceki (1425.) hadisi aynı isnâd ve mana ile rivayet etti. Züheyr rivayetinin sonunda, Hasan bu (kunut duasını) "vitirdeki kunutta" söylerdi dedi. "Onları vitirde söylüyorum" sözünü zikretmedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طریق سے بھی ابواسحاق سے اسی سند کے ساتھ اسی مفہوم کی حدیث مروی ہے لیکن اس کے آخر میں ہے کہ اسے وہ وتر کی قنوت میں کہتے تھے اور «أقولهن في الوتر» کا ذکر نہیں کیا ہے۔ ابوداؤد کہتے ہیں: ابوالحوراء کا نام ربیعہ بن شیبان ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1426</td></tr><tr><td>Arabic No</td><td>1426</td></tr><tr><td>Reference</td><td>Book 8 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1426 |
+| Arabic No | 1426 |
+| Reference | Book 8 Hadith 11 |

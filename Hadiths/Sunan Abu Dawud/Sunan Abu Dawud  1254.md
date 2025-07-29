@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، حَدَّثَنِي عَطَاءٌ، عَنْ عُبَيْدِ بْنِ عُمَيْرٍ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يَكُنْ عَلَى شَىْءٍ مِنَ النَّوَافِلِ أَشَدَّ مُعَاهَدَةً مِنْهُ عَلَى الرَّكْعَتَيْنِ قَبْلَ الصُّبْحِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
+
 حدثنا مسدد، حدثنا يحيى، عن ابن جريج، حدثني عطاء، عن عبيد بن عمير، عن عايشة، - رضى الله عنها - قالت ان رسول الله صلى الله عليه وسلم لم يكن على شىء من النوافل اشد معاهدة منه على الركعتين قبل الصبح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের পূর্বে দু’ রাক‘আত সালাতের চেয়ে অধিক দৃঢ় প্রত্যয় অন্য কোন নফল সালাতে রাখেননি।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের পূর্বে দু’ রাক‘আত সালাতের চেয়ে অধিক দৃঢ় প্রত্যয় অন্য কোন নফল সালাতে রাখেননি।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah:The Messenger of Allah (ﷺ) was more particular about observing the supererogatory rak'ahs before the dawn prayer than about observing any of the other supererogatory prayers
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
+
+## French
+
+Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ était plus assidu à accomplir les unités surérogatoires avant la prière de l’aube qu’à observer les autres prières surérogatoires
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Ibnu Juraij\] telah menceritakan kepadaku \['Atha'\] dari \['Ubaid bin 'Umair\] dari \[Aisyah\] radliallahu 'anha dia berkata; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam tidak pernah memiliki perhatian yang lebih terhadap shalat sunnah melebihi perhatian beliau terhadap dua raka'at sebelum subuh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] telah menceritakan kepadaku ['Atha'] dari ['Ubaid bin 'Umair] dari [Aisyah] radliallahu 'anha dia berkata; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam tidak pernah memiliki perhatian yang lebih terhadap shalat sunnah melebihi perhatian beliau terhadap dua raka'at sebelum subuh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах, что ни одну дополнительную молитву Посланник Аллаха ﷺ не совершал столь неуклонно, как два рак‘ата перед обязательной утренней молитвой
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anhâ)'dan; demiştir ki: Resûlullah (s.a.v.) riâfile namazlardan hiçbirinde sabah namazının farzından önceki iki rekat sünnette olduğu kadar devamlı değildi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کسی اور نفل کا اتنا خیال نہیں رکھتے تھے جتنا صبح سے پہلے کی دونوں کی رکعتوں کا رکھتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1169) Sahih Muslim (724)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1254</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 5 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1169) Sahih Muslim (724) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1254 |
+| Arabic No | 1254 |
+| Reference | Book 5 Hadith 5 |

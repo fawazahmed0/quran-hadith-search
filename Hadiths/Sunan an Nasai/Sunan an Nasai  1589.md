@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، عَنْ شُعَيْبٍ، عَنِ اللَّيْثِ، عَنْ كَثِيرِ بْنِ فَرْقَدٍ، عَنْ نَافِعٍ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَخْبَرَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَذْبَحُ أَوْ يَنْحَرُ بِالْمُصَلَّى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |
+
 اخبرنا محمد بن عبد الله بن عبد الحكم، عن شعيب، عن الليث، عن كثير بن فرقد، عن نافع، ان عبد الله بن عمر، اخبره ان رسول الله صلى الله عليه وسلم كان يذبح او ينحر بالمصلى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু আব্দুল্লাহ (রহঃ) ... নাফি (রহঃ) থেকে বর্ণিত যে, আব্দুল্লাহ ইবনু উমর (রাঃ) তাকে সংবাদ দিয়েছেন যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদগাহে যবেহ অথবা নহর করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Nafi that:Abdullah (bin Umar) told him that the Messenger of Allah (ﷺ) used to offer sacrifice in the prayer place
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |
+
+## French
+
+Rapporté par Nafi', de la part de Abdullah (bin Umar) : Le Messager d’Allah (ﷺ) avait l’habitude de faire le sacrifice sur le lieu de prière
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin 'Abdullah bin 'Abdul Hakim\] dari \[Syu'aib\] dari \[Al Laits\] dari \[Katsir bin Farqad\] dari \[Nafi'\], \['Abdullah bin 'Umar\] mengabarkan kepadanya, bahwa Rasulullah Shalallahu 'Alaihi Wa Sallam menyembelih di tempat shalat hari raya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin 'Abdullah bin 'Abdul Hakim] dari [Syu'aib] dari [Al Laits] dari [Katsir bin Farqad] dari [Nafi'], ['Abdullah bin 'Umar] mengabarkan kepadanya, bahwa Rasulullah Shalallahu 'Alaihi Wa Sallam menyembelih di tempat shalat hari raya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم عید گاہ ہی میں ذبح یا نحر کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1589</td></tr><tr><td>Arabic No</td><td>1589</td></tr><tr><td>Reference</td><td>Book 19 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1589 |
+| Arabic No | 1589 |
+| Reference | Book 19 Hadith 34 |

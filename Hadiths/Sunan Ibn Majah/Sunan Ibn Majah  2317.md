@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ زَيْنَبَ بِنْتِ أُمِّ سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّكُمْ تَخْتَصِمُونَ إِلَىَّ وَإِنَّمَا أَنَا بَشَرٌ وَلَعَلَّ بَعْضَكُمْ أَنْ يَكُونَ أَلْحَنَ بِحُجَّتِهِ مِنْ بَعْضٍ وَإِنَّمَا أَقْضِي بَيْنَكُمْ عَلَى نَحْوٍ مِمَّا أَسْمَعُ مِنْكُمْ فَمَنْ قَضَيْتُ لَهُ مِنْ حَقِّ أَخِيهِ شَيْئًا فَلاَ يَأْخُذْهُ فَإِنَّمَا أَقْطَعُ لَهُ قِطْعَةً مِنَ النَّارِ يَأْتِي بِهَا يَوْمَ الْقِيَامَةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |
+
 حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، حدثنا هشام بن عروة، عن ابيه، عن زينب بنت ام سلمة، عن ام سلمة، قالت قال رسول الله صلى الله عليه وسلم " انكم تختصمون الى وانما انا بشر ولعل بعضكم ان يكون الحن بحجته من بعض وانما اقضي بينكم على نحو مما اسمع منكم فمن قضيت له من حق اخيه شييا فلا ياخذه فانما اقطع له قطعة من النار ياتي بها يوم القيامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । উম্মু সালামা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা আমার কাছে বিবদমান বিষয় মীমাংসার জন্য এসে থাকো। আমিও একজন মানুষ। হয়তো তোমাদের কেউ (একপক্ষ) অপর কারো (বিপক্ষের) তুলনায় নিজের যুক্তি-প্রমাণ পেশে অত্যন্ত বাকপটু হয়ে থাকবে। আর আমি তো তোমাদের বক্তব্য শুনেই তার ভিত্তিতে বিচারকার্য করি। অতএব আমি তোমাদের কারো পক্ষে তার ভাইয়ের হকের কোন অংশের ফয়সালা দিয়ে ফেলতে পারি। এ অবস্থায় সে যেন তার কিছুই গ্রহণ না করে। কারণ আমি তাকে জাহান্নাম একটি টুকরাই কেটে দিচ্ছি, যা নিয়ে সে কিয়ামতের দিন হাজির হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Umm Salamah that the Messenger of Allah (ﷺ) said:“You refer your disputes to me and I am only human. Perhaps some of you may be more eloquent in presenting your case than others, so I rule in your favor because of what I hear from you. If I pass a judgement in favor of one of you that detracts from his brother's rights, then he should not take it, because it is a piece of fire that is given to him which he will bring forth on the Day Resurrection.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |
+
+## French
+
+Rapporté par Umm Salamah : Le Messager d'Allah (ﷺ) a dit : "Vous me soumettez vos différends et je ne suis qu'un homme. Il se peut que certains d'entre vous soient plus éloquents que d'autres pour présenter leur cause, alors je juge en sa faveur à cause de ce que j'entends. Si je rends un jugement en faveur de l'un d'entre vous qui enlève un droit à son frère, qu'il ne le prenne pas, car c'est un morceau de feu qu'il recevra et qu'il portera le Jour de la Résurrection
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakr bin Abu Syaibah\] berkata, telah menceritakan kepada kami \[Waki'\] berkata, telah menceritakan kepada kami \[Hisyam bin Urwah\] dari \[Bapaknya\] dari \[Zainab binti Ummu Salamah\] dari \[Ummu Salamah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian telah mendebatku, padahal aku hanyalah manusia biasa. Bisa jadi sebagian dari kalian lebih mampu bersilat lidah dalam menerangkan pendapatnya dari sebagian yang lain. Aku memberi putusan kalian sebatas yang kudengar dari kalian, maka barangsiapa yang kumenangkan urusannya dengan mencederai hak sudaranya, jangan ia ambil, sebab aku telah membuatkan bara api untuknya pada hari kiamat nanti
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Waki'] berkata, telah menceritakan kepada kami [Hisyam bin Urwah] dari [Bapaknya] dari [Zainab binti Ummu Salamah] dari [Ummu Salamah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kalian telah mendebatku, padahal aku hanyalah manusia biasa. Bisa jadi sebagian dari kalian lebih mampu bersilat lidah dalam menerangkan pendapatnya dari sebagian yang lain. Aku memberi putusan kalian sebatas yang kudengar dari kalian, maka barangsiapa yang kumenangkan urusannya dengan mencederai hak sudaranya, jangan ia ambil, sebab aku telah membuatkan bara api untuknya pada hari kiamat nanti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 “... (Mü'minlerin analarından) Ümmü Seleme (radıyallahü anha)’dan rivâyet edildiğine göre Resûlüllah (sallallahü aleyhi ve sellem), şöyle buyurdu, demiştir: siz dâvalarınızı bana getiriyorsunuz. Ben ancak bir beşerim (Allah bildirmedikçe gaybı bilemem). Bâzınızın meramını bâzınızdan daha iyi anlatması umulur. Ben şüphesiz sizden işittiğim sözlerinize göre aranızda hükmederim. Artık kimin lehinde kardeşi (yani hasmı) nın hakkından bir şeye hükmedersem sakın o kimse (aslında hakkı olmayan) o şeyi (kardeşinden) almasın. Çünkü ben o kimse için ateşten bir parça kesmiş olurum. O kimse o parçayı kıyamet günü getirir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین ام سلمہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم لوگ میرے پاس جھگڑے اور اختلافات لاتے ہو اور میں تو ایک انسان ہی ہوں، ہو سکتا ہے تم میں سے کوئی اپنی دلیل بیان کرنے میں دوسرے سے زیادہ چالاک ہو، اور میں اسی کے مطابق فیصلہ کرتا ہوں جو تم سے سنتا ہوں، لہٰذا اگر میں کسی کو اس کے بھائی کا کوئی حق دلا دوں تو وہ اس کو نہ لے، اس لیے کہ میں اس کے لیے آگ کا ایک ٹکڑا دلاتا ہوں جس کو وہ قیامت کے دن لے کر آئے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2317</td></tr><tr><td>Arabic No</td><td>2317</td></tr><tr><td>Reference</td><td>Book 13 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2317 |
+| Arabic No | 2317 |
+| Reference | Book 13 Hadith 10 |

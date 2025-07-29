@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ رُفَيْعٍ، عَنْ عَطَاءٍ، عَنْ نَاسٍ، مِنْ آلِ صَفْوَانَ قَالَ اسْتَعَارَ النَّبِيُّ صلى الله عليه وسلم فَذَكَرَ مَعْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
+
 حدثنا مسدد، حدثنا ابو الاحوص، حدثنا عبد العزيز بن رفيع، عن عطاء، عن ناس، من ال صفوان قال استعار النبي صلى الله عليه وسلم فذكر معناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সাফওয়ানের পরিবারের লোকদের সূত্রে বর্ণিত। তারা বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ধার হিসেবে ... অতঃপর উপরের হাদীসের অনুরূপ বর্ণিত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by 'Ata from some people of the descendants of Safwan saying:The Prophet (ﷺ) borrowed. He then transmitted the rest of the tradition to the same effect
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
+
+## French
+
+Le hadith mentionné ci-dessus a également été transmis par ‘Ata de la part de certains descendants de Safwan, disant : « Le Prophète ﷺ a emprunté. » Il a ensuite transmis le reste du récit avec le même sens
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ата передаёт от людей из семьи Сафвана похожий хадис о том, как Пророк ﷺ попросил у Сафвана кольчуги в бесплатное пользование
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Müsedded haber verdi, bize Ebu'l-Ahvâs haber verdi, bize Abdü'l-Aziz b. Râfi' Atâ'dan naklen haber verdi, Atâ da Safvân ailesinden olan kişilerden şöyle rivayet etti: Rasûlullah (s.a.v.), ariyet olarak aldı... Râvi Önceki (3563.) hadisin ma'nasını nakletti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی آل صفوان کے کچھ لوگوں سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے کچھ زرہیں عاریۃً لیں، پھر راوی نے اسی مفہوم کی حدیث ذکر کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 24 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 24 Hadith 149 |

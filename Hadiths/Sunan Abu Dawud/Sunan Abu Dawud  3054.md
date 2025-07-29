@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، قَالَ سُئِلَ سُفْيَانُ عَنْ تَفْسِيرِ، هَذَا فَقَالَ إِذَا أَسْلَمَ فَلاَ جِزْيَةَ عَلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
+
 حدثنا محمد بن كثير، قال سيل سفيان عن تفسير، هذا فقال اذا اسلم فلا جزية عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুফিয়ান সাওরী (রহঃ)-কে উপরোক্ত কথার ব্যাখ্যা জিজ্ঞেস করা হলে তিনি বলেন, সে ইসলাম কবূল করলে তার উপর জিযয়া ধার্য হবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammad bin Kathir said “Sufyan was asked to explain the tradition mentioned above.” He said “When he embraces Islam, no jizyah will be levied on him.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
+
+## French
+
+Muhammad bin Kathir a dit : « On a demandé à Sufyan d’expliquer la tradition mentionnée ci-dessus. » Il a répondu : « Lorsqu’il embrasse l’islam, la jizyah ne lui est plus imposée. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Al Jarrah\], dari \[Jarir\] dari \[Qabus\] dari \[ayahnya\], dari \[Ibnu Abbas\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang muslim tidak wajib membayar jizyah." Telah menceritakan kepada kami Muhammad bin Katsir, ia berkata; Sufyan ditanya mengenai tafsir hadits ini, kemudian ia berkata; apabila ia telah masuk Islam maka tidak wajib ia membayar jizyah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Al Jarrah], dari [Jarir] dari [Qabus] dari [ayahnya], dari [Ibnu Abbas], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang muslim tidak wajib membayar jizyah." Telah menceritakan kepada kami Muhammad bin Katsir, ia berkata; Sufyan ditanya mengenai tafsir hadits ini, kemudian ia berkata; apabila ia telah masuk Islam maka tidak wajib ia membayar jizyah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Суфьян сказал: «Если неверующий принял ислам, он больше не обязан выплачивать джизью»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammed b. Kesir dedi ki: Süfyan'a şu (bir önceki 3053. ) hadis'in tefsîri soruldu da (bir zımmî) "müslüman olunca o'na cizye (vermesi) gerekmez" cevabını verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن کثیر کہتے ہیں سفیان سے اس حدیث کا مطلب ۱؎ پوچھا گیا تو انہوں نے کہا کہ جب ذمی اسلام قبول کر لے تو اس پر ( اسلام لاتے وقت سال میں سے گزرے ہوئے دنوں کا ) جزیہ نہ ہو گا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3054</td></tr><tr><td>Arabic No</td><td>3054</td></tr><tr><td>Reference</td><td>Book 20 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3054 |
+| Arabic No | 3054 |
+| Reference | Book 20 Hadith 127 |

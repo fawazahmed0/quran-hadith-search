@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو الْيَمَانِ، قَالَ أَخْبَرَنَا شُعَيْبٌ، عَنِ الزُّهْرِيِّ، قَالَ أَخْبَرَنِي سَالِمٌ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ ـ رضى الله عنهما ـ قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم إِذَا أَعْجَلَهُ السَّيْرُ فِي السَّفَرِ يُؤَخِّرُ الْمَغْرِبَ حَتَّى يَجْمَعَ بَيْنَهَا وَبَيْنَ الْعِشَاءِ‏.‏ قَالَ سَالِمٌ وَكَانَ عَبْدُ اللَّهِ يَفْعَلُهُ إِذَا أَعْجَلَهُ السَّيْرُ‏.‏ وَزَادَ اللَّيْثُ قَالَ حَدَّثَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ سَالِمٌ كَانَ ابْنُ عُمَرَ ـ رضى الله عنهما ـ يَجْمَعُ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ بِالْمُزْدَلِفَةِ‏.‏ قَالَ سَالِمٌ وَأَخَّرَ ابْنُ عُمَرَ الْمَغْرِبَ، وَكَانَ اسْتُصْرِخَ عَلَى امْرَأَتِهِ صَفِيَّةَ بِنْتِ أَبِي عُبَيْدٍ فَقُلْتُ لَهُ الصَّلاَةُ‏.‏ فَقَالَ سِرْ‏.‏ فَقُلْتُ الصَّلاَةُ‏.‏ فَقَالَ سِرْ‏.‏ حَتَّى سَارَ مِيلَيْنِ أَوْ ثَلاَثَةً ثُمَّ نَزَلَ فَصَلَّى ثُمَّ قَالَ هَكَذَا رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم يُصَلِّي إِذَا أَعْجَلَهُ السَّيْرُ‏.‏ وَقَالَ عَبْدُ اللَّهِ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم إِذَا أَعْجَلَهُ السَّيْرُ يُؤَخِّرُ الْمَغْرِبَ، فَيُصَلِّيهَا ثَلاَثًا ثُمَّ يُسَلِّمُ، ثُمَّ قَلَّمَا يَلْبَثُ حَتَّى يُقِيمَ الْعِشَاءَ فَيُصَلِّيَهَا رَكْعَتَيْنِ ثُمَّ يُسَلِّمُ، وَلاَ يُسَبِّحُ بَعْدَ الْعِشَاءِ حَتَّى يَقُومَ مِنْ جَوْفِ اللَّيْلِ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو اليمان، قال اخبرنا شعيب، عن الزهري، قال اخبرني سالم، عن عبد الله بن عمر رضى الله عنهما قال رايت رسول الله صلى الله عليه وسلم اذا اعجله السير في السفر يوخر المغرب حتى يجمع بينها وبين العشاء. قال سالم وكان عبد الله يفعله اذا اعجله السير. وزاد الليث قال حدثني يونس، عن ابن شهاب، قال سالم كان ابن عمر رضى الله عنهما يجمع بين المغرب والعشاء بالمزدلفة. قال سالم واخر ابن عمر المغرب، وكان استصرخ على امراته صفية بنت ابي عبيد فقلت له الصلاة. فقال سر. فقلت الصلاة. فقال سر. حتى سار ميلين او ثلاثة ثم نزل فصلى ثم قال هكذا رايت النبي صلى الله عليه وسلم يصلي اذا اعجله السير. وقال عبد الله رايت النبي صلى الله عليه وسلم اذا اعجله السير يوخر المغرب، فيصليها ثلاثا ثم يسلم، ثم قلما يلبث حتى يقيم العشاء فيصليها ركعتين ثم يسلم، ولا يسبح بعد العشاء حتى يقوم من جوف الليل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 অপর এক সূত্রে সালিম (রহ.) বলেন, ইবনু ‘উমার (রাযি.) মুযদালিফায় মাগরিব ও ‘ইশা একত্রে আদায় করতেন। সালিম (রহ.) আরও বলেন, ইবনু ‘উমার (রাযি.) তাঁর স্ত্রী সফীয়্যাহ বিন্ত আবূ উবাইদ-এর দুঃসংবাদ পেয়ে মদিনা ফেরার সময় মাগরিবের সালাত বিলম্বিত করেন। আমি তাঁকে বললাম, সালাতের সময় হয়ে গেছে। তিনি বললেন, চলতে থাক। আমি আবার বললাম, সালাত? তিনি বললেন, চলতে থাক। এমনকি দুই বা তিন মাইল অগ্রসর হলেন। অতঃপর নেমে সালাত আদায় করলেন। পরে বললেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে সফরের ব্যস্ততার সময় এমনভাবে সালাত আদায় করতে দেখেছি। ‘আবদুল্লাহ্ (রাযি.) আরো বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে দেখেছি, সফরে যখনই তাঁর ব্যস্ততা ঘটেছে, তখন তিনি মাগরিবের সালাত (দেরী করে) আদায় করেছেন এবং তা তিন রাক‘আতই আদায় করেছেন। মাগরিবের সালাম ফিরিয়ে অল্প দেরি করেই ‘ইশার ইকামাত দেয়া হত এবং দু‘রাক‘আত আদায় করে সালাম ফিরাতেন। কিন্তু ‘ইশার পরে গভীর রাত না হওয়া পর্যন্ত (নফল) সালাত আদায় করতেন না। (মুসলিম ৬/৫, হাঃ ৭০৩, আহমাদ ৪৪৭২) (আধুনিক প্রকাশনীঃ ১০২৫ শেষাংশ, ইসলামিক ফাউন্ডেশনঃ ১০৩০ শেষাংশ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abdullah bin 'Umar:"I saw Allah's Messenger (ﷺ) delaying the Maghrib prayer till he offered it along with the 'Isha' prayer whenever he was in a hurry during the journey." Salim narrated, "Ibn 'Umar used to do the same whenever he was in a hurry during the journey." And Salim added, "Ibn 'Umar used to pray the Maghrib and 'Isha' prayers together in Al-Muzdalifa." Salim said, "Ibn 'Umar delayed the Maghrib prayer because at that time he heard the news of the death of his wife Safiya bint Abi 'Ubaid. I said to him, 'The prayer (is due).' He said, 'Go on.' Again I said, 'The prayer (is due).' He said, 'Go on,' till we covered two or three miles. Then he got down, prayed and said, 'I saw the Prophet (ﷺ) praying in this way, whenever he was in a hurry during the journey.' 'Abdullah (bin 'Umar) added, "Whenever the Prophet was in a hurry, he used to delay the Maghrib prayer and then offer three rak'at (of the Maghrib) and perform Taslim, and after waiting for a short while, Iqama used to be pronounced for the 'Isha' prayer when he would offer two rak'at and perform Taslim. He would never offer any optional prayer till the middle of the night (when he used to pray the Tahajjud)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Umar : « J’ai vu le Messager d’Allah ﷺ retarder la prière du Maghrib pour la faire en même temps que la prière de ‘Isha’ lorsqu’il était pressé pendant un voyage. » Salim a raconté : « Ibn 'Umar faisait de même lorsqu’il était pressé en voyage. » Il a ajouté : « Ibn 'Umar priait le Maghrib et ‘Isha’ ensemble à Al-Muzdalifa. » Salim a dit : « Ibn 'Umar a retardé la prière du Maghrib parce qu’il venait d’apprendre la mort de sa femme Safiya bint Abi 'Ubaid. Je lui ai dit : ‘C’est l’heure de la prière.’ Il a répondu : ‘Continue.’ Je l’ai répété, mais il a dit : ‘Continue,’ jusqu’à ce que nous ayons parcouru deux ou trois miles. Ensuite, il est descendu, a prié et a dit : ‘J’ai vu le Prophète ﷺ prier ainsi lorsqu’il était pressé en voyage.’ » 'Abdullah (bin 'Umar) a ajouté : « Quand le Prophète était pressé, il retardait la prière du Maghrib, priait trois rak‘at, faisait le Taslim, puis, après une courte pause, on faisait l’Iqama pour la prière de ‘Isha’, qu’il accomplissait en deux rak‘at avec le Taslim. Il n’accomplissait aucune prière surérogatoire jusqu’au milieu de la nuit (où il priait le Tahajjud). »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Al Yaman\] berkata, telah mengabarkan kepada kami \[Syu'aib\] dari \[Az Zuhriy\] berkata, telah mengabarkan kepada saya \[Salim\] dari \['Abdullah bin 'Umar radliallahu 'anhu\] berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib dan menggabungkannya bersama shalat 'Isya'". Berkata, Salim: "Dan 'Abdullah bin 'Umar radliallahu 'anhu mengerjakannya juga bila terdesak (tergesa-gesa) dalam perjalanan". \[Al Laits\] menambahkan dan berkata, telah menceritakan kepada saya \[Yunus\] dari \[Ibnu Syihab\]; \[Salim\] berkata: \[Ibnu 'Umar radliallahu 'anhuma\] menggabungkan antara shalat Maghrib dan 'Isya' saat berada di Muzdalifah. Salim berkata, lagi; "Ibnu 'Umar radliallahu 'anhuma mengakhirkan shalat Maghrib karena hendak menolong isterinya Shafiyah binti Abu 'Ubaid (yang sedang sakit). Aku katakan kepadanya; "Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Aku katakan lagi; " Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Hingga ketika perjalanan sudah mencapai dua atau tiga mil, dia turun lalu mendirikan shalat. Setelah selesai dia berkata: "Beginilah, aku pernah melihat Nabi shallallahu 'alaihi wasallam melaksanakan shalat bila dalam keadaan terdesak dalam perjalanannya". Dan berkata, 'Abdullah bin 'Umar radliallahu 'anhu: "Aku melihat Nabi shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib, kemudian Beliau mengerjakan tiga raka'at lalu salam. Kemudian diam sejenak lalu mengerjakan shalat 'Isya' dengan dua raka'at lalu salam. Beliau tidak bertasbih (mengerjakan shalat sunnah) setelah shalat 'Isya' hingga Beliau bangun di penghujung malam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Al Yaman] berkata, telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepada saya [Salim] dari ['Abdullah bin 'Umar radliallahu 'anhu] berkata: "Aku melihat Rasulullah shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib dan menggabungkannya bersama shalat 'Isya'". Berkata, Salim: "Dan 'Abdullah bin 'Umar radliallahu 'anhu mengerjakannya juga bila terdesak (tergesa-gesa) dalam perjalanan". [Al Laits] menambahkan dan berkata, telah menceritakan kepada saya [Yunus] dari [Ibnu Syihab]; [Salim] berkata: [Ibnu 'Umar radliallahu 'anhuma] menggabungkan antara shalat Maghrib dan 'Isya' saat berada di Muzdalifah. Salim berkata, lagi; "Ibnu 'Umar radliallahu 'anhuma mengakhirkan shalat Maghrib karena hendak menolong isterinya Shafiyah binti Abu 'Ubaid (yang sedang sakit). Aku katakan kepadanya; "Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Aku katakan lagi; " Mari kita dirikan shalat?!". Dia menjawab: "Terus saja berjalan". Hingga ketika perjalanan sudah mencapai dua atau tiga mil, dia turun lalu mendirikan shalat. Setelah selesai dia berkata: "Beginilah, aku pernah melihat Nabi shallallahu 'alaihi wasallam melaksanakan shalat bila dalam keadaan terdesak dalam perjalanannya". Dan berkata, 'Abdullah bin 'Umar radliallahu 'anhu: "Aku melihat Nabi shallallahu 'alaihi wasallam jika perjalanan mendesak, Beliau menangguhkan shalat Maghrib, kemudian Beliau mengerjakan tiga raka'at lalu salam. Kemudian diam sejenak lalu mengerjakan shalat 'Isya' dengan dua raka'at lalu salam. Beliau tidak bertasbih (mengerjakan shalat sunnah) setelah shalat 'Isya' hingga Beliau bangun di penghujung malam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
 ## Russian
 
+Передают со слов Ибн Шихаба (аз-Зухри) о том, что Салим (ибн ‘Абдуллах ибн ‘Умар) сказал: «Обычно, Ибн ‘Умар, да будет доволен ими обоими Аллах, объединял закатный намаз с вечерним в Муздалифе».\\nСалим сказал: «И (однажды), когда к нему пришёл человек с криком о помощи его жене Сафийе бинт Абу ‘Убайд, Ибн ‘Умар отложил закатный намаз, и я сказал ему: “Намаз!”, но он сказал: “Двигайся (дальше)!” Я (снова) сказал: “Намаз!”, но он (опять) сказал: “Двигайся!” (И мы двигались), пока не проехали две или три мили, после чего он остановился, совершил намаз и затем сказал: “Я видел, что таким образом совершал намаз пророк, когда ему нужно было спешно двигаться (в пути)”.\\nИ ‘Абдуллах (также) сказал: «Я видел, как Пророк ﷺ когда ему нужно было спешно двигаться (в пути), откладывал закатный намаз и совершал его в три (рак‘ата), после чего произносил слова таслима. Спустя непродолжительное время объявляли о начале вечернего намаза, и он совершал этот намаз в два рак‘ата, после чего (также) произносил слова таслима. И он не совершал после вечернего намаза дополнительных намазов, пока не вставал (для этого) посреди ночи»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передают со слов Ибн Шихаба (аз-Зухри) о том, что Салим (ибн ‘Абдуллах ибн ‘Умар) сказал: «Обычно, Ибн ‘Умар, да будет доволен ими обоими Аллах, объединял закатный намаз с вечерним в Муздалифе».\nСалим сказал: «И (однажды), когда к нему пришёл человек с криком о помощи его жене Сафийе бинт Абу ‘Убайд, Ибн ‘Умар отложил закатный намаз, и я сказал ему: “Намаз!”, но он сказал: “Двигайся (дальше)!” Я (снова) сказал: “Намаз!”, но он (опять) сказал: “Двигайся!” (И мы двигались), пока не проехали две или три мили, после чего он остановился, совершил намаз и затем сказал: “Я видел, что таким образом совершал намаз пророк, когда ему нужно было спешно двигаться (в пути)”.\nИ ‘Абдуллах (также) сказал: «Я видел, как Пророк ﷺ когда ему нужно было спешно двигаться (в пути), откладывал закатный намаз и совершал его в три (рак‘ата), после чего произносил слова таслима. Спустя непродолжительное время объявляли о начале вечернего намаза, и он совершал этот намаз в два рак‘ата, после чего (также) произносил слова таслима. И он не совершал после вечернего намаза дополнительных намазов, пока не вставал (для этого) посреди ночи»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அவசரமாகப் பயணம் புறப்படுவதாக இருந்தால், மஃக்ரிப் தொழுகையைத் தாமதப்படுத்தி மஃக்ரிபையும் இஷாவையும் சேர்த்து (மஃக்ரிபின் கடைசி நேரத்தில்) தொழுவார்கள். சாலிம் பின் அப்தில்லாஹ் (ரஹ்) அவர்கள் கூறுகிறார்கள்: (என் தந்தை) அப்துல்லாஹ் பின் உமர் (ரலி) அவர்களும் அவசரமாகப் பயணம் புறப்படுவதாக இருந்தால் இவ்வாறே செய்வார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
 ## Turkish
 
+Abdullah İbn Ömer (r.a.)'in şöyle dediği nakledilmektedir: "Resul-i Ek­rem Sallallahu Aleyhi ve Sellem'in yolculuk sırasında, acelesi varsa, akşam namazını geciktirip yatsıyla birlikte (cem' ederek) kıldığını gördüm." Hadisi İbn Ömer'den rivayet eden Salim de "Abdullah da yolculuk halinde iken aynı şeyi yapardı." demiştir. \[-1092-\] İbn Şihab'dan nakledildiğine göre Salim şöyle demiştir: "İbn Ömer Müzdelife'de akşam ile yatsı namazlarını (cem' ederek) birlikte kılardı." Salim anlatıyor: "İbn Ömer bir defasında akşam namazını geciktirdi. O zaman hanımı Safiye bint. Ebu Ubeyd sıkıntı içinde olduğu için yardım istemişti. Ben yolculuk sırasında iki defa namaz vaktinin girdiğini ve kılmamız gerektiğini hatırlattığım halde ikisinde de devam etmemi istedi. Bu şekilde iki veya üç MİL ilerledikten sonra bineğinden inip namazını kıldı ve şöyle dedi: "Yolculuk sırasında acelesi olduğu zaman Nebi Sallallahu Aleyhi ve Sellem'in tıpkı bu şekilde namaz kıldığını gördüm. Akşam namazını geciktirir ve üç rekat kılıp selam verirdi. Sonra çok az bir süre bekleyip yatsı namazına başlar ve iki rekat kılıp selam verirdi. Gece kalkıp İbadete başlayıncaya kadar da artık hiçbir nafile namaz kılmazdı
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Ömer (r.a.)'in şöyle dediği nakledilmektedir: "Resul-i Ek­rem Sallallahu Aleyhi ve Sellem'in yolculuk sırasında, acelesi varsa, akşam namazını geciktirip yatsıyla birlikte (cem' ederek) kıldığını gördüm." Hadisi İbn Ömer'den rivayet eden Salim de "Abdullah da yolculuk halinde iken aynı şeyi yapardı." demiştir. [-1092-] İbn Şihab'dan nakledildiğine göre Salim şöyle demiştir: "İbn Ömer Müzdelife'de akşam ile yatsı namazlarını (cem' ederek) birlikte kılardı." Salim anlatıyor: "İbn Ömer bir defasında akşam namazını geciktirdi. O zaman hanımı Safiye bint. Ebu Ubeyd sıkıntı içinde olduğu için yardım istemişti. Ben yolculuk sırasında iki defa namaz vaktinin girdiğini ve kılmamız gerektiğini hatırlattığım halde ikisinde de devam etmemi istedi. Bu şekilde iki veya üç MİL ilerledikten sonra bineğinden inip namazını kıldı ve şöyle dedi: "Yolculuk sırasında acelesi olduğu zaman Nebi Sallallahu Aleyhi ve Sellem'in tıpkı bu şekilde namaz kıldığını gördüm. Akşam namazını geciktirir ve üç rekat kılıp selam verirdi. Sonra çok az bir süre bekleyip yatsı namazına başlar ve iki rekat kılıp selam verirdi. Gece kalkıp İbadete başlayıncaya kadar da artık hiçbir nafile namaz kılmazdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابوالیمان نے بیان کیا، انہوں نے کہا کہ ہمیں شعیب نے خبر دی، زہری سے انہوں نے کہا کہ مجھے سالم نے عبداللہ بن عمر رضی اللہ عنہما سے خبر دی آپ نے فرمایا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا جب سفر میں چلنے کی جلدی ہوتی تو آپ صلی اللہ علیہ وسلم مغرب کی نماز دیر سے پڑھتے یہاں تک کہ مغرب اور عشاء ایک ساتھ ملا کر پڑھتے۔ سالم نے کہا کہ عبداللہ بن عمر رضی اللہ عنہما کو بھی جب سفر میں جلدی ہوتی تو اس طرح کرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1092</td></tr><tr><td>Arabic No</td><td>1092</td></tr><tr><td>Reference</td><td>Book 18 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1092 |
+| Arabic No | 1092 |
+| Reference | Book 18 Hadith 12 |

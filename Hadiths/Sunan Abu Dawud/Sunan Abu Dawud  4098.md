@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا أَبُو عَامِرٍ، عَنْ سُلَيْمَانَ بْنِ بِلاَلٍ، عَنْ سُهَيْلٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ لَعَنَ رَسُولُ اللَّهِ صلى الله عليه وسلم الرَّجُلَ يَلْبَسُ لِبْسَةَ الْمَرْأَةِ وَالْمَرْأَةَ تَلْبَسُ لِبْسَةَ الرَّجُلِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
+
 حدثنا زهير بن حرب، حدثنا ابو عامر، عن سليمان بن بلال، عن سهيل، عن ابيه، عن ابي هريرة، قال لعن رسول الله صلى الله عليه وسلم الرجل يلبس لبسة المراة والمراة تلبس لبسة الرجل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অভিসম্পাত করেছেন ঐসব পুরুষকে যারা নারীর অনুরূপ পোশাক পরে এবং ঐসব নারীকে যে পুরুষের অনুরূপ পোশাক পরিধান করে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অভিসম্পাত করেছেন ঐসব পুরুষকে যারা নারীর অনুরূপ পোশাক পরে এবং ঐসব নারীকে যে পুরুষের অনুরূপ পোশাক পরিধান করে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Messenger of Allah (ﷺ) cursed the man who dressed like a woman and the woman who dressed like a man
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
+
+## French
+
+Rapporté par Abu Hurayrah رضي الله عنه : Le Messager d’Allah ﷺ a maudit l’homme qui s’habille comme une femme et la femme qui s’habille comme un homme
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Zuhair bin Harb\] berkata, telah menceritakan kepada kami \[Abu Amir\] dari \[Sulaiman bin Hilal\] dari \[Suhail\] dari \[Bapaknya\] dari \[Abu Hurairah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melaknat laki-laki yang memakai pakaian wanita dan wanita yang memakai pakaian laki-laki
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Zuhair bin Harb] berkata, telah menceritakan kepada kami [Abu Amir] dari [Sulaiman bin Hilal] dari [Suhail] dari [Bapaknya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melaknat laki-laki yang memakai pakaian wanita dan wanita yang memakai pakaian laki-laki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах: «Посланник Аллаха ﷺ проклял мужчину, который одевается, как женщины, и женщину, которая одевается, как мужчины»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a)'den rivayet olunduğuna göre; Resûlullah (s.a.v), kadın gibi giyinen erkeğe de, erkek gibi giyinen kadına da lanet etmiştir. İzah 4099 da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اس مرد پر جو عورتوں کا لباس پہنتا ہے اور اس عورت پر جو مردوں کا لباس پہنتی ہے لعنت فرمائی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 34 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 34 Hadith 79 |

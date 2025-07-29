@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، وَعَبْدُ بْنُ حُمَيْدٍ، عَنْ عَبْدِ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّ فِي، حَدِيثِ عَبْدِ الرَّزَّاقِ مَكَانَ قَوْلِهِ تُمِيلُهُ ‏ "‏ تُفِيئُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن رافع، وعبد بن حميد، عن عبد الرزاق، حدثنا معمر، عن الزهري، بهذا الاسناد غير ان في، حديث عبد الرزاق مكان قوله تميله " تفييه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু রাফি ও আবদ ইবনু হুমায়দ (রহঃ) ..... যুহরী (রহঃ) থেকে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। তবে আবদুর রাযযাক এর হাদীসে تُمِيلُهُ এর স্থলে تُفِيئُهُ উল্লেখ রয়েছে (উভয়ের অর্থ একই, অর্থাৎ আন্দোলিত করে)। (ইসলামিক ফাউন্ডেশন ৬৮৩৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Zuhri with the same chain of transmitters, but with a slight variation of wording
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## French
 
+Rapporté par Zuhri : Ce hadith a été rapporté par la même chaîne de transmetteurs, avec une légère variation dans les mots
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-58) Bize Muhammed b. Râfi' ile Abd b. Humeyd, Ahdûrrezzak'dan rivayet ettiler. (Demişki) : Bize Ma'mer, Zührî'den bu isnadla rivayet etti. Yalnız Abdûrrezzâk'ın hadîsinde «tümîlühû» yerine «tülîühû» kelimesi vardır. İZAH 2810 DA
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرزاق نے کہا : ہمیں معمر نے زہری سے اسی سند کے ساتھ خبر دی مگر عبدالرزاق کی حدیث میں آپ صلی اللہ علیہ وسلم کے فرمان : " اسے جھکاتی رہتی ہے " کے بجائے " اسے موڑتی رہتی ہے " کے الفاظ ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7093</td></tr><tr><td>Arabic No</td><td>2809.02</td></tr><tr><td>Reference</td><td>Book 52 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7093 |
+| Arabic No | 2809.02 |
+| Reference | Book 52 Hadith 47 |

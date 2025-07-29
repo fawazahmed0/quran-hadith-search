@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ الأَصَابِعُ عَشْرٌ عَشْرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |
+
 اخبرنا عمرو بن علي، قال حدثنا يزيد بن زريع، قال حدثنا سعيد، عن قتادة، عن عكرمة، عن ابن عباس، قال الاصابع عشر عشر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... ইবন আব্বাস (রাঃ) বলেন, আঙ্গুলের জন্য দশ-দশ উট (দিয়াত দিতে হবে)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'abbas said:"The (Diyah for) fingers are ten each
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |
+
+## French
+
+Rapporté par Ibn 'Abbas : "Le Diyah pour les doigts est de dix chameaux chacun
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin Ali\] telah menceritakan kepada kami \[Yazid bin Zurai'\] telah menceritakan kepada kami \[Sa'id\] dari \[Qatadah\] dari \['Ikrimah\] dari \[Ibnu 'Abbas\], dia berkata; "Jari-jari diyatnya adalah sepuluh-sepuluh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Yazid bin Zurai'] telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari ['Ikrimah] dari [Ibnu 'Abbas], dia berkata; "Jari-jari diyatnya adalah sepuluh-sepuluh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4849</td></tr><tr><td>Arabic No</td><td>4849</td></tr><tr><td>Reference</td><td>Book 45 Hadith 144</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4849 |
+| Arabic No | 4849 |
+| Reference | Book 45 Hadith 144 |

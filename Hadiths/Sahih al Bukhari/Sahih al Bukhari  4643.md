@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، ‏(‏خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ‏)‏ قَالَ مَا أَنْزَلَ اللَّهُ إِلاَّ فِي أَخْلاَقِ النَّاسِ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى، حدثنا وكيع، عن هشام، عن ابيه، عن عبد الله بن الزبير، (خذ العفو وامر بالعرف) قال ما انزل الله الا في اخلاق الناس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
 ## Bengali
 
+‘আবদুল্লাহ ইবনু যুবায়র (রাঃ) বলেছেন, خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ আয়াতটি আল্লাহ তা‘আলা মানুষের চরিত্র সম্পর্কেই অবতীর্ণ করেছেন। \[৪৬৪৪\] (আধুনিক প্রকাশনীঃ ৪২৮২, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ ইবনু যুবায়র (রাঃ) বলেছেন, خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ আয়াতটি আল্লাহ তা‘আলা মানুষের চরিত্র সম্পর্কেই অবতীর্ণ করেছেন। [৪৬৪৪] (আধুনিক প্রকাশনীঃ ৪২৮২, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
 ## English
 
+Narrated 'Abdullah bin Az-Zubair:(The Verse) "Hold to forgiveness; command what is right..." was not revealed by Allah except in connection with the character of the people
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Abdullah bin AzZubair:(The Verse) "Hold to forgiveness; command what is right..." was revealed by Allah except in connection with the character of the people
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
+
+## French
+
+Rapporté par 'Abdullah bin AzZubair : (Le verset) « Tiens-toi au pardon ; ordonne ce qui est convenable... » a été révélé par Allah uniquement en lien avec le comportement des gens
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абдуллах ибн аз-Зубайр, сказал относительно аята «Прояви снисходительность, вели творить одобряемое…»: «Аллах ниспослал его в отношении нравов людей»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அப்துல்லாஹ் பின் அஸ்ஸுபைர் (ரலி) அவர்கள் கூறியதாவது: “(நபியே!) மன்னிக்கும் போக்கை மேற்கொள்வீராக! மேலும், நன்மை புரியுமாறு ஏவுவீராக!” எனும் (7:199ஆவது) வசனத்தை, மக்களின் நற்குணங்களில் ஒன்றாகவே அல்லாஹ் அருளினான். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah İbnü'z-Zübeyr'den şöyle dediği rivayet edilmiştir: "Sen af yolunu tut, iyiliği em ret" ayeti ancak insanların ahlakı konusunda inmiştir. Hadisin geçtiği diğer yer:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے یحییٰ نے بیان کیا، کہا ہم سے وکیع نے بیان کیا، ان سے ہشام نے، ان سے ان کے والد نے اور ان سے عبداللہ بن زبیر رضی اللہ عنہما نے بیان کیا کہ آیت «خذ العفو وأمر بالعرف‏» ”معافی اختیار کیجئے اور نیک کام کا حکم دیتے رہئیے۔“ لوگوں کے اخلاق کی اصلاح کے لیے ہی نازل ہوئی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4643</td></tr><tr><td>Arabic No</td><td>4643</td></tr><tr><td>Reference</td><td>Book 65 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4643 |
+| Arabic No | 4643 |
+| Reference | Book 65 Hadith 165 |

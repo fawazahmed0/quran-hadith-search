@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا ابْنُ إِدْرِيسَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم عَامَ الْفَتْحِ جَاءَهُ الْعَبَّاسُ بْنُ عَبْدِ الْمُطَّلِبِ بِأَبِي سُفْيَانَ بْنِ حَرْبٍ فَأَسْلَمَ بِمَرِّ الظَّهْرَانِ فَقَالَ لَهُ الْعَبَّاسُ يَا رَسُولَ اللَّهِ إِنَّ أَبَا سُفْيَانَ رَجُلٌ يُحِبُّ هَذَا الْفَخْرَ فَلَوْ جَعَلْتَ لَهُ شَيْئًا ‏.‏ قَالَ ‏ "‏ نَعَمْ مَنْ دَخَلَ دَارَ أَبِي سُفْيَانَ فَهُوَ آمِنٌ وَمَنْ أَغْلَقَ عَلَيْهِ بَابَهُ فَهُوَ آمِنٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا يحيى بن ادم، حدثنا ابن ادريس، عن محمد بن اسحاق، عن الزهري، عن عبيد الله بن عبد الله بن عتبة، عن ابن عباس، ان رسول الله صلى الله عليه وسلم عام الفتح جاءه العباس بن عبد المطلب بابي سفيان بن حرب فاسلم بمر الظهران فقال له العباس يا رسول الله ان ابا سفيان رجل يحب هذا الفخر فلو جعلت له شييا . قال " نعم من دخل دار ابي سفيان فهو امن ومن اغلق عليه بابه فهو امن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। মক্কা বিজয়ের দিন আব্বাস ইবনু আব্দুল মুত্তালিব (রাঃ) আবূ সুফিয়ান ইবনু হারবকে সাথে নিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসেন। মাররুয-যাহরান নামক জায়গাতে পৌঁছে আবূ সুফিয়ান ইসলাম কবূল করলেন। আব্বাস (রাঃ) তাঁকে বললেন, হে আল্লাহর রাসূল! আবূ সুফিয়ান এমন ব্যক্তি, যে নেতৃত্বের গৌরব পছন্দ করে। যদি আপনি তার জন্য কিছু করতেন! তিনি বললেনঃ হ্যাঁ, আজকে আবূ সুফিয়ানের বাড়িতে কেউ আশ্রয় নিলে সে নিরাপত্তা পাবে এবং যে ব্যক্তি নিজের ঘরের দরজা বন্ধ রাখবে সেও নিরাপদ থাকবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: Al-Abbas ibn AbdulMuttalib brought AbuSufyan ibn Harb to the Messenger of Allah (ﷺ) in the year of the conquest (of Mecca). So he embraced Islam at Marr az-Zahran. Al-Abbas said to him: Messenger of Allah, AbuSufyan is a man who likes taking this pride, if you may do something for him. He said: Yes, he who enters the house of AbuSufyan is safe, and he who closes his door is safe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Al-Abbas ibn AbdulMuttalib a amené Abu Sufyan ibn Harb au Messager d’Allah ﷺ l’année de la conquête (de La Mecque). Abu Sufyan a embrassé l’islam à Marr az-Zahran. Al-Abbas a dit au Prophète ﷺ : « Ô Messager d’Allah, Abu Sufyan est un homme qui aime se distinguer, peux-tu faire quelque chose pour lui ? » Il a répondu : « Oui, celui qui entre dans la maison d’Abu Sufyan sera en sécurité, et celui qui ferme sa porte sera en sécurité. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah?\], telah menceritakan kepada kami \[Yahya bin Adam\], telah menceritakan kepada kami \[Ibnu Idris\] dari \[Muhammad bin Ishaq\] dari \[Az Zuhri\] dari \['Ubaidullah bin Abdullah bin 'Utbah\] dari \[Ibnu Abbas\] bahwa Rasulullah shallallahu 'alaihi wasallam pada saat penaklukan Mekkah beliau didatangi Al Abbas bin Abdul Muththalib dengan membawa Abu Sufyan bin Harb, kemudian Abu Sufyan masuk Islam di daerah Marru Azh zhahran. Al Abbas berkata kepada beliau; wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang senang berbangga diri, seandainya anda memberikan sesuatu kepadanya maka lakukanlah! Beliau berkata: "Ya, barang siapa yang memasuki rumah Abu Sufyan maka ia aman dan barang siapa yang menutup pintu rumahnya maka ia aman
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Yahya bin Adam], telah menceritakan kepada kami [Ibnu Idris] dari [Muhammad bin Ishaq] dari [Az Zuhri] dari ['Ubaidullah bin Abdullah bin 'Utbah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam pada saat penaklukan Mekkah beliau didatangi Al Abbas bin Abdul Muththalib dengan membawa Abu Sufyan bin Harb, kemudian Abu Sufyan masuk Islam di daerah Marru Azh zhahran. Al Abbas berkata kepada beliau; wahai Rasulullah, sesungguhnya Abu Sufyan adalah orang yang senang berbangga diri, seandainya anda memberikan sesuatu kepadanya maka lakukanlah! Beliau berkata: "Ya, barang siapa yang memasuki rumah Abu Sufyan maka ia aman dan barang siapa yang menutup pintu rumahnya maka ia aman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «В год покорения Мекки аль-‘Аббас привёл к Посланнику Аллаха ﷺ Абу Суфьяна, и тот принял ислам в Марр-аз-Захране. После этого аль-‘Аббас, да будет доволен им Аллах, сказал: “О Посланник Аллаха, поистине, Абу Суфьян человек гордый, сделай же для него что-нибудь”, и Посланник Аллаха ﷺ сказал: “Хорошо. В безопасности будет тот, кто войдёт в дом Абу Суфьяна, и в безопасности будет тот, кто запрёт за собой двери дома своего”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn-i Abbâs'dan demiştir ki: Fetih yılında Abbâs b. Abdulmuttalib, Mehrizzahran (denilen yer) de Ebû Süfyan b. Harb'i Rasûlullah (s.a.v.)'e getirmiş. (Ebû Süfyan da orada) müslüman olmuş. Bunun üzerine Hz. Abbâs, Hz. Nebi'ye: "Ey Allah'ın Rasûlü, Ebû Süfyân şu (dünyalık) övünmeyi seven bir kişidir. Binaenaleyh O'na da (kendisiyle övünebileceği) bir şey versen" (çok iyi olur.) demiş. (Bunun üzerine Hz. Nebi de) "Evet. Ebû Süfyân'ın evine giren emniyettedir. (Kendi evine girip de) kapısını (üzerine) kapayan kimse de emniyettedir." buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ فتح مکہ کے سال ۱؎ عباس بن عبدالمطلب رضی اللہ عنہ ابوسفیان بن حرب کو لے کر رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے وہ مرالظہران ۲؎ میں مسلمان ہو گئے، اس وقت عباس رضی اللہ عنہ نے آپ صلی اللہ علیہ وسلم سے عرض کیا: اللہ کے رسول! ابوسفیان ایک ایسے شخص ہیں جو فخر اور نمود و نمائش کو پسند کرتے ہیں، تو آپ اگر ان کے لیے کوئی چیز کر دیتے ( جس سے ان کے اس جذبہ کو تسکین ہوتی تو اچھا ہوتا ) ، آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں ( یعنی ٹھیک ہے میں ایسا کر دیتا ہوں ) جو شخص ابوسفیان کے گھر میں داخل ہو جائے تو وہ مامون ہے، اور جو شخص اپنا دروازہ بند کر لے وہ بھی مامون ہے ( ہم اسے نہیں ماریں گے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3021</td></tr><tr><td>Arabic No</td><td>3021</td></tr><tr><td>Reference</td><td>Book 20 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3021 |
+| Arabic No | 3021 |
+| Reference | Book 20 Hadith 94 |

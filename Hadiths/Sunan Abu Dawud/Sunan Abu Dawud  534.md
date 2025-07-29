@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا جَعْفَرُ بْنُ بُرْقَانَ، عَنْ شَدَّادٍ، مَوْلَى عِيَاضِ بْنِ عَامِرٍ عَنْ بِلاَلٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لَهُ ‏ "‏ لاَ تُؤَذِّنْ حَتَّى يَسْتَبِينَ لَكَ الْفَجْرُ هَكَذَا ‏"‏ ‏.‏ وَمَدَّ يَدَيْهِ عَرْضًا قَالَ أَبُو دَاوُدَ شَدَّادٌ مَوْلَى عِيَاضٍ لَمْ يُدْرِكْ بِلاَلاً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
+
 حدثنا زهير بن حرب، حدثنا وكيع، حدثنا جعفر بن برقان، عن شداد، مولى عياض بن عامر عن بلال، ان رسول الله صلى الله عليه وسلم قال له " لا توذن حتى يستبين لك الفجر هكذا " . ومد يديه عرضا قال ابو داود شداد مولى عياض لم يدرك بلالا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
 
 ## Bengali
 
+। বিলাল (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ভোরের আলো এরূপ প্রকাশ না পাওয়া পর্যন্ত তুমি আযান দিবে না। এই বলে তিনি তাঁর উভয় হাত (উত্তর ও দক্ষিন দিকে) প্রসারিত করলেন। \[1\] হাসান। ইমাম আবূ দাউদ (রহঃ) বলেন, শাদ্দাদ (রহঃ) বিলাল (রাঃ)-এর সাক্ষাত পাননি।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। বিলাল (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ভোরের আলো এরূপ প্রকাশ না পাওয়া পর্যন্ত তুমি আযান দিবে না। এই বলে তিনি তাঁর উভয় হাত (উত্তর ও দক্ষিন দিকে) প্রসারিত করলেন। [1] হাসান। ইমাম আবূ দাউদ (রহঃ) বলেন, শাদ্দাদ (রহঃ) বিলাল (রাঃ)-এর সাক্ষাত পাননি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Bilal: The Messenger of Allah (ﷺ) said to Bilal: Do not call adhan until the dawn appears clearly to you in this way, stretching his hand in latitude. Abu Dawud said: Shaddad did not see Bilal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
+
+## French
+
+Rapporté par Bilal : Le Messager d’Allah ﷺ a dit à Bilal : « N’appelle pas à la prière avant que l’aube ne soit clairement apparente pour toi, de cette façon », en étendant sa main à l’horizontale. Abu Dawud a dit : Shaddad n’a pas vu Bilal
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Zuhari bin Harb\] telah menceritakan kepada kami \[Waki'\] telah menceritakan kepada kami \[Ja'far bin Burqan\] dari \[Syaddad, mantan sahaya 'Iyadl bin Amir\] dari \[Bilal\] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda kepadanya: "Janganlah kamu mengumandangkan adzan sehingga nampak jelas bagimu fajar seperti ini", seraya beliau membentangkan tangannya ke samping. Abu Daud berkata; Syaddad, mantan sahaya 'Iyadh tidak bertemu dengan Bilal
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Zuhari bin Harb] telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [Ja'far bin Burqan] dari [Syaddad, mantan sahaya 'Iyadl bin Amir] dari [Bilal] bahwasanya Rasulullah Shallallahu alaihi wasallam bersabda kepadanya: "Janganlah kamu mengumandangkan adzan sehingga nampak jelas bagimu fajar seperti ini", seraya beliau membentangkan tangannya ke samping. Abu Daud berkata; Syaddad, mantan sahaya 'Iyadh tidak bertemu dengan Bilal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Биляла о том, что (однажды) Посланник Аллаха ﷺ сказал ему: «Не возвещай азан до тех пор, пока не станет для тебя ясным, что наступил рассвет, вот так”, и он развел руки в стороны (указывая на ширину)».Абу Дауд сказал: «Вольноотпущенник ‘Ияда (по имени) Шаддад не застал Биляла»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bilal'den rivayet edildiğine göre, Resulullah (Sallallahu aleyhi ve Sellem) kollarını yana doğru açmış ve; "Fecrin ağardığı sana şöyle iyice belirmedikçe (sakın) ezan okuma" buyurmuştur. Ebu Davud dedi ki: İyaz'ın azatlısı olan Şeddad, Bilal'i görme­miştir. Sadece Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلال رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ان سے فرمایا: تم اذان نہ دیا کرو جب تک کہ فجر تمہارے لیے اس طرح واضح نہ ہو جائے ، اور آپ صلی اللہ علیہ وسلم نے اپنے دونوں ہاتھ چوڑائی میں پھیلائے۔ ابوداؤد کہتے ہیں: عیاض کے آزاد کردہ غلام شداد نے بلال رضی اللہ عنہ کو نہیں پایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>534</td></tr><tr><td>Arabic No</td><td>534</td></tr><tr><td>Reference</td><td>Book 2 Hadith 144</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 534 |
+| Arabic No | 534 |
+| Reference | Book 2 Hadith 144 |

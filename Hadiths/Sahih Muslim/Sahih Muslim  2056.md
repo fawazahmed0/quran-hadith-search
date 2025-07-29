@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا عَمْرٌو النَّاقِدُ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا هِشَامٌ، عَنْ حَفْصَةَ بِنْتِ، سِيرِينَ عَنْ أُمِّ عَطِيَّةَ، قَالَتْ أَمَرَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ نُخْرِجَهُنَّ فِي الْفِطْرِ وَالأَضْحَى الْعَوَاتِقَ وَالْحُيَّضَ وَذَوَاتِ الْخُدُورِ فَأَمَّا الْحُيَّضُ فَيَعْتَزِلْنَ الصَّلاَةَ وَيَشْهَدْنَ الْخَيْرَ وَدَعْوَةَ الْمُسْلِمِينَ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ إِحْدَانَا لاَ يَكُونُ لَهَا جِلْبَابٌ قَالَ ‏ "‏ لِتُلْبِسْهَا أُخْتُهَا مِنْ جِلْبَابِهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا عمرو الناقد، حدثنا عيسى بن يونس، حدثنا هشام، عن حفصة بنت، سيرين عن ام عطية، قالت امرنا رسول الله صلى الله عليه وسلم ان نخرجهن في الفطر والاضحى العواتق والحيض وذوات الخدور فاما الحيض فيعتزلن الصلاة ويشهدن الخير ودعوة المسلمين . قلت يا رسول الله احدانا لا يكون لها جلباب قال " لتلبسها اختها من جلبابها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর আন নাকিদ (রহঃ) ..... উম্মু আতিয়্যাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমাদেরকে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আদেশ করেছেন। আমরা যেন মহিলাদেরকে ঈদুল ফিতর ও ঈদুল আযহাতে বের করে দেই- পরিণত বয়স্কা, ঋতুবতী ও গৃহবাসিনী সবাইকে। তবে ঋতুবতী মহিলারা সালাত থেকে বিরত থাকবে। বাকী পুণ্যের কাজে ও মুসলিমদের দু'আয় শারীক হবে। আমি বললামঃ হে আল্লাহর রসূল! আমাদের কারো কারো চাদর ওড়না নেই। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তার জন্য বোন তাকে নিজ চাদর বা ওড়না পরিয়ে দিবে। (ইসলামী ফাউন্ডেশন ১৯২৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Umm 'Atiyya reported:The Messenger of Allah (ﷺ) commanded us to bring out on'Id-ul-Fitr and 'Id-ul-Adha young women, menstruating women and screened away ladies, menstruating women kept back from prayer, but participated in goodness and supplication of the Muslims. I said: Messenger of Allah, one of us does not have an outer garment (to cover her face and body). He said: Let her sister cover her with her outer garment
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## French
 
+Rapporté par Umm ‘Atiyya : Le Messager d’Allah ﷺ nous a ordonné de faire sortir, lors de l’Aïd al-Fitr et de l’Aïd al-Adha, les jeunes filles, les femmes ayant leurs règles et celles qui restent à l’écart ; les femmes ayant leurs règles devaient rester à l’écart de la prière, mais participer aux invocations et au bien avec les musulmans. J’ai dit : « Messager d’Allah, l’une d’entre nous n’a pas de vêtement pour se couvrir. » Il a répondu : « Que sa sœur la couvre avec son vêtement. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## Indonesian
 
+Dan telah menceritakan kepada kami \[Amru An Naqid\] telah menceritakan kepada kami \[Isa bin Yunus\] telah menceritakan kepada kami \[Hisyam\] dari \[Hafshah binti Sirin\] dari \[Ummu Athiyyah\] ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kepada kami agar mengajak serta keluar melakukan shalat idul fithri dan idul Adlha para gadis, wanita haid dan wanita yang sedang dipingit. Adapun mereka yang sedang haidl tidak ikut shalat, namun turut menyaksikan kebaikan dan menyambut seruan kaum muslimin. Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, di antara kami ada yang tidak memiliki baju." Beliau menjawab: "Hendaknya saudaranya yang memiliki jilbab memakaikannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Amru An Naqid] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Hisyam] dari [Hafshah binti Sirin] dari [Ummu Athiyyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam memerintahkan kepada kami agar mengajak serta keluar melakukan shalat idul fithri dan idul Adlha para gadis, wanita haid dan wanita yang sedang dipingit. Adapun mereka yang sedang haidl tidak ikut shalat, namun turut menyaksikan kebaikan dan menyambut seruan kaum muslimin. Saya bertanya kepada Rasulullah shallallahu 'alaihi wasallam, "Wahai Rasulullah, di antara kami ada yang tidak memiliki baju." Beliau menjawab: "Hendaknya saudaranya yang memiliki jilbab memakaikannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Умм ‘Атыйя сказала: «Посланник Аллаха ﷺ велел нам приводить (на молитвы) в (дни праздников) разговения и жертвоприношения зрелых девушек /‘аватик/ женщин, у которых были месячные, и тех, кто (находился за) занавесками /зават аль-худур/, (сказав): “Что же касается женщин, у которых (в это время) будут месячные, пусть они не молятся, но принимают участие в (прочих) благих (делах) и обращаются с мольбами к Аллаху вместе со (всеми) мусульманами”. Я сказала: “О Посланник Аллаха, у некоторых из нас (даже) нет покрывала”, и (тогда Пророк ﷺ) сказал: “Пусть (такой женщине одолжит) покрывало её сестра (по вере)”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Amru'n-Nakıd rivayet etti. (dediki): Bize îsâ b. Yûnus rivayet etti. (dediki): Bize, Hişâm, Hafsa binti Sîrin'den, o da Ümmü Atiyye'den naklen rivayet etti. Ümmü Atiyye şöyle demiş: «Bize, Resulullah (Sallallahu Aleyhi ve Sellem) Ramazan ve Kurban bayramlarında genç kızlarla hayızlı kadınları ve perdenişln hanımları (namazgaha) çıkarmamızı emretti. Ama hayızlı kadınlar namaz (gah) dan biraz uzak durur, hayırda ve Müslümanların dualarında hâzır bulunurlar, dedi. Ben: — Yâ Resûlallah! (Bazen) birimizin örtüsü bulunmuyor» dedim; Resûlullah (Sallallahu Aleyhi ve Sellem): — Ona din kardeşi, kendi cllbâblarından birini giydiriversin, buyurdu.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ ہشام نے حفصہ بن سیرین سے اور انھوں نے حضرت ام عطیہ رضی اللہ تعالیٰ عنہا سے روایت کی ، انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے ہمیں حکم دیا کہ ہم عید الفطر اورعید الاضحیٰ میں عورتوں کو باہر نکالیں ، دوشیزہ ، حائضہ اور پردہ نشیں عورتوں کو باہر نکالیں ، دوشیزہ اور حائضہ اور پردہ نشین عورتوں کو ، لیکن حائضہ نمازسےدور رہیں ۔ وہ خیروبرکت اور مسلمانوں کی دعا میں شریک ہوں ۔ میں نے عرض کی : اے اللہ کے رسول صلی اللہ علیہ وسلم ! ہم میں سے کسی عورت کے پاس چادر نہیں ہوتی ۔ آپ صلی اللہ علیہ وسلم نے فرمایا : " اس کی ( کوئی مسلمانک ) بہن اس کو اپنی چادر کا ایک حصہ پہنا دے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2056</td></tr><tr><td>Arabic No</td><td>890.03</td></tr><tr><td>Reference</td><td>Book 8 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2056 |
+| Arabic No | 890.03 |
+| Reference | Book 8 Hadith 12 |

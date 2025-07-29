@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ وَقَالَ اللَّيْثُ حَدَّثَنِي يُونُسُ عَنِ ابْنِ شِهَابٍ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ أَنَّ عَائِشَةَ قَالَتْ كَانَ عُتْبَةُ بْنُ أَبِي وَقَّاصٍ عَهِدَ إِلَى أَخِيهِ سَعْدٍ أَنْ يَقْبِضَ ابْنَ وَلِيدَةِ زَمْعَةَ، وَقَالَ عُتْبَةُ إِنَّهُ ابْنِي‏.‏ فَلَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَكَّةَ فِي الْفَتْحِ أَخَذَ سَعْدُ بْنُ أَبِي وَقَّاصٍ ابْنَ وَلِيدَةِ زَمْعَةَ، فَأَقْبَلَ بِهِ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم، وَأَقْبَلَ مَعَهُ عَبْدُ بْنُ زَمْعَةَ، فَقَالَ سَعْدُ بْنُ أَبِي وَقَّاصٍ هَذَا ابْنُ أَخِي، عَهِدَ إِلَىَّ أَنَّهُ ابْنُهُ‏.‏ قَالَ عَبْدُ بْنُ زَمْعَةَ يَا رَسُولَ اللَّهِ، هَذَا أَخِي، هَذَا ابْنُ زَمْعَةَ، وُلِدَ عَلَى فِرَاشِهِ‏.‏ فَنَظَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى ابْنِ وَلِيدَةِ زَمْعَةَ، فَإِذَا أَشْبَهُ النَّاسِ بِعُتْبَةَ بْنِ أَبِي وَقَّاصٍ، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ هُوَ لَكَ، هُوَ أَخُوكَ يَا عَبْدُ بْنَ زَمْعَةَ ‏"‏‏.‏ مِنْ أَجْلِ أَنَّهُ وُلِدَ عَلَى فِرَاشِهِ، وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ احْتَجِبِي مِنْهُ يَا سَوْدَةُ ‏"‏‏.‏ لِمَا رَأَى مِنْ شَبَهِ عُتْبَةَ بْنِ أَبِي وَقَّاصٍ‏.‏ قَالَ ابْنُ شِهَابٍ قَالَتْ عَائِشَةُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ الْوَلَدُ لِلْفِرَاشِ وَلِلْعَاهِرِ الْحَجَرُ ‏"‏‏.‏ وَقَالَ ابْنُ شِهَابٍ وَكَانَ أَبُو هُرَيْرَةَ يَصِيحُ بِذَلِكَ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني عبد الله بن مسلمة، عن مالك، عن ابن شهاب، عن عروة بن الزبير، عن عايشة رضى الله عنها عن النبي صلى الله عليه وسلم. وقال الليث حدثني يونس عن ابن شهاب اخبرني عروة بن الزبير ان عايشة قالت كان عتبة بن ابي وقاص عهد الى اخيه سعد ان يقبض ابن وليدة زمعة، وقال عتبة انه ابني. فلما قدم رسول الله صلى الله عليه وسلم مكة في الفتح اخذ سعد بن ابي وقاص ابن وليدة زمعة، فاقبل به الى رسول الله صلى الله عليه وسلم، واقبل معه عبد بن زمعة، فقال سعد بن ابي وقاص هذا ابن اخي، عهد الى انه ابنه. قال عبد بن زمعة يا رسول الله، هذا اخي، هذا ابن زمعة، ولد على فراشه. فنظر رسول الله صلى الله عليه وسلم الى ابن وليدة زمعة، فاذا اشبه الناس بعتبة بن ابي وقاص، فقال رسول الله صلى الله عليه وسلم " هو لك، هو اخوك يا عبد بن زمعة ". من اجل انه ولد على فراشه، وقال رسول الله صلى الله عليه وسلم " احتجبي منه يا سودة ". لما راى من شبه عتبة بن ابي وقاص. قال ابن شهاب قالت عايشة قال رسول الله صلى الله عليه وسلم " الولد للفراش وللعاهر الحجر ". وقال ابن شهاب وكان ابو هريرة يصيح بذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
 ## Bengali
 
+‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ‘উত্বাহ ইবনু আবূ ওয়াক্কাস (রাঃ) তার ভাই সা‘দ \[ইবনু আবূ ওয়াক্কাস (রাঃ)\]-কে ওয়াসিয়াত করে গিয়েছিল যে, সে যেন যাম‘আহর বাঁদীর সন্তানটি তাঁর নিজের কাছে নিয়ে নেয়। ‘উত্বাহ বলেছিল, পুত্রটি আমার ঔরসজাত। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন মক্কা বিজয়কালে সেখানে আগমন করলেন তখন সা‘দ ইবনু আবী ওয়াক্কাস যাম‘আহর বাঁদীর সন্তানটি রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর কাছে উপস্থিত করলেন। তাঁর সঙ্গে আবদ্ ইবনু যাম‘আহ (যামআর পুত্র)-ও আসলেন। সা‘দ ইবনু আবী ওয়াক্কাস বললেন, সন্তানটি তো আমার ভাতিজা। আমার ভাই আমাকে বলে গিয়েছেন যে, এ সন্তান তার ঔরসজাত কিন্তু আবদ্ ইবনু যাম‘আহ তার দাবী পেশ করে বললেন, হে আল্লাহর রাসূল! এ আমার ভাই, এ যাম‘আহর সন্তান, তাঁর বিছানায় এর জন্ম হয়েছে। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তখন যাম‘আহর ক্রীতদাসীর সন্তানের প্রতি নযর দিয়ে দেখলেন যে, সন্তানটি আকৃতিতে ‘উত্বাহ ইবনু আবূ ওয়াক্কাসের সঙ্গেই অধিক সাদৃশ্যপূর্ণ। তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, হে আব্দ ইবনু যাম‘আহ! একে নিয়ে যাও। সে তোমার ভাই। কেননা সে তার (তোমার পিতা যাম‘আহর) বিছানায় জন্মগ্রহণ করেছে। এরপর রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ঐ সন্তানটির আকৃতি ‘উত্বাহ ইবনু আবী ওয়াক্কাসের আকৃতির মত হওয়ার কারণে (তাঁর স্ত্রী সাওদা বিনতে যাম‘আহ (রাঃ)-কে বললেন, হে সাওদা! তুমি তার থেকে পর্দা করবে। ইবনু শিহাব যুহরী (রহ.) বলেন, ‘আয়িশাহ (রাঃ) বলেছেন যে, এরপর রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, শয্যা যার, ছেলে তার। আর ব্যভিচারীর জন্য আছে পাথর। ইবনু শিহাব যুহরী (রহ.) বলেছেন, আবূ হুরাইরাহ (রাঃ) এ কথাটি উচ্চস্বরে বলতেন। \[২০৫৩\] (আধুনিক প্রকাশনীঃ ৩৯৬৪, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) সূত্রে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, ‘উত্বাহ ইবনু আবূ ওয়াক্কাস (রাঃ) তার ভাই সা‘দ [ইবনু আবূ ওয়াক্কাস (রাঃ)]-কে ওয়াসিয়াত করে গিয়েছিল যে, সে যেন যাম‘আহর বাঁদীর সন্তানটি তাঁর নিজের কাছে নিয়ে নেয়। ‘উত্বাহ বলেছিল, পুত্রটি আমার ঔরসজাত। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম যখন মক্কা বিজয়কালে সেখানে আগমন করলেন তখন সা‘দ ইবনু আবী ওয়াক্কাস যাম‘আহর বাঁদীর সন্তানটি রাসূল সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর কাছে উপস্থিত করলেন। তাঁর সঙ্গে আবদ্ ইবনু যাম‘আহ (যামআর পুত্র)-ও আসলেন। সা‘দ ইবনু আবী ওয়াক্কাস বললেন, সন্তানটি তো আমার ভাতিজা। আমার ভাই আমাকে বলে গিয়েছেন যে, এ সন্তান তার ঔরসজাত কিন্তু আবদ্ ইবনু যাম‘আহ তার দাবী পেশ করে বললেন, হে আল্লাহর রাসূল! এ আমার ভাই, এ যাম‘আহর সন্তান, তাঁর বিছানায় এর জন্ম হয়েছে। রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তখন যাম‘আহর ক্রীতদাসীর সন্তানের প্রতি নযর দিয়ে দেখলেন যে, সন্তানটি আকৃতিতে ‘উত্বাহ ইবনু আবূ ওয়াক্কাসের সঙ্গেই অধিক সাদৃশ্যপূর্ণ। তখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, হে আব্দ ইবনু যাম‘আহ! একে নিয়ে যাও। সে তোমার ভাই। কেননা সে তার (তোমার পিতা যাম‘আহর) বিছানায় জন্মগ্রহণ করেছে। এরপর রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ঐ সন্তানটির আকৃতি ‘উত্বাহ ইবনু আবী ওয়াক্কাসের আকৃতির মত হওয়ার কারণে (তাঁর স্ত্রী সাওদা বিনতে যাম‘আহ (রাঃ)-কে বললেন, হে সাওদা! তুমি তার থেকে পর্দা করবে। ইবনু শিহাব যুহরী (রহ.) বলেন, ‘আয়িশাহ (রাঃ) বলেছেন যে, এরপর রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বললেন, শয্যা যার, ছেলে তার। আর ব্যভিচারীর জন্য আছে পাথর। ইবনু শিহাব যুহরী (রহ.) বলেছেন, আবূ হুরাইরাহ (রাঃ) এ কথাটি উচ্চস্বরে বলতেন। [২০৫৩] (আধুনিক প্রকাশনীঃ ৩৯৬৪, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aisha:'Utba bin Abi Waqqas authorized his brother Sa'd to take the son of the slave-girl of Zam'a into his custody. 'Utba said (to him). "He is my son." When Allah's Messenger (ﷺ) arrived in Mecca during the Conquest (of Mecca), Sa'd bin Abi Waqqas took the son of the slave-girl of Zam'a and took him to the Prophet (ﷺ) 'Abd bin Zam'a too came along with him. Sa'd said. "This is the son of my brother and the latter has informed me that he is his son." 'Abd bin Zam'a said, "O Allah's Messenger (ﷺ)! This is my brother who is the son of the slave-girl of Zam'a and was born on his (i.e. Zam'as) bed.' Allah's Apostle looked at the son of the slave-girl of Zam'a and noticed that he, of all the people had the greatest resemblance to 'Utba bin Abi Waqqas. Allah's Messenger (ﷺ) then said (to 'Abd), " He is yours; he is your brother, O 'Abd bin Zam'a, he was born on the bed (of your father)." (At the same time) Allah's Messenger (ﷺ) said (to his wife Sauda), "Veil yourself before him (i.e. the son of the slave-girl) O Sauda," because of the resemblance he noticed between him and 'Utba bin Abi Waqqas. Allah's Apostle added, "The boy is for the bed (i.e. for the owner of the bed where he was born), and stone is for the adulterer." (Ibn Shihab said, "Abu Huraira used to say that (i.e. the last statement of the Prophet in the above Hadith 596, publicly)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
+
+## French
+
+Rapporté par ‘Aïsha رضي الله عنها : ‘Utba bin Abi Waqqas a autorisé son frère Sa‘d à prendre sous sa garde le fils de la servante de Zam‘a. ‘Utba lui a dit : « C’est mon fils. » Lorsque le Messager d’Allah (ﷺ) est arrivé à La Mecque lors de la Conquête, Sa‘d bin Abi Waqqas a amené le fils de la servante de Zam‘a au Prophète (ﷺ). ‘Abd bin Zam‘a est venu aussi. Sa‘d a dit : « C’est le fils de mon frère, et ce dernier m’a informé que c’est son fils. » ‘Abd bin Zam‘a a dit : « Ô Messager d’Allah (ﷺ) ! C’est mon frère, le fils de la servante de Zam‘a, né sur le lit de mon père. » Le Messager d’Allah (ﷺ) a regardé le fils de la servante de Zam‘a et a remarqué qu’il ressemblait beaucoup à ‘Utba bin Abi Waqqas. Le Messager d’Allah (ﷺ) a alors dit (à ‘Abd) : « Il est à toi ; c’est ton frère, ô ‘Abd bin Zam‘a, il est né sur le lit (de ton père). » (En même temps) le Messager d’Allah (ﷺ) a dit (à sa femme Sauda) : « Voile-toi devant lui (c’est-à-dire le fils de la servante), ô Sauda, » à cause de la ressemblance qu’il a remarquée entre lui et ‘Utba bin Abi Waqqas. Le Messager d’Allah (ﷺ) a ajouté : « L’enfant appartient au lit (c’est-à-dire au propriétaire du lit où il est né), et la pierre est pour l’adultère. » (Ibn Shihab a dit : « Abu Huraira avait l’habitude de répéter cela (c’est-à-dire la dernière parole du Prophète dans le hadith 596) publiquement
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Abdullah bin Maslamah\] dari \[Malik\] dari \[Ibnu Syihab\] dari \[Urwah bin Zubair\] dari \[Aisyah\] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, kata \[Al Laits\], telah menceritakan kepadaku \[Yunus\] dari \[Ibnu Syihab\] Telah mengabarkan kepada kami \['Urwah bin Zubair\] bahwasanya \['Aisyah\] mengatakan, Utbah bin Abu Waqash berpesan serius kepada saudaranya Sa'd bin Abi Waqqash agar mengambil anak hamba sahaya Zam'ah. Utbah berujar "Anak laki-laki hamba sahaya Zam'ah adalah sebenarnya anakku. Maka ketika Sa'd bin Abu Waqqash tiba di Makkah saat penaklukan makkah, Sa'd bin Abu Waqqash mengambil anak hamba sahaya Zam'ah dan membawanya kepada Rasulullah shallallahu 'alaihi wasallam sekaligus Abd bin Zam'ah (anak laki-laki Zam'ah) juga menghadirinya. Sa'd bin Abu Waqqash menyampaikan; "Ini adalah anak saudaraku, ia berpesan serius kepadaku (agar mengambilnya, sebab) anak itu adalah anaknya. Maka Abd bin Zam'ah (anak laki-laki Zam'ah) tak mau kalah dengan mengatakan "Wahai Rasulullah, ini adalah saudara laki-lakiku, dia dilahirkan diatas kasurnya (kasur Zam'ah). Lantas Rasulullah shallallahu 'alaihi wasallam mencermati anak hamba sahaya Zam'ah yang menyerupai Utbah bin Abu Waqqash. Namun anehnya Rasulullah terus mengatakan kepada abd bin Zam'ah "Anak itu justru bagimu, dia adalah saudara laki-lakimu wahai Abd bin Zam'ah sebab dia dilahirkan diatas kasurnya (kasur Zam'ah) ". Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Berrhijablah engkau daripadanya wahai Saudah, yang demikian karena beliau lihat ada kemiripan dengan Utbah bin Abu Waqqash. Kata Ibnu Syihab, kata Aisyah; Rasulullah shallallahu 'alaihi wasallam bersabda; "Anak adalah pemilik kasur, pezina harus dihukum batu (rajam). Kata \[Ibnu Syihab\], dan \[Abu Hurairah\] berteriak ketika menyampaikan hadits ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Abdullah bin Maslamah] dari [Malik] dari [Ibnu Syihab] dari [Urwah bin Zubair] dari [Aisyah] radliallahu 'anhuma, dari Nabi shallallahu 'alaihi wasallam, kata [Al Laits], telah menceritakan kepadaku [Yunus] dari [Ibnu Syihab] Telah mengabarkan kepada kami ['Urwah bin Zubair] bahwasanya ['Aisyah] mengatakan, Utbah bin Abu Waqash berpesan serius kepada saudaranya Sa'd bin Abi Waqqash agar mengambil anak hamba sahaya Zam'ah. Utbah berujar "Anak laki-laki hamba sahaya Zam'ah adalah sebenarnya anakku. Maka ketika Sa'd bin Abu Waqqash tiba di Makkah saat penaklukan makkah, Sa'd bin Abu Waqqash mengambil anak hamba sahaya Zam'ah dan membawanya kepada Rasulullah shallallahu 'alaihi wasallam sekaligus Abd bin Zam'ah (anak laki-laki Zam'ah) juga menghadirinya. Sa'd bin Abu Waqqash menyampaikan; "Ini adalah anak saudaraku, ia berpesan serius kepadaku (agar mengambilnya, sebab) anak itu adalah anaknya. Maka Abd bin Zam'ah (anak laki-laki Zam'ah) tak mau kalah dengan mengatakan "Wahai Rasulullah, ini adalah saudara laki-lakiku, dia dilahirkan diatas kasurnya (kasur Zam'ah). Lantas Rasulullah shallallahu 'alaihi wasallam mencermati anak hamba sahaya Zam'ah yang menyerupai Utbah bin Abu Waqqash. Namun anehnya Rasulullah terus mengatakan kepada abd bin Zam'ah "Anak itu justru bagimu, dia adalah saudara laki-lakimu wahai Abd bin Zam'ah sebab dia dilahirkan diatas kasurnya (kasur Zam'ah) ". Lantas Rasulullah shallallahu 'alaihi wasallam bersabda: "Berrhijablah engkau daripadanya wahai Saudah, yang demikian karena beliau lihat ada kemiripan dengan Utbah bin Abu Waqqash. Kata Ibnu Syihab, kata Aisyah; Rasulullah shallallahu 'alaihi wasallam bersabda; "Anak adalah pemilik kasur, pezina harus dihukum batu (rajam). Kata [Ibnu Syihab], dan [Abu Hurairah] berteriak ketika menyampaikan hadits ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
 ## Russian
 
+‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) ‘Утба ибн Аби Ваккас дал своему брату, Са‘ду (ибн Аби Ваккасу), поручение забрать сына невольницы (, хозяином которой является) Зам‘а. ‘Утба сказал: “Поистине, он мой сын”. И когда Посланник Аллаха ﷺ прибыл в Мекку в день её завоевания, Са‘д ибн Аби Ваккас забрал сына невольницы (, хозяином которой является) Зам‘а. После чего (Са‘д) вместе с ‘Абд ибн Зам‘а отправились к Посланнику Аллаха ﷺ. Са‘д ибн Аби Ваккас сказал: “Это — сын моего брата, поручившего мне (объявить, что этот ребёнок является) его сыном”. (После этого) ‘Абд ибн Зам‘а сказал: “О Посланник Аллаха, это — мой брат, и это — сын Зам‘и, рождённый на его постели”. Посланник Аллаха ﷺ посмотрел на сына невольницы (, хозяином которой является) Зам‘а, и увидел, что больше всего из людей он был похож на ‘Утбу ибн Аби Ваккаса. Но Посланник Аллаха ﷺ сказал: “Он твой. Он твой брат, о ‘Абд ибн Зам‘а”, — и причиной этому служило то, что он родился в его постели. И потом Посланник Аллаха ﷺ сказал: “Закрывайся от него, о Сауда”, ибо он увидел, (что юноша действительно) похож на ‘Утбу ибн Аби Ваккаса».\\nИбн Шихаб сказал: «‘Аиша, да будет доволен ею Аллах, передаёт, что Посланник Аллаха ﷺ сказал: “Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка)”».\\nИбн Шихаб сказал: «Абу Хурайра обычно оглашал об этом хадисе»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘Аиша, да будет доволен ею Аллах, сказала: «(В своё время) ‘Утба ибн Аби Ваккас дал своему брату, Са‘ду (ибн Аби Ваккасу), поручение забрать сына невольницы (, хозяином которой является) Зам‘а. ‘Утба сказал: “Поистине, он мой сын”. И когда Посланник Аллаха ﷺ прибыл в Мекку в день её завоевания, Са‘д ибн Аби Ваккас забрал сына невольницы (, хозяином которой является) Зам‘а. После чего (Са‘д) вместе с ‘Абд ибн Зам‘а отправились к Посланнику Аллаха ﷺ. Са‘д ибн Аби Ваккас сказал: “Это — сын моего брата, поручившего мне (объявить, что этот ребёнок является) его сыном”. (После этого) ‘Абд ибн Зам‘а сказал: “О Посланник Аллаха, это — мой брат, и это — сын Зам‘и, рождённый на его постели”. Посланник Аллаха ﷺ посмотрел на сына невольницы (, хозяином которой является) Зам‘а, и увидел, что больше всего из людей он был похож на ‘Утбу ибн Аби Ваккаса. Но Посланник Аллаха ﷺ сказал: “Он твой. Он твой брат, о ‘Абд ибн Зам‘а”, — и причиной этому служило то, что он родился в его постели. И потом Посланник Аллаха ﷺ сказал: “Закрывайся от него, о Сауда”, ибо он увидел, (что юноша действительно) похож на ‘Утбу ибн Аби Ваккаса».\nИбн Шихаб сказал: «‘Аиша, да будет доволен ею Аллах, передаёт, что Посланник Аллаха ﷺ сказал: “Ребёнок принадлежит постели, а прелюбодею — позор и лишения (прав на ребёнка)”».\nИбн Шихаб сказал: «Абу Хурайра обычно оглашал об этом хадисе»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: உத்பா பின் அபீவக்காஸ் தம் சகோதரர் சஅத் பின் அபீவக்காஸ் (ரலி) அவர்களிடம், “ஸம்ஆவின் அடிமைப் பெண்ணுடைய மகன் என் மகன்தான்'என்று கூறி (மக்கா செல்லும்போது)அவனைப் பிடித்து(வைத்து)க்கொள்ளும்படி உறுதிமொழி வாங்கியிருந்தார். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், மக்கா வெற்றியின் சமயம் மக்காவுக்கு (தம் தோழர்களுடன்) வருகை தந்தபோது, சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் ஸம்ஆவின் அடிமைப் பெண்ணுடைய மகனைப் பிடித்துக்கொண்டு அல்லாஹ் வின் தூதர் (ஸல்) அவர்களை நோக்கிச் சென்றார்கள். அவர்களுடன் ஸம்ஆவின் மகன் அப்த் (ரலி) அவர்களும் சென்றார்கள். சஅத் பின் அபீவக்காஸ் (ரலி) அவர்கள் (நபி (ஸல்) அவர்களிடம், ஸம்ஆவின் அடிமைப் பெண்ணுடைய மகனைச் சுட்டிக்காட்டி), “இவன் என் சகோதரரின் மகன்; இவனைத் தன் மகன் என்று (சொல்லி, இவனைப் பிடித்துக்கொள்ளும்படி என்னிடம்) என் சகோதரர் உறுதிமொழி வாங்கியுள்ளார்” என்று சொன்னார். அப்த் பின் ஸம்ஆ, “அல்லாஹ்வின் தூதரே! இவன் என் சகோதரன். இவன் (என் தந்தை) ஸம்ஆவின் அடிமைப் பெண்ணுடைய மகன்; அவள் என் தந்தையின் அதிகாரத்தில் இருந்தபோதுதான் இவன் பிறந்தான்” என்று சொன்னார். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் ஸம்ஆவின் அடிமைப் பெண்ணுடைய மகனைக் கூர்ந்துபார்த்தார்கள். அவன் (மக்காவாசிகளிலேயே) உத்பா பின் அபீவக்காஸை (தோற்றத்தில்) மிகவும் ஒத்திருந்தான். பிறகு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “இவன் உனக்குரியவன்தான்; இவன் உன் சகோதரன்தான், அப்த் பின் ஸம்ஆவே!” என்று சொன்னார்கள். அவன் ஸம்ஆவின் அதிகாரத்தில் (அவனுடைய தாய்) இருந்தபோது பிறந்த காரணத்தால் அப்படிச் சொன்னார்கள். மேலும், அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உத்பா பின் அபீவக்காஸின் சாயலில் அந்த இளைஞன் இருந்ததைப் பார்த்த காரணத்தால், (தம் துணைவியார் சவ்தா (ரலி) அவர்களை நோக்கி, “ஸம்ஆ வின் மகள்) சவ்தாவே! இவனிடமிருந்து நீ திரையிட்டுக்கொள்” என்று சொன்னார்கள். இப்னு ஷிஹாப் அஸ்ஸுஹ்ரீ (ரஹ்) அவர்கள் கூறினார்கள்: “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் “(ஒரு பெண்) யாருடைய அதிகாரத்தில் இருக்கும்போது குழந்தை பிறக்கிறதோ அவருக்கே அக்குழந்தை உரியது. விபசாரம் செய்தவருக்கு இழப்புதான் உரியது' என்று சொன்னார்கள்” என ஆயிஷா (ரலி) அவர்கள் கூறினார்கள்.338 இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. மேலும் அபூஹுரைரா (ரலி) அவர்கள் நபி (ஸல்) அவர்களின் இந்தத் தீர்ப்பை (மக்களுக்கு) உரக்க அறிவித்துவந்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe dedi ki: Utbe b. Ebi Vakkas kardeşi Sa'd'a, Zem'a'nın cariyesinin oğlunu almasını vasiyet etmiş ve: O benim oğlumdur demişti. Resulullah Sallallahu Aleyhi ve Sellem Mekke fethi sırasında (Mekke'ye) gelince Sa'd b. Ebi Vakkas da Zem'a'nın cariyesinin oğlunu alıp Resulullah Sallallahu Aleyhi ve Sellem'e getirmişti. Onunla birlikte Zem'a'nın oğlu Abd da geldi. Sa'd b. Ebi Vakkas dedi ki: Bu benim kardeşimin oğludur. O bana bunun kendi oğlu olduğunu söylemişti. Zem'a'nın oğlu Abd da: Ey Allah'ın Resulü, bu benim kardeşimdir. Bu Zem'a'nın oğludur. Onun döşeğinde doğmuştur, dedi. Resulullah Sallallahu Aleyhi ve Sellem Zem'a'nın cariyesinin oğluna bir baktı, onun Utbe b. Ebi Vakkas'a insanlar arasında en çok benzeyen birisi olduğunu gördü. Bunun üzerine Resulullah: O senindir ey Zem'a'nın oğlu Abd, o Zem'a'nın döşeği üzerinde doğduğundan ötürü senin kardeşindir, diye buyurdu. Resulullah Sallallahu Aleyhi ve Sellem de ayrıca: Ey Sevde, sen de bundan hicabın arkasına gir (ona görünme) diye buyurdu. Buna sebep ise Utbe t. Ebi Vakkas'a çokça benzediğini görmüş olmasıdır." İbn Şihab Aişe den rivayetle ResQlullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğunu söyledi: "Çocuk döşeğe aittir. Zina eden için de mahrumiyet ve zarar söz konusudur." İbn Şihab dedi ki: Ebu Hureyre bunu yüksek sesle söylüyordu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجھ سے عبداللہ بن مسلمہ قعنبی نے بیان کیا، کہا ہم سے امام مالک نے بیان کیا، ان سے ابن شہاب نے، ان سے عروہ بن زبیر نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا، نبی کریم صلی اللہ علیہ وسلم سے (دوسری سند اور لیث بن سعد نے کہا مجھ سے یونس نے بیان کیا، ان سے ابن شہاب نے، انہیں عروہ بن زبیر نے خبر دی اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ عتبہ بن ابی وقاص نے (مرتے وقت زمانہ جاہلیت میں) اپنے بھائی (سعد بن ابی وقاص رضی اللہ عنہ) کو وصیت کی تھی کہ وہ زمعہ بن لیثی کی باندی سے پیدا ہونے والے بچے کو اپنے قبضے میں لے لیں۔ عتبہ نے کہا تھا کہ وہ میرا لڑکا ہو گا۔ چنانچہ جب فتح مکہ کے موقع پر رسول اللہ صلی اللہ علیہ وسلم مکہ میں داخل ہوئے تو سعد بن ابی وقاص رضی اللہ عنہ اس بچے کو لے کر نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور ان کے ساتھ عبد بن زمعہ بھی آئے۔ سعد بن ابی وقاص رضی اللہ عنہ نے تو یہ کہا کہ یہ میرے بھائی کا لڑکا ہے۔ لیکن عبد بن زمعہ نے کہا: یا رسول اللہ! یہ میرا بھائی ہے (میرے والد) زمعہ کا بیٹا ہے کیونکہ انہیں کے بستر پر پیدا ہوا ہے۔ نبی کریم صلی اللہ علیہ وسلم نے زمعہ کی باندی کے لڑکے کو دیکھا تو وہ واقعی (سعد کے بھائی) عتبہ بن ابی وقاص کی شکل پر تھا لیکن نبی کریم صلی اللہ علیہ وسلم نے (قانون شریعت کے مطابق) فیصلے میں یہ کہا کہ اے عبد بن زمعہ! تمہیں اس بچے کو رکھو، یہ تمہارا بھائی ہے، کیونکہ یہ تمہارے والد کے فراش پر (اس کی باندی کے بطن سے پیدا ہوا ہے۔ لیکن دوسری طرف ام المؤمنین سودہ رضی اللہ عنہا سے جو زمعہ کی بیٹی تھیں فرمایا سودہ! اس لڑکے سے پردا کیا کرنا کیونکہ آپ نے اس لڑکے میں عتبہ بن ابی وقاص رضی اللہ عنہ کی شباہت پائی تھی۔ ابن شہاب نے کہا ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا تھا کہ لڑکا اس کا ہوتا ہے جس کی جورو یا لونڈی کے پیٹ سے پیدا ہوا ہو اور زنا کرنے والے کے حصے میں سنگ ہی ہیں۔ ابن شہاب نے بیان کیا کہ ابوہریرہ رضی اللہ عنہ اس حدیث کو پکار پکار کر بیان کیا کرتے تھے۔)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 64 Hadith 336</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 64 Hadith 336 |

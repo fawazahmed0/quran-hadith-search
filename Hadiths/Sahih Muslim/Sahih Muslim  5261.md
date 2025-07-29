@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ أَبُو بَكْرِ بْنُ نَافِعٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ وَقَدَّمَ مَجِيءَ الْجَارِيَةِ قَبْلَ مَجِيءِ الأَعْرَابِيِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه ابو بكر بن نافع، حدثنا عبد الرحمن، حدثنا سفيان، عن الاعمش، بهذا الاسناد وقدم مجيء الجارية قبل مجيء الاعرابي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু নাফি’ (রহঃ) ..... আ'মাশ (রহঃ) হতে উপরোল্লিখিত সূত্রে হুবহু বর্ণিত আছে। তবে তিনি প্রথমে মেয়েটির আসা ও পরে বেদুঈনের আসার কথা উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ৫০৯০, ইসলামিক সেন্টার, নেই)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith is reported on the authority of A'mash with the same chain of transmitters but with a slight variation of wording
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## French
 
+Rapporté par A’mash رضي الله عنه : Ce hadith est rapporté avec la même chaîne de transmetteurs, mais avec une légère variation dans les mots
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bu hadîsi bana Ebû Bekr b. Nâfi' dahî rivayet etti. (Dediki): Bize Abdurrahman rivayet etti. (Dediki): Bize Süfyân A'meş'den bu isnadla rivayette bulundu ve cariyenin gelişini bedevinin gelişinden önce zikretti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفیان نے اعمش سے اسی سند کے ساتھ حدیث بیان کی اور لڑکی کا آنا ، اعرابی کے آنے سے پہلے بیان کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5261</td></tr><tr><td>Arabic No</td><td>2017.03</td></tr><tr><td>Reference</td><td>Book 36 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5261 |
+| Arabic No | 2017.03 |
+| Reference | Book 36 Hadith 135 |

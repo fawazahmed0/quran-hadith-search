@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ ـ رضى الله عنه ـ قَالَ تَسَحَّرْنَا مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ قَامَ إِلَى الصَّلاَةِ‏.‏ قُلْتُ كَمْ كَانَ بَيْنَ الأَذَانِ وَالسَّحُورِ قَالَ قَدْرُ خَمْسِينَ آيَةً‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسلم بن ابراهيم، حدثنا هشام، حدثنا قتادة، عن انس، عن زيد بن ثابت رضى الله عنه قال تسحرنا مع النبي صلى الله عليه وسلم ثم قام الى الصلاة. قلت كم كان بين الاذان والسحور قال قدر خمسين اية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যায়দ ইবনু সাবিত (রাঃ) হতে বর্ণিত। তিনি বলেন, আমরা আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সঙ্গে সাহরী খাই এরপর তিনি সালাতের জন্য দাঁড়ান। বর্ণনাকারী বলেন, আমি জিজ্ঞেস করলাম, আযান ও সাহরীর মাঝে কতটুকু ব্যবধান ছিল? তিনি বললেন, পঞ্চাশ আয়াত (পাঠ করা) পরিমাণ। (৫৭৫) (আধুনিক প্রকাশনীঃ ১৭৮৫, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas:Zaid bin Thabit said, "We took the Suhur with the Prophet (ﷺ) . Then he stood for the prayer." I asked, "What was the interval between the Suhur and the Adhan?" He replied, "The interval was sufficient to recite fifty verses of the Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
+
+## French
+
+Rapporté par Anas : Zaid bin Thabit a dit : « Nous avons pris le Suhur avec le Prophète (ﷺ). Puis il s’est levé pour la prière. » J’ai demandé : « Quel était l’intervalle entre le Suhur et l’Adhan ? » Il a répondu : « L’intervalle était suffisant pour réciter cinquante versets du Coran. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\] telah menceritakan kepada kami \[Hisyam\] telah menceritakan kepada kami \[Qatadah\] dari \[Anas\] dari \[Zaid bin Tsabit radliallahu 'anhu\] berkata: "Kami pernah makan sahur bersama Nabi shallallahu 'alaihi wasallam kemudian Beliau pergi untuk melakanakan shalat. Aku bertanya: "Berapa antara adzan (Shubuh) dan sahur?". Dia menjawab: "Sebanyak ukuran bacaan lima puluh ayat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] telah menceritakan kepada kami [Qatadah] dari [Anas] dari [Zaid bin Tsabit radliallahu 'anhu] berkata: "Kami pernah makan sahur bersama Nabi shallallahu 'alaihi wasallam kemudian Beliau pergi untuk melakanakan shalat. Aku bertanya: "Berapa antara adzan (Shubuh) dan sahur?". Dia menjawab: "Sebanyak ukuran bacaan lima puluh ayat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса, что Зейд бин Сабит, да будет доволен им Аллах, сказал: «(Однажды) во время рамадана мы поели перед рассветом вместе с Пророком ﷺ, а потом он встал на намаз». (Анас сказал): «Я спросил: “А сколько времени прошло между азаном и сухуром?” Он сказал: “Столько(, что можно было прочитать) пятьдесят аятов”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் (ரலி) அவர்கள் கூறியதாவது: ‘‘நாங்கள் நபி (ஸல்) அவர்களுடன் சஹர் செய்தோம்; பின்னர் தொழுகைக்கு அவர்கள் எழுந்துவிட்டார்கள்” என்று ஸைத் பின் ஸாபித் (ரலி) அவர்கள் கூறினார்கள்; நான் ‘‘(ஃபஜ்ரின்) பாங்குக்கும் சஹருக்குமிடையே எவ்வளவு நேரம் இருந்தது?” என்று கேட்டேன். அதற்கு அவர்கள் ‘‘ஐம்பது வசனங்கள் (ஓதும்) அளவுக்கு (நேரம் இருந்தது)” என்று பதிலளித்தார்கள்.18 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeyd bin Sabit'in şöyle dediği nakledilmiştir: "Biz Nebi Sallallahu Aleyhi ve Sellem İle birlikte sahur yaptık. Sahur bittikten sonra Resulullah Sallallahu Aleyhi ve Sellem namaza kalktı." Hadisin ravilerinden Enes: "Peki ezan ile sahur arasında ne kadar süre geçti?" diye sorunca Zeyd İbn Sabit şu cevabı verdi: "Elli ayet okunabilecek kadar bir süre
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسلم بن ابراہیم نے بیان کیا، کہا ہم سے ہشام نے بیان کیا، کہا ہم سے قتادہ نے بیان کیا، ان سے انس رضی اللہ عنہ نے اور ان سے زید بن ثابت رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم کے ساتھ ہم نے سحری کھائی، پھر آپ صلی اللہ علیہ وسلم صبح کی نماز کے لیے کھڑے ہوئے۔ میں نے پوچھا کہ سحری اور اذان میں کتنا فاصلہ ہوتا تھا تو انہوں نے کہا کہ پچاس آیتیں ( پڑھنے ) کے موافق فاصلہ ہوتا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1921</td></tr><tr><td>Arabic No</td><td>1921</td></tr><tr><td>Reference</td><td>Book 30 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1921 |
+| Arabic No | 1921 |
+| Reference | Book 30 Hadith 30 |

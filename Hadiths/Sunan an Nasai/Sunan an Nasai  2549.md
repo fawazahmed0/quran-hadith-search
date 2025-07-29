@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ الْحَكَمِ، عَنْ شُعَيْبٍ، حَدَّثَنِي اللَّيْثُ، قَالَ حَدَّثَنَا خَالِدٌ، عَنِ ابْنِ أَبِي هِلاَلٍ، عَنْ أُمَيَّةَ بْنِ هِنْدٍ، عَنْ أَبِي أُمَامَةَ بْنِ سَهْلِ بْنِ حُنَيْفٍ، قَالَ كُنَّا يَوْمًا فِي الْمَسْجِدِ جُلُوسًا وَنَفَرٌ مِنَ الْمُهَاجِرِينَ وَالأَنْصَارِ فَأَرْسَلْنَا رَجُلاً إِلَى عَائِشَةَ لِيَسْتَأْذِنَ فَدَخَلْنَا عَلَيْهَا قَالَتْ دَخَلَ عَلَىَّ سَائِلٌ مَرَّةً وَعِنْدِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَمَرْتُ لَهُ بِشَىْءٍ ثُمَّ دَعَوْتُ بِهِ فَنَظَرْتُ إِلَيْهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَمَا تُرِيدِينَ أَنْ لاَ يَدْخُلَ بَيْتَكِ شَىْءٌ وَلاَ يَخْرُجَ إِلاَّ بِعِلْمِكِ ‏"‏ ‏.‏ قُلْتُ نَعَمْ ‏.‏ قَالَ ‏"‏ مَهْلاً يَا عَائِشَةُ لاَ تُحْصِي فَيُحْصِيَ اللَّهُ عَزَّ وَجَلَّ عَلَيْكِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |
+
 اخبرني محمد بن عبد الله بن عبد الحكم، عن شعيب، حدثني الليث، قال حدثنا خالد، عن ابن ابي هلال، عن امية بن هند، عن ابي امامة بن سهل بن حنيف، قال كنا يوما في المسجد جلوسا ونفر من المهاجرين والانصار فارسلنا رجلا الى عايشة ليستاذن فدخلنا عليها قالت دخل على سايل مرة وعندي رسول الله صلى الله عليه وسلم فامرت له بشىء ثم دعوت به فنظرت اليه فقال رسول الله صلى الله عليه وسلم " اما تريدين ان لا يدخل بيتك شىء ولا يخرج الا بعلمك " . قلت نعم . قال " مهلا يا عايشة لا تحصي فيحصي الله عز وجل عليك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আব্দুল্লাহ (রহঃ) ... আবু উমামা ইবন সাহল (রহঃ) থেকে বর্ণিত। তিনি বলেন যে, আমরা কিছু সংখ্যক মুহাজির ও আনসারসহ মসজিদে বসা ছিলাম। আমরা আয়েশা (রাঃ)-এর কাছে একজন লোককে অনুমতি নেওয়ার জন্য পাঠালাম। অতঃপর তাঁর খেদমতে আমরা উপস্থিত হলাম। তিনি বললেন যে, একবার আমার কাছে একজন ভিক্ষুক আসল তখন আমার কাছে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উপস্থিত ছিলেন। আমি তাকে কিছু দেওয়ার জন্য অনুরোধ করলাম। অতঃপর তাঁকে ডেকে দেখলাম তিনি কি দিতেছেন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তুমি কি চাও যে, তোমার ঘরে তোমার বিনা অনুমতিতে কোন কিছু প্ৰবেশ করুক এবং কোন কিছু বেরও না হােক, আমি বললাম, হাঁ। তিনি বললেন, হে আয়েশা, তুমি কখনও এরূপ করো না; তুমি কখনও হিসাব করে খরচ করবে না; নয়তো আল্লাহ্ তা'আলাও তোমাকে হিসাব করে করে দেবেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Umamah bin Sahl bin Hunaif said:"One day we were sitting in the Masjid with a group of the Muhajirin and Ansar, We sent a man to 'Aishah to ask permission to come to her. She said: 'A beggar came in to me one day when the Messenger of Allah was present, and I ordered that he be given something, then I called for it and looked at it. The Messenger of Allah said: Do you want that nothing should enter or leave your house without your knowledge? I said: 'Yes.' He said: "Don't be hasty, O 'Aishah. Do not count what you give, otherwise Allah will count what He gives to you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |
+
+## French
+
+Rapporté par Abu Umamah bin Sahl bin Hunaif : Un jour, nous étions assis dans la mosquée avec un groupe de Mouhajirines et d’Ansar. Nous avons envoyé un homme demander la permission d’entrer chez 'Aishah رضي الله عنها. Elle a dit : "Un mendiant est venu me voir un jour alors que le Messager d’Allah ﷺ était présent, et j’ai ordonné qu’on lui donne quelque chose, puis j’ai demandé à voir ce que c’était. Le Messager d’Allah ﷺ a dit : 'Veux-tu que rien n’entre ni ne sorte de ta maison sans que tu le saches ?' J’ai dit : 'Oui.' Il a dit : 'Ne sois pas pressée, ô 'Aishah. Ne compte pas ce que tu donnes, sinon Allah comptera ce qu’Il te donne
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin 'Abdullah bin 'Abdul Hakam\] dari \[Syu'aib\]; Telah menceritakan kepadaku \[Al Laits\] dia berkata; Telah menceritakan kepada kami \[Khalid\] dari \[Ibnu Abu Hilal\] dari \[Umayyah bin Hind\] dari \[Abu Umamah bin Sahl bin Hunaif\] dia berkata; "Pada suatu hari kami duduk-duduk di masjid dengan beberapa orang dari Muhajirin dan Anshar, lalu kami menyuruh seseorang untuk meminta ijin masuk ke rumah 'Aisyah, lalu kami masuk ke rumahnya. \[Aisyah\] berkata; suatu kali seseorang masuk ke rumahku dan disisiku ada Rasulullah Shallallahu'alaihi wa sallam, aku menyuruhnya dan aku memanggilnya lalu melarangnya, kemudian Rasulullah Shallallahu'alaihi wa sallam bersabda: "Apakah engkau mau agar seseorang tidak masuk ke rumahmu dan ia tidak keluar kecuali dengan sepegetahuanmu?" Aku menjawab; 'Ya, beliau bersabda: "Tenanglah ya 'Aisyah janganlah engkau menghitung-hitung pemberianmu, maka Allah pun akan memperhitungkan apa yang telah kamu perbuat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin 'Abdullah bin 'Abdul Hakam] dari [Syu'aib]; Telah menceritakan kepadaku [Al Laits] dia berkata; Telah menceritakan kepada kami [Khalid] dari [Ibnu Abu Hilal] dari [Umayyah bin Hind] dari [Abu Umamah bin Sahl bin Hunaif] dia berkata; "Pada suatu hari kami duduk-duduk di masjid dengan beberapa orang dari Muhajirin dan Anshar, lalu kami menyuruh seseorang untuk meminta ijin masuk ke rumah 'Aisyah, lalu kami masuk ke rumahnya. [Aisyah] berkata; suatu kali seseorang masuk ke rumahku dan disisiku ada Rasulullah Shallallahu'alaihi wa sallam, aku menyuruhnya dan aku memanggilnya lalu melarangnya, kemudian Rasulullah Shallallahu'alaihi wa sallam bersabda: "Apakah engkau mau agar seseorang tidak masuk ke rumahmu dan ia tidak keluar kecuali dengan sepegetahuanmu?" Aku menjawab; 'Ya, beliau bersabda: "Tenanglah ya 'Aisyah janganlah engkau menghitung-hitung pemberianmu, maka Allah pun akan memperhitungkan apa yang telah kamu perbuat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوامامہ بن سہل بن حنیف رضی الله عنہ کہتے ہیں کہ ہم لوگ ایک دن مسجد میں بیٹھے ہوئے تھے ہمارے ساتھ کچھ مہاجرین و انصار بھی تھے، ہم نے ایک شخص کو ام المؤمنین عائشہ رضی اللہ عنہا کے پاس ملاقات کی اجازت حاصل کرنے کے لیے بھیجا، ( انہوں نے اجازت دے دی، ہم ان کے پاس پہنچی تو انہوں نے کہا: ایک بار میرے پاس ایک مانگنے والا آیا اس وقت رسول اللہ صلی اللہ علیہ وسلم میرے پاس تشریف فرما تھے، میں نے ( خادمہ کو ) اسے کچھ دینے کا حکم دیا، پھر میں نے اسے بلایا اسے دیکھنے لگی تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کیا آپ چاہتی ہیں کہ بغیر آپ کے علم میں آئے تمہارے گھر میں کچھ نہ آئے اور تمہارے گھر سے کچھ نہ جائے؟“ میں نے کہا: جی ہاں، آپ نے فرمایا: ”عائشہ! ٹھہر جاؤ، گن کر نہ دو کہ اللہ عزوجل بھی تمہیں بھی گن کر دے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2549</td></tr><tr><td>Arabic No</td><td>2549</td></tr><tr><td>Reference</td><td>Book 23 Hadith 115</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2549 |
+| Arabic No | 2549 |
+| Reference | Book 23 Hadith 115 |

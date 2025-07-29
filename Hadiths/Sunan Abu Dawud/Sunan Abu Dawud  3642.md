@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْوَزِيرِ الدِّمَشْقِيُّ، حَدَّثَنَا الْوَلِيدُ، قَالَ لَقِيتُ شَبِيبَ بْنَ شَيْبَةَ فَحَدَّثَنِي بِهِ، عَنْ عُثْمَانَ بْنِ أَبِي سَوْدَةَ، عَنْ أَبِي الدَّرْدَاءِ، - يَعْنِي عَنِ النَّبِيِّ صلى الله عليه وسلم - بِمَعْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
+
 حدثنا محمد بن الوزير الدمشقي، حدثنا الوليد، قال لقيت شبيب بن شيبة فحدثني به، عن عثمان بن ابي سودة، عن ابي الدرداء، - يعني عن النبي صلى الله عليه وسلم - بمعناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
 
 ## Bengali
 
+। আবূ দারদা (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে উপরোল্লিখিত হাদীস বর্ণিত হয়েছে।\[1\] আমি এটি সহীহ এবং যঈফেও পাইনি।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ দারদা (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে উপরোল্লিখিত হাদীস বর্ণিত হয়েছে।[1] আমি এটি সহীহ এবং যঈফেও পাইনি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Abu al-Darda through a different chain of narrators to the same effect from the Holy Prophet (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Abu al-Darda à travers une autre chaîne de rapporteurs, avec le même sens, du Prophète ﷺ
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Похожий хадис передаётся другим путём от Абу ад-Дарды от Пророка ﷺ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Eb'd-Derdâ (bir de) Nebi (s.a.v.)'den (bir önceki 3641. hadisin) manasını rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ابو الدرداء رضی اللہ عنہ سے اسی مفہوم کی حدیث مرفوعاً مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3642</td></tr><tr><td>Arabic No</td><td>3642</td></tr><tr><td>Reference</td><td>Book 26 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3642 |
+| Arabic No | 3642 |
+| Reference | Book 26 Hadith 2 |

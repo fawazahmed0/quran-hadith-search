@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دَاوُدَ، عَنْ سَلَمَةَ بْنِ نُبَيْطٍ، عَنْ رَجُلٍ، مِنَ الْحَىِّ عَنْ أَبِيهِ، نُبَيْطٍ أَنَّهُ رَأَى النَّبِيَّ صلى الله عليه وسلم وَاقِفًا بِعَرَفَةَ عَلَى بَعِيرٍ أَحْمَرَ يَخْطُبُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
+
 حدثنا مسدد، حدثنا عبد الله بن داود، عن سلمة بن نبيط، عن رجل، من الحى عن ابيه، نبيط انه راى النبي صلى الله عليه وسلم واقفا بعرفة على بعير احمر يخطب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
 
 ## Bengali
 
+। নুবাইত (রাযি.) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আরাফার ময়দানে একটি লাল রংয়ের উষ্ট্রীর উপর সওয়ার অবস্থায় খুৎবা দিতে দেখেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নুবাইত (রাযি.) সূত্রে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে আরাফার ময়দানে একটি লাল রংয়ের উষ্ট্রীর উপর সওয়ার অবস্থায় খুৎবা দিতে দেখেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Nubayt: Nubayt had seen the Prophet (ﷺ) in Arafat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
+
+## French
+
+Rapporté par Nubayt : Nubayt a vu le Prophète ﷺ à ‘Arafah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Musaddad\], telah menceritakan kepada Kami \[Abdullah bin Daud\] dari \[Salamah bin Nubaith\] dari \[seorang laki-laki\] dari Al Hayy, dari \[ayahnya yaitu Nubaith\], bahwa ia melihat Nabi shallallahu 'alaihi wasallam berdiri di 'Arafah di atas unta mererah beliau berkhutbah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdullah bin Daud] dari [Salamah bin Nubaith] dari [seorang laki-laki] dari Al Hayy, dari [ayahnya yaitu Nubaith], bahwa ia melihat Nabi shallallahu 'alaihi wasallam berdiri di 'Arafah di atas unta mererah beliau berkhutbah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Саляма ибн Нубайт, да будет доволен им Аллах, передаёт от человека из их квартала от его отца Нубайта, что он видел Пророка ﷺ на ‘Арафате. Он произносил проповедь, сидя на красном верблюде
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nubayt'tan rivayet edildiğine göre, Kendisi Arefe günü Nebi (S.A.V.)'i , kızıl bir deve üzerinde konuşma yaparken görmüş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبیط بن شریط رضی اللہ عنہ سے روایت ہے کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم کو عرفات میں سرخ اونٹ پر کھڑے ہو کر خطبہ دیتے دیکھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 11 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 11 Hadith 196 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ أَبِي إِسْحَاقَ، عَنْ عُمَرَ بْنِ سَعْدٍ، قَالَ حَدَّثَنَا سَعْدُ بْنُ أَبِي وَقَّاصٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ قِتَالُ الْمُسْلِمِ كُفْرٌ وَسِبَابُهُ فُسُوقٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 37 Hadith 139</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا عبد الرزاق، قال حدثنا معمر، عن ابي اسحاق، عن عمر بن سعد، قال حدثنا سعد بن ابي وقاص، ان رسول الله صلى الله عليه وسلم قال " قتال المسلم كفر وسبابه فسوق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 37 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... সা'দ ইবন আবূ ওয়াক্কাস (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিমদের সাথে যুদ্ধ করা কুফরী এবং তাদের গালি দেয়া পাপ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 37 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |
 
 ## English
 
+Sa'd bin Abi Waqas told us that:The Messenger of Allah \[SAW\] said: "Fighting a Muslim is Kufr and defaming him is evildoing
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sa'd bin Abi Waqas told us that:The Messenger of Allah [SAW] said: "Fighting a Muslim is Kufr and defaming him is evildoing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 37 Hadith 139</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |
+
+## French
+
+Rapporté par Sa'd bin Abi Waqas : Le Messager d’Allah ﷺ a dit : "Combattre un musulman est une forme de mécréance et l’insulter est une injustice
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\], ia berkata; telah memberitakan kepada kami \[Abdur Razzaq\], ia berkata; telah menceritakan kepada kami \[Ma'mar\] dari \[Abu Ishaq\] dari \[Umar bin Sa'd\], ia berkata; telah menceritakan kepada kami \[Sa'd bin Abu Waqqash\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Membunuh orang muslim adalah kekafiran dan mencelanya adalah kefasikan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim], ia berkata; telah memberitakan kepada kami [Abdur Razzaq], ia berkata; telah menceritakan kepada kami [Ma'mar] dari [Abu Ishaq] dari [Umar bin Sa'd], ia berkata; telah menceritakan kepada kami [Sa'd bin Abu Waqqash] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Membunuh orang muslim adalah kekafiran dan mencelanya adalah kefasikan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 37 Hadith 139</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 37 Hadith 139</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4104</td></tr><tr><td>Arabic No</td><td>4104</td></tr><tr><td>Reference</td><td>Book 37 Hadith 139</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4104 |
+| Arabic No | 4104 |
+| Reference | Book 37 Hadith 139 |

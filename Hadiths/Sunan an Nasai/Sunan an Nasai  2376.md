@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْمَاعِيلُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا أَبِي، عَنِ الأَوْزَاعِيِّ، عَنْ عَطَاءٍ، قَالَ حَدَّثَنِي مَنْ، سَمِعَ ابْنَ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ صَامَ الأَبَدَ فَلاَ صَامَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 22 Hadith 287</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |
+
 اخبرنا اسماعيل بن يعقوب، قال حدثنا محمد بن موسى، قال حدثنا ابي، عن الاوزاعي، عن عطاء، قال حدثني من، سمع ابن عمر، ان النبي صلى الله عليه وسلم قال " من صام الابد فلا صام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 22 Hadith 287</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইসমাঈল ইবনু ইয়াকুব (রহঃ) ... ইবনু উমর (রাঃ) থেকে শ্রবণকারী এক ব্যক্তি বর্ণনা করেছেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি সারা জীবন সাওম পালন করে তার সাওম পালন গ্রহণযোগ্য হবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 22 Hadith 287</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ata said:"someone who heard him told me that Ibn 'Umar (said) that the Prophet said: 'Whoever fasts every day of his life, then he has not fasted
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 22 Hadith 287</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |
+
+## French
+
+Rapporté par Ata : Quelqu’un qui l’a entendu m’a dit qu’Ibn ‘Umar رضي الله عنه a dit que le Prophète a dit : « Celui qui jeûne tous les jours de sa vie, en réalité il n’a pas jeûné. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Isma'il bin Ya'qub\] dia berkata; telah menceritakan kepada kami \[Muhammad bin Musa\] dia berkata; \[bapakku\] telah menceritakan kepada kami, dari \[Al Auza'i\] dari \['Atha\] dia berkata; telah menceritakan kepadaku \[orang\] yang mendengar \[Ibnu 'Umar\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa selama-lamanya, ia -dianggap- tidak berpuasa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Isma'il bin Ya'qub] dia berkata; telah menceritakan kepada kami [Muhammad bin Musa] dia berkata; [bapakku] telah menceritakan kepada kami, dari [Al Auza'i] dari ['Atha] dia berkata; telah menceritakan kepadaku [orang] yang mendengar [Ibnu 'Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang berpuasa selama-lamanya, ia -dianggap- tidak berpuasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 22 Hadith 287</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 22 Hadith 287</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی الله عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جس نے ہمیشہ روزے رکھے اس نے روزے ہی نہیں رکھے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 22 Hadith 287</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 22 Hadith 287 |

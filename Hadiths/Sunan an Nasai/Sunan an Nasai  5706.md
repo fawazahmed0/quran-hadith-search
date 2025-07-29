@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا زَكَرِيَّا بْنُ يَحْيَى، قَالَ حَدَّثَنَا عَبْدُ الأَعْلَى، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، سَمِعَ سَعِيدَ بْنَ الْمُسَيَّبِ، يَقُولُ تَلَقَّتْ ثَقِيفٌ عُمَرَ بِشَرَابٍ فَدَعَا بِهِ فَلَمَّا قَرَّبَهُ إِلَى فِيهِ كَرِهَهُ فَدَعَا بِهِ فَكَسَرَهُ بِالْمَاءِ فَقَالَ هَكَذَا فَافْعَلُوا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |
+
 اخبرنا زكريا بن يحيى، قال حدثنا عبد الاعلى، قال حدثنا سفيان، عن يحيى بن سعيد، سمع سعيد بن المسيب، يقول تلقت ثقيف عمر بشراب فدعا به فلما قربه الى فيه كرهه فدعا به فكسره بالماء فقال هكذا فافعلوا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যাকারিয়া ইবন ইয়াহ্ইয়া (রহঃ) ... সাঈদ ইবন মুসায়্যিব (রহঃ) বলেন, সাকীফ গোত্রের লোকজন উমর (রাঃ)-এর সংগে এক প্রকারের পানীয় নিয়ে সাক্ষাত করল। তিনি তার কাছে নিতে বললেন। তারপর তিনি যখন তা মুখের কাছে নিলেন, তখন তাঁর কাছে তা খারাপ লাগল। তারপর তিনি পানি মিশিয়ে তার ঝাঁঝ কমিয়ে দিলেন। পরে তিনি বললেনঃ তোমরাও এরূপ করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Yahya bin Sa'eed who heard Sa'eed bin Al-Musayyab say:"Thaqif welcomed 'Umar with a drink. He called for it, but when he brought it close to his mouth, he did not like it. He called for water to weaken it, and said: 'Do like this
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |
+
+## French
+
+Rapporté par Yahya bin Sa'eed, qui a entendu Sa'eed bin Al-Musayyab dire : "Thaqif a accueilli 'Umar avec une boisson. Il l'a demandée, mais quand il l'a approchée de sa bouche, il ne l'a pas aimée. Il a demandé de l'eau pour la diluer et a dit : 'Faites comme cela
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5706</td></tr><tr><td>Arabic No</td><td>5706</td></tr><tr><td>Reference</td><td>Book 51 Hadith 168</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5706 |
+| Arabic No | 5706 |
+| Reference | Book 51 Hadith 168 |

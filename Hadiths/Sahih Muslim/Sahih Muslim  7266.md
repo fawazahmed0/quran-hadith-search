@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنِي وَهْبُ بْنُ جَرِيرٍ، أَخْبَرَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن المثنى، حدثني وهب بن جرير، اخبرنا شعبة، بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... শুবাহ্ (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণিত রয়েছে। (ইসলামিক ফাউন্ডেশন ৭০০২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## French
 
+Rapporté par Shu'ba : Ce hadith a été rapporté avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-24) Bize Muhammed b. Müsennâ rivayet etti. (Dediki): Bana Vehb b. Cerir rivayet etti. (Dediki): Bize Şu'be bu isnadla bu hadîsin mislini haber verdi. İZAH 2892 DE
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وہب بن جریر نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7266</td></tr><tr><td>Arabic No</td><td>2891.05</td></tr><tr><td>Reference</td><td>Book 54 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7266 |
+| Arabic No | 2891.05 |
+| Reference | Book 54 Hadith 32 |

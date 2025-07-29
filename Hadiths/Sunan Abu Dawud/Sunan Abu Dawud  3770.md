@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ شُعَيْبِ بْنِ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنْ أَبِيهِ، قَالَ مَا رُئِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْكُلُ مُتَّكِئًا قَطُّ وَلاَ يَطَأُ عَقِبَهُ رَجُلاَنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن ثابت البناني، عن شعيب بن عبد الله بن عمرو، عن ابيه، قال ما ريي رسول الله صلى الله عليه وسلم ياكل متكيا قط ولا يطا عقبه رجلان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
 
 ## Bengali
 
+। মুস‘আব ইবনু সুলাইম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে বলতে শুনেছিঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কোনো এক কাজে প্রেরণ করলেন। আমি তাঁর নিকট ফিরে এসে দেখি তিনি বসে খেজুর খাচ্ছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুস‘আব ইবনু সুলাইম (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ)-কে বলতে শুনেছিঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কোনো এক কাজে প্রেরণ করলেন। আমি তাঁর নিকট ফিরে এসে দেখি তিনি বসে খেজুর খাচ্ছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) was never seen reclining while eating, nor walking with two men at his heels
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
+
+## French
+
+Rapporté par Abdullah ibn Amr ibn al-‘As : On n’a jamais vu le Messager d’Allah ﷺ manger en étant appuyé, ni marcher avec deux hommes derrière lui
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dari \[Tsabit Al Bunani\] dari \[Syu'aib bin Abdullah bin 'Amru\] dari \[Ayahnya\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam tidak pernah terlihat makan dalam keadaan bersandar sama sekali, dan tidak ada dua orangpun yang berjalan di belakang beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani] dari [Syu'aib bin Abdullah bin 'Amru] dari [Ayahnya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam tidak pernah terlihat makan dalam keadaan bersandar sama sekali, dan tidak ada dua orangpun yang berjalan di belakang beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Анас, да будет доволен им Аллах, передаёт: «Пророк ﷺ отправил меня с каким-то поручением, а когда я вернулся, я увидел, как Пророк ﷺ сидевший в позе “ик‘а”, ел финики»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Şuayb b. Muhammed b. Abdillah b. Amr'ın) babasından şöyle dediği rivayet olunmuştur: Rasûlullah (s.a.v.)'in hiçbir zaman (bir yere) dayanarak (yemek) yediği görülmemiştir. Arkasında iki adam'ın yürüdüğü de görülmemiştir. Ayrıca bu hadis'i Buhari, ahkâm; İbn Mâce, mukaddime; Ahmed b. Hanbel, II, 125, 127. de tahric etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کبھی ٹیک لگا کر کھاتے ہوئے نہیں دیکھے گئے، اور نہ ہی آپ کے پیچھے دو آدمیوں کو چلتے دیکھا گیا ( بلکہ آپ صلی اللہ علیہ وسلم بیچ میں یا سب سے پیچھے چلا کرتے تھے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3770</td></tr><tr><td>Arabic No</td><td>3770</td></tr><tr><td>Reference</td><td>Book 28 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3770 |
+| Arabic No | 3770 |
+| Reference | Book 28 Hadith 35 |

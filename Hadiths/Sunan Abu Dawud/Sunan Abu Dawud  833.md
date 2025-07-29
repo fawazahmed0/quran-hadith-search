@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو تَوْبَةَ الرَّبِيعُ بْنُ نَافِعٍ، أَخْبَرَنَا أَبُو إِسْحَاقَ، - يَعْنِي الْفَزَارِيَّ - عَنْ حُمَيْدٍ، عَنِ الْحَسَنِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كُنَّا نُصَلِّي التَّطَوُّعَ نَدْعُو قِيَامًا وَقُعُودًا وَنُسَبِّحُ رُكُوعًا وَسُجُودًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
+
 حدثنا ابو توبة الربيع بن نافع، اخبرنا ابو اسحاق، - يعني الفزاري - عن حميد، عن الحسن، عن جابر بن عبد الله، قال كنا نصلي التطوع ندعو قياما وقعودا ونسبح ركوعا وسجودا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
 
 ## Bengali
 
+। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সুত্রে বর্ণিত। তিনি বলেন, আমরা নফল সালাতে দাঁড়ানো ও বসা অবস্থায় দু‘আ করতাম এবং রুকূ‘ ও সিজদা্ অবস্থায় তাসবীহ পড়তাম।\[1\] দুর্বল মাওকূফ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সুত্রে বর্ণিত। তিনি বলেন, আমরা নফল সালাতে দাঁড়ানো ও বসা অবস্থায় দু‘আ করতাম এবং রুকূ‘ ও সিজদা্ অবস্থায় তাসবীহ পড়তাম।[1] দুর্বল মাওকূফ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. ‘Abd Allah said:we used to offer supererogatory prayers and recite supplications while we were standing, and would glorify Allah while bowing and prostrating
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
+
+## French
+
+Rapporté par Jabir b. ‘Abd Allah : Nous faisions des prières surérogatoires et nous récitions des invocations debout, et nous glorifiions Allah en nous inclinant et en nous prosternant
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «Совершая дополнительные молитвы, мы обращались к Аллаху с мольбами стоя и сидя и прославляли Его во время поясных и земных поклонов»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir b. Abdillah'dan; demiştir ki: Biz (Nebi (Sallallahu aleyhi ve Sellem)'in sağlığında) ayakta ve otururken dua ederek rüku ve secdede iken de, tesbih ederek nafile namaz kılardık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں ہم نفل نماز پڑھتے تو قیام و قعود کی حالت میں دعا کرتے اور رکوع و سجود کی حالت میں تسبیح پڑھتے تھے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Muquf</td><td>Al-Albani</td></tr><tr><td>Daif Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>833</td></tr><tr><td>Arabic No</td><td>833</td></tr><tr><td>Reference</td><td>Book 2 Hadith 443</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Muquf | Al-Albani |
+| Daif Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 833 |
+| Arabic No | 833 |
+| Reference | Book 2 Hadith 443 |

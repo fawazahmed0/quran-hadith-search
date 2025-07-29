@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## French
 
+Rapporté par Ahmad bin Ibrāhīm : Sulaymān bin Harb m’a rapporté, d’après Hammād bin Zayd : Farqad a été mentionné devant Ayyūb, alors il a dit : « En vérité, Farqad n’est pas un compagnon du ḥadith. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>89</td></tr><tr><td>Reference</td><td>Book 0 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 89 |
+| Reference | Book 0 Hadith 89 |

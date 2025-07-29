@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، قَالَ أَخْبَرَنِي مَيْسَرَةُ بْنُ حَبِيبٍ، قَالَ سَمِعْتُ الْمِنْهَالَ بْنَ عَمْرٍو، يُحَدِّثُ عَنْ أَبِي عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ، أَنَّهُ رَأَى رَجُلاً يُصَلِّي قَدْ صَفَّ بَيْنَ قَدَمَيْهِ فَقَالَ أَخْطَأَ السُّنَّةَ وَلَوْ رَاوَحَ بَيْنَهُمَا كَانَ أَعْجَبَ إِلَىَّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |
+
 اخبرنا اسماعيل بن مسعود، قال حدثنا خالد، عن شعبة، قال اخبرني ميسرة بن حبيب، قال سمعت المنهال بن عمرو، يحدث عن ابي عبيدة، عن عبد الله، انه راى رجلا يصلي قد صف بين قدميه فقال اخطا السنة ولو راوح بينهما كان اعجب الى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইসমাঈল ইবনু মাসউদ (রহঃ) ... আব্দুল্লাহ ইবনু মাসউদ (রাঃ) থেকে বর্ণিত যে, তিনি এক ব্যক্তিকে দেখলেন, সে সালাত আদায় করছে দু’পা মিলিয়ে। তিনি বললেন, এ ব্যক্তি সুন্নতের খেলাফ করছে। যদি সে দু'পায়ের মধ্যে ফাঁক রেখে দাঁড়াত তা হলে তা আমার কাছে অধিক পছন্দনীয় হত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abdullah that:He saw a man praying with his feet together. He said: "He is not following the Sunnah. If he were to shift his weight from one to the other I would like that better
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |
+
+## French
+
+Rapporté par Abdullah : Il a vu un homme prier les pieds joints. Il a dit : « Il ne suit pas la Sunna. S’il déplaçait son poids d’un pied à l’autre, je préférerais cela. »
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Isma'il bin Mas'ud\] dia berkata; telah menceritakan kepada kami \[Khalid\] dari \[Syu'bah\] dia berkata; telah mengabarkan kepadaku \[Maisarah bin Habib\] dia berkata; Aku mendengar \[Al Minhal bin 'Amr\] menceritakan dari \[Abu 'Ubaidah\] dari \[Abdullah\] bahwasanya ia melihat seorang lelaki sedang shalat dengan merapatkan kedua telapak kakinya. Lalu ia berkata; 'Dia telah menyelisihi sunnah, seandainya dia memisahkan keduanya, itu lebih aku sukai
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Isma'il bin Mas'ud] dia berkata; telah menceritakan kepada kami [Khalid] dari [Syu'bah] dia berkata; telah mengabarkan kepadaku [Maisarah bin Habib] dia berkata; Aku mendengar [Al Minhal bin 'Amr] menceritakan dari [Abu 'Ubaidah] dari [Abdullah] bahwasanya ia melihat seorang lelaki sedang shalat dengan merapatkan kedua telapak kakinya. Lalu ia berkata; 'Dia telah menyelisihi sunnah, seandainya dia memisahkan keduanya, itu lebih aku sukai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی اللہ عنہ سے روایت ہے کہ انہوں نے ایک شخص کو نماز پڑھتے ہوئے دیکھا، اس نے اپنے دونوں قدم ملا رکھا تھا تو انہوں نے کہا: یہ سنت سے چوک گیا، اگر وہ ان دونوں کو ایک دوسرے سے جدا رکھتا تو میرے نزدیک زیادہ اچھا ہوتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>893</td></tr><tr><td>Arabic No</td><td>893</td></tr><tr><td>Reference</td><td>Book 11 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 893 |
+| Arabic No | 893 |
+| Reference | Book 11 Hadith 18 |

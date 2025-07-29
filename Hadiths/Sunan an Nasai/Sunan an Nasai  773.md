@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عَبْدِ الْمَلِكِ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا جَابِرُ بْنُ صُبْحٍ، قَالَ سَمِعْتُ خِلاَسَ بْنَ عَمْرٍو، يَقُولُ سَمِعْتُ عَائِشَةَ، تَقُولُ كُنْتُ أَنَا وَرَسُولُ اللَّهِ، صلى الله عليه وسلم أَبُو الْقَاسِمِ فِي الشِّعَارِ الْوَاحِدِ وَأَنَا حَائِضٌ، طَامِثٌ فَإِنْ أَصَابَهُ مِنِّي شَىْءٌ غَسَلَ مَا أَصَابَهُ لَمْ يَعْدُهُ إِلَى غَيْرِهِ وَصَلَّى فِيهِ ثُمَّ يَعُودُ مَعِي فَإِنْ أَصَابَهُ مِنِّي شَىْءٌ فَعَلَ مِثْلَ ذَلِكَ لَمْ يَعْدُهُ إِلَى غَيْرِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |
+
 اخبرنا عمرو بن منصور، قال حدثنا هشام بن عبد الملك، قال حدثنا يحيى بن سعيد، قال حدثنا جابر بن صبح، قال سمعت خلاس بن عمرو، يقول سمعت عايشة، تقول كنت انا ورسول الله، صلى الله عليه وسلم ابو القاسم في الشعار الواحد وانا حايض، طامث فان اصابه مني شىء غسل ما اصابه لم يعده الى غيره وصلى فيه ثم يعود معي فان اصابه مني شىء فعل مثل ذلك لم يعده الى غيره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু মানসূর (রহঃ) ... খিলাস ইবনু আমর (রাঃ) খেবে বর্ণিত। তিনি বলেন, আমি আয়িশা (রাঃ)-কে বলতে শুনেছি, আমি এবং আবূল কাসেম (রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) একই চাদরে থাকতাম আর তখন আমি অধিক হায়েয গ্রস্থা ছিলাম, যদি আমা হতে কিছু তাঁর গায়ে লাগত তাহলে তিনি তা ধুয়ে ফেলতেন, এর অতিরিক্ত ধুতেন না এবং তাতেই সালাত আদায় করতেন। তারপর আবার আমার সাথে অবস্থান করতেন। যদি আমা হতে কিছু তাঁর শরীরে লাগত তিনি তা-ই ধুতেন, তাছাড়া আর কোন জায়গা ধুতেন না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Khilas bin 'Amr said:"I heard Aisha (ra) say: 'The Messenger of Allah (ﷺ), Abii Al-Qbim, and I were beneath a single blanket, and I was menstruating. If something got on him from me, he would wash whatever had got on him and he did not wash anywhere else, and he prayed in it then came back to me.And if anything got on him from me,he would do exactly the same and he did not wash anywhere else
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |
+
+## French
+
+Rapporté par Khilas bin 'Amr : J’ai entendu Aisha, رضي الله عنها, dire : "Le Messager d’Allah (ﷺ), Abii Al-Qbim et moi étions sous une seule couverture, et j’avais mes règles. Si quelque chose de moi se retrouvait sur lui, il lavait seulement cette partie et priait avec, puis revenait vers moi. Et si quelque chose de moi se retrouvait sur lui, il faisait exactement la même chose et ne lavait rien d’autre
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |
 
 ## Indonesian
 
+Telah mengkabarkan kepada kami \['Amr bin Manshur\] dia berkata; telah menceritakan kepada kami \[Hisyam bin Abdul Malik\] dia berkata; telah menceritakan kepada kami \[Yahya bin Sa'id\] dia berkata; telah menceritakan kepada kami \[Jabir bin Shubh\] dia berkata; aku mendengar \[Khilash bin 'Amr\] berkata; aku mendengar \['Aisyah\] berkata; "Aku pernah tidur bersama Rasulullah Shallallahu'alaihi wasallam -alias Abu Al Qasim- dalam satu selimut, sedangkan aku sedang haid. Jika beliau terkena sesuatu dariku, maka beliau membasuh tempat yang terkena tadi dan tidak melebihinya, kemudian beliau shalat dengan selimut tadi. Lalu beliau kembali lagi, dan jika beliau terkena sesuatu dariku maka beliau melakukan hal seperti sebelumnya dan tidak melebihinya, lalu shalat dengan selimut tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkabarkan kepada kami ['Amr bin Manshur] dia berkata; telah menceritakan kepada kami [Hisyam bin Abdul Malik] dia berkata; telah menceritakan kepada kami [Yahya bin Sa'id] dia berkata; telah menceritakan kepada kami [Jabir bin Shubh] dia berkata; aku mendengar [Khilash bin 'Amr] berkata; aku mendengar ['Aisyah] berkata; "Aku pernah tidur bersama Rasulullah Shallallahu'alaihi wasallam -alias Abu Al Qasim- dalam satu selimut, sedangkan aku sedang haid. Jika beliau terkena sesuatu dariku, maka beliau membasuh tempat yang terkena tadi dan tidak melebihinya, kemudian beliau shalat dengan selimut tadi. Lalu beliau kembali lagi, dan jika beliau terkena sesuatu dariku maka beliau melakukan hal seperti sebelumnya dan tidak melebihinya, lalu shalat dengan selimut tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں اور رسول اکرم ابوالقاسم صلی اللہ علیہ وسلم دونوں جسم سے لگے ایک ہی کپڑے میں سوتے اور میں حائضہ ہوتی، اگر مجھ سے آپ کو کچھ ( خون ) لگ جاتا تو آپ جتنی جگہ میں لگتا اسی کو دھو لیتے اور اس سے آگے تجاوز نہ فرماتے، اور اسی میں نماز پڑھتے، پھر واپس آ کر میرے ساتھ لیٹتے، اگر پھر مجھ سے کچھ ( خون ) لگ جاتا تو آپ پھر ویسے ہی کرتے، اور اس سے آگے تجاوز نہ فرماتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>773</td></tr><tr><td>Arabic No</td><td>773</td></tr><tr><td>Reference</td><td>Book 9 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 773 |
+| Arabic No | 773 |
+| Reference | Book 9 Hadith 32 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قَبِيصَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَغْتَسِلُ أَنَا وَالنَّبِيُّ، صلى الله عليه وسلم مِنْ إِنَاءٍ وَاحِدٍ، كِلاَنَا جُنُبٌ‏.‏ وَكَانَ يَأْمُرُنِي فَأَتَّزِرُ، فَيُبَاشِرُنِي وَأَنَا حَائِضٌ‏.‏ وَكَانَ يُخْرِجُ رَأْسَهُ إِلَىَّ وَهُوَ مُعْتَكِفٌ، فَأَغْسِلُهُ وَأَنَا حَائِضٌ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا قبيصة، قال حدثنا سفيان، عن منصور، عن ابراهيم، عن الاسود، عن عايشة، قالت كنت اغتسل انا والنبي، صلى الله عليه وسلم من اناء واحد، كلانا جنب. وكان يامرني فاتزر، فيباشرني وانا حايض. وكان يخرج راسه الى وهو معتكف، فاغسله وانا حايض
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আয়িশা (রাঃ) থেকে বর্ণিতঃ তাছাড়া তিনি ই’তিকাফ অবস্থায় মাথা বের করে দিতেন, আর আমি হায়েয অবস্থায় মাথা ধুয়ে দিতাম। (২৯৫) (আ.প্র. ২৯০, ই.ফা)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aisha:The Prophet (ﷺ) and I used to take a bath from a single pot while we were Junub. During the menses, he used to order me to put on an Izar (dress worn below the waist) and used to fondle me. While in I'tikaf, he used to bring his head near me and I would wash it while I used to be in my periods (menses)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
+
+## French
+
+Rapporté par 'Aisha : Le Prophète (ﷺ) et moi prenions un bain ensemble dans un seul récipient alors que nous étions en état de grande impureté. Pendant mes règles, il me demandait de mettre un izar (vêtement porté en bas du corps) et il me caressait. Pendant l’i'tikaf, il approchait sa tête de moi et je la lavais, même si j’avais mes règles
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qabishah\] berkata, telah menceritakan kepada kami \[Sufyan\] dari \[Manshur\] dari \[Ibrahim\] dari \[Al Aswad\] dari \['Aisyah\] berkata, "Aku dan Nabi shallallahu 'alaihi wasallam pernah mandi bersama dari satu bejana. Saat itu kami berdua sedang junub. Beliau juga pernah memerintahkan aku mengenakan kain, lalu beliau mencumbuiku sementara aku sedang haid. Beliau juga pernah mendekatkan kepalanya kepadaku saat beliau i'tikaf, aku lalu basuh kepalanya padahal saat itu aku sedang haid
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qabishah] berkata, telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] berkata, "Aku dan Nabi shallallahu 'alaihi wasallam pernah mandi bersama dari satu bejana. Saat itu kami berdua sedang junub. Beliau juga pernah memerintahkan aku mengenakan kain, lalu beliau mencumbuiku sementara aku sedang haid. Beliau juga pernah mendekatkan kepalanya kepadaku saat beliau i'tikaf, aku lalu basuh kepalanya padahal saat itu aku sedang haid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:«И во время своих уединений в мечети он просовывал ко мне голову, а я мыла её, когда у меня были месячные»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
 ## Turkish
 
+Aişe r.anha'dan şöyle nakledilmiştir: "İkimiz de cünüp iken Nebi (Sallallahu aleyhi ve Sellem) ile birlikte bir kaptaki suyu kullanarak ğusül abdesti alırdık." \[-300-\] Bana emrederdi, ben de izarımi bağlardım. Sonra hayızlı olmama rağmen bana dokunurdu. Tekrar: 302, 2030 \[-301-\] Nebi (Sallallahu aleyhi ve Sellem) itikattayken başını bana uzatırdı. Ben de hayızlı olduğum halde başını yıkardım." İZAH: SAYFA: 208, HADİS NO:
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe r.anha'dan şöyle nakledilmiştir: "İkimiz de cünüp iken Nebi (Sallallahu aleyhi ve Sellem) ile birlikte bir kaptaki suyu kullanarak ğusül abdesti alırdık." [-300-] Bana emrederdi, ben de izarımi bağlardım. Sonra hayızlı olmama rağmen bana dokunurdu. Tekrar: 302, 2030 [-301-] Nebi (Sallallahu aleyhi ve Sellem) itikattayken başını bana uzatırdı. Ben de hayızlı olduğum halde başını yıkardım." İZAH: SAYFA: 208, HADİS NO:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>301</td></tr><tr><td>Arabic No</td><td>301</td></tr><tr><td>Reference</td><td>Book 6 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 301 |
+| Arabic No | 301 |
+| Reference | Book 6 Hadith 6 |

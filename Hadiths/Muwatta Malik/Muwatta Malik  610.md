@@ -14,62 +14,108 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، أَنَّهُ سَأَلَ ابْنَ شِهَابٍ عَنِ الزَّيْتُونِ، فَقَالَ فِيهِ الْعُشْرُ ‏.‏ قَالَ مَالِكٌ وَإِنَّمَا يُؤْخَذُ مِنَ الزَّيْتُونِ الْعُشْرُ بَعْدَ أَنْ يُعْصَرَ وَيَبْلُغَ زَيْتُونُهُ خَمْسَةَ أَوْسُقٍ فَمَا لَمْ يَبْلُغْ زَيْتُونُهُ خَمْسَةَ أَوْسُقٍ فَلاَ زَكَاةَ فِيهِ وَالزَّيْتُونُ بِمَنْزِلَةِ النَّخِيلِ مَا كَانَ مِنْهُ سَقَتْهُ السَّمَاءُ وَالْعُيُونُ أَوْ كَانَ بَعْلاً فَفِيهِ الْعُشْرُ وَمَا كَانَ يُسْقَى بِالنَّضْحِ فَفِيهِ نِصْفُ الْعُشْرِ وَلاَ يُخْرَصُ شَىْءٌ مِنَ الزَّيْتُونِ فِي شَجَرِهِ ‏.‏ وَالسُّنَّةُ عِنْدَنَا فِي الْحُبُوبِ الَّتِي يَدَّخِرُهَا النَّاسُ وَيَأْكُلُونَهَا أَنَّهُ يُؤْخَذُ مِمَّا سَقَتْهُ السَّمَاءُ مِنْ ذَلِكَ وَمَا سَقَتْهُ الْعُيُونُ وَمَا كَانَ بَعْلاً الْعُشْرُ وَمَا سُقِيَ بِالنَّضْحِ نِصْفُ الْعُشْرِ إِذَا بَلَغَ ذَلِكَ خَمْسَةَ أَوْسُقٍ بِالصَّاعِ الأَوَّلِ صَاعِ النَّبِيِّ صلى الله عليه وسلم وَمَا زَادَ عَلَى خَمْسَةِ أَوْسُقٍ فَفِيهِ الزَّكَاةُ بِحِسَابِ ذَلِكَ ‏.‏ قَالَ مَالِكٌ وَالْحُبُوبُ الَّتِي فِيهَا الزَّكَاةُ الْحِنْطَةُ وَالشَّعِيرُ وَالسُّلْتُ وَالذُّرَةُ وَالدُّخْنُ وَالأُرْزُ وَالْعَدَسُ وَالْجُلْبَانُ وَاللُّوبِيَا وَالْجُلْجُلاَنُ وَمَا أَشْبَهَ ذَلِكَ مِنَ الْحُبُوبِ الَّتِي تَصِيرُ طَعَامًا فَالزَّكَاةُ تُؤْخَذُ مِنْهَا بَعْدَ أَنْ تُحْصَدَ وَتَصِيرَ حَبًّا ‏.‏ قَالَ وَالنَّاسُ مُصَدَّقُونَ فِي ذَلِكَ وَيُقْبَلُ مِنْهُمْ فِي ذَلِكَ مَا دَفَعُوا ‏.‏ وَسُئِلَ مَالِكٌ مَتَى يُخْرَجُ مِنَ الزَّيْتُونِ الْعُشْرُ أَوْ نِصْفُهُ أَقَبْلَ النَّفَقَةِ أَمْ بَعْدَهَا فَقَالَ لاَ يُنْظَرُ إِلَى النَّفَقَةِ وَلَكِنْ يُسْأَلُ عَنْهُ أَهْلُهُ كَمَا يُسْأَلُ أَهْلُ الطَّعَامِ عَنِ الطَّعَامِ وَيُصَدَّقُونَ بِمَا قَالُوا فَمَنْ رُفِعَ مِنْ زَيْتُونِهِ خَمْسَةُ أَوْسُقٍ فَصَاعِدًا أُخِذَ مِنْ زَيْتِهِ الْعُشْرُ بَعْدَ أَنْ يُعْصَرَ وَمَنْ لَمْ يُرْفَعْ مِنْ زَيْتُونِهِ خَمْسَةُ أَوْسُقٍ لَمْ تَجِبْ عَلَيْهِ فِي زَيْتِهِ الزَّكَاةُ ‏.‏ قَالَ مَالِكٌ وَمَنْ بَاعَ زَرْعَهُ وَقَدْ صَلَحَ وَيَبِسَ فِي أَكْمَامِهِ فَعَلَيْهِ زَكَاتُهُ وَلَيْسَ عَلَى الَّذِي اشْتَرَاهُ زَكَاةٌ وَلاَ يَصْلُحُ بَيْعُ الزَّرْعِ حَتَّى يَيْبَسَ فِي أَكْمَامِهِ وَيَسْتَغْنِيَ عَنِ الْمَاءِ ‏.‏ قَالَ مَالِكٌ فِي قَوْلِ اللَّهِ تَعَالَى ‏(‏وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ ‏)‏ أَنَّ ذَلِكَ الزَّكَاةُ وَقَدْ سَمِعْتُ مَنْ يَقُولُ ذَلِكَ ‏.‏ قَالَ مَالِكٌ وَمَنْ بَاعَ أَصْلَ حَائِطِهِ أَوْ أَرْضَهُ وَفِي ذَلِكَ زَرْعٌ أَوْ ثَمَرٌ لَمْ يَبْدُ صَلاَحُهُ فَزَكَاةُ ذَلِكَ عَلَى الْمُبْتَاعِ وَإِنْ كَانَ قَدْ طَابَ وَحَلَّ بَيْعُهُ فَزَكَاةُ ذَلِكَ عَلَى الْبَائِعِ إِلاَّ أَنْ يَشْتَرِطَهَا عَلَى الْمُبْتَاعِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |
+
 حدثني يحيى، عن مالك، انه سال ابن شهاب عن الزيتون، فقال فيه العشر . قال مالك وانما يوخذ من الزيتون العشر بعد ان يعصر ويبلغ زيتونه خمسة اوسق فما لم يبلغ زيتونه خمسة اوسق فلا زكاة فيه والزيتون بمنزلة النخيل ما كان منه سقته السماء والعيون او كان بعلا ففيه العشر وما كان يسقى بالنضح ففيه نصف العشر ولا يخرص شىء من الزيتون في شجره . والسنة عندنا في الحبوب التي يدخرها الناس وياكلونها انه يوخذ مما سقته السماء من ذلك وما سقته العيون وما كان بعلا العشر وما سقي بالنضح نصف العشر اذا بلغ ذلك خمسة اوسق بالصاع الاول صاع النبي صلى الله عليه وسلم وما زاد على خمسة اوسق ففيه الزكاة بحساب ذلك . قال مالك والحبوب التي فيها الزكاة الحنطة والشعير والسلت والذرة والدخن والارز والعدس والجلبان واللوبيا والجلجلان وما اشبه ذلك من الحبوب التي تصير طعاما فالزكاة توخذ منها بعد ان تحصد وتصير حبا . قال والناس مصدقون في ذلك ويقبل منهم في ذلك ما دفعوا . وسيل مالك متى يخرج من الزيتون العشر او نصفه اقبل النفقة ام بعدها فقال لا ينظر الى النفقة ولكن يسال عنه اهله كما يسال اهل الطعام عن الطعام ويصدقون بما قالوا فمن رفع من زيتونه خمسة اوسق فصاعدا اخذ من زيته العشر بعد ان يعصر ومن لم يرفع من زيتونه خمسة اوسق لم تجب عليه في زيته الزكاة . قال مالك ومن باع زرعه وقد صلح ويبس في اكمامه فعليه زكاته وليس على الذي اشتراه زكاة ولا يصلح بيع الزرع حتى ييبس في اكمامه ويستغني عن الماء . قال مالك في قول الله تعالى (واتوا حقه يوم حصاده ) ان ذلك الزكاة وقد سمعت من يقول ذلك . قال مالك ومن باع اصل حايطه او ارضه وفي ذلك زرع او ثمر لم يبد صلاحه فزكاة ذلك على المبتاع وان كان قد طاب وحل بيعه فزكاة ذلك على البايع الا ان يشترطها على المبتاع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মালিক (রহঃ) বলেন, এই বিষয়ে আমাদের নিকট সর্বসম্মত সুন্নত এবং আহলে ইলমদের নিকট যাহা শুনিয়াছি তাহ এই ফল-ফলাড়ি যথা পীচ, ডুমুর অথবা অদ্রপ অন্যান্য ফল অথবা এইগুলির মত না হইলেও যাহা ফল বলিয়া গণ্য, ইহাদের উপর যাকাত ধার্য হয় না। একইভাবে শাক-সবজি, তরিতরকারি ইত্যাদির উপর যাকাত ধার্য হয় না এবং এইগুলির বিক্রয়লব্ধ অর্থের উপরও যাকাত নাই। তবে বিক্রয়লব্ধ অর্থ মালিকের হাতে আসার পর তাহার নিকট এক বৎসর থাকিলে উহার উপর যাকাত ধার্য হইবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik that he asked Ibn Shihab about olives and he said, "There is a tenth on them." Malik said, "The tenth that is taken from olives is taken after they have been pressed, and the olives must come to a minimum amount of five awsuq and there must be at least five awsuq of olives. If there are less than five awsuq of olives, no zakat has to be paid. Olive trees are like date palms insofar as there is a tenth on whatever is watered by rain or springs or any natural means, and a twentieth on whatever is irrigated. However, olives are not estimated while on the tree. The sunna with us as far as grain and seeds which people store and eat is concerned is that a tenth is taken from whatever has been watered by rain or springs or any natural means, and a twentieth from whatever has been irrigated, that is, as long as the amount comes to five awsuq or more using the aforementioned sa, that is, the sa of the Prophet, may Allah bless him and grant him peace. Zakat must be paid on anything above five awsuq according to the amount involved." Malik said, "The kinds of grain and seeds on which there is zakat are:wheat, barley, sult (a kind of barley), sorghum, pearl millet, rice, lentils, peas, beans, sesame seeds and other such grains and seeds which are used for food. Zakat is taken from them after they have been harvested and are in the form of grai n or seed." He said, "People are entrusted with the assessment and whatever they hand over is accepted ." Malik was asked whether the tenth or the twentieth was taken out of olives before they were sold or after and he said, "The sale is not taken into consideration. It is the people who produce the olives that are asked about the olives, just as it is the people who produce foodstuffs that are asked about it, and zakat is taken from them by what they say. Someone who gets five awsuq or more of olives from his olive trees has a tenth taken from the oil after pressing. Whereas someone who does not get five awsuq from his trees does not have to pay any zakat on the oil." Malik said, "Someone who sells his crops when they are ripe and are ready in the husk has to pay zakat on them but the one who buys them does not. The sale of crops is not valid until they are ready in the husk and no longer need water." Malik said, concerning the word of Allah the Exalted, "And give its due on the day of its harvesting," that it referred to zakat, and that he had heard people saying that. Malik said, "If someone sells his garden or his land, on which are crops or fruit which have not yet ripened, then it is the buyer who has to pay the zakat. If, however, they have ripened, it is the seller who has to pay the zakat, unless paying the zakat is one of the conditions of the sale
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malek a rapporté qu'il s'est renseigné au sujet de la zakat des olives, auprès de Ibn Chéhab qui lui répondit: «elle est du dixième». Malek a dit: «la zakat prévue pour l'olive, est du dixième, mais après l'avoir pressé, et que la quantité soit de cinq «Wasqs» et au-delà; si elle est de moins, la zakat n'est plus de droit. Et les oliviers sont considérésr comme les palmiers, au sujet de l'arrosage: que la terre plantée d'oliviers soit arrosée par la pluie et les sources d'eau, la zakat, est là du dixième; arrosée par l'eau puisée des puits ou autres, elle est à la moitié du dixième; pour les oliviers, il n'y a pas à les estimer, alors que les olives sont toujours sur les arbres». Pour ce qui est des grains que les gens réservent pour les manger par la suite, la zakat est du dixième si la terre est arrosée par la pluie ou les sources d'eau; elle est de la moitié du dixième si l'arrosage se fait par de l'eau apportée. On doit tenir compte, que le poids soit de cinq «Wasqs» selon le «sa'» du Prophète (salallahou alayhi wa salam) (Sur lui la grâce et la paix d'Allah), Malek a dit, et toujours au sujet des grains, que ce qui en est soumis, ce sont les genres suivants: froment, orge, soult (genre d'orge), maïs, mil, riz, lentille, vesce, haricot, sésame et autres genres qui leur sont similaires, et sont d'usage alimentaire. Cependant la zakat, prévue pour ces grains, est de droit, une fois qu'ils sont moissonnés et décortiqués. Et, les gens sont de payables à cette zakat, et l'on accepte d'eux tout ce qu'ils donnent». Et, on demanda à Malek le temps, où la zakat des olives, qui est soit du dixième ou de la moitié du deuxième, est à payer; est-ce avant ou après la réduction des frais d'entretien? Il répondit: «on n'a pas à considérer les frais dont les propriétaires se chargent, tout comme le cas de la nourriture et l'on ne s'intéresse qu'à ce qui est de déclaré. Celui, chez qui le poids des olives est de cinq «Wasqs» et au-delà, la zakat est du dixième de l'huile, après que l'olive ait été pressée; si le poids est de moins, la zakat n'est pas à remettre». Malek a dit: «Celui qui vend sa récolte de grains après qu'ils soient devenus secs, indemnes et gardés dans leurs enveloppes, doit lui-même payer la zakat, et non pas l'acheteur. Et les grains ne peuvent être vendus qu'après s'être asséchés dans leurs enveloppes, et sans qu'ils aient encore besoin de l'eau, pour les arroser». Malek a dit, «pour le verset: «Payez-en les droits le jour de la récolte» Coran VI, 141, en l'interprétant: c'est à propos de la zakat, qui est à payer, et c'est dit-il, «ce que j'ai bien entendu dire de plusieurs». Malek finalement a dit: «Celui qui vend son jardin, ou son terrain, qui donne des récoltes, ou à arbres fruitiers, mais, au temps où les fruits ne sont pas mangeables, c'est à l'acheteur de payer la zakat. Au cas, où les frruits sont devenus mangeables, le vendeur doit cette zakat à moins que cela en convient à l'acheteur». Chapitre XXI Les fruits exempts de la zakat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku Yahya dari Malik bertanya kepada \[Ibnu Syihab\] tentang zaitun, ia lalu menjawab; "Zakatnya adalah sepersepuluh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku Yahya dari Malik bertanya kepada [Ibnu Syihab] tentang zaitun, ia lalu menjawab; "Zakatnya adalah sepersepuluh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 امام مالک نے پوچھا ابن شہاب سے کہ زیتون میں کیا واجب ہے بولے دسواں حصہ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>610</td></tr><tr><td>Arabic No</td><td>610</td></tr><tr><td>Reference</td><td>Book 17 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 610 |
+| Arabic No | 610 |
+| Reference | Book 17 Hadith 33 |

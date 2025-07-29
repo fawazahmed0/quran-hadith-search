@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## French
 
+Rapporté par Mahmūd bin Ghaylān : Il a dit : « J’ai dit à Abū Dāwud at-Tayālisī : ‘Tu rapportes beaucoup de choses d’Abbād bin Mansūr – comment se fait-il que tu n’as pas entendu de lui le hadith de “la vendeuse de parfum” qu’an-Naḍr bin Shumayl nous a transmis ?’ \[Abū Dāwud\] m’a dit : ‘Tais-toi, car Abd ar-Rahman bin Mahdī et moi avons rencontré Ziyād bin Maymūn et lui avons demandé : “Ces hadiths que tu rapportes d’Anas, sont-ils authentiques ?” \[Ziyād\] a dit : “Avez-vous déjà vu un homme commettre un péché puis se repentir – Allah ne lui pardonne-t-Il pas ?” \[Abū Dāwud\] dit : ‘Nous avons répondu : “Oui.”’ \[Ziyād\] a dit : “Je n’ai rien entendu d’Anas, ni peu ni beaucoup ; si les gens ne savaient pas, vous non plus vous ne sauriez pas que je n’ai jamais rencontré Anas.”’ Abū Dāwud dit : ‘Nous avons ensuite appris qu’il rapportait \[d’Anas\], alors Abd ar-Rahman et moi sommes allés le voir et il a dit : “Je me suis repenti.” Mais ensuite il a recommencé à rapporter \[de la même manière\], alors nous l’avons abandonné.’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>76</td></tr><tr><td>Reference</td><td>Book 0 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 76 |
+| Reference | Book 0 Hadith 76 |

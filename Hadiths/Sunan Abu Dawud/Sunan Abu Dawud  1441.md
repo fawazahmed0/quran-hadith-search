@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو الْوَلِيدِ، وَمُسْلِمُ بْنُ إِبْرَاهِيمَ، وَحَفْصُ بْنُ عُمَرَ، ح وَحَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنِي أَبِي قَالُوا، كُلُّهُمْ حَدَّثَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنِ ابْنِ أَبِي لَيْلَى، عَنِ الْبَرَاءِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْنُتُ فِي صَلاَةِ الصُّبْحِ زَادَ ابْنُ مُعَاذٍ وَصَلاَةِ الْمَغْرِبِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
+
 حدثنا ابو الوليد، ومسلم بن ابراهيم، وحفص بن عمر، ح وحدثنا ابن معاذ، حدثني ابي قالوا، كلهم حدثنا شعبة، عن عمرو بن مرة، عن ابن ابي ليلى، عن البراء، ان النبي صلى الله عليه وسلم كان يقنت في صلاة الصبح زاد ابن معاذ وصلاة المغرب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
 
 ## Bengali
 
+। আল-বারাআ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাতে দু‘আ কুনূত পাঠ করতেন। ইবনু মুয়াযের বর্ণনায় মাগরিবের সালাতেও কুনূত পড়ার কথা রয়েছে।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-বারাআ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাতে দু‘আ কুনূত পাঠ করতেন। ইবনু মুয়াযের বর্ণনায় মাগরিবের সালাতেও কুনূত পড়ার কথা রয়েছে।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Bara' said:The Prophet (ﷺ) used to recite the supplication in the dawn prayer. The version of Ibn Mu'adh has the words: "sunset prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
+
+## French
+
+Al-Bara’ رضي الله عنه a dit : Le Prophète ﷺ récitait l’invocation dans la prière de l’aube. La version de Ibn Mu’adh ajoute les mots : « dans la prière du coucher du soleil. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abu Al Walid\], \[Muslim bin Ibrahim\], serta \[Hafsh bin Umar\].. dan diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami \[Ibnu Mu'adz\], telah menceritakan kepada Kami \[ayahku\], mereka semua berkata; telah menceritakan kepada Kami \[Syu'bah\] dari \['Amr bin Murrah\] dari \[Ibnu Abu Laila\] dari \[Al Bara'\] bahwa Nabi shallallahu 'alaihi wasallam melakukan qunut ketika shalat Subuh. Ibnu Mu'adz menambahkan; serta shalat Maghrib
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abu Al Walid], [Muslim bin Ibrahim], serta [Hafsh bin Umar].. dan diriwayatkan dari jalur yang lain: Telah menceritakan kepada Kami [Ibnu Mu'adz], telah menceritakan kepada Kami [ayahku], mereka semua berkata; telah menceritakan kepada Kami [Syu'bah] dari ['Amr bin Murrah] dari [Ibnu Abu Laila] dari [Al Bara'] bahwa Nabi shallallahu 'alaihi wasallam melakukan qunut ketika shalat Subuh. Ibnu Mu'adz menambahkan; serta shalat Maghrib
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 А в версии аль-Бара говорится, что Пророк ﷺ совершал кунут во время утренней молитвы /фаджр/, а в версии Ибн Му‘аза говорится: «…и закатной молитвы /магъриб/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bera b. Azib (r.a.)'den rivayet edildiğine göre, Resulullah (s.a.v.) sabah namazında kunut yapardı. (Râvi) İbn Muaz; "Ve akşam namazında" (sözünü) ilâve etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 براء رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم فجر میں قنوت پڑھتے تھے۔ ابن معاذ نے «صلاة المغرب» ( نماز مغرب میں بھی ) کا بھی اضافہ کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (678)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1441</td></tr><tr><td>Arabic No</td><td>1441</td></tr><tr><td>Reference</td><td>Book 8 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (678) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1441 |
+| Arabic No | 1441 |
+| Reference | Book 8 Hadith 26 |

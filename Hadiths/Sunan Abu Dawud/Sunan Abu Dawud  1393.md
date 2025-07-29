@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، أَخْبَرَنَا قُرَّانُ بْنُ تَمَّامٍ، ح وَحَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ، أَخْبَرَنَا أَبُو خَالِدٍ، - وَهَذَا لَفْظُهُ - عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَعْلَى، عَنْ عُثْمَانَ بْنِ عَبْدِ اللَّهِ بْنِ أَوْسٍ، عَنْ جَدِّهِ، - قَالَ عَبْدُ اللَّهِ بْنُ سَعِيدٍ فِي حَدِيثِهِ أَوْسُ بْنُ حُذَيْفَةَ - قَالَ قَدِمْنَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فِي وَفْدِ ثَقِيفٍ - قَالَ - فَنَزَلَتِ الأَحْلاَفُ عَلَى الْمُغِيرَةِ بْنِ شُعْبَةَ وَأَنْزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَنِي مَالِكٍ فِي قُبَّةٍ لَهُ ‏.‏ قَالَ مُسَدَّدٌ وَكَانَ فِي الْوَفْدِ الَّذِينَ قَدِمُوا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْ ثَقِيفٍ قَالَ كَانَ كُلَّ لَيْلَةٍ يَأْتِينَا بَعْدَ الْعِشَاءِ يُحَدِّثُنَا ‏.‏ قَالَ أَبُو سَعِيدٍ قَائِمًا عَلَى رِجْلَيْهِ حَتَّى يُرَاوِحَ بَيْنَ رِجْلَيْهِ مِنْ طُولِ الْقِيَامِ وَأَكْثَرُ مَا يُحَدِّثُنَا مَا لَقِيَ مِنْ قَوْمِهِ مِنْ قُرَيْشٍ ثُمَّ يَقُولُ لاَ سَوَاءً كُنَّا مُسْتَضْعَفِينَ مُسْتَذَلِّينَ - قَالَ مُسَدَّدٌ بِمَكَّةَ - فَلَمَّا خَرَجْنَا إِلَى الْمَدِينَةِ كَانَتْ سِجَالُ الْحَرْبِ بَيْنَنَا وَبَيْنَهُمْ نُدَالُ عَلَيْهِمْ وَيُدَالُونَ عَلَيْنَا فَلَمَّا كَانَتْ لَيْلَةً أَبْطَأَ عَنِ الْوَقْتِ الَّذِي كَانَ يَأْتِينَا فِيهِ فَقُلْنَا لَقَدْ أَبْطَأْتَ عَنَّا اللَّيْلَةَ ‏.‏ قَالَ إِنَّهُ طَرَأَ عَلَىَّ جُزْئِي مِنَ الْقُرْآنِ فَكَرِهْتُ أَنْ أَجِيءَ حَتَّى أُتِمَّهُ ‏.‏ قَالَ أَوْسٌ سَأَلْتُ أَصْحَابَ رَسُولِ اللَّهِ صلى الله عليه وسلم كَيْفَ يُحَزِّبُونَ الْقُرْآنَ قَالُوا ثَلاَثٌ وَخَمْسٌ وَسَبْعٌ وَتِسْعٌ وَإِحْدَى عَشْرَةَ وَثَلاَثَ عَشْرَةَ وَحِزْبُ الْمُفَصَّلِ وَحْدَهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ أَبِي سَعِيدٍ أَتَمُّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
+
 حدثنا مسدد، اخبرنا قران بن تمام، ح وحدثنا عبد الله بن سعيد، اخبرنا ابو خالد، - وهذا لفظه - عن عبد الله بن عبد الرحمن بن يعلى، عن عثمان بن عبد الله بن اوس، عن جده، - قال عبد الله بن سعيد في حديثه اوس بن حذيفة - قال قدمنا على رسول الله صلى الله عليه وسلم في وفد ثقيف - قال - فنزلت الاحلاف على المغيرة بن شعبة وانزل رسول الله صلى الله عليه وسلم بني مالك في قبة له . قال مسدد وكان في الوفد الذين قدموا على رسول الله صلى الله عليه وسلم من ثقيف قال كان كل ليلة ياتينا بعد العشاء يحدثنا . قال ابو سعيد قايما على رجليه حتى يراوح بين رجليه من طول القيام واكثر ما يحدثنا ما لقي من قومه من قريش ثم يقول لا سواء كنا مستضعفين مستذلين - قال مسدد بمكة - فلما خرجنا الى المدينة كانت سجال الحرب بيننا وبينهم ندال عليهم ويدالون علينا فلما كانت ليلة ابطا عن الوقت الذي كان ياتينا فيه فقلنا لقد ابطات عنا الليلة . قال انه طرا على جزيي من القران فكرهت ان اجيء حتى اتمه . قال اوس سالت اصحاب رسول الله صلى الله عليه وسلم كيف يحزبون القران قالوا ثلاث وخمس وسبع وتسع واحدى عشرة وثلاث عشرة وحزب المفصل وحده . قال ابو داود وحديث ابي سعيد اتم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
 
 ## Bengali
 
+। ‘উসমান ইবনু ‘আবদুল্লাহ ইবনু আওস (রাঃ) হতে তার দাদা আওস ইবনু হুযাইফাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা বনু সাক্বীফ গোত্রের একটি প্রতিনিধি দল সহ আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে যাই। তিনি বলেন, মুগীরাহ ইবনু শু‘বাহর সাথে চুক্তিবদ্ধ লোকেরা তার মেহমান হলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনু মালিককে তাঁর এক তাঁবুতে স্থান দিলেন। মুসাদ্দাদের বর্ণনায় রয়েছেঃ বনু সাক্বীফের যে প্রতিনিধি দল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসেছিল তাদের মধ্যে আওস ইবনু হুযাইফাহও ছিলেন। তিনি বলেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) প্রত্যেক রাতে ‘ইশার সালাতের পর আমাদের কাছে এসে আমাদের সাথে কথাবার্তা বলতেন। আবূ সাঈদের বর্ণনায় আছেঃ তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) দাঁড়ানো অবস্থায় কথাবার্তা বলতেন এবং (দীর্ঘক্ষণ) দাঁড়ানোর কারণে কখনো এক পায়ের উপর দাঁড়াতেন এবং কখনো আরেক পায়ের উপর। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) অধিকাংশ সময় আমাদেরকে তাঁর কুরাইশ সম্প্রদায়ের পক্ষ হতে তাঁর উপর চালানো নির্যাতনের কথা শুনাতেন এবং বলতেনঃ আমরা ও তারা সমপর্যায়ের ছিলাম না, বরং মাক্কায় আমরা ছিলাম অসহায় ও দুর্বল। অতঃপর আমরা মাদীনায় চলে আসার পর যুদ্ধের পাল্লা কখনো আমাদের ও কখনো তাদের মধ্যে পরিবর্তিত হতে থাকে। কখনো আমরা তাদের উপর বিজয়ী হতাম আবার কখনো তারা আমাদের উপর বিজয়ী হতো। এক রাতে তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাদের কাছে তাঁর আসার নির্দিষ্ট সময় থেকে অনেক দেরীতে আসলেন। আমরা বললাম, আপনি তো আজ রাতে আমাদের কাছে আসতে অনেক দেরী করেছেন। তিনি বললেনঃ কুরআনের যে নির্ধারিত অংশ আমি নিয়মিত তিলাওয়াত করি, তা শেষ না করে এখানে আসা আমি পছন্দ করিনি। আওস (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথীদের জিজ্ঞেস করি, প্রতিদিন আপানারা কিভাবে কুরআনকে ভাগ করে পড়েন? তারা বললেন, তিন সূরাহ, পাঁচ সূরাহ, সাত সূরাহ, নয় সূরাহ, এগার সূরাহ, তের সূরাহ এবং এককভাবে মুফাস্‌সাল সূরাহসমুহ (অর্থাৎ সাত দিনে কুরআন খতম করি)। ইমাম আবূ দাউদ (রহঃ) বলেন, আবূ সাঈদের হাদীস পরিপূর্ণ।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘উসমান ইবনু ‘আবদুল্লাহ ইবনু আওস (রাঃ) হতে তার দাদা আওস ইবনু হুযাইফাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা বনু সাক্বীফ গোত্রের একটি প্রতিনিধি দল সহ আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে যাই। তিনি বলেন, মুগীরাহ ইবনু শু‘বাহর সাথে চুক্তিবদ্ধ লোকেরা তার মেহমান হলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনু মালিককে তাঁর এক তাঁবুতে স্থান দিলেন। মুসাদ্দাদের বর্ণনায় রয়েছেঃ বনু সাক্বীফের যে প্রতিনিধি দল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসেছিল তাদের মধ্যে আওস ইবনু হুযাইফাহও ছিলেন। তিনি বলেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) প্রত্যেক রাতে ‘ইশার সালাতের পর আমাদের কাছে এসে আমাদের সাথে কথাবার্তা বলতেন। আবূ সাঈদের বর্ণনায় আছেঃ তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) দাঁড়ানো অবস্থায় কথাবার্তা বলতেন এবং (দীর্ঘক্ষণ) দাঁড়ানোর কারণে কখনো এক পায়ের উপর দাঁড়াতেন এবং কখনো আরেক পায়ের উপর। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) অধিকাংশ সময় আমাদেরকে তাঁর কুরাইশ সম্প্রদায়ের পক্ষ হতে তাঁর উপর চালানো নির্যাতনের কথা শুনাতেন এবং বলতেনঃ আমরা ও তারা সমপর্যায়ের ছিলাম না, বরং মাক্কায় আমরা ছিলাম অসহায় ও দুর্বল। অতঃপর আমরা মাদীনায় চলে আসার পর যুদ্ধের পাল্লা কখনো আমাদের ও কখনো তাদের মধ্যে পরিবর্তিত হতে থাকে। কখনো আমরা তাদের উপর বিজয়ী হতাম আবার কখনো তারা আমাদের উপর বিজয়ী হতো। এক রাতে তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাদের কাছে তাঁর আসার নির্দিষ্ট সময় থেকে অনেক দেরীতে আসলেন। আমরা বললাম, আপনি তো আজ রাতে আমাদের কাছে আসতে অনেক দেরী করেছেন। তিনি বললেনঃ কুরআনের যে নির্ধারিত অংশ আমি নিয়মিত তিলাওয়াত করি, তা শেষ না করে এখানে আসা আমি পছন্দ করিনি। আওস (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথীদের জিজ্ঞেস করি, প্রতিদিন আপানারা কিভাবে কুরআনকে ভাগ করে পড়েন? তারা বললেন, তিন সূরাহ, পাঁচ সূরাহ, সাত সূরাহ, নয় সূরাহ, এগার সূরাহ, তের সূরাহ এবং এককভাবে মুফাস্‌সাল সূরাহসমুহ (অর্থাৎ সাত দিনে কুরআন খতম করি)। ইমাম আবূ দাউদ (রহঃ) বলেন, আবূ সাঈদের হাদীস পরিপূর্ণ।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aws ibn Hudhayfah: We came upon the Messenger of Allah (ﷺ) in a deputation of Thaqif. The signatories of the pact came to al-Mughirah ibn Shu'bah as his guests. The Messenger of Allah (ﷺ) made Banu-Malik stay in a tent of his. Musaddad's version says: He was in the deputation of Thaqif which came to the Messenger of Allah (ﷺ). He used to visit and have a talk with us every day after the night prayer. The version of AbuSa'id says: He remained standing for such a long time (talking to us) that he put his weight sometimes on one leg and sometimes on the other due to his long stay. He mostly told us how his people, the Quraysh, behaved with him. He would say: We were not equal; we were weak and degraded at Mecca (according to Musaddad's version). When we came over to Medina the fighting began between us; sometimes we overcome them and at other times they overcome us. One night he came late and did not come at the time he used to come. We asked him: You came late tonight? He said: I could not recite the fixed part of the Qur'an that I used to recite every day. I disliked to come till I had completed it. Aws said: I asked the companions of the Messenger of Allah (ﷺ): How do you divide the Qur'an for daily recitation? They said: Three surahs, five surahs, eleven surahs, thirteen surahs' mufassal surahs. Abu Dawud said: The version of Abu Sa'id is complete
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
+
+## French
+
+Rapporté par Aws ibn Hudhayfah رضي الله عنه : Nous sommes venus auprès du Messager d’Allah ﷺ dans une délégation de Thaqif. Les signataires du pacte sont venus chez al-Mughirah ibn Shu’bah comme ses invités. Le Messager d’Allah ﷺ a fait loger Banu-Malik dans une de ses tentes. Selon la version de Musaddad : Il était dans la délégation de Thaqif venue voir le Messager d’Allah ﷺ. Il venait nous voir et discuter avec nous chaque jour après la prière de la nuit. Selon la version d’Abu Sa’id : Il restait debout si longtemps (à parler avec nous) qu’il s’appuyait parfois sur une jambe, puis sur l’autre à cause de la durée. Il nous racontait surtout comment son peuple, les Quraysh, se comportait avec lui. Il disait : « Nous n’étions pas égaux ; nous étions faibles et méprisés à La Mecque (selon la version de Musaddad). Quand nous sommes arrivés à Médine, les combats ont commencé entre nous ; parfois nous les dominions, parfois ils nous dominaient. » Une nuit, il est venu en retard et n’est pas venu à l’heure habituelle. Nous lui avons demandé : « Tu es venu tard ce soir ? » Il a dit : « Je n’ai pas pu réciter la part du Coran que j’ai l’habitude de réciter chaque jour. Je n’ai pas voulu venir avant de l’avoir terminée. » Aws a dit : J’ai demandé aux compagnons du Messager d’Allah ﷺ : « Comment divisez-vous le Coran pour la récitation quotidienne ? » Ils ont répondu : « Trois sourates, cinq sourates, onze sourates, treize sourates, puis les sourates mufassal. » Abu Dawud a dit : La version d’Abu Sa’id est complète
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah mengabarkan kepada kami \[Qurran bin Tammam\]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami \[Abdullah bin Sa'id\] telah mengabarkan kepada kami \[Abu Khalid\], dan ini adalah redaksi dari dia, dari \[Abdullah bin Abdurrahman bin Ya'laa\] dari \[Utsman bin Abdullah bin Aus\] dari \[kakeknya\]. Abdullah bin Sa'id berkata dalam haditsnya Aus bin Hudzaifah, dia berkata; "Kami mendatangi Rasulullah shallallahu 'alaihi wasallam dalam rombongan delegasi Bani Tsaqif, sekutu-sekutu (aliansi-aliansi) Tsaqif singgah menemui Al-Mughirah bin Syu'bah, sementara Rasulullah shallallahu 'alaihi wasallam memberi persinggahan kepada Bani Malik di tenda besar miliknya. Musaddad berkata dengan redaksi; "Sedangkan seseorang dari utusan dari Tsaqif yang datang kepada Rasulullah shallallahu 'alaihi wasallam, berkata; "Setiap habis Isya', beliau selalu menemui kami kami untuk bercakap-cakap." Abu Sa'id mengatakan; "Sambil berdiri di atas salah satu kakinya secara berganti-gantian di antara kedua kakinya, karena lamanya berdiri. Dan yang paling banyak yang diceritakan adalah apa yang beliau alami dari kaumnya, Quraisy. Beliau bersabda: "Tidaklah sama kami orang-orang yang lemah dan terhina - \[Musaddad\] berkata- selama kami di Makkah. Ketika kami keluar menuju Madinah, peperangan silih berganti di antara kami dan mereka. Terkadang kami mengalahkan mereka dan terkadang mereka mengalahkan kami." Di suatu malam, Beliau terlambat dari kebiasaan waktu kedatangannya kepada kami. Maka aku berkata, "Anda terlambat datang kepada kami pada malam ini". Beliau bersabda: "Sesungguhnya telah datang kepadaku bagian yang aku harus baca dari Al-Qur'an, maka aku tidak senang untuk keluar hingga selesai menyempurnakannya." Aus berkata, "Aku bertanya kepada para sahabat Rasulullah shallallahu 'alaihi wasallam, bagaimanakah kalian membagi-bagi (memilah atau mengelompokkan) dan menertibkan Al-Qur'an? Mereka menjawab: "Tiga, lima, tujuh, sembilan, sebelas, tigabelas dan bagian surat-surat yang mufashshal (dari surat Qaaf atau al Hujurat sampai an nas)." Abu Daud berkata; "Haditsnya Abu Sa'id lebih lengkap
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah mengabarkan kepada kami [Qurran bin Tammam]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Abdullah bin Sa'id] telah mengabarkan kepada kami [Abu Khalid], dan ini adalah redaksi dari dia, dari [Abdullah bin Abdurrahman bin Ya'laa] dari [Utsman bin Abdullah bin Aus] dari [kakeknya]. Abdullah bin Sa'id berkata dalam haditsnya Aus bin Hudzaifah, dia berkata; "Kami mendatangi Rasulullah shallallahu 'alaihi wasallam dalam rombongan delegasi Bani Tsaqif, sekutu-sekutu (aliansi-aliansi) Tsaqif singgah menemui Al-Mughirah bin Syu'bah, sementara Rasulullah shallallahu 'alaihi wasallam memberi persinggahan kepada Bani Malik di tenda besar miliknya. Musaddad berkata dengan redaksi; "Sedangkan seseorang dari utusan dari Tsaqif yang datang kepada Rasulullah shallallahu 'alaihi wasallam, berkata; "Setiap habis Isya', beliau selalu menemui kami kami untuk bercakap-cakap." Abu Sa'id mengatakan; "Sambil berdiri di atas salah satu kakinya secara berganti-gantian di antara kedua kakinya, karena lamanya berdiri. Dan yang paling banyak yang diceritakan adalah apa yang beliau alami dari kaumnya, Quraisy. Beliau bersabda: "Tidaklah sama kami orang-orang yang lemah dan terhina - [Musaddad] berkata- selama kami di Makkah. Ketika kami keluar menuju Madinah, peperangan silih berganti di antara kami dan mereka. Terkadang kami mengalahkan mereka dan terkadang mereka mengalahkan kami." Di suatu malam, Beliau terlambat dari kebiasaan waktu kedatangannya kepada kami. Maka aku berkata, "Anda terlambat datang kepada kami pada malam ini". Beliau bersabda: "Sesungguhnya telah datang kepadaku bagian yang aku harus baca dari Al-Qur'an, maka aku tidak senang untuk keluar hingga selesai menyempurnakannya." Aus berkata, "Aku bertanya kepada para sahabat Rasulullah shallallahu 'alaihi wasallam, bagaimanakah kalian membagi-bagi (memilah atau mengelompokkan) dan menertibkan Al-Qur'an? Mereka menjawab: "Tiga, lima, tujuh, sembilan, sebelas, tigabelas dan bagian surat-surat yang mufashshal (dari surat Qaaf atau al Hujurat sampai an nas)." Abu Daud berkata; "Haditsnya Abu Sa'id lebih lengkap
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ауса ибн Хузайфы: «Мы прибыли к Пророку ﷺ в составе делегации племени сакыф, и союзники остановились у аль-Мугиры ибн Шу‘бы, а бану малик Посланник Аллаха ﷺ поселил в своём шатре». В версии Мусаддада говорится: «А он принадлежал к делегации сакыфа, прибывшей к Посланнику Аллаха ﷺ». Далее передаётся: «Посланник Аллаха ﷺ приходил к нам каждый вечер после вечерней молитвы /‘иша/ и говорил с нами». В версии Абу Са‘ида (аль-Ашаджжа) говорится: «…стоя до тех пор, пока не начинал переминаться с ноги на ногу от долгого стояния». Далее передаётся: «Больше всего он рассказывал нам о том, что ему пришлось претерпеть от курайшитов. Он сказал: “Сначала мы были слабыми». В версии Мусаддада говорится: «В Мекке». Далее передаётся: «… а потом мы переселились в Медину. Война между нами шла с переменным успехом. Иногда мы побеждали их, а иногда они побеждали нас. В один из вечеров он пришёл позже обычного и мы сказали: “Ты пришёл сегодня вечером позже обычного”. Он сказал: “Мне нужно было прочитать свой хизб, и я не захотел приходить, пока не прочитаю его”». Аус передаёт: «Я спросил сподвижников Посланника Аллаха ﷺ: “Как вы делили Коран (для того, чтобы прочитывать его полностью за определённое время)”, и они сказали: “Три суры, потом пять, потом семь, потом девять, потом одиннадцать, потом тринадцать, а потом короткие суры /муфассаль/”». Абу Дауд сказал, что хадис Абу Са‘ида (аль-Ашаджжа) более полный
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
 
 ## Turkish
 
+Evs b. Huzeyfe (r.a.)'den; demiştir ki: Sakîf Heyeti içinde Resûlullah (s.a.v.)'in huzuruna geldik. Ahlâf sülâlesi Mugîre b. Şu'be'ye misâfir oldu. Beni Mâlikileri de Hz. Peygamber kendisine ait bir çadıra aldı. Müsedded; "Evs, Sakîf den Resûlullah'a gelen bir heyetin içinde idi" dedi. \[-129-\] Efendimiz her gece yatsıdan sonra bize gelir ve -Ebû Said'in dediğine göre- ayak üstü durarak anlatırdı. Hatta uzun süre ayakta kalmaktan dolayı biraz bir ayağı üzerine biraz da diğeri üzerine yaslanırdı. Hz. Nebi'in en çok anlattığı şey, kavmi olan Kureyş'ten gördüğü ezâ ve cefâ idi. Resûlullah şöyle derdi: "Onlarla biz eşit değildik. Biz zayıf ve zelil idik (onlarsa kuvvetli idiler) -Müsedded Mekke'de der- Medine'ye gelince harb nöbetleri onlarla bizim aramızda devam etti. Kâh biz onlara gâlib ge­liyoruz kâh onlar bize." Bir gece Resûl-i Ekrem her zamanki geldiği vakitten geç geldi. Biz, "bu gece geç kaldın?" dedik. "Kur'ân'dan (okuduğum) cüz'üm aklıma geliverdi. Onu tamamlamadan gelmeyi istemedim" buyurdu. Resûlullah (s.a.v.)'ın ashabına; Kur'ân'ı nasıl hizblere ayırıyorsunuz? diye sordum: Üç, beş, yedi, dokuz, onbir, onüç, mufassalları tek hizb (olarak); cevabını verdiler. Ebu Davud dediki: Ebu Said'in rivayeti (Müsedded’inkinden) da­ha tamdır
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Evs b. Huzeyfe (r.a.)'den; demiştir ki: Sakîf Heyeti içinde Resûlullah (s.a.v.)'in huzuruna geldik. Ahlâf sülâlesi Mugîre b. Şu'be'ye misâfir oldu. Beni Mâlikileri de Hz. Peygamber kendisine ait bir çadıra aldı. Müsedded; "Evs, Sakîf den Resûlullah'a gelen bir heyetin içinde idi" dedi. [-129-] Efendimiz her gece yatsıdan sonra bize gelir ve -Ebû Said'in dediğine göre- ayak üstü durarak anlatırdı. Hatta uzun süre ayakta kalmaktan dolayı biraz bir ayağı üzerine biraz da diğeri üzerine yaslanırdı. Hz. Nebi'in en çok anlattığı şey, kavmi olan Kureyş'ten gördüğü ezâ ve cefâ idi. Resûlullah şöyle derdi: "Onlarla biz eşit değildik. Biz zayıf ve zelil idik (onlarsa kuvvetli idiler) -Müsedded Mekke'de der- Medine'ye gelince harb nöbetleri onlarla bizim aramızda devam etti. Kâh biz onlara gâlib ge­liyoruz kâh onlar bize." Bir gece Resûl-i Ekrem her zamanki geldiği vakitten geç geldi. Biz, "bu gece geç kaldın?" dedik. "Kur'ân'dan (okuduğum) cüz'üm aklıma geliverdi. Onu tamamlamadan gelmeyi istemedim" buyurdu. Resûlullah (s.a.v.)'ın ashabına; Kur'ân'ı nasıl hizblere ayırıyorsunuz? diye sordum: Üç, beş, yedi, dokuz, onbir, onüç, mufassalları tek hizb (olarak); cevabını verdiler. Ebu Davud dediki: Ebu Said'in rivayeti (Müsedded’inkinden) da­ha tamdır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اوس بن حذیفہ رضی اللہ عنہ کہتے ہیں کہ ہم لوگ ثقیف کے ایک وفد میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے، وفد کے وہ لوگ جن سے معاہدہ ہوا تھا، مغیرہ بن شعبہ رضی اللہ عنہ کے پاس ٹھہرے اور بنی مالک کا قیام رسول اللہ صلی اللہ علیہ وسلم نے اپنے خیمے میں کرایا، ( مسدد کہتے ہیں: اوس بھی اس وفد میں شامل تھے، جو ثقیف کی جانب سے رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا تھا ) اوس کہتے ہیں: تو ہر رات آپ صلی اللہ علیہ وسلم عشاء کے بعد ہمارے پاس آتے اور ہم سے گفتگو کرتے۔ ابو سعید خدری رضی اللہ عنہ کی روایت میں اضافہ ہے کہ ( آپ گفتگو ) کھڑے کھڑے کرتے اور دیر تک کھڑے رہنے کی وجہ سے آپ کبھی ایک پیر پر اور کبھی دوسرے پیر پر بوجھ ڈالتے اور زیادہ تر ان واقعات کا تذکرہ کرتے، جو آپ صلی اللہ علیہ وسلم کو اپنی قوم قریش کی جانب سے پیش آئے تھے، پھر فرماتے: ہم اور وہ برابر نہ تھے، ہم مکہ میں کمزور اور ناتواں تھے، پھر جب ہم نکل کر مدینہ آ گئے تو جنگ کا ڈول ہمارے اور ان کے بیچ رہتا، کبھی ہم ان پر غالب آتے اور کبھی وہ ہم پر ۔ ایک رات آپ صلی اللہ علیہ وسلم کو حسب معمول وقت پر آنے میں تاخیر ہو گئی تو ہم نے آپ سے پوچھا: آج رات آپ نے آنے میں تاخیر کر دی؟ آپ صلی اللہ علیہ وسلم نے فرمایا: آج قرآن مجید کا میرا ایک حصہ تلاوت سے رہ گیا تھا، مجھے اسے پورا کئے بغیر آنا اچھا نہ لگا ۔ اوس کہتے ہیں: میں نے رسول اللہ صلی اللہ علیہ وسلم کے اصحاب سے پوچھا کہ وہ لوگ کیسے حصے مقرر کرتے تھے؟ تو انہوں نے کہا: پہلا حزب ( حصہ ) تین سورتوں کا، دوسرا حزب ( حصہ ) پانچ سورتوں کا، تیسرا سات سورتوں کا، چوتھا نو سورتوں کا، پانچواں گیارہ اور چھٹا تیرہ سورتوں کا اور ساتواں پورے مفصل کا ۱؎۔ ابوداؤد کہتے ہیں: ابوسعید ( عبداللہ بن سعید الاشیخ ) کی روایت کامل ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1393</td></tr><tr><td>Arabic No</td><td>1393</td></tr><tr><td>Reference</td><td>Book 6 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1393 |
+| Arabic No | 1393 |
+| Reference | Book 6 Hadith 23 |

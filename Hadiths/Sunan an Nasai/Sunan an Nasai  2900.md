@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، وَالْحَارِثُ بْنُ مِسْكِينٍ، قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، أَنَّ عَبْدَ اللَّهِ بْنَ مُحَمَّدِ بْنِ أَبِي بَكْرٍ الصِّدِّيقِ، أَخْبَرَ عَبْدَ اللَّهِ بْنَ عُمَرَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ أَلَمْ تَرَىْ أَنَّ قَوْمَكِ حِينَ بَنَوُا الْكَعْبَةَ اقْتَصَرُوا عَنْ قَوَاعِدِ إِبْرَاهِيمَ عَلَيْهِ السَّلاَمُ ‏"‏ ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ أَلاَ تَرُدُّهَا عَلَى قَوَاعِدِ إِبْرَاهِيمَ عَلَيْهِ السَّلاَمُ قَالَ ‏"‏ لَوْلاَ حِدْثَانُ قَوْمِكِ بِالْكُفْرِ ‏"‏ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ لَئِنْ كَانَتْ عَائِشَةُ سَمِعَتْ هَذَا مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم مَا أُرَى تَرْكَ اسْتِلاَمِ الرُّكْنَيْنِ اللَّذَيْنِ يَلِيَانِ الْحِجْرَ إِلاَّ أَنَّ الْبَيْتَ لَمْ يُتَمَّمْ عَلَى قَوَاعِدِ إِبْرَاهِيمَ عَلَيْهِ السَّلاَمُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 24 Hadith 283</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |
+
 اخبرنا محمد بن سلمة، والحارث بن مسكين، قراءة عليه وانا اسمع، عن ابن القاسم، قال حدثني مالك، عن ابن شهاب، عن سالم بن عبد الله، ان عبد الله بن محمد بن ابي بكر الصديق، اخبر عبد الله بن عمر، عن عايشة، ان رسول الله صلى الله عليه وسلم قال " الم ترى ان قومك حين بنوا الكعبة اقتصروا عن قواعد ابراهيم عليه السلام " . فقلت يا رسول الله الا تردها على قواعد ابراهيم عليه السلام قال " لولا حدثان قومك بالكفر " . فقال عبد الله بن عمر لين كانت عايشة سمعت هذا من رسول الله صلى الله عليه وسلم ما ارى ترك استلام الركنين اللذين يليان الحجر الا ان البيت لم يتمم على قواعد ابراهيم عليه السلام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 24 Hadith 283</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন সালামা ও হারিস ইবন মিসকীন (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেনঃ তুমি কি জান না যে, তোমার সম্প্রদায় যখন কা'বার পুনঃনির্মাণ করেছিল তারা তখন ইবরাহীম (আঃ)-এর নির্মাণ হতে তাকে ছোট করে নির্মাণ করেছিল। আমি বললামঃ ইয়া রাসূলাল্লাহ! আপনি কি তাকে ইবরাহীমী নির্মাণের মুতাবেক পুনঃ স্থাপন করবেন না? তিনি বললেনঃ তা করতাম যদি তোমার সম্প্রদায় কুফৱী অবস্থার নিকটবর্তী না হতো। তখন আবদুল্লাহ ইবন উমর (রাঃ) বললেনঃ যদি আয়েশা (রাঃ) রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে তা শুনতেন, তবে আমি মনে করি, তিনি হাজরে আসওয়াদের সাথে মিলিত দুই রুকনকে চুম্বন করা ছেড়ে দিতেন, (কিন্তু তিনি তা ছেড়ে দেননি) কারণ বায়তুল্লাহ-এর নির্মাণ ইবরাহীম (আঃ)-এর ভিত্তির উপর সম্পন্ন হয়নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 24 Hadith 283</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Aishah that the Messenger of Allah said:"Don't you see that when your people (re)built the Kabah, they did not build it on all the foundations laid by Ibrahim, peace be upon him?" I said: "O Messenger of Allah, why do you not rebuild it on the foundation of Ihrahim, peace be upon him?" He said: "Were it not for the fact that your people have recently left disbelief (I would have done so)." Abdullah bin Umar said: "Aishah heard this from the Messenger of Allah, for I see that he would not touch the two corners facing Al-Hijr because the House not built on the foundations of Ihrahim, peace be upon him?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 24 Hadith 283</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : Le Messager d’Allah a dit : "Ne vois-tu pas que lorsque ton peuple a (re)construit la Kaaba, ils ne l’ont pas bâtie sur toutes les fondations posées par Ibrahim, paix sur lui ?" J’ai demandé : "Ô Messager d’Allah, pourquoi ne la reconstruis-tu pas sur les fondations d’Ibrahim, paix sur lui ?" Il a répondu : "Si ce n’était pas parce que ton peuple vient de quitter la mécréance, je l’aurais fait." Abdullah bin Umar a dit : "Aishah a entendu cela du Messager d’Allah, car je vois qu’il ne touchait pas les deux coins faisant face à Al-Hijr parce que la Maison n’était pas construite sur les fondations d’Ibrahim, paix sur lui
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Salamah\] serta \[Al Harits bin Miskin\] dengan membacakan riwayat dan saya mendengar, dari \[Ibnu Al Qasim\], ia berkata; telah menceritakan kepadaku \[Malik\] dari \[Ibnu Syihab\] dari \[Salim bin Abdullah\] bahwa \[Abdullah bin Muhammad bin Abu Bakr Ash Shiddiq\] telah mengabarkan kepada Abdullah bin Umar dari \[Aisyah\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda; "Bukankah engkau melihat bahwa kaummu ketika membangun Ka'bah mengurangi pondasi-pondasi Ibrahim 'alaihissalam?" Maka saya katakan; wahai Rasulullah shallallahu 'alaihi wasallam, tidakkah engkau kembalikan ke pondasi-pondasi Ibrahim 'alaihissalam? Beliau menjawab: "Aduhai….kalaulah tidak karena kaummu dekat dengan masa kekafiran." Abdullah bin Umar berkata; seandainya Aisyah telah mendengar hal ini dari Rasulullah shallallahu 'alaihi wasallam saya tidak melihat untuk tidak meng-istilami dua rukun yang terletak setelah Hijr, hanya saja Ka'bah belum disempurnakan di atas pondasi-pondasi Ibrahim 'alaihissalam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Salamah] serta [Al Harits bin Miskin] dengan membacakan riwayat dan saya mendengar, dari [Ibnu Al Qasim], ia berkata; telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari [Salim bin Abdullah] bahwa [Abdullah bin Muhammad bin Abu Bakr Ash Shiddiq] telah mengabarkan kepada Abdullah bin Umar dari [Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda; "Bukankah engkau melihat bahwa kaummu ketika membangun Ka'bah mengurangi pondasi-pondasi Ibrahim 'alaihissalam?" Maka saya katakan; wahai Rasulullah shallallahu 'alaihi wasallam, tidakkah engkau kembalikan ke pondasi-pondasi Ibrahim 'alaihissalam? Beliau menjawab: "Aduhai….kalaulah tidak karena kaummu dekat dengan masa kekafiran." Abdullah bin Umar berkata; seandainya Aisyah telah mendengar hal ini dari Rasulullah shallallahu 'alaihi wasallam saya tidak melihat untuk tidak meng-istilami dua rukun yang terletak setelah Hijr, hanya saja Ka'bah belum disempurnakan di atas pondasi-pondasi Ibrahim 'alaihissalam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 24 Hadith 283</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 24 Hadith 283</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”کیا تم نے نہیں دیکھا کہ تمہاری قوم نے جس وقت کعبہ کو بنایا تو ان لوگوں نے ابراہیم علیہ السلام کی بنیاد میں کمی کر دی“ تو میں نے عرض کیا: اللہ کے رسول! آپ ابراہیم علیہ السلام کی بنیاد پر اسے کیوں نہیں بنا دیتے؟ آپ نے فرمایا: ”اگر تمہاری قوم زمانہ کفر سے قریب نہ ہوتی ۱؎“ ( تو میں ایسا کر ڈالتا ) ۲؎ عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں: اگر عائشہ رضی اللہ عنہا نے رسول اللہ صلی اللہ علیہ وسلم سے ایسی بات سنی ہے تو میں سمجھتا ہوں کہ رسول اللہ صلی اللہ علیہ وسلم کے حطیم سے قریب کے دونوں رکن ( رکن شامی و عراقی ) کو بوسہ نہ لینے کی وجہ یہی ہے کہ خانہ کعبہ کی ( اس جانب سے ) ابراہیم علیہ السلام کی بنیاد پر تکمیل نہیں ہوئی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2900</td></tr><tr><td>Arabic No</td><td>2900</td></tr><tr><td>Reference</td><td>Book 24 Hadith 283</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2900 |
+| Arabic No | 2900 |
+| Reference | Book 24 Hadith 283 |

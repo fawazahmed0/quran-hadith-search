@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ مَنْصُورٍ، عَنِ الْحَكَمِ، عَنْ يَحْيَى بْنِ الْجَزَّارِ، عَنْ أَبِي الصَّهْبَاءِ، قَالَ تَذَاكَرْنَا مَا يَقْطَعُ الصَّلاَةَ عِنْدَ ابْنِ عَبَّاسٍ فَقَالَ جِئْتُ أَنَا وَغُلاَمٌ مِنْ بَنِي عَبْدِ الْمُطَّلِبِ عَلَى حِمَارٍ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يُصَلِّي فَنَزَلَ وَنَزَلْتُ وَتَرَكْنَا الْحِمَارَ أَمَامَ الصَّفِّ فَمَا بَالاَهُ وَجَاءَتْ جَارِيَتَانِ مِنْ بَنِي عَبْدِ الْمُطَّلِبِ فَدَخَلَتَا بَيْنَ الصَّفِّ فَمَا بَالَى ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
+
 حدثنا مسدد، حدثنا ابو عوانة، عن منصور، عن الحكم، عن يحيى بن الجزار، عن ابي الصهباء، قال تذاكرنا ما يقطع الصلاة عند ابن عباس فقال جيت انا وغلام من بني عبد المطلب على حمار ورسول الله صلى الله عليه وسلم يصلي فنزل ونزلت وتركنا الحمار امام الصف فما بالاه وجاءت جاريتان من بني عبد المطلب فدخلتا بين الصف فما بالى ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
 
 ## Bengali
 
+। আবূস সাহবা সূত্রে বর্ণিত। তিনি বলেন, আমরা ইবনু ‘আব্বাস (রাঃ)-এর নিকট সালাত নষ্ট হওয়ার কারণ সম্পর্কে আলোচনা করলাম। ইবনু ‘আব্বাস (রাঃ) বললেন, একদা আমি এবং বনু ‘আবদুল মুত্তালিবের এক বালক গাধার পিঠে আরোহণ করে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলাম। তখন তিনি সালাত আদায় করছিলেন। সে ও আমি গাধার পিঠ থেকে নামলাম এবং আমরা গাধাটিকে কাতারের সামনে ছেড়ে দিলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একে আপত্তিকর মনে করলেন না। এ সময় বনু ‘আবদুল মুত্তালিবের দু’টি বালিকা এসে কাতারের মধ্যে প্রবেশ করল। এতেও তিনি কোন ভ্রুক্ষেপ করলেন না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূস সাহবা সূত্রে বর্ণিত। তিনি বলেন, আমরা ইবনু ‘আব্বাস (রাঃ)-এর নিকট সালাত নষ্ট হওয়ার কারণ সম্পর্কে আলোচনা করলাম। ইবনু ‘আব্বাস (রাঃ) বললেন, একদা আমি এবং বনু ‘আবদুল মুত্তালিবের এক বালক গাধার পিঠে আরোহণ করে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলাম। তখন তিনি সালাত আদায় করছিলেন। সে ও আমি গাধার পিঠ থেকে নামলাম এবং আমরা গাধাটিকে কাতারের সামনে ছেড়ে দিলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একে আপত্তিকর মনে করলেন না। এ সময় বনু ‘আবদুল মুত্তালিবের দু’টি বালিকা এসে কাতারের মধ্যে প্রবেশ করল। এতেও তিনি কোন ভ্রুক্ষেপ করলেন না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: AbusSahba' said: We discussed the things that cut off the prayer according to Ibn Abbas. He said: I and a boy from Banu AbdulMuttalib came riding a donkey, and the Messenger of Allah (ﷺ) was leading the people in prayer. He dismounted and I also dismounted. I left the donkey in front of the row (of the worshippers). He (the Prophet) did not pay attention to that. Then two girls from Banu AbdulMuttalib came and joined the row in the middle, but he paid no attention to that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : AbuSahba’ a dit : Nous avons discuté avec Ibn Abbas des choses qui interrompent la prière. Il a dit : Moi et un garçon des Banu AbdulMuttalib sommes venus à dos d’âne, et le Messager d’Allah ﷺ dirigeait la prière. Il est descendu et moi aussi. J’ai laissé l’âne devant le rang des prieurs. Le Prophète ﷺ n’a pas prêté attention à cela. Ensuite, deux filles des Banu AbdulMuttalib sont venues et se sont placées au milieu du rang, mais il n’a pas prêté attention à cela non plus
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Abu 'Awanah\] dari \[Manshur\] dari \[Al Hakam\] dari \[Yahya bin Al Jazzar\] dari \[Abu As Shahba'\] dia berkata; "Kami membiacarakan mengenai sesuatu yang dapat memutuskan shalat di samping Ibnu Abbas, maka \[Ibnu Abbas\] berkata; "Aku pernah datang bersama seorang budak dari Bani Abdul Mutthalib dengan mengendarai seekor keledai, dan Rasulullah shallallahu 'alaihi wasallam sedang melaksanakan shalat, maka budak itu turun, aku pun ikut turun lalu aku biarkan keledai tersebut di depan shaf, namun beliau tidak menghiraukannya. Setelah itu datang pula dua orang budak wanita dari Bani Abdul Mutthalib, lalu keduanya masuk ke dalam shaf, namun beliau tetap tidak menghiraukannya." Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] dan \[Daud bin Mihraq Al Firyabi\] keduanya berkata; telah menceritakan kepada kami \[Jarir\] dari \[Manshur\] dengan hadits ini dengan isnadnya dia mengatakan; "Kemudian datang pula dua budak wanita dari Bani Abdul Mutthalib yang sedang bertikai, maka beliau memegang keduanya." Utsman mengatakan; "Kemudian beliau melerai keduanya." Sedangkan Daud mengatakan; "Lalu beliau melerai salah satu dari keduanya, dan beliau tidak memperdulikan hal itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Abu 'Awanah] dari [Manshur] dari [Al Hakam] dari [Yahya bin Al Jazzar] dari [Abu As Shahba'] dia berkata; "Kami membiacarakan mengenai sesuatu yang dapat memutuskan shalat di samping Ibnu Abbas, maka [Ibnu Abbas] berkata; "Aku pernah datang bersama seorang budak dari Bani Abdul Mutthalib dengan mengendarai seekor keledai, dan Rasulullah shallallahu 'alaihi wasallam sedang melaksanakan shalat, maka budak itu turun, aku pun ikut turun lalu aku biarkan keledai tersebut di depan shaf, namun beliau tidak menghiraukannya. Setelah itu datang pula dua orang budak wanita dari Bani Abdul Mutthalib, lalu keduanya masuk ke dalam shaf, namun beliau tetap tidak menghiraukannya." Telah menceritakan kepada kami [Utsman bin Abu Syaibah] dan [Daud bin Mihraq Al Firyabi] keduanya berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dengan hadits ini dengan isnadnya dia mengatakan; "Kemudian datang pula dua budak wanita dari Bani Abdul Mutthalib yang sedang bertikai, maka beliau memegang keduanya." Utsman mengatakan; "Kemudian beliau melerai keduanya." Sedangkan Daud mengatakan; "Lalu beliau melerai salah satu dari keduanya, dan beliau tidak memperdulikan hal itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу ас-Сахбаъ сказал: «(Однажды) мы упомянули перед Ибн ‘Аббасом о том, что прерывает молитву, и он сказал: “(Как-то) я и один мальчик из рода бану ‘Абдуль-Мутталиб прибыли на осле, когда Посланник Аллаха ﷺ совершал молитву. Мы слезли и оставили осла перед рядом (молящихся), но (Посланник Аллаха ﷺ) не придал этому значения. Затем прибежали две девочки из рода бану ‘Абдуль-Мутталиб и прошли между рядом, но не придал и этому значения”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu's-Sahba'dan; demiştir ki: Biz İbn Abbas'ın yanında namazı bozan şeylerden bahsediyorduk. İbn Abbas (şöyle) dedi: "Ben ve AbdüI Muttalib oğullarından bir çocuk eşek üzerinde olduğumuz halde namaz kılmakta olan Nebi (Sallallahu aleyhi ve Sellem)'in (önünden geçerek) geldik. Sonra o da ben de eşekten inip eşeği safların önüne salıverdik. (Bunu gören Nebi) hiç aldırış etmedi. Ve (yine) Abdulmuttalib oğullarından iki kız gelerek safların arasına girdiler. Bunu da önemsemedi. Diğer tahric: Nesaî, kıble; Tirmizî, salat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوصہباء کہتے ہیں کہ ہم نے ابن عباس رضی اللہ عنہما کے پاس ان چیزوں کا تذکرہ کیا جو نماز کو توڑ دیتی ہیں، تو انہوں نے کہا: میں اور بنی عبدالمطلب کا ایک لڑکا دونوں ایک گدھے پر سوار ہو کر آئے، رسول اللہ صلی اللہ علیہ وسلم نماز پڑھ رہے تھے، ہم دونوں اترے اور گدھے کو صف کے آگے چھوڑ دیا، تو آپ صلی اللہ علیہ وسلم نے کچھ پرواہ نہ کی، اور بنی عبدالمطلب کی دو لڑکیاں آئیں، وہ آ کر صف کے درمیان داخل ہو گئیں تو آپ نے اس کی بھی کچھ پرواہ نہ کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>716</td></tr><tr><td>Arabic No</td><td>716</td></tr><tr><td>Reference</td><td>Book 2 Hadith 326</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 716 |
+| Arabic No | 716 |
+| Reference | Book 2 Hadith 326 |

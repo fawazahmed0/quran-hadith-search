@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي أَحْمَدُ بْنُ حَفْصٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، حَدَّثَنِي إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ سَعِيدِ بْنِ أَبِي عَرُوبَةَ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ لَمْ يَكُنْ شَىْءٌ أَحَبَّ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم بَعْدَ النِّسَاءِ مِنَ الْخَيْلِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |
+
 اخبرني احمد بن حفص، قال حدثني ابي قال، حدثني ابراهيم بن طهمان، عن سعيد بن ابي عروبة، عن قتادة، عن انس، قال لم يكن شىء احب الى رسول الله صلى الله عليه وسلم بعد النساء من الخيل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবন হাফস (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট স্ত্রীজাতির পর ঘোড়া অপেক্ষা আর কোন বস্তু প্রিয় ছিল না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Anas said:"There was nothing dearer to the Messenger of Allah after women than horses
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |
+
+## French
+
+Rapporté par Anas : "Rien n’était plus cher au Messager d’Allah, après les femmes, que les chevaux
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin Hafsh\] berkata; telah menceritakan kepadaku \[ayahku\] berkata; telah menceritakan kepadaku \[Ibrahim bin Thahman\] dari \[Sa'id bin Abu 'Urwah\] dari \[Qatadah\] dari \[Anas\] ia berkata, "Tidak ada sesuatu yang lebih dicintai Rasulullah shallallahu 'alaihi wasallam setelah isteri kecuali kuda perang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin Hafsh] berkata; telah menceritakan kepadaku [ayahku] berkata; telah menceritakan kepadaku [Ibrahim bin Thahman] dari [Sa'id bin Abu 'Urwah] dari [Qatadah] dari [Anas] ia berkata, "Tidak ada sesuatu yang lebih dicintai Rasulullah shallallahu 'alaihi wasallam setelah isteri kecuali kuda perang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کو عورت کے بعد گھوڑوں سے زیادہ کوئی چیز محبوب اور پسندیدہ نہ تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3564</td></tr><tr><td>Arabic No</td><td>3564</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3564 |
+| Arabic No | 3564 |
+| Reference | Book 28 Hadith 4 |

@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَابْنُ، بَشَّارٍ قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، قَالَ أَبُو بَكْرٍ وَوَكِيعٌ عَنْ إِسْرَائِيلَ، كُلُّهُمْ عَنْ سِمَاكِ بْنِ حَرْبٍ، بِهَذَا الإِسْنَادِ عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن المثنى، وابن، بشار قالا حدثنا محمد بن جعفر، حدثنا شعبة، ح وحدثنا ابو بكر بن ابي شيبة، حدثنا حسين بن علي، عن زايدة، قال ابو بكر ووكيع عن اسراييل، كلهم عن سماك بن حرب، بهذا الاسناد عن النبي صلى الله عليه وسلم بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু আল মুসান্না ও ইবন বাশশার (রহঃ) ..... শু'বাহ্ (রহঃ) থেকে অন্য সূত্রে আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ... ইসমাঈল (রহঃ) থেকে, সকলে সিমাক ইবনু হারব (রহঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম থেকে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৪২৭, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this is narrated from the Apostle (ﷺ) with the same chain of transmitters by Muhammad b. Muthanna, Ibn Bashshar, Muhammad b. Ja'far, Shu'ba
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## French
 
+Rapporté par Muhammad b. Muthanna, Ibn Bashshar, Muhammad b. Ja’far, Shu’ba : Un hadith similaire a été rapporté du Prophète ﷺ avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 От Симака ибн Харба с этим иснадом передаётся похожий хадис от Пророка ﷺ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed b. el-Müsenna ve İbn Beşşar tahdis edip dediler ki: Bize Muhammed b. Cafer tahdis etti, bize Şu'be tahdis etti. (H) Bize . Ebu Bekr b. Ebi Şeybe de tahdis etti. Bize Huseyn b. Ali, Zaide'den tahdis . etti. Ebu Bekr dedi ki: Bize Veki' de İsrail'den tahdis etti. Hepsi Simak b. Harb'den bu isnad ile Nebi (Sallallahu aleyhi ve Sellem)'den aynısını rivayet etti. 309 DAVUDOĞLU ŞERHİ İÇİN buraya tıklayın NEVEVİ ŞERHİ 225.sayfada
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعبہ ، زائدہ اور اسرائیل سب نے سماک بن حرب سے اسی اسناد کے ساتھ رسول اللہ ﷺ سے یہی حدیث روایت کی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>536</td></tr><tr><td>Arabic No</td><td>224.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 536 |
+| Arabic No | 224.02 |
+| Reference | Book 2 Hadith 3 |

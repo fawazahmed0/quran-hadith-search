@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنِي أَبِي، حَدَّثَنَا شَرِيكٌ، عَنِ ابْنِ الأَصْبَهَانِيِّ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَقَامَ بِمَكَّةَ سَبْعَ عَشْرَةَ يُصَلِّي رَكْعَتَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
+
 حدثنا نصر بن علي، اخبرني ابي، حدثنا شريك، عن ابن الاصبهاني، عن عكرمة، عن ابن عباس، ان رسول الله صلى الله عليه وسلم اقام بمكة سبع عشرة يصلي ركعتين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাক্কায় সতের দিন অবস্থানকালে (ফারয সালাত চার রাক‘আতের স্থলে) দু’ রাক‘আত করে সালাত আদায় করেন।\[1\] দুর্বল মুনকার। সহীহ হচ্ছে ঊনিশ দিন।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাক্কায় সতের দিন অবস্থানকালে (ফারয সালাত চার রাক‘আতের স্থলে) দু’ রাক‘আত করে সালাত আদায় করেন।[1] দুর্বল মুনকার। সহীহ হচ্ছে ঊনিশ দিন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) stayed in Mecca seventeen days and prayed two rak'ahs (at each time of prayer)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
+
+## French
+
+Rapporté par Ibn Abbas : Le Messager d’Allah ﷺ est resté dix-sept jours à La Mecque et priait deux unités à chaque horaire
+
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Nashr bin Ali\] telah mengabarkan kepadku \[ayahku\] telah menceritakan kepada kami \[Syarik\] dari \[Ibnu Al Ashbahani\] dari \['Ikrimah\] dari \[Ibnu Abbas\] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bermukim di Makkah selama tujuh belas hari, beliau mengerjakan shalat dua raka'at
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Nashr bin Ali] telah mengabarkan kepadku [ayahku] telah menceritakan kepada kami [Syarik] dari [Ibnu Al Ashbahani] dari ['Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah bermukim di Makkah selama tujuh belas hari, beliau mengerjakan shalat dua raka'at
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ прожил в Мекке семнадцать дней и всё это время совершал два рак‘ата вместо четырёх
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs'dan rivayet edildiğine göre; Resûlullah (s.a.v.) Mekke'de namazlarını ikişer rekat kılarak on yedi gün kalmıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مکہ میں سترہ دن تک مقیم رہے اور دو دو رکعتیں پڑھتے رہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Munkar</td><td>Al-Albani</td></tr><tr><td>Daif Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1232</td></tr><tr><td>Arabic No</td><td>1232</td></tr><tr><td>Reference</td><td>Book 4 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Munkar | Al-Albani |
+| Daif Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1232 |
+| Arabic No | 1232 |
+| Reference | Book 4 Hadith 35 |

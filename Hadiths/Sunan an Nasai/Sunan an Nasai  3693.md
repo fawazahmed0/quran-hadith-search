@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا عُمَرُ، عَنِ الأَوْزَاعِيِّ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ عَلِيِّ بْنِ حُسَيْنٍ، قَالَ حَدَّثَنِي سَعِيدُ بْنُ الْمُسَيَّبِ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَثَلُ الَّذِي يَرْجِعُ فِي صَدَقَتِهِ كَمَثَلِ الْكَلْبِ يَرْجِعُ فِي قَيْئِهِ فَيَأْكُلُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |
+
 اخبرنا محمود بن خالد، قال حدثنا عمر، عن الاوزاعي، قال حدثني محمد بن علي بن حسين، قال حدثني سعيد بن المسيب، قال حدثني عبد الله بن عباس، قال قال رسول الله صلى الله عليه وسلم " مثل الذي يرجع في صدقته كمثل الكلب يرجع في قييه فياكله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মাহমূদ ইবন খালিদ (রহঃ) ... আবদুল্লাহ্ ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি দানের পর তা আবার ফেরত নেয়, সে ঐ কুকুরের ন্যায়, যে বমি করে তা আবার ভক্ষণ করে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah bin 'Abbas said:"The Messenger of Allah said: 'The likeness of the one who takes back his gift, is that of a dog which goes back to its vomit and eats it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |
+
+## French
+
+Rapporté par Abdullah bin 'Abbas : Le Messager d'Allah a dit : "Celui qui reprend son cadeau ressemble à un chien qui retourne à son vomi et le mange
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Mahmud bin Khalid\] ia berkata; telah menceritakan kepada kami \[Umar\] dari \[Al Auza'i\] berkata; telah menceritakan kepadaku \[Muhammad bin Ali bin Husain\] berkata; telah menceritakan kepadaku \[Sa'id bin Al Musayyab\] berkata; telah menceritakan kepadaku \[Abdullah bin Abbas\] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Permisalan orang yang mengambil kembali sedekahnya seperti anjing yang mengambil kembali muntahannya kemudian memakannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Mahmud bin Khalid] ia berkata; telah menceritakan kepada kami [Umar] dari [Al Auza'i] berkata; telah menceritakan kepadaku [Muhammad bin Ali bin Husain] berkata; telah menceritakan kepadaku [Sa'id bin Al Musayyab] berkata; telah menceritakan kepadaku [Abdullah bin Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Permisalan orang yang mengambil kembali sedekahnya seperti anjing yang mengambil kembali muntahannya kemudian memakannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”صدقہ دے کر جو شخص واپس لے لیتا ہے اس کی مثال کتے کی طرح ہے، کتا قے کرتا ہے اور پھر دوبارہ اپنے قے کیے ہوئے کو کھا لیتا ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3693</td></tr><tr><td>Arabic No</td><td>3693</td></tr><tr><td>Reference</td><td>Book 32 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3693 |
+| Arabic No | 3693 |
+| Reference | Book 32 Hadith 6 |

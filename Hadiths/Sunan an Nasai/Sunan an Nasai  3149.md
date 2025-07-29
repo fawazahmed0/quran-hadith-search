@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ سَوَّادٍ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يَحْيَى بْنُ أَيُّوبَ، وَذَكَرَ، آخَرَ قَبْلَهُ عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ لَمَّا كَانَ يَوْمُ أُحُدٍ وَوَلَّى النَّاسُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي نَاحِيَةٍ فِي اثْنَىْ عَشَرَ رَجُلاً مِنَ الأَنْصَارِ وَفِيهِمْ طَلْحَةُ بْنُ عُبَيْدِ اللَّهِ فَأَدْرَكَهُمُ الْمُشْرِكُونَ فَالْتَفَتَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ ‏"‏ مَنْ لِلْقَوْمِ ‏"‏ ‏.‏ فَقَالَ طَلْحَةُ أَنَا ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ كَمَا أَنْتَ ‏"‏ ‏.‏ فَقَالَ رَجُلٌ مِنَ الأَنْصَارِ أَنَا يَا رَسُولَ اللَّهِ ‏.‏ فَقَالَ ‏"‏ أَنْتَ ‏"‏ ‏.‏ فَقَاتَلَ حَتَّى قُتِلَ ثُمَّ الْتَفَتَ فَإِذَا الْمُشْرِكُونَ فَقَالَ ‏"‏ مَنْ لِلْقَوْمِ ‏"‏ ‏.‏ فَقَالَ طَلْحَةُ أَنَا ‏.‏ قَالَ ‏"‏ كَمَا أَنْتَ ‏"‏ ‏.‏ فَقَالَ رَجُلٌ مِنَ الأَنْصَارِ أَنَا ‏.‏ فَقَالَ ‏"‏ أَنْتَ ‏"‏ ‏.‏ فَقَاتَلَ حَتَّى قُتِلَ ثُمَّ لَمْ يَزَلْ يَقُولُ ذَلِكَ وَيَخْرُجُ إِلَيْهِمْ رَجُلٌ مِنَ الأَنْصَارِ فَيُقَاتِلُ قِتَالَ مَنْ قَبْلَهُ حَتَّى يُقْتَلَ حَتَّى بَقِيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَطَلْحَةُ بْنُ عُبَيْدِ اللَّهِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ مَنْ لِلْقَوْمِ ‏"‏ ‏.‏ فَقَالَ طَلْحَةُ أَنَا ‏.‏ فَقَاتَلَ طَلْحَةُ قِتَالَ الأَحَدَ عَشَرَ حَتَّى ضُرِبَتْ يَدُهُ فَقُطِعَتْ أَصَابِعُهُ فَقَالَ حَسِّ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ لَوْ قُلْتَ بِسْمِ اللَّهِ لَرَفَعَتْكَ الْمَلاَئِكَةُ وَالنَّاسُ يَنْظُرُونَ ‏"‏ ‏.‏ ثُمَّ رَدَّ اللَّهُ الْمُشْرِكِينَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |
+
 اخبرنا عمرو بن سواد، قال انبانا ابن وهب، قال اخبرني يحيى بن ايوب، وذكر، اخر قبله عن عمارة بن غزية، عن ابي الزبير، عن جابر بن عبد الله، قال لما كان يوم احد وولى الناس كان رسول الله صلى الله عليه وسلم في ناحية في اثنى عشر رجلا من الانصار وفيهم طلحة بن عبيد الله فادركهم المشركون فالتفت رسول الله صلى الله عليه وسلم وقال " من للقوم " . فقال طلحة انا . قال رسول الله صلى الله عليه وسلم " كما انت " . فقال رجل من الانصار انا يا رسول الله . فقال " انت " . فقاتل حتى قتل ثم التفت فاذا المشركون فقال " من للقوم " . فقال طلحة انا . قال " كما انت " . فقال رجل من الانصار انا . فقال " انت " . فقاتل حتى قتل ثم لم يزل يقول ذلك ويخرج اليهم رجل من الانصار فيقاتل قتال من قبله حتى يقتل حتى بقي رسول الله صلى الله عليه وسلم وطلحة بن عبيد الله فقال رسول الله صلى الله عليه وسلم " من للقوم " . فقال طلحة انا . فقاتل طلحة قتال الاحد عشر حتى ضربت يده فقطعت اصابعه فقال حس . فقال رسول الله صلى الله عليه وسلم " لو قلت بسم الله لرفعتك الملايكة والناس ينظرون " . ثم رد الله المشركين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন সওয়াদ (রহঃ) ... জাবির ইবন আব্দুল্লাহ (রাঃ) বলেন, ওহুদ যুদ্ধের দিন যখন কিছু লোক ফিরে গেল, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদিকে বারজন আনসার কর্তৃক বেষ্টিত ছিলেন, তাদের মধ্যে তালহা ইবন উবায়দুল্লাহ (রাঃ)-ও ছিলেন, মুশরিকরা তাদেরকে আক্রমণ করলো, রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা দেখে বললেনঃ এদলের জন্য কে আছ? তালহা (রাঃ) বললেনঃ আমি। রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি পূর্বে যেমন ছিলে সেরূপ থাক। তখনই একজন আনসারী ব্যক্তি বললোঃ ইয়া রাসূলাল্লাহ! আমি। তিনি বললেনঃ হ্যাঁ তুমিও। এ ব্যক্তি যুদ্ধ করতে করতে শহীদ হলেন। আবার তিনি লক্ষ্য করলেন, এবং দেখতে পেলেন যে, মুশরিকরা আক্রমণ করছে, তিনি বললেনঃ এদলের জন্য কে আছ? এবারও তালহা (রাঃ) বললেনঃ আমি। তিনি বললেনঃ তুমি পূর্বের মতই থাক। এক আনসারী ব্যক্তি বললেনঃ আমি আছি। তিনি ইরশাদ করলেনঃ হ্যাঁ তুমিও। এ ব্যক্তিও যুদ্ধ করতে করতে শহীদ হলেন। এরপর তিনি এভাবে বলছিলেন এবং তার পূর্ববর্তীদের ন্যায় যুদ্ধ করছিলেন এবং শহীদ হলেন। রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তালহা ইবন উবায়দুল্লাহ (রাঃ) অবশিষ্ট থাকলেন। রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এদলের জন্য কে আছ? তালহা (রাঃ) বললেনঃ আমি আছি। তিনি এগারজনের যুদ্ধ একাই করলেন। পরিশেষে তার হাত আহত হলো এবং হাতের আঙ্গুল কর্তিত হালো। এতে তিনি উহ্‌ শব্দের ন্যায় শব্দ উচ্চারণ করলেন। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যদি তুমি বলতে ‘বিসমিল্লাহ', তা হলে তোমাকে ফিরিশতাগণ উপরে উঠিয়ে নিতেন, আর লোকেরা তা দেখতে পেতেন। এরপর আল্লাহ তাআলা মুশরিকদের ফিরিয়ে দিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Jabir bin 'Abdullah said:"On the day of Uhud, the people ran away, and the Messenger of Allah (ﷺ) was in one position among twelve men of the Ansar, one of whom was Talhah bin 'Ubaidullah. He said: 'Who will face the people?' Talhah said: 'I will.' The Messenger of Allah (ﷺ) said: 'Stay where you are.' One of the Ansar said: 'I will, O Messenger of Allah (ﷺ).' He said: 'You (go ahead).' So he fought until he was killed. Then he turned and saw the idolators. He said: 'Who will face the people?' Talhah said: 'I will'. The Messenger of Allah (ﷺ) said: 'Stay where you are.' One of the Ansar said: 'I will, O Messenger of Allah (ﷺ).' He said: 'You (go ahead).' So he fought until he was killed. This carried on, and each man of the Ansar went out to face them and fought like the one before him, and was killed, until only the Messenger of Allah (ﷺ) and Talhah bin 'Ubaidullah were left. The Messenger of Allah (ﷺ) said: 'Who will face the people?' Talhah said: 'I will.' So Talhah fought like the eleven before him, until his hand was struck, and his fingers were cut off, and he exclaimed in pain. The Messenger of Allah (ﷺ) said: 'If you had said Bismillah (in the Name of Allah), the angels would have lifted you up with the people looking on.' Then Allah drove back the idolators
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |
+
+## French
+
+Rapporté par Jabir bin ‘Abdullah : Le jour de Uhud, les gens ont fui, et le Messager d’Allah (ﷺ) est resté à un endroit avec douze hommes des Ansar, dont Talhah bin ‘Ubaidullah. Il a dit : « Qui affrontera les gens ? » Talhah a dit : « Moi. » Le Messager d’Allah (ﷺ) a dit : « Reste où tu es. » Un des Ansar a dit : « Moi, ô Messager d’Allah (ﷺ). » Il a dit : « Vas-y. » Il a combattu jusqu’à être tué. Puis il s’est tourné et a vu les idolâtres. Il a dit : « Qui affrontera les gens ? » Talhah a dit : « Moi. » Le Messager d’Allah (ﷺ) a dit : « Reste où tu es. » Un des Ansar a dit : « Moi, ô Messager d’Allah (ﷺ). » Il a dit : « Vas-y. » Il a combattu jusqu’à être tué. Cela a continué, et chaque homme des Ansar est allé combattre comme le précédent, et a été tué, jusqu’à ce qu’il ne reste plus que le Messager d’Allah (ﷺ) et Talhah bin ‘Ubaidullah. Le Messager d’Allah (ﷺ) a dit : « Qui affrontera les gens ? » Talhah a dit : « Moi. » Alors Talhah a combattu comme les onze avant lui, jusqu’à ce que sa main soit frappée et que ses doigts soient coupés, et il a crié de douleur. Le Messager d’Allah (ﷺ) a dit : « Si tu avais dit Bismillah (au nom d’Allah), les anges t’auraient soulevé sous les yeux des gens. » Puis Allah a repoussé les idolâtres
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amr bin Sawwad\], ia berkata; telah memberitakan kepada kami \[Ibnu Wahb\], ia berkata; telah memberitakan kepadaku \[Yahya bin Ayyub\] dan ia menyebutkan yang lain sebelumnya dari \['Umarah bin Ghaziyyah\] dari \[Abu Az Zubair\] dari \[Jabir bin Abdullah\] ia berkata; ketika perang Uhud dan orang-orang telah mundur, Rasulullah shallallahu 'alaihi wasallam berada diantara dua belas orang Anshar, dan diantara mereka terdapat Tholhah bin Ubaidillah. Kemudian orang-orang musyrikin mendapatkan mereka, lalu Rasulullah shallallahu 'alaihi wasallam menoleh dan bersabda: "Siapa yang akan menghadang mereka?" Tholhah menjawab; saya, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Tetaplah ditempatmu, " lalu seorang laki-laki dari kalangan Anshor berkata; saya wahai Rasulullah, beliau bersabda: " Engkau, " lalu ia bertempur hingga terbunuh, lalu beliau menoleh, dan ternyata terdapat orang-orang musyrik, beliau bersabda: "Siapakah yang akan menghadang mereka?" lalu Tholhah berkata; saya, beliau bersabda: "Tetaplah di tempatmu". Kemudian seorang laki-laki dari kalangan Anshor berkata; saya, beliau bersabda: " Engkau, " lalu ia bertempur hingga terbunuh. Beliau tiada henti-hentinya mengatakan hal itu dan musuh terus diladeni oleh laki-laki dari kalangan Anshor kemudian bertempur seperti pertempuran orang yang sebelumnya, hingga terbunuh dan tinggallah Rasulullah shallallahu 'alaihi wasallam serta Tholhah bin Ubaidillah, beliau bersabda: "Siapakah yang menghadapi mereka?" Tholhah menjawab; saya, lalu ia bertempur seperti pertempuran orang sebelas hingga tangannya terluka dan jari-jarinya terpotong, lalu ia mengucapkan suara pelan, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: " Seandainya engkau mengatakan bismillah, maka malaikat mengangkatmu", dan orang-orang melihatnya lalu Allah mengalahkan orang-orang musyrik
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amr bin Sawwad], ia berkata; telah memberitakan kepada kami [Ibnu Wahb], ia berkata; telah memberitakan kepadaku [Yahya bin Ayyub] dan ia menyebutkan yang lain sebelumnya dari ['Umarah bin Ghaziyyah] dari [Abu Az Zubair] dari [Jabir bin Abdullah] ia berkata; ketika perang Uhud dan orang-orang telah mundur, Rasulullah shallallahu 'alaihi wasallam berada diantara dua belas orang Anshar, dan diantara mereka terdapat Tholhah bin Ubaidillah. Kemudian orang-orang musyrikin mendapatkan mereka, lalu Rasulullah shallallahu 'alaihi wasallam menoleh dan bersabda: "Siapa yang akan menghadang mereka?" Tholhah menjawab; saya, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: "Tetaplah ditempatmu, " lalu seorang laki-laki dari kalangan Anshor berkata; saya wahai Rasulullah, beliau bersabda: " Engkau, " lalu ia bertempur hingga terbunuh, lalu beliau menoleh, dan ternyata terdapat orang-orang musyrik, beliau bersabda: "Siapakah yang akan menghadang mereka?" lalu Tholhah berkata; saya, beliau bersabda: "Tetaplah di tempatmu". Kemudian seorang laki-laki dari kalangan Anshor berkata; saya, beliau bersabda: " Engkau, " lalu ia bertempur hingga terbunuh. Beliau tiada henti-hentinya mengatakan hal itu dan musuh terus diladeni oleh laki-laki dari kalangan Anshor kemudian bertempur seperti pertempuran orang yang sebelumnya, hingga terbunuh dan tinggallah Rasulullah shallallahu 'alaihi wasallam serta Tholhah bin Ubaidillah, beliau bersabda: "Siapakah yang menghadapi mereka?" Tholhah menjawab; saya, lalu ia bertempur seperti pertempuran orang sebelas hingga tangannya terluka dan jari-jarinya terpotong, lalu ia mengucapkan suara pelan, lalu Rasulullah shallallahu 'alaihi wasallam bersabda: " Seandainya engkau mengatakan bismillah, maka malaikat mengangkatmu", dan orang-orang melihatnya lalu Allah mengalahkan orang-orang musyrik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی الله عنہما کہتے ہیں کہ جنگ احد کے دن جب لوگ پیٹھ پھیر کر بھاگ کھڑے ہوئے، ( اس وقت ) رسول اللہ صلی اللہ علیہ وسلم بارہ انصاری صحابہ کے ساتھ ایک طرف موجود تھے انہیں میں ایک طلحہ بن عبیداللہ رضی اللہ عنہ بھی تھے ۱؎۔ مشرکین نے انہیں ( تھوڑا دیکھ کر ) گھیر لیا تو رسول اللہ صلی اللہ علیہ وسلم نے ان کی طرف دیکھا اور فرمایا: ”ہماری طرف سے کون لڑے گا“؟ طلحہ رضی اللہ عنہ نے کہا: اللہ کے رسول! میں ( آپ کا دفاع کروں گا ) ، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تم جیسے ہو ویسے ہی رہو“ تو ایک دوسرے انصاری صحابی نے کہا: اللہ کے رسول! میں ( دفاع کیلئے تیار ہوں ) ۔ آپ صلی اللہ علیہ وسلم نے فرمایا: ”تم ( لڑو ان سے ) تو وہ لڑے یہاں تک کہ شہید کر دیئے گئے“۔ پھر آپ نے مڑ کر ( سب پر ) ایک نظر ڈالی تو مشرکین موجود تھے آپ نے پھر آواز لگائی: ”قوم کی کون حفاظت کرے گا“؟ طلحہ رضی اللہ عنہ ( پھر ) بولے: میں حفاظت کروں گا، آپ نے فرمایا: ” ( تم ٹھہرو ) تم جیسے ہو ویسے ہی رہو“، تو دوسرے انصاری صحابی نے کہا: اللہ کے رسول! میں قوم کی حفاظت کروں گا، آپ نے فرمایا: ”تم ( لڑو ان سے ) “ پھر وہ صحابی ( مشرکین سے ) لڑے اور شہید ہو گئے۔ پھر آپ صلی اللہ علیہ وسلم برابر ایسے ہی پکارتے رہے اور کوئی نہ کوئی انصاری صحابی ان مشرکین کے مقابلے کے لیے میدان میں اترتا اور نکلتا رہا اور اپنے پہلوں کی طرح لڑ لڑ کر شہید ہوتا رہا۔ یہاں تک کہ رسول اللہ صلی اللہ علیہ وسلم اور طلحہ بن عبیداللہ ہی باقی رہ گئے۔ پھر رسول اللہ صلی اللہ علیہ وسلم نے آواز لگائی۔ ”قوم کی کون حفاظت کرے گا“؟ طلحہ رضی اللہ عنہ نے ( پھر ) کہا: میں کروں گا ( یہ کہہ کر ) پہلے گیارہ ( شہید ساتھیوں ) کی طرح مشرکین سے جنگ کرنے لگ گئے۔ ( اور لڑتے رہے ) یہاں تک کہ ہاتھ پر ایک کاری ضرب لگی اور انگلیاں کٹ کر گر گئیں۔ انہوں نے کہا: «حس» رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اگر تم ( «حس» کے بجائے ) «بسم اللہ» کہتے تو فرشتے تمہیں اٹھا لیتے اور لوگ دیکھ رہے ہوتے“، پھر اللہ تعالیٰ نے مشرکین کو واپس کر دیا ( یعنی وہ مکہ لوٹ گئے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3149</td></tr><tr><td>Arabic No</td><td>3149</td></tr><tr><td>Reference</td><td>Book 25 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3149 |
+| Arabic No | 3149 |
+| Reference | Book 25 Hadith 65 |

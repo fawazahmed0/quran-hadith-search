@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، ح وَحَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عُمَرَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، حَدَّثَنَا هِشَامٌ، حَدَّثَنَا قَتَادَةُ، عَنِ الْحَسَنِ، عَنْ قَيْسِ بْنِ عُبَادٍ، قَالَ كَانَ أَصْحَابُ النَّبِيِّ صلى الله عليه وسلم يَكْرَهُونَ الصَّوْتَ عِنْدَ الْقِتَالِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
+
 حدثنا مسلم بن ابراهيم، حدثنا هشام، ح وحدثنا عبيد الله بن عمر، حدثنا عبد الرحمن بن مهدي، حدثنا هشام، حدثنا قتادة، عن الحسن، عن قيس بن عباد، قال كان اصحاب النبي صلى الله عليه وسلم يكرهون الصوت عند القتال
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কায়িস ইবনু ‘আব্বাদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীগণ যুদ্ধের সময় উচ্চস্বরে কথাবার্তা বলা অপছন্দ করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Qays ibn Abbad: The Companions of the Prophet (ﷺ), disliked shouting while fighting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
+
+## French
+
+Rapporté par Qays ibn Abbad رضي الله عنه : Les compagnons du Prophète ﷺ n’aimaient pas crier pendant les combats
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\], telah menceritakan kepada kami \[Hisyam\], dan telah diriwayat dari jalur yang lain: Telah menceritakan kepada kami \['Ubaidullah bin Umar\], telah menceritakan kepada kami \[Abdurrahman bin Mahdi\], telah menceritakan kepada kami \[Hisyam\], telah menceritakan kepada kami \[Qatadah\], dari \[Al Hasan\], dari \[Qais bin 'Ubad\], ia berkata; para sahabat Nabi shallallahu 'alaihi wasallam tidak menyukai bersuara ketika berperang. Telah menceritakan kepada kami \['Ubaidullah bin Umar\], telah menceritakan kepada kami \[Abdurrahman\] dari \[Hammam\], telah menceritakan kepadaku \[Mathar\], dari \[Qatadah\] dari \[Abu Burdah\], dari \[ayahnya\], dari Nabi shallallahu 'alaihi wasallam seperti hadits tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam], dan telah diriwayat dari jalur yang lain: Telah menceritakan kepada kami ['Ubaidullah bin Umar], telah menceritakan kepada kami [Abdurrahman bin Mahdi], telah menceritakan kepada kami [Hisyam], telah menceritakan kepada kami [Qatadah], dari [Al Hasan], dari [Qais bin 'Ubad], ia berkata; para sahabat Nabi shallallahu 'alaihi wasallam tidak menyukai bersuara ketika berperang. Telah menceritakan kepada kami ['Ubaidullah bin Umar], telah menceritakan kepada kami [Abdurrahman] dari [Hammam], telah menceritakan kepadaku [Mathar], dari [Qatadah] dari [Abu Burdah], dari [ayahnya], dari Nabi shallallahu 'alaihi wasallam seperti hadits tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kays b. Ubad'dan dedi ki: "Nebi (s.a.v.)'irı sahabeleri (düşmanla) savaşırken ses çıkarmayı çirkin görürlerdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قیس بن عباد رضی اللہ عنہ کہتے ہیں کہ صحابہ کرام رضی اللہ عنہم قتال کے وقت آواز ۱؎ ناپسند کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2656</td></tr><tr><td>Arabic No</td><td>2656</td></tr><tr><td>Reference</td><td>Book 15 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2656 |
+| Arabic No | 2656 |
+| Reference | Book 15 Hadith 180 |

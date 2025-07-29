@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا سَلاَّمُ بْنُ مِسْكِينٍ، حَدَّثَنَا ثَابِتٌ الْبُنَانِيُّ، عَنْ أَنَسٍ، بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه شيبان بن فروخ، حدثنا سلام بن مسكين، حدثنا ثابت البناني، عن انس، بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 শাইবান ইবনু ফাররূখ (রহঃ) ..... আনাস (রাযিঃ) হতে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮০৬, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Anas through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## French
 
+Rapporté par Anas : Ce hadith a été rapporté par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-51) Bize bu hadîsi Şeyban b. Ferruh dahi rivayet etti. (Dediki): Bize Sellam b. Miskin rivayet etti. (Dediki): Bize Sabit El-Bünânî, Enes'den bu hadîsin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلام بن مسکین نے کہا : ہمیں ثابت بنا نی نے حضرت انس رضی اللہ تعالیٰ عنہ سے اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6012</td></tr><tr><td>Arabic No</td><td>2309.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6012 |
+| Arabic No | 2309.02 |
+| Reference | Book 43 Hadith 71 |

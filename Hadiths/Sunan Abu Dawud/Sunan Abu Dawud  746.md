@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا مُوسَى بْنُ مَرْوَانَ، حَدَّثَنَا شُعَيْبٌ، - يَعْنِي ابْنَ إِسْحَاقَ الْمَعْنَى - عَنْ عِمْرَانَ، عَنْ لاَحِقٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، قَالَ قَالَ أَبُو هُرَيْرَةَ لَوْ كُنْتُ قُدَّامَ النَّبِيِّ صلى الله عليه وسلم لَرَأَيْتُ إِبْطَيْهِ ‏.‏ زَادَ ابْنُ مُعَاذٍ قَالَ يَقُولُ لاَحِقٌ أَلاَ تَرَى أَنَّهُ فِي الصَّلاَةِ وَلاَ يَسْتَطِيعُ أَنْ يَكُونَ قُدَّامَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَزَادَ مُوسَى يَعْنِي إِذَا كَبَّرَ رَفَعَ يَدَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
+
 حدثنا ابن معاذ، حدثنا ابي ح، وحدثنا موسى بن مروان، حدثنا شعيب، - يعني ابن اسحاق المعنى - عن عمران، عن لاحق، عن بشير بن نهيك، قال قال ابو هريرة لو كنت قدام النبي صلى الله عليه وسلم لرايت ابطيه . زاد ابن معاذ قال يقول لاحق الا ترى انه في الصلاة ولا يستطيع ان يكون قدام رسول الله صلى الله عليه وسلم وزاد موسى يعني اذا كبر رفع يديه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
 
 ## Bengali
 
+। বাশীর ইবনু নাহীক সূত্রে বর্ণিত। তিনি বলেন, আবূ হুরাইরাহ্ (রাঃ) বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সম্মুখে দাঁড়ালে তাঁর বগল দেখতে পেতাম (অর্থাৎ তিনি হাত এতটা পৃথক রাখতেন)। ‘উবাইদুল্লাহ ইবনু মু‘আয আরো উল্লে­খ করেন যে, বর্ণনাকারী নাহীক বলেন, তুমি কি দেখনি আবূ হুরাইরাহ্ (রাঃ) সালাতের সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে যেতে পারেন না। বর্ণনাকারী মূসা ইবনু মারওয়ান তাঁর হাদীসে আরো উল্লেখ করেন যে, তিনি তাকবীর বলার সময় দু’ হাত উত্তোলন করতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। বাশীর ইবনু নাহীক সূত্রে বর্ণিত। তিনি বলেন, আবূ হুরাইরাহ্ (রাঃ) বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সম্মুখে দাঁড়ালে তাঁর বগল দেখতে পেতাম (অর্থাৎ তিনি হাত এতটা পৃথক রাখতেন)। ‘উবাইদুল্লাহ ইবনু মু‘আয আরো উল্লে­খ করেন যে, বর্ণনাকারী নাহীক বলেন, তুমি কি দেখনি আবূ হুরাইরাহ্ (রাঃ) সালাতের সময় নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে যেতে পারেন না। বর্ণনাকারী মূসা ইবনু মারওয়ান তাঁর হাদীসে আরো উল্লেখ করেন যে, তিনি তাকবীর বলার সময় দু’ হাত উত্তোলন করতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: If I were in front of the Prophet (ﷺ), I would see his armpits. Ibn Mu'adh added that Lahiq said: Do you not see, AbuHurayrah could not stand in front of the Prophet (ﷺ) while he was praying. Musa added: When he uttered the takbir, he raised his hands
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Si j’étais devant le Prophète ﷺ, je voyais ses aisselles. Ibn Mu‘adh a ajouté que Lahiq a dit : Ne vois-tu pas qu’Abu Huraira ne pouvait pas se tenir devant le Prophète ﷺ pendant qu’il priait. Musa a ajouté : Quand il prononçait le takbir, il levait les mains
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Mu'adz\] telah menceritakan kepada kami \[ayahku\], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami \[Musa bin Marwan\] telah menceritakan kepada kami \[Syu'aib yaitu Ibnu Ishaq\] sedangkan ma'na haditsnya dari \['Imran\] dari \[Lahiq\] dari \[Basyir bin Nahik\] dia berkata; \[Abu Hurairah\] berkata; "Sekiranya aku berada di depan Nabi shallallahu 'alaihi wasallam (sewaktu mengangkat kedua tangan), niscaya ketiak beliau akan terlihat olehku." 'Ubaidullah bin Mu'adz menambahkan; Lahiq berkata; "Tidakkah kamu tahu bahwa dia itu sedang shalat, oleh karena itu dia tidak bisa berada di depan Rasulullah shallallahu 'alaihi wasallam?." Marwan bin Ar Raqi menambahkan; "yang di maksud ketika beliau bertakbir dan mengangkat kedua tangannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Mu'adz] telah menceritakan kepada kami [ayahku], dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musa bin Marwan] telah menceritakan kepada kami [Syu'aib yaitu Ibnu Ishaq] sedangkan ma'na haditsnya dari ['Imran] dari [Lahiq] dari [Basyir bin Nahik] dia berkata; [Abu Hurairah] berkata; "Sekiranya aku berada di depan Nabi shallallahu 'alaihi wasallam (sewaktu mengangkat kedua tangan), niscaya ketiak beliau akan terlihat olehku." 'Ubaidullah bin Mu'adz menambahkan; Lahiq berkata; "Tidakkah kamu tahu bahwa dia itu sedang shalat, oleh karena itu dia tidak bisa berada di depan Rasulullah shallallahu 'alaihi wasallam?." Marwan bin Ar Raqi menambahkan; "yang di maksud ketika beliau bertakbir dan mengangkat kedua tangannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Башир ибн Нахийк сказал: «Абу Хурайра сказал: “Если бы я находился перед Пророком ﷺ то смог бы увидеть его подмышки”».Ибн Му‘аз (в своём риваяте) привёл дополнение и сказал: «Лахикъ говорит: “А разве ты не видишь, что он находится на молитве и не мог стоять перед посланником Аллаха ﷺ?!”»Муса (ибн Марван) привёл дополнение: «Имеется в виду, что произнося слова возвеличивания Аллаха /такбир/, он поднимал руки»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.) demiştir ki; "Eğer Nebi (Sallallahu aleyhi ve Sellem)'in önünde (bulunmuş) olsaydım (kollarını kaldırırken) koltuk altlarını görürdüm." İbn Muaz, Lahîk'ın (şöyle) dediğini ekledi; "Biliyorsun ki, o namazdadır, (Namazda imamı olan) Nebi (Sallallahu aleyhi ve Sellem)'in önünde bulunamaz." Musa (b. Mervan da şunu) ilave etti: Bunun manası şu­dur: "Resulullah tekbir aldığı zaman (koltuk altları görünecek kadar) ellerini kaldırırdı." Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بشیر بن نہیک کہتے ہیں کہ ابوہریرہ رضی اللہ عنہ نے کہا: اگر میں نبی اکرم صلی اللہ علیہ وسلم کے آگے ہوتا تو ( رفع یدین کرتے وقت ) آپ کی بغل دیکھ لیتا۔ عبیداللہ بن معاذ نے اپنی روایت میں یہ اضافہ کیا ہے کہ لاحق ( ابومجلز ) کہتے ہیں: کیا تم دیکھتے نہیں کہ وہ نماز میں تھے اور وہ رسول اللہ صلی اللہ علیہ وسلم سے آگے نہیں ہو سکتے تھے، ابوداؤد کے شیخ موسیٰ بن مروان رقی نے یہ اضافہ کیا یعنی جب آپ صلی اللہ علیہ وسلم تکبیر کہتے تو رفع یدین کرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>746</td></tr><tr><td>Reference</td><td>Book 2 Hadith 356</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 746 |
+| Reference | Book 2 Hadith 356 |

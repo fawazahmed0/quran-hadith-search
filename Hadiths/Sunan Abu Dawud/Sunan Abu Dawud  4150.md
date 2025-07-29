@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى الأَسَدِيُّ، حَدَّثَنَا ابْنُ فُضَيْلٍ، عَنْ أَبِيهِ، بِهَذَا الْحَدِيثِ قَالَ وَكَانَ سِتْرًا مَوْشِيًّا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
+
 حدثنا واصل بن عبد الاعلى الاسدي، حدثنا ابن فضيل، عن ابيه، بهذا الحديث قال وكان سترا موشيا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
 
 ## Bengali
 
+। ইবনু ফুদাইল (রহঃ) তার পিতার সূত্রে এ হাদীস বর্ণনা করে বলেন, পর্দাটি ছিলো ডোরাযুক্ত ও নকশা খচিত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ফুদাইল (রহঃ) তার পিতার সূত্রে এ হাদীস বর্ণনা করে বলেন, পর্দাটি ছিলো ডোরাযুক্ত ও নকশা খচিত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted through a different chain of narrators by Ibn Fudail on his father's authority. This version has:"The curtain was embellished
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par une autre chaîne de rapporteurs par Ibn Fudail, selon son père. Cette version précise : « Le rideau était orné. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В другой версии от Ибн Фудайля от его отца говорится, что занавеска была узорчатая
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (bir Önceki 4149. hadis) (Muhammed) İbn Fudayl'ın babasından da (rivayet olunmuştur. Şu farkla ki İbn Fudayl bu hadisi; "Hz. Fâtıma'nın kapısında) nakışlı bir perde vardı" diye rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 فضیل سے یہی حدیث مروی ہے اس میں ہے کہ وہ ایک منقش پردہ تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2613)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4150</td></tr><tr><td>Arabic No</td><td>4150</td></tr><tr><td>Reference</td><td>Book 34 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2613) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4150 |
+| Arabic No | 4150 |
+| Reference | Book 34 Hadith 131 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا دَاوُدُ بْنُ شَبِيبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ الْبُنَانِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كُنَّا نُصَلِّي الْمَغْرِبَ مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ نَرْمِي فَيَرَى أَحَدُنَا مَوْضِعَ نَبْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
+
 حدثنا داود بن شبيب، حدثنا حماد، عن ثابت البناني، عن انس بن مالك، قال كنا نصلي المغرب مع النبي صلى الله عليه وسلم ثم نرمي فيرى احدنا موضع نبله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে মাগরিবের সালাত আদায় করতাম। অতঃপর তীর নিক্ষেপ করতাম। আমাদের প্রত্যেকেই তখনো তার তীর পতিত হওয়ার স্থান দেখতে পেত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে মাগরিবের সালাত আদায় করতাম। অতঃপর তীর নিক্ষেপ করতাম। আমাদের প্রত্যেকেই তখনো তার তীর পতিত হওয়ার স্থান দেখতে পেত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas b. Malik said:We used to offer the Maghrib prayer with the Prophet (ﷺ) and then shoot arrows, one of us could see the place where arrow would fall
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
+
+## French
+
+Rapporté par Anas b. Malik : « Nous faisions la prière du Maghrib avec le Prophète ﷺ, puis nous tirions des flèches, et l’un de nous pouvait encore voir où sa flèche tombait. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Dawud bin Syabib\] telah menceritakan kepada kami \[Hammad\] dari \[Tsabit Al Bunani\] dari \[Anas bin Malik\] dia berkata; Kami pernah shalat Maghrib bersama Nabi Shallallahu alaihi wasallam, kemudian kami memanah, ketika itu salah seorang dari kami masih dapat melihat tempat anak panahnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Dawud bin Syabib] telah menceritakan kepada kami [Hammad] dari [Tsabit Al Bunani] dari [Anas bin Malik] dia berkata; Kami pernah shalat Maghrib bersama Nabi Shallallahu alaihi wasallam, kemudian kami memanah, ketika itu salah seorang dari kami masih dapat melihat tempat anak panahnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Анас ибн Малик сказал: «После того, как мы совершали закатную /магъриб/ молитву вместе с Пророком ﷺ и затем стрельнув, любой из нас ещё мог рассмотреть то место, куда упала стрела (, пущенная им из лука)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes bin Malik (r.a.) şöyle demiştir: "Biz Resulullah (Sallallahu aleyhi ve Sellem)'le birlikte akşam namazını kılar, sonra da ok atardık da her birimiz okunun düştüğü yeri görürdü.” Diğer tahric: Buhari, salat; Müslim, mesacid; İbn Mace, salat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ ہم نبی اکرم صلی اللہ علیہ وسلم کے ساتھ مغرب پڑھتے تھے، پھر تیر مارتے تو ہم میں سے ہر شخص اپنے تیر کے گرنے کی جگہ دیکھ لیتا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>416</td></tr><tr><td>Arabic No</td><td>416</td></tr><tr><td>Reference</td><td>Book 2 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 416 |
+| Arabic No | 416 |
+| Reference | Book 2 Hadith 26 |

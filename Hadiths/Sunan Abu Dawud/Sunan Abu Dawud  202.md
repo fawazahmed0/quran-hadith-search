@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، وَهَنَّادُ بْنُ السَّرِيِّ، وَعُثْمَانُ بْنُ أَبِي شَيْبَةَ، عَنْ عَبْدِ السَّلاَمِ بْنِ حَرْبٍ، - وَهَذَا لَفْظُ حَدِيثِ يَحْيَى - عَنْ أَبِي خَالِدٍ الدَّالاَنِيِّ، عَنْ قَتَادَةَ، عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَسْجُدُ وَيَنَامُ وَيَنْفُخُ ثُمَّ يَقُومُ فَيُصَلِّي وَلاَ يَتَوَضَّأُ ‏.‏ قَالَ فَقُلْتُ لَهُ صَلَّيْتَ وَلَمْ تَتَوَضَّأْ وَقَدْ نِمْتَ فَقَالَ ‏"‏ إِنَّمَا الْوُضُوءُ عَلَى مَنْ نَامَ مُضْطَجِعًا ‏"‏ ‏.‏ زَادَ عُثْمَانُ وَهَنَّادٌ ‏"‏ فَإِنَّهُ إِذَا اضْطَجَعَ اسْتَرْخَتْ مَفَاصِلُهُ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ قَوْلُهُ ‏"‏ الْوُضُوءُ عَلَى مَنْ نَامَ مُضْطَجِعًا ‏"‏ ‏.‏ هُوَ حَدِيثٌ مُنْكَرٌ لَمْ يَرْوِهِ إِلاَّ يَزِيدُ أَبُو خَالِدٍ الدَّالاَنِيُّ عَنْ قَتَادَةَ وَرَوَى أَوَّلَهُ جَمَاعَةٌ عَنِ ابْنِ عَبَّاسٍ وَلَمْ يَذْكُرُوا شَيْئًا مِنْ هَذَا وَقَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم مَحْفُوظًا وَقَالَتْ عَائِشَةُ - رضى الله عنها - قَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ تَنَامُ عَيْنَاىَ وَلاَ يَنَامُ قَلْبِي ‏"‏ ‏.‏ وَقَالَ شُعْبَةُ إِنَّمَا سَمِعَ قَتَادَةُ مِنْ أَبِي الْعَالِيَةِ أَرْبَعَةَ أَحَادِيثَ حَدِيثَ يُونُسَ بْنِ مَتَّى وَحَدِيثَ ابْنِ عُمَرَ فِي الصَّلاَةِ وَحَدِيثَ الْقُضَاةُ ثَلاَثَةٌ وَحَدِيثَ ابْنِ عَبَّاسٍ حَدَّثَنِي رِجَالٌ مَرْضِيُّونَ مِنْهُمْ عُمَرُ وَأَرْضَاهُمْ عِنْدِي عُمَرُ ‏.‏ قَالَ أَبُو دَاوُدَ وَذَكَرْتُ حَدِيثَ يَزِيدَ الدَّالاَنِيِّ لأَحْمَدَ بْنِ حَنْبَلٍ فَانْتَهَرَنِي اسْتِعْظَامًا لَهُ وَقَالَ مَا لِيَزِيدَ الدَّالاَنِيِّ يُدْخِلُ عَلَى أَصْحَابِ قَتَادَةَ وَلَمْ يَعْبَأْ بِالْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
+
 حدثنا يحيى بن معين، وهناد بن السري، وعثمان بن ابي شيبة، عن عبد السلام بن حرب، - وهذا لفظ حديث يحيى - عن ابي خالد الدالاني، عن قتادة، عن ابي العالية، عن ابن عباس، ان رسول الله صلى الله عليه وسلم كان يسجد وينام وينفخ ثم يقوم فيصلي ولا يتوضا . قال فقلت له صليت ولم تتوضا وقد نمت فقال " انما الوضوء على من نام مضطجعا " . زاد عثمان وهناد " فانه اذا اضطجع استرخت مفاصله " . قال ابو داود قوله " الوضوء على من نام مضطجعا " . هو حديث منكر لم يروه الا يزيد ابو خالد الدالاني عن قتادة وروى اوله جماعة عن ابن عباس ولم يذكروا شييا من هذا وقال كان النبي صلى الله عليه وسلم محفوظا وقالت عايشة - رضى الله عنها - قال النبي صلى الله عليه وسلم " تنام عيناى ولا ينام قلبي " . وقال شعبة انما سمع قتادة من ابي العالية اربعة احاديث حديث يونس بن متى وحديث ابن عمر في الصلاة وحديث القضاة ثلاثة وحديث ابن عباس حدثني رجال مرضيون منهم عمر وارضاهم عندي عمر . قال ابو داود وذكرت حديث يزيد الدالاني لاحمد بن حنبل فانتهرني استعظاما له وقال ما ليزيد الدالاني يدخل على اصحاب قتادة ولم يعبا بالحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদায় গিয়ে (কখনো) ঘুমিয়ে যেতেন, এমনকি তাঁর নাক ডাকার আওয়াজ শোনা যেত। অতঃপর তিনি দাঁড়িয়ে সালাত আদায় করতেন, কিন্তু অযু করতেন না। বর্ণনাকারী বলেন, আমি তাঁকে বললাম, আপনি ঘুমানোর পরও অযু না করেই সালাত আদায় করলেন? তিনি বললেনঃ যে ব্যক্তি শুয়ে ঘুমায়, অযু করা তারই কর্তব্য। ‘উসমান ও হাম্মাদ আরো বলেন, এর কারণ হলো, শুয়ে ঘুমালে শরীরের বাঁধন ঢিলা হয়ে যায়। \[1\] দুর্বল : মিশকাত ৩১৮। ইমাম আবূ দাউদ (রহঃ) বলেন, যে ব্যক্তি শুয়ে ঘুমায় অযু করা তারই কর্তব্য- এ হাদীসটি মুনকার। এটি কেবলমাত্র ইয়াযীদ আল-দালানী ক্বাতাদাহ সূত্রে বর্ণনা করেছেন। একদল বর্ণনাকারী ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে হাদীসের প্রথমাংশ বর্ণনা করেছেন। কিন্তু তারা উপরোক্ত কথার কিছুই উল্লেখ করেননি। ইবনু ‘আব্বাস (রাঃ) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (অসর্তকতা) থেকে মাহফুয ছিলেন। وَقَالَتْ عَائِشَةُ قَالَ النَّبِيُّ صلي الله عليه وسلم ‏"‏ تَنَامُ عَيْنَاىَ وَلَا يَنَامُ قَلْبِي ‏"‏ ‏. صحيح : م . وَقَالَ شُعْبَةُ إِنَّمَا سَمِعَ قَتَادَةُ مِنْ أَبِي الْعَالِيَةِ أَرْبَعَةَ أَحَادِيثَ حَدِيثَ يُونُسَ بْنِ مَتَّى وَحَدِيثَ ابْنِ عُمَرَ فِي الصَّلَاةِ وَحَدِيثَ الْقُضَاةُ ثَلَاثَةٌ وَحَدِيثَ ابْنِ عَبَّاسٍ حَدَّثَنِي رِجَالٌ مَرْضِيُّونَ مِنْهُمْ عُمَرُ وَأَرْضَاهُمْ عِنْدِي عُمَرُ ‏.‏ قَالَ أَبُو دَاوُدَ وَذَكَرْتُ حَدِيثَ يَزِيدَ الدَّالَانِيِّ لأَحْمَدَ بْنِ حَنْبَلٍ فَانْتَهَرَنِي اسْتِعْظَامًا لَهُ وَقَالَ مَا لِيَزِيدَ الدَّالَانِيِّ يُدْخِلُ عَلَى أَصْحَابِ قَتَادَةَ وَلَمْ يَعْبَأْ بِالْحَدِيثِ ‏. ‘আয়িশাহ্ (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার চক্ষুদ্বয় ঘুমায়, কিন্তু আমার অন্তর ঘুমায় না। সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদায় গিয়ে (কখনো) ঘুমিয়ে যেতেন, এমনকি তাঁর নাক ডাকার আওয়াজ শোনা যেত। অতঃপর তিনি দাঁড়িয়ে সালাত আদায় করতেন, কিন্তু অযু করতেন না। বর্ণনাকারী বলেন, আমি তাঁকে বললাম, আপনি ঘুমানোর পরও অযু না করেই সালাত আদায় করলেন? তিনি বললেনঃ যে ব্যক্তি শুয়ে ঘুমায়, অযু করা তারই কর্তব্য। ‘উসমান ও হাম্মাদ আরো বলেন, এর কারণ হলো, শুয়ে ঘুমালে শরীরের বাঁধন ঢিলা হয়ে যায়। [1] দুর্বল : মিশকাত ৩১৮। ইমাম আবূ দাউদ (রহঃ) বলেন, যে ব্যক্তি শুয়ে ঘুমায় অযু করা তারই কর্তব্য- এ হাদীসটি মুনকার। এটি কেবলমাত্র ইয়াযীদ আল-দালানী ক্বাতাদাহ সূত্রে বর্ণনা করেছেন। একদল বর্ণনাকারী ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে হাদীসের প্রথমাংশ বর্ণনা করেছেন। কিন্তু তারা উপরোক্ত কথার কিছুই উল্লেখ করেননি। ইবনু ‘আব্বাস (রাঃ) বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (অসর্তকতা) থেকে মাহফুয ছিলেন। وَقَالَتْ عَائِشَةُ قَالَ النَّبِيُّ صلي الله عليه وسلم ‏"‏ تَنَامُ عَيْنَاىَ وَلَا يَنَامُ قَلْبِي ‏"‏ ‏. صحيح : م . وَقَالَ شُعْبَةُ إِنَّمَا سَمِعَ قَتَادَةُ مِنْ أَبِي الْعَالِيَةِ أَرْبَعَةَ أَحَادِيثَ حَدِيثَ يُونُسَ بْنِ مَتَّى وَحَدِيثَ ابْنِ عُمَرَ فِي الصَّلَاةِ وَحَدِيثَ الْقُضَاةُ ثَلَاثَةٌ وَحَدِيثَ ابْنِ عَبَّاسٍ حَدَّثَنِي رِجَالٌ مَرْضِيُّونَ مِنْهُمْ عُمَرُ وَأَرْضَاهُمْ عِنْدِي عُمَرُ ‏.‏ قَالَ أَبُو دَاوُدَ وَذَكَرْتُ حَدِيثَ يَزِيدَ الدَّالَانِيِّ لأَحْمَدَ بْنِ حَنْبَلٍ فَانْتَهَرَنِي اسْتِعْظَامًا لَهُ وَقَالَ مَا لِيَزِيدَ الدَّالَانِيِّ يُدْخِلُ عَلَى أَصْحَابِ قَتَادَةَ وَلَمْ يَعْبَأْ بِالْحَدِيثِ ‏. ‘আয়িশাহ্ (রাঃ) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আমার চক্ষুদ্বয় ঘুমায়, কিন্তু আমার অন্তর ঘুমায় না। সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) used to prostrate and sleep (in prostration) and produce puffing sounds (during sleep). Then he would stand and pray and would not perform ablution. I said to him: you prayed but did not perform ablution though you slept (in prostration). He replied: Ablution is necessary for one who sleeps while he is lying down. Uthman and Hannad added: For when he lies down, his joints are relaxed. Abu Dawud said: The statement "ablution is necessary for one who sleeps while one is lying down" is a munkar (rejected) tradition. It has been narrated only by Yazid Abu Khalid al-Dalani, on the authority of Qatadah. And its earlier part has been narrated by a group (of narrators) from Ibn 'Abbas; they did not mention anything about it. He (Ibn 'Abbas) said: The Prophet (ﷺ) was protected (during his sleep). 'Aishah reported: The Prophet (ﷺ) said: My eyes sleep, but my heart does not sleep. Shu'bah said: Qatadah heard from Abu'l-'Aliyah only four traditions: the tradition about Jonah son of Matthew, the tradition reported by Ibn 'Umar about prayer, the tradition stating that the judges are three, and the tradition narrated by Ibn 'Abbas saying: (This tradition) has been narrated to me by reliable persons ; 'Umar is one of them, and the most reliable of them in my opinion is 'Umar. Abu Dawud said: I asked Ahmad b. Hanbal about the tradition narrated by Yazid al-Dalani. He rebuked me out of respect for him. Then he said: Yazid al-Dalani does not add anything to what has been narrated by the teachers of Qatadah. He did not care of this tradition (due to its weakness)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ se prosternait et dormait (en prosternation) en faisant des bruits de souffle. Puis il se levait et priait sans refaire ses ablutions. Je lui ai dit : « Tu as prié sans refaire tes ablutions alors que tu t’es endormi (en prosternation). » Il a répondu : « Les ablutions sont nécessaires pour celui qui dort allongé. » Uthman et Hannad ont ajouté : « Car quand il s’allonge, ses articulations se relâchent. » Abu Dawud a dit : La phrase « Les ablutions sont nécessaires pour celui qui dort allongé » est un hadith faible. Il n’a été rapporté que par Yazid Abu Khalid al-Dalani, d’après Qatadah. La première partie a été rapportée par plusieurs narrateurs d’Ibn Abbas, sans mentionner cela. Il (Ibn Abbas) a dit : Le Prophète ﷺ était protégé pendant son sommeil. Aishah رضي الله عنها a rapporté : Le Prophète ﷺ a dit : « Mes yeux dorment, mais mon cœur ne dort pas. » Shu’bah a dit : Qatadah n’a entendu que quatre hadiths d’Abu’l-‘Aliyah : le hadith sur Jonas fils de Matthieu, celui rapporté par Ibn ‘Umar sur la prière, celui disant que les juges sont trois, et celui rapporté par Ibn ‘Abbas disant : « Ce hadith m’a été rapporté par des personnes fiables ; ‘Umar en fait partie, et le plus fiable à mes yeux est ‘Umar. » Abu Dawud a dit : J’ai interrogé Ahmad ibn Hanbal à propos du hadith rapporté par Yazid al-Dalani. Il m’a réprimandé par respect pour lui. Puis il a dit : « Yazid al-Dalani n’ajoute rien à ce que les enseignants de Qatadah ont rapporté. » Il ne tenait pas compte de ce hadith à cause de sa faiblesse
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Ma'in\] dan \[Hannad bin As Sariy\] dan \[Utsman bin Abu Syaibah\] dari \[Abdussalam bin Harb\] dan ini adalah lafazh hadits Yahya dari \[Abu Khalid Ad- Dalani\] dari \[Qatadah\] dari \[Abu Al-'Aliyah\] dari \[Ibnu Abbas\] bahwa Rasulullah shallallahu 'alaihi wasallam pernah sujud dan tidur serta mengeluarkan suara, kemudian beliau bangkit untuk shalat dan tidak berwudhu kembali. Dia (Ibnu Abbas) berkata; Maka saya tanyakan kepada beliau; Baginda shalat dan tidak berwudhu, padahal baginda telah tidur. Maka beliau bersabda: "Sesungguhnya wudhu hanyalah wajib bagi orang yang tidur dengan berbaring." \[Utsman\] dan \[Hannad\] menambahkan dengan lafadl; "Karena apabila dia tidur berbaring, maka seluruh persendiannya loyo." Abu Dawud berkata; Hadits tentang berwudhu bagi orang yang tidur berbaring adalah hadits munkar, tidak ada yang meriwayatkannya kecuali Yazid Abu Khalid Ad-Dalani dari Qatadah. Awal Hadits ini diriwayatkan oleh Jama'ah dari Ibnu Abbas, dan mereka tidak menyebutkan sedikit pun tentang ini (berwudhu bagi yang tidur berbaring), dan dia berkata; Nabi shallallahu 'alaihi wasallam terpelihara (dari tidurnya hati). Dan Aisyah radliallahu 'anha berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kedua mataku tertidur akan tetapi hatiku tidak." Syu'bah berkata; Sesungguhnya Qatadah mendengar dari Abu Al Aliyah hanya empat hadits, yaitu: Hadits Yunus bin Matta, hadits Ibnu Umar tentang shalat, Hadits tentang keterangan bahwa para hakim itu ada tiga golongan, dan hadits Ibnu Abbas, telah menceritakan kepada saya orang-orang yang diridhai yang diantaranya Umar, dan yang lebih diridhai menurutku adalah Umar. Abu Dawud berkata; Saya pernah menyebutkan hadits Yazid Ad-Dalani kepada Ahmad bin Hanbal, maka dia memperingatkanku dengan keras karena pengingkarannya yang begitu besar pada riwayat tersebut, dan dia berkata; Apa urusan Yazid Ad-Dalani dengan memasukkan pada para sahabat Qatadah apa-apa yang tidak mereka riwayatkan. Dia (Ahmad) tidak mempedulikan hadits tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Ma'in] dan [Hannad bin As Sariy] dan [Utsman bin Abu Syaibah] dari [Abdussalam bin Harb] dan ini adalah lafazh hadits Yahya dari [Abu Khalid Ad- Dalani] dari [Qatadah] dari [Abu Al-'Aliyah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam pernah sujud dan tidur serta mengeluarkan suara, kemudian beliau bangkit untuk shalat dan tidak berwudhu kembali. Dia (Ibnu Abbas) berkata; Maka saya tanyakan kepada beliau; Baginda shalat dan tidak berwudhu, padahal baginda telah tidur. Maka beliau bersabda: "Sesungguhnya wudhu hanyalah wajib bagi orang yang tidur dengan berbaring." [Utsman] dan [Hannad] menambahkan dengan lafadl; "Karena apabila dia tidur berbaring, maka seluruh persendiannya loyo." Abu Dawud berkata; Hadits tentang berwudhu bagi orang yang tidur berbaring adalah hadits munkar, tidak ada yang meriwayatkannya kecuali Yazid Abu Khalid Ad-Dalani dari Qatadah. Awal Hadits ini diriwayatkan oleh Jama'ah dari Ibnu Abbas, dan mereka tidak menyebutkan sedikit pun tentang ini (berwudhu bagi yang tidur berbaring), dan dia berkata; Nabi shallallahu 'alaihi wasallam terpelihara (dari tidurnya hati). Dan Aisyah radliallahu 'anha berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Kedua mataku tertidur akan tetapi hatiku tidak." Syu'bah berkata; Sesungguhnya Qatadah mendengar dari Abu Al Aliyah hanya empat hadits, yaitu: Hadits Yunus bin Matta, hadits Ibnu Umar tentang shalat, Hadits tentang keterangan bahwa para hakim itu ada tiga golongan, dan hadits Ibnu Abbas, telah menceritakan kepada saya orang-orang yang diridhai yang diantaranya Umar, dan yang lebih diridhai menurutku adalah Umar. Abu Dawud berkata; Saya pernah menyebutkan hadits Yazid Ad-Dalani kepada Ahmad bin Hanbal, maka dia memperingatkanku dengan keras karena pengingkarannya yang begitu besar pada riwayat tersebut, dan dia berkata; Apa urusan Yazid Ad-Dalani dengan memasukkan pada para sahabat Qatadah apa-apa yang tidak mereka riwayatkan. Dia (Ahmad) tidak mempedulikan hadits tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Ибн ‘Аббаса о том, что иногда Посланник Аллаха ﷺ совершал земной поклон /саджда/, спал сопя, после чего вставал и молился не совершая омовение.Ибн ‘Аббас сказал: «И я спросил его: “Ты совершаешь молитву не совершая омовение, хотя ты спал?“ Он ответил: «Поистине, совершить омовение должен тот, кто спал лежа”».(Версия этого хадиса, переданная со слов) ‘Усмана и Ханнада, приводится с дополнением: «… ибо, поистине, когда он укладывается на бок, его суставы расслабляются».Абу Дауд сказал: «Его слова: “Омовение должен совершить тот, кто спал лежа” - это отвергаемый хадис /мункар/, который не передавал никто, кроме Язида Абу Халида ад-Даланий от Катады, и первую её часть передала группа передатчиков от Ибн ‘Аббаса, но не упомянули из этого ничего, а (Ибн ‘Аббас) говорил: “Пророк ﷺ был защищен”. ‘Аиша, да будет доволен ею Аллах, сказала: “Пророк ﷺ сказал: “Глаза мои спят, но сердце мое бодрствует”».Шу‘ба сказал: «Катада слышал от Абу-ль-‘Алийи только четыре хадиса: (это) хадис о Йунусе ибн Матта, хадис Ибн ‘Умара о молитве, хадис о трех судьях и хадис Ибн ‘Аббаса. (Об этом) мне рассказали люди, которыми я был доволен, но больше всех я доволен ‘Умаром».Абу Дауд сказал: «Я упомянул хадис Йазида ад-Даланий при Ахмаде ибн Ханбале и он удержал меня от упоминания его и сказал: “Зачем Йазида причислять к товарищам Катады?”, и не обратил внимание на этот хадис»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.a) demiştir ki; Resulullah (sallallahu aleyhi ve sellem) secde ediyor, uyuyor, horluyor sonra kalkıp abdest almadan namaz kılıyordu. Kendisine; "Uyuduğun halde abdest almadan namaz kıldın" dedim. O: "Abdest sadece uzanarak uyuyana lazımdır" buyurdu, Osman ve Hennad, (rivayetlerinde): "Çünkü (insan) uzanarak uyuduğu zaman mafsalları gevşer” ibaresini ilave ettiler. Ebu Davud dedi ki;'Abdest yanı üzerine uzanana lazımdır." Sözü münker bir hadisdir. (Çünkü) onu Katade'den; Yezid ed-Dalani'den başkası rivayet etmemiştir. Hadisin baş tarafını ibn Abbas'tan bir cemaat rivayet etmiş, bu hususta hiçbir şey zikretmemişlerdir. İbn Abbas (veya Ikrime: "Resulullah (secdede iken kendisinden abdest bozacak bir şey çıkmasından) korunmuştur" dedi. Aişe radiyallahu anha da Resulullah'ın, "Benim gözlerim uyur kalbim uyumaz"buyurduğunu nakletti. Şube şöyle demiştir: "Katade Ebu'l-Aliye'den dört hadis işitmiştir. Bunlar; 1- Yunus b. Metta hadisi, 2- Namaz hakkında ibn Ömer hadisi, 3- Kadılar üçtür hadisi, 4- ibnAbbas'ın; "Kendilerine güvenilir kişiler bana bu hadisi nakletti. Onlardan biri ve en güvenilir olanı Hz. Ömer'dir" diye başlayan hadisidir. Ebu Davud devamla şöyle der; Yezid ed-Dalani'nin hadisini Ahmed b. Hanbel'e sordum. Yezid'in hadisini (rivayetini bana) yakıştırmayarak beni azarladı ve "Yezid ed-Dalani'ye ne oluyor? (Kendisini de başkalarını da) Katade'nin ashabı arasına sokuyor?" deyip, onun hadisini önemsemedi. Diğer tahric: Tirmizi, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سجدہ کرتے اور (سجدہ میں) سو جاتے، اور خراٹے لینے لگتے تھے، پھر اٹھتے اور نماز پڑھتے، اور وضو نہیں کرتے تھے، (ایک بار) میں نے آپ صلی اللہ علیہ وسلم سے کہا: آپ نے نماز پڑھی اور وضو نہی ان لوگوں نے اس میں سے کچھ ذکر نہیں کیا ہے۔ نیز ابن عباس رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم اس طرح ( غفلت ) کی نیند سے محفوظ تھے۔ اور ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: میری دونوں آنکھیں سوتی ہیں، لیکن میرا دل نہیں سوتا ۔ اور شعبہ کہتے ہیں کہ قتادہ نے ابوالعالیہ سے صرف چار حدیثیں سنی ہیں: ایک یونس بن متی کی، دوسری ابن عمر رضی اللہ عنہما کی جو نماز کے باب میں مروی ہے، تیسری حدیث «القضاة ثلاثة» ہے، اور چوتھی ابن عباس رضی اللہ عنہما کی حدیث: «حدثني رجال مرضيون منهم عمر وأرضاهم عندي عمر» ہے۔ ابوداؤد کہتے ہیں: میں نے یزید دالانی کی روایت کا احمد بن حنبل سے ذکر کیا، تو انہوں نے مجھے اسے بڑی بات سمجھتے ہوئے ڈانٹا: اور کہا یزید دالانی کو کیا ہے؟ وہ قتادہ کے شاگردوں کی طرف ایسی باتیں منسوب کر دیتے ہیں جنہیں ان لوگوں نے روایت نہیں کی ہیں، امام احمد نے ( دالانی کے ضعیف ہونے کی وجہ سے ) اس حدیث کی پرواہ نہیں کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>202</td></tr><tr><td>Arabic No</td><td>202</td></tr><tr><td>Reference</td><td>Book 1 Hadith 202</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 202 |
+| Arabic No | 202 |
+| Reference | Book 1 Hadith 202 |

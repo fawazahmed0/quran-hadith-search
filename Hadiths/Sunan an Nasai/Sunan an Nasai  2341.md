@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، قَالَ حَدَّثَنِي مَالِكٌ، عَنِ ابْنِ شِهَابٍ، عَنْ عَائِشَةَ، وَحَفْصَةَ، مِثْلَهُ لاَ يَصُومُ إِلاَّ مَنْ أَجْمَعَ الصِّيَامَ قَبْلَ الْفَجْرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |
+
 قال الحارث بن مسكين قراءة عليه وانا اسمع، عن ابن القاسم، قال حدثني مالك، عن ابن شهاب، عن عايشة، وحفصة، مثله لا يصوم الا من اجمع الصيام قبل الفجر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । হারিছ ইবনু মিসকীন (রহঃ) এর সামনে পাঠ করা অবস্থায় শ্রুত হাফসা (রাঃ) এবং আয়িশা (রাঃ) থেকে অনুরূপ হাদীস বর্ণিত আছে, যে ব্যক্তি ফজরের পূর্বে রাত্রে সাওমের নিয়্যত না করে তার সাওম পালন হবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Something similar was narrated from 'Aishah and Hafsah:"There is no fast except for one who intends to fast before dawn." (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |
+
+## French
+
+Rapporté par 'Aishah et Hafsah : « Il n'y a de jeûne que pour celui qui a l'intention de jeûner avant l'aube. » (Daif)
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |
 
 ## Indonesian
 
+Berkata \[Al Harits bin Miskin\] secara baca dan aku mendengarnya dari \[Ibnul Qasim\] dia berkata; telah menceritakan kepadaku \[Malik\] dari \[Ibnu Syihab\] dari \['Aisyah\] dan \[Hafshah\] dengan hadits yang sama; "Tidak -dianggap- berpuasa kecuali orang yang berniat puasa sebelum terbit fajar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Berkata [Al Harits bin Miskin] secara baca dan aku mendengarnya dari [Ibnul Qasim] dia berkata; telah menceritakan kepadaku [Malik] dari [Ibnu Syihab] dari ['Aisyah] dan [Hafshah] dengan hadits yang sama; "Tidak -dianggap- berpuasa kecuali orang yang berniat puasa sebelum terbit fajar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ و ام المؤمنین حفصہ رضی الله عنہما سے اسی کے مثل روایت ہے کہ صرف وہی شخص روزہ رکھے جو فجر سے پہلے روزہ کی پختہ نیت کر لے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2341</td></tr><tr><td>Arabic No</td><td>2341</td></tr><tr><td>Reference</td><td>Book 22 Hadith 252</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2341 |
+| Arabic No | 2341 |
+| Reference | Book 22 Hadith 252 |

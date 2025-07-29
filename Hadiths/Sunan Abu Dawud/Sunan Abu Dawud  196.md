@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ عَقِيلٍ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم شَرِبَ لَبَنًا فَدَعَا بِمَاءٍ فَتَمَضْمَضَ ثُمَّ قَالَ ‏ "‏ إِنَّ لَهُ دَسَمًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
+
 حدثنا قتيبة بن سعيد، حدثنا الليث، عن عقيل، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، ان النبي صلى الله عليه وسلم شرب لبنا فدعا بماء فتمضمض ثم قال " ان له دسما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুধ পান করার পর পানি চেয়ে কুলি করলেন। অতঃপর বললেনঃ দুধের মধ্যে চর্বি আছে। সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Abd Allah b.’Abbas said that the Prophet (peace be upon him) drank some milk and then rinsed his mouth saying :it contains greasiness
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
+
+## French
+
+‘Abd Allah ibn ‘Abbas رضي الله عنه a dit que le Prophète ﷺ a bu du lait puis s’est rincé la bouche en disant : « Il y a de la graisse dedans. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Al-Laits\] dari \['Uqail\] dari \[Az-Zuhri\] dari \[Ubaidullah bin Abdullah\] dari \[Ibnu Abbas\] bahwasanya Nabi shallallahu 'alaihi wasallam pernah minum susu, setelah itu beliau meminta air, lalu berkumur-kumur, kemudian bersabda: "Sesungguhnya susu itu mengandung lemak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Al-Laits] dari ['Uqail] dari [Az-Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] bahwasanya Nabi shallallahu 'alaihi wasallam pernah minum susu, setelah itu beliau meminta air, lalu berkumur-kumur, kemudian bersabda: "Sesungguhnya susu itu mengandung lemak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Ибн ‘Аббаса о том, что однажды Пророк ﷺ выпил молоко и попросив воды прополоснул рот, после чего сказал: «Поистине, оно содержит жир»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Abbas (r.a.)'dan rivayet edildiğine göre; Nebi (sallallahu aleyhi ve sellem) süt içmiş, su isteyerek ağzını çalkalamış, sonra da; "Muhakkak bunun yağı vardır" buyurmuştur. Diğer tahric: Buhari, vudu', eşribe; Müslim, hayz; Tirmizî, tahare; Nesai, tahare; İbn Mace, tahare; Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے دودھ پیا، پھر پانی منگا کر کلی کی اور فرمایا: اس میں چکنائی ہوتی ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (211) Sahih Muslim (358)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>196</td></tr><tr><td>Arabic No</td><td>196</td></tr><tr><td>Reference</td><td>Book 1 Hadith 196</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (211) Sahih Muslim (358) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 196 |
+| Arabic No | 196 |
+| Reference | Book 1 Hadith 196 |

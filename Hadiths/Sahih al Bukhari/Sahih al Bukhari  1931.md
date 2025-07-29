@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنِي مَالِكٌ، عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ بْنِ هِشَامِ بْنِ الْمُغِيرَةِ أَنَّهُ سَمِعَ أَبَا بَكْرِ بْنَ عَبْدِ الرَّحْمَنِ، كُنْتُ أَنَا وَأَبِي،، فَذَهَبْتُ مَعَهُ، حَتَّى دَخَلْنَا عَلَى عَائِشَةَ ـ رضى الله عنها ـ قَالَتْ أَشْهَدُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم إِنْ كَانَ لَيُصْبِحُ جُنُبًا مِنْ جِمَاعٍ غَيْرِ احْتِلاَمٍ، ثُمَّ يَصُومُهُ‏.‏ ثُمَّ دَخَلْنَا عَلَى أُمِّ سَلَمَةَ، فَقَالَتْ مِثْلَ ذَلِكَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا اسماعيل، قال حدثني مالك، عن سمى، مولى ابي بكر بن عبد الرحمن بن الحارث بن هشام بن المغيرة انه سمع ابا بكر بن عبد الرحمن، كنت انا وابي،، فذهبت معه، حتى دخلنا على عايشة رضى الله عنها قالت اشهد على رسول الله صلى الله عليه وسلم ان كان ليصبح جنبا من جماع غير احتلام، ثم يصومه. ثم دخلنا على ام سلمة، فقالت مثل ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 অতঃপর আমরা উম্মু সালামাহ (রাযি.)-এর নিকট গেলাম। তিনিও অনুরূপ কথাই বললেন। (১৯২৬) (আধুনিক প্রকাশনীঃ ১৭৯২, ইসলামিক ফাউন্ডেশনঃ ১৮০৫ শেষাংশ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Bakr bin 'Abdur-Rahman:My father and I went to 'Aisha and she said, "I testify that Allah's Messenger (ﷺ) at times used to get up in the morning in a state of Janaba from sexual intercourse, not from a wet dream and then he would fast that day." Then he went to Um Salama and she also narrated a similar thing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
+
+## French
+
+Rapporté par Abu Bakr bin 'Abdur-Rahman : Mon père et moi sommes allés chez 'Aisha et elle a dit : « Je témoigne que le Messager d’Allah (ﷺ) se levait parfois le matin en état de Janaba après un rapport sexuel, pas à cause d’un rêve, puis il jeûnait ce jour-là. » Ensuite, il est allé voir Um Salama et elle a raconté la même chose
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Isma'il\] telah menceritakan kepada saya \[Malik\] dari \[Sumayya\] maulanya Abu Bakar bin'Abdurrahman bin Al Harits bin Hisyam bin Al Mughirah bahwa dia mendengar \[Abu Bakar bin'Abdurrahman\] (berkata,): "Aku dan bapakku pergi bersama-sama hingga kami datang menemui \['Aisyah radliallahu 'anha\] yang dia berkata: "Aku bersaksi tentang Rasulullah shallallahu 'alaihi wasallam bahwa apabila Beliau pada pagi hari masih dalam keadaan junub setelah berhubungan tanpa mengeluarkan sperma, maka Beliau meneruskan puasanya". Kemudian kami datang menemui Ummu Salamah yang dia juga berkata, seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Isma'il] telah menceritakan kepada saya [Malik] dari [Sumayya] maulanya Abu Bakar bin'Abdurrahman bin Al Harits bin Hisyam bin Al Mughirah bahwa dia mendengar [Abu Bakar bin'Abdurrahman] (berkata,): "Aku dan bapakku pergi bersama-sama hingga kami datang menemui ['Aisyah radliallahu 'anha] yang dia berkata: "Aku bersaksi tentang Rasulullah shallallahu 'alaihi wasallam bahwa apabila Beliau pada pagi hari masih dalam keadaan junub setelah berhubungan tanpa mengeluarkan sperma, maka Beliau meneruskan puasanya". Kemudian kami datang menemui Ummu Salamah yang dia juga berkata, seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Бакр ибн ‘Абдуррахман сказал: «Однажды мы с отцом пришли к ‘Аише, да будет доволен ею Аллах, и она сказала: “Я свидетельствую, что Посланник Аллаха ﷺ иногда просыпался в состоянии полового осквернения (по причине половой близости, а не полюций) и постился в этот день”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூபக்ர் பின் அப்திர் ரஹ்மான் (ரஹ்) அவர்கள் கூறியதாவது: நானும் என் தந்தையும் ஆயிஷா (ரலி) அவர்களிடம் சென்றோம்; ஆயிஷா (ரலி) அவர்கள், ‘‘அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உறக்க ஸ்கலிதம் ஏற்படாமல், தாம்பத்திய உறவில் ஈடுபட்டு, குளியல் கடமையானவர்களாக சுப்ஹு நேரத்தை அடைவார்கள்; பின்னர் நோன்பைத் தொடர்வார்கள்” என்று கூறினார்கள். பிறகு, உம்மு சலமா (ரலி) அவர்களிடம் நாங்கள் சென்றபோது அவர்களும் அவ்வாறே கூறினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
 ## Turkish
 
+Ebu Bekir İbn Abdurrahman anlatıyor: "Babamla birlikte Aişe'nin yanına gittik. Bize şöyle dedi: "Resulullah Sallallahu Aleyhi ve Sellem üzerine şahitlik ederim ki, kendisi ihtilam yoluyla değil cinsel ilişki sebebiyle cünüp olarak sabahlar ve sonra orucunu tutardı." \[-1932-\] Sonra Ümmü Seleme'nin yanına da gittik. O da aynı şeyleri söyledi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Bekir İbn Abdurrahman anlatıyor: "Babamla birlikte Aişe'nin yanına gittik. Bize şöyle dedi: "Resulullah Sallallahu Aleyhi ve Sellem üzerine şahitlik ederim ki, kendisi ihtilam yoluyla değil cinsel ilişki sebebiyle cünüp olarak sabahlar ve sonra orucunu tutardı." [-1932-] Sonra Ümmü Seleme'nin yanına da gittik. O da aynı şeyleri söyledi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1931</td></tr><tr><td>Arabic No</td><td>1931</td></tr><tr><td>Reference</td><td>Book 0 Hadith 0</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1931 |
+| Arabic No | 1931 |
+| Reference | Book 0 Hadith 0 |

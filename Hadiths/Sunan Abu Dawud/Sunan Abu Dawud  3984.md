@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، عَنْ حَمْزَةَ الزَّيَّاتِ، عَنْ أَبِي إِسْحَاقَ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا دَعَا بَدَأَ بِنَفْسِهِ وَقَالَ ‏"‏ رَحْمَةُ اللَّهِ عَلَيْنَا وَعَلَى مُوسَى لَوْ صَبَرَ لَرَأَى مِنْ صَاحِبِهِ الْعَجَبَ وَلَكِنَّهُ قَالَ ‏(‏ إِنْ سَأَلْتُكَ عَنْ شَىْءٍ بَعْدَهَا فَلاَ تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِي ‏)‏ ‏"‏ ‏.‏ طَوَّلَهَا حَمْزَةُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
+
 حدثنا ابراهيم بن موسى، اخبرنا عيسى، عن حمزة الزيات، عن ابي اسحاق، عن سعيد بن جبير، عن ابن عباس، عن ابى بن كعب، قال كان رسول الله صلى الله عليه وسلم اذا دعا بدا بنفسه وقال " رحمة الله علينا وعلى موسى لو صبر لراى من صاحبه العجب ولكنه قال ( ان سالتك عن شىء بعدها فلا تصاحبني قد بلغت من لدني ) " . طولها حمزة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
 
 ## Bengali
 
+। উবাই ইবনু কা‘ব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন দু‘আ করতেন তখন প্রথমে নিজের জন্য দু‘আ করতেন এবং বলতেনঃ আমাদের উপর এবং মূসার উপর আল্লাহর রহমত। যদি তিনি ধৈর্য ধারণ করতেন, তাহলে তিনি তার সঙ্গী (খিযির) থেকে আশ্চর্যকর জিনিস দেখতে পেতেন। বরং তিনি ধৈর্য না ধরে বলেনঃإِنْ سَأَلْتُكَ عَنْ شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِّي। ক্বারী হামযাহ শব্দটি দীর্ঘ করে পাঠ করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উবাই ইবনু কা‘ব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন দু‘আ করতেন তখন প্রথমে নিজের জন্য দু‘আ করতেন এবং বলতেনঃ আমাদের উপর এবং মূসার উপর আল্লাহর রহমত। যদি তিনি ধৈর্য ধারণ করতেন, তাহলে তিনি তার সঙ্গী (খিযির) থেকে আশ্চর্যকর জিনিস দেখতে পেতেন। বরং তিনি ধৈর্য না ধরে বলেনঃإِنْ سَأَلْتُكَ عَنْ شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْنِي قَدْ بَلَغْتَ مِنْ لَدُنِّي। ক্বারী হামযাহ শব্দটি দীর্ঘ করে পাঠ করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ubayy ibn Ka'b:: When the Messenger of Allah (ﷺ) prayed, he began with himself and said: May the mercy of Allah be upon us and upon Moses. If he had patience, he would have seen marvels from his Companion. But he said: "(Moses) said: If ever I ask thee about anything after this, keep me not in they company: then wouldst thou have received (full) excuse from my side". Hamzah lengthened it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
+
+## French
+
+Rapporté par Ubayy ibn Ka’b : Lorsque le Messager d’Allah ﷺ priait, il commençait par lui-même et disait : « Qu’Allah nous fasse miséricorde, à nous et à Moïse. S’il avait été patient, il aurait vu des merveilles de la part de son compagnon. » Puis il a dit : « (Moïse) a dit : Si jamais je t’interroge sur quoi que ce soit après cela, ne me garde plus dans ta compagnie : alors tu auras une excuse complète de ma part. » Hamzah a allongé la récitation
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
 
 ## Russian
 
+Передаётся от Убай ибн Ка‘ба, да будет доволен им Аллах, что Посланник Аллаха ﷺ обращаясь к Всевышнему с мольбами, начинал с себя и говорил: «Да помилует Аллах нас и Мусу! Если бы он проявил терпение, то увидел бы от своего спутника много удивительного. Однако он сказал: “Если я спрошу тебя о чём-либо после этого, то не продолжай путь вместе со мной. Ты уже получил мои /лядунни/ извинения”» (сура «аль-Кяхф», 76). Хамза \[аз-Зайят\] прочитал «лядунни» с удвоенной «н»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передаётся от Убай ибн Ка‘ба, да будет доволен им Аллах, что Посланник Аллаха ﷺ обращаясь к Всевышнему с мольбами, начинал с себя и говорил: «Да помилует Аллах нас и Мусу! Если бы он проявил терпение, то увидел бы от своего спутника много удивительного. Однако он сказал: “Если я спрошу тебя о чём-либо после этого, то не продолжай путь вместе со мной. Ты уже получил мои /лядунни/ извинения”» (сура «аль-Кяхф», 76). Хамза [аз-Зайят] прочитал «лядунни» с удвоенной «н»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
 
 ## Turkish
 
+Ubeyy b. Ka'b şöyle demiştir: Resulullah (s.a.v) dua ettiği zaman (duaya) önce kendinden başlardı. (Birgün şöyle) buyurdu: Allah'ın rahmeti bizim ve (kardeşim) Musa'nın üzerine olsun. Eğer (o) arkadaşından gördüğü şeylere sabretse (de bu gördükleri hakkında ona soru sormasa idi (daha pek çok acaiblik(ler) görecekti. Fakat o (gördüklerine sabredememesi neticesinde şöyle) dedi: "Eğer bundan sonra (bir daha) sana bir şey sorarsam artık bana arkadaş olma. (O zaman) benim tarafımdan (yapılacak) son özüre ulaştın."\[Kehf 76\] Hamza (bu cümlede geçen Ledünnî kelimesini) dal harfinin ötresi ve nun harfinin şeddesi ile "ledünni şeklinde okudu
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ubeyy b. Ka'b şöyle demiştir: Resulullah (s.a.v) dua ettiği zaman (duaya) önce kendinden başlardı. (Birgün şöyle) buyurdu: Allah'ın rahmeti bizim ve (kardeşim) Musa'nın üzerine olsun. Eğer (o) arkadaşından gördüğü şeylere sabretse (de bu gördükleri hakkında ona soru sormasa idi (daha pek çok acaiblik(ler) görecekti. Fakat o (gördüklerine sabredememesi neticesinde şöyle) dedi: "Eğer bundan sonra (bir daha) sana bir şey sorarsam artık bana arkadaş olma. (O zaman) benim tarafımdan (yapılacak) son özüre ulaştın."[Kehf 76] Hamza (bu cümlede geçen Ledünnî kelimesini) dal harfinin ötresi ve nun harfinin şeddesi ile "ledünni şeklinde okudu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابی بن کعب رضی اللہ عنہ کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم جب دعا فرماتے تو پہلے اپنی ذات سے شروعات کرتے یوں کہتے: اللہ کی رحمت ہو ہم پر اور موسیٰ پر اگر وہ صبر کرتے تو اپنے ساتھی ( خضر ) کی طرف سے عجیب عجیب چیزیں دیکھتے، لیکن انہوں نے تو کہہ دیا «إن سألتك عن شىء بعدها فلا تصاحبني قد بلغت من لدني» اگر اب اس کے بعد میں آپ سے کسی چیز کے بارے میں سوال کروں تو بیشک آپ مجھے اپنے ساتھ نہ رکھنا یقیناً آپ میری طرف سے حد عذر کو پہنچ چکے ( سورۃ الکہف: ۷۶ ) ۔ حمزہ نے «لدنی» کے نون کو کھینچ کر بتایا کہ آپ یوں پڑھا کرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3984</td></tr><tr><td>Arabic No</td><td>3984</td></tr><tr><td>Reference</td><td>Book 32 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3984 |
+| Arabic No | 3984 |
+| Reference | Book 32 Hadith 16 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، حَدَّثَنَا مُصْعَبُ بْنُ مُحَمَّدِ بْنِ شُرَحْبِيلَ، حَدَّثَنِي يَعْلَى بْنُ أَبِي يَحْيَى، عَنْ فَاطِمَةَ بِنْتِ حُسَيْنٍ، عَنْ حُسَيْنِ بْنِ عَلِيٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لِلسَّائِلِ حَقٌّ وَإِنْ جَاءَ عَلَى فَرَسٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
+
 حدثنا محمد بن كثير، اخبرنا سفيان، حدثنا مصعب بن محمد بن شرحبيل، حدثني يعلى بن ابي يحيى، عن فاطمة بنت حسين، عن حسين بن علي، قال قال رسول الله صلى الله عليه وسلم " للسايل حق وان جاء على فرس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
 
 ## Bengali
 
+। হুসাইন ইবনু ‘আলী রাযিয়াল্লাহু ‘আনহু সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (তোমাদের সম্পদে) যাঞ্চাকারীর অধিকার রয়েছে, যদিও সে ঘোড়ায় চড়ে আসে।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হুসাইন ইবনু ‘আলী রাযিয়াল্লাহু ‘আনহু সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ (তোমাদের সম্পদে) যাঞ্চাকারীর অধিকার রয়েছে, যদিও সে ঘোড়ায় চড়ে আসে।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ali ibn Abu Talib: The Prophet (ﷺ) said: A beggar has the right though he may be riding (a horse)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
+
+## French
+
+Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Prophète ﷺ a dit : « Un mendiant a un droit, même s’il est à cheval. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Muhammad bin Katsir\], telah mengabarkan kepada Kami \[Sufyan\], telah menceritakan kepada Kami \[Mush'ab bin Muhammad bin Syurahbil\], telah menceritakan kepadaku \[Ya'la bin Abu Yahya\], dari \[Fathimah binti Humais\], dari \[Husain bin Ali\], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Orang yang meminta-minta memiliki hak walaupun ia berada di atas kuda." Telah menceritakan kepada Kami \[Muhammad bin Rafi'\], telah menceritakan kepada Kami \[Yahya bin Adam\], telah menceritakan kepada Kami \[Zuhair\] dari \[seorang laki-laki tua\], ia berkata; aku melihat Sufyan di sisinya dari \[Fathimah binti Husain\] dari \[ayahnya\] dari \[Ali\] dari Nabi shallallahu 'alaihi wasallam seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Sufyan], telah menceritakan kepada Kami [Mush'ab bin Muhammad bin Syurahbil], telah menceritakan kepadaku [Ya'la bin Abu Yahya], dari [Fathimah binti Humais], dari [Husain bin Ali], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Orang yang meminta-minta memiliki hak walaupun ia berada di atas kuda." Telah menceritakan kepada Kami [Muhammad bin Rafi'], telah menceritakan kepada Kami [Yahya bin Adam], telah menceritakan kepada Kami [Zuhair] dari [seorang laki-laki tua], ia berkata; aku melihat Sufyan di sisinya dari [Fathimah binti Husain] dari [ayahnya] dari [Ali] dari Nabi shallallahu 'alaihi wasallam seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Хусейна бин ‘Али, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «У просящего есть право, даже если он будет на коне»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hüseyin b. Ali (r.a.)'den; demiştir ki: Resulullah (s.a.v.): "At üzerinde gelse bile, dilenenin hakkı vardır." buyurdu. Diğer tahric: Ahmed b. Hanbel, I
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حسین بن علی رضی اللہ عنہ کہتے ہیں کہ حسین بن علی رضی اللہ عنہ کہتے ہیں کہ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1665</td></tr><tr><td>Arabic No</td><td>1665</td></tr><tr><td>Reference</td><td>Book 9 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1665 |
+| Arabic No | 1665 |
+| Reference | Book 9 Hadith 110 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، عَنْ سَعِيدِ بْنِ عَامِرٍ، عَنْ هَمَّامٍ، عَنِ ابْنِ جُرَيْجٍ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا دَخَلَ الْخَلاَءَ نَزَعَ خَاتَمَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 48 Hadith 174</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |
+
 اخبرنا محمد بن اسماعيل بن ابراهيم، عن سعيد بن عامر، عن همام، عن ابن جريج، عن الزهري، عن انس، ان رسول الله صلى الله عليه وسلم كان اذا دخل الخلاء نزع خاتمه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 48 Hadith 174</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন ইসমাঈল ইবন ইবরাহীম (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামযখন পায়খানায় প্রবেশ করতেন, তখন তাঁর আংটি খুলে রাখতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 48 Hadith 174</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |
 
 ## English
 
+It was narrated from Anas that:When entering the Khala', the Messenger of Allah \[SAW\] would take off his ring
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Anas that:When entering the Khala', the Messenger of Allah [SAW] would take off his ring
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 48 Hadith 174</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |
+
+## French
+
+Rapporté par Anas : Quand il entrait aux toilettes, le Messager d’Allah ﷺ retirait sa bague
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Isma'il bin Ibrahim\] dari \[Sa'id bin Amir\] dari \[Hammam\] dari \[Ibnu Juraij\] dari \[Az Zuhri\] dari \[Anas\] ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam masuk ke dalam WC, beliau melepas cincinnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Isma'il bin Ibrahim] dari [Sa'id bin Amir] dari [Hammam] dari [Ibnu Juraij] dari [Az Zuhri] dari [Anas] ia berkata, "Jika Rasulullah shallallahu 'alaihi wasallam masuk ke dalam WC, beliau melepas cincinnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 48 Hadith 174</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 48 Hadith 174</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5213</td></tr><tr><td>Arabic No</td><td>5213</td></tr><tr><td>Reference</td><td>Book 48 Hadith 174</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5213 |
+| Arabic No | 5213 |
+| Reference | Book 48 Hadith 174 |

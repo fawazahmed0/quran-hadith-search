@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، وَقَتَادَةُ، عَنْ أَنَسٍ، قَالَ طَلَبَ بَعْضُ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم وَضُوءًا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ هَلْ مَعَ أَحَدٍ مِنْكُمْ مَاءٌ ‏"‏ ‏.‏ فَوَضَعَ يَدَهُ فِي الْمَاءِ وَيَقُولُ ‏"‏ تَوَضَّئُوا بِسْمِ اللَّهِ ‏"‏ ‏.‏ فَرَأَيْتُ الْمَاءَ يَخْرُجُ مِنْ بَيْنِ أَصَابِعِهِ حَتَّى تَوَضَّئُوا مِنْ عِنْدِ آخِرِهِمْ ‏.‏ قَالَ ثَابِتٌ قُلْتُ لأَنَسٍ كَمْ تُرَاهُمْ قَالَ نَحْوًا مِنْ سَبْعِينَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا عبد الرزاق، قال حدثنا معمر، عن ثابت، وقتادة، عن انس، قال طلب بعض اصحاب النبي صلى الله عليه وسلم وضوءا فقال رسول الله صلى الله عليه وسلم " هل مع احد منكم ماء " . فوضع يده في الماء ويقول " توضيوا بسم الله " . فرايت الماء يخرج من بين اصابعه حتى توضيوا من عند اخرهم . قال ثابت قلت لانس كم تراهم قال نحوا من سبعين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইসহাক ইবনু ইবরাহীম (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ (কোন এক সফরে) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কয়েকজন সাহাবী পানি তালাশ করলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমাদের কারো নিকট পানি আছে কি? (একজন পানি এনে দিলে) তিনি পানিতে হাত রাখলেন এবং বললেনঃ বিসমিল্লাহ বলে উযূ (ওজু/অজু/অযু) কর। আমি তাঁর আঙ্গুলের ফাঁক থেকে পানি বের হতে দেখলাম। তাঁদের সর্বশেষ ব্যাক্তিসহ সকলেই এই পানিতে উযূ করেন। সাবিত (রহঃ) বলেনঃ আমি আনাস (রাঃ) কে জিজ্ঞেস করলাম, আপনি উপস্থিত লোকের সংখ্যা কত মনে করেন? তিনি বললেন, সত্তরজনের মত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Anas said:"Some of the Companions of the Prophet (ﷺ) were looking for (water for) Wudu'. The Messenger of Allah (ﷺ) said: 'Do any of you have water?' He put his hand in the water and said: 'Perform Wudu' in the Name of Allah.' I saw the water coming out from between his fingers until they had all performed Wudu'." Thabit said: "I said to Anas: 'How many did you see?' He said: 'About seventy
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |
+
+## French
+
+Rapporté par Anas : Certains compagnons du Prophète (ﷺ) cherchaient de l'eau pour faire les ablutions. Le Messager d'Allah (ﷺ) a dit : "L'un de vous a-t-il de l'eau ?" Il a mis sa main dans l'eau et a dit : "Faites vos ablutions au nom d'Allah." J'ai vu l'eau sortir d'entre ses doigts jusqu'à ce qu'ils aient tous fait leurs ablutions. Thabit a dit : J'ai demandé à Anas : "Combien as-tu vu de personnes ?" Il a répondu : "Environ soixante-dix
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] dia berkata; Telah memberitakan kepada kami \[Abdur Razzak\] dia berkata; telah menceritakan kepada kami \[Ma'mar\] dari \[Tsabit\] dan \[Qatadah\] dari \[Anas\], dia berkata, "Sebagian sahabat Nabi shallallahu 'alaihi wasallam mencari air wudlu, maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Apakah diantara kalian ada yang membawa air? ' Lalu beliau meletakkan tangannya ke dalam bejana dan berkata, 'Berwudlulah dengan mengucapkan bismillah'. Setelah itu aku melihat air mengalir dari celah-celah jari-jari Rasulullah shallallahu 'alaihi wasallam hingga mereka semua berwudlu sampai orang yang terakhir." Tsabit berkata; "Aku bertanya kepada Anas, 'Berapakah jumlah mereka yang kamu lihat? ' dia menjawab; 'sekitar tujuh puluh orang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah memberitakan kepada kami [Abdur Razzak] dia berkata; telah menceritakan kepada kami [Ma'mar] dari [Tsabit] dan [Qatadah] dari [Anas], dia berkata, "Sebagian sahabat Nabi shallallahu 'alaihi wasallam mencari air wudlu, maka Rasulullah shallallahu 'alaihi wasallam bersabda, 'Apakah diantara kalian ada yang membawa air? ' Lalu beliau meletakkan tangannya ke dalam bejana dan berkata, 'Berwudlulah dengan mengucapkan bismillah'. Setelah itu aku melihat air mengalir dari celah-celah jari-jari Rasulullah shallallahu 'alaihi wasallam hingga mereka semua berwudlu sampai orang yang terakhir." Tsabit berkata; "Aku bertanya kepada Anas, 'Berapakah jumlah mereka yang kamu lihat? ' dia menjawab; 'sekitar tujuh puluh orang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Peygamber (sallallahü aleyhi ve sellem)’in ashabından bir kısmı abdest almak için su aramıştı da bunun üzerine Rasûlüllah (sallallahü aleyhi ve sellem) aranızdan bir kimsede su var mı? Diye sordu. Bir miktar su getirildi elini o suyun içerisine soktu ve: adı ile abdest alın) buyurdu. Suyun, Rasûlüllah (sallallahü aleyhi ve sellem)’in parmakları arasında fışkırdığını gördüm, oradakilerin sonuncusuna kadar hepsi abdest aldılar. Sabit der ki: Enes’e oradakilerin kaç kişi olduğunu tahmin edersin dedim. Yetmiş kadardı dedi. (Buhârî, Vudu’’: 49; Müslim, Fedail:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ کچھ صحابہ کرام نے وضو کا پانی تلاش کیا، تو رسول اللہ صلی اللہ علیہ وسلم نے پوچھا: تم میں سے کسی کے پاس پانی ہے؟ ( تو ایک برتن میں تھوڑا سا پانی لایا گیا ) تو آپ صلی اللہ علیہ وسلم نے اپنا ہاتھ یہ فرماتے ہوئے پانی میں ڈالا: بسم اللہ کر کے وضو کرو میں نے دیکھا کہ پانی آپ کی انگلیوں کے درمیان سے نکل رہا تھا، حتیٰ کہ ان میں سے آخری آدمی نے بھی وضو کر لیا۔ ثابت کہتے ہیں: میں نے انس رضی اللہ عنہ سے پوچھا: آپ کے خیال میں وہ کتنے لوگ تھے؟ تو انہوں نے کہا: ستر کے قریب ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>78</td></tr><tr><td>Arabic No</td><td>78</td></tr><tr><td>Reference</td><td>Book 1 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 78 |
+| Arabic No | 78 |
+| Reference | Book 1 Hadith 78 |

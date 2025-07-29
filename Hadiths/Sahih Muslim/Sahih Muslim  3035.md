@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، أَخْبَرَنَا مُحَمَّدُ بْنُ بَكْرٍ الْبُرْسَانِيُّ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، قَالَ سَمِعْتُ عَطَاءً، يُخْبِرُ قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، قَالَ كُنْتُ أَنَا وَابْنُ، عُمَرَ مُسْتَنِدَيْنِ إِلَى حُجْرَةِ عَائِشَةَ وَإِنَّا لَنَسْمَعُ ضَرْبَهَا بِالسِّوَاكِ تَسْتَنُّ - قَالَ - فَقُلْتُ يَا أَبَا عَبْدِ الرَّحْمَنِ أَعْتَمَرَ النَّبِيُّ صلى الله عليه وسلم فِي رَجَبٍ قَالَ نَعَمْ ‏.‏ فَقُلْتُ لِعَائِشَةَ أَىْ أُمَّتَاهُ أَلاَ تَسْمَعِينَ مَا يَقُولُ أَبُو عَبْدِ الرَّحْمَنِ قَالَتْ وَمَا يَقُولُ قُلْتُ يَقُولُ اعْتَمَرَ النَّبِيُّ صلى الله عليه وسلم فِي رَجَبٍ ‏.‏ فَقَالَتْ يَغْفِرُ اللَّهُ لأَبِي عَبْدِ الرَّحْمَنِ لَعَمْرِي مَا اعْتَمَرَ فِي رَجَبٍ وَمَا اعْتَمَرَ مِنْ عُمْرَةٍ إِلاَّ وَإِنَّهُ لَمَعَهُ ‏.‏ قَالَ وَابْنُ عُمَرَ يَسْمَعُ فَمَا قَالَ لاَ وَلاَ نَعَمْ ‏.‏ سَكَتَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا هارون بن عبد الله، اخبرنا محمد بن بكر البرساني، اخبرنا ابن جريج، قال سمعت عطاء، يخبر قال اخبرني عروة بن الزبير، قال كنت انا وابن، عمر مستندين الى حجرة عايشة وانا لنسمع ضربها بالسواك تستن - قال - فقلت يا ابا عبد الرحمن اعتمر النبي صلى الله عليه وسلم في رجب قال نعم . فقلت لعايشة اى امتاه الا تسمعين ما يقول ابو عبد الرحمن قالت وما يقول قلت يقول اعتمر النبي صلى الله عليه وسلم في رجب . فقالت يغفر الله لابي عبد الرحمن لعمري ما اعتمر في رجب وما اعتمر من عمرة الا وانه لمعه . قال وابن عمر يسمع فما قال لا ولا نعم . سكت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হারূন ইবনু আবদুল্লাহ (রহঃ) ..... উরওয়াহ ইবনু যুবায়র (রহঃ) বলেন, আমি ও ইবনু উমার (রাযিঃ) আয়িশাহ (রাযিঃ) এর ঘরে ঠেস দিয়ে বসেছিলাম এবং আমরা মিসওয়াক দিয়ে তার দাঁত মাজার আওয়াজ শুনতে পাচ্ছিলাম। রাবী বলেন, আমি বললাম, হে আবূ আবদুর রহমান (ইবনু উমার) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কি রজব মাসে উমরাহ করেছেন? তিনি বললেন, হ্যাঁ। আমি (উরওয়াহ্) বললাম, হে আম্মা! আপনি কি শুনতে পাচ্ছেন আবূ আবদুর রহমান কী বলছেন? তিনি বললেন, সে কী বলছে? আমি বললাম, তিনি বলছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রজব মাসে উমরাহ করেছেন। তিনি বললেন, আল্লাহ তা'আলা আবূ ‘আবদুর রহমানকে ক্ষমা করুন। আমার জীবনের শপথ, তিনি রজব মাসে কখনও উমরাহ করেননি। আর তিনি যখনই উমরাহ করেছেন, অবশ্যই আবূ আবদুর রহমান তার সঙ্গে ছিল। রাবী বলেন, ইবনু উমার (রাযিঃ) কথাগুলো শুনছিলেন, কিন্তু তিনি হ্যা-ও বলেননি এবং না-ও বলেননি, বরং নীরব ছিলেন। (ইসলামিক ফাউন্ডেশন ২৯০২, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ataa reported that 'Urwa b. Zubair (Allah be pleased with him) had informed him (this):I and Ibn 'Umar were reclining against the (wall) of the apartment of A'isha and we were listening to the sound produced by the brushing of her teeth. I said Abu Abd al-Rahman (the kunya of 'Abdullah b. Umar), did Allah's Apostle (ﷺ) perform 'Umra in the month of Rijab? He said: Yes. I said to 'A'isha: Mother, are you listening to what Abu Abd al-Rabman is saying? She said: What is he Saying? I said: He is saying that Allah's Apostle (ﷺ) performed 'Umra during the month of Rajab, whereupon she said: May Allah grant pardon to Abu Abd al-Rahman I By my life he (the Holy Prophet) did not perform 'Umra during the month of Rajab. And never was there an Umra performed by him (the Holy Prophet) in which he ('Abdullah b. 'Umar) did not join him. Ibn 'Umar heard this and said nothing to affirm It or to deny it, but kept quiet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## French
 
+Rapporté par ‘Ataa : ‘Urwa b. Zubair رضي الله عنه l’a informé : Moi et Ibn ‘Umar étions appuyés contre le mur de l’appartement de Aïcha et nous entendions le bruit de sa brosse à dents. J’ai dit : « Abu Abd al-Rahman (le surnom de ‘Abdullah b. ‘Umar), le Messager d’Allah ﷺ a-t-il fait une ‘Umra au mois de Rajab ? » Il a répondu : « Oui. » J’ai alors dit à Aïcha : « Mère, entends-tu ce que dit Abu Abd al-Rahman ? » Elle a demandé : « Que dit-il ? » J’ai répondu : « Il dit que le Messager d’Allah ﷺ a accompli une ‘Umra pendant le mois de Rajab. » Elle a alors dit : « Qu’Allah pardonne à Abu Abd al-Rahman ! Par ma vie, le Prophète n’a jamais fait de ‘Umra au mois de Rajab. Et il n’a jamais fait de ‘Umra sans qu’Ibn ‘Umar soit avec lui. » Ibn ‘Umar a entendu cela et n’a rien répondu, ni pour confirmer ni pour nier, il est resté silencieux
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abou 'Ishâq a dit : Je demandai à Zayd Ibn Arqam : "A combien d'expéditions as-tu participé avec l'Envoyé de Dieu (paix et bénédiction de Dieu sur lui)?". - "A dix-sept", répondit-il. Zayd Ibn Arqam m'a raconté que l'Envoyé de Dieu (paix et bénédiction de Dieu sur lui) fit dix-neuf expéditions militaires et qu'après l'hégire il accomplit une seule fois le Hajj, celui d'adieu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## Indonesian
 
+Dan telah meceritakan kepadaku \[Zuhair bin Harb\] Telah menceritakan kepada kami \[Al Hasan bin Musa\] telah mengabarkan kepada kami \[Zuhair\] dari \[Abu Ishaq\] ia berkata; saya bertanya kepada \[Zaid bin Arqam\], "Berapa kali Anda berperang bersama dengan Rasulullah shallallahu 'alaihi wasallam?" Ia menjawab, "Tujuh belas kali." Abu Ishaq berkata; Dan telah menceritakan kepadaku Zaid bin Arqam bahwa Rasulullah shallallahu 'alaihi wasallam telah berperang sebanyak sembilan belas kali, dan setelah hijrah beliau mengerjakan haji hanya sekali, yaitu haji wada'. Abu Ishaq berkata; Dan lain lagi ketika beliau masih di Makkah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah meceritakan kepadaku [Zuhair bin Harb] Telah menceritakan kepada kami [Al Hasan bin Musa] telah mengabarkan kepada kami [Zuhair] dari [Abu Ishaq] ia berkata; saya bertanya kepada [Zaid bin Arqam], "Berapa kali Anda berperang bersama dengan Rasulullah shallallahu 'alaihi wasallam?" Ia menjawab, "Tujuh belas kali." Abu Ishaq berkata; Dan telah menceritakan kepadaku Zaid bin Arqam bahwa Rasulullah shallallahu 'alaihi wasallam telah berperang sebanyak sembilan belas kali, dan setelah hijrah beliau mengerjakan haji hanya sekali, yaitu haji wada'. Abu Ishaq berkata; Dan lain lagi ketika beliau masih di Makkah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஇஸ்ஹாக் அம்ர் அஸ்ஸபீஈ (ரஹ்) அவர்கள் கூறியதாவது: நான் ஸைத் பின் அர்கம் (ரலி) அவர்களிடம், "அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் எத்தனை அறப்போர்களில் நீங்கள் கலந்துகொண்டீர்கள்?" என்று கேட்டேன். அதற்கு அவர்கள், "பதினேழு அறப்போர்களில் (அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுடன் நான் கலந்து கொண்டேன்)" என்று விடையளித்தார்கள். தொடர்ந்து அவர்கள், "அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் பத்தொன்பது போர்களில் கலந்துகொண்டார்கள். அவர்கள் (மதீனாவிற்கு) நாடு துறந்து (ஹிஜ்ரத்) சென்ற பிறகு ஒரேயொரு ஹஜ் -விடைபெறும் ஹஜ்- மட்டுமே செய்தார்கள்" என்றும் கூறினார்கள். இதன் அறிவிப்பாளர்களில் ஒருவரான அபூஇஸ்ஹாக் (ரஹ்) அவர்கள், "(நாடு துறந்து செல்வதற்கு முன்) அவர்கள் மக்காவில் இருந்தபோது மற்றொரு ஹஜ் செய்துள்ளார்கள்" என்று குறிப்பிடுகிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Harun b. Abdillâh rivayet etti. (Dediki): Bize Muhammed b. Bekr El-Bürsânî haber verdi. (Dediki): Bize İbn-i Cüreyc haber verdi. (Dediki): Atâ'yı haber verirken dinledim. (Dediki): Bana Urvetu'bnü Zübeyr haber verdi. (Dedikî): Ben ve İbn-i Ömer Âişe'nin hücresine dayanmış oturuyorduk. Misvak kullanıyor biz de misvâkinin sesini işitiyorduk. Ben îbn-i Ömer'e: — Yâ Ebâ Abdirrahmân! Nebi (Sallallahu Aleyhi ve Sellem) ....... ---------------------------------------------------------------------------------- (Burada kitaptan kaynaklı bir boşluk var. aşağıdaki 220 nolu rivayeti okuyunca bu boşluğun ne olduğunu kestirebilirsiniz ) ---------------------------------------------------------------------------------- — Evet, cevabını verdi. Bunun üzerine Âişe'ye: — Ey anneciğim! Ebû Abdirrahmân'ın ne söylediğini işitmiyormusun? dedim. Âişe: — Ne söylüyor? dedi. — Nebi (Sallallahu Aleyhi ve Sellem) Receb ayında Umre yaptı diyor dedim. Bunun üzerine Âişe (Radiyallahu anha): — Allah Ebû Abdirrahmân'ı mağfiret buyursun! Ömrüm hakkı için Nebi (Sallallahu Aleyhi ve Sellem); Receb'de Umre yapmamıştır. Ve hiç bir Umre yapmamıştırki, İbn-i Ömer de onunla beraber bulunmasın, dedi. İbn-i Ömer bunları işitiyordu. Ama ne hayır ne de evet demeyip sükût etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو اسحاق سے روایت ہے کہا : میں نے زید بن را قم رضی اللہ تعالیٰ عنہ سے پو چھا : آپ نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ مل کر کتنی جنگیں لریں؟کہا : سترہ ۔ ( ابو اسحا ق نے ) کہا : مجھے زید بن را قم رضی اللہ تعالیٰ عنہ نے حدیث بیان کی کہ رسول اللہ صلی اللہ علیہ وسلم نے ( کل ) انیس غزوے کیے ۔ آپ نے ہجرت کے بعد ایک ہی حج حجۃ الوداع ادا کیا ۔ ابو اسحاق نے کہا : آپ نے مکہ میں ( رہتے ہو ئے ) اور حج ( بھی ) کیے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3035</td></tr><tr><td>Arabic No</td><td>1254</td></tr><tr><td>Reference</td><td>Book 15 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3035 |
+| Arabic No | 1254 |
+| Reference | Book 15 Hadith 242 |

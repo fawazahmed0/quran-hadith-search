@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ الْعَبْدِيُّ، أَخْبَرَنَا إِبْرَاهِيمُ بْنُ نَافِعٍ، قَالَ سَمِعْتُ الْحَسَنَ، - يَعْنِي ابْنَ مُسْلِمٍ - يَذْكُرُ عَنْ مُجَاهِدٍ، قَالَ قَالَتْ عَائِشَةُ مَا كَانَ لإِحْدَانَا إِلاَّ ثَوْبٌ وَاحِدٌ تَحِيضُ فِيهِ فَإِنْ أَصَابَهُ شَىْءٌ مِنْ دَمٍ بَلَّتْهُ بِرِيقِهَا ثُمَّ قَصَعَتْهُ بِرِيقِهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
+
 حدثنا محمد بن كثير العبدي، اخبرنا ابراهيم بن نافع، قال سمعت الحسن، - يعني ابن مسلم - يذكر عن مجاهد، قال قالت عايشة ما كان لاحدانا الا ثوب واحد تحيض فيه فان اصابه شىء من دم بلته بريقها ثم قصعته بريقها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
 
 ## Bengali
 
+। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আয়িশাহ্ (রাঃ) বলেন, আমাদের কারও নিকট শুধু একটি কাপড় থাকত। ঋতুস্রাব অবস্থায় সেটাই তাঁর পরনে থাকত। কাপড়ে রক্ত লেগে গেলে তিনি মুখের লালা দ্বারা ভিজিয়ে তা ঘষে নিতেন।\[1\] সহীহ : বুখারী।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আয়িশাহ্ (রাঃ) বলেন, আমাদের কারও নিকট শুধু একটি কাপড় থাকত। ঋতুস্রাব অবস্থায় সেটাই তাঁর পরনে থাকত। কাপড়ে রক্ত লেগে গেলে তিনি মুখের লালা দ্বারা ভিজিয়ে তা ঘষে নিতেন।[1] সহীহ : বুখারী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah said:Each of us (wives of the Prophet) had only one clothe in which she would menstruate. Whenever it was smeared with blood, she would moisten it with her saliva and scratch it with saliva
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : Chacune d’entre nous (les épouses du Prophète) n’avait qu’un seul vêtement pour ses règles. Quand il était taché de sang, elle l’humidifiait avec sa salive et grattait la tache avec
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir Al Abdi\] telah mengabarkan kepada kami \[Ibrahim bin Nafi'\] dia berkata; Saya mendengar \[Al Hasan bin Muslim\] menyebutkan dari \[Mujahid\] dia berkata; \[Aisyah\] berkata; Tiadalah seseorang di antara kami (para istri Nabi shallallahu 'alaihi wasallam), kecuali hanya mempunyai satu helai kain yang dipakai waktu haidl. Jika kain itu terkena sedikit darah, maka dibasahi dan digosok dengan ludahnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir Al Abdi] telah mengabarkan kepada kami [Ibrahim bin Nafi'] dia berkata; Saya mendengar [Al Hasan bin Muslim] menyebutkan dari [Mujahid] dia berkata; [Aisyah] berkata; Tiadalah seseorang di antara kami (para istri Nabi shallallahu 'alaihi wasallam), kecuali hanya mempunyai satu helai kain yang dipakai waktu haidl. Jika kain itu terkena sedikit darah, maka dibasahi dan digosok dengan ludahnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибрахим ибн Нафи‘ сказал: «Я слышал, как Хасан ибн Муслим рассказывал о том, что Муджахид сказал: “‘Аиша сказала: “Ни у одной из нас не было одежды, кроме как одной, которую она носила во время менструаций. И если на нее попадало что-то из крови, то она смачивала это место, а затем соскабливала с нее (кровь) ногтями”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha) şöyle demiştir; "Bizden (Resulullah’ın hanımlarından) birinin sadece bir elbisesi vardı. O elbisesi üzerinde iken de hayız olurdu. Eğer elbisesine kan bulaşırsa, onu tükürüğü ile ıslatır, sonra ovalardı." Diğer tahric: Buhari, hayz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ہم میں سے کسی کے پاس سوائے ایک کپڑے کے کوئی اور کپڑا نہیں ہوتا تھا، اسی کپڑے میں اسے حیض ( بھی ) آتا تھا، اگر اس میں ( حیض کا ) کچھ خون لگ جاتا تو وہ اپنے تھوک سے اسے تر کرتی پھر اسے تھوک کے ذریعہ ناخن سے کھرچ دیتی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>358</td></tr><tr><td>Arabic No</td><td>358</td></tr><tr><td>Reference</td><td>Book 1 Hadith 358</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 358 |
+| Arabic No | 358 |
+| Reference | Book 1 Hadith 358 |

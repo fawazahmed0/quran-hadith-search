@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ سِمَاكِ بْنِ حَرْبٍ، حَدَّثَنِي سُوَيْدُ بْنُ قَيْسٍ، قَالَ جَلَبْتُ أَنَا وَمَخْرَمَةُ الْعَبْدِيُّ، بَزًّا مِنْ هَجَرَ فَأَتَيْنَا بِهِ مَكَّةَ فَجَاءَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَمْشِي فَسَاوَمَنَا بِسَرَاوِيلَ فَبِعْنَاهُ وَثَمَّ رَجُلٌ يَزِنُ بِالأَجْرِ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ زِنْ وَأَرْجِحْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
+
 حدثنا عبيد الله بن معاذ، حدثنا ابي، حدثنا سفيان، عن سماك بن حرب، حدثني سويد بن قيس، قال جلبت انا ومخرمة العبدي، بزا من هجر فاتينا به مكة فجاءنا رسول الله صلى الله عليه وسلم يمشي فساومنا بسراويل فبعناه وثم رجل يزن بالاجر فقال له رسول الله صلى الله عليه وسلم " زن وارجح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুওয়াইদ ইবনু কায়িস (রাঃ) বলেন, আমি এবং মাখরাফাহ আল-আবদী ‘হাজার’ নামক স্থান থেকে ব্যবসায়ের জন্য কাপড় কিনে আনি। অতঃপর ‘আমরা তা মক্কায় নিয়ে আসি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হেঁটে আমাদের কাছে আসলেন। তিনি আমাদের সাথে একটি পাজামার দর করলেন ‘আমরা সেটি তাঁর কাছে বিক্রি করলাম। এ সময় এক ব্যক্তি পারিশ্রমিকের বিনিময়ে (জিনিসপত্র) ওজন করে দিচ্ছিল। তিনি তাকে বললেনঃ ওজন করো এবং একটু বেশী দাও।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Suwayd ibn Qays: I and Makhrafah al-Abdi imported some garments from Hajar, and brought them to Mecca. The Messenger of Allah (ﷺ) came to us walking, and after he had bargained with us for some trousers, we sold them to him. There was a man who was weighing for payment. The Messenger of Allah (ﷺ) said to him: Weigh out and give overweight
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
+
+## French
+
+Rapporté par Suwayd ibn Qays : Makhrafah al-Abdi et moi avons importé des vêtements de Hajar et les avons amenés à La Mecque. Le Messager d’Allah ﷺ est venu vers nous à pied, et après avoir négocié avec nous pour des pantalons, nous les lui avons vendus. Un homme pesait pour le paiement. Le Messager d’Allah ﷺ lui a dit : « Pèse et donne un peu plus. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Ubaidullah bin Mu'adz\], telah menceritakan kepada kami \[ayahku\], telah menceritakan kepada kami \[Sufyan\] dari \[Simak bin Harb\], telah menceritakan kepadaku \[Suwaid bin Qais\], ia berkata; aku dan Makhramah menyambut jenis pakaian dari sutera yang datang dari Hajar menuju Mekkah, kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi kami dengan berjalan kaki kemudian beliau menawar beberapa celana panjang dari kami kemudian kami menjualnya kepada beliau, dan disana terdapat tukang penimbang yang melakukan penimbangan dengan diberi diupah. Kemudian beliau berkata kepada tukang penimbang tersebut: "Timbanglah dan penuhilah (sempurnakanlah) timbangan.." telah menceritakan kepada kami \[Hafshah bin Umar\] dan \[Muslim bin Ibrahim\] secara makna hampir sama. Mereka berdua berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Simak bin Harb\] dari \[Abu Shafwan bin 'Umairah\], ia berkata; aku datang kepada Rasulullah shallallahu 'alaihi wasallam di Mekkah sebelum beliau berhijrah, -ia menceritakan dengan hadits ini dan tidak menyebutkan; menimbang dengan diberi upah. Abu Daud berkata; hadits tersebut diriwayatkan oleh \[Qais\], sebagaimana yang dikatakan Sufyan. Dan perkataan yang benar adalah perkataan Sufyan. Telah menceritakan kepada kami Ibnu Abu Rizmah; aku mendengar ayahku berkata; seorang laki-laki berkata kepada Syu'bah, Sufyan telah menyelisihimu. Engkau telah melukaiku, telah sampai kepadaku khabar dari Yahya bin Ma'in, ia berkata; seluruh orang yang menyelisihi Sufyan, maka perkataan yang benar adalah perkataan Sufyan. Telah menceritakan kepada kami Ahmad bin Hanbal, telah menceritakan kepada kami Waki' dari Syu'bah ia berkata; Sufyan lebih hafal dariku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [ayahku], telah menceritakan kepada kami [Sufyan] dari [Simak bin Harb], telah menceritakan kepadaku [Suwaid bin Qais], ia berkata; aku dan Makhramah menyambut jenis pakaian dari sutera yang datang dari Hajar menuju Mekkah, kemudian Rasulullah shallallahu 'alaihi wasallam mendatangi kami dengan berjalan kaki kemudian beliau menawar beberapa celana panjang dari kami kemudian kami menjualnya kepada beliau, dan disana terdapat tukang penimbang yang melakukan penimbangan dengan diberi diupah. Kemudian beliau berkata kepada tukang penimbang tersebut: "Timbanglah dan penuhilah (sempurnakanlah) timbangan.." telah menceritakan kepada kami [Hafshah bin Umar] dan [Muslim bin Ibrahim] secara makna hampir sama. Mereka berdua berkata; telah menceritakan kepada kami [Syu'bah] dari [Simak bin Harb] dari [Abu Shafwan bin 'Umairah], ia berkata; aku datang kepada Rasulullah shallallahu 'alaihi wasallam di Mekkah sebelum beliau berhijrah, -ia menceritakan dengan hadits ini dan tidak menyebutkan; menimbang dengan diberi upah. Abu Daud berkata; hadits tersebut diriwayatkan oleh [Qais], sebagaimana yang dikatakan Sufyan. Dan perkataan yang benar adalah perkataan Sufyan. Telah menceritakan kepada kami Ibnu Abu Rizmah; aku mendengar ayahku berkata; seorang laki-laki berkata kepada Syu'bah, Sufyan telah menyelisihimu. Engkau telah melukaiku, telah sampai kepadaku khabar dari Yahya bin Ma'in, ia berkata; seluruh orang yang menyelisihi Sufyan, maka perkataan yang benar adalah perkataan Sufyan. Telah menceritakan kepada kami Ahmad bin Hanbal, telah menceritakan kepada kami Waki' dari Syu'bah ia berkata; Sufyan lebih hafal dariku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Сувайд ибн Къайс, да будет доволен им Аллах, сказал: «(Однажды) мы с Махрамой аль-‘Абди привезли из Хаджара одежду и прибыли с ней в Мекку, после чего к нам пешком пришёл Посланник Аллаха ﷺ договорившийся с нами о цене за шаровары (, которые он пожелал купить), и мы продали их ему. Там был один человек (с весами), который взвешивал за плату, и Посланник Аллаха ﷺ сказал ему: “Взвесь и (добавь ему чуть) больше положенного”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süveyd b. Kays (r.a)'in şöyle dediği rivayet edilir: Mahrafe el-Abdî ile birlikte Hecer'den bez alıp, Mekke'ye getirdik. Rasûlullah (s.a.v.), yürüyerek yanımıza geldi ve bizimle bir iç don pazarlığı yaptı. Orada ücretle tartan bir adam vardı. Rasûlullah (s.a.v.) bu adama: "Tart ve (biraz) ağır tut" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوید بن قیس کہتے ہیں میں نے اور مخرمہ عبدی نے ہجر ۱؎ سے کپڑا لیا اور اسے ( بیچنے کے لیے ) مکہ لے کر آئے تو رسول اللہ صلی اللہ علیہ وسلم ہمارے پاس پیدل آئے، اور ہم سے پائجامہ کے کپڑے کے لیے بھاؤ تاؤ کیا تو ہم نے اسے بیچ دیا اور وہاں ایک شخص تھا جو معاوضہ لے کر وزن کیا کرتا تھا تو رسول اللہ صلی اللہ علیہ وسلم نے اس سے فرمایا: تولو اور جھکا ہوا تولو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3336</td></tr><tr><td>Arabic No</td><td>3336</td></tr><tr><td>Reference</td><td>Book 23 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3336 |
+| Arabic No | 3336 |
+| Reference | Book 23 Hadith 11 |

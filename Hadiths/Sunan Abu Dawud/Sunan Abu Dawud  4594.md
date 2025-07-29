@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمُتَوَكِّلِ الْعَسْقَلاَنِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، ح وَحَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ التِّنِّيسِيُّ، حَدَّثَنَا زَيْدُ بْنُ الْمُبَارَكِ، حَدَّثَنَا عَبْدُ الْمَلِكِ الصَّنْعَانِيُّ، كِلاَهُمَا عَنْ مَعْمَرٍ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ النَّارُ جُبَارٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
+
 حدثنا محمد بن المتوكل العسقلاني، حدثنا عبد الرزاق، ح وحدثنا جعفر بن مسافر التنيسي، حدثنا زيد بن المبارك، حدثنا عبد الملك الصنعاني، كلاهما عن معمر، عن همام بن منبه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " النار جبار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ আগুনে ক্ষতিপূরণ নেই (দুর্ঘটনাক্রমে আগুন ছড়িয়ে পড়লে)। সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: No recompense may be demanded if the fire spreads
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Aucune compensation ne peut être réclamée si le feu se propage. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad Ibnul Mutawakkil Al 'Asqalani\] berkata, telah menceritakan kepada kami \[Abdurrazaq\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Ja'far bin Musafir At Tinnisi\] berkata, telah menceritakan kepada kami \[Zaid Ibnul Mubarak\] berkata, telah menceritakan kepada kami \[Abdul Malik Ash Shan'ani\] keduanya dari \[Ma'mar\] dari \[Hammam bin Munabbih\] dari \[Abu Hurairah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Api adalah sia-sia (tidak ada tebusan bagi apa yang dirusak oleh api yang menjalar)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad Ibnul Mutawakkil Al 'Asqalani] berkata, telah menceritakan kepada kami [Abdurrazaq]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] berkata, telah menceritakan kepada kami [Zaid Ibnul Mubarak] berkata, telah menceritakan kepada kami [Abdul Malik Ash Shan'ani] keduanya dari [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Api adalah sia-sia (tidak ada tebusan bagi apa yang dirusak oleh api yang menjalar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Имрана ибн Хусайна, да будет доволен Аллах им и его отцом, что однажды слуга бедных людей отрезал ухо слуге богатых людей. Хозяева пришли к Пророку ﷺ и они сказали: «О Посланник Аллаха, мы бедняки». И он не взял с него никакой компенсации
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a)'den; Rasûlullah (s.a.v); "Ateş hederdir" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: آگ باطل ہے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4594</td></tr><tr><td>Arabic No</td><td>4594</td></tr><tr><td>Reference</td><td>Book 41 Hadith 101</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4594 |
+| Arabic No | 4594 |
+| Reference | Book 41 Hadith 101 |

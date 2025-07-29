@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ يَزَالُ قَوْمٌ يَتَأَخَّرُونَ عَنِ الصَّفِّ الأَوَّلِ حَتَّى يُؤَخِّرَهُمُ اللَّهُ فِي النَّارِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
+
 حدثنا يحيى بن معين، حدثنا عبد الرزاق، عن عكرمة بن عمار، عن يحيى بن ابي كثير، عن ابي سلمة، عن عايشة، قالت قال رسول الله صلى الله عليه وسلم " لا يزال قوم يتاخرون عن الصف الاول حتى يوخرهم الله في النار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একদল লোক সর্বদা প্রথম কাতার থেকে পিছনের দিকে সরতে থাকবে। ফলে আল্লাহও তাদেরকে জাহান্নামের পিছন দিকে রাখবেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একদল লোক সর্বদা প্রথম কাতার থেকে পিছনের দিকে সরতে থাকবে। ফলে আল্লাহও তাদেরকে জাহান্নামের পিছন দিকে রাখবেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘A’ishah reported the Messenger of Allah (ﷺ) as saying the people will continue to keep themselves away from the front row until Allah will keep them away (from the front) in the Hell-fire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
+
+## French
+
+Rapporté par ‘Aïcha رضي الله عنها : Le Messager d’Allah ﷺ a dit que les gens continueront à s’éloigner du premier rang jusqu’à ce qu’Allah les éloigne (du premier rang) dans l’Enfer
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Ma'in\] telah menceritakan kepada kami \[Abdur Razzaq\] dari \[Ikrimah bin Ammar\] dari \[Yahya bin Abi Katsir\] dari \[Abu Salamah\] dari \[Aisyah\] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Akan ada suatu kaum yang suka melambat-lambatkan diri dari shaf pertama, hingga Allah melambatkan mereka (keluar dari) neraka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami [Abdur Razzaq] dari [Ikrimah bin Ammar] dari [Yahya bin Abi Katsir] dari [Abu Salamah] dari [Aisyah] dia berkata; Rasulullah Shallallahu alaihi wasallam bersabda: "Akan ada suatu kaum yang suka melambat-lambatkan diri dari shaf pertama, hingga Allah melambatkan mereka (keluar dari) neraka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша сказала: «Посланник Аллаха ﷺ сказал: “Люди будут продолжать опаздывать на первый ряд (в молитве) до тех пор, пока Аллах не отодвинет их назад в Огне”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (radiyallahu anha)'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Bir kavim birinci saftan geri durmaya devam ederse Allah da onları ateşte(n çıkarmayı) geciktirir." Diğer tahric: Beyhakî, S. kübra, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: لوگ پہلی صف سے پیچھے ہٹتے رہیں گے یہاں تک کہ اللہ تعالیٰ بھی ان کو جہنم میں پیچھے ڈال دے گا ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>679</td></tr><tr><td>Arabic No</td><td>679</td></tr><tr><td>Reference</td><td>Book 2 Hadith 289</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 679 |
+| Arabic No | 679 |
+| Reference | Book 2 Hadith 289 |

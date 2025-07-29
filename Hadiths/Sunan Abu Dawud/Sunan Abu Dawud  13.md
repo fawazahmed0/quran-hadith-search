@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ مُحَمَّدَ بْنَ إِسْحَاقَ، يُحَدِّثُ عَنْ أَبَانَ بْنِ صَالِحٍ، عَنْ مُجَاهِدٍ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَى نَبِيُّ اللَّهِ صلى الله عليه وسلم أَنْ نَسْتَقْبِلَ الْقِبْلَةَ بِبَوْلٍ فَرَأَيْتُهُ قَبْلَ أَنْ يُقْبَضَ بِعَامٍ يَسْتَقْبِلُهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
+
 حدثنا محمد بن بشار، حدثنا وهب بن جرير، حدثنا ابي قال، سمعت محمد بن اسحاق، يحدث عن ابان بن صالح، عن مجاهد، عن جابر بن عبد الله، قال نهى نبي الله صلى الله عليه وسلم ان نستقبل القبلة ببول فرايته قبل ان يقبض بعام يستقبلها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
 
 ## Bengali
 
+। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিবলামুখী হয়ে পেশাব করতে নিষেধ করেছেন। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর ইন্তিকালের এক বছর পূর্বে কিবলামুখী হয়ে পেশাব-পায়খানা করতে দেখেছি।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কিবলামুখী হয়ে পেশাব করতে নিষেধ করেছেন। তিনি বলেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর ইন্তিকালের এক বছর পূর্বে কিবলামুখী হয়ে পেশাব-পায়খানা করতে দেখেছি।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Prophet of Allah (ﷺ) forbade us to face the qiblah at the time of making water. Then I saw him facing it (qiblah) urinating or easing himself one year before his death
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Le Prophète d’Allah ﷺ nous a interdit de faire face à la qiblah en urinant. Puis, je l’ai vu, une année avant sa mort, faire face à la qiblah pour uriner ou satisfaire ses besoins
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Wahb bin Jarir\] telah menceritakan kepada kami \[ayahku\] dia berkata; Saya pernah mendengar \[Muhammad bin Ishaq\] menceritakan hadits dari \[Aban bin Shalih\] dari \[Mujahid\] dari \[Jabir bin Abdullah\] dia berkata; Nabiyullah shallallahu 'alaihi wasallam telah melarang kita menghadap kiblat tatkala buang air kecil, kemudian saya melihat beliau setahun sebelum wafat, buang air kecil menghadap kiblat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Wahb bin Jarir] telah menceritakan kepada kami [ayahku] dia berkata; Saya pernah mendengar [Muhammad bin Ishaq] menceritakan hadits dari [Aban bin Shalih] dari [Mujahid] dari [Jabir bin Abdullah] dia berkata; Nabiyullah shallallahu 'alaihi wasallam telah melarang kita menghadap kiblat tatkala buang air kecil, kemudian saya melihat beliau setahun sebelum wafat, buang air kecil menghadap kiblat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Джабир ибн ‘Абдуллах сказал: «Пророк Аллаха ﷺ запретил нам поворачиваться в сторону киблы во время справления малой нужды, и я видел, как за год до своей смерти он поворачивался в её (киблы) сторону (справляя нужду)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir b. Abdillah'dan, demiştir ki; "Nebî Sallellahu aleyhi ve sellem küçük abdest bozarken kıbleye yönelmeyi yasaklamıştı. Ancak ben vefatlarından bir yıl (kadar) önce küçük abdest bozarken ken­dilerinin kıbleye yöneldiğini gördüm." Diğer tahric: Tirmizî, tahare 7; İbn Mace, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے ہمیں پیشاب کے وقت قبلہ کی طرف رخ کرنے سے منع فرمایا، ( لیکن ) میں نے وفات سے ایک سال پہلے آپ صلی اللہ علیہ وسلم کو ( قضائے حاجت کی حالت میں ) قبلہ رو دیکھا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>13</td></tr><tr><td>Arabic No</td><td>13</td></tr><tr><td>Reference</td><td>Book 1 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 13 |
+| Arabic No | 13 |
+| Reference | Book 1 Hadith 13 |

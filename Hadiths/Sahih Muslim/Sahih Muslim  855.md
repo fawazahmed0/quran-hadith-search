@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ قَالاَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابو بكر بن ابي شيبة، وابو كريب قالا حدثنا ابو معاوية، عن الاعمش، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আমাশ হতে এ সনদে অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৭৩৯, ইসলামিক সেন্টারঃ নেই)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Mu'awiya narrated it on the authority of A'mash with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## French
 
+Rapporté par Abu Mu’awiya d’après A’mash avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize bu hadisi Ebu Bekr b. Ebi Şeybe ile Kureyb de rivayet ettiler. Dediler ki: Bize Ebu Muâviye, A'meş'den bu isnadla rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ ابو معاویہ نے اعمش سے اسی سند کے ساتھ یہی روایت بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>855</td></tr><tr><td>Arabic No</td><td>388.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 855 |
+| Arabic No | 388.02 |
+| Reference | Book 4 Hadith 18 |

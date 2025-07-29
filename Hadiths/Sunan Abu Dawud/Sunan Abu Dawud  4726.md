@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الأَعْلَى بْنُ حَمَّادٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، وَأَحْمَدُ بْنُ سَعِيدٍ الرِّبَاطِيُّ، قَالُوا حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، - قَالَ أَحْمَدُ كَتَبْنَاهُ مِنْ نُسْخَتِهِ وَهَذَا لَفْظُهُ - قَالَ حَدَّثَنَا أَبِي قَالَ سَمِعْتُ مُحَمَّدَ بْنَ إِسْحَاقَ يُحَدِّثُ عَنْ يَعْقُوبَ بْنِ عُتْبَةَ عَنْ جُبَيْرِ بْنِ مُحَمَّدِ بْنِ جُبَيْرِ بْنِ مُطْعِمٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ أَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم أَعْرَابِيٌّ فَقَالَ يَا رَسُولَ اللَّهِ جُهِدَتِ الأَنْفُسُ وَضَاعَتِ الْعِيَالُ وَنُهِكَتِ الأَمْوَالُ وَهَلَكَتِ الأَنْعَامُ فَاسْتَسْقِ اللَّهَ لَنَا فَإِنَّا نَسْتَشْفِعُ بِكَ عَلَى اللَّهِ وَنَسْتَشْفِعُ بِاللَّهِ عَلَيْكَ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ وَيْحَكَ أَتَدْرِي مَا تَقُولُ ‏"‏ وَسَبَّحَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَمَا زَالَ يُسَبِّحُ حَتَّى عُرِفَ ذَلِكَ فِي وُجُوهِ أَصْحَابِهِ ثُمَّ قَالَ ‏"‏ وَيْحَكَ إِنَّهُ لاَ يُسْتَشْفَعُ بِاللَّهِ عَلَى أَحَدٍ مِنْ خَلْقِهِ شَأْنُ اللَّهِ أَعْظَمُ مِنْ ذَلِكَ وَيْحَكَ أَتَدْرِي مَا اللَّهُ إِنَّ عَرْشَهُ عَلَى سَمَوَاتِهِ لَهَكَذَا ‏"‏ ‏.‏ وَقَالَ بِأَصَابِعِهِ مِثْلَ الْقُبَّةِ عَلَيْهِ ‏"‏ وَإِنَّهُ لَيَئِطُّ بِهِ أَطِيطَ الرَّحْلِ بِالرَّاكِبِ ‏"‏ ‏.‏ قَالَ ابْنُ بَشَّارٍ فِي حَدِيثِهِ ‏"‏ إِنَّ اللَّهَ فَوْقَ عَرْشِهِ وَعَرْشُهُ فَوْقَ سَمَوَاتِهِ ‏"‏ ‏.‏ وَسَاقَ الْحَدِيثَ وَقَالَ عَبْدُ الأَعْلَى وَابْنُ الْمُثَنَّى وَابْنُ بَشَّارٍ عَنْ يَعْقُوبَ بْنِ عُتْبَةَ وَجُبَيْرِ بْنِ مُحَمَّدِ بْنِ جُبَيْرٍ عَنْ أَبِيهِ عَنْ جَدِّهِ قَالَ أَبُو دَاوُدَ وَالْحَدِيثُ بِإِسْنَادِ أَحْمَدَ بْنِ سَعِيدٍ هُوَ الصَّحِيحُ وَافَقَهُ عَلَيْهِ جَمَاعَةٌ مِنْهُمْ يَحْيَى بْنُ مَعِينٍ وَعَلِيُّ بْنُ الْمَدِينِيِّ وَرَوَاهُ جَمَاعَةٌ عَنِ ابْنِ إِسْحَاقَ كَمَا قَالَ أَحْمَدُ أَيْضًا وَكَانَ سَمَاعُ عَبْدِ الأَعْلَى وَابْنِ الْمُثَنَّى وَابْنِ بَشَّارٍ مِنْ نُسْخَةٍ وَاحِدَةٍ فِيمَا بَلَغَنِي ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
+
 حدثنا عبد الاعلى بن حماد، ومحمد بن المثنى، ومحمد بن بشار، واحمد بن سعيد الرباطي، قالوا حدثنا وهب بن جرير، - قال احمد كتبناه من نسخته وهذا لفظه - قال حدثنا ابي قال سمعت محمد بن اسحاق يحدث عن يعقوب بن عتبة عن جبير بن محمد بن جبير بن مطعم عن ابيه عن جده قال اتى رسول الله صلى الله عليه وسلم اعرابي فقال يا رسول الله جهدت الانفس وضاعت العيال ونهكت الاموال وهلكت الانعام فاستسق الله لنا فانا نستشفع بك على الله ونستشفع بالله عليك . قال رسول الله صلى الله عليه وسلم " ويحك اتدري ما تقول " وسبح رسول الله صلى الله عليه وسلم فما زال يسبح حتى عرف ذلك في وجوه اصحابه ثم قال " ويحك انه لا يستشفع بالله على احد من خلقه شان الله اعظم من ذلك ويحك اتدري ما الله ان عرشه على سمواته لهكذا " . وقال باصابعه مثل القبة عليه " وانه لييط به اطيط الرحل بالراكب " . قال ابن بشار في حديثه " ان الله فوق عرشه وعرشه فوق سمواته " . وساق الحديث وقال عبد الاعلى وابن المثنى وابن بشار عن يعقوب بن عتبة وجبير بن محمد بن جبير عن ابيه عن جده قال ابو داود والحديث باسناد احمد بن سعيد هو الصحيح وافقه عليه جماعة منهم يحيى بن معين وعلي بن المديني ورواه جماعة عن ابن اسحاق كما قال احمد ايضا وكان سماع عبد الاعلى وابن المثنى وابن بشار من نسخة واحدة فيما بلغني
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
 
 ## Bengali
 
+। যুবায়র ইবনু মুহাম্মাদ ইবনু যুবায়র ইবনু মুতইম তার পিতা থেকে তার দাদার সূত্রে বর্ণিত। তিনি বলেন, এক বেদুঈন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! লোকজন খুব কষ্ট করছে, পরিবার-পরিজন, ঘর-বাড়ি ধ্বংস হয়ে যাচ্ছে, ধন-সম্পদ হ্রাস পাচ্ছে এবং জীব-জন্তু মারা যাচ্ছে। সুতরাং আপনি আমাদের জন্য মহান আল্লাহর নিকট বৃষ্টি প্রার্থনা করুন। কেননা আমরা আপনার সুপারিশ নিয়ে আল্লাহর নিকট যাই এবং আল্লাহর সুপারিশ নিয়ে আপনার নিকট আসি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমার জন্য দুঃখ হয়, তুমি কি জানো! তুমি কি বলছো? অতঃপর তিনি তাসবীহ পড়তে থাকলেন, এমন কি তাঁর সাহাবীদের মধ্যেও এর (অসন্তুষ্টির) চিহ্ন পরিলক্ষিত হলো। তিনি আবার বললেন, তোমার জন্য দুঃখ হয়। আল্লাহর সুপারিশ নিয়ে তাঁর কোনো সৃষ্টির নিকট যাওয়া যায় না। আল্লাহর মর্যাদা এর চেয়ে অনেক উর্ধ্বে, অনেক মহান। তোমার জন্য দুঃখ হয়! তুমি কি জানো আল্লাহ কে? তাঁর আরশ আসমানের উপর এভাবে আছে। তিনি আঙ্গুল দিয়ে ইশারা করে বললেন, তার উপর রয়েছে গম্বুজ সদৃশ ছাদ। তা সত্ত্বেও তা (আরশ) তাকে নিয়ে গোঙ্গানীর মতো শব্দ করে, যেমনটি করে আরোহীর কারণে জীনপোষ। ইবনু বাশশার তার হাদীসে বলেন, মহান আল্লাহ তাঁর আরশের উপরে এবং তাঁর আরশ আসমানসমূহের উপরে। অতঃপর হাদীসটি এভাবে বর্ণিত হয়েছে।\[1\] দুর্বলঃ মিশকাত হা/ ৫৭২৭।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। যুবায়র ইবনু মুহাম্মাদ ইবনু যুবায়র ইবনু মুতইম তার পিতা থেকে তার দাদার সূত্রে বর্ণিত। তিনি বলেন, এক বেদুঈন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! লোকজন খুব কষ্ট করছে, পরিবার-পরিজন, ঘর-বাড়ি ধ্বংস হয়ে যাচ্ছে, ধন-সম্পদ হ্রাস পাচ্ছে এবং জীব-জন্তু মারা যাচ্ছে। সুতরাং আপনি আমাদের জন্য মহান আল্লাহর নিকট বৃষ্টি প্রার্থনা করুন। কেননা আমরা আপনার সুপারিশ নিয়ে আল্লাহর নিকট যাই এবং আল্লাহর সুপারিশ নিয়ে আপনার নিকট আসি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমার জন্য দুঃখ হয়, তুমি কি জানো! তুমি কি বলছো? অতঃপর তিনি তাসবীহ পড়তে থাকলেন, এমন কি তাঁর সাহাবীদের মধ্যেও এর (অসন্তুষ্টির) চিহ্ন পরিলক্ষিত হলো। তিনি আবার বললেন, তোমার জন্য দুঃখ হয়। আল্লাহর সুপারিশ নিয়ে তাঁর কোনো সৃষ্টির নিকট যাওয়া যায় না। আল্লাহর মর্যাদা এর চেয়ে অনেক উর্ধ্বে, অনেক মহান। তোমার জন্য দুঃখ হয়! তুমি কি জানো আল্লাহ কে? তাঁর আরশ আসমানের উপর এভাবে আছে। তিনি আঙ্গুল দিয়ে ইশারা করে বললেন, তার উপর রয়েছে গম্বুজ সদৃশ ছাদ। তা সত্ত্বেও তা (আরশ) তাকে নিয়ে গোঙ্গানীর মতো শব্দ করে, যেমনটি করে আরোহীর কারণে জীনপোষ। ইবনু বাশশার তার হাদীসে বলেন, মহান আল্লাহ তাঁর আরশের উপরে এবং তাঁর আরশ আসমানসমূহের উপরে। অতঃপর হাদীসটি এভাবে বর্ণিত হয়েছে।[1] দুর্বলঃ মিশকাত হা/ ৫৭২৭।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammad b. Jubair b. Mut’im said from his father on the authority of his grandfather:An A’rab(a nomadic Arab) came to the Messenger of Allah(ﷺ) and said: People suffering distress, the children are hungry, the crops are withered, and the animals are perished, so ask Allah to grant us rain, for we seek you as our intercessor with Allah, and Allah as intercessor with you. The Messenger of Allah(ﷺ) said: Woe to you: Do you know what you are saying? Then the Messenger of Allah(ﷺ) declared Allah’s glory and he continued declaring His glory till the effect of that was apparent in the faces of his Companions. He then said: Woe to you: Allah is not to be sought as intercessor with anyone. Allah’s state is greater than that. Woe to you! Do you know how great Allah is? His throne is above the heavens thus(indicating with his fingers like a dome over him), and it groans on account of Him as a saddle does because of the rider. Ibn Bashshar said in his version: Allah is above the throne, and the throne is above the heavens. He then mentioned the rest of the tradition. ‘Abd al-A’la, Ibn al- Muthana and Ibn Bashshar transmitted it from Ya’qub b. ‘Utbah and Jubair b. Muhammad b. Jubair from his father on the authority of his grandfather. Abu Dawud said: This tradition with the chain of Ahmad b. Sa’ad is sound. It has been approved by the body (of traditionists) , which includes Yahya b. Ma’in and ‘Ali b. al-Madani, and a group has transmitted it from Ibn Ishaq, as Ahmad also said. And so far as I have been informed ‘Abd al-A’la, Ibn al-Muthanna, and Ibn Bashshar had heard from the same copy(of the collection of tradition)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
+
+## French
+
+Rapporté par Muhammad b. Jubair b. Mut’im, de la part de son père, selon son grand-père : Un Bédouin est venu voir le Messager d’Allah ﷺ et lui a dit : « Les gens souffrent, les enfants ont faim, les récoltes sont desséchées et les animaux sont morts. Invoque donc Allah pour qu’Il nous accorde la pluie, car nous te prenons comme notre intercesseur auprès d’Allah, et Allah comme intercesseur auprès de toi. » Le Messager d’Allah ﷺ répondit : « Malheur à toi ! Sais-tu ce que tu dis ? » Puis le Messager d’Allah ﷺ proclama la gloire d’Allah et continua à le faire jusqu’à ce que cela se voie sur le visage de ses compagnons. Ensuite, il dit : « Malheur à toi ! On ne cherche pas d’intercesseur auprès d’Allah par quelqu’un d’autre. Allah est bien au-dessus de cela. Malheur à toi ! Sais-tu combien Allah est grand ? Son Trône est au-dessus des cieux ainsi (il montra avec ses doigts comme une coupole au-dessus de lui), et il grince à cause de Lui comme une selle sous le poids de son cavalier. » Ibn Bashshar a ajouté dans sa version : « Allah est au-dessus du Trône, et le Trône est au-dessus des cieux. » Il a ensuite mentionné le reste du récit
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdul A'la bin Hammad\] dan \[Muhammad Ibnul Mutsanna\] dan \[Muhammad bin Basysyar\] dan \[Ahmad bin Sa'id Ar Ribathi\] mereka berkata; telah menceritakan kepada kami \[Wahb bin Jarir\] -Ahmad berkata, "Kami menulisnya dari buku catatannya, dan ini adalah lafadznya."- ia berkata; telah menceritakan kepada kami \[Bapakku\] ia berkata; Aku mendengar \[Muhammad bin Ishaq\] ia menceritakan dari \[Ya'qub bin Utbah\] dari \[Jubair bin Muhammad bin Jubair bin Muth'im\] dari \[Bapaknya\] dari \[Kakeknya\] ia berkata, "Seorang Arab badui mendatangi Rasulullah shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, jiwa-jiwa telah berat, keluarga telah lemah, harta berkurang, dan binatang ternak telah binasa. Maka mintalah hujan kepada Allah untuk kami, sesungguhnya kami meminta syafaat dengan perantaramu kepada Allah dan dengan perantara Allah kepadamu." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Celaka kamu! Tidakkah kamu tahu apa yang telah kamu ucapkan?" Rasulullah shallallahu 'alaihi wasallam kemudian bertasbih kepada Allah, dan beliau masih saja bertasbih hingga (kebencian beliau) bisa diketahui dari wajah para sahabatnya. Kemudian beliau bersabda lagi: "Celaka kamu! Sesungguhnya Allah tidak boleh dijadikan sebagai perantara atas seorang pun dari hamba-Nya, Allah lebih agung dari untuk sekedar dijadikan sebagai wasilah tersebut. Celaka kamu! Tidak tahukah kamu bagaimana Allah itu? Sungguh, Arsy-Nya ada di atas semua langit-Nya seperti ini -lalu isyarat tangannya beliau mengatakan, 'Seperti Kubah, dan Arsy itu berteriak dan menyeru kepada Allah seperti tunggangan berteriak kepada pengendara karena berat-." Ibnu Basysyar menyebutkan dalam haditsnya, "Sesungguhnya Allah berada di atas Arsy, dan Arsy-Nya ada di atas semua langit-Nya…lalu hadits tersebut disebutkan seluruhnya." \[Abdul A'la\], \[Ibnul Mutsanna\] dan \[Ibnu Basysyar\] menyebutkan dari \[Ya'qub bin Utbah\]. Dan \[Jubair bin Muhammad bin Jubair\] dari \[bapaknya\], dari \[kakeknya\]. Dan hadits ini diriwayatkan dengan sanad Ahmad bin Sa'id, dan inilah yang lebih shahih. hal ini telah disepakati oleh sekelompok ulama, seperti \[Yahya bin Ma'in\] dan \[Ali Ibnul Madini\]. Sekelompok ulama juga meriwayatkannya dari Ibnu Ishaq, ini menurut keterangan Ahmad. Dan menurut kabar yang sampai kepadaku bahwa riwayat Abdul A'la, Ibnul Mutsanna dan Ibnu Basysyar dari buku yang sama
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdul A'la bin Hammad] dan [Muhammad Ibnul Mutsanna] dan [Muhammad bin Basysyar] dan [Ahmad bin Sa'id Ar Ribathi] mereka berkata; telah menceritakan kepada kami [Wahb bin Jarir] -Ahmad berkata, "Kami menulisnya dari buku catatannya, dan ini adalah lafadznya."- ia berkata; telah menceritakan kepada kami [Bapakku] ia berkata; Aku mendengar [Muhammad bin Ishaq] ia menceritakan dari [Ya'qub bin Utbah] dari [Jubair bin Muhammad bin Jubair bin Muth'im] dari [Bapaknya] dari [Kakeknya] ia berkata, "Seorang Arab badui mendatangi Rasulullah shallallahu 'alaihi wasallam dan bertanya, "Wahai Rasulullah, jiwa-jiwa telah berat, keluarga telah lemah, harta berkurang, dan binatang ternak telah binasa. Maka mintalah hujan kepada Allah untuk kami, sesungguhnya kami meminta syafaat dengan perantaramu kepada Allah dan dengan perantara Allah kepadamu." Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Celaka kamu! Tidakkah kamu tahu apa yang telah kamu ucapkan?" Rasulullah shallallahu 'alaihi wasallam kemudian bertasbih kepada Allah, dan beliau masih saja bertasbih hingga (kebencian beliau) bisa diketahui dari wajah para sahabatnya. Kemudian beliau bersabda lagi: "Celaka kamu! Sesungguhnya Allah tidak boleh dijadikan sebagai perantara atas seorang pun dari hamba-Nya, Allah lebih agung dari untuk sekedar dijadikan sebagai wasilah tersebut. Celaka kamu! Tidak tahukah kamu bagaimana Allah itu? Sungguh, Arsy-Nya ada di atas semua langit-Nya seperti ini -lalu isyarat tangannya beliau mengatakan, 'Seperti Kubah, dan Arsy itu berteriak dan menyeru kepada Allah seperti tunggangan berteriak kepada pengendara karena berat-." Ibnu Basysyar menyebutkan dalam haditsnya, "Sesungguhnya Allah berada di atas Arsy, dan Arsy-Nya ada di atas semua langit-Nya…lalu hadits tersebut disebutkan seluruhnya." [Abdul A'la], [Ibnul Mutsanna] dan [Ibnu Basysyar] menyebutkan dari [Ya'qub bin Utbah]. Dan [Jubair bin Muhammad bin Jubair] dari [bapaknya], dari [kakeknya]. Dan hadits ini diriwayatkan dengan sanad Ahmad bin Sa'id, dan inilah yang lebih shahih. hal ini telah disepakati oleh sekelompok ulama, seperti [Yahya bin Ma'in] dan [Ali Ibnul Madini]. Sekelompok ulama juga meriwayatkannya dari Ibnu Ishaq, ini menurut keterangan Ahmad. Dan menurut kabar yang sampai kepadaku bahwa riwayat Abdul A'la, Ibnul Mutsanna dan Ibnu Basysyar dari buku yang sama
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Джубайр ибн Мухаммад ибн Джубайр ибн Мут‘ым передаёт от своего отца от своего деда, что однажды к Посланнику Аллаха ﷺ пришёл какой-то бедуин и сказал: «О Посланник Аллаха, люди измучены, семьи нищенствуют, имущество истощилось, а скот погиб. Попроси же Аллаха ниспослать нам дождь. Поистине, мы просим тебя походатайствовать за нас перед Аллахом и просим Аллаха походатайствовать за нас перед тобой». Посланник Аллаха ﷺ сказал: «Горе тебе, ты знаешь, что говоришь?!» И он стал повторять слова: «Пречист Аллах!» Он повторял своё восклицание до тех пор, пока по лицам сподвижников не стало заметно, что им не по себе. Тогда Посланник Аллаха ﷺ сказал: «Горе тебе! Поистине, Аллаха не просят походатайствовать перед кем-либо из творений! Поистине, Аллах превыше этого! Горе тебе! Знаешь ли ты, кто такой Аллах? Поистине, Трон Его над небесами вот так!» И он сложил пальцы наподобие купола: «И, поистине, он скрипит под Ним, как скрипит седло под седоком». А Ибн Башшар сказал в своём хадисе: «Поистине, Аллах над Своим Троном, а Трон Его над Его небесами». И он привёл хадис полностью
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Cübeyr İbn Muhammed İbn Cübeyr İbn Mut'im'in) dedesinden (Cübeyr İbn Mut'im'den) rivayet edilmiştir, dedi ki: Nebi s.a.v.’in huzuruna bir çöl arabı gelip: "Ey Allah'ın Rasulü, canlar son derece sıkıntıya girdi, çocuklar can verdi, mallar azaldı, hayvanlar helak oldu. Bizim için Allah'dan yağmur iste. Biz (yağmurumuzun yağdırılması için) seni Allah'a şefaatçi kılıyoruz. Allah'ı da sana şefaatçi kılıyoruz" dedi. Rasûlullah (s.a.v.) de ! "Vay, yazık sana! Sen ne dediğini biliyor mu­sun?" buyurdu. Sonra: "Sübhanallah" dedi ve "sübhanallah" demeye devam etti. Nihayet (Hz. Nebi'in öfkesinin, gazab-ı ilahinin nüzulüne sebep olabileceğinden endişe edildiği için) bu (öfkeden duyulan endişenin izleri orada bulunan) sahabilerinin yüzünde de belirmeye başladı. Sonra (tekrar): "vay sana!: (şunu iyi bil ki) Allah yarattıklarından hiç­birisi için aracı kılınamaz. Allah'ın şanı bundan yücedir. Vay sana! Sen Allah kimdir biliyor musun? Onun Arşı semâvâtı üzerinde şu şekildedir" buyurdu ve parmak (lany) la (el boşluğu) üzerinde kubbe gibi bir şekil yaptı ve: "Muhakkak ki Arş Allah'(ın azametin) den (dolayı) semerin süvari'nin ağırhğın)dan (dolayı) gıcırdadığı gibi gıcırdar" buyurdu. İbn Beşşar bu hadisi "Allah Arşının üstündedir Arşı da göklerinin üstündedir"diye rivayet etti (ve sonra hadisin geri kalan kısmını) nakletti. Abdulla'Iâ, İbnu'l Müsennâ ve İbn Beşşâr; "Ya'kub b. Utbe ile Cubeyr b. Muhammed b. Cûbeyr'den, o babasından, o dedesinden" diyerek aynı hadisi naklettiler. (Ebû Dâvûd dedi ki): Hadisin Ahmed b. Said'in isnadı (ile gelen rivayeti) sahih olandır. Aralarında Yahya b. Main ile Ali b. el-Medîm nin de bulun­duğu bir topluluk, bu hususta ona muvafakat etmişlerdir. Ayrıca bir başka topluluk, bunu, -yine Ahmed'in dediği şekilde- "İbn İshak'tan" (diyerek) rivayet etmişlerdir. Bana ulaştığına göre, Ahdula'lâ, İbnu 'l-Müsennâ ile İbn Beşşâr'in semalan (hocalarından hadis dinlemeleri) aynı nüshadan imiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جبیر بن مطعم رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس ایک اعرابی آیا اور کہا: اللہ کے رسول! لوگ مصیبت میں پڑ گئے، گھربار تباہ ہو گئے، مال گھٹ گئے، جانور ہلاک ہو گئے، لہٰذا آپ ہمارے لیے بارش کی دعا کیجئے، ہم آپ کو سفارشی بناتے ہیں اللہ کے دربار میں، اور اللہ کو سفارشی بناتے ہیں آپ کے دربار میں، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تمہارا برا ہو، سمجھتے ہو تم کیا کہہ رہے ہو؟ پھر رسول اللہ صلی اللہ علیہ وسلم سبحان اللہ کہنے لگے، اور برابر کہتے رہے یہاں تک کہ اس کا اثر آپ صلی اللہ علیہ وسلم کے اصحاب کے چہروں پر دیکھا گیا، پھر فرمایا: تمہارا برا ہو اللہ کو اس کی مخلوق میں سے کسی کے دربار میں سفارشی نہیں بنایا جا سکتا، اللہ کی شان اس سے بہت بڑی ہے، تمہارا برا ہو! کیا تم جانتے ہو اللہ کیا ہے، اس کا عرش اس کے آسمانوں پر اس طرح ہے ( آپ نے انگلیوں سے گنبد کے طور پر اشارہ کیا ) اور وہ چرچراتا ہے جیسے پالان سوار کے بیٹھنے سے چرچراتا ہے، ( ابن بشار کی حدیث میں ہے ) اللہ تعالیٰ اپنے عرش کے اوپر ہے، اور اس کا عرش اس کے آسمانوں کے اوپر ہے اور پھر پوری حدیث ذکر کی۔ عبدالاعلی، ابن مثنی اور ابن بشار تینوں نے یعقوب بن عتبہ اور جبیر بن محمد بن جبیر سے ان دونوں نے محمد بن جبیر سے اور محمد بن جبیر نے جبیر بن مطعم سے روایت کی ہے۔ البتہ احمد بن سعید کی سند والی حدیث ہی صحیح ہے، اس پر ان کی موافقت ایک جماعت نے کی ہے، جس میں یحییٰ بن معین اور علی بن مدینی بھی شامل ہیں اور اسے ایک جماعت نے ابن اسحاق سے روایت کیا ہے جیسا کہ احمد بن سعید نے بھی کہا ہے، اور عبدالاعلی، ابن مثنی اور ابن بشار کا سماع جیسا کہ مجھے معلوم ہوا ہے، ایک ہی نسخے سے ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4726</td></tr><tr><td>Arabic No</td><td>4726</td></tr><tr><td>Reference</td><td>Book 42 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4726 |
+| Arabic No | 4726 |
+| Reference | Book 42 Hadith 131 |

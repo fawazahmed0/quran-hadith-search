@@ -12,54 +12,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا بِشْرُ بْنُ مُعَاذٍ الْبَصْرِيُّ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، عَنِ ابْنِ جُرَيْجٍ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏ وَهَذَا أَصَحُّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 163 |
+| Arabic No | 163 |
+| Reference | Book 2 Hadith 15 |
+
 وحدثنا بشر بن معاذ البصري، قال حدثنا اسماعيل ابن علية، عن ابن جريج، بهذا الاسناد نحوه . وهذا اصح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 163 |
+| Arabic No | 163 |
+| Reference | Book 2 Hadith 15 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । বিশর ইবনু মুআয, ইসমাঈল ইবনু উলাইয়্যা হতে ইবনু জুরাইজের সূত্রে অনুরূপ বর্ণিত আছে। —আর এই বর্ণনাটি অধিক সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 163 |
+| Arabic No | 163 |
+| Reference | Book 2 Hadith 15 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Similar narration is reported by Bishr ibn Mu'adh Al-Bari who said that :Isma'il ibn Ulayyah narrated to him from Ibn Juraij. This latter chain is more correct
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 163 |
+| Arabic No | 163 |
+| Reference | Book 2 Hadith 15 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 163 |
+| Arabic No | 163 |
+| Reference | Book 2 Hadith 15 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bişr b. Muaz el Basrî bu hadisi bize İsmail b. Uleyye ve İbn Cüreyc’den aktarmıştır ki bu daha sahihtir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 163 |
+| Arabic No | 163 |
+| Reference | Book 2 Hadith 15 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسماعیل بن علیہ کی ابن جریج سے روایت زیادہ صحیح ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>163</td></tr><tr><td>Arabic No</td><td>163</td></tr><tr><td>Reference</td><td>Book 2 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 163 |
+| Arabic No | 163 |
+| Reference | Book 2 Hadith 15 |

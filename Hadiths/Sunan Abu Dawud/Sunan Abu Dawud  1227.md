@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، - قَالَ - بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فِي حَاجَةٍ قَالَ فَجِئْتُ وَهُوَ يُصَلِّي عَلَى رَاحِلَتِهِ نَحْوَ الْمَشْرِقِ وَالسُّجُودُ أَخْفَضُ مِنَ الرُّكُوعِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا وكيع، عن سفيان، عن ابي الزبير، عن جابر، - قال - بعثني رسول الله صلى الله عليه وسلم في حاجة قال فجيت وهو يصلي على راحلته نحو المشرق والسجود اخفض من الركوع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
 
 ## Bengali
 
+। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কোন কাজে পাঠালেন। আমি ফিরে এসে দেখি, তিনি সওয়ারীর উপর পূর্ব দিকে মুখ করে সালাত আদায় করছেন আর তাঁর রুকূ‘র চেয়ে সিজদাতে (মাথা) অধিক নত ছিল।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কোন কাজে পাঠালেন। আমি ফিরে এসে দেখি, তিনি সওয়ারীর উপর পূর্ব দিকে মুখ করে সালাত আদায় করছেন আর তাঁর রুকূ‘র চেয়ে সিজদাতে (মাথা) অধিক নত ছিল।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) sent me on some business, and when I came to him he was praying on (the back of) his riding beast (moving) towards the east and making the prostration lower than the bowing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ m’a envoyé pour une mission, et quand je suis revenu vers lui, il priait sur sa monture en direction de l’est, et il faisait la prosternation plus basse que l’inclinaison
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Abu Syaibah\] telah menceritakan kepada kami \[Waki'\] dari \[Sufyan\] dari \[Abu Az Zubair\] dari \[Jabir\] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengutusku untuk suatu keperluan, katanya; "lalu aku datang menemui beliau, sementara beliau sedang shalat di atas kendaraannya menghadap ke timur, dan sujud beliau lebih rendah daripada ruku' beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Abu Syaibah] telah menceritakan kepada kami [Waki'] dari [Sufyan] dari [Abu Az Zubair] dari [Jabir] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengutusku untuk suatu keperluan, katanya; "lalu aku datang menemui beliau, sementara beliau sedang shalat di atas kendaraannya menghadap ke timur, dan sujud beliau lebih rendah daripada ruku' beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Джабира, да будет доволен Аллах им и его отцом: «Посланник Аллаха ﷺ отправил меня с каким-то поручением, а вернувшись, я застал его совершающим (дополнительную) молитву на своей верблюдице, обращённым к востоку, причём, совершая земной поклон, он наклонялся ниже, чем при совершении поясного поклона»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir (r.a.)'den; demiştir ki: Resûlullah (s.a.v.) beni bir iş için göndermişti. Döndüğüm zaman o devesinin üzerinde doğu'ya doğru namaz kılıyordu, secdesi rükûundan daha eğik idi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھے کسی ضرورت سے بھیجا، میں ( واپس ) آیا تو دیکھا کہ آپ اپنی سواری پر مشرق کی جانب رخ کر کے نماز پڑھ رہے ہیں ( آپ کا ) سجدہ رکوع کی بہ نسبت زیادہ جھک کر ہوتا تھا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (540)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1227</td></tr><tr><td>Arabic No</td><td>1227</td></tr><tr><td>Reference</td><td>Book 4 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (540) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1227 |
+| Arabic No | 1227 |
+| Reference | Book 4 Hadith 30 |

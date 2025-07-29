@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,133 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، وَعَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، وَقُتَيْبَةُ بْنُ سَعِيدٍ، قَالُوا حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ، عَنْ هِشَامٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُسْتَعْذَبُ لَهُ الْمَاءُ مِنْ بُيُوتِ السُّقْيَا ‏.‏ قَالَ قُتَيْبَةُ عَيْنٌ بَيْنَهَا وَبَيْنَ الْمَدِينَةِ يَوْمَانِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
+
 حدثنا سعيد بن منصور، وعبد الله بن محمد النفيلي، وقتيبة بن سعيد، قالوا حدثنا عبد العزيز بن محمد، عن هشام، عن ابيه، عن عايشة، رضى الله عنها ان النبي صلى الله عليه وسلم كان يستعذب له الماء من بيوت السقيا . قال قتيبة عين بينها وبين المدينة يومان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য ‘বুয়ুতুস-সুকইয়া, থেকে মিষ্টি পানি সংগ্রহ করে আনা হতো। কুতাইবা (রহঃ) বলেন, ‘বুয়ুতুস-সুকইয়া, হলো একটি কূপের নাম। এর এবং মদীনার মাঝে দু’ দিনের পথের দূরত্ব।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য ‘বুয়ুতুস-সুকইয়া, থেকে মিষ্টি পানি সংগ্রহ করে আনা হতো। কুতাইবা (রহঃ) বলেন, ‘বুয়ুতুস-সুকইয়া, হলো একটি কূপের নাম। এর এবং মদীনার মাঝে দু’ দিনের পথের দূরত্ব।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The water from as-Suqya' was considered sweetest by the Prophet (ﷺ). Qutaybah said: it was a well on two days' journey from Medina
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
+
+## French
+
+Rapporté par Aisha, la mère des croyants رضي الله عنها : L’eau de as-Suqya’ était considérée comme la meilleure par le Prophète ﷺ. Qutaybah a dit : C’était un puits à deux jours de marche de Médine
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Manshur\] dan \[Abdullah bin Muhammad An Nufaili\] dan \[Qutaibah bin Sa'id\] mereka berkata; telah menceritakan kepada kami \[Abdul Aziz bin Muhammad\] dari \[Hisyam\] dari \[Ayahnya\] dari \[Aisyah\] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam diberi air tawar dari mata air Suqya." Qutaibah berkata, "Yaitu mata air yang berjarak dua hari dari Madinah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Manshur] dan [Abdullah bin Muhammad An Nufaili] dan [Qutaibah bin Sa'id] mereka berkata; telah menceritakan kepada kami [Abdul Aziz bin Muhammad] dari [Hisyam] dari [Ayahnya] dari [Aisyah] radliallahu 'anhuma, bahwa Nabi shallallahu 'alaihi wasallam diberi air tawar dari mata air Suqya." Qutaibah berkata, "Yaitu mata air yang berjarak dua hari dari Madinah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Аиши, да будет доволен ею Аллах, что Пророку ﷺ (иногда) привозили хорошую воду из Буйут-ас-Сукйа. По словам Кутайбы, речь идёт об источнике, который находился в двух днях пути от Медины
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan rivayet olunduğuna göre; Nebi (s.a.v.)'e "Buyûtü's-Sükyâ" denilen pınardan tatlı su getirilmiş. Kuteybe dedi ki: "Buyûtü's-Sukyâ bir pınardır, Medine ile arasında iki gün(lük mesafe) vardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے لیے سقیا کے گھروں سے میٹھا پانی لایا جاتا۔ قتیبہ کہتے ہیں: سقیا ایک چشمہ ہے جس کی مسافت مدینہ سے دو دن کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3735</td></tr><tr><td>Arabic No</td><td>3735</td></tr><tr><td>Reference</td><td>Book 27 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3735 |
+| Arabic No | 3735 |
+| Reference | Book 27 Hadith 67 |

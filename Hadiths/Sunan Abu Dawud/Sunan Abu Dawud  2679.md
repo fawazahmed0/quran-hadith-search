@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عِيسَى بْنُ حَمَّادٍ الْمِصْرِيُّ، وَقُتَيْبَةُ، قَالَ قُتَيْبَةُ حَدَّثَنَا اللَّيْثُ بْنُ سَعْدٍ، عَنْ سَعِيدِ بْنِ أَبِي سَعِيدٍ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ بَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم خَيْلاً قِبَلَ نَجْدٍ فَجَاءَتْ بِرَجُلٍ مِنْ بَنِي حَنِيفَةَ يُقَالُ لَهُ ثُمَامَةُ بْنُ أُثَالٍ سَيِّدُ أَهْلِ الْيَمَامَةِ فَرَبَطُوهُ بِسَارِيَةٍ مِنْ سَوَارِي الْمَسْجِدِ فَخَرَجَ إِلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏"‏ مَاذَا عِنْدَكَ يَا ثُمَامَةُ ‏"‏ ‏.‏ قَالَ عِنْدِي يَا مُحَمَّدُ خَيْرٌ إِنْ تَقْتُلْ تَقْتُلْ ذَا دَمٍ وَإِنْ تُنْعِمْ تُنْعِمْ عَلَى شَاكِرٍ وَإِنْ كُنْتَ تُرِيدُ الْمَالَ فَسَلْ تُعْطَ مِنْهُ مَا شِئْتَ ‏.‏ فَتَرَكَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم حَتَّى إِذَا كَانَ الْغَدُ ثُمَّ قَالَ لَهُ ‏"‏ مَا عِنْدَكَ يَا ثُمَامَةُ ‏"‏ ‏.‏ فَأَعَادَ مِثْلَ هَذَا الْكَلاَمِ فَتَرَكَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم حَتَّى كَانَ بَعْدَ الْغَدِ فَذَكَرَ مِثْلَ هَذَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَطْلِقُوا ثُمَامَةَ ‏"‏ ‏.‏ فَانْطَلَقَ إِلَى نَخْلٍ قَرِيبٍ مِنَ الْمَسْجِدِ فَاغْتَسَلَ فِيهِ ثُمَّ دَخَلَ الْمَسْجِدَ فَقَالَ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ ‏.‏ وَسَاقَ الْحَدِيثَ ‏.‏ قَالَ عِيسَى أَخْبَرَنَا اللَّيْثُ وَقَالَ ذَا ذِمٍّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
+
 حدثنا عيسى بن حماد المصري، وقتيبة، قال قتيبة حدثنا الليث بن سعد، عن سعيد بن ابي سعيد، انه سمع ابا هريرة، يقول بعث رسول الله صلى الله عليه وسلم خيلا قبل نجد فجاءت برجل من بني حنيفة يقال له ثمامة بن اثال سيد اهل اليمامة فربطوه بسارية من سواري المسجد فخرج اليه رسول الله صلى الله عليه وسلم فقال " ماذا عندك يا ثمامة " . قال عندي يا محمد خير ان تقتل تقتل ذا دم وان تنعم تنعم على شاكر وان كنت تريد المال فسل تعط منه ما شيت . فتركه رسول الله صلى الله عليه وسلم حتى اذا كان الغد ثم قال له " ما عندك يا ثمامة " . فاعاد مثل هذا الكلام فتركه رسول الله صلى الله عليه وسلم حتى كان بعد الغد فذكر مثل هذا فقال رسول الله صلى الله عليه وسلم " اطلقوا ثمامة " . فانطلق الى نخل قريب من المسجد فاغتسل فيه ثم دخل المسجد فقال اشهد ان لا اله الا الله واشهد ان محمدا عبده ورسوله . وساق الحديث . قال عيسى اخبرنا الليث وقال ذا ذم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাজদ এলাকায় অশ্বারোহী কাফেলা পাঠালেন। তারা বনী হানীফাহ গোত্রের সুমামাহ ইবনু ইসাল নামক এক ব্যক্তিকে ধরে নিয়ে এলো। সে ইয়ামেনবাসীদের নেতা ছিলো। লোকটিকে মসজিদে নাববীর একটি খুঁটিতে বেঁধে রাখা হলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার কাছে এসে বললেনঃ হে সুমামাহ! তোমার নিকট কি আছে? সে বললো, হে মুহাম্মাদ! আমার কাছে কল্যাণ আছে? আপনি আমাকে হত্যা করলে এমন এক ব্যক্তিকে হত্যা করলেন যার রক্তের প্রতিশোধ নেয়া হবে। আর আপনি যদি অনুগ্রহ করেন, তাহলে একজন সম্মানী লোককে অনুগ্রহ করলেন। আপনি সম্পদের আশা করলে যত ইচ্ছে চাইতে পারেন দেয়া হবে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চলে গেলেন। পরবর্তী সকাল বেলায় তিনি জিজ্ঞেস করলেনঃ হে সুমামাহ! তুমি তোমার সাথে কেমন আচরণের প্রত্যাশা করো? সে আগের মতই জবাব দিলো। এরপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চলে গেলেন। তৃতীয় দিনের সকাল বেলায়ও সে একই জবাব দিলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সুমামাহকে ছেড়ে দাও। সে মসজিদের নিকটস্থ খেজুর বাগানে ঢুকে (কূপের পানিতে) গোসল করে মসজিদে এসে বললো, আমি সাক্ষ্য দিচ্ছি, আল্লাহ ছাড়া কোনো ইলাহ নেই, আমি আরো সাক্ষ্য দিচ্ছি, মুহাম্মাদ তাঁর বান্দা ও রাসূল। বর্ণনাকারী ঈসা বলেন, লাইস আমাদের জানিয়েছেন, সুমামাহ বললো, আপনি আমাকে হত্যা করলে একজন অপরাধীকেই হত্যা করলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah said “ The Apostle of Allaah(ﷺ) sent some horsemen to Najd and they brought a man of the Banu Hanifah called Thumamah bint Uthal who was the chief of the people of Al Yamamah and bound him to one of the pillars of the mosque. The Apostle of Allaah(ﷺ) came out to him and said “What are you expecting, Thumamah?”. He replied “I expect good, Muhammad. If you kill (me), you will kill one whose blood will be avenged, if you show favor, you will show it to one who is grateful and if you want property and ask you will be given as much of it as you wish. The Apostle of Allaah(ﷺ) left him till the following day and asked him ”What are you expecting, Thumamah?” He repeated the same words (in reply). The Apostle of Allaah(ﷺ)left him till the day after the following one and he mentioned the same words. The Apostle of Allaah(ﷺ) then said “Set Thumamah free.” He went off to some palm trees near the mosque. He took a bath there and entered the mosque and said “I testify that there is no god but Allaah and I testify that Muhammd is His servant and His apostle. He then narrated the rest of the tradition. The narrator ‘Isa said “Al Laith narrated to us”. He said “a man of respect and reverence.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté cela du Messager d’Allah ﷺ : Le Messager d’Allah ﷺ envoya des cavaliers vers Najd, et ils ramenèrent un homme des Banu Hanifah appelé Thumamah ibn Uthal, qui était le chef du peuple d’Al Yamamah, et ils l’attachèrent à l’un des piliers de la mosquée. Le Messager d’Allah ﷺ vint le voir et lui dit : « Qu’attends-tu, Thumamah ? » Il répondit : « J’attends le bien, Muhammad. Si tu me tues, tu tueras quelqu’un dont le sang sera vengé ; si tu fais preuve de clémence, tu le feras envers quelqu’un qui saura être reconnaissant ; et si tu veux des biens et que tu demandes, tu recevras tout ce que tu voudras. » Le Messager d’Allah ﷺ le laissa jusqu’au lendemain et lui demanda : « Qu’attends-tu, Thumamah ? » Il répéta la même réponse. Le Prophète ﷺ le laissa encore un jour, et il répondit de la même manière. Le Messager d’Allah ﷺ dit alors : « Libérez Thumamah. » Il partit vers des palmiers près de la mosquée, s’y lava, puis entra dans la mosquée et dit : « J’atteste qu’il n’y a de dieu qu’Allah et j’atteste que Muhammad est Son serviteur et Son Messager. » Il raconta ensuite la suite de l’histoire. Le narrateur ‘Isa a dit : « Al Laith nous a rapporté cela. » Il a dit : « C’était un homme respecté et estimé. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Isa bin Hammad Al Mishri\], dan \[Qutaibah\], Qutaibah berkata; telah menceritakan kepada kami \[Al Laits bin Sa'd\] dari \[Sa'id bin Abu Sa'id\] bahwa ia mendengar \[Abu Hurairah\] berkata; Rasulullah shallallahu 'alaihi wasallam mengirimkan pasukan penunggang kuda menuju Najd, kemudian pasukan tersebut membawa seorang laki-laki dari Bani Hanifah yang bernama Tsumamah bin Utsal pemimpin penduduk Yamamah. Kemudian mereka mengikatnya pada sebuah tiang masjid, kemudian Rasulullah shallallahu 'alaihi wasallam keluar kepadanya. Lalu beliau berkata: "Bagaimana keadaanmu wahai Tsumamah?" Ia berkata; keadaanku baik wahai Muhammad. Apabila engkau membunuh maka engkau membunuh orang yang memiliki darah, dan apabila engkau memberi kenikmatan maka engkau memberi kenikmatan kepada orang yang akan berterima kasih. Dan apabila engkau menghendaki harta, mintalah maka engkau akan diber apa yang engkau kehendaki. Kemudian Rasulullah shallallahu 'alaihi wasallam meninggalkannya. Kemudian keesokan harinya beliau berkata: "Bagaimana keadaanmu wahai Tsumamah?" kemudian ia mengulangi seperti perkataan ini. Lalu beliau meninggalkannya. Kemudian keesokan harinya, lalu beliau menyebutkan seperti ini. Lalu beliau berkata: "Lepaskan Tsumamah!" Kemudian ia pergi ke sebuah pohon kurma dekat masjid, lalu ia mandi padanya kemudian memasuki masjid dan berkata; aku bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan aku bersaksi bahwa Muhammad adalah hamba dan utusanNya. Dan Abu Hurairah menyebutkan hadits tersebut. Isa berkata; telah mengabarkan kepada kami \[Al Laits\] dan ia mengatakan; orang yang memiliki celaan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Isa bin Hammad Al Mishri], dan [Qutaibah], Qutaibah berkata; telah menceritakan kepada kami [Al Laits bin Sa'd] dari [Sa'id bin Abu Sa'id] bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam mengirimkan pasukan penunggang kuda menuju Najd, kemudian pasukan tersebut membawa seorang laki-laki dari Bani Hanifah yang bernama Tsumamah bin Utsal pemimpin penduduk Yamamah. Kemudian mereka mengikatnya pada sebuah tiang masjid, kemudian Rasulullah shallallahu 'alaihi wasallam keluar kepadanya. Lalu beliau berkata: "Bagaimana keadaanmu wahai Tsumamah?" Ia berkata; keadaanku baik wahai Muhammad. Apabila engkau membunuh maka engkau membunuh orang yang memiliki darah, dan apabila engkau memberi kenikmatan maka engkau memberi kenikmatan kepada orang yang akan berterima kasih. Dan apabila engkau menghendaki harta, mintalah maka engkau akan diber apa yang engkau kehendaki. Kemudian Rasulullah shallallahu 'alaihi wasallam meninggalkannya. Kemudian keesokan harinya beliau berkata: "Bagaimana keadaanmu wahai Tsumamah?" kemudian ia mengulangi seperti perkataan ini. Lalu beliau meninggalkannya. Kemudian keesokan harinya, lalu beliau menyebutkan seperti ini. Lalu beliau berkata: "Lepaskan Tsumamah!" Kemudian ia pergi ke sebuah pohon kurma dekat masjid, lalu ia mandi padanya kemudian memasuki masjid dan berkata; aku bersaksi bahwa tidak ada tuhan yang berhak disembah kecuali Allah dan aku bersaksi bahwa Muhammad adalah hamba dan utusanNya. Dan Abu Hurairah menyebutkan hadits tersebut. Isa berkata; telah mengabarkan kepada kami [Al Laits] dan ia mengatakan; orang yang memiliki celaan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
 
 ## Turkish
 
+Sâ'id b. Ebi Said'den rivayet olunduğuna göre, Kendisi Ebû Hureyre'yi (şöyle) derken işitmiş; Rasûlullah (s.a.v.) Necid taraflarına bir süvari birliği gönderdi. (Bu birlik) Hanife oğullarından olan ve Semâme b. Usal diye anılan Yemâme halkının başkanını (yakalayıp) getirdi. O'nu mescid'in direklerinden birine bağladılar. Rasûlullah (s.a.v.) o'nun karşısına geçti ve; "Ey Sümame içinde taşıdığın (gerçek düşünce) nedir?" dedi. Ey Muhammed içimdeki hayırdır. Eğer öldürürsen kan sahibi birini öldürmüş olursun. Eğer bir iyilikte bulunursan (iyiliğe) şükreden bir kimseye iyilik etmiş olursun. Eğer mal istiyorsan. îşte ondan sana istediğin kadar verilir. Cevabını verdi. Bunun üzerine Rasûlullah (s.a.v.) onu öylece bıraktı. Ertesi gün olunca (Hz. Peygamber) ona; “Ey Sümame içinde taşıdığın nedir?" diye (tekrar) sordu. O da sözün aynısını tekrarladı. Rasûhıllah (s.a.v.) onu tekrar bırakıp gitti, ertesi gün olunca (burada ravi daha önce geçen) şu (yukarıdaki soru ve cevab)ların aynısını anlattı (ve rivayetine şöyle devam etti); Bunun üzerine Rasûlullah (s.a.v.): "Sümame'yi serbest bırakınız" dedi (Serbest bırakılan Sümame) Mescid'e yakın bir hurmalığa gitti. Orada yıkandı sonra mescid'e girip; "Eşhedü en lâ ilahe illallah ve eşhedü enne Muhammeden abduhu ve rasûluhu" diyerek şehadet getirdi. (Bu) hadisi (bu şekliyle Kuteybe) rivayet etti. İsa (bu hadisdeki -Eğer öldürürsen kan sahibi birini öldürmüş olursun- cümlesindeki "kan sahibi'\* lafzını); Bize el-Leys\*in haber verdiğine göre, (Sümame Hz. Peygambere;) Eğer öldürürsen söz sahibi birini (öldürmüş olursun) cevâbını vermiştir, diye rivayet etti
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sâ'id b. Ebi Said'den rivayet olunduğuna göre, Kendisi Ebû Hureyre'yi (şöyle) derken işitmiş; Rasûlullah (s.a.v.) Necid taraflarına bir süvari birliği gönderdi. (Bu birlik) Hanife oğullarından olan ve Semâme b. Usal diye anılan Yemâme halkının başkanını (yakalayıp) getirdi. O'nu mescid'in direklerinden birine bağladılar. Rasûlullah (s.a.v.) o'nun karşısına geçti ve; "Ey Sümame içinde taşıdığın (gerçek düşünce) nedir?" dedi. Ey Muhammed içimdeki hayırdır. Eğer öldürürsen kan sahibi birini öldürmüş olursun. Eğer bir iyilikte bulunursan (iyiliğe) şükreden bir kimseye iyilik etmiş olursun. Eğer mal istiyorsan. îşte ondan sana istediğin kadar verilir. Cevabını verdi. Bunun üzerine Rasûlullah (s.a.v.) onu öylece bıraktı. Ertesi gün olunca (Hz. Peygamber) ona; “Ey Sümame içinde taşıdığın nedir?" diye (tekrar) sordu. O da sözün aynısını tekrarladı. Rasûhıllah (s.a.v.) onu tekrar bırakıp gitti, ertesi gün olunca (burada ravi daha önce geçen) şu (yukarıdaki soru ve cevab)ların aynısını anlattı (ve rivayetine şöyle devam etti); Bunun üzerine Rasûlullah (s.a.v.): "Sümame'yi serbest bırakınız" dedi (Serbest bırakılan Sümame) Mescid'e yakın bir hurmalığa gitti. Orada yıkandı sonra mescid'e girip; "Eşhedü en lâ ilahe illallah ve eşhedü enne Muhammeden abduhu ve rasûluhu" diyerek şehadet getirdi. (Bu) hadisi (bu şekliyle Kuteybe) rivayet etti. İsa (bu hadisdeki -Eğer öldürürsen kan sahibi birini öldürmüş olursun- cümlesindeki "kan sahibi'* lafzını); Bize el-Leys*in haber verdiğine göre, (Sümame Hz. Peygambere;) Eğer öldürürsen söz sahibi birini (öldürmüş olursun) cevâbını vermiştir, diye rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے کچھ سواروں کو نجد کی جانب بھیجا وہ قبیلہ بنی حنیفہ کے ثمامہ بن اثال نامی آدمی کو گرفتار کر کے لائے، وہ اہل یمامہ کے سردار تھے، ان کو مسجد کے ایک کھمبے سے باندھ دیا، رسول اللہ صلی اللہ علیہ وسلم ان کے پاس گئے اور پوچھا: ثمامہ! تمہارے پاس کیا ہے؟ کہا: اے محمد! میرے پاس خیر ہے، اگر آپ مجھے قتل کریں گے تو ایک مستحق شخص کو قتل کریں گے، اور اگر احسان کریں گے، تو ایک قدرداں پر احسان کریں گے، اور اگر آپ مال چاہتے ہیں تو کہئے جتنا چاہیں گے دیا جائے گا، رسول اللہ صلی اللہ علیہ وسلم انہیں چھوڑ کر واپس آ گئے، یہاں تک کہ جب دوسرا دن ہوا تو پھر آپ صلی اللہ علیہ وسلم نے ان سے پوچھا: ثمامہ تمہارے پاس کیا ہے؟ تو انہوں نے پھر اپنی وہی بات دہرائی، آپ صلی اللہ علیہ وسلم نے پھر انہیں یوں ہی چھوڑ دیا، پھر جب تیسرا دن ہوا تو پھر وہی بات ہوئی، پھر رسول اللہ صلی اللہ علیہ وسلم نے حکم دیا کہ ثمامہ کو آزاد کر دو، چنانچہ وہ مسجد کے قریب ایک باغ میں گئے، غسل کیا، پھر مسجد میں داخل ہوئے اور «أشهد أن لا إله إلا الله وأشهد أن محمدًا عبده ورسوله» پڑھ کر اسلام میں داخل ہو گئے، پھر راوی نے پوری حدیث بیان کیا۔ عیسیٰ کہتے ہیں: مجھ سے لیث نے «ذَاْ دَمٍ» کے بجائے «ذَا ذِمٍّ» ( یعنی ایک عزت دار کو قتل کرو گے ) روایت کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (469) Sahih Muslim (1764)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2679</td></tr><tr><td>Arabic No</td><td>2679</td></tr><tr><td>Reference</td><td>Book 15 Hadith 203</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (469) Sahih Muslim (1764) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2679 |
+| Arabic No | 2679 |
+| Reference | Book 15 Hadith 203 |

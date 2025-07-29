@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَحَسَنُ بْنُ الرَّبِيعِ، وَأَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ قَالَ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرَانِ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سِمَاكٍ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ كَانَتْ لِلنَّبِيِّ صلى الله عليه وسلم خُطْبَتَانِ يَجْلِسُ بَيْنَهُمَا يَقْرَأُ الْقُرْآنَ وَيُذَكِّرُ النَّاسَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا يحيى بن يحيى، وحسن بن الربيع، وابو بكر بن ابي شيبة قال يحيى اخبرنا وقال الاخران، حدثنا ابو الاحوص، عن سماك، عن جابر بن سمرة، قال كانت للنبي صلى الله عليه وسلم خطبتان يجلس بينهما يقرا القران ويذكر الناس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## Bengali
 
+ইয়াহইয়া ইবনু ইয়াহইয়া, হাসান ইবনুর রাবী' ও আবূ বকর ইবনু আবূ শায়বাহ (রহঃ) .... জাবির ইবনু সামুরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুটি খুতবাহ দিতেন, উভয় খুতবার মাঝখানে বসতেন এবং (খুতবায়) কুরআন পড়তেন এবং জনগণকে উপদেশ দিতেন\*। (ইসলামী ফাউন্ডেশন ১৮৬৫, ইসলামীক সেন্টার)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইয়াহইয়া ইবনু ইয়াহইয়া, হাসান ইবনুর রাবী' ও আবূ বকর ইবনু আবূ শায়বাহ (রহঃ) .... জাবির ইবনু সামুরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুটি খুতবাহ দিতেন, উভয় খুতবার মাঝখানে বসতেন এবং (খুতবায়) কুরআন পড়তেন এবং জনগণকে উপদেশ দিতেন*। (ইসলামী ফাউন্ডেশন ১৮৬৫, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. Samura said:The Apostle of Allah (ﷺ) gave two sermons between which he sat, recited the Qur'an and exhorted the people
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## French
 
+Rapporté par Jabir ibn Samura رضي الله عنه : Le Messager d’Allah ﷺ faisait deux sermons entre lesquels il s’asseyait, récitait le Coran et exhortait les gens
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## Indonesian
 
+Dan Telah menceritakan kepada kami \[Yahya bin Yahya\] dan \[Hasan bin Rabi'\] dan \[Abu Bakar bin Abu Syaibah\] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami \[Abul Ahwash\] dari \[Simak\] dari \[Jabir bin Samurah\] ia berkata; "Nabi shallallahu 'alaihi wasallam melakukan khutbah Jum'at dua kali, di mana beliau duduk di antara keduanya. Dalam khutbahnya beliau membaca Al Qur'an dan memberi peringatan kepada jama'ah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan Telah menceritakan kepada kami [Yahya bin Yahya] dan [Hasan bin Rabi'] dan [Abu Bakar bin Abu Syaibah] -Yahya berkata- telah mengabarkan kepada kami -sementara dua orang yang lain berkata- telah menceritakan kepada kami [Abul Ahwash] dari [Simak] dari [Jabir bin Samurah] ia berkata; "Nabi shallallahu 'alaihi wasallam melakukan khutbah Jum'at dua kali, di mana beliau duduk di antara keduanya. Dalam khutbahnya beliau membaca Al Qur'an dan memberi peringatan kepada jama'ah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Джабир ибн Самура сказал: «Пророк ﷺ произносил две проповеди, (в перерыве) между которыми он садился. (Во время проповедей) он читал Коран и напоминал людям (о предписаниях религии)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya ile Hasanu'bnü'r-Rabî' ve Ebû Bekir b. Ebî Şeybe rivâyet ettiler. Yahya (Bize haber verdi.) tâbirini kullandı. Ötekiler: Bize Ebû'I-Ahvas, Simâk'den, o da Câbir b. Semura'dan naklen rivayet etti. dediler. Câbir : «Nebi (Sallallahu Aleyhi Sellem)'in iki hutbesi vardı. Aralarında oturur; Kur'ân okur ve cemaata hatırlatma yapardı.» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو احوص نے سماک سے اور انھوں نے حضرت جابر بن سمرۃ رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا : نبی کریم صلی اللہ علیہ وسلم کے دو خطبے ہوتے تھے جن کے درمیان آپ بیٹھتے تھے ۔ آپ قرآن پڑھتے اور لوگوں کو نصیحت اور تذکیر فرماتے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1995</td></tr><tr><td>Arabic No</td><td>862.01</td></tr><tr><td>Reference</td><td>Book 7 Hadith 45</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1995 |
+| Arabic No | 862.01 |
+| Reference | Book 7 Hadith 45 |

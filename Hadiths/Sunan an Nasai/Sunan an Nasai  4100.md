@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي مَالِكٌ، وَعَبْدُ اللَّهِ بْنُ عُمَرَ، وَأُسَامَةُ بْنُ زَيْدٍ، وَيُونُسُ بْنُ يَزِيدَ، أَنَّ نَافِعًا، أَخْبَرَهُمْ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ حَمَلَ عَلَيْنَا السِّلاَحَ فَلَيْسَ مِنَّا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 37 Hadith 135</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |
+
 اخبرنا احمد بن عمرو بن السرح، قال انبانا ابن وهب، قال اخبرني مالك، وعبد الله بن عمر، واسامة بن زيد، ويونس بن يزيد، ان نافعا، اخبرهم عن عبد الله بن عمر، ان النبي صلى الله عليه وسلم قال " من حمل علينا السلاح فليس منا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 37 Hadith 135</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমদ ইবন আমর ইবন সারহ (রহঃ) ... আবদুল্লাহ্ ইবন উমর (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে আমাদের উপর অস্ত্র চালায়, সে আমাদের দলভুক্ত নয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 37 Hadith 135</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |
 
 ## English
 
+It was narrated from 'Abdullah bin 'Umar that :The Prophet \[SAW\] said: "Whoever bears weapons against us, he is not one of us
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Abdullah bin 'Umar that :The Prophet [SAW] said: "Whoever bears weapons against us, he is not one of us
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 37 Hadith 135</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Umar : Le Prophète ﷺ a dit : "Celui qui porte des armes contre nous n’est pas des nôtres
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin 'Amr bin As Sarh\], ia berkata; telah memberitakan kepada kami \[Ibnu Wahb\], ia berkata; telah memberitakan kepadaku \[Malik\] dan \[Abdullah bin Umar\], \[Usamah bin Zaid\], dan \[Yunus bin Yazid\] bahwa \[Nafi'\] telah mengabarkan kepada mereka dari \[Abdullah bin Umar\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mengarahkan senjata kepada kami maka ia bukan dari golongan kami
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin 'Amr bin As Sarh], ia berkata; telah memberitakan kepada kami [Ibnu Wahb], ia berkata; telah memberitakan kepadaku [Malik] dan [Abdullah bin Umar], [Usamah bin Zaid], dan [Yunus bin Yazid] bahwa [Nafi'] telah mengabarkan kepada mereka dari [Abdullah bin Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mengarahkan senjata kepada kami maka ia bukan dari golongan kami
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 37 Hadith 135</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 37 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4100</td></tr><tr><td>Arabic No</td><td>4100</td></tr><tr><td>Reference</td><td>Book 37 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4100 |
+| Arabic No | 4100 |
+| Reference | Book 37 Hadith 135 |

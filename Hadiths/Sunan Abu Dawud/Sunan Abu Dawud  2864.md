@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، وَابْنُ أَبِي خَلَفٍ، قَالاَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، قَالَ مَرِضَ مَرَضًا - قَالَ ابْنُ أَبِي خَلَفٍ - بِمَكَّةَ - ثُمَّ اتَّفَقَا - أَشْفَى فِيهِ فَعَادَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ إِنَّ لِي مَالاً كَثِيرًا وَلَيْسَ يَرِثُنِي إِلاَّ ابْنَتِي أَفَأَتَصَدَّقُ بِالثُّلُثَيْنِ قَالَ ‏"‏ لاَ ‏"‏ ‏.‏ قَالَ فَبِالشَّطْرِ قَالَ ‏"‏ لاَ ‏"‏ ‏.‏ قَالَ فَبِالثُّلُثِ قَالَ ‏"‏ الثُّلُثُ وَالثُّلُثُ كَثِيرٌ إِنَّكَ أَنْ تَتْرُكَ وَرَثَتَكَ أَغْنِيَاءَ خَيْرٌ مِنْ أَنْ تَدَعَهُمْ عَالَةً يَتَكَفَّفُونَ النَّاسَ وَإِنَّكَ لَنْ تُنْفِقَ نَفَقَةً إِلاَّ أُجِرْتَ بِهَا حَتَّى اللُّقْمَةَ تَرْفَعُهَا إِلَى فِي امْرَأَتِكَ ‏"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ أَتَخَلَّفُ عَنْ هِجْرَتِي قَالَ ‏"‏ إِنَّكَ إِنْ تُخَلَّفْ بَعْدِي فَتَعْمَلْ عَمَلاً صَالِحًا تُرِيدُ بِهِ وَجْهَ اللَّهِ لاَ تَزْدَادُ بِهِ إِلاَّ رِفْعَةً وَدَرَجَةً لَعَلَّكَ أَنْ تُخَلَّفَ حَتَّى يَنْتَفِعَ بِكَ أَقْوَامٌ وَيُضَرَّ بِكَ آخَرُونَ ‏"‏ ‏.‏ ثُمَّ قَالَ ‏"‏ اللَّهُمَّ أَمْضِ لأَصْحَابِي هِجْرَتَهُمْ وَلاَ تَرُدَّهُمْ عَلَى أَعْقَابِهِمْ لَكِنِ الْبَائِسُ سَعْدُ ابْنُ خَوْلَةَ يَرْثِي لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ مَاتَ بِمَكَّةَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
+
 حدثنا عثمان بن ابي شيبة، وابن ابي خلف، قالا حدثنا سفيان، عن الزهري، عن عامر بن سعد، عن ابيه، قال مرض مرضا - قال ابن ابي خلف - بمكة - ثم اتفقا - اشفى فيه فعاده رسول الله صلى الله عليه وسلم فقال يا رسول الله ان لي مالا كثيرا وليس يرثني الا ابنتي افاتصدق بالثلثين قال " لا " . قال فبالشطر قال " لا " . قال فبالثلث قال " الثلث والثلث كثير انك ان تترك ورثتك اغنياء خير من ان تدعهم عالة يتكففون الناس وانك لن تنفق نفقة الا اجرت بها حتى اللقمة ترفعها الى في امراتك " . قلت يا رسول الله اتخلف عن هجرتي قال " انك ان تخلف بعدي فتعمل عملا صالحا تريد به وجه الله لا تزداد به الا رفعة ودرجة لعلك ان تخلف حتى ينتفع بك اقوام ويضر بك اخرون " . ثم قال " اللهم امض لاصحابي هجرتهم ولا تردهم على اعقابهم لكن البايس سعد ابن خولة يرثي له رسول الله صلى الله عليه وسلم ان مات بمكة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আমির ইবনু সা‘দ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা (সা‘দ) একবার কঠিন রোগে আক্রান্ত হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে দেখতে আসলেন। তিনি বলেন, হে আল্লাহর রাসূল! আমার প্রচুর সম্পদ আছে। একটি কন্যা সন্তান ছাড়া আমার কোনো ওয়ারিস নেই। কাজেই দু’-তৃতীয়াংশ সম্পদ সাদাকাহ করবো কি? তিনি বললেনঃ না। তিনি আবার জিজ্ঞেস করেন, অর্ধেক সম্পদ? তিনি বললেনঃ না। তিনি আবার জিজ্ঞেস করেন, এক-তৃতীয়াংশ। তিনি বললেনঃ হ্যাঁ। তিন ভাগের এক ভাগ ওসিয়াত করতে পারো। তবে এটাও বেশি হয়ে যাচ্ছে। তোমার ওয়ারিসরা অন্যের নিকট ভিক্ষা চাইবে- তাদেরকে এমন দুঃস্থ অবস্থায় রেখে যাওয়ার চেয়ে সচ্ছল অবস্থায় রেখে যাওয়া অনেক উত্তম। তুমি তাদের জন্য যা খরচ করবে, তোমাকে তার প্রতিদান দেয়া হবে। এমন কি তুমি তোমার স্ত্রীর মুখে যে খাবারের লোকমা তুলে দাও তারও প্রতিদান পাবে। আমি বললাম, হে আল্লাহর রাসূল! আমি কি আমার হিজরাতের নেকী থেকে পরিত্যক্ত হবো? তিনি বললেনঃ আমার হিজরাতের পর তুমি যদি (মক্কাতে) থেকে যাও এবং আমার অনুপস্থিতিতেও আল্লাহর সন্তুষ্টি অর্জনের জন্য নেক আমল অব্যাহত রাখো তাহলে তোমার মর্যাদা বৃদ্ধি পাবে। আমি আশা করি তুমি বেঁচে থাকবে এবং একদল তোমার দ্বারা উপকৃত হবে, আর অন্যদল তোমার দ্বারা ক্ষতিগ্রস্ত হবে। অতঃপর তিনি এ দু‘আ করলেনঃ ‘‘হে আল্লাহ! আমার সাহাবীদের হিজরাত পরিপূর্ণ করুন; তাদেরকে হিজরাতের পূর্বাবস্থায় ফিরিয়ে দিবেন না।’’ কিন্তু নিঃস্ব সাঈদ ইবনু খাওলাহ (রাঃ) মক্কায় মারা যান। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে স্মরণ করে অনুশোচনা করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Amir b. Sa'd:On the authority of his father (Sa'd b. Abi Waqqas): When he (Sa'd) fell ill at Mecca (according to the version of Ibn Abi Kkalaf) - then the agreed version has: which brought him near to death - the Messenger of Allah (ﷺ) went to visit him. He said: Messenger of Allah, I have a large amount of property, and my daughter is my only heir. May I give two-thirds (of my property) as a sadaqah (charity)? He said: No. He asked: Then a half ? He replied: No. He asked: Then one-third ? He replied: (You may will away) a third and third is a lot. To leave your heirs rich is better than to leave them poor begging from people. You will not spend anything, seeking thereby to please Allah, without being rewarded for it, even the mouthful you give your wife. I said: Messenger of Allah, shall I be left behind form immigration (to Medina)? He said: If you remain behind after me and do good works seeking the pleasure of Allah, your rank will be raised and degree increased. Perhaps you will not remain behind, and some people will benefit from you and others will be harmed by you. He then said: O Allah, complete the immigration of my Companions and do not turn them back. But miserable was Sa'd b. Khawlah. The Messenger of Allah (ﷺ) lamented on him as he died at Mecca
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
+
+## French
+
+Rapporté par ‘Amir ibn Sa’d, d’après son père (Sa’d ibn Abi Waqqas) : Lorsqu’il (Sa’d) est tombé malade à La Mecque (selon la version d’Ibn Abi Khalaf) – puis la version commune précise : une maladie qui l’a rapproché de la mort – le Messager d’Allah ﷺ est venu lui rendre visite. Il a dit : « Messager d’Allah, j’ai beaucoup de biens et ma fille est mon unique héritière. Puis-je donner les deux tiers de mes biens en aumône ? » Il a répondu : « Non. » Il a demandé : « Alors la moitié ? » Il a répondu : « Non. » Il a demandé : « Alors le tiers ? » Il a répondu : « (Que tu lègues) un tiers, et un tiers c’est déjà beaucoup. Laisser tes héritiers riches vaut mieux que de les laisser pauvres à mendier auprès des gens. Tu ne dépenseras rien pour plaire à Allah sans en être récompensé, même la bouchée que tu donnes à ta femme. » J’ai dit : « Messager d’Allah, vais-je être laissé en arrière pour l’émigration (vers Médine) ? » Il a dit : « Si tu restes après moi et fais de bonnes œuvres pour plaire à Allah, ton rang sera élevé et ton degré augmenté. Peut-être ne resteras-tu pas, et certains profiteront de toi tandis que d’autres seront affectés par toi. » Puis il a dit : « Ô Allah, complète l’émigration de mes compagnons et ne les fais pas revenir en arrière. » Mais Sa’d ibn Khawlah a été malheureux. Le Messager d’Allah ﷺ s’est attristé pour lui car il est mort à La Mecque
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah?\], serta \[Ibnu Abu Khalaf\], mereka berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\], dari \[Amir bin Sa'd\], dari \[ayahnya\], ia berkata; Sa'd terkena suatu penyakit, Ibnu Abu Khalaf berkata; di Mekkah. Kemudian lafazh mereka sama; hampir meninggal karena penyakit tersebut, kemudian Rasulullah shallallahu 'alaihi wasallam menjenguknya, lalu ia berkata; wahai Rasulullah, sesungguhnya saya memiliki harta yang banyak, dan tidak ada yang mewarisiku selain anak perempuanku, apakah aku boleh bersedekah dengan dua pertiga? Beliau bersabda: "Tidak." Ia berkata; setengah? Beliau bersabda: "Tidak." Ia berkata; sepertiga? Beliau bersabda: "Ya, sepertiga. Dan sepertiga adalah banyak. Sesungguhnya engkau meninggalkan para pewarismu dalam keadaan kaya adalah lebih baik daripada engkau meninggalkan mereka dalam keadaan kekurangan, mereka meminta-minta kepada manusia. Dan sesungguhnya tidaklah engkau berinfak dengan suatu nafkah melainkan engkau diberi pahala karenanya, hingga suapan yang engkau berikan kepada isterimu." Aku katakan; wahai Rasulullah, apakah aku akan tinggal di Mekkah? Beliau berkata: "Sesungguhnya seandainya engkau tertinggal setelahku kemudian engkau beramal shalih dengan mengharapkan wajah Allah niscaya engkau pasti akan bertambah tinggi derajatmu, kemungkinan engkau akan berumur panjang hingga orang-orang mengambil manfaat dengan keberadaanmu, dan orang yang lain akan mendapatkan madharat." Kemudian beliau berkata kepada para sahabatnya: "Ya Allah, sempurnakanlah hijrah para sahabatku, dan jangan Engkau kembalikan mereka kepada kekafiran, akan tetapi Sa'd bin Khaulah akan meninggal di Mekkah." Beliau merasa kasihan terhadapnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], serta [Ibnu Abu Khalaf], mereka berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri], dari [Amir bin Sa'd], dari [ayahnya], ia berkata; Sa'd terkena suatu penyakit, Ibnu Abu Khalaf berkata; di Mekkah. Kemudian lafazh mereka sama; hampir meninggal karena penyakit tersebut, kemudian Rasulullah shallallahu 'alaihi wasallam menjenguknya, lalu ia berkata; wahai Rasulullah, sesungguhnya saya memiliki harta yang banyak, dan tidak ada yang mewarisiku selain anak perempuanku, apakah aku boleh bersedekah dengan dua pertiga? Beliau bersabda: "Tidak." Ia berkata; setengah? Beliau bersabda: "Tidak." Ia berkata; sepertiga? Beliau bersabda: "Ya, sepertiga. Dan sepertiga adalah banyak. Sesungguhnya engkau meninggalkan para pewarismu dalam keadaan kaya adalah lebih baik daripada engkau meninggalkan mereka dalam keadaan kekurangan, mereka meminta-minta kepada manusia. Dan sesungguhnya tidaklah engkau berinfak dengan suatu nafkah melainkan engkau diberi pahala karenanya, hingga suapan yang engkau berikan kepada isterimu." Aku katakan; wahai Rasulullah, apakah aku akan tinggal di Mekkah? Beliau berkata: "Sesungguhnya seandainya engkau tertinggal setelahku kemudian engkau beramal shalih dengan mengharapkan wajah Allah niscaya engkau pasti akan bertambah tinggi derajatmu, kemungkinan engkau akan berumur panjang hingga orang-orang mengambil manfaat dengan keberadaanmu, dan orang yang lain akan mendapatkan madharat." Kemudian beliau berkata kepada para sahabatnya: "Ya Allah, sempurnakanlah hijrah para sahabatku, dan jangan Engkau kembalikan mereka kepada kekafiran, akan tetapi Sa'd bin Khaulah akan meninggal di Mekkah." Beliau merasa kasihan terhadapnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Амир ибн Са‘д передаёт от своего отца, что тот заболел в Мекке и был близок к смерти, Посланник Аллаха ﷺ пришёл навестить его. Он сказал: «О Посланник Аллаха, поистине, я богат, и нет у меня наследников, кроме единственной дочери, так не отдать ли мне две трети имущества в качестве милостыни?» (Пророк ﷺ) сказал: «Нет». Он спросил: «А половину?» (Пророк ﷺ) сказал: «Нет». Он спросил: «А треть?» (Пророк ﷺ) сказал: «Треть, но и трети будет много, ведь лучше тебе оставить своих наследников состоятельными, чем нуждающимися и вынужденными просить у людей. Что бы ты ни израсходовал (ради Всевышнего Аллаха), ты непременно получишь за это награду, в том числе и за тот кусочек, который положишь в рот своей жене». (Он передаёт): «Тогда я спросил: “О Посланник Аллаха, неужели меня оставят здесь после моего переселения?” Пророк ﷺ сказал: “Если ты останешься, то какое бы праведное дело ты ни совершил ради Аллаха, оно не добавит тебе ничего, кроме возвышения. Возможно, ты выживешь, чтобы через тебя одни люди получили пользу, а другим был нанесён вред. О Аллах, заверши переселение для моих сподвижников и не вынуждай их отступать! О бедный Са‘д ибн Хауля!” Посланник Аллаха ﷺ выразил сожаление в связи с тем, что этот человек умер в Мекке»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Amir b. Sa'd'ın) babasından demiştir ki: (Birgün ben Sa'd) öyle bir hastalandı(m)ki; neredeyse ölüyordu(m). Derken Rasûlullah (S.A.V.) (ben Sa'd'ı) ziyarete geldi. (Sa'd O'na): "Ey Allah'ın Rasûlü! Benim pek çok malım var fakat bir kızımdan başka bana varis olacak bir kimse yok (malımın) üçte ikisini sadaka olarak dağıtabilir miyim?" dedi(m) (Hz. Peygamber de): "Hayır" cevabını verdi. Bunun üzerine (Sa'd): "Yarısını" (dağıtabilir miyim?) diye sordu. (Hz. Peygamber yine): "Hayır" cevabını verdi. (Bu defa Sa'd): "Üçte birini" (dağıtabilir miyim?) dedi. (Hz. Peygamber): "Üçte bir çoktur. Şüphe yok ki senin varislerini zengin olarak bırakman, onları halka el açar bir halde bırakmandan daha hayırlıdır ve gerçekten infak edeceğin bir yiyecekten dolayı mutlaka mükafat görürsün. Hatta hanımının ağzına vereceğin lokma'dan bile" buyurdu. (Bu defa ben Sa'd) "Ey Allah'ın Rasûlü! Ben (yapmak istediğim) hicretimden geri mi kalacağım?" dedim. (Rasûlullah): "Şüphe yok ki, eğer sen, ben (vefat ettik)den sonra (hayatta) kalıp Allah rızası için çalışırsan, bununla senin mutlaka yüksekliğin ve derecen artmış olur. Hatta (hicretten) geri kalmakla belki de (bazı) insanlar faydalanır, diğer bir kısmı da senden zarar görür" cevabını verdi ve "Allahım! Ashabımın hicretini tamamla, onları topukları üzerinde geri döndürme. Fakat zavallı (olan) Sa'd b. Havle'dir" dedi ve Mekke'de ölmesinden dolayı da Rasûlullah onun hakkında mersiye söyledi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعد بن ابی وقاص رضی اللہ عنہ کہتے ہیں کہ وہ بیمار ہوئے ( ابن ابی خلف کی روایت میں ہے: مکہ میں، آگے دونوں راوی متفق ہیں کہ ) اس بیماری میں وہ مرنے کے قریب پہنچ گئے تو رسول اللہ صلی اللہ علیہ وسلم نے ان کی عیادت فرمائی، تو میں نے کہا: اللہ کے رسول! میں بہت مالدار ہوں اور میری بیٹی کے سوا میرا کوئی وارث نہیں، کیا میں اپنے مال کا دو تہائی صدقہ کر دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں ، پوچھا: کیا آدھا مال صدقہ کر دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں ، پھر پوچھا: تہائی مال خیرات کر دوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: تہائی مال ( دے سکتے ہو ) اور تہائی مال بھی بہت ہے، تمہارا اپنے ورثاء کو مالدار چھوڑنا اس سے بہتر ہے کہ تم انہیں محتاج چھوڑ کر جاؤ وہ لوگوں کے سامنے ہاتھ پھیلاتے پھریں، اور جو چیز بھی تم اللہ کی رضا مندی کے لیے خرچ کرو گے اس کا ثواب تمہیں ملے گا، یہاں تک کہ تم اپنی بیوی کے منہ میں لقمہ اٹھا کر دو گے تو اس کا ثواب بھی پاؤ گے ۱؎، میں نے کہا: اللہ کے رسول! کیا میں ہجرت سے پیچھے رہ جاؤں گا؟ ( یعنی آپ صلی اللہ علیہ وسلم مکہ سے چلے جائیں گے، اور میں اپنی بیماری کی وجہ سے مکہ ہی میں رہ جاؤں گا، جب کہ صحابہ مکہ چھوڑ کر ہجرت کر چکے تھے ) ، آپ صلی اللہ علیہ وسلم نے فرمایا: اگر تم پیچھے رہ گئے، اور میرے بعد میرے غائبانہ میں بھی نیک عمل اللہ کی رضا مندی کے لیے کرتے رہے تو تمہارا درجہ بلند رہے گا، امید ہے کہ تم زندہ رہو گے، یہاں تک کہ تمہاری ذات سے کچھ اقوام کو فائدہ پہنچے گا اور کچھ کو نقصان و تکلیف ۲؎ ، پھر آپ صلی اللہ علیہ وسلم نے دعا فرمائی کہ: اے اللہ! میرے اصحاب کی ہجرت مکمل فرما، اور انہیں ان کے ایڑیوں کے بل پیچھے کی طرف نہ پلٹا ، لیکن بیچارے سعد بن خولہ رضی اللہ عنہ ان کے لیے رسول اللہ صلی اللہ علیہ وسلم رنج و افسوس کا اظہار فرماتے تھے کہ وہ مکہ ہی میں انتقال فرما گئے ۳؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6373) Sahih Muslim (1628)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2864</td></tr><tr><td>Arabic No</td><td>2864</td></tr><tr><td>Reference</td><td>Book 18 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6373) Sahih Muslim (1628) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2864 |
+| Arabic No | 2864 |
+| Reference | Book 18 Hadith 3 |

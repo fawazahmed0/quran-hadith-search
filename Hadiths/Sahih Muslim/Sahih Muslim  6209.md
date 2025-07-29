@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، وَيَحْيَى بْنُ أَيُّوبَ، وَقُتَيْبَةُ، وَابْنُ، حُجْرٍ قَالَ يَحْيَى بْنُ يَحْيَى أَخْبَرَنَا وَقَالَ الآخَرُونَ، حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنُونَ ابْنَ جَعْفَرٍ - عَنْ مُحَمَّدِ بْنِ أَبِي حَرْمَلَةَ، عَنْ عَطَاءٍ، وَسُلَيْمَانَ، ابْنَىْ يَسَارٍ وَأَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ أَنَّ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم مُضْطَجِعًا فِي بَيْتِي كَاشِفًا عَنْ فَخِذَيْهِ أَوْ سَاقَيْهِ فَاسْتَأْذَنَ أَبُو بَكْرٍ فَأَذِنَ لَهُ وَهُوَ عَلَى تِلْكَ الْحَالِ فَتَحَدَّثَ ثُمَّ اسْتَأْذَنَ عُمَرُ فَأَذِنَ لَهُ وَهُوَ كَذَلِكَ فَتَحَدَّثَ ثُمَّ اسْتَأْذَنَ عُثْمَانُ فَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَسَوَّى ثِيَابَهُ - قَالَ مُحَمَّدٌ وَلاَ أَقُولُ ذَلِكَ فِي يَوْمٍ وَاحِدٍ - فَدَخَلَ فَتَحَدَّثَ فَلَمَّا خَرَجَ قَالَتْ عَائِشَةُ دَخَلَ أَبُو بَكْرٍ فَلَمْ تَهْتَشَّ لَهُ وَلَمْ تُبَالِهِ ثُمَّ دَخَلَ عُمَرُ فَلَمْ تَهْتَشَّ لَهُ وَلَمْ تُبَالِهِ ثُمَّ دَخَلَ عُثْمَانُ فَجَلَسْتَ وَسَوَّيْتَ ثِيَابَكَ فَقَالَ ‏ "‏ أَلاَ أَسْتَحِي مِنْ رَجُلٍ تَسْتَحِي مِنْهُ الْمَلاَئِكَةُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن يحيى، ويحيى بن ايوب، وقتيبة، وابن، حجر قال يحيى بن يحيى اخبرنا وقال الاخرون، حدثنا اسماعيل، - يعنون ابن جعفر - عن محمد بن ابي حرملة، عن عطاء، وسليمان، ابنى يسار وابي سلمة بن عبد الرحمن ان عايشة، قالت كان رسول الله صلى الله عليه وسلم مضطجعا في بيتي كاشفا عن فخذيه او ساقيه فاستاذن ابو بكر فاذن له وهو على تلك الحال فتحدث ثم استاذن عمر فاذن له وهو كذلك فتحدث ثم استاذن عثمان فجلس رسول الله صلى الله عليه وسلم وسوى ثيابه - قال محمد ولا اقول ذلك في يوم واحد - فدخل فتحدث فلما خرج قالت عايشة دخل ابو بكر فلم تهتش له ولم تباله ثم دخل عمر فلم تهتش له ولم تباله ثم دخل عثمان فجلست وسويت ثيابك فقال " الا استحي من رجل تستحي منه الملايكة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া, ইবনু আইয়্যুব, কুতাইবাহ ও ইবনু হাজর (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার ঘরে শুয়ে ছিলেন, তার উরু কিংবা পায়ের নলা উন্মুক্ত ছিল। আবূ বাকর (রাযিঃ) এসে অনুমতি চাইলে তিনি তাকে অনুমতি দিলেন এবং এ অবস্থাতে কথপকথন করলেন। তারপর উমার (রাঃ) অনুমতি চাইলে অনুমতি দিলেন এবং এ অবস্থায়ই কথাবার্তা বললেন। উসমান (রাযিঃ) অনুমতি চাইলেন। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উঠে বসলেন এবং তার কাপড় ঠিক করলেন। বর্ণনাকারী মুহাম্মাদ বলেন, এ বিষয়টি একই দিনে ঘটেছে বলে আমি দাবী করি না। অতঃপর উসমান (রাযিঃ) এসে কথা বলে চলে যাওয়ার পর আয়িশা (রাযিঃ) বললেন, আবূ বকর (রাযিঃ) আসলেন, আপনি তাকে কোন গুরুত্ব দিলেন না ও ভ্রুক্ষেপ করলেন না, উমার (রাযিঃ) আসলেন আপনি তাকেও কোন গুরুত্ব দিলেন না ও ভ্রূক্ষেপ করলেন না। উসমান (রাযিঃ) প্রবেশ করতেই আপনি উঠে বসলেন এবং জামা ঠিক করে নিলেন। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমি কি সে লোককে লজ্জা করবো না, ফেরেশতারা পর্যন্ত যাকে দেখলে লজ্জা পান। (ইসলামিক ফাউন্ডেশন ৫৯৯২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aisha reported:Allah's Messenger (ﷺ) was lying in the bed in my apartment with his thigh uncovered and Abu Bakr sought permission to enter. It was given to him and he conversed in the same very state (the Prophet's thigh or shank uncovered). Then 'Umar sought permission for entering and it was given to him and he conversed in that very state. Then 'Uthman sought permission to enter; Allah's Messenger (ﷺ) sat down and he set right his clothes. Muhammad (one of the narrators) said: I do not say that it happened on the same day. He ('Uthman) then entered and conversed and as he went out, 'Aisha said: Abu Bakr entered and you did not stir and did not observe much care (in arranging your clothes), then 'Umar entered and you did not stir and did not arrange your clothes, then 'Uthman entered and you got up and set your clothes right, so he (ﷺ) said: Should I not show modesty to one whom even the Angels show modesty
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## French
 
+Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ était allongé dans mon appartement, la cuisse découverte, quand Abu Bakr a demandé la permission d’entrer. On lui a permis d’entrer et il a parlé avec lui dans cet état (la cuisse ou le tibia du Prophète découverte). Puis Umar a demandé la permission d’entrer, il a été autorisé et a parlé dans le même état. Ensuite, Uthman a demandé la permission ; le Messager d’Allah ﷺ s’est alors assis et a remis ses vêtements en ordre. Muhammad (l’un des rapporteurs) a dit : Je ne dis pas que cela s’est passé le même jour. Uthman est alors entré, a parlé, puis en sortant, Aïcha a dit : « Abu Bakr est entré et tu n’as pas bougé ni pris soin de tes vêtements, puis Umar est entré et tu n’as pas bougé non plus, mais quand Uthman est entré, tu t’es levé et tu as arrangé tes vêtements. » Il ﷺ a répondu : « Ne devrais-je pas avoir de la pudeur devant quelqu’un devant qui même les Anges sont pudiques ? »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Yahya\] dan \[Yahya bin Ayyub\] dan \[Qutaibah\] dan \[Ibnu Hujr\]. \[Yahya bin Yahya\] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami \[Isma'il\] yaitu Ibnu Ja'far dari \[Muhammad bin Abu Harmalah\] dari \['Atha\] dan \[Sulaiman\] -kedua anak Yasar dan \[Abu Salamah bin 'Abdur Rahman\] bahwa \['Aisyah\] berkata; 'Pada suatu ketika, Rasulullah shallallahu 'alaihi wasallam sedang berbaring di rumah saya dengan membiarkan kedua pahanya atau kedua betisnya terbuka. Tak lama kemudian, Abu Bakar minta izin kepada Rasulullah untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk dalam kondisi beliau tetap seperti itu dan terus berbincang-bincang (tentang suatu hal). Lalu Umar bin Khaththab datang dan meminta izin kepada Rasulullah untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk dalam kondisi beliau tetap seperti itu dan terus berbincang-bincang (tentang suatu hal). Kemudian Utsman bin Affan datang dan meminta izin kepada beliau untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk seraya mengambil posisi duduk dan membetulkan pakaiannya. Muhammad berkata; Saya tidak mengatakan hal itu pada hari yang sama. Lalu Utsman masuk dan langsung bercakap-cakap dengan beliau tentang berbagai hal. Setelah Utsman keluar dari rumah, Aisyah bertanva; "Ya Rasulullah, tadi ketika Abu Bakar masuk ke rumah engkau tidak terlihat tergesa-gesa untuk menyambutnya. Kemudian ketika Umar datang dan masuk, engkaupun menyambutnya dengan biasa-biasa saja. Akan tetapi ketika Utsman bin Affan datang dan masuk ke rumah maka engkau segera bangkit dari pembaringan dan langsung mengambil posisi duduk sambil membetulkan pakaian engkau. Sebenarnya ada apa dengan hal ini semua ya Rasulullah'?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Hai Aisyah, bagaimana mungkin aku tidak merasa malu kepada seseorang yang para malaikat saja merasa malu kepadanya?
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Yahya] dan [Yahya bin Ayyub] dan [Qutaibah] dan [Ibnu Hujr]. [Yahya bin Yahya] berkata; Telah mengabarkan kepada kami Sedangkan yang lainnya berkata; Telah menceritakan kepada kami [Isma'il] yaitu Ibnu Ja'far dari [Muhammad bin Abu Harmalah] dari ['Atha] dan [Sulaiman] -kedua anak Yasar dan [Abu Salamah bin 'Abdur Rahman] bahwa ['Aisyah] berkata; 'Pada suatu ketika, Rasulullah shallallahu 'alaihi wasallam sedang berbaring di rumah saya dengan membiarkan kedua pahanya atau kedua betisnya terbuka. Tak lama kemudian, Abu Bakar minta izin kepada Rasulullah untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk dalam kondisi beliau tetap seperti itu dan terus berbincang-bincang (tentang suatu hal). Lalu Umar bin Khaththab datang dan meminta izin kepada Rasulullah untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk dalam kondisi beliau tetap seperti itu dan terus berbincang-bincang (tentang suatu hal). Kemudian Utsman bin Affan datang dan meminta izin kepada beliau untuk masuk ke dalam rumah beliau. Maka Rasulullah pun mempersilahkannya untuk masuk seraya mengambil posisi duduk dan membetulkan pakaiannya. Muhammad berkata; Saya tidak mengatakan hal itu pada hari yang sama. Lalu Utsman masuk dan langsung bercakap-cakap dengan beliau tentang berbagai hal. Setelah Utsman keluar dari rumah, Aisyah bertanva; "Ya Rasulullah, tadi ketika Abu Bakar masuk ke rumah engkau tidak terlihat tergesa-gesa untuk menyambutnya. Kemudian ketika Umar datang dan masuk, engkaupun menyambutnya dengan biasa-biasa saja. Akan tetapi ketika Utsman bin Affan datang dan masuk ke rumah maka engkau segera bangkit dari pembaringan dan langsung mengambil posisi duduk sambil membetulkan pakaian engkau. Sebenarnya ada apa dengan hal ini semua ya Rasulullah'?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Hai Aisyah, bagaimana mungkin aku tidak merasa malu kepada seseorang yang para malaikat saja merasa malu kepadanya?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## Russian
 
+‘Аиша, да будет доволен ею Аллах, рассказала: «Посланник Аллаха ﷺ лежал в моём доме, и часть его бедра или голени обнажилась. Абу Бакр попросил разрешения войти, и он разрешил ему, оставаясь в таком положении, и они поговорили. Потом ‘Умар попросил разрешения войти, и он разрешил ему, оставаясь в таком положении, и они поговорили. Затем ‘Усман попросил разрешения войти, и Посланник Аллаха ﷺ сел и поправил свою одежду». \[Передатчик\] Мухаммад сказал: «И я не говорю, что всё это было в один день». Он зашёл, и они поговорили. А когда он ушёл, ‘Аиша спросила: «Абу Бакр вошёл, а ты не изменил своего положения и его присутствие не смутило тебя, потом вошёл ‘Умар, но ты не изменил своего положения и его присутствие не смутило тебя, а когда пришёл ‘Усман, ты сел и поправил свою одежду». \[Посланник Аллаха ﷺ\] сказал: «Разве не следует мне стесняться человека, которого стесняются ангелы?»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘Аиша, да будет доволен ею Аллах, рассказала: «Посланник Аллаха ﷺ лежал в моём доме, и часть его бедра или голени обнажилась. Абу Бакр попросил разрешения войти, и он разрешил ему, оставаясь в таком положении, и они поговорили. Потом ‘Умар попросил разрешения войти, и он разрешил ему, оставаясь в таком положении, и они поговорили. Затем ‘Усман попросил разрешения войти, и Посланник Аллаха ﷺ сел и поправил свою одежду». [Передатчик] Мухаммад сказал: «И я не говорю, что всё это было в один день». Он зашёл, и они поговорили. А когда он ушёл, ‘Аиша спросила: «Абу Бакр вошёл, а ты не изменил своего положения и его присутствие не смутило тебя, потом вошёл ‘Умар, но ты не изменил своего положения и его присутствие не смутило тебя, а когда пришёл ‘Усман, ты сел и поправил свою одежду». [Посланник Аллаха ﷺ] сказал: «Разве не следует мне стесняться человека, которого стесняются ангелы?»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya ile Yahya b. Eyyub, (Kuteybe ve İbni Hucr rivayet ettiler. Yahya b. Yahya: Ahberana, ötekiler: Haddesenâ tâbirlerini kullandılar. (Dedilerki): Bize İsmail (yâni ibni Ca'fer) Muhammed b. Ebi Harmele'den, o da Yesâr'ın iki oğlu Ata' ile Süleyman'dan ve Ebû Seleme b. Abdirrahman'dan naklen rivayet etti ki: Âişe şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) benim evimde iki uyluğunu veya iki baldırını açmış olarak yaslanmıştı. Derken Ebû Bekr (içeri girmek için) izin istedi. Resûlullah (Sallallahu Aleyhi ve Sellem) o halde iken ona izin verdi. Ve konuştu. Sonra Ömer izin istedi. Yine aynı halde ona da izin verdi. Ve konuştu. Sonra Osman izin istedi. Resûlullah (Sallallahu Aleyhi ve Sellem) hemen oturdu. Ve elbisesini düzeltti. —Râvi Muhammed: Bu bir günde oldu demiyorum, demiş. — Ve Osman girdi. Onunla da konuştu. O çıktığı zaman Âişe şunları söyledi: — Ebû Bekr girdi. Ona güleryüz göstermedin ve aldırış etmedin. Sonra Ömer girdi. Ona da güleryüz göstermedin, aldırış etmedin. Sonra Osman girdi. Hemen oturdun ve elbiseni düzelttin! Bunun üzerine Resûlullah (Sallallahu Aleyhi ve Sellem): «Kendisinden melekler utanan bir zattan ben utanmayayım mı?» buyurdular. İzah 2402 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن ابی حرملہ نے یسار کے دونوں بیٹوں عطاء اور سلیمان اور ابوسلمہ بن عبدالرحمان سے روایت کی کہ حضرت عائشہ رضی اللہ تعالیٰ عنہا نے کہا : کہ رسول اللہ صلی اللہ علیہ وسلم اپنے گھر میں لیٹے ہوئے تھے ، رانیں یا پنڈلیاں کھولے ہوئے تھے کہ اتنے میں سیدنا ابوبکر رضی اللہ عنہ نے اجازت مانگی ، تو آپ صلی اللہ علیہ وسلم نے اسی حالت میں اجازت دے دی اور باتیں کرتے رہے ۔ پھر سیدنا عمر رضی اللہ عنہ نے اجازت چاہی تو انہیں بھی اسی حالت میں اجازت دے دی اور باتیں کرتے رہے ۔ پھر سیدنا عثمان رضی اللہ عنہ نے اجازت چاہی تو رسول اللہ صلی اللہ علیہ وسلم بیٹھ گئے اور کپڑے برابر کر لئے ۔ پھر وہ آئے اور باتیں کیں ۔ ( راوی محمد کہتا ہے کہ میں نہیں کہتا کہ تینوں کا آنا ایک ہی دن ہوا ) جب وہ چلے گئے تو ام المؤمنین عائشہ صدیقہ رضی اللہ عنہا نے کہا کہ سیدنا ابوبکر رضی اللہ عنہ آئے تو آپ صلی اللہ علیہ وسلم نے کچھ خیال نہ کیا ، پھر سیدنا عمر رضی اللہ عنہ آئے تو بھی آپ صلی اللہ علیہ وسلم نے کچھ خیال نہ کیا ، پھر سیدنا عثمان رضی اللہ عنہ آئے تو آپ صلی اللہ علیہ وسلم بیٹھ گئے اور اپنے کپڑے درست کر لئے ۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ کیا میں اس شخص سےحیا نہ کروں جس سے فرشتے حیاکرتے ہیں؟
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6209</td></tr><tr><td>Arabic No</td><td>2401</td></tr><tr><td>Reference</td><td>Book 44 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6209 |
+| Arabic No | 2401 |
+| Reference | Book 44 Hadith 39 |

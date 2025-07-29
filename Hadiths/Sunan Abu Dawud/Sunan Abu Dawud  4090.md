@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، ح وَحَدَّثَنَا هَنَّادٌ، - يَعْنِي ابْنَ السَّرِيِّ - عَنْ أَبِي الأَحْوَصِ، - الْمَعْنَى - عَنْ عَطَاءِ بْنِ السَّائِبِ، قَالَ مُوسَى عَنْ سَلْمَانَ الأَغَرِّ، - وَقَالَ هَنَّادٌ عَنِ الأَغَرِّ أَبِي مُسْلِمٍ، - عَنْ أَبِي هُرَيْرَةَ، - قَالَ هَنَّادٌ - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ قَالَ اللَّهُ عَزَّ وَجَلَّ الْكِبْرِيَاءُ رِدَائِي وَالْعَظَمَةُ إِزَارِي فَمَنْ نَازَعَنِي وَاحِدًا مِنْهُمَا قَذَفْتُهُ فِي النَّارِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، ح وحدثنا هناد، - يعني ابن السري - عن ابي الاحوص، - المعنى - عن عطاء بن السايب، قال موسى عن سلمان الاغر، - وقال هناد عن الاغر ابي مسلم، - عن ابي هريرة، - قال هناد - قال قال رسول الله صلى الله عليه وسلم " قال الله عز وجل الكبرياء ردايي والعظمة ازاري فمن نازعني واحدا منهما قذفته في النار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ বলেন, অহংকার হলো আমার চাঁদর এবং মহত্ব হলো আমার লুঙ্গি। যে কেউ এর কোনো একটি নিয়ে আমার সাথে ঝগড়া করবে, আমি তাকে জাহান্নামে নিক্ষেপ করবো।\[1\]’ সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহান আল্লাহ বলেন, অহংকার হলো আমার চাঁদর এবং মহত্ব হলো আমার লুঙ্গি। যে কেউ এর কোনো একটি নিয়ে আমার সাথে ঝগড়া করবে, আমি তাকে জাহান্নামে নিক্ষেপ করবো।[1]’ সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: Allah Most High says: Pride is my cloak and majesty is my lower garment, and I shall throw him who view with me regarding one of them into Hell
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
+
+## French
+
+Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Allah, le Très-Haut, dit : “L’orgueil est Mon manteau et la majesté Mon vêtement. Celui qui cherche à rivaliser avec Moi pour l’un d’eux, Je le jetterai en Enfer.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] berkata, telah menceritakan kepada kami \[Hammad\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Hannad\] -maksudnya Hannad bin As Sari- dari \[Abu Al Ahwash\] secara makna, dari \[Atha bin As Saib\] berkata; \[Musa\] berkata; dari \[Salman Al Aghar\]. \[Hannad\] berkata dari \[Al Aghar Abu Muslim\] dari \[Abu Hurairah\]. \[Hannad\] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Azza Wa Jalla berfirman: 'Kesombongan adalah selendang-Ku, kebesaran adalah sarung-Ku, barangsiapa mengambil salah satu dari keduanya dari-Ku, maka ia akan Aku lemparkan ke dalam neraka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Hannad] -maksudnya Hannad bin As Sari- dari [Abu Al Ahwash] secara makna, dari [Atha bin As Saib] berkata; [Musa] berkata; dari [Salman Al Aghar]. [Hannad] berkata dari [Al Aghar Abu Muslim] dari [Abu Hurairah]. [Hannad] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah Azza Wa Jalla berfirman: 'Kesombongan adalah selendang-Ku, kebesaran adalah sarung-Ku, barangsiapa mengambil salah satu dari keduanya dari-Ku, maka ia akan Aku lemparkan ke dalam neraka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Всемогущий и Великий Аллах сказал: “Гордость Мой плащ, а величие Мой изар, и кто попытается оспаривать (, проявляя гордыню и возвеличивая себя в глазах других,) у Меня то или другое, того Я брошу в Огонь!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre'den rivayet olunduğuna göre; Resulullah (s.a.v) şöyle buyurmuştur: "İzzet ve celâl sahibi olan Allah buyurdu ki: Büyüklük benim gömleğim, ululuk da benim etekliğimdir. Kim bunlardan birinde benimle yarışmaya ycltenirse onu ateşe atarım." Diğer tahric: ibn-i Mace, Zuhd (4174); Ahmed b. Hanbel 11,248, 376.414.427,442. VI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ عزوجل کا فرمان ہے: بڑائی ( کبریائی ) میری چادر ہے اور عظمت میرا تہ بند، تو جو کوئی ان دونوں چیزوں میں کسی کو مجھ سے چھیننے کی کوشش کرے گا میں اسے جہنم میں ڈال دوں گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4090</td></tr><tr><td>Arabic No</td><td>4090</td></tr><tr><td>Reference</td><td>Book 34 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4090 |
+| Arabic No | 4090 |
+| Reference | Book 34 Hadith 71 |

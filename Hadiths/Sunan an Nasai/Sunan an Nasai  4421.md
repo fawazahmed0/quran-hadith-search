@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مُحَمَّدُ بْنُ آدَمَ، قَالَ حَدَّثَنَا عَبْدَةُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ فَاطِمَةَ، عَنْ أَسْمَاءَ، قَالَتْ ذَبَحْنَا عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَسًا وَنَحْنُ بِالْمَدِينَةِ فَأَكَلْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 43 Hadith 61</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |
+
 اخبرني محمد بن ادم، قال حدثنا عبدة، عن هشام بن عروة، عن فاطمة، عن اسماء، قالت ذبحنا على عهد رسول الله صلى الله عليه وسلم فرسا ونحن بالمدينة فاكلناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 43 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন আদম (রহঃ) ... আসমা (রাঃ) থেকে বর্ণিত। তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সময় আমরা একটি ঘোড়া যবেহ করলাম, তখন আমরা মদীনায় ছিলাম। এরপর আমরা তা খেলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 43 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Asma said:"We slaughtered (naharna) a horse during the time of the Messenger of Allah while we were in Al-Madinah, and we ate it." (Sahih)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 43 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |
+
+## French
+
+Rapporté par Asma : Nous avons abattu un cheval à l’époque du Messager d’Allah ﷺ alors que nous étions à Médine, et nous en avons mangé. (Sahih)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Adam\], ia berkata; telah menceritakan kepada kami \['Abdah\] dari \[Hisyam bin 'Urwah\] dari \[Fathimah\] dari \[Asma'\], ia berkata; kami menyembelih kuda pada zaman Rasulullah shallallahu 'alaihi wasallam dan kami berada di Madinah, kemudian kami memakannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Adam], ia berkata; telah menceritakan kepada kami ['Abdah] dari [Hisyam bin 'Urwah] dari [Fathimah] dari [Asma'], ia berkata; kami menyembelih kuda pada zaman Rasulullah shallallahu 'alaihi wasallam dan kami berada di Madinah, kemudian kami memakannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 43 Hadith 61</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 43 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>4421</td></tr><tr><td>Reference</td><td>Book 43 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 4421 |
+| Reference | Book 43 Hadith 61 |

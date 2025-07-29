@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا اللَّيْثُ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ أَبِي الْخَيْرِ، عَنِ ابْنِ زُرَيْرٍ، عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ، - رضى الله عنه - قَالَ أُهْدِيَتْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم بَغْلَةٌ فَرَكِبَهَا ‏.‏ فَقَالَ عَلِيٌّ لَوْ حَمَلْنَا الْحَمِيرَ عَلَى الْخَيْلِ فَكَانَتْ لَنَا مِثْلُ هَذِهِ ‏.‏ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّمَا يَفْعَلُ ذَلِكَ الَّذِينَ لاَ يَعْلَمُونَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
+
 حدثنا قتيبة بن سعيد، حدثنا الليث، عن يزيد بن ابي حبيب، عن ابي الخير، عن ابن زرير، عن علي بن ابي طالب، - رضى الله عنه - قال اهديت لرسول الله صلى الله عليه وسلم بغلة فركبها . فقال علي لو حملنا الحمير على الخيل فكانت لنا مثل هذه . قال رسول الله صلى الله عليه وسلم " انما يفعل ذلك الذين لا يعلمون
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আলী ইবনু আবূ তালিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে একটি খচ্চর উপঢৌকন দেয়া হয়। তিনি এর উপর আরোহণ করলেন। তখন ‘আলী (রাঃ) বললেন, ‘আমরা গাধা ও ঘোটকীর যৌনমিলন ঘটাতে পারলে আমাদেরও এরূপ খচ্চর হতো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ নিঃসন্দেহে মূর্খরাই এরূপ করে থাকে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ali ibn AbuTalib: The Messenger of Allah (ﷺ) was present with a she-mule which he rode, so Ali said: If we made asses cover mares we would have animals of this type. The Messenger of Allah (ﷺ) said: Only those who do not know do that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
+
+## French
+
+Rapporté par Ali ibn Abu Talib : Le Messager d’Allah ﷺ était avec une mule qu’il montait. Ali a dit : « Si nous faisions accoupler les ânes avec les juments, nous aurions des animaux de ce type. » Le Messager d’Allah ﷺ a dit : « Seuls ceux qui ne savent pas font cela. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\], telah menceritakan kepada kami \[Al Laits\] dari \[Yazid bin Abu Habib\], dari \[Abu Al Khair\], dari \[Ibnu Zurair\] dari \[Ali bin Abu Thalib\] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam telah diberi hadiah seekor baghal. Kemudian beliau menaikinya. Lalu Ali berkata; seandainya kita naikkan keledai di atas kuda yang dahulu kita memiliki kebiasaan seperti ini. Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya yang melakukan hal tersebut hanyalah orang-orang yang tidak mengetahui
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id], telah menceritakan kepada kami [Al Laits] dari [Yazid bin Abu Habib], dari [Abu Al Khair], dari [Ibnu Zurair] dari [Ali bin Abu Thalib] radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam telah diberi hadiah seekor baghal. Kemudian beliau menaikinya. Lalu Ali berkata; seandainya kita naikkan keledai di atas kuda yang dahulu kita memiliki kebiasaan seperti ini. Rasulullah shallallahu 'alaihi wasallam berkata: "Sesungguhnya yang melakukan hal tersebut hanyalah orang-orang yang tidak mengetahui
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Али ибн Аби Талиб, да будет доволен им Аллах, рассказывал: «Однажды Посланнику Аллаха ﷺ подарили мулицу, и он сел на неё верхом». (Передатчик этого хадиса продолжил): «Тогда ‘Али сказал: “Если бы мы скрестили осла с лошадью, то у нас была бы мулица подобно этой”. Посланник Аллаха ﷺ ответил: “Так поступают лишь те, которые не знают!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ali b. Ebî Tâlib (r.a.)'den; demiştir ki: Rasûlullah (s.a.v.)'e bir katır hediye edildi de ona bindi. Bunun üzerine Ali (r.a.); Biz de eşekleri atlara çekseydik de bizim de bunun gibi (katırlarımız) olsaydı (ne güzel olurdu) dedi. Rasûlullah (s.a.v.) de; "Bunu ancak bilmeyenler yapar." buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی بن ابی طالب رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کو ایک خچر ہدیہ میں دیا گیا تو آپ اس پر سوار ہوئے، علی رضی اللہ عنہ نے کہا: اگر ہم ان گدھوں سے گھوڑیوں کی جفتی کرائیں تو اسی طرح کے خچر پیدا ہوں گے ( یہ سن کر ) رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ایسا وہ لوگ کرتے ہیں جو ( شریعت کے احکام سے ) واقف نہیں ہیں ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2565</td></tr><tr><td>Arabic No</td><td>2565</td></tr><tr><td>Reference</td><td>Book 15 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2565 |
+| Arabic No | 2565 |
+| Reference | Book 15 Hadith 89 |

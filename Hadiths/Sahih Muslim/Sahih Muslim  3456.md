@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، عَنْ عُبَيْدِ اللَّهِ، بِهَذَا الإِسْنَادِ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابو بكر بن ابي شيبة، حدثنا علي بن مسهر، عن عبيد الله، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শায়বাহ্ (রহঃ) ..... উবায়দুল্লাহ (রহঃ) থেকে এ সূত্রে (এ হাদীসের অনুরূপ বর্ণিত হয়েছে)। (ইসলামিক ফাউন্ডেশন ৩৩২২, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn Umar :The above hadith has been narrated by Ibn Umar through another chain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## French
 
+Rapporté par Ibn ‘Umar رضي الله عنهما : Le hadith ci-dessus a été rapporté par Ibn ‘Umar à travers une autre chaîne
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize bu hadîsi Ebu Bekr b. Ebî Şeybe de rivayet etti. (Dediki): Bize Aliyyü'bnu Müshir, Ubeydullah'dan bu isnadla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ ، عَنْ عُبَيْدِ اللهِ ، بِهَذَا الْإِسْنَادِ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3456</td></tr><tr><td>Arabic No</td><td>1412.03</td></tr><tr><td>Reference</td><td>Book 16 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3456 |
+| Arabic No | 1412.03 |
+| Reference | Book 16 Hadith 59 |

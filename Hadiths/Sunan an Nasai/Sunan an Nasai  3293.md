@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُجَاهِدُ بْنُ مُوسَى، قَالَ حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ تُنْكَحَ الْمَرْأَةُ عَلَى عَمَّتِهَا أَوْ عَلَى خَالَتِهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 26 Hadith 98</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |
+
 اخبرنا مجاهد بن موسى، قال حدثنا ابن عيينة، عن عمرو بن دينار، عن ابي سلمة، عن ابي هريرة، قال نهى رسول الله صلى الله عليه وسلم ان تنكح المراة على عمتها او على خالتها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 26 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুজাহিদ ইবন মূসা (রহঃ) ... আবু হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন নারীকে তার খালা অথবা তার ফুফুর সাথে বিবাহ করবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 26 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Hurairah said:"The Messenger of Allah forbade taking a woman as a co-wife to her paternal aunt or her maternal aunt
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 26 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d’Allah a interdit de prendre une femme comme coépouse avec sa tante paternelle ou sa tante maternelle
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Mujahid bin Musa\], ia berkata; telah menceritakan kepada kami \[Ibnu 'Uyainah\] dari \['Amr bin Dinar\] dari \[Abu Salamah\] dari \[Abu Hurairah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang seorang wanita dinikahi sebagai madu bagi saudara wanita ayahnya atau saudara wanita ibunya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Mujahid bin Musa], ia berkata; telah menceritakan kepada kami [Ibnu 'Uyainah] dari ['Amr bin Dinar] dari [Abu Salamah] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam melarang seorang wanita dinikahi sebagai madu bagi saudara wanita ayahnya atau saudara wanita ibunya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 26 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 26 Hadith 98</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کسی عورت سے ( نکاح میں ) اس کی پھوپھی یا اس کی خالہ کی موجودگی میں شادی کرنے سے منع فرمایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3293</td></tr><tr><td>Arabic No</td><td>3293</td></tr><tr><td>Reference</td><td>Book 26 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3293 |
+| Arabic No | 3293 |
+| Reference | Book 26 Hadith 98 |

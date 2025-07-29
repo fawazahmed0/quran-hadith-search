@@ -2,18 +2,34 @@
 
 [English](#english)
 
+[French](#french)
+
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الْتَّائِبُ مِنَ الذَّنْبِ کَمَنْ لَا ذَنْبَ لَهُ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 One who repents from sin is like someone without sin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>28</td></tr><tr><td>Arabic No</td><td>28</td></tr><tr><td>Reference</td><td>Book 1 Hadith 28</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |
+
+## French
+
+Celui qui se repent du péché est comme s’il n’avait jamais péché
+
+| References: |  |
+| --- | --- |
+| Hadith No | 28 |
+| Arabic No | 28 |
+| Reference | Book 1 Hadith 28 |

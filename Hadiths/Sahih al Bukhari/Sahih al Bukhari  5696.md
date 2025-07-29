@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ مُقَاتِلٍ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا حُمَيْدٌ الطَّوِيلُ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّهُ سُئِلَ عَنْ أَجْرِ الْحَجَّامِ، فَقَالَ احْتَجَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم حَجَمَهُ أَبُو طَيْبَةَ، وَأَعْطَاهُ صَاعَيْنِ مِنْ طَعَامٍ، وَكَلَّمَ مَوَالِيَهُ فَخَفَّفُوا عَنْهُ، وَقَالَ ‏"‏ إِنَّ أَمْثَلَ مَا تَدَاوَيْتُمْ بِهِ الْحِجَامَةُ وَالْقُسْطُ الْبَحْرِيُّ ‏"‏‏.‏ وَقَالَ ‏"‏ لاَ تُعَذِّبُوا صِبْيَانَكُمْ بِالْغَمْزِ مِنَ الْعُذْرَةِ، وَعَلَيْكُمْ بِالْقُسْطِ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن مقاتل، اخبرنا عبد الله، اخبرنا حميد الطويل، عن انس رضى الله عنه انه سيل عن اجر الحجام، فقال احتجم رسول الله صلى الله عليه وسلم حجمه ابو طيبة، واعطاه صاعين من طعام، وكلم مواليه فخففوا عنه، وقال " ان امثل ما تداويتم به الحجامة والقسط البحري ". وقال " لا تعذبوا صبيانكم بالغمز من العذرة، وعليكم بالقسط
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
 ## Bengali
 
+আনাস (রাঃ) হতে বর্ণিত যে, তাঁকে শিঙ্গা লাগানোর পারিশ্রমিক দেয়ার ব্যাপারে প্রশ্ন করা হয়েছিল। তখন তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগিয়েছেন। আবূ তাইবা তাঁকে শিঙ্গা লাগায়। এরপর তিনি তাকে দু সা‘ খাদ্যবস্তু প্রদান করেন। সে তার মালিকের সঙ্গে এ সম্পর্কে কথা বললে, তারা তাঁর থেকে পারিশ্রমিক কমিয়ে দেয়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরো বলেনঃ তোমরা যে সব জিনিস দিয়ে চিকিৎসা কর, সেগুলোর মধ্যে সবচেয়ে উত্তম হল শিঙ্গা লাগানো এবং সামুদ্রিক চন্দন কাঠ। তিনি আরো বলেছেনঃ তোমরা তোমাদের বাচ্চাদের জিহবা, তালু টিপে কষ্ট দিও না। বরং তোমরা চন্দন কাঠ দিয়ে চিকিৎসা কর। \[২১০২\] (আধুনিক প্রকাশনী- ৫২৮৪, ইসলামিক ফাউন্ডেশন)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, তাঁকে শিঙ্গা লাগানোর পারিশ্রমিক দেয়ার ব্যাপারে প্রশ্ন করা হয়েছিল। তখন তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শিঙ্গা লাগিয়েছেন। আবূ তাইবা তাঁকে শিঙ্গা লাগায়। এরপর তিনি তাকে দু সা‘ খাদ্যবস্তু প্রদান করেন। সে তার মালিকের সঙ্গে এ সম্পর্কে কথা বললে, তারা তাঁর থেকে পারিশ্রমিক কমিয়ে দেয়। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরো বলেনঃ তোমরা যে সব জিনিস দিয়ে চিকিৎসা কর, সেগুলোর মধ্যে সবচেয়ে উত্তম হল শিঙ্গা লাগানো এবং সামুদ্রিক চন্দন কাঠ। তিনি আরো বলেছেনঃ তোমরা তোমাদের বাচ্চাদের জিহবা, তালু টিপে কষ্ট দিও না। বরং তোমরা চন্দন কাঠ দিয়ে চিকিৎসা কর। [২১০২] (আধুনিক প্রকাশনী- ৫২৮৪, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
 ## English
 
+Narrated Anas:that he was asked about the wages of the one who cups others. He said, 'Allah's Messenger (ﷺ) was cupped by 'Abd Taiba, to whom he gave two Sa of food and interceded for him with his masters who consequently reduced what they used to charge him daily. Then the Prophet (ﷺ) said, "The best medicines you may treat yourselves with are cupping and sea incense.' He added, "You should not torture your children by treating tonsillitis by pressing the tonsils or the palate with the finger, but use incense
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Anas:that he was asked about the wages of the one who cups others. He said, 'Allah's Messenger (ﷺ) was cupped by 'Abd Taiba, to whom he gave two Sa of food and interceded for him with his masters who consequently reduced what they used to charge him daily. Then the Prophet (ﷺ) s said, "The best medicines you may treat yourselves with are cupping and sea incense.' He added, "You should not torture your children by treating tonsillitis by pressing the tonsils or the palate with the finger, but use incense
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
+
+## French
+
+Rapporté par Anas : On lui a demandé ce qu’il pensait de la rémunération de celui qui pratique la saignée. Il a répondu : « Le Messager d’Allah (ﷺ) s’est fait saigner par 'Abd Taiba, à qui il a donné deux Sa de nourriture et il a intercédé auprès de ses maîtres, qui ont alors réduit ce qu’ils lui demandaient chaque jour. Ensuite, le Prophète (ﷺ) a dit : “Les meilleurs remèdes que vous pouvez utiliser sont la saignée et l’encens marin.” Il a ajouté : “Ne faites pas souffrir vos enfants en traitant l’angine en appuyant sur les amygdales ou le palais avec le doigt, mais utilisez l’encens.” »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Muqatil\] telah mengabarkan kepada kami \[Abdullah\] telah mengabarkan kepada kami \[Humaid Ath Thawil\] dari \[Anas\] radliallahu 'anhu bahwa dia di tanya mengenai upah tukang bekam, dia menjawab; "Abu Thaibah pernah membekam Rasulullah shallallahu 'alaihi wasallam, lalu beliau memberinya dua sha' makanan dan meyarankan supaya meringankan beban hamba sahayanya, setelah itu beliau bersabda: "Sebaik-baik sesuatu yang kalian gunakan untuk obat adalah bekam dan terapi kayu gaharu", beliau juga bersabda: "Dan janganlah kalian sakiti anak kalian dengan memasukkan jari ke dalam mulut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Muqatil] telah mengabarkan kepada kami [Abdullah] telah mengabarkan kepada kami [Humaid Ath Thawil] dari [Anas] radliallahu 'anhu bahwa dia di tanya mengenai upah tukang bekam, dia menjawab; "Abu Thaibah pernah membekam Rasulullah shallallahu 'alaihi wasallam, lalu beliau memberinya dua sha' makanan dan meyarankan supaya meringankan beban hamba sahayanya, setelah itu beliau bersabda: "Sebaik-baik sesuatu yang kalian gunakan untuk obat adalah bekam dan terapi kayu gaharu", beliau juga bersabda: "Dan janganlah kalian sakiti anak kalian dengan memasukkan jari ke dalam mulut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
 ## Russian
 
+Сообщается, что, когда Анасу, да будет доволен им Аллах, задали вопрос о вознаграждении цирюльнику, он сказал: «Посланник Аллаха ﷺ делал себе кровопускания. (Однажды) Абу Тайба пустил ему кровь, и он велел дать ему (за это) два са‘ съестного и поговорил с его хозяевами, которые снизили (взимаемую) с него плату». И (Анас, да будет доволен им Аллах, передал, что Пророк ﷺ) сказал: «Лучшими средствами лечения для вас являются кровопускание и морской ладан».\\nИ (Анас, да будет доволен им Аллах, передал также, что Пророк ﷺ) сказал: «Не мучайте своих детей, у которых воспаляются миндалины, надавливая на них (пальцами), а используйте курения ладана»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Сообщается, что, когда Анасу, да будет доволен им Аллах, задали вопрос о вознаграждении цирюльнику, он сказал: «Посланник Аллаха ﷺ делал себе кровопускания. (Однажды) Абу Тайба пустил ему кровь, и он велел дать ему (за это) два са‘ съестного и поговорил с его хозяевами, которые снизили (взимаемую) с него плату». И (Анас, да будет доволен им Аллах, передал, что Пророк ﷺ) сказал: «Лучшими средствами лечения для вас являются кровопускание и морской ладан».\nИ (Анас, да будет доволен им Аллах, передал также, что Пророк ﷺ) сказал: «Не мучайте своих детей, у которых воспаляются миндалины, надавливая на них (пальцами), а используйте курения ладана»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஉபைதா ஹுமைத் அத்தவீல் (ரஹ்) அவர்கள் கூறியதாவது: அனஸ் (ரலி) அவர்களிடம், குருதி உறிஞ்சி வாங்குபவருக்குக் கூலி கொடுப்பது குறித்துக் கேட்கப்பட்டது. அதற்கு அவர்கள் கூறினார்கள்: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குருதி உறிஞ்சி எடுத்துள்ளார்கள். அவர்களுக்கு அபூதய்பா என்பவர் குருதி உறிஞ்சி வாங்கினார். நபி (ஸல்) அவர்கள் அவருக்கு(க் கூலியாக) இரண்டு ‘ஸாஉ’ உணவு கொடுத்தார்கள். மேலும், அபூதய்பாவின் எசமானர்களுடன் நபி (ஸல்) அவர்கள் பேசியதையடுத்து (அவர்களுக்கு அவர் செலுத்த வேண்டிய வரியை) அவர்கள் குறைத்தார்கள். மேலும், நபி (ஸல்) அவர்கள், ‘‘நீங்கள் எவற்றால் சிகிச்சை பெறுகிறீர்களோ அவற்றிலெல்லாம் சிறந்தது குருதி உறிஞ்சி எடுப்பதும், கடல் கோஷ்டமும்தான்.19 மேலும், உங்கள் குழந்தைகளை (அவர்களுடைய) அடிநாக்கு அழற்சியைப் போக்க (தொண்டையில்) குத்தித் துன்புறுத்தாதீர்கள். நீங்கள் அவசியம் கோஷ்டத்தைப் பயன்படுத்துங்கள்” என்று சொன்னார்கள்.20 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes r.a.'dan rivayete göre; "Ona, hacamat yapan kimsenin ücreti hakkında soru sorulunca şu cevabı vermiştir: Rasulullah Sallallahu Aleyhi ve Sellem hacamat yaptırdı. Bu hacamatı ona Ebu Taybe yaptı. Allah Rasulü de ona iki sa' ölçek buğday verdi ve onun efendileri ile konuştu. Onlar da onun yükünü hafiflettiler. Allah Rasulü ayrıca şöyle buyurdu: Kendisi ile tedavi olduğunuz en iyi şey, hacamat ile el-kust el-bahri'dir. Yine Allah Rasulü şöyle buyurmuştur: Çocuklarınızı bademcik ağrısından dolayı bademciklerini sıkmak suretiyle azaplandırmayınız. Siz kust ile tedavi etmeye bakınız
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے محمد بن مقاتل نے بیان کیا، کہا ہم کو عبداللہ بن مبارک نے خبر دی، کہا ہم کو حمید الطویل نے خبر دی اور انہیں انس رضی اللہ عنہ نے ان سے پچھنا لگوانے والے کی مزدوری کے بارے میں پوچھا گیا تھا۔ انہوں نے کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے پچھنا لگوایا تھا آپ کو ابوطیبہ ( نافع یا میسرہ ) نے پچھنا لگایا تھا آپ صلی اللہ علیہ وسلم نے انہیں دو صاع کھجور مزدوری میں دی تھی اور آپ نے ان کے مالکوں ( بنو حارثہ ) سے گفتگو کی تو انہوں نے ان سے وصول کئے جانے والے لگان میں کمی کر دی تھی اور نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ( خون کے دباؤ کا ) بہترین علاج جو تم کرتے ہو وہ پچھنا لگوانا ہے اور عمدہ دوا عود ہندی کا استعمال کرنا ہے اور فرمایا اپنے بچوں کو «عذرة» ( حلق کی بیماری ) میں ان کا تالو دبا کر تکلیف مت دو بلکہ «قسط» لگا دو اس سے ورم جاتا رہے گا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5696</td></tr><tr><td>Arabic No</td><td>5696</td></tr><tr><td>Reference</td><td>Book 76 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5696 |
+| Arabic No | 5696 |
+| Reference | Book 76 Hadith 18 |

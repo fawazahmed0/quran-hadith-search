@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## French
 
+Rapporté par Hajjāj bin ash-Shā’ir : Ahmad bin Yūnus nous a rapporté, il a dit : « J’ai entendu Zuhayr dire, Jābir a dit, ou bien, j’ai entendu Jābir dire : ‘J’ai en effet cinquante mille hadiths que je n’ai jamais rapportés.’ » \[Zuhayr\] dit : « Ce jour-là, il raconta un hadith et dit : ‘Ceci fait partie des cinquante mille.’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Reference</td><td>Book 0 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Reference | Book 0 Hadith 56 |

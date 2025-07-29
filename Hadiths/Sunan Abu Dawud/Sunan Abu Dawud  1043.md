@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ اجْعَلُوا فِي بُيُوتِكُمْ مِنْ صَلاَتِكُمْ وَلاَ تَتَّخِذُوهَا قُبُورًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
+
 حدثنا احمد بن محمد بن حنبل، حدثنا يحيى، عن عبيد الله، اخبرني نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم " اجعلوا في بيوتكم من صلاتكم ولا تتخذوها قبورا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের সালাতের কিছু সালাত নিজ বাড়ীতে আদায় করো এবং বাড়ীগুলোকে কবরস্থানে পরিণত করো না।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের সালাতের কিছু সালাত নিজ বাড়ীতে আদায় করো এবং বাড়ীগুলোকে কবরস্থানে পরিণত করো না।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar reported the Messenger of Allah (ﷺ) as saying:Offer some of your prayers in your houses, and do not make them graves
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
+
+## French
+
+Ibn ‘Umar رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Accomplissez une partie de vos prières dans vos maisons, et ne les transformez pas en tombes. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Muhammad bin Hanbal\] telah menceritakan kepada kami \[Yahya\] dari \['Ubaidullah\] telah mengabarkan kepadaku \[Nafi'\] dari \[Ibnu Umar\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jadikanlah rumah-rumah kalian sebagai tempat mengerjakan shalat (sunnah), dan janganlah kalian jadikan sebagai kuburan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Yahya] dari ['Ubaidullah] telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jadikanlah rumah-rumah kalian sebagai tempat mengerjakan shalat (sunnah), dan janganlah kalian jadikan sebagai kuburan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Совершайте часть молитв в своих домах и не превращайте их в могилы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.), Nebi (s.a.v.)'in şöyle buyurduğunu haber vermiştir: "Namazlarınızdan bazılarını evlerinizde kılınız, oraları kabirlere çevirmeyiniz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم لوگ اپنی بعض نمازیں اپنے گھروں میں پڑھا کرو اور انہیں قبرستان نہ بناؤ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (777)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1043</td></tr><tr><td>Arabic No</td><td>1043</td></tr><tr><td>Reference</td><td>Book 2 Hadith 654</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (432) Sahih Muslim (777) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1043 |
+| Arabic No | 1043 |
+| Reference | Book 2 Hadith 654 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، قَالَ حَدَّثَنَا زُهَيْرٌ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ بِلاَلٍ، قَالَ آخِرُ الأَذَانِ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |
+
 اخبرنا محمد بن معدان بن عيسى، قال حدثنا الحسن بن اعين، قال حدثنا زهير، قال حدثنا الاعمش، عن ابراهيم، عن الاسود، عن بلال، قال اخر الاذان الله اكبر الله اكبر لا اله الا الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু মা’দান ইবনু ঈসা (রহঃ) ... বিলাল (রাঃ) থেকে বর্ণিত। তিনি আযানের শেষ বাক্যগুলো এরূপ বলতেনঃ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Al-Aswad that Bilal said:"The final words of the Adhan are: 'Allahu Akbar, Allahu Akbar; La ilaha illallah (Allah is the Greatest, Allah is the Greatest, there is none worthy of worship except Allah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |
+
+## French
+
+Rapporté par Al-Aswad : Bilal a dit : « Les derniers mots de l’Adhan sont : “Allahu Akbar, Allahu Akbar ; La ilaha illallah” (Allah est le plus Grand, Allah est le plus Grand, il n’y a pas d’autre divinité qu’Allah). »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Ma'dan bin 'Isa\] dia berkata; telah menceritakan kepada kami \[Al-Hasan bin A'yan\] dia berkata; telah menceritakan kepada kami \[Zuhair\] dia berkata; telah menceritakan kepada kami \[Al-A'masy\] dari \[Ibrahim\] dari \[Al-Aswad\] dari \[Bilal\] dia berkata; "Lafazh adzan yang terakir adalah: ALLAAHU AKBAR, ALLAAHU AKBAR (Allah Maha Besar. Allah Maha Besar), LAA ILAAHA ILLALLAAH (Tidak ada tuhan (yang berhak disembah kecuali Allah)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Ma'dan bin 'Isa] dia berkata; telah menceritakan kepada kami [Al-Hasan bin A'yan] dia berkata; telah menceritakan kepada kami [Zuhair] dia berkata; telah menceritakan kepada kami [Al-A'masy] dari [Ibrahim] dari [Al-Aswad] dari [Bilal] dia berkata; "Lafazh adzan yang terakir adalah: ALLAAHU AKBAR, ALLAAHU AKBAR (Allah Maha Besar. Allah Maha Besar), LAA ILAAHA ILLALLAAH (Tidak ada tuhan (yang berhak disembah kecuali Allah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 بلال رضی اللہ عنہ کہتے ہیں کہ اذان کا آخری کلمہ «اللہ أكبر اللہ أكبر، لا إله إلا اللہ» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>649</td></tr><tr><td>Arabic No</td><td>649</td></tr><tr><td>Reference</td><td>Book 7 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 649 |
+| Arabic No | 649 |
+| Reference | Book 7 Hadith 24 |

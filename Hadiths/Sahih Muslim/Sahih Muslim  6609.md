@@ -18,78 +18,90 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِيهِ أَبُو كُرَيْبٍ، حَدَّثَنَا خَالِدُ بْنُ مَخْلَدٍ، عَنْ مُحَمَّدِ بْنِ جَعْفَرٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ، الرَّحْمَنِ بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنيه ابو كريب، حدثنا خالد بن مخلد، عن محمد بن جعفر، عن العلاء بن عبد، الرحمن بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Abu Kuraib with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## French
 
+Rapporté par Abu Kuraib : Ce hadith a été rapporté avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-84) Bana bu hadîsi Ebû Kureyb rivayet etti. (Dediki): Bize Hâlid b. Mahled, Muhammed b. Ca'fer'den, o da Alâ' b. Abdirrahman'dan bu isnadla bu hadisin mislini rivayet etti. İzah 2599 da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن جعفر نے علاء بن عبدالرحمٰن سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6609</td></tr><tr><td>Arabic No</td><td>2597.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6609 |
+| Arabic No | 2597.02 |
+| Reference | Book 45 Hadith 107 |

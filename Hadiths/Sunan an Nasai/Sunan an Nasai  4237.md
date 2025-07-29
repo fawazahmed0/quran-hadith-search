@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي عَبْدُ الرَّحْمَنِ بْنُ خَالِدٍ الْقَطَّانُ الرَّقِّيُّ، قَالَ حَدَّثَنَا حَجَّاجٌ، قَالَ قَالَ ابْنُ جُرَيْجٍ أَخْبَرَنِي عَمْرُو بْنُ دِينَارٍ، قَالَ أَخْبَرَنِي عَطَاءٌ، مُنْذُ حِينٍ عَنِ ابْنِ عَبَّاسٍ، أَخْبَرَتْنِي مَيْمُونَةُ، أَنَّ شَاةً، مَاتَتْ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ أَلاَّ دَفَعْتُمْ إِهَابَهَا فَاسْتَمْتَعْتُمْ بِهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |
+
 اخبرني عبد الرحمن بن خالد القطان الرقي، قال حدثنا حجاج، قال قال ابن جريج اخبرني عمرو بن دينار، قال اخبرني عطاء، منذ حين عن ابن عباس، اخبرتني ميمونة، ان شاة، ماتت فقال النبي صلى الله عليه وسلم " الا دفعتم اهابها فاستمتعتم به
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদুর রহমান ইবন খালিদ কাত্তান রাকী (রহঃ) ... মায়মূনা (রাঃ) থেকে বর্ণিত যে, একটি বকরী মারা গেলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যদি তোমরা এ চামড়া দাবাগত করে তা কাজে লাগাতে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Abbas:"Maimunah told me that a sheep died, and the Prophet said: 'Why don't you tan its skin and make use of it'?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Maimunah m’a dit qu’une brebis était morte, et le Prophète ﷺ a dit : « Pourquoi ne tannes-tu pas sa peau pour l’utiliser ? »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Abdurrahman bin Khalid Al Qaththan Ar Raqqi\], ia berkata; telah menceritakan kepada kami \[Hajjaj\], ia berkata; telah berkata; \[Ibnu Juraij\] telah mengabarkan kepadaku \['Amr bin Dinar\], ia berkata; telah memberitakan kepadaku \['Atho'\] sejak beberapa saat dari \[Ibnu Abbas\] telah mengabarkan kepadaku \[Maimunah\] bahwa terdapat sesekor kambing mati, kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah kalian berikan kulitnya kemudian kalian menikmatinya?
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Abdurrahman bin Khalid Al Qaththan Ar Raqqi], ia berkata; telah menceritakan kepada kami [Hajjaj], ia berkata; telah berkata; [Ibnu Juraij] telah mengabarkan kepadaku ['Amr bin Dinar], ia berkata; telah memberitakan kepadaku ['Atho'] sejak beberapa saat dari [Ibnu Abbas] telah mengabarkan kepadaku [Maimunah] bahwa terdapat sesekor kambing mati, kemudian Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah kalian berikan kulitnya kemudian kalian menikmatinya?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4237</td></tr><tr><td>Arabic No</td><td>4237</td></tr><tr><td>Reference</td><td>Book 41 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4237 |
+| Arabic No | 4237 |
+| Reference | Book 41 Hadith 16 |

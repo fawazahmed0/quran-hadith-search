@@ -14,62 +14,104 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حَرْمَلَةَ الأَسْلَمِيِّ، أَنَّهُ قَالَ رَأَيْتُ سَعِيدَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |
+
 حدثني يحيى، عن مالك، عن عبد الرحمن بن حرملة الاسلمي، انه قال رايت سعيد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me that Abd ar-Rahman ibn Harmala al-Aslami said, "I saw Said ibn al-Musayyab with his nose bleeding and blood poured out of it so that his fingers were all red from the blood coming out of his nose, and he prayed without doing wudu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdel-Rahman Ibn Harmala Al-Aslami a rapporté: «J'ai vu couler le sang du nez de Sa'id Ibn Al Moussaiab de sorte que ses doigts furent tout mouillés. Il fit la prière, sans faire ses ablutions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Rûmân oğlu Yezid der ki: Cübeyr b. Mut'im'in oğlu Nâfî'nin yanında namaz kılıyordum, biz namazda iken (kıraatta duraklayınca) bana işaret etti, ben de hatırlayamadığı yeri söyledim. Namaz kıldıran İmam kıraatta yanılır, yahut duraklarsa, aynı namazı kılan cemaatten biri imamın yanıldığı yeri söyler. Aynı namazı kılmayan başka bîri söyleyemez
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Maqtu Hasan | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu Hasan</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>80</td></tr><tr><td>Arabic No</td><td>80</td></tr><tr><td>Reference</td><td>Book 2 Hadith 49</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 80 |
+| Arabic No | 80 |
+| Reference | Book 2 Hadith 49 |

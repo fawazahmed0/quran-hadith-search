@@ -2,18 +2,34 @@
 
 [English](#english)
 
+[French](#french)
+
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 الدُّنْیَا سِجْنُ الْمُؤمِنِ وَ جَنَّةُ الْکَافِرِ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Arabic No | 8 |
+| Reference | Book 1 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The world is the believer’s prison and the disbeliever’s paradise
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Arabic No</td><td>8</td></tr><tr><td>Reference</td><td>Book 1 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Arabic No | 8 |
+| Reference | Book 1 Hadith 8 |
+
+## French
+
+Ce bas monde est la prison du croyant et le paradis du mécréant
+
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Arabic No | 8 |
+| Reference | Book 1 Hadith 8 |

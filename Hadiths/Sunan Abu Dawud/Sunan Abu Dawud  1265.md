@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ عَاصِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ سَرْجِسَ، قَالَ جَاءَ رَجُلٌ وَالنَّبِيُّ صلى الله عليه وسلم يُصَلِّي الصُّبْحَ فَصَلَّى الرَّكْعَتَيْنِ ثُمَّ دَخَلَ مَعَ النَّبِيِّ صلى الله عليه وسلم فِي الصَّلاَةِ فَلَمَّا انْصَرَفَ قَالَ ‏ "‏ يَا فُلاَنُ أَيَّتُهُمَا صَلاَتُكَ الَّتِي صَلَّيْتَ وَحْدَكَ أَوِ الَّتِي صَلَّيْتَ مَعَنَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
+
 حدثنا سليمان بن حرب، حدثنا حماد بن زيد، عن عاصم، عن عبد الله بن سرجس، قال جاء رجل والنبي صلى الله عليه وسلم يصلي الصبح فصلى الركعتين ثم دخل مع النبي صلى الله عليه وسلم في الصلاة فلما انصرف قال " يا فلان ايتهما صلاتك التي صليت وحدك او التي صليت معنا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
 
 ## Bengali
 
+। ‘আবদুল্লাহ ইবনু সারজিস্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাত আদায় করছিলেন এমন সময় এক ব্যক্তি আগমন করলো। সে প্রথমে দু’ রাক‘আত সুন্নাত আদায় করার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাতে শরীক হলো। সালাত শেষে তিনি জিজ্ঞেস করলেনঃ হে অমুক! তোমার একাকী আদায়কৃত ঐ দু’ রাক‘আত সালাত কিসের অথবা তুমি আমাদের সঙ্গে যা আদায় করেছো?\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুল্লাহ ইবনু সারজিস্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফজরের সালাত আদায় করছিলেন এমন সময় এক ব্যক্তি আগমন করলো। সে প্রথমে দু’ রাক‘আত সুন্নাত আদায় করার পর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাতে শরীক হলো। সালাত শেষে তিনি জিজ্ঞেস করলেনঃ হে অমুক! তোমার একাকী আদায়কৃত ঐ দু’ রাক‘আত সালাত কিসের অথবা তুমি আমাদের সঙ্গে যা আদায় করেছো?[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abd Allah b. Sarjas:A man came while the Prophet (ﷺ) was leading the people in the dawn prayer. He prayed the two rak'ahs and then joined the congregational prayer led by the Prophet (ﷺ). When he finished the prayer, the Prophet (ﷺ) said: So-and-so, which was your real prayer, the one you prayed alone or the one offered with us ?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
+
+## French
+
+Rapporté par Abd Allah b. Sarjas رضي الله عنه : Un homme est venu alors que le Prophète ﷺ dirigeait la prière de l’aube. Il a prié les deux unités, puis a rejoint la prière en commun dirigée par le Prophète ﷺ. Quand il a terminé, le Prophète ﷺ lui a dit : « Untel, quelle était ta vraie prière, celle que tu as faite seul ou celle que tu as faite avec nous ? »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Harb\] telah menceritakan kepada kami \[Hammad bin Zaid\] dari \['Ashim\] dari \[Abdullah bin Sarjis\] dia berkata; "Seorang laki-laki datang, sementara Nabi shallallahu 'alaihi wasallam tengah mengerjakan shalat shubuh, kemudian laki-laki itu shalat dua raka'at, barulah dia masuk (shaf) untuk mengerjakan shalat bersama Nabi shallallahu 'alaihi wasallam, setelah selesai shalat, beliau bersabda: "Wahai fulan, dari kedua shalatmu tadi, manakah yang merupakan shalat (shubuh)? yang kamu kerjakan secara sendirian ataukah yang kamu kerjakan bersama kami?
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari ['Ashim] dari [Abdullah bin Sarjis] dia berkata; "Seorang laki-laki datang, sementara Nabi shallallahu 'alaihi wasallam tengah mengerjakan shalat shubuh, kemudian laki-laki itu shalat dua raka'at, barulah dia masuk (shaf) untuk mengerjakan shalat bersama Nabi shallallahu 'alaihi wasallam, setelah selesai shalat, beliau bersabda: "Wahai fulan, dari kedua shalatmu tadi, manakah yang merupakan shalat (shubuh)? yang kamu kerjakan secara sendirian ataukah yang kamu kerjakan bersama kami?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Абдуллах ибн Сарджис, да будет доволен им Аллах, сказал: «Однажды, когда Пророк ﷺ совершал утреннюю молитву, пришёл какой-то человек. Он совершил два рак‘ата (дополнительной молитвы) и только потом присоединился к Пророку ﷺ. Закончив молитву, Пророк ﷺ сказал: “О такой-то! Какую же молитву (ты совершал как обязательную) ту, которую ты совершил в одиночку, или ту, которую ты совершил вместе с нами?!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Sercis'den; demiştir ki: Nebi (s.a.v.) sabah namazını kılarken bir adam geldi ve hemen iki rekat kıldıktan sonra Nebi (s.a.v.) ile birlikte namaza katıldı. (Resûl-i Ekrem aleyhissalâtü vesselam namazdan) çıkınca: "Ey falanca, bunların hangisi senin namazındır, yalnız başına kıldığın mı, yoksa bizimle beraber kıldığın mı?" (diye) buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن سرجس رضی اللہ عنہ کہتے ہیں کہ ایک شخص آیا اور نبی اکرم صلی اللہ علیہ وسلم فجر پڑھا رہے تھے تو اس نے دو رکعتیں پڑھیں پھر آپ صلی اللہ علیہ وسلم کے ساتھ نماز میں شریک ہو گیا، جب آپ نماز سے فارغ ہو کر پلٹے تو فرمایا: اے فلاں! تمہاری کون سی نماز تھی؟ آیا وہ جو تو نے تنہا پڑھی یا وہ جو ہمارے ساتھ پڑھی ۱؎؟ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1265</td></tr><tr><td>Arabic No</td><td>1265</td></tr><tr><td>Reference</td><td>Book 5 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1265 |
+| Arabic No | 1265 |
+| Reference | Book 5 Hadith 16 |

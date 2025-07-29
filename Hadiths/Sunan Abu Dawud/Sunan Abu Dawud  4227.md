@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنِي أَبِي، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي رَوَّادٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَتَخَتَّمُ فِي يَسَارِهِ وَكَانَ فَصُّهُ فِي بَاطِنِ كَفِّهِ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ ابْنُ إِسْحَاقَ وَأُسَامَةَ - يَعْنِي ابْنَ زَيْدٍ - عَنْ نَافِعٍ بِإِسْنَادِهِ فِي يَمِينِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
+
 حدثنا نصر بن علي، حدثني ابي، حدثنا عبد العزيز بن ابي رواد، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم كان يتختم في يساره وكان فصه في باطن كفه . قال ابو داود قال ابن اسحاق واسامة - يعني ابن زيد - عن نافع باسناده في يمينه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর বাম হাতে আংটি পরতেন, আংটির পাথর তাঁর হাতের তালুর দিকে থাকতো। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইবনু ইসহাক ও উসামা ইবনু যায়িদ নাফি (রহঃ)-এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ডান হাতের কথা বলেছেন।\[1\] শায।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর বাম হাতে আংটি পরতেন, আংটির পাথর তাঁর হাতের তালুর দিকে থাকতো। ইমাম আবূ দাঊদ (রহঃ) বলেন, ইবনু ইসহাক ও উসামা ইবনু যায়িদ নাফি (রহঃ)-এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ডান হাতের কথা বলেছেন।[1] শায।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: The Prophet (ﷺ) used to wear the signet-ring on his left hand, and put its stone next the palm of his hand. Abu Dawud said: Ibn Ishaq and Usamah b. Zaid transmitted from Nafi': "On his right hand
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
+
+## French
+
+Rapporté par Abdullah ibn Umar رضي الله عنه : Le Prophète ﷺ portait sa bague à la main gauche et plaçait la pierre contre la paume de sa main. Abu Dawud a dit : Ibn Ishaq et Usamah b. Zaid ont rapporté de Nafi' : « À la main droite. »
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Nashr bin Ali\] berkata, telah menceritakan kepadaku \[Bapakku\] berkata, telah menceritakan kepada kami \[Abdul Aziz bin Abu Rawwad\] dari \[Nafi'\] dari \[Ibnu Umar\] bahwa Nabi shallallahu 'alaihi wasallam biasa menggenakan cincin pada tangan kirinya dan mata cincinnya menghadap telapak tangannya." Abu Dawud berkata, " \[Ibnu Ishaq\] berkata, " \[Usamah\] -maksudnya Usamah bin Zaid- juga meriwayatkan dari \[Nafi'\] dengan sanadnya, "pada tangan kanannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah menceritakan kepadaku [Bapakku] berkata, telah menceritakan kepada kami [Abdul Aziz bin Abu Rawwad] dari [Nafi'] dari [Ibnu Umar] bahwa Nabi shallallahu 'alaihi wasallam biasa menggenakan cincin pada tangan kirinya dan mata cincinnya menghadap telapak tangannya." Abu Dawud berkata, " [Ibnu Ishaq] berkata, " [Usamah] -maksudnya Usamah bin Zaid- juga meriwayatkan dari [Nafi'] dengan sanadnya, "pada tangan kanannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ, носил перстень на левой руке, причём его широкая часть была обращена к его ладони
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a)'den rivayet edildiğine göre: Rasûlullah (s.a.v.) yüzüğü sol eline takardı. Yüzüğünün kaşını da avucunun içine alırdı. Ebû Davûd der ki: İbn İshak ve Üsâme yani İbn Zeyd - Nâfî'den (Onun isnadı ile) (Rasûlullah'ın yüzüğünü) sağ eline (taktığını) rivayet ettiler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم انگوٹھی اپنے بائیں ہاتھ میں پہنتے تھے اور اس کا نگینہ آپ کی ہتھیلی کے نچلے حصہ کی طرف ہوتا تھا۔ ابوداؤد کہتے ہیں: ابن اسحاق اور اسامہ نے یعنی ابن زید نے نافع سے اسی سند سے روایت کیا ہے کہ آپ صلی اللہ علیہ وسلم اسے اپنے دائیں ہاتھ میں پہنتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4227</td></tr><tr><td>Arabic No</td><td>4227</td></tr><tr><td>Reference</td><td>Book 36 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4227 |
+| Arabic No | 4227 |
+| Reference | Book 36 Hadith 14 |

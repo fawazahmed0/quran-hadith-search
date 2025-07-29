@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ، قَالَ أَنْبَأَنَا ابْنُ شُمَيْلٍ، قَالَ أَنْبَأَنَا شُعْبَةُ، قَالَ حَدَّثَنَا فِرَاسٌ، قَالَ سَمِعْتُ الشَّعْبِيَّ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ الْكَبَائِرُ الإِشْرَاكُ بِاللَّهِ وَعُقُوقُ الْوَالِدَيْنِ وَقَتْلُ النَّفْسِ وَالْيَمِينُ الْغَمُوسُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |
+
 اخبرني عبدة بن عبد الرحيم، قال انبانا ابن شميل، قال انبانا شعبة، قال حدثنا فراس، قال سمعت الشعبي، عن عبد الله بن عمرو، عن النبي صلى الله عليه وسلم قال " الكباير الاشراك بالله وعقوق الوالدين وقتل النفس واليمين الغموس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদা ইবন আবদুর রহীম (রহঃ) ... আবদুল্লাহ ইবন আমর (রাঃ) সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেন, কবীরা গুনাহ হলোঃ আল্লাহর সাথে শরীক করা, পিতামাতার নাফরমানী করা, অন্যায়ভাবে হত্যা করা এবং মিথ্যা কসম করা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |
 
 ## English
 
+It was narrated from 'Abdullah bin 'Amr that:The Prophet \[SAW\] said: "The major sins are: Associating others with Allah, disobeying parents, killing a soul (murder) and swearing a false oath knowingly
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Abdullah bin 'Amr that:The Prophet [SAW] said: "The major sins are: Associating others with Allah, disobeying parents, killing a soul (murder) and swearing a false oath knowingly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Amr : Le Prophète ﷺ a dit : « Les grands péchés sont : associer d'autres à Allah, désobéir à ses parents, tuer une âme (commettre un meurtre) et jurer faussement en toute connaissance de cause. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Abdah bin Abdur Rahim\], ia berkata; telah memberitakan kepada kami \[Ibnu Syumail\], ia berkata; telah memberitakan kepada kami \[Syu'bah\], ia berkata; telah menceritakan kepada kami \[Firas\], ia berkata; saya mendengar \[Asy Sya'bi\] dari \[Abdullah bin 'Amr\] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dosa-dosa besar adalah mensekutukan Allah, durhaka kepada orang tua, membunuh jiwa, dan sumpah palsu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Abdah bin Abdur Rahim], ia berkata; telah memberitakan kepada kami [Ibnu Syumail], ia berkata; telah memberitakan kepada kami [Syu'bah], ia berkata; telah menceritakan kepada kami [Firas], ia berkata; saya mendengar [Asy Sya'bi] dari [Abdullah bin 'Amr] dari Nabi shallallahu 'alaihi wasallam bersabda: "Dosa-dosa besar adalah mensekutukan Allah, durhaka kepada orang tua, membunuh jiwa, dan sumpah palsu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4011</td></tr><tr><td>Arabic No</td><td>4011</td></tr><tr><td>Reference</td><td>Book 37 Hadith 46</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4011 |
+| Arabic No | 4011 |
+| Reference | Book 37 Hadith 46 |

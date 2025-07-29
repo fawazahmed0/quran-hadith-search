@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ أَبِي الْخَلِيلِ، عَنْ عَبْدِ اللَّهِ بْنِ الْحَارِثِ، عَنْ حَكِيمِ بْنِ حِزَامٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ الْبَيِّعَانِ بِالْخِيَارِ مَا لَمْ يَفْتَرِقَا فَإِنْ صَدَقَا وَبَيَّنَا بُورِكَ لَهُمَا فِي بَيْعِهِمَا وَإِنْ كَتَمَا وَكَذَبَا مُحِقَتِ الْبَرَكَةُ مِنْ بَيْعِهِمَا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ رَوَاهُ سَعِيدُ بْنُ أَبِي عَرُوبَةَ وَحَمَّادٌ وَأَمَّا هَمَّامٌ فَقَالَ ‏"‏ حَتَّى يَتَفَرَّقَا أَوْ يَخْتَارَ ‏"‏ ‏.‏ ثَلاَثَ مِرَارٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
+
 حدثنا ابو الوليد الطيالسي، حدثنا شعبة، عن قتادة، عن ابي الخليل، عن عبد الله بن الحارث، عن حكيم بن حزام، ان رسول الله صلى الله عليه وسلم قال " البيعان بالخيار ما لم يفترقا فان صدقا وبينا بورك لهما في بيعهما وان كتما وكذبا محقت البركة من بيعهما " . قال ابو داود وكذلك رواه سعيد بن ابي عروبة وحماد واما همام فقال " حتى يتفرقا او يختار " . ثلاث مرار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । হাকীম ইবনু হিযাম (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ পরস্পর পৃথক হওয়ার পূর্ব পর্যন্ত ক্রেতা-বিক্রেতা উভয়ের জন্য (ক্রয়-বিক্রয় প্রত্যাখ্যান) অবকাশ থাকে। তারা সততার সাথে ক্রয়-বিক্রয় করলে এবং বিক্রিত মালের দোষ-ত্রুটির প্রকাশ করলে তাদের ক্রয়-বিক্রয়ের বরকত হবে। আর তারা যদি মিথ্যার আশ্রয় নেয় এবং বিক্রিত বস্তুর দোষ গোপন করে তাহলে তাদের ক্রয়-বিক্রয়ের বরকত দূর হয়ে যাবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, সাঈদ ইবনু আবূ ‘আরূবাহ ও হাম্মাদ এ হাদীসটি এভাবে বর্ণনা করেছেন। তবে হাম্মাদের বর্ণনায় রয়েছেঃ পরস্পর পৃথক না হওয়া পর্যন্ত ক্রেতা-বিক্রেতা উভয়ের জন্য অবকাশ থাকে। তিনি কথাটি তিনবার বলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Hakim b. Hizam: The Messenger of Allah (ﷺ) as saying: Both parties in a business transaction have a right of option (to annul it) so long as they are not separated ; and if they tell the truth and make everything clear, they will be blessed in their transaction, but it they conceal anything and lie, the blessing on their transaction will be blotted out. Abu Dawud said: A similar tradition has also been transmitted by Sa'id b. Abi 'Arubah and Hammad. As regards with Hammam, he said in his version: Until they separate or exercise the right of option (to annul the transaction), saying the words of option three times
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
+
+## French
+
+Rapporté par Hakim b. Hizam رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les deux parties d’une transaction commerciale ont le droit d’option (d’annuler la vente) tant qu’elles ne se sont pas séparées. S’ils disent la vérité et clarifient tout, leur transaction sera bénie. Mais s’ils cachent quelque chose et mentent, la bénédiction de leur transaction disparaîtra. » Abu Dawud a dit : Une tradition similaire a aussi été transmise par Sa’id b. Abi ‘Arubah et Hammad. Quant à Hammam, il a dit dans sa version : « Jusqu’à ce qu’ils se séparent ou exercent le droit d’option (d’annuler la transaction), en prononçant les mots d’option trois fois. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Al Walid Ath Thayalisi\] telah menceritakan kepada kami \[Syu'bah\], dari \[Qatadah\] dari \[Abu Al Khalil\] dari \[Abdullah bin Al Harits\] dari \[Hakim bin Hizam\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling berjual beli memiliki khiyar (hak memilih) selama mereka belum berpisah. Apabila mereka jujur dan memberikan penjelasan (terus terang dalam muamalah mereka), maka mereka akan diberi berkah dalam jual beli mereka. Dan apabila mereka menyembunyikan kekurangan dan berdusta, maka berkah akan terhapus dari jual beli mereka." Abu Daud berkata; dan demikianlah hadits tersebut diriwayatkan oleh \[Sa'id bin Abu 'Arubah\], dan \[Hammad\]. Adapun \[Hammam\], ia berkata; hingga mereka berpisah, atau memilih tiga kali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Al Walid Ath Thayalisi] telah menceritakan kepada kami [Syu'bah], dari [Qatadah] dari [Abu Al Khalil] dari [Abdullah bin Al Harits] dari [Hakim bin Hizam] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling berjual beli memiliki khiyar (hak memilih) selama mereka belum berpisah. Apabila mereka jujur dan memberikan penjelasan (terus terang dalam muamalah mereka), maka mereka akan diberi berkah dalam jual beli mereka. Dan apabila mereka menyembunyikan kekurangan dan berdusta, maka berkah akan terhapus dari jual beli mereka." Abu Daud berkata; dan demikianlah hadits tersebut diriwayatkan oleh [Sa'id bin Abu 'Arubah], dan [Hammad]. Adapun [Hammam], ia berkata; hingga mereka berpisah, atau memilih tiga kali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Хакима ибн Хизама, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Продавец и покупатель имеют право выбора до тех пор, пока не расстанутся, и если они будут правдивы и разъяснят, их сделка будет благодатной для них, а если они сокроют и солгут, их сделка будет лишена благодати»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hakîm b. Hizâm'dan, Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Alım satım akdi yapanlar birbirlerinden ayrılmadıkça muhayyerdirler. Eğer (malın özellik ve kıymeti konusunda) doğru konuşurlar ve (ayıbını) açıkça söylerlerse akidleri onlar için bereketlendirilir. Ama (ayıbı) gizlerler ve yalan söylerlerse, yaptıkları alım satım'ın bereketi giderilir." Ebü Dâvûd dedi ki: ' Saîd b. Ebî Arûbe ve Hammâd da aynen böyle rivayet ettiler. Hemmâm ise üç kerre: "Birbirlerinden ayrılıncaya veya (akdi kesinleştirme ya da feshetmeyi) seçinceye kadar..." dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حکیم بن حزام رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بائع اور مشتری جب تک جدا نہ ہوں دونوں کو بیع کے باقی رکھنے اور فسخ کر دینے کا اختیار ہے، پھر اگر دونوں سچ کہیں اور خوبی و خرابی دونوں بیان کر دیں تو دونوں کے اس خرید و فروخت میں برکت ہو گی اور اگر ان دونوں نے عیوب کو چھپایا، اور جھوٹی باتیں کہیں تو ان دونوں کی بیع سے برکت ختم کر دی جائے گی ۔ ابوداؤد کہتے ہیں: اسے سعید بن ابی عروبہ اور حماد نے روایت کیا ہے، لیکن ہمام کی روایت میں یہ ہے کہ آپ صلی اللہ علیہ وسلم نے فرمایا: بائع و مشتری کو اختیار ہے جب تک کہ دونوں جدا نہ ہوں، یا دونوں تین مرتبہ اختیار کی شرط نہ کر لیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2079) Sahih Muslim (1532)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3459</td></tr><tr><td>Arabic No</td><td>3459</td></tr><tr><td>Reference</td><td>Book 24 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2079) Sahih Muslim (1532) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3459 |
+| Arabic No | 3459 |
+| Reference | Book 24 Hadith 44 |

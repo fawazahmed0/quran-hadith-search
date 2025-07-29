@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنِي عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ أَيُّوبَ، عَنِ ابْنِ أَبِي مُلَيْكَةَ، بِهَذَا الْخَبَرِ قَالَ فَسَكَتَ عَلِيٌّ عَنْ ذَلِكَ النِّكَاحِ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
+
 حدثنا محمد بن يحيى بن فارس، حدثني عبد الرزاق، اخبرنا معمر، عن الزهري، عن عروة، عن ايوب، عن ابن ابي مليكة، بهذا الخبر قال فسكت علي عن ذلك النكاح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
 
 ## Bengali
 
+। ইবনু আবূ মূলাইকাহ (রহ.) এ হাদীস প্রসঙ্গে বলেন, অতঃপর আলী (রাযি.) সে বিবাহের সংকল্প ত্যাগ করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আবূ মূলাইকাহ (রহ.) এ হাদীস প্রসঙ্গে বলেন, অতঃপর আলী (রাযি.) সে বিবাহের সংকল্প ত্যাগ করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The aforesaid tradition has also been transmitted by Ibn Abi Mulaikah. He said “’Ali (Allaah be pleased with him) then kept silence about the marriage (i.e., marrying Abi Jahl’s daughter)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
+
+## French
+
+Le même récit a aussi été transmis par Ibn Abi Mulaikah. Il a dit : « ‘Ali رضي الله عنه est ensuite resté silencieux au sujet de ce mariage (c’est-à-dire épouser la fille d’Abu Jahl). »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 А в другой версии от Ибн Абу Муляйки сообщается, что после этого ‘Али отказался от своего сватовства
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (önceki 2069.) hadis İbn Ebî Müleyke ile Urve'den de rivayet olundu. îbn Ebî Müleyke'nin bu rivayetinde önceki hadisten fazla olarak bir de şu cümle vardır: (Misver) dedi ki: "Bunun üzerine Ali (bir daha) bu nikâhdan bahsetmedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن ابی ملیکہ سے یہی حدیث مروی ہے اس میں ہے: تو علی رضی اللہ عنہ نے اس نکاح سے خاموشی اختیار کر لی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5230) Sahih Muslim (2449)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2070</td></tr><tr><td>Arabic No</td><td>2070</td></tr><tr><td>Reference</td><td>Book 12 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5230) Sahih Muslim (2449) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2070 |
+| Arabic No | 2070 |
+| Reference | Book 12 Hadith 25 |

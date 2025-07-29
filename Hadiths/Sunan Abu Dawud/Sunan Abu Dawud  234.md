@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا حَمَّادُ بْنُ سَلَمَةَ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ فِي أَوَّلِهِ فَكَبَّرَ ‏.‏ وَقَالَ فِي آخِرِهِ فَلَمَّا قَضَى الصَّلاَةَ قَالَ ‏"‏ إِنَّمَا أَنَا بَشَرٌ وَإِنِّي كُنْتُ جُنُبًا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ الزُّهْرِيُّ عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ عَنْ أَبِي هُرَيْرَةَ قَالَ فَلَمَّا قَامَ فِي مُصَلاَّهُ وَانْتَظَرْنَا أَنْ يُكَبِّرَ انْصَرَفَ ثُمَّ قَالَ ‏"‏ كَمَا أَنْتُمْ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ أَيُّوبُ وَابْنُ عَوْنٍ وَهِشَامٌ عَنْ مُحَمَّدٍ مُرْسَلاً عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فَكَبَّرَ ثُمَّ أَوْمَأَ بِيَدِهِ إِلَى الْقَوْمِ أَنِ اجْلِسُوا فَذَهَبَ فَاغْتَسَلَ ‏.‏ وَكَذَلِكَ رَوَاهُ مَالِكٌ عَنْ إِسْمَاعِيلَ بْنِ أَبِي حَكِيمٍ عَنْ عَطَاءِ بْنِ يَسَارٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَبَّرَ فِي صَلاَةٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَلِكَ حَدَّثَنَاهُ مُسْلِمُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا أَبَانُ عَنْ يَحْيَى عَنِ الرَّبِيعِ بْنِ مُحَمَّدٍ عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَبَّرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا يزيد بن هارون، اخبرنا حماد بن سلمة، باسناده ومعناه قال في اوله فكبر . وقال في اخره فلما قضى الصلاة قال " انما انا بشر واني كنت جنبا " . قال ابو داود رواه الزهري عن ابي سلمة بن عبد الرحمن عن ابي هريرة قال فلما قام في مصلاه وانتظرنا ان يكبر انصرف ثم قال " كما انتم " . قال ابو داود ورواه ايوب وابن عون وهشام عن محمد مرسلا عن النبي صلى الله عليه وسلم قال فكبر ثم اوما بيده الى القوم ان اجلسوا فذهب فاغتسل . وكذلك رواه مالك عن اسماعيل بن ابي حكيم عن عطاء بن يسار ان رسول الله صلى الله عليه وسلم كبر في صلاة . قال ابو داود وكذلك حدثناه مسلم بن ابراهيم حدثنا ابان عن يحيى عن الربيع بن محمد عن النبي صلى الله عليه وسلم انه كبر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
 
 ## Bengali
 
+। হাম্মাদ ইবনু সালামাহ হতে উক্ত হাদীস একই সানাদ এবং একই অর্থে বর্ণিত হয়েছে। তবে তার বর্ণিত হাদীসের প্রথমাংশে রয়েছেঃ ‘তিনি তাকবীরে তাহরীমা বললেন।’ আর শেষাংশে রয়েছেঃ ‘তিনি সালাত আদায় শেষে বললেন, ‘আমিও মানুষ এবং আমি অপবিত্র ছিলাম।’ আবূ হুরাইরার বর্ণনায় রয়েছেঃ ‘যখন তিনি সালাতের স্থানে দাঁড়ালেন এবং আমরা তাঁর তাকবীর ধ্বনি শুনার অপেক্ষা করছিলাম, তখন তিনি ওখান থেকে চলে গেলেন এবং যাওয়ার সময় বলে গেলেন, তোমরা নিজ নিজ জায়গায় অবস্থান কর।’ মুহাম্মাদ ইবনু সীরীন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে মুরসালভাবে বর্ণনা করেন যে, ‘তিনি তাকবীরে তাহরীমা দিলেন, অতঃপর লোকদেরকে বসার জন্য ইশারা করে চলে গিয়ে গোসল করলেন। এরূপই বর্ণনা করেছেন মালিক, ইসমাঈল ইবনু আবূ হাকীম হতে, তিনি ‘আত্বা ইবনু ইয়াসীর হতে। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন এক সালাতের তাকবীর দিলেন। রাবী‘ ইবনু মুহাম্মাদ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে বর্ণনা করেন, ‘তিনি তাকবীর বললেন।’\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হাম্মাদ ইবনু সালামাহ হতে উক্ত হাদীস একই সানাদ এবং একই অর্থে বর্ণিত হয়েছে। তবে তার বর্ণিত হাদীসের প্রথমাংশে রয়েছেঃ ‘তিনি তাকবীরে তাহরীমা বললেন।’ আর শেষাংশে রয়েছেঃ ‘তিনি সালাত আদায় শেষে বললেন, ‘আমিও মানুষ এবং আমি অপবিত্র ছিলাম।’ আবূ হুরাইরার বর্ণনায় রয়েছেঃ ‘যখন তিনি সালাতের স্থানে দাঁড়ালেন এবং আমরা তাঁর তাকবীর ধ্বনি শুনার অপেক্ষা করছিলাম, তখন তিনি ওখান থেকে চলে গেলেন এবং যাওয়ার সময় বলে গেলেন, তোমরা নিজ নিজ জায়গায় অবস্থান কর।’ মুহাম্মাদ ইবনু সীরীন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে মুরসালভাবে বর্ণনা করেন যে, ‘তিনি তাকবীরে তাহরীমা দিলেন, অতঃপর লোকদেরকে বসার জন্য ইশারা করে চলে গিয়ে গোসল করলেন। এরূপই বর্ণনা করেছেন মালিক, ইসমাঈল ইবনু আবূ হাকীম হতে, তিনি ‘আত্বা ইবনু ইয়াসীর হতে। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন এক সালাতের তাকবীর দিলেন। রাবী‘ ইবনু মুহাম্মাদ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সূত্রে বর্ণনা করেন, ‘তিনি তাকবীর বললেন।’[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This tradition has been reported by Hammad b. Salamah through the same chain of narrators and conveying a similar meaning. This version adds in the beginning:He uttered TAKBIR (Allahu akbar), and in the end : when he finished the prayer, he said : I am a human being; I was sexually defiled. Abu Dawud said : This tradition has been narrated al-Zuhri from Abu Salamah b. ‘Abd al-Rahman on the authority of Abu Hurairah. It says: When he stood at the place of prayer, we waited for his utterance of takbir (Allah-u akbar).He went away and said : (remain) as you were. Another version on the authority of Muhammad reporting from the Prophet (ﷺ) says: He uttered takbir (Allah-u-Akbar) and then made a sign to the people, meaning "sit down". He then went away and took a bath. This tradition has also been narrated through a different chain. It says: The Messenger of Allah (ﷺ) uttered takbir (Allah-u-akbar) in a prayer. Abu Dawud said: Another version through a different chain says; The Prophet (May peace be upon him) uttered takbir (Allah-u akbar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
+
+## French
+
+Cette tradition a été rapportée par Hammad b. Salamah avec la même chaîne de transmetteurs et un sens similaire. Cette version ajoute au début : Il a prononcé le TAKBIR (« Allahu akbar »), et à la fin : lorsqu’il a terminé la prière, il a dit : « Je suis un être humain ; j’étais en état d’impureté majeure. » Abu Dawud a dit : Cette tradition a été rapportée par al-Zuhri de la part d’Abu Salamah b. ‘Abd al-Rahman, selon Abu Hurairah. Elle dit : Lorsqu’il s’est tenu à la place de la prière, nous avons attendu qu’il prononce le takbir (« Allahu akbar »). Il est parti et a dit : « Restez comme vous êtes. » Une autre version, rapportée par Muhammad du Prophète ﷺ, dit : Il a prononcé le takbir (« Allahu Akbar ») puis a fait un signe aux gens, voulant dire « asseyez-vous ». Il est ensuite parti prendre un bain rituel. Cette tradition a aussi été rapportée par une autre chaîne. Elle dit : Le Messager d’Allah ﷺ a prononcé le takbir (« Allahu akbar ») lors d’une prière. Abu Dawud a dit : Une autre version par une chaîne différente dit : Le Prophète ﷺ a prononcé le takbir (« Allahu akbar »)
+
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dari \[Ziyad Al-A'lam\] dari \[Al-Hasan\] dari \[Abu Bakrah\] bahwasanya Rasulullah shallallahu 'alaihi wasallam masuk ke Masjid untuk shalat Fajar. Kemudian beliau mengisyaratkan kepada para sahabat dengan tangannya agar tetap di tempat. Lalu beliau datang, sementara kepalanya meneteskan air (bekas mandi), kemudian shalat mengimami mereka. Telah menceritakan kepada kami \[Utsman bin Abi Syaibah\] telah menceritakan kepada kami \[Yazid bin Harun\] telah mengabarkan kepada kami \[Hammad bin Salamah\] dengan isnadnya dan semakna dengan hadits pertama, dia menyebutkan di awalnya; Lalu beliau bertakbir, dan menyebutkan di akhirnya; Tatkala selesai shalat, beliau bersabda; "Sesungguhnya saya hanyalah manusia, dan sesungguhhnya saya tadi junub." Abu Dawud berkata; Diriwayatkan oleh \[Az-Zuhri\] dari \[Abu Salamah bin Abdurrahman\] dari \[Abu Hurairah\] dia berkata; Tatkala beliau berdiri untuk shalat, dan kami menunggu beliau bertakbir, tiba-tiba beliau pergi seraya bersabda; "Tetaplah di tempat kalian". Abu Dawud berkata; dan diriwayatkan oleh \[Ayyub\] dan \[Ibnu Aun\] dan \[Hisyam\] dari \[Muhammad\] secara mursal dari Nabi shallallahu 'alaihi wasallam. Dia menyebutkan; Beliau bertakbir, kemudian tiba-tiba beliau mengisyaratkan dengan tangannya kepada jama'ah untuk duduk. Lalu beliau pergi dan mandi. Demikian juga diriwayatkan oleh \[Malik\] dari \[Isma'il bin Abu Hakim\] dari \['Atha' bin Yasar\] bahwasanya Rasulullah shallallahu 'alaihi wasallam bertakbir di dalam suatu shalat. Abu Dawud berkata; Demikian pula telah menceritakan kepada kami \[Muslim bin Ibrahim\] telah menceritakan kepada kami \[Aban\] dari \[Yahya\] dari \[Ar-Rabi' bin Muhammad\] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau bertakbir
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Ziyad Al-A'lam] dari [Al-Hasan] dari [Abu Bakrah] bahwasanya Rasulullah shallallahu 'alaihi wasallam masuk ke Masjid untuk shalat Fajar. Kemudian beliau mengisyaratkan kepada para sahabat dengan tangannya agar tetap di tempat. Lalu beliau datang, sementara kepalanya meneteskan air (bekas mandi), kemudian shalat mengimami mereka. Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Yazid bin Harun] telah mengabarkan kepada kami [Hammad bin Salamah] dengan isnadnya dan semakna dengan hadits pertama, dia menyebutkan di awalnya; Lalu beliau bertakbir, dan menyebutkan di akhirnya; Tatkala selesai shalat, beliau bersabda; "Sesungguhnya saya hanyalah manusia, dan sesungguhhnya saya tadi junub." Abu Dawud berkata; Diriwayatkan oleh [Az-Zuhri] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] dia berkata; Tatkala beliau berdiri untuk shalat, dan kami menunggu beliau bertakbir, tiba-tiba beliau pergi seraya bersabda; "Tetaplah di tempat kalian". Abu Dawud berkata; dan diriwayatkan oleh [Ayyub] dan [Ibnu Aun] dan [Hisyam] dari [Muhammad] secara mursal dari Nabi shallallahu 'alaihi wasallam. Dia menyebutkan; Beliau bertakbir, kemudian tiba-tiba beliau mengisyaratkan dengan tangannya kepada jama'ah untuk duduk. Lalu beliau pergi dan mandi. Demikian juga diriwayatkan oleh [Malik] dari [Isma'il bin Abu Hakim] dari ['Atha' bin Yasar] bahwasanya Rasulullah shallallahu 'alaihi wasallam bertakbir di dalam suatu shalat. Abu Dawud berkata; Demikian pula telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Aban] dari [Yahya] dari [Ar-Rabi' bin Muhammad] dari Nabi shallallahu 'alaihi wasallam, bahwasanya beliau bertakbir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают, что Йазид ибн Харун со слов Хаммада ибн Саламы передал хадис с таким же иснадом и смыслом (что и у предыдущего хадиса) и (Йазид ибн Харун) сказал в первом (хадисе): «Он произнес «такбир». Во втором (хадисе) он (Йазид ибн Харун ) сказал: «После окончания (молитвы) он сказал: “Поистине, я (тоже) человек и я был в состоянии большого осквернения”.Абу Дауд сказал: «Этот хадис также передал аз-Зухри от Абу Саламы ибн Абду-р-Рахмана, (в котором сообщается), что Абу Хурайра сказал: “Когда он встал на место молитвы, мы ждали пока он произнесет “такбир”, но он не стал этого делать и затем сказал: “Стойте, как стоите”.Абу Дауд сказал: «Также этот хадис в форме “мурсаль” передали Аййуб, Ибн ‘Аун и Хишам со слов Мухаммада, от Пророка ﷺ в котором говорится: “И он произнес «такбир», но затем сделал знак рукой людям, чтобы они сели, а сам он отправился и искупался”. Также этот хадис передал Малик со слов Исма‘иля ибн Абу Хакима, (а тот) со слов ‘Аты ибн Йасара, что Посланник Аллаха ﷺ произнес “такбир” в молитве».Абу Дауд сказал: «Также рассказал нам его Муслим ибн Ибрахим, сообщил нам Абан со слов Йахъйи от Раби‘а ибн Мухаммада от Пророка ﷺ что он произнес “такбир”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hammad b. Seleme önceki hadisi aynı senetle ve aynı manada rivayet etmiş, (fakat) başında (Resulullah s.a.v.) "tekbir aldı" sonunda da namazı bitirince, "ben ancak bir beşerim, cünup idim (yıkanmayı unuttum) dedi” ifadelerini ilave etmiştir. Ebu Davud, şunları söyledi: Bu hadisi Zühri, Ebu Seleme b. Abdurrahman'dan, o da Ebu Hureyre'den (şöylece) rivayet etmiştir: (Ebu Hureyre) dedi ki: Namaz kıldığı yerde durunca, biz tekbir almasını bekledik. O, ayrıldı sonra "Olduğunuz halde kaiınız” buyurdu. Bu hadisi Eyyüb ibn Avn ve Hişam, Muhammed kanalıyla (mürsel olarak) Resulullah (sallallahu aleyhi ve sellem)'den şöyle rivayet etmiştir: "(Resulullah)Tekbir aldı, sonra cemaate eliyle oturmalarını işaret edip gitti ve gusletti." Bunu aynı şekilde Malik, İsmail b. Ebi Hakim'den o da Ata'dan rivayet etmiştir.'Ata (rivayetinde) "Resulullah (sallallahu aleyhi ve sellem) namazında tekbir aldı”demiştir. Ebu Davud dedi ki: Bunu aynı şekilde Müslim b. İbrahim, Eban’dan; O, Yahya'dan; Yahya, Rabi b. Muhammed'den o da Resulullah (sallallahu aleyhi ve sellem)'dem nakletti ve "tekbir aldı" dedi. Diğer tahric: Ahmed b. Hanbel Müsned
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طریق سے بھی حماد بن سلمہ نے اسی مفہوم کی حدیث روایت کی ہے اس کے شروع میں ہے: تو آپ صلی اللہ علیہ وسلم نے تکبیر تحریمہ کہی ، اور آخر میں یہ ہے کہ جب آپ صلی اللہ علیہ وسلم نماز سے فارغ ہو گئے تو فرمایا: میں بھی انسان ہی ہوں، میں جنبی تھا ۔ ابوداؤد کہتے ہیں: اسے زہری نے ابوسلمہ بن عبدالرحمٰن سے، انہوں نے ابوہریرہ رضی اللہ عنہ سے روایت کیا ہے، اس میں ہے: جب آپ مصلیٰ پر کھڑے ہو گئے اور ہم آپ کی تکبیر ( تحریمہ ) کا انتظار کرنے لگے، تو آپ ( وہاں سے ) یہ فرماتے ہوئے پلٹے کہ تم جیسے ہو اسی حالت میں رہو ۔ ابوداؤد کہتے ہیں: ایوب بن عون اور ہشام نے اسے محمد سے، محمد بن سیرین نے نبی اکرم صلی اللہ علیہ وسلم سے مرسلاً روایت کیا ہے، اس میں ہے: آپ صلی اللہ علیہ وسلم نے تکبیر ( تکبیر تحریمہ ) کہی، پھر اپنے ہاتھ سے لوگوں کو اشارہ کیا کہ تم لوگ بیٹھ جاؤ، پھر آپ صلی اللہ علیہ وسلم چلے گئے اور غسل فرمایا۔ اور اسی طرح اسے مالک نے اسماعیل بن ابوحکیم سے، انہوں نے عطاء بن یسار سے ( مرسلاً ) روایت کیا ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے نماز میں تکبیر ( تکبیر تحریمہ ) کہی۔ ابوداؤد کہتے ہیں: اور اسی طرح اسے ہم سے مسلم بن ابراہیم نے بیان کیا ہے، وہ کہتے ہیں کہ: ہم سے ابان نے بیان کیا ہے، ابان یحییٰ سے، اور یحییٰ ربیع بن محمد سے اور ربیع بن محمد نبی اکرم صلی اللہ علیہ وسلم سے ( مرسلاً ) روایت کرتے ہیں کہ آپ نے تکبیر ( تکبیر تحریمہ ) کہی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mursal</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>234</td></tr><tr><td>Arabic No</td><td>234</td></tr><tr><td>Reference</td><td>Book 1 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mursal | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 234 |
+| Arabic No | 234 |
+| Reference | Book 1 Hadith 234 |

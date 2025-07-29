@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبٍ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ سَمِعْتُ اللَّيْثَ، يُحَدِّثُ عَنِ ابْنِ شِهَابٍ، أَنَّهُ كَانَ إِذَا ذُكِرَ لَهُ أَنَّهُ نُهِيَ عَنْ صِيَامِ يَوْمِ السَّبْتِ يَقُولُ ابْنُ شِهَابٍ هَذَا حَدِيثٌ حِمْصِيٌّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
+
 حدثنا عبد الملك بن شعيب، حدثنا ابن وهب، قال سمعت الليث، يحدث عن ابن شهاب، انه كان اذا ذكر له انه نهي عن صيام يوم السبت يقول ابن شهاب هذا حديث حمصي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
 
 ## Bengali
 
+। ইবনু শিহাব (রহ.) সূত্রে বর্ণিত। তার নিকট শুধু শনিবার সওম রাখা নিষেধ সম্পর্কিত হাদীস আলোচনা করা হলে তিনি বলেন, এটা তো হিমসী বর্ণিত হাদীস।\[1\] মাকতূ‘ মারফূয।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু শিহাব (রহ.) সূত্রে বর্ণিত। তার নিকট শুধু শনিবার সওম রাখা নিষেধ সম্পর্কিত হাদীস আলোচনা করা হলে তিনি বলেন, এটা তো হিমসী বর্ণিত হাদীস।[1] মাকতূ‘ মারফূয।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Laith:When it was mentioned to Ibn Shihab (al-Zuhri) that fasting on Saturday had been prohibited, he would say: This is a Himsi tradition
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
+
+## French
+
+Rapporté par Al-Laith رضي الله عنه : Quand on parlait à Ibn Shihab (al-Zuhri) de l’interdiction de jeûner le samedi, il disait : « C’est une tradition des gens de Hims. »
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн Шихаб говорил, когда при нём упоминали о запрете поститься в субботу: «Это хадис жителей Хомса»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Şihâb'dan rivayet edildiğine göre; Kendisine cumartesi günü orucunun nehyedildiği söylenince: -Bu zayıf (Hımsî) bir hadistir, derdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن شہاب زہری سے روایت ہے کہ ان کے سامنے جب سنیچر ( ہفتے ) کے دن روزے کی ممانعت کا تذکرہ آتا تو کہتے کہ یہ حمص والوں کی حدیث ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2423</td></tr><tr><td>Arabic No</td><td>2423</td></tr><tr><td>Reference</td><td>Book 14 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2423 |
+| Arabic No | 2423 |
+| Reference | Book 14 Hadith 111 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُؤَمَّلُ بْنُ الْفَضْلِ الْحَرَّانِيُّ، حَدَّثَنَا عِيسَى، - يَعْنِي ابْنَ يُونُسَ - حَدَّثَنَا جَابِرُ بْنُ صُبْحٍ، حَدَّثَنَا الْمُثَنَّى بْنُ عَبْدِ الرَّحْمَنِ الْخُزَاعِيُّ، عَنْ عَمِّهِ، أُمَيَّةَ بْنِ مَخْشِيٍّ - وَكَانَ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم - قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم جَالِسًا وَرَجُلٌ يَأْكُلُ فَلَمْ يُسَمِّ حَتَّى لَمْ يَبْقَ مِنْ طَعَامِهِ إِلاَّ لُقْمَةٌ فَلَمَّا رَفَعَهَا إِلَى فِيهِ قَالَ بِسْمِ اللَّهِ أَوَّلَهُ وَآخِرَهُ فَضَحِكَ النَّبِيُّ صلى الله عليه وسلم ثُمَّ قَالَ ‏ "‏ مَا زَالَ الشَّيْطَانُ يَأْكُلُ مَعَهُ فَلَمَّا ذَكَرَ اسْمَ اللَّهِ عَزَّ وَجَلَّ اسْتَقَاءَ مَا فِي بَطْنِهِ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ جَابِرُ بْنُ صُبْحٍ جَدُّ سُلَيْمَانَ بْنِ حَرْبٍ مِنْ قِبَلِ أُمِّهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
+
 حدثنا مومل بن الفضل الحراني، حدثنا عيسى، - يعني ابن يونس - حدثنا جابر بن صبح، حدثنا المثنى بن عبد الرحمن الخزاعي، عن عمه، امية بن مخشي - وكان من اصحاب رسول الله صلى الله عليه وسلم - قال كان رسول الله صلى الله عليه وسلم جالسا ورجل ياكل فلم يسم حتى لم يبق من طعامه الا لقمة فلما رفعها الى فيه قال بسم الله اوله واخره فضحك النبي صلى الله عليه وسلم ثم قال " ما زال الشيطان ياكل معه فلما ذكر اسم الله عز وجل استقاء ما في بطنه " . قال ابو داود جابر بن صبح جد سليمان بن حرب من قبل امه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
 
 ## Bengali
 
+। উমাইয়্যাহ ইবনু মাখশী (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীদের অন্তর্ভুক্ত ছিলেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বসা ছিলেন। তখন এক লোক খাচ্ছিল, কিন্তু আল্লাহর নাম নিয়ে খাওয়া শুরু করেনি। মাত্র এক লোকমা খাবার বাকি থাকতে সে তা মুখে দেয়ার সময় বললো, খাবারের শুরুতে ও শেষ বিসমিল্লাহ। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হেসে দিলেন এবং বললেনঃ শয়তান তার সঙ্গে খাচ্ছিল। যখন সে আল্লাহর নাম উচ্চারণ করলো, শয়তান তার পেটের খাবার বমি করে ফেলে দিলো।\[1\] দুর্বলঃ মিশকাত
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উমাইয়্যাহ ইবনু মাখশী (রাঃ) সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবীদের অন্তর্ভুক্ত ছিলেন। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বসা ছিলেন। তখন এক লোক খাচ্ছিল, কিন্তু আল্লাহর নাম নিয়ে খাওয়া শুরু করেনি। মাত্র এক লোকমা খাবার বাকি থাকতে সে তা মুখে দেয়ার সময় বললো, খাবারের শুরুতে ও শেষ বিসমিল্লাহ। তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হেসে দিলেন এবং বললেনঃ শয়তান তার সঙ্গে খাচ্ছিল। যখন সে আল্লাহর নাম উচ্চারণ করলো, শয়তান তার পেটের খাবার বমি করে ফেলে দিলো।[1] দুর্বলঃ মিশকাত
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umayyah ibn Makhshi: Umayyah was sitting and a man was eating. He did not mention Allah's name until there remained the last morsel. When he raised it to his mouth, he said: In the name of Allah at the beginning and at the end of it. The Prophet (ﷺ) laughed and said: The devil kept eating along with him, but when he mentioned Allah's name, he vomited what was in his belly. Abu Dawud: Jabir bin Subh is grandfather of Sulaiman bin Harb from his mother's side
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
+
+## French
+
+Rapporté par Umayyah ibn Makhshi : Umayyah était assis et un homme mangeait. Il n’a pas mentionné le nom d’Allah jusqu’à la dernière bouchée. Quand il l’a portée à sa bouche, il a dit : « Au nom d’Allah au début et à la fin. » Le Prophète ﷺ a ri et a dit : « Le diable a mangé avec lui, mais quand il a mentionné le nom d’Allah, il a vomi ce qu’il avait dans le ventre. » Abu Dawud a précisé : Jabir bin Subh est le grand-père de Sulaiman bin Harb du côté maternel
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muammal bin Al Fadll Al Harrani\] telah menceritakan kepada kami \[Isa bin Yunus\] telah menceritakan kepada kami \[Jabir bin Shubh\] telah menceritakan kepada kami \[Al Mutsanna bin Abdurrahman Al Khuza'i\] dari pamannya \[Umayyah bin Makhsyi\] seorang sahabat Rasulullah shallallahu 'alaihi wasallam, ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah duduk, sementara ada seorang laki-laki makan dan tidak menyebutkan nama Allah hingga makanannya hanya tersisa satu suap, kemudian tatkala ia mengangkatnya ke mulut ia mengucapkan; BISMILLAAHI AWWALAHU WA AAKHIRAHU (Dengan nama Allah, pada awal dan akhirnya), maka Nabi shallallahu 'alaihi wasallam tertawa kemudian berkata: "Setan terus makan bersamanya, kemudian tatkala ia menyebutkan nama Allah Azza wa Jalla, maka setan memuntahkan apa yang ada di perutnya." Abu Daud berkata, "Jabir bin Shubh adalah kakek Sulaiman bin Harb dari pihak ibunya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muammal bin Al Fadll Al Harrani] telah menceritakan kepada kami [Isa bin Yunus] telah menceritakan kepada kami [Jabir bin Shubh] telah menceritakan kepada kami [Al Mutsanna bin Abdurrahman Al Khuza'i] dari pamannya [Umayyah bin Makhsyi] seorang sahabat Rasulullah shallallahu 'alaihi wasallam, ia berkata, "Rasulullah shallallahu 'alaihi wasallam pernah duduk, sementara ada seorang laki-laki makan dan tidak menyebutkan nama Allah hingga makanannya hanya tersisa satu suap, kemudian tatkala ia mengangkatnya ke mulut ia mengucapkan; BISMILLAAHI AWWALAHU WA AAKHIRAHU (Dengan nama Allah, pada awal dan akhirnya), maka Nabi shallallahu 'alaihi wasallam tertawa kemudian berkata: "Setan terus makan bersamanya, kemudian tatkala ia menyebutkan nama Allah Azza wa Jalla, maka setan memuntahkan apa yang ada di perutnya." Abu Daud berkata, "Jabir bin Shubh adalah kakek Sulaiman bin Harb dari pihak ibunya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Умайя ибн Махши, да будет доволен им Аллах, из числа сподвижников Посланника Аллаха ﷺ сказал: «Как-то раз один человек ел в присутствии сидевшего Посланника Аллаха ﷺ и не поминал Аллаха до тех пор, пока от его еды не остался один кусок. Поднеся его ко рту, этот человек сказал: “С именем Аллаха в начале и конце её!” Пророк ﷺ улыбнулся и сказал: “Шайтан ел вместе с ним, а когда он помянул имя Всемогущего и Великого Аллаха, шайтан изверг из себя всё то, что было в его в чреве”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Rasûlullah (s.a.v.)'in sahâbîlerinden Ümeyye b. Mahşî (r.a)'den şöyle rivayet olunmuştur: Rasûlullah (s.a.v.) oturuyordu. Bir adam da (orada) yemek yiyordu. (Adam yemek yerken) Besmele çekmedi. Yemekten sadece bir lokma kalmıştı. (Adam) o lokmayı ağzına kaldırdığı sırada, 'Bismillâhi evvelehü ve âhirehu' dedi. Bunun üze­rine Nebi (s.a.v.) gülmeye başladı. Sonra: "Şeytan bu adamla beraber yemeye devam ediyordu. (Adam) Aziz ve Celîl olan Allah'ın ismini anınca (şeytan yediği yemekten) karnında ne varsa (hepsini) kustu' buyurdu. Ebû Dâvûd dedi ki: (Bu hadisin râvilerinden olan) Câbir b. Subh, Süleyman b. Harb'in anne cihetinden dedesidir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مثنی بن عبدالرحمٰن خزاعی اپنے چچا امیہ بن مخشی رضی اللہ عنہ سے روایت کرتے ہیں (وہ صحابی رسول صلی اللہ علیہ وسلم تھے) وہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم بیٹھے ہوئے تھے اور ایک شخص کھانا کھا رہا تھا اس نے بسم اللہ نہیں کیا یہاں تک کہ اس کا کھانا صرف ایک لقمہ رہ گیا تھا جب اس نے لقمہ اپنے منہ کی طرف اٹھایا تو کہا: اس کی ابتداء اور انتہاء اللہ کے نام سے یہ سن کر نبی اکرم صلی اللہ علیہ وسلم ہنس پڑے اور فرمایا: شیطان اس کے ساتھ برابر کھاتا رہا جب اس نے اللہ کا نام لیا تو جو کچھ اس کے پیٹ میں تھا اس نے قے کر دی ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3768</td></tr><tr><td>Arabic No</td><td>3768</td></tr><tr><td>Reference</td><td>Book 28 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3768 |
+| Arabic No | 3768 |
+| Reference | Book 28 Hadith 33 |

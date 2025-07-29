@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ، - يَعْنِي ابْنَ عُمَرَ - عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ كَانَ يَأْتِي الْجِمَارَ فِي الأَيَّامِ الثَّلاَثَةِ بَعْدَ يَوْمِ النَّحْرِ مَاشِيًا ذَاهِبًا وَرَاجِعًا وَيُخْبِرُ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَفْعَلُ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
+
 حدثنا القعنبي، حدثنا عبد الله، - يعني ابن عمر - عن نافع، عن ابن عمر، انه كان ياتي الجمار في الايام الثلاثة بعد يوم النحر ماشيا ذاهبا وراجعا ويخبر ان النبي صلى الله عليه وسلم كان يفعل ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। তিনি কংকর মারার জন্য (কুরবানীর পরের) তিন দিন জামরাতসমূহে পায়ে হেঁটে আসা-যাওয়া করতেন। তিনি বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামও এরূপ করতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। তিনি কংকর মারার জন্য (কুরবানীর পরের) তিন দিন জামরাতসমূহে পায়ে হেঁটে আসা-যাওয়া করতেন। তিনি বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লামও এরূপ করতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi' reported on the authority of Ibn Umar. He (ibn Umar) used to come (to Mina) and threw pebbles three days after the day of sacrifice walking when arriving and returning (both ways). He reported that the Prophet (ﷺ) used to do so
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
+
+## French
+
+Nafi' a rapporté d’après Ibn Umar : Il avait l’habitude de venir à Mina et de lancer des cailloux pendant trois jours après le jour du sacrifice, en marchant à l’aller comme au retour. Il a rapporté que le Prophète ﷺ faisait de même
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Al Qa'nabi\], telah menceritakan kepada Kami \[Abdullah bin Umar\] dari \[Nafi'\] dari \[Ibnu Ibnu Umar\] bahwa ia datang ke jumrah pada tiga hari setelah hari Nahr dengan berjalan kaki pulang pergi, dan ia mengabarkan bahwa Nabi shallallahu 'alaihi wasallam melakukan hal tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Al Qa'nabi], telah menceritakan kepada Kami [Abdullah bin Umar] dari [Nafi'] dari [Ibnu Ibnu Umar] bahwa ia datang ke jumrah pada tiga hari setelah hari Nahr dengan berjalan kaki pulang pergi, dan ia mengabarkan bahwa Nabi shallallahu 'alaihi wasallam melakukan hal tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Нафи‘ передаёт, что Ибн ‘Умар приходил к месту бросания камешков после дня жертвоприношения в течение трёх дней. Он приходил и возвращался пешком и говорил, что Пророк ﷺ поступал так
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.), kurban (bayramının ilk) gününden sonraki üç günde (cemrelere taş atmak için) yaya olarak gelir, giderdi ve Peygamber (s.a.v.)'in de böyle yaptığını söylerdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ وہ یوم النحر کے بعد تین دنوں میں جمرات کی رمی کے لیے پیدل چل کر آتے تھے اور پیدل ہی واپس جاتے اور وہ بتاتے تھے کہ خود نبی اکرم صلی اللہ علیہ وسلم ایسا ہی کرتے تھے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1969</td></tr><tr><td>Arabic No</td><td>1969</td></tr><tr><td>Reference</td><td>Book 11 Hadith 249</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1969 |
+| Arabic No | 1969 |
+| Reference | Book 11 Hadith 249 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي يَعْفُورٍ، - قَالَ أَبُو دَاوُدَ وَاسْمُهُ وَقْدَانُ - عَنْ مُصْعَبِ بْنِ سَعْدٍ، قَالَ صَلَّيْتُ إِلَى جَنْبِ أَبِي فَجَعَلْتُ يَدَىَّ بَيْنَ رُكْبَتَىَّ فَنَهَانِي عَنْ ذَلِكَ، فَعُدْتُ فَقَالَ لاَ تَصْنَعْ هَذَا فَإِنَّا كُنَّا نَفْعَلُهُ فَنُهِينَا عَنْ ذَلِكَ وَأُمِرْنَا أَنْ نَضَعَ أَيْدِيَنَا عَلَى الرُّكَبِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
+
 حدثنا حفص بن عمر، حدثنا شعبة، عن ابي يعفور، - قال ابو داود واسمه وقدان - عن مصعب بن سعد، قال صليت الى جنب ابي فجعلت يدى بين ركبتى فنهاني عن ذلك، فعدت فقال لا تصنع هذا فانا كنا نفعله فنهينا عن ذلك وامرنا ان نضع ايدينا على الركب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
 
 ## Bengali
 
+। মুস‘আব ইবনু সা’দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি আমার পিতার পাশে দাঁড়িয়ে সালাত আদায়কালে আমার দু’ হাত দু’ হাঁটুর মাঝখানে রাখলে তিনি আমাকে এরূপ করতে নিষেধ করেন। কিন্তু আমি পুনরায় এরূপ করলে তিনি আমাকে বলেনঃ এরূপ করো না, কেননা পূর্বে আমরাও এরূপ করতাম; কিন্তু আমাদেরকে এরূপ করতে নিষেধ করা হয় এবং আমাদের হাঁটুর উপর হাত রাখার নির্দেশ দেয়া হয়।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুস‘আব ইবনু সা’দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি আমার পিতার পাশে দাঁড়িয়ে সালাত আদায়কালে আমার দু’ হাত দু’ হাঁটুর মাঝখানে রাখলে তিনি আমাকে এরূপ করতে নিষেধ করেন। কিন্তু আমি পুনরায় এরূপ করলে তিনি আমাকে বলেনঃ এরূপ করো না, কেননা পূর্বে আমরাও এরূপ করতাম; কিন্তু আমাদেরকে এরূপ করতে নিষেধ করা হয় এবং আমাদের হাঁটুর উপর হাত রাখার নির্দেশ দেয়া হয়।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mus’ab b sa’d said:I prayed by the side of my father. I put both of my hands between my knees(in bowing condition). He prohibited me from it. I then repeated; so he said: Do not do so, because we used to do so. But we were prohibited to do that, and commanded to put our hands on the knees
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
+
+## French
+
+Mus’ab b. Sa’d a dit : J’ai prié à côté de mon père. J’ai mis mes deux mains entre mes genoux (en s’inclinant). Il m’a interdit de le faire. Je l’ai refait, alors il m’a dit : « Ne fais pas cela, car nous le faisions autrefois. Mais on nous a interdit de le faire, et on nous a ordonné de poser les mains sur les genoux. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar\] telah menceritakan kepada kami \[Syu'bah\] dari \[Abu Ya'fur\]. Abu Daud mengatakan; namanya adalah Waqdan, dari \[Mush'ab bin Sa'd\] dia berkata; "Aku mengerjakan shalat di samping ayahku, lalu aku meletakkan kedua tanganku antara kedua lututku, maka dia melarangku mengerjakan cara yang demikian, lalu saya mengulanginya, maka \[ayahku\] berkata; "Janganlah kamu melakukan cara yang seperti ini, karena sesungguhnya kami pernah melakukan cara seperti ini, lalu kami dilarang melakukannya dan kami di perintahkan supaya meletakkan tangan di atas lutut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ya'fur]. Abu Daud mengatakan; namanya adalah Waqdan, dari [Mush'ab bin Sa'd] dia berkata; "Aku mengerjakan shalat di samping ayahku, lalu aku meletakkan kedua tanganku antara kedua lututku, maka dia melarangku mengerjakan cara yang demikian, lalu saya mengulanginya, maka [ayahku] berkata; "Janganlah kamu melakukan cara yang seperti ini, karena sesungguhnya kami pernah melakukan cara seperti ini, lalu kami dilarang melakukannya dan kami di perintahkan supaya meletakkan tangan di atas lutut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Мус‘аб ибн Са‘д сказал: «Однажды я молился рядом со своим отцом и при совершении поясного поклона соединил руки, поместив их между колен. Мой отец запретил мне делать это, но я сделал это снова, и тогда он сказал: “Мы делали то же самое, но нам было запрещено это, и было нам велено класть руки на колени”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mus'ab b. Sa'd'dan; demiştir ki: (Bir gün) baba'mın yanı-başında namaz kıldım. Ellerimi (kenetleyerek) dizlerimin arasına koy­muştum. Beni bu şekilde namaz kılmaktan nehyetti. (Ellerim kenetli ve dizlerimin arasında olarak) tekrar bir namaz daha kıldım, bunun üzerine dedi ki: "Bunu yapma, Bunu biz yapardık, fakat sonra bunu yapmaktan nehyolunduk ve avuçlarımızı (rüku'da) dizlerimizin üzerine koyduk." Diğer tahric: Buharî.ezan; Müslim, mesacid; Tirmizî, salat; Nesaî, iftitah, tatbîk, sehv; Darimî, salat; Ahmed b. Hanbel, 1-287; IV-119, 120, 316 - 319, 340; V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مصعب بن سعد کہتے ہیں میں نے اپنے والد کے بغل میں نماز پڑھی تو میں نے ( رکوع میں ) اپنے دونوں ہاتھ اپنے دونوں گھٹنوں کے بیچ میں کر لیے تو انہوں نے مجھے ایسا کرنے سے منع کیا، پھر میں نے دوبارہ ایسے ہی کیا تو انہوں نے کہا: تم ایسا نہ کیا کرو کیونکہ پہلے ہم بھی ایسا ہی کرتے تھے، پھر ہم کو ایسا کرنے سے روک دیا گیا اور ہمیں حکم دیا گیا کہ ہم اپنے ہاتھ اپنے گھٹنوں پر رکھیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (790) Sahih Muslim (535)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>867</td></tr><tr><td>Arabic No</td><td>867</td></tr><tr><td>Reference</td><td>Book 2 Hadith 477</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (790) Sahih Muslim (535) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 867 |
+| Arabic No | 867 |
+| Reference | Book 2 Hadith 477 |

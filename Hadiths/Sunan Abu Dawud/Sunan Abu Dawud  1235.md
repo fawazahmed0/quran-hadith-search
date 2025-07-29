@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ يَحْيَى بْنِ أَبِي كَثِيرٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ ثَوْبَانَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ أَقَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِتَبُوكَ عِشْرِينَ يَوْمًا يَقْصُرُ الصَّلاَةَ ‏.‏ قَالَ أَبُو دَاوُدَ غَيْرُ مَعْمَرٍ لاَ يُسْنِدُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
+
 حدثنا احمد بن حنبل، حدثنا عبد الرزاق، اخبرنا معمر، عن يحيى بن ابي كثير، عن محمد بن عبد الرحمن بن ثوبان، عن جابر بن عبد الله، قال اقام رسول الله صلى الله عليه وسلم بتبوك عشرين يوما يقصر الصلاة . قال ابو داود غير معمر لا يسنده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
 
 ## Bengali
 
+। জাবির ইবনু ‘আবদুল্লাহ রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাবূকে বিশ দিন অবস্থানকালে সালাত ক্বসর করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু ‘আবদুল্লাহ রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাবূকে বিশ দিন অবস্থানকালে সালাত ক্বসর করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) stayed at Tabuk twenty days; he shortened the prayer (during his stay). Abu Dawud said: No one narrates this tradition with continuous chain except Ma'mar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ est resté vingt jours à Tabuk, et il a raccourci la prière pendant son séjour. Abu Dawud a dit : Personne ne rapporte ce récit avec une chaîne continue sauf Ma’mar
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Abdurrazaq\] telah mengabarkan kepada kami \[Ma'mar\] dari \[Yahya bin Abu Katsir\] dari \[Muhammad bin Abdurrahman bin Tsauban\] dari \[Jabir bin Abdullah\] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah bermukim di Tabuk selama dua puluh hari, dan selalu mengqashar shalat." Abu Daud mengatakan; "selain Ma'mar, memursalkan hadits ini, dan sanadnya tidak bersambung
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdurrazaq] telah mengabarkan kepada kami [Ma'mar] dari [Yahya bin Abu Katsir] dari [Muhammad bin Abdurrahman bin Tsauban] dari [Jabir bin Abdullah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam pernah bermukim di Tabuk selama dua puluh hari, dan selalu mengqashar shalat." Abu Daud mengatakan; "selain Ma'mar, memursalkan hadits ini, dan sanadnya tidak bersambung
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ пробыл в Табуке двадцать дней и всё это время сокращал молитву
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir b. Abdullah'dan; demiştir ki: Resûlullah (s.a.v.) Tebûk'de namaz(lar)ı kısaltarak yirmi (gün) kaldı. Ebû Dâvûd dedi ki: (Bu hadisi) Ma'mer'den başka müsned ola­rak rivayet eden yoktur. Diğer tahric: Buhârî, taksir; Ahmed b. Hanbel, III, 295; Beyhakî, es-Sünenü'l-kübrâ, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے تبوک میں بیس دن قیام فرمایا اور نماز قصر کرتے رہے۔ ابوداؤد کہتے ہیں: معمر کے علاوہ سبھی اسے مرسل روایت کرتے ہیں، کوئی اسے مسند روایت نہیں کرتا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>1235</td></tr><tr><td>Reference</td><td>Book 4 Hadith 38</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 1235 |
+| Reference | Book 4 Hadith 38 |

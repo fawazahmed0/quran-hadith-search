@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا عَبْدُ بْنُ حُمَيْدٍ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا قَعَدَ فِي التَّشَهُّدِ وَضَعَ يَدَهُ الْيُسْرَى عَلَى رُكْبَتِهِ الْيُسْرَى وَوَضَعَ يَدَهُ الْيُمْنَى عَلَى رُكْبَتِهِ الْيُمْنَى وَعَقَدَ ثَلاَثَةً وَخَمْسِينَ وَأَشَارَ بِالسَّبَّابَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا عبد بن حميد، حدثنا يونس بن محمد، حدثنا حماد بن سلمة، عن ايوب، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم كان اذا قعد في التشهد وضع يده اليسرى على ركبته اليسرى ووضع يده اليمنى على ركبته اليمنى وعقد ثلاثة وخمسين واشار بالسبابة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## Bengali
 
+আবদ ইবনু হুমায়দ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের মধ্যে "তাশাহহুদ’ পড়তে যখন বসতেন তখন বাঁ হাতটি বা হাঁটুর উপর এবং ডান হাত ডান হাঁটুর উপর রাখতেন। আর (হাতের তালু ও আঙ্গুলসমূহ গুটিয়ে আরবী) তিপ্পান্ন সংখ্যার মতো করে শাহাদাত আঙ্গুল দ্বারা ইশারা করতেন\*। (ইসলামী ফাউন্ডেশন ১১৮৬, ইসলামীক সেন্টার)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবদ ইবনু হুমায়দ (রহঃ) ..... আবদুল্লাহ ইবনু উমর (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতের মধ্যে "তাশাহহুদ’ পড়তে যখন বসতেন তখন বাঁ হাতটি বা হাঁটুর উপর এবং ডান হাত ডান হাঁটুর উপর রাখতেন। আর (হাতের তালু ও আঙ্গুলসমূহ গুটিয়ে আরবী) তিপ্পান্ন সংখ্যার মতো করে শাহাদাত আঙ্গুল দ্বারা ইশারা করতেন*। (ইসলামী ফাউন্ডেশন ১১৮৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Another version on the authority of Ibn Umar says:When the Messenger of Allah (ﷺ) sat for tashahhud, he placed his left hand on his left knee and placed his right hand on his right knee, and he formed a ring like (fifty-three) and pointed with his finger of attestation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## French
 
+Rapporté par Ibn ‘Umar رضي الله عنه : Une autre version dit : Lorsque le Messager d’Allah ﷺ s’asseyait pour le tashahhud, il posait sa main gauche sur son genou gauche, sa main droite sur son genou droit, formait un cercle en joignant son pouce et son majeur, et pointait avec le doigt de l’attestation
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## Indonesian
 
+Dan Telah menceritakan kepada kami \[Abd bin Humaid\] telah menceritakan kepada kami \[Yunus bin Muhammad\] telah menceritakan kepada kami \[Hammad bin Salamah\] dari \[Ayyub\] dari \[Nafi'\] dari \[Ibn Umar\] bahwa apabila Rasulullah shallallahu 'alaihi wasallam duduk tasyahhud, beliau meletakkan tangan kirinya diatas lutut kirinya dan meletakkan tangan kanannya diatas lutut kanannya, dan beliau lingkarkan jarinya sehingga membentuk angka lima puluh tiga, lalu beliau memberi isyarat dengan jari telunjuk
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan Telah menceritakan kepada kami [Abd bin Humaid] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Hammad bin Salamah] dari [Ayyub] dari [Nafi'] dari [Ibn Umar] bahwa apabila Rasulullah shallallahu 'alaihi wasallam duduk tasyahhud, beliau meletakkan tangan kirinya diatas lutut kirinya dan meletakkan tangan kanannya diatas lutut kanannya, dan beliau lingkarkan jarinya sehingga membentuk angka lima puluh tiga, lalu beliau memberi isyarat dengan jari telunjuk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается со слов Ибн ‘Умара, что, когда Посланник Аллаха ﷺ садился (во время молитвы) для совершения ташаххуда, он возлагал левую ладонь на левое колено, а правую ладонь на правое колено, соединив (пальцы таким образом, что получалось число) пятьдесят три, и приподнимал указательный палец
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அத்தஹிய்யாத் அமர்வில் உட்கார்ந்தால் தமது இடக் கையை இடது கால் மூட்டின் மீதும் வலக் கையை வலது கால் மூட்டின் மீதும் வைப்பார்கள். (அரபியர் வழக்கில்) ஐம்பத்து மூன்று என எண்ணுவதைப் போன்று (சிறு விரல், மோதிர விரல், நடு விரல் ஆகிய மூன்று விரல்களையும் உள்ளங்கையுடன் சேர்த்து) சுட்டு விரலால் சைகை செய்வார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Abd b. Humeyd rivayet etti. (Dediki) : Bite Yûnus b. Muhammed rivayet etti. (Dediki) : Bize Hammâd b. Seleme, Eyyûb'dan, o da Nâfi'den, o da İbni Ömer'den naklen rivayet etti ki: Resulullah (Sallallahu Aleyhi ve Sellem) teşehhudde oturduğu vakit sol elini sol dizinin üzerine koyar; sağ elini de sağ dizinin üzerine koyar ve elliüç (53) işareti yaparmış. Şehâdet parmağı ile de işaret edermiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایوب نے نافع سے اور انھوں نے حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ رسول اللہﷺجب تشہد میں بیٹھتےتو اپنا بایاں ہاتھ اپنے بائیں گٹھنے پررکھتےاوراپنا دایاں ہاتھ اپنے دائیں گٹھنے پر رکھتے اور انگلیوں سے تریپن ( 53 ) کی گرا بناتے اور انگشت شہادت سے اشارہ کرتے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1310</td></tr><tr><td>Arabic No</td><td>580.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1310 |
+| Arabic No | 580.02 |
+| Reference | Book 5 Hadith 148 |

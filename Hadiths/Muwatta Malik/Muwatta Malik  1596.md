@@ -14,62 +14,108 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ أَبِي لَيْلَى بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ سَهْلٍ، عَنْ سَهْلِ بْنِ أَبِي حَثْمَةَ، أَنَّهُ أَخْبَرَهُ رِجَالٌ، مِنْ كُبَرَاءِ قَوْمِهِ أَنَّ عَبْدَ، اللَّهِ بْنَ سَهْلٍ وَمُحَيِّصَةَ خَرَجَا إِلَى خَيْبَرَ مِنْ جَهْدٍ أَصَابَهُمْ فَأُتِيَ مُحَيِّصَةُ فَأُخْبِرَ أَنَّ عَبْدَ اللَّهِ بْنَ سَهْلٍ قَدْ قُتِلَ وَطُرِحَ فِي فَقِيرِ بِئْرٍ أَوْ عَيْنٍ فَأَتَى يَهُودَ فَقَالَ أَنْتُمْ وَاللَّهِ قَتَلْتُمُوهُ ‏.‏ فَقَالُوا وَاللَّهِ مَا قَتَلْنَاهُ ‏.‏ فَأَقْبَلَ حَتَّى قَدِمَ عَلَى قَوْمِهِ فَذَكَرَ لَهُمْ ذَلِكَ ثُمَّ أَقْبَلَ هُوَ وَأَخُوهُ حُوَيِّصَةُ وَهُوَ أَكْبَرُ مِنْهُ وَعَبْدُ الرَّحْمَنِ فَذَهَبَ مُحَيِّصَةُ لِيَتَكَلَّمَ وَهُوَ الَّذِي كَانَ بِخَيْبَرَ فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ كَبِّرْ كَبِّرْ ‏"‏ يُرِيدُ السِّنَّ فَتَكَلَّمَ حُوَيِّصَةُ ثُمَّ تَكَلَّمَ مُحَيِّصَةُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِمَّا أَنْ يَدُوا صَاحِبَكُمْ وَإِمَّا أَنْ يُؤْذِنُوا بِحَرْبٍ ‏"‏ ‏.‏ فَكَتَبَ إِلَيْهِمْ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي ذَلِكَ فَكَتَبُوا إِنَّا وَاللَّهِ مَا قَتَلْنَاهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِحُوَيِّصَةَ وَمُحَيِّصَةَ وَعَبْدِ الرَّحْمَنِ ‏"‏ أَتَحْلِفُونَ وَتَسْتَحِقُّونَ دَمَ صَاحِبِكُمْ ‏"‏ ‏.‏ فَقَالُوا لاَ ‏.‏ قَالَ ‏"‏ أَفَتَحْلِفُ لَكُمْ يَهُودُ ‏"‏ قَالُوا لَيْسُوا بِمُسْلِمِينَ ‏.‏ فَوَدَاهُ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْ عِنْدِهِ فَبَعَثَ إِلَيْهِمْ بِمِائَةِ نَاقَةٍ حَتَّى أُدْخِلَتْ عَلَيْهِمُ الدَّارَ ‏.‏ قَالَ سَهْلٌ لَقَدْ رَكَضَتْنِي مِنْهَا نَاقَةٌ حَمْرَاءُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |
+
 حدثني يحيى، عن مالك، عن ابي ليلى بن عبد الله بن عبد الرحمن بن سهل، عن سهل بن ابي حثمة، انه اخبره رجال، من كبراء قومه ان عبد، الله بن سهل ومحيصة خرجا الى خيبر من جهد اصابهم فاتي محيصة فاخبر ان عبد الله بن سهل قد قتل وطرح في فقير بير او عين فاتى يهود فقال انتم والله قتلتموه . فقالوا والله ما قتلناه . فاقبل حتى قدم على قومه فذكر لهم ذلك ثم اقبل هو واخوه حويصة وهو اكبر منه وعبد الرحمن فذهب محيصة ليتكلم وهو الذي كان بخيبر فقال له رسول الله صلى الله عليه وسلم " كبر كبر " يريد السن فتكلم حويصة ثم تكلم محيصة . فقال رسول الله صلى الله عليه وسلم " اما ان يدوا صاحبكم واما ان يوذنوا بحرب " . فكتب اليهم رسول الله صلى الله عليه وسلم في ذلك فكتبوا انا والله ما قتلناه . فقال رسول الله صلى الله عليه وسلم لحويصة ومحيصة وعبد الرحمن " اتحلفون وتستحقون دم صاحبكم " . فقالوا لا . قال " افتحلف لكم يهود " قالوا ليسوا بمسلمين . فوداه رسول الله صلى الله عليه وسلم من عنده فبعث اليهم بماية ناقة حتى ادخلت عليهم الدار . قال سهل لقد ركضتني منها ناقة حمراء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মালিক (রহঃ) বলেন, যদি নিহত ব্যক্তির উত্তরাধিকারিগণ দিয়াত (রক্তপণ) গ্রহণ করে তাহা হইলে উহা আল্লাহর কিতাবে বর্ণিত নিয়মে বন্টন করা হইবে। মৃত ব্যক্তিকে কন্যাগণ, ভাগ্নিগণ এবং যে সমস্ত নারী তাহার উত্তরাধিকারিণী তাহারা অংশ পাইবে। যদি তাহাদের অংশ দেওয়ার পরও কিছু অবশিষ্ট থাকে, তবে উহা নিকটাত্মীয় আসবাবগণ পাইবে। মালিক (রহঃ) বলেন, যদি নিহত ব্যক্তির কোন উত্তরাধিকারী অনুপস্থিত থাকে, আর কেহ কেহ উপস্থিত থাকে, উপস্থিত উত্তরাধিকারিগণ কসম করিয়া নিজেদের অংশ গ্রহণ করিতে ইচ্ছা করে, তবে তাহারা সম্পূর্ণ কসম পূর্ণ করার পূর্বে তাহাদের অংশ গ্রহণ করিতে পারবে না, অবশ্য যদি তাহারা পঞ্চাশ কসম পূর্ণ করে, তবে দিয়াতের অংশ যাহা তাহাদের ভাগে পড়ে উহা তাহারা গ্রহণ করিতে পারিবে। কেননা পঞ্চাশ কসমের পূর্বে তো হত্যাই সাব্যস্ত হয় না, আর হত্যা সাব্যস্ত না হইলে দিয়াতও সাব্যস্ত হয় না, এইরূপ সমস্ত উত্তরাধিকারীর প্রাপ্য অংশ পূর্ণ হইয়া যাইবে। যদি বৈপিত্রেয় ভাই আসে, তবে সে এক তৃতীয়াংশ পাইবে এবং পঞ্চাশ কসমের অংশ হারে কসম করিয়া স্বীয় অংশ গ্রহণ করিবে। যদি সে কসম না করে তবে তাহার অংশ সে পাইবে না। যদি কোন অপ্রাপ্ত বয়স্ক উত্তরাধিকারী অনুপস্থিত থাকে, তবে উপস্থিত উত্তরাধিকারী হইতে পঞ্চাশ কসম লওয়া হইবে। অতঃপর যদি অনুপস্থিত ব্যক্তি আসিয়া পড়ে তাহা হইতেও তাহার অংশের অনুপাতে কসম লওয়া হইবে। আর যখন অপ্রাপ্তবয়স্ক বালেগ হইয়া যায় তখন সেও স্বীয় অংশ অনুপাতে কসম করিবে। এই ব্যাপারে ইহাই উত্তম সিদ্ধান্ত যাহা আমি শ্রবণ করিয়াছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik from Abu Layla ibn Abdullah ibn Abd ar-Rahman ibn Sahl from Sahl ibn Abi Hathma that some of the great men of his people informed him that Abdullah ibn Sahl and Muhayyisa went out to Khaybar because extreme poverty had overtaken them. Muhayyisa returned and said that Abdullah ibn Sahl had been killed and thrown in a shallow well or spring. The jews came and he said, "By Allah! You have killed him." They said, "By Allah! We have not killed him!" Then he made for his people and mentioned that to them. Then he, his brother Huwayyisa, who was older than him, and Abd ar-Rahman, set out. Muhayyisa began to speak, as he had been at Khaybar. The Messenger of Allah, may Allah bless him and grant him peace, said to him, "The greater first, the greater first," meaning in age. So Huwayyisa spoke and then Muhayyisa spoke. The Messenger of Allah, may Allah bless him and grant him peace, said, "Either they pay your companion's blood-money or we will declare war against them." The Messenger of Allah, may Allah bless him and grant him peace, wrote that to them and they wrote, "By Allah, we did not kill him!" The Messenger of Allah, may Allah bless him and grant him peace, said to Huwayyisa, Muhayyisa, and Abd ar-Rahman, "Do you swear and claim the blood of your companion?" They said, "No." He said, "Shall the jews swear to you?" They said, "But they are not muslims." The Messenger of Allah, may Allah bless him and grant him peace, gave blood-money from his own property, and sent them one hundred camels to their house. Sahl added, "A red camel among them kicked me
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sahl Ibn Abi Hathma a rapporté que des notables de sa tribu lui ont appris ce qui suit: «Abdallah Ibn Sahl et Mouhayssa, ayant subi un échec total, se rendirent à Khaibar. On vint apprendre à Mouhayssa que Abdallah Ibn Sahl avait été assommé et abandonné près d'un puits ou d'un palmier. Des juifs arrivant au lieu, Mouhayssa leur dit: «C'est vous, par Allah, qui l'avez tué», et les juifs de répondre: «Par Allah!, nous ne l'avons pas tué». Mouhayssa, retourna à sa tribu, pour leur apprendre l'événement, puis vint avec son frère Houayssa, qui était plus grand que lui, et Abdul Rahman. Ainsi, Mouhayssa, qui était à Khaibar, voulant parler, l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) lui fit la remarque: «Que le plus grand ait la parole»; Houayssa parla, puis son frère Mouhayssa eut à son tour la parole, après quoi, l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) leur répondit:«Ou que les juifs paient le prix du sang, ou que la guerre soit déclarée». Puis l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) informa par écrit de sa décision, aux juifs, qui lui répondirent: «Par Allah! nous ne l'avons pas tué». Alors, l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) dit à Houayssa, Mouhayssa et Abdul Rahman: «feriez-vous serment, qui vous fera mériter le prix du sang de votre frère»? Comme ils le refusèrent il reprit: «Voudriez-vous que les juifs en fassent serment»? - «Non, lui répondirent-ils, ils ne sont pas des musulmans». Ainsi, l'Envoyé d'Allah (salallahou alayhi wa salam) r (Sur lui la grâce et la paix d'Allah) leur paya de ses biens (à savoir du trésor public) le prix du sang, leur envoyant cent chamelles, qui ont été rendues à leur demeure, où Sahl a dit: «les chamelles étant reçues par nous, l'une d'elles, rousse, me donna un coup de pied»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku Yahya dari Malik dari \[Abu Laila bin Abdullah bin Abdurrahman bin Sahl\] dari \[Sahl bin Abu Hatsmah\] bahwa ada beberapa orang petinggi kaumnya mengabarkan kepadanya, bahwa Abdullah bin Sahl dan Muhayyishah berangkat ke Khaibar karena sebab kesengsaraan yang menimpa mereka. Lalu seseorang menemui Muhayyishah dan mengabarkan bahwa Abdullah bin Sahl telah dibunuh dan dibuang di samping sumur atau mata air. Muhayyishah kemudian menemui orang-orang Yahudi dan berkata; "Demi Allah, kalianlah yang telah membunuhnya! " Mereka menjawab; "Demi Allah, kami tidak membunuhnya." Muhayyishah kemudian pergi mendatangi kaumnya, lantas dia mengabarkan perihal pembunuhan itu kepada mereka. Kemudian ia pergi bersama saudaranya, Huwaishah yang lebih besar darinya, dan Abdurrahman. Muhaiyishah lalu pergi untuk membicarakan hal itu, karena dialah yang di Khaibar. Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Yang besar, yang besar! " -maksudnya orang yang umurnya lebih tua-. Akhirnya Huwaishah berbicara dan dibantu oleh Muhaiyishah. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Mereka membayar diat untuk saudara kalian, atau mereka mengumumkan perang." Rasulullah shallallahu 'alaihi wasallam kemudian menulis surat kepada mereka tentang persoalan tersebut. Lalu orang-orang Yahudi membalas surat tersebut, "Demi Allah, kami tidak membunuhnya." Rasulullah shallallahu 'alaihi wasallam bertanya kepada Huwaishah, Muhaiyishah dan Abdurrahman: "Apakah kalian mau bersumpah sehingga kalian berhak atas darah teman kalian, " Mereka menjawab; "Tidak." Beliau bertanya: "Apakah orang-orang Yahudi itu saja yang bersumpah untuk kalian?" Mereka menjawab; "Mereka itu bukan orang Islam." Akhirnya Rasulullah shallallahu 'alaihi wasallam membayar diyat dari harta beliau, dan beliau mengirimkan kepada mereka seratus unta sehingga mereka memasukkan ke rumah mereka. Sahl berkata; "Sampai ada seekor unta merah yang menendangku." Malik berkata; "Al Faqir adalah sumur
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku Yahya dari Malik dari [Abu Laila bin Abdullah bin Abdurrahman bin Sahl] dari [Sahl bin Abu Hatsmah] bahwa ada beberapa orang petinggi kaumnya mengabarkan kepadanya, bahwa Abdullah bin Sahl dan Muhayyishah berangkat ke Khaibar karena sebab kesengsaraan yang menimpa mereka. Lalu seseorang menemui Muhayyishah dan mengabarkan bahwa Abdullah bin Sahl telah dibunuh dan dibuang di samping sumur atau mata air. Muhayyishah kemudian menemui orang-orang Yahudi dan berkata; "Demi Allah, kalianlah yang telah membunuhnya! " Mereka menjawab; "Demi Allah, kami tidak membunuhnya." Muhayyishah kemudian pergi mendatangi kaumnya, lantas dia mengabarkan perihal pembunuhan itu kepada mereka. Kemudian ia pergi bersama saudaranya, Huwaishah yang lebih besar darinya, dan Abdurrahman. Muhaiyishah lalu pergi untuk membicarakan hal itu, karena dialah yang di Khaibar. Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Yang besar, yang besar! " -maksudnya orang yang umurnya lebih tua-. Akhirnya Huwaishah berbicara dan dibantu oleh Muhaiyishah. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Mereka membayar diat untuk saudara kalian, atau mereka mengumumkan perang." Rasulullah shallallahu 'alaihi wasallam kemudian menulis surat kepada mereka tentang persoalan tersebut. Lalu orang-orang Yahudi membalas surat tersebut, "Demi Allah, kami tidak membunuhnya." Rasulullah shallallahu 'alaihi wasallam bertanya kepada Huwaishah, Muhaiyishah dan Abdurrahman: "Apakah kalian mau bersumpah sehingga kalian berhak atas darah teman kalian, " Mereka menjawab; "Tidak." Beliau bertanya: "Apakah orang-orang Yahudi itu saja yang bersumpah untuk kalian?" Mereka menjawab; "Mereka itu bukan orang Islam." Akhirnya Rasulullah shallallahu 'alaihi wasallam membayar diyat dari harta beliau, dan beliau mengirimkan kepada mereka seratus unta sehingga mereka memasukkan ke rumah mereka. Sahl berkata; "Sampai ada seekor unta merah yang menendangku." Malik berkata; "Al Faqir adalah sumur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سہل بن ابی حثمہ کو خبر دی کچھ لوگوں نے جو اس کی قوم کے معزز تھے کہ عبداللہ بن سہل اور محیصہ فقر اور افلاس کی وجہ سے خبیر کو گئے محیصہ کے پاس ایک شخص آیا اور بیان کیا کہ عبداللہ بن سہل کو کسی نے قتل کر کے کنوئیں میں یا چشمے میں ڈال دیا ہے محیصہ یہ سن کر خیبر کے یہودیوں کے پاس آئے اور کہا قسم اللہ کی تم نے اس کو قتل کیا ہے یہودیوں نے کہا قسم اللہ کی ہم نے قتل نہیں کیا اس کو، پھر محیصہ اپنی قوم کے پاس آئے اور ان سے بیان کیا بعد اس کے محیصہ اور ان کے بھائی حویصہ جو محیصہ سے بڑے تھے اور عبدالرحمن بن سہل (جو عبداللہ بن سہل مقتول کے بھائی تھے) رسول اللہ صلی اللہ علیہ وآلہ وسلم کے پاس آئے محیصہ نے چاہا کہ میں بات کروں کیونکہ وہی خبیر کو گئے تھے تو رسول اللہ صلی اللہ علیہ وآلہ وسلم نے فرمایا بزرگی کی رعایت کر۔ حویصہ نے پہلے بیان کیا پھر محیصہ نے بیان کیا رسول اللہ صلی اللہ علیہ وآلہ وسلم نے فرمایا تو یہودی تمہارے قتل کی دیت دیں یا جنگ کریں پھر آپ صلی اللہ علیہ وآلہ وسلم نے یہودیوں کو اس بارے میں لکھا انہوں نے جواب میں لکھا کہ قسم اللہ کی ہم نے اس کو قتل نہیں کیا تب رسول اللہ صلی اللہ علیہ وآلہ وسلم نے حویصہ اور محیصہ اور عبدالرحمن رضی اللہ تعالیٰ عنہ کہا تم قسم کھاؤ کہ یہودیوں نے اس کو مارا ہے تو دیت کے حقدار ہو گے انہوں نے کہا ہم قسم نہ کھائیں گے آپ صلی اللہ علیہ وآلہ وسلم نے فرمایا اچھا اگر یہودی قسم کھالیں کہ ہم نے نہیں مارا انہوں نے کہا یا رسول اللہ صلی اللہ علیہ وآلہ وسلم وہ مسلمان نہیں ہیں تو رسول اللہ صلی اللہ علیہ وآلہ وسلم نے اپنے پاس سے دیت ادا کی سہل کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وآلہ وسلم نے ان کے پاس سو اونٹ بھیجے ان کے گھروں پر ان میں سے ایک سرخ اونٹنی نے مجھے لات ماری تھی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1596</td></tr><tr><td>Arabic No</td><td>1596</td></tr><tr><td>Reference</td><td>Book 44 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1596 |
+| Arabic No | 1596 |
+| Reference | Book 44 Hadith 1 |

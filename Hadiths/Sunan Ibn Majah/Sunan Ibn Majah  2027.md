@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ أَبِي السَّنَابِلِ، قَالَ وَضَعَتْ سُبَيْعَةُ الأَسْلَمِيَّةُ بِنْتُ الْحَارِثِ حَمْلَهَا بَعْدَ وَفَاةِ زَوْجِهَا بِبِضْعٍ وَعِشْرِينَ لَيْلَةً فَلَمَّا تَعَلَّتْ مِنْ نِفَاسِهَا تَشَوَّفَتْ فَعِيبَ ذَلِكَ عَلَيْهَا وَذُكِرَ أَمْرُهَا لِلنَّبِيِّ ـ صلى الله عليه وسلم ـ فَقَالَ ‏ "‏ إِنْ تَفْعَلْ فَقَدْ مَضَى أَجَلُهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |
+
 حدثنا ابو بكر بن ابي شيبة، حدثنا ابو الاحوص، عن منصور، عن ابراهيم، عن الاسود، عن ابي السنابل، قال وضعت سبيعة الاسلمية بنت الحارث حملها بعد وفاة زوجها ببضع وعشرين ليلة فلما تعلت من نفاسها تشوفت فعيب ذلك عليها وذكر امرها للنبي صلى الله عليه وسلم فقال " ان تفعل فقد مضى اجلها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূস সানাবিল (রাঃ) থেকে বর্ণিত। তিনি বলেন, আসলাম গোত্রের হারিসের কন্যা সুবাইআ তার স্বামীর মৃত্যুর বিশাধিক দিন পর একটি সন্তান প্রসব করেন। তিনি নিফাস (সন্তান প্রসবজনিত ঋতু) হওয়ার পর নতুন পরিচ্ছদ পরতে লাগলেন (অর্থাৎ সাজগোজ করতে লাগলেন)। এতে তার প্রতি দোষারোপ হতে থাকলে বিষয়টি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -কে অবহিত হয়। তিনি বলেনঃ সে তা করতে পারে, কারণ তার ইদ্দাতকাল পূর্ণ হয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Sanabil said:"Subai'ah Aslamiyyah bint Harith gave birth twenty-odd days after her husband died. When her postnatal bleeding ended, she adorned herself, and was criticized for doing that. Her case was mentioned to the Prophet (ﷺ) and he said: 'If she does that, then her waiting period is over
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |
+
+## French
+
+Rapporté par Abu Sanabil : Subai'ah Aslamiyyah bint Harith a accouché une vingtaine de jours après le décès de son mari. Quand ses saignements postnataux ont pris fin, elle s'est faite belle, et certaines personnes l'ont critiquée pour cela. On a parlé de son cas au Prophète (ﷺ), qui a dit : "Si elle fait cela, alors sa période d'attente est terminée
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakr bin Abu Syaibah\] berkata, telah menceritakan kepada kami \[Abu Al Ahwash\] dari \[Manshur\] dari \[Ibrahim\] dari \[Al Aswad\] dari \[Abu As Sanabil\] ia berkata, "Subai'ah Al Aslamiah binti Al Harits melahirkan bayi dua puluhan hari setelah meninggalnya sang suami. Setelah masa nifasnya selesai ia berbenah diri (hingga ada seseorang yang mau menikahinya), namun hal itu menuai celaan. Maka diceritakanlah perkaranya kepada Nabi shallallahu 'alaihi wasallam, beliau pun bersabda: "Jika ia melakukan itu, sungguh masa iddahnya telah selesai
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abu Al Ahwash] dari [Manshur] dari [Ibrahim] dari [Al Aswad] dari [Abu As Sanabil] ia berkata, "Subai'ah Al Aslamiah binti Al Harits melahirkan bayi dua puluhan hari setelah meninggalnya sang suami. Setelah masa nifasnya selesai ia berbenah diri (hingga ada seseorang yang mau menikahinya), namun hal itu menuai celaan. Maka diceritakanlah perkaranya kepada Nabi shallallahu 'alaihi wasallam, beliau pun bersabda: "Jika ia melakukan itu, sungguh masa iddahnya telah selesai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu's-Senâbil (bin Ba'kek) (r.a.)'den; Şöyle demiştir: Sübey'a el-Eslemiyye bint-i el-Hârîs (r.anha), kocasının vefatından yirmi küsur gece sonra doğum yaptı. Sonra lohusalık hâlinden çıkınca evlenme tekliflerini almaya hazırlandı. Onun bu durumu kınandı ve Resulullah (Sallallahu Aleyhi ve Sellem)'e de anlatıldı. Bunun üzerine Nebi (Sallallahu Aleyhi ve Sellem) şöyle buyurdu: «Eğer (evlenme işini) işlerse (bunu yapabilir) çünkü iddet süresi bitmiştir.» Diğer tahric. Tirmizi, Nesai BU KONUDAKİ MÜSLİM HADİSLERİ VE İZAH: 1484 —
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسنابل کہتے ہیں کہ سبیعہ اسلمیہ بنت حارث رضی اللہ عنہا نے اپنے شوہر کی وفات کے بیس سے کچھ زائد دنوں بعد بچہ جنا، جب وہ نفاس سے پاک ہو گئیں تو شادی کی خواہشمند ہوئیں، تو یہ معیوب سمجھا گیا، اور اس کی خبر نبی اکرم صلی اللہ علیہ وسلم کو دی گئی تو آپ صلی اللہ علیہ وسلم نے فرمایا: اگر چاہے تو وہ ایسا کر سکتی ہے کیونکہ اس کی عدت گزر گئی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2027</td></tr><tr><td>Arabic No</td><td>2027</td></tr><tr><td>Reference</td><td>Book 10 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2027 |
+| Arabic No | 2027 |
+| Reference | Book 10 Hadith 12 |

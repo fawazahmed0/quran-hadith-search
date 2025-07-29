@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ ثَابِتٍ، حَدَّثَنَا مُوسَى، - يَعْنِي ابْنَ مَسْعُودٍ - عَنْ شِبْلٍ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، قَالَ السَّبِيلُ الْحَدُّ قَالَ سُفْيَانُ ‏(‏ فَآذُوهُمَا ‏)‏ الْبِكْرَانِ ‏(‏ فَأَمْسِكُوهُنَّ فِي الْبُيُوتِ ‏)‏ الثَّيِّبَاتِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
+
 حدثنا احمد بن محمد بن ثابت، حدثنا موسى، - يعني ابن مسعود - عن شبل، عن ابن ابي نجيح، عن مجاهد، قال السبيل الحد قال سفيان ( فاذوهما ) البكران ( فامسكوهن في البيوت ) الثيبات
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
 
 ## Bengali
 
+। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর বাণী, ‘আস-সাবীল’ অর্থাৎ হাদ্দ। সুফিয়ান (রহঃ) বলেন, ‘ফাআযূহুমা’ অর্থ অবিবাহিতের শাস্তি এবং ‘ফাআমসিকূহুন্না ফিল বুয়ূত’ অর্থ বিবাহিতের শাস্তি।\[1\] হাসান মাকতূ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুজাহিদ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আল্লাহর বাণী, ‘আস-সাবীল’ অর্থাৎ হাদ্দ। সুফিয়ান (রহঃ) বলেন, ‘ফাআযূহুমা’ অর্থ অবিবাহিতের শাস্তি এবং ‘ফাআমসিকূহুন্না ফিল বুয়ূত’ অর্থ বিবাহিতের শাস্তি।[1] হাসান মাকতূ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mujahid said:“Apponting a way in the verse (iv.15) means prescribed punishment. Sufiyan said: “Punish them “refers to unmarried, and “confine them to houses” refers to the women who are married
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
+
+## French
+
+Mujahid a dit : « Désigner une voie dans le verset (IV, 15) signifie la peine prescrite. » Sufiyan a dit : « “Punissez-les” concerne les non-mariés, et “enfermez-les dans les maisons” concerne les femmes mariées. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Муджахид сказал: «“Путь” то есть наказание». А Суфьян сказал: «“Подвергните обоих наказанию” то есть не состоявших в браке прелюбодеев, а “держите их в домах” то есть побывавших замужем женщин, совершивших прелюбодеяние»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mücahid demiştir ki; "(Ayetteki) yol, haddir." Süfyan da şöyle dedi: " O ikisine eziyet edin" sözünden maksat; bekarlar, "Evlerde tutun" .... sözündeki maksat da dul kadındır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجاہد کہتے ہیں کہ «سبیل» سے مراد حد ہے۔ سفیان کہتے ہیں: «فآذوهما» سے مراد کنوارا مرد اور کنواری عورت ہے، اور «فأمسكوهن في البيوت» سے مراد غیر کنواری عورتیں ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Maqtu</td><td>Al-Albani</td></tr><tr><td>Hasan Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4414</td></tr><tr><td>Arabic No</td><td>4414</td></tr><tr><td>Reference</td><td>Book 40 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Maqtu | Al-Albani |
+| Hasan Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4414 |
+| Arabic No | 4414 |
+| Reference | Book 40 Hadith 64 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ الْخُزَاعِيُّ، وَعَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُمَرَ، عَنِ الْقَاسِمِ بْنِ غَنَّامٍ، عَنْ بَعْضِ، أُمَّهَاتِهِ عَنْ أُمِّ فَرْوَةَ، قَالَتْ سُئِلَ رَسُولُ اللَّهِ صلى الله عليه وسلم أَىُّ الأَعْمَالِ أَفْضَلُ قَالَ ‏ "‏ الصَّلاَةُ فِي أَوَّلِ وَقْتِهَا ‏"‏ ‏.‏ قَالَ الْخُزَاعِيُّ فِي حَدِيثِهِ عَنْ عَمَّةٍ لَهُ يُقَالُ لَهَا أُمُّ فَرْوَةَ قَدْ بَايَعَتِ النَّبِيَّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم سُئِلَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
+
 حدثنا محمد بن عبد الله الخزاعي، وعبد الله بن مسلمة، قالا حدثنا عبد الله بن عمر، عن القاسم بن غنام، عن بعض، امهاته عن ام فروة، قالت سيل رسول الله صلى الله عليه وسلم اى الاعمال افضل قال " الصلاة في اول وقتها " . قال الخزاعي في حديثه عن عمة له يقال لها ام فروة قد بايعت النبي صلى الله عليه وسلم ان النبي صلى الله عليه وسلم سيل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
 
 ## Bengali
 
+। উম্মু ফারওয়াহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সর্বোত্তম আমল সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, সালাতের ওয়াক্ত হওয়ায় সাথে সাথে (প্রথম ওয়াক্তেই) সালাত আদায় করা।\[1\] সহীহ। খুযাঈ তাঁর বর্ণিত হাদীসে তার ফুফু উম্মু ফারওয়াহ থেকে বর্ণনা করেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট বাই‘আত গ্রহণ করেছিলেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করা হয়েছিল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উম্মু ফারওয়াহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে সর্বোত্তম আমল সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, সালাতের ওয়াক্ত হওয়ায় সাথে সাথে (প্রথম ওয়াক্তেই) সালাত আদায় করা।[1] সহীহ। খুযাঈ তাঁর বর্ণিত হাদীসে তার ফুফু উম্মু ফারওয়াহ থেকে বর্ণনা করেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট বাই‘আত গ্রহণ করেছিলেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জিজ্ঞেস করা হয়েছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umm Farwah: The Messenger of Allah (ﷺ) was asked: Which of the actions is best? He replied: Observing prayer early in its period. Al-Khuza'i narrated in his version from his aunt named Umm Farwah who took the oath of allegiance to the Prophet (ﷺ): He was questioned
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
+
+## French
+
+Rapporté par Umm Farwah رضي الله عنها : « On a demandé au Messager d’Allah ﷺ : “Quelle est la meilleure action ?” Il a répondu : “Faire la prière au début de son temps.” Al-Khuza‘i a rapporté dans sa version, de la part de sa tante nommée Umm Farwah qui a prêté serment d’allégeance au Prophète ﷺ : Il a été interrogé. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Abdullah Al Khuza'i\] dan \[Abdullah bin Maslamah\] keduanya berkata; Telah menceritakan kepada kami \[Abdullah bin Umar\] dari \[Al Qasim bin Ghannam\] dari \[sebagian ibunya\] dari \[Ummu Farwah\] dia berkata; Rasulullah Shallallahu alaihi wasallam ditanya; Amalan apakah yang paling utama? Beliau menjawab: "Shalat di awal waktu!" Al-Khuza'i berkata dalam haditsnya dari bibinya yang bernama Ummu Farwah yang telah berbai'at kepada Nabi Shallallahu alaihi wasallam bahwasanya Nabi Shallallahu alaihi wasallam ditanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Abdullah Al Khuza'i] dan [Abdullah bin Maslamah] keduanya berkata; Telah menceritakan kepada kami [Abdullah bin Umar] dari [Al Qasim bin Ghannam] dari [sebagian ibunya] dari [Ummu Farwah] dia berkata; Rasulullah Shallallahu alaihi wasallam ditanya; Amalan apakah yang paling utama? Beliau menjawab: "Shalat di awal waktu!" Al-Khuza'i berkata dalam haditsnya dari bibinya yang bernama Ummu Farwah yang telah berbai'at kepada Nabi Shallallahu alaihi wasallam bahwasanya Nabi Shallallahu alaihi wasallam ditanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Умм Фарва сказала: «(Однажды) у Посланника Аллаха ﷺ спросили: “Какое дело является наилучшим?” Он ответил: “Молитва в начале (установленного) для неё времени”».(Мухаммад ибн ‘Абдуллах) аль-Хуза‘и в своем риваяте, переданном со слов его тети по отцу, которую также звали Умм Фарва, и которая присягнула Пророку ﷺ сообщил о том, что Пророка ﷺ спросили…»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ümmü Ferve (r.anha)'dan, demiştir ki; Resulullah (Sallallahu aleyhi ve Sellem)'e, amellerin hangisinin daha efdal olduğu soruldu. Nebi (Sallallahu aleyhi ve Sellem); " İlk vaktinde kılman namazdır" buyurdu. Huzai rivayeti (el-Kasım b. Gannarn) Ummu Ferve denilen halasından, -ki o, Resulullah (Sallallahu aleyhi ve Sellem)'e biat etmiştir- "Resulullah'a soruldu" şeklindedir. Diğer tahric: Tirmizî, mevakit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام فروہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم سے پوچھا گیا: کون سا عمل افضل ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نماز کو اس کے اول وقت میں ادا کرنا ۔ خزاعی کی روایت میں ہے کہ انہوں نے ( قاسم نے ) اپنی پھوپھی ( جنہیں ام فروہ کہا جاتا تھا اور جنہوں نے نبی اکرم صلی اللہ علیہ وسلم سے بیعت کی تھی ) سے روایت کی ہے، اس میں «سئل رسول الله صلى الله عليه وسلم» کی بجائے «أن النبي صلى الله عليه وسلم سئل» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>426</td></tr><tr><td>Arabic No</td><td>426</td></tr><tr><td>Reference</td><td>Book 2 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 426 |
+| Arabic No | 426 |
+| Reference | Book 2 Hadith 36 |

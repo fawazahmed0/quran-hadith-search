@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو النُّعْمَانِ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ سَلْمَانَ بْنِ عَامِرٍ، قَالَ مَعَ الْغُلاَمِ عَقِيقَةٌ‏.‏ وَقَالَ حَجَّاجٌ حَدَّثَنَا حَمَّادٌ أَخْبَرَنَا أَيُّوبُ وَقَتَادَةُ وَهِشَامٌ وَحَبِيبٌ عَنِ ابْنِ سِيرِينَ عَنْ سَلْمَانَ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو النعمان، حدثنا حماد بن زيد، عن ايوب، عن محمد، عن سلمان بن عامر، قال مع الغلام عقيقة. وقال حجاج حدثنا حماد اخبرنا ايوب وقتادة وهشام وحبيب عن ابن سيرين عن سلمان عن النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Salman bin 'Amri Ad-Dabbi, the Prophet (ﷺ) said, 'Aqiqa is to be offered for a (newly born) boy
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
+
+## French
+
+Rapporté par Salman bin 'Amri Ad-Dabbi : Le Prophète (ﷺ) a dit : On doit offrir une 'aqiqa pour un garçon nouveau-né
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается от Сальмана ибн ‘Амира, что Посланник Аллаха ﷺ сказал: «За (новорожденного) мальчика следует приносить жертву /‘акыка/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 சல்மான் பின் ஆமிர் (ரலி) அவர்கள் கூறியதாவது: பையன் (பிறந்த) உடன் ‘அகீகா’ (கொடுக்கப்படல்) உண்டு. இது குறித்து நபி (ஸல்) அவர்களிட மிருந்து சல்மான் பின் ஆமிர் (ரலி) அவர்கள் அறிவிக்கும் ஹதீஸை ஒன்றுக்கும் மேற்பட்டவர்கள் அறிவிக்கிறார்கள். இப்னு சீரீன் (ரஹ்) அவர்கள் வழியாக வரும் சல்மான் (ரலி) அவர்களின் இந்த ஹதீஸை யஸீத் பின் இப்ராஹீம் (ரஹ்) அவர்களும் அறிவித்துள்ளார்கள். ஆக மொத்தம் இந்த ஹதீஸ் எட்டு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed ibnu'UMüsennâ tahdîs etti. Bize İbnu Ebî Adiyy, İbnu Avn'dan; o da Muhammed ibn Sîrîn'den; o da Enes'ten olmak üzere tahdîs edip bu hadîsi sevketti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابوالنعمان نے بیان کیا، کہا ہم سے حماد بن زید نے بیان کیا، ان سے ایوب سختیانی نے، ان سے محمد بن سیرین نے، ان سے سلمان بن عامر رضی اللہ عنہ (صحابی) نے بیان کیا کہ بچہ کا عقیقہ کرنا چاہیئے۔ اور حجاج بن منہال نے کہا۔ ان سے حماد بن سلمہ نے بیان کیا، کہا ہم کو ایوب سختیانی، قتادہ، ہشام بن حسان اور حبیب بن شہید ان چاروں نے خبر دی، انہیں محمد بن سیرین نے اور انہیں سلمان بن عامر رضی اللہ عنہ نے نبی کریم صلی اللہ علیہ وسلم سے۔ اور کئی لوگوں نے بیان کیا، ان سے عاصم بن سلیمان اور ہشام بن حسان نے، ان سے حفصہ بنت سیرین نے، ان سے رباب بنت صلیع نے، ان سے سلمان بن عامر رضی اللہ عنہ نے اور انہوں نے مرفوعاً نبی کریم صلی اللہ علیہ وسلم سے روایت کیا ہے اور اس کی روایت یزید بن ابراہیم تستری نے کی، ان سے محمد بن سیرین نے اور ان سے سلمان بن عامر رضی اللہ عنہ نے اپنا قول موقوفاً ( غیر مرفوع ) ذکر کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5471</td></tr><tr><td>Arabic No</td><td>5471</td></tr><tr><td>Reference</td><td>Book 71 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5471 |
+| Arabic No | 5471 |
+| Reference | Book 71 Hadith 6 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو الْوَلِيدِ الطَّيَالِسِيُّ، حَدَّثَنَا لَيْثٌ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، قَالَ لَمْ أَرَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَمْسَحُ مِنَ الْبَيْتِ إِلاَّ الرُّكْنَيْنِ الْيَمَانِيَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
+
 حدثنا ابو الوليد الطيالسي، حدثنا ليث، عن ابن شهاب، عن سالم، عن ابن عمر، قال لم ار رسول الله صلى الله عليه وسلم يمسح من البيت الا الركنين اليمانيين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দু‘টি রুকনে ইয়ামেনী ছাড়া বায়তুল্লাহর অন্য কিছুকে স্পর্শ করতে দেখিনি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে দু‘টি রুকনে ইয়ামেনী ছাড়া বায়তুল্লাহর অন্য কিছুকে স্পর্শ করতে দেখিনি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar said I have not seen the Apostle of Allaah(ﷺ) touching anything in the House (the Ka’bah) but the two Yamani corners
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
+
+## French
+
+Ibn ‘Umar رضي الله عنه a dit : Je n’ai pas vu le Messager d’Allah ﷺ toucher quoi que ce soit dans la Maison (la Ka’bah) à part les deux coins yéménites
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abu Al Walid Ath Thayalisi\], telah menceritakan kepada Kami \[Laits\] dari \[Ibnu Syihab\] dari \[Salim\] dari \[Ibnu Umar\], ia berkata; aku tidak pernah melihat Rasulullah shallAllahu wa'alaihi wa sallam mengusap bagian dari Ka'bah kecuali dua rukun yamani
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abu Al Walid Ath Thayalisi], telah menceritakan kepada Kami [Laits] dari [Ibnu Syihab] dari [Salim] dari [Ibnu Umar], ia berkata; aku tidak pernah melihat Rasulullah shallAllahu wa'alaihi wa sallam mengusap bagian dari Ka'bah kecuali dua rukun yamani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умар, да будет доволен Аллах им и его отцом, что он сказал: «Я не видел, чтобы Посланник Аллаха ﷺ прикасался к какому-либо углу Каабы, кроме двух йеменских углов»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer(r.a.)'den; demiştir ki: Ben Resûlullah (S.A.V.)'i iki Rükn-i Yemânî'den başkasını meshederken görmedim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو بیت اللہ کے کسی رکن کو چھوتے نہیں دیکھا سوائے حجر اسود اور رکن یمانی کے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1609) Sahih Muslim (1267)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1874</td></tr><tr><td>Arabic No</td><td>1874</td></tr><tr><td>Reference</td><td>Book 11 Hadith 154</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1609) Sahih Muslim (1267) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1874 |
+| Arabic No | 1874 |
+| Reference | Book 11 Hadith 154 |

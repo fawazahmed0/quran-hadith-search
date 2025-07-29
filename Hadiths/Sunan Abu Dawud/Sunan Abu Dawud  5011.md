@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ سِمَاكٍ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ جَاءَ أَعْرَابِيٌّ إِلَى النَّبِيِّ صلى الله عليه وسلم فَجَعَلَ يَتَكَلَّمُ بِكَلاَمٍ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّ مِنَ الْبَيَانِ سِحْرًا وَإِنَّ مِنَ الشِّعْرِ حُكْمًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
+
 حدثنا مسدد، حدثنا ابو عوانة، عن سماك، عن عكرمة، عن ابن عباس، قال جاء اعرابي الى النبي صلى الله عليه وسلم فجعل يتكلم بكلام فقال رسول الله صلى الله عليه وسلم " ان من البيان سحرا وان من الشعر حكما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা এক বেদুঈন এসে কথা বলা শুরু করলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কোনো কোনো আলোচনা যাদুর মতো হৃদয়গ্রাহী; আর কোনো কোনো কবিতা হিকমাতপূর্ণ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা এক বেদুঈন এসে কথা বলা শুরু করলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ কোনো কোনো আলোচনা যাদুর মতো হৃদয়গ্রাহী; আর কোনো কোনো কবিতা হিকমাতপূর্ণ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: A desert Arab came to the Prophet (ﷺ) and began to speak. Thereupon the Messenger of Allah (ﷺ) said: In eloquence there is magic and in poetry there is wisdom
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas : Un bédouin est venu voir le Prophète ﷺ et a commencé à parler. Alors, le Messager d’Allah ﷺ a dit : « Dans l’éloquence, il y a de la magie, et dans la poésie, il y a de la sagesse. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Abu Awanah\] dari \[Simak\] dari \[Ikrimah\] dari \[Ibnu Abbas\] ia berkata, "Seorang Arab dusun datang kepada Nabi shallallahu 'alaihi wasallam dan berkata dengan suatu perkataan. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dalam kefasihan itu terdapat sihir, dan dalam sihir terdapat hukum
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Abu Awanah] dari [Simak] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Seorang Arab dusun datang kepada Nabi shallallahu 'alaihi wasallam dan berkata dengan suatu perkataan. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya dalam kefasihan itu terdapat sihir, dan dalam sihir terdapat hukum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas'dan demiştir ki: Bir çöl arabı Nebi (s.a.v.)'e gelerek (huzurunda çok fasih) bir dille konuşma' yaptı. Bunun üzerine Rasûlullah (s.a.v.): "Kuşkusuz bazı sözler sihir, bazı şiirler hikmettir” buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن عباس رضی اللہ عنہما کہتے ہیں کہ ایک اعرابی نبی اکرم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوا اور باتیں کرنے لگا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بعض بیان جادو ہوتے ہیں اور بعض اشعار «حكم» ۱؎ ( یعنی حکمت ) پر مبنی ہوتے ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5011</td></tr><tr><td>Arabic No</td><td>5011</td></tr><tr><td>Reference</td><td>Book 43 Hadith 239</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5011 |
+| Arabic No | 5011 |
+| Reference | Book 43 Hadith 239 |

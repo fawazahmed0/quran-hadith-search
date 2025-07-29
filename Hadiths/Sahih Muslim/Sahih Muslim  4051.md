@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أُمَيَّةُ بْنُ بِسْطَامَ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا رَوْحٌ، - يَعْنِي ابْنَ الْقَاسِمِ - عَنْ عَمْرِو بْنِ دِينَارٍ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا امية بن بسطام، حدثنا يزيد بن زريع، حدثنا روح، - يعني ابن القاسم - عن عمرو بن دينار، بهذا الاسناد . مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উমাইয়্যাহ্ ইবনু বিস্‌তাম (রহঃ) ..... আমর ইবনু দীনার (রহঃ) হতে উক্ত সানাদে উল্লিখিত রূপ বর্ণিত। (ইসলামিক ফাউন্ডেশন ৩৯০৬, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of 'Amr b. Dinar with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## French
 
+Rapporté par ‘Amr b. Dinar : Ce hadith a été rapporté avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Ümeyye b. Bistam rivayet etti. (Dediki): Bize Yezîd b. Zürey' rivayet etti. (Dediki): Biae Ravh yâni İbni Kasım, Amr b. Dinâr'dan bu isnâdla bu hadîsin mislini rivayet eyledi. İzah 1583 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 روح بن قاسم نے عمرو بن دینار سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4051</td></tr><tr><td>Arabic No</td><td>1582.02</td></tr><tr><td>Reference</td><td>Book 22 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4051 |
+| Arabic No | 1582.02 |
+| Reference | Book 22 Hadith 90 |

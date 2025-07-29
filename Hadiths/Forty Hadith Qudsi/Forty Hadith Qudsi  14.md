@@ -2,18 +2,34 @@
 
 [English](#english)
 
+[French](#french)
+
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عَنْ أَبِي هُرَيْرَةَ رَضِيَ اللَّهُ عَنْهُ، عَنْ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ: إِنَّ لِلَّهِ تَبَارَكَ وَتَعَالَى مَلَائِكَةً سَيَّارَةً فُضُلًا(1)، يَتَتَبَّعُونَ مَجَالِسَ الذِّكْرِ، فَإِذَا وَجَدُوا مَجْلِسًا فِيهِ ذِكْرٌ، قَعَدُوا مَعَهُمْ، وَحَفَّ بَعْضُهُمْ بَعْضًا بِأَجْنِحَتِهِمْ، حَتَّى يَمْلَأُوا مَا بَيْنَهُمْ وَبَيْنَ السَّمَاءِ الدُّنْيَا، فَإِذَااْنْصَرَفُوا عَرَجُوا وَصَعِدُوا إِلَى السَّمَاءِ، قَالَ (2) : فَيَسْأَلُهُمْ اللَّهُ عَزَّ وَجَلَّ وَهُوَ أَعْلَمُ بِهِمْ: مِنْ أَيْنَ جِئْتُمْ؟ فَيَقُولُونَ: جِئْنَا مِنْ عِنْدِ عِبَادٍ لَكَ فِي الْأَرْضِ، يُسَبِّحُونَكَ وَيُكَبِّرُونَكَ وَيُهَلِّلُونَكَ وَيَحْمَدُونَكَ وَيَسْأَلُونَكَ، قَالَ: وَمَا يَسْأَلُونِي؟ قَالُوا يَسْأَلُونَكَ جَنَّتَكَ، قَالَ: وَهَلْ رَأَوْا جَنَّتِي؟ قَالُوا: لَا أَيْ رَبِّ، قَالَ: فَكَيْفَ لَوْ رَأَوْا جَنَّتِي! قَالُوا: وَيَسْتَجِيرُونَكَ، قَالَ: وَمِمَّ يَسْتَجِيرُونَي؟ قَالُوا: مِنْ نَارِكَ يَا رَبِّ، قَالَ: وَهَلْ رَأَوْا نَارِي؟ قَالُوا: لَا، قَالَ: فَكَيْفَ لَوْ رَأَوْا نَارِي! قَالُوا: وَيَسْتَغْفِرُونَكَ، قَالَ (1) فَيَقُولُ: قَدْ غَفَرْتُ لَهُمْ، وأَعْطَيْتُهُمْ مَا سَأَلُوا، وَأَجَرْتُهُمْ مِمَّا اسْتَجَارُوا، قَالَ(1) يَقُولُونَ: رَبِّ فِيهِمْ فُلَانٌ، عَبْدٌ خَطَّاءٌ إِنَّمَا مَرَّ فَجَلَسَ مَعَهُمْ، قَالَ(1): فَيَقُولُ: وَلَهُ غَفَرْتُ؛ هُمْ الْقَوْمُ، لَا يَشْقَى بِهِمْ جَلِيسُهُمْ رواه مسلم وكذلك البخاري والترمذي والنسائي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 1 Hadith 14</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 14 |
+| Arabic No | 14 |
+| Reference | Book 1 Hadith 14 |
 
 ## English
 
+On the authority of Abu Hurayrah (may Allah be pleased with him) from the Prophet (ﷺ), who said: Allah (glorified and exalted be He) has supernumerary angels who rove about seeking out gatherings in which Allah's name is being invoked: they sit with them and fold their wings round each other, filling that which is between them and between the lowest heaven. When \[the people in the gathering\] depart, \[the angels\] ascend and rise up to heaven. He (the Prophet (ﷺ)) said: Then Allah (mighty and sublime be He) asks them - \[though\] He is most knowing about them: From where have you come? And they say: We have come from some servants of Yours on Earth: they were glorifying You (Subhana llah), exalting you (Allahu akbar), witnessing that there is no god but You (La ilaha illa llah), praising You (Al-Hamdu lillah), and asking \[favours\] of You. He says: And what do they ask of Me? They say: They ask of You Your Paradise. He says: And have they seen My Paradise? They say: No, O Lord. He says: And how would it be were they to have seen My Paradise! They say: And they ask protection of You. He says: From what do they ask protection of Me? They say: From Your Hell-fire, O Lord. He says: And have they seen My Hell-fire? They say: NO. He says: And how would it be were they to have seen My Hell-fire: They say: And they ask for Your forgiveness. He (the Prophet (ﷺ)) said: Then He says: I have forgiven them and I have bestowed upon them what they have asked for, and I have granted them sanctuary from that from which they asked protection. He (the Prophet (ﷺ) ﷺ) said: They say: O Lord, among them is So-and-so, a much sinning servant, who was merely passing by and sat down with them. He (the Prophet (ﷺ) ﷺ) said: And He says: And to him \[too\] I have given forgiveness: he who sits with such people shall not suffer. It was related by Muslim (also by al-Bukhari, at-Tirmidhi, and an-Nasa'i)
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-On the authority of Abu Hurayrah (may Allah be pleased with him) from the Prophet (ﷺ), who said: Allah (glorified and exalted be He) has supernumerary angels who rove about seeking out gatherings in which Allah's name is being invoked: they sit with them and fold their wings round each other, filling that which is between them and between the lowest heaven. When [the people in the gathering] depart, [the angels] ascend and rise up to heaven. He (the Prophet (ﷺ)) said: Then Allah (mighty and sublime be He) asks them - [though] He is most knowing about them: From where have you come? And they say: We have come from some servants of Yours on Earth: they were glorifying You (Subhana llah), exalting you (Allahu akbar), witnessing that there is no god but You (La ilaha illa llah), praising You (Al-Hamdu lillah), and asking [favours] of You. He says: And what do they ask of Me? They say: They ask of You Your Paradise. He says: And have they seen My Paradise? They say: No, O Lord. He says: And how would it be were they to have seen My Paradise! They say: And they ask protection of You. He says: From what do they ask protection of Me? They say: From Your Hell-fire, O Lord. He says: And have they seen My Hell-fire? They say: NO. He says: And how would it be were they to have seen My Hell-fire: They say: And they ask for Your forgiveness. He (the Prophet (ﷺ)) said: Then He says: I have forgiven them and I have bestowed upon them what they have asked for, and I have granted them sanctuary from that from which they asked protection. He (the Prophet (ﷺ) ﷺ) said: They say: O Lord, among them is So-and-so, a much sinning servant, who was merely passing by and sat down with them. He (the Prophet (ﷺ) ﷺ) said: And He says: And to him [too] I have given forgiveness: he who sits with such people shall not suffer. It was related by Muslim (also by al-Bukhari, at-Tirmidhi, and an-Nasa'i)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>14</td></tr><tr><td>Arabic No</td><td>14</td></tr><tr><td>Reference</td><td>Book 1 Hadith 14</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 14 |
+| Arabic No | 14 |
+| Reference | Book 1 Hadith 14 |
+
+## French
+
+D’après Abou Hourayra (qu’Allah l’agrée), du Prophète (ﷺ), qui a dit : Allah (glorifié et exalté soit-Il) a des anges qui parcourent la terre à la recherche de réunions où l’on mentionne Allah. Ils s’assoient avec eux, les entourant de leurs ailes, jusqu’à remplir l’espace entre eux et le ciel le plus bas. Quand les gens se dispersent, les anges montent au ciel. Alors Allah (qui sait tout) leur demande : « D’où venez-vous ? » Ils disent : « Nous venons de Tes serviteurs sur terre : ils Te glorifiaient, T’exaltaient, attestaient qu’il n’y a de dieu que Toi, Te louaient et Te demandaient. » Il dit : « Que demandent-ils ? » Ils disent : « Ils demandent Ton Paradis. » Il dit : « L’ont-ils vu ? » Ils disent : « Non, Seigneur. » Il dit : « Et qu’en serait-il s’ils l’avaient vu ! » Ils disent : « Ils demandent Ta protection. » Il dit : « De quoi demandent-ils protection ? » Ils disent : « De Ton Enfer, Seigneur. » Il dit : « L’ont-ils vu ? » Ils disent : « Non. » Il dit : « Et qu’en serait-il s’ils l’avaient vu ! » Ils disent : « Ils demandent pardon. » Il dit : « Je les ai pardonnés, Je leur ai accordé ce qu’ils ont demandé et Je les ai protégés de ce qu’ils ont redouté. » Ils disent : « Mais parmi eux, il y a untel, un grand pécheur, qui n’a fait que passer et s’asseoir avec eux. » Il dit : « À lui aussi J’ai pardonné. Celui qui s’assied avec eux ne sera pas malheureux. » Rapporté par Mouslim (aussi par Boukhari, at-Tirmidhi et an-Nassaï)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 14 |
+| Arabic No | 14 |
+| Reference | Book 1 Hadith 14 |

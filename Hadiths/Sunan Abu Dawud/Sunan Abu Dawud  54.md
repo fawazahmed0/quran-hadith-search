@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,133 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، وَدَاوُدُ بْنُ شَبِيبٍ، قَالاَ حَدَّثَنَا حَمَّادٌ، عَنْ عَلِيِّ بْنِ زَيْدٍ، عَنْ سَلَمَةَ بْنِ مُحَمَّدِ بْنِ عَمَّارِ بْنِ يَاسِرٍ، قَالَ مُوسَى عَنْ أَبِيهِ، - وَقَالَ دَاوُدُ عَنْ عَمَّارِ بْنِ يَاسِرٍ، - أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ إِنَّ مِنَ الْفِطْرَةِ الْمَضْمَضَةَ وَالاِسْتِنْشَاقَ ‏"‏ ‏.‏ فَذَكَرَ نَحْوَهُ وَلَمْ يَذْكُرْ إِعْفَاءَ اللِّحْيَةِ وَزَادَ ‏"‏ وَالْخِتَانَ ‏"‏ ‏.‏ قَالَ ‏"‏ وَالاِنْتِضَاحَ ‏"‏ ‏.‏ وَلَمْ يَذْكُرِ ‏"‏ انْتِقَاصَ الْمَاءِ ‏"‏ ‏.‏ يَعْنِي الاِسْتِنْجَاءَ ‏.‏ قَالَ أَبُو دَاوُدَ وَرُوِيَ نَحْوُهُ عَنِ ابْنِ عَبَّاسٍ وَقَالَ خَمْسٌ كُلُّهَا فِي الرَّأْسِ وَذَكَرَ فِيهَا الْفَرْقَ وَلَمْ يَذْكُرْ إِعْفَاءَ اللِّحْيَةِ ‏.‏ قَالَ أَبُو دَاوُدَ وَرُوِيَ نَحْوُ حَدِيثِ حَمَّادٍ عَنْ طَلْقِ بْنِ حَبِيبٍ وَمُجَاهِدٍ وَعَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ الْمُزَنِيِّ قَوْلُهُمْ وَلَمْ يَذْكُرُوا إِعْفَاءَ اللِّحْيَةِ ‏.‏ وَفِي حَدِيثِ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي مَرْيَمَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم فِيهِ وَإِعْفَاءُ اللِّحْيَةِ وَعَنْ إِبْرَاهِيمَ النَّخَعِيِّ نَحْوُهُ وَذَكَرَ إِعْفَاءَ اللِّحْيَةِ وَالْخِتَانَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
+
 حدثنا موسى بن اسماعيل، وداود بن شبيب، قالا حدثنا حماد، عن علي بن زيد، عن سلمة بن محمد بن عمار بن ياسر، قال موسى عن ابيه، - وقال داود عن عمار بن ياسر، - ان رسول الله صلى الله عليه وسلم قال " ان من الفطرة المضمضة والاستنشاق " . فذكر نحوه ولم يذكر اعفاء اللحية وزاد " والختان " . قال " والانتضاح " . ولم يذكر " انتقاص الماء " . يعني الاستنجاء . قال ابو داود وروي نحوه عن ابن عباس وقال خمس كلها في الراس وذكر فيها الفرق ولم يذكر اعفاء اللحية . قال ابو داود وروي نحو حديث حماد عن طلق بن حبيب ومجاهد وعن بكر بن عبد الله المزني قولهم ولم يذكروا اعفاء اللحية . وفي حديث محمد بن عبد الله بن ابي مريم عن ابي سلمة عن ابي هريرة عن النبي صلى الله عليه وسلم فيه واعفاء اللحية وعن ابراهيم النخعي نحوه وذكر اعفاء اللحية والختان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
 
 ## Bengali
 
+। ‘আম্মার ইবনু ইয়াসীর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, কুলি করা ও নাকে পানি দেয়া (মানুষের) ফিতরাতের অন্তর্গত। অতঃপর পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন। তবে ‘দাড়ি ছেড়ে দেয়া’-কথাটি উল্লেখ করেননি, উল্লেখ করেছেন ‘খাতনা করা’-এর কথা। ‘ইস্তিনজার পর লিঙ্গে অল্প পরিমাণ পানি ছিটানোর’ কথাও উল্লেখ করেছেন, তবে ইস্তিঞ্জার উল্লেখ করেননি।\[1\] হাসান। قَالَ أَبُو دَاوُدَ وَرُوِيَ نَحْوُهُ عَنِ ابْنِ عَبَّاسٍ وَقَالَ خَمْسٌ كُلُّهَا فِي الرَّأْسِ وَذَكَرَ فِيهَا الْفَرْقَ وَلَمْ يَذْكُرْ إِعْفَاءَ اللِّحْيَةِ ‏. - صحيح موقوف ইমাম আবূ দাউদ (রহঃ) বলেন, ইবনু ‘আব্বাস (রাঃ) সূত্রেও অনুরূপ বর্ণনা উল্লেখ আছে। তিনি পাঁচটি ফিতরাতের কথা বলেছেন, তার সবগুলোই মাথার মধ্যে। তিনি সিঁথি কাটার কথাও বলেছেন। তবে দাড়ি রাখা কথাটি উল্লেখ নেই। সহীহ মাওকুফ। ‏ قَالَ أَبُو دَاوُدَ وَرُوِيَ نَحْوُ حَدِيثِ حَمَّادٍ عَنْ طَلْقِ بْنِ حَبِيبٍ وَمُجَاهِدٍ وَعَنْ بَكْرِ بْنِ عَبْدِ اللهِ الْمُزَنِيِّ قَوْلُهُمْ وَلَمْ يَذْكُرُوا إِعْفَاءَ اللِّحْيَةِ ‏. - صحيح : عن طلق موقوف ইমাম আবূ দাউদ (রহঃ) বলেন, ত্বালক্ব ইবনু হাবীব, মুজাহিদ ও বাকর ইবনু ‘আব্দুল্লাহ আল-মুযানী সূত্রে হাম্মাদের হাদীসের অনুরূপ হাদীস বর্ণিত আছে। তারা দাড়ি ছেড়ে দেয়ার বিষয় উল্লেখ করেননি। সহীহ : ত্বালক্ব সূত্রে মাওকুফভাবে। ‏ وَفِي حَدِيثِ مُحَمَّدِ بْنِ عَبْدِ اللهِ بْنِ أَبِي مَرْيَمَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلي الله عليه وسلم فِيهِ وَإِعْفَاءُ اللِّحْيَةِ . - صحيح অন্য বর্ণনাতে আবূ হুরাইরাহ্ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণিত আছে ‘দাড়ি ছেড়ে দেয়া। সহীহ। وَعَنْ إِبْرَاهِيمَ النَّخَعِيِّ نَحْوُهُ وَذَكَرَ إِعْفَاءَ اللِّحْيَةِ وَالْخِتَانَ ‏.‏ - صحيح موقوف ইব্রহীম নাখাঈ হতেও অনুরূপ বর্ণনা আছে। তাতে ‘দাড়ি ছেড়ে দেয়া’ এবং ‘খাতনা করার’ কথা রয়েছে। সহীহ মাওকুফ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আম্মার ইবনু ইয়াসীর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, কুলি করা ও নাকে পানি দেয়া (মানুষের) ফিতরাতের অন্তর্গত। অতঃপর পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন। তবে ‘দাড়ি ছেড়ে দেয়া’-কথাটি উল্লেখ করেননি, উল্লেখ করেছেন ‘খাতনা করা’-এর কথা। ‘ইস্তিনজার পর লিঙ্গে অল্প পরিমাণ পানি ছিটানোর’ কথাও উল্লেখ করেছেন, তবে ইস্তিঞ্জার উল্লেখ করেননি।[1] হাসান। قَالَ أَبُو دَاوُدَ وَرُوِيَ نَحْوُهُ عَنِ ابْنِ عَبَّاسٍ وَقَالَ خَمْسٌ كُلُّهَا فِي الرَّأْسِ وَذَكَرَ فِيهَا الْفَرْقَ وَلَمْ يَذْكُرْ إِعْفَاءَ اللِّحْيَةِ ‏. - صحيح موقوف ইমাম আবূ দাউদ (রহঃ) বলেন, ইবনু ‘আব্বাস (রাঃ) সূত্রেও অনুরূপ বর্ণনা উল্লেখ আছে। তিনি পাঁচটি ফিতরাতের কথা বলেছেন, তার সবগুলোই মাথার মধ্যে। তিনি সিঁথি কাটার কথাও বলেছেন। তবে দাড়ি রাখা কথাটি উল্লেখ নেই। সহীহ মাওকুফ। ‏ قَالَ أَبُو دَاوُدَ وَرُوِيَ نَحْوُ حَدِيثِ حَمَّادٍ عَنْ طَلْقِ بْنِ حَبِيبٍ وَمُجَاهِدٍ وَعَنْ بَكْرِ بْنِ عَبْدِ اللهِ الْمُزَنِيِّ قَوْلُهُمْ وَلَمْ يَذْكُرُوا إِعْفَاءَ اللِّحْيَةِ ‏. - صحيح : عن طلق موقوف ইমাম আবূ দাউদ (রহঃ) বলেন, ত্বালক্ব ইবনু হাবীব, মুজাহিদ ও বাকর ইবনু ‘আব্দুল্লাহ আল-মুযানী সূত্রে হাম্মাদের হাদীসের অনুরূপ হাদীস বর্ণিত আছে। তারা দাড়ি ছেড়ে দেয়ার বিষয় উল্লেখ করেননি। সহীহ : ত্বালক্ব সূত্রে মাওকুফভাবে। ‏ وَفِي حَدِيثِ مُحَمَّدِ بْنِ عَبْدِ اللهِ بْنِ أَبِي مَرْيَمَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلي الله عليه وسلم فِيهِ وَإِعْفَاءُ اللِّحْيَةِ . - صحيح অন্য বর্ণনাতে আবূ হুরাইরাহ্ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণিত আছে ‘দাড়ি ছেড়ে দেয়া। সহীহ। وَعَنْ إِبْرَاهِيمَ النَّخَعِيِّ نَحْوُهُ وَذَكَرَ إِعْفَاءَ اللِّحْيَةِ وَالْخِتَانَ ‏.‏ - صحيح موقوف ইব্রহীম নাখাঈ হতেও অনুরূপ বর্ণনা আছে। তাতে ‘দাড়ি ছেড়ে দেয়া’ এবং ‘খাতনা করার’ কথা রয়েছে। সহীহ মাওকুফ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ammar b. Yasir: The Apostle of Allaah ( sal Allaahu alayhi wa sallam ) said : The rinsing of mouth and snuffing up water in the nose are acts that bear the characteristics of fitrah (nature). He then narrated a similar tradition (as reported by Aishah), but he did not mention the words "letting the beard grow". He added the words "circumcision" and "sprinkling water on the private part of the body". He did not mention the words "cleansing oneself after easing". Abu Dawud said : A similar tradition has been reported on the authority of Ibn 'Abbas. He mentioned only five sunnahs all relating to the head, one of them being parting of the hair; it did not include wearing the beard. Abu Dawud said: The tradition as reported by Hammad has also been transmitted by Talq b. Habib , Mujahid, and Bakr b. 'Abd Allaah b. al-Muzani as their own statement ( not as a tradition from the Prophet, sal Allaahu alayhi wa sallam ).They did not mention the words "letting the beard grow". The version transmitted by Muhammad b. Abd Allaah b. Abi Maryam, Abu Salamah, and Abu Hurairah from the Prophet ( sal Allaahu alayhi wa sallam ) mentions the words "letting the beard grow". A similar tradition has been reported by Ibrahim al-Nakha'i. He mentioned the words "wearing the beard and circumcision
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
+
+## French
+
+Rapporté par Ammar b. Yasir : Le Messager d’Allah ﷺ a dit : « Se rincer la bouche et aspirer de l’eau dans le nez font partie de la fitrah (la nature saine). » Puis il a rapporté une tradition similaire (comme celle rapportée par Aishah), mais il n’a pas mentionné les mots « laisser pousser la barbe ». Il a ajouté les mots « circoncision » et « asperger d’eau la partie intime ». Il n’a pas mentionné « se nettoyer après être allé aux toilettes ». Abu Dawud a dit : Une tradition similaire a été rapportée par Ibn ‘Abbas. Il n’a mentionné que cinq pratiques, toutes concernant la tête, dont la raie dans les cheveux ; il n’a pas parlé de la barbe. Abu Dawud a dit : La tradition rapportée par Hammad a aussi été transmise par Talq b. Habib, Mujahid et Bakr b. ‘Abd Allah b. al-Muzani comme leur propre avis (et non comme une parole du Prophète ﷺ). Ils n’ont pas mentionné « laisser pousser la barbe ». La version transmise par Muhammad b. Abd Allah b. Abi Maryam, Abu Salamah et Abu Huraira du Prophète ﷺ mentionne « laisser pousser la barbe ». Une tradition similaire a été rapportée par Ibrahim al-Nakha’i, qui a mentionné « porter la barbe » et « circoncision »
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Ma'in\] telah menceritakan kepada kami \[Waqi'\] dari \[Zakaria bin Abu Za'idah\] dari \[Mush'ab bin Syaibah\] dari \[Thalq bin habib\] dari \[Ibnu Az Zubair\] dari \[Aisyah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sepuluh perkara yang termasuk fithrah: Memotong kumis, memelihara jenggot (membiarkannya tumbuh), bersiwak, beristinsyaq dengan air, memotong kuku, membasuh sela-sela jari-jari, mencabut bulu ketiak, mencukur bulu kemaluan, dan beristinja' dengan air." Zakaria berkata; Mush'ab menerangkan; "Saya lupa yang kesepuluh tapi kemungkinan besar ia adalah berkumur." Telah menceritakan kepada kami \[Musa bin Isma'il\] dan \[Dawud bin Syabib\] mereka berdua berkata; telah menceritakan kepada kami \[Hammad\] dari \[Ali bin Zaid\] dari \[Salamah bin Muhammad bin Ammar bin Yasir\], \[Musa\] berkata dari \[Ayahnya\]. Dan \[Dawud\] berkata; dari \[Ammar bin Yasir\], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di anatara perkara fithrah adalah berkumur dan beristinsyaq, " lalu dia menyebutkan hadits semisalnya, namun dia tidak menyebutkan perihal memelihara jenggot tetapi menambahkan; dan khitan. Dia menyebutkan perihal memercikkan air ke bagian kemaluan untuk menghilangkan was was dan tidak menyebutkan perihal beristinja' dengan air. Abu Dawud berkata; Dan telah diriwayatkan hadits semisalnya dari Ibnu Abbas dan dia menyebutkan; Lima perkara fithrah yang semuanya di bagian kepala, kemudian dia menyebutkan perihal membelah rambut (setengah ke kanan dan setengah ke kiri) dan tidak menyebutkan perihal memelihara jenggot. Abu Dawud berkata; Dan telah diriwayatkan semisal hadits Hammad, dari Thalq bin Habib dan Mujahid dan dari Bakr bin Abdullah Al Muzani ucapan mereka, dan mereka tidak menyebutkan perihal memelihara jenggot. Dan di dalam hadits \[Muhammad bin Abdullah bin Abu Maryam\] dari \[Abu salamah\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, di dalamnya terdapat penyebutan perihal memelihara jenggot. Dan dari Ibrahim An Nakha'i semisalnya, dan dia menyebutkan perihal memelihara jenggot dan khitan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Ma'in] telah menceritakan kepada kami [Waqi'] dari [Zakaria bin Abu Za'idah] dari [Mush'ab bin Syaibah] dari [Thalq bin habib] dari [Ibnu Az Zubair] dari [Aisyah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sepuluh perkara yang termasuk fithrah: Memotong kumis, memelihara jenggot (membiarkannya tumbuh), bersiwak, beristinsyaq dengan air, memotong kuku, membasuh sela-sela jari-jari, mencabut bulu ketiak, mencukur bulu kemaluan, dan beristinja' dengan air." Zakaria berkata; Mush'ab menerangkan; "Saya lupa yang kesepuluh tapi kemungkinan besar ia adalah berkumur." Telah menceritakan kepada kami [Musa bin Isma'il] dan [Dawud bin Syabib] mereka berdua berkata; telah menceritakan kepada kami [Hammad] dari [Ali bin Zaid] dari [Salamah bin Muhammad bin Ammar bin Yasir], [Musa] berkata dari [Ayahnya]. Dan [Dawud] berkata; dari [Ammar bin Yasir], bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya di anatara perkara fithrah adalah berkumur dan beristinsyaq, " lalu dia menyebutkan hadits semisalnya, namun dia tidak menyebutkan perihal memelihara jenggot tetapi menambahkan; dan khitan. Dia menyebutkan perihal memercikkan air ke bagian kemaluan untuk menghilangkan was was dan tidak menyebutkan perihal beristinja' dengan air. Abu Dawud berkata; Dan telah diriwayatkan hadits semisalnya dari Ibnu Abbas dan dia menyebutkan; Lima perkara fithrah yang semuanya di bagian kepala, kemudian dia menyebutkan perihal membelah rambut (setengah ke kanan dan setengah ke kiri) dan tidak menyebutkan perihal memelihara jenggot. Abu Dawud berkata; Dan telah diriwayatkan semisal hadits Hammad, dari Thalq bin Habib dan Mujahid dan dari Bakr bin Abdullah Al Muzani ucapan mereka, dan mereka tidak menyebutkan perihal memelihara jenggot. Dan di dalam hadits [Muhammad bin Abdullah bin Abu Maryam] dari [Abu salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, di dalamnya terdapat penyebutan perihal memelihara jenggot. Dan dari Ibrahim An Nakha'i semisalnya, dan dia menyebutkan perihal memelihara jenggot dan khitan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Хузайфы: «Когда Посланник Аллаха ﷺ просыпался ночью, он чистил свой рот зубочисткой»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Musa b. İsmail'in Muhammed b. Ammar'dan, Davud b. Şebib'in ise Ammar b. Yasir'den naklen bildirdiklerine göre Resulullah (sallallahu aleyhi ve sellem) şöyle buyurmuştur: "Muhakkak ki ağıza ve buruna su çekmek fıtrattandır." Ammar b. Yasir Önceki hadisi aynen nakletti, ancak "sakal bırakmak"tan söz etmedi ve "sünnet olma"yı ekledi.Ve"intikasu’l-ma” yani istinca yerine de "intidah" kelimesini kullandı. Ebu Davud dedi ki: (Seleme İbn Muhammed hadisinin) bir benzeri İbn Abbas'dan da rivayet edilmiştir. Fakat İbn Abbas (r.a.): "Beş tane sünnet vardır ki beşi de baştadır" demiş ve saçları ortadan ayırmayı bunlar arasında saymış, sakalları uzatmaktan hiç bahsetmemiştir. Ebu Davud dedi ki: Hammad hadisinin benzeri Talk b. Habib, Mücahid Bekr b. Abdillah el-Müzeni'den de nakledilmiş fakat bunlar sakal bırakmaktan bahsetmemişlerdir. Muhammed b. Abdillah b. Ebi Meryem’in Ebu Seleme vasıtasıyla Ebu Hureyre'den rivayet ettiği (merfu’) hadiste ise, sakal uzatmak sözü geçmektedir. İbrahim en-Nehai'den de Muhammed b. abdillah hadisinin benzeri rivayet edilmiş, sakal uzatmak ve sünnet olmaktan bahsedilmiştir. Diğer tahric: İbn Mace, tahare 8; Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمار بن یاسر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: کلی کرنا اور ناک میں پانی ڈالنا فطرت میں سے ہے ، پھر انہوں نے اسی جیسی حدیث ذکر کی، داڑھی چھوڑنے کا ذکر نہیں کیا، اس میں ختنہ کا اضافہ کیا ہے، نیز اس میں استنجاء کے بعد لنگی پر پانی چھڑکنے کا ذکر ہے، اور پانی سے استنجاء کرنے کا ذکر نہیں کیا ہے۔ ابوداؤد کہتے ہیں: اسی طرح کی روایت ابن عباس رضی اللہ عنہما سے بھی مروی ہے، جس میں پانچ چیزیں ہیں ان میں سب کا تعلق سر سے ہے، اس میں ابن عباس رضی اللہ عنہما نے سر میں مانگ نکالنے کا ذکر کیا ہے، اور داڑھی چھوڑنے کا ذکر نہیں کیا ہے۔ ابوداؤد کہتے ہیں: حماد کی حدیث کی طرح طلق بن حبیب، مجاہد اور بکر بن عبداللہ المزنی سے ان سب کا اپنا قول مروی ہے، اس میں ان لوگوں نے بھی داڑھی چھوڑنے کا ذکر نہیں کیا ہے۔ اور محمد بن عبداللہ بن مریم کی روایت جسے انہوں نے ابوسلمہ سے، ابوسلمہ نے ابوہریرہ رضی اللہ عنہ سے، ابوہریرہ نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کیا ہے، اس میں داڑھی چھوڑنے کا ذکر ہے۔ ابراہیم نخعی سے بھی اسی جیسی روایت مروی ہے اس میں انہوں نے داڑھی چھوڑنے اور ختنہ کرنے کا ذکر کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Arabic No</td><td>54</td></tr><tr><td>Reference</td><td>Book 1 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Arabic No | 54 |
+| Reference | Book 1 Hadith 54 |

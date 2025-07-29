@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، قَالَ حَدَّثَنِي رَجُلٌ، مِنْ أَهْلِ الشَّامِ يُقَالُ لَهُ أَبُو مَنْظُورٍ عَنْ عَمِّهِ، قَالَ حَدَّثَنِي عَمِّي، عَنْ عَامِرٍ الرَّامِ، أَخِي الْخُضْرِ - قَالَ أَبُو دَاوُدَ قَالَ النُّفَيْلِيُّ هُوَ الْخُضْرُ وَلَكِنْ كَذَا قَالَ - قَالَ إِنِّي لَبِبِلاَدِنَا إِذْ رُفِعَتْ لَنَا رَايَاتٌ وَأَلْوِيَةٌ فَقُلْتُ مَا هَذَا قَالُوا هَذَا لِوَاءُ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَتَيْتُهُ وَهُوَ تَحْتَ شَجَرَةٍ قَدْ بُسِطَ لَهُ كِسَاءٌ وَهُوَ جَالِسٌ عَلَيْهِ وَقَدِ اجْتَمَعَ إِلَيْهِ أَصْحَابُهُ فَجَلَسْتُ إِلَيْهِمْ فَذَكَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم الأَسْقَامَ فَقَالَ ‏"‏ إِنَّ الْمُؤْمِنَ إِذَا أَصَابَهُ السَّقَمُ ثُمَّ أَعْفَاهُ اللَّهُ مِنْهُ كَانَ كَفَّارَةً لِمَا مَضَى مِنْ ذُنُوبِهِ وَمَوْعِظَةً لَهُ فِيمَا يَسْتَقْبِلُ وَإِنَّ الْمُنَافِقَ إِذَا مَرِضَ ثُمَّ أُعْفِيَ كَانَ كَالْبَعِيرِ عَقَلَهُ أَهْلُهُ ثُمَّ أَرْسَلُوهُ فَلَمْ يَدْرِ لِمَ عَقَلُوهُ وَلَمْ يَدْرِ لِمَ أَرْسَلُوهُ ‏"‏ ‏.‏ فَقَالَ رَجُلٌ مِمَّنْ حَوْلَهُ يَا رَسُولَ اللَّهِ وَمَا الأَسْقَامُ وَاللَّهِ مَا مَرِضْتُ قَطُّ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ قُمْ عَنَّا فَلَسْتَ مِنَّا ‏"‏ ‏.‏ فَبَيْنَا نَحْنُ عِنْدَهُ إِذْ أَقْبَلَ رَجُلٌ عَلَيْهِ كِسَاءٌ وَفِي يَدِهِ شَىْءٌ قَدِ الْتَفَّ عَلَيْهِ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي لَمَّا رَأَيْتُكَ أَقْبَلْتُ إِلَيْكَ فَمَرَرْتُ بِغَيْضَةِ شَجَرٍ فَسَمِعْتُ فِيهَا أَصْوَاتَ فِرَاخِ طَائِرٍ فَأَخَذْتُهُنَّ فَوَضَعْتُهُنَّ فِي كِسَائِي فَجَاءَتْ أُمُّهُنَّ فَاسْتَدَارَتْ عَلَى رَأْسِي فَكَشَفْتُ لَهَا عَنْهُنَّ فَوَقَعَتْ عَلَيْهِنَّ مَعَهُنَّ فَلَفَفْتُهُنَّ بِكِسَائِي فَهُنَّ أُولاَءِ مَعِي ‏.‏ قَالَ ‏"‏ ضَعْهُنَّ عَنْكَ ‏"‏ ‏.‏ فَوَضَعْتُهُنَّ وَأَبَتْ أُمُّهُنَّ إِلاَّ لُزُومَهُنَّ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَصْحَابِهِ ‏"‏ أَتَعْجَبُونَ لِرُحْمِ أُمِّ الأَفْرَاخِ فِرَاخَهَا ‏"‏ ‏.‏ قَالُوا نَعَمْ يَا رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ ‏"‏ فَوَالَّذِي بَعَثَنِي بِالْحَقِّ لَلَّهُ أَرْحَمُ بِعِبَادِهِ مِنْ أُمِّ الأَفْرَاخِ بِفِرَاخِهَا ارْجِعْ بِهِنَّ حَتَّى تَضَعَهُنَّ مِنْ حَيْثُ أَخَذْتَهُنَّ وَأُمُّهُنَّ مَعَهُنَّ ‏"‏ ‏.‏ فَرَجَعَ بِهِنَّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
+
 حدثنا عبد الله بن محمد النفيلي، حدثنا محمد بن سلمة، عن محمد بن اسحاق، قال حدثني رجل، من اهل الشام يقال له ابو منظور عن عمه، قال حدثني عمي، عن عامر الرام، اخي الخضر - قال ابو داود قال النفيلي هو الخضر ولكن كذا قال - قال اني لببلادنا اذ رفعت لنا رايات والوية فقلت ما هذا قالوا هذا لواء رسول الله صلى الله عليه وسلم فاتيته وهو تحت شجرة قد بسط له كساء وهو جالس عليه وقد اجتمع اليه اصحابه فجلست اليهم فذكر رسول الله صلى الله عليه وسلم الاسقام فقال " ان المومن اذا اصابه السقم ثم اعفاه الله منه كان كفارة لما مضى من ذنوبه وموعظة له فيما يستقبل وان المنافق اذا مرض ثم اعفي كان كالبعير عقله اهله ثم ارسلوه فلم يدر لم عقلوه ولم يدر لم ارسلوه " . فقال رجل ممن حوله يا رسول الله وما الاسقام والله ما مرضت قط . فقال رسول الله صلى الله عليه وسلم " قم عنا فلست منا " . فبينا نحن عنده اذ اقبل رجل عليه كساء وفي يده شىء قد التف عليه فقال يا رسول الله اني لما رايتك اقبلت اليك فمررت بغيضة شجر فسمعت فيها اصوات فراخ طاير فاخذتهن فوضعتهن في كسايي فجاءت امهن فاستدارت على راسي فكشفت لها عنهن فوقعت عليهن معهن فلففتهن بكسايي فهن اولاء معي . قال " ضعهن عنك " . فوضعتهن وابت امهن الا لزومهن فقال رسول الله صلى الله عليه وسلم لاصحابه " اتعجبون لرحم ام الافراخ فراخها " . قالوا نعم يا رسول الله صلى الله عليه وسلم . قال " فوالذي بعثني بالحق لله ارحم بعباده من ام الافراخ بفراخها ارجع بهن حتى تضعهن من حيث اخذتهن وامهن معهن " . فرجع بهن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আল-খুদর গোত্রের তীরন্দাজ ‘আমির (রাঃ) সূত্রে বর্ণিত। নুফাইলী বলেন, শব্দটি ‘খাদরি’ নয়, বরং খুদর, তবে ব্যবহারে তা প্রচলিত হয়ে গেছে। ‘আমির বলেন, আমি আমাদের শহরেই ছিলাম। এমন সময় ‘আমরা কিছু পতাকা উড্ডীন দেখতে পেয়ে লোকদের জিজ্ঞেস করি, এসব কি? তারা বললো, এগুলো রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পতাকা। আমি তাঁর নিকট আসলাম। তখন তিনি একটি গাছের নীচে তাঁর জন্য বিছানো একটি কম্বলের উপর বসা ছিলেন। তাঁর চারপাশে তাঁর সাহাবীগণও বসা ছিলেন। আমি তাদের কাছে বসলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রোগ সম্পর্কে আলোচনা করলেন। তিনি বললেনঃ মু‘মিন ব্যক্তি যখন অসুস্থ হয়, অতঃপর আল্লাহ তাকে রোগমুক্ত দেন, এটা তার অতীতের গুনাহের জন্য কাফফারা স্বরূপ এবং তার ভবিষ্যৎ জীবনের জন্য শিক্ষণীয়। পক্ষান্তরে কোনো মুনাফিক অসুস্থ হওয়ার পর তাকে তা থেকে মুক্তি দেয়া হলে সে এমন উটের মতো যাকে তার মালিক শক্ত করে বেঁধে আবার ছেড়ে দিলো। কিন্তু সে কিছুই বুঝলো না, তার মালিক তাকে কেনই বা শক্ত করে বাঁধলো আর কেনই বা ছেড়ে দিলো। তাঁর আশপাশে বসা লোকদের মধ্য থেকে এক ব্যক্তি বললো, হে আল্লাহর রাসূর! কিসের অসুস্থতা? আল্লাহর শপথ! আমি তো কখনো অসুস্থ হইনি? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি আমাদের এখান থেকে উঠে যাও, কারণ তুমি আমাদের দলভুক্ত নও। বর্ণনাকারী বলেন, ‘আমরা তাঁর কাছে বসা। এমতাবস্থায় তাঁর কাছে এক ব্যক্তি আসলো। তার গায়ে কম্বল জড়ানো এবং তার হাতে কিছু একটা ছিলো। সে বললো, হে আল্লাহর রাসূল! আমি আপনাকে দেখতে পেয়েই আপনার কাছে উপস্থিত হলাম। গাছপালার মধ্য দিয়ে পথ অতিক্রম করার সময় আমি পাখির বাচ্চার আওয়াজ শুনতে পাই। আমি সেগুলো ধরে আমার কম্বলের মধ্যে রাখি। বাচ্চাগুলোর মা এসে আমার উপর চক্কর দিতে লাগলো। আমি বাচ্চাগুলোকে তাদের মায়ের জন্য কম্বলের মধ্য থেকে বের করে দিলাম। পাখিটি এসে বাচ্চাগুলোর সাথে মিলিত হলো। আমি সবগুলোকে আমার কম্বল দিয়ে লেপটিয়ে ধরে ফেললাম। এখন সবগুলো পাখি আমার সাথে রয়েছে। তিনি বললেনঃ সেগুলো বের করে রাখো। সুতরাং আমি বের করলাম। কিন্তু মা পাখিটা বাচ্চাদের রেখে যেতে চাইলো না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সাহাবীদের বললেনঃ বাচ্চাদের প্রতি মা পাখিটার মায়ায় তোমরা কি আশ্চর্যবোধ করছো না! তারা বললেন, হ্যাঁ, হে আল্লাহ রাসূল! তিনি বললেনঃ সেই সত্তার শপথ, যিনি আমাকে সত্য দীনসহ পাঠিয়েছেন! বাচ্চাদের প্রতি মা পাখিটার যে মায়া রয়েছে, আল্লাহ অবশ্যই তাঁর বান্দাদের প্রতি আরো অধিক মমতাময়ী। তুমি যেখান থেকে বাচ্চাগুলোকে ধরে এনেছো মা-সহ তাদেরকে সেখানে রেখে আসো। সুতরাং সে পাখিগুলো সেখানে রেখে এলো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Amir ar-Ram: We were in our country when flags and banners were raised. I said: What is this? The (the people) said: This is the banner of the Messenger of Allah (ﷺ). So I came to him. He was (sitting) under a tree. A sheet of cloth was spread for him and he was sitting on it. His Companions were gathered around him. I sat with them. The Messenger of Allah (ﷺ) mentioned illness and said: When a believer is afflicted by illness and Allah cures him of it, it serves as an atonement for his previous sins and a warning to him for the future. But when a hypocrite becomes ill and is then cured, he is like a camel which has been tethered and then let loose by its owners, but does not know why they tethered it and why they let it loose. A man from among those around him asked: Messenger of Allah, what are illnesses? I swear by Allah, I never fell ill. The Messenger of Allah (ﷺ) said: Get up and leave us. You do not belong to our number. When we were with him, a man came to him. He had a sheet of cloth and something in his hand. He turned his attention to him and said: Messenger of Allah, when I saw you, I turned towards you. I saw a group of trees and heard the sound of fledglings. I took them and put them in my garment. Their mother then came and began to hover round my head. I showed them to her, and she fell on them. I wrapped them with my garment. They are now with me. He said: Put them away from you. So I put them away, but their mother stayed with them. The Messenger of Allah (ﷺ) said to his companions: Are you surprised at the affection of the mother for her young? They said: Yes, Messenger of Allah. He said: I swear by Him Who has sent me with the Truth, Allah is more affectionate to His servants than a mother to her young ones. Take them back put them and where you took them from when their mother should have been with them. So he took them back
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
+
+## French
+
+Rapporté par Amir ar-Ram : Nous étions dans notre pays lorsque des drapeaux et des bannières ont été levés. J’ai demandé : « Qu’est-ce que c’est ? » On m’a répondu : « C’est la bannière du Messager d’Allah ﷺ. » Je suis donc allé le voir. Il était assis sous un arbre, un tissu étendu sous lui, entouré de ses compagnons. Je me suis assis avec eux. Le Messager d’Allah ﷺ a parlé de la maladie et a dit : « Quand un croyant est éprouvé par une maladie et qu’Allah le guérit, cela efface ses péchés passés et lui sert d’avertissement pour l’avenir. Mais quand un hypocrite tombe malade puis guérit, il est comme un chameau qu’on attache puis qu’on relâche sans qu’il sache pourquoi. » Un homme parmi ceux qui étaient là demanda : « Messager d’Allah, qu’est-ce qu’une maladie ? Par Allah, je n’ai jamais été malade. » Le Messager d’Allah ﷺ dit : « Lève-toi et pars, tu ne fais pas partie des nôtres. » Pendant que nous étions avec lui, un homme est venu, portant un tissu et quelque chose dans la main. Il a attiré l’attention du Prophète ﷺ et a dit : « Messager d’Allah, en te voyant, je me suis approché de toi. J’ai vu un groupe d’arbres et entendu des oisillons. Je les ai pris et mis dans mon vêtement. Leur mère est venue tourner autour de ma tête. Je les lui ai montrés, elle s’est posée sur eux et je les ai enveloppés dans mon vêtement. Ils sont avec moi. » Il a dit : « Remets-les là d’où tu les as pris. » Je les ai donc remis, et leur mère est restée avec eux. Le Messager d’Allah ﷺ a dit à ses compagnons : « Êtes-vous étonnés de l’amour de cette mère pour ses petits ? » Ils ont répondu : « Oui, Messager d’Allah. » Il a dit : « Par Celui qui m’a envoyé avec la Vérité, Allah est plus miséricordieux envers Ses serviteurs qu’une mère envers ses petits. Remets-les là où tu les as trouvés, là où leur mère doit être avec eux. » Il les a donc ramenés
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Muhammad An Nufaili\] telah menceritakan kepada kami \[Muhammad bin Salamah\] dari \[Muhammad bin Ishaq\], ia berkata; telah menceritakan kepadaku \[seorang laki-laki\] dari Syam yang dipanggil Abu Manzhur, dari \[pamannya\] ia berkata; telah menceritakan kepadaku \[pamanku\] dari \['Amir Ar Ram\] saudara Al Khadhir, Abu Daud berkata; An Nufaili adalah Al Khudhr, akan tetapi dekianlah ia berkata. ia berkata; sungguh aku berada di suatu negeri, tiba-tiba diangkat kepada kami beberapa bendera, kemudian aku katakan; apa ini? Mereka berkata; ini adalah bendera Rasulullah shallallahu 'alaihi wasallam. Kemudian aku datang kepadanya, dan beliau sedang berada di bawah pohon, telah dihamparkan untuknya kain, dan beliau dalam keadaan duduk di atasnya, dan para sahabatnya mengrumuninya. Lalu aku duduk di samping mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam menyebutkan bebeapa penyakit. Kemudian berkata; sesungguhnya seorang mukmin apabila terkena sakit kemudian Allah menyembuhkanya maka sakit adalah penghapus dosanya yang telah lalu dan sebagai nasehat baginya untuk waktu yang akan datang. Dan sesungguhnya orang munafik apabila sakit kemudian disembuhkan maka ia seperti unta yang diikat pemiliknya, kemudian mereka melepaskannya, dan ia tidak mengeatui kenapa mereka mengikatnya, dan tidak mengerti kenapa mereka melepaskannya. Kemudian terdapat seorang laki-laki diantara orang-orang yang ada di sekitarnya berkata; wahai Rasulullah, apakah penyakit tersebut. Demi Allah aku belum pernah sakit sama sekali. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Bangkit dan tinggalkan kami, engkau bukan golongan kami!" kemudian tatkala kami berada di sisi beliau tiba-tiba terdapat seorang laki-laki yang memakai kisa', dan di tangannya terdapat sesuatu yang melilit padanya. Kemudian ia berkata; wahai Rasulullah sesungguhnya aku tatkala melihat anda aku menhadap kepada anda. Lalu aku mendapatkan di rerimbunan pohon, lalu aku mendengar padanya terdapat beberapa suara anak-anak burung, lalu aku mengambilnya di dalam bajuku, kemudian ibu mereka datang dan mengitari bahayanya. Apakah kalian kagum terhadap kasih sayang induk burung tersebut kepada anak-anaknya? Mereka berkata; ya, wahai Rasulullah. Kemudian beliau berkata; demi Dzat yang jiwaku ada di tanganNya. Sungguh Allah lebih sayang kepada para hambaNya daripada induk burung kepada anak-anaknya. Kembalikan mereka hingga engkau meletakkahnya pada tempat dimana engkau dahulu mengambilnya. Sementara induknya bersama mereka!" kemudian ia mengembalikannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Muhammad bin Salamah] dari [Muhammad bin Ishaq], ia berkata; telah menceritakan kepadaku [seorang laki-laki] dari Syam yang dipanggil Abu Manzhur, dari [pamannya] ia berkata; telah menceritakan kepadaku [pamanku] dari ['Amir Ar Ram] saudara Al Khadhir, Abu Daud berkata; An Nufaili adalah Al Khudhr, akan tetapi dekianlah ia berkata. ia berkata; sungguh aku berada di suatu negeri, tiba-tiba diangkat kepada kami beberapa bendera, kemudian aku katakan; apa ini? Mereka berkata; ini adalah bendera Rasulullah shallallahu 'alaihi wasallam. Kemudian aku datang kepadanya, dan beliau sedang berada di bawah pohon, telah dihamparkan untuknya kain, dan beliau dalam keadaan duduk di atasnya, dan para sahabatnya mengrumuninya. Lalu aku duduk di samping mereka. Kemudian Rasulullah shallallahu 'alaihi wasallam menyebutkan bebeapa penyakit. Kemudian berkata; sesungguhnya seorang mukmin apabila terkena sakit kemudian Allah menyembuhkanya maka sakit adalah penghapus dosanya yang telah lalu dan sebagai nasehat baginya untuk waktu yang akan datang. Dan sesungguhnya orang munafik apabila sakit kemudian disembuhkan maka ia seperti unta yang diikat pemiliknya, kemudian mereka melepaskannya, dan ia tidak mengeatui kenapa mereka mengikatnya, dan tidak mengerti kenapa mereka melepaskannya. Kemudian terdapat seorang laki-laki diantara orang-orang yang ada di sekitarnya berkata; wahai Rasulullah, apakah penyakit tersebut. Demi Allah aku belum pernah sakit sama sekali. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Bangkit dan tinggalkan kami, engkau bukan golongan kami!" kemudian tatkala kami berada di sisi beliau tiba-tiba terdapat seorang laki-laki yang memakai kisa', dan di tangannya terdapat sesuatu yang melilit padanya. Kemudian ia berkata; wahai Rasulullah sesungguhnya aku tatkala melihat anda aku menhadap kepada anda. Lalu aku mendapatkan di rerimbunan pohon, lalu aku mendengar padanya terdapat beberapa suara anak-anak burung, lalu aku mengambilnya di dalam bajuku, kemudian ibu mereka datang dan mengitari bahayanya. Apakah kalian kagum terhadap kasih sayang induk burung tersebut kepada anak-anaknya? Mereka berkata; ya, wahai Rasulullah. Kemudian beliau berkata; demi Dzat yang jiwaku ada di tanganNya. Sungguh Allah lebih sayang kepada para hambaNya daripada induk burung kepada anak-anaknya. Kembalikan mereka hingga engkau meletakkahnya pada tempat dimana engkau dahulu mengambilnya. Sementara induknya bersama mereka!" kemudian ia mengembalikannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Амир ар-Рами, брат аль-Худра, передаёт: «Я находился в наших землях, и вдруг мы увидели боевые знамёна. Я спросил: “Что это?” Люди сказали: “Это знамя Посланника Аллаха ﷺ”. И я пришёл к нему, когда он сидел под деревом на расстеленной для него одежде в окружении своих сподвижников, и сел вместе с ними. Посланник Аллаха ﷺ упомянул о болезнях, сказав: “Поистине, когда верующего постигает недуг, а потом Аллах избавляет его от этого недуга, он становится для него искуплением совершённых им ранее грехов и назиданием. А когда лицемер заболевает, а потом излечивается, он подобен верблюду, которого его владелец сначала стреножил, а потом отпустил и который не знает, зачем его стреножили и зачем отпустили”. Один из сидевших возле него сказал: “О Посланник Аллаха, а что такое болезни? Клянусь Аллахом, я никогда не болел!” Посланник Аллаха ﷺ сказал: “Встань и покинь нас, ибо ты не имеешь к нам отношения!” Пока мы сидели так с ним, пришёл человек в плаще, в который было что-то завёрнуто. Он сказал: “О Посланник Аллаха, я шёл через рощу и услышал голоса птенцов. Я взял их и завернул в свою одежду, а их мать прилетела и стала летать вокруг моей головы. Тогда я раскрыл одежду, и она устремилась к ним, а я запахнул одежду обратно, и теперь эти птицы здесь, в моей одежде”. Посланник Аллаха ﷺ сказал: “Оставь их”. И он раскрыл одежду, однако птица отказалась улетать и покидать своих птенцов. Посланник Аллаха ﷺ сказал своим сподвижникам: “Вас удивляет милосердие этой птицы к её птенцам?” Они ответили: “Да, о Посланник Аллаха”. Он сказал: “Клянусь Тем, Кто послал меня с истиной, Аллах более милостив к Своим рабам, чем эта птица к своим птенцам. Вернись же и положи их туда, где ты взял их”. И он отнёс их на место»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amir er-Rami'den demiştir ki: Ben memleketimizde idim. Birdenbire bizim için bayrakların ve sancakların dikilmiş olduğunu gördüm (ve) "Bu da nedir?" dedim. "Bu Rasulullah Sallallahu Aleyhi ve Sellem'in sancağıdır" dediler. Bunun üzerine (Rasulullah'in) yanına vardım. Bir ağacın altında kendisi için serilen bir elbisenin üzerinde oturuyordu. Sahabileri etrafına toplanmışlardı. Ben de onlar (in arasın)a oturdum. Rasulullah (s.a.v.) hastalıklardan bahsediyordu. Bu sırada... "Bir mu'min’e hastalık isabet eder, sonra Allah bu mü'mini o hastalıktan kurtarırsa o, hastalık, bu mü'minin günahlarına keffaret, ileride (başına) gelecek işler hakkında ona bir öğüt olur. (Fakat) bir münafık hastalanır da sonra iyileşecek olursa, tıpkı sahiblerinin bağlayıp da sonra salıverdiği bir deve gibi olur. Kendisini niçin bağladıklarını da bilmez, niçin saldıklarınıı da bilmez." buyurdu. Bunun üzerine orada bulunanlardan bir adam: "Ey Allah'ın Rasulül (Bu sözünü ettiğin) hastalıklar da nedir? Vallahi ben (hayatta) hiç hastalanmadım" dedi. Peygamber (s.a.v.) de: “Sen yanımızdan kalk. (git) Çünkü sen bizden değilsin" (Kamil bir mü'minin özelliği bela ve musibetlere maruz kalmaktır.) dedi. Biz (Hz. Peygamber'in) yanında (böyle sohbet etmekte) iken oraya (elinin) üzerinde elbise olan bir adam çıkageldi. Elinde bir şey (daha) vardı (ve elbise o şeyin) üzerine sarılmıştı. O zat: "Ey Allah'ın Rasulü: Ben seni görünce (huzuruna gelmek üzere) sana (doğru) yöneldim. (Gelirken) ağaçları sık olan bir yer'e uğradım. Orada (birtakım) kuş yavrusu sesleri işittim. Onları alıp elbisemin içine koydum. Bunun üzerine anneleri gelip başımın üstünde dolaş (maya başla)dı. Ben de onun için elbisemi yavruların üzerinden kaldırdım. Bunun üzerine anneleri yavruların üzerine kondu. Bende hepsini (birden) elbisemin içine sardım. îşte şu yanımdakiler onlardır" dedi. (Hz. Peygamber de): "Onları (yere) bırak!" buyurdu. (Adam da) Onları (yere) bırakıverdi. Anneleri ise (yine) onlardan ayrılmadı. Bunun üzerine Rasulullah (s.a.v.)(orada bulunan) sahabilerine (şu): "Yavruların annesinin yavrularına olan şefkatine hayret ediyor musunuz?" diye sordu. (Onlar da): “Evet ya Rasulullah" cevabını verdiler. (Hz. Peygamber de): “Beni hak (din) ile gönderen Zat'a yemin olsun ki, Allah kullarına yavrularına karşı şefkatini gördüğünüz şu yavruların annesinden daha merhametlidir. Onları geri götür ve anneleri ile birliktelerken kendilerini yakaladığın yere koy." (o zat da) onları geri götürdü
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 خضر کے تیر انداز بھائی عامر رضی اللہ عنہ کہتے ہیں کہ میں اپنے ملک میں تھا کہ یکایک ہمارے لیے جھنڈے اور پرچم لہرائے گئے تو میں نے پوچھا: یہ کیا ہے؟ لوگوں نے بتایا کہ یہ رسول اللہ صلی اللہ علیہ وسلم کا پرچم ہے، تو میں آپ کے پاس آیا، آپ صلی اللہ علیہ وسلم ایک درخت کے نیچے ایک کمبل پر جو آپ کے لیے بچھایا گیا تھا تشریف فرما تھے، اور آپ صلی اللہ علیہ وسلم کے اردگرد آپ کے اصحاب اکٹھا تھے، میں بھی جا کر انہیں میں بیٹھ گیا ۱؎، پھر رسول اللہ صلی اللہ علیہ وسلم نے بیماریوں کا ذکر فرمایا: جب مومن بیمار پڑتا ہے پھر اللہ تعالیٰ اس کو اس کی بیماری سے عافیت بخشتا ہے تو وہ بیماری اس کے پچھلے گناہوں کا کفارہ ہو جاتی ہے اور آئندہ کے لیے نصیحت، اور جب منافق بیمار پڑتا ہے پھر اسے عافیت دے دی جاتی ہے تو وہ اس اونٹ کے مانند ہے جسے اس کے مالک نے باندھ رکھا ہو پھر اسے چھوڑ دیا ہو، اسے یہ نہیں معلوم کہ اسے کس لیے باندھا گیا اور کیوں چھوڑ دیا گیا ۔ آپ صلی اللہ علیہ وسلم کے اردگرد موجود لوگوں میں سے ایک شخص نے آپ سے عرض کیا: اللہ کے رسول! بیماریاں کیا ہیں؟ اللہ کی قسم میں کبھی بیمار نہیں ہوا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تو اٹھ جا، تو ہم میں سے نہیں ہے ۲؎۔ عامر کہتے ہیں: ہم لوگ بیٹھے ہی تھے کہ ایک کمبل پوش شخص آیا جس کے ہاتھ میں کوئی چیز تھی جس پر کمبل لپیٹے ہوئے تھا، اس نے عرض کیا: اللہ کے رسول! جب میں نے آپ کو دیکھا تو آپ کی طرف آ نکلا، راستے میں درختوں کا ایک جھنڈ دیکھا اور وہاں چڑیا کے بچوں کی آواز سنی تو انہیں پکڑ کر اپنے کمبل میں رکھ لیا، اتنے میں ان بچوں کی ماں آ گئی، اور وہ میرے سر پر منڈلانے لگی، میں نے اس کے لیے ان بچوں سے کمبل ہٹا دیا تو وہ بھی ان بچوں پر آ گری، میں نے ان سب کو اپنے کمبل میں لپیٹ لیا، اور وہ سب میرے ساتھ ہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: ان کو یہاں رکھو ، میں نے انہیں رکھ دیا، لیکن ماں نے اپنے بچوں کا ساتھ نہیں چھوڑا، تب رسول اللہ صلی اللہ علیہ وسلم نے اپنے اصحاب سے فرمایا: کیا تم اس چڑیا کے اپنے بچوں کے ساتھ محبت کرنے پر تعجب کرتے ہو؟ ، صحابہ نے عرض کیا: ہاں، اللہ کے رسول! آپ صلی اللہ علیہ وسلم نے فرمایا: قسم ہے اس ذات کی جس نے مجھے سچا پیغمبر بنا کر بھیجا ہے، اللہ تعالیٰ اپنے بندوں سے اس سے کہیں زیادہ محبت رکھتا ہے جتنی یہ چڑیا اپنے بچوں سے رکھتی ہے، تم انہیں ان کی ماں کے ساتھ لے جاؤ اور وہیں چھوڑ آؤ جہاں سے انہیں لائے ہو ، تو وہ شخص انہیں واپس چھوڑ آیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3089</td></tr><tr><td>Arabic No</td><td>3089</td></tr><tr><td>Reference</td><td>Book 21 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3089 |
+| Arabic No | 3089 |
+| Reference | Book 21 Hadith 1 |

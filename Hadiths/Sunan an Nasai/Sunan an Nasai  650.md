@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، قَالَ كَانَ آخِرُ أَذَانِ بِلاَلٍ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن سفيان، عن منصور، عن ابراهيم، عن الاسود، قال كان اخر اذان بلال الله اكبر الله اكبر لا اله الا الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুওসায়দ (রহঃ) ... আসওয়াদ (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ বিলাল (রাঃ)-এর আযানের শেষ বাক্যগুলো ছিলঃ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Al-Aswad said:"The final words of the Adhan of Bilal were: 'Allahu Akbar, Allahu Akbar, Allahu Akbar; La ilaha illallah (Allah is the Greatest, Allah is the Greatest, there is none worthy of worship except Allah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |
+
+## French
+
+Rapporté par Al-Aswad : Les dernières paroles de l’Adhan de Bilal étaient : « Allahu Akbar, Allahu Akbar, Allahu Akbar ; La ilaha illallah » (Allah est le Plus Grand, Allah est le Plus Grand, il n’y a de divinité digne d’adoration qu’Allah)
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] dia berkata; telah memberitakan kepada kami \['Abdullah\] dari \[Sufyan\] dari \[Manshur\] dari \[Ibrahim\] dari \[Al-Aswad\] dia berkata; "Lafazh adzan yang terakir adalah: ALLAAHU AKBAR, ALLAAHU AKBAR (Allah Maha Besar. Allah Maha Besar), LAA ILAAHA ILLALLAAH (Tidak ada tuhan (yang berhak disembah kecuali Allah)." Telah mengabarkan kepada kami \[Suwaid\] dia berkata; telah memberitakan kepada kami \['Abdullah\] dari \[Sufyan\] dari \[Al-A'masy\] dari \[Ibrahim\] dari \[Al-Aswad\] yang semisal itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] dia berkata; telah memberitakan kepada kami ['Abdullah] dari [Sufyan] dari [Manshur] dari [Ibrahim] dari [Al-Aswad] dia berkata; "Lafazh adzan yang terakir adalah: ALLAAHU AKBAR, ALLAAHU AKBAR (Allah Maha Besar. Allah Maha Besar), LAA ILAAHA ILLALLAAH (Tidak ada tuhan (yang berhak disembah kecuali Allah)." Telah mengabarkan kepada kami [Suwaid] dia berkata; telah memberitakan kepada kami ['Abdullah] dari [Sufyan] dari [Al-A'masy] dari [Ibrahim] dari [Al-Aswad] yang semisal itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسود کہتے ہیں کہ بلال رضی اللہ عنہ کی اذان کے آخری کلمات یہ تھے «اللہ أكبر اللہ أكبر، لا إله إلا اللہ»۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>650</td></tr><tr><td>Arabic No</td><td>650</td></tr><tr><td>Reference</td><td>Book 7 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 650 |
+| Arabic No | 650 |
+| Reference | Book 7 Hadith 25 |

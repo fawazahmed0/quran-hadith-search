@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، أَنَّ حَمَّادَ بْنَ زَيْدٍ، وَإِسْمَاعِيلَ بْنَ إِبْرَاهِيمَ، حَدَّثَاهُمْ عَنْ عَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ التَّزَعْفُرِ لِلرِّجَالِ وَقَالَ عَنْ إِسْمَاعِيلَ أَنْ يَتَزَعْفَرَ الرَّجُلُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
+
 حدثنا مسدد، ان حماد بن زيد، واسماعيل بن ابراهيم، حدثاهم عن عبد العزيز بن صهيب، عن انس، قال نهى رسول الله صلى الله عليه وسلم عن التزعفر للرجال وقال عن اسماعيل ان يتزعفر الرجل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষদের জন্য জাফরান রঙ ব্যবহার নিষিদ্ধ করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পুরুষদের জন্য জাফরান রঙ ব্যবহার নিষিদ্ধ করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas said:The Messenger of Allah (ﷺ) forbade men to use saffron. Isma'il version has: "(forbade) man to use saffron
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
+
+## French
+
+Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a interdit aux hommes d’utiliser le safran. Dans la version d’Isma’il, il est dit : « (il a interdit) à l’homme d’utiliser le safran. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] bahwa \[Hammad bin Zaid\] dan \[Isma'il bin Ibrahim\] keduanya menceritakan kepada mereka dari \[Abdul Aziz bin Shuhaib\] dari \[Anas\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang penggunakan Za'faran untuk laki-laki
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] bahwa [Hammad bin Zaid] dan [Isma'il bin Ibrahim] keduanya menceritakan kepada mereka dari [Abdul Aziz bin Shuhaib] dari [Anas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melarang penggunakan Za'faran untuk laki-laki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса (ибн Малика), да будет доволен им Аллах, что Посланник Аллаха ﷺ запретил мужчине использовать шафран (, то есть наносить его на тело и одежду)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a) demiştir ki: "Resûlullah (s.a.v.), erkekleri zaferan sürünmekten nehyetti." Müsedded; ismail'den "Erkeğin zâferan kullanmasını" diye rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مردوں کو زعفران لگانے سے منع فرمایا ہے۔ اور اسماعیل کی روایت میں«عن التزعفر للرجال» کے بجائے «أن يتزعفرالرجل» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2101)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4179</td></tr><tr><td>Arabic No</td><td>4179</td></tr><tr><td>Reference</td><td>Book 35 Hadith 21</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2101) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4179 |
+| Arabic No | 4179 |
+| Reference | Book 35 Hadith 21 |

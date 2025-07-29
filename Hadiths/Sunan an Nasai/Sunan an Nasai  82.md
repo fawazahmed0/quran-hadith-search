@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ إِبْرَاهِيمَ الْبَصْرِيُّ، عَنْ بِشْرِ بْنِ الْمُفَضَّلِ، عَنِ ابْنِ عَوْنٍ، عَنْ عَامِرٍ الشَّعْبِيِّ، عَنْ عُرْوَةَ بْنِ الْمُغِيرَةِ، عَنِ الْمُغِيرَةِ، وَعَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ رَجُلٍ، حَتَّى رَدَّهُ إِلَى الْمُغِيرَةِ - قَالَ ابْنُ عَوْنٍ وَلاَ أَحْفَظُ حَدِيثَ ذَا مِنْ حَدِيثِ ذَا - أَنَّ الْمُغِيرَةَ قَالَ كُنَّا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي سَفَرٍ فَقَرَعَ ظَهْرِي بِعَصًا كَانَتْ مَعَهُ فَعَدَلَ وَعَدَلْتُ مَعَهُ حَتَّى أَتَى كَذَا وَكَذَا مِنَ الأَرْضِ فَأَنَاخَ ثُمَّ انْطَلَقَ ‏.‏ قَالَ فَذَهَبَ حَتَّى تَوَارَى عَنِّي ثُمَّ جَاءَ فَقَالَ ‏"‏ أَمَعَكَ مَاءٌ ‏"‏ ‏.‏ وَمَعِي سَطِيحَةٌ لِي فَأَتَيْتُهُ بِهَا فَأَفْرَغْتُ عَلَيْهِ فَغَسَلَ يَدَيْهِ وَوَجْهَهُ وَذَهَبَ لِيَغْسِلَ ذِرَاعَيْهِ وَعَلَيْهِ جُبَّةٌ شَامِيَّةٌ ضَيِّقَةُ الْكُمَّيْنِ فَأَخْرَجَ يَدَهُ مِنْ تَحْتِ الْجُبَّةِ فَغَسَلَ وَجْهَهُ وَذِرَاعَيْهِ وَذَكَرَ مِنْ نَاصِيَتِهِ شَيْئًا وَعِمَامَتِهِ شَيْئًا - قَالَ ابْنُ عَوْنٍ لاَ أَحْفَظُ كَمَا أُرِيدُ ثُمَّ مَسَحَ عَلَى خُفَّيْهِ - ثُمَّ قَالَ ‏"‏ حَاجَتَكَ ‏"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ لَيْسَتْ لِي حَاجَةٌ فَجِئْنَا وَقَدْ أَمَّ النَّاسَ عَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ وَقَدْ صَلَّى بِهِمْ رَكْعَةً مِنْ صَلاَةِ الصُّبْحِ فَذَهَبْتُ لأُوذِنَهُ فَنَهَانِي فَصَلَّيْنَا مَا أَدْرَكْنَا وَقَضَيْنَا مَا سُبِقْنَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |
+
 اخبرنا محمد بن ابراهيم البصري، عن بشر بن المفضل، عن ابن عون، عن عامر الشعبي، عن عروة بن المغيرة، عن المغيرة، وعن محمد بن سيرين، عن رجل، حتى رده الى المغيرة - قال ابن عون ولا احفظ حديث ذا من حديث ذا - ان المغيرة قال كنا مع رسول الله صلى الله عليه وسلم في سفر فقرع ظهري بعصا كانت معه فعدل وعدلت معه حتى اتى كذا وكذا من الارض فاناخ ثم انطلق . قال فذهب حتى توارى عني ثم جاء فقال " امعك ماء " . ومعي سطيحة لي فاتيته بها فافرغت عليه فغسل يديه ووجهه وذهب ليغسل ذراعيه وعليه جبة شامية ضيقة الكمين فاخرج يده من تحت الجبة فغسل وجهه وذراعيه وذكر من ناصيته شييا وعمامته شييا - قال ابن عون لا احفظ كما اريد ثم مسح على خفيه - ثم قال " حاجتك " . قلت يا رسول الله ليست لي حاجة فجينا وقد ام الناس عبد الرحمن بن عوف وقد صلى بهم ركعة من صلاة الصبح فذهبت لاوذنه فنهاني فصلينا ما ادركنا وقضينا ما سبقنا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু ইবরাহীম বসরী (রহঃ) ... মুগীরা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সঙ্গে এক সফরে ছিলাম। তাঁর কাছে একটি লাঠি ছিল। (পথের এক স্থানে) তিনি লাঠিটি দিয়ে আমার পিঠে ঠোকা দিলেন। পরে তিনি রাস্তা থেকে সরে গেলেন। আমিও তাঁর সঙ্গে সরে গেলাম। (কিছুক্ষণ চলার পর) এক স্থানে এসে উট থামালেন। তারপর তিনি আবার চলতে লাগলেন। রাবী বলেনঃ তিনি এতদুর গেলেন যে, আমার থেকে অদৃশ্য হয়ে গেলেন। (ক্ষণিক পর) ফিরে এসে বললেন, তোমার নিকট পানি আছে? আমার সাথে একটি পানির পাত্র ছিল। আমি তা নিয়ে তাঁর নিকট আসলাম এবং পানি ঢেলে দিতে লাগলাম। তিনি তাঁর হাত মুখ ধুলেন এবং কব্জির উপরিভাগ ধৌত করতে চাইলেন। তখন তাঁর পরিধানে ছিল চিকন হাতার একটি শামী (সিরীয়) জুব্বা। তিনি জুব্বার ভেতর থেকে হাত বের করে আনলেন এবং মুখমন্ডল ও হাত ধৌত করলেন। তিনি কপাল ও পাগড়ির কিছু অংশ মাসেহ করেছিলেন বলে রাবী উল্লেখ করেছেন। (হাদীসের একজন রাবী) ইবনু আওন (রহঃ) বলেনঃ আমার যেমন ইচ্ছা ছিল হাদীসটি তেমন স্মরণ রাখতে পারিনি। (অতঃপর রাবী বলেন) এরপর তিনি তাঁর মোজার উপর মাসেহ করেন এবং বললেনঃ তোমার প্রয়োজন সমাধা করো। আমি বললাম, ইয়া রাসূলুল্লাহ! আমার প্রয়োজন নেই। তারপর আমরা চলে আসলাম। আবদুর রহমান ইবনু আউফ (রাঃ) অগ্রগামী দলে ছিলেন। (এদিকে রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বিলম্বের কারণে) আবদুর রহমান ইবনু আউফ (রাঃ) লোকদেরকে নিয়ে ফজরের সালাত (নামায/নামাজ) এক রাকআত আদায় করলেন। আমি আবদুর রহমান ইবনু আউফ (রাঃ) কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর আগমন সংবাদ দেয়ার ইচ্ছা করি কিন্তু তিনি (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাকে নিষেধ করেন। অতএব আমরা যতটুকু পেলাম তা (জামাআতে) আদায় করলাম এবং যা আমরা পাইনি তা নিজেরা আদায় করে নিলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |
 
 ## English
 
+Al-Mughirah said:"We were with the Prophet (ﷺ) on a journey, and he tapped me on the back with a stick he had with him, then he turned off (route) and I turned off with him until he came to such and such an area. Then he made his camel stop and went away until he disappeared from me, then he came back and said: 'Do you have water with you?' I had a water skin with me, so I brought it out and poured it for him. He washed his hands and face and began to wash his arms, but he was wearing a Syrian Jubbah\[1\] that had narrow sleeves, so he brought his arms out from beneath the Jubbah and washed his hands and arms, and wiped his forelock a little and his turban a little." - Ibn 'Awn said: "I cannot remember it well - then he wiped over his Khuffs." Then he said: 'What do you need?' I said: 'O Messenger of Allah, I do not need anything.' Then we came and 'Abdur-Rahman bin 'Awf was leading the people in Salah, and he had led them in one Rak'ah of the Subh (Fajr) prayer. I wanted to tell him that the Prophet (ﷺ) had arrived but he did not let me, so we prayed what we had caught up with and made up what we had missed.'" \[1\] It is a type of cloak
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Al-Mughirah said:"We were with the Prophet (ﷺ) on a journey, and he tapped me on the back with a stick he had with him, then he turned off (route) and I turned off with him until he came to such and such an area. Then he made his camel stop and went away until he disappeared from me, then he came back and said: 'Do you have water with you?' I had a water skin with me, so I brought it out and poured it for him. He washed his hands and face and began to wash his arms, but he was wearing a Syrian Jubbah[1] that had narrow sleeves, so he brought his arms out from beneath the Jubbah and washed his hands and arms, and wiped his forelock a little and his turban a little." - Ibn 'Awn said: "I cannot remember it well - then he wiped over his Khuffs." Then he said: 'What do you need?' I said: 'O Messenger of Allah, I do not need anything.' Then we came and 'Abdur-Rahman bin 'Awf was leading the people in Salah, and he had led them in one Rak'ah of the Subh (Fajr) prayer. I wanted to tell him that the Prophet (ﷺ) had arrived but he did not let me, so we prayed what we had caught up with and made up what we had missed.'" [1] It is a type of cloak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |
+
+## French
+
+Rapporté par Al-Mughirah : Nous étions avec le Prophète (ﷺ) en voyage, et il m'a touché le dos avec un bâton qu'il avait avec lui, puis il s'est écarté du chemin et je l'ai suivi jusqu'à ce qu'il arrive dans un endroit précis. Il a fait arrêter son chameau et s'est éloigné jusqu'à ce que je ne le voie plus, puis il est revenu et a dit : "As-tu de l'eau avec toi ?" J'avais une outre d'eau avec moi, alors je l'ai sortie et lui ai versé de l'eau. Il s'est lavé les mains et le visage, puis a commencé à laver ses bras, mais il portait une jubbah syrienne à manches étroites, alors il a sorti ses bras de sous la jubbah et a lavé ses mains et ses bras, puis il a essuyé un peu son front et un peu son turban. Ibn 'Awn a dit : Je ne me souviens plus très bien - puis il a essuyé sur ses khuffs. Ensuite il a dit : "Que veux-tu ?" J'ai répondu : "Ô Messager d'Allah, je n'ai besoin de rien." Ensuite, nous sommes arrivés et 'Abdur-Rahman bin 'Awf dirigeait la prière, il avait déjà fait une rak'ah de la prière du matin. Je voulais lui dire que le Prophète (ﷺ) était arrivé mais il ne m'a pas laissé faire, alors nous avons prié ce que nous avons pu rattraper et complété ce que nous avions manqué
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Ibrahim Al Bashri\] dari \[Bisyir bin Al Mufadhal\] dari \[Ibnu 'Aun\] dari \['Amir As-Sya'bi\] dari \['Urwah bin Al Mughirah\] dari \[Al Mughirah\] dan dari \[Muhammmad bin Sirin\] dari \[seorang laki-laki\] yang kemudian di sandarkan kepada Al Mughirah, Ibnu 'Aun berkata; 'saya tidak hafal hadits ini dari ini' bahwasannya Al Mughirah, berkata, "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu safar (perjalanan). Beliau memukul punggungku dengan tongkat yang ada padanya. Beliau meluruskan posisiku, maka aku pun ikut meluruskan bersamanya hingga sampai pada suatu daerah, beliau singgah, lalu berangkat lagi, (Mughirah berkata) dan beliau pergi hingga tidak nampak olehku. Kemudian beliau datang dan bersabda, 'Apakah kamu punya air? 'Aku memang membawa air dalam tempat yang terbuat dari kulit (sathihah), maka aku datang kepada beliau dengan membawanya, lalu aku tuangkan kepada beliau. Beliaupun segera membasuh kedua tangannya dan wajahnya, dan kedua sikunya. Beliau memakai jubah dari Syam yang sempit kedua tangannya -beliau mengeluarkan tangannya dari bawah jubahnya- lalu membasuh muka dan kedua lengannya. Lalu beliau menyebutkan suatu bagian depan dari kepalanya dan dari surbannya, Ibnu 'Aun berkata; "Dan saya tidak mengingat apa yang saya inginkan". kemudian beliau mengusap kedua sepatunya (khuf). Beliau lalu berkata, 'Hajatmu? '. Aku menjawab, 'Wahai Rasulullah shallallahu 'alaihi wasallam, aku tidak ada hajat'. Setelah itu kami datang dan kami dapati Abdurrhaman bin Auf sedang menjadi imam shalat jama'ah bersama orang-orang. Ia sudah mendapat satu raka'at shalat Subuh. Aku segera pergi untuk memberitahukannya, namun beliau mencegahku. Kamipun ikut shalat dari yang kami dapati, kemudian menyempurnakan yang ketinggalan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Ibrahim Al Bashri] dari [Bisyir bin Al Mufadhal] dari [Ibnu 'Aun] dari ['Amir As-Sya'bi] dari ['Urwah bin Al Mughirah] dari [Al Mughirah] dan dari [Muhammmad bin Sirin] dari [seorang laki-laki] yang kemudian di sandarkan kepada Al Mughirah, Ibnu 'Aun berkata; 'saya tidak hafal hadits ini dari ini' bahwasannya Al Mughirah, berkata, "Kami pernah bersama Rasulullah shallallahu 'alaihi wasallam dalam suatu safar (perjalanan). Beliau memukul punggungku dengan tongkat yang ada padanya. Beliau meluruskan posisiku, maka aku pun ikut meluruskan bersamanya hingga sampai pada suatu daerah, beliau singgah, lalu berangkat lagi, (Mughirah berkata) dan beliau pergi hingga tidak nampak olehku. Kemudian beliau datang dan bersabda, 'Apakah kamu punya air? 'Aku memang membawa air dalam tempat yang terbuat dari kulit (sathihah), maka aku datang kepada beliau dengan membawanya, lalu aku tuangkan kepada beliau. Beliaupun segera membasuh kedua tangannya dan wajahnya, dan kedua sikunya. Beliau memakai jubah dari Syam yang sempit kedua tangannya -beliau mengeluarkan tangannya dari bawah jubahnya- lalu membasuh muka dan kedua lengannya. Lalu beliau menyebutkan suatu bagian depan dari kepalanya dan dari surbannya, Ibnu 'Aun berkata; "Dan saya tidak mengingat apa yang saya inginkan". kemudian beliau mengusap kedua sepatunya (khuf). Beliau lalu berkata, 'Hajatmu? '. Aku menjawab, 'Wahai Rasulullah shallallahu 'alaihi wasallam, aku tidak ada hajat'. Setelah itu kami datang dan kami dapati Abdurrhaman bin Auf sedang menjadi imam shalat jama'ah bersama orang-orang. Ia sudah mendapat satu raka'at shalat Subuh. Aku segera pergi untuk memberitahukannya, namun beliau mencegahku. Kamipun ikut shalat dari yang kami dapati, kemudian menyempurnakan yang ketinggalan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mugîre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem) ile birlikte bir yolculukta idik, yanında giderken bastonuyla sırtıma dokundu ve yoldan ilerledi. Ben de onunla birlikte yolumu değiştirdim. Rasûlüllah (sallallahü aleyhi ve sellem) falan yere gelince devesini çökertti ve tuvalet ihtiyacını karşılamak için biraz ayrıldı. Ravi diyor ki: Gözden kayboluncaya kadar uzaklaştı daha sonra geldi ve: su var mı?) diye sordu, yanımdaki su kabını getirdim ve abdest suyunu dökmeye başladım, ellerini ve yüzünü, yıkadı kollarını yıkayacaktı fakat üzerinde şam kumaşından yapılmış kolları dar bir cübbesi vardı, ellerini cübbesinin altından çıkardı yüzünü ve kollarını yıkadı. Hadisin ravisi, Rasûlüllah (sallallahü aleyhi ve sellem)’in alın ve sarıklarından da bahseder. İbn Avn der ki: Bunları istenilen şekilde ezberleyemedim. Sonra mestleri üzerine meshetti sonra: ihtiyacın var mı?) dedi. Ben de: Allah’ın Rasûlü! Hiçbir ihtiyacım yok) dedim. Sonra kafilenin yanına geldik o anda Abdurrahman b. Avf cemaate imam olmuş ve sabah namazından bir rekat kıldırmıştı. Rasûlüllah (sallallahü aleyhi ve sellem)’in geldiğini İmama haber vermek istedim fakat buna engel oldu. Bir rekatını cemaatle beraber kıldık, yetişemediğimiz rekatı ise kendi başımıza kıldık.) (Müslim, Tahara: 22; Tirmizî, Tahara:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مغیرہ رضی اللہ عنہ کہتے ہیں : ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ایک سفر میں تھے کہ آپ نے میری پیٹھ پر ایک چھڑی لگائی ۱؎ اور آپ مڑے تو میں بھی آپ کے ساتھ مڑ گیا، یہاں تک کہ آپ ایک ایسی جگہ پر آئے جو ایسی ایسی تھی، اور اونٹ کو بٹھایا پھر آپ چلے، مغیرہ رضی اللہ عنہ کہتے ہیں: تو آپ چلتے رہے یہاں تک کہ میری نگاہوں سے اوجھل ہو گئے، پھر آپ ( واپس ) آئے، اور پوچھا: کیا تمہارے پاس پانی ہے؟ میرے پاس میری ایک چھاگل تھی، اسے لے کر میں آپ کے پاس آیا، اور آپ پر انڈیلا، تو آپ نے اپنے دونوں ہتھیلیوں کو دھویا، چہرہ دھویا، اور دونوں بازو دھونے چلے، تو آپ ایک تنگ آستین کا شامی جبہ پہنے ہوئے ہوئے تھے ( آستین چڑھ نہ سکی ) تو اپنا ہاتھ جبہ کے نیچے سے نکالا، اور اپنا چہرہ اور اپنے دونوں بازو دھوئے – مغیرہ رضی اللہ عنہ نے آپ کی پیشانی کے کچھ حصے اور عمامہ کے کچھ حصے کا ذکر کیا، ابن عون کہتے ہیں: میں جس طرح چاہتا تھا اس طرح مجھے یاد نہیں ہے، پھر آپ صلی اللہ علیہ وسلم نے دونوں موزوں پر مسح کیا، پھر فرمایا: اب تو اپنی ضرورت پوری کر لے ، میں نے عرض کیا: اللہ کے رسول! مجھے حاجت نہیں، تو ہم آئے دیکھا کہ عبدالرحمٰن بن عوف لوگوں کی امامت کر رہے تھے، اور وہ نماز فجر کی ایک رکعت پڑھا چکے تھے، تو میں بڑھا کہ انہیں آپ صلی اللہ علیہ وسلم کی آمد کی خبر دے دوں، تو آپ صلی اللہ علیہ وسلم نے مجھے منع فرما دیا، چنانچہ ہم نے جو نماز پائی اسے پڑھ لیا، اور جو حصہ فوت ہو گیا تھا اسے ( بعد میں ) پورا کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Arabic No</td><td>82</td></tr><tr><td>Reference</td><td>Book 1 Hadith 82</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Arabic No | 82 |
+| Reference | Book 1 Hadith 82 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، - هُوَ أَبُو بُرَيْدٍ الْجَرْمِيُّ بَصْرِيٌّ - عَنْ بَهْزٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ سَلَمَةَ، عَنْ أَبِي الْحَكَمِ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ أَتَانِي جِبْرِيلُ عَلَيْهِ السَّلاَمُ فَقَالَ الشَّهْرُ تِسْعٌ وَعِشْرُونَ يَوْمًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |
+
 اخبرنا عمرو بن يزيد، - هو ابو بريد الجرمي بصري - عن بهز، قال حدثنا شعبة، عن سلمة، عن ابي الحكم، عن ابن عباس، عن النبي صلى الله عليه وسلم قال " اتاني جبريل عليه السلام فقال الشهر تسع وعشرون يوما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু ইয়াযীদ অর্থাৎ আবূ ইয়াযীদ জারমী বসরী (রহঃ) ... ইবনু আব্বাস (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ আমার কাছে জিবরীল (আঃ) এসে বললো যে, মাসটি ঊনত্রিশ দিনের।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Abbas that the Prophet said:"Jibril, peace be upon him, came to me and said: 'The month is twenty-nine days
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Prophète ﷺ a dit : « Jibril, paix sur lui, est venu à moi et a dit : “Le mois compte vingt-neuf jours.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin Yazid Abu Buraid Al Jarmi Al Bashri\] dari \[Bahz\] dia berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Salamah\] dari \[Abul Hakam\] dari \[Ibnu 'Abbas\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: " Jibril Alaihissalam menemuiku dan ia berkata sebulan itu ada dua puluh sembilan hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin Yazid Abu Buraid Al Jarmi Al Bashri] dari [Bahz] dia berkata; telah menceritakan kepada kami [Syu'bah] dari [Salamah] dari [Abul Hakam] dari [Ibnu 'Abbas] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: " Jibril Alaihissalam menemuiku dan ia berkata sebulan itu ada dua puluh sembilan hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”میرے پاس جبرائیل علیہ السلام آئے اور انہوں نے کہا: مہینہ انتیس دن کا بھی ہوتا ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2133</td></tr><tr><td>Arabic No</td><td>2133</td></tr><tr><td>Reference</td><td>Book 22 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2133 |
+| Arabic No | 2133 |
+| Reference | Book 22 Hadith 44 |

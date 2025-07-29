@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو أَحْمَدَ الزُّبَيْرِيُّ، حَدَّثَنَا مِسْعَرٌ، عَنْ ثَابِتِ بْنِ عُبَيْدٍ، عَنْ عُبَيْدِ بْنِ الْبَرَاءِ، عَنِ الْبَرَاءِ بْنِ عَازِبٍ، قَالَ كُنَّا إِذَا صَلَّيْنَا خَلْفَ رَسُولِ اللَّهِ صلى الله عليه وسلم أَحْبَبْنَا أَنْ نَكُونَ عَنْ ي��مِينِهِ فَيُقْبِلُ عَلَيْنَا بِوَجْهِهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
+
 حدثنا محمد بن رافع، حدثنا ابو احمد الزبيري، حدثنا مسعر، عن ثابت بن عبيد، عن عبيد بن البراء، عن البراء بن عازب، قال كنا اذا صلينا خلف رسول الله صلى الله عليه وسلم احببنا ان نكون عن ي��مينه فيقبل علينا بوجهه صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
 
 ## Bengali
 
+। আল-বারাআ ইবনু ‘আযিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পেছনে সালাত আদায়কালে তাঁর ডান দিকে থাকতে পছন্দ করতাম। যাতে (সালাত শেষে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের দিকে মুখ করে বসেন।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-বারাআ ইবনু ‘আযিব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পেছনে সালাত আদায়কালে তাঁর ডান দিকে থাকতে পছন্দ করতাম। যাতে (সালাত শেষে) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের দিকে মুখ করে বসেন।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Bara' ibn Azib: When we would pray behind the Messenger of Allah (ﷺ), we liked to be on his right side. He (the Prophet) would sit turning his face towards us (and back towards the Ka'bah) (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
+
+## French
+
+Rapporté par Al-Bara’ ibn Azib رضي الله عنه : Lorsque nous priions derrière le Messager d’Allah ﷺ, nous aimions être à sa droite. Il (le Prophète) s’asseyait en se tournant vers nous (et de dos à la Ka‘ba) ﷺ
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Rafi'\] telah menceritakan kepada kami \[Abu Ahmad Az-Zubairi\] telah menceritakan kepada kami \[Mis'ar\] dari \[Tsabit bin Ubaid\] dari \[Ubaid bin Al Barra'\] dari \[Al-Bara' bin 'Azib\] dia berkata; Kami apabila mengerjakan shalat di belakang Rasulullah shallallahu 'alaihi wasallam, kami suka berada di sebelah kanan beliau, karena beliau menghadap kepada kami dengan wajahnya shallallahu 'alaihi wasallam (setelah salam)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Rafi'] telah menceritakan kepada kami [Abu Ahmad Az-Zubairi] telah menceritakan kepada kami [Mis'ar] dari [Tsabit bin Ubaid] dari [Ubaid bin Al Barra'] dari [Al-Bara' bin 'Azib] dia berkata; Kami apabila mengerjakan shalat di belakang Rasulullah shallallahu 'alaihi wasallam, kami suka berada di sebelah kanan beliau, karena beliau menghadap kepada kami dengan wajahnya shallallahu 'alaihi wasallam (setelah salam)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что аль-Бараъ ибн ‘Азиб сказал: «Когда мы молились позади Посланника Аллаха ﷺ то любили становиться справа от него, и (после окончания молитвы) он ﷺ поворачивался к нам лицом»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bera b. Azib (r.a.)'den; demiştir ki; Biz Resul-i Ekrem (Sallallahu aleyhi ve Sellem)'in arkasında namaz kıldığımız zaman (namazın sonunda) yüzünü bize (doğru) dönmesi için sağ tarafında olmayı tercih ederdik. Diğer tahric: Müslim, müsafirîn; Nesaî, imame; îbn Mace, ikame
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 براء بن عازب رضی اللہ عنہما کہتے ہیں کہ ہم جب رسول اللہ صلی اللہ علیہ وسلم کے پیچھے نماز پڑھتے تو ہماری یہ خواہش ہوتی کہ ہم آپ کی داہنی طرف رہیں، تاکہ آپ صلی اللہ علیہ وسلم ( سلام پھیرنے کے بعد ) اپنا رخ ہماری طرف کر لیں ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (709)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>615</td></tr><tr><td>Arabic No</td><td>615</td></tr><tr><td>Reference</td><td>Book 2 Hadith 225</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (709) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 615 |
+| Arabic No | 615 |
+| Reference | Book 2 Hadith 225 |

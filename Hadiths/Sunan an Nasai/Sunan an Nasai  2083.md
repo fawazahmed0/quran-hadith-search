@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا بَقِيَّةُ، قَالَ أَخْبَرَنِي الزُّبَيْدِيُّ، قَالَ أَخْبَرَنِي الزُّهْرِيُّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ يُبْعَثُ النَّاسُ يَوْمَ الْقِيَامَةِ حُفَاةً عُرَاةً غُرْلاً ‏"‏ ‏.‏ فَقَالَتْ عَائِشَةُ فَكَيْفَ بِالْعَوْرَاتِ قَالَ ‏"‏ لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 21 Hadith 266</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |
+
 اخبرني عمرو بن عثمان، قال حدثنا بقية، قال اخبرني الزبيدي، قال اخبرني الزهري، عن عروة، عن عايشة، ان رسول الله صلى الله عليه وسلم قال " يبعث الناس يوم القيامة حفاة عراة غرلا " . فقالت عايشة فكيف بالعورات قال " لكل امري منهم يوميذ شان يغنيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 21 Hadith 266</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু উসমান (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন যে, কিয়ামতের দিন লোকদেরকে উঠানো হবে নগ্ন পায়ে উলঙ্গ শরীরে খাৎনাবিহীন অবস্থায়। তখন আয়িশা (রাঃ) বললেন যে, লজ্জাস্থানের অবস্থা কিরূপ হবে? তিনি বললেনঃ সে দিন তাদের প্রত্যেকের অবস্থা এমন হবে যে, তারা প্রত্যেকেই অন্য থেকে বিমুখ থাকবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 21 Hadith 266</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Aishah that the Messenger of Allah said:"The people will be raised up on the Day of Resurrection barefoot, naked and uncircumcised." 'Aishah said: "What about their 'Awrahs?" he said: "Every man that day will have enough to make him careless of others
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 21 Hadith 266</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |
+
+## French
+
+Rapporté par 'Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Les gens seront ressuscités le Jour de la Résurrection pieds nus, nus et non circoncis. » 'Aishah demanda : « Et leur intimité ? » Il répondit : « Ce jour-là, chacun sera trop préoccupé pour faire attention aux autres. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |
 
 ## Indonesian
 
+Telah mengabarkan kepadaku \['Amru bin 'Utsman\] dia berkata; telah menceritakan kepada kami \[Baqiyyah\] dia berkata; telah mengabarkan kepadaku \[Az Zubaidi\] dia berkata; telah mengabarkan kepadaku \[Az Zuhri\] dari \['Urwah\] dari \['Aisyah\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia akan dibangkitkan pada hari kiamat dalam keadaan tidak beralas kaki, telanjang serta tidak berkhitan." Lalu Aisyah bertanya; "Bagaimana dengan aurat?" beliau menjawab dengan membaca ayat: "Setiap orang dari mereka pada hari itu mempunyai urusan yang cukup menyibukkannya." (Qs. Abasa 80:)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepadaku ['Amru bin 'Utsman] dia berkata; telah menceritakan kepada kami [Baqiyyah] dia berkata; telah mengabarkan kepadaku [Az Zubaidi] dia berkata; telah mengabarkan kepadaku [Az Zuhri] dari ['Urwah] dari ['Aisyah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Manusia akan dibangkitkan pada hari kiamat dalam keadaan tidak beralas kaki, telanjang serta tidak berkhitan." Lalu Aisyah bertanya; "Bagaimana dengan aurat?" beliau menjawab dengan membaca ayat: "Setiap orang dari mereka pada hari itu mempunyai urusan yang cukup menyibukkannya." (Qs. Abasa 80:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 21 Hadith 266</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 21 Hadith 266</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”لوگ قیامت کے دن ننگے پاؤں، ننگے بدن ( اور ) غیر مختون اٹھائے جائیں گے“، تو اس پر عائشہ رضی اللہ عنہا نے پوچھا: لوگوں کی شرمگاہوں کا کیا حال ہو گا؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ”اس دن ہر ایک کی ایسی حالت ہو گی جو اسے ( ان چیزوں سے ) بے نیاز کر دے گی“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2083</td></tr><tr><td>Arabic No</td><td>2083</td></tr><tr><td>Reference</td><td>Book 21 Hadith 266</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2083 |
+| Arabic No | 2083 |
+| Reference | Book 21 Hadith 266 |

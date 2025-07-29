@@ -2,18 +2,34 @@
 
 [English](#english)
 
+[French](#french)
+
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لَا شَکَرَ اللهَ مَنْ لَّا یَشْکُرُ النَّاسَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>25</td></tr><tr><td>Arabic No</td><td>25</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 25 |
+| Arabic No | 25 |
+| Reference | Book 1 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 He does not thank Allah who does not thank people
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>25</td></tr><tr><td>Arabic No</td><td>25</td></tr><tr><td>Reference</td><td>Book 1 Hadith 25</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 25 |
+| Arabic No | 25 |
+| Reference | Book 1 Hadith 25 |
+
+## French
+
+Celui qui ne remercie pas les gens ne remercie pas Allah
+
+| References: |  |
+| --- | --- |
+| Hadith No | 25 |
+| Arabic No | 25 |
+| Reference | Book 1 Hadith 25 |

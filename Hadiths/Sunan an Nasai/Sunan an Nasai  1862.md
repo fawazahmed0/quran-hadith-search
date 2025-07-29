@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنِي زُبَيْدٌ، عَنْ إِبْرَاهِيمَ، عَنْ مَسْرُوقٍ، عَنْ عَبْدِ اللَّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ لَيْسَ مِنَّا مَنْ ضَرَبَ الْخُدُودَ وَشَقَّ الْجُيُوبَ وَدَعَا بِدَعْوَى الْجَاهِلِيَّةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |
+
 اخبرنا محمد بن بشار، قال حدثنا يحيى، قال حدثنا سفيان، قال حدثني زبيد، عن ابراهيم، عن مسروق، عن عبد الله، ان النبي صلى الله عليه وسلم قال " ليس منا من ضرب الخدود وشق الجيوب ودعا بدعوى الجاهلية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু বাশশার (রহঃ) ... আব্দুলাহ (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ঐ ব্যক্তি আমার উম্মাতের অন্তর্ভুক্ত নয় যে (কারো মৃত্যুর কারণে) গণ্ডদেশে আঘাত করে, আঁচল ছিড়ে ফেলে এবং সে জাহেলী যুগের দোয়ার ন্যায় দোয়া করে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdullah that the Prophet said:"He is not one of us who strikes his cheeks, rends his garment, and calls the calls of the Jahiliyyah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |
+
+## French
+
+Rapporté par 'Abdullah : Le Prophète ﷺ a dit : "N'est pas des nôtres celui qui se frappe les joues, déchire son vêtement et crie des appels de l'époque de l'ignorance
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Basysyar\] dia berkata; telah menceritakan kepada kami \[Yahya\] dia berkata; \[Sufyan\] dia berkata; telah menceritakan kepadaku \[Zubaid\] dari \[Ibrahim\] dari \[Masruq\] dari \['Abdullah\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Bukan termasuk golongan kami yang menampar pipi, merobek saku dan berseru dengan seruan Jahiliyyah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Basysyar] dia berkata; telah menceritakan kepada kami [Yahya] dia berkata; [Sufyan] dia berkata; telah menceritakan kepadaku [Zubaid] dari [Ibrahim] dari [Masruq] dari ['Abdullah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Bukan termasuk golongan kami yang menampar pipi, merobek saku dan berseru dengan seruan Jahiliyyah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو گال پیٹے، گریباں پھاڑے، اور جاہلیت کی پکار پکارے ہم میں سے نہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1862</td></tr><tr><td>Arabic No</td><td>1862</td></tr><tr><td>Reference</td><td>Book 21 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1862 |
+| Arabic No | 1862 |
+| Reference | Book 21 Hadith 45 |

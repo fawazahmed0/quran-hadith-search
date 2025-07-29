@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا هَاشِمُ بْنُ الْبَرِيدِ، حَدَّثَنَا حُسَيْنُ بْنُ مَيْمُونٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، قَالَ سَمِعْتُ عَلِيًّا، عَلَيْهِ السَّلاَمُ يَقُولُ اجْتَمَعْتُ أَنَا وَالْعَبَّاسُ، وَفَاطِمَةُ، وَزَيْدُ بْنُ حَارِثَةَ، عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقُلْتُ يَا رَسُولَ اللَّهِ إِنْ رَأَيْتَ أَنْ تُوَلِّيَنِي حَقَّنَا مِنْ هَذَا الْخُمُسِ فِي كِتَابِ اللَّهِ فَأَقْسِمَهُ حَيَاتَكَ كَىْ لاَ يُنَازِعَنِي أَحَدٌ بَعْدَكَ فَافْعَلْ ‏.‏ قَالَ فَفَعَلَ ذَلِكَ - قَالَ - فَقَسَمْتُهُ حَيَاةَ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ وَلاَّنِيهِ أَبُو بَكْرٍ رضى الله عنه حَتَّى إِذَا كَانَتْ آخِرُ سَنَةٍ مِنْ سِنِي عُمَرَ رضى الله عنه فَإِنَّهُ أَتَاهُ مَالٌ كَثِيرٌ فَعَزَلَ حَقَّنَا ثُمَّ أَرْسَلَ إِلَىَّ فَقُلْتُ بِنَا عَنْهُ الْعَامَ غِنًى وَبِالْمُسْلِمِينَ إِلَيْهِ حَاجَةٌ فَارْدُدْهُ عَلَيْهِمْ فَرَدَّهُ عَلَيْهِمْ ثُمَّ لَمْ يَدْعُنِي إِلَيْهِ أَحَدٌ بَعْدَ عُمَرَ فَلَقِيتُ الْعَبَّاسَ بَعْدَ مَا خَرَجْتُ مِنْ عِنْدِ عُمَرَ فَقَالَ يَا عَلِيُّ حَرَمْتَنَا الْغَدَاةَ شَيْئًا لاَ يُرَدُّ عَلَيْنَا أَبَدًا وَكَانَ رَجُلاً دَاهِيًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا ابن نمير، حدثنا هاشم بن البريد، حدثنا حسين بن ميمون، عن عبد الله بن عبد الله، عن عبد الرحمن بن ابي ليلى، قال سمعت عليا، عليه السلام يقول اجتمعت انا والعباس، وفاطمة، وزيد بن حارثة، عند النبي صلى الله عليه وسلم فقلت يا رسول الله ان رايت ان توليني حقنا من هذا الخمس في كتاب الله فاقسمه حياتك كى لا ينازعني احد بعدك فافعل . قال ففعل ذلك - قال - فقسمته حياة رسول الله صلى الله عليه وسلم ثم ولانيه ابو بكر رضى الله عنه حتى اذا كانت اخر سنة من سني عمر رضى الله عنه فانه اتاه مال كثير فعزل حقنا ثم ارسل الى فقلت بنا عنه العام غنى وبالمسلمين اليه حاجة فاردده عليهم فرده عليهم ثم لم يدعني اليه احد بعد عمر فلقيت العباس بعد ما خرجت من عند عمر فقال يا علي حرمتنا الغداة شييا لا يرد علينا ابدا وكان رجلا داهيا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আব্দুর রাহমান ইবনু আবূ লায়লাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি আলী (রাঃ)-কে বলতে শুনেছি, আমি আব্বাস (রাঃ), ফাতিমাহ (রাঃ) এবং যায়িদ ইবনু হারিসাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট সমবেত হই। আমি বললাম, হে আল্লাহর রাসূল! মহান আল্লাহর কিতাবে আমাদের জন্য গানীমাতের এক-পঞ্চমাংশ যে অংশ নির্ধারিত হয়েছে, আপনি যদি ভালো মনে করেন আপনার জীবদ্দশায়ই আমাকে তার মোতাওয়াল্লী বানান। আমি তা এমনভাবে বণ্টন করবো, আপনার মৃত্যুর পর কেউ যেন আমার সাথে ঝগড়া না করে। আলী (রাঃ) বলেন, তিনি তাই করলেন। আলী (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জীবদ্দশায় তা বণ্টন করি। অতঃপর আবূ বাকর (রাঃ)-ও আমাকে এর মোতাওয়াল্লী রাখেন এবং উমারের খিলাফাতকাল পর্যন্ত তা অব্যাহত থাকে। তার শাসনামলের শেষের বছর প্রচুর সম্পদ আসে। তিনি তা থেকে আমাদের অংশ আলাদা করে তা নিতে আমার নিকট সংবাদ পাঠান। আমি বললাম, এ বছর এ সম্পদের অংশ আমাদের দরকার নেই, বরং অন্যান্য মুসলিমদের দরকার আছে। কাজেই তাদেরকে দিন। তিনি সেগুলো তাদেরকে দিলেন। উমারের পর আর কেউই আমাকে এ সম্পদ নিতে ডাকেনি। উমারের কাছ থেকে বেরিয়ে এসে আমি আব্বাস (রাঃ)-এর সাথে সাক্ষাৎ করি। তিনি বললেন, হে আলী! আজ তুমি আমাদেরকে এমন বস্তু থেকে বঞ্চিত করলে, যা আমাদেরকে কোনো দিন দেবে না। আব্বাস (রাঃ) খুবই জ্ঞানী লোক ছিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ali ibn AbuTalib: I, al-Abbas, Fatimah and Zayd ibn Harithah gathered with the Prophet (ﷺ) and I said: Messenger of Allah, if you think to assign us our right (portion) in this fifth ( of the booty) as mentioned in the Book of Allah, and this I may divide during your lifetime so that no one may dispute me after you, then do it. He said: He did that. He said: I divided it during the lifetime of the Messenger of Allah (ﷺ). AbuBakr then assigned it to me. During the last days of the caliphate of Umar a good deal of property came to him and took out our portion. I said to him: We are well to do this year; but the Muslims are needy, so return it to them. He, therefore, returned it to them. No one called me after Umar. I met al-Abbas when I came out from Umar. He said: Ali, today you have deprived us of a thing that will never be returned to us. He was indeed a man of wisdom
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
+
+## French
+
+Rapporté par Ali ibn Abi Talib رضي الله عنه : Moi, al-Abbas, Fatimah et Zayd ibn Harithah nous sommes réunis auprès du Prophète ﷺ et j’ai dit : « Ô Messager d’Allah, si tu penses nous attribuer notre part dans ce cinquième (du butin), comme mentionné dans le Livre d’Allah, et que je la partage de ton vivant afin que personne ne me la conteste après toi, alors fais-le. » Il l’a fait. Il dit : « Je l’ai partagée du vivant du Messager d’Allah ﷺ. Abu Bakr me l’a ensuite attribuée. Vers la fin du califat de ‘Umar, beaucoup de biens sont arrivés et il a prélevé notre part. Je lui ai dit : “Cette année, nous sommes à l’aise, mais les musulmans sont dans le besoin, alors rends-leur cette part.” Il l’a donc rendue aux musulmans. Après ‘Umar, plus personne ne m’a appelé pour cela. Lorsque je suis sorti de chez ‘Umar, j’ai croisé al-Abbas qui m’a dit : “Ali, aujourd’hui tu nous as privés d’une chose qui ne nous sera jamais rendue.” Il était vraiment un homme sage. »
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah?\], telah menceritakan kepada kami \[Ibnu Numair\], telah menceritakan kepada kami \[Hasyim bin Al Barid\], telah menceritakan kepada kami \[Husain bin Maimun\], dari \[Abdullah bin Abdullah\], dari \[Abdurrahman bin Abu Laila\], ia berkata; saya mendengar \[Ali\] berkata; aku berkumpul bersama Al 'Abbas, Fathimah, dan Zaid bin Haritsah di sisi Nabi shallallahu 'alaihi wasallam, kemudian aku katakan; wahai Rasulullah, apabila anda memandang perlu untuk anda serahkan kepadaku hak kami dari seperlima yang ada dalam kitab Allah ini dan aku membaginya di masa hidup anda agar tidak ada seorangpun yang menyelisihiku setelahmu, maka lakukanlah! Ali berkata; kemudian beliau melakukan hal tersebut. Kemudian aku membaginya pada masa hidup Rasulullah shallallahu 'alaihi wasallam, kemudian Abu Bakr menyerahkannya kepadaku hingga setelah akhir tahun kekhilafahan Umar radliallahu 'anhu maka sesungguhnya telah datang kepadanya harta yang banyak kemudian ia melepas hak kami kemudian mengirimkan sebagian harta tersebut kepadaku. Lalu aku katakan; pada tahun ini kami tidak butuh kepadanya dan orang-orang muslim membutuhkan kepadanya, maka kembalikan kepada mereka! Kemudian Umar mengembalikan harta tersebut kepada mereka, kemudian tidak ada seorangpun yang mengundangku untuk mengambil harta tersebut setelah Umar. Kemudian aku menemui Ibnu Abbas setelah aku keluar dari sisi Umar, lalu ia berkata; wahai Ali, sungguh pagi ini engkau telah menghalangi kita mengambil sesuatu yang tidak akan dikembalikan kepada kita selamanya. Dan ia adalah laki-laki yang memiliki pemikiran yang baik
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah?], telah menceritakan kepada kami [Ibnu Numair], telah menceritakan kepada kami [Hasyim bin Al Barid], telah menceritakan kepada kami [Husain bin Maimun], dari [Abdullah bin Abdullah], dari [Abdurrahman bin Abu Laila], ia berkata; saya mendengar [Ali] berkata; aku berkumpul bersama Al 'Abbas, Fathimah, dan Zaid bin Haritsah di sisi Nabi shallallahu 'alaihi wasallam, kemudian aku katakan; wahai Rasulullah, apabila anda memandang perlu untuk anda serahkan kepadaku hak kami dari seperlima yang ada dalam kitab Allah ini dan aku membaginya di masa hidup anda agar tidak ada seorangpun yang menyelisihiku setelahmu, maka lakukanlah! Ali berkata; kemudian beliau melakukan hal tersebut. Kemudian aku membaginya pada masa hidup Rasulullah shallallahu 'alaihi wasallam, kemudian Abu Bakr menyerahkannya kepadaku hingga setelah akhir tahun kekhilafahan Umar radliallahu 'anhu maka sesungguhnya telah datang kepadanya harta yang banyak kemudian ia melepas hak kami kemudian mengirimkan sebagian harta tersebut kepadaku. Lalu aku katakan; pada tahun ini kami tidak butuh kepadanya dan orang-orang muslim membutuhkan kepadanya, maka kembalikan kepada mereka! Kemudian Umar mengembalikan harta tersebut kepada mereka, kemudian tidak ada seorangpun yang mengundangku untuk mengambil harta tersebut setelah Umar. Kemudian aku menemui Ibnu Abbas setelah aku keluar dari sisi Umar, lalu ia berkata; wahai Ali, sungguh pagi ini engkau telah menghalangi kita mengambil sesuatu yang tidak akan dikembalikan kepada kita selamanya. Dan ia adalah laki-laki yang memiliki pemikiran yang baik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Али, да будет доволен им Аллах: «Мы с аль-‘Аббасом, Фатимой и Зейдом ибн Харисой собрались у Пророка ﷺ и я сказал: “О Посланник Аллаха, если ты считаешь нужным дать мне нашу долю из этого хумуса, оговорённую в Книге Всевышнего Аллаха, то я отделю её при твоей жизни, чтобы после тебя никто не оспаривал её у меня”. И он согласился, я делил хумус при жизни Посланника Аллаха ﷺ. Затем Абу Бакр также предоставил это мне. А в последний год жизни ‘Умара ему послали много средств, он отделил нашу долю и послал за мной, но я сказал ему: “В этом году в ней не нуждаемся, а вот мусульманам эти средства нужны, потому отдай их им”. После ‘Умара никто не звал меня ради этого. Выйдя от ‘Умара, я встретил аль-‘Аббаса, который сказал мне: “О ‘Али, сегодня утром ты лишил нас того, что никогда к нам не вернётся!” А он был очень умным и дальновидным человеком»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdurrahman'dan demiştir ki: Ali (r.a)'ı (şöyle) derken işittim. “Ben, Abbas, Fatıma ve Zeyd b. Hariseyle Hz. Nebi (S.A.V.)'in yanında bir araya gelmiştik. (Hz. Nebi'ye hitaben): "Ey Allah'ın Rasûlü, Aziz ve Celil olan Allah'ın kitabında (ganimet mallarından ayrılıp dağıtılmasını emrettiği) humus'tan (bize düşecek olan) hakkımızı (pay sahiplerine dağıtma görevini) bana versende (ileride) senden sonra her hangi bir kimsenin bu mevzuda benimle anlaşmazlığa düşmemesi için senin sağlığında bu geliri (hak sahiplerine) ben dağıtsam (çok isabetli olur, uygun buluyorsan bunu) yap" dedim. (Rasül-i Ekrem Efendimiz de) bunu yaptı. Ve (humus gelirlerindeki Hz. Nebi'nin yakınlarına ait) bu hakkı, Rasûlullah (s.a.v.)'in sağlığında (hak sahiplerine) ben dağıttım. Sonra Hz. Ebû Bekir de bu görevi bana verdi. Nihayet Hz. Ömer'in (halifelik) yıllarının son yılına kadar (bu görevi yürüttüm fakat Hz. Ömer'in halifeliğinin son yılında bu görevi bıraktım) Çünkü (o sene) O'na (ganimetlerden) bir çok mal geldi. O'da bizim hakkımızı ayırdı. Sonra bana (bir haber) gönder(erek varıp onu hak sahiplerine bölüştürmemi iste)di. Ben de: "Bizim bu sene ona ihtiyacımız yoktur, (fakat Hz. Nebi'nin yakınları olan bizlerin dışındaki) müslümanların ona ihtiyacı vardır. Sen bunu onlara ver!" cevabını verdim. O da (bizim hissemize düşecek olan) bu malı fakir müslümanlara verdi. Hz. Ömer'den sonra kimse bana bunu teklif etmedi. Hz. Ömer'in yanından çıktıktan sonra Hz. Abbas'la karşılaş(mış)tımda (Bana) "Ey Ali. Bu gün sen bizi (büyük bir) gelirden mahrum ettin, bir daha bu mal ebediyyen bize verilmez. " de(miş)di. (Gerçekten Abbas) çok zeki bir adamdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمٰن بن ابی لیلیٰ کہتے ہیں: میں نے علی رضی اللہ عنہ کو یہ کہتے ہوئے سنا ہے کہ میں، عباس، فاطمہ اور زید بن حارثہ رضی اللہ عنہم چاروں رسول اللہ صلی اللہ علیہ وسلم کے پاس جمع ہوئے، میں نے عرض کیا: اللہ کے رسول! اگر آپ مناسب سمجھیں تو ہمارا جو حق خمس میں کتاب اللہ کے موافق ہے وہ ہمارے اختیار میں دے دیجئیے تاکہ آپ صلی اللہ علیہ وسلم کے نہ رہنے کے بعد مجھ سے کوئی جھگڑا نہ کرے، تو آپ نے ایسا ہی کیا، پھر میں جب تک رسول اللہ صلی اللہ علیہ وسلم زندہ رہے اسے تقسیم کرتا رہا پھر ابوبکر رضی اللہ عنہ نے مجھے اس کا اختیار سونپا، یہاں تک کہ عمر رضی اللہ عنہ کی خلافت کے آخری سال میں آپ کے پاس بہت سا مال آیا، آپ نے اس میں سے ہمارا حق الگ کیا، پھر مجھے بلا بھیجا، میں نے کہا: اس سال ہم کو مال کی ضرورت نہیں جب کہ دوسرے مسلمان اس کے حاجت مند ہیں، آپ ان کو دے دیجئیے، عمر رضی اللہ عنہ نے ان کو دے دیا، عمر رضی اللہ عنہ کے بعد پھر کسی نے مجھے اس مال ( یعنی خمس الخمس ) کے لینے کے لیے نہیں بلایا، عمر رضی اللہ عنہ کے پاس سے نکلنے کے بعد میں عباس رضی اللہ عنہ سے ملا، تو وہ کہنے لگے: علی! تم نے ہم کو آج ایسی چیز سے محروم کر دیا جو پھر کبھی لوٹ کر نہ آئے گی ( یعنی اب کبھی یہ حصہ ہم کو نہ ملے گا ) اور وہ ایک سمجھدار آدمی تھے ( انہوں نے جو کہا تھا وہی ہوا ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2984</td></tr><tr><td>Arabic No</td><td>2984</td></tr><tr><td>Reference</td><td>Book 20 Hadith 57</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2984 |
+| Arabic No | 2984 |
+| Reference | Book 20 Hadith 57 |

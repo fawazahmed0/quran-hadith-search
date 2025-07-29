@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا مُجَمِّعُ بْنُ يَعْقُوبَ بْنِ مُجَمِّعِ بْنِ يَزِيدَ الأَنْصَارِيُّ، قَالَ سَمِعْتُ أَبِي يَعْقُوبَ بْنَ مُجَمِّعٍ، يَذْكُرُ عَنْ عَمِّهِ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ الأَنْصَارِيِّ، عَنْ عَمِّهِ، مُجَمِّعِ بْنِ جَارِيَةَ الأَنْصَارِيِّ وَكَانَ أَحَدَ الْقُرَّاءِ الَّذِينَ قَرَءُوا الْقُرْآنَ قَالَ شَهِدْنَا الْحُدَيْبِيَةَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَلَمَّا انْصَرَفْنَا عَنْهَا إِذَا النَّاسُ يَهُزُّونَ الأَبَاعِرَ فَقَالَ بَعْضُ النَّاسِ لِبَعْضٍ مَا لِلنَّاسِ قَالُوا أُوحِيَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَخَرَجْنَا مَعَ النَّاسِ نُوجِفُ فَوَجَدْنَا النَّبِيَّ صلى الله عليه وسلم وَاقِفًا عَلَى رَاحِلَتِهِ عِنْدَ كُرَاعِ الْغَمِيمِ فَلَمَّا اجْتَمَعَ عَلَيْهِ النَّاسُ قَرَأَ عَلَيْهِمْ ‏(‏ إِنَّا فَتَحْنَا لَكَ فَتْحًا مُبِينًا ‏)‏ فَقَالَ رَجُلٌ يَا رَسُولَ اللَّهِ أَفَتْحٌ هُوَ قَالَ ‏"‏ نَعَمْ وَالَّذِي نَفْسُ مُحَمَّدٍ بِيَدِهِ إِنَّهُ لَفَتْحٌ ‏"‏ ‏.‏ فَقُسِّمَتْ خَيْبَرُ عَلَى أَهْلِ الْحُدَيْبِيَةِ فَقَسَّمَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى ثَمَانِيَةَ عَشَرَ سَهْمًا وَكَانَ الْجَيْشُ أَلْفًا وَخَمْسَمِائَةٍ فِيهِمْ ثَلاَثُمِائَةِ فَارِسٍ فَأَعْطَى الْفَارِسَ سَهْمَيْنِ وَأَعْطَى الرَّاجِلَ سَهْمًا ‏.‏ قَالَ أَبُو دَاوُدَ حَدِيثُ أَبِي مُعَاوِيَةَ أَصَحُّ وَالْعَمَلُ عَلَيْهِ وَأَرَى الْوَهَمَ فِي حَدِيثِ مُجَمِّعٍ أَنَّهُ قَالَ ثَلاَثُمِائَةِ فَارِسٍ وَكَانُوا مِائَتَىْ فَارِسٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
+
 حدثنا محمد بن عيسى، حدثنا مجمع بن يعقوب بن مجمع بن يزيد الانصاري، قال سمعت ابي يعقوب بن مجمع، يذكر عن عمه عبد الرحمن بن يزيد الانصاري، عن عمه، مجمع بن جارية الانصاري وكان احد القراء الذين قرءوا القران قال شهدنا الحديبية مع رسول الله صلى الله عليه وسلم فلما انصرفنا عنها اذا الناس يهزون الاباعر فقال بعض الناس لبعض ما للناس قالوا اوحي الى رسول الله صلى الله عليه وسلم . فخرجنا مع الناس نوجف فوجدنا النبي صلى الله عليه وسلم واقفا على راحلته عند كراع الغميم فلما اجتمع عليه الناس قرا عليهم ( انا فتحنا لك فتحا مبينا ) فقال رجل يا رسول الله افتح هو قال " نعم والذي نفس محمد بيده انه لفتح " . فقسمت خيبر على اهل الحديبية فقسمها رسول الله صلى الله عليه وسلم على ثمانية عشر سهما وكان الجيش الفا وخمسماية فيهم ثلاثماية فارس فاعطى الفارس سهمين واعطى الراجل سهما . قال ابو داود حديث ابي معاوية اصح والعمل عليه وارى الوهم في حديث مجمع انه قال ثلاثماية فارس وكانوا مايتى فارس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুজাম্মি ইবনু জারিয়াহ আল-আনসারী (রাঃ) সূত্রে বর্ণিত। তিনি ছিলেন অন্যতম কারী। তিনি বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে হুদায়বিয়াতে ছিলাম। ‘আমরা সেখান থেকে প্রত্যাবর্তন করলে লোকেরা তাদের উটগুলোকে এক স্থানে সমবেত হওয়ার জন্য দ্রুত হাঁকাতে লাগলো। লোকেরা পরস্পর বলাবলি করলো, দ্রুত হাঁকানোর কারণ কি? পরে তারা জানতে পারলো, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অহী অবতীর্ণ হয়েছে। অন্যান্য লোকের সাথে ‘আমরাও জলদি করে ছুটলাম। ‘আমরা ‘কুরাউল গামীন’ নামক স্থানে পৌঁছে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তাঁর সওয়ারীতে বসা দেখতে পেলাম। লোকেরা তাঁর কাছে সমবেত হলে তিনি তাদেরকে ‘‘ইন্না ফাতাহনা লাকা ফাতহাম মুবীনা’’ নামক সূরা পড়ে শুনালেন। এক ব্যক্তি বললো, হে আল্লাহর রাসূল! এটা কি বিজয়? তিনি বললেনঃ হ্যাঁ, ঐ সত্ত্বার শপথ যাঁর হাতে মুহাম্মাদের প্রাণ! এটাই বিজয়। যারা হুদায়বিয়ায় যোগদান করেছে তাদের মাঝে খায়বারের গানীমাত বণ্টন করা হয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রাপ্ত গানীমাত আঠার ভাগে বিভক্ত করেন। যোদ্ধা ছিলো পনের শত এবং এর মধ্যে অশ্বারোহী ছিলো তিনশো। তিনি অশ্বারোহীদের দু’ ভাগ এবং পদাতিকদের এক ভাগ করে গানীমাত প্রদান করলেন। আবূ দাঊদ (রহঃ) বলেন, আবূ মু‘আবিয়াহ (রহঃ) বর্ণিত হাদীসটি অধিক সহীহ। এ হাদীসের উপরই আমল করা হয়। আমার মতে মুজাম্মি (রহঃ)-এর হাদীসে ভুল আছে। কারণ তিনি বলেছেন, অশ্বারোহী ছিলো তিনশো, অথচ অশবারোহী ছিলো দু’শো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Mujammi' ibn Jariyah al-Ansari: Mujammi' was one of the Qur'an-reciters (qaris), and he said: We were present with the Messenger of Allah (ﷺ) at al-Hudaybiyyah. When we returned, the people were driving their camels quickly. The people said to one another: What is the matter with them? They said: Revelation has come down to the Prophet (ﷺ). We also proceeded with the people, galloping (our camels). We found the Prophet (ﷺ) standing on his riding-animal at Kura' al-Ghamim. When the people gathered near him, he recited: "Verily We have granted thee a manifest victory. A man asked: Is this a victory, Messenger of Allah? He replied: Yes. By Him in Whose hands the soul of Muhammad is, this is a victory. Khaybar was divided among those who had been at al-Hudaybiyyah, and the Messenger of Allah (ﷺ) divided it into eighteen portions. The army consisted of one thousand five hundred men, of which three hundred were cavalry, and he gave two shares to a horseman and one to a foot-soldier. Abu Dawud said: Abu Mu'awiyah's tradition is sounder, and it is one which is followed. I think the error is in the tradition of Mujammi', because he said: "three hundred horsemen." when there were only two hundred
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
+
+## French
+
+Rapporté par Mujammi’ ibn Jariyah al-Ansari رضي الله عنه : Mujammi’ faisait partie des lecteurs du Coran, et il a dit : Nous étions présents avec le Messager d’Allah ﷺ à al-Hudaybiyyah. Au retour, les gens faisaient avancer leurs chameaux rapidement. Ils se demandaient : « Que se passe-t-il ? » On répondit : « Une révélation est descendue sur le Prophète ﷺ. » Nous avons donc suivi les gens en pressant nos montures. Nous avons trouvé le Prophète ﷺ debout sur sa monture à Kura’ al-Ghamim. Quand tout le monde s’est rassemblé, il a récité : « En vérité, Nous t’avons accordé une victoire éclatante. » Un homme a demandé : « Est-ce une victoire, Messager d’Allah ? » Il répondit : « Oui. Par Celui qui détient l’âme de Muhammad, c’est une victoire. » Khaybar a été partagée entre ceux qui étaient à al-Hudaybiyyah, et le Messager d’Allah ﷺ l’a divisée en dix-huit parts. L’armée comptait mille cinq cents hommes, dont trois cents cavaliers, et il a donné deux parts au cavalier et une au fantassin. Abu Dawud a dit : La version d’Abu Mu’awiyah est plus correcte et c’est celle qui est suivie. Je pense que l’erreur vient de la tradition de Mujammi’, car il a dit « trois cents cavaliers » alors qu’ils étaient seulement deux cents
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isa\], telah menceritakan kepada kami \[Mujammi' bin Ya'qub bin Yazid Al Anshari\], ia berkata; saya mendengar ayahku \[Ya'qub bin Mujammi'\] ia menyebutkan dari \[pamannya yaitu Abdurrahman bin Yazid Al Anshari\], dari \[pamannya yaitu Mujammi' bin Jariyah Al Anshari\], dan ia adalah salah seorang ahli Al Qur'an. Ia berkata; kami pernah menghadiri perdamaian Hudaibiyah bersama Rasulullah shallallahu 'alaihi wasallam. Kemudian tatkala kami telah pergi dari Hudaibiyah, ternyata terdapat orang-orang yang menggerakkan beberapa unta. Kemudian sebagian orang berkata kepada sebagian yang lain; ada apa dengan orang-orang? Mereka berkata; Rasulullah shallallahu 'alaihi wasallam telah diberi wahyu. Kemudian kami keluar bersama orang-orang, kami mempercepat kendaraan kami, kemudian kami dapati Nabi shallallahu 'alaihi wasallam berdiri di atas kendaraannya di Kura' Al Ghamim. Kemudian tatkala orang-orang telah berkumpul beliau membacakan kepada mereka ayat: "Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata." Kemudian terdapat seseorang yang berkata; apakah ini adalah sebuah penaklukan? Beliau berkata: "Ya, demi Dzat yang jiwa Muhammad ada di tangannya, sesungguhnya itu adalah sebuah penaklukan." Kemudian Khaibar dibagikan kepada orang-orang yang menghadiri perdamaian Hudaibiyah. Rasulullah shallallahu wa'alaihi wa sallam membaginya menjadi delapan belas saham. Dan jumlah pasukan adalah seribu lima ratus, diantara mereka terdapat tiga ratus penunggang kuda. Beliau memberi dua saham kepada penunggang kuda dan satu saham kepada orang yang berjalan kaki. Abu Daud berkata; hadits Abu Mu'awiyah lebih shahih, dan menjadi dasar untuk beramal. Dan aku melihat kesalahan ada dalam hadits Mujammi', bahwa ia berkata; tiga ratus penunggang kuda, padahal mereka berjumlah dua ratus penunggang kuda
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isa], telah menceritakan kepada kami [Mujammi' bin Ya'qub bin Yazid Al Anshari], ia berkata; saya mendengar ayahku [Ya'qub bin Mujammi'] ia menyebutkan dari [pamannya yaitu Abdurrahman bin Yazid Al Anshari], dari [pamannya yaitu Mujammi' bin Jariyah Al Anshari], dan ia adalah salah seorang ahli Al Qur'an. Ia berkata; kami pernah menghadiri perdamaian Hudaibiyah bersama Rasulullah shallallahu 'alaihi wasallam. Kemudian tatkala kami telah pergi dari Hudaibiyah, ternyata terdapat orang-orang yang menggerakkan beberapa unta. Kemudian sebagian orang berkata kepada sebagian yang lain; ada apa dengan orang-orang? Mereka berkata; Rasulullah shallallahu 'alaihi wasallam telah diberi wahyu. Kemudian kami keluar bersama orang-orang, kami mempercepat kendaraan kami, kemudian kami dapati Nabi shallallahu 'alaihi wasallam berdiri di atas kendaraannya di Kura' Al Ghamim. Kemudian tatkala orang-orang telah berkumpul beliau membacakan kepada mereka ayat: "Sesungguhnya Kami telah memberikan kepadamu kemenangan yang nyata." Kemudian terdapat seseorang yang berkata; apakah ini adalah sebuah penaklukan? Beliau berkata: "Ya, demi Dzat yang jiwa Muhammad ada di tangannya, sesungguhnya itu adalah sebuah penaklukan." Kemudian Khaibar dibagikan kepada orang-orang yang menghadiri perdamaian Hudaibiyah. Rasulullah shallallahu wa'alaihi wa sallam membaginya menjadi delapan belas saham. Dan jumlah pasukan adalah seribu lima ratus, diantara mereka terdapat tiga ratus penunggang kuda. Beliau memberi dua saham kepada penunggang kuda dan satu saham kepada orang yang berjalan kaki. Abu Daud berkata; hadits Abu Mu'awiyah lebih shahih, dan menjadi dasar untuk beramal. Dan aku melihat kesalahan ada dalam hadits Mujammi', bahwa ia berkata; tiga ratus penunggang kuda, padahal mereka berjumlah dua ratus penunggang kuda
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
 
 ## Turkish
 
+Kur\*an-ı (Kerim-i en güzel bir şekilde) okuyanlardan biri olan Mücemmi b. Cariyeti'l-Ensarî'den demiştir ki: Rasûlullah (s.a.v.) ile birlikte Hudeybiye'de bulunduk. Oradan döndüğümüz sırada, halk (Hz. Peygamber'in bulunduğu yer'e doğru) develerini koşturmaya başladı. Halkın bir kısmı, diğerlerine "Halka ne oluyor?" (da hayvanlarını böyle koşturuyor?) diye sormaya başladılar. Onlar da Rasûlullah (s.a.v.)'e vahy geldi." (de onu görmek için koşuyorlar) diye cevap verdiler. Bunun üzerine (bulunduğumuz yerden) koşarak çıktık ve peygamber (s.a.v.) Kürâ'l-Ğamîm (denilen yer) de devesi üzerinde dururken bulduk. Halk (tamamen) yanında toplanınca (Hz. Peygamber) onlara: Biz sana apaçık bir fetih verdik."\[Fetih 1\] (ayet-i kerimesini) okudu, (orada bulunan) bir adam: "Ey Allah'ın Rasûlü bu (ayet-i kerimede va'dedilen) bir fetih midir?" dedi. (Hz. Peygamber de) "Muhammed'in hayatı kudret elinde olan Zat'a yemin olsun ki bu(sulh) bir fetihdir." buyurdu. Kısa bir süre sonra da (Hayber fethedildi ve) Hayber (ganimetleri) Hudeybiye mücahidleri arasında paylaştırdı. (Bu taksimde) Rasalullah (s.a.v.) (ganimetleri) onsekiz pay üzerinden bölüştürdü. Asker (in sayısı ise) binbeşyüz (kadar) idi. İçlerinde üçyüz de atlı vardı. Her bir atlıya iki hisse, her bir piyadeye de bir hisse verdi. Ebû DâvûÜ der ki: (Bir önceki) Ebû Muaviye hadisi daha sahihtir ve amel onunladır. Öyle zannediyorum ki Mücemminin hadisinde hata vardır. Çünkü Mücemmi (orduda) üçyüz atı olduğunu söylemiştir. Oysa (orduda) iki yüz atlı var idi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Kur*an-ı (Kerim-i en güzel bir şekilde) okuyanlardan biri olan Mücemmi b. Cariyeti'l-Ensarî'den demiştir ki: Rasûlullah (s.a.v.) ile birlikte Hudeybiye'de bulunduk. Oradan döndüğümüz sırada, halk (Hz. Peygamber'in bulunduğu yer'e doğru) develerini koşturmaya başladı. Halkın bir kısmı, diğerlerine "Halka ne oluyor?" (da hayvanlarını böyle koşturuyor?) diye sormaya başladılar. Onlar da Rasûlullah (s.a.v.)'e vahy geldi." (de onu görmek için koşuyorlar) diye cevap verdiler. Bunun üzerine (bulunduğumuz yerden) koşarak çıktık ve peygamber (s.a.v.) Kürâ'l-Ğamîm (denilen yer) de devesi üzerinde dururken bulduk. Halk (tamamen) yanında toplanınca (Hz. Peygamber) onlara: Biz sana apaçık bir fetih verdik."[Fetih 1] (ayet-i kerimesini) okudu, (orada bulunan) bir adam: "Ey Allah'ın Rasûlü bu (ayet-i kerimede va'dedilen) bir fetih midir?" dedi. (Hz. Peygamber de) "Muhammed'in hayatı kudret elinde olan Zat'a yemin olsun ki bu(sulh) bir fetihdir." buyurdu. Kısa bir süre sonra da (Hayber fethedildi ve) Hayber (ganimetleri) Hudeybiye mücahidleri arasında paylaştırdı. (Bu taksimde) Rasalullah (s.a.v.) (ganimetleri) onsekiz pay üzerinden bölüştürdü. Asker (in sayısı ise) binbeşyüz (kadar) idi. İçlerinde üçyüz de atlı vardı. Her bir atlıya iki hisse, her bir piyadeye de bir hisse verdi. Ebû DâvûÜ der ki: (Bir önceki) Ebû Muaviye hadisi daha sahihtir ve amel onunladır. Öyle zannediyorum ki Mücemminin hadisinde hata vardır. Çünkü Mücemmi (orduda) üçyüz atı olduğunu söylemiştir. Oysa (orduda) iki yüz atlı var idi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجمع بن جاریہ انصاری رضی اللہ عنہ سے روایت ہے اور وہ ان قاریوں میں سے ایک تھے جو قرآت قرآن میں ماہر تھے، وہ کہتے ہیں: ہم صلح حدیبیہ میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ تھے، جب ہم وہاں سے واپس لوٹے تو لوگ اپنی سواریوں کو حرکت دے رہے تھے، بعض نے بعض سے کہا: لوگوں کو کیا ہو گیا ہے؟ لوگوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم کی طرف وحی کی گئی ہے تو ہم بھی لوگوں کے ساتھ ( اپنی سواریوں ) کو دوڑاتے اور ایڑ لگاتے ہوئے نکلے، ہم نے نبی اکرم صلی اللہ علیہ وسلم کو اپنی سواری پر کراع الغمیم ۱؎کے پاس کھڑا پایا جب سب لوگ آپ کے پاس جمع ہو گئے تو آپ صلی اللہ علیہ وسلم نے «إنا فتحنا لك فتحا مبينا» پڑھی، تو ایک شخص نے عرض کیا: اللہ کے رسول! کیا یہی فتح ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: ہاں، قسم اس ذات کی جس کے ہاتھ میں میری جان ہے، یہی فتح ہے ، پھر خیبر کی جنگ میں جو مال آیا وہ صلح حدیبیہ کے لوگوں پر تقسیم ہوا، رسول اللہ صلی اللہ علیہ وسلم نے اس مال کے اٹھارہ حصے کئے اور لشکر کے لوگ سب ایک ہزار پانچ سو تھے جن میں تین سو سوار تھے، آپ صلی اللہ علیہ وسلم نے سواروں کو دو حصے دئیے اور پیدل والوں کو ایک حصہ۔ ابوداؤد کہتے ہیں: ابومعاویہ کی حدیث ( نمبر ۲۷۳۳ ) زیادہ صحیح ہے اور اسی پر عمل ہے، اور میرا خیال ہے مجمع کی حدیث میں وہم ہوا ہے انہوں نے کہا ہے: تین سو سوار تھے حالانکہ دو سو سوار تھے ۲؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2736</td></tr><tr><td>Arabic No</td><td>2736</td></tr><tr><td>Reference</td><td>Book 15 Hadith 260</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2736 |
+| Arabic No | 2736 |
+| Reference | Book 15 Hadith 260 |

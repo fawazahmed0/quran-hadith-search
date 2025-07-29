@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ، أَخْبَرَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ فَرَعَ وَلاَ عَتِيرَةَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
+
 حدثنا احمد بن عبدة، اخبرنا سفيان، عن الزهري، عن سعيد، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال " لا فرع ولا عتيرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ইসলামে কোনো ফারা‘আ নেই এবং ‘আতীরাহও নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurairah:Prophet (ﷺ) sa saying: There is no fara' and 'atirah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
+
+## French
+
+Rapporté par Abu Hurairah رضي الله عنه : Le Prophète ﷺ a dit : « Il n’y a pas de Fara’ ni d’‘Atirah. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin 'Abdah\], telah mengabarkan kepada kami \[Sufyan\] dari \[Az Zuhri\], dari \[Sa'id\] dari \[Abu Hurairah\], bahwa Nabi shallallahu 'alaihi wasallam berkata: "Tidak ada fara' (menyembelih anak hewan yang pertama) dan tidak ada 'atirah (menyembelih hewan yang disembelih pada sepuluh pertama Bulan Rajab)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin 'Abdah], telah mengabarkan kepada kami [Sufyan] dari [Az Zuhri], dari [Sa'id] dari [Abu Hurairah], bahwa Nabi shallallahu 'alaihi wasallam berkata: "Tidak ada fara' (menyembelih anak hewan yang pertama) dan tidak ada 'atirah (menyembelih hewan yang disembelih pada sepuluh pertama Bulan Rajab)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Нет фара‘, и нет ‘атиры»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre'den rivayet olunduğuna göre; Nebi (s.a.v.) "Fera’ ve atîre yoktur." buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ( اسلام میں ) نہ «فرع» ہے اور نہ «عتیرہ» ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5474) Sahih Muslim (1976)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2831</td></tr><tr><td>Arabic No</td><td>2831</td></tr><tr><td>Reference</td><td>Book 16 Hadith 44</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5474) Sahih Muslim (1976) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2831 |
+| Arabic No | 2831 |
+| Reference | Book 16 Hadith 44 |

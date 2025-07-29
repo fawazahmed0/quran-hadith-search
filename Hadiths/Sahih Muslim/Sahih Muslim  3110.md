@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ، عَبْدِ اللَّهِ عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى الْمَغْرِبَ وَالْعِشَاءَ بِالْمُزْدَلِفَةِ جَمِيعًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا يحيى بن يحيى، قال قرات على مالك عن ابن شهاب، عن سالم بن، عبد الله عن ابن عمر، ان رسول الله صلى الله عليه وسلم صلى المغرب والعشاء بالمزدلفة جميعا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... ইবনু উমর (রাযিঃ) থেকে বর্ণিত। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযদালিফায় মাগরিব ও ইশার সালাত (সালাত/নামাজ/নামায) একত্রে আদায় করেন। (ইসলামিক ফাউন্ডেশন ২৯৭৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn Umar (Allah be pleased with them) reported that Allah's Messenger (ﷺ) observed the sunset and 'Isha' prayers together at Muzdalifa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## French
 
+Rapporté par Ibn ‘Umar رضي الله عنهما : Le Messager d’Allah ﷺ a accompli les prières du coucher du soleil et de ‘Isha ensemble à Muzdalifa
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya rivayet etti. dediki: Mâlik'e, îbni Şihâb'dan dinlediğim, onun da Salim b. Abdillâh'dan, onun da İbni Ömer'den naklen rivayet ettiği şu hadîsi okudum: Resûlullah (Sallallahu Aleyhi ve Sellem), Müzdelife'de akşam ile yatsı namazlarını birlikte kılmış. İzah için buraya tıklayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سالم بن عبداللہ نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے مزدلفہ میں مغرب اور عشاء کی نمازیں اکھٹی ادا کیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3110</td></tr><tr><td>Arabic No</td><td>703.05</td></tr><tr><td>Reference</td><td>Book 15 Hadith 314</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3110 |
+| Arabic No | 703.05 |
+| Reference | Book 15 Hadith 314 |

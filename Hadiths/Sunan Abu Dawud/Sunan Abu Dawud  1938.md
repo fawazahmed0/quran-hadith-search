@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، قَالَ قَالَ عُمَرُ بْنُ الْخَطَّابِ كَانَ أَهْلُ الْجَاهِلِيَّةِ لاَ يُفِيضُونَ حَتَّى يَرَوُا الشَّمْسَ عَلَى ثَبِيرٍ فَخَالَفَهُمُ النَّبِيُّ صلى الله عليه وسلم فَدَفَعَ قَبْلَ طُلُوعِ الشَّمْسِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
+
 حدثنا ابن كثير، حدثنا سفيان، عن ابي اسحاق، عن عمرو بن ميمون، قال قال عمر بن الخطاب كان اهل الجاهلية لا يفيضون حتى يروا الشمس على ثبير فخالفهم النبي صلى الله عليه وسلم فدفع قبل طلوع الشمس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
 
 ## Bengali
 
+। ‘আমর ইবনু মায়মূন (রহ.) সূত্রে বর্ণিত। তিনি বলেন, ‘উমার ইবনুল খাত্তাব (রাযি.) বলেছেন, জাহিলী যুগের লোকেরা (মুযদালিফা থেকে) সূর্যোদয়ের পূর্বে রওয়ানা হতো না। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের বিপরীত করেছেন। তিনি সূর্য উঠার পূর্বেই রওয়ানা করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আমর ইবনু মায়মূন (রহ.) সূত্রে বর্ণিত। তিনি বলেন, ‘উমার ইবনুল খাত্তাব (রাযি.) বলেছেন, জাহিলী যুগের লোকেরা (মুযদালিফা থেকে) সূর্যোদয়ের পূর্বে রওয়ানা হতো না। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের বিপরীত করেছেন। তিনি সূর্য উঠার পূর্বেই রওয়ানা করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umar ibn al-Khattab: The Arabs in the pre-Islamic period did not return from al-Muzdalifah till they saw sunlight at the mountain Thabir. The Prophet (ﷺ) opposed them and returned before the sunrise
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
+
+## French
+
+Rapporté par Omar ibn al-Khattab : Les Arabes à l’époque préislamique ne quittaient pas Al Muzdalifah avant d’avoir vu la lumière du soleil sur la montagne Thabir. Le Prophète ﷺ a fait différemment et est parti avant le lever du soleil
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Ibnu Katsir\], telah menceritakan kepada Kami \[Sufyan\] dari \[Abu Ishaq\] dari \['Amr bin Maimun\], ia berkata; \[Umar bin Al Khathab\] berkata; orang-orang jahiliyah tidak bertolak hingga mereka melihat matahari di atas Gunung Tsabir, kemudian Nabi shallallahu 'alaihi wasallam menyelisihi mereka, dan beliau bertolak sebelum matahari terbit
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Ibnu Katsir], telah menceritakan kepada Kami [Sufyan] dari [Abu Ishaq] dari ['Amr bin Maimun], ia berkata; [Umar bin Al Khathab] berkata; orang-orang jahiliyah tidak bertolak hingga mereka melihat matahari di atas Gunung Tsabir, kemudian Nabi shallallahu 'alaihi wasallam menyelisihi mereka, dan beliau bertolak sebelum matahari terbit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Умар ибн аль-Хаттаб, да будет доволен им Аллах, передаёт: «Во времена невежества люди не уходили (из Муздалифы), пока не видели солнце над Сабиром. А Пророк ﷺ поступил наперекор им и ушёл до того, как солнце взойдёт»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ömer b. el-Hattâb'dan; demiştir ki: Câhiliyye döneminin halkı Sebir (dağı) üzerine güneşin doğduğunu görünceye kadar (Müzdelife'den) dağılmazlardı. Nebi (S.A.V.) onlara muhalefet ederek güneş doğmadan önce (Minâ'dan) hareket etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمر بن خطاب رضی اللہ عنہ کہتے ہیں کہ جاہلیت کے لوگ مزدلفہ سے نہیں لوٹتے تھے جب تک کہ سورج کو ثبیر ۱؎ پر نہ دیکھ لیتے، چنانچہ نبی اکرم صلی اللہ علیہ وسلم نے ان کی مخالفت کی اور سورج نکلنے سے پہلے ہی ( مزدلفہ سے ) چل پڑے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3838)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1938</td></tr><tr><td>Arabic No</td><td>1938</td></tr><tr><td>Reference</td><td>Book 11 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3838) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1938 |
+| Arabic No | 1938 |
+| Reference | Book 11 Hadith 218 |

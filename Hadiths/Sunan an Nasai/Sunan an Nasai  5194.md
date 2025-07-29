@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,112 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي أَبُو بَكْرٍ، أَحْمَدُ بْنُ عَلِيٍّ الْمَرْوَزِيُّ قَالَ حَدَّثَنَا الْوَرَكَانِيُّ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ ابْنِ شِهَابٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم مُرْسَلٌ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ وَالْمَرَاسِيلُ أَشْبَهُ بِالصَّوَابِ وَاللَّهُ سُبْحَانَهُ وَتَعَالَى أَعْلَمُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 48 Hadith 155</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |
+
 اخبرني ابو بكر، احمد بن علي المروزي قال حدثنا الوركاني، قال حدثنا ابراهيم بن سعد، عن ابن شهاب، ان رسول الله صلى الله عليه وسلم مرسل . قال ابو عبد الرحمن والمراسيل اشبه بالصواب والله سبحانه وتعالى اعلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 48 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবু বকর আহমদ ইবন আলী মারওয়াযী (রহঃ) ... ইবন শিহাব (রহঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ... অতঃপর তিনি পূর্বের অনুরূপ বর্ণনা করেন। তবে তার বর্ণনা মুরসাল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 48 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |
 
 ## English
 
+Ibrahim bin Sa'd bin Shihab narrated that:The Messenger of Allah \[SAW\]...In Mursal form
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ibrahim bin Sa'd bin Shihab narrated that:The Messenger of Allah [SAW]...In Mursal form
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 48 Hadith 155</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |
+
+## French
+
+Rapporté par Ibrahim bin Sa'd bin Shihab : Le Messager d'Allah ﷺ... (Sous forme Mursal)
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 48 Hadith 155</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 48 Hadith 155</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5194</td></tr><tr><td>Arabic No</td><td>5194</td></tr><tr><td>Reference</td><td>Book 48 Hadith 155</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5194 |
+| Arabic No | 5194 |
+| Reference | Book 48 Hadith 155 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا يَحْيَى بْنُ الْيَمَانِ، عَنْ مِنْهَالِ بْنِ خَلِيفَةَ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ أَدْخَلَ رَجُلاً قَبْرَهُ لَيْلاً وَأَسْرَجَ فِي قَبْرِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |
+
 حدثنا محمد بن الصباح، انبانا يحيى بن اليمان، عن منهال بن خليفة، عن عطاء، عن ابن عباس، ان رسول الله صلى الله عليه وسلم ادخل رجلا قبره ليلا واسرج في قبره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে রাতের বেলা কবরে রাখেন এবং (লাশ ঠিকমত রাখার সুবিধার্থে) কবরে আলোর ব্যবস্থা করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn ‘Abbas that the Messenger of Allah (ﷺ) placed a man in his grave at night, and he lit a lamp in his grave
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : Le Messager d’Allah (ﷺ) a placé un homme dans sa tombe la nuit, et il a allumé une lampe dans sa tombe
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Ash Shabbah\] berkata, telah memberitakan kepada kami \[Yahya bin Al Yaman\] dari \[Minhal bin Khalifah\] dari \['Atho'\] dari \[Ibnu Abbas\] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah menguburkan seseorang pada malam hari, dan memberikan penerangan di kuburnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Ash Shabbah] berkata, telah memberitakan kepada kami [Yahya bin Al Yaman] dari [Minhal bin Khalifah] dari ['Atho'] dari [Ibnu Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam pernah menguburkan seseorang pada malam hari, dan memberikan penerangan di kuburnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn-i Abbas (r.a.)'dan; şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem), ölen bir adam'ı geceleyin kabre bizzat koydu ve kabirde (defin işinde aydınlık olsun diye) lamba yakıldı. Diğer tahric: Tirmizi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک شخص کو رات میں دفن کیا، اور اس کی قبر کے پاس ( روشنی کے لیے ) چراغ جلایا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1520</td></tr><tr><td>Arabic No</td><td>1520</td></tr><tr><td>Reference</td><td>Book 6 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Fouad Abd al-Baqi |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1520 |
+| Arabic No | 1520 |
+| Reference | Book 6 Hadith 88 |

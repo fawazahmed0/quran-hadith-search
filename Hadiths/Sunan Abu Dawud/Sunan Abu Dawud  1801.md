@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، أَخْبَرَنَا عَبْدُ الْعَزِيزِ، حَدَّثَنِي الرَّبِيعُ بْنُ سَبْرَةَ، عَنْ أَبِيهِ، قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى إِذَا كَانَ بِعُسْفَانَ قَالَ لَهُ سُرَاقَةُ بْنُ مَالِكٍ الْمُدْلِجِيُّ يَا رَسُولَ اللَّهِ اقْضِ لَنَا قَضَاءَ قَوْمٍ كَأَنَّمَا وُلِدُوا الْيَوْمَ ‏.‏ فَقَالَ ‏ "‏ إِنَّ اللَّهَ تَعَالَى قَدْ أَدْخَلَ عَلَيْكُمْ فِي حَجِّكُمْ هَذَا عُمْرَةً فَإِذَا قَدِمْتُمْ فَمَنْ تَطَوَّفَ بِالْبَيْتِ وَبَيْنَ الصَّفَا وَالْمَرْوَةِ فَقَدْ حَلَّ إِلاَّ مَنْ كَانَ مَعَهُ هَدْىٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
+
 حدثنا هناد بن السري، حدثنا ابن ابي زايدة، اخبرنا عبد العزيز، حدثني الربيع بن سبرة، عن ابيه، قال خرجنا مع رسول الله صلى الله عليه وسلم حتى اذا كان بعسفان قال له سراقة بن مالك المدلجي يا رسول الله اقض لنا قضاء قوم كانما ولدوا اليوم . فقال " ان الله تعالى قد ادخل عليكم في حجكم هذا عمرة فاذا قدمتم فمن تطوف بالبيت وبين الصفا والمروة فقد حل الا من كان معه هدى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
 
 ## Bengali
 
+। আর-রাবী‘ ইবনু সাবরাহ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে রওয়ানা হলাম। যখন ‘উসফান’ নামক স্থানে উপনীত হলাম তখন সুরাকাহ ইবনু মালিক আল-মুদলিজী (রাযি.) তাঁকে বললেন, হে আল্লাহর রাসূল! আমাদেরকে হজের (হজ্জের) নিয়ম নীতি এমনভাবে (উত্তমরূপে) বুঝিয়ে দিন যেভাবে কোনো নবীন দলকে বুঝানো হয়। তিনি বললেনঃ মহাশক্তিশালী আল্লাহ তোমাদের হজের (হজ্জের) মধ্যে ‘উমরাকে প্রবেশ করিয়েছেন। সুতরাং তোমরা (মক্কায়) পৌঁছে যে ব্যক্তি বায়তুল্লাহ তাওয়াফ ও সাফা-মারওয়া সাঈ করবে সে হালাল হয়ে যাবে, কিন্তু যার সাথে কুরবানীর পশু আছে সে ব্যতীত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আর-রাবী‘ ইবনু সাবরাহ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, আমরা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে রওয়ানা হলাম। যখন ‘উসফান’ নামক স্থানে উপনীত হলাম তখন সুরাকাহ ইবনু মালিক আল-মুদলিজী (রাযি.) তাঁকে বললেন, হে আল্লাহর রাসূল! আমাদেরকে হজের (হজ্জের) নিয়ম নীতি এমনভাবে (উত্তমরূপে) বুঝিয়ে দিন যেভাবে কোনো নবীন দলকে বুঝানো হয়। তিনি বললেনঃ মহাশক্তিশালী আল্লাহ তোমাদের হজের (হজ্জের) মধ্যে ‘উমরাকে প্রবেশ করিয়েছেন। সুতরাং তোমরা (মক্কায়) পৌঁছে যে ব্যক্তি বায়তুল্লাহ তাওয়াফ ও সাফা-মারওয়া সাঈ করবে সে হালাল হয়ে যাবে, কিন্তু যার সাথে কুরবানীর পশু আছে সে ব্যতীত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Saburah: Ar-Rabi' ibn Saburah said on the authority of his father (Saburah): We went out along with the Messenger of Allah (ﷺ) till we reached Usfan, Suraqah ibn Malik al-Mudlaji said to him: Messenger of Allah, explain to us like the people as if they were born today. He said: Allah, the Exalted, has included this umrah in your hajj. When you come (to Mecca), and he who goes round the House (the Ka'bah), and runs between as-Safa and al-Marwah, is allowed to take off ihram except he who has brought the sacrificial animals with him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
+
+## French
+
+Rapporté par Saburah : Ar-Rabi' ibn Saburah a rapporté de son père (Saburah) : Nous sommes partis avec le Messager d’Allah ﷺ jusqu’à ce que nous arrivions à Usfan. Suraqah ibn Malik al-Mudlaji lui a dit : « Messager d’Allah, explique-nous comme si nous venions de naître aujourd’hui. » Il a dit : « Allah, le Très-Haut, a inclus cette ‘umrah dans votre hajj. Quand vous arrivez (à La Mecque), celui qui fait le tour de la Ka‘bah et parcourt la distance entre as-Safa et al-Marwah peut quitter l’état d’ihram, sauf celui qui a amené avec lui un animal à sacrifier. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ар-Раби‘ ибн Сабра передаёт от своего отца: «Мы отправились в путь вместе с посланником Аллаха ﷺ и, когда мы были в ‘Усфане, Сурака ибн Малик аль-Мудлиджи сказал ему: “О Посланник Аллаха, разъясни нам всё так, будто мы родились сегодня”. Посланник Аллаха ﷺ сказал: “Поистине, Всевышний Аллах ввёл в ваш хадж ‘умру. После прибытия тот, кто совершил обход вокруг Каабы и пробег между холмами Сафа и Марва, должен выйти из состояния ихрама, за исключением тех, кто гонит жертвенный скот”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sebre'den; demiştir ki: Resûlullah (s.a.v.) ile birlikte (hac için yola) çıkmıştık. Usfan'a varınca Süraka b. Mâlik el-Müdlicî; Ey Allah'ın Resulü, bize (analarından) bugün doğmuş kimselere açıklama yapar gibi (hac hakkında) açıklama yap, dedi. Bunun üzerine Resûlullah (s.a.v.) Allah Teâlâ, size şu haccımzla birlikte umreyi de meşru' kıldı. (Mekke'ye) vardığımızda Beyti ve Safa ile Merve arasını tavaf eden (ler) ihramdan çıksın(lar). Ancak yanında kurbanlık olanlar ihramdan çıkmasınlar" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سبرہ رضی اللہ عنہ کہتے ہیں کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نکلے یہاں تک کہ جب ہم عسفان میں پہنچے تو آپ سے سراقہ بن مالک مدلجی نے کہا: اللہ کے رسول! آج ایسا بیان فرمائیے جیسے ان لوگوں کو سمجھاتے ہیں جو ابھی پیدا ہوئے ہوں ( بالکل واضح ) تو آپ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ نے تمہارے لیے عمرہ کو تمہارے حج میں داخل کر دیا ہے لہٰذا جب تم مکہ آ جاؤ تو جو بیت اللہ کا طواف اور صفا و مروہ کی سعی کر لے تو وہ حلال ہو گیا سوائے اس کے جس کے ساتھ ہدی کا جانور ہو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1801</td></tr><tr><td>Arabic No</td><td>1801</td></tr><tr><td>Reference</td><td>Book 11 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1801 |
+| Arabic No | 1801 |
+| Reference | Book 11 Hadith 81 |

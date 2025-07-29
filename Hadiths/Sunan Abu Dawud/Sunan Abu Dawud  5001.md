@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,138 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا صَفْوَانُ بْنُ صَالِحٍ، حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا عُثْمَانُ بْنُ أَبِي الْعَاتِكَةِ، قَالَ إِنَّمَا قَالَ أَدْخُلُ كُلِّي ‏.‏ مِنْ صِغَرِ الْقُبَّةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
+
 حدثنا صفوان بن صالح، حدثنا الوليد، حدثنا عثمان بن ابي العاتكة، قال انما قال ادخل كلي . من صغر القبة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
 
 ## Bengali
 
+। উসমান ইবনু আবুল আতিকাহ বলেন, তাঁবুর পরিধি সংকীর্ণ হওয়ায় ‘আওফ (রাঃ) কৌতুক করে বলেছিলেন, আমার পুরো শরীরসহ প্রবেশ করবো?\[1\] সনদ যঈফ মাকতু।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উসমান ইবনু আবুল আতিকাহ বলেন, তাঁবুর পরিধি সংকীর্ণ হওয়ায় ‘আওফ (রাঃ) কৌতুক করে বলেছিলেন, আমার পুরো শরীরসহ প্রবেশ করবো?[1] সনদ যঈফ মাকতু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Uthman b. Abu 'Atikah said :The only reason why he asked whether the whole of him should come in was because of the smallness of the tent
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
+
+## French
+
+Rapporté par ‘Uthman b. Abu 'Atikah : La seule raison pour laquelle il a demandé s’il devait entrer entièrement, c’était parce que la tente était petite
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Osman İbn Ebi'l-Âtike'den (rivayet edilmiştir); dedi ki: (Avf ibn Malik, bir önceki 5000. hadiste sözkonusu edilen) "Her tarafımla mı gireyim" sözünü sırf çadırın küçüklüğünden dolayı (şaka olsun diye) söyledi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عثمان بن ابی العاتکہ کہتے ہیں کہ انہوں نے جو یہ پوچھا کہ کیا پورے طور پر اندر آ جاؤں تو اس وجہ سے کہ خیمہ چھوٹا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5001</td></tr><tr><td>Arabic No</td><td>5001</td></tr><tr><td>Reference</td><td>Book 43 Hadith 229</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad Maqtu | Al-Albani |
+| Daif Isnaad Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5001 |
+| Arabic No | 5001 |
+| Reference | Book 43 Hadith 229 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ الْمِصْرِيُّ أَبُو طَاهِرٍ، أَنْبَأَنَا ابْنُ وَهْبٍ، أَنْبَأَنَا يُونُسُ، عَنِ ابْنِ شِهَابٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَحَرَ عَنْ آلِ مُحَمَّدٍ ـ صلى الله عليه وسلم ـ فِي حَجَّةِ الْوَدَاعِ بَقَرَةً وَاحِدَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |
+
 حدثنا احمد بن عمرو بن السرح المصري ابو طاهر، انبانا ابن وهب، انبانا يونس، عن ابن شهاب، عن عمرة، عن عايشة، ان رسول الله صلى الله عليه وسلم نحر عن ال محمد صلى الله عليه وسلم في حجة الوداع بقرة واحدة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আয়েশা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হজ্জে তাঁর পরিবারবর্গের পক্ষ থেকে একটি মাত্র গরু কোরবানী করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from ‘Aishah that the Messenger of Allah (ﷺ) sacrificed one cow during the Farewell Pilgrimage on behalf of the family of Muhammad (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |
+
+## French
+
+Rapporté par ‘Aishah : Le Messager d’Allah (ﷺ) a sacrifié une vache lors du Pèlerinage d’Adieu pour la famille de Muhammad (ﷺ)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin 'Amru bin As Sarh Al Mishri Abu Thahir\] telah memberitakan kepada kami \[Ibnu Wahb\] telah memberitakan kepada kami \[Yunus\] dari \[Ibnu Syihab\] dari \['Amrah\] dari \[Asiyah\], bahwa Rasulullah shallallahu 'alaihi wasallam menyembelih seekor sapi untuk keluarga Muhammad shallallahu 'alaihi wasallam saat melaksanakan haji wada
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin 'Amru bin As Sarh Al Mishri Abu Thahir] telah memberitakan kepada kami [Ibnu Wahb] telah memberitakan kepada kami [Yunus] dari [Ibnu Syihab] dari ['Amrah] dari [Asiyah], bahwa Rasulullah shallallahu 'alaihi wasallam menyembelih seekor sapi untuk keluarga Muhammad shallallahu 'alaihi wasallam saat melaksanakan haji wada
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan rivayet edildiğine göre: Resulullah (Sallallahu Aleyhi ve Sellem), Veda haccında Muhammed (Sallallahu Aleyhi ve Sellem)'in Âl'ı (yâni eşleri) yerine tek bir sığır kurban etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے حجۃ الوداع میں آل محمد کی طرف سے ایک گائے کی قربانی کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3135</td></tr><tr><td>Arabic No</td><td>3135</td></tr><tr><td>Reference</td><td>Book 26 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3135 |
+| Arabic No | 3135 |
+| Reference | Book 26 Hadith 16 |

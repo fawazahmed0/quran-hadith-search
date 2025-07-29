@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ أَنَسِ بْنِ سِيرِينَ، قَالَ سَمِعْتُ عَبْدَ الْمَلِكِ بْنَ أَبِي الْمِنْهَالِ، يُحَدِّثُ عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَهُمْ بِصِيَامِ ثَلاَثَةِ أَيَّامِ الْبِيضِ قَالَ ‏ "‏ هِيَ صَوْمُ الشَّهْرِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |
+
 اخبرنا محمد بن حاتم، قال انبانا حبان، قال انبانا عبد الله، عن شعبة، عن انس بن سيرين، قال سمعت عبد الملك بن ابي المنهال، يحدث عن ابيه، ان النبي صلى الله عليه وسلم امرهم بصيام ثلاثة ايام البيض قال " هي صوم الشهر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন হাতিম (রহঃ) ... আব্দুল মালিক (রহঃ)-এর পিতা আবুল মিনহাল (রাঃ) থেকে বর্ণিত যে, সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে আইয়ামে বীযের তিন দিনের সাওমে পালন করার নির্দেশ দিতেন এবং বলতেন যে, এই তিন দিনের সাওম সারা মাস সাওম পালন করার সমতুল্য।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdul-Malik bin Abi Al-Minhai narrated from his father that:the Prophet commanded them to fast the three days of Al-Bid. He said: "That is (equivalent to) fasting for the whole month
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |
+
+## French
+
+Rapporté par Abdul-Malik ibn Abi Al-Minhai, de la part de son père : Le Prophète leur ordonna de jeûner les trois jours d’Al-Bid. Il dit : "C’est comme si on jeûnait tout le mois
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوالمنہال قتادہ بن ملحان رضی الله عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے انہیں ایام بیض کے تین روزے کا حکم دیا اور فرمایا: ”یہ مہینہ بھر کے روزے کے برابر ہیں“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2431</td></tr><tr><td>Arabic No</td><td>2431</td></tr><tr><td>Reference</td><td>Book 22 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2431 |
+| Arabic No | 2431 |
+| Reference | Book 22 Hadith 342 |

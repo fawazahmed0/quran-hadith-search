@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## French
 
+Rapporté par Amr bin Alī Abū Hafs : Il a dit qu’il a entendu Mu’ādh bin Mu’ādh dire : J’ai dit à Awf bin Abī Jamīlah : « En effet, Amr bin Ubayd nous a rapporté, de la part d’al-Hasan, que le Messager d’Allah ﷺ a dit : “Celui qui porte les armes contre nous n’est pas des nôtres.” » Il a dit : « Amr a menti, par Allah. En réalité, il voulait utiliser cela pour justifier sa mauvaise opinion. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>66</td></tr><tr><td>Reference</td><td>Book 0 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 66 |
+| Reference | Book 0 Hadith 66 |

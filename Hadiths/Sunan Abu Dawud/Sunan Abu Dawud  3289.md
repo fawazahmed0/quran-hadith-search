@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ طَلْحَةَ بْنِ عَبْدِ الْمَلِكِ الأَيْلِيِّ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏:‏ ‏ "‏ مَنْ نَذَرَ أَنْ يُطِيعَ اللَّهَ فَلْيُطِعْهُ، وَمَنْ نَذَرَ أَنْ يَعْصِيَ اللَّهَ فَلاَ يَعْصِهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
+
 حدثنا القعنبي، عن مالك، عن طلحة بن عبد الملك الايلي، عن القاسم، عن عايشة، رضى الله عنها قالت قال رسول الله صلى الله عليه وسلم : " من نذر ان يطيع الله فليطعه، ومن نذر ان يعصي الله فلا يعصه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি আল্লাহর আনুগত্যের মানত করে সে যেন তাঁর আনুগত্য করে। আর যে ব্যক্তি আল্লাহর নাফরমানীর মানত করে সে যেন তা না করে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah:The Messenger of Allah (ﷺ) as saying: If anyone vows to obey Allah, let him obey Him, but if anyone vows to disobey Him, let him not disobey Him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ a dit : « Si quelqu’un fait le vœu d’obéir à Allah, qu’il Lui obéisse ; mais si quelqu’un fait le vœu de Lui désobéir, qu’il ne Lui désobéisse pas. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\], dari \[Thalhah bin Abdul Malik Al Aili\], dari \[Al Qasim\] dari \[Aisyah\] radliallahu 'anha ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bernadzar untuk mentaati Allah, maka hendaknya ia mentaatiNya dan barangsiapa yang bernadzar untuk bermaksiat kepada Allah maka janganlah ia bermaksiat (melakukannya)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik], dari [Thalhah bin Abdul Malik Al Aili], dari [Al Qasim] dari [Aisyah] radliallahu 'anha ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa yang bernadzar untuk mentaati Allah, maka hendaknya ia mentaatiNya dan barangsiapa yang bernadzar untuk bermaksiat kepada Allah maka janganlah ia bermaksiat (melakukannya)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что сестра ‘Укбы ибн ‘Амира дала обет идти к Дому пешком, однако Пророк ﷺ велел ей ехать верхом (, потому что она была не в состоянии идти пешком,) и принести в жертву животное
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anha)'den, Hz. Nebi (s.a.v.)'in şöyle buyurluğu rivayet edilmiştir. "Allah'a itaat etmeyi adayan kişi itaat etsin. Allah'a isyan etmeyi adayan ise isyan etmesin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو اللہ کی اطاعت کی نذر مانے تو اللہ کی اطاعت کرے اور جو اللہ کی نافرمانی کرنے کی نذر مانے تو اس کی نافرمانی نہ کرے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6696، 6700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3289</td></tr><tr><td>Arabic No</td><td>3289</td></tr><tr><td>Reference</td><td>Book 22 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6696، 6700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3289 |
+| Arabic No | 3289 |
+| Reference | Book 22 Hadith 48 |

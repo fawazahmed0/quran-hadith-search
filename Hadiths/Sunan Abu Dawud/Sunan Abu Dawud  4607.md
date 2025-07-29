@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا ثَوْرُ بْنُ يَزِيدَ، قَالَ حَدَّثَنِي خَالِدُ بْنُ مَعْدَانَ، قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ عَمْرٍو السُّلَمِيُّ، وَحُجْرُ بْنُ حُجْرٍ، قَالاَ أَتَيْنَا الْعِرْبَاضَ بْنَ سَارِيَةَ وَهُوَ مِمَّنْ نَزَلَ فِيهِ ‏(‏ وَلاَ عَلَى الَّذِينَ إِذَا مَا أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لاَ أَجِدُ مَا أَحْمِلُكُمْ عَلَيْهِ ‏)‏ فَسَلَّمْنَا وَقُلْنَا أَتَيْنَاكَ زَائِرِينَ وَعَائِدِينَ وَمُقْتَبِسِينَ ‏.‏ فَقَالَ الْعِرْبَاضُ صَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم ذَاتَ يَوْمٍ ثُمَّ أَقْبَلَ عَلَيْنَا فَوَعَظَنَا مَوْعِظَةً بَلِيغَةً ذَرَفَتْ مِنْهَا الْعُيُونُ وَوَجِلَتْ مِنْهَا الْقُلُوبُ فَقَالَ قَائِلٌ يَا رَسُولَ اللَّهِ كَأَنَّ هَذِهِ مَوْعِظَةُ مُوَدِّعٍ فَمَاذَا تَعْهَدُ إِلَيْنَا فَقَالَ ‏"‏ أُوصِيكُمْ بِتَقْوَى اللَّهِ وَالسَّمْعِ وَالطَّاعَةِ وَإِنْ عَبْدًا حَبَشِيًّا فَإِنَّهُ مَنْ يَعِشْ مِنْكُمْ بَعْدِي فَسَيَرَى اخْتِلاَفًا كَثِيرًا فَعَلَيْكُمْ بِسُنَّتِي وَسُنَّةِ الْخُلَفَاءِ الْمَهْدِيِّينَ الرَّاشِدِينَ تَمَسَّكُوا بِهَا وَعَضُّوا عَلَيْهَا بِالنَّوَاجِذِ وَإِيَّاكُمْ وَمُحْدَثَاتِ الأُمُورِ فَإِنَّ كُلَّ مُحْدَثَةٍ بِدْعَةٌ وَكُلَّ بِدْعَةٍ ضَلاَلَةٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
+
 حدثنا احمد بن حنبل، حدثنا الوليد بن مسلم، حدثنا ثور بن يزيد، قال حدثني خالد بن معدان، قال حدثني عبد الرحمن بن عمرو السلمي، وحجر بن حجر، قالا اتينا العرباض بن سارية وهو ممن نزل فيه ( ولا على الذين اذا ما اتوك لتحملهم قلت لا اجد ما احملكم عليه ) فسلمنا وقلنا اتيناك زايرين وعايدين ومقتبسين . فقال العرباض صلى بنا رسول الله صلى الله عليه وسلم ذات يوم ثم اقبل علينا فوعظنا موعظة بليغة ذرفت منها العيون ووجلت منها القلوب فقال قايل يا رسول الله كان هذه موعظة مودع فماذا تعهد الينا فقال " اوصيكم بتقوى الله والسمع والطاعة وان عبدا حبشيا فانه من يعش منكم بعدي فسيرى اختلافا كثيرا فعليكم بسنتي وسنة الخلفاء المهديين الراشدين تمسكوا بها وعضوا عليها بالنواجذ واياكم ومحدثات الامور فان كل محدثة بدعة وكل بدعة ضلالة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
 
 ## Bengali
 
+। আব্দুর রাহমান ইবনু আমর আস-সুলামী ও হুজর ইবনু হুজর (রাঃ) বলেন, একদা আমরা আল-ইরবাদ ইবনু সারিয়াহ (রাঃ)-এর নিকট আসলাম। যাদের সম্পর্কে এ আয়াত নাযিল হয়েছে তিনি তাদের অন্তর্ভুক্তঃ ‘‘তাদেরও কোনো অপরাধ নেই যারা তোমার নিকট বাহনের জন্য এলে তুমি বলেছিলেঃ আমি তোমাদের জন্য কোনো বাহনের ব্যবস্থা করতে পারছি না।’’ (সূরা আত-তওবাঃ ৯২)। আমরা সালাম দিয়ে বললাম, আমরা আপনাকে দেখতে, আপনার অসুস্থতার খবর নিতে এবং আপনার কাছ থেকে কিছু অর্জন করতে এসেছি। আল-ইরবাদ (রাঃ) বললেন, একদিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সঙ্গে নিয়ে সালাত আদায় করলেন, অতঃপর আমাদের দিকে ফিরে আমাদের উদ্দেশ্য জ্বালাময়ী ভাষণ দিলেন, তাতে চোখগুলো অশ্রুসিক্ত হলো এবং অন্তরগুলো বিগলিত হলো। তখন এক ব্যক্তি বললেন, হে আল্লাহর রাসূল! এ যেন কারো বিদায়ী ভাষণ! অতএব আপনি আমাদেরকে কি নির্দেশ দেন? তিনি বলেনঃ আমি তোমাদেরকে আল্লাহভীতির, শ্রবণ ও আনুগত্যের উপদেশ দিচ্ছি, যদিও সে (আমীর) একজন হাবশী গোলাম হয়। কারণ তোমাদের মধ্যে যারা আমার পরে জীবিত থাকবে তারা অচিরেই প্রচুর মতবিরোধ দেখবে। তখন তোমরা অবশ্যই আমার সুন্নাত এবং আমার হিদায়াতপ্রাপ্ত খলীফাহগণের সুন্নাত অনুসরণ করবে, তা দাঁত দিয়ে কামড়ে আঁকড়ে থাকবে। সাবধান! (ধর্মে) প্রতিটি নব আবিষ্কার সম্পর্কে! কারণ প্রতিটি নব আবিষ্কার হলো বিদ‘আত এবং প্রতিটি বিদ‘আত হলো ভ্রষ্টতা।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুর রাহমান ইবনু আমর আস-সুলামী ও হুজর ইবনু হুজর (রাঃ) বলেন, একদা আমরা আল-ইরবাদ ইবনু সারিয়াহ (রাঃ)-এর নিকট আসলাম। যাদের সম্পর্কে এ আয়াত নাযিল হয়েছে তিনি তাদের অন্তর্ভুক্তঃ ‘‘তাদেরও কোনো অপরাধ নেই যারা তোমার নিকট বাহনের জন্য এলে তুমি বলেছিলেঃ আমি তোমাদের জন্য কোনো বাহনের ব্যবস্থা করতে পারছি না।’’ (সূরা আত-তওবাঃ ৯২)। আমরা সালাম দিয়ে বললাম, আমরা আপনাকে দেখতে, আপনার অসুস্থতার খবর নিতে এবং আপনার কাছ থেকে কিছু অর্জন করতে এসেছি। আল-ইরবাদ (রাঃ) বললেন, একদিন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সঙ্গে নিয়ে সালাত আদায় করলেন, অতঃপর আমাদের দিকে ফিরে আমাদের উদ্দেশ্য জ্বালাময়ী ভাষণ দিলেন, তাতে চোখগুলো অশ্রুসিক্ত হলো এবং অন্তরগুলো বিগলিত হলো। তখন এক ব্যক্তি বললেন, হে আল্লাহর রাসূল! এ যেন কারো বিদায়ী ভাষণ! অতএব আপনি আমাদেরকে কি নির্দেশ দেন? তিনি বলেনঃ আমি তোমাদেরকে আল্লাহভীতির, শ্রবণ ও আনুগত্যের উপদেশ দিচ্ছি, যদিও সে (আমীর) একজন হাবশী গোলাম হয়। কারণ তোমাদের মধ্যে যারা আমার পরে জীবিত থাকবে তারা অচিরেই প্রচুর মতবিরোধ দেখবে। তখন তোমরা অবশ্যই আমার সুন্নাত এবং আমার হিদায়াতপ্রাপ্ত খলীফাহগণের সুন্নাত অনুসরণ করবে, তা দাঁত দিয়ে কামড়ে আঁকড়ে থাকবে। সাবধান! (ধর্মে) প্রতিটি নব আবিষ্কার সম্পর্কে! কারণ প্রতিটি নব আবিষ্কার হলো বিদ‘আত এবং প্রতিটি বিদ‘আত হলো ভ্রষ্টতা।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Irbad ibn Sariyah: AbdurRahman ibn Amr as-Sulami and Hujr ibn Hujr said: We came to Irbad ibn Sariyah who was among those about whom the following verse was revealed: "Nor (is there blame) on those who come to thee to be provided with mounts, and when thou saidst: "I can find no mounts for you." We greeted him and said: We have come to see you to give healing and obtain benefit from you. Al-Irbad said: One day the Messenger of Allah (ﷺ) led us in prayer, then faced us and gave us a lengthy exhortation at which the eyes shed tears and the hearts were afraid. A man said: Messenger of Allah! It seems as if it were a farewell exhortation, so what injunction do you give us? He then said: I enjoin you to fear Allah, and to hear and obey even if it be an Abyssinian slave, for those of you who live after me will see great disagreement. You must then follow my sunnah and that of the rightly-guided caliphs. Hold to it and stick fast to it. Avoid novelties, for every novelty is an innovation, and every innovation is an error
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
+
+## French
+
+Rapporté par Irbad ibn Sariyah : AbdurRahman ibn Amr as-Sulami et Hujr ibn Hujr ont dit : Nous sommes venus voir Irbad ibn Sariyah, qui faisait partie de ceux au sujet desquels ce verset a été révélé : « Il n’y a pas de reproche pour ceux qui viennent à toi pour que tu leur trouves une monture, et tu dis : “Je ne trouve pas de monture pour vous.” » Nous l’avons salué et dit : Nous sommes venus te voir pour recevoir des conseils et profiter de ta sagesse. Al-Irbad a dit : Un jour, le Messager d’Allah ﷺ nous a dirigés dans la prière, puis il s’est tourné vers nous et nous a adressé une longue exhortation qui a fait couler des larmes et trembler les cœurs. Un homme a dit : « Ô Messager d’Allah ! On dirait un discours d’adieu. Que nous recommandes-tu ? » Il a répondu : « Je vous recommande de craindre Allah, d’écouter et d’obéir, même si c’est à un esclave abyssin, car ceux d’entre vous qui vivront après moi verront de grands désaccords. Suivez donc ma sunna et celle des califes bien guidés. Tenez-y fermement. Évitez les nouveautés, car chaque nouveauté est une innovation, et chaque innovation est une erreur. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] berkata, telah menceritakan kepada kami \[Al Walid bin Muslim\] berkata, telah menceritakan kepada kami \[Tsaur bin Yazid\] ia berkata; telah menceritakan kepadaku \[Khalid bin Ma'dan\] ia berkata; telah menceritakan kepadaku \['Abdurrahman bin Amru As Sulami\] dan \[Hujr bin Hujr\] keduanya berkata, "Kami mendatangi \[Irbadh bin Sariyah\], dan ia adalah termasuk seseorang yang turun kepadanya ayat: '(dan tiada (pula dosa) atas orang-orang yang apabila mereka datang kepadamu, suapaya kami memberi mereka kendaraan, lalu kamu berkata, "Aku tidak memperoleh kendaraan orang yang membawamu) ' -Qs. At Taubah: 92- kami mengucapkan salam kepadanya dan berkata, "Kami datang kepadamu untuk ziarah, duduk-duduk mendengar sesuatu yang berharga darimu." Irbadh berkata, "Suatu ketika Rasulullah shallallahu 'alaihi wasallam shalat bersama kami, beliau lantas menghadap ke arah kami dan memberikan sebuah nasihat yang sangat menyentuh yang membuat mata menangis dan hati bergetar. Lalu seseorang berkata, "Wahai Rasulullah, seakan-akan ini adalah nasihat untuk perpisahan! Lalu apa yang engkau washiatkan kepada kami?" Beliau mengatakan: "Aku wasiatkan kepada kalian untuk bertakwa kepada Allah, senantiasa taat dan mendengar meskipun yang memerintah adalah seorang budak habsyi yang hitam. Sesungguhnya orang-orang yang hidup setelahku akan melihat perselisihan yang banyak. Maka, hendaklah kalian berpegang dengan sunahku, sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid'ah dan setaip bid'ah adalah sesat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] berkata, telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Tsaur bin Yazid] ia berkata; telah menceritakan kepadaku [Khalid bin Ma'dan] ia berkata; telah menceritakan kepadaku ['Abdurrahman bin Amru As Sulami] dan [Hujr bin Hujr] keduanya berkata, "Kami mendatangi [Irbadh bin Sariyah], dan ia adalah termasuk seseorang yang turun kepadanya ayat: '(dan tiada (pula dosa) atas orang-orang yang apabila mereka datang kepadamu, suapaya kami memberi mereka kendaraan, lalu kamu berkata, "Aku tidak memperoleh kendaraan orang yang membawamu) ' -Qs. At Taubah: 92- kami mengucapkan salam kepadanya dan berkata, "Kami datang kepadamu untuk ziarah, duduk-duduk mendengar sesuatu yang berharga darimu." Irbadh berkata, "Suatu ketika Rasulullah shallallahu 'alaihi wasallam shalat bersama kami, beliau lantas menghadap ke arah kami dan memberikan sebuah nasihat yang sangat menyentuh yang membuat mata menangis dan hati bergetar. Lalu seseorang berkata, "Wahai Rasulullah, seakan-akan ini adalah nasihat untuk perpisahan! Lalu apa yang engkau washiatkan kepada kami?" Beliau mengatakan: "Aku wasiatkan kepada kalian untuk bertakwa kepada Allah, senantiasa taat dan mendengar meskipun yang memerintah adalah seorang budak habsyi yang hitam. Sesungguhnya orang-orang yang hidup setelahku akan melihat perselisihan yang banyak. Maka, hendaklah kalian berpegang dengan sunahku, sunah para khalifah yang lurus dan mendapat petunjuk, berpegang teguhlah dengannya dan gigitlah dengan gigi geraham. Jauhilah oleh kalian perkara-perkara baru (dalam urusan agama), sebab setiap perkara yang baru adalah bid'ah dan setaip bid'ah adalah sesat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Абдуррахман ибн ‘Амр ас-Сулями и Худжр ибн Худжр рассказывают: «Мы пришли к аль-‘Ирбаду ибн Сарии, а он был один из тех, относительно кого было ниспослано: “Также нет греха на тех, которым, когда они пришли к тебе, чтобы ты обеспечил их верховыми животными, ты сказал: “Я не могу найти животных для вас””. Мы поприветствовали его и сказали: “Мы пришли навестить тебя и проведать, а также перенять от тебя полезное знание”. Аль-‘Ирбад (ибн Сария) сказал: “Однажды Посланник Аллаха ﷺ совершил с нами молитву, а потом увещевал нас и наставлял так, что слёзы текли из наших глаз, а сердца наши наполнялись страхом, и кто-то сказал: “О Посланник Аллаха! Это наставления человека, который прощается... Что же ты наказываешь нам?” Он сказал: “Я наказываю вам бояться Аллаха и подчиняться правителю, даже если это будет раб-эфиоп. Тот из вас, кто переживёт меня, увидит много разногласий, и потому вы должны придерживаться моей Сунны и сунны праведных халифов, ведомых правильным путём. Держитесь за неё как можно крепче. И остерегайтесь новоизобретённого, ибо каждое новшество (в религии) нововведение, а каждое нововведение заблуждение””»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
 
 ## Turkish
 
+İbn Amr es-Sülemî ile Hucr (un şöyle) dedi (k)ler (i rivayet edilmiştir): Hakkında: "Sen, sizi bindirecek birşey bulamıyorum deyince, harcayacak birşey bulamadıklarından dolayı üzüntüden gözlerinden yaş akarak dönen kimselerin aleyhine de bir yol yoktur."\[Tevbe 92\] (âyeti) inen el-Irbaz b. Sâriye'nin yanına varmıştık. Selam verdik ve "Seni ziyarete, hastalığın için geçmiş olsun demeye ve (senden) ilim almaya geldik" dedik. Bunun üzerine Irbaz (şöyle) dedi: "Bir gün Rasûlullah (s.a.v.) bize namaz kıldırdı. Sonra bize dönüp çok tesirli bir va'z etti. Bu va'z'dan dolayı gözler yaşarıp kalpler ürperdi. Derken bir konuşmacı: "Ey Allah'ın rasulü (senin) bu (va'zın yolculuğa çıkacağı için kalanlara) veda eden bir kimse'nin va'zına benziyor. Binaenaleyh bize neyi tavsiye edersiniz?" (söyleyin de bilelim), dedi. (Fahr-i kainat efendimiz de): "Size Allah'dan korkmanızı (başınızdaki idareciler) Habeşli bir köle olsa bile (onlan) dinleyip, itaat etmenizi tavsiye ederim. Çünkü benden sonra sizden kim yaşarsa o, pek çok (dini) ihtilaflara şahid olacaktır. Binaenaleyh size gereken, sünnetime ve doğru yolum üzerinde bulunan halifelerimin sünnetine sarılınız. Bu sünnetlere (adeta) dişlerinizi (bir daha çıkmamak üzere iyice) batırınız. Sizi (din adına) sonradan ortaya atılan işlerden sakındırırım. Çünkü sonradan ortaya atılan her iş bid'attır ve her bid'at sapıklıktır" buyurdu
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Amr es-Sülemî ile Hucr (un şöyle) dedi (k)ler (i rivayet edilmiştir): Hakkında: "Sen, sizi bindirecek birşey bulamıyorum deyince, harcayacak birşey bulamadıklarından dolayı üzüntüden gözlerinden yaş akarak dönen kimselerin aleyhine de bir yol yoktur."[Tevbe 92] (âyeti) inen el-Irbaz b. Sâriye'nin yanına varmıştık. Selam verdik ve "Seni ziyarete, hastalığın için geçmiş olsun demeye ve (senden) ilim almaya geldik" dedik. Bunun üzerine Irbaz (şöyle) dedi: "Bir gün Rasûlullah (s.a.v.) bize namaz kıldırdı. Sonra bize dönüp çok tesirli bir va'z etti. Bu va'z'dan dolayı gözler yaşarıp kalpler ürperdi. Derken bir konuşmacı: "Ey Allah'ın rasulü (senin) bu (va'zın yolculuğa çıkacağı için kalanlara) veda eden bir kimse'nin va'zına benziyor. Binaenaleyh bize neyi tavsiye edersiniz?" (söyleyin de bilelim), dedi. (Fahr-i kainat efendimiz de): "Size Allah'dan korkmanızı (başınızdaki idareciler) Habeşli bir köle olsa bile (onlan) dinleyip, itaat etmenizi tavsiye ederim. Çünkü benden sonra sizden kim yaşarsa o, pek çok (dini) ihtilaflara şahid olacaktır. Binaenaleyh size gereken, sünnetime ve doğru yolum üzerinde bulunan halifelerimin sünnetine sarılınız. Bu sünnetlere (adeta) dişlerinizi (bir daha çıkmamak üzere iyice) batırınız. Sizi (din adına) sonradan ortaya atılan işlerden sakındırırım. Çünkü sonradan ortaya atılan her iş bid'attır ve her bid'at sapıklıktır" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمٰن بن عمرو سلمی اور حجر بن حجر کہتے ہیں کہ ہم عرباض بن ساریہ رضی اللہ عنہ کے پاس آئے، یہ ان لوگوں میں سے ہیں جن کے بارے میں آیت کریمہ «ولا على الذين إذا ما أتوك لتحملهم قلت لا أجد ما أحملكم عليه» ۱؎ نازل ہوئی، تو ہم نے سلام کیا اور عرض کیا: ہم آپ کے پاس آپ سے ملنے، آپ کی عیادت کرنے، اور آپ سے علم حاصل کرنے کے لیے آئے ہیں، اس پر عرباض رضی اللہ عنہ نے کہا: ایک دن ہمیں رسول اللہ صلی اللہ علیہ وسلم نے نماز پڑھائی، پھر ہماری طرف متوجہ ہوئے اور ہمیں دل موہ لینے والی نصیحت کی جس سے آنکھیں اشک بار ہو گئیں، اور دل کانپ گئے، پھر ایک شخص نے عرض کیا: اللہ کے رسول! یہ تو کسی رخصت کرنے والے کی سی نصیحت ہے، تو آپ ہمیں کیا وصیت فرما رہے ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: میں تمہیں اللہ سے ڈرنے، امیر کی بات سننے اور اس کی اطاعت کرنے کی وصیت کرتا ہوں، خواہ وہ کوئی حبشی غلام ہی کیوں نہ ہو، اس لیے کہ جو میرے بعد تم میں سے زندہ رہے گا عنقریب وہ بہت سے اختلافات دیکھے گا، تو تم میری سنت اور ہدایت یافتہ خلفاء راشدین کے طریقہ کار کو لازم پکڑنا، تم اس سے چمٹ جانا، اور اسے دانتوں سے مضبوط پکڑ لینا، اور دین میں نکالی گئی نئی باتوں سے بچتے رہنا، اس لیے کہ ہر نئی بات بدعت ہے، اور ہر بدعت گمراہی ہے ۲؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4607</td></tr><tr><td>Arabic No</td><td>4607</td></tr><tr><td>Reference</td><td>Book 42 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4607 |
+| Arabic No | 4607 |
+| Reference | Book 42 Hadith 12 |

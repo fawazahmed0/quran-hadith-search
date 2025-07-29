@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ هِشَامِ بْنِ عَائِذٍ الأَسَدِيِّ، قَالَ سَأَلْتُ إِبْرَاهِيمَ عَنِ الْعَصِيرِ، قَالَ اشْرَبْهُ حَتَّى يَغْلِيَ مَا لَمْ يَتَغَيَّرْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 51 Hadith 194</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن هشام بن عايذ الاسدي، قال سالت ابراهيم عن العصير، قال اشربه حتى يغلي ما لم يتغير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 51 Hadith 194</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... হিশাম ইবন আয়িয আল-আসাদী (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি ইবরাহীমকে দ্রাক্ষারস সম্পর্কে জিজ্ঞাসা করলাম। তিনি বললেনঃ তা উথলে না ওঠা এবং পরিবর্তিত না হওয়া পর্যন্ত পান করতে পার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 51 Hadith 194</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Hisham bin 'A'idh Al-Asadi said:"I asked Ibrahim about juice and he said: 'Drink it, unless it bubbles, so long as it doesn't change
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 51 Hadith 194</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |
+
+## French
+
+Rapporté par Hisham bin 'A'idh Al-Asadi : J'ai demandé à Ibrahim au sujet du jus et il a dit : "Bois-le, sauf s'il commence à mousser, tant qu'il ne change pas
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah memberitakan kepada kami \[Abdullah\] dari \[Hisyam bin 'Aidz Al Asadi\] ia berkata, "Aku bertanya \[Ibrahim\] tentang perasan, ia menjawab, "Minumlah ia hingga mendidih dan belum berubah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah memberitakan kepada kami [Abdullah] dari [Hisyam bin 'Aidz Al Asadi] ia berkata, "Aku bertanya [Ibrahim] tentang perasan, ia menjawab, "Minumlah ia hingga mendidih dan belum berubah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 51 Hadith 194</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 51 Hadith 194</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5732</td></tr><tr><td>Arabic No</td><td>5732</td></tr><tr><td>Reference</td><td>Book 51 Hadith 194</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5732 |
+| Arabic No | 5732 |
+| Reference | Book 51 Hadith 194 |

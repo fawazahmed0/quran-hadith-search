@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ أَبَا أَيُّوبَ الأَزْدِيَّ، يُحَدِّثُ عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، - قَالَ شُعْبَةُ كَانَ قَتَادَةُ يَرْفَعُهُ أَحْيَانًا وَأَحْيَانًا لاَ يَرْفَعُهُ - قَالَ ‏ "‏ وَقْتُ صَلاَةِ الظُّهْرِ مَا لَمْ تَحْضُرِ الْعَصْرُ وَوَقْتُ صَلاَةِ الْعَصْرِ مَا لَمْ تَصْفَرَّ الشَّمْسُ وَوَقْتُ الْمَغْرِبِ مَا لَمْ يَسْقُطْ ثَوْرُ الشَّفَقِ وَوَقْتُ الْعِشَاءِ مَا لَمْ يَنْتَصِفِ اللَّيْلُ وَوَقْتُ الصُّبْحِ مَا لَمْ تَطْلُعِ الشَّمْسُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |
+
 اخبرنا عمرو بن علي، قال حدثنا ابو داود، حدثنا شعبة، عن قتادة، قال سمعت ابا ايوب الازدي، يحدث عن عبد الله بن عمرو، - قال شعبة كان قتادة يرفعه احيانا واحيانا لا يرفعه - قال " وقت صلاة الظهر ما لم تحضر العصر ووقت صلاة العصر ما لم تصفر الشمس ووقت المغرب ما لم يسقط ثور الشفق ووقت العشاء ما لم ينتصف الليل ووقت الصبح ما لم تطلع الشمس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |
 
 ## Bengali
 
+। আমর ইবনু আলী (রহঃ) ... আবদুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। শু’বা (রহঃ) বলেন, কাতাদা (রাঃ) এই হাদিস কখনও রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে মারফু’ রূপে বর্ণনা করেন, কখনও এরূপ বর্ণনা করেন না। তিনি \[‘আবদুল্লাহ ইবনু আমর (রাঃ)\] বলেনঃ যোহরের শেষ সময় যতক্ষণ পর্যন্ত আসর উপস্থিত না হয়, আর আসরের সময় যতক্ষণ পর্যন্ত সুর্য হলুদ বর্ণ না হয় এবং মাগরিবের শেষ সময় যতক্ষণ পর্যন্ত শাফাক অদৃশ্য না হয়। ইশার শেষ সময় অর্ধ রাত্রের পূর্ব পর্যন্ত এবং ফজরের শেষ সময় সূর্যোদয়ের পূর্ব পর্যন্ত।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আমর ইবনু আলী (রহঃ) ... আবদুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। শু’বা (রহঃ) বলেন, কাতাদা (রাঃ) এই হাদিস কখনও রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে মারফু’ রূপে বর্ণনা করেন, কখনও এরূপ বর্ণনা করেন না। তিনি [‘আবদুল্লাহ ইবনু আমর (রাঃ)] বলেনঃ যোহরের শেষ সময় যতক্ষণ পর্যন্ত আসর উপস্থিত না হয়, আর আসরের সময় যতক্ষণ পর্যন্ত সুর্য হলুদ বর্ণ না হয় এবং মাগরিবের শেষ সময় যতক্ষণ পর্যন্ত শাফাক অদৃশ্য না হয়। ইশার শেষ সময় অর্ধ রাত্রের পূর্ব পর্যন্ত এবং ফজরের শেষ সময় সূর্যোদয়ের পূর্ব পর্যন্ত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdullah bin 'Amr - and (one of the narrators) Shu'bah said:"Sometimes he (Qatadah, his teacher) narrated it as a Marfu' report and sometimes he did not" - "The time for Zuhr prayer is until 'Asr comes, and the time for 'Asr prayer is until the sun turns yellow. the time for Maghrib is until the twilight disappears, and the time for 'Isha' is until the night is halfway through, and the time for Subh is until the sun rises
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |
+
+## French
+
+Rapporté par ‘Abdullah bin ‘Amr – et selon Shu’bah, parfois il le rapportait comme un hadith Marfu’ et parfois non – : « Le temps de la prière de Zuhr dure jusqu’à l’arrivée de ‘Asr, et le temps de la prière de ‘Asr dure jusqu’à ce que le soleil jaunisse. Le temps de Maghrib dure jusqu’à la disparition du crépuscule, et le temps de ‘Isha’ dure jusqu’à la moitié de la nuit, et le temps de Subh dure jusqu’au lever du soleil. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Amr bin Ali\] dia berkata; Telah menceritakan kepada kami \[Abu Daud\] Telah menceritakan kepada kami \[Syu'bah\] dari \[Qatadah\] dia berkata; Saya mendengar \[Abu Ayyub Al Azdi\] berkata; dari \[Abdullah bin Amru\] -Syu'bah bertutur; Qatadah kadang menyandarkannya kepada Nabi Shallallahu'alaihi wasallam, dan kadang juga tidak- dia berkata; "Waktu shalat Zhuhur adalah sebelum datangya Ashar. Dan waktu shalat Ashar adalah selama matahari belum menguning, waktu shalat Maghrib adalah selagi mega merah belum hilang, waktu shalat Isya' adalah selama malam belum lewat setengahnya, dan waktu shalat Subuh adalah sebelum matahari terbit
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Amr bin Ali] dia berkata; Telah menceritakan kepada kami [Abu Daud] Telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dia berkata; Saya mendengar [Abu Ayyub Al Azdi] berkata; dari [Abdullah bin Amru] -Syu'bah bertutur; Qatadah kadang menyandarkannya kepada Nabi Shallallahu'alaihi wasallam, dan kadang juga tidak- dia berkata; "Waktu shalat Zhuhur adalah sebelum datangya Ashar. Dan waktu shalat Ashar adalah selama matahari belum menguning, waktu shalat Maghrib adalah selagi mega merah belum hilang, waktu shalat Isya' adalah selama malam belum lewat setengahnya, dan waktu shalat Subuh adalah sebelum matahari terbit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Amr (radıyallahü anh)’dan rivâyete göre, şöyle demiştir: Şu’be; Bu hadisi bazen merfu olarak bazen da merfu olmaksızın rivâyet ederek şöyle derdi: Öğle namazının vakti, ikindi namazı vakti girinceye kadardır. İkindi namazının vakti güneş sararıncaya kadardır. Akşam namazının vakti, ufukta kızıllık geniş yerler kaplayıncaya kadardır. Yatsı namazının vakti ise gece yarısı olmayıncaya kadardır. Sabah namazının vakti ise güneş doğmayıncaya kadardır. (Ebû Dâvûd, Salat: 3; İbn Mâce, İkametü’s Salat:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہم سے روایت ہے (شعبہ کہتے ہیں: قتادہ اسے کبھی مرفوع کرتے تھے اور کبھی مرفوع نہیں کرتے تھے ۱؎) آپ صلی اللہ علیہ وسلم نے فرمایا: ظہر کا وقت اس وقت تک ہے جب تک عصر کا وقت نہ آ جائے، اور عصر کا وقت اس وقت تک ہے جب تک سورج زرد نہ ہو جائے، اور مغرب کا وقت اس وقت تک ہے جب تک شفق کی سرخی چلی نہ جائے، اور عشاء کا وقت آدھی رات تک ہے، اور فجر کا وقت اس وقت تک ہے جب تک سورج نکل نہ جائے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>522</td></tr><tr><td>Arabic No</td><td>522</td></tr><tr><td>Reference</td><td>Book 6 Hadith 29</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 522 |
+| Arabic No | 522 |
+| Reference | Book 6 Hadith 29 |

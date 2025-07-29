@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ الْجَرَّاحِ، حَدَّثَنَا جَرِيرٌ، عَنِ الأَعْمَشِ، عَنْ أَبِي سُفْيَانَ، عَنْ جَابِرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ أَبْلَى بَلاَءً فَذَكَرَهُ فَقَدْ شَكَرَهُ وَإِنْ كَتَمَهُ فَقَدْ كَفَرَهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
+
 حدثنا عبد الله بن الجراح، حدثنا جرير، عن الاعمش، عن ابي سفيان، عن جابر، عن النبي صلى الله عليه وسلم قال " من ابلى بلاء فذكره فقد شكره وان كتمه فقد كفره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
 
 ## Bengali
 
+। জাবির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি অনুদান পেয়ে দানকারীর প্রশংসা করলো সে তার প্রতি কৃতজ্ঞতা প্রকাশ করলো আর যে ব্যক্তি অনুদান গোপন করলো সে তার প্রতি অকৃতজ্ঞতা দেখালো।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি অনুদান পেয়ে দানকারীর প্রশংসা করলো সে তার প্রতি কৃতজ্ঞতা প্রকাশ করলো আর যে ব্যক্তি অনুদান গোপন করলো সে তার প্রতি অকৃতজ্ঞতা দেখালো।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If someone is donated something, and he mentions it, he thanks for it, and if he conceals it, he is ungrateful for it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Le Prophète ﷺ a dit : « Si quelqu’un reçoit un don et qu’il en parle, il remercie pour cela ; s’il le cache, il est ingrat. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah Ibnul Jarrah\] berkata, telah menceritakan kepada kami \[Jarir\] dari \[Al A'masy\] dari \[Abu Sufyan\] dari \[jabir\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Siapa yang diuji dengan suatu ujian lalu ia mengingatnya, berarti ia telah bersyukur. Namun jika ia menyembunyikannya berarti ia mengkufurinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah Ibnul Jarrah] berkata, telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Sufyan] dari [jabir] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Siapa yang diuji dengan suatu ujian lalu ia mengingatnya, berarti ia telah bersyukur. Namun jika ia menyembunyikannya berarti ia mengkufurinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Câbir'den (rivayet edildiğine göre) Nebi (s.a.v.): "Kim'e bir ni'met verilir de o ni'meti dile getirirse, onun şükrünü yerine getirmiş olur. Eğer onu (kimseye söylemeyerek) gizlerse, onu inkâr etmiş olur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جس شخص کو کوئی چیز ملے اور وہ اس کا تذکرہ کرے تو اس نے اس کا شکر ادا کر دیا اور جس نے اسے چھپایا تو اس نے ناشکری کی ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4814</td></tr><tr><td>Arabic No</td><td>4814</td></tr><tr><td>Reference</td><td>Book 43 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4814 |
+| Arabic No | 4814 |
+| Reference | Book 43 Hadith 42 |

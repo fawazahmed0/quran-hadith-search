@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي أَبُو كُرَيْبٍ، مُحَمَّدُ بْنُ الْعَلاَءِ حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ أَبِيهِ، عَنِ ابْنِ أَبِي، نُعْمٍ عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ تَبْتَاعُوا الثِّمَارَ حَتَّى يَبْدُوَ صَلاَحُهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني ابو كريب، محمد بن العلاء حدثنا محمد بن فضيل، عن ابيه، عن ابن ابي، نعم عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " لا تبتاعوا الثمار حتى يبدو صلاحها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ কুরায়ব মুহাম্মাদ ইবনু 'আলা (রহঃ) ...... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ফল খাওয়ার উপযোগী হওয়ার আগে তোমরা ক্রয় করবে না। (ইসলামিক ফাউন্ডেশন ৩৭৩১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:Do not sell the fruits until their good condition becomes evident
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Ne vendez pas les fruits avant que leur bon état ne soit évident. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Abu Kuraib Muhammad bin Al 'Ala'\] telah menceritakan kepada kami \[Muhammad bin Fudlail\] dari \[ayahnya\] dari \[Ibnu Abi Nu'm\] dari \[Abu Hurairah\] dia berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Janganlah kalian membeli buah-buahan hingga nampak matangnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Abu Kuraib Muhammad bin Al 'Ala'] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [ayahnya] dari [Ibnu Abi Nu'm] dari [Abu Hurairah] dia berkata; Rasulullah Shallallu 'alaihi wa sallam bersabda: "Janganlah kalian membeli buah-buahan hingga nampak matangnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Ebû Kureyb Muhammed b. Alâ' rivayet etti. (Dediki): Bize Muhammed b. Fudayl, babasından, o da İbni Ebî Nu'm'dan, o da Ebû Hureyre'den naklen rivayet etti. Ebû Hureyre şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem): «Meyveleri olgunlukları zuhur edinceye kadar satın almayın!» buyurdular. Bu sayfanın devamı ve izah için burayı tıklayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے ، انہوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " ( درختوں پر لگا ہوا ) پھل نہ خریدو یہاں تک کہ اس کی صلاحیت ظاہر ہو جائے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3874</td></tr><tr><td>Arabic No</td><td>1538.01</td></tr><tr><td>Reference</td><td>Book 21 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3874 |
+| Arabic No | 1538.01 |
+| Reference | Book 21 Hadith 73 |

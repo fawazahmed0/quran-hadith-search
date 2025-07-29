@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَصْرَمَ، أَخْبَرَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ سَمَّى النَّبِيُّ صلى الله عليه وسلم الْحَرْبَ خُدْعَةً‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن اصرم، اخبرنا عبد الله، اخبرنا معمر، عن همام بن منبه، عن ابي هريرة رضى الله عنه قال سمى النبي صلى الله عليه وسلم الحرب خدعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুদ্ধকে কৌশল নামে অভিহিত করেছেন। আবূ ‘আবদুল্লাহ্ (রহ.) বলেন, আবূ বাকর হচ্ছেন বূর ইবনু আসরাম। (৩০২৮) (আধুনিক প্রকাশনীঃ ২৮০৪, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:Allah's Messenger (ﷺ) called,: "War is deceit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
+
+## French
+
+Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a déclaré : « La guerre est tromperie. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
 ## Indonesian
 
+Telah bercerita kepada kami \[Abu Bakar Buur bin Ashrom\] telah mengabarkan kepada kami \['Abdullah\] telah mengabarkan kepada kami \[Ma'mar\] dari \[Hammam bin Munabbih\] dari \[Abu Hurairah radliallahu 'anhu\] berkata; Nabi Shallallahu'alaihiwasallam mengistilahkan perang adalah tipu daya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepada kami [Abu Bakar Buur bin Ashrom] telah mengabarkan kepada kami ['Abdullah] telah mengabarkan kepada kami [Ma'mar] dari [Hammam bin Munabbih] dari [Abu Hurairah radliallahu 'anhu] berkata; Nabi Shallallahu'alaihiwasallam mengistilahkan perang adalah tipu daya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ назвал войну обманом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் போரை யிசூழ்ச்சி’ என்று குறிப்பிட்டார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a. şöyle demiştir: "Resulullah Sallallahu Aleyhi ve Sellem savaşı hile ve taktik diye niteledi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابوبکر بن اصرم نے بیان کیا ‘ انہوں نے کہا ہم کو عبداللہ بن مبارک نے خبر دی ‘ انہوں نے کہا ہم کو معمر نے خبر دی ‘ انہیں ہمام بن منبہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”لڑائی کیا ہے؟ ایک چال ہے۔“
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3029</td></tr><tr><td>Arabic No</td><td>3029</td></tr><tr><td>Reference</td><td>Book 56 Hadith 236</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3029 |
+| Arabic No | 3029 |
+| Reference | Book 56 Hadith 236 |

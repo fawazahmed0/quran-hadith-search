@@ -18,78 +18,76 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## French
 
+Rapporté par Sufyān bin Husayn : Iyās bin Mu’āwiyah m’a demandé : « Je vois que tu aimes la connaissance du Coran. Récite-moi donc une sourate et explique-la-moi afin que je puisse réfléchir à ce que tu sais. » J’ai fait ce qu’il a demandé, puis il m’a dit : « Retiens bien ce que je vais te dire : méfie-toi des choses répréhensibles dans les hadiths, car rares sont ceux qui les transmettent sans se rabaisser eux-mêmes, et leurs hadiths sont alors rejetés. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Рассказал нам Мухаммад ибн аль-Мусанна, который сказал: «Я слышал, как ‘Абду-р-Рахман ибн Махди сказал: “Не станет человек имамом, которому будут подражать, до тех пор, пока он не будет воздерживаться от (пересказывания) части того, что услышал”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed b. el-Müsennâ dahi rivâyet etti. ki: Abdurrahman b. Mehdî'yi: adam işittiği şeylerin bazısından dilini tutmadıkça, kendisine uyulacak bir İmâm olamaz» derken işittim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ محمد بن مثنیٰ نے کہا : میں نے عبد الرحمن بن مہدی سے سنا ، کہہ رہے تھے : آدمی اس وقت تک امام نہیں بن سکتا کہ لوگ اس کی اقتداء کریں یہاں تک کہ وہ سنی سنائی بعض باتوں ( کو بیان کرنے ) سے باز آ جائے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>12</td></tr><tr><td>Reference</td><td>Book 0 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 12 |
+| Reference | Book 0 Hadith 12 |

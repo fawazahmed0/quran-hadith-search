@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا سُفْيَانُ، عَنْ حَبِيبٍ، عَنْ عَطَاءٍ، عَنْ عَائ��شَةَ، رضى الله عنها قَالَتْ سُرِقَ لَهَا شَىْءٌ فَجَعَلَتْ تَدْعُو عَلَيْهِ فَقَالَ لَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ تُسَبِّخِي عَنْهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
+
 حدثنا ابن معاذ، حدثنا ابي، حدثنا سفيان، عن حبيب، عن عطاء، عن عاي��شة، رضى الله عنها قالت سرق لها شىء فجعلت تدعو عليه فقال لها رسول الله صلى الله عليه وسلم " لا تسبخي عنه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তার কিছু জিনিস চুরি হওয়ায় তিনি চোরকে লানত দিতে থাকেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তুমি চোরের আযাব কম করো না।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তার কিছু জিনিস চুরি হওয়ায় তিনি চোরকে লানত দিতে থাকেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেনঃ তুমি চোরের আযাব কম করো না।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: Something of her was stolen, and she began to curse him (i.e. the thief). The Messenger of Allah (ﷺ) said to her: Do not lessen his sin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
+
+## French
+
+Rapporté par Aisha (la mère des croyants) رضي الله عنها : Quelque chose lui a été volé et elle a commencé à maudire le voleur. Le Messager d’Allah ﷺ lui dit : « Ne diminue pas son péché. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Mu'adz\] berkata, telah menceritakan kepada kami \[Bapakku\] berkata, telah menceritakan kepada kami \[Sufyan\] dari \[Habib\] dari \[Atha\] dari \['Aisyah radliallahu 'anha\] Bahwasanya ia pernah kecurian sesuatu, lalu ia mendoakan keburukkan bagi si pencuri. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Jangan engkau peringan dosanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Mu'adz] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah menceritakan kepada kami [Sufyan] dari [Habib] dari [Atha] dari ['Aisyah radliallahu 'anha] Bahwasanya ia pernah kecurian sesuatu, lalu ia mendoakan keburukkan bagi si pencuri. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepadanya: "Jangan engkau peringan dosanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anha)'dan (rivayet edildiğine göre bir gün); kendisinin bir şeyi çalınmış da çalan kimseye beddua etmeye başlamış. Bunun üzeri­ne Rasûlullah (s.a.v.): "(Böyle beddua ederek) onun günahını hafifletme" buyurmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ان کی کوئی چیز چوری ہو گئی، تو وہ اس پر بد دعا کرنے لگیں، تو ان سے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اس ( چور ) سے عذاب کو ہلکا نہ کر ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4909</td></tr><tr><td>Arabic No</td><td>4909</td></tr><tr><td>Reference</td><td>Book 43 Hadith 137</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4909 |
+| Arabic No | 4909 |
+| Reference | Book 43 Hadith 137 |

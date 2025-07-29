@@ -18,78 +18,82 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدہ بن سلیمان ، سفیان اور شعبہ نے صالح بن صالح کے واسطے سے سابقہ سند کے ساتھ یہی حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>388</td></tr><tr><td>Arabic No</td><td>154.02</td></tr><tr><td>Reference</td><td>Book 16 Hadith 101</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 388 |
+| Arabic No | 154.02 |
+| Reference | Book 16 Hadith 101 |

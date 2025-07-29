@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ كَانَ جَابِرُ بْنُ عَبْدِ اللَّهِ يُحَدِّثُ أَنَّ يَهُودِيَّةً، مِنْ أَهْلِ خَيْبَرَ سَمَّتْ شَاةً مَصْلِيَّةً ثُمَّ أَهْدَتْهَا لِرَسُولِ اللَّهِ صلى الله عليه وسلم فَأَخَذَ رَسُولُ اللَّهِ صلى الله عليه وسلم الذِّرَاعَ فَأَكَلَ مِنْهَا وَأَكَلَ رَهْطٌ مِنْ أَصْحَابِهِ مَعَهُ ثُمَّ قَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ ارْفَعُوا أَيْدِيَكُمْ ‏"‏ ‏.‏ وَأَرْسَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى الْيَهُودِيَّةِ فَدَعَاهَا فَقَالَ لَهَا ‏"‏ أَسَمَمْتِ هَذِهِ الشَّاةَ ‏"‏ ‏.‏ قَالَتِ الْيَهُودِيَّةُ مَنْ أَخْبَرَكَ قَالَ ‏"‏ أَخْبَرَتْنِي هَذِهِ فِي يَدِي ‏"‏ ‏.‏ لِلذِّرَاعِ ‏.‏ قَالَتْ نَعَمْ ‏.‏ قَالَ ‏"‏ فَمَا أَرَدْتِ إِلَى ذَلِكَ ‏"‏ ‏.‏ قَالَتْ قُلْتُ إِنْ كَانَ نَبِيًّا فَلَنْ يَضُرَّهُ وَإِنْ لَمْ يَكُنِ اسْتَرَحْنَا مِنْهُ ‏.‏ فَعَفَا عَنْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم وَلَمْ يُعَاقِبْهَا وَتُوُفِّيَ بَعْضُ أَصْحَابِهِ الَّذِينَ أَكَلُوا مِنَ الشَّاةِ وَاحْتَجَمَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى كَاهِلِهِ مِنْ أَجْلِ الَّذِي أَكَلَ مِنَ الشَّاةِ حَجَمَهُ أَبُو هِنْدٍ بِالْقَرْنِ وَالشَّفْرَةِ وَهُوَ مَوْلًى لِبَنِي بَيَاضَةَ مِنَ الأَنْصَارِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
+
 حدثنا سليمان بن داود المهري، حدثنا ابن وهب، قال اخبرني يونس، عن ابن شهاب، قال كان جابر بن عبد الله يحدث ان يهودية، من اهل خيبر سمت شاة مصلية ثم اهدتها لرسول الله صلى الله عليه وسلم فاخذ رسول الله صلى الله عليه وسلم الذراع فاكل منها واكل رهط من اصحابه معه ثم قال لهم رسول الله صلى الله عليه وسلم " ارفعوا ايديكم " . وارسل رسول الله صلى الله عليه وسلم الى اليهودية فدعاها فقال لها " اسممت هذه الشاة " . قالت اليهودية من اخبرك قال " اخبرتني هذه في يدي " . للذراع . قالت نعم . قال " فما اردت الى ذلك " . قالت قلت ان كان نبيا فلن يضره وان لم يكن استرحنا منه . فعفا عنها رسول الله صلى الله عليه وسلم ولم يعاقبها وتوفي بعض اصحابه الذين اكلوا من الشاة واحتجم رسول الله صلى الله عليه وسلم على كاهله من اجل الذي اكل من الشاة حجمه ابو هند بالقرن والشفرة وهو مولى لبني بياضة من الانصار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
 
 ## Bengali
 
+। ইবনু শিহাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, জাবির ইবনু আব্দুল্লাহ (রাঃ) এ মর্মে হাদীস বর্ণনা করেছিলেন যে, খায়বারের অধিবাসী এক ইয়াহুদী মহিলা বিষ মিশিয়ে একটি ছাগী ভুনা করে তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে হাদিয়া দেয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি রান নিয়ে খাওয়া আরম্ভ করলেন এবং তাঁর কতিপয় সাহাবীও তার সঙ্গে খেতে লাগলেন। কিছুক্ষণ পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে বললেন, তোমরা হাত গুটিয়ে নাও। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ ইয়াহুদী মহিলাকে লোক মারফত ডেকে এনে বললেন, তুমি কি এ ছাগীর সঙ্গে বিষ মিশিয়েছ? সে বললো, আপনাকে কে সংবাদ দিয়েছে? তিনি বললেন, আমার হাতের এই রান আমাকে খবর দিয়েছে। সে বললো, হ্যাঁ। তিনি বললেন, এরূপ করার উদ্দেশ্য কি? সে বললো, আমি ভেবেছি, যদি তিনি সত্যিই নবী হন তাহলে বিষ তাঁর কোনো ক্ষতি করতে পারবে না। আর যদি নবী না হন তবে আমরা তার থেকে ঝামেলা মুক্ত হবো। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে কোনো প্রকার শাস্তি না দিয়ে ক্ষমা করে দিলেন। যেসব সাহাবী তাঁর সঙ্গে ছাগীর গোশত খেয়েছেন তাদের কেউ কেউ মারা গেলেন এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছাগীর গোশত খাওয়ার প্রতিক্রিয়া পরিহত করার জন্য তাঁর বাহুদ্বয়ের মাঝখানে রক্তমোক্ষণ করালেন। বনী বায়াদার মুক্তদাস আবূ হিন্দ আনসারীর শিং ও বল্লমের ফলা দ্বারা তাঁর রক্তমোক্ষণ করিয়েছিলেন।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু শিহাব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, জাবির ইবনু আব্দুল্লাহ (রাঃ) এ মর্মে হাদীস বর্ণনা করেছিলেন যে, খায়বারের অধিবাসী এক ইয়াহুদী মহিলা বিষ মিশিয়ে একটি ছাগী ভুনা করে তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে হাদিয়া দেয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি রান নিয়ে খাওয়া আরম্ভ করলেন এবং তাঁর কতিপয় সাহাবীও তার সঙ্গে খেতে লাগলেন। কিছুক্ষণ পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে বললেন, তোমরা হাত গুটিয়ে নাও। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঐ ইয়াহুদী মহিলাকে লোক মারফত ডেকে এনে বললেন, তুমি কি এ ছাগীর সঙ্গে বিষ মিশিয়েছ? সে বললো, আপনাকে কে সংবাদ দিয়েছে? তিনি বললেন, আমার হাতের এই রান আমাকে খবর দিয়েছে। সে বললো, হ্যাঁ। তিনি বললেন, এরূপ করার উদ্দেশ্য কি? সে বললো, আমি ভেবেছি, যদি তিনি সত্যিই নবী হন তাহলে বিষ তাঁর কোনো ক্ষতি করতে পারবে না। আর যদি নবী না হন তবে আমরা তার থেকে ঝামেলা মুক্ত হবো। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে কোনো প্রকার শাস্তি না দিয়ে ক্ষমা করে দিলেন। যেসব সাহাবী তাঁর সঙ্গে ছাগীর গোশত খেয়েছেন তাদের কেউ কেউ মারা গেলেন এবং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছাগীর গোশত খাওয়ার প্রতিক্রিয়া পরিহত করার জন্য তাঁর বাহুদ্বয়ের মাঝখানে রক্তমোক্ষণ করালেন। বনী বায়াদার মুক্তদাস আবূ হিন্দ আনসারীর শিং ও বল্লমের ফলা দ্বারা তাঁর রক্তমোক্ষণ করিয়েছিলেন।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn Shihab: Jabir ibn Abdullah used to say that a Jewess from the inhabitants of Khaybar poisoned a roasted sheep and presented it to the Messenger of Allah (ﷺ) who took its foreleg and ate from it. A group of his companions also ate with him. The Messenger of Allah (ﷺ) then said: Take your hands away (from the food). The Messenger of Allah (ﷺ) then sent someone to the Jewess and he called her. He said to her: Have you poisoned this sheep? The Jewess replied: Who has informed you? He said: This foreleg which I have in my hand has informed me. She said: Yes. He said: What did you intend by it? She said: I thought if you were a prophet, it would not harm you; if you were not a prophet, we should rid ourselves of him (i.e. the Prophet). The Messenger of Allah (ﷺ) then forgave her, and did not punish her. But some of his companions who ate it, died. The Messenger of Allah (ﷺ) had himself cupped on his shoulder on account of that which he had eaten from the sheep. AbuHind cupped him with the horn and knife. He was a client of Banu Bayadah from the Ansar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
+
+## French
+
+Rapporté par Ibn Shihab : Jabir ibn Abdullah disait qu’une femme juive des habitants de Khaybar avait empoisonné un mouton rôti et l’avait offert au Messager d’Allah ﷺ, qui en prit la patte de devant et en mangea. Un groupe de ses compagnons mangea aussi avec lui. Le Messager d’Allah ﷺ dit alors : « Retirez vos mains (du plat). » Puis il fit appeler la femme juive et lui demanda : « As-tu empoisonné ce mouton ? » Elle répondit : « Qui t’en a informé ? » Il dit : « C’est cette patte de devant que j’ai dans la main qui m’en a informé. » Elle dit : « Oui. » Il demanda : « Qu’avais-tu l’intention de faire ? » Elle répondit : « Je me suis dit : si tu es un prophète, cela ne te fera pas de mal ; si tu n’es pas un prophète, nous serons débarrassés de toi. » Le Messager d’Allah ﷺ lui pardonna et ne la punit pas. Mais certains de ses compagnons qui en avaient mangé moururent. Le Messager d’Allah ﷺ se fit faire une saignée à l’épaule à cause de ce qu’il avait mangé du mouton. Abu Hind lui fit la saignée avec une corne et un couteau. Il était un client des Banu Bayadah parmi les Ansar
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Dawud Al Mahri\] berkata, telah menceritakan kepada kami \[Ibnu Wahb\] ia berkata; telah mengabarkan kepadaku \[Yunus\] dari \[Ibnu Syihab\] ia berkata, " \[Jabir bin Abdullah\] pernah menceritakan bahwa seorang wanita Yahudi dari penduduk Khaibar menaburi racun pada daging kambing panggang. Kemudian ia menghadiahkan daging itu kepada Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam lantas mengambil lengan kambing tersebut dan memakannya bersama para sahabatnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka semua: "Angkatlah tangan kalian semuanya (jangan dimakan lagi)." Rasulullah shallallahu 'alaihi wasallam kemudian mengirim utusan untuk memanggil wanita Yahudi tersebut. Lalu beliau bertanya kepada wanita itu: "Apakah kamu memberi racun pada daging ini?" wanita Yahudi itu menjawab, "Siapa yang memberimu kabar?" beliau menjawab: "Yang memberiku kabar adalah apa yang ada di tanganku ini." wanita Yahudi itu berkata, "Benar." Beliau bertanya lagi: "Apa yang kamu inginkan?" wanita Yahudi itu menjawab, "Dalam hati aku berkata, 'Jika dia memang seorang Nabi maka dia tidak akan mendapatkan bahaya, tetapi jika bukan seorang Nabi maka kami dapat beristirahat darinya'. Rasulullah shallallahu 'alaihi wasallam lalu memaafkan wanita Yahudi tersebut dan tidak menghukumnya. Para sahabat beliau yang ikut makan daging kambing itu meninggal, sementara Rasulullah shallallahu 'alaihi wasallam membekam pada bagian tengkuknya karena daging yang dimakannya. Lalu beliau dibekam oleh Abu Hind -seorang mantan budak bani Bayadhah dari kaum Anshar- dengan menggunakan tanduk dan pisau tajam." Telah menceritakan kepada kami \[Wahb bin Baqiyyah\] berkata, telah menceritakan kepada kami \[Khalid\] dari \[Muhammad bin Amru\] dari \[Abu Salamah\] bahwa Rasulullah shallallahu 'alaihi wasallam pernah diberi hadiah kambing panggang oleh seorang wanita Yahudi Khaibar, seperti dalam hadits Jabir. Ia (perawi) berkata, "Bisyr bin Al Bara bin Ma'rur Al Anshari meninggal dunia (karena makan daging kambing), maka Rasulullah mengutus seseorang untuk menjemput wanita Yahudi tersebut. Beliau bersabda: "Apa yang mendorongmu untuk melakukan itu?" kemudian disebutkan sebagaimana dalam hadits Jabir. Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan supaya wanita itu dihukum, maka wanita itu pun dibunuh. Namun ia tidak menyebutkan tentang cerita bekam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Dawud Al Mahri] berkata, telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] ia berkata, " [Jabir bin Abdullah] pernah menceritakan bahwa seorang wanita Yahudi dari penduduk Khaibar menaburi racun pada daging kambing panggang. Kemudian ia menghadiahkan daging itu kepada Rasulullah shallallahu 'alaihi wasallam. Rasulullah shallallahu 'alaihi wasallam lantas mengambil lengan kambing tersebut dan memakannya bersama para sahabatnya. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda kepada mereka semua: "Angkatlah tangan kalian semuanya (jangan dimakan lagi)." Rasulullah shallallahu 'alaihi wasallam kemudian mengirim utusan untuk memanggil wanita Yahudi tersebut. Lalu beliau bertanya kepada wanita itu: "Apakah kamu memberi racun pada daging ini?" wanita Yahudi itu menjawab, "Siapa yang memberimu kabar?" beliau menjawab: "Yang memberiku kabar adalah apa yang ada di tanganku ini." wanita Yahudi itu berkata, "Benar." Beliau bertanya lagi: "Apa yang kamu inginkan?" wanita Yahudi itu menjawab, "Dalam hati aku berkata, 'Jika dia memang seorang Nabi maka dia tidak akan mendapatkan bahaya, tetapi jika bukan seorang Nabi maka kami dapat beristirahat darinya'. Rasulullah shallallahu 'alaihi wasallam lalu memaafkan wanita Yahudi tersebut dan tidak menghukumnya. Para sahabat beliau yang ikut makan daging kambing itu meninggal, sementara Rasulullah shallallahu 'alaihi wasallam membekam pada bagian tengkuknya karena daging yang dimakannya. Lalu beliau dibekam oleh Abu Hind -seorang mantan budak bani Bayadhah dari kaum Anshar- dengan menggunakan tanduk dan pisau tajam." Telah menceritakan kepada kami [Wahb bin Baqiyyah] berkata, telah menceritakan kepada kami [Khalid] dari [Muhammad bin Amru] dari [Abu Salamah] bahwa Rasulullah shallallahu 'alaihi wasallam pernah diberi hadiah kambing panggang oleh seorang wanita Yahudi Khaibar, seperti dalam hadits Jabir. Ia (perawi) berkata, "Bisyr bin Al Bara bin Ma'rur Al Anshari meninggal dunia (karena makan daging kambing), maka Rasulullah mengutus seseorang untuk menjemput wanita Yahudi tersebut. Beliau bersabda: "Apa yang mendorongmu untuk melakukan itu?" kemudian disebutkan sebagaimana dalam hadits Jabir. Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan supaya wanita itu dihukum, maka wanita itu pun dibunuh. Namun ia tidak menyebutkan tentang cerita bekam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что одна иудейка из числа жителей Хайбара положила яд в жареную овцу, а потом подарила её Посланнику Аллаха ﷺ. Посланник Аллаха ﷺ взял лопатку и начал есть её. Вместе с ним эту овцу ели несколько его сподвижников. Вдруг Посланник Аллаха ﷺ сказал: «Уберите руки». Посланник Аллаха ﷺ послал позвать ту иудейку и спросил её: «Ты положила яд в эту овцу?» Она сказала: «А кто сообщил тебе об этом?» Он ответил: «То, что в моей руке», имея в виду лопатку этой овцы. Она сказала: «Да, (я положила туда яд)». Он спросил: «Чего ты хотела добиться этим?» Она ответила: «Я подумала: если (Мухаммад) пророк, то это не причинит ему вреда, а если нет, то мы избавимся от него». Посланник Аллаха ﷺ простил её и не стал подвергать её наказанию. Но потом один из его сподвижников, которые ели эту овцу, умер. А Посланник Аллаха ﷺ сделал себе кровопускание между лопаток из-за съеденного им мяса той овцы. Кровопускание ему делал Абу Хинд с помощью лезвия и рога. Он был вольноотпущенником бану баяда из числа ансаров
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir b. Abdillah (r.a.) şöyle anlatırdı: Hayberlilerden Yahudi bir kadın, ateşte kızartılmış bir koyuna zehir koydu. Sonra onu Rasulullah (s.a.v)'e hediye etti. Rasulûlullah (s.a.v) (koyunun) kolunun (ön bacağını) aldı ve ondan yedi. Onunla birlikte ashabından bir gurup da yedi. Sonra Rasûlullah onlara: . "Ellerinizi kaldırın (yemeyi bırakın)" dedi. Yahudi kadın'a haber gönderip çağırdı ve ona: "Bu koyun'a zehir mi koydun?" diye sordu. Kadın: "Sana kim haber verdi?" dedi. Rasûlullah (s.a.v): (elindeki) kolu göstererek: "Şu elimdeki haber verdi" dedi. Kadın: "Evet" Nebi (sallallahu aleyhi ve sellem); "Bununla ne (yapmak) istedin?" Kadın: "Eğer Nebise ona zarar vermez, Nebi değilse ondan kurtuluruz dedim." Nebi (s.a.v) kadını affetti, cezalandırmadı. (Ama) Rasûlullah'ın ashabından, koyundan yiyenlerden birisi öldü. Rasûlullah (s.a.v) yediği etten dolayı kürekleri arasından kan aldırdı. Ondan, Ebû Hind boynuz ve bıçakla kan aldı. Ebû Hind, Ensardan Benû Beyâda'nın azatlısı idi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما بیان کرتے تھے کہ خیبر کی ایک یہودی عورت نے بھنی ہوئی بکری میں زہر ملایا، پھر اسے رسول اللہ صلی اللہ علیہ وسلم کو تحفہ میں بھیجا، آپ نے دست کا گوشت لے کر اس میں سے کچھ کھایا، آپ کے ساتھ صحابہ کی ایک جماعت نے بھی کھایا، پھر ان سے آپ نے فرمایا: اپنے ہاتھ روک لو اور آپ نے اس یہودیہ کو بلا بھیجا، اور اس سے سوال کیا: کیا تم نے اس بکری میں زہر ملایا تھا؟ یہودیہ بولی: آپ کو کس نے بتایا؟ آپ نے فرمایا: دست کے اسی گوشت نے مجھے بتایا جو میرے ہاتھ میں ہے وہ بولی: ہاں ( میں نے ملایا تھا ) ، آپ نے پوچھا: اس سے تیرا کیا ارادہ تھا؟ وہ بولی: میں نے سوچا: اگر نبی ہوں گے تو زہر نقصان نہیں پہنچائے گا، اور اگر نہیں ہوں گے تو ہم کو ان سے نجات مل جائے گی، چنانچہ رسول اللہ صلی اللہ علیہ وسلم نے اسے معاف کر دیا، کوئی سزا نہیں دی، اور آپ کے بعض صحابہ جنہوں نے بکری کا گوشت کھایا تھا انتقال کر گئے، رسول اللہ صلی اللہ علیہ وسلم نے بکری کے گوشت کھانے کی وجہ سے اپنے شانوں کے درمیان پچھنے لگوائے، جسے ابوہند نے آپ کو سینگ اور چھری سے لگایا، ابوہند انصار کے قبیلہ بنی بیاضہ کے غلام تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4510</td></tr><tr><td>Arabic No</td><td>4510</td></tr><tr><td>Reference</td><td>Book 41 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4510 |
+| Arabic No | 4510 |
+| Reference | Book 41 Hadith 17 |

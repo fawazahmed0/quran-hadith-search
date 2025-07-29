@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا الْوَلِيدُ، قَالَ قَالَ أَبُو عَمْرٍو يَعْنِي الأَوْزَاعِيَّ وَذَلِكَ أَنْ تَرَى، مَا عَلَى الأَرْضِ مِنَ الشَّمْسِ صَفْرَاءَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
+
 حدثنا محمود بن خالد، حدثنا الوليد، قال قال ابو عمرو يعني الاوزاعي وذلك ان ترى، ما على الارض من الشمس صفراء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
 
 ## Bengali
 
+। আবূ ‘আমর আল-আওযাঈ (রহঃ) বলেন, ‘আসরের সালাতে বিলম্ব করার অর্থ হচ্ছে, সূর্যের হলুদ রং জমিনে প্রতিভাত হতে দেখা (পর্যন্ত বিলম্ব করা)।\[1\] দুর্বল মাক্বতূ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ ‘আমর আল-আওযাঈ (রহঃ) বলেন, ‘আসরের সালাতে বিলম্ব করার অর্থ হচ্ছে, সূর্যের হলুদ রং জমিনে প্রতিভাত হতে দেখা (পর্যন্ত বিলম্ব করা)।[1] দুর্বল মাক্বতূ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Awza'i said:Delaying the 'Asr prayer means that the sunshine becomes yellow on the earth
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
+
+## French
+
+Rapporté par Al-Awza‘i : « Retarder la prière du ‘Asr signifie que la lumière du soleil devient jaune sur la terre. »
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что аль-Валид (ибн Муслим Абу-ль-‘Аббас ад-Димашкъи) сказал: «Абу ‘Амр, то есть аль-Ауза‘и, сказал: “А это, когда видишь то, что на земле под пожелтевшим солнцем”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Amr -yani Evzai-: "Bu senin güneşi yer yüzünde sarı olarak görmendir" demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوعمرو یعنی اوزاعی کا بیان ہے کہ عصر فوت ہونے کا مطلب یہ ہے کہ زمین پر جو دھوپ ہے وہ تمہیں زرد نظر آنے لگے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>415</td></tr><tr><td>Arabic No</td><td>415</td></tr><tr><td>Reference</td><td>Book 2 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Maqtu | Al-Albani |
+| Daif Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 415 |
+| Arabic No | 415 |
+| Reference | Book 2 Hadith 25 |

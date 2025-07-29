@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، عَنْ يَحْيَى، عَنْ سُفْيَانَ، قَالَ حَدَّثَنِي سَلَمَةُ بْنُ كُهَيْلٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَجُلاً، أَتَى النَّبِيَّ صلى الله عليه وسلم يَتَقَاضَاهُ بَعِيرًا، فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَعْطُوهُ ‏"‏‏.‏ فَقَالُوا مَا نَجِدُ إِلاَّ سِنًّا أَفْضَلَ مِنْ سِنِّهِ‏.‏ فَقَالَ الرَّجُلُ أَوْفَيْتَنِي أَوْفَاكَ اللَّهُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَعْطُوهُ فَإِنَّ مِنْ خِيَارِ النَّاسِ أَحْسَنَهُمْ قَضَاءً ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسدد، عن يحيى، عن سفيان، قال حدثني سلمة بن كهيل، عن ابي سلمة، عن ابي هريرة رضى الله عنه ان رجلا، اتى النبي صلى الله عليه وسلم يتقاضاه بعيرا، فقال رسول الله صلى الله عليه وسلم " اعطوه ". فقالوا ما نجد الا سنا افضل من سنه. فقال الرجل اوفيتني اوفاك الله. فقال رسول الله صلى الله عليه وسلم " اعطوه فان من خيار الناس احسنهم قضاء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, একজন লোক নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট তার (প্রাপ্য) উটের তাগাদা দিতে আসে। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাহাবীদের বললেন, তাকে একটি উট দিয়ে দাও। তাঁরা বললেন, তার চেয়ে উত্তম বয়সের উটই পাচ্ছি। লোকটি বলল, আপনি আমাকে পূর্ণ হক দিয়েছেন, আল্লাহ আপনাকে যেন পূর্ণ হক দেন। আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, তাকে সেটি দিয়ে দাও। কেননা, মানুষের মধ্যে সেই উত্তম, যে উত্তমরূপে ঋণ পরিশোধ করে। (২৩০৫) (আধুনিক প্রকাশনীঃ ২২১৭, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:A man came to the Prophet (ﷺ) and demanded a camel (the Prophet (ﷺ) owed him). Allah's Messenger (ﷺ) told his companions to give him (a camel). They said, "We do not find except an older camel (than what he demands). (The Prophet (ﷺ) ordered them to give him that camel). The man said, "You have paid me in full and may Allah also pay you in full." Allah's Messenger (ﷺ) said, "Give him, for the best amongst the people is he who repays his debts in the most handsome manner
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
+
+## French
+
+Rapporté par Abu Huraira : Un homme est venu voir le Prophète (ﷺ) pour réclamer un chameau que le Prophète (ﷺ) lui devait. Le Messager d’Allah (ﷺ) a demandé à ses compagnons de lui donner un chameau. Ils ont dit : « Nous ne trouvons qu’un chameau plus âgé que celui qu’il demande. » (Le Prophète (ﷺ) leur a ordonné de lui donner ce chameau.) L’homme a dit : « Tu m’as bien remboursé, et qu’Allah te récompense pleinement. » Le Messager d’Allah (ﷺ) a dit : « Donnez-lui, car le meilleur des gens est celui qui rembourse ses dettes de la plus belle façon. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] dari \[Yahya\] dari \[Sufyan\] berkata, telah menceritakan kepadaku \[Salamah bin Kuhail\] dari \[Abu Salamah\] dari \[Abu Hurairah radliallahu 'anhu\] bahwa ada seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam untuk menagih unta yang dijanjikan kepadanya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikanlah". Mereka berkata: "Kami tidak mendapatkannya kecuali yang umurnya lebih tua". Orang itu berkata: "Berikanlah kepadaku nanti Allah akan membalasnya". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikanlah kepadanya, karena yang terbaik diantara manusia adalah mereka yang paling baik menunaikan janji
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Sufyan] berkata, telah menceritakan kepadaku [Salamah bin Kuhail] dari [Abu Salamah] dari [Abu Hurairah radliallahu 'anhu] bahwa ada seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam untuk menagih unta yang dijanjikan kepadanya. Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikanlah". Mereka berkata: "Kami tidak mendapatkannya kecuali yang umurnya lebih tua". Orang itu berkata: "Berikanlah kepadaku nanti Allah akan membalasnya". Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Berikanlah kepadanya, karena yang terbaik diantara manusia adalah mereka yang paling baik menunaikan janji
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается от Абу Хурайры, да будет доволен им Аллах, что (как-то раз) один человек пришёл к Пророку ﷺ требовать у него верблюда (определённого возраста), которого он ему задолжал. Посланник Аллаха ﷺ сказал: «Отдайте ему (верблюда)!» (Люди) сказали: «У нас есть только верблюд старше его верблюда». Тот человек сказал: «Ты отдал мне мое право полностью. Да воздаст тебе Аллах сполна!» Посланник Аллаха ﷺ сказал: «Отдайте ему (этого верблюда), ибо, поистине, лучшими из людей являются те, кто лучше всех отдаёт (должное другим)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: ஒரு மனிதர் தம்மிடம் நபி (ஸல்) அவர்கள் கடனாகப் பெற்றிருந்த ஒட்டகத்தைத் திருப்பிச் செலுத்தும்படி கேட்க வந்தார். அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தம் தோழர்களை நோக்கி), ‘‘அவருக்குக் கொடுத்துவிடுங்கள்” என்று கூறினார்கள். அதற்குத் தோழர்கள், ‘‘அவருக்கு நீங்கள் தர வேண்டிய ஒட்டகத்தின் வயதைவிட அதிக வயதுடைய ஒட்டகம்தான் எங்களிடம் உள்ளது” என்று கூறினர். இதைக் கேட்ட அம்மனிதர், ‘‘(என் உரிமையை) நிறைவாக எனக்கு நீங்கள் அளித்தீர்கள் என்றால், அல்லாஹ் உங்களுக்கும் நிறைவாக அளிப்பான்” என்று கூறினார். உடனே அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், ‘‘அவருக்கு (வயது அதிகமான) அந்த ஒட்டகத்தையே கொடுத்துவிடுங்கள். ஏனெனில், எவர் (தாம் வாங்கிய கடனை) அழகிய முறையில் திருப்பிச் செலுத்து கிறாரோ, அவரே மக்களில் சிறந்தவர் ஆவார்” என்று கூறினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a. şöyle anlatır: Bir adam gelerek Hz. Nebi'den olan deve alacağını talep etti. ResuluIlah Sallallahu Aleyhi ve Sellem, "Onun alacağını verin" buyurdu. Sahabiler, "Ancak daha büyük yaşta bir deve bulabildik" dediler. Adam, "Sen bana alacağım ı fazlasıyla ver, Allah da sana fazlasıyla versin" dedi. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem, "Onu bu adama verin. Çünkü insanların en hayırlı olanlarından biri de (borcunu) en güzel şekildeödeyenlerdir" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسدد نے بیان کیا، ان سے یحییٰ قطان نے، ان سے سفیان ثوری نے کہ مجھ سے سلمہ بن کہیل نے بیان کیا، ان سے ابوسلمہ نے اور ان سے ابوہریرہ رضی اللہ عنہ نے کہ ایک شخص نبی کریم صلی اللہ علیہ وسلم سے اپنا قرض کا اونٹ مانگنے آیا۔ تو آپ صلی اللہ علیہ وسلم نے صحابہ سے فرمایا کہ اسے اس کا اونٹ دے دو۔ صحابہ نے عرض کیا کہ قرض خواہ کے اونٹ سے اچھی عمر کا ہی اونٹ مل رہا ہے۔ اس پر اس شخص ( قرض خواہ ) نے کہا مجھے تم نے میرا پورا حق دیا۔ تمہیں اللہ تمہارا حق پورا پورا دے! رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ اسے وہی اونٹ دے دو کیونکہ بہترین شخص وہ ہے جو سب سے زیادہ بہتر طریقہ پر اپنا قرض ادا کرتا ہو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2392</td></tr><tr><td>Arabic No</td><td>2392</td></tr><tr><td>Reference</td><td>Book 43 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2392 |
+| Arabic No | 2392 |
+| Reference | Book 43 Hadith 8 |

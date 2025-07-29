@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ لَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ لَعِبَتِ الْحَبَشَةُ لِقُدُومِهِ فَرَحًا بِذَلِكَ لَعِبُوا بِحِرَابِهِمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
+
 حدثنا الحسن بن علي، حدثنا عبد الرزاق، اخبرنا معمر، عن ثابت، عن انس، قال لما قدم رسول الله صلى الله عليه وسلم المدينة لعبت الحبشة لقدومه فرحا بذلك لعبوا بحرابهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মদীনায় আসলেন তখন আবিসিনিয়রা তাঁর আগমন উল্লাসে বল্লম খেলা প্রদর্শন করেছে।\[1\] সনদ সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মদীনায় আসলেন তখন আবিসিনিয়রা তাঁর আগমন উল্লাসে বল্লম খেলা প্রদর্শন করেছে।[1] সনদ সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas ibn Malik: When the Messenger of Allah (ﷺ) came to Medina, the Abyssinians played for his coming out of joy; they played with spears
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
+
+## French
+
+Rapporté par Anas ibn Malik رضي الله عنه : Quand le Messager d’Allah ﷺ est arrivé à Médine, les Abyssiniens ont joué de la lance pour fêter sa venue, par joie
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al hasan bin Ali\] berkata, telah menceritakan kepada kami \[Abdurrazaq\] berkata, telah mengabarkan kepada kami \[Ma'mar\] dari \[Tsabit\] dari \[Anas\] ia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, orang-orang habsyah bermain-main karena gembira dengan kedatangan beliau. Mereka bermain-main dengan alat perang mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al hasan bin Ali] berkata, telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Tsabit] dari [Anas] ia berkata, "Ketika Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, orang-orang habsyah bermain-main karena gembira dengan kedatangan beliau. Mereka bermain-main dengan alat perang mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Enes'den demiştir ki: "Rasûlullah (s.a.v.) Medine'ye gelince, Habeşliler (Hz. Nebi'in bu) gelişine sevinerek nıızraklarıyla oynadılar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ جب رسول اللہ صلی اللہ علیہ وسلم مدینے آئے تو حبشی آپ کی آمد پر خوش ہو کر خوب کھیلے اور اپنی برچھیاں لے کر کھیلے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4923</td></tr><tr><td>Arabic No</td><td>4923</td></tr><tr><td>Reference</td><td>Book 43 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4923 |
+| Arabic No | 4923 |
+| Reference | Book 43 Hadith 151 |

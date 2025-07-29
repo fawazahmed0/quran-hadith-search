@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ بْنِ سَعْدٍ، عَنِ ابْنِ إِسْحَاقَ، عَنْ يَحْيَى بْنِ عَبَّادٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَفْرِقُ خَلْفَ يَافُوخِ رَسُولِ اللَّهِ ـ صلى الله عليه وسلم ـ ثُمَّ أَسْدِلُ نَاصِيَتَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |
+
 حدثنا ابو بكر بن ابي شيبة، حدثنا اسحاق بن منصور، عن ابراهيم بن سعد، عن ابن اسحاق، عن يحيى بن عباد، عن ابيه، عن عايشة، قالت كنت افرق خلف يافوخ رسول الله صلى الله عليه وسلم ثم اسدل ناصيته
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর পিছন দিকের চুলে সিঁথি কেটে দিতাম, পরে আমি তাঁর মাথার সামনের চুল স্ব-অবস্থায় পিছনের দিকে ছেড়ে দিতাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that ‘Aishah said:“I used to part the hair of the Messenger of Allah (ﷺ) behind his crown, and let his forelock hang down.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |
+
+## French
+
+Rapporté par ‘Aishah : Je faisais une raie dans les cheveux du Messager d’Allah (ﷺ) à l’arrière de sa tête, et je laissais sa mèche retomber
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] telah menceritakan kepada kami \[Ishaq bin Manshur\] dari \[Ibrahim bin Sa'd\] dari \[Ibnu Ishaq\] dari \[Yahya bin 'Abbad\] dari \[ayahnya\] dari \[Aisyah\] dia berkata, "Aku membelah (rambut) di belakang ubun-ubun Rasulullah shallallahu 'alaihi wasallam, kemudian aku menguraikannya hingga ke dahi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Ishaq bin Manshur] dari [Ibrahim bin Sa'd] dari [Ibnu Ishaq] dari [Yahya bin 'Abbad] dari [ayahnya] dari [Aisyah] dia berkata, "Aku membelah (rambut) di belakang ubun-ubun Rasulullah shallallahu 'alaihi wasallam, kemudian aku menguraikannya hingga ke dahi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan; şöyle demiştir: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'in (saçını taradığımda) başının ortasından itibaren saçını ikiye bölerek sağ ve sol taraf'a salıverir, sonra perçemini alnının üstüne bırakırdım
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے سر پر چندیا کے پچھلے حصے میں مانگ نکالتی تھی اور سامنے کے بال پیشانی پر لٹکتے چھوڑ دیتی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3633</td></tr><tr><td>Arabic No</td><td>3633</td></tr><tr><td>Reference</td><td>Book 32 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Hasan | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3633 |
+| Arabic No | 3633 |
+| Reference | Book 32 Hadith 84 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، عَنْ يَحْيَى، بِإِسْنَادِهِ مِثْلَهُ ‏.‏ قَالَ أَبُو دَاوُدَ قَالَ حَمَّادُ بْنُ زَيْدٍ عَنْ يَحْيَى، أَيْضًا مِنَ السُّنَّةِ كَمَا قَالَ جَرِيرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا جرير، عن يحيى، باسناده مثله . قال ابو داود قال حماد بن زيد عن يحيى، ايضا من السنة كما قال جرير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইয়াহইয়া (রহঃ) হতে এই সানাদে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত আছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (There is another chain) from Yahya with his chain and similar (to the previous hadith). Abu Dawud said:Hammad bin Zaid also said (the wording): "From the Sunnah" (narrating) from Yahya just as Jarir did
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
+
+## French
+
+Rapporté par Yahya avec sa chaîne, et c’est similaire au hadith précédent. Abu Dawud a dit : Hammad ibn Zaid a aussi dit (dans ses termes) : « Parmi les pratiques de la prière », rapportant de Yahya comme l’a fait Jarir
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Яхья передаёт такой же хадис. Абу Дауд сказал: «в версии Хаммада ибн Зейда от Яхьи также говорится: “К сунне относится…”, как и в версии Джарира»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cerîr; Yahya'dan aynı isnâdla yukarıdaki (959.) hadisin benzerini rivayet etmiştir. Ebû Dâvûddedi ki: Hammâd b. Zeyd, Yahya'dan aynen Cerîr'in dediği gibi; "...Sünnettendir" diye rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس طریق سے بھی یحییٰ سے اسی سند سے اسی کے مثل مروی ہے ابوداؤد کہتے ہیں: حماد بن زید نے یحییٰ سے «من السنة» کا لفظ روایت کیا ہے جیسے جریر نے کہا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>960</td></tr><tr><td>Arabic No</td><td>960</td></tr><tr><td>Reference</td><td>Book 2 Hadith 571</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 960 |
+| Arabic No | 960 |
+| Reference | Book 2 Hadith 571 |

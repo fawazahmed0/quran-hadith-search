@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُلَيْمَانَ التَّيْمِيِّ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنِ ابْنِ عُمَرَ، قَالَ الْمُسْكِرُ قَلِيلُهُ وَكَثِيرُهُ حَرَامٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>5698</td></tr><tr><td>Reference</td><td>Book 51 Hadith 160</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن سليمان التيمي، عن محمد بن سيرين، عن ابن عمر، قال المسكر قليله وكثيره حرام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>5698</td></tr><tr><td>Reference</td><td>Book 51 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, প্রত্যেক নেশাযুক্ত দ্রব্য, অল্প হোক বা অধিক, হারাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>5698</td></tr><tr><td>Reference</td><td>Book 51 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'Umar said:"Intoxicants are unlawful in small or large amounts
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>5698</td></tr><tr><td>Reference</td><td>Book 51 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |
+
+## French
+
+Rapporté par Ibn 'Umar : « Les produits enivrants sont interdits, qu'ils soient en petite ou en grande quantité. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>5698</td></tr><tr><td>Reference</td><td>Book 51 Hadith 160</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>5698</td></tr><tr><td>Reference</td><td>Book 51 Hadith 160</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5698</td></tr><tr><td>Arabic No</td><td>5698</td></tr><tr><td>Reference</td><td>Book 51 Hadith 160</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5698 |
+| Arabic No | 5698 |
+| Reference | Book 51 Hadith 160 |

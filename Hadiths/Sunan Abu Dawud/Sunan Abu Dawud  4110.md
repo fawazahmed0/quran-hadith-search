@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا عُمَرُ، عَنِ الأَوْزَاعِيِّ، فِي هَذِهِ الْقِصَّةِ فَقِيلَ يَا رَسُولَ اللَّهِ إِنَّهُ إِذًا يَمُوتُ مِنَ الْجُوعِ فَأَذِنَ لَهُ أَنْ يَدْخُلَ فِي كُلِّ جُمُعَةٍ مَرَّتَيْنِ فَيَسْأَلَ ثُمَّ يَرْجِعَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
+
 حدثنا محمود بن خالد، حدثنا عمر، عن الاوزاعي، في هذه القصة فقيل يا رسول الله انه اذا يموت من الجوع فاذن له ان يدخل في كل جمعة مرتين فيسال ثم يرجع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
 
 ## Bengali
 
+। আল-আওযাঈ সূত্রে এ ঘটনা বর্ণিত। বলা হলো, হে আল্লাহর রাসূল! তাহলে সে তো না খেয়ে মারা যাবে। কাজেই তিনি প্রতি সপ্তাহে দু’ বার শহরে আসার জন্য তাকে অনুমতি দিলেন, অতঃপর সে খাবার সংগ্রহ করে চলে যাবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-আওযাঈ সূত্রে এ ঘটনা বর্ণিত। বলা হলো, হে আল্লাহর রাসূল! তাহলে সে তো না খেয়ে মারা যাবে। কাজেই তিনি প্রতি সপ্তাহে দু’ বার শহরে আসার জন্য তাকে অনুমতি দিলেন, অতঃপর সে খাবার সংগ্রহ করে চলে যাবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by al-Auza'i through a different chain of narrators. This version adds:He was told: Messenger of Allah, in that case he will of starvation. So he allowed him to visit (the cit) twice a week so that he might ask for food and go back
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par al-Awza’i par une autre chaîne de transmetteurs. Cette version ajoute : On lui a dit : « Messager d’Allah, dans ce cas il mourra de faim. » Alors il lui a permis de venir en ville deux fois par semaine pour demander de la nourriture et repartir
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Аль-Авза‘и, передавая эту историю, передаёт также, что кто-то сказал: «О Посланник Аллаха! Но тогда он (не будет приходить и просить у людей еду) и умрёт с голоду!» После этого Посланник Аллаха ﷺ разрешил ему приходить два раза в неделю, после чего он возвращался
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 el-Evzaî'den rivayet olunduğuna göre; şu (4307 numaralı hadiste anlatılan) olayda (şu hâdise de varmış): (Hz. Nebi'e); "Ey Allah'ın Rasûlü, (eğer sen onu Medine'den sürgün edersen) o zaman o açlıktan ölür" denmiş. Bunun üzerine Hz. Peygamber ona her hafta Medine'ye iki defa girip dilenmesine, sonra (yine Medine'den) çıkmasına izin vermiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اوزاعی سے اس واقعہ کے سلسلہ میں مروی ہے کہ نبی اکرم صلی اللہ علیہ وسلم سے عرض کیا گیا: اللہ کے رسول! تب تو وہ بھوک سے مر جائے گا تو آپ نے اسے ہفتہ میں دو بار آنے کی اجازت دے دی، وہ آتا اور کھانا مانگ کر لے جاتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4110</td></tr><tr><td>Arabic No</td><td>4110</td></tr><tr><td>Reference</td><td>Book 34 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4110 |
+| Arabic No | 4110 |
+| Reference | Book 34 Hadith 91 |

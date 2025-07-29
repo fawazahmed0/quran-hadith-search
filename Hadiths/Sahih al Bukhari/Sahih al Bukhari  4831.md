@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ حَمْزَةَ، حَدَّثَنَا حَاتِمٌ، عَنْ مُعَاوِيَةَ، قَالَ حَدَّثَنِي عَمِّي أَبُو الْحُبَابِ، سَعِيدُ بْنُ يَسَارٍ عَنْ أَبِي هُرَيْرَةَ، بِهَذَا، ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم اقْرَءُوا إِنْ شِئْتُمْ ‏(‏فَهَلْ عَسَيْتُمْ‏)‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابراهيم بن حمزة، حدثنا حاتم، عن معاوية، قال حدثني عمي ابو الحباب، سعيد بن يسار عن ابي هريرة، بهذا، ثم قال رسول الله صلى الله عليه وسلم اقرءوا ان شيتم (فهل عسيتم)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
 ## Bengali
 
+আবূ হুরাইরাহ (রাঃ) থেকে এরকমই বর্ণনা করেছেন। (এরপর তিনি বলেন) রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, ইচ্ছে হলে তোমরা পড় (ক্ষমতায় অধিষ্ঠিত হলে সম্ভবত তোমরা পৃথিবীতে ফাসাদ সৃষ্টি করবে এবং আত্মীয়তার বাঁধন ছিন্ন করবে।) \[৪৮৩০\] (আধুনিক প্রকাশনীঃ ৪৪৬৬, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ হুরাইরাহ (রাঃ) থেকে এরকমই বর্ণনা করেছেন। (এরপর তিনি বলেন) রাসূলুল্লাহ্ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম বলেছেন, ইচ্ছে হলে তোমরা পড় (ক্ষমতায় অধিষ্ঠিত হলে সম্ভবত তোমরা পৃথিবীতে ফাসাদ সৃষ্টি করবে এবং আত্মীয়তার বাঁধন ছিন্ন করবে।) [৪৮৩০] (আধুনিক প্রকাশনীঃ ৪৪৬৬, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:(As above, No. 354, but added) Then Allah's Messenger (ﷺ) said, "Recite if you wish: "Would you then
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
+
+## French
+
+Rapporté par Abu Huraira : (Comme ci-dessus, n°354, mais il a ajouté) Ensuite, le Messager d’Allah (ﷺ) a dit : « Récitez si vous voulez : “Si vous aviez le pouvoir...” »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «После того как Аллах создал (всё) сотворённое, (со своего места) поднялись (родственные связи и взялись за пояс Милостивого), Который спросил: “В чём дело?” Они сказали: “Это — место того, кто прибегает к Твоей защите от разрыва”. (Тогда Аллах) спросил: “Удовольствуетесь ли вы тем, что Я награжу того, кто станет вас поддерживать, и порву с тем, кто станет порывать вас?” Они ответили: “Да, о Господь мой!” — (и Аллах) сказал: “Да будет так!”» (Передав это,) Абу Хурайра сказал: «Прочтите, если желаете(, айат, в котором сказано): “И может ли случиться так, что если власть будет принадлежать вам, то станете вы распространять нечестие по земле и порывать родственные связи?”» В другой версии (этого хадиса, также передаваемой со слов Абу Хурайры), да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ сказал: «Прочтите, если желаете, (аят, в котором сказано): “И может ли случиться так…”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 சயீத் பின் யசார் (ரஹ்) அவர்கள் கூறியதாவது: மேற்கண்ட இந்த ஹதீஸை அபூஹுரைரா (ரலி) அவர்கள் அறிவித்து விட்டுப் பிறகு, ‘‘நீங்கள் விரும்பினால், ‘(நயவஞ்சகர்களே!) நீங்கள் (போருக்கு வராமல்) பின்வாங்கிக்கொண்டு பூமியில் குழப்பம் விளைவிக்கவும், உங்கள் உறவுகளைத் துண்டிக்கவும் முனைகிறீர்களா?’ எனும் (47:22ஆவது) இறைவசனத்தை ஓதிக்கொள்ளுங்கள் என்று அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்” என்று சொன்னார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre'den aynı şekilde rivayet edilmiştir. .. Rivayetin sonunda o şöyle demiştir: Allah Resulü Sallallahu Aleyhi ve Sellem "Dilerseniz 'Geri dönerseniz, yeryüzünde bozgunculuk yapmaya ve akrabalık bağlarını kesmeye dönmüş olmaz mısınız?' ayetini okuyun," buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابراہیم بن حمزہ نے بیان کیا، کہا کہ ہم کو حاتم نے بیان کیا، ان سے معاویہ نے بیان کیا، ان سے ان کے چچا ابوالحباب سعید بن یسار نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے سابقہ حدیث کی طرح۔ پھر ( ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ ) رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ اگر تمہارا جی چاہے تو آیت «فهل عسيتم» اگر تم کنارہ کش رہو پڑھ لو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4831</td></tr><tr><td>Arabic No</td><td>4831</td></tr><tr><td>Reference</td><td>Book 65 Hadith 352</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4831 |
+| Arabic No | 4831 |
+| Reference | Book 65 Hadith 352 |

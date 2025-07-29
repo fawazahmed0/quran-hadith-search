@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ الْفَضْلِ، حَدَّثَنَا وُهَيْبٌ، - يَعْنِي ابْنَ عَمْرٍو النَّمَرِيَّ - أَخْبَرَنَا هَارُونُ، أَخْبَرَنِي أَبَانُ بْنُ تَغْلِبَ، عَنْ عَطِيَّةَ الْعَوْفِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏"‏ إِنَّ الرَّجُلَ مِنْ أَهْلِ عِلِّيِّينَ لَيُشْرِفُ عَلَى أَهْلِ الْجَنَّةِ فَتُضِيءُ الْجَنَّةُ لِوَجْهِهِ كَأَنَّهَا كَوْكَبٌ دُرِّيٌّ ‏"‏ ‏.‏ قَالَ وَهَكَذَا جَاءَ الْحَدِيثُ ‏"‏ دُرِّيٌّ ‏"‏ ‏.‏ مَرْفُوعَةُ الدَّالِ لاَ تُهْمَزُ ‏"‏ وَإِنَّ أَبَا بَكْرٍ وَعُمَرَ لَمِنْهُمْ وَأَنْعَمَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
+
 حدثنا يحيى بن الفضل، حدثنا وهيب، - يعني ابن عمرو النمري - اخبرنا هارون، اخبرني ابان بن تغلب، عن عطية العوفي، عن ابي سعيد الخدري، ان النبي صلى الله عليه وسلم قال " ان الرجل من اهل عليين ليشرف على اهل الجنة فتضيء الجنة لوجهه كانها كوكب دري " . قال وهكذا جاء الحديث " دري " . مرفوعة الدال لا تهمز " وان ابا بكر وعمر لمنهم وانعما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘ইল্লীনের অধিবাসী এক ব্যক্তি জান্নাতবাসীদের দিকে তাকাবে। ফলে জান্নাত তার দৃষ্টির কারণে মোতির মতো উজ্জ্বল হয়ে যাবে।’’ বর্ণনাকারী বলেন, হাদীসে এভাবেই এসেছে। এখানেدُرِّيٌّ শব্দটির দালের উপর পেশ হবে যের বা যবর হবে না। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আবূ বাকর এবং উমার তাদের দলভুক্ত হবেন। বরং তারা ঐ মতির চাইতে উত্তম।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘ইল্লীনের অধিবাসী এক ব্যক্তি জান্নাতবাসীদের দিকে তাকাবে। ফলে জান্নাত তার দৃষ্টির কারণে মোতির মতো উজ্জ্বল হয়ে যাবে।’’ বর্ণনাকারী বলেন, হাদীসে এভাবেই এসেছে। এখানেدُرِّيٌّ শব্দটির দালের উপর পেশ হবে যের বা যবর হবে না। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আবূ বাকর এবং উমার তাদের দলভুক্ত হবেন। বরং তারা ঐ মতির চাইতে উত্তম।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: A man from the Illiyyun will look downwards at the people of Paradise and Paradise will be glittering as if it were a brilliant star. He (the narrator) said: In this way the word durri (brilliant) occurs in this tradition, i.e. the letter dal (d) has short vowel u and it has no hamzah ('). AbuBakr and Umar will be of them and will have some additional blessings
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri : Le Prophète ﷺ a dit : Un homme parmi les Illiyyun regardera vers les gens du Paradis et le Paradis brillera comme une étoile éclatante. Le narrateur a précisé : Le mot « durri » (éclatante) est utilisé dans ce récit, c’est-à-dire que la lettre dal (d) porte une voyelle brève u et il n’y a pas de hamzah. Abu Bakr et Omar feront partie d’eux et auront des faveurs supplémentaires
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Пророк ﷺ сказал: «Поистине, когда человек из числа обитателей Иллийюна (подразумеваются высоты Рая) смотрит на остальных обитателей Рая, от света его лика весь Рай озаряется как подобное жемчугу (читается «дуррий») небесное светило, и, поистине, Абу Бакр и ‘Умар принадлежат к их числу и им уготовано благо (или: и они ещё лучше, чем просто обитатели Иллийюна)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Said el-Hudri'den rivayet olunduğuna göre; Nebi (s.a.v) şöyle buyurmuştur: "(Cennette) cennetin en yüksek yerlerinin halkından olan bir kimse (kendi makamının aşağısında bulunan) cennet (ehlin)e bakar da (aşağıda bulunan) cennet (ehlinin yüzü onun) yüzünün parlaklığı ile aydınlanır. (Çünkü o makamda bulunan cennet ehlinin) yüzleri inci parlaklığında bir yıldız gibidir." (Musannif Ebu Davud rivayetine devam ederek şöyle) dedi: Bu hadis (bana) böyle (dürriyyûn" (şeklinde ki kiraatla, yani) hemzesiz ve ötreli dal harfiyle geldi. (Ebû Davud rivayetine şöyle devam etti): "Ebû Bekir ile Ömer de onlardandır. (Şu farkla ki Ebu Bekir ile Ömer), fazilet ve (büyük nimetlere erişme cihetiyle onlardan) daha da üstündürler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: علیین والوں میں سے ایک شخص جنتیوں کو جھانکے گا تو جنت اس کے چہرے کی وجہ سے چمک اٹھے گی گویا وہ موتی سا جھلملاتا ہوا ستارہ ہے ۔ راوی کہتے ہیں: اسی طرح «دري» دال کے پیش اور یا کی تشدید کے ساتھ حدیث وارد ہے دال کے زیر اور ہمزہ کے ساتھ نہیں اور آپ نے فرمایا ابوبکرو عمر رضی اللہ عنہما بھی انہیں میں سے ہیں بلکہ وہ دونوں ان سے بھی بہتر ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3987</td></tr><tr><td>Arabic No</td><td>3987</td></tr><tr><td>Reference</td><td>Book 32 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3987 |
+| Arabic No | 3987 |
+| Reference | Book 32 Hadith 19 |

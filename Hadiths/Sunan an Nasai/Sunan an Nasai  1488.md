@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ مُعَاذِ بْنِ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنْ أَبِي قِلاَبَةَ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا خَسَفَتِ الشَّمْسُ وَالْقَمَرُ فَصَلُّوا كَأَحْدَثِ صَلاَةٍ صَلَّيْتُمُوهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |
+
 اخبرنا محمد بن المثنى، عن معاذ بن هشام، قال حدثني ابي، عن قتادة، عن ابي قلابة، عن النعمان بن بشير، ان النبي صلى الله عليه وسلم قال " اذا خسفت الشمس والقمر فصلوا كاحدث صلاة صليتموها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু মুসান্না (রহঃ) ... নু'মান ইবনু বশীর (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যখন সূর্য এবং চন্দ্রের গ্রহণ লেগে যায়, তখন তোমরা সম্প্রতি সালাত আদায়কৃত সালাতের ন্যায় সালাত আদায় কর।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from An-Nu'man bin Bashir that :The Prophet (ﷺ) said: "If there is an eclipse of the sun or the moon, pray like the last obligatory prayer you did before that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |
+
+## French
+
+Rapporté par An-Nu'man bin Bashir : Le Prophète (ﷺ) a dit : "S’il y a une éclipse du soleil ou de la lune, priez comme la dernière prière obligatoire que vous avez faite avant cela
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al Mutsanna\] dari \[Mu'adz bin Hisyam\] dia berkata; \[Bapakku\] telah menceritakan kepadaku dari \[Qatadah\] dari \[Abu Qilabah\] dari \[An Nu'man bin Basyir\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila matahari dan bulan mengalami gerhana maka shalatlah kalian sebagaimana shalat wajib yang kalian lakukan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dari [Mu'adz bin Hisyam] dia berkata; [Bapakku] telah menceritakan kepadaku dari [Qatadah] dari [Abu Qilabah] dari [An Nu'man bin Basyir] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Apabila matahari dan bulan mengalami gerhana maka shalatlah kalian sebagaimana shalat wajib yang kalian lakukan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نعمان بن بشیر رضی اللہ عنہم سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب سورج اور چاند کو گرہن لگے تو نماز پڑھو، اس تازہ نماز کی طرح جو تم نے ( گرہن لگنے سے پہلے ) پڑھی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1488</td></tr><tr><td>Arabic No</td><td>1488</td></tr><tr><td>Reference</td><td>Book 16 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1488 |
+| Arabic No | 1488 |
+| Reference | Book 16 Hadith 30 |

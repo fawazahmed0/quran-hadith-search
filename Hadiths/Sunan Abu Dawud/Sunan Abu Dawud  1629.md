@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا مِسْكِينٌ، حَدَّثَنَا مُحَمَّدُ بْنُ الْمُهَاجِرِ، عَنْ رَبِيعَةَ بْنِ يَزِيدَ، عَنْ أَبِي كَبْشَةَ السَّلُولِيِّ، حَدَّثَنَا سَهْلُ ابْنُ الْحَنْظَلِيَّةِ، قَالَ قَدِمَ عَلَى رَسُولِ اللَّهِ عُيَيْنَةُ بْنُ حِصْنٍ وَالأَقْرَعُ بْنُ حَابِسٍ فَسَأَلاَهُ فَأَمَرَ لَهُمَا بِمَا سَأَلاَ وَأَمَرَ مُعَاوِيَةَ فَكَتَبَ لَهُمَا بِمَا سَأَلاَ فَأَمَّا الأَقْرَعُ فَأَخَذَ كِتَابَهُ فَلَفَّهُ فِي عِمَامَتِهِ وَانْطَلَقَ وَأَمَّا عُيَيْنَةُ فَأَخَذَ كِتَابَهُ وَأَتَى النَّبِيَّ صلى الله عليه وسلم مَكَانَهُ فَقَالَ يَا مُحَمَّدُ أَتَرَانِي حَامِلاً إِلَى قَوْمِي كِتَابًا لاَ أَدْرِي مَا فِيهِ كَصَحِيفَةِ الْمُتَلَمِّسِ ‏.‏ فَأَخْبَرَ مُعَاوِيَةُ بِقَوْلِهِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ مَنْ سَأَلَ وَعِنْدَهُ مَا يُغْنِيهِ فَإِنَّمَا يَسْتَكْثِرُ مِنَ النَّارِ ‏"‏ ‏.‏ وَقَالَ النُّفَيْلِيُّ فِي مَوْضِعٍ آخَرَ ‏"‏ مِنْ جَمْرِ جَهَنَّمَ ‏"‏ ‏.‏ فَقَالُوا يَا رَسُولَ اللَّهِ وَمَا يُغْنِيهِ وَقَالَ النُّفَيْلِيُّ فِي مَوْضِعٍ آخَرَ وَمَا الْغِنَى الَّذِي لاَ تَنْبَغِي مَعَهُ الْمَسْأَلَةُ قَالَ ‏"‏ قَدْرُ مَا يُغَدِّيهِ وَيُعَشِّيهِ ‏"‏ ‏.‏ وَقَالَ النُّفَيْلِيُّ فِي مَوْضِعٍ آخَرَ ‏"‏ أَنْ يَكُونَ لَهُ شِبَعُ يَوْمٍ وَلَيْلَةٍ أَوْ لَيْلَةٍ وَيَوْمٍ ‏"‏ ‏.‏ وَكَانَ حَدَّثَنَا بِهِ مُخْتَصِرًا عَلَى هَذِهِ الأَلْفَاظِ الَّتِي ذُكِرَتْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
+
 حدثنا عبد الله بن محمد النفيلي، حدثنا مسكين، حدثنا محمد بن المهاجر، عن ربيعة بن يزيد، عن ابي كبشة السلولي، حدثنا سهل ابن الحنظلية، قال قدم على رسول الله عيينة بن حصن والاقرع بن حابس فسالاه فامر لهما بما سالا وامر معاوية فكتب لهما بما سالا فاما الاقرع فاخذ كتابه فلفه في عمامته وانطلق واما عيينة فاخذ كتابه واتى النبي صلى الله عليه وسلم مكانه فقال يا محمد اتراني حاملا الى قومي كتابا لا ادري ما فيه كصحيفة المتلمس . فاخبر معاوية بقوله رسول الله صلى الله عليه وسلم فقال رسول الله صلى الله عليه وسلم " من سال وعنده ما يغنيه فانما يستكثر من النار " . وقال النفيلي في موضع اخر " من جمر جهنم " . فقالوا يا رسول الله وما يغنيه وقال النفيلي في موضع اخر وما الغنى الذي لا تنبغي معه المسالة قال " قدر ما يغديه ويعشيه " . وقال النفيلي في موضع اخر " ان يكون له شبع يوم وليلة او ليلة ويوم " . وكان حدثنا به مختصرا على هذه الالفاظ التي ذكرت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
 
 ## Bengali
 
+। সাহল ইবনুল হানযালিয়্যাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা ‘উয়াইনাহ ইবনু হিসন ও আকরা‘ ইবনু হাবিস (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে কিছু চাইলে তিনি তাদেরকে তা দেয়ার নির্দেশ দিয়ে তা লিখার জন্য মু‘আবিয়াহ (রাঃ)-কে আদেশ করেন। অতঃপর আকরা‘ নিদের্শনামা নিয়ে তা ভাঁজ করে নিজের পাগড়ীর ভেতর ঢুকিয়ে চলে গেলেন। কিন্তু ‘উয়াইনাহ তার পত্রখানা নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাড়িতে এসে বললেন, হে মুহাম্মাদ! আপনি কি চান যে, আমি ‘মুতালাম্মিসের’ মতো এমন একটি পত্র নিয়ে আমার সম্প্রদায়ের নিকট যাই যে, আমি নিজেও পত্রের বিষয় সম্পর্কে অজ্ঞ? মু‘আবিয়াহ (রাঃ) তার বক্তব্য রাসূলুল্লাহকে সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানালেন। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যে ব্যক্তি ভিক্ষা করে, অথচ তার নিকট এ পরিমাণ সম্পদ আছে যা তাকে ভিক্ষা হতে বিরত রাখতে পারে তার এ কাজ কেবল আগুনই বৃদ্ধি করে। বর্ণনাকারী আন-নুফাইলীর অন্য বর্ণনায় রয়েছেঃ সে জাহান্নামের জ্বলন্ত আগুনের কয়লাই বৃদ্ধি করলো। লোকেরা জিজ্ঞেস করলো, হে আল্লাহর রসূল! কি পরিমাণ সম্পদ ভিক্ষা হতে বিরত রাখতে পারে? নুফাইলী অন্যত্র বর্ণনা করেন, কি পরিমাণ সম্পদ থাকলে ভিক্ষা করা অনুচিত? তিনি বলেছেনঃ সকাল ও বিকাল খাওয়ার জন্য যথেষ্ট হয় এ পরিমণ সম্পদ থাকা। নুফাইলী অন্যত্র বর্ণনা করেন, একদিন ও একরাত অথবা বলেছেন, একরাত ও একদিন তৃপ্তি সহকারে খেতে যথেষ্ট হয় এ পরিমাণ সম্পদ।\[1\] ইমাম আবূ দাঊদ (রহঃ) বলেন, আমি এখানে যে শব্দগুলোর দিয়ে হাদীস বর্ণনা করেছি নুফাইলী আমাদেরকে তা সংক্ষেপে বর্ণনা করেছেন। সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাহল ইবনুল হানযালিয়্যাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা ‘উয়াইনাহ ইবনু হিসন ও আকরা‘ ইবনু হাবিস (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে কিছু চাইলে তিনি তাদেরকে তা দেয়ার নির্দেশ দিয়ে তা লিখার জন্য মু‘আবিয়াহ (রাঃ)-কে আদেশ করেন। অতঃপর আকরা‘ নিদের্শনামা নিয়ে তা ভাঁজ করে নিজের পাগড়ীর ভেতর ঢুকিয়ে চলে গেলেন। কিন্তু ‘উয়াইনাহ তার পত্রখানা নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর বাড়িতে এসে বললেন, হে মুহাম্মাদ! আপনি কি চান যে, আমি ‘মুতালাম্মিসের’ মতো এমন একটি পত্র নিয়ে আমার সম্প্রদায়ের নিকট যাই যে, আমি নিজেও পত্রের বিষয় সম্পর্কে অজ্ঞ? মু‘আবিয়াহ (রাঃ) তার বক্তব্য রাসূলুল্লাহকে সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানালেন। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যে ব্যক্তি ভিক্ষা করে, অথচ তার নিকট এ পরিমাণ সম্পদ আছে যা তাকে ভিক্ষা হতে বিরত রাখতে পারে তার এ কাজ কেবল আগুনই বৃদ্ধি করে। বর্ণনাকারী আন-নুফাইলীর অন্য বর্ণনায় রয়েছেঃ সে জাহান্নামের জ্বলন্ত আগুনের কয়লাই বৃদ্ধি করলো। লোকেরা জিজ্ঞেস করলো, হে আল্লাহর রসূল! কি পরিমাণ সম্পদ ভিক্ষা হতে বিরত রাখতে পারে? নুফাইলী অন্যত্র বর্ণনা করেন, কি পরিমাণ সম্পদ থাকলে ভিক্ষা করা অনুচিত? তিনি বলেছেনঃ সকাল ও বিকাল খাওয়ার জন্য যথেষ্ট হয় এ পরিমণ সম্পদ থাকা। নুফাইলী অন্যত্র বর্ণনা করেন, একদিন ও একরাত অথবা বলেছেন, একরাত ও একদিন তৃপ্তি সহকারে খেতে যথেষ্ট হয় এ পরিমাণ সম্পদ।[1] ইমাম আবূ দাঊদ (রহঃ) বলেন, আমি এখানে যে শব্দগুলোর দিয়ে হাদীস বর্ণনা করেছি নুফাইলী আমাদেরকে তা সংক্ষেপে বর্ণনা করেছেন। সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sahl ibn Hanzaliyyah: Uyaynah ibn Hisn and Aqra' ibn Habis came to the Messenger of Allah (ﷺ). They begged from him. He commanded to give them what they begged. He ordered Mu'awiyah to write a document to give what they begged. Aqra' took his document, wrapped it in his turban, and went away. As for Uyaynah, he took his document and came to the Prophet (ﷺ) at his home, and said to him: Muhammad, do you see me? I am taking a document to my people, but I do not know what it contains, just like the document of al-Mutalammis. Mu'awiyah informed the Messenger of Allah (ﷺ) of his statement. Thereupon the Messenger of Allah (ﷺ) said: He who begs (from people) when he has sufficient is simply asking for a large amount of Hell-fire. (An-Nufayl (a transmitter) said elsewhere: "embers of Hell".) They asked: Messenger of Allah, what is a sufficiency? (Elsewhere an-Nufayl said: What is a sufficiency which makes begging unfitting?) He replied: It is that which would provide a morning and an evening meal. (Elsewhere an-Nufayl said: It is when one has enough for a day and night, or for a night and a day.) He (an-Nufayl) narrated to us this tradition briefly in the words that I have mentioned
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
+
+## French
+
+Rapporté par Sahl ibn Hanzaliyyah رضي الله عنه : Uyaynah ibn Hisn et Aqra' ibn Habis sont venus voir le Messager d’Allah ﷺ et lui ont demandé l’aumône. Il a ordonné qu’on leur donne ce qu’ils demandaient et a demandé à Mu’awiyah de rédiger un document pour cela. Aqra’ a pris son document, l’a enroulé dans son turban et est parti. Quant à Uyaynah, il a pris son document et est revenu voir le Prophète ﷺ chez lui, en disant : « Muhammad, vois-tu, je prends un document pour mon peuple, mais je ne sais pas ce qu’il contient, comme le document d’al-Mutalammis. » Mu’awiyah a informé le Messager d’Allah ﷺ de ses propos. Le Messager d’Allah ﷺ a alors dit : « Celui qui mendie alors qu’il a de quoi vivre demande en réalité une grande part du Feu de l’Enfer. » (An-Nufayl, un transmetteur, a dit ailleurs : “des braises de l’Enfer”.) Ils demandèrent : « Qu’est-ce qu’avoir de quoi vivre, Messager d’Allah ? » (Ailleurs, an-Nufayl a dit : “Qu’est-ce qui rend la mendicité injustifiée ?”) Il répondit : « C’est avoir de quoi manger le matin et le soir. » (Ailleurs, an-Nufayl a dit : “C’est quand on a assez pour une journée et une nuit, ou pour une nuit et un jour.”) Il (an-Nufayl) nous a rapporté ce récit de façon résumée avec les mots que j’ai mentionnés
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abdullah bin Muhammad An Nufaili\], telah menceritakan kepada Kami \[Miskin\], telah menceritakan kepada Kami \[Muhammad bin Al Muhajir\], dari \[Rabi'ah bin Yazid\] dari \[Abu Kabsyah As Saluli\], telah menceritakan kepada Kami \[Sahl bin Al Hanzhalah\], ia berkata; 'Uyainah bin Hishn dan Al Aqra' bin Habis datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan meminta kepada beliau. Kemudian beliau memerintahkan agar keduanya diberi apa yang mereka minta dan memerintahkan kepada Mu'awiyah agar menuliskan untuk mereka apa yang mereka minta. Adapun Al Aqra' maka ia mengambil catatannya dan melipatnya pada surbannya dan pergi, adapun 'Uyainah maka ia mengambil catatannya dan datang kepada Nabi shallallahu 'alaihi wasallam di tempatnya, dan berkata; wahai Rasulullah, apakah anda berpendapat saya akan membawa sebuah catatan kepada kaumku yang tidak saya ketahui apa isinya, seperti selembar kertas Al Mutalammis? Kemudian Mu'awiyah memberitahukan perkataannya tersebut kepada Rasulullah shallAllahu wa'alaihi wa sallam, kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang meminta-minta sementara ia memiliki sesuatu yang mencukupinya maka sesungguhnya ia memperbanyak api Neraka." An Nufaili pada tempat yang lain berkata; bara Neraka Jahannam. Kemudian mereka berkata; wahai Rasulullah, apa yang mencukupinya? -An Nufaili berkata pada tempat yang lain; apakah kecukupan yang tidak layak karenanya untuk meminta-minta? - Beliau bersabda: "Seukuran sesuatu yang dapat memberinya makan siang dan malam." An Nufaili berkata pada tempat yang lain; ia kenyang satu hari semalam, atau semalam dan sehari. Ia menceritakan kepada Kami secara ringkas sesuai dengan lafazh yang telah Kami sebutkan ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abdullah bin Muhammad An Nufaili], telah menceritakan kepada Kami [Miskin], telah menceritakan kepada Kami [Muhammad bin Al Muhajir], dari [Rabi'ah bin Yazid] dari [Abu Kabsyah As Saluli], telah menceritakan kepada Kami [Sahl bin Al Hanzhalah], ia berkata; 'Uyainah bin Hishn dan Al Aqra' bin Habis datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan meminta kepada beliau. Kemudian beliau memerintahkan agar keduanya diberi apa yang mereka minta dan memerintahkan kepada Mu'awiyah agar menuliskan untuk mereka apa yang mereka minta. Adapun Al Aqra' maka ia mengambil catatannya dan melipatnya pada surbannya dan pergi, adapun 'Uyainah maka ia mengambil catatannya dan datang kepada Nabi shallallahu 'alaihi wasallam di tempatnya, dan berkata; wahai Rasulullah, apakah anda berpendapat saya akan membawa sebuah catatan kepada kaumku yang tidak saya ketahui apa isinya, seperti selembar kertas Al Mutalammis? Kemudian Mu'awiyah memberitahukan perkataannya tersebut kepada Rasulullah shallAllahu wa'alaihi wa sallam, kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Barang siapa yang meminta-minta sementara ia memiliki sesuatu yang mencukupinya maka sesungguhnya ia memperbanyak api Neraka." An Nufaili pada tempat yang lain berkata; bara Neraka Jahannam. Kemudian mereka berkata; wahai Rasulullah, apa yang mencukupinya? -An Nufaili berkata pada tempat yang lain; apakah kecukupan yang tidak layak karenanya untuk meminta-minta? - Beliau bersabda: "Seukuran sesuatu yang dapat memberinya makan siang dan malam." An Nufaili berkata pada tempat yang lain; ia kenyang satu hari semalam, atau semalam dan sehari. Ia menceritakan kepada Kami secara ringkas sesuai dengan lafazh yang telah Kami sebutkan ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается, что Сахль ибн аль-Ханзалийя, да будет доволен им Аллах, рассказывал: «Однажды при жизни Посланника Аллаха ﷺ к нему приехали ‘Уяйна ибн Хисн и аль-Акра‘ ибн Хабис. Они обратились к нему с просьбами, и он велел дать им то, о чём они просят. Он велел Му‘авии записать для них то, о чём они просят. Аль-Акра‘ взял свиток, свернул его, положил в чалму и отправился в путь. А ‘Уяйна пришёл к Пророку ﷺ и сказал: “О Мухаммад! Неужели я должен нести своему народу свиток, о котором сам я не знаю, что в нём написано, словно это грамота Муталяммиса?!” Му‘авия передал его слова Посланнику Аллаха ﷺ и Посланник Аллаха ﷺ сказал: “Кто просит, имея достаточно, тот просит добавить ему Огня (или: углей Геенны)!” Люди спросили: “О Посланник Аллаха! А чего ему достаточно: (или: а что значит иметь достаточно)?” Он ответил: “Это значит иметь обед и ужин (или: иметь столько, чтобы быть сытым в течение дня и ночи или ночи и дня)”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl b. el-Hanzeliyye'den; demiştir ki: Uyeyne b. Hısn ile el-Akra b. Habis Resûlullah (s.a.v.)'e geldiler ve ondan (bir şeyler) istediler. Bunun üzerine Resûlullah (s.a.v.) onlara istedikleri şeylerin verilmesini emretti. Muâviye'ye (onlara istedikleri şeylerin verilmesi için oturdukları yerlerin zekât memurlarına yazmasını) emretti. O da onlara istedikleri şeyleri yazdı. Akra mektubunu aldı, sarığının içine sardı ve gitti. Uyeyne ise, mektubunu aldı, Resûlullah (s.a.v.)'in yanına geldi ve (kendi kendine) dedi ki: "Ya Muhammed ! Benim, Mütelemmis'in sayfası (mektubu) gibi içinde ne olduğunu bilmediğim bir mektubu, kavmime götüreceğimi mi zannediyorsun?" Bunun üzerine Muaviye, onun bu sözünü Resûlullah (s.a.v.)'e haber verdi, Resûlullah (s.a.v.): "Kimin yanında kendisine yetecek malı olduğu halde dilenirse, kendisini ateşe götürecek şeyi çoğaltmış olur" buyurdu. Nüfeylî bir diğer rivayette ("ateş" sözü yerine) "cehennemin kor ateşi", dedi, Ordakiler: Ya Resûlullah! Kişiye yetecek malın miktarı nedir? dediler. -Nufeylî bir diğer rivayette, bunun yerine "varlığıyla beraber dilenmek uygun olmayan zenginliğin miktarı nedir? dedi. "Ona öğle ve akşam yemeğinde yetecek miktardır" buyurdu. Nufeylî bir diğer rivayette bunun yerine, "Onu bir gün bir gece veya bir gece bir gün doyuracak yiyeceğinin olmasıdır" dedi ve bize bunu zikredilen bu sözlerle kısa olarak rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوکبشہ سلولی کہتے ہیں ہم سے سہل بن حنظلیہ نے بیان کیا، وہ کہتے ہیں کہ کہ رسول اللہ صلی اللہ علیہ وسلم کے پاس عیینہ بن حصن اور اقرع بن حابس آئے، انہوں نے آپ سے مانگا، آپ نے انہیں ان کی مانگی ہوئی چیز دینے کا حکم دیا اور معاویہ رضی اللہ عنہ کو حکم دیا کہ وہ ان دونوں کے لیے خط لکھ دیں جو انہوں نے مانگا ہے، اقرع نے یہ خط لے کر اسے اپنے عمامے میں لپیٹ لیا اور چلے گئے لیکن عیینہ خط لے کر نبی اکرم صلی اللہ علیہ وسلم کے پاس آئے اور کہنے لگے: محمد! کیا آپ چاہتے ہیں کہ اپنی قوم کے پاس ایسا خط لے کر جاؤں جو متلمس ۱؎ کے صحیفہ کی طرح ہو، جس کا مضمون مجھے معلوم نہ ہو؟ معاویہ نے ان کی یہ بات رسول اللہ صلی اللہ علیہ وسلم سے بیان کی، رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو سوال کرے اس حال میں کہ اس کے پاس ایسی چیز ہو جو اسے سوال سے بے نیاز کر دیتی ہو تو وہ جہنم کی آگ زیادہ کرنا چاہ رہا ہے ۔ ( ایک دوسرے مقام پر نفیلی نے جہنم کی آگ کے بجائے جہنم کا انگارہ کہا ہے ) ۔ لوگوں نے عرض کیا: اللہ کے رسول! کس قدر مال آدمی کو غنی کر دیتا ہے؟ ( نفیلی نے ایک دوسرے مقام پر کہا: غنی کیا ہے، جس کے ہوتے ہوئے سوال نہیں کرنا چاہیئے؟ ) آپ صلی اللہ علیہ وسلم نے فرمایا: اتنی مقدار جسے وہ صبح و شام کھا سکے ۔ ایک دوسری جگہ میں نفیلی نے کہا: اس کے پاس ایک دن اور ایک رات یا ایک رات اور ایک دن کا کھانا ہو، نفیلی نے اسے مختصراً ہم سے انہیں الفاظ کے ساتھ بیان کیا جنہیں میں نے ذکر کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1629</td></tr><tr><td>Arabic No</td><td>1629</td></tr><tr><td>Reference</td><td>Book 9 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1629 |
+| Arabic No | 1629 |
+| Reference | Book 9 Hadith 74 |

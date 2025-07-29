@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا تَمِيمُ بْنُ الْمُنْتَصِرِ، أَخْبَرَنَا إِسْحَاقُ، - يَعْنِي ابْنَ يُوسُفَ - عَنْ شَرِيكٍ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، قَالَ كُنَّا لاَ نَدْرِي مَا نَقُولُ إِذَا جَلَسْنَا فِي الصَّلاَةِ وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَدْ عَلِمَ فَذَكَرَ نَحْوَهُ ‏.‏ قَالَ شَرِيكٌ وَحَدَّثَنَا جَامِعٌ، - يَعْنِي ابْنَ شَدَّادٍ - عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، بِمِثْلِهِ قَالَ وَكَانَ يُعَلِّمُنَا كَلِمَاتٍ وَلَمْ يَكُنْ يُعَلِّمُنَاهُنَّ كَمَا يُعَلِّمُنَا التَّشَهُّدَ ‏ "‏ اللَّهُمَّ أَلِّفْ بَيْنَ قُلُوبِنَا وَأَصْلِحْ ذَاتَ بَيْنِنَا وَاهْدِنَا سُبُلَ السَّلاَمِ وَنَجِّنَا مِنَ الظُّلُمَاتِ إِلَى النُّورِ وَجَنِّبْنَا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَبَارِكْ لَنَا فِي أَسْمَاعِنَا وَأَبْصَارِنَا وَقُلُوبِنَا وَأَزْوَاجِنَا وَذُرِّيَّاتِنَا وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ وَاجْعَلْنَا شَاكِرِينَ لِنِعْمَتِكَ مُثْنِينَ بِهَا قَابِلِيهَا وَأَتِمَّهَا عَلَيْنَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
+
 حدثنا تميم بن المنتصر، اخبرنا اسحاق، - يعني ابن يوسف - عن شريك، عن ابي اسحاق، عن ابي الاحوص، عن عبد الله، قال كنا لا ندري ما نقول اذا جلسنا في الصلاة وكان رسول الله صلى الله عليه وسلم قد علم فذكر نحوه . قال شريك وحدثنا جامع، - يعني ابن شداد - عن ابي وايل، عن عبد الله، بمثله قال وكان يعلمنا كلمات ولم يكن يعلمناهن كما يعلمنا التشهد " اللهم الف بين قلوبنا واصلح ذات بيننا واهدنا سبل السلام ونجنا من الظلمات الى النور وجنبنا الفواحش ما ظهر منها وما بطن وبارك لنا في اسماعنا وابصارنا وقلوبنا وازواجنا وذرياتنا وتب علينا انك انت التواب الرحيم واجعلنا شاكرين لنعمتك مثنين بها قابليها واتمها علينا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
 
 ## Bengali
 
+। ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সালাতে তাশাহহুদের বৈঠকে আমরা কি পাঠ করবো প্রথমে তা জানতাম না। এ সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানতেন। এরপর তিনি পূর্বানুরূপ হাদীস বর্ণনা করেন। সহীহ। শারীক (রহঃ) জামি‘ ইবনু শাদ্দাদের মাধ্যমে এবং আবূ ওয়াইল ও ‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) হতেও অনুরূপ হাদীস বর্ণিত আছে। তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে কিছু কথা শিখিয়ে দিলেন, তবে তাশাহহুদ শিক্ষার মত করে নয়। তা হলোঃ ‘‘আল্লাহুম্মা বাইনা কুলূবিনা ওয়া আসলিহ্ যাতা বাইনিনা ওয়াহদিনা সুবুলাস্-সালামী ওয়া নাজ্জিনা মিনায্ যুলুমাতি ইলান্নূর। ওয়া জাননিবনাল ফাওয়াহিশা মা যাহারা মিনহা মা বাতানা ওয়া বারিক লানা ফী আসমাইনা ওয়া আবসারিনা ও ক্বালূবিনা ওয়া আযওয়াজিনা ওয়া যুররিয়্যাতিনা ওয়া তুব ‘আলাইনা ইন্নাকা আন্‌তাত্ তাওওয়াবুর রহীম। ওয়াজ্‘আলনা শাকিরীনা লিনি‘মাতিকা মুসনীনা বিহা ক্বাবিলীহা ওয়া আতিম্মাহা ‘আলাইনা’’।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সালাতে তাশাহহুদের বৈঠকে আমরা কি পাঠ করবো প্রথমে তা জানতাম না। এ সম্পর্কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানতেন। এরপর তিনি পূর্বানুরূপ হাদীস বর্ণনা করেন। সহীহ। শারীক (রহঃ) জামি‘ ইবনু শাদ্দাদের মাধ্যমে এবং আবূ ওয়াইল ও ‘আবদুল্লাহ ইবনু মাস‘উদ (রাঃ) হতেও অনুরূপ হাদীস বর্ণিত আছে। তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে কিছু কথা শিখিয়ে দিলেন, তবে তাশাহহুদ শিক্ষার মত করে নয়। তা হলোঃ ‘‘আল্লাহুম্মা বাইনা কুলূবিনা ওয়া আসলিহ্ যাতা বাইনিনা ওয়াহদিনা সুবুলাস্-সালামী ওয়া নাজ্জিনা মিনায্ যুলুমাতি ইলান্নূর। ওয়া জাননিবনাল ফাওয়াহিশা মা যাহারা মিনহা মা বাতানা ওয়া বারিক লানা ফী আসমাইনা ওয়া আবসারিনা ও ক্বালূবিনা ওয়া আযওয়াজিনা ওয়া যুররিয়্যাতিনা ওয়া তুব ‘আলাইনা ইন্নাকা আন্‌তাত্ তাওওয়াবুর রহীম। ওয়াজ্‘আলনা শাকিরীনা লিনি‘মাতিকা মুসনীনা বিহা ক্বাবিলীহা ওয়া আতিম্মাহা ‘আলাইনা’’।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Mas'ud: We did not know what we should say when we sat during prayer. The Messenger of Allah (ﷺ) was taught (by Allah). He then narrated the tradition to the same effect. Sharik reported from Jami', from AbuWa'il on the authority of Abdullah ibn Mas'ud something similar. He said: He used to teach us also some other words, but he did not teach them as he taught us the tashahhud: O Allah, join our hearts, mend our social relationship, guide us to the path of peace, bring us from darkness to light, save us from obscenities, outward or inward, and bless our ears, our eyes, our hearts, our wives, our children, and relent toward us; Thou art the Relenting, the Merciful. And make us grateful for Thy blessing and make us praise it while accepting it and give it to us in full
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
+
+## French
+
+Rapporté par Abdullah ibn Mas’ud : Nous ne savions pas quoi dire lorsque nous nous asseyions pendant la prière. Le Messager d’Allah ﷺ a été instruit (par Allah). Il a ensuite rapporté la tradition dans le même sens. Sharik a rapporté de Jami’, d’Abu Wa’il, d’après Abdullah ibn Mas’ud, quelque chose de similaire. Il a dit : Il nous enseignait aussi d’autres paroles, mais il ne nous les enseignait pas comme il nous enseignait le tashahhud : « Ô Allah, unis nos cœurs, répare nos liens, guide-nous vers le chemin de la paix, fais-nous sortir des ténèbres vers la lumière, protège-nous des turpitudes, apparentes ou cachées, et bénis nos oreilles, nos yeux, nos cœurs, nos épouses, nos enfants, et accorde-nous Ton pardon ; Tu es Celui qui accepte le repentir, le Miséricordieux. Et rends-nous reconnaissants pour Tes bienfaits, fais-nous les louer en les acceptant et accorde-les-nous pleinement. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah mengabarkan kepada kami \[Yahya\] dari \[Sulaiman Al A'masy\] telah menceritakan kepadaku \[Syaqiq bin Salamah\] dari \[Abdullah bin Mas'ud\] dia berkata; "Apabila kami selesai duduk-duduk bersama bersama Rasulullah shallallahu 'alaihi wasallam dalam shalat, maka kami ucapkan; "As Salaamu 'alallah qabla 'ibaadihis salaam'ala fulaanin wa fulaan (selamat sejahtera bagi Allah sebelum hamba-bamba-Nya, selamat sejahtera bagi fulan dan fulan)." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mengatakan "As Salaamu 'alaallah, karena Allah adalah dzat sumber keselamatan, akan tetapi jika salah seorang dari kalian duduk hendaklah mengucapkan; 'At Tahiyyati lillah was shalawaatu wat thayyibaat, as salaamu 'alaika ayyuhan nabiiyyu warahmatullahi wa barakaatuh as salaamu 'alaina wa 'alaa ibaadillahis shalihin (Segala kesejahteraan milik Allah semata, begitupun segala kasih-sayang dan hal-hal yang baik, selamat sejahtera kiranya terlimpah kepadamu wahai Nabi, begitupun rahmat Allah serta berkah-berkah-nya. Selamat sejahtera terlimpah pula atas kami dan atas hamba-hamba Allah yang Shalih) " apabila kalian mengucapkan seperti ini, maka kalian dapat mencapai semua hamba yang Shalih baik yang di langit maupun yang di bumi, -atau sabdanya- di antara langit dan bumi. ' "Asyhadu allaa ilaaha illallah wa asyhadu ann namuhammadan 'abduhu wa rasuuluh (Aku bersaksi bahwa tidak ada ilah selaian Allah, dan aku bersaksi bahwa Muhammad itu adalah hamba dan utusan-Nya) ", kemudian hendaklah salah seorang dari kalian memilih do'a yang menarik hatinya dan berdo'a dengan do'a itu." Telah menceritakan kepada kami \[Tamim bin Al Muntashir\] telah mengabarkan kepada kami \[Ishaq yaitu Ibnu Yusuf\] dari \[Syarik\] dari \[Abu Ishaq\] dari \[Abu Al Ahwash\] dari \[Abdullah\] dia berkata; "Kami tidak tahu, apa yang harus kami baca ketika duduk dalam shalat, sedangkan Rasulullah shallallahu 'alaihi wasallam telah di ajari (oleh Allah) …" kemudian dia menyebutkan hadits yang semisal itu." \[Syarik\] mengatakan; dan telah menceritakan kepada kami \[Jami' yaitu ibnu Abu Syaddad\] dari \[Abu Wa'il\] dari \[Abdullah\] seperti itu, katanya; "Dan beliau telah mengajari kami beberapa kalimat, dan tidak mengajari kami kalimat-kalimat di atas sebagaimana beliau mengajari kami tasyahud, (sabdanya): "Allahumma allif baina quluubina wa ashlih dzaata bainina wahdinaa subulus salaam wa najjinaa minad dlulumaati ilan nuur wa jannibnal fawaahisy maa dlahara minhaa wa maa bathana wa baarik lanaa fii asmaa'ina wa abshaarinaa wa quluubinaa wa azwaajinaa wa dzurriyyatinaa wa tub 'alainaa innaka anta tawwaabur rahim, wa ja'alna syaakiriin, lini'matika mutsniin bihaa qaabiliha wa atimmaha alainaa (Ya Allah, jinakkanlah antara hati kami, perbaikilah hubungan di antara kami, tunjukilah kami jalan yang lurus, selamatkanlah kami dari kegelapan menuju cahaya, hindarkanlah kami dari perbuatan keji baik yang nampak maupun yang tersembunyi, berkahilah kami pada pendengaran kami, penglihatan kami, hati kami, isteri-isteri kami dan anak cucu kami, terimalah taubat kami karena Engkau adalah dzat yang Maha penerima taubat dan Maha penyayang, jadikanlah kami dalam kelompok yang pandai bersyukur, terhadap nikmat-nikmat-Mu kami bersyukur, terimalah dan sempurnakanlah atas kami." Telah menceritakan kepada kami \[Abdullah bin Muhammad An Nufaili\] telah menceritakan kepada kami \[Zuhair\] telah menceritakan kepada kami \[Al Hasan bin Al Hurr\] dari \[Al Qasim bin Mukhaimirah\] dia berkata; \['Alqamah\] memegang tanganku, lalu menceritakan kepadaku bahwa \[Abdullah bin Mas'ud\] pernah memegang tangannya, dan Rasulullah shallallahu 'alaihi wasallam juga pernah memegang tangan Abdullah bin Mas'ud, lalu beliau mengajarinya tasyahud dalam shalat…" kemudian dia menyebutkan seperti do'a dalam haditsnya Al A'masy, (sabdanya): "Apabila kamu telah mengucapkan do'a tersebut atau memenuhi do'a ini, maka kamu benar-benar telah memenuhi shalatmu, jika kamu hendak berdiri, berdirilah dan jika hendak duduk, maka duduklah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah mengabarkan kepada kami [Yahya] dari [Sulaiman Al A'masy] telah menceritakan kepadaku [Syaqiq bin Salamah] dari [Abdullah bin Mas'ud] dia berkata; "Apabila kami selesai duduk-duduk bersama bersama Rasulullah shallallahu 'alaihi wasallam dalam shalat, maka kami ucapkan; "As Salaamu 'alallah qabla 'ibaadihis salaam'ala fulaanin wa fulaan (selamat sejahtera bagi Allah sebelum hamba-bamba-Nya, selamat sejahtera bagi fulan dan fulan)." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian mengatakan "As Salaamu 'alaallah, karena Allah adalah dzat sumber keselamatan, akan tetapi jika salah seorang dari kalian duduk hendaklah mengucapkan; 'At Tahiyyati lillah was shalawaatu wat thayyibaat, as salaamu 'alaika ayyuhan nabiiyyu warahmatullahi wa barakaatuh as salaamu 'alaina wa 'alaa ibaadillahis shalihin (Segala kesejahteraan milik Allah semata, begitupun segala kasih-sayang dan hal-hal yang baik, selamat sejahtera kiranya terlimpah kepadamu wahai Nabi, begitupun rahmat Allah serta berkah-berkah-nya. Selamat sejahtera terlimpah pula atas kami dan atas hamba-hamba Allah yang Shalih) " apabila kalian mengucapkan seperti ini, maka kalian dapat mencapai semua hamba yang Shalih baik yang di langit maupun yang di bumi, -atau sabdanya- di antara langit dan bumi. ' "Asyhadu allaa ilaaha illallah wa asyhadu ann namuhammadan 'abduhu wa rasuuluh (Aku bersaksi bahwa tidak ada ilah selaian Allah, dan aku bersaksi bahwa Muhammad itu adalah hamba dan utusan-Nya) ", kemudian hendaklah salah seorang dari kalian memilih do'a yang menarik hatinya dan berdo'a dengan do'a itu." Telah menceritakan kepada kami [Tamim bin Al Muntashir] telah mengabarkan kepada kami [Ishaq yaitu Ibnu Yusuf] dari [Syarik] dari [Abu Ishaq] dari [Abu Al Ahwash] dari [Abdullah] dia berkata; "Kami tidak tahu, apa yang harus kami baca ketika duduk dalam shalat, sedangkan Rasulullah shallallahu 'alaihi wasallam telah di ajari (oleh Allah) …" kemudian dia menyebutkan hadits yang semisal itu." [Syarik] mengatakan; dan telah menceritakan kepada kami [Jami' yaitu ibnu Abu Syaddad] dari [Abu Wa'il] dari [Abdullah] seperti itu, katanya; "Dan beliau telah mengajari kami beberapa kalimat, dan tidak mengajari kami kalimat-kalimat di atas sebagaimana beliau mengajari kami tasyahud, (sabdanya): "Allahumma allif baina quluubina wa ashlih dzaata bainina wahdinaa subulus salaam wa najjinaa minad dlulumaati ilan nuur wa jannibnal fawaahisy maa dlahara minhaa wa maa bathana wa baarik lanaa fii asmaa'ina wa abshaarinaa wa quluubinaa wa azwaajinaa wa dzurriyyatinaa wa tub 'alainaa innaka anta tawwaabur rahim, wa ja'alna syaakiriin, lini'matika mutsniin bihaa qaabiliha wa atimmaha alainaa (Ya Allah, jinakkanlah antara hati kami, perbaikilah hubungan di antara kami, tunjukilah kami jalan yang lurus, selamatkanlah kami dari kegelapan menuju cahaya, hindarkanlah kami dari perbuatan keji baik yang nampak maupun yang tersembunyi, berkahilah kami pada pendengaran kami, penglihatan kami, hati kami, isteri-isteri kami dan anak cucu kami, terimalah taubat kami karena Engkau adalah dzat yang Maha penerima taubat dan Maha penyayang, jadikanlah kami dalam kelompok yang pandai bersyukur, terhadap nikmat-nikmat-Mu kami bersyukur, terimalah dan sempurnakanlah atas kami." Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Al Hasan bin Al Hurr] dari [Al Qasim bin Mukhaimirah] dia berkata; ['Alqamah] memegang tanganku, lalu menceritakan kepadaku bahwa [Abdullah bin Mas'ud] pernah memegang tangannya, dan Rasulullah shallallahu 'alaihi wasallam juga pernah memegang tangan Abdullah bin Mas'ud, lalu beliau mengajarinya tasyahud dalam shalat…" kemudian dia menyebutkan seperti do'a dalam haditsnya Al A'masy, (sabdanya): "Apabila kamu telah mengucapkan do'a tersebut atau memenuhi do'a ini, maka kamu benar-benar telah memenuhi shalatmu, jika kamu hendak berdiri, berdirilah dan jika hendak duduk, maka duduklah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Абдуллаха, да будет доволен им Аллах: «Мы не знали, что следует говорить, когда мы садимся во время молитвы, а Посланник Аллаха ﷺ был научен этому…» И он привёл похожий хадис
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah (b. Mes'ûd)'dah; demiştir ki: Biz namazda oturduğumuzda ne diyeceğimizi bilmezdik. Rasûlullah (s.a.v.)'e de (bizim bilmediğimiz) öğretilmişti. (Temîm b. el-Muntasır bundan sonra, önceki (968.) hadisi mânâ olarak anlattı. Hadisin râviierinde Şerîk bu hadisi iki ayrı yoldan almıştır. Hadisin bu bölümü Ebû İshak, Ebû'l-Ahvas ve Abdullah b. Mes'üd senediyle yapılan rivayettir. Bu bölüm; Nesâî, İbn Mâce ve Tirmizî tarafından da rivayet edilmiştir. Şerîk ise, Câmî -yâni İbn Şeddâd- Ebu Vâil ve Abdullah (b. Mes'ud) târîkeyle önceki (968.) hadisi aynen nakledip şöyle dedi: Rasûlullah (s.a.v.) bize bazı sözler öğretiyordu. Fakat onları, teşehhüdü öğrettiği gibi (itinalı) öğretmiyordu. Bu sözler şunlardır: "Allah'ım, bizim kalplerimizi(n arasını) birleştir. Aramızdaki halleri düzelt ve bize kurtuluş yollarını göster. Bizi (küfrün) karanlıklarından (İslâm'ın) aydınlığ(ın)a çıkar ve büyük günahların görüneninden ve görünmeyeninden uzaklaştır. Bize, kulaklarımızda, gözlerimizde, kalbimizde eşlerimizde ve çocuklarımızda bol hayır ver. Tevbelerimizi de kabul et. Çünkü sen, tevbeleri kabul edensin, merhametlisin. "Bizi nimetlerine şükredenlerden, onları itiraf edenlerden, razı olanlardan eyle! Ve bize ni'metlerini tamamla!” Sadece Ebû Dâvûd rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ ہم کو معلوم نہ تھا کہ جب ہم نماز میں بیٹھیں تو کیا کہیں، پھر رسول اللہ صلی اللہ علیہ وسلم کو بتایا گیا، پھر راوی نے اسی طرح کی روایت ذکر کی۔ شریک کہتے ہیں: ہم سے جامع یعنی ابن شداد نے بیان کیا کہ انہوں نے ابووائل سے اور ابووائل نے عبداللہ بن مسعود رضی اللہ عنہ سے اسی کے مثل روایت کی ہے اس میں ( اتنا اضافہ ) ہے کہ آپ صلی اللہ علیہ وسلم ہمیں چند کلمات سکھاتے تھے اور انہیں اس طرح نہیں سکھاتے تھے جیسے تشہد سکھاتے تھے اور وہ یہ ہیں: «اللهم ألف بين قلوبنا وأصلح ذات بيننا واهدنا سبل السلام ونجنا من الظلمات إلى النور وجنبنا الفواحش ما ظهر منها وما بطن وبارك لنا في أسماعنا وأبصارنا وقلوبنا وأزواجنا وذرياتنا وتب علينا إنك أنت التواب الرحيم واجعلنا شاكرين لنعمتك مثنين بها قابليها وأتمها علينا» اے اللہ! تو ہمارے دلوں میں الفت و محبت پیدا کر دے، اور ہماری حالتوں کو درست فرما دے، اور راہ سلامتی کی جانب ہماری رہنمائی کر دے اور ہمیں تاریکیوں سے نجات دے کر روشنی عطا کر دے، آنکھوں، دلوں اور ہماری بیوی بچوں میں برکت عطا کر دے، اور ہماری توبہ قبول فرما لے تو توبہ قبول فرمانے والا اور رحم و کرم کرنے والا ہے، اور ہمیں اپنی نعمتوں پر شکر گزار و ثنا خواں اور اسے قبول کرنے والا بنا دے، اور اے اللہ! ان نعمتوں کو ہمارے اوپر کامل کر دے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>969</td></tr><tr><td>Arabic No</td><td>969</td></tr><tr><td>Reference</td><td>Book 2 Hadith 580</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 969 |
+| Arabic No | 969 |
+| Reference | Book 2 Hadith 580 |

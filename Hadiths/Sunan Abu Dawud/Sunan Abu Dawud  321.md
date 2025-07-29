@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا أَبُو مُعَاوِيَةَ الضَّرِيرُ، عَنِ الأَعْمَشِ، عَنْ شَقِيقٍ، قَالَ كُنْتُ جَالِسًا بَيْنَ عَبْدِ اللَّهِ وَأَبِي مُوسَى فَقَالَ أَبُو مُوسَى يَا أَبَا عَبْدِ الرَّحْمَنِ أَرَأَيْتَ لَوْ أَنَّ رَجُلاً أَجْنَبَ فَلَمْ يَجِدِ الْمَاءَ شَهْرًا ‏.‏ أَمَا كَانَ يَتَيَمَّمُ فَقَالَ لاَ وَإِنْ لَمْ يَجِدِ الْمَاءَ شَهْرًا فَقَالَ أَبُو مُوسَى فَكَيْفَ تَصْنَعُونَ بِهَذِهِ الآيَةِ الَّتِي فِي سُورَةِ الْمَائِدَةِ ‏(‏ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا ‏)‏ فَقَالَ عَبْدُ اللَّهِ لَوْ رُخِّصَ لَهُمْ فِي هَذَا لأَوْشَكُوا إِذَا بَرَدَ عَلَيْهِمُ الْمَاءُ أَنْ يَتَيَمَّمُوا بِالصَّعِيدِ ‏.‏ فَقَالَ لَهُ أَبُو مُوسَى وَإِنَّمَا كَرِهْتُمْ هَذَا لِهَذَا قَالَ نَعَمْ فَقَالَ لَهُ أَبُو مُوسَى أَلَمْ تَسْمَعْ قَوْلَ عَمَّارٍ لِعُمَرَ بَعَثَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فِي حَاجَةٍ فَأَجْنَبْتُ فَلَمْ أَجِدِ الْمَاءَ فَتَمَرَّغْتُ فِي الصَّعِيدِ كَمَا تَتَمَرَّغُ الدَّابَّةُ ثُمَّ أَتَيْتُ النَّبِيَّ صلى الله عليه وسلم فَذَكَرْتُ ذَلِكَ لَهُ فَقَالَ ‏"‏ إِنَّمَا كَانَ يَكْفِيكَ أَنْ تَصْنَعَ هَكَذَا ‏"‏ ‏.‏ فَضَرَبَ بِيَدِهِ عَلَى الأَرْضِ فَنَفَضَهَا ثُمَّ ضَرَبَ بِشِمَالِهِ عَلَى يَمِينِهِ وَبِيَمِينِهِ عَلَى شِمَالِهِ عَلَى الْكَفَّيْنِ ثُمَّ مَسَحَ وَجْهَهُ ‏.‏ فَقَالَ لَهُ عَبْدُ اللَّهِ أَفَلَمْ تَرَ عُمَرَ لَمْ يَقْنَعْ بِقَوْلِ عَمَّارٍ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
+
 حدثنا محمد بن سليمان الانباري، حدثنا ابو معاوية الضرير، عن الاعمش، عن شقيق، قال كنت جالسا بين عبد الله وابي موسى فقال ابو موسى يا ابا عبد الرحمن ارايت لو ان رجلا اجنب فلم يجد الماء شهرا . اما كان يتيمم فقال لا وان لم يجد الماء شهرا فقال ابو موسى فكيف تصنعون بهذه الاية التي في سورة المايدة ( فلم تجدوا ماء فتيمموا صعيدا طيبا ) فقال عبد الله لو رخص لهم في هذا لاوشكوا اذا برد عليهم الماء ان يتيمموا بالصعيد . فقال له ابو موسى وانما كرهتم هذا لهذا قال نعم فقال له ابو موسى الم تسمع قول عمار لعمر بعثني رسول الله صلى الله عليه وسلم في حاجة فاجنبت فلم اجد الماء فتمرغت في الصعيد كما تتمرغ الدابة ثم اتيت النبي صلى الله عليه وسلم فذكرت ذلك له فقال " انما كان يكفيك ان تصنع هكذا " . فضرب بيده على الارض فنفضها ثم ضرب بشماله على يمينه وبيمينه على شماله على الكفين ثم مسح وجهه . فقال له عبد الله افلم تر عمر لم يقنع بقول عمار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
 
 ## Bengali
 
+। শাকীক সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আব্দুল্লাহ এবং আবূ মুসা (রাঃ)-এর সামনে বসা ছিলাম। আবূ মুসা (রাঃ) বললেন, হে আবূ ‘আবদুর রহমান! যদি কারো উপর গোসল ফরয হয় এবং এক মাস পর্যন্ত পানি না পায়, তবে সে কি তায়াম্মুম করবে? ‘আব্দুল্লাহ (রাঃ) বললেন, হ্যাঁ, যদিও সে এক মাস পর্যন্ত পানি না পায়। আবূ মুসা (রাঃ) বললেন, তাহলে সূরাহ মায়িদার যে আয়াত রয়েছেঃ ‘‘তারপর তোমরা যদি পানি না পাও তাহলে পবিত্র মাটি দ্বারা তায়াম্মুম করো’’- এ ব্যাপারে কি বলবেন? ‘আব্দুল্লাহ (রাঃ) বললেন, লোকদের তায়াম্মুম করার সুযোগ দেয়া হলে তারা (অত্যধিক শীতের সময়) ঠান্ডা পানি ব্যবহার না করে তায়াম্মুম করা শুরু করে দিবে। আবূ মুসা (রাঃ) তাকে বললেন, এজন্যই তায়াম্মুম করা অপছন্দ করেন? তিনি বললেনঃ হ্যাঁ। আবূ মুসা (রাঃ) তাঁকে বললেন, আপনি কি ‘উমার (রাঃ)-কে উদ্দেশ্য করে বলা ‘আম্মার ইবনু ইয়াসির (রাঃ) বর্ণিত হাদীস শুনেননি? ‘আম্মার (রাঃ) বলেছিলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কোন এক কাজে পাঠালেন। পথিমধ্যে আমি জুনুবী হয়ে গেলাম, কিন্তু পানি পেলাম না। তাই আমি মাটিতে গড়াগড়ি দিলাম যেরূপ চতুষ্পদ প্রাণী মাটিতে গড়াগড়ি দিয়ে থাকে। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে আমি তাঁকে বিষয়টি জানালাম। তিনি বললেনঃ তোমার জন্য এতটুকুই যথেষ্ট ছিল- এই বলে তিনি মাটিতে হাত মেরে তা ফুঁ দিয়ে ঝেড়ে ফেললেন। তারপর বাম হাত ডান হাতের উপর মারলেন। তারপর ডান হাত বাম হাতের উপর মারলেন- উভয় হাতের কব্জির উপর। তারপর মুখমন্ডল মাসাহ্ করলেন। ‘আব্দুল্লাহ (রাঃ) তাকে বললেনঃ আপনার কি জানা নেই যে, ‘উমার (রাঃ) ‘আম্মারের এ কথা গ্রহণ করেননি?\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। শাকীক সূত্রে বর্ণিত। তিনি বলেন, আমি ‘আব্দুল্লাহ এবং আবূ মুসা (রাঃ)-এর সামনে বসা ছিলাম। আবূ মুসা (রাঃ) বললেন, হে আবূ ‘আবদুর রহমান! যদি কারো উপর গোসল ফরয হয় এবং এক মাস পর্যন্ত পানি না পায়, তবে সে কি তায়াম্মুম করবে? ‘আব্দুল্লাহ (রাঃ) বললেন, হ্যাঁ, যদিও সে এক মাস পর্যন্ত পানি না পায়। আবূ মুসা (রাঃ) বললেন, তাহলে সূরাহ মায়িদার যে আয়াত রয়েছেঃ ‘‘তারপর তোমরা যদি পানি না পাও তাহলে পবিত্র মাটি দ্বারা তায়াম্মুম করো’’- এ ব্যাপারে কি বলবেন? ‘আব্দুল্লাহ (রাঃ) বললেন, লোকদের তায়াম্মুম করার সুযোগ দেয়া হলে তারা (অত্যধিক শীতের সময়) ঠান্ডা পানি ব্যবহার না করে তায়াম্মুম করা শুরু করে দিবে। আবূ মুসা (রাঃ) তাকে বললেন, এজন্যই তায়াম্মুম করা অপছন্দ করেন? তিনি বললেনঃ হ্যাঁ। আবূ মুসা (রাঃ) তাঁকে বললেন, আপনি কি ‘উমার (রাঃ)-কে উদ্দেশ্য করে বলা ‘আম্মার ইবনু ইয়াসির (রাঃ) বর্ণিত হাদীস শুনেননি? ‘আম্মার (রাঃ) বলেছিলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে কোন এক কাজে পাঠালেন। পথিমধ্যে আমি জুনুবী হয়ে গেলাম, কিন্তু পানি পেলাম না। তাই আমি মাটিতে গড়াগড়ি দিলাম যেরূপ চতুষ্পদ প্রাণী মাটিতে গড়াগড়ি দিয়ে থাকে। অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে এসে আমি তাঁকে বিষয়টি জানালাম। তিনি বললেনঃ তোমার জন্য এতটুকুই যথেষ্ট ছিল- এই বলে তিনি মাটিতে হাত মেরে তা ফুঁ দিয়ে ঝেড়ে ফেললেন। তারপর বাম হাত ডান হাতের উপর মারলেন। তারপর ডান হাত বাম হাতের উপর মারলেন- উভয় হাতের কব্জির উপর। তারপর মুখমন্ডল মাসাহ্ করলেন। ‘আব্দুল্লাহ (রাঃ) তাকে বললেনঃ আপনার কি জানা নেই যে, ‘উমার (রাঃ) ‘আম্মারের এ কথা গ্রহণ করেননি?[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Shaqiq said:While I was sitting between 'Abd Allah and Abu Musa, the latter said: Abu 'Abd al-Rahman, what do you think if a man becomes defiled (because of seminal omission) and does not find water for a month; should he not perform tayammum ? He replied: No, even if he does not find water for a month. Abu Musa then said: How will you do with the Qur'anic version (about tayammum) in the chapter al-Ma'idah which says: "... and you find no water, then go to clean, high ground" (5:6)? 'Abd Allah (b. Mas'ud) then said: If they (the people) are granted concession in this respect, they might perform tayammum with pure earth when water is cold. Abu Musa said: For this (reason) you forbade it ? He said: Yes. Abu Musa then said: Did you not hear what 'Ammar said to 'Umar ? (He said): The Messenger of Allah (ﷺ) sent me on some errand. I had seminal emission and I did not find water. Therefore, I rolled on the ground just as an animal rolls down. I then came to the Prophet (ﷺ) and made a mention of that to him. He said: It would have been enough for you to do thus. Then he struck the ground with his hands and shook them off and then stuck the right hand with his left hand and his left hand with his right hand (and wiped) over his hands (up to the wrist) and wiped his face. 'Abd Allah then said to him: Did you not see that 'Umar was not satisfied with the statement of 'Ammar ?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
+
+## French
+
+Rapporté par Shaqiq : Alors que j’étais assis entre 'Abd Allah et Abu Musa, ce dernier a dit : « Abu 'Abd al-Rahman, que penses-tu si un homme devient impur (à cause d’une émission de sperme) et ne trouve pas d’eau pendant un mois ; ne devrait-il pas faire le tayammum ? » Il répondit : « Non, même s’il ne trouve pas d’eau pendant un mois. » Abu Musa dit alors : « Que fais-tu du verset du Coran (sur le tayammum) dans la sourate al-Ma’idah qui dit : “… et si vous ne trouvez pas d’eau, alors allez vers une terre pure…” (5:6) ? » 'Abd Allah (b. Mas'ud) répondit : « Si on leur accorde cette facilité, ils pourraient faire le tayammum avec de la terre pure quand l’eau est froide. » Abu Musa demanda : « C’est pour cette raison que tu l’interdis ? » Il répondit : « Oui. » Abu Musa dit alors : « N’as-tu pas entendu ce qu’'Ammar a dit à 'Umar ? » Il a dit : « Le Messager d’Allah ﷺ m’a envoyé en mission. J’ai eu une émission de sperme et je n’ai pas trouvé d’eau. Alors je me suis roulé par terre comme le fait un animal. Puis je suis allé voir le Prophète ﷺ et je lui ai raconté cela. Il a dit : “Cela t’aurait suffi de faire ainsi.” Puis il a frappé le sol avec ses mains, les a secouées, puis a frappé la main droite avec la gauche et la gauche avec la droite (et s’est essuyé) sur ses mains (jusqu’aux poignets) et s’est essuyé le visage. » 'Abd Allah lui dit alors : « N’as-tu pas vu qu’'Umar n’était pas satisfait de la parole d’'Ammar ? »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Sulaiman Al-Anbari\] telah menceritakan kepada kami \[Abu Mu'awiyah Adl-Dlarir\] dari \[Al-A'masy\] dari \[Syaqiq\] dia berkata; Saya pernah duduk di antara Abdulah dan Abu Musa. Lalu \[Abu Musa\] berkata; Wahai Abu Abdurrahman! Apakah kamu mengetahui, seandainya ada seseorang yang junub, kemudian dia tidak mendapatkan air selama satu bulan, bukankah dia harus bertayamum? Abdullah menjawab; Tidak, walaupun dia tidak mendapatkan air selama satu bulan. Lalu Abu Musa berkata; Bagaimanakah sikap anda terhadap ayat yang terdapat dalam surat Al- Maidah ini? Yaitu (yang artinya): "… lalu kamu tidak mendapatkan air, maka bertayammumlah dengan debu tanah yang baik (bersih) ". (QS. Almaidah 6), Maka Abdullah menjawab; Kalau mereka diberi hukum keringanan tentang ini, dikhawatirkan mereka akan bertayammum dengan debu, kalau mereka merasa kedinginan memakai air. Kata Abu Musa kepadanya; Ternyata kamu tidak menyukai tayamum ini karena untuk alasan ini? Kata Abdullah; Ya. Kata Abu Musa kepadanya; Apakah kamu tidak pernah mendengar ucapan \[Ammar\] kepada Umar, yaitu Rasulullah shallallahu 'alaihi wasallam pernah mengutusku dalam suatu keperluan, lalu saya junub dan tidak mendapatkan air, sehingga saya berguling-guling di atas tanah, sebagaimana binatang yang sedang berguling-guling. Kemudian saya pergi menghadap kepada Nabi shallallahu 'alaihi wasallam dan menyampaikan hal tersebut kepada beliau, lalu beliau bersabda: "Cukuplah kamu lakukan demikian ini." Lalu beliau menepukkan tangan ke tanah, lalu ditiupnya, kemudian beliau mengusap tangan kanannya dengan tangan kirinya dan tangan kirinya dengan tangan kanannya pada kedua telapak tangan, kemudian mengusap wajahnya. Maka Abdullah berkata kepada Abu Musa; Apakah kamu tidak tahu, bahwa Umar tidak puas terhadap ucapan Ammar?
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Sulaiman Al-Anbari] telah menceritakan kepada kami [Abu Mu'awiyah Adl-Dlarir] dari [Al-A'masy] dari [Syaqiq] dia berkata; Saya pernah duduk di antara Abdulah dan Abu Musa. Lalu [Abu Musa] berkata; Wahai Abu Abdurrahman! Apakah kamu mengetahui, seandainya ada seseorang yang junub, kemudian dia tidak mendapatkan air selama satu bulan, bukankah dia harus bertayamum? Abdullah menjawab; Tidak, walaupun dia tidak mendapatkan air selama satu bulan. Lalu Abu Musa berkata; Bagaimanakah sikap anda terhadap ayat yang terdapat dalam surat Al- Maidah ini? Yaitu (yang artinya): "… lalu kamu tidak mendapatkan air, maka bertayammumlah dengan debu tanah yang baik (bersih) ". (QS. Almaidah 6), Maka Abdullah menjawab; Kalau mereka diberi hukum keringanan tentang ini, dikhawatirkan mereka akan bertayammum dengan debu, kalau mereka merasa kedinginan memakai air. Kata Abu Musa kepadanya; Ternyata kamu tidak menyukai tayamum ini karena untuk alasan ini? Kata Abdullah; Ya. Kata Abu Musa kepadanya; Apakah kamu tidak pernah mendengar ucapan [Ammar] kepada Umar, yaitu Rasulullah shallallahu 'alaihi wasallam pernah mengutusku dalam suatu keperluan, lalu saya junub dan tidak mendapatkan air, sehingga saya berguling-guling di atas tanah, sebagaimana binatang yang sedang berguling-guling. Kemudian saya pergi menghadap kepada Nabi shallallahu 'alaihi wasallam dan menyampaikan hal tersebut kepada beliau, lalu beliau bersabda: "Cukuplah kamu lakukan demikian ini." Lalu beliau menepukkan tangan ke tanah, lalu ditiupnya, kemudian beliau mengusap tangan kanannya dengan tangan kirinya dan tangan kirinya dengan tangan kanannya pada kedua telapak tangan, kemudian mengusap wajahnya. Maka Abdullah berkata kepada Abu Musa; Apakah kamu tidak tahu, bahwa Umar tidak puas terhadap ucapan Ammar?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Шакъикъ сказал: «Однажды я сидел между ‘Абдуллой (ибн Мас‘удом) и Абу Мусой (аль-Аш‘ари) и Абу Муса сказал: “О Абу ‘Абду-р-Рахман , что скажешь о человеке, который осквернился и не нашел воды в течение месяца, может ли он совершать таяммум?” Он сказал: “Нет, даже если не найдет воды в течение месяца”. Абу Муса сказал: “А как быть с этим аятом из суры “аль-Маида”: “А если вы не найдете воды, то очищайтесь чистым песком”? ‘Абдуллах сказал: “Если бы им это разрешили, то возможно, что они стали бы совершать очищение песком даже из-за холодной воды”. Абу Муса сказал ему: “Значит, вы считаете это запретным для них?” Он сказал: “Да”. Абу Муса сказал ему: “Разве ты не слышал то, что сказал ‘Аммар (ибн Йасир) ‘Умару? (‘Аммар рассказывал): “Однажды Посланник Аллаха ﷺ отправил меня по одному поручению, во время которого я осквернился. Я не смог найти воды, и из-за этого начал валяться в песке подобно животному. Затем, когда я вернулся к Пророку ﷺ то рассказал ему об этом и он сказал: “Поистине, тебе было достаточно сделать вот так”, и он ударил рукой о землю и стряхнул ее со своих рук. Затем он ударил левой рукой о правую и правой о левую кисть, после чего обтер лицо”. ‘Абдуллах сказал ему: “А ты знаешь, что ‘Умар не удовлетворился тем, что сказал ‘Аммар?”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şakik (r.a.)'den; şöyle demiştir: Ben, Abdullah (bin Mes'ud) ile Ebu Musa el-Eşari'nin yanında oturmakta idim. Ebu Musa; Ya Ebu Abdirrahman bir adam cünup olsa ve bir ay su bulamazsa teyemmüm yapamaz mı? Ne dersin? dedi. Abdullah; Hayır, bir ay da su bulamasa teyemmüm yapamaz, karşılığını verdi. Bunun üzerine Ebu Musa: Peki, Maide Suresindeki "Su bulamazsanız temiz yer yüzü ile teyemmüm ediniz" ayetini ne yapacaksın? dedi, Abdullah; İnsanlara ruhsat verilseydi, suları soğuk gördükleri zaman hemen toprakla teyemmüme yönelirlerdi. Ebu Musa: Demek bunu (cünüplükten dolayı teyemmümü) bunun için kerih gördünüz, öyle mi? Abdullah: Evet, dedi. Ebu Musa; Ammar'ın, Hz. Ömer'e (söylediği) şu sözü duymadın mı? "Resulullah (Sallallahu aleyhi ve Sellem) beni bir ihtiyaç için göndermişti, Cünup oldum, fakat su bulamadım. Bunun üzerine hayvanın yerde yuvarlandığı gibi yuvarlandım, sonra da Resulullah (Sallallahu aleyhi ve Sellem)'e gelip bu durumu haber verdim. Resulullah (Sallallahu aleyhi ve Sellem); "Şöyle yapman kafi idi" dedi ve elini yere vurup, silkeledi, sonra sol eliyle sağ elinin üstünü, sağ eliyle de sol elinin üstünü daha sonra da yüzünü mesnetti" Abdullah (b.Mesud, Ebu Musa'ya cevaben); Sen de Ömer (bin el-Hattab)'ın, Ammar'ın sözü ile ikna olmadığını bilmiyor musun? dedi." Diğer tahric: Buhari, teyemmüm; Müslim, hayz; Nesai, tahare; Ahmed b. Hanbel, IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابووائل شقیق بن سلمہ کہتے ہیں کہ میں عبداللہ بن مسعود اور ابوموسیٰ اشعری رضی اللہ عنہما کے درمیان بیٹھا ہوا تھا کہ ابوموسیٰ رضی اللہ عنہ نے کہا: ابوعبدالرحمٰن! ( یہ عبداللہ بن مسعود کی کنیت ہے ) اس مسئلے میں آپ کا کیا خیال ہے کہ اگر کوئی شخص جنبی ہو جائے اور ایک مہینے تک پانی نہ پائے تو کیا وہ تیمم کرتا رہے؟ عبداللہ بن مسعود نے کہا: تیمم نہ کرے، اگرچہ ایک مہینہ تک پانی نہ ملے۔ ابوموسیٰ رضی اللہ عنہ نے کہا: پھر آپ سورۃ المائدہ کی اس آیت: «فلم تجدوا ماء فتيمموا صعيدا طيبا» پانی نہ پاؤ تو پاک مٹی سے تیمم کرو کے متعلق کیا کہتے ہیں؟ تو عبداللہ بن مسعود نے کہا: اگر تیمم کی رخصت دی جائے تو قریب ہے کہ جب پانی ٹھنڈا ہو تو لوگ مٹی سے تیمم کرنے لگیں۔ اس پر ابوموسیٰ رضی اللہ عنہ نے ان سے کہا: آپ نے اسی وجہ سے اسے ناپسند کیا ہے؟ ابن مسعود رضی اللہ عنہ نے کہا: ہاں، تو ابوموسیٰ رضی اللہ عنہ نے ان سے کہا: کیا آپ نے عمار رضی اللہ عنہ کی بات ( جو انہوں نے عمر رضی اللہ عنہ سے کہی ) نہیں سنی کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھے کسی ضرورت کے لیے بھیجا تو میں جنبی ہو گیا اور مجھے پانی نہیں ملا تو میں مٹی ( زمین ) پر لوٹا جیسے جانور لوٹتا ہے، پھر میں نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا اور آپ سے اس کا ذکر کیا تو آپ صلی اللہ علیہ وسلم نے فرمایا: تمہیں تو بس اس طرح کر لینا کافی تھا ، اور آپ صلی اللہ علیہ وسلم نے اپنا ہاتھ زمین پر مارا، پھر اسے جھاڑا، پھر اپنے بائیں سے اپنی دائیں ہتھیلی پر اور دائیں سے بائیں ہتھیلی پر مارا، پھر اپنے چہرے کا مسح کیا، تو عبداللہ رضی اللہ عنہ نے ان سے کہا: کیا آپ نے نہیں دیکھا کہ عمر رضی اللہ عنہ، عمار رضی اللہ عنہ کی اس بات سے مطمئن نہیں ہوئے؟ ! ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (345، 346) Sahih Muslim (368)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>321</td></tr><tr><td>Arabic No</td><td>321</td></tr><tr><td>Reference</td><td>Book 1 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (345، 346) Sahih Muslim (368) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 321 |
+| Arabic No | 321 |
+| Reference | Book 1 Hadith 321 |

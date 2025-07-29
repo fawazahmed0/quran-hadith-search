@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## French
 
+Rapporté par Al-Hasan al-Hulwānī : Il a dit que Nu’aym bin Hammād lui a rapporté, Abū Ishāq Ibrāhīm bin Muhammad bin Sufyān a dit ; et Muhammad bin Yahyā lui a rapporté, Nu’aym bin Hammād lui a rapporté, Abū Dāwud at-Tayālisī lui a rapporté, d’après Shu’bah, d’après Yūnus bin Ubayd, qui a dit : « Amr bin Ubayd mentait à propos des hadiths. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>65</td></tr><tr><td>Reference</td><td>Book 0 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 65 |
+| Reference | Book 0 Hadith 65 |

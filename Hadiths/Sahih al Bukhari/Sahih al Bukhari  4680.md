@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَدِمَ النَّبِيُّ صلى الله عليه وسلم الْمَدِينَةَ وَالْيَهُودُ تَصُومُ عَاشُورَاءَ فَقَالُوا هَذَا يَوْمٌ ظَهَرَ فِيهِ مُوسَى عَلَى فِرْعَوْنَ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم لأَصْحَابِهِ ‏ "‏ أَنْتُمْ أَحَقُّ بِمُوسَى مِنْهُمْ، فَصُومُوا ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني محمد بن بشار، حدثنا غندر، حدثنا شعبة، عن ابي بشر، عن سعيد بن جبير، عن ابن عباس، قال قدم النبي صلى الله عليه وسلم المدينة واليهود تصوم عاشوراء فقالوا هذا يوم ظهر فيه موسى على فرعون. فقال النبي صلى الله عليه وسلم لاصحابه " انتم احق بموسى منهم، فصوموا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
 ## Bengali
 
+سُوْرَةُ يُوْنُسَ সূরাহ (১০) : ইউনুস 65/10/1. بَاب : ৬৫/১০/১. অধ্যায়: وَقَالَ ابْنُ عَبَّاسٍ (فَاخْتَلَطَ) بِهِ نَبَاتُ الْأَرْضِ فَنَبَتَ بِالْمَاءِ مِنْ كُلِّ لَوْنٍ (وَقَالُوا اتَّخَذَ اللهُ وَلَدًا سُبْحَانَهُ هُوَ الْغَنِيُّ)وَقَالَ زَيْدُ بْنُ أَسْلَمَ (أَنَّ لَهُمْ قَدَمَ صِدْقٍ) مُحَمَّدٌ e وَقَالَ مُجَاهِدٌ خَيْرٌ يُقَالُ (تِلْكَاٰيٰتُ) يَعْنِيْ هَذِهِ أَعْلَامُ الْقُرْآنِ وَمِثْلُهُ (حَتّٰىٓإِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْ) الْمَعْنَى بِكُمْ يُقَالُ (دَعْوَاهُمْ) دُعَاؤُهُمْ(أُحِيْطَ بِهِمْ) دَنَوْا مِنْ الْهَلَكَةِ (أَحَاطَتْ بِهٰخَطِيئَتُه” فَاتَّبَعَهُمْ) وَأَتْبَعَهُمْ وَاحِدٌ (عَدْوًا) مِنْ الْعُدْوَانِ وَقَالَ مُجَاهِدٌ (وَلَوْ يُعَجِّلُ اللهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ) قَوْلُ الإِنْسَانِ لِوَلَدِهِ وَمَالِهِ إِذَا غَضِبَ اللهُمَّ لَا تُبَارِكْ فِيْهِ وَالْعَنْهُ(لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ) لَأُهْلِكُ مَنْ دُعِيَ عَلَيْهِ وَلَأَمَاتَهُ (لِلَّذِيْنَ أَحْسَنُوا الْحُسْنٰى) مِثْلُهَا حُسْنَى (وَزِيَادَةٌ) مَغْفِرَةٌ وَرِضْوَانٌ وَقَالَ غَيْرُهُ النَّظَرُ إِلَى وَجْهِهِ (الْكِبْرِيَآءُ) الْمُلْكُ ইবনু ‘আব্বাস (রাঃ) বলেন, فَاخْتَلَطَ অর্থাৎ বৃষ্টির দ্বারা ভূ-পৃষ্ঠে বিভিন্ন প্রকারের উদ্ভিদ উদগত হয়। আল্লাহ তা‘আলার বাণীঃ وَقَالُوا اتَّخَذَ اللهُ وَلَدًا سُبْحَانَه هُوَ الْغَنِيُّ -‘‘তারা বলেঃ ‘‘আল্লাহ সন্তান গ্রহণ করেছেন। তিনি মহান, পবিত্র। তিনি অমুখাপেক্ষী।’’ (সূরাহ ইউনুস ১০/৬৮) যায়দ ইবনু আসলাম (রহ.) বলেন, قَدَمَ صِدْقٍ দ্বারা মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বুঝানো হয়েছে। মুজাহিদ বলেন, এর অর্থ কল্যাণ। تِلْكَ آيَاتُ এগুলো কুরআনের নিদর্শন ও অনুরূপ, حَتَّى إِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْএখানে بِهِمْ দ্বারা بِكُمْ (তোমাদের নিয়ে) অর্থে دَعْوَاهُمْ তাদের দু‘আ। أُحِيْطَبِهِمْ-তারা ধ্বংসোন্মুখ হল। أَحَاطَتْ بِهٰ خَطِيئَتُه গুনাহ তাদের ঘিরে ফেলছে। فَاتَّبَعَهُمْ وَأَتْبَعَهُمْ সমপর্যায়ের (তাদের পশ্চাদ্ধাবন করল।) عَدْوًا এখানে সীমা অতিক্রম অর্থে, মুজাহিদ (রহ.) বলেন, لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ -এর দ্বারা মানুষের সেই কথা বুঝাচ্ছে, যখন সে রাগান্বিত হয়ে নিজ নিজ সন্তান-সন্ততি ও ধন-সম্পদ সম্পর্কে বলে, হে আল্লাহ! এতে বারাকাত দিও না, এর ওপর লা‘নাত কর। لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ-যার প্রতি বদদু‘আ করা হয়েছে, তাকে ধ্বংস করে দিতেন এবং তাকে মেরে ফেলতেন। أَحْسَنُواالْحُسْنَى-কল্যাণকর কাজের জন্য রয়েছে কল্যাণ এবং আরো অধিক। وَزِيَادَةٌ এবং অতিরিক্ত অর্থাৎ ক্ষমা। অন্যরা বলেন, আল্লাহর সাক্ষাৎ, الْكِبْرِيَاءُ-সার্বভৌমত্ব। (وَجٰوَزْنَا بِبَنِيْٓإِسْرَآئِيْلَ الْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُوْدُه بَغْيًا وَّعَدْوًا طحَتّٰىٓإِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ اٰمَنْتُ أَنَّه لَآ إِلٰهَ إِلَّا الَّذِيْٓاٰمَنَتْ بِهٰبَنُوْآإِسْرَآئِيْلَ وَأَنَا مِنَ الْمُسْلِمِيْنَ) ‘‘আর আমি বনী ইসরাঈলকে নদী পার করিয়ে দিলাম। তারপর তাদের পশ্চাদানুসরণ করল ফির‘আউন ও তার সৈন্যবাহিনী নিপীড়ন ও নির্যাতনের উদ্দেশে। এমনকি যখন সে নিমজ্জিত হতে লাগল তখন বললঃ আমি ঈমান আনলাম যে, কোন সত্য মা’বুদ নেই তিনি ব্যতীত যার প্রতি ঈমান এনেছে বনী ইসরাঈল এবং আমি একজন মুসলিম।’’ (সূরাহ ইউনুস ১০/৯০) (نُنَجِّيْكَ) نُلْقِيْكَ عَلَى نَجْوَةٍ مِنْ الْأَرْضِ وَهُوَ النَّشَزُ الْمَكَانُ الْمُرْتَفِعُ نُنَجِّيْكَ আমি তোমাকে যমীনের উঁচু স্থানে ফেলে রাখব। نَجْوَةٍ উচ্চ স্থান। \[1\] ৪৬৮০. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মদিনা্তে এলেন, তখন ইয়াহূদীগণ আশুরার দিন সওম পালন করত। তারা জানাল, এ দিন মূসা (আঃ) ফিরাউন-এর উপর বিজয় লাভ করেছিলেন। তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর সাহাবীদের বললেন, মূসা (আঃ)-এর সঙ্গে সম্পর্কযুক্ত হওয়ার ব্যাপারে তাদের চেয়ে তোমরাই অধিক হাকদার। কাজেই তোমরা সওম পালন কর।\[২০০৪\] (আধুনিক প্রকাশনীঃ ৪৩১৯, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-سُوْرَةُ يُوْنُسَ সূরাহ (১০) : ইউনুস 65/10/1. بَاب : ৬৫/১০/১. অধ্যায়: وَقَالَ ابْنُ عَبَّاسٍ (فَاخْتَلَطَ) بِهِ نَبَاتُ الْأَرْضِ فَنَبَتَ بِالْمَاءِ مِنْ كُلِّ لَوْنٍ (وَقَالُوا اتَّخَذَ اللهُ وَلَدًا سُبْحَانَهُ هُوَ الْغَنِيُّ)وَقَالَ زَيْدُ بْنُ أَسْلَمَ (أَنَّ لَهُمْ قَدَمَ صِدْقٍ) مُحَمَّدٌ e وَقَالَ مُجَاهِدٌ خَيْرٌ يُقَالُ (تِلْكَاٰيٰتُ) يَعْنِيْ هَذِهِ أَعْلَامُ الْقُرْآنِ وَمِثْلُهُ (حَتّٰىٓإِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْ) الْمَعْنَى بِكُمْ يُقَالُ (دَعْوَاهُمْ) دُعَاؤُهُمْ(أُحِيْطَ بِهِمْ) دَنَوْا مِنْ الْهَلَكَةِ (أَحَاطَتْ بِهٰخَطِيئَتُه” فَاتَّبَعَهُمْ) وَأَتْبَعَهُمْ وَاحِدٌ (عَدْوًا) مِنْ الْعُدْوَانِ وَقَالَ مُجَاهِدٌ (وَلَوْ يُعَجِّلُ اللهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ) قَوْلُ الإِنْسَانِ لِوَلَدِهِ وَمَالِهِ إِذَا غَضِبَ اللهُمَّ لَا تُبَارِكْ فِيْهِ وَالْعَنْهُ(لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ) لَأُهْلِكُ مَنْ دُعِيَ عَلَيْهِ وَلَأَمَاتَهُ (لِلَّذِيْنَ أَحْسَنُوا الْحُسْنٰى) مِثْلُهَا حُسْنَى (وَزِيَادَةٌ) مَغْفِرَةٌ وَرِضْوَانٌ وَقَالَ غَيْرُهُ النَّظَرُ إِلَى وَجْهِهِ (الْكِبْرِيَآءُ) الْمُلْكُ ইবনু ‘আব্বাস (রাঃ) বলেন, فَاخْتَلَطَ অর্থাৎ বৃষ্টির দ্বারা ভূ-পৃষ্ঠে বিভিন্ন প্রকারের উদ্ভিদ উদগত হয়। আল্লাহ তা‘আলার বাণীঃ وَقَالُوا اتَّخَذَ اللهُ وَلَدًا سُبْحَانَه هُوَ الْغَنِيُّ -‘‘তারা বলেঃ ‘‘আল্লাহ সন্তান গ্রহণ করেছেন। তিনি মহান, পবিত্র। তিনি অমুখাপেক্ষী।’’ (সূরাহ ইউনুস ১০/৬৮) যায়দ ইবনু আসলাম (রহ.) বলেন, قَدَمَ صِدْقٍ দ্বারা মুহাম্মাদ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে বুঝানো হয়েছে। মুজাহিদ বলেন, এর অর্থ কল্যাণ। تِلْكَ آيَاتُ এগুলো কুরআনের নিদর্শন ও অনুরূপ, حَتَّى إِذَا كُنْتُمْ فِي الْفُلْكِ وَجَرَيْنَ بِهِمْএখানে بِهِمْ দ্বারা بِكُمْ (তোমাদের নিয়ে) অর্থে دَعْوَاهُمْ তাদের দু‘আ। أُحِيْطَبِهِمْ-তারা ধ্বংসোন্মুখ হল। أَحَاطَتْ بِهٰ خَطِيئَتُه গুনাহ তাদের ঘিরে ফেলছে। فَاتَّبَعَهُمْ وَأَتْبَعَهُمْ সমপর্যায়ের (তাদের পশ্চাদ্ধাবন করল।) عَدْوًا এখানে সীমা অতিক্রম অর্থে, মুজাহিদ (রহ.) বলেন, لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُمْ بِالْخَيْرِ -এর দ্বারা মানুষের সেই কথা বুঝাচ্ছে, যখন সে রাগান্বিত হয়ে নিজ নিজ সন্তান-সন্ততি ও ধন-সম্পদ সম্পর্কে বলে, হে আল্লাহ! এতে বারাকাত দিও না, এর ওপর লা‘নাত কর। لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ-যার প্রতি বদদু‘আ করা হয়েছে, তাকে ধ্বংস করে দিতেন এবং তাকে মেরে ফেলতেন। أَحْسَنُواالْحُسْنَى-কল্যাণকর কাজের জন্য রয়েছে কল্যাণ এবং আরো অধিক। وَزِيَادَةٌ এবং অতিরিক্ত অর্থাৎ ক্ষমা। অন্যরা বলেন, আল্লাহর সাক্ষাৎ, الْكِبْرِيَاءُ-সার্বভৌমত্ব। (وَجٰوَزْنَا بِبَنِيْٓإِسْرَآئِيْلَ الْبَحْرَ فَأَتْبَعَهُمْ فِرْعَوْنُ وَجُنُوْدُه بَغْيًا وَّعَدْوًا طحَتّٰىٓإِذَآ أَدْرَكَهُ الْغَرَقُ قَالَ اٰمَنْتُ أَنَّه لَآ إِلٰهَ إِلَّا الَّذِيْٓاٰمَنَتْ بِهٰبَنُوْآإِسْرَآئِيْلَ وَأَنَا مِنَ الْمُسْلِمِيْنَ) ‘‘আর আমি বনী ইসরাঈলকে নদী পার করিয়ে দিলাম। তারপর তাদের পশ্চাদানুসরণ করল ফির‘আউন ও তার সৈন্যবাহিনী নিপীড়ন ও নির্যাতনের উদ্দেশে। এমনকি যখন সে নিমজ্জিত হতে লাগল তখন বললঃ আমি ঈমান আনলাম যে, কোন সত্য মা’বুদ নেই তিনি ব্যতীত যার প্রতি ঈমান এনেছে বনী ইসরাঈল এবং আমি একজন মুসলিম।’’ (সূরাহ ইউনুস ১০/৯০) (نُنَجِّيْكَ) نُلْقِيْكَ عَلَى نَجْوَةٍ مِنْ الْأَرْضِ وَهُوَ النَّشَزُ الْمَكَانُ الْمُرْتَفِعُ نُنَجِّيْكَ আমি তোমাকে যমীনের উঁচু স্থানে ফেলে রাখব। نَجْوَةٍ উচ্চ স্থান। [1] ৪৬৮০. ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, যখন রাসূলুল্লাহ সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মদিনা্তে এলেন, তখন ইয়াহূদীগণ আশুরার দিন সওম পালন করত। তারা জানাল, এ দিন মূসা (আঃ) ফিরাউন-এর উপর বিজয় লাভ করেছিলেন। তখন নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁর সাহাবীদের বললেন, মূসা (আঃ)-এর সঙ্গে সম্পর্কযুক্ত হওয়ার ব্যাপারে তাদের চেয়ে তোমরাই অধিক হাকদার। কাজেই তোমরা সওম পালন কর।[২০০৪] (আধুনিক প্রকাশনীঃ ৪৩১৯, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:When the Prophet (ﷺ) arrived at Medina, the Jews were observing the fast on 'Ashura' (10th of Muharram) and they said, "This is the day when Moses became victorious over Pharaoh," On that, the Prophet (ﷺ) said to his companions, "You (Muslims) have more right to celebrate Moses' victory than they have, so observe the fast on this day
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
+
+## French
+
+Rapporté par Ibn ‘Abbâs : Lorsque le Prophète ﷺ arriva à Médine, les Juifs jeûnaient le jour de ‘Âshûrâ’. Ils dirent : « C’est un jour où Moïse triompha de Pharaon. » Le Prophète ﷺ dit alors à ses compagnons : « Vous avez plus de droit sur Moïse qu’eux, jeûnez donc ce jour-là. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Muhammad bin Basysyar\] Telah menceritakan kepada kami \[Ghundar\] Telah menceritakan kepada kami \[Syu'bah\] dari \[Abu Bisyr\] dari \[Sa'id bin Jubair\] dari \[Ibnu 'Abbas\] dia berkata; "Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, beliau melihat kaum Yahudi berpuasa pada hari Asyura', mereka berkata; "Lebih tepatnya pada hari Musa mengalahkan Fir'aun. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Kalian lebih berhak terhadap Musa daripada mereka, maka berpuasalah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Muhammad bin Basysyar] Telah menceritakan kepada kami [Ghundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Bisyr] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas] dia berkata; "Rasulullah shallallahu 'alaihi wasallam tiba di Madinah, beliau melihat kaum Yahudi berpuasa pada hari Asyura', mereka berkata; "Lebih tepatnya pada hari Musa mengalahkan Fir'aun. Maka Rasulullah shallallahu 'alaihi wasallam bersabda kepada para sahabatnya: "Kalian lebih berhak terhadap Musa daripada mereka, maka berpuasalah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Аббас сказал: «Прибыв в Медину, Пророк ﷺ увидел, что иудеи постятся в день ‘Ашуры. (Когда он спросил их об этом), они сказали: “Это — день, в который Аллах помог Мусе одержать верх над фараоном”. Тогда Пророк ﷺ сказал сподвижникам: “Вы имеете больше прав на Мусу, чем они, так поститесь же (в этот день)!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (மக்காவைத் துறந்து) மதீனாவுக்கு வந்தார்கள். (அங்கு) யூதர்கள் “ஆஷூரா' (முஹர்ரம் பத்தாம் நாள்) நோன்பு நோற்றுக்கொண்டிருந்தார்கள். அன்றி அவர்கள், “இது மூசா (அலை) அவர்கள் ஃபிர்அவ்னை வெற்றி கொண்ட நாள்” என்று சொன்னார்கள். அதற்கு நபி (ஸல்) அவர்கள் தம் தோழர்களிடம், “(யூதர்களான) இவர்களைவிட மூசா (அலை) அவர்களுக்கு நீங்கள்தான் அதிக உரிமையுடையவர்கள்; எனவே, (அந்நாளில்) நீங்கள் நோன்பு நோற்பீர்களாக!” என்று சொன்னார்கள்.3 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas'tan rivayet edildiğine göre, o şöyle demiştir: Hz. Nebi Medine'ye geldi. Yahudiler aşura orucunu tutuyorlardı. "Bu gün, Musa'nın Firavun'a üstün geldiği gündür," diyorlardı. Bunun üzerine Allah Resulü Sallallahu Aleyhi ve Sellem ashabına şöyle buyurdu: "Siz, Musa'ya onlardan daha layıksınız. O halde oruç tutun!" Fethu'l-Bari Açıklaması: .....Necve "yüksek teI?e" anlamına gelir. Çoğulu ise .....Nica şeklindedir. Ayette (Yunus 10/92) geçen ....nuneccike ifadesi "kurtulmak" anlamına gelen ......necat kökünden türememiştir. Bu kelimenin, "kurtulmak" anlamına gelen ....necat kökünden türediği de ileri sürülmüştür. Buna göre ayet in anlamı şu şekilde olur: Kavmin denizin içinde kalırken Biz seni oradan kurtardık (sahile attık). Kavram açıklamasından sonra İmam Buharı, aşura orucu hakkında İbn Abbas'tan nakledilen hadisi zikretti. Bu hadisin açıklaması "Kitabu's-sıyam"da yapılmıştı. Bu hadisin konu başlığı ile ilgisi, söz konusu haberin bazı rivayetlerinde bulunan şu ifadede mevcuttur: "Bu, Allah Teala'nın Hz. Musa'yı kurtarıp Firavun'u boğduğu gündür
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجھ سے محمد بن بشار نے بیان کیا، انہوں نے کہا ہم سے غندر نے بیان کیا، ان سے شعبہ نے بیان کیا، ان سے ابوبشر نے، ان سے سعید بن جبیر نے اور ان سے عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ جب نبی کریم صلی اللہ علیہ وسلم مدینہ تشریف لائے تو یہود عاشوراء کا روزہ رکھتے تھے۔ انہوں نے بتایا کہ اسی دن موسیٰ علیہ السلام کو فرعون پر فتح ملی تھی۔ اس پر نبی کریم صلی اللہ علیہ وسلم نے صحابہ سے فرمایا کہ موسیٰ علیہ السلام کے ہم ان سے بھی زیادہ مستحق ہیں اس لیے تم بھی روزہ رکھو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4680</td></tr><tr><td>Arabic No</td><td>4680</td></tr><tr><td>Reference</td><td>Book 65 Hadith 202</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4680 |
+| Arabic No | 4680 |
+| Reference | Book 65 Hadith 202 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ، وَأَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، - وَهَذَا حَدِيثُ الْهَمْدَانِيِّ وَهُوَ أَتَمُّ - قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ قَالَ أَخْبَرَنِي أَبُو هَانِئٍ الْخَوْلاَنِيُّ عَنِ الْعَبَّاسِ بْنِ جُلَيْدٍ الْحَجْرِيِّ قَالَ سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو يَقُولُ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ كَمْ نَعْفُو عَنِ الْخَادِمِ فَصَمَتَ ثُمَّ أَعَادَ عَلَيْهِ الْكَلاَمَ فَصَمَتَ فَلَمَّا كَانَ فِي الثَّالِثَةِ قَالَ ‏ "‏ اعْفُوا عَنْهُ فِي كُلِّ يَوْمٍ سَبْعِينَ مَرَّةً ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
+
 حدثنا احمد بن سعيد الهمداني، واحمد بن عمرو بن السرح، - وهذا حديث الهمداني وهو اتم - قالا حدثنا ابن وهب قال اخبرني ابو هاني الخولاني عن العباس بن جليد الحجري قال سمعت عبد الله بن عمرو يقول جاء رجل الى النبي صلى الله عليه وسلم فقال يا رسول الله كم نعفو عن الخادم فصمت ثم اعاد عليه الكلام فصمت فلما كان في الثالثة قال " اعفوا عنه في كل يوم سبعين مرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু উমার (রাঃ) বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমরা কাজের লোককে প্রতিদিন কতোবার মাফ করবো? তিনি চুপ থাকলেন। লোকটি আবার একই প্রশ্ন করলে এবারও তিনি চুপ থাকলেন। তৃতীয় বার প্রশ্ন করলে তিনি বলেনঃ প্রতিদিন সত্তর বার।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু উমার (রাঃ) বলেন, এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, হে আল্লাহর রাসূল! আমরা কাজের লোককে প্রতিদিন কতোবার মাফ করবো? তিনি চুপ থাকলেন। লোকটি আবার একই প্রশ্ন করলে এবারও তিনি চুপ থাকলেন। তৃতীয় বার প্রশ্ন করলে তিনি বলেনঃ প্রতিদিন সত্তর বার।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: A man came to the Prophet (ﷺ) and asked: Messenger of Allah! how often shall I forgive a servant? He gave no reply, so the man repeated what he had said, but he still kept silence. When he asked a third time, he replied: Forgive him seventy times daily
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
+
+## French
+
+Rapporté par Abdullah ibn Umar رضي الله عنه : Un homme est venu demander au Prophète ﷺ : « Ô Messager d’Allah ! Combien de fois dois-je pardonner à un serviteur ? » Il n’a pas répondu, alors l’homme a répété sa question, mais le Prophète ﷺ est resté silencieux. Lorsqu’il a demandé une troisième fois, il a répondu : « Pardonne-lui soixante-dix fois par jour. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Sa'id Al Hamdani\] dan \[Ahmad bin Amru bin As Sarh\] - dan ini adalah hadits Al Hamdani- dan hadits lebih sempurna, keduanya berkata; telah menceritakan kepada kami \[Ibnu Wahb\] ia berkata; telah mengabarkan kepadaku \[Abu Hani' Al Khaulani\] dari \[Al Abbas bin Julaid Al Hajari\] ia berkata; Aku mendengar \[Abdullah bin Umar\] berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, berapa kali kami harus memberi maaf kepada seorang budak?" Beliau diam. Laki-laki itu kembali mengulangi pertanyaannya namun beliau tetap saja diam. Sehingga pada kali yang ketiga, beliau bersabda: "Berilah maaf kepadanya tujuh puluh kali dalam sehari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Sa'id Al Hamdani] dan [Ahmad bin Amru bin As Sarh] - dan ini adalah hadits Al Hamdani- dan hadits lebih sempurna, keduanya berkata; telah menceritakan kepada kami [Ibnu Wahb] ia berkata; telah mengabarkan kepadaku [Abu Hani' Al Khaulani] dari [Al Abbas bin Julaid Al Hajari] ia berkata; Aku mendengar [Abdullah bin Umar] berkata, "Seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam dan berkata, "Wahai Rasulullah, berapa kali kami harus memberi maaf kepada seorang budak?" Beliau diam. Laki-laki itu kembali mengulangi pertanyaannya namun beliau tetap saja diam. Sehingga pada kali yang ketiga, beliau bersabda: "Berilah maaf kepadanya tujuh puluh kali dalam sehari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 el-Abbas b. Cüleyd el-Hacrî'den demiştir ici: Ben Abdullah b. Ömer'i şöyle derken işittim: "Bir adam Nebi (s.a.v.)'e gelerek: Ey Allah'ın Resulü hizmetçiyi kaç defa affedelim? dedi. (Hz. Nebi) sükût etti. Sonra (adam) bu soruyu Hz. Nebi'e tekrar sordu. (Hz. Nebi yine) sükût etti. Bu sözü üçüncü kez tekrarlayınca: "Onu günde yetmiş defa affediniz" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور عرض کیا: اللہ کے رسول! ہم خادم کو کتنی بار معاف کریں، آپ ( سن کر ) چپ رہے، پھر اس نے اپنی بات دھرائی، آپ پھر خاموش رہے، تیسری بار جب اس نے اپنی بات دھرائی تو آپ نے فرمایا: ہر دن ستر بار اسے معاف کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5164</td></tr><tr><td>Arabic No</td><td>5164</td></tr><tr><td>Reference</td><td>Book 43 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5164 |
+| Arabic No | 5164 |
+| Reference | Book 43 Hadith 392 |

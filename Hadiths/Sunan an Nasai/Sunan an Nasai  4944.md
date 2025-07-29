@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ مُجَاهِدٍ، عَنْ أَيْمَنَ، قَالَ لَمْ تَكُنْ تُقْطَعُ الْيَدُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم إِلاَّ فِي ثَمَنِ الْمِجَنِّ وَقِيمَتُهُ يَوْمَئِذٍ دِينَارٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Abu Ghuddah</td></tr><tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 46 Hadith 74</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |
+
 اخبرنا محمد بن بشار، قال حدثنا عبد الرحمن، قال حدثنا سفيان، عن منصور، عن مجاهد، عن ايمن، قال لم تكن تقطع اليد على عهد رسول الله صلى الله عليه وسلم الا في ثمن المجن وقيمته يوميذ دينار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Abu Ghuddah</td></tr><tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 46 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন বাশশার (রহঃ) ... আয়মান (রহঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সময়ে ঢালের মূল্যের কমে হাত কাটা হয়নি। আর তখন ঢালের মূল্য ছিল এক দীনার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Abu Ghuddah</td></tr><tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 46 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ayman said:"The hand of a thief would not be cut off during the time of the Messenger of Allah except for the value of a shield, which in those days was a Dinar." (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Abu Ghuddah</td></tr><tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 46 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |
+
+## French
+
+Rapporté par Ayman : La main d'un voleur n'était coupée à l'époque du Messager d'Allah ﷺ que pour la valeur d'un bouclier, qui à cette époque était d'un dinar
+
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Abu Ghuddah</td></tr><tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 46 Hadith 74</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Abu Ghuddah</td></tr><tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 46 Hadith 74</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Munkar | Abu Ghuddah |
+| Munkar | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Abu Ghuddah</td></tr><tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4944</td></tr><tr><td>Arabic No</td><td>4944</td></tr><tr><td>Reference</td><td>Book 46 Hadith 74</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4944 |
+| Arabic No | 4944 |
+| Reference | Book 46 Hadith 74 |

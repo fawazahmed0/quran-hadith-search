@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مِسْعَرٍ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ حَاتِمِ بْنِ بَزِيعٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنِ الأَعْمَشِ، عَنْ عَلِيِّ بْنِ الأَقْمَرِ، - الْمَعْنَى - عَنِ الأَغَرِّ، عَنْ أَبِي سَعِيدٍ، وَأَبِي، هُرَيْرَةَ قَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا أَيْقَظَ الرَّجُلُ أَهْلَهُ مِنَ اللَّيْلِ فَصَلَّيَا أَوْ صَلَّى رَكْعَتَيْنِ جَمِيعًا كُتِبَا فِي الذَّاكِرِينَ وَالذَّاكِرَاتِ ‏"‏ ‏.‏ وَلَمْ يَرْفَعْهُ ابْنُ كَثِيرٍ وَلاَ ذَكَرَ أَبَا هُرَيْرَةَ جَعَلَهُ كَلاَمَ أَبِي سَعِيدٍ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ ابْنُ مَهْدِيٍّ عَنْ سُفْيَانَ قَالَ وَأُرَاهُ ذَكَرَ أَبَا هُرَيْرَةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ سُفْيَانَ مَوْقُوفٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
+
 حدثنا ابن كثير، حدثنا سفيان، عن مسعر، عن علي بن الاقمر، ح وحدثنا محمد بن حاتم بن بزيع، حدثنا عبيد الله بن موسى، عن شيبان، عن الاعمش، عن علي بن الاقمر، - المعنى - عن الاغر، عن ابي سعيد، وابي، هريرة قالا قال رسول الله صلى الله عليه وسلم " اذا ايقظ الرجل اهله من الليل فصليا او صلى ركعتين جميعا كتبا في الذاكرين والذاكرات " . ولم يرفعه ابن كثير ولا ذكر ابا هريرة جعله كلام ابي سعيد . قال ابو داود رواه ابن مهدي عن سفيان قال واراه ذكر ابا هريرة . قال ابو داود وحديث سفيان موقوف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
 
 ## Bengali
 
+। আবূ সাঈদ ও আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তারা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি রাতের বেলায় স্বীয় স্ত্রীকে সজাগ করে উভয়ে কিংবা প্রত্যেকে দু’ দু’ রাক‘আত সালাত আদায় করলে তাদেরকে আল্লাহর স্মরণকারী ও স্মরণকাণীর তালিকায় লিপিবদ্ধ করা হয়।\[1\] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ইবনু কাসীর এ হাদীস রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত পৌঁছাননি এবং তিনি আবূ হুরাইরাহ (রাঃ)-এর নাম উল্লেখ করেননি বরং বলেছেন, এটি আবূ সাঈদ (রাঃ)-এর নিজস্ব বক্তব্য।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ ও আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তারা বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কোন ব্যক্তি রাতের বেলায় স্বীয় স্ত্রীকে সজাগ করে উভয়ে কিংবা প্রত্যেকে দু’ দু’ রাক‘আত সালাত আদায় করলে তাদেরকে আল্লাহর স্মরণকারী ও স্মরণকাণীর তালিকায় লিপিবদ্ধ করা হয়।[1] সহীহ। ইমাম আবূ দাউদ (রহঃ) বলেন, ইবনু কাসীর এ হাদীস রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত পৌঁছাননি এবং তিনি আবূ হুরাইরাহ (রাঃ)-এর নাম উল্লেখ করেননি বরং বলেছেন, এটি আবূ সাঈদ (রাঃ)-এর নিজস্ব বক্তব্য।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id and AbuHurayrah: The Prophet (ﷺ) said: If a man awakens his wife at night, and then both pray or both offer two rak'ahs together, the (name of the )man will be recorded among those who mention the name of Allah, and the (name of the) woman will be recorded among those who mention the name of Allah. Ibn Kathir did not narrate this tradition as a statement of the Prophet (ﷺ), but he reported it as a statement of Abu Sa'id. Abu Dawud said: This tradition has been narrated by Ibn Mahdi from Sufyan and I think he mentioned the name of Sufyan. He also said: The tradition transmitted by Sufyan is a statement of the Companion (and not that of the Prophet)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
+
+## French
+
+Rapporté par Abu Sa‘id et Abu Huraira رضي الله عنهما : Le Prophète ﷺ a dit : « Si un homme réveille sa femme la nuit et qu’ils prient tous les deux, ou qu’ils accomplissent ensemble deux rak‘a, le nom de l’homme sera inscrit parmi ceux qui se souviennent d’Allah, et le nom de la femme sera inscrit parmi ceux qui se souviennent d’Allah. » Ibn Kathir n’a pas rapporté cette tradition comme une parole du Prophète ﷺ, mais comme une parole d’Abu Sa‘id. Abu Dawud a dit : Cette tradition a été rapportée par Ibn Mahdi d’après Sufyan, et je pense qu’il a mentionné le nom de Sufyan. Il a aussi dit : La version transmise par Sufyan est une parole du Compagnon (et non du Prophète)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Katsir\] telah menceritakan kepada kami \[Sufyan\] dari \[Mis'ar\] dari \[Ali bin Al Aqmar\]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami \[Muhammad bin Hatim bin Bazi'\] telah menceritakan kepada kami \['Ubaidullah bin Musa\] dari \[Syaiban\] dari \[Al A'masy\] dari \[Ali bin Al Aqmar\], sedangkan maknanya dari \[Al Aghar\] dari \[Abu Sa'id\] dan \[Abu Hurairah\] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seseorang membangunkan isterinya di malam hari, kemudian keduanya mengerjakan shalat, atau keduanya shalat dua raka'at, maka keduanya akan di catat sebagai orang-orang yang selalu berdzikir." Namun Ibnu katsir tidak merafa'kan hadits ini, dan Abu Hurairah juga tidak menjadikan hadits tersebut dari perkataan Abu Sa'id. Abu Daud berkata; "dan di riwayatkan pula oleh \[Ibnu Mahdi\] dari \[Sufyan\] dia berkata; -aku berpendapat bahwa dia menyebutkan " \[Abu Hurairah\]." Abu Daud berkata; "Sedangkan hadits Sufyan mauquf
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Katsir] telah menceritakan kepada kami [Sufyan] dari [Mis'ar] dari [Ali bin Al Aqmar]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Muhammad bin Hatim bin Bazi'] telah menceritakan kepada kami ['Ubaidullah bin Musa] dari [Syaiban] dari [Al A'masy] dari [Ali bin Al Aqmar], sedangkan maknanya dari [Al Aghar] dari [Abu Sa'id] dan [Abu Hurairah] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila seseorang membangunkan isterinya di malam hari, kemudian keduanya mengerjakan shalat, atau keduanya shalat dua raka'at, maka keduanya akan di catat sebagai orang-orang yang selalu berdzikir." Namun Ibnu katsir tidak merafa'kan hadits ini, dan Abu Hurairah juga tidak menjadikan hadits tersebut dari perkataan Abu Sa'id. Abu Daud berkata; "dan di riwayatkan pula oleh [Ibnu Mahdi] dari [Sufyan] dia berkata; -aku berpendapat bahwa dia menyebutkan " [Abu Hurairah]." Abu Daud berkata; "Sedangkan hadits Sufyan mauquf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Са‘ида и Абу Хурайры, да будет доволен Аллах ими обоими, что Посланник Аллаха ﷺ сказал: «Если человек проснётся сам и разбудит ночью свою жену и они вместе совершат молитву в два рак‘ата (дополнительной молитвы), то они будут записаны в числе мужчин и женщин, поминающих Аллаха». (Передатчик) Ибн Касир не возводил эти слова к Пророку ﷺ и не упоминал Абу Хурайру, а передавал это как слова Абу Са‘ида
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Saîd ve Ebû Hureyre (r.anhumâ)'dan; dediler ki: Resûlullah (s.a.v.) şöyle buyurmuştur: Bir adam gecenin bir kısmında karısını uyandırır, sonra her ikisi de iki rekat namaz kılarsa -yahut (o adam tek başına) kılarsa-(erkek) Allah'ı zikr eden erkekler zümresine (Kadın da) Allah'ı zikreden kadınlar zümresine kaydedilir. Râvi İbn Kesir bu hadisi(n senedini Hz- Nebi'e) ulaştırmadı ve Ebû Hureyre'den hiç bahsetmedi. Bu hadisi (sanki) Ebû Saîd'in sözü (imiş gibi) nakletti. Ebû Dâvûd dedi ki; Bu hadisi İbn Mehdi Süfyan'dan nakletti ve; "Öyle zannediyorum ki (Süfyan bu hadisin senedinde) Ebû Hureyre'yi de zikretti, dedi. Ebû Dâvûd dedi ki: Süfyan 'in bu hadisi mevkuftur. Diğer tahric: Nesai, kıyamu'l-leyl; İbn Mâce, ikame; Ahmed b. Hanbel, I, 132; II, 250, 436, VI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسعید اور ابوہریرہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب آدمی اپنی بیوی کو رات میں جگائے اور وہ دونوں نماز پڑھیں تو وہ دونوں ذاکرین اور ذاکرات میں لکھے جاتے ہیں ۔ ابن کثیر نے اسے مرفوع نہیں کیا ہے اور نہ اس میں ابوہریرہ رضی اللہ عنہ کا ذکر کیا ہے اور انہوں نے اسے ابوسعید رضی اللہ عنہ کا کلام قرار دیا ہے۔ ابوداؤد کہتے ہیں: اسے ابن مہدی نے سفیان سے روایت کیا ہے اور میرا گمان ہے کہ اس میں انہوں نے ابوہریرہ رضی اللہ عنہ کا بھی ذکر کیا ہے۔ ابوداؤد کہتے ہیں: سفیان کی حدیث موقوف ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1309</td></tr><tr><td>Arabic No</td><td>1309</td></tr><tr><td>Reference</td><td>Book 5 Hadith 60</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1309 |
+| Arabic No | 1309 |
+| Reference | Book 5 Hadith 60 |

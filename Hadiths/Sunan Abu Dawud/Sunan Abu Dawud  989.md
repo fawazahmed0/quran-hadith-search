@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ الْحَسَنِ الْمِصِّيصِيُّ، حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، عَنْ زِيَادٍ، عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ، عَنْ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، أَنَّهُ ذَكَرَ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُشِيرُ بِأُصْبُعِهِ إِذَا دَعَا وَلاَ يُحَرِّكُهَا ‏.‏ قَالَ ابْنُ جُرَيْجٍ وَزَادَ عَمْرُو بْنُ دِينَارٍ قَالَ أَخْبَرَنِي عَامِرٌ عَنْ أَبِيهِ أَنَّهُ رَأَى النَّبِيَّ صلى الله عليه وسلم يَدْعُو كَذَلِكَ وَيَتَحَامَلُ النَّبِيُّ صلى الله عليه وسلم بِيَدِهِ الْيُسْرَى عَلَى فَخِذِهِ الْيُسْرَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
+
 حدثنا ابراهيم بن الحسن المصيصي، حدثنا حجاج، عن ابن جريج، عن زياد، عن محمد بن عجلان، عن عامر بن عبد الله، عن عبد الله بن الزبير، انه ذكر ان النبي صلى الله عليه وسلم كان يشير باصبعه اذا دعا ولا يحركها . قال ابن جريج وزاد عمرو بن دينار قال اخبرني عامر عن ابيه انه راى النبي صلى الله عليه وسلم يدعو كذلك ويتحامل النبي صلى الله عليه وسلم بيده اليسرى على فخذه اليسرى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
 
 ## Bengali
 
+। ‘আবদুল্লাহ ইবনুয যুবাইর (রাঃ) বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে দু‘আ পাঠকালে আঙুল দ্বারা ইশারা করতেন, অবশ্য আঙুল নাড়তেন না। দুর্বল। ইবনু জুরাইজ বলেন, ‘আমর ইবনু দীনারের বর্ণনায় একথাও আছে যে, ‘আমির তাকে জানান যে, তার পিতা ‘আবদুল্লাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দু‘আর সময় আঙুল দ্বারা ইশারা করতে দেখেছেন এবং তখন তিনি তাঁর বাম হাত বাম উরুর উপর রাখতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুল্লাহ ইবনুয যুবাইর (রাঃ) বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে দু‘আ পাঠকালে আঙুল দ্বারা ইশারা করতেন, অবশ্য আঙুল নাড়তেন না। দুর্বল। ইবনু জুরাইজ বলেন, ‘আমর ইবনু দীনারের বর্ণনায় একথাও আছে যে, ‘আমির তাকে জানান যে, তার পিতা ‘আবদুল্লাহ (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে দু‘আর সময় আঙুল দ্বারা ইশারা করতে দেখেছেন এবং তখন তিনি তাঁর বাম হাত বাম উরুর উপর রাখতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn az-Zubayr: The Prophet (ﷺ) used to point with his finger (at the end of the tashahhud) and he would not move it. Ibn Juraij said: "And 'Amr bin Dinar added: 'He (Ziyad) said: "'Amir informed me from his father that he saw the Prophet (ﷺ) supplicating like that. And the Prophet (ﷺ) would brace himself with his left hand on his left knee
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
+
+## French
+
+Rapporté par Abdullah ibn az-Zubayr رضي الله عنه : Le Prophète ﷺ pointait son doigt (à la fin du tashahhud) sans le bouger. Ibn Juraij a dit : « ‘Amr bin Dinar a ajouté : “Il (Ziyad) m’a dit : ‘Amir m’a informé de la part de son père qu’il a vu le Prophète ﷺ invoquer ainsi. Et le Prophète ﷺ s’appuyait sur sa main gauche posée sur son genou gauche.” »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibrahim bin Al Hasan Al Mishhishi\] telah menceritakan kepada kami \[Hajjaj\] dari \[Ibnu Juraij\] dari \[Ziyad\] dari \[Muhammad bin 'Ajlan\] dari \['Amir bin Abdullah\] dari \[Abdullah bin Zubair\] bahwa dia menyebutkan bahwa Nabi shallallahu 'alaihi wasallam memberi isyarat dengan jarinya ketika berdo'a, tanpa menggerakkannya." \[Ibnu Juraij\] berkata; \['Amru bin Dinar\] menambahkan; katanya; telah mengabarkan kepadaku \['Amir\] dari \[ayahnya\] bahwa dia pernah melihat Nabi shallallahu 'alaihi wasallam seperti itu juga (menunjuk, dan Nabi shallallahu 'alaihi wasallam juga meletakkan tangan kirinya di atas paha kirinya." Telah menceritakan kepada kami \[Muhammad bin Basyar\] telah menceritakan kepada kami \[Yahya\] telah menceritakan kepada kami \[Ibnu 'Ajlan\] dari \['Amir bin Abdullah bin Az Zubair\] dari \[ayahnya\] dengan hadits seperti ini, katanya; "…pandangan mata beliau tidak melampaui dari telunjuk beliau…" sedangkan hadits Hajjaj lebih sempurna
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Al Hasan Al Mishhishi] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] dari [Ziyad] dari [Muhammad bin 'Ajlan] dari ['Amir bin Abdullah] dari [Abdullah bin Zubair] bahwa dia menyebutkan bahwa Nabi shallallahu 'alaihi wasallam memberi isyarat dengan jarinya ketika berdo'a, tanpa menggerakkannya." [Ibnu Juraij] berkata; ['Amru bin Dinar] menambahkan; katanya; telah mengabarkan kepadaku ['Amir] dari [ayahnya] bahwa dia pernah melihat Nabi shallallahu 'alaihi wasallam seperti itu juga (menunjuk, dan Nabi shallallahu 'alaihi wasallam juga meletakkan tangan kirinya di atas paha kirinya." Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Ibnu 'Ajlan] dari ['Amir bin Abdullah bin Az Zubair] dari [ayahnya] dengan hadits seperti ini, katanya; "…pandangan mata beliau tidak melampaui dari telunjuk beliau…" sedangkan hadits Hajjaj lebih sempurna
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Абдуллаха ибн аз-Зубайра, да будет доволен Аллах им и его отцом, что Пророк ﷺ вытягивал указательный палец, когда обращался к Аллаху с мольбами, но не двигал им.‘Амир передаёт от своего отца (да будет доволен Аллах им и его отцом), что он видел, как Пророк ﷺ обращался к Аллаху с мольбами в таком положении, опираясь левой рукой на левое бедро
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. ez-Zübeyr (r.a.)'den rivayet edildiğine göre: Hz. Nebi (ka'de'de) duâ ettiği zaman parmağı ile işaret eder o'nu hareket ettirmezdi. İbn Cüreyc dedi ki: Amr b. Dinar şunu da ilave etti: "Âmir'in babası (Abdullah b. ez-Zübeyr)'den rivayet ettiğine göre, o (Abdullah) Resûlullah (s.a.v.)'i böylece (hareket ettirmeden) işaret ederken ve sol kolu sol uyluğunun üzerine yüklenirken gördü. " Diğer tahric: Nesâî, sehv
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن زبیر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جب تشہد پڑھتے تو اپنی انگلی سے اشارے کرتے تھے اور اسے حرکت نہیں دیتے تھے ۱؎۔ ابن جریج کہتے ہیں کہ عمرو بن دینار نے یہ اضافہ کیا ہے کہ مجھے عامر نے اپنے والد کے واسطہ سے خبر دی ہے کہ انہوں نے نبی اکرم صلی اللہ علیہ وسلم کو اسی طرح تشہد پڑھتے دیکھا ہے اور نبی اکرم صلی اللہ علیہ وسلم اپنا بایاں ہاتھ اپنی بائیں ران پر رکھتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>989</td></tr><tr><td>Arabic No</td><td>989</td></tr><tr><td>Reference</td><td>Book 2 Hadith 600</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 989 |
+| Arabic No | 989 |
+| Reference | Book 2 Hadith 600 |

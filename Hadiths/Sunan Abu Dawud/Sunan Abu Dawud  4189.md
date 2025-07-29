@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ خَلَفٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مُحَمَّدٍ، - يَعْنِي ابْنَ إِسْحَاقَ - قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرِ بْنِ الزُّبَيْرِ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كُنْتُ إِذَا أَرَدْتُ أَنْ أَفْرِقَ رَأْسَ رَسُولِ اللَّهِ صلى الله عليه وسلم صَدَعْتُ الْفَرْقَ مِنْ يَافُوخِهِ وَأُرْسِلُ نَاصِيَتَهُ بَيْنَ عَيْنَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
+
 حدثنا يحيى بن خلف، حدثنا عبد الاعلى، عن محمد، - يعني ابن اسحاق - قال حدثني محمد بن جعفر بن الزبير، عن عروة، عن عايشة، رضى الله عنها قالت كنت اذا اردت ان افرق راس رسول الله صلى الله عليه وسلم صدعت الفرق من يافوخه وارسل ناصيته بين عينيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মাথার চুলের সিঁথি করতে চাইলে মাথার মাঝ বরাবর দু’ ভাগ করে সিঁথি করতাম এবং তাঁর দু’ চোখের মাঝখান থেকে সোজা কপালের দু’ দিকে চুল ছেড়ে দিতাম।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর মাথার চুলের সিঁথি করতে চাইলে মাথার মাঝ বরাবর দু’ ভাগ করে সিঁথি করতাম এবং তাঁর দু’ চোখের মাঝখান থেকে সোজা কপালের দু’ দিকে চুল ছেড়ে দিতাম।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: When I parted the hair of the Messenger of Allah (ﷺ) I made a parting from the crow of his head and let his forelock hang between his eyes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
+
+## French
+
+Rapporté par Aisha, la mère des croyants رضي الله عنها : Quand je séparais les cheveux du Messager d’Allah ﷺ, je faisais une raie depuis le sommet de sa tête et laissais sa mèche tomber entre ses yeux
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Khalaf\] berkata, telah menceritakan kepada kami \[Abdul A'la\] dari \[Muhammad\] -yaitu Ibnu Ishaq- ia berkata; telah menceritakan kepadaku \[Muhammad bin Ja'far bin Az Zubair\] dari \[Urwah\] dari \['Aisyah radliallahu 'anha\] ia berkata, "Jika aku ingin membelah (menyisir) rambut Rasulullah shallallahu 'alaihi wasallam, maka aku memulainya dari ubun-ubun dan mengurai rambut bagian depan antara dua matanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Khalaf] berkata, telah menceritakan kepada kami [Abdul A'la] dari [Muhammad] -yaitu Ibnu Ishaq- ia berkata; telah menceritakan kepadaku [Muhammad bin Ja'far bin Az Zubair] dari [Urwah] dari ['Aisyah radliallahu 'anha] ia berkata, "Jika aku ingin membelah (menyisir) rambut Rasulullah shallallahu 'alaihi wasallam, maka aku memulainya dari ubun-ubun dan mengurai rambut bagian depan antara dua matanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Аиша, да будет доволен ею Аллах, передаёт: «Когда я расчёсывала Посланника Аллаха ﷺ я разделяла его волосы на пробор от макушки, а чёлку оставляла на лбу»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r'anha) şöyle demiştir: "Ben Rasûlullah (s.a.v.)'in saçlarını ayırmak istediğimde tam tepesinden ayırır, alnı üzerine dökülen saçları da gözlerinin arasına sarkıtırdım
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ جب میں رسول اللہ صلی اللہ علیہ وسلم کے سر میں مانگ نکالنی چاہتی تو سر کے بیچ سے نکالتی، اور پیشانی کے بالوں کو دونوں آنکھوں کے بیچ کی سیدھ سے آدھا ایک طرف اور آدھا دوسری طرف لٹکا دیا کرتی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4189</td></tr><tr><td>Arabic No</td><td>4189</td></tr><tr><td>Reference</td><td>Book 35 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4189 |
+| Arabic No | 4189 |
+| Reference | Book 35 Hadith 31 |

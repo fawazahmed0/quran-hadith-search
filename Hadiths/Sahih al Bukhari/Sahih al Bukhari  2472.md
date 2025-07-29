@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ، أَخْبَرَنَا مَالِكٌ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ بَيْنَمَا رَجُلٌ يَمْشِي بِطَرِيقٍ، وَجَدَ غُصْنَ شَوْكٍ فَأَخَذَهُ، فَشَكَرَ اللَّهُ لَهُ، فَغَفَرَ لَهُ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الله، اخبرنا مالك، عن سمى، عن ابي صالح، عن ابي هريرة رضى الله عنه ان رسول الله صلى الله عليه وسلم قال " بينما رجل يمشي بطريق، وجد غصن شوك فاخذه، فشكر الله له، فغفر له
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, এক ব্যক্তি রাস্তা দিয়ে চলার সময় কাঁটাদার গাছের একটি ডাল রাস্তায় পেল, তখন সেটাকে রাস্তা হতে অপসারণ করল, আল্লাহ তার এ কাজকে কবূল করলেন এবং তাকে মাফ করে দিলেন। (৬৫২) (আধুনিক প্রকাশনীঃ ২২৯৩, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:Allah's Messenger (ﷺ) said, "While a man was on the way, he found a thorny branch of a tree there on the way and removed it. Allah thanked him for that deed and forgave him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
+
+## French
+
+Rapporté par Abu Huraira : Le Messager d’Allah (ﷺ) a dit : « Un homme marchait sur la route, il trouva une branche d’arbre épineuse sur le chemin et l’enleva. Allah l’a remercié pour cet acte et lui a pardonné. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Abdullah bin Yusuf\] telah mengabarkan kepada kami \[Malik\] dari \[Sumayya\] dari \[Abu Shalih\] dari \[Abu Hurairah radliallahu 'anhu\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang laki-laki yang sedang berjalan lalu menemuklan potongan duri di jalan lalu diambilnya. Kemudian dia bersyukur kepada Allah maka Allah mengampuninya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Abdullah bin Yusuf] telah mengabarkan kepada kami [Malik] dari [Sumayya] dari [Abu Shalih] dari [Abu Hurairah radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Ada seorang laki-laki yang sedang berjalan lalu menemuklan potongan duri di jalan lalu diambilnya. Kemudian dia bersyukur kepada Allah maka Allah mengampuninya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «(Как-то раз один) человек, шедший по дороге, увидел ветку с колючками и убрал её с пути, и Аллах воздал ему благодарностью, простив ему (его прегрешения)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறியதாவது: ஒரு மனிதர் ஒரு சாலையில் நடந்து சென்றுகொண்டிருந்தபோது பாதையில் முட்கிளையொன்றைக் கண்டு அதை எடுத்து (எறிந்து)விட்டார். அவரது இந்த நற்செயலை அல்லாஹ் அங்கீகரித்து அவருக்கு (அவர் செய்த பாவங்களிலிருந்து) மன்னிப்பு வழங்கினான். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a.'den nakledilmiştir: Allah Resulü Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Bir adam yolda yürürken bir diken dalı bulmuştu. Onu aldı ve Allah onun bu davranışına memnun olup onu bağışladı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عبداللہ بن یوسف تنیسی نے بیان کیا، کہا ہم کو امام مالک نے خبر دی، انہیں سمی نے، انہیں ابوصالح نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، ایک شخص راستے پر چل رہا تھا کہ اس نے وہاں کانٹے دار ڈالی دیکھی۔ اس نے اسے اٹھا لیا تو اللہ تعالیٰ نے اس کا یہ عمل قبول کیا اور اس کی مغفرت کر دی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2472</td></tr><tr><td>Arabic No</td><td>2472</td></tr><tr><td>Reference</td><td>Book 46 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2472 |
+| Arabic No | 2472 |
+| Reference | Book 46 Hadith 33 |

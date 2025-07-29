@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَبُو عَامِرٍ، عَنْ عَبْدِ اللَّهِ بْنِ جَعْفَرٍ، عَنْ إِسْمَاعِيلَ بْنِ مُحَمَّدٍ، عَنْ عَامِرِ بْنِ سَعْدٍ، ‏:‏ أَنَّ سَعْدًا، لَمَّا حَضَرَتْهُ الْوَفَاةُ قَالَ ‏:‏ الْحَدُوا لِي لَحْدًا، وَانْصِبُوا عَلَىَّ نَصْبًا كَمَا فُعِلَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 21 Hadith 191</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |
+
 اخبرنا هارون بن عبد الله، قال حدثنا ابو عامر، عن عبد الله بن جعفر، عن اسماعيل بن محمد، عن عامر بن سعد، : ان سعدا، لما حضرته الوفاة قال : الحدوا لي لحدا، وانصبوا على نصبا كما فعل برسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 21 Hadith 191</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । হারুন ইবনু আব্দুল্লাহ (রহঃ) ... আমির সা'দ (রাঃ) থেকে বর্ণিত যে, সা’দ (রাঃ)-এর মৃত্যুর সময় যখন উপস্থিত হল তখন তিনি বললেন, তোমরা আমার জন্য লাহদ কবর খনন করবে এবং আমার কবরের উপরে কিছু গেড়ে দেবে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কবরের উপরে যে রকম গেড়ে দেওয়া হয়েছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 21 Hadith 191</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Amir bin Sa'd that when Sa'd was dying he said:"Make a niche for me in the side of the grave and set up (bricks) over me as was done for the Messenger of Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 21 Hadith 191</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |
+
+## French
+
+Rapporté par 'Amir bin Sa'd : Quand Sa'd était mourant, il a dit : "Faites-moi une niche sur le côté de la tombe et placez des briques au-dessus de moi, comme cela a été fait pour le Messager d'Allah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Harun bin 'Abdullah\] dia berkata; telah menceritakan kepada kami \[Abu 'Amir\] dari \['Abdullah bin Ja'far\] dari \[Isma'il bin Muhammad\] dari \['Amir bin Sa'd\] bahwasanya \[Sa'd\] ketika menjelang wafatnya berkata; "Galilah lahd untukku dan tegakkan (gundukkan tanah) di atasku, sebagaimana telah dibuatkan untuk Rasulullah shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Harun bin 'Abdullah] dia berkata; telah menceritakan kepada kami [Abu 'Amir] dari ['Abdullah bin Ja'far] dari [Isma'il bin Muhammad] dari ['Amir bin Sa'd] bahwasanya [Sa'd] ketika menjelang wafatnya berkata; "Galilah lahd untukku dan tegakkan (gundukkan tanah) di atasku, sebagaimana telah dibuatkan untuk Rasulullah shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 21 Hadith 191</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 21 Hadith 191</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عامر بن سعد بن ابی وقاص سے روایت ہے کہ سعد رضی اللہ عنہ کی جب وفات ہونے لگی تو انہوں نے کہا: میرے لیے بغلی قبر کھدوانا، اور اینٹیں کھڑی کرنا جیسے رسول اللہ صلی اللہ علیہ وسلم علیہ السلام کے لیے کی گئی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2008</td></tr><tr><td>Arabic No</td><td>2008</td></tr><tr><td>Reference</td><td>Book 21 Hadith 191</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2008 |
+| Arabic No | 2008 |
+| Reference | Book 21 Hadith 191 |

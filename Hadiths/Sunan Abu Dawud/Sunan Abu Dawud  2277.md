@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ الْحُلْوَانِيُّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، وَأَبُو عَاصِمٍ عَنِ ابْنِ جُرَيْجٍ، أَخْبَرَنِي زِيَادٌ، عَنْ هِلاَلِ بْنِ أُسَامَةَ، أَنَّ أَبَا مَيْمُونَةَ، سَلْمَى - مَوْلًى مِنْ أَهْلِ الْمَدِينَةِ رَجُلَ صِدْقٍ - قَالَ بَيْنَمَا أَنَا جَالِسٌ مَعَ أَبِي هُرَيْرَةَ جَاءَتْهُ امْرَأَةٌ فَارِسِيَّةٌ مَعَهَا ابْنٌ لَهَا فَادَّعَيَاهُ وَقَدْ طَلَّقَهَا زَوْجُهَا فَقَالَتْ يَا أَبَا هُرَيْرَةَ - وَرَطَنَتْ لَهُ بِالْفَارِسِيَّةِ - زَوْجِي يُرِيدُ أَنْ يَذْهَبَ بِابْنِي فَقَالَ أَبُو هُرَيْرَةَ اسْتَهِمَا عَلَيْهِ وَرَطَنَ لَهَا بِذَلِكَ فَجَاءَ زَوْجُهَا فَقَالَ مَنْ يُحَاقُّنِي فِي وَلَدِي فَقَالَ أَبُو هُرَيْرَةَ اللَّهُمَّ إِنِّي لاَ أَقُولُ هَذَا إِلاَّ أَنِّي سَمِعْتُ امْرَأَةً جَاءَتْ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم وَأَنَا قَاعِدٌ عِنْدَهُ فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ زَوْجِي يُرِيدُ أَنْ يَذْهَبَ بِابْنِي وَقَدْ سَقَانِي مِنْ بِئْرِ أَبِي عِنَبَةَ وَقَدْ نَفَعَنِي ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ اسْتَهِمَا عَلَيْهِ ‏"‏ ‏.‏ فَقَالَ زَوْجُهَا مَنْ يُحَاقُّنِي فِي وَلَدِي فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ هَذَا أَبُوكَ وَهَذِهِ أُمُّكَ فَخُذْ بِيَدِ أَيِّهِمَا شِئْتَ ‏"‏ ‏.‏ فَأَخَذَ بِيَدِ أُمِّهِ فَانْطَلَقَتْ بِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
+
 حدثنا الحسن بن علي الحلواني، حدثنا عبد الرزاق، وابو عاصم عن ابن جريج، اخبرني زياد، عن هلال بن اسامة، ان ابا ميمونة، سلمى - مولى من اهل المدينة رجل صدق - قال بينما انا جالس مع ابي هريرة جاءته امراة فارسية معها ابن لها فادعياه وقد طلقها زوجها فقالت يا ابا هريرة - ورطنت له بالفارسية - زوجي يريد ان يذهب بابني فقال ابو هريرة استهما عليه ورطن لها بذلك فجاء زوجها فقال من يحاقني في ولدي فقال ابو هريرة اللهم اني لا اقول هذا الا اني سمعت امراة جاءت الى رسول الله صلى الله عليه وسلم وانا قاعد عنده فقالت يا رسول الله ان زوجي يريد ان يذهب بابني وقد سقاني من بير ابي عنبة وقد نفعني . فقال رسول الله صلى الله عليه وسلم " استهما عليه " . فقال زوجها من يحاقني في ولدي فقال النبي صلى الله عليه وسلم " هذا ابوك وهذه امك فخذ بيد ايهما شيت " . فاخذ بيد امه فانطلقت به
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
 
 ## Bengali
 
+। হিলাল ইবনু উসামাহ (রহ.) সূত্রে বর্ণিত। আবূ মায়মূনাহ সালামাহ নামক মদীনাবাসীদের এক সত্যবাদী মুক্তদাস বলেন, একদা আমি আবূ হুরাইরাহ (রাযি.)-এর নিকট বসা ছিলাম। এমন সময় ফার্সীভাষী জনৈক মহিলা তার একটি সন্তানসহ তার তালাকদাতা স্বামী ও সন্তানের দাবী নিয়ে সেখানে উপস্থিত হলো। মহিলাটি ফার্সী বললো, হে আবূ হুরাইরাহ! আমার স্বামী আমার সন্তানটি নিয়ে যেতে চাইছে। আবূ হুরাইরাহ (রাযি.) বললেন, তোমরা এ সন্তানের বিষয়ে লটারীর মাধ্যমে মীমাংসা করো। তিনি বিদেশী ভাষায় মহিলাকে কথাটি বললেন। অতঃপর তার স্বামী এসে বললো, আমার সন্তান আমার থেকে কে কেড়ে নিবে? আবূ হুরাইরাহ বললেন, হে আল্লাহ! আমি ঐ কথাই বলবো যা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি। তিনি এক মহিলাকে বলেছিলেন, তখন আমি সেখানে উপস্থিত ছিলাম। মহিলাটি বললো, হে আল্লাহর রাসূল! আমার স্বামী আমার থেকে আমার সন্তানটি নিতে চাইছে। অথচ এ সন্তান আবূ ইনাবার কূপ থেকে পানি এনে আমাকে পান করায় এবং আমার অনেক খিদমাত করে থাকে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমরা উভয়ে লটারীর মাধ্যমে ফায়সালা করো। কিন্তু স্বামী বললো, আমার সন্তান আমার থেকে কে কেড়ে নিবে? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সন্তানটিকে লক্ষ্য করে বললেনঃ ইনি তোমার বাবা এবং ইনি তোমার মা। সুতরাং তুমি এদের যাকে খুশি গ্রহণ করো। তখন সে তার মায়ের হাত ধরে, ফলে মহিলাটি তাকে নিয়ে চলে গেলো।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হিলাল ইবনু উসামাহ (রহ.) সূত্রে বর্ণিত। আবূ মায়মূনাহ সালামাহ নামক মদীনাবাসীদের এক সত্যবাদী মুক্তদাস বলেন, একদা আমি আবূ হুরাইরাহ (রাযি.)-এর নিকট বসা ছিলাম। এমন সময় ফার্সীভাষী জনৈক মহিলা তার একটি সন্তানসহ তার তালাকদাতা স্বামী ও সন্তানের দাবী নিয়ে সেখানে উপস্থিত হলো। মহিলাটি ফার্সী বললো, হে আবূ হুরাইরাহ! আমার স্বামী আমার সন্তানটি নিয়ে যেতে চাইছে। আবূ হুরাইরাহ (রাযি.) বললেন, তোমরা এ সন্তানের বিষয়ে লটারীর মাধ্যমে মীমাংসা করো। তিনি বিদেশী ভাষায় মহিলাকে কথাটি বললেন। অতঃপর তার স্বামী এসে বললো, আমার সন্তান আমার থেকে কে কেড়ে নিবে? আবূ হুরাইরাহ বললেন, হে আল্লাহ! আমি ঐ কথাই বলবো যা আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি। তিনি এক মহিলাকে বলেছিলেন, তখন আমি সেখানে উপস্থিত ছিলাম। মহিলাটি বললো, হে আল্লাহর রাসূল! আমার স্বামী আমার থেকে আমার সন্তানটি নিতে চাইছে। অথচ এ সন্তান আবূ ইনাবার কূপ থেকে পানি এনে আমাকে পান করায় এবং আমার অনেক খিদমাত করে থাকে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমরা উভয়ে লটারীর মাধ্যমে ফায়সালা করো। কিন্তু স্বামী বললো, আমার সন্তান আমার থেকে কে কেড়ে নিবে? নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সন্তানটিকে লক্ষ্য করে বললেনঃ ইনি তোমার বাবা এবং ইনি তোমার মা। সুতরাং তুমি এদের যাকে খুশি গ্রহণ করো। তখন সে তার মায়ের হাত ধরে, ফলে মহিলাটি তাকে নিয়ে চলে গেলো।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hilal ibn Usamah quoted Abu Maimunah Salma, client of the people of Medina, as saying:While I was sitting with AbuHurayrah, a Persian woman came to him along with a son of hers. She had been divorced by her husband and they both claimed him. She said: AbuHurayrah, speaking to him in Persian, my husband wishes to take my son away. AbuHurayrah said: Cast lots for him, saying it to her in a foreign language. Then her husband came and asked: Who is disputing with me about my son? AbuHurayrah said: O Allah, I do not say this, except that I heard a woman who came to the Messenger of Allah (ﷺ) while I was sitting with him, and she said: My husband wishes to take away my son, Messenger of Allah, and he draws water for me from the well of AbuInabah, and he has been good to me. The Messenger of Allah (ﷺ) said: Cast lots for him. Her husband said: Who is disputing with me about my son? The Prophet (ﷺ) said: This is your father and this your mother, so take whichever of them you wish by the hand. So he took his mother's hand and she went away with him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
+
+## French
+
+Hilal ibn Usamah rapporte d’après Abu Maimunah Salma, affranchi du peuple de Médine : Alors que j’étais assis avec Abu Hurayrah رضي الله عنه, une femme perse est venue vers lui avec son fils. Elle avait été divorcée par son mari, et tous deux réclamaient l’enfant. Elle dit à Abu Hurayrah, en persan : « Mon mari veut m’enlever mon fils. » Abu Hurayrah lui dit : « Tirez au sort pour lui », en langue étrangère. Puis le mari arriva et demanda : « Qui me dispute mon fils ? » Abu Hurayrah répondit : « Ô Allah, je ne dis cela que parce que j’ai entendu une femme venir auprès du Messager d’Allah ﷺ alors que j’étais assis avec lui, et elle a dit : “Mon mari veut m’enlever mon fils, ô Messager d’Allah, il puise de l’eau pour moi au puits d’Abu Inabah et il a été bon envers moi.” » Le Messager d’Allah ﷺ a dit : « Tirez au sort pour lui. » Le mari demanda : « Qui me dispute mon fils ? » Le Prophète ﷺ dit : « Voici ton père et voici ta mère, prends la main de celui que tu veux. » L’enfant a pris la main de sa mère et elle est partie avec lui
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali Al Hulwani\], telah menceritakan kepada kami \[Abdurrazzaq\], dan \[Abu 'Ashim\] dari \[Juraij\], telah mengabarkan kepadaku \[Ziyad\] dari \[Hilal bin Usamah\], bahwa \[Abu Maimunah\] mantan budak penduduk Madinah adalah orang yang jujur, ia berkata; tatkala aku sedang duduk bersama \[Abu Hurairah\], datang kepadanya seorang wanita Persia yang membawa anaknya -keduanya mengklaim lebih berhak terhadap anak tersebut-, dan suaminya telah menceraikannya. Wanita tersebut berkata menggunakan bahasa Persia; wahai Abu Hurairah, suamiku ingin pergi membawa anakku. Kemudian Abu Hurairah berkata kepadanya menggunakan bahasa asing; undilah anak tersebut. Kemudian suaminya datang dan berkata; siapakah yang menyelisihiku mengenai anakku? Kemudian Abu Hurairah berkata; Ya Allah, aku tidak mengatakan hal ini kecuali karena aku telah mendengar seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam sementara aku duduk di sisinya, kemudian ia berkata; wahai Rasulullah shallallahu 'alaihi wasallam, sesungguhnya suamiku hendak pergi membawa anakku, sementara ia telah membantuku mengambil air dari sumur Abu 'Inabah, dan ia telah memberiku manfaat. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Undilah anak tersebut!" kemudian suaminya berkata; siapakah yang akan menyelisihiku mengenai anakku? Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Ini adalah ayahmu dan ini adalah ibumu, gandenglah tangan salah seorang diantara mereka yang engkau kehendaki!" kemudian ia menggandengang tangan ibunya, lalu wanita tersebut pergi membawanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali Al Hulwani], telah menceritakan kepada kami [Abdurrazzaq], dan [Abu 'Ashim] dari [Juraij], telah mengabarkan kepadaku [Ziyad] dari [Hilal bin Usamah], bahwa [Abu Maimunah] mantan budak penduduk Madinah adalah orang yang jujur, ia berkata; tatkala aku sedang duduk bersama [Abu Hurairah], datang kepadanya seorang wanita Persia yang membawa anaknya -keduanya mengklaim lebih berhak terhadap anak tersebut-, dan suaminya telah menceraikannya. Wanita tersebut berkata menggunakan bahasa Persia; wahai Abu Hurairah, suamiku ingin pergi membawa anakku. Kemudian Abu Hurairah berkata kepadanya menggunakan bahasa asing; undilah anak tersebut. Kemudian suaminya datang dan berkata; siapakah yang menyelisihiku mengenai anakku? Kemudian Abu Hurairah berkata; Ya Allah, aku tidak mengatakan hal ini kecuali karena aku telah mendengar seorang wanita datang kepada Rasulullah shallallahu 'alaihi wasallam sementara aku duduk di sisinya, kemudian ia berkata; wahai Rasulullah shallallahu 'alaihi wasallam, sesungguhnya suamiku hendak pergi membawa anakku, sementara ia telah membantuku mengambil air dari sumur Abu 'Inabah, dan ia telah memberiku manfaat. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Undilah anak tersebut!" kemudian suaminya berkata; siapakah yang akan menyelisihiku mengenai anakku? Kemudian Nabi shallallahu 'alaihi wasallam berkata: "Ini adalah ayahmu dan ini adalah ibumu, gandenglah tangan salah seorang diantara mereka yang engkau kehendaki!" kemudian ia menggandengang tangan ibunya, lalu wanita tersebut pergi membawanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Маймуна Сальма, вольноотпущенник из числа жителей Медины, человек, достойный доверия, передаёт: «Однажды, когда я сидел вместе с Абу Хурайрой, к нему подошла персиянка со своим сыном. Муж дал ей развод и теперь каждый из них желал оставить ребёнка себе. Она сказала по-персидски: “Мой муж хочет забрать моего сына”. Абу Хурайра сказал ей по-персидски: “Тяните жребий”. Тогда пришёл её муж и сказал: “Кто оспаривает моё право на сына?” Абу Хурайра сказал: “Я говорю это лишь потому, что слышал, как к Посланнику Аллаха ﷺ пришла одна женщина, когда я сидел у него, и сказала: “О Посланник Аллаха! Мой муж хочет забрать у меня сына, а ведь мой сын уже подрос, и может принести воды из колодца Абу Инабы, и помогает мне!” Посланник Аллаха ﷺ сказал: “Тяните жребий”. Её муж сказал: “Кто оспаривает моё право на сына?” Тогда Пророк ﷺ сказал: “Это твой отец, а это твоя мать. Возьми за руку кого хочешь”. Ребёнок взял мать за руку, и она ушла вместе с ним”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Medîne halkından doğru sözlü bir kimse olan (ve) Selmâ (diye anılan) Ebü Meymûne demiştir ki; Ben Ebu Hureyre ile beraber otururken İranlı bir kadın oğlu ile birlikte (yanımıza) geldi ve (ikisi birden) kadını kocasının boşadığını iddia ettiler. Hemen arkasından, kadın, farsça olarak; Ey Ebu Hureyre! kocam beni boşadı. Oğlumu da (benden alıp) götürmek istiyor dedi. Ebû Hureyre de; Onun hakkında kur'a çekiniz, cevâbını verdi ve o'na yine Farsça birşeyler söyledi. O anda (kadının) kocası geldi ve; “Çocuğum hakkında kim bana karşı hak iddâ edebilir? dedi. Ebû Hureyre de; Allah için ben böyle bir şey söylemiyorum ancak (şunu ifâde etmek istiyorum). Ben Rasûlullah (s.a.v.)'in yanında otururken bir kadının Nebi (s.a.v.)'e gelip de; Ey Allah'ın Rasûlü kocam (beni boşadıktan sonra bir de) oğlumu (yanımdan alıp) götürmek istiyor. Oysa oğlum bana Ebû Inebe kuyusundan su (getirip) içirdi. (Oğlum) bana faydalı oldu, dedi. Rasûlullah (s.a.v.) de (onlara); "Onun hakkında kur'a çekiniz" buyurdu. Bunun üzerine (kadının) kocası; Çocuk hakkında bana karşı kim hak iddia edebilir? dedi. Peygamber (s.a.v.) de (çocuğa dönerek); "Şu babandır. Şu da annendir, onlardan istediğinin elini tut" buyurdu. (Çocuk da) annesinin elini tuttu. Bunun üzerine (kadın) çocukla (birlikte oradan uzaklaşıp) gitti dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہلال بن اسامہ سے روایت ہے کہ ابومیمونہ سلمی جو اہل مدینہ کے مولی اور ایک سچے آدمی ہیں کا بیان ہے کہ میں ایک بار ابوہریرہ رضی اللہ عنہ کے پاس بیٹھا تھا کہ اسی دوران ان کے پاس ایک فارسی عورت آئی جس کے ساتھ اس کا لڑکا بھی تھا، اس کے شوہر نے اسے طلاق دے دی تھی اور وہ دونوں ہی اس کے دعویدار تھے، عورت کہنے لگی: ابوہریرہ! ( پھر اس نے فارسی زبان میں گفتگو کی ) میرا شوہر مجھ سے میرے بیٹے کو لے لینا چاہتا ہے۔ ابوہریرہ رضی اللہ عنہ نے کہا: تم دونوں اس کے لیے قرعہ اندازی کرو، ابوہریرہ رضی اللہ عنہ نے بھی فارسی زبان ہی میں اس سے گفتگو کی، اتنے میں اس کا شوہر آیا اور کہنے لگا: میرے لڑکے کے بارے میں مجھ سے کون جھگڑا کر سکتا ہے؟ ابوہریرہ رضی اللہ عنہ نے کہا: یا اللہ! میں نے تو یہ فیصلہ صرف اس وجہ سے کیا ہے کہ میں نے ایک عورت کو کہتے سنا تھا وہ رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں آئی میں آپ کے پاس بیٹھا تھا، وہ کہنے لگی: اللہ کے رسول! میرا شوہر میرے بیٹے کو مجھ سے لے لینا چاہتا ہے، حالانکہ وہ ابوعنبہ کے کنویں سے مجھے پانی لا کر پلاتا ہے اور وہ مجھے فائدہ پہنچاتا ہے، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم دونوں اس کے لیے قرعہ اندازی کرو ، اس کا شوہر بولا: میرے لڑکے کے متعلق مجھ سے کون جھگڑا کر سکتا ہے تو نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: یہ تیرا باپ ہے، اور یہ تیری ماں ہے، ان میں سے تو جس کا بھی چاہے ہاتھ تھام لے ، چنانچہ اس نے اپنی ماں کا ہاتھ پکڑ لیا، اور وہ اسے لے کر چلی گئی ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2277</td></tr><tr><td>Arabic No</td><td>2277</td></tr><tr><td>Reference</td><td>Book 13 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2277 |
+| Arabic No | 2277 |
+| Reference | Book 13 Hadith 103 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا مَالِكٌ، عَنْ صَفْوَانَ بْنِ سُلَيْمٍ، عَنْ سَعِيدِ بْنِ سَلَمَةَ، عَنِ الْمُغِيرَةِ بْنِ أَبِي بُرْدَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي مَاءِ الْبَحْرِ ‏ "‏ هُوَ الطَّهُورُ مَاؤُهُ الْحَلاَلُ مَيْتَتُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |
+
 اخبرنا اسحاق بن منصور، قال حدثنا عبد الرحمن، قال حدثنا مالك، عن صفوان بن سليم، عن سعيد بن سلمة، عن المغيرة بن ابي بردة، عن ابي هريرة، عن النبي صلى الله عليه وسلم في ماء البحر " هو الطهور ماوه الحلال ميتته
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন মানসূর (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সমুদ্রের পানি পাক, আর এর মৃত জীব হালাল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah, that the Prophet (said), concerning the water of the sea:"Its water is pure (and Purification) and its 'dead meat' is permissible (to eat)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète, à propos de l’eau de mer, a dit : « Son eau est pure (et purifiante) et ses animaux morts sont permis à la consommation. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Manshur\], ia berkata; telah menceritakan kepada kami \[Abdurrahman\], ia berkata; telah menceritakan kepada kami \[Malik\] dari \[Shafwan bin Sulaim\] dari \[Sa'id bin Salamah\] dari \[Al Mughirah bin Abu Burdah\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam mengenai air laut; beliau bersabda: "Laut itu suci airnya dan halal bangkainya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Manshur], ia berkata; telah menceritakan kepada kami [Abdurrahman], ia berkata; telah menceritakan kepada kami [Malik] dari [Shafwan bin Sulaim] dari [Sa'id bin Salamah] dari [Al Mughirah bin Abu Burdah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam mengenai air laut; beliau bersabda: "Laut itu suci airnya dan halal bangkainya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4350</td></tr><tr><td>Arabic No</td><td>4350</td></tr><tr><td>Reference</td><td>Book 42 Hadith 88</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4350 |
+| Arabic No | 4350 |
+| Reference | Book 42 Hadith 88 |

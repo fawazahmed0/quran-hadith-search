@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ بَزِيعٍ، قَالَ حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، عَنْ أَبِي يُونُسَ الْقُشَيْرِيِّ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ صَفْوَانَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ مَنْ قَاتَلَ دُونَ مَالِهِ فَقُتِلَ فَهُوَ شَهِيدٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |
+
 اخبرنا محمد بن عبد الله بن بزيع، قال حدثنا بشر بن المفضل، عن ابي يونس القشيري، عن عمرو بن دينار، عن عبد الله بن صفوان، عن عبد الله بن عمرو، قال سمعت رسول الله صلى الله عليه وسلم يقول " من قاتل دون ماله فقتل فهو شهيد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আবদুল্লাহ্ ইবন বাযী (রহঃ) ... আবদুল্লাহ্ ইবন আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি তার মাল রক্ষার্থে যুদ্ধ করে নিহত হয়, সে শহীদ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |
 
 ## English
 
+It was narrated that 'Abdullah bin 'Amr said:"I heard the Messenger of Allah \[SAW\] say: 'Whoever fights to protect his wealth and is killed, he is a martyr
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that 'Abdullah bin 'Amr said:"I heard the Messenger of Allah [SAW] say: 'Whoever fights to protect his wealth and is killed, he is a martyr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Amr : J’ai entendu le Messager d’Allah ﷺ dire : "Celui qui se bat pour protéger ses biens et qui est tué, c’est un martyr
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Abdullah bin Bazi'\], ia berkata; telah menceritakan kepada kami \[Bisyr bin Al Mufadhdhal\] dari \[Abu Yunus Al Qusyari\] dari \['Amr bin Dinar\] dari \[Abdullah bin Shafwan\] dari \[Abdullah bin 'Amr\], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang berperang mempertahankan hartanya kemudian terbunuh maka ia adalah orang yang syahid
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Bazi'], ia berkata; telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal] dari [Abu Yunus Al Qusyari] dari ['Amr bin Dinar] dari [Abdullah bin Shafwan] dari [Abdullah bin 'Amr], ia berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang berperang mempertahankan hartanya kemudian terbunuh maka ia adalah orang yang syahid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4085</td></tr><tr><td>Arabic No</td><td>4085</td></tr><tr><td>Reference</td><td>Book 37 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4085 |
+| Arabic No | 4085 |
+| Reference | Book 37 Hadith 120 |

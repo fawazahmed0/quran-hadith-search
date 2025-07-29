@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ اللَّهِ بْنِ الْمُخْتَارِ، عَنْ مُوسَى بْنِ أَنَسٍ، يُحَدِّثُ عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَّهُ وَامْرَأَةً مِنْهُمْ فَجَعَلَهُ عَنْ يَمِينِهِ وَالْمَرْأَةَ خَلْفَ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
+
 حدثنا حفص بن عمر، حدثنا شعبة، عن عبد الله بن المختار، عن موسى بن انس، يحدث عن انس، ان رسول الله صلى الله عليه وسلم امه وامراة منهم فجعله عن يمينه والمراة خلف ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদিন তাঁর ও তাদের মধ্যকার একজন মহিলার ইমামতি করলেন। তিনি তাঁকে তাঁর ডান পাশে এবং ঐ মহিলাকে পেছনে দাঁড় করালেন।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একদিন তাঁর ও তাদের মধ্যকার একজন মহিলার ইমামতি করলেন। তিনি তাঁকে তাঁর ডান পাশে এবং ঐ মহিলাকে পেছনে দাঁড় করালেন।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas said:The Messenger of Allah (ﷺ) led him and one of their women in prayer. He (the prophet) put him on his right side and the woman behind him (Anas)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
+
+## French
+
+Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dirigé la prière pour lui et une femme de leur famille. Il (le Prophète) l’a placé à sa droite et la femme derrière lui (Anas)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar\] telah menceritakan kepada kami \[Syu'bah\] dari \[Abdullah bin Al-Mukhtar\] dari \[Musa bin Anas\] dia menceritakan dari \[Anas\] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah mengimaminya dan seorang wanita dari mereka, maka beliau menjadikan Anas di sebelah kanannya dan wanita tersebut di belakang mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar] telah menceritakan kepada kami [Syu'bah] dari [Abdullah bin Al-Mukhtar] dari [Musa bin Anas] dia menceritakan dari [Anas] bahwasanya Rasulullah shallallahu 'alaihi wasallam pernah mengimaminya dan seorang wanita dari mereka, maka beliau menjadikan Anas di sebelah kanannya dan wanita tersebut di belakang mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса о том, что (однажды) Посланник Аллаха ﷺ возглавляя в молитве его и женщину из числа его домочадцев, поставил его справа от себя, а женщину позади (ряда мужчин)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a.)'den (rivayet edildiğine göre); Resulullah (Sallallahu aleyhi ve Sellem) Hazret-i Enes'le onlardan bir kadına imam olmuş; Enes'i sağına kadını da onun arkasına durdurmuştur. Diğer tahric: Nesai, imame; Ibn Mace, ikame
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ان کی اور ان کے گھر کی ایک عورت کی امامت کی تو آپ صلی اللہ علیہ وسلم نے انہیں ( یعنی انس رضی اللہ عنہ کو ) اپنے داہنی طرف کھڑا کیا، اور عورت کو پیچھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (660)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>609</td></tr><tr><td>Arabic No</td><td>609</td></tr><tr><td>Reference</td><td>Book 2 Hadith 219</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (660) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 609 |
+| Arabic No | 609 |
+| Reference | Book 2 Hadith 219 |

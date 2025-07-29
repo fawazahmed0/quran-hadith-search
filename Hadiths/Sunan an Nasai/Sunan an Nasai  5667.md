@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، - يَعْنِي ابْنَ الْمُبَارَكِ - عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي أَبُو بَكْرِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ، أَنَّ أَبَاهُ، قَالَ سَمِعْتُ عُثْمَانَ، يَقُولُ اجْتَنِبُوا الْخَمْرَ فَإِنَّهَا أُمُّ الْخَبَائِثِ فَإِنَّهُ كَانَ رَجُلٌ مِمَّنْ خَلاَ قَبْلَكُمْ يَتَعَبَّدُ وَيَعْتَزِلُ النَّاسَ فَذَكَرَ مِثْلَهُ قَالَ فَاجْتَنِبُوا الْخَمْرَ فَإِنَّهُ وَاللَّهِ لاَ يَجْتَمِعُ وَالإِيمَانُ أَبَدًا إِلاَّ يُوشِكُ أَحَدُهُمَا أَنْ يُخْرِجَ صَاحِبَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 51 Hadith 129</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |
+
 اخبرنا سويد، قال انبانا عبد الله، - يعني ابن المبارك - عن يونس، عن الزهري، قال حدثني ابو بكر بن عبد الرحمن بن الحارث، ان اباه، قال سمعت عثمان، يقول اجتنبوا الخمر فانها ام الخبايث فانه كان رجل ممن خلا قبلكم يتعبد ويعتزل الناس فذكر مثله قال فاجتنبوا الخمر فانه والله لا يجتمع والايمان ابدا الا يوشك احدهما ان يخرج صاحبه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 51 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... উসমান (রাঃ) বলতেন, তোমরা মদ পরিত্যাগ কর। কেননা এটাই সকল অনিষ্টের মূল। তোমাদের পূর্ব যুগে এক ব্যক্তি ছিল। সে সর্বদা ইবাদত-বন্দেগীতে লিপ্ত থাকত এবং লোক সংশ্রব হতে দূরে থাকত। এরপর পূর্বোক্ত ঘটনা বর্ণনা করে বললেনঃ তোমরা মদ পরিত্যাগ কর; কেননা, আল্লাহর শপথ! মদ এবং ঈমান কখনো সহাবস্থান করে না; বরং একটি অপরটিকে বের করে দেয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 51 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Bakr bin 'Abdur-Rahman bin Al-Harith narrated that his father said:"I heard 'Uthman say: 'Avoid Khamr for it is the mother of all evils. There was a man among those who came before you who was a devoted worshipper and used to stay away from people.'" And he mentioned something similar. He said: "Avoid Khamr for, by Allah, it can never coexist with Faith, but soon one of them will expel the other
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 51 Hadith 129</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |
+
+## French
+
+Rapporté par Abu Bakr bin 'Abdur-Rahman bin Al-Harith, d'après son père : J'ai entendu 'Uthman dire : "Évitez le Khamr car c'est la mère de tous les vices. Il y avait un homme parmi ceux qui vous ont précédés qui était un adorateur dévoué et qui se tenait à l'écart des gens." Et il a raconté quelque chose de similaire. Il a dit : "Évitez le Khamr car, par Allah, il ne peut jamais coexister avec la foi, mais l'un des deux finira par chasser l'autre
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 51 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 51 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5667</td></tr><tr><td>Arabic No</td><td>5667</td></tr><tr><td>Reference</td><td>Book 51 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5667 |
+| Arabic No | 5667 |
+| Reference | Book 51 Hadith 129 |

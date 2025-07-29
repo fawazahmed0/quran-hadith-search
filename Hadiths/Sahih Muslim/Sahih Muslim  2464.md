@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا جَرِيرٌ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو كُرَيْبٍ وَزُهَيْرُ بْنُ حَرْبٍ قَالُوا حَدَّثَنَا أَبُو مُعَاوِيَةَ، كِلاَهُمَا عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ ‏.‏ وَلَيْسَ فِي حَدِيثِهِمَا ‏ "‏ يَمْرُقُونَ مِنَ الدِّينِ كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عثمان بن ابي شيبة، حدثنا جرير، ح وحدثنا ابو بكر بن ابي شيبة، وابو كريب وزهير بن حرب قالوا حدثنا ابو معاوية، كلاهما عن الاعمش، بهذا الاسناد . وليس في حديثهما " يمرقون من الدين كما يمرق السهم من الرمية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উসমান ইবনু আবূ শায়বাহ, আবূ বাকর ইবনু আবূ শায়বাহ, আবূ কুরায়ব ও যুহায়র ইবনু হারব (রহঃ) ... আ'মাশ (রহঃ) থেকে অপর এক সানাদে উপরে বর্ণিত হাদীসটির অনুরূপ একটি হাদীস বর্ণিত হয়েছে। তবে এখানে- “তীর যেভাবে শিকার থেকে বেরিয়ে যায় তারা অনুরূপভাবে দীন থেকে বেরিয়ে যাবে" কথাটির উল্লেখ নেই। (ইসলামিক ফাউন্ডেশন ২৩৩২, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of A'mash with the same chain of transmitters, but (these words) are not there:" They pass through the religion clean as the arrow passes through the prey
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## French
 
+Rapporté par un autre transmetteur : Ce hadith a été rapporté par A’mash avec la même chaîne de transmetteurs, mais il n’y a pas les mots : « Ils passent à côté de la religion comme la flèche traverse sa cible. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) В этой версии хадиса с другим иснадом нет слов: «Они отойдут от ислама подобно выпущенной из лука стреле»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Osman b. Ebi Şeybe rivayet etti. (Dediki): Bize Cerir rivayet etti. H. Bize Ebû Bekir b. Ebi Şeybe ile Ebû Kureyb ve Züheyr b. Harb dahî rivayet ettiler. (Dediler ki): Bize Ebû Muâviye rivayet etti. Cerir ile Ebû Muâviye ikisi birden A'meş'den bu isnâdia rivayette bulunmuşlardır. Yalnız onların hadîsinde: «Din'den, ok'un avı delip geçtiği gibi çıkarlar.» cümlesi yoktur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اعمش سے جریر اور ابو معاویہ نے اسی سند کے ساتھ روایت کی اور ان دو نوں کی حدیث میں " دین میں سے تیز رفتاری کے ساتھ یوں نکلیں گے جس طرح تیر نشانہ لگے شکار سے تیزی سے نکل جاتا ہے کے الفا ظ نہیں ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2464</td></tr><tr><td>Arabic No</td><td>1066.03</td></tr><tr><td>Reference</td><td>Book 12 Hadith 201</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2464 |
+| Arabic No | 1066.03 |
+| Reference | Book 12 Hadith 201 |

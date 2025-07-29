@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَزِيدُ بْنُ خَالِدِ بْنِ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ مَوْهَبٍ الرَّمْلِيُّ الْهَمْدَانِيُّ، ح وَحَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ يَحْيَى الْحَرَّانِيُّ، قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ، ح وَحَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، - وَهَذَا حَدِيثُ مُحَمَّدِ بْنِ سَلَمَةَ - عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، - قَالَ أَبُو دَاوُدَ قَالَ يَزِيدُ وَعَبْدُ الْعَزِيزِ فِي حَدِيثِهِمَا عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ وَأَبِي أُمَامَةَ بْنِ سَهْلٍ - عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ وَأَبِي هُرَيْرَةَ قَالاَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ مَنِ اغْتَسَلَ يَوْمَ الْجُمُعَةِ وَلَبِسَ مِنْ أَحْسَنِ ثِيَابِهِ وَمَسَّ مِنْ طِيبٍ - إِنْ كَانَ عِنْدَهُ - ثُمَّ أَتَى الْجُمُعَةَ فَلَمْ يَتَخَطَّ أَعْنَاقَ النَّاسِ ثُمَّ صَلَّى مَا كَتَبَ اللَّهُ لَهُ ثُمَّ أَنْصَتَ إِذَا خَرَجَ إِمَامُهُ حَتَّى يَفْرُغَ مِنْ صَلاَتِهِ كَانَتْ كَفَّارَةً لِمَا بَيْنَهَا وَبَيْنَ جُمُعَتِهِ الَّتِي قَبْلَهَا ‏"‏ ‏.‏ قَالَ وَيَقُولُ أَبُو هُرَيْرَةَ ‏"‏ وَزِيَادَةُ ثَلاَثَةِ أَيَّامٍ ‏"‏ ‏.‏ وَيَقُولُ ‏"‏ إِنَّ الْحَسَنَةَ بِعَشْرِ أَمْثَالِهَا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ مُحَمَّدِ بْنِ سَلَمَةَ أَتَمُّ وَلَمْ يَذْكُرْ حَمَّادٌ كَلاَمَ أَبِي هُرَيْرَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
+
 حدثنا يزيد بن خالد بن يزيد بن عبد الله بن موهب الرملي الهمداني، ح وحدثنا عبد العزيز بن يحيى الحراني، قالا حدثنا محمد بن سلمة، ح وحدثنا موسى بن اسماعيل، حدثنا حماد، - وهذا حديث محمد بن سلمة - عن محمد بن اسحاق، عن محمد بن ابراهيم، عن ابي سلمة بن عبد الرحمن، - قال ابو داود قال يزيد وعبد العزيز في حديثهما عن ابي سلمة بن عبد الرحمن وابي امامة بن سهل - عن ابي سعيد الخدري وابي هريرة قالا قال رسول الله صلى الله عليه وسلم " من اغتسل يوم الجمعة ولبس من احسن ثيابه ومس من طيب - ان كان عنده - ثم اتى الجمعة فلم يتخط اعناق الناس ثم صلى ما كتب الله له ثم انصت اذا خرج امامه حتى يفرغ من صلاته كانت كفارة لما بينها وبين جمعته التي قبلها " . قال ويقول ابو هريرة " وزيادة ثلاثة ايام " . ويقول " ان الحسنة بعشر امثالها " . قال ابو داود وحديث محمد بن سلمة اتم ولم يذكر حماد كلام ابي هريرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) ও আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তারা উভয়ে বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জুমুআর দিন গোসল করে উত্তম পোশাক পরিধান করবে, তার কাছে সুগন্ধি থাকলে ব্যবহার করবে, তারপর জুমুআর সালাত আদায়ের জন্য মসজিদে যাবে, সেখানে (সামনে যাওয়ার জন্য) লোকদের ঘাড় টপকাবে না এবং মহান আল্লাহর নির্ধারিত সালাত আদায় করে ইমামের খুতবার জন্য বের হওয়া থেকে সালাত শেষ করা পর্যন্ত সময় নীরবতা অবলম্বন করবে-তাহলে এটা তার জন্য এ জুমু‘আহ্ ও তার পূর্ববর্তী জুমুআর মধ্যবর্তী যাবতীয় গুনহর কাফফারা হয়ে যাবে। আবূ হুরাইরাহ্ (রাঃ) বলেন, আরো অতিরিক্ত তিন দিনের গুনাহেরও কাফফারা হবে। কেননা নেক কাজের সাওয়াব (কমপক্ষে) দশ গুণ হয়।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) ও আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তারা উভয়ে বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি জুমুআর দিন গোসল করে উত্তম পোশাক পরিধান করবে, তার কাছে সুগন্ধি থাকলে ব্যবহার করবে, তারপর জুমুআর সালাত আদায়ের জন্য মসজিদে যাবে, সেখানে (সামনে যাওয়ার জন্য) লোকদের ঘাড় টপকাবে না এবং মহান আল্লাহর নির্ধারিত সালাত আদায় করে ইমামের খুতবার জন্য বের হওয়া থেকে সালাত শেষ করা পর্যন্ত সময় নীরবতা অবলম্বন করবে-তাহলে এটা তার জন্য এ জুমু‘আহ্ ও তার পূর্ববর্তী জুমুআর মধ্যবর্তী যাবতীয় গুনহর কাফফারা হয়ে যাবে। আবূ হুরাইরাহ্ (রাঃ) বলেন, আরো অতিরিক্ত তিন দিনের গুনাহেরও কাফফারা হবে। কেননা নেক কাজের সাওয়াব (কমপক্ষে) দশ গুণ হয়।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Sa'id al-Khudri and Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:If anyone takes a bath on Friday, puts on his best clothes, applies a touch of perfume if has any, then goes to congregational prayer (in the mosque), and takes care not to step over people, then prayer what Allah has prescribes for him, then keeps silent from the time his Imam comes out until he finishes his prayer, it will atone for his sins during the previous week. Abu Hurairah said: (It will atone for his sins) for three days more. he further said: One is rewarded ten times for doing a good work. Abu Dawud said: The version narrated by Muhammad b. Salamah is perfect, and Hammad did not make a mention of the statement of Abu Hurairah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri رضي الله عنه et Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un prend un bain le vendredi, met ses plus beaux vêtements, applique un peu de parfum s’il en a, va à la prière en groupe (à la mosquée) sans enjamber les gens, prie ce qu’Allah a prescrit, puis reste silencieux dès que l’imam arrive jusqu’à la fin de la prière, cela effacera ses péchés de la semaine précédente. » Abu Huraira رضي الله عنه a ajouté : « (Cela effacera ses péchés) pour trois jours de plus. » Il a aussi dit : « Une bonne action est récompensée dix fois. » Abu Dawud dit : La version rapportée par Muhammad b. Salamah est complète, et Hammad n’a pas mentionné la parole d’Abu Huraira
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yazdi bin Khalid bin Yazid bin Abdullah bin Mauhib Ar-Ramli Al-Hamdani\] -dari jalur lain-. Telah menceritakan kepada kami \[Abdul Aziz bin Yahya Al-Harrani\] dia berkata; Telah menceritakan kepada kami \[Muhammad bin Salamah\] -dari jalur lain- Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dan hadits ini Muhammad bin Salamah dari \[Muhammad bin Ishaq\] dari \[Muhammad bin Ibrahim\] dari \[Abu Salamah bin Abdurrahman\], Abu Dawud berkata; berkata Yazid dan Abdul Aziz di dalam hadits riwayatnya; dari Abu Salamah bin Abdurrahman dan \[Abu Umamah bin Sahl\] dari \[Abu Sa'id Al-Khudri\] dan \[Abu Hurairah\] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mandi pada hari Jum'at dan memakai pakaian yang paling bagus, serta memakai wangi-wangian kalau dia punya, setelah itu dia mendatangi shalat Jum'at di masjid dan tidak melangkahi leher-leher jama'ah, kemudian mengerjakan shalat yang diperintahkan Allah, lalu dia diam (untuk mendengarkan khutbah) apabila imam telah datang untuk berkhutbah, sampai dia selesai dari shalatnya. Maka shalatnya itu menjadi penebus dosa baginya antara Jum'at itu dengan Jum'at sebelumnya." Perawi Hadits ini berkata; Abu Hurairah berkata;... dan ditambah tiga hari..., dan katanya, Sesungguhnya satu kebaikan itu akan dibalas dengan sepuluh kali lipat. Abu Dawud berkata; Hadits Muhammad bin Salamah lebih sempurna, dan Hammad tidak menyebutkan ucapan Abu Hurairah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yazdi bin Khalid bin Yazid bin Abdullah bin Mauhib Ar-Ramli Al-Hamdani] -dari jalur lain-. Telah menceritakan kepada kami [Abdul Aziz bin Yahya Al-Harrani] dia berkata; Telah menceritakan kepada kami [Muhammad bin Salamah] -dari jalur lain- Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dan hadits ini Muhammad bin Salamah dari [Muhammad bin Ishaq] dari [Muhammad bin Ibrahim] dari [Abu Salamah bin Abdurrahman], Abu Dawud berkata; berkata Yazid dan Abdul Aziz di dalam hadits riwayatnya; dari Abu Salamah bin Abdurrahman dan [Abu Umamah bin Sahl] dari [Abu Sa'id Al-Khudri] dan [Abu Hurairah] keduanya berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mandi pada hari Jum'at dan memakai pakaian yang paling bagus, serta memakai wangi-wangian kalau dia punya, setelah itu dia mendatangi shalat Jum'at di masjid dan tidak melangkahi leher-leher jama'ah, kemudian mengerjakan shalat yang diperintahkan Allah, lalu dia diam (untuk mendengarkan khutbah) apabila imam telah datang untuk berkhutbah, sampai dia selesai dari shalatnya. Maka shalatnya itu menjadi penebus dosa baginya antara Jum'at itu dengan Jum'at sebelumnya." Perawi Hadits ini berkata; Abu Hurairah berkata;... dan ditambah tiga hari..., dan katanya, Sesungguhnya satu kebaikan itu akan dibalas dengan sepuluh kali lipat. Abu Dawud berkata; Hadits Muhammad bin Salamah lebih sempurna, dan Hammad tidak menyebutkan ucapan Abu Hurairah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Са‘ид аль-Худри и Абу Хурайра сказали: «Посланник Аллаха ﷺ сказал: “Тому, кто искупается в пятницу, наденет на себя лучшую одежду и надушится благовониями, если они у него есть, а затем отправится на пятничную молитву, не будет перешагивать через шеи людей, затем совершит предписанную себе Аллахом молитву, затем, когда выйдет имам будет (сидеть и слушать его) молча, пока не закончится молитва, то это станет искуплением тому, что было между этой молитвой и той пятничной молитвой, которая была до нее”».(Йазид ибн Халид) сказал: «И Абу Хурайра говорил: “И дополнительно три дня”. И также он говорил: “А за одно доброе дело, (человек получит) десятикратное (вознаграждение)”».Абу Дауд сказал: «Хадис Мухаммада ибн Саламы совершеннее, а Хаммад не упомянул слова Абу Хурайры»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre ve Ebu Said el-Hudri (r.anhüma), Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu haber vermişlerdir: "Kim cuma günü gusül eder, en güzel elbisesini giyer, yanında varsa (güzel) koku sürünür, sonra da cumaya gelip insanların omuzlarına basmaz ve Allah'ın kendisine yazdığı ve takdir ettiği (tahiyyetu'el-mescidi)ni kılar; imam (hutbe için) çıktığı zaman namazını bitirinceye kadar (konuşmaz) susarsa, (onun bu durumu) bu cuma ile geçmiş cuma arasındaki (günah) ler için keffarettir." Ebu Seleme, Ebu Hureyre'nin;"iki cuma arasındakilere" (ilave olarak) ve üç gün ziyadesinin, (günahlarına kefaret olur.) Çünkü haseneler on misli iledir" dediğini nakletti. Ebu Davud dedi ki; Muhammed bin Ebi Seleme'nin hadisi (Hammad'ın hadisinden) daha tamdır, Hammad, Ebu Hureyre'nin sözünü zikretmemiştir. Diğer tahric: Müslim, cuma (muhtasar olarak). İbn-i Hibban zevaid-salat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری اور ابوہریرہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص جمعہ کے دن غسل کرے، اپنے کپڑوں میں سے اچھے کپڑے پہنے، اور اگر اس کے پاس ہو تو خوشبو لگائے، پھر جمعہ کے لیے آئے اور لوگوں کی گردنیں نہ پھاندے، پھر اللہ نے جو نماز اس کے لیے مقدر کر رکھی ہے پڑھے، پھر امام کے ( خطبہ کے لیے ) نکلنے سے لے کر نماز سے فارغ ہونے تک خاموش رہے، تو یہ ساری چیزیں اس کے ان گناہوں کا کفارہ ہوں گی جو اس جمعہ اور اس کے پہلے والے جمعہ کے درمیان اس سے سرزد ہوئے ہیں ، راوی کہتے ہیں: ابوہریرہ رضی اللہ عنہ کہتے ہیں: اور مزید تین دن کے گناہوں کا بھی، اس لیے کہ ایک نیکی کا ثواب دس گنا ہوتا ہے۔ ابوداؤد کہتے ہیں: محمد بن سلمہ کی حدیث زیادہ کامل ہے اور حماد نے ابوہریرہ رضی اللہ عنہ کا کلام ذکر نہیں کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>343</td></tr><tr><td>Arabic No</td><td>343</td></tr><tr><td>Reference</td><td>Book 1 Hadith 343</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 343 |
+| Arabic No | 343 |
+| Reference | Book 1 Hadith 343 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا يَزِيدُ، - وَهُوَ ابْنُ هَارُونَ - قَالَ أَنْبَأَنَا حُمَيْدٌ، عَنِ الْحَسَنِ، أَنَّ ابْنَ عَبَّاسٍ، خَطَبَ بِالْبَصْرَةِ فَقَالَ أَدُّوا زَكَاةَ صَوْمِكُمْ فَجَعَلَ النَّاسُ يَنْظُرُ بَعْضُهُمْ إِلَى بَعْضٍ فَقَالَ مَنْ هَا هُنَا مِنْ أَهْلِ الْمَدِينَةِ قُومُوا إِلَى إِخْوَانِكُمْ فَعَلِّمُوهُمْ فَإِنَّهُمْ لاَ يَعْلَمُونَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم فَرَضَ صَدَقَةَ الْفِطْرِ عَلَى الصَّغِيرِ وَالْكَبِيرِ وَالْحُرِّ وَالْعَبْدِ وَالذَّكَرِ وَالأُنْثَى نِصْفَ صَاعٍ مِنْ بُرٍّ أَوْ صَاعًا مِنْ تَمْرٍ أَوْ شَعِيرٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |
+
 اخبرنا علي بن حجر، قال حدثنا يزيد، - وهو ابن هارون - قال انبانا حميد، عن الحسن، ان ابن عباس، خطب بالبصرة فقال ادوا زكاة صومكم فجعل الناس ينظر بعضهم الى بعض فقال من ها هنا من اهل المدينة قوموا الى اخوانكم فعلموهم فانهم لا يعلمون ان رسول الله صلى الله عليه وسلم فرض صدقة الفطر على الصغير والكبير والحر والعبد والذكر والانثى نصف صاع من بر او صاعا من تمر او شعير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী ইবনু হুজর (রহঃ) ... হাসান (রহঃ) থেকে বর্ণিত যে, ইবনু আব্বাস (রাঃ) একবার বসরায় খুৎবা দিচ্ছিলেন, তিনি বললেন, তোমরা স্বীয় কওমের যাকাত আদায় কর। তখন লোকেরা একে অন্যের দিকে তাকাতে লাগল। তিনি বললেন এখানে মদীনার অধিবাসী কে কে আছ? তোমরা তোমাদের ভাইদের কাছে যাও এবং তাদের দ্বীনী ইলম শিক্ষা দাও। যেহেতু তারা জানে না যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ছোট, বড়, আযাদ, গোলাম, পুরুষ এবং মহিলা সবার উপর অর্ধ সা' গম অথবা এক সা' খেজুরে এবং যব ফরয করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Al-Hasan that :Ibn 'Abbas gave a Khutbah in Al-Basrah and said: "Pay the zakah of your fasting." The people started looking at one another. He said: "Whoever there is here from the people of Al-Madinah, get up and teach your brothers, for they do not know that the Messenger of Allah (ﷺ) enjoined sadaqat al-fitr on the young and the old, the free and the slave, the male and the female; half a sa' of wheat or a sa' of dried dates or barley
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |
+
+## French
+
+Rapporté par Al-Hasan : Ibn 'Abbas fit un sermon à Al-Basrah et dit : "Payez la zakat de votre jeûne." Les gens se regardèrent entre eux. Il dit : "Que ceux qui viennent de Médine se lèvent et enseignent à leurs frères, car ils ne savent pas que le Messager d’Allah (ﷺ) a rendu obligatoire la sadaqat al-fitr pour les jeunes et les vieux, les libres et les esclaves, les hommes et les femmes : un demi-sa‘ de blé ou un sa‘ de dattes sèches ou d’orge
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Ali bin Hujr\] dia berkata; telah menceritakan kepada kami \[Yazid bin Harun\] dia berkata; telah memberitakan kepada kami \[Humaid\] dari \[Al Hasan\] bahwasanya \[Ibnu 'Abbas\] pernah khutbah di Bashrah, dia berkata; "Tunaikanlah zakat puasa kalian." Orang-orangpun saling melihat satu sama lain. Lalu ia pun berkata; "Siapakah orang Madinah yang bersama kalian di sini? Bangkitlah kepada saudara kalian lalu ajarilah, karena mereka tidak mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam telah mewajibkan zakat fitri atas anak kecil dan orang dewasa, yang merdeka dan hamba sahaya, lelaki dan perempuan, sebanyak setengah Sha' gandum atau satu Sha' kurma atau sya'ir (jenis gandum)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Ali bin Hujr] dia berkata; telah menceritakan kepada kami [Yazid bin Harun] dia berkata; telah memberitakan kepada kami [Humaid] dari [Al Hasan] bahwasanya [Ibnu 'Abbas] pernah khutbah di Bashrah, dia berkata; "Tunaikanlah zakat puasa kalian." Orang-orangpun saling melihat satu sama lain. Lalu ia pun berkata; "Siapakah orang Madinah yang bersama kalian di sini? Bangkitlah kepada saudara kalian lalu ajarilah, karena mereka tidak mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam telah mewajibkan zakat fitri atas anak kecil dan orang dewasa, yang merdeka dan hamba sahaya, lelaki dan perempuan, sebanyak setengah Sha' gandum atau satu Sha' kurma atau sya'ir (jenis gandum)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حسن بصری سے روایت ہے کہ ابن عباس رضی اللہ عنہم نے بصرہ میں خطبہ دیا تو کہا: تم لوگ اپنے روزوں کی زکاۃ ادا کرو، تو ( یہ سن کر ) لوگ ایک دوسرے کی طرف دیکھنے لگے، تو انہوں نے کہا: یہاں مدینہ والے کون کون ہیں، تم اپنے بھائیوں کے پاس جاؤ، اور انہیں سکھاؤ کیونکہ یہ لوگ نہیں جانتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے صدقۃ الفطر آدھا صاع گیہوں یا ایک صاع کھجور یا جو، چھوٹے، بڑے، آزاد، غلام، مرد، عورت سب پر فرض کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1580</td></tr><tr><td>Arabic No</td><td>1580</td></tr><tr><td>Reference</td><td>Book 19 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1580 |
+| Arabic No | 1580 |
+| Reference | Book 19 Hadith 25 |

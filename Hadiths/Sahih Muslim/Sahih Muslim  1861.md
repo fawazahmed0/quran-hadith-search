@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا هَمَّامٌ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا يَحْيَى، بْنُ سَعِيدٍ عَنْ شُعْبَةَ، كِلاَهُمَا عَنْ قَتَادَةَ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ غَيْرَ أَنَّ فِي حَدِيثِ هَمَّامٍ بَدَلَ الْمُنَافِقِ الْفَاجِرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا هداب بن خالد، حدثنا همام، ح وحدثنا محمد بن المثنى، حدثنا يحيى، بن سعيد عن شعبة، كلاهما عن قتادة، بهذا الاسناد . مثله غير ان في حديث همام بدل المنافق الفاجر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হাদ্দাব ইবনু খালিদ, মুহাম্মাদ ইবনুল মুসান্না (রহঃ) ..... উভয়ে কাতাদাহ (রহঃ) থেকে একই সনদে অনুরূপ হাদীস বর্ণনা করেছেন। তবে হাম্মাম বর্ণিত হাদীসে الْمُنَافِقِ শব্দটিকে الْفَاجِرِ শব্দ দ্বারা বদল করা হয়েছে। (ইসলামী ফাউন্ডেশন ১৭৩১, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Qatada with the same chain of transmitters but with one alteration that instead of the word:" hypocrite" (Munafiq), there it is" wicked" (fajir)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## French
 
+Rapporté par Qatada : Ce hadith a été rapporté par Qatada avec la même chaîne de transmetteurs, mais avec une différence : au lieu du mot « hypocrite » (munafiq), il est utilisé le mot « méchant » (fajir)
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему, но в этой версии вместо слова «лицемер», он сказал: «нечестивец»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize Heddab b. Halid rivayet etti. (Dediki): Bize Hemmam rivayet etti. H. Bize Muhammedü'bnü'I-Müsenna da rivayet etti. (Dediki): Bize Yahya b. Saîd Şu'be'den naklen rivayet etti. Bu ravîlerin ikisi de Katade'den, bu isnadla, bu hadîsin mislini rivayet etmişlerdir. Şu kadar var ki Hemmam'in rivayetinde «münafık» yerine «cacir» kaydı vardır. Buhari, et'ime, Fedailü'l-Kur'an, tevhid; Ebu Davud, edeb; Tirmizî, emsal, Nesaî, iman; İbn Mace, mukaddime; Darimî, Fedailü'l-Kur'an; Ahmed b. Han bel, IV
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمام اور شعبہ نے قتادہ سے اسی سند کے ساتھ اسی کی طرح حدیث روایت کی ۔ اس میں یہ فرق ہے کہ ہمام کی روایت میں منا فق کی جگہ فاجر ( بدکردار ) کا لفظ ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1861</td></tr><tr><td>Arabic No</td><td>797.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 289</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1861 |
+| Arabic No | 797.02 |
+| Reference | Book 6 Hadith 289 |

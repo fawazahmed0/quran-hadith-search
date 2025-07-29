@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ مُحَمَّدُ بْنُ حَاتِمٍ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي سَلَمَةَ، بِهَذَا الإِسْنَادِ سَوَاءً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه محمد بن حاتم، حدثنا يزيد بن هارون، حدثنا عبد العزيز بن ابي سلمة، بهذا الاسناد سواء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... আবদুল আযীয ইবনু আবূ সালামাহ (রাযিঃ) হতে একই সূত্রে হুবহু হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৩৭, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Abu Salama with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## French
 
+Rapporté par Abu Salama : Ce hadith a été rapporté par la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-159) Bana bu hadîsi Muhammed b. Hatim de rivayet etti. (Dediki): Bize Yezid b. Harun rivayet etti. (Dediki): Bize Abdül-Aziz b. Ebî Seleme tamamen bu isnadla rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یزید بن ہارون نے کہا : ہمیں عبد العزیز بن ابی سلمہ نے اسی سند سے بالکل اسی طرح بیان کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6152</td></tr><tr><td>Arabic No</td><td>2373.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6152 |
+| Arabic No | 2373.02 |
+| Reference | Book 43 Hadith 210 |

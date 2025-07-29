@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، قَالَتْ طَيَّبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم لإِحْرَامِهِ قَبْلَ أَنْ يُحْرِمَ وَلِحِلِّهِ قَبْلَ أَنْ يَطُوفَ بِالْبَيْتِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |
+
 اخبرنا قتيبة بن سعيد، عن مالك، عن عبد الرحمن بن القاسم، عن ابيه، عن عايشة، قالت طيبت رسول الله صلى الله عليه وسلم لاحرامه قبل ان يحرم ولحله قبل ان يطوف بالبيت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা ইবন সাঈদ (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তার ইহরামের জন্য ইহরাম বাঁধার পূর্বে সুগন্ধি লাগিয়েছি এবং তাঁর বায়তুল্লাহ্ তওয়াফ করার পূর্বে ইহরাম খোলার জন্যও।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Aishah said:"I put perfume on the Messenger of Allah for his Ihram when he entered Ihram, and for his exiting Ihram when he had stoned Jamrat Al-Aqabah, before he circumambulated the House
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |
+
+## French
+
+Rapporté par 'Aishah : J'ai mis du parfum sur le Messager d'Allah ﷺ pour son Ihram quand il est entré en état d'Ihram, et aussi pour sa sortie de l'état d'Ihram, après qu'il ait jeté les pierres à Jamrat Al-Aqabah, avant qu'il ne fasse le tour de la Kaaba
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah bin Sa'id\] dari \[Malik\] dari \[Abdur Rahman bin Al Qasim\] dari \[bapaknya\] dari \[Aisyah\] ia berkata; saya pernah memberi Rasulullah shallallahu 'alaihi wasallam minyak wangi untuk berihram sebelum melakukan ihram dan disaat bertahalul sebelum bertawaf di Ka'bah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah bin Sa'id] dari [Malik] dari [Abdur Rahman bin Al Qasim] dari [bapaknya] dari [Aisyah] ia berkata; saya pernah memberi Rasulullah shallallahu 'alaihi wasallam minyak wangi untuk berihram sebelum melakukan ihram dan disaat bertahalul sebelum bertawaf di Ka'bah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو آپ کے احرام کے لیے اس سے پہلے کہ آپ احرام باندھیں، اور آپ کے احرام کھولنے کے لیے اس سے پہلے کہ آپ طواف کریں خوشبو لگائی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2685</td></tr><tr><td>Arabic No</td><td>2685</td></tr><tr><td>Reference</td><td>Book 24 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2685 |
+| Arabic No | 2685 |
+| Reference | Book 24 Hadith 67 |

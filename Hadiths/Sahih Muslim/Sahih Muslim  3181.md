@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَعَمْرٌو النَّاقِدُ، وَزُهَيْرُ بْنُ حَرْبٍ، قَالُوا حَدَّثَنَا ابْنُ عُيَيْنَةَ، عَنْ عَبْدِ الْكَرِيمِ الْجَزَرِيِّ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابو بكر بن ابي شيبة، وعمرو الناقد، وزهير بن حرب، قالوا حدثنا ابن عيينة، عن عبد الكريم الجزري، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শায়বাহ, ‘আমর আন নাকিদ ও যুহায়র ইবনু হারব (রহঃ) 'আবদুল করীম আল জাযারী (রহঃ) থেকে এ সূত্রে উপরোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩০৪৭, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Abd al-Karim al-Jazari with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## French
 
+Rapporté par Abd al-Karim al-Jazari : Ce hadith est rapporté par Abd al-Karim al-Jazari avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize bu hadîsi Ebû Bekir b. Ebî Şeybe ile Amru'n-Nâkid ve Züheyr b. Harb da rivayet ettiler. (Dedilerki): Bize İbni Uyeyne Abdülkerîm-i Cezerî'den bu isnâdla bu hadîsin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن عیینہ نے عبد الکریم جزری سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3181</td></tr><tr><td>Arabic No</td><td>1317.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 385</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3181 |
+| Arabic No | 1317.02 |
+| Reference | Book 15 Hadith 385 |

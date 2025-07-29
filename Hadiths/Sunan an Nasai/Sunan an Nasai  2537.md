@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَاتِمٌ، عَنْ يَزِيدَ بْنِ أَبِي عُبَيْدٍ، قَالَ سَمِعْتُ عُمَيْرًا، مَوْلَى آبِي اللَّحْمِ قَالَ أَمَرَنِي مَوْلاَىَ أَنْ أُقَدِّدَ، لَحْمًا فَجَاءَ مِسْكِينٌ فَأَطْعَمْتُهُ مِنْهُ فَعَلِمَ بِذَلِكَ مَوْلاَىَ فَضَرَبَنِي فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَدَعَاهُ فَقَالَ ‏"‏ لِمَ ضَرَبْتَهُ ‏"‏ ‏.‏ فَقَالَ يُطْعِمُ طَعَامِي بِغَيْرِ أَنْ آمُرَهُ وَقَالَ مَرَّةً أُخْرَى بِغَيْرِ أَمْرِي قَالَ ‏"‏ الأَجْرُ بَيْنَكُمَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |
+
 اخبرنا قتيبة، قال حدثنا حاتم، عن يزيد بن ابي عبيد، قال سمعت عميرا، مولى ابي اللحم قال امرني مولاى ان اقدد، لحما فجاء مسكين فاطعمته منه فعلم بذلك مولاى فضربني فاتيت رسول الله صلى الله عليه وسلم فدعاه فقال " لم ضربته " . فقال يطعم طعامي بغير ان امره وقال مرة اخرى بغير امري قال " الاجر بينكما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... আবুল লাহম (রাঃ) এর গোলাম উমায়র (রাঃ) বলেছেন যে, আমাকে আমার মুনিব গোশত কাটতে বললেন, তখন একজন মিসকীন আসলে আমি তাকে সেখান থেকে কিছু খাওয়ার জন্য দিলাম, আমার মুনিব ইহা জেনে গেলে তিনি আমাকে প্রহার করলেন। তখন আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে আসলে তিনি তাকে ডাকালেন এবং বললেন যে, তুমি তাকে কেন প্রহার করেছ? তিনি বললেন, যেহেতু সে আমার আহার্য সামগ্ৰী আমার অনুমতি ছাড়া খাওয়ায়ে ফেলেছিল। তখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, সওয়াব তো তোমরা উভয়েই পাবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated:'Umair, the freed slave of commanded me to cut up some meat, then a poor man came so I gave him some. When my master fund out about that, he beat me, so I went to the Messenger of Allah and he came to him and said: 'Do not beat him.' He said: 'He gave away my food without me telling him to.' He said: 'The reward will be shared between you both
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |
+
+## French
+
+Rapporté par 'Umair, l’esclave affranchi : Mon maître m’a demandé de couper de la viande, puis un pauvre est venu et je lui en ai donné. Quand mon maître l’a appris, il m’a frappé, alors je suis allé voir le Messager d’Allah ﷺ. Il est venu voir mon maître et a dit : "Ne le frappe pas." Mon maître a dit : "Il a donné ma nourriture sans que je le lui demande." Il a dit : "La récompense sera partagée entre vous deux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dia berkata; Telah menceritakan kepada kami \[Hatim\] dari \[Yazid bin Abu 'Ubaid\] dia berkata; Aku mendengar \['Umair\] -budak- Abul Lahm, berkata; "Tuanku menyuruhku membuat dendeng, lalu datanglah seorang miskin dan aku memberi makan darinya, lalu tuanku mengetahui hal itu, iapun memukulku, lalu aku menemui Rasulullah Shallallahu'alaihi wa Sallam dan beliau memanggilnya, beliau bertanya: " Kenapa engkau memukulnya?" Ia menjawab, ia memberi makan orang lain dengan makananku tanpa aku suruh, ia berkata lagi; 'Tanpa perintahku', beliau bersabda: 'Pahalanya untuk kalian berdua
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dia berkata; Telah menceritakan kepada kami [Hatim] dari [Yazid bin Abu 'Ubaid] dia berkata; Aku mendengar ['Umair] -budak- Abul Lahm, berkata; "Tuanku menyuruhku membuat dendeng, lalu datanglah seorang miskin dan aku memberi makan darinya, lalu tuanku mengetahui hal itu, iapun memukulku, lalu aku menemui Rasulullah Shallallahu'alaihi wa Sallam dan beliau memanggilnya, beliau bertanya: " Kenapa engkau memukulnya?" Ia menjawab, ia memberi makan orang lain dengan makananku tanpa aku suruh, ia berkata lagi; 'Tanpa perintahku', beliau bersabda: 'Pahalanya untuk kalian berdua
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمیر مولی آبی اللحم کہتے ہیں کہ میرے مالک نے مجھے گوشت بھوننے کا حکم دیا، اتنے میں ایک مسکین آیا، میں نے اس میں سے تھوڑا سا اسے کھلا دیا، میرے مالک کو اس بات کی خبر ہو گئی تو اس نے مجھے مارا، میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا، آپ نے اسے بلوایا اور پوچھا: تم نے اسے کیوں مارا ہے؟ اس نے کہا: یہ میرا کھانا ( دوسروں کو ) بغیر اس کے کہ میں اسے حکم دوں کھلا دیتا ہے۔ اور دوسری بار راوی نے کہا: بغیر میرے حکم کے کھلا دیتا ہے، تو آپ نے فرمایا: ”اس کا ثواب تم دونوں ہی کو ملے گا“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2537</td></tr><tr><td>Arabic No</td><td>2537</td></tr><tr><td>Reference</td><td>Book 23 Hadith 103</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2537 |
+| Arabic No | 2537 |
+| Reference | Book 23 Hadith 103 |

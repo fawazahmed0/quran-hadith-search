@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، قَالَ أَنْبَأَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، رضى الله عنهما أَنَّ امْرَأَةً، مَخْزُومِيَّةً كَانَتْ تَسْتَعِيرُ الْمَتَاعَ فَتَجْحَدُهُ فَأَمَرَ النَّبِيُّ صلى الله عليه وسلم بِقَطْعِ يَدِهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |
+
 اخبرنا محمود بن غيلان، قال حدثنا عبد الرزاق، قال انبانا معمر، عن ايوب، عن نافع، عن ابن عمر، رضى الله عنهما ان امراة، مخزومية كانت تستعير المتاع فتجحده فامر النبي صلى الله عليه وسلم بقطع يدها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মাহমূদ ইবন গায়লান (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত, মাখযূম গোত্রের এক নারী লোকদের থেকে ধারে মালপত্র নিত, পরে সে অস্বীকার করতো। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার হাত কাটার আদেশ দেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Umar, may Allah be pleased with them both, that a Makhzumi woman used to borrow things then deny that she had borrowed them, so the Prophet (ﷺ) ordered that her hand be cut off
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |
+
+## French
+
+Rapporté par Ibn 'Umar, que Allah soit satisfait d'eux deux : Une femme de la tribu Makhzoum empruntait des objets puis niait les avoir empruntés, alors le Prophète (ﷺ) a ordonné qu'on lui coupe la main
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Mahmud bin Ghailan\], dia berkata; telah menceritakan kepada kami \[Abdur Razzaq\], dia berkata; telah memberitakan kepada kami \[Ma'mar\] dari \[Ayyub\] dari \[Nafi'\] dari \[Ibnu Umar radliallahu 'anhuma\] bahwa seorang wanita dari Bani Makhzum meminjam barang, lalu dia mengingkarinya, kemudian Nabi shallallahu 'alaihi wasallam memerintahkan untuk memotong tangannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Mahmud bin Ghailan], dia berkata; telah menceritakan kepada kami [Abdur Razzaq], dia berkata; telah memberitakan kepada kami [Ma'mar] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar radliallahu 'anhuma] bahwa seorang wanita dari Bani Makhzum meminjam barang, lalu dia mengingkarinya, kemudian Nabi shallallahu 'alaihi wasallam memerintahkan untuk memotong tangannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4887</td></tr><tr><td>Arabic No</td><td>4887</td></tr><tr><td>Reference</td><td>Book 46 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4887 |
+| Arabic No | 4887 |
+| Reference | Book 46 Hadith 18 |

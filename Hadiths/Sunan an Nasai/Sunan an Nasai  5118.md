@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ مَيْمُونٍ الرَّقِّيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ يُوسُفَ الْفِرْيَابِيُّ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي نَضْرَةَ، عَنِ الطُّفَاوِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ طِيبُ الرِّجَالِ مَا ظَهَرَ رِيحُهُ وَخَفِيَ لَوْنُهُ وَطِيبُ النِّسَاءِ مَا ظَهَرَ لَوْنُهُ وَخَفِيَ رِيحُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 48 Hadith 79</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |
+
 اخبرنا محمد بن علي بن ميمون الرقي، قال حدثنا محمد بن يوسف الفريابي، قال حدثنا سفيان، عن الجريري، عن ابي نضرة، عن الطفاوي، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " طيب الرجال ما ظهر ريحه وخفي لونه وطيب النساء ما ظهر لونه وخفي ريحه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 48 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আলী ইবন মায়মূন রাক্কী (রহঃ) ... আবু হুরায়রা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পুরুষদের সুগন্ধি হলো যার গন্ধ স্পষ্ট, কিন্তু রঙ চাপা আর মহিলাদের সুগন্ধি হলো যার রং স্পষ্ট কিন্তু গন্ধ চাপা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 48 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |
 
 ## English
 
+It was narrated from Abu Hurairah that:The Prophet \[SAW\] said: "The perfume for men is that whose scent is apparent while its color is hidden, and the perfume for women is that whose color is apparent, while its scent is hidden
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Abu Hurairah that:The Prophet [SAW] said: "The perfume for men is that whose scent is apparent while its color is hidden, and the perfume for women is that whose color is apparent, while its scent is hidden
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 48 Hadith 79</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : "Le parfum pour les hommes est celui dont l'odeur est apparente mais la couleur cachée, et le parfum pour les femmes est celui dont la couleur est apparente mais l'odeur cachée
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Ali bin Maimun Ar Raqqi\] ia berkata; telah menceritakan kepada kami \[Muhammad bin Yusuf Al Firyani\] ia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Al Jurairi\] dari \[Abu An Nadlrah\] dari \[Ath Thafawi\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Parfum laki-laki itu baunya nampak sementara warnanya tidak, dan parfum wanita itu warnanya nampak sementara baunya tidak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Ali bin Maimun Ar Raqqi] ia berkata; telah menceritakan kepada kami [Muhammad bin Yusuf Al Firyani] ia berkata; telah menceritakan kepada kami [Sufyan] dari [Al Jurairi] dari [Abu An Nadlrah] dari [Ath Thafawi] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Parfum laki-laki itu baunya nampak sementara warnanya tidak, dan parfum wanita itu warnanya nampak sementara baunya tidak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 48 Hadith 79</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 48 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5118</td></tr><tr><td>Arabic No</td><td>5118</td></tr><tr><td>Reference</td><td>Book 48 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5118 |
+| Arabic No | 5118 |
+| Reference | Book 48 Hadith 79 |

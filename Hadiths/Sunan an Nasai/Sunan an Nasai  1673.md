@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا ابْنُ أَخِي ابْنِ شِهَابٍ، عَنْ عَمِّهِ، قَالَ أَخْبَرَنِي حُمَيْدُ بْنُ عَبْدِ الرَّحْمَنِ، أَنَّ عَبْدَ اللَّهِ بْنَ عُمَرَ، أَخْبَرَهُ أَنَّ رَجُلاً سَأَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ صَلاَةِ اللَّيْلِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ صَلاَةُ اللَّيْلِ مَثْنَى مَثْنَى فَإِذَا خَشِيتَ الصُّبْحَ فَأَوْتِرْ بِوَاحِدَةٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |
+
 اخبرنا محمد بن يحيى، قال حدثنا يعقوب بن ابراهيم، قال حدثنا ابن اخي ابن شهاب، عن عمه، قال اخبرني حميد بن عبد الرحمن، ان عبد الله بن عمر، اخبره ان رجلا سال رسول الله صلى الله عليه وسلم عن صلاة الليل فقال رسول الله صلى الله عليه وسلم " صلاة الليل مثنى مثنى فاذا خشيت الصبح فاوتر بواحدة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু ইয়াহয়া (রহঃ) ... আব্দুল্লাহ ইবনু উমর (রাঃ) থেকে বর্ণিত যে, এক ব্যক্তি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রাত্রের সালাত সম্পর্কে জিজ্ঞাসা করলে তিনি বললেন, রাত্রের সালাত দু’রাকআত, দু’রাকআত (করে আদায় করবে)। যখন ভোর হয়ে যাওয়ার আশংকা করবে তখন একটি রাকআত দ্বারা (আদায়কৃত সমুদয় সালাতকে) বেজোড় বানিয়ে নেবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abdullah bin Umar said that:A man asked the Messenger of Allah (ﷺ) about prayers at night. The Messenger of Allah (ﷺ) said: "prayers at night are (offered) two by two, then if you fear that dawn will come, pray witr with one
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |
+
+## French
+
+Rapporté par Abdullah bin Umar : Un homme a demandé au Messager d’Allah (ﷺ) à propos des prières de la nuit. Le Messager d’Allah (ﷺ) a dit : « Les prières de la nuit se font deux par deux, puis si tu crains que l’aube arrive, fais le witr avec une rak‘a. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Yahya\] dia berkata; telah menceritakan kepada kami \[Ya'qub bin Ibrahim\] dia berkata; telah menceritakan kepada kami keponakanku \[Ibnu Syihab\] dari \[pamannya\] dia berkata; telah mengabarkan kepadaku \[Humaid bin 'Abdurrahman\] bahwasanya \['Abdullah bin 'Umar\] mengabarkan kepadanya; "Seorang lelaki bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang shalat malam? Lalu Rasulullah shallallahu 'alaihi wasallam menjawab: "Dua rakaat-dua rakaat. Jika karena khawatir akan segera Subuh maka shalatlah witir satu rakaat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Yahya] dia berkata; telah menceritakan kepada kami [Ya'qub bin Ibrahim] dia berkata; telah menceritakan kepada kami keponakanku [Ibnu Syihab] dari [pamannya] dia berkata; telah mengabarkan kepadaku [Humaid bin 'Abdurrahman] bahwasanya ['Abdullah bin 'Umar] mengabarkan kepadanya; "Seorang lelaki bertanya kepada Rasulullah shallallahu 'alaihi wasallam tentang shalat malam? Lalu Rasulullah shallallahu 'alaihi wasallam menjawab: "Dua rakaat-dua rakaat. Jika karena khawatir akan segera Subuh maka shalatlah witir satu rakaat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہم کہتے ہیں کہ ایک شخص نے رسول اللہ صلی اللہ علیہ وسلم سے رات کی نماز کے بارے میں پوچھا تو آپ صلی اللہ علیہ وسلم نے فرمایا: رات کی نماز دو دو رکعت ہے، اور جب تمہیں صبح کا ہو جانے کا خدشہ ہو تو ایک رکعت پڑھ کر وتر کر لو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1673</td></tr><tr><td>Arabic No</td><td>1673</td></tr><tr><td>Reference</td><td>Book 20 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1673 |
+| Arabic No | 1673 |
+| Reference | Book 20 Hadith 76 |

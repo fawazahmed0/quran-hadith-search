@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنْ بَيْعِ الثِّمَارِ حَتَّى يَبْدُوَ صَلاَحُهَا نَهَى الْبَائِعَ وَالْمُشْتَرِيَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
+
 حدثنا عبد الله بن مسلمة القعنبي، عن مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم نهى عن بيع الثمار حتى يبدو صلاحها نهى البايع والمشتري
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আব্দুল্লাহ ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম গাছের ফল উপযোগী হওয়ার পূর্বে ক্রয়-বিক্রয় করতে নিষেধ করেছেন। তিনি বিক্রেতা এবং ক্রেতা উভয়কেই নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abdullah bin 'Umar:The Messenger of Allah (ﷺ) forbade the sale of fruits till they were clearly in good condition, forbidding it both to the seller and to the buyer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
+
+## French
+
+Rapporté par ‘Abdullah bin ‘Umar : Le Messager d’Allah ﷺ a interdit la vente de fruits tant qu’ils ne sont pas manifestement en bon état, interdisant cela aussi bien au vendeur qu’à l’acheteur
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Maslamah Al Qa'nabi\], dari \[Malik\] dari \[Nafi'\] dari \[Abdullah bin Umar\] bahwa Rasulullah shallallahu 'alaihi wasallam melarang menjual buah hingga nampak kelayakannya, beliau melarang penjual dan pembeli
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi], dari [Malik] dari [Nafi'] dari [Abdullah bin Umar] bahwa Rasulullah shallallahu 'alaihi wasallam melarang menjual buah hingga nampak kelayakannya, beliau melarang penjual dan pembeli
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ запретил продавать плоды до того, как станет ясно, что они годны к употреблению, запретил продавцу и покупателю
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Ömer (r.a.)'dan rivayet edildiğine göre; Rasûlullah (s.a.v.), salahı görünmedikçe meyveyi satmayı nehyetti. (Bundan) hem satıcıyı hem de alıcıyı menetti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے پھلوں کو ان کی پختگی ظاہر ہونے سے پہلے بیچنے سے منع فرمایا ہے، خریدنے والے اور بیچنے والے دونوں کو منع کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2194) Sahih Muslim (1534)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3367</td></tr><tr><td>Arabic No</td><td>3367</td></tr><tr><td>Reference</td><td>Book 23 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2194) Sahih Muslim (1534) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3367 |
+| Arabic No | 3367 |
+| Reference | Book 23 Hadith 42 |

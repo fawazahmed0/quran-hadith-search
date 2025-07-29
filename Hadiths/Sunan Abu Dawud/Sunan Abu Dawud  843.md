@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا زِيَادُ بْنُ أَيُّوبَ، حَدَّثَنَا إِسْمَاعِيلُ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، قَالَ جَاءَنَا أَبُو سُلَيْمَانَ مَالِكُ بْنُ الْحُوَيْرِثِ إِلَى مَسْجِدِنَا فَقَالَ وَاللَّهِ إِنِّي لأُصَلِّي وَمَا أُرِيدُ الصَّلاَةَ وَلَكِنِّي أُرِيدُ أَنْ أُرِيَكُمْ كَيْفَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي ‏.‏ قَالَ فَقَعَدَ فِي الرَّكْعَةِ الأُولَى حِينَ رَفَعَ رَأْسَهُ مِنَ السَّجْدَةِ الآخِرَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
+
 حدثنا زياد بن ايوب، حدثنا اسماعيل، عن ايوب، عن ابي قلابة، قال جاءنا ابو سليمان مالك بن الحويرث الى مسجدنا فقال والله اني لاصلي وما اريد الصلاة ولكني اريد ان اريكم كيف رايت رسول الله صلى الله عليه وسلم يصلي . قال فقعد في الركعة الاولى حين رفع راسه من السجدة الاخرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
 
 ## Bengali
 
+। আবূ ক্বিলাবাহ সূত্রে বর্ণিত। তিনি বলেন, একদা আবূ সুলায়মান মালিক ইবনুল হুওয়াইরিস (রাঃ) আমাদের মসজিদে এসে বললেন, আল্লাহর শপথ! আমি এখন সালাত আদায় করবো, কিন্তু সালাত আদায়ের উদ্দেশে নয়। বরং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যেভাবে সালাত আদায় করতে দেখেছি তা তোমাদেরকে দেখাতে চাই। বর্ণনাকারী বলেন, অতঃপর তিনি প্রথম রাক‘আতের দ্বিতীয় সিজদা্ হতে মাথা উঠানোর পর একটু বসতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ ক্বিলাবাহ সূত্রে বর্ণিত। তিনি বলেন, একদা আবূ সুলায়মান মালিক ইবনুল হুওয়াইরিস (রাঃ) আমাদের মসজিদে এসে বললেন, আল্লাহর শপথ! আমি এখন সালাত আদায় করবো, কিন্তু সালাত আদায়ের উদ্দেশে নয়। বরং রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে যেভাবে সালাত আদায় করতে দেখেছি তা তোমাদেরকে দেখাতে চাই। বর্ণনাকারী বলেন, অতঃপর তিনি প্রথম রাক‘আতের দ্বিতীয় সিজদা্ হতে মাথা উঠানোর পর একটু বসতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Qilabah said:Abu Sulaiman Malik b. al-Huwairth came to our mosque, and said: By Allah, I Shall offer prayer, though I do not intend to pray; I only intend to show you how I saw the Messenger of Allah(ﷺ) praying. The narrator said: ( He then prayed and ) he sat at the end of the first rak’ah when he raised his head after the last prostration
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
+
+## French
+
+Abu Qilabah a dit : Abu Sulaiman Malik b. al-Huwairith est venu dans notre mosquée et a dit : « Par Allah, je vais prier, même si je n’ai pas l’intention de prier ; je veux seulement vous montrer comment j’ai vu le Messager d’Allah ﷺ prier. » (Le narrateur dit : Il pria alors) et il s’est assis à la fin de la première unité de prière, après avoir relevé la tête de la dernière prosternation
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ziyad bin Ayyub\] telah menceritakan kepada kami \[Isma'il\] dari \[Ayyub\] dari \[Abu Qilabah\] dia berkata; \[Abu Sulaiman Malik bin Al Huwairits\] datang ke masjid kami seraya berkata; "Sesungguhnya aku akan shalat, dan sebenarnya aku tidak bermaksud untuk shalat (bersama kalian), akan tetapi aku hendak memperlihatkan kepada kalian bagaimana Rasulullah shallallahu 'alaihi wasallam shalat." Abu Qilabah berkata; "Maka (Malik) duduk sejenak di raka'at pertama setelah mengangkat kepala dari sujud kedua
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ziyad bin Ayyub] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Abu Qilabah] dia berkata; [Abu Sulaiman Malik bin Al Huwairits] datang ke masjid kami seraya berkata; "Sesungguhnya aku akan shalat, dan sebenarnya aku tidak bermaksud untuk shalat (bersama kalian), akan tetapi aku hendak memperlihatkan kepada kalian bagaimana Rasulullah shallallahu 'alaihi wasallam shalat." Abu Qilabah berkata; "Maka (Malik) duduk sejenak di raka'at pertama setelah mengangkat kepala dari sujud kedua
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Кыляба: «К нам в нашу мечеть пришёл Малик ибн аль-Хувайрис, да будет доволен им Аллах, и сказал: “Клянусь Аллахом, иногда я совершаю молитву не потому, что хочу совершать её, а для того, чтобы показать вам, как на моих глазах совершал молитву Посланник Аллаха ﷺ”. Он сказал: “Он сидел некоторое время после того, как поднимал голову после последнего поясного поклона в первом рак‘ате”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Kılabe'den; demiştir ki: Süleyman Malik b. el-Huveyris mescidimize geldi de; "Vallahi ben bir namaz kılacağım, maksadım (sadece) namaz kılmak değil (aynı zamanda) size Resuluüah (sallellahu aleyhi ve sellem)i namaz kılarken nasıl gördüğümü göstermektir" dedi. (Ebu Kılabe) dedi ki; "Birinci rekatta başını son (yani ikinci) secdeden kaldırdığında (birazcık) oturdu." Diğer tahric: Buharî, ezan; Tirmizî, mevakît; Nesaî, tatbîk; İbn Mace, ikame
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوقلابہ کہتے ہیں کہ ابو سلیمان مالک بن حویرث رضی اللہ عنہ ہماری مسجد میں آئے، انہوں نے کہا: قسم اللہ کی! میں نماز پڑھوں گا مگر میرے پیش نظر نماز پڑھنا نہیں ہے بلکہ میں چاہتا ہوں کہ میں تمہیں دکھاؤں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو کس طرح نماز پڑھتے ہوئے دیکھا ہے؟ ابوقلابہ کہتے ہیں: پھر وہ پہلی رکعت میں بیٹھے جس وقت انہوں نے اپنا سر دوسرے سجدے سے اٹھایا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>843</td></tr><tr><td>Arabic No</td><td>843</td></tr><tr><td>Reference</td><td>Book 2 Hadith 453</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 843 |
+| Arabic No | 843 |
+| Reference | Book 2 Hadith 453 |

@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ أَبِي بَكْرٍ الْمُقَدَّمِيُّ، وَعُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالاَ حَدَّثَنَا يَحْيَى، - وَهُوَ الْقَطَّانُ - عَنْ شُعْبَةَ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه محمد بن ابي بكر المقدمي، وعبيد الله بن سعيد، قالا حدثنا يحيى، - وهو القطان - عن شعبة، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবনু আবূ বাকর আল মুকদ্দামী ও উবায়দুল্লাহ ইবনু সাঈদ (রহঃ) ..... শুবাহ (রহঃ) থেকে অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ২০৯৯, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Shu'ba with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## French
 
+Ce hadith a été rapporté par Shu'ba avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize, bu hadisi Muhammedü'bnü Ebî Bekir El-Mukaddemi ile Ubeydullah b. Saîd de rivayet ettiler. Dedilerki: Bize Yahya yâni Kattan, Şu'be'den bu isnâdla rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یحییٰ قطان نے شعبہ سے اسی سند کے ساتھ ( یہی ) حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2231</td></tr><tr><td>Arabic No</td><td>962.05</td></tr><tr><td>Reference</td><td>Book 11 Hadith 108</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2231 |
+| Arabic No | 962.05 |
+| Reference | Book 11 Hadith 108 |

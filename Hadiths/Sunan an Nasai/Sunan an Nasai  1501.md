@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ الْحَفَرِيُّ، عَنْ سُفْيَانَ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنْ ثَعْلَبَةَ بْنِ عِبَادٍ، عَنْ سَمُرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَطَبَ حِينَ انْكَسَفَتِ الشَّمْسُ فَقَالَ ‏ "‏ أَمَّا بَعْدُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |
+
 اخبرنا احمد بن سليمان، قال حدثنا ابو داود الحفري، عن سفيان، عن الاسود بن قيس، عن ثعلبة بن عباد، عن سمرة، ان النبي صلى الله عليه وسلم خطب حين انكسفت الشمس فقال " اما بعد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমদ ইবনু সুলাইমান (রহঃ) ... সামুরা (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম খুৎবা দিলেন যখন সূর্যগ্রহণ লেগে গেল। খুৎবাতে তিনি হামদ ও ছানার পর বললেনঃ أَمَّا بَعْدُ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Samurah that:The Prophet (ﷺ) delivered a Khutbah when the sun eclipsed and he said: 'Amma ba'd (to proceed)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |
+
+## French
+
+Rapporté par Samurah : Le Prophète (ﷺ) a prononcé un sermon lorsque le soleil s’est éclipsé et il a dit : "Amma ba’d (pour continuer)
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin Sulaiman\] dia berkata; telah menceritakan kepada kami \[Abu Dawud Al Ja'fari\] dari \[Sufyan\] dari \[Al Aswad bin Qais\] dari \[Tsa'labah bin 'Abbad\] dari \[Samurah\]; "Nabi Shalallahu 'Alaihi Wa Sallam berkhutbah ketika terjadi gerhana matahari dengan mengucapkan: 'Amma Ba'du
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin Sulaiman] dia berkata; telah menceritakan kepada kami [Abu Dawud Al Ja'fari] dari [Sufyan] dari [Al Aswad bin Qais] dari [Tsa'labah bin 'Abbad] dari [Samurah]; "Nabi Shalallahu 'Alaihi Wa Sallam berkhutbah ketika terjadi gerhana matahari dengan mengucapkan: 'Amma Ba'du
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سمرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے جس وقت سورج گرہن لگا خطبہ دیا تو آپ نے ( حمد و ثنا کے بعد ) «أما بعد» کہا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1501</td></tr><tr><td>Arabic No</td><td>1501</td></tr><tr><td>Reference</td><td>Book 16 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1501 |
+| Arabic No | 1501 |
+| Reference | Book 16 Hadith 43 |

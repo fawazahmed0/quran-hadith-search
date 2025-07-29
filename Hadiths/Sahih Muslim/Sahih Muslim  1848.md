@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي ابْنُ أَخِي ابْنِ وَهْبٍ، حَدَّثَنَا عَمِّي عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي عُمَرُ بْنُ، مَالِكٍ وَحَيْوَةُ بْنُ شُرَيْحٍ عَنِ ابْنِ الْهَادِ، بِهَذَا الإِسْنَادِ ‏.‏ مِثْلَهُ سَوَاءً وَقَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ وَلَمْ يَقُلْ سَمِعَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني ابن اخي ابن وهب، حدثنا عمي عبد الله بن وهب، اخبرني عمر بن، مالك وحيوة بن شريح عن ابن الهاد، بهذا الاسناد . مثله سواء وقال ان رسول الله صلى الله عليه وسلم . ولم يقل سمع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু আখী ইবনু ওয়াহব (রহঃ) ... ইবনুল হাদ (রহঃ) থেকে একই সনদে অনুরূপ হাদীস বর্ণনা করেছেন। তবে এ হাদীসে তিনি إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم (রসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন) উল্লেখ করেছেন এবং سَمِعَ (রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছেন) উল্লেখ করেননি। (ইসলামী ফাউন্ডেশন ১৭১৮, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated with the same chain of transmitters by Ibn al-Had except this that Abu Huraira reported Allah's Messenger (ﷺ) as saying and he did not say:" He heard it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## French
 
+Rapporté par Abu Hurayra رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs par Ibn al-Had, sauf qu’Abu Hurayra a rapporté : « Le Messager d’Allah ﷺ a dit », sans préciser : “Il l’a entendu.”
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bana îbni Vehb'in kardeşi oğlu rivayet etti. (Dediki): Bize amcam Abdullah b. Vehb rivayet etti. (Dediki): Bana Ömer b. Mâlik ile Hayvetü'bnü Şüreyh, İbnü'I-Hâdîdan bu isnâdla, bu hadîsin tamâmiyle mislini haber verdiler. İbnü'l-Hâd: «Resûlullah (Sallallahu Aleyhi ve Sellem) demiş; «İşitmiş.» kelimesini söylememiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمر بن مالک اور حیوہ بن شریح نے ابن ہاد سے اسی سند کے ساتھ بالکل اس جیسی روا یت بیان کی اور انھوں نے ( ان رسول الله ) ( بے شک رسول اللہ صلی اللہ علیہ وسلم نے فر ما یا ) کہا اور سَمِعَ ( اس نے سنا ) کا لفظ نہیں بولا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1848</td></tr><tr><td>Arabic No</td><td>793.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 276</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1848 |
+| Arabic No | 793.01 |
+| Reference | Book 6 Hadith 276 |

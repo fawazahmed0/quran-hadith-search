@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ الْبَزَّازُ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، قَالَ ذَكَرَهُ أَبِي عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَمْسَحُ عَلَى الْخُفَّيْنِ ‏.‏ وَقَالَ غَيْرُ مُحَمَّدٍ عَلَى ظَهْرِ الْخُفَّيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
+
 حدثنا محمد بن الصباح البزاز، حدثنا عبد الرحمن بن ابي الزناد، قال ذكره ابي عن عروة بن الزبير، عن المغيرة بن شعبة، ان رسول الله صلى الله عليه وسلم كان يمسح على الخفين . وقال غير محمد على ظهر الخفين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
 
 ## Bengali
 
+। মুগীরাহ ইবনু শু’বাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মোজাদ্বয়ের উপর মাসাহ্ করতেন। বর্ণনাকারী মুহাম্মাদ ব্যতীত অন্যদের বর্ণনায় ‘মোজাদ্বয়ের উপরিভাগ’ মাসাহ্ করতেন কথাটি রয়েছে।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুগীরাহ ইবনু শু’বাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মোজাদ্বয়ের উপর মাসাহ্ করতেন। বর্ণনাকারী মুহাম্মাদ ব্যতীত অন্যদের বর্ণনায় ‘মোজাদ্বয়ের উপরিভাগ’ মাসাহ্ করতেন কথাটি রয়েছে।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Mughirah ibn Shu'bah: The Messenger of Allah (ﷺ) wiped over the socks. Another version adds: "On the back (upper part) of the socks
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
+
+## French
+
+Rapporté par Al-Mughirah ibn Shu'bah رضي الله عنه : Le Messager d’Allah ﷺ a passé la main mouillée sur ses chaussettes. Une autre version ajoute : « Sur le dessus des chaussettes. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Ash-Shabbah Al-Bazzaz\] telah menceritakan kepada kami \[Abdurrahman bin Abu Az-Zinad\] dia berkata; \[Ayahku\] menyebutkan, dari \['Urwah bin Az-Zubair\] dari \[Al-Mughirah bin Syu'bah\] bahwasanya Rasulullah shallallahu 'alaihi wasallam biasa mengusap kedua khuf. Sedangkan selain Muhammad menyebutkan; Beliau mengusap bagian atas kedua khuf
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Ash-Shabbah Al-Bazzaz] telah menceritakan kepada kami [Abdurrahman bin Abu Az-Zinad] dia berkata; [Ayahku] menyebutkan, dari ['Urwah bin Az-Zubair] dari [Al-Mughirah bin Syu'bah] bahwasanya Rasulullah shallallahu 'alaihi wasallam biasa mengusap kedua khuf. Sedangkan selain Muhammad menyebutkan; Beliau mengusap bagian atas kedua khuf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Аль-Мугъиры ибн Шу‘ба: «Посланник Аллаха ﷺ обтирал по кожаным носкам /хуффайн/».Другие помимо Мухаммада (ибн Саббаха) сказали: «Поверх кожаных носков»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mugire b. Şu'be'den, demiştir ki; "Rasulullah (sallallahu aleyhi ve sellem) mestler üzerine meshederdi" (Bu hadisin senedinde geçen) Muhammed'den başka raviler ("mestler üzerine" ifadesi yerine) "mestlerin üst kısmına mesnetti" şeklinde rivayet etmişlerdir. Diğer tahric: Tirmizi, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مغیرہ بن شعبہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم موزوں پر مسح کرتے تھے۔ اور محمد بن صباح کے علاوہ دوسرے لوگوں سے «على ظهر الخفين‏.‏» ( موزوں کی پشت پر ) مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>161</td></tr><tr><td>Arabic No</td><td>161</td></tr><tr><td>Reference</td><td>Book 1 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 161 |
+| Arabic No | 161 |
+| Reference | Book 1 Hadith 161 |

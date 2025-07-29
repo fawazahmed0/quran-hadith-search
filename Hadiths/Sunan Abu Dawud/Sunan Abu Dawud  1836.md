@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا هِشَامٌ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم احْتَجَمَ وَهُوَ مُحْرِمٌ فِي رَأْسِهِ مِنْ دَاءٍ كَانَ بِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا يزيد بن هارون، اخبرنا هشام، عن عكرمة، عن ابن عباس، ان رسول الله صلى الله عليه وسلم احتجم وهو محرم في راسه من داء كان به
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোনো রোগের কারণে মুহরিম অবস্থায় তাঁর মাথায় রক্তমোক্ষণ করিয়েছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর কোনো রোগের কারণে মুহরিম অবস্থায় তাঁর মাথায় রক্তমোক্ষণ করিয়েছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) had himself cupped in his head when he was in the sacred state (wearing ihram due to a disease from which he was suffering)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ s’est fait pratiquer la saignée sur la tête alors qu’il était en état de sacralisation (ihram), à cause d’une maladie dont il souffrait
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Utsman bin Abu Syaibah\] telah menceritakan kepada Kami \[Yazid bin Harun\], telah mengabarkan kepada Kami \[Hisyam\] dari \[Ikrimah\] dari \[Ibnu Abbas\] bahwa Rasulullah shallAllahu wa'alaihi wa sallam dalam keadaan berihram berbekam pada kepalanya karena suatu penyakit yang beliau derita
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Utsman bin Abu Syaibah] telah menceritakan kepada Kami [Yazid bin Harun], telah mengabarkan kepada Kami [Hisyam] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam dalam keadaan berihram berbekam pada kepalanya karena suatu penyakit yang beliau derita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланнику Аллаха ﷺ сделали по его просьбе кровопускание на голове, когда он пребывал в состоянии ихрама, по причине болезни, от которой он страдал
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs'tan rivayet olunduğuna göre, Rasûlullah (S.A.V.) ihramlı iken başındaki bir rahatsızlıktan dolayı kan aldırmıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک بیماری کی وجہ سے جو آپ کو تھی اپنے سر میں پچھنا لگوایا اور آپ احرام باندھے ہوئے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5700)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1836</td></tr><tr><td>Arabic No</td><td>1836</td></tr><tr><td>Reference</td><td>Book 11 Hadith 116</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5700) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1836 |
+| Arabic No | 1836 |
+| Reference | Book 11 Hadith 116 |

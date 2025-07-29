@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنْ مُحَمَّدِ بْنِ الْعَجْلاَنِ، عَنْ أَبِي الزِّنَادِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا قَطَعَ الَّذِينَ سَرَقُوا لِقَاحَهُ وَسَمَلَ أَعْيُنَهُمْ بِالنَّارِ عَاتَبَهُ اللَّهُ تَعَالَى فِي ذَلِكَ فَأَنْزَلَ اللَّهُ تَعَالَى ‏(‏ إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الأَرْضِ فَسَادًا أَنْ يُقَتَّلُوا أَوْ يُصَلَّبُوا ‏)‏ الآيَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
+
 حدثنا احمد بن عمرو بن السرح، اخبرنا ابن وهب، اخبرني الليث بن سعد، عن محمد بن العجلان، عن ابي الزناد، ان رسول الله صلى الله عليه وسلم لما قطع الذين سرقوا لقاحه وسمل اعينهم بالنار عاتبه الله تعالى في ذلك فانزل الله تعالى ( انما جزاء الذين يحاربون الله ورسوله ويسعون في الارض فسادا ان يقتلوا او يصلبوا ) الاية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
 
 ## Bengali
 
+। আবুয-যিনাদ (রহঃ) সূত্রে বর্ণিত। যারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উট চুরি করেছিল তিনি তাদের হাত-পা কাটলে এবং আগুন দিয়ে তাদের চোখ উৎপাটন করলে আল্লাহ তাঁর প্রতি অসন্তুষ্টি প্রকাশ করেন এবং আয়াত নাযিল করেনঃ ‘‘যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে এবং পৃথিবীতে ধ্বংসাত্মক কাজ করে বেড়ায় তাদের শাস্তি এই যে, তাদের হত্যা করা হবে অথবা শূলি বিদ্ধ করা হবে...’’ (সূরা আল-মায়িদাহঃ ৩৩)।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবুয-যিনাদ (রহঃ) সূত্রে বর্ণিত। যারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর উট চুরি করেছিল তিনি তাদের হাত-পা কাটলে এবং আগুন দিয়ে তাদের চোখ উৎপাটন করলে আল্লাহ তাঁর প্রতি অসন্তুষ্টি প্রকাশ করেন এবং আয়াত নাযিল করেনঃ ‘‘যারা আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে যুদ্ধ করে এবং পৃথিবীতে ধ্বংসাত্মক কাজ করে বেড়ায় তাদের শাস্তি এই যে, তাদের হত্যা করা হবে অথবা শূলি বিদ্ধ করা হবে...’’ (সূরা আল-মায়িদাহঃ ৩৩)।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuzZinad: When the Messenger of Allah (ﷺ) cut off (the hands and feet of) those who had stolen his camels and he had their eyes put out by fire (heated nails), Allah reprimanded him on that (action), and Allah, the Exalted, revealed: "The punishment of those who wage war against Allah and His Apostle and strive with might and main for mischief through the land is execution or crucifixion
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
+
+## French
+
+Rapporté par AbuzZinad : Lorsque le Messager d’Allah ﷺ a fait couper les mains et les pieds de ceux qui avaient volé ses chamelles et leur a fait crever les yeux avec des clous chauffés, Allah l’a réprimandé à ce sujet, et Allah, le Très-Haut, a révélé : « Le châtiment de ceux qui font la guerre à Allah et à Son Messager et s’efforcent de semer la corruption sur la terre, c’est l’exécution ou la crucifixion… »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Amru bin As Sarh\] berkata, telah mengabarkan kepada kami \[Ibnu Wahb\] berkata, telah mengabarkan kepadaku \[Al laits bin Sa'd\] dari \[Muhammad bin 'Ajlan\] dari \[Abu Az Zinad\] berkata, "Ketika Rasulullah memotong (tangan dan kaki) serta mencongkel mata orang-orang yang mencuri unta miliknya dengan api, Allah Ta'ala mencela perbuatan tersebut. Allah kemudian menurunkan ayat: '(Sesungguhnya pembalasan terhadap orang-orang yang memerangi Allah dan rasul-Nya serta membuat kerusakan di muka bumi, hanyalah mereka dibunuh atau disalib..) '." Telah menceritakan kepada kami Muhammad bin Katsir ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami Musa bin Isma'il berkata, telah menceritakan kepada kami Hammam dari Qatadah dari Muhammad bin Sirin ia berkata, "Ini adalah ketika belum turun syariat hudud, yaitu sebagaimana tersebut dalam hadits Anas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] berkata, telah mengabarkan kepada kami [Ibnu Wahb] berkata, telah mengabarkan kepadaku [Al laits bin Sa'd] dari [Muhammad bin 'Ajlan] dari [Abu Az Zinad] berkata, "Ketika Rasulullah memotong (tangan dan kaki) serta mencongkel mata orang-orang yang mencuri unta miliknya dengan api, Allah Ta'ala mencela perbuatan tersebut. Allah kemudian menurunkan ayat: '(Sesungguhnya pembalasan terhadap orang-orang yang memerangi Allah dan rasul-Nya serta membuat kerusakan di muka bumi, hanyalah mereka dibunuh atau disalib..) '." Telah menceritakan kepada kami Muhammad bin Katsir ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami Musa bin Isma'il berkata, telah menceritakan kepada kami Hammam dari Qatadah dari Muhammad bin Sirin ia berkata, "Ini adalah ketika belum turun syariat hudud, yaitu sebagaimana tersebut dalam hadits Anas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу аз-Зинада, что, когда эти разбойники украли верблюдиц Посланника Аллаха ﷺ и он велел отрубить им кисти и ступни и выжечь глаза, Всевышний Аллах упрекнул его за это и ниспослал: «Воистину, те, которые воюют против Аллаха и Его посланника и стремятся сотворить на земле нечестие, в воздаяние должны быть убиты или распяты, или у них должны быть отсечены накрест руки и ноги, или они должны быть изгнаны из страны»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
 
 ## Turkish
 
+Ebu'z-Zinâd şöyle, demiştir: "Rasulullah (s.a.v.) sağmal develerini çalanların (ellerini ayaklarını) kesip, ateşle gözlerini oyunca onun dikkatini çekmek için Allah (c.c): "Allah ve Rasûlü ile savaşanların ve yeryüzünde fesad çıkaranların cezası, öldürülmeleri veya asılmaları..."\[Mâide 33\] ayetini indirdi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu'z-Zinâd şöyle, demiştir: "Rasulullah (s.a.v.) sağmal develerini çalanların (ellerini ayaklarını) kesip, ateşle gözlerini oyunca onun dikkatini çekmek için Allah (c.c): "Allah ve Rasûlü ile savaşanların ve yeryüzünde fesad çıkaranların cezası, öldürülmeleri veya asılmaları..."[Mâide 33] ayetini indirdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوالزناد سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے جب ان لوگوں کے ( ہاتھ پاؤں ) کاٹے جنہوں نے آپ کے اونٹ چرائے تھے اور ان کی آنکھوں میں آگ کی سلائیاں پھیریں تو اللہ تعالیٰ نے آپ پر اس سلسلہ میں عتاب فرمایا: اور آیت محاربہ «إنما جزاء الذين يحاربون الله ورسوله ويسعون في الأرض فسادا أن يقتلوا أو يصلبوا» جو اللہ اور اس کے رسول سے لڑیں اور زمین میں فساد کرتے پھریں ان کی سزا یہی ہے کہ وہ قتل کر دئیے جائیں یا سولی پر چڑھا دئیے جائیں ( سورۃ المائدہ: ۳۳ ) اخیر تک نازل فرمائی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4370</td></tr><tr><td>Arabic No</td><td>4370</td></tr><tr><td>Reference</td><td>Book 40 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4370 |
+| Arabic No | 4370 |
+| Reference | Book 40 Hadith 20 |

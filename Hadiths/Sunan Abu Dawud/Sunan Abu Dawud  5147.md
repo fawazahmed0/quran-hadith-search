@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا خَالِدٌ، حَدَّثَنَا سُهَيْلٌ، - يَعْنِي ابْنَ أَبِي صَالِحٍ - عَنْ سَعِيدٍ الأَعْشَى، - قَالَ أَبُو دَاوُدَ وَهُوَ سَعِيدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ مُكْمِلٍ الزُّهْرِيُّ - عَنْ أَيُّوبَ بْنِ بَشِيرٍ الأَنْصَارِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ عَالَ ثَلاَثَ بَنَاتٍ فَأَدَّبَهُنَّ وَزَوَّجَهُنَّ وَأَحْسَنَ إِلَيْهِنَّ فَلَهُ الْجَنَّةُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
+
 حدثنا مسدد، حدثنا خالد، حدثنا سهيل، - يعني ابن ابي صالح - عن سعيد الاعشى، - قال ابو داود وهو سعيد بن عبد الرحمن بن مكمل الزهري - عن ايوب بن بشير الانصاري، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم " من عال ثلاث بنات فادبهن وزوجهن واحسن اليهن فله الجنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তিনটি কন্যা সন্তানকে লালন-পালন করলো, তাদেরকে আদব শিক্ষা দিলো, বিয়ে দিলো এবং তাদের সাথে সুন্দর ব্যবহার করলো, তার জন্য জান্নাত রয়েছে।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি তিনটি কন্যা সন্তানকে লালন-পালন করলো, তাদেরকে আদব শিক্ষা দিলো, বিয়ে দিলো এবং তাদের সাথে সুন্দর ব্যবহার করলো, তার জন্য জান্নাত রয়েছে।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: If anyone cares for three daughters, disciplines them, marries them, and does good to them, he will go to Paradise
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Prophète ﷺ a dit : « Si quelqu’un élève trois filles, les éduque, les marie et leur fait du bien, il entrera au Paradis. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Khalid\] berkata, telah menceritakan kepada kami \[Suhail\] -maksudnya Suhail bin Abu Shalih- dari \[Sa'id Al A'sya\] -Abu Dawud berkata; dia adalah Sa'id bin 'Abdurrahman bin Mukmil Az Zuhri- dari \[Ayyub bin Basyir Al Anshari\] dari \[Abu Sa'id Al Khudri\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memelihara tiga orang anak wanita, lalu ia mendidik dan menikahkan mereka, serta berbuat baik kepada mereka. maka ia akan mendapatkan surga." Telah menceritakan kepada kami \[Yusuf bin Musa\] berkata, telah menceritakan kepada kami \[Jarir\] dari \[Suhail\] dengan sanad ini, ia menyebutkan, "Tiga saudara perempuan, atau tiga anak perempuan, atau dua anak perempuan, atau dua saudara perempuan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Khalid] berkata, telah menceritakan kepada kami [Suhail] -maksudnya Suhail bin Abu Shalih- dari [Sa'id Al A'sya] -Abu Dawud berkata; dia adalah Sa'id bin 'Abdurrahman bin Mukmil Az Zuhri- dari [Ayyub bin Basyir Al Anshari] dari [Abu Sa'id Al Khudri] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa memelihara tiga orang anak wanita, lalu ia mendidik dan menikahkan mereka, serta berbuat baik kepada mereka. maka ia akan mendapatkan surga." Telah menceritakan kepada kami [Yusuf bin Musa] berkata, telah menceritakan kepada kami [Jarir] dari [Suhail] dengan sanad ini, ia menyebutkan, "Tiga saudara perempuan, atau tiga anak perempuan, atau dua anak perempuan, atau dua saudara perempuan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Said el-Hudrî'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "Her kim üç kızın geçimini üzerine alarak onları (İslam terbiyesi üzere), terbiye eder, evlendirir ve (evlendirdikten sonra da) onlara (olan) iyiliğini sürdürürse onun için (mükâfat olarak) cennet vardır...”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس شخص نے تین بچیوں کی کفالت کی، انہیں ادب، تمیز و تہذیب سکھائی ( حسن معاشرت کی تعلیم دی ) ان کی شادیاں کر دیں، اور ان کے ساتھ حسن سلوک کیا، تو اس کے لیے جنت ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5147</td></tr><tr><td>Arabic No</td><td>5147</td></tr><tr><td>Reference</td><td>Book 43 Hadith 375</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5147 |
+| Arabic No | 5147 |
+| Reference | Book 43 Hadith 375 |

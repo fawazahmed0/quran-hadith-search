@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَحْمَدُ بْنُ إِسْحَاقَ، حَدَّثَنَا وُهَيْبٌ، عَنْ عَبْدِ اللَّهِ بْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَعَطَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا احمد بن اسحاق، حدثنا وهيب، عن عبد الله بن طاوس، عن ابيه، عن ابن عباس، ان رسول الله صلى الله عليه وسلم استعط
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাকে ঔষধ ব্যবহার করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাকে ঔষধ ব্যবহার করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn’Abbas said:The Messenger of Allah (ﷺ) snuffed medicine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
+
+## French
+
+Ibn ‘Abbas رضي الله عنه a dit : Le Messager d’Allah ﷺ a pris un médicament par le nez
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] telah menceritakan kepadaku \[Ahmad bin Ishaq\] telah menceritakan kepada kami \[Wuhaib\] dari \[Abdullah bin Thawus\] dari \[Ayahnya\] dari \[Ibnu Abbas\] bahwa Rasulullah shallallahu 'alaihi wasallam memakai obat yang dimasukkan ke hidung
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepadaku [Ahmad bin Ishaq] telah menceritakan kepada kami [Wuhaib] dari [Abdullah bin Thawus] dari [Ayahnya] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam memakai obat yang dimasukkan ke hidung
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ закапывал лекарство в нос
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.), buruna ilaç damlatırmış
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ناک میں دوا ڈالی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5691) Sahih Muslim (1202 After 1577)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3867</td></tr><tr><td>Arabic No</td><td>3867</td></tr><tr><td>Reference</td><td>Book 29 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5691) Sahih Muslim (1202 After 1577) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3867 |
+| Arabic No | 3867 |
+| Reference | Book 29 Hadith 13 |

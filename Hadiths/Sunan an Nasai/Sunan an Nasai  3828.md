@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، أَنَّ كَثِيرَ بْنَ فَرْقَدٍ، حَدَّثَهُ أَنَّ نَافِعًا حَدَّثَهُمْ عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ حَلَفَ فَقَالَ إِنْ شَاءَ اللَّهُ فَقَدِ اسْتَثْنَى ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 35 Hadith 68</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |
+
 اخبرنا يونس بن عبد الاعلى، قال حدثنا ابن وهب، قال اخبرني عمرو بن الحارث، ان كثير بن فرقد، حدثه ان نافعا حدثهم عن عبد الله بن عمر، قال قال رسول الله صلى الله عليه وسلم " من حلف فقال ان شاء الله فقد استثنى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 35 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইউনুস ইবন আবদুল আ'লা (রহঃ) ... আবদুল্লাহ ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি শপথ করে ইনশাআল্লাহ্ বললো, সে তা বাদ করে দিল (অর্থাৎ শপথ সংঘটিত হল না)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 35 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah bin 'Umar said:"The Messenger of Allah said: 'Whoever swears an oath and says: If Allah wills, then he has made an exception
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 35 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |
+
+## French
+
+Rapporté par Abdullah bin 'Umar : Le Messager d'Allah a dit : « Celui qui fait un serment et dit : Si Allah le veut, alors il a fait une exception. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Yunus bin Abdul A'la\] berkata; telah menceritakan kepada kami \[Ibnu Wahb\] berkata; telah mengabarkan kepadaku \['Amru bin Al Harits\] bahwa \[Katsir bin Farqad\] menceritakan kepadanya, bahwa \[Nafi'\] menceritakan kepada mereka dari \[Abdullah bin Umar\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dan mengatakan, 'Insyaallah', maka ia telah mengucapkan pengecualian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Yunus bin Abdul A'la] berkata; telah menceritakan kepada kami [Ibnu Wahb] berkata; telah mengabarkan kepadaku ['Amru bin Al Harits] bahwa [Katsir bin Farqad] menceritakan kepadanya, bahwa [Nafi'] menceritakan kepada mereka dari [Abdullah bin Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa bersumpah dan mengatakan, 'Insyaallah', maka ia telah mengucapkan pengecualian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 35 Hadith 68</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 35 Hadith 68</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3828</td></tr><tr><td>Arabic No</td><td>3828</td></tr><tr><td>Reference</td><td>Book 35 Hadith 68</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3828 |
+| Arabic No | 3828 |
+| Reference | Book 35 Hadith 68 |

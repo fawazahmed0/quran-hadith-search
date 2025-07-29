@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ الْحَنْظَلِيُّ، - وَاللَّفْظُ لَهُ - أَخْبَرَنَا وَكِيعٌ، حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ مَنْ حَلَفَ عَلَى يَمِينِ صَبْرٍ يَقْتَطِعُ بِهَا مَالَ امْرِئٍ مُسْلِمٍ هُوَ فِيهَا فَاجِرٌ لَقِيَ اللَّهَ وَهُوَ عَلَيْهِ غَضْبَانُ ‏"‏ ‏.‏ قَالَ فَدَخَلَ الأَشْعَثُ بْنُ قَيْسٍ فَقَالَ مَا يُحَدِّثُكُمْ أَبُو عَبْدِ الرَّحْمَنِ قَالُوا كَذَا وَكَذَا ‏.‏ قَالَ صَدَقَ أَبُو عَبْدِ الرَّحْمَنِ فِيَّ نَزَلَتْ كَانَ بَيْنِي وَبَيْنَ رَجُلٍ أَرْضٌ بِالْيَمَنِ فَخَاصَمْتُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏"‏ هَلْ لَكَ بَيِّنَةٌ ‏"‏ ‏.‏ فَقُلْتُ لاَ ‏.‏ قَالَ ‏"‏ فَيَمِينُهُ ‏"‏ ‏.‏ قُلْتُ إِذًا يَحْلِفُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ ذَلِكَ ‏"‏ مَنْ حَلَفَ عَلَى يَمِينِ صَبْرٍ يَقْتَطِعُ بِهَا مَالَ امْرِئٍ مُسْلِمٍ هُوَ فِيهَا فَاجِرٌ لَقِيَ اللَّهَ وَهُوَ عَلَيْهِ غَضْبَانُ ‏"‏ ‏.‏ فَنَزَلَتْ ‏(‏ إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ثَمَنًا قَلِيلاً‏)‏ إِلَى آخِرِ الآيَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، ح وحدثنا ابن نمير، حدثنا ابو معاوية، ووكيع، ح وحدثنا اسحاق بن ابراهيم الحنظلي، - واللفظ له - اخبرنا وكيع، حدثنا الاعمش، عن ابي وايل، عن عبد الله، عن رسول الله صلى الله عليه وسلم قال " من حلف على يمين صبر يقتطع بها مال امري مسلم هو فيها فاجر لقي الله وهو عليه غضبان " . قال فدخل الاشعث بن قيس فقال ما يحدثكم ابو عبد الرحمن قالوا كذا وكذا . قال صدق ابو عبد الرحمن في نزلت كان بيني وبين رجل ارض باليمن فخاصمته الى النبي صلى الله عليه وسلم فقال " هل لك بينة " . فقلت لا . قال " فيمينه " . قلت اذا يحلف . فقال رسول الله صلى الله عليه وسلم عند ذلك " من حلف على يمين صبر يقتطع بها مال امري مسلم هو فيها فاجر لقي الله وهو عليه غضبان " . فنزلت ( ان الذين يشترون بعهد الله وايمانهم ثمنا قليلا) الى اخر الاية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শাইবাহ, ইবনু নুমায়র এবং ইসহাক ইবনু ইবরাহীম আল হানযালী (রহঃ) ..... আবদুল্লাহ (রাযিঃ) বলেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইরশাদ করেছেন, যে ব্যক্তি তার উপর অর্পিত চূড়ান্ত কসমের মাধ্যমে কোন মুসলিমের সম্পদ আত্মসাৎ করে অথচ সে মিথ্যাবাদী। এমন অবস্থায় আল্লাহর সাথে তার সাক্ষাৎ ঘটবে যে, তিনি তার প্রতি রেগে থাকবেন। রাবী বলেন, আশ'আস ইবনু কায়স তথায় প্রবেশ করলেন এবং জিজ্ঞেস করলেন, আবূ আবদুর রহমান (আবদুল্লাহ) তোমাদেরকে কি বর্ণনা করলেন? তদুত্তরে সকলে উক্ত হাদীসটির কথা বললেন। তিনি বললেন, আবূ আবদুর রহমান সত্যই বর্ণনা করেছেন, ঘটনাটি আমাকে কেন্দ্র করেই ঘটেছিল। ব্যাপার হলো ইয়ামানে জনৈক ব্যক্তির সাথে আমারও একখণ্ড ভূমি ছিল। এর মীমাংসা করার জন্য আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর খিদমাতে উপস্থিত হই, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে জিজ্ঞেস করলেন, তোমার দাবীর স্বপক্ষে তোমার নিকট কোন প্রমাণ আছে কি? আমি বললাম, না। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বললেন, তা হলে বিবাদীর কসম নেয়া হবে। আমি বললাম, এ ব্যক্তি তো কসম করবেই। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেন, যে ব্যক্তি তার উপর অর্পিত চূড়ান্ত কসমের মাধ্যমে কোন মুসলিমের সম্পদ গ্রাস করে অথচ সে মিথ্যাবাদী আল্লাহর সাথে এমন অবস্থায় তার সাক্ষাৎ ঘটবে যে, আল্লাহ তার প্রতি ক্রোধান্বিত থাকবেন। এরপর এ আয়াত নাযিল হয়, “যারা আল্লাহর সাথে কৃত ওয়াদা এবং নিজেদের কসম তুচ্ছ মূল্যে বিক্রি করে, পরকালে তাদের কোন অংশ নেই। কিয়ামত দিবসে আল্লাহ তাদের সাথে কথা বলবেন না, তাদের দিকে তাকাবেন না এবং তাদেরকে পরিশুদ্ধ করবেন না; তাদের জন্য রয়েছে মর্মম্ভদ শাস্তি"- (সূরাহ্ আলে ইমরান ৩ঃ ৭৭)। (ইসলামিক ফাউন্ডেশনঃ ২৫৪, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is narrated on the authority of Abdullah (b. Umar) that the Messenger of Allah (ﷺ) observed:He who perjured with a view to appropriating the property of a Muslim, and he is in fact a liar and would meet Allah in a state that He would be angry with him. He (the narrator) said: There came Ash'ath b. Qais and said (to the people): What does Abu Abdur-Rahman (the Kunya of Abdullah b. Umar) narrate to you? They replied: So and so. Upon this he remarked: Abu Abdur-Rahman told the truth. This (command) has been revealed in my case. There was a piece of land in Yemen over which I and another person had a claim. I brought the dispute with him to the Messenger of Allah (to decide) He (the Holy Prophet) said: Can you produce an evidence (in your support)? I said: No. He (the Holy Prophet) observed: (Then the decision would be made) on his oath. I said: He would readily take an oath. Upon this the Messenger of Allah (ﷺ) remarked: He who perjured for appropriating the wealth of a Muslim, whereas he is a liar, would meet Allah while He would be angry with him. This verse was then revealed:" Verily those who barter Allah's covenant and their oaths at a small price..." (iii)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## French
 
+Rapporté par Abdullah ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui jure faussement dans le but de s’approprier le bien d’un musulman, alors qu’il ment, rencontrera Allah dans un état où Il sera en colère contre lui. » (Le rapporteur poursuit :) Ash’ath ibn Qais est venu et a demandé aux gens : « Qu’est-ce qu’Abu Abdur-Rahman (le surnom d’Abdullah ibn Umar) vous a raconté ? » Ils ont répondu : « Il a dit ceci et cela. » Ash’ath a alors dit : « Abu Abdur-Rahman a dit la vérité. Ce commandement a été révélé à mon sujet. J’avais un terrain au Yémen que je revendiquais face à un autre homme. J’ai porté le litige devant le Messager d’Allah ﷺ. Il m’a demandé : “As-tu une preuve ?” J’ai répondu : “Non.” Il a dit : “Alors la décision se fera sur son serment.” J’ai dit : “Il n’hésitera pas à jurer.” Le Messager d’Allah ﷺ a alors dit : “Celui qui jure faussement pour s’approprier le bien d’un musulman, alors qu’il ment, rencontrera Allah en étant en colère contre lui.” Puis ce verset a été révélé : « Ceux qui échangent le pacte d’Allah et leurs serments contre un prix dérisoire… » (Coran 3 :)
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## Indonesian
 
+Dan telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] telah menceritakan kepada kami \[Waki'\]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami \[Ibnu Numair\] telah menceritakan kepada kami \[Abu Muawiyah\] dan \[Waki'\]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami \[Ishaq bin Ibrahim al-Hanzhali\] dan lafazh tersebut miliknya, telah mengabarkan kepada kami \[Waki'\] telah menceritakan kepada kami \[al-A'masy\] dari \[Abu Wail\] dari \[Abdullah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa bersumpah atas untuk mengambil harta seorang muslim, maka karena itu ia menjadi seorang yang durhaka, dia akan bertemu Allah sementara Allah murka kepadanya." Perawi berkata, "Lalu \[al-Ats'asy bin Qais\] masuk seraya bertanya, "Apa yang diceritakan Abu Abdurrahman kepada kalian?" Mereka menjawab, "Demikian dan demikian." Asy'ats berkata, "Abu Abdurrahman benar, hadits tersebut turun berkenaan denganku. Ada perselisihan antara aku dengan seorang laki-laki tentang tanah di Yaman, lalu aku mengajukan hal itu ke hadapan Nabi shallallahu 'alaihi wasallam, maka beliau bertanya: 'Apakah kamu mempunyai bukti'. Aku menjawab, 'Tidak.' Beliau bersabda: "Maka sumpahnya (dijadikan sebagai alat hukum).' Aku berkata, 'Jadi dia bersumpah? ' Saat itu juga beliau langsung bersabda: "Barangsiapa bersumpah untuk mengambil harta seorang Muslim, maka karena itu ia menjadi seorang yang durhaka, dia akan bertemu Allah sementara Allah murka kepadanya." Lalu turunlah ayat: '(Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit, mereka itu tidak mendapat bahagian (pahala) di akhirat, dan Allah tidak akan berkata-kata dengan mereka dan tidak akan melihat kepada mereka pada hari kiamat dan tidak (pula) akan mensucikan mereka. Bagi mereka azab yang pedih) ' (Qs. Ali Imran: 77). Telah menceritakan kepada kami \[Ishaq bin Ibrahim\] telah mengabarkan kepada kami \[Jarir\] dari \[Manshur\] dari \[Abu Wail\] dari \[Abdullah\] dia berkata, 'Barangsiapa bersumpah untuk mendapatkan harta (orang lain), maka karena itu ia menjadi seorang yang durhaka, dan ia akan berjumpa dengan Allah sementara Allah dalam kondisi murka kepadanya." Kemudian dia menyebutkan semisal hadits al-A'masy, hanya saja dia menyebutkan, "Pernah terjadi perselisihan antara aku dengan seorang laki-laki dalam masalah sumur. Maka kami mengadukannya kepada Rasulullah shallallahu 'alaihi wasallam. Beliau lalu bersabda: "Hendaklah kamu menghadirkan dua saksi, atau dia bersumpah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ibnu Numair] telah menceritakan kepada kami [Abu Muawiyah] dan [Waki']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Ishaq bin Ibrahim al-Hanzhali] dan lafazh tersebut miliknya, telah mengabarkan kepada kami [Waki'] telah menceritakan kepada kami [al-A'masy] dari [Abu Wail] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Barangsiapa bersumpah atas untuk mengambil harta seorang muslim, maka karena itu ia menjadi seorang yang durhaka, dia akan bertemu Allah sementara Allah murka kepadanya." Perawi berkata, "Lalu [al-Ats'asy bin Qais] masuk seraya bertanya, "Apa yang diceritakan Abu Abdurrahman kepada kalian?" Mereka menjawab, "Demikian dan demikian." Asy'ats berkata, "Abu Abdurrahman benar, hadits tersebut turun berkenaan denganku. Ada perselisihan antara aku dengan seorang laki-laki tentang tanah di Yaman, lalu aku mengajukan hal itu ke hadapan Nabi shallallahu 'alaihi wasallam, maka beliau bertanya: 'Apakah kamu mempunyai bukti'. Aku menjawab, 'Tidak.' Beliau bersabda: "Maka sumpahnya (dijadikan sebagai alat hukum).' Aku berkata, 'Jadi dia bersumpah? ' Saat itu juga beliau langsung bersabda: "Barangsiapa bersumpah untuk mengambil harta seorang Muslim, maka karena itu ia menjadi seorang yang durhaka, dia akan bertemu Allah sementara Allah murka kepadanya." Lalu turunlah ayat: '(Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit, mereka itu tidak mendapat bahagian (pahala) di akhirat, dan Allah tidak akan berkata-kata dengan mereka dan tidak akan melihat kepada mereka pada hari kiamat dan tidak (pula) akan mensucikan mereka. Bagi mereka azab yang pedih) ' (Qs. Ali Imran: 77). Telah menceritakan kepada kami [Ishaq bin Ibrahim] telah mengabarkan kepada kami [Jarir] dari [Manshur] dari [Abu Wail] dari [Abdullah] dia berkata, 'Barangsiapa bersumpah untuk mendapatkan harta (orang lain), maka karena itu ia menjadi seorang yang durhaka, dan ia akan berjumpa dengan Allah sementara Allah dalam kondisi murka kepadanya." Kemudian dia menyebutkan semisal hadits al-A'masy, hanya saja dia menyebutkan, "Pernah terjadi perselisihan antara aku dengan seorang laki-laki dalam masalah sumur. Maka kami mengadukannya kepada Rasulullah shallallahu 'alaihi wasallam. Beliau lalu bersabda: "Hendaklah kamu menghadirkan dua saksi, atau dia bersumpah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абдуллах передал, что Посланник Аллаха ﷺ сказал: «Кто лживо поклялся (в суде), когда от него потребовали клятву, посредством чего он присвоил (себе) имущество мусульманина, тот встретит Аллаха разгневанным на него». (В этот момент) вошёл Аль-Аш‘ас ибн Кайс, и сказал: «Что рассказал вам Абу ‘Абдуррахман?» Они ответили: «То-то и то-то». Аль-Аш‘ас сказал: «Абу ‘Абдуррахман сказал правду! (Этот аят) был ниспослан в отношении меня. Мы с одним человеком вели тяжбу из-за участка земли в Йемене, и тогда я пришёл с ним к Пророку ﷺ. (Пророк ﷺ) спросил меня: “Есть ли у тебя доказательство?” Я ответил: “Нет”. Он сказал: “Пусть он поклянётся”. Я возразил: “(Но) ведь он (сейчас) поклянётся (и присвоит моё имущество)!” Тогда Посланник Аллаха ﷺ сказал: “Кто лживо поклялся (в суде), когда от него потребовали клятву, посредством чего он присвоил (себе) имущество мусульманина, тот встретит Аллаха разгневанным на него”. И тогда было ниспосланы (аяты, в которых сказано): “Воистину, тем, которые продают завет с Аллахом и свои клятвы за ничтожную цену, нет доли в Последней жизни. Аллах не станет говорить с ними, не посмотрит на них в День воскресения и не очистит их. Им уготованы мучительные страдания” (сура «Али ‘Имран», аят 77)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebu Bekr b. Ebi Şeybe de tahdis etti. Bize Vekl' tahdis etti (H). Bize İbn Numeyr de tahdis etti, bize Ebu Muaviye ve Vekl' tahdis etti (H). Bize İshak b. İbrahim el-Hanzali -ki lafız onundur- de tahdis etti. Bize Vekl' haber verdi. Bize A'meş, Ebu Vail'den tahdis etti. O Abdullah'tan, o Resulullah (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: "Kim yalancı olduğu halde bir sabr yemini edip, onunla Müslüman bir kimsenin malını haksızca alırsa Allah'ın huzuruna O kendisine gazap etmiş olduğu halde çıkar." (Ebu Vail) dedi ki: Derken Eş'as b. Kays girdi ve Ebu Abdurrahman size neler anlalıyor, dedi. Oradakiler şunları şunları anlalıyor, dediler. Eş'as: Ebu Abdurrahman doğru söylemiştir. Ayet benim hakkımda indi. Benimle bir adam arasında (anlaşmazlık konusu) Yemen'de bir arazi parçası vardı. Onu Nebi (Sallallahu aleyhi ve Sellem)'e dava ettim (beyyinen -delilin- var mı?) Ben, hayır dedim. Allah Resulü: "O halde o yemin etsin" buyurdu. Ben: O da yemin ediverir, dedim. Resulullah (Sallallahu aleyhi ve Sellem) O vakit şöyle buyurdu: "Kim yalancı olduğu halde o yolla Müslüman bir kimsenin malını haksızca alacağı bir sabr yemini ederse Allah kendisine gazap etmiş olduğu halde huzuruna çıkar." Sonra da: "Şüphesiz Allah'a olan ahitlerini ve yeminlerini az bir pahaya satanlar ... " (AJ-i İmran, 77) ayeti sonuna kadar nazil oldu. Diğer tahric: Buhari, 2356, 2515, 2666, 2676 -muhtasar olarak-, 2673, 2416, 4549, 6659, 6676, 7183, 7184; Ebu Davud, 3243; Tirmizi, 1269, 2996; İbn Mace, 2322, 2323'te de muhtasar olarak; Tuhfetu'I-Eşraf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اعمش نے ابو وائل سے ، انہوں نے حضرت عبد اللہ ( بن مسعود ) ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے رسول اللہ ﷺ سے روایت کی کہ آپ نے فرمایا : ’’ جس نے مسلمان کا مال دبانے کے لیے ایسی قسم کھائی جس کے لیے عدالت نے اسے پابند کیا اور وہ اس میں جھوٹا ہے ، وہ اللہ کے سامنے اس حالت میں حاضر ہو گا کہ اللہ اس پر ناراض ہو گا ۔ ‘ ‘ انہوں ( وائل ) نے کہا : اس موقع پر حضرت اشعث بن قیس ‌رضی ‌اللہ ‌عنہ ‌ ‌ ( مجلس میں ) داخل ہوئے اور کہا : ابو عبد ا لرحمن ( عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) تمہیں کیا حدیث بیان کر رہے ہیں ؟ لوگوں نے کہا : اس اس طرح ( بیان کر رہے ہیں ۔ ) انہوں نےکہا : ابو عبد الرحمن نے سچ کہا ، یہ آیت میرے ہی معاملے میں نازل ہوئی ۔ میرے اور ایک آدمی کے درمیان یمن کی ایک زمین کا معاملہ تھا ۔ میں اس کے ساتھ جھگڑا نبی ﷺ کےہاں لے گیا تو آپ نے پوچھا : ’’کیا تمہارے پاس کوئی دلیل ( یا ثبوت ) ہے ؟ میں نے عرض کی : نہیں ۔ آپ نے فرمایا : ’’ تو پھر اس کی قسم ( پر فیصلہ ہو گا ۔ ) ‘ ‘ میں نے کہا : تب وہ قسم کھا لے گا ۔ اس پر رسول اللہ ﷺ نے فرمایا : ’’جس نے کسی مسلمان کا مال دبانے کے لیے ایسی قسم کھائی جس کا فیصلہ کرنے والے نے اس سےمطالبہ کیا تھا اور وہ اس قسم میں جھوٹا ہے تو وہ اللہ کےسامنے اس حالت میں حاضر ہو گا کہ اللہ اس پر ناراض ہو گا ۔ ‘ ‘ اس پر یہ آیت اتری : ’’بلاشبہ جو لوگ اللہ کے ساتھ کیے گئے وعدے اور اپنی قسموں کا سودا تھوڑی قیمت پر کرتے ہیں ..... ‘ ‘ آیت کے آخر تک ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>355</td></tr><tr><td>Arabic No</td><td>138.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 262</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 355 |
+| Arabic No | 138.01 |
+| Reference | Book 1 Hadith 262 |

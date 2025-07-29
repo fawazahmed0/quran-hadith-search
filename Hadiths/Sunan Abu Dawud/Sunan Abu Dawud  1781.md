@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّهَا قَالَتْ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ فَأَهْلَلْنَا بِعُمْرَةٍ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ مَنْ كَانَ مَعَهُ هَدْىٌ فَلْيُهِلَّ بِالْحَجِّ مَعَ الْعُمْرَةِ ثُمَّ لاَ يَحِلُّ حَتَّى يَحِلَّ مِنْهُمَا جَمِيعًا ‏"‏ ‏.‏ فَقَدِمْتُ مَكَّةَ وَأَنَا حَائِضٌ وَلَمْ أَطُفْ بِالْبَيْتِ وَلاَ بَيْنَ الصَّفَا وَالْمَرْوَةِ فَشَكَوْتُ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏"‏ انْقُضِي رَأْسَكِ وَامْتَشِطِي وَأَهِلِّي بِالْحَجِّ وَدَعِي الْعُمْرَةَ ‏"‏ ‏.‏ قَالَتْ فَفَعَلْتُ فَلَمَّا قَضَيْنَا الْحَجَّ أَرْسَلَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم مَعَ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرٍ إِلَى التَّنْعِيمِ فَاعْتَمَرْتُ فَقَالَ ‏"‏ هَذِهِ مَكَانَ عُمْرَتِكِ ‏"‏ ‏.‏ قَالَتْ فَطَافَ الَّذِينَ أَهَلُّوا بِالْعُمْرَةِ بِالْبَيْتِ وَبَيْنَ الصَّفَا وَالْمَرْوَةِ ثُمَّ حَلُّوا ثُمَّ طَافُوا طَوَافًا آخَرَ بَعْدَ أَنْ رَجَعُوا مِنْ مِنًى لِحَجِّهِمْ وَأَمَّا الَّذِينَ كَانُوا جَمَعُوا الْحَجَّ وَالْعُمْرَةَ فَإِنَّمَا طَافُوا طَوَافًا وَاحِدًا ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ إِبْرَاهِيمُ بْنُ سَعْدٍ وَمَعْمَرٌ عَنِ ابْنِ شِهَابٍ نَحْوَهُ لَمْ يَذْكُرُوا طَوَافَ الَّذِينَ أَهَلُّوا بِعُمْرَةٍ وَطَوَافَ الَّذِينَ جَمَعُوا الْحَجَّ وَالْعُمْرَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
+
 حدثنا القعنبي، عن مالك، عن ابن شهاب، عن عروة بن الزبير، عن عايشة، زوج النبي صلى الله عليه وسلم انها قالت خرجنا مع رسول الله صلى الله عليه وسلم في حجة الوداع فاهللنا بعمرة ثم قال رسول الله صلى الله عليه وسلم " من كان معه هدى فليهل بالحج مع العمرة ثم لا يحل حتى يحل منهما جميعا " . فقدمت مكة وانا حايض ولم اطف بالبيت ولا بين الصفا والمروة فشكوت ذلك الى رسول الله صلى الله عليه وسلم فقال " انقضي راسك وامتشطي واهلي بالحج ودعي العمرة " . قالت ففعلت فلما قضينا الحج ارسلني رسول الله صلى الله عليه وسلم مع عبد الرحمن بن ابي بكر الى التنعيم فاعتمرت فقال " هذه مكان عمرتك " . قالت فطاف الذين اهلوا بالعمرة بالبيت وبين الصفا والمروة ثم حلوا ثم طافوا طوافا اخر بعد ان رجعوا من منى لحجهم واما الذين كانوا جمعوا الحج والعمرة فانما طافوا طوافا واحدا . قال ابو داود رواه ابراهيم بن سعد ومعمر عن ابن شهاب نحوه لم يذكروا طواف الذين اهلوا بعمرة وطواف الذين جمعوا الحج والعمرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
 
 ## Bengali
 
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্ত্রী ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, বিদায় হজের (হজ্জের) সময় আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে রওয়ানা হলাম। আমরা ‘উমরার ইহরাম বাঁধলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যাদের সাথে কুরবানীর পশু আছে তারা যেন ‘উমরার সাথে হজের (হজ্জের) ইহরাম বাঁধে এবং উভয়টির যাবতীয় অনুষ্ঠানাদি শেষ না করা পর্যন্ত ইহরাম না খুলে। ‘আয়িশাহ (রাঃ) বলেন, আমি হায়িয অবস্থায় মক্কায় উপস্থিত হলাম। সুতরাং আমি বাইতুল্লাহ তাওয়াফ এবং সাফা ও মারওয়াতে সাঈ করলাম না। আমি বিষয়টি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অবহিত করলাম। তিনি বললেনঃ চুলের খোপা খুলে ফেলো, মাথায় চিরুনি করো, ‘উমরার নিয়্যাত বর্জন করে কেবল হজের (হজ্জের) ইহরাম বাঁধো। তিনি বলেন, সুতরাং আমি তাই করলাম। অতঃপর আমাদের হজ (হজ্জ) সমাপ্ত হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ‘আব্দুর রহমান ইবনু আবূ বাকরের সাথে ‘তানঈম’-এ প্রেরণ করলেন এবং আমি সেখান থেকে ‘উমরা করলাম। তিনি বললেনঃ এটা তোমার পূর্বের ‘উমরার পরিপূরক। ‘আয়িশাহ (রাঃ) বলেন, যারা ‘উমরার ইহরাম বেঁধেছিলো তারা মক্কায় পৌঁছে বায়তুল্লা তাওয়াফ এবং সাফা-মারওয়ার মাঝে সাঈ করার পর ইহরাম খুলে ফেলে। তারপর মিনা থেকে ফিরে এসে হজের (হজ্জের) জন্য আরেকবার বায়তুল্লাহ তাওয়াফ করে। আর যারা হজ (হজ্জ) ও ‘উমরা একত্রে আদায় করেছে তারা শুধুমাত্র একবার তাওয়াফ করেছে।\[1\] সহীহ। ইমাম আবূ দাঊদ (রহ.) বলেন, ইবরাহীম ইবনু সা‘দ এবং মা‘মার (রহ.) ইবনু শিহাব (রহ.) থেকে অনুরূপ বর্ণনা করেছেন, তবে এতে ‘‘যারা শুধু ‘উমরার ইহরাম বেঁধেছিল এবং যারা হজ (হজ্জ) ও ‘উমরা উভয়টির ইহরাম বেঁধেছে তাদের তাওয়াফের কথা’’ বর্ণিত হয়নি।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্ত্রী ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, বিদায় হজের (হজ্জের) সময় আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে রওয়ানা হলাম। আমরা ‘উমরার ইহরাম বাঁধলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ যাদের সাথে কুরবানীর পশু আছে তারা যেন ‘উমরার সাথে হজের (হজ্জের) ইহরাম বাঁধে এবং উভয়টির যাবতীয় অনুষ্ঠানাদি শেষ না করা পর্যন্ত ইহরাম না খুলে। ‘আয়িশাহ (রাঃ) বলেন, আমি হায়িয অবস্থায় মক্কায় উপস্থিত হলাম। সুতরাং আমি বাইতুল্লাহ তাওয়াফ এবং সাফা ও মারওয়াতে সাঈ করলাম না। আমি বিষয়টি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অবহিত করলাম। তিনি বললেনঃ চুলের খোপা খুলে ফেলো, মাথায় চিরুনি করো, ‘উমরার নিয়্যাত বর্জন করে কেবল হজের (হজ্জের) ইহরাম বাঁধো। তিনি বলেন, সুতরাং আমি তাই করলাম। অতঃপর আমাদের হজ (হজ্জ) সমাপ্ত হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ‘আব্দুর রহমান ইবনু আবূ বাকরের সাথে ‘তানঈম’-এ প্রেরণ করলেন এবং আমি সেখান থেকে ‘উমরা করলাম। তিনি বললেনঃ এটা তোমার পূর্বের ‘উমরার পরিপূরক। ‘আয়িশাহ (রাঃ) বলেন, যারা ‘উমরার ইহরাম বেঁধেছিলো তারা মক্কায় পৌঁছে বায়তুল্লা তাওয়াফ এবং সাফা-মারওয়ার মাঝে সাঈ করার পর ইহরাম খুলে ফেলে। তারপর মিনা থেকে ফিরে এসে হজের (হজ্জের) জন্য আরেকবার বায়তুল্লাহ তাওয়াফ করে। আর যারা হজ (হজ্জ) ও ‘উমরা একত্রে আদায় করেছে তারা শুধুমাত্র একবার তাওয়াফ করেছে।[1] সহীহ। ইমাম আবূ দাঊদ (রহ.) বলেন, ইবরাহীম ইবনু সা‘দ এবং মা‘মার (রহ.) ইবনু শিহাব (রহ.) থেকে অনুরূপ বর্ণনা করেছেন, তবে এতে ‘‘যারা শুধু ‘উমরার ইহরাম বেঁধেছিল এবং যারা হজ (হজ্জ) ও ‘উমরা উভয়টির ইহরাম বেঁধেছে তাদের তাওয়াফের কথা’’ বর্ণিত হয়নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ai’shah the wife of the Prophet (SWAS) said :We went out with the Messenger of Allah (SWAS) at the farewell pilgrimage and raised the voice in talbiyah for an ‘Umrah. The Apostel of Allah (SWAS) said those who have brought the sacrificial animals with them should raise their voices in talbiyah for Hajj along with an ‘Umrah and they should not put off their Ihram till they do so after performing them both. I came to Makkah while I was menstruating and I did not go round the House (the Ka’bah) or run between al-Safa and al-Marwah. I complained about this to the Messenger of Allah (SWAS) he said: Undo your hair, comb it and raise your voice in talbiyah for Hajj and let 'Umrah go. She said I did so. When we performed Hajj, the Messenger of Allah (SWAS) sent me along with 'Abd al-Rahman bin Abu Bakr to al-Ta’nim and I performed 'Umrah. He said, this is 'Umrah in place of the one you had missed. She said those who had raised their voices in talbiyah for 'Umrah put off Ihram after circumambulating the House (the Ka’bah) and after running between al-Safa and al-Marwa. Then they performed another circumambulation for their Hajj after they returned from Mina but those who combined Hajj and 'Umrah performed only one circumambulation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
+
+## French
+
+Rapporté par Aishah, l’épouse du Prophète ﷺ : Nous sommes partis avec le Messager d’Allah ﷺ lors du pèlerinage d’adieu et nous avons prononcé la talbiyah pour une 'Umrah. Le Messager d’Allah ﷺ a dit : « Ceux qui ont amené des animaux à sacrifier avec eux doivent prononcer la talbiyah pour le Hajj en même temps que pour la 'Umrah, et ils ne doivent pas retirer leur ihram avant d’avoir accompli les deux. » Je suis arrivée à La Mecque alors que j’avais mes règles et je n’ai pas fait le tour de la Ka'bah ni parcouru la distance entre al-Safa et al-Marwah. J’ai parlé de cela au Messager d’Allah ﷺ. Il m’a dit : « Défais tes cheveux, peigne-les et prononce la talbiyah pour le Hajj, et laisse tomber la 'Umrah. » Elle dit : « J’ai fait cela. Quand nous avons accompli le Hajj, le Messager d’Allah ﷺ m’a envoyée avec 'Abd al-Rahman ibn Abu Bakr à al-Ta’nim et j’ai accompli une 'Umrah. Il a dit : “C’est une 'Umrah à la place de celle que tu as manquée.” » Elle ajouta : « Ceux qui avaient prononcé la talbiyah pour la 'Umrah ont retiré leur ihram après avoir fait le tour de la Ka'bah et parcouru al-Safa et al-Marwah. Ensuite, ils ont refait un tawaf pour leur Hajj après leur retour de Mina, mais ceux qui ont combiné le Hajj et la 'Umrah n’ont fait qu’un seul tawaf. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Al Qa'nabi Abdullah bin Maslamah\] dari \[Malik\] dari \[Abu Al Aswad Muhammad bin Abdurrahman bin Naufal\] dari \['Urwah bin Az Zubair\] dari \[Aisyah\] isteri Nabi shallallahu 'alaihi wasallam, ia berkata; Kami keluar bersama Rasulullah shallAllahu wa'alaihi wa sallam pada tahun terjadinya haji wada'. Diantara Kami ada yang bertalbiyah untuk melakukan umrah dan diantara Kami ada yang bertalbiyah untuk melakukan haji dan umrah dan diantara Kami ada yang bertalbiyah untuk melakukan haji. Sedangkan Rasulullah shallAllahu wa'alaihi wa sallam bertalbiyah untuk melakukan haji. Adapun orang yang bertalbiyah untuk melakukan haji atau menggabungkan antara haji dan umrah, maka mereka tidak bertahallul hingga pada Hari Nahr (penyembelihan kurban). Abu Daud berkata; \[Ibrahim bin Sa'd\] dan \[Ma'mar\] dari \[Ibnu Syihab\], yang seperti itu. Ia menambahkan; adapun orang yang bertahlil untuk melakukan umrah maka ia bertahallul
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Al Qa'nabi Abdullah bin Maslamah] dari [Malik] dari [Abu Al Aswad Muhammad bin Abdurrahman bin Naufal] dari ['Urwah bin Az Zubair] dari [Aisyah] isteri Nabi shallallahu 'alaihi wasallam, ia berkata; Kami keluar bersama Rasulullah shallAllahu wa'alaihi wa sallam pada tahun terjadinya haji wada'. Diantara Kami ada yang bertalbiyah untuk melakukan umrah dan diantara Kami ada yang bertalbiyah untuk melakukan haji dan umrah dan diantara Kami ada yang bertalbiyah untuk melakukan haji. Sedangkan Rasulullah shallAllahu wa'alaihi wa sallam bertalbiyah untuk melakukan haji. Adapun orang yang bertalbiyah untuk melakukan haji atau menggabungkan antara haji dan umrah, maka mereka tidak bertahallul hingga pada Hari Nahr (penyembelihan kurban). Abu Daud berkata; [Ibrahim bin Sa'd] dan [Ma'mar] dari [Ibnu Syihab], yang seperti itu. Ia menambahkan; adapun orang yang bertahlil untuk melakukan umrah maka ia bertahallul
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от жены Пророка ﷺ ‘Аиша, да будет доволен ею Аллах, что она сказала: «Мы отправились совершать прощальный хадж вместе с посланником Аллаха ﷺ и произнесли тальбию для ‘умры. А потом Посланник Аллаха ﷺ сказал: “Пусть тот, кто гонит жертвенный скот, произносит тальбию для хаджа с ‘умрой и не выходит из ихрама, пока не совершит и то, и другое (то есть совершит хадж-кыран)”. Я приехала в Мекку как раз в то время, когда у меня была менструация, и не смогла совершить обход вокруг Каабы и пробег между Сафой и Марвой. Я пожаловалась Посланнику Аллаха ﷺ и он сказал: “Распусти волосы, причешись, объяви о намерении совершить хадж и оставь ‘умру”. Я так и поступила. А когда мы совершили хадж, Посланник Аллаха ﷺ отправил меня вместе с ‘Абдуррахманом ибн Абу Бакром в Тан‘им, и оттуда я совершила ‘умру. Посланник Аллаха ﷺ сказал: “Это место твоей ‘умры”. И те, кто произносил тальбию для ‘умры, совершили обход вокруг Каабы и пробежали между Сафой и Марвой, после чего вышли из состояния ихрама. Потом они совершили ещё один обход вокруг Каабы после возвращения из Мины, для хаджа. Что же касается тех, кто соединял хадж с ‘умрой, то они совершили только один обход вокруг Каабы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nebi (s.a.v.)'in zevcesi Âişe'den; demiştir ki: Veda haccı senesi Resûlullah (s.a.v.) ile birlikte yola çıktık ve umreye niyet ettik. Sonra Resûlullah (s.a.v.): "Kimin yanında Hedy kurbanı varsa umre ile beraber Hacca'da niyet etsin. Sonra ihrama devam ederek neticede her ikisinin ihramından birden çıksın."buyurdu. Ben Mekke'ye hayızlı olarak vardım. Beyt'i tavaf etmediğim gibi Safa ile Merve arasında sa'y da yapmadım. Bunu Resûlullah (s.a.v.)'e arz ettim de: "Saçını çöz, taran ve hacca niyet et, umreyi bırak" buyurdu. Ben de öyle yaptım. Haccı edâ ettiğimiz vakit, Resûlullah (s.a.v.) beni (kardeşim) Abdurrahman b. Ebû Bekr ile Ten'im'e gönderdi. (Orada) umre için ihrama girdim. Resûlullah (s.a.v.): "Bu senin (kazaya kalan) umrene bedeldir" buyurdu. Artık sadece umreye niyet edenler, Beyt'i tavaf ettiler ve Safa ile Merve arasında sa'y yaptılar. Sonra ihramdan çıktılar. Nihayet Minâ'dan döndükten sonra hacları için son bir tavaf daha yaptılar. Hacla umreyi beraber yapanlara gelince: Onlar yalnız bir tavaf yaptılar. Buhari, hac; Müslim, hac; Nesâî, menâsik Ebu Davud dedi ki: Bu hadis-i şerifi aynı şekilde, İbn Şihab'dan, İbrahim b. Sa'd ile Ma'mer de rivayet ettiler. (Ancak bunlar Âişe r.a.'ya ait olan) "Hac ile umreyi beraber yapanlara gelince..." (cümlesini) nakletmediler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ حجۃ الوداع میں ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نکلے تو ہم نے عمرے کا احرام باندھا پھر رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کے ساتھ ہدی ہو تو وہ عمرے کے ساتھ حج کا احرام باندھ لے پھر وہ حلال نہیں ہو گا جب تک کہ ان دونوں سے ایک ساتھ حلال نہ ہو جائے ، چنانچہ میں مکہ آئی، میں حائضہ تھی، میں نے بیت اللہ کا طواف نہیں کیا اور نہ صفا و مروہ کے درمیان سعی کی، لہٰذا میں نے رسول اللہ صلی اللہ علیہ وسلم سے اس کی شکایت کی تو آپ نے فرمایا: اپنا سر کھول لو، کنگھی کر لو، حج کا احرام باندھ لو، اور عمرے کو ترک کر دو ، میں نے ایسا ہی کیا، جب میں نے حج ادا کر لیا تو مجھے رسول اللہ صلی اللہ علیہ وسلم نے ( میرے بھائی ) عبدالرحمٰن بن ابی بکر کے ساتھ مقام تنعیم بھیجا ( تو میں وہاں سے احرام باندھ کر آئی اور ) میں نے عمرہ ادا کیا، تو آپ صلی اللہ علیہ وسلم نے فرمایا: یہ تمہارے عمرے کی جگہ پر ہے ، ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں: چنانچہ جنہوں نے عمرے کا احرام باندھ رکھا تھا انہوں نے بیت اللہ کا طواف کیا اور صفا و مروہ کے درمیان سعی کی، پھر ان لوگوں نے احرام کھول دیا، پھر جب منیٰ سے لوٹ کر آئے تو حج کا ایک اور طواف کیا، اور رہے وہ لوگ جنہوں نے حج و عمرہ دونوں کو جمع کیا تھا تو انہوں نے ایک ہی طواف کیا ۱؎۔ ابوداؤد کہتے ہیں: اسے ابراہیم بن سعد اور معمر نے ابن شہاب سے اسی طرح روایت کیا ہے انہوں نے ان لوگوں کے طواف کا جنہوں نے عمرہ کے طواف کا احرام باندھا، اور ان لوگوں کے طواف کا جنہوں نے حج اور عمرہ دونوں کا احرام باندھا ذکر نہیں کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1556) Sahih Muslim (1211)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1781</td></tr><tr><td>Arabic No</td><td>1781</td></tr><tr><td>Reference</td><td>Book 11 Hadith 61</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1556) Sahih Muslim (1211) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1781 |
+| Arabic No | 1781 |
+| Reference | Book 11 Hadith 61 |

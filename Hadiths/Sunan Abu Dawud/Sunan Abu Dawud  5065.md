@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، حَدَّثَنَا شُعْبَةُ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏"‏ خَصْلَتَانِ أَوْ خَلَّتَانِ لاَ يُحَافِظُ عَلَيْهِمَا عَبْدٌ مُسْلِمٌ إِلاَّ دَخَلَ الْجَنَّةَ هُمَا يَسِيرٌ وَمَنْ يَعْمَلُ بِهِمَا قَلِيلٌ يُسَبِّحُ فِي دُبُرِ كُلِّ صَلاَةٍ عَشْرًا وَيَحْمَدُ عَشْرًا وَيُكَبِّرُ عَشْرًا فَذَلِكَ خَمْسُونَ وَمِائَةٌ بِاللِّسَانِ وَأَلْفٌ وَخَمْسُمِائَةٍ فِي الْمِيزَانِ وَيُكَبِّرُ أَرْبَعًا وَثَلاَثِينَ إِذَا أَخَذَ مَضْجَعَهُ وَيَحْمَدُ ثَلاَثًا وَثَلاَثِينَ وَيُسَبِّحُ ثَلاَثًا وَثَلاَثِينَ فَذَلِكَ مِائَةٌ بِاللِّسَانِ وَأَلْفٌ فِي الْمِيزَانِ ‏"‏ ‏.‏ فَلَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَعْقِدُهَا بِيَدِهِ قَالُوا يَا رَسُولَ اللَّهِ كَيْفَ هُمَا يَسِيرٌ وَمَنْ يَعْمَلُ بِهِمَا قَلِيلٌ قَالَ ‏"‏ يَأْتِي أَحَدَكُمْ - يَعْنِي الشَّيْطَانَ - فِي مَنَامِهِ فَيُنَوِّمُهُ قَبْلَ أَنْ يَقُولَهُ وَيَأْتِيهِ فِي صَلاَتِهِ فَيُذَكِّرُهُ حَاجَةً قَبْلَ أَنْ يَقُولَهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
+
 حدثنا حفص بن عمر، حدثنا شعبة، عن عطاء بن السايب، عن ابيه، عن عبد الله بن عمرو، عن النبي صلى الله عليه وسلم قال " خصلتان او خلتان لا يحافظ عليهما عبد مسلم الا دخل الجنة هما يسير ومن يعمل بهما قليل يسبح في دبر كل صلاة عشرا ويحمد عشرا ويكبر عشرا فذلك خمسون وماية باللسان والف وخمسماية في الميزان ويكبر اربعا وثلاثين اذا اخذ مضجعه ويحمد ثلاثا وثلاثين ويسبح ثلاثا وثلاثين فذلك ماية باللسان والف في الميزان " . فلقد رايت رسول الله صلى الله عليه وسلم يعقدها بيده قالوا يا رسول الله كيف هما يسير ومن يعمل بهما قليل قال " ياتي احدكم - يعني الشيطان - في منامه فينومه قبل ان يقوله وياتيه في صلاته فيذكره حاجة قبل ان يقولها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’টি বিষয় বা দু’টি অভ্যাসের প্রতি যে মুসলিম খেয়াল রাখবে সে নিশ্চয়ই জান্নাতে যাবে। অভ্যাস দু’টি সহজ কিন্তু তা আমলকারীর সংখ্যা কম। তা হলো (১) প্রত্যেক সালাতের পর দশবার সুবহানাল্লাহ, দশবার আলহামদু লিল্লাহ ও দশবার আল্লাহু আকবার বলবে। মুখে (পাঁচ ওয়াক্ত) এর সংখ্যা একশো পঞ্চাশ কিন্তু মীযানে তা এক হাজার পাঁচশো (২) যখন শয্যায় যাবে চৌত্রিশ বার আল্লাহু আকবার, তেত্রিশ বার আলহামদু লিল্লাহ ও তেত্রিশ বার সুবহানাল্লাহ বলবে। তা মুখে একশো কিন্তু মীযানে এক হাজার। আব্দুল্লাহ (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তা হাতের আঙ্গুলে গণনা করতে দেখেছি। সাহাবীগণ বললেন, হে আল্লাহর রাসূল! অভ্যাস দু’টো সহজ হওয়া সত্ত্বেও এর আমলকারীর সংখ্যা কম কেন? তিনি বললেনঃ তোমরা বিছানায় ঘুমাতে গেলে শয়তান তোমাদের কোনো লোককে তা বলার আগেই ঘুম পাড়িয়ে দেয়। আর সালাতের মধ্যে শয়তান এসে তার বিভিন্ন প্রয়োজনীয় কাজের কথা স্মরণ করিয়ে দেয় এবং সে ঐগুলো বলার আগেই প্রয়োজনের দিকে চলে যায়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দু’টি বিষয় বা দু’টি অভ্যাসের প্রতি যে মুসলিম খেয়াল রাখবে সে নিশ্চয়ই জান্নাতে যাবে। অভ্যাস দু’টি সহজ কিন্তু তা আমলকারীর সংখ্যা কম। তা হলো (১) প্রত্যেক সালাতের পর দশবার সুবহানাল্লাহ, দশবার আলহামদু লিল্লাহ ও দশবার আল্লাহু আকবার বলবে। মুখে (পাঁচ ওয়াক্ত) এর সংখ্যা একশো পঞ্চাশ কিন্তু মীযানে তা এক হাজার পাঁচশো (২) যখন শয্যায় যাবে চৌত্রিশ বার আল্লাহু আকবার, তেত্রিশ বার আলহামদু লিল্লাহ ও তেত্রিশ বার সুবহানাল্লাহ বলবে। তা মুখে একশো কিন্তু মীযানে এক হাজার। আব্দুল্লাহ (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তা হাতের আঙ্গুলে গণনা করতে দেখেছি। সাহাবীগণ বললেন, হে আল্লাহর রাসূল! অভ্যাস দু’টো সহজ হওয়া সত্ত্বেও এর আমলকারীর সংখ্যা কম কেন? তিনি বললেনঃ তোমরা বিছানায় ঘুমাতে গেলে শয়তান তোমাদের কোনো লোককে তা বলার আগেই ঘুম পাড়িয়ে দেয়। আর সালাতের মধ্যে শয়তান এসে তার বিভিন্ন প্রয়োজনীয় কাজের কথা স্মরণ করিয়ে দেয় এবং সে ঐগুলো বলার আগেই প্রয়োজনের দিকে চলে যায়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Amr: The Prophet (ﷺ) said: There are two qualities or characteristics which will not be returned by any Muslim without his entering Paradise. While they are easy, those who act upon them are few. One should say: "Glory be to Allah" ten times after every prayer, "Praise be to Allah" ten times and "Allah is Most Great" ten times. That is a hundred and fifty on the tongue, but one thousand and five hundred on the scale. When he goes to bed, he should say: "Allah is Most Great" thirty-four times, "Praise be to Allah" thirty-three times, and Glory be to Allah thirty-three times, for that is a hundred on the tongue and a thousand on the scale. (He said:) I saw the Messenger of Allah (ﷺ) counting them on his hand. The people asked: Messenger of Allah! How is it that while they are easy, those who act upon them are few? He replied: The Devil comes to one of you when he goes to bed and he makes him sleep, before he utters them, and he comes to him while he is engaged in prayer and calls a need to his mind before he utters them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
+
+## French
+
+Rapporté par Abdullah ibn Amr رضي الله عنه : Le Prophète ﷺ a dit : « Il y a deux qualités ou habitudes qu’aucun musulman ne pratique sans entrer au Paradis. Bien qu’elles soient faciles, peu les mettent en pratique. Après chaque prière, on doit dire : “Gloire à Allah” dix fois, “Louange à Allah” dix fois et “Allah est le plus Grand” dix fois. Cela fait cent cinquante sur la langue, mais mille cinq cents sur la balance. Quand il va se coucher, il doit dire : “Allah est le plus Grand” trente-quatre fois, “Louange à Allah” trente-trois fois et “Gloire à Allah” trente-trois fois, ce qui fait cent sur la langue et mille sur la balance. » (Il dit :) « J’ai vu le Messager d’Allah ﷺ les compter sur sa main. » Les gens demandèrent : « Messager d’Allah ! Pourquoi, alors qu’elles sont faciles, peu les pratiquent ? » Il répondit : « Le Diable vient à l’un de vous quand il va se coucher et le fait dormir avant qu’il ne les dise, et il vient à lui pendant la prière et lui rappelle un besoin avant qu’il ne les prononce. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar\] berkata, telah menceritakan kepada kami \[Syu'bah\] dari \[Atha bin As Saib\] dari \[Bapaknya\] dari \[Abdullah bin Amr\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada dua perkara, sekiranya keduanya itu selalu dijaga oleh seorang muslim, maka ia akan masuk surga. Dua perkara itu sangat mudah untuk dikerjakan, tetapi sedikit yang mau melaksanakannya. Yaitu; setiap selesai shalat mengucapkan tasbih sebanyak sepuluh kali, tahmid sepuluh kali, dan takbir sepuluh kali. Hal itu akan sama dengan seratus lima puluh dengan lisan dan seribu lima ratus dalam timbangan. Membaca takbir sebanyak tiga puluh empat jika akan tidur, membaca tahmid sebanyak tiga puluh tiga dan membaca tasbih sebanyak tiga puluh tiga, maka itu adalah seratus dalam hitungan lisan dan seribu dalam hitungan timbangan." Sungguh, aku telah melihat Rasulullah shallallahu 'alaihi wasallam menghitungnya dengan tangan." Lau para sahabat bertanya, "Wahai Rasulullah, dua hal itu mudah untuk dilakukan tetapi kenapa sedikit yang melakukannya?" beliau menjawab: "Setan datang kepada salah seorang dari kalian saat tidur, lalu dia akan menidurkan kalian sebelum kalian membacanya. Setan juga datang saat shalat, lalu dia akan mengingatkan semua keperluannya sebelum ia membacanya." Telah menceritakan kepada kami \[Ahmad bin Shalih\] berkata, telah menceritakan kepada kami \[Abdullah bin Wahb\] ia berkata; telah menceritakan kepadaku \[Ayyasy bin Uqbah Al Hadhrami\] dari \[Al fadhl bin Hasan Adh Dhamri\] bahwa \[Ibnu Ummul hakam\] atau \[Dhaba'ah\] -keduanya puteri Az Zubair- ia menceritakan kepadanya dari salah seorang dari mereka, bahwa ia berkata, "Rasulullah shallallahu 'alaihi wasallam mendapatkan tawanan, lalu aku dan saudaraku Fatimah binti Nabi shallallahu 'alaihi wasallam, pergi menemui Nabi shallallahu 'alaihi wasallam. Kemudian kami mengadukan semua permasalahan kami dan minta agar beliau memerintahkan (petusnya) memberikan budak kepada kami. Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Kalian telah di dahului oleh anak-anak yatim badar (anak-anak yang bapaknya meninggal di badar)." Kemudian ia menyebutkan kisah hadits tasbih. Beliau bersabda: "Setiap selesai dari melaksanakan shalat …namun tidak menyebutkan ketika akan tidur
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar] berkata, telah menceritakan kepada kami [Syu'bah] dari [Atha bin As Saib] dari [Bapaknya] dari [Abdullah bin Amr] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Ada dua perkara, sekiranya keduanya itu selalu dijaga oleh seorang muslim, maka ia akan masuk surga. Dua perkara itu sangat mudah untuk dikerjakan, tetapi sedikit yang mau melaksanakannya. Yaitu; setiap selesai shalat mengucapkan tasbih sebanyak sepuluh kali, tahmid sepuluh kali, dan takbir sepuluh kali. Hal itu akan sama dengan seratus lima puluh dengan lisan dan seribu lima ratus dalam timbangan. Membaca takbir sebanyak tiga puluh empat jika akan tidur, membaca tahmid sebanyak tiga puluh tiga dan membaca tasbih sebanyak tiga puluh tiga, maka itu adalah seratus dalam hitungan lisan dan seribu dalam hitungan timbangan." Sungguh, aku telah melihat Rasulullah shallallahu 'alaihi wasallam menghitungnya dengan tangan." Lau para sahabat bertanya, "Wahai Rasulullah, dua hal itu mudah untuk dilakukan tetapi kenapa sedikit yang melakukannya?" beliau menjawab: "Setan datang kepada salah seorang dari kalian saat tidur, lalu dia akan menidurkan kalian sebelum kalian membacanya. Setan juga datang saat shalat, lalu dia akan mengingatkan semua keperluannya sebelum ia membacanya." Telah menceritakan kepada kami [Ahmad bin Shalih] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] ia berkata; telah menceritakan kepadaku [Ayyasy bin Uqbah Al Hadhrami] dari [Al fadhl bin Hasan Adh Dhamri] bahwa [Ibnu Ummul hakam] atau [Dhaba'ah] -keduanya puteri Az Zubair- ia menceritakan kepadanya dari salah seorang dari mereka, bahwa ia berkata, "Rasulullah shallallahu 'alaihi wasallam mendapatkan tawanan, lalu aku dan saudaraku Fatimah binti Nabi shallallahu 'alaihi wasallam, pergi menemui Nabi shallallahu 'alaihi wasallam. Kemudian kami mengadukan semua permasalahan kami dan minta agar beliau memerintahkan (petusnya) memberikan budak kepada kami. Rasulullah shallallahu 'alaihi wasallam kemudian bersabda: "Kalian telah di dahului oleh anak-anak yatim badar (anak-anak yang bapaknya meninggal di badar)." Kemudian ia menyebutkan kisah hadits tasbih. Beliau bersabda: "Setiap selesai dari melaksanakan shalat …namun tidak menyebutkan ketika akan tidur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah İbn Amr r.a.'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: "İki zikir çeşidi vardır ki, bunlara devam eden nıüslüman bîr kul mutlak cennete girer. Bunlar kolaydır. Ama bunları yapanlar azdır. Her namazın ardında on defa: "Sübhanellah", on defa: "elhamdu lillah", on defa: "Allahü ekber" der. (Böylece) bunlar (günde) yüz elli defa söylenmiş olur. Mizanda ise binbeşyüz (eder). Yatağına yattığında otuz dört defa: "Allahü ekber" otuzüç defa "Elhamdülillah", Otuzüç defa: "Sübhanellah" der. (Bu suretle) bunlar yüz defa dil ile söylenmiş olur. Mizanda ise bin (kabul edilir. Ravi Abdullah b. Amr dedi ki): Rasûlullah (s.a.v.)'i bunları eli(nin parmakları) ile sayarken gördüm. (Sahabe-i kiram): Ey Allah'ın Resulü bunlar kolay olduğu halde yapanlar neden az oluyor? diye sordular da (Hz. Nebi) şöyle cevap verdi: Sizden biri yatağindayken şeytan ona gelir. Bunu söylemeye fırsat vermeden uyutur. Namaz kılarken gelir. (Namazın sonunda) bunları söylemeden önce ona bir ihtiyacını hatırlatıverir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: دو خصلتیں یا دو عادتیں ایسی ہیں جو کوئی مسلم بندہ پابندی سے انہیں ( برابر ) کرتا رہے گا تو وہ ضرور جنت میں داخل ہو گا، یہ دونوں آسان ہیں اور ان پر عمل کرنے والے لوگ تھوڑے ہیں ( ۱ ) ہر نماز کے بعد دس بار «سبحان الله» اور دس بار «الحمد الله» اور دس بار «الله اكبر» کہنا، اس طرح یہ زبان سے دن اور رات میں ایک سو پچاس بار ہوئے، اور قیامت میں میزان میں ایک ہزار پانچ سو بار ہوں گے، ( کیونکہ ہر نیکی کا ثواب دس گنا ہوتا ہے ) اور سونے کے وقت چونتیس بار «الله اكبر» ، تینتیس بار «الحمد الله» ، تینتیس بار «سبحان الله» کہنا، اس طرح یہ زبان سے کہنے میں سو بار ہوئے اور میزان میں یہ ہزار بار ہوں گے، میں نے رسول اللہ صلی اللہ علیہ وسلم کو ہاتھ ( کی انگلیوں ) میں اسے شمار کرتے ہوئے دیکھا ہے، لوگوں نے کہا: اللہ کے رسول! یہ دونوں کام تو آسان ہیں، پھر ان پر عمل کرنے والے تھوڑے کیسے ہوں گے؟ تو آپ نے فرمایا: ( اس طرح کہ ) تم میں ہر ایک کے پاس شیطان اس کی نیند میں آئے گا، اور ان کلمات کے کہنے سے پہلے ہی اسے سلا دے گا، ایسے ہی شیطان تمہارے نماز پڑھنے والے کے پاس نماز کی حالت میں آئے گا، اور ان کلمات کے ادا کرنے سے پہلے اسے اس کا کوئی ( ضروری ) کام یاد دلا دے گا، ( اور وہ ان تسبیحات کو ادا کئے بغیر اٹھ کر چل دے گا ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5065</td></tr><tr><td>Arabic No</td><td>5065</td></tr><tr><td>Reference</td><td>Book 43 Hadith 293</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5065 |
+| Arabic No | 5065 |
+| Reference | Book 43 Hadith 293 |

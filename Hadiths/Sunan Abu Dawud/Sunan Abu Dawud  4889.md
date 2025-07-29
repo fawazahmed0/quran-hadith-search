@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الْحَضْرَمِيُّ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ عَيَّاشٍ، حَدَّثَنَا ضَمْضَمُ بْنُ زُرْعَةَ، عَنْ شُرَيْحِ بْنِ عُبَيْدٍ، عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، وَكَثِيرِ بْنِ مُرَّةَ، وَعَمْرِو بْنِ الأَسْوَدِ، وَالْمِقْدَامِ بْنِ مَعْدِيكَرِبَ، وَأَبِي، أُمَامَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِنَّ الأَمِيرَ إِذَا ابْتَغَى الرِّيبَةَ فِي النَّاسِ أَفْسَدَهُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
+
 حدثنا سعيد بن عمرو الحضرمي، حدثنا اسماعيل بن عياش، حدثنا ضمضم بن زرعة، عن شريح بن عبيد، عن جبير بن نفير، وكثير بن مرة، وعمرو بن الاسود، والمقدام بن معديكرب، وابي، امامة عن النبي صلى الله عليه وسلم قال " ان الامير اذا ابتغى الريبة في الناس افسدهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
 
 ## Bengali
 
+। জুবাইর ইবনু নুফাইর, কাসির ইবনু মুররাহ, আমর ইবনু আসওয়াদ, আল-মিকদাম ইবনু মা'দীকারীব ও আবূ উমামা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, শাসক জনগণকে অপরাধী সন্দেহ করলে তাদেরকে দুর্নীতিগ্রস্ত করে ফেলবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জুবাইর ইবনু নুফাইর, কাসির ইবনু মুররাহ, আমর ইবনু আসওয়াদ, আল-মিকদাম ইবনু মা'দীকারীব ও আবূ উমামা (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, শাসক জনগণকে অপরাধী সন্দেহ করলে তাদেরকে দুর্নীতিগ্রস্ত করে ফেলবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Miqdam ibn Ma'dikarib ; AbuUmamah: The Prophet (ﷺ) said: When a ruler seeks to make imputations against the people, he corrupts them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
+
+## French
+
+Rapporté par Miqdam ibn Ma'dikarib et Abu Umamah : Le Prophète ﷺ a dit : « Quand un dirigeant cherche à accuser les gens à tort, il les corrompt. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Amru Al Hadhrami\] berkata, telah menceritakan kepada kami \[Isma'il bin Ayyasy\] berkata, telah menceritakan kepada kami \[Dhamdham bin Zur'ah\] dari \[Syuraih bin Ubaid\] dari \[Jubair bin Nufair\] dan \[Katsir bin Murrah\] dan \[Amru Ibnul Aswad\] dan \[Al Miqdam bin Makdi Karib\] dan \[Abu Umamah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya jika seorang penguasa telah berburuk sangka kepada manusia (rakyatnya), maka itu akan merusak mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Amru Al Hadhrami] berkata, telah menceritakan kepada kami [Isma'il bin Ayyasy] berkata, telah menceritakan kepada kami [Dhamdham bin Zur'ah] dari [Syuraih bin Ubaid] dari [Jubair bin Nufair] dan [Katsir bin Murrah] dan [Amru Ibnul Aswad] dan [Al Miqdam bin Makdi Karib] dan [Abu Umamah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya jika seorang penguasa telah berburuk sangka kepada manusia (rakyatnya), maka itu akan merusak mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 el-Mikdam b. Ma'dikerib ile Ebu Umame'den (rivayet edildiğine göre) Nebi (s.a.v.) şöyle buyurmuştur: "Bir devlet yetkilisi, halka su-i zan ile muamele yapmaya kalkışacak olursa onları yoldan çıkarmış olur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جبیر بن نفیر، کثیر بن مرہ، عمرو بن اسود، مقدام بن معد یکرب اور ابوامامہ رضی اللہ عنہم سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: حاکم جب لوگوں کے معاملات میں بدگمانی اور تہمت پر عمل کرے گا تو انہیں بگاڑ دے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4889</td></tr><tr><td>Arabic No</td><td>4889</td></tr><tr><td>Reference</td><td>Book 43 Hadith 117</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4889 |
+| Arabic No | 4889 |
+| Reference | Book 43 Hadith 117 |

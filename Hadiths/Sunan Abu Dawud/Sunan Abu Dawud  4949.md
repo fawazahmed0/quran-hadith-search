@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ زِيَادٍ، سَبَلاَنُ حَدَّثَنَا عَبَّادُ بْنُ عَبَّادٍ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ أَحَبُّ الأَسْمَاءِ إِلَى اللَّهِ تَعَالَى عَبْدُ اللَّهِ وَعَبْدُ الرَّحْمَنِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
+
 حدثنا ابراهيم بن زياد، سبلان حدثنا عباد بن عباد، عن عبيد الله، عن نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم " احب الاسماء الى الله تعالى عبد الله وعبد الرحمن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহামহিম আল্লাহর নিকট সবচেয়ে পছন্দনীয় নাম হলো আব্দুল্লাহ এবং আব্দুর রাহমান।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মহামহিম আল্লাহর নিকট সবচেয়ে পছন্দনীয় নাম হলো আব্দুল্লাহ এবং আব্দুর রাহমান।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar reported the Messenger of Allah (May peace be upon him) as saying :Your names which are dearest to Allah are ‘Abd Allah and ‘Abd al-Rahman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
+
+## French
+
+Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Les noms que préfère le plus Allah sont ‘Abd Allah et ‘Abd al-Rahman. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibrahim bin Ziyad Sabalan\] berkata, telah menceritakan kepada kami \[Abbad bin Abbad\] dari \[Ubaidullah\] dari \[Nafi'\] dari \[Ibnu Umar\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Nama yang paling disukai oleh Allah adalah Abdullah dan 'Abdurrahman
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Ziyad Sabalan] berkata, telah menceritakan kepada kami [Abbad bin Abbad] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Nama yang paling disukai oleh Allah adalah Abdullah dan 'Abdurrahman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Abdullah) İbn Ömer'den (rivayet edildiğine göre) Rasûlullah (s.a.v.): "Yüce Allah'ın en hoşuna giden isimler (Allah'a kulluk ifade eden) Abdullah ve Abdurrahman (gibi adlar)dır" buyurmuştur. Tahric edenler: Müslim, adab; Buhari, edeb; İbn Mace, edeb; Tirmizî, edeb; Darimî, istizan ; Ahmed b. Hanbel, II
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ کے نزدیک سب سے پسندیدہ نام عبداللہ اور عبدالرحمٰن ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2132)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4949</td></tr><tr><td>Arabic No</td><td>4949</td></tr><tr><td>Reference</td><td>Book 43 Hadith 177</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2132) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4949 |
+| Arabic No | 4949 |
+| Reference | Book 43 Hadith 177 |

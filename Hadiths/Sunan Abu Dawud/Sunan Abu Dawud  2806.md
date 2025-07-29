@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، قَالَ قُلْتُ لِسَعِيدِ بْنِ الْمُسَيَّبِ مَا الأَعْضَبُ قَالَ النِّصْفُ فَمَا فَوْقَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
+
 حدثنا مسدد، حدثنا يحيى، حدثنا هشام، عن قتادة، قال قلت لسعيد بن المسيب ما الاعضب قال النصف فما فوقه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কাতাদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি সাঈদ ইবনুল মুসাইয়্যিব (রহঃ)-কে জিজ্ঞেস করি, আ‘দাব কোন ধরণের পশু? তিনি বলেন, যে পশুর কান বা শিং অর্ধেক বা ততোধিক ভাঙ্গা বা কাটা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Qatadah:I asked Sa'id b. al-Musayyab: What is meant by animal with a slit ear and broken horn ? He replied: Half and more than half
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
+
+## French
+
+Rapporté par Qatadah : J’ai demandé à Sa’id b. al-Musayyab : « Que veut-on dire par animal à l’oreille fendue et à la corne cassée ? » Il a répondu : « La moitié ou plus de la moitié. »
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Катада передаёт: «Я спросил у Са‘ида ибн аль-Мусайяба, что имеется в виду под отрезанным ухом, и он ответил: “Тот случай, когда отрезана половина уха и больше”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Katade'den demiştir ki: Said b. el-Müseyyeb'e Adab nedir diye sordum da -(kulağının ya da boynuzunun) yarı (sı veya) daha fazla(sı kesik olandır)- diye cevap verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قتادہ کہتے ہیں میں نے سعید بن مسیب سے پوچھا: «اعضب» ( یا «عضباء» ) کیا ہے؟ انہوں نے کہا: ( جس کی سینگ یا کان ) آدھا یا آدھے سے زیادہ ٹوٹا یا کٹا ہوا ہو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2806</td></tr><tr><td>Arabic No</td><td>2806</td></tr><tr><td>Reference</td><td>Book 16 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2806 |
+| Arabic No | 2806 |
+| Reference | Book 16 Hadith 19 |

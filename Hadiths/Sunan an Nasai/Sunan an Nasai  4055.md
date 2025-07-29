@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي صَفْوَانُ بْنُ عَمْرٍو، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الشَّعْبِيِّ، عَنْ جَرِيرٍ، قَالَ أَيُّمَا عَبْدٍ أَبَقَ إِلَى أَرْضِ الشِّرْكِ فَقَدْ حَلَّ دَمُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |
+
 اخبرني صفوان بن عمرو، قال حدثنا احمد بن خالد، قال حدثنا اسراييل، عن ابي اسحاق، عن الشعبي، عن جرير، قال ايما عبد ابق الى ارض الشرك فقد حل دمه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সাফওয়ান ইবন আমর (রহঃ) ... ইসরাঈল (রহঃ) আবূ ইসহাক থেকে, তিনি শা'বী থেকে, তিনি জারীর (রাঃ) থেকে। তিনি বলেন, যে গোলাম পালিয়ে মুশরিকদের দেশে চলে যায়, তার রক্ত হালাল হয়ে যায়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Jarir said:"Any slave who runs away to the land of Shirk, it becomes permissible to shed his blood
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |
+
+## French
+
+Rapporté par Jarir : Tout esclave qui s’enfuit vers la terre du polythéisme, il devient permis de verser son sang
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Shafwan bin 'Amr\], ia berkata; telah menceritakan kepada kami \[Ahmad bin Khalid\], ia berkata; telah menceritakan kepada kami \[Israil\] dari \[Abu Ishaq\] dari \[Asy Sya'bi\] dari \[Jarir\], ia berkata; siapapun budak yang kabur menuju negeri syirik maka telah halal darahnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Shafwan bin 'Amr], ia berkata; telah menceritakan kepada kami [Ahmad bin Khalid], ia berkata; telah menceritakan kepada kami [Israil] dari [Abu Ishaq] dari [Asy Sya'bi] dari [Jarir], ia berkata; siapapun budak yang kabur menuju negeri syirik maka telah halal darahnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4055</td></tr><tr><td>Arabic No</td><td>4055</td></tr><tr><td>Reference</td><td>Book 37 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4055 |
+| Arabic No | 4055 |
+| Reference | Book 37 Hadith 90 |

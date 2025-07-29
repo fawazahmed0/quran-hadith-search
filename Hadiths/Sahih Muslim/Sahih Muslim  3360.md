@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي هَارُونَ، مُوسَى بْنِ أَبِي عِيسَى ح وَحَدَّثَنَا ابْنُ أَبِي عُمَرَ، حَدَّثَنَا الدَّرَاوَرْدِيُّ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، جَمِيعًا سَمِعَا أَبَا عَبْدِ اللَّهِ، الْقَرَّاظَ سَمِعَ أَبَا هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابن ابي عمر، حدثنا سفيان، عن ابي هارون، موسى بن ابي عيسى ح وحدثنا ابن ابي عمر، حدثنا الدراوردي، عن محمد بن عمرو، جميعا سمعا ابا عبد الله، القراظ سمع ابا هريرة، عن النبي صلى الله عليه وسلم . بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু আবূ উমর (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) এর সূত্রে ও নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ৩২২৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith is narrated on the authority of Abu Huraira by another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Ce hadith est rapporté de la part d’Abu Huraira par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize İbni Ebî Ömer rivayet etti. (Dediki): Bize Süfyan, Ebû Harun Musa bin Ebî İsa'dan rivayet etti. H. Bize yine îbnî Ebî Ömer rivayet etti. (Dediki): Bize Derâverdi, Muhanımed b. Amr'dan naklen rivayet etti. İki râvi hep birden Ebû Abdiîlah El-Karraz'dan dinlemişler. O da Ebû Hureyre'yi Nebi (Sallallahu Aleyhi ve Sellem)'den bu hadîsin mislini rivayet ederken dinlemiş. İzah 1387 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو ہارون موسیٰ بن ابی عیسیٰ اورمحمد بن عمرو دونوں نے ابو عبداللہ قراظ سے سنا ، انھوں نے حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ کو نبی کریم صلی اللہ علیہ وسلم سے اسی کے مانند روایت کرتے ہوئے سنا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3360</td></tr><tr><td>Arabic No</td><td>1386.03</td></tr><tr><td>Reference</td><td>Book 15 Hadith 564</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3360 |
+| Arabic No | 1386.03 |
+| Reference | Book 15 Hadith 564 |

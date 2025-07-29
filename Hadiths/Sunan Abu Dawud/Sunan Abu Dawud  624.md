@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا حَفْصُ بْنُ بُغَيْلٍ الْمُرْهِبِيُّ، حَدَّثَنَا زَائِدَةُ، عَنِ الْمُخْتَارِ بْنِ فُلْفُلٍ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم حَضَّهُمْ عَلَى الصَّلاَةِ وَنَهَاهُمْ أَنْ يَنْصَرِفُوا قَبْلَ انْصِرَافِهِ مِنَ الصَّلاَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
+
 حدثنا محمد بن العلاء، حدثنا حفص بن بغيل المرهبي، حدثنا زايدة، عن المختار بن فلفل، عن انس، ان النبي صلى الله عليه وسلم حضهم على الصلاة ونهاهم ان ينصرفوا قبل انصرافه من الصلاة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে সালাত আদায়ে উৎসাহিত করেছেন এবং সালাতের পর তাঁর চলে যাওয়ার পূর্বে তাদের চলে যেতে নিষেধ করেছেন।\[1\] সহীহ : মুসলিমে উৎসাহিত করণের কথাটি বাদে।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে সালাত আদায়ে উৎসাহিত করেছেন এবং সালাতের পর তাঁর চলে যাওয়ার পূর্বে তাদের চলে যেতে নিষেধ করেছেন।[1] সহীহ : মুসলিমে উৎসাহিত করণের কথাটি বাদে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas said:The prophet (ﷺ) persuaded them to say prayer in congregation and prohibited them to leave before he goes away from the prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
+
+## French
+
+Rapporté par Anas رضي الله عنه : Le Prophète ﷺ les encourageait à prier en groupe et leur interdisait de partir avant qu’il ne quitte la prière
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Al-'Ala'\] telah menceritakan kepada kami \[Hafsh bin Bughail Al-Murhibi\] telah menceritakan kepada kami \[Za'idah\] dari \[Al-Mukhtar bin Fulful\] dari \[Anas\] bahwasanya Nabi shallallahu 'alaihi wasallam memotivasi mereka untuk mengerjakan shalat (berjamaah) dan melarang mereka pergi (meninggalkan tempat) sebelum imam pergi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Al-'Ala'] telah menceritakan kepada kami [Hafsh bin Bughail Al-Murhibi] telah menceritakan kepada kami [Za'idah] dari [Al-Mukhtar bin Fulful] dari [Anas] bahwasanya Nabi shallallahu 'alaihi wasallam memotivasi mereka untuk mengerjakan shalat (berjamaah) dan melarang mereka pergi (meninggalkan tempat) sebelum imam pergi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса о том, что: «Пророк ﷺ побуждал их к молитве и запрещал им завершать молитву до того, как это сделает он»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a.)'den, rivayet edildiğine göre, "Nebi (Sallallahu aleyhi ve Sellem) kendilerini namaza teşvik edermiş ve imamdan önce namazdan çıkıp gitmeyi de yasaklarmış. " Kütüb-i Sitte'den sadece Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے انہیں ( یعنی مسلمانوں کو ) نماز کی ترغیب دلائی اور انہیں امام سے پہلے نماز سے اٹھ کر جانے سے منع فرمایا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>624</td></tr><tr><td>Arabic No</td><td>624</td></tr><tr><td>Reference</td><td>Book 2 Hadith 234</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 624 |
+| Arabic No | 624 |
+| Reference | Book 2 Hadith 234 |

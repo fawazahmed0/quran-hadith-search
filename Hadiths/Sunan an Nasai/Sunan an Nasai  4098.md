@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,112 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ الرَّزَّاقِ، بِهَذَا الإِسْنَادِ مِثْلَهُ وَلَمْ يَرْفَعْهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 37 Hadith 133</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا عبد الرزاق، بهذا الاسناد مثله ولم يرفعه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 37 Hadith 133</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... ইবন যুবায়র (রাঃ) অনুরূপ বর্ণিত হয়েছে। কিন্তু তিনি এটাকে মারফুরূপে বর্ণনা করেন নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 37 Hadith 133</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |
 
 ## English
 
+Abdur-Razzaq narrated:'Abdur-Razzaq narrated a similar report with the same chain, but he did not attribute it to the Prophet \[SAW\]
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdur-Razzaq narrated:'Abdur-Razzaq narrated a similar report with the same chain, but he did not attribute it to the Prophet [SAW]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 37 Hadith 133</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |
+
+## French
+
+Rapporté par Abdur-Razzaq : Abdur-Razzaq a rapporté un récit similaire avec la même chaîne, mais il ne l’a pas attribué au Prophète ﷺ
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 37 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 37 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4098</td></tr><tr><td>Arabic No</td><td>4098</td></tr><tr><td>Reference</td><td>Book 37 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4098 |
+| Arabic No | 4098 |
+| Reference | Book 37 Hadith 133 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ حَدَّثَنَا حِبَّانُ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مُحَمَّدِ بْنِ إِسْحَاقَ، قَالَ حَدَّثَنَا مَكْحُولٌ، عَنْ طَاوُسٍ، بَتَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْعُمْرَى وَالرُّقْبَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |
+
 اخبرنا محمد بن حاتم، قال حدثنا حبان، قال انبانا عبد الله، عن محمد بن اسحاق، قال حدثنا مكحول، عن طاوس، بتل رسول الله صلى الله عليه وسلم العمرى والرقبى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন হাতিম (রহঃ) ... মাকহূল (রহঃ) তাউস (রহঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উমরা এবং রুকবাকে স্থায়ী (-রূপে কার্যকর) করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Tawus that the Messenger of Allah made 'Umra and Ruqba binding
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |
+
+## French
+
+Rapporté par Tawus : Le Messager d'Allah ﷺ a rendu l''Umra et la Ruqba obligatoires
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Hatim\] berkata; telah menceritakan kepada kami \[Hibban\] berkata; telah memberitakan kepada kami \[Abdullah\] dari \[Muhammad bin Ishaq\] ia berkata; telah menceritakan kepada kami \[Makhul\] dari \[Thawus\] bahwa Rasulullah shallallahu 'alaihi wasallam membedakan antara Umra dan Ruqba
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Hatim] berkata; telah menceritakan kepada kami [Hibban] berkata; telah memberitakan kepada kami [Abdullah] dari [Muhammad bin Ishaq] ia berkata; telah menceritakan kepada kami [Makhul] dari [Thawus] bahwa Rasulullah shallallahu 'alaihi wasallam membedakan antara Umra dan Ruqba
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 طاؤس کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے عمریٰ اور رقبیٰ کو کاٹ کر الگ کر دیا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3726</td></tr><tr><td>Arabic No</td><td>3726</td></tr><tr><td>Reference</td><td>Book 34 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3726 |
+| Arabic No | 3726 |
+| Reference | Book 34 Hadith 8 |

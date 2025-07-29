@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا عَبْدُ الْمَلِكِ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ بِتُّ عِنْدَ خَالَتِي مَيْمُونَةَ ‏.‏ نَحْوَ حَدِيثِ ابْنِ جُرَيْجٍ وَقَيْسِ بْنِ سَعْدٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابن نمير، حدثنا ابي، حدثنا عبد الملك، عن عطاء، عن ابن عباس، قال بت عند خالتي ميمونة . نحو حديث ابن جريج وقيس بن سعد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু নুমায়র (রহঃ) ..... 'আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি একদিন আমার খালা মায়মূনাহ এর ঘরে রাত্রি যাপন করলাম। এ পর্যন্ত বর্ণনা করার পর বর্ণনাকারী ইবনু জুরায়জ ও কায়স ইবনু সা'দ বর্ণিত হাদীসের অনুরূপ হাদীস বর্ণনা করলেন। (ইসলামী ফাউন্ডেশন ১৬৭২, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Abbas reported:I spent a night in the house of my mother's sister Maimuna, and the rest of the hadith is the same as narrated above
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## French
 
+Rapporté par Ibn 'Abbas رضي الله عنه : J’ai passé une nuit chez ma tante maternelle Maymouna, et le reste du hadith est le même que précédemment
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize, İbni Numeyr rivayet etti. (Dediki): Bize, babam rivayet etti, (Dediki): Bize, Abdülmelik, Atâ'dan, o da İbni Abbâs'dan naklen rivayet etti. îbni Abbâs, İbni Cüreyc ve Kavs b. Sa'd rivayetlerinde olduğu gibi: «Ben, teyzem Meymûne'nin yanında geceledim...» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالملک نے عطاء سے اور انھوں نے حضرت ابن عباس رضی اللہ تعالیٰ عنہ سے روایت کی انھوں نے کہا : میں نے اپنی خالہ میمونہ رضی اللہ تعالیٰ عنہا کے ہاں رات گزاری ۔ ۔ ۔ آگے ابن جریج اور قیس بن سعد کی روایت کی طرح ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1802</td></tr><tr><td>Arabic No</td><td>763.15</td></tr><tr><td>Reference</td><td>Book 6 Hadith 230</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1802 |
+| Arabic No | 763.15 |
+| Reference | Book 6 Hadith 230 |

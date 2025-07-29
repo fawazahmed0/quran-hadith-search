@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ بُكَيْرٍ، حَدَّثَنَا اللَّيْثُ، عَنْ كَثِيرِ بْنِ فَرْقَدٍ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ ـ رضى الله عنهما ـ أَخْبَرَهُ قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَذْبَحُ وَيَنْحَرُ بِالْمُصَلَّى‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن بكير، حدثنا الليث، عن كثير بن فرقد، عن نافع، ان ابن عمر رضى الله عنهما اخبره قال كان رسول الله صلى الله عليه وسلم يذبح وينحر بالمصلى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
 ## Bengali
 
+ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদগাহে যবহ্ করতেন এবং নহর করতেন। \[৯৮২\] (আধুনিক প্রকাশনী- ৫১৪৫, ইসলামিক ফাউন্ডেশন)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ঈদগাহে যবহ্ করতেন এবং নহর করতেন। [৯৮২] (আধুনিক প্রকাশনী- ৫১৪৫, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar said, "Allah's Messenger (ﷺ) used to slaughter (camels and sheep, etc.,) as sacrifices at the Musalla
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Messager d’Allah (ﷺ) avait l’habitude de sacrifier (des chameaux, des moutons, etc.) à la Musalla
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Bukair\] telah menceritakan kepada kami \[Al Laits\] dari \[Katsir bin Farqad\] dari \[Nafi'\] bahwa \[Ibnu Umar\] radliallahu 'anhuma telah mengabarkan kepadanya, dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa menyembelih binatang kurban di tempat yang di gunakan untuk shalat (ied)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Bukair] telah menceritakan kepada kami [Al Laits] dari [Katsir bin Farqad] dari [Nafi'] bahwa [Ibnu Umar] radliallahu 'anhuma telah mengabarkan kepadanya, dia berkata; "Rasulullah shallallahu 'alaihi wasallam biasa menyembelih binatang kurban di tempat yang di gunakan untuk shalat (ied)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Умар, да будет доволен Аллах им и его отцом, сказал: «(В день праздника) Посланник Аллаха ﷺ обычно приносил в жертву жертвенных животных на месте совершения молитвы /мусалля/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (பெருநாள்) தொழும் திடலிலேயே குர்பானி பிராணிகளை அறுப்பவர்களாக இருந்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi'den rivayete göre İbn Ömer r.a. kendisine haber vererek: "Resulullah Sallallahu Aleyhi ve Sellem küçük Baş kurbanlıklarını da, develeri de musallada keserdi" demiştir. Fethu'l-Bari Açıklaması: "el-Adha (bayram namazı) ve nahr (kurban kesmek) musallada olur." İbn Battal dedi ki: Bu Malik'e göre özellikle imamın yerine getirmesi gereken bir sünnettir. İbn Vehb'in rivayetine göre de Maıik şöyle demiştir: İmamın bunu yapması, kimsenin ondan önce kurbanlığını kesmemesi içindir. el-Mühelleb de: Ondan sonra da kesin olarak kendilerinin (cemaatin) kurbanlıklannı kesmeleri ve ondan kesmenin niteliğini öğrenmeleri içindir, diye eklemiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے یحییٰ بن بکیر نے بیان کیا، کہا ہم سے لیث نے بیان کیا، ان سے کثیر بن فرقد نے، ان سے نافع نے اور انہیں عبداللہ بن عمر رضی اللہ عنہما نے خبر دی کہ رسول اللہ صلی اللہ علیہ وسلم ( قربانی ) ذبح اور نحر عیدگاہ میں کیا کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5552</td></tr><tr><td>Arabic No</td><td>5552</td></tr><tr><td>Reference</td><td>Book 73 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5552 |
+| Arabic No | 5552 |
+| Reference | Book 73 Hadith 8 |

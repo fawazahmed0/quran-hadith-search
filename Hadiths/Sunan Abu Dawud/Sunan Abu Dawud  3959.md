@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو كَامِلٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ الْمُخْتَارِ - حَدَّثَنَا خَالِدٌ، عَنْ أَبِي قِلاَبَةَ، بِإِسْنَادِهِ وَمَعْنَاهُ وَلَمْ يَقُلْ فَقَالَ لَهُ قَوْلاً شَدِيدًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
+
 حدثنا ابو كامل، حدثنا عبد العزيز، - يعني ابن المختار - حدثنا خالد، عن ابي قلابة، باسناده ومعناه ولم يقل فقال له قولا شديدا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
 
 ## Bengali
 
+। আবূ কিলাবাহ (রহঃ) সূত্রে সনদসহ উপরোক্ত হাদীসের সমার্থক হাদীস বর্ণিত। তবে "তিনি তাকে কঠোর ভাষায় ধমকালেন" এ বাক্য উল্লেখ করেননি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ কিলাবাহ (রহঃ) সূত্রে সনদসহ উপরোক্ত হাদীসের সমার্থক হাদীস বর্ণিত। তবে "তিনি তাকে কঠোর ভাষায় ধমকালেন" এ বাক্য উল্লেখ করেননি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Abu Qilabah through a different chain of narrators on the authority of 'Imran b. Husain to the same effect. But in this version he did not mention "He spoke severely of them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
+
+## French
+
+Le récit mentionné ci-dessus a aussi été transmis par Abu Qilabah par une autre chaîne de rapporteurs, d’après Imran ibn Husain, avec le même sens. Mais dans cette version, il n’est pas mentionné : « Il a parlé sévèrement d’eux. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В другой версии от Абу Кылябы не упоминается, что Посланник Аллаха ﷺ говорил с ним строго
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bir önceki 3958. hadisin) manası (yine aynı) senediyle Ebû Kılâbe'den de rivayet olunmuştur. Şu farkla ki, Ebû Kılâbe (oradan geçen) "O kimse için ağır sözler söyledi" cümlesini rivayet etmemiştir. İzah 3961 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ابوقلابہ سے اسی طریق سے اسی مفہوم کی حدیث مروی ہے اور اس میں یہ نہیں ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے اسے سخت سست کہا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3959</td></tr><tr><td>Arabic No</td><td>3959</td></tr><tr><td>Reference</td><td>Book 31 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3959 |
+| Arabic No | 3959 |
+| Reference | Book 31 Hadith 34 |

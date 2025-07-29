@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ عَمَّارٍ، قَالَ حَدَّثَنَا الْوَلِيدُ بْنُ كَثِيرٍ، عَنِ الضَّحَّاكِ بْنِ عُثْمَانَ، عَنْ بُكَيْرِ بْنِ عَبْدِ اللَّهِ بْنِ الأَشَجِّ، عَنْ عَامِرِ بْنِ سَعْدٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنْ قَلِيلِ مَا أَسْكَرَ كَثِيرُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 71</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |
+
 اخبرنا محمد بن عبد الله بن عمار، قال حدثنا الوليد بن كثير، عن الضحاك بن عثمان، عن بكير بن عبد الله بن الاشج، عن عامر بن سعد، عن ابيه، ان النبي صلى الله عليه وسلم نهى عن قليل ما اسكر كثيره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন আবদুল্লাহ ইবন আম্মার (রহঃ) ... আমির ইবন সা'দ (রহঃ) তাঁর পিতা সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেছেন যে, তিনি ঐ পানীয় বস্তুর অল্পও পান করতে নিষেধ করেছেন, যার অধিক পানে মাদকতা সৃষ্টি হয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |
 
 ## English
 
+It was narrated from 'Amir bin Sa'd, from his father, that:The Prophet \[SAW\] forbade a small amount of whatever intoxicates in large amounts
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Amir bin Sa'd, from his father, that:The Prophet [SAW] forbade a small amount of whatever intoxicates in large amounts
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 71</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |
+
+## French
+
+Rapporté par 'Amir bin Sa'd, d'après son père : Le Prophète ﷺ a interdit même une petite quantité de ce qui enivre en grande quantité
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Abdullah bin Ammar\] ia berkata; telah menceritakan kepada kami \[Al Walid bin Katsir\] dari \[Adl Dlahhak bin Utsman\] dari \[Bukair bin Abdullah bin Al Asyaj\] dari \[Amir bin Sa'd\] dari \[Bapaknya\] berkata, "Nabi shallallahu 'alaihi wasallam melarang dari sesuatu yang sedikit jika banyaknya memabukkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Abdullah bin Ammar] ia berkata; telah menceritakan kepada kami [Al Walid bin Katsir] dari [Adl Dlahhak bin Utsman] dari [Bukair bin Abdullah bin Al Asyaj] dari [Amir bin Sa'd] dari [Bapaknya] berkata, "Nabi shallallahu 'alaihi wasallam melarang dari sesuatu yang sedikit jika banyaknya memabukkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 71</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5609</td></tr><tr><td>Arabic No</td><td>5609</td></tr><tr><td>Reference</td><td>Book 51 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5609 |
+| Arabic No | 5609 |
+| Reference | Book 51 Hadith 71 |

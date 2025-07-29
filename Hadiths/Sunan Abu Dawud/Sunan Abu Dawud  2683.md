@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، قَالَ حَدَّثَنَا أَحْمَدُ بْنُ الْمُفَضَّلِ، قَالَ حَدَّثَنَا أَسْبَاطُ بْنُ نَصْرٍ، قَالَ زَعَمَ السُّدِّيُّ عَنْ مُصْعَبِ بْنِ سَعْدٍ، عَنْ سَعْدٍ، قَالَ لَمَّا كَانَ يَوْمُ فَتْحِ مَكَّةَ أَمَّنَ رَسُولُ اللَّهِ صلى الله عليه وسلم النَّاسَ إِلاَّ أَرْبَعَةَ نَفَرٍ وَامْرَأَتَيْنِ وَسَمَّاهُمْ وَابْنُ أَبِي سَرْحٍ ‏.‏ فَذَكَرَ الْحَدِيثَ قَالَ وَأَمَّا ابْنُ أَبِي سَرْحٍ فَإِنَّهُ اخْتَبَأَ عِنْدَ عُثْمَانَ بْنِ عَفَّانَ فَلَمَّا دَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم النَّاسَ إِلَى الْبَيْعَةِ جَاءَ بِهِ حَتَّى أَوْقَفَهُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا نَبِيَّ اللَّهِ بَايِعْ عَبْدَ اللَّهِ فَرَفَعَ رَأْسَهُ فَنَظَرَ إِلَيْهِ ثَلاَثًا كُلُّ ذَلِكَ يَأْبَى فَبَايَعَهُ بَعْدَ ثَلاَثٍ ثُمَّ أَقْبَلَ عَلَى أَصْحَابِهِ فَقَالَ ‏"‏ أَمَا كَانَ فِيكُمْ رَجُلٌ رَشِيدٌ يَقُومُ إِلَى هَذَا حَيْثُ رَآنِي كَفَفْتُ يَدِي عَنْ بَيْعَتِهِ فَيَقْتُلُهُ ‏"‏ ‏.‏ فَقَالُوا مَا نَدْرِي يَا رَسُولَ اللَّهِ مَا فِي نَفْسِكَ أَلاَ أَوْمَأْتَ إِلَيْنَا بِعَيْنِكَ قَالَ ‏"‏ إِنَّهُ لاَ يَنْبَغِي لِنَبِيٍّ أَنْ تَكُونَ لَهُ خَائِنَةُ الأَعْيُنِ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ كَانَ عَبْدُ اللَّهِ أَخَا عُثْمَانَ مِنَ الرَّضَاعَةِ وَكَانَ الْوَلِيدُ بْنُ عُقْبَةَ أَخَا عُثْمَانَ لأُمِّهِ وَضَرَبَهُ عُثْمَانُ الْحَدَّ إِذْ شَرِبَ الْخَمْرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
+
 حدثنا عثمان بن ابي شيبة، قال حدثنا احمد بن المفضل، قال حدثنا اسباط بن نصر، قال زعم السدي عن مصعب بن سعد، عن سعد، قال لما كان يوم فتح مكة امن رسول الله صلى الله عليه وسلم الناس الا اربعة نفر وامراتين وسماهم وابن ابي سرح . فذكر الحديث قال واما ابن ابي سرح فانه اختبا عند عثمان بن عفان فلما دعا رسول الله صلى الله عليه وسلم الناس الى البيعة جاء به حتى اوقفه على رسول الله صلى الله عليه وسلم فقال يا نبي الله بايع عبد الله فرفع راسه فنظر اليه ثلاثا كل ذلك يابى فبايعه بعد ثلاث ثم اقبل على اصحابه فقال " اما كان فيكم رجل رشيد يقوم الى هذا حيث راني كففت يدي عن بيعته فيقتله " . فقالوا ما ندري يا رسول الله ما في نفسك الا اومات الينا بعينك قال " انه لا ينبغي لنبي ان تكون له خاينة الاعين " . قال ابو داود كان عبد الله اخا عثمان من الرضاعة وكان الوليد بن عقبة اخا عثمان لامه وضربه عثمان الحد اذ شرب الخمر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কাহ্ বিজয়ের দিন চারজন পুরুষ ও দু’জন মহিলা ছাড়া অন্য সবাইর জন্য নিরাপত্তার (ক্ষমার) ঘোষণা দিলেন। তিনি তাদের নামও উল্লেখ করলেন। তন্মধ্যে ইবনু আবূ সারহও ছিলো। অতঃপর বর্ণনাকারী হাদীসের বাকী অংশ বর্ণনা করেন। সা‘দ (রাঃ) বলেন, ‘আব্দুল্লাহ ইবনু আবূ সারহ ‘উসমান ইবনু আ‘ফফান (রাঃ)-এর নিকট নিকট আত্মগোপন করে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন জনসাধারণকে বায়‘আত গ্রহণের জন্য আহবান জানালেন ‘উসমান (রাঃ) তাকে নিয়ে এসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সামনে দাঁড় করিয়ে বললেন, হে আল্লাহর নবী! ‘আব্দুল্লাহর বায়‘আত নিন। তিনি মাথা তুলে তার দিকে পরপর তিনবার তাকালেন এবং প্রতিবারই অসন্তোষ প্রকাশ করলেন। তিনবারের পর তিনি ‘আব্দুল্লাহর বায়‘আত গ্রহণ করলেন, অতঃপর সাহাবীদের লক্ষ্য করে বললেনঃ তোমাদের মধ্যে কি কোনো বৃদ্ধমা লোক ছিলো না, যখন সে আমাকে দেখলো যে, আমি বায়‘আত নিচ্ছি না, তখন সে তাকে কেন হত্যা করলো না? সাহাবীগণ বললেন, হে আল্লাহর রাসূল! আপনার মনের ইচ্ছা ‘আমরা উপলদ্ধি করতে পারিনি। আপনি আমাদেরকে চোখ দিয়ে ইশারা করলেন না কেন! তিনি বললেনঃ কোনো নবীর জন্য চোখের খেয়ানাতকারী হওয়া শোভা পায় না। ইমাম আবূ দাঊদ (রাঃ) বলেন, ‘আব্দুল্লাহ ইবনু আবূ সারহ হলো ‘উসমান (রাঃ)-এর দুধভাই এবং ওয়ালীদ ইবনু ‘উকবাহ তার বৈপিত্রেয় ভাই। ‘উসমান (রাঃ)-এর খিলাফাতের সময় ওয়ালীদ মদ পান করলে তিনি তাকে শাস্তি দেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sa'd: On the day when Mecca was conquered, the Messenger of Allah (ﷺ) gave protection to the People except four men and two women and he named them. Ibn AbuSarh was one of them. He then narrated the tradition. He said: Ibn AbuSarh hid himself with Uthman ibn Affan. When the Messenger of Allah (ﷺ) called the people to take the oath of allegiance, he brought him and made him stand before the Messenger of Allah (ﷺ). He said: Messenger of Allah, receive the oath of allegiance from him. He raised his head and looked at him thrice, denying him every time. After the third time he received his oath. He then turned to his Companions and said: Is not there any intelligent man among you who would stand to this (man) when he saw me desisting from receiving the oath of allegiance, and kill him? They replied: We do not know, Messenger of Allah, what lies in your heart; did you not give us an hint with your eye? He said: It is not proper for a Prophet to have a treacherous eye. Abu Dawud said: 'Abd Allah (b. Abi Sarh) was the foster brother of 'Uthman, and Walid b. 'Uqbah was his brother by mother, and 'Uthman inflicted on him hadd punishment when he drank wine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
+
+## French
+
+Rapporté par Sa’d رضي الله عنه : Le jour de la conquête de La Mecque, le Messager d’Allah ﷺ accorda la protection à tout le monde sauf à quatre hommes et deux femmes, et il les nomma. Ibn Abu Sarh était l’un d’eux. Il raconta ensuite la suite du récit : Ibn Abu Sarh se cacha chez Uthman ibn Affan. Lorsque le Messager d’Allah ﷺ appela les gens à prêter serment d’allégeance, Uthman l’amena et le fit se tenir devant le Messager d’Allah ﷺ. Il dit : « Messager d’Allah, accepte son serment d’allégeance. » Le Prophète ﷺ leva la tête et le regarda trois fois, refusant à chaque fois. Après la troisième fois, il accepta son serment. Puis il se tourna vers ses compagnons et dit : « N’y a-t-il donc aucun homme intelligent parmi vous pour se lever contre cet homme quand il m’a vu hésiter à accepter son serment, et le tuer ? » Ils répondirent : « Nous ne savons pas, Messager d’Allah, ce que tu as dans le cœur ; ne nous as-tu pas fait un signe de l’œil ? » Il dit : « Il n’est pas convenable pour un Prophète d’avoir un regard trompeur. » Abu Dawud a dit : ‘Abd Allah (b. Abi Sarh) était le frère de lait de ‘Uthman, et Walid b. ‘Uqbah était son frère par la mère, et ‘Uthman lui infligea la peine légale lorsqu’il but du vin
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\], ia berkata; telah menceritakan kepada kami \[Ahmad bin Al Mufadhdhal\], ia berkata; telah menceritakan kepada kami \[Asbath bin Nashr\], ia berkata; \[As Suddi\] mengaku dari \[Mush'ab bin Sa'd\], dari \[Sa'id\], ia berkata; tatkala terjadi penaklukan Mekkah Rasulullah shallallahu 'alaihi wasallam memberikan keamanan kepada semua orang kecuali empat orang laki-laki dan dua orang wanita, dan beliau menyebutkan mereka, serta Ibnu Abu Sarh. Kemudian Sa'id menyebutkan hadits tersebut, ia berkata; adapun Ibnu Abu Sarh, ia bersembunyi di rumah Utsman bin Affan, kemudian tatkala Rasulullah shallallahu 'alaihi wasallam menyeru untuk berbai'ah, Utsman membawanya ke hadapan Rasulullah shallallahu wa'alaihi wa sallam dan berkata; wahai Nabi Allah, bai'atlah Abdullah. Kemudian beliau mengangkat kepalanya dan melihat kepadanya tiga kali, setiap melakukan tersebut beliau enggan untuk memba'iatnya. Kemudian setelah tiga kali beliau membai'atnya lalu beliau menghadap kepada para sahabatnya dan berkata: "Bukankah diantara kalian ada orang yang berakal yang mendatangi orang ini dimana ia melihatku. Aku menahan diri dari memba'iatnya, lalu ia membunuhnya?" Mereka berkata; kami tidak mengetahui wahai Rasulullah, apa yang ada di dalam hati anda. Bukankah anda telah memberi isyarat kepada kami dengan mata anda? Beliau berkata: "Sesungguhnya tidak selayaknya seorang nabi memiliki mata khianat." Abu Daud berkata; Abdullah adalah saudara Utsman sepersusuan. Al Walid bin 'Uqbah adalah saudara Utsman seibu, dan Utsman telah mencambuknya tatkala ia meminum arak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah], ia berkata; telah menceritakan kepada kami [Ahmad bin Al Mufadhdhal], ia berkata; telah menceritakan kepada kami [Asbath bin Nashr], ia berkata; [As Suddi] mengaku dari [Mush'ab bin Sa'd], dari [Sa'id], ia berkata; tatkala terjadi penaklukan Mekkah Rasulullah shallallahu 'alaihi wasallam memberikan keamanan kepada semua orang kecuali empat orang laki-laki dan dua orang wanita, dan beliau menyebutkan mereka, serta Ibnu Abu Sarh. Kemudian Sa'id menyebutkan hadits tersebut, ia berkata; adapun Ibnu Abu Sarh, ia bersembunyi di rumah Utsman bin Affan, kemudian tatkala Rasulullah shallallahu 'alaihi wasallam menyeru untuk berbai'ah, Utsman membawanya ke hadapan Rasulullah shallallahu wa'alaihi wa sallam dan berkata; wahai Nabi Allah, bai'atlah Abdullah. Kemudian beliau mengangkat kepalanya dan melihat kepadanya tiga kali, setiap melakukan tersebut beliau enggan untuk memba'iatnya. Kemudian setelah tiga kali beliau membai'atnya lalu beliau menghadap kepada para sahabatnya dan berkata: "Bukankah diantara kalian ada orang yang berakal yang mendatangi orang ini dimana ia melihatku. Aku menahan diri dari memba'iatnya, lalu ia membunuhnya?" Mereka berkata; kami tidak mengetahui wahai Rasulullah, apa yang ada di dalam hati anda. Bukankah anda telah memberi isyarat kepada kami dengan mata anda? Beliau berkata: "Sesungguhnya tidak selayaknya seorang nabi memiliki mata khianat." Abu Daud berkata; Abdullah adalah saudara Utsman sepersusuan. Al Walid bin 'Uqbah adalah saudara Utsman seibu, dan Utsman telah mencambuknya tatkala ia meminum arak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sâ'd'dan; demiştir ki: Rasûlullah (s.a.v.), Mekke'nin fethi günü dört erkek iki kadının, dışında (Mekke'de bulunan tüm) halk'a eman verdi. (Ravi Mus'âb) bunların (hepsinin) isimlerini verdi ve (bu isimler arasında) İbn Ebî Şerh'i de zikretti. Sonra hadisi (sonuna kadar) rivayet etti. (Ravi Sa'd rivayetine devam ederek) dedi ki: İbn Ebi Şerh'e gelince o, Osman b. Affân'ın yanında gizlendi. Rasûlullah (s.a.v.), halkı kendisine bey'at (etmeleri) için çağırınca (Osman b. Affân) onu ta Rasûlullah (s.a.v.)'in yanına kadar getirdi ve; "Ey Allah'ın elçisi Abdullah ile de bey'atlaş" dedi. Bunun üzerine (Hz. Peygamber) başını kaldırıp (Abdullah'a) üç.defa baktı bu bakışların hiç birinde de (Osman r.a)'ın ba(sözü) nü kabule yanaşmadı ancak üçüncü (defa baktık)dan sonra onunla bey'atlaştı. Sonra ashabına dönüp: "İçinizde Abdullah'ın (benimle) bey'atlaşmasın(ı istemediğimden (dolayı) ellerimi sakındığımı görünce kalkıp da onu öldürecek anlayışlı birisi yok muydu?" buyurdu. (Orada bulunanlar da:) Ey Allah'ın Rasûlü, biz senin içindekini ancak bize gözle işaret edersen (o zaman) anlayabiliriz dediler. (Hz. Peygamber de); “Bir peygamber'e hain gözlere sahip olmak yakışmaz.'' buyurdu. Ebû Dâvûd der ki: Abdullah, Osman'ın sütkardeşiydi, Velid b. Ukbe ise Osman'ın anne bir kardeşiydi ve Osman ona şarap içtiğinden dolayı hadd vurmuştu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعد رضی اللہ عنہ کہتے ہیں کہ جب مکہ فتح ہوا تو رسول اللہ صلی اللہ علیہ وسلم نے چار مردوں اور دو عورتوں کے سوا سب کو امان دے دی، انہوں نے ان کا اور ابن ابی السرح کا نام لیا، رہا ابن ابی سرح تو وہ عثمان بن عفان رضی اللہ عنہ کے پاس چھپ گیا، پھر رسول اللہ صلی اللہ علیہ وسلم نے جب لوگوں کو بیعت کے لیے بلایا تو عثمان نے اسے رسول اللہ صلی اللہ علیہ وسلم کے سامنے لا کھڑا کیا، اور کہا: اللہ کے نبی! عبداللہ سے بیعت لیجئے، آپ صلی اللہ علیہ وسلم نے اپنا سر اٹھایا اور اس کی جانب دیکھا، تین بار ایسا ہی کیا، ہر بار آپ انکار کرتے رہے، تین بار کے بعد پھر اس سے بیعت لے لی، پھر صحابہ کی طرف متوجہ ہوئے اور فرمایا: کیا تم میں کوئی بھی عقلمند آدمی نہیں تھا کہ جس وقت میں نے اپنا ہاتھ اس کی بیعت سے روک رکھا تھا، اٹھتا اور اسے قتل کر دیتا؟ لوگوں نے عرض کیا: اللہ کے رسول! ہمیں آپ کے دل کا حال نہیں معلوم تھا، آپ نے ہمیں آنکھ سے اشارہ کیوں نہیں کر دیا؟ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: کسی نبی کے لیے یہ مناسب نہیں کہ وہ کنکھیوں سے اشارے کرے ۔ ابوداؤد کہتے ہیں: عبداللہ عثمان کا رضاعی بھائی تھا اور ولید بن عقبہ عثمان کا اخیافی بھائی تھا، اس نے شراب پی تو عثمان رضی اللہ عنہ نے اس پر حد لگائی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2683</td></tr><tr><td>Arabic No</td><td>2683</td></tr><tr><td>Reference</td><td>Book 15 Hadith 207</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2683 |
+| Arabic No | 2683 |
+| Reference | Book 15 Hadith 207 |

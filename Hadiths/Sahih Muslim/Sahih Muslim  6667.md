@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، عَنِ ابْنِ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، عن ابن عون، عن محمد، عن ابي هريرة، عن النبي صلى الله عليه وسلم بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবু বকর ইবনু আবু শাইবাহ্ (রহঃ) ..... আবু হুরাইরাহ্ (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ একটি হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৪২৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported a hadith like this from Allah's Apostle (ﷺ) through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## French
 
+Rapporté par Abu Huraira : Un hadith similaire a été rapporté du Messager d’Allah ﷺ par une autre chaîne de transmission
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-125) Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Yezid b. Harun îbni Avn'den, o da Muhammed'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etti. İzah 2617 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن عون نے محمد ( بن سیرین ) سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6667</td></tr><tr><td>Arabic No</td><td>2616.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 164</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6667 |
+| Arabic No | 2616.02 |
+| Reference | Book 45 Hadith 164 |

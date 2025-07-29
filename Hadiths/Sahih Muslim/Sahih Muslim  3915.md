@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي إِسْحَاقُ بْنُ مَنْصُورٍ، حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَبْدِ الْمَجِيدِ، حَدَّثَنَا رَبَاحُ بْنُ، أَبِي مَعْرُوفٍ قَالَ سَمِعْتُ عَطَاءً، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ كِرَاءِ الأَرْضِ وَعَنْ بَيْعِهَا السِّنِينَ وَعَنْ بَيْعِ الثَّمَرِ حَتَّى يَطِيبَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني اسحاق بن منصور، حدثنا عبيد الله بن عبد المجيد، حدثنا رباح بن، ابي معروف قال سمعت عطاء، عن جابر بن عبد الله، قال نهى رسول الله صلى الله عليه وسلم عن كراء الارض وعن بيعها السنين وعن بيع الثمر حتى يطيب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবনু মানসূর (রহঃ) ... জাবির ইবনু আবদুল্লাহ (রাযিঃ) হতে বর্ণিত তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জমি বর্গা দিতে, কয়েক বছরের জন্যে বিক্রি করতে এবং ফল পরিপক্ক হওয়ার আগে বিক্রি করতে নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৭১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. Abdullah (Allah be pleased with them) reported that Allah's Messenger (ﷺ) forbade leasing of land, and selling ahead for years and selling of fruits before they become ripe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## French
 
+Rapporté par Jabir b. Abdullah رضي الله عنهما : Le Messager d’Allah ﷺ a interdit la location de terres, la vente à l’avance sur plusieurs années et la vente de fruits avant qu’ils ne soient mûrs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Manshur\] telah menceritakan kepada kami \['Ubaidullah bin Abdul Majid\] telah menceritakan kepada kami \[Rabah bin Ma'ruf\] dia berkata; Saya mendengar \['Atha'\] dari \[Jabir bin Abdullah\] dia berkata; "Rasulullah Shallallu 'alaihi wa sallam melarang menyewakan tanah dan mengontrakkannya hanya beberapa tahun dan melarang menjual buah-buahan hingga nyata benar baiknya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Manshur] telah menceritakan kepada kami ['Ubaidullah bin Abdul Majid] telah menceritakan kepada kami [Rabah bin Ma'ruf] dia berkata; Saya mendengar ['Atha'] dari [Jabir bin Abdullah] dia berkata; "Rasulullah Shallallu 'alaihi wa sallam melarang menyewakan tanah dan mengontrakkannya hanya beberapa tahun dan melarang menjual buah-buahan hingga nyata benar baiknya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நிலத்தைக் குத்தகைக்கு விடுவதற்கும், பல்லாண்டு விளைச்சலை விற்பதற்கும் (முஆவமா), மரத்திலுள்ள கனிகள் (கனிந்து) நல்ல நிலையை அடைவதற்கு முன் விற்பதற்கும் தடை விதித்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana îshâk b. Mansûr rivayet etti. (Dediki): Bize Ubeydullah b. Abdilmecîd rivayet etti. (Dediki): Bize Rabâh b. Ebî Ma'rûf rivayet etti, (Dediki): Atâ'yı Câbîr b. Abdillâh'dan rivayet ederken dinledim. Câbir şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem) yeri kiralamaktan, onu birkaç yıllığına satmaktan ve olgunlaşıncaya kadar meyveyi satmaktan nehî buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رباح بن ابی معروف نے ہمیں حدیث بیان کی ، انہوں نے کہا : میں نے عطاء سے سنا ، انہوں نے حضرت جابر بن عبداللہ رضی اللہ عنہ سے روایت کی ، انہوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے زمین کو ( اس کی اپنی پیداوار کے بدلے کرائے پر دینے ، اس ( کے پھل ) کو کئی سالوں کے لیے بیچنے اور پکنے سے پہلے پھلوں کی بیع سے منع فرمایا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3915</td></tr><tr><td>Arabic No</td><td>1536.10</td></tr><tr><td>Reference</td><td>Book 21 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3915 |
+| Arabic No | 1536.10 |
+| Reference | Book 21 Hadith 114 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، أَخْبَرَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ رَجُلٍ، مِنْ بَنِي عَامِرٍ قَالَ دَخَلْتُ فِي الإِسْلاَمِ فَأَهَمَّنِي دِينِي فَأَتَيْتُ أَبَا ذَرٍّ فَقَالَ أَبُو ذَرٍّ إِنِّي اجْتَوَيْتُ الْمَدِينَةَ فَأَمَرَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم بِذَوْدٍ وَبِغَنَمٍ فَقَالَ لِي ‏"‏ اشْرَبْ مِنْ أَلْبَانِهَا ‏"‏ ‏.‏ قَالَ حَمَّادٌ وَأَشُكُّ فِي ‏"‏ أَبْوَالِهَا ‏"‏ ‏.‏ هَذَا قَوْلُ حَمَّادٍ ‏.‏ فَقَالَ أَبُو ذَرٍّ فَكُنْتُ أَعْزُبُ عَنِ الْمَاءِ وَمَعِي أَهْلِي فَتُصِيبُنِي الْجَنَابَةُ فَأُصَلِّي بِغَيْرِ طُهُورٍ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بِنِصْفِ النَّهَارِ وَهُوَ فِي رَهْطٍ مِنْ أَصْحَابِهِ وَهُوَ فِي ظِلِّ الْمَسْجِدِ فَقَالَ ‏"‏ أَبُو ذَرٍّ ‏"‏ ‏.‏ فَقُلْتُ نَعَمْ هَلَكْتُ يَا رَسُولَ اللَّهِ ‏.‏ قَالَ ‏"‏ وَمَا أَهْلَكَكَ ‏"‏ ‏.‏ قُلْتُ إِنِّي كُنْتُ أَعْزُبُ عَنِ الْمَاءِ وَمَعِي أَهْلِي فَتُصِيبُنِي الْجَنَابَةُ فَأُصَلِّي بِغَيْرِ طُهُورٍ فَأَمَرَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم بِمَاءٍ فَجَاءَتْ بِهِ جَارِيَةٌ سَوْدَاءُ بِعُسٍّ يَتَخَضْخَضُ مَا هُوَ بِمَلآنَ فَتَسَتَّرْتُ إِلَى بَعِيرِي فَاغْتَسَلْتُ ثُمَّ جِئْتُ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ يَا أَبَا ذَرٍّ إِنَّ الصَّعِيدَ الطَّيِّبَ طَهُورٌ وَإِنْ لَمْ تَجِدِ الْمَاءَ إِلَى عَشْرِ سِنِينَ فَإِذَا وَجَدْتَ الْمَاءَ فَأَمِسَّهُ جِلْدَكَ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ لَمْ يَذْكُرْ ‏"‏ أَبْوَالَهَا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا لَيْسَ بِصَحِيحٍ وَلَيْسَ فِي أَبْوَالِهَا إِلاَّ حَدِيثُ أَنَسٍ تَفَرَّدَ بِهِ أَهْلُ الْبَصْرَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
+
 حدثنا موسى بن اسماعيل، اخبرنا حماد، عن ايوب، عن ابي قلابة، عن رجل، من بني عامر قال دخلت في الاسلام فاهمني ديني فاتيت ابا ذر فقال ابو ذر اني اجتويت المدينة فامر لي رسول الله صلى الله عليه وسلم بذود وبغنم فقال لي " اشرب من البانها " . قال حماد واشك في " ابوالها " . هذا قول حماد . فقال ابو ذر فكنت اعزب عن الماء ومعي اهلي فتصيبني الجنابة فاصلي بغير طهور فاتيت رسول الله صلى الله عليه وسلم بنصف النهار وهو في رهط من اصحابه وهو في ظل المسجد فقال " ابو ذر " . فقلت نعم هلكت يا رسول الله . قال " وما اهلكك " . قلت اني كنت اعزب عن الماء ومعي اهلي فتصيبني الجنابة فاصلي بغير طهور فامر لي رسول الله صلى الله عليه وسلم بماء فجاءت به جارية سوداء بعس يتخضخض ما هو بملان فتسترت الى بعيري فاغتسلت ثم جيت فقال رسول الله صلى الله عليه وسلم " يا ابا ذر ان الصعيد الطيب طهور وان لم تجد الماء الى عشر سنين فاذا وجدت الماء فامسه جلدك " . قال ابو داود رواه حماد بن زيد عن ايوب لم يذكر " ابوالها " . قال ابو داود هذا ليس بصحيح وليس في ابوالها الا حديث انس تفرد به اهل البصرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
 
 ## Bengali
 
+। আবূ ক্বিলাবাহ হতে বনু ‘আমির গোত্রের জনৈক ব্যক্তি সূত্রে বর্ণিত। ব্যক্তিটি বলল, আমি ইসলামে দীক্ষিত হওয়ার পর দ্বীন সম্পর্কে (জ্ঞানার্জনে) আমার খুব আগ্রহ জাগে। ফলে আমি আবূ যার (রাঃ)-এর নিকট আসলাম। আবূ যার (রাঃ) বললেন, মদীনায় যাওয়ার পর আমি রোগে আক্রান্ত হই। তাই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে উট-বকরীর পাল চরাতে বললেন এবং এর দুধ পানের নির্দেশ দিলেন। বর্ণনাকারী বলেন, আমার মনে হয়, তিনি এও বলেছেনঃ এর পেশাব পানের জন্যও আদেশ দিলেন। আবূ যার (রাঃ) বললেন, আমি পানি থেকে দূরে অবস্থান করতাম। আমার সাথে আমার স্ত্রীও ছিল। অতএব আমি জুনুবী হতাম এবং জুনুবী অবস্থায় সালাত আদায় করতাম। অতঃপর আমি দ্বিপ্রহরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলাম। তখন তিনি মসজিদের ছায়ায় কিছু সংখ্যক সাহাবীদের সাথে বসা ছিলেন। তিনি বললেন, আবূ যার নাকি! আমি বললাম, হ্যাঁ, হে আল্লাহর রসূল! আমি তো ধ্বংস হয়ে গিয়েছি, তিনি বললেন, কিসে তোমাকে ধ্বংস করলো? আমি বললাম, আমি পানি থেকে দূরে অবস্থান করতাম। আমার সাথে আমার স্ত্রীও ছিল। আমি জুনুবী হতাম এবং জুনুবী অবস্থায় সালাত আদায় করতাম। তিনি আমার জন্য পানি আনার নির্দেশ দিলেন। কালো এক ক্রীতাদাসী একটি বড় পাত্রে পানি আনল। পানিতে পরিপূর্ণ না থাকায় সেটি দুলছিল। আমি একটি উটকে আড়াল করে গোসল করি। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ হে আবূ যার! পাক মাটিই পবিত্রকারী, যদিও দশ বছর পর্যন্ত পানি না পাওয়া যায়। যখন পানি পাওয়া যাবে তখন শরীর ধৌত করবে।\[1\] সহীহ। قَالَ أَبُو دَاوُدَ : رَوَاهُ حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ لَمْ يَذْكُرْ ‏"‏ أَبْوَالَهَا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ : هَذَا لَيْسَ بِصَحِيحٍ وَلَيْسَ فِي أَبْوَالِهَا إِلَّا حَدِيثُ أَنَسٍ تَفَرَّدَ بِهِ أَهْلُ الْبَصْرَةِ ‏.‏ ইমাম আবূ দাউদ (রহঃ) বলেন, হাম্মাদ ইবনু যায়িদ হাদীসটি আইয়ূব সূত্রে বর্ণনা করেছেন। এই বর্ণনায় পেশাব পানের কথা উল্লে­খ নেই। এটা সহীহ নয়। শুধু আনাস (রাঃ)-এর হাদীসেই পেশাব পানের কথা উল্লে­খ আছে, যা কেবল বাসরার অধিবাসীরা এককভাবে বর্ণনা করেছেন।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ ক্বিলাবাহ হতে বনু ‘আমির গোত্রের জনৈক ব্যক্তি সূত্রে বর্ণিত। ব্যক্তিটি বলল, আমি ইসলামে দীক্ষিত হওয়ার পর দ্বীন সম্পর্কে (জ্ঞানার্জনে) আমার খুব আগ্রহ জাগে। ফলে আমি আবূ যার (রাঃ)-এর নিকট আসলাম। আবূ যার (রাঃ) বললেন, মদীনায় যাওয়ার পর আমি রোগে আক্রান্ত হই। তাই রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে উট-বকরীর পাল চরাতে বললেন এবং এর দুধ পানের নির্দেশ দিলেন। বর্ণনাকারী বলেন, আমার মনে হয়, তিনি এও বলেছেনঃ এর পেশাব পানের জন্যও আদেশ দিলেন। আবূ যার (রাঃ) বললেন, আমি পানি থেকে দূরে অবস্থান করতাম। আমার সাথে আমার স্ত্রীও ছিল। অতএব আমি জুনুবী হতাম এবং জুনুবী অবস্থায় সালাত আদায় করতাম। অতঃপর আমি দ্বিপ্রহরে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলাম। তখন তিনি মসজিদের ছায়ায় কিছু সংখ্যক সাহাবীদের সাথে বসা ছিলেন। তিনি বললেন, আবূ যার নাকি! আমি বললাম, হ্যাঁ, হে আল্লাহর রসূল! আমি তো ধ্বংস হয়ে গিয়েছি, তিনি বললেন, কিসে তোমাকে ধ্বংস করলো? আমি বললাম, আমি পানি থেকে দূরে অবস্থান করতাম। আমার সাথে আমার স্ত্রীও ছিল। আমি জুনুবী হতাম এবং জুনুবী অবস্থায় সালাত আদায় করতাম। তিনি আমার জন্য পানি আনার নির্দেশ দিলেন। কালো এক ক্রীতাদাসী একটি বড় পাত্রে পানি আনল। পানিতে পরিপূর্ণ না থাকায় সেটি দুলছিল। আমি একটি উটকে আড়াল করে গোসল করি। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ হে আবূ যার! পাক মাটিই পবিত্রকারী, যদিও দশ বছর পর্যন্ত পানি না পাওয়া যায়। যখন পানি পাওয়া যাবে তখন শরীর ধৌত করবে।[1] সহীহ। قَالَ أَبُو دَاوُدَ : رَوَاهُ حَمَّادُ بْنُ زَيْدٍ عَنْ أَيُّوبَ لَمْ يَذْكُرْ ‏"‏ أَبْوَالَهَا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ : هَذَا لَيْسَ بِصَحِيحٍ وَلَيْسَ فِي أَبْوَالِهَا إِلَّا حَدِيثُ أَنَسٍ تَفَرَّدَ بِهِ أَهْلُ الْبَصْرَةِ ‏.‏ ইমাম আবূ দাউদ (রহঃ) বলেন, হাম্মাদ ইবনু যায়িদ হাদীসটি আইয়ূব সূত্রে বর্ণনা করেছেন। এই বর্ণনায় পেশাব পানের কথা উল্লে­খ নেই। এটা সহীহ নয়। শুধু আনাস (রাঃ)-এর হাদীসেই পেশাব পানের কথা উল্লে­খ আছে, যা কেবল বাসরার অধিবাসীরা এককভাবে বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A man from Banu 'Amir said:I embraced Islam and my (ignorance of the) religion made me anxious (to learn the essentials). I came to Abu Dharr. Abu Dharr said: The climate of Medina did not suit me. The Messenger of Allah (ﷺ) ordered me to have a few camels and goats. He said to me: Drink their milk. (The narrator Hammad said): I doubt whether he (the Prophet) said: "their urine." Abu Dharr said: I was away from the watering place and I had my family with me. I would have sexual defilement and pray without purification. I came to the Messenger of Allah (ﷺ) at noon. He was resting in the shade of the mosque along with a group of Companions. He (the Prophet) said: Abu Dharr. I said: Yes, I am ruined, Messenger of Allah. He said: What ruined you ? I said: I was away from the watering place and I had family with me. I used to be sexually defiled and pray without purification. He commanded (to bring) water for me. Then a black slave-girl brought a vessel of water that was shaking as the vessel was not full. I concealed myself behind a camel and took bath and them came (to the Prophet). The Messenger of Allah (ﷺ) said: Abu Dharr, clean earth is a means of ablution, even if you do not find water for ten years. When you find water, you should make it touch your skin. Abu Dawud said: This is transmitted by Hammad b. Zaid from Ayyub. This version does not mention the words "their urine." This is not correct. The words "their urine" occur only in the version reported by Anas and transmitted only by the people of Basrah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
+
+## French
+
+Rapporté par un homme de Banu ‘Amir : Je me suis converti à l’islam et mon ignorance de la religion me rendait anxieux (je voulais apprendre l’essentiel). Je suis allé voir Abu Dharr. Abu Dharr dit : « Le climat de Médine ne me convenait pas. Le Messager d’Allah ﷺ m’a ordonné d’avoir quelques chameaux et chèvres. Il m’a dit : “Bois leur lait.” (Le narrateur Hammad dit : Je ne sais plus s’il a dit : “leur urine.”) » Abu Dharr dit : « J’étais éloigné du point d’eau avec ma famille. Il m’arrivait d’être en état d’impureté majeure et je priais sans purification. Je suis venu voir le Messager d’Allah ﷺ à midi. Il se reposait à l’ombre de la mosquée avec un groupe de compagnons. Il me dit : “Abu Dharr.” Je répondis : “Oui, je suis perdu, Messager d’Allah.” Il dit : “Qu’est-ce qui t’a perdu ?” Je répondis : “J’étais loin de l’eau avec ma famille. Je me retrouvais en état d’impureté majeure et je priais sans purification.” Il demanda qu’on m’apporte de l’eau. Une jeune esclave noire apporta un récipient d’eau, qui tremblait car il n’était pas plein. Je me suis caché derrière un chameau pour me laver, puis je suis revenu. Le Messager d’Allah ﷺ dit : “Abu Dharr, la terre pure suffit comme moyen d’ablution, même si tu ne trouves pas d’eau pendant dix ans. Quand tu trouves de l’eau, fais-la toucher ta peau.” » Abu Dawud dit : Ce hadith est transmis par Hammad b. Zaid d’après Ayyub. Cette version ne mentionne pas les mots « leur urine ». Ce n’est pas correct. Les mots « leur urine » n’apparaissent que dans la version rapportée par Anas et uniquement par les gens de Bassorah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah mengabarkan kepada kami \[Hammad\] dari \[Ayyub\] dari \[Abu Qilabah\] dari \[Seorang laki-laki dari Bani Amir\] dia berkata; Saya telah masuk Islam, namun saya sedih karena tidak tahu syari'at agama ini, maka saya datang ke Abu Dzarr. \[Abu Dzarr\] berkata; Sesungguhnya saya tidak suka dengan Madinah. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkanku untuk mengembala unta dan kambing dan bersabda: "Minumlah susunya. Hammad berkata; Saya ragu tentang air kencingnya, dan ini adalah perkataan Hammad. Abu Dzarr berkata; Ketika itu saya tidak mendapatkan air dan saya sedang bersama istriku, lalu saya junub, sehingga saya shalat tanpa bersuci. Lalu saya datang kepada Rasulullah shallallahu 'alaihi wasallam tatkala pertengahan siang, dan tatkala itu beliau sedang bersama sekumpulan sahabatnya di naungan bayangan Masjid. Beliau bersabda: Apakah engkau Abu Dzarr? Saya menjawab; Ya, saya celaka wahai Rasulullah. Beliau bertanya; Apa yang membuatmu celaka? Saya menjawab; Saya tidak mempunyai air, dan saya bersama istriku, kemudian saya junub, lalu shalat tanpa bersuci. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan seseorang untuk mengambil air untukku, lalu datanglah seorang budak wanita hitam dengan membawa baskom yang bergerak karena berisi air, namun ia tidak penuh. Lalu saya menutup diri pada untaku, lalu saya pun mandi, kemudian saya datang kembali kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "Wahai Abu Dzarr, sesungguhnya tanah yang bersih adalah alat untuk bersuci, meskipun engkau tidak mendapati air selama sepuluh tahun. Apabila engkau mendapati air, maka kenakanlah ia pada kulitmu (mandi dan wudlulah) dengannya. Abu Dawud berkata; Diriwayatkan oleh \[Hammad bin Zaid\] dari \[Ayyub\] tanpa menyebutkan air kencingnya. Abu Dawud berkata; Ini tidaklah shahih, dan tidak disebutkan tentang air kencingnya kecuali hadits Anas yang Ahli Bashrah meriwayatkannya secara sendirian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah mengabarkan kepada kami [Hammad] dari [Ayyub] dari [Abu Qilabah] dari [Seorang laki-laki dari Bani Amir] dia berkata; Saya telah masuk Islam, namun saya sedih karena tidak tahu syari'at agama ini, maka saya datang ke Abu Dzarr. [Abu Dzarr] berkata; Sesungguhnya saya tidak suka dengan Madinah. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkanku untuk mengembala unta dan kambing dan bersabda: "Minumlah susunya. Hammad berkata; Saya ragu tentang air kencingnya, dan ini adalah perkataan Hammad. Abu Dzarr berkata; Ketika itu saya tidak mendapatkan air dan saya sedang bersama istriku, lalu saya junub, sehingga saya shalat tanpa bersuci. Lalu saya datang kepada Rasulullah shallallahu 'alaihi wasallam tatkala pertengahan siang, dan tatkala itu beliau sedang bersama sekumpulan sahabatnya di naungan bayangan Masjid. Beliau bersabda: Apakah engkau Abu Dzarr? Saya menjawab; Ya, saya celaka wahai Rasulullah. Beliau bertanya; Apa yang membuatmu celaka? Saya menjawab; Saya tidak mempunyai air, dan saya bersama istriku, kemudian saya junub, lalu shalat tanpa bersuci. Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan seseorang untuk mengambil air untukku, lalu datanglah seorang budak wanita hitam dengan membawa baskom yang bergerak karena berisi air, namun ia tidak penuh. Lalu saya menutup diri pada untaku, lalu saya pun mandi, kemudian saya datang kembali kepada Rasulullah shallallahu 'alaihi wasallam, maka beliau bersabda: "Wahai Abu Dzarr, sesungguhnya tanah yang bersih adalah alat untuk bersuci, meskipun engkau tidak mendapati air selama sepuluh tahun. Apabila engkau mendapati air, maka kenakanlah ia pada kulitmu (mandi dan wudlulah) dengannya. Abu Dawud berkata; Diriwayatkan oleh [Hammad bin Zaid] dari [Ayyub] tanpa menyebutkan air kencingnya. Abu Dawud berkata; Ini tidaklah shahih, dan tidak disebutkan tentang air kencingnya kecuali hadits Anas yang Ahli Bashrah meriwayatkannya secara sendirian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Къилаба, сообщившего, что один мужчина из племени Бану ‘Амир сказал: «Когда я принял Ислам, я желал знать свою религию и пришел к Абу Зарру. Абу Зарр сказал: “Однажды в Медине меня постигла болезнь и Посланник Аллаха ﷺ велел мне надоить молодых верблюдов и овец и сказал мне: «Выпей их молоко». Хаммад сказал: “И я сомневаюсь, (сказал ли он): “Их мочу”. Это сказал Хаммад. И Абу Зарр сказал: “Однажды, когда я находился далеко от воды и вместе со мной была моя жена, меня постигло осквернение /джанаба/, и я молился без очищения. Когда я явился к Посланнику Аллаха ﷺ в полдень, он находился среди группы своих сподвижников и сидел в тени мечети. Он сказал: “Абу Зарр?” Я сказал: “Да, о Посланник Аллаха, и я погиб”. Он спросил: “А что тебя погубило?” Я сказал: “Я находился далеко от воды, а со мной была моя жена. Меня постигло осквернение и я совершал молитвы без очищения. И Посланник Аллаха ﷺ повелел принести мне воды, и одна чернокожая служанка пришла неся собой сосуд, в которой булькала вода из-за его полноты. Спрятавшись за верблюдом, я искупался и пришел (к пророку) и Посланник Аллаха ﷺ сказал: “О Абу Зарр! Поистине, чистый песок является очищением, если не найдешь воды даже в течение десяти лет. А когда ты найдешь воду, пусть она коснется твоей кожи”».Абу Дауд сказал: «Этот хадис передал Хаммад ибн Зейд от Аййуба, не упомянув (слова) “их мочу”».Абу Дауд сказал: «Это является недостоверным и не сказано об их моче кроме, как в хадисе от Анаса, который (не передавал) никто, кроме жителей аль-Басры»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ben-i Amir'den bir zatın,şöyle dediği rivayet edilmiştir: "İslama (yeni) girmiştim. Dinim beni gayrete getirdi. (Dini konulara sarıldım). Ebu Zerr'e geldim. Ebu Zerr şöyle dedi: Medine'nin havası bana dokundu. Resulullah (Sallallahu aleyhi ve Sellem) bir zevd (üç yaş ile dokuz yaş arasındaki deve) ile bir koyun (almamı) emretti ve "Sütlerinden iç " buyurdu. Hammad dedi ki: "(Şeyhimin) idrarından da iç (deyip demediğinde) şüphe ediyorum. " Ebu Zerr devamla şöyle dedi: Ben sudan uzakta idim, ve hanımım da benimle beraberdi. Bu yüzden cünup oluyor ve abdestsiz namaz kılıyordum. (Bir gün) öğle vakti Resulullah (Sallallahu aleyhi ve Sellem)'e geldim. Efendimiz ashabından bir cemaat içinde mescidin gölgesinde idi. (Beni görünce): (Ne bu halin) Ebu Zerr? buyurdu. Evet, ya Resulullah helak oldum, dedim. Resulullah (Sallallahu aleyhi ve Sellem): "Seni helak eden nedir? "diye buyurdu. Ben sudan uzakta idim ve ailem benim yanımda idi. Bu yüzden cünup oluyor ve abdestsiz namaz kılıyordum, dedim. Resulullah (Sallallahu aleyhi ve Sellem) benim için su getirilmesini emretti ve siyah bir cariye içinde su çalkalanan bir kap getirdi. Tam dolu olmayan o su kabını alıp devemin arkasına gizlenip yıkandım ve geldim. Resulullah (Sallallahu aleyhi ve Sellem) şöye buyurdu: Ey Eba Zerr, on seneye kadar bile su bulamazsan muhakkak temiz toprak temizleyicidir suyu bulduğun zaman suyla yıkan (guslet). Ebu Davud şunları ilave etti: Bunu Hammad bin Zeyd, Eyyub'dan "idrarlarını" zikretmeden rivayet etti. (Bu hadiste) "idrarlarını" sözü sahih değildir. "İdrarlar" (lafzı) hakkında Enes hadisinden başkası yoktur. Onu da sadece Basralılar rivayet etmiştir. Diğer tahric: Nesai, tahare; Ahmed b. Hanbel, V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قبیلہ بنی عامر کے ایک آدمی کہتے ہیں کہ میں اسلام میں داخل ہوا تو مجھے اپنا دین سیکھنے کی فکر لاحق ہوئی لہٰذا میں ابوذر رضی اللہ عنہ کے پاس آیا، انہوں نے کہا: مجھے مدینہ کی آب و ہوا راس نہ آئی تو رسول اللہ صلی اللہ علیہ وسلم نے مجھے کچھ اونٹ اور بکریاں دینے کا حکم دیا اور مجھ سے فرمایا: تم ان کا دودھ پیو ، ( حماد کا بیان ہے کہ مجھے شک ہے کہ آپ صلی اللہ علیہ وسلم نے انہیں پیشاب بھی پینے کے لیے کہا یا نہیں، یہ حماد کا قول ہے ) ، پھر ابوذر رضی اللہ عنہ نے کہا: میں پانی سے ( اکثر ) دور رہا کرتا تھا اور میرے ساتھ میری بیوی بھی تھی، مجھے جنابت لاحق ہوتی تو میں بغیر طہارت کے نماز پڑھ لیتا تھا، تو میں رسول اللہ صلی اللہ علیہ وسلم کے پاس دوپہر کے وقت آیا، آپ صحابہ کی ایک جماعت کے ساتھ مسجد کے سائے میں ( بیٹھے ) تھے، آپ نے فرمایا: ابوذر؟ ، میں نے کہا: جی، اللہ کے رسول! میں تو ہلاک و برباد ہو گیا، آپ صلی اللہ علیہ وسلم نے فرمایا: کس چیز نے تمہیں ہلاک و برباد کیا؟ ، میں نے کہا: میں پانی سے دور رہا کرتا تھا اور میرے ساتھ میری بیوی تھی، مجھے جنابت لاحق ہوتی تو میں بغیر طہارت کے نماز پڑھ لیتا تھا، تو رسول اللہ صلی اللہ علیہ وسلم نے میرے لیے پانی لانے کا حکم دیا، چنانچہ ایک کالی لونڈی بڑے برتن میں پانی لے کر آئی جو برتن میں ہل رہا تھا، برتن بھرا ہوا نہیں تھا، پھر میں نے اپنے اونٹ کی آڑ کی اور غسل کیا، پھر آیا تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اے ابوذر! پاک مٹی پاک کرنے والی ہے، اگرچہ تم دس سال تک پانی نہ پاؤ، لیکن جب تمہیں پانی مل جائے تو اسے اپنی کھال پر بہاؤ ( غسل کرو ) ۔ ابوداؤد کہتے ہیں: اسے حماد بن زید نے ایوب سے روایت کیا ہے اور اس میں انہوں نے پیشاب کا ذکر نہیں کیا ہے۔ ابوداؤد کہتے ہیں: یہ صحیح نہیں ہے اور پیشاب کا ذکر صرف انس بن مالک رضی اللہ عنہ کی حدیث میں ہے، جس میں اہل بصرہ منفرد ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>333</td></tr><tr><td>Arabic No</td><td>333</td></tr><tr><td>Reference</td><td>Book 1 Hadith 333</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 333 |
+| Arabic No | 333 |
+| Reference | Book 1 Hadith 333 |

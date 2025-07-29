@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي الْحُسَيْنُ بْنُ حُرَيْثٍ، قَالَ أَنْبَأَنَا الْفَضْلُ بْنُ مُوسَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّ الْيَهُودَ وَالنَّصَارَى لاَ تَصْبُغُ فَخَالِفُوا عَلَيْهِمْ فَاصْبُغُوا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 48 Hadith 32</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |
+
 اخبرني الحسين بن حريث، قال انبانا الفضل بن موسى، عن معمر، عن الزهري، عن ابي سلمة، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " ان اليهود والنصارى لا تصبغ فخالفوا عليهم فاصبغوا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 48 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হুমায়দ ইবন হুরায়স (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইয়াহুদী ও নাসারা খিযাব লাগায় না, তোমরা তাদের বিরোধিতা করবে এবং খিযাব লাগাবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 48 Hadith 32</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |
 
 ## English
 
+It was narrated that Abu Hurairah said:"The Messenger of Allah \[SAW\] said: 'The Jews and the Christians do not dye their hair, so be different from them and dye your hair
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Abu Hurairah said:"The Messenger of Allah [SAW] said: 'The Jews and the Christians do not dye their hair, so be different from them and dye your hair
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 48 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |
+
+## French
+
+Rapporté par Abu Hurairah : "Le Messager d’Allah ﷺ a dit : 'Les Juifs et les Chrétiens ne teignent pas leurs cheveux, alors soyez différents d’eux et teignez vos cheveux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepadaku \[Al Husain bin Huraits\], dia berkata; telah memberitakan kepada kami \[Al Fadhl bin Musa\] dari \[Ma'mar\] dari \[Az Zuhri\] dari \[Abu Salamah\] dari \[Abu Hurairah\], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang-orang Yahudi dan Nashrani tidak menyemir rambut, maka selisihilah mereka, dan semirlah rambut kalian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepadaku [Al Husain bin Huraits], dia berkata; telah memberitakan kepada kami [Al Fadhl bin Musa] dari [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang-orang Yahudi dan Nashrani tidak menyemir rambut, maka selisihilah mereka, dan semirlah rambut kalian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 48 Hadith 32</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 48 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5071</td></tr><tr><td>Arabic No</td><td>5071</td></tr><tr><td>Reference</td><td>Book 48 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5071 |
+| Arabic No | 5071 |
+| Reference | Book 48 Hadith 32 |

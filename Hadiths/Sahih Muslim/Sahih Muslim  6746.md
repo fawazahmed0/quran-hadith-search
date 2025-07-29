@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي عَمْرٌو النَّاقِدُ، حَدَّثَنَا أَيُّوبُ بْنُ النَّجَّارِ الْيَمَامِيُّ، حَدَّثَنَا يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني عمرو الناقد، حدثنا ايوب بن النجار اليمامي، حدثنا يحيى بن ابي كثير، عن ابي سلمة، عن ابي هريرة، عن النبي صلى الله عليه وسلم ح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) ‘আমর আন্‌ নাকিদ ও ইবনু রাফি (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে তাদের হাদীসের মর্মের হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫০৫, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira narrated a hadith like this through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## French
 
+Rapporté par Abu Huraira : Un hadith similaire a été rapporté par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-15-2) Bana Amru'n-Nâkid rivayet etti. (Dediki): Bize Eyyûb b. Neccar EI-Yemâmî rivayet etti. (Dediki): Bize Yahya b. Ebî Kesîr, Ebû Seleme'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'dan naklen rivayet etti. H. Bize İbni Râfi' de rivayet etti. (Dediki): Bize Abdürrezzak rivayet etti. (Dediki): Bize Ma'mer, Hemmam b. Münebbih'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen yukarkilerin hadîsi mânâsında rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسلمہ اور ہمام بن منبہ نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے ان ( گزشتہ راویوں ) کی حدیث کے ہم معنی حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6746</td></tr><tr><td>Arabic No</td><td>2652.05</td></tr><tr><td>Reference</td><td>Book 46 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6746 |
+| Arabic No | 2652.05 |
+| Reference | Book 46 Hadith 24 |

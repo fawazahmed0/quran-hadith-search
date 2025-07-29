@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ قَتِيلُ الْخَطَإِ شِبْهِ الْعَمْدِ بِالسَّوْطِ أَوِ الْعَصَا مِائَةٌ مِنَ الإِبِلِ أَرْبَعُونَ مِنْهَا فِي بُطُونِهَا أَوْلاَدُهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 45 Hadith 86</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |
+
 اخبرنا محمد بن بشار، قال حدثنا عبد الرحمن، قال حدثنا شعبة، عن ايوب السختياني، عن القاسم بن ربيعة، عن عبد الله بن عمرو، عن النبي صلى الله عليه وسلم قال " قتيل الخطا شبه العمد بالسوط او العصا ماية من الابل اربعون منها في بطونها اولادها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 45 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন বাশশার (রহঃ) ... শু'বা (রহঃ) আইয়্যুব সাখতিয়ানী (রহঃ) থেকে, তিনি কাসিম ইবন রবীআ (রহঃ) থেকে এবং তিনি আবদুল্লাহ ইবন আমর (রাঃ) থেকে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি এমন ভুলক্রমে হত্যার শিকার হয়, যা ইচ্ছাকৃত হত্যা সদৃশ যথা কোড়া, লাঠি ইত্যাদির আঘাতে হত্যা, তার দিয়াত একশত উট, যার চল্লিশটি গর্ভবতী হতে হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 45 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Al-Qasim bin Rabi'ah, from 'Abdullah bin 'Amr, the Prophet said:"The accidental killing, which seems intentional, with a whip or stick, (the Diyah) is one hundred camels, of which forty should be (she-camels) which their young in their wombs
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 45 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |
+
+## French
+
+Rapporté par Al-Qasim bin Rabi'ah, d’après 'Abdullah bin 'Amr, le Prophète ﷺ a dit : « Dans le cas d’un homicide involontaire qui ressemble à un acte volontaire, avec un fouet ou un bâton, la Diyah est de cent chameaux, dont quarante doivent être des chamelles enceintes. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Abdur Rahman\] telah menceritakan kepada kami \[Syu'bah\] dari \[Ayyub As Sakhtiyani\] dari \[Al Qasim bin Rabi'ah\] dari \[Abdullah bin 'Amru\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda; "Orang yang terbunuh karena tidak sengaja adalah mirip dengan orang yang terbunuh karena disiksa dengan cambuk, atau tongkat diyatnya adalah seratus unta, empat puluh di antaranya sedang bunting
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Abdur Rahman] telah menceritakan kepada kami [Syu'bah] dari [Ayyub As Sakhtiyani] dari [Al Qasim bin Rabi'ah] dari [Abdullah bin 'Amru] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda; "Orang yang terbunuh karena tidak sengaja adalah mirip dengan orang yang terbunuh karena disiksa dengan cambuk, atau tongkat diyatnya adalah seratus unta, empat puluh di antaranya sedang bunting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 45 Hadith 86</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 45 Hadith 86</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4791</td></tr><tr><td>Arabic No</td><td>4791</td></tr><tr><td>Reference</td><td>Book 45 Hadith 86</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4791 |
+| Arabic No | 4791 |
+| Reference | Book 45 Hadith 86 |

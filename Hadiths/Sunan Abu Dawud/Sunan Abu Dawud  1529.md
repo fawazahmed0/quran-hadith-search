@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا أَبُو الْحُسَيْنِ، زَيْدُ بْنُ الْحُبَابِ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ شُرَيْحٍ الإِسْكَنْدَرَانِيُّ، حَدَّثَنِي أَبُو هَانِئٍ الْخَوْلاَنِيُّ، أَنَّهُ سَمِعَ أَبَا عَلِيٍّ الْجَنْبِيَّ، أَنَّهُ سَمِعَ أَبَا سَعِيدٍ الْخُدْرِيَّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ قَالَ رَضِيتُ بِاللَّهِ رَبًّا وَبِالإِسْلاَمِ دِينًا وَبِمُحَمَّدٍ رَسُولاً وَجَبَتْ لَهُ الْجَنَّةُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
+
 حدثنا محمد بن رافع، حدثنا ابو الحسين، زيد بن الحباب حدثنا عبد الرحمن بن شريح الاسكندراني، حدثني ابو هاني الخولاني، انه سمع ابا علي الجنبي، انه سمع ابا سعيد الخدري، ان رسول الله صلى الله عليه وسلم قال " من قال رضيت بالله ربا وبالاسلام دينا وبمحمد رسولا وجبت له الجنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি বলে, আমি আল্লাহকে রব্ব, ইসলামকে দীন এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রসূল হিসেবে সন্তুষ্টচিত্তে মেনে নিয়েছি, তার জন্য জান্নাত ওয়াজিব হয়ে গেছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, যে ব্যক্তি বলে, আমি আল্লাহকে রব্ব, ইসলামকে দীন এবং মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে রসূল হিসেবে সন্তুষ্টচিত্তে মেনে নিয়েছি, তার জন্য জান্নাত ওয়াজিব হয়ে গেছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Sa'id al-Khudri reported the Messenger of Allah (ﷺ) as saying:If anyone says "I am pleased with Allah as Lord, with Islam as religion and with Muhammad (ﷺ) as Apostle" Paradise will be his due
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un dit : “Je suis satisfait qu’Allah soit mon Seigneur, que l’islam soit ma religion et que Muhammad ﷺ soit mon Messager”, le Paradis lui sera accordé. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Muhammad bin Rafi'\], telah menceritakan kepada Kami \[Abu Al Husain Zaid bin Al Hubab\], telah menceritakan kepada Kami \[Abdurrahman bin Syuraih Al Iskandarani\], telah menceritakan kepadaku \[Abu Hani' Al Khaulani\] bahwa ia mendengar \[Abu Ali Al Hanbi\] bahwa ia mendengar \[Abu Sa'id Alkhudri\] radliallahu 'anhu mengatakan bahwa Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Barangsiapa yang mengatakan; RADHIITU BILLAAHI RABBAN WA BIL-ISLAAMI DIINAN WA BIMUHAMMADIN RASUULAN (Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku dan Muhammad sebagai rasul), maka wajib baginya untuk masuk Surga
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Muhammad bin Rafi'], telah menceritakan kepada Kami [Abu Al Husain Zaid bin Al Hubab], telah menceritakan kepada Kami [Abdurrahman bin Syuraih Al Iskandarani], telah menceritakan kepadaku [Abu Hani' Al Khaulani] bahwa ia mendengar [Abu Ali Al Hanbi] bahwa ia mendengar [Abu Sa'id Alkhudri] radliallahu 'anhu mengatakan bahwa Rasulullah shallla Allahu 'alaihi wa sallam bersabda: "Barangsiapa yang mengatakan; RADHIITU BILLAAHI RABBAN WA BIL-ISLAAMI DIINAN WA BIMUHAMMADIN RASUULAN (Aku ridha Allah sebagai Tuhanku, Islam sebagai agamaku dan Muhammad sebagai rasul), maka wajib baginya untuk masuk Surga
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Са‘ида аль-Худри, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Обязательно войдёт в рай тот, кто скажет: “Доволен я Аллахом как Господом, исламом − как религией и Мухаммадом − как посланником /Радыйту биЛляхи Раббан, ва биль-ислами динан ва би-Мухаммадин расулян/”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Sâid el-Hudrî (r.a.)'den rivayet edildiğine göre, Resulullah (s.a.v.) şöyle buyurmuştur: ''Radiytu billahi rabben ve bi İslami dinen ve Muhammedi sallallahu aleyhi ve selleme Nebiyyen'' Anlamı: "Rab olarak Allah (c.c.)'ı, din olarak İslâmı ve Peygamber olarak da Muhammed sallellahu aleyhi vesellem'i seçip beğendim" diyen kimseye cennet vâcib oldu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص کہے: «رضيت بالله ربا وبالإسلام دينا وبمحمد رسولا» میں اللہ کے رب ہونے، اسلام کے دین ہونے اور محمد صلی اللہ علیہ وسلم کے رسول ہونے پر راضی ہوا تو جنت اس کے لیے واجب گئی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>1529</td></tr><tr><td>Reference</td><td>Book 8 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 1529 |
+| Reference | Book 8 Hadith 114 |

@@ -18,78 +18,76 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## French
 
+Rapporté par Abd Allah : « Il suffit qu’un homme rapporte tout ce qu’il entend pour qu’il soit considéré comme menteur. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Рассказал мне Абу Тахир Ахмад ибн ‘Амр ибн ‘Абдуллах ибн ‘Амр ибн Сарх, который сказал: «Сообщил нам Ибн Вахб, который сказал: «Малик сказал мне: “Знай, что не спасется человек, который рассказывает обо всем, что слышит. И не быть ему имамом никогда, если он рассказывает обо всем, что услышит”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Ebû-Tâhir Ahmed b. Amr b. Abdillâh b. Amr b. Şerh rivâyet etti. ki: Bize İbn Vehb haber verdi. Dedi ki: Bana Mâlik şunu söyledi: ol ki, her işittiğini söyleyen kimse selâmete eremez. Her işittiğini söyleyip dururken o ebediyyen İmâm da olamaz.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن وہب نے خبر دی کہا : مالک ( بن انس ، نے مجھ سے کہا : مجھے معلوم ہے کہ ایسا آدمی ( صحیح ) سالم نہیں ہوتا جو ہر سنی ہوئی بات ( آگے ) بیان کر دے ، وہ کبھی امام نہیں بن سکتا ( جبکہ ) وہ ہر سنی ہوئی بات ( آگے ) بیان کر دیتا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>10</td></tr><tr><td>Reference</td><td>Book 0 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 10 |
+| Reference | Book 0 Hadith 10 |

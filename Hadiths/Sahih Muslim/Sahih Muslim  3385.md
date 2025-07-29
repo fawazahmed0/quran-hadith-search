@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الأَعْلَى، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ قَالَ ‏ "‏ تُشَدُّ الرِّحَالُ إِلَى ثَلاَثَةِ مَسَاجِدَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابو بكر بن ابي شيبة، حدثنا عبد الاعلى، عن معمر، عن الزهري، بهذا الاسناد غير انه قال " تشد الرحال الى ثلاثة مساجد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শায়বাহ (রহঃ) ..... যুহরী (রহঃ) থেকে এ সূত্রে অনুরূপ বর্ণিত হয়েছে। তবে এ সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কথা এভাবে শুরু হয়েছেঃ "তিনটি মসজিদের উদ্দেশে সফর করা যাবে।" (ইসলামিক ফাউন্ডেশন ৩২৫১, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Zuhri (but with this change of words) that he (Allah's Apostle) said:" Undertake journey to three mosques
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## French
 
+Rapporté par Zuhri : Ce hadith a été rapporté avec ce changement de mots : « Faites un voyage vers trois mosquées. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bu hadîsi bize Ebû Bekr b. Ebî Şeybe de rivayet etti. (Dediki): Bize Abdüla'lâ, Ma'mer'den, o da Zührî'den bu isnâd ile rivayette bulundu. Şu kadar var ki o: «Sefer üç mescide yapılır.» dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معمر نے زہری سے اسی سند کے ساتھ روایت کی ، البتہ انھوں نے کہا : " ( عبادت کے لیے ) تین مسجدوں کی طرف رخت سفر باندھا جا سکتا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3385</td></tr><tr><td>Arabic No</td><td>1397.02</td></tr><tr><td>Reference</td><td>Book 15 Hadith 589</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3385 |
+| Arabic No | 1397.02 |
+| Reference | Book 15 Hadith 589 |

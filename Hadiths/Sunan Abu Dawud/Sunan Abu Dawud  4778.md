@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُقْبَةُ بْنُ مُكْرَمٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ، - يَعْنِي ابْنَ مَهْدِيٍّ - عَنْ بِشْرٍ، - يَعْنِي ابْنَ مَنْصُورٍ - عَنْ مُحَمَّدِ بْنِ عَجْلاَنَ، عَنْ سُوَيْدِ بْنِ وَهْبٍ، عَنْ رَجُلٍ، مِنْ أَبْنَاءِ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم عَنْ أَبِيهِ قَالَ - قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم نَحْوَهُ قَالَ ‏"‏ مَلأَهُ اللَّهُ أَمْنًا وَإِيمَانًا ‏"‏ ‏.‏ لَمْ يَذْكُرْ قِصَّةَ ‏"‏ دَعَاهُ اللَّهُ ‏"‏ ‏.‏ زَادَ ‏"‏ وَمَنْ تَرَكَ لُبْسَ ثَوْبِ جَمَالٍ وَهُوَ يَقْدِرُ عَلَيْهِ ‏"‏ ‏.‏ قَالَ بِشْرٌ أَحْسِبُهُ قَالَ ‏"‏ تَوَاضُعًا كَسَاهُ اللَّهُ حُلَّةَ الْكَرَامَةِ وَمَنْ زَوَّجَ لِلَّهِ تَعَالَى تَوَّجَهُ اللَّهُ تَاجَ الْمُلْكِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
+
 حدثنا عقبة بن مكرم، حدثنا عبد الرحمن، - يعني ابن مهدي - عن بشر، - يعني ابن منصور - عن محمد بن عجلان، عن سويد بن وهب، عن رجل، من ابناء اصحاب النبي صلى الله عليه وسلم عن ابيه قال - قال رسول الله صلى الله عليه وسلم نحوه قال " ملاه الله امنا وايمانا " . لم يذكر قصة " دعاه الله " . زاد " ومن ترك لبس ثوب جمال وهو يقدر عليه " . قال بشر احسبه قال " تواضعا كساه الله حلة الكرامة ومن زوج لله تعالى توجه الله تاج الملك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
 
 ## Bengali
 
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবীর পুত্র থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ... পূর্বোক্ত হাদীসের অনুরূপ। অতঃপর আখিরাতে আল্লাহ তাকে ডাকবেন এর স্থানে বলেনঃ আল্লাহ তাকে শান্তি ও ঈমানের দ্বারা পরিপূর্ণ করবেন। তারপর বলেন, যে ব্যক্তি সামর্থ্য থাকা সত্ত্বেও সৌন্দর্যবর্ধক পোশাক পরা থেকে বিরত থাকে এবং বর্ণনাকারী বিশর বলেন, আমার ধারণা তিনি নম্রতা পরিত্যাগের কথা বলেছেন, আল্লাহ তাকে সম্মানের পোশাক পরিধান করাবেন। আর যে ব্যক্তি আল্লাহর জন্য বিবাহ করবে আল্লাহ তাকে রাজমুকুট পরিধান করাবেন।\[1\] দুর্বলঃ মিশকাত হা/ ৫০৮৯।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবীর পুত্র থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ... পূর্বোক্ত হাদীসের অনুরূপ। অতঃপর আখিরাতে আল্লাহ তাকে ডাকবেন এর স্থানে বলেনঃ আল্লাহ তাকে শান্তি ও ঈমানের দ্বারা পরিপূর্ণ করবেন। তারপর বলেন, যে ব্যক্তি সামর্থ্য থাকা সত্ত্বেও সৌন্দর্যবর্ধক পোশাক পরা থেকে বিরত থাকে এবং বর্ণনাকারী বিশর বলেন, আমার ধারণা তিনি নম্রতা পরিত্যাগের কথা বলেছেন, আল্লাহ তাকে সম্মানের পোশাক পরিধান করাবেন। আর যে ব্যক্তি আল্লাহর জন্য বিবাহ করবে আল্লাহ তাকে রাজমুকুট পরিধান করাবেন।[1] দুর্বলঃ মিশকাত হা/ ৫০৮৯।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Suwaid b. Wahb quoted a son of a Companion of the Prophet (ﷺ) who said his father reported the Messenger of Allah (ﷺ) said:He then mentioned a similar tradition described above. This version has: Allah will fill his heart with security and faith. He did not mention the words "Allah will call him". This version further adds: He who gives up wearing beautiful garments when he is able to do so (out of humility, as Bishr's version has) will be clothed by Allah with the robe of honour, and he who marries for Allah's sake will be crowned by Allah with the crown of Kingdom
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
+
+## French
+
+Suwaid b. Wahb a rapporté d’un fils de Compagnon du Prophète ﷺ, qui a dit que son père a rapporté du Messager d’Allah ﷺ : Il a ensuite mentionné une tradition similaire à celle décrite plus haut. Cette version précise : « Allah remplira son cœur de sécurité et de foi. » Il n’a pas mentionné les mots « Allah l’appellera ». Cette version ajoute aussi : « Celui qui renonce à porter de beaux vêtements alors qu’il en a les moyens (par humilité, comme l’a précisé Bishr) sera vêtu par Allah de l’habit d’honneur, et celui qui se marie pour Allah sera couronné par Allah de la couronne de la royauté. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu As Sarh\] berkata, telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Sa'id\] -maksudnya Said bin Abu Ayyub- dari \[Abu Marhum\] dari \[Sahl bin Mu'adz\] dari \[Bapaknya\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menahan kemarahan padahal ia mampu untuk meluapkannya, maka pada hari kiamat Allah akan memanggilnya di antara manusia, hingga Allah menyuruhnya untuk memilih bidadari sesuka hatinya." Abu Dawud berkata, "Abu Marhum namanya adalah 'Abdurrahman bin Maimun." Telah menceritakan kepada kami \[Uqbah bin Mukram\] berkata, telah menceritakan kepada kami \['Abdurrahman\] -maksudnya Abdur Rahman bin Mahdi- dari \[Bisyr\] -maksudnya Bisyr bin Manshur- dari \[Muhammad bin 'Ajlan\] dari \[Suwaid bin Wahb\] dari \[seorang laki-laki\] di antara anak-anak sahabat Nabi shallallahu 'alaihi wasallam, dari \[Bapaknya\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah akan memenuhi keamanan dan keimanan -namun ia tidak menyebutkan kisah dalam hadits sebelumnya-, lalu Allah akan memanggilnya, perawi menambahkan, "siapa meninggalkan dari memakai pakaian yang bagus padahal ia mampu -\[Bisyr\] mengatakan; aku mengira beliau mengatakan- karena merendah diri, Maka Allah akan memakaikan baginya baju kemuliaan. Dan barangsiapa menikah karena Allah Ta'ala maka Allah akan memberinya mahkota raja kepadanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Sa'id] -maksudnya Said bin Abu Ayyub- dari [Abu Marhum] dari [Sahl bin Mu'adz] dari [Bapaknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa menahan kemarahan padahal ia mampu untuk meluapkannya, maka pada hari kiamat Allah akan memanggilnya di antara manusia, hingga Allah menyuruhnya untuk memilih bidadari sesuka hatinya." Abu Dawud berkata, "Abu Marhum namanya adalah 'Abdurrahman bin Maimun." Telah menceritakan kepada kami [Uqbah bin Mukram] berkata, telah menceritakan kepada kami ['Abdurrahman] -maksudnya Abdur Rahman bin Mahdi- dari [Bisyr] -maksudnya Bisyr bin Manshur- dari [Muhammad bin 'Ajlan] dari [Suwaid bin Wahb] dari [seorang laki-laki] di antara anak-anak sahabat Nabi shallallahu 'alaihi wasallam, dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah akan memenuhi keamanan dan keimanan -namun ia tidak menyebutkan kisah dalam hadits sebelumnya-, lalu Allah akan memanggilnya, perawi menambahkan, "siapa meninggalkan dari memakai pakaian yang bagus padahal ia mampu -[Bisyr] mengatakan; aku mengira beliau mengatakan- karena merendah diri, Maka Allah akan memakaikan baginya baju kemuliaan. Dan barangsiapa menikah karena Allah Ta'ala maka Allah akan memberinya mahkota raja kepadanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Рассказал нам ‘Укъба ибн Мукрам: Рассказал нам ‘Абду-р-Рахман, то есть Ибн Махди, от Бишра, то есть Ибн Мансура, передавшего от Мухаммада ибн ‘Аджляна, передавшего от Сувайда ибн Вахба, передавшего от одного мужчины из числа сыновей сподвижников Пророка ﷺ передавшего от своего отца, который сказал: «Посланник Аллаха ﷺ сказал…», (и он передал) похожий (хадис, в котором) он сказал: «… того Аллах наполнит безопасностью и верой». Он не упомянул рассказ «Аллах призовёт его …», но добавил: «… а того, кто отказался одеться в красивую одежду, несмотря на возможность сделать это…».Бишр сказал: Я думаю, что он сказал: «… из скромности, Аллах оденет в одеяние благородства и чести. На того же, кто женил (или выдал замуж свою дочь) ради Всевышнего Аллаха, Аллах наденет корону владычества»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
 
 ## Turkish
 
+Nebi (s.a.v.)'in sahabilerinden birinin) babasından da (Rasûlullah (s.a.v.)'in bir önceki 4777 hadisinin) aynısını söylediği rivayet edilmiştir. Ancak şu farkla ki: Bir önceki hadiste Hz. Nebi\*in "onu bütün yaratıkların huzurunda çağıracaktır" dediği rivayet edilmişken, sözü geçen râvi burada (Hz. Nebi'in): "Allah onu güven duygusu ve imanla doldurur" buyurduğunu (rivayet etmiş fakat); "Allah'ın onu çağıracağı" olayını rivayet etmemiştir. (Buna karşılık Hz. Nebi'in şöyle buyurduğunu da) ilave etmiştir: "Kimde giymeye gücü yettiği halde güzel bir elbiseyi giymeyi terk ederse (Allah kıyamet gününde bütün yaratıkların huzurunda onu çağıracak..) Bişr de (şöyle) dedi: "Öyle zannediyorum ki İbn Mansûr (bu hadisi bana şöyle) rivayet etti: (Her kim de giymeye gücü yettiği halde) alçak gönüllülükten dolayı (onu giymeyi terk ederse) Allah ona (kıyamet günü keramet elbisesi giydirecektir.) Kim de (evlenmeye muhtaç olan birini) Allah için evlendirirse padişahlık elbisesi giydirecektir
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nebi (s.a.v.)'in sahabilerinden birinin) babasından da (Rasûlullah (s.a.v.)'in bir önceki 4777 hadisinin) aynısını söylediği rivayet edilmiştir. Ancak şu farkla ki: Bir önceki hadiste Hz. Nebi*in "onu bütün yaratıkların huzurunda çağıracaktır" dediği rivayet edilmişken, sözü geçen râvi burada (Hz. Nebi'in): "Allah onu güven duygusu ve imanla doldurur" buyurduğunu (rivayet etmiş fakat); "Allah'ın onu çağıracağı" olayını rivayet etmemiştir. (Buna karşılık Hz. Nebi'in şöyle buyurduğunu da) ilave etmiştir: "Kimde giymeye gücü yettiği halde güzel bir elbiseyi giymeyi terk ederse (Allah kıyamet gününde bütün yaratıkların huzurunda onu çağıracak..) Bişr de (şöyle) dedi: "Öyle zannediyorum ki İbn Mansûr (bu hadisi bana şöyle) rivayet etti: (Her kim de giymeye gücü yettiği halde) alçak gönüllülükten dolayı (onu giymeyi terk ederse) Allah ona (kıyamet günü keramet elbisesi giydirecektir.) Kim de (evlenmeye muhtaç olan birini) Allah için evlendirirse padişahlık elbisesi giydirecektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبی اکرم صلی اللہ علیہ وسلم کے اصحاب کے فرزندوں میں سے ایک شخص اپنے والد سے روایت کرتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اسی طرح فرمایا، آپ نے فرمایا: اللہ اسے امن اور ایمان سے بھر دے گا اور اس میں یہ واقعہ مذکور نہیں کہ اللہ اسے بلائے گا، البتہ اتنا اضافہ ہے، اور جو خوب ( تواضع و فروتنی میں ) صورتی کا لباس پہننا ترک کر دے، حالانکہ وہ اس کی قدرت رکھتا ہو، تو اللہ تعالیٰ اسے عزت کا جوڑا پہنائے گا، اور جو اللہ کی خاطر شادی کرائے گا ۱؎ تو اللہ اسے بادشاہت کا تاج پہنائے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4778</td></tr><tr><td>Arabic No</td><td>4778</td></tr><tr><td>Reference</td><td>Book 43 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4778 |
+| Arabic No | 4778 |
+| Reference | Book 43 Hadith 6 |

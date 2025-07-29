@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا الْمُلاَئِيُّ، حَدَّثَنَا سُفْيَانُ، بِهَذَا الإِسْنَادِ وَزَادَ وَلَمْ أَسْمَعْ أَحَدًا غَيْرَهُ يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا اسحاق بن ابراهيم، حدثنا الملايي، حدثنا سفيان، بهذا الاسناد وزاد ولم اسمع احدا غيره يقول قال رسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবনু ইবরাহীম (রহঃ) ..... সুফইয়ান (রহঃ) হতে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। তবে এতে এ কথা বর্ধিত বর্ণিত আছে যে, রাবী বলেন, সুফইয়ান ছাড়া অপর কাউকে আমি এ কথা বলতে শুনিনি যে, "রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন"। (ইসলামিক ফাউন্ডেশন ৭২০৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sufyan reported this hadith with the same chain of transmitters and he made this addition:" I did not hear anyone saying besides him that it was Allah's Messenger (ﷺ) who had said so
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## French
 
+Rapporté par Sufyan : Ce hadith a été rapporté avec la même chaîne de transmetteurs, avec cette précision : « Je n’ai entendu personne d’autre dire que c’est le Messager d’Allah ﷺ qui a dit cela. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-48) Bize ishak b. ibrahim de rivayet etti. (Dediki): Bize Mülâî rivayet etti. (Dediki): Bize Süfyân bu isnadla rivayet etti ve: «Ondan başka hiç bir kimseyi Resulullah (Sallallahu Aleyhi ve Sellem) buyurdu derken, işitmedim...» cümlesini ziyâde etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ملائی نے کہا : ہمیں سفیان نے اسی سند کے ساتھ حدیث کی ، اور مزید کہا : اور میں ( سلمہ بن کُہیل ) نے ( اس حدیث میں ) ان کے سواکسی کو ( صراحت سے ) یہ کہتے ہوئے نہیں سنا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7478</td></tr><tr><td>Arabic No</td><td>2987.02</td></tr><tr><td>Reference</td><td>Book 55 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7478 |
+| Arabic No | 2987.02 |
+| Reference | Book 55 Hadith 61 |

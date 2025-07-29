@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، قَالَ كَتَبَ إِلَىَّ يَعْلَى بْنُ حَكِيمٍ أَنِّي سَمِعْتُ سُلَيْمَانَ بْنَ يَسَارٍ، بِمَعْنَى إِسْنَادِ عُبَيْدِ اللَّهِ وَحَدِيثِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
+
 حدثنا محمد بن عبيد، حدثنا حماد بن زيد، عن ايوب، قال كتب الى يعلى بن حكيم اني سمعت سليمان بن يسار، بمعنى اسناد عبيد الله وحديثه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আইয়ূব (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইয়া‘লা ইবনু হাকীম (রহঃ) আমাকে লিখে পাঠালেন যে, আমি (ইয়া‘লা) সুলায়মান ইবনু ইয়াসারের নিকট উবাইদুল্লাহর সামনে বর্ণিত হাদীসের অনুরূপ হাদীস শুনেছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ayyub said:Ya'la b. Hakim wrote to me: I heard Sulaiman b. Yasar narrating the tradition to the same effect as narrated by 'Ubaid Allah and through the same chain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
+
+## French
+
+Ayyub a dit : Ya’la b. Hakim m’a écrit : « J’ai entendu Sulaiman b. Yasar rapporter le même hadith que celui transmis par ‘Ubaid Allah et par la même chaîne. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 От Сулеймана ибн Ясара передаётся похожий хадис с похожим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed b. Ubeyd haber verdi, bize Eyyub'dan Hammâd b. Zeyd haber verdi. Eyyub şöyle dedi: "Ya'lâ b. Hakîm: Süleyman b. Yesâr'dan işittim (diyerek) Ubeydullah'ın, mana olarak isnadını ve hadisini bana yazdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایوب کہتے ہیں: یعلیٰ بن حکیم نے مجھے لکھا کہ میں نے سلیمان بن یسار سے عبیداللہ کی سند اور ان کی حدیث کے ہم معنی حدیث سنی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1548)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3396</td></tr><tr><td>Arabic No</td><td>3396</td></tr><tr><td>Reference</td><td>Book 23 Hadith 71</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1548) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3396 |
+| Arabic No | 3396 |
+| Reference | Book 23 Hadith 71 |

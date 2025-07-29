@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ، قَالَ أَنْبَأَنَا عَمْرُو بْنُ مُحَمَّدٍ، قَالَ أَنْبَأَنَا ابْنُ أَبِي رَوَّادٍ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَلْبَسُ النِّعَالَ السِّبْتِيَّةَ وَيُصَفِّرُ لِحْيَتَهُ بِالْوَرْسِ وَالزَّعْفَرَانِ ‏.‏ وَكَانَ ابْنُ عُمَرَ يَفْعَلُ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 48 Hadith 205</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |
+
 اخبرنا عبدة بن عبد الرحيم، قال انبانا عمرو بن محمد، قال انبانا ابن ابي رواد، عن نافع، عن ابن عمر، قال كان النبي صلى الله عليه وسلم يلبس النعال السبتية ويصفر لحيته بالورس والزعفران . وكان ابن عمر يفعل ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 48 Hadith 205</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদা ইবন আব্দুর রহীম (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চামড়ার জুতা পরতেন এবং ওয়ারস (ঘাস) ও যা'ফরান দ্বারা তাঁর দাড়ি রাঙাতেন। আর ইবন উমর (রাঃ)-ও এরূপ করতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 48 Hadith 205</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |
 
 ## English
 
+It was narrated that Ibn 'Umar said:"The Prophet \[SAW\] used to wear Sibtiyyah sandals and dye his beard yellow with Wars and saffron." And Ibn 'Umar used to do that
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Ibn 'Umar said:"The Prophet [SAW] used to wear Sibtiyyah sandals and dye his beard yellow with Wars and saffron." And Ibn 'Umar used to do that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 48 Hadith 205</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Prophète ﷺ portait des sandales Sibtiyyah et teignait sa barbe en jaune avec du Wars et du safran. Ibn 'Umar faisait de même
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Abdah bin Abdurrahim\] ia berkata; telah memberitakan kepada kami \[Amru bin Muhammad\] ia berkata; telah memberitakan kepada kami \[Ibnu Abu Rawwad\] dari \[Nafi'\] dari \[Ibnu Umar\] ia berkata, "Nabi shallallahu 'alaihi wasallam memakai sandal As Sibtiyyah (yang terbuat dari kulit yang disamak) dan memberi warna kuning pada janggutnya dengan waras (semacam tumbuhan yang berwarna kuning dan berbau harum) dan Za'farat." Dan Ibnu Umar selalu melakukan hal itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Abdah bin Abdurrahim] ia berkata; telah memberitakan kepada kami [Amru bin Muhammad] ia berkata; telah memberitakan kepada kami [Ibnu Abu Rawwad] dari [Nafi'] dari [Ibnu Umar] ia berkata, "Nabi shallallahu 'alaihi wasallam memakai sandal As Sibtiyyah (yang terbuat dari kulit yang disamak) dan memberi warna kuning pada janggutnya dengan waras (semacam tumbuhan yang berwarna kuning dan berbau harum) dan Za'farat." Dan Ibnu Umar selalu melakukan hal itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 48 Hadith 205</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 48 Hadith 205</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5244</td></tr><tr><td>Arabic No</td><td>5244</td></tr><tr><td>Reference</td><td>Book 48 Hadith 205</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5244 |
+| Arabic No | 5244 |
+| Reference | Book 48 Hadith 205 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ الْمُصَفَّى، حَدَّثَنَا بَقِيَّةُ، حَدَّثَنَا الزُّبَيْدِيُّ، عَنْ نَافِعٍ، بِإِسْنَادِ أَيُّوبَ وَمَعْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
+
 حدثنا ابن المصفى، حدثنا بقية، حدثنا الزبيدي، عن نافع، باسناد ايوب ومعناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । নাফি‘ (রহঃ) সূত্রে আইয়ূবের সনদে অনুরূপ অর্থের হাদীস বর্ণিত। আমি এটি সহীহ এবং যঈফেও পাইনি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Nafi’ to the same effect through the chain of narrators as mentioned in Ayyub
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
+
+## French
+
+Le même enseignement a aussi été transmis par Nafi’ avec la chaîne de rapporteurs mentionnée par Ayyub
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 От Нафи‘ передаётся хадис с тем же иснадом и смыслом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer'den (yine Eyyub) vasıtasıyla (bir önceki 3738. hadis'in) bir de manası (rivayet olunmuştur). İzah, 3742 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی نافع سے ایوب کی روایت جیسی حدیث مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1429)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3739</td></tr><tr><td>Arabic No</td><td>3739</td></tr><tr><td>Reference</td><td>Book 28 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1429) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3739 |
+| Arabic No | 3739 |
+| Reference | Book 28 Hadith 4 |

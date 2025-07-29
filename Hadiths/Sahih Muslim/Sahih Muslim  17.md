@@ -18,78 +18,76 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## French
 
+Rapporté par Abd Allah ibn Amr ibn al-‘As رضي الله عنه : « Il y a dans la mer des diables enchaînés par Sulaymān, et ils sont sur le point de sortir. Ensuite, ils réciteront un Coran aux gens. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Амир ибн ‘Абада сказал: «‘Абдуллах (ибн Мас‘уд) сказал: «Поистине, шайтан принимает образ человека, приходит к людям и рассказывает им лживые рассказы. Когда же они расходятся, один человек из их числа говорит: “Я слушал человека, лицо которого знаю, но не знаю его имени”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Ebû Saîd el-Eşecc dahi rivâyet etti. ki: Bize Vekî' rivâyet etti. ki: Bize A'meş, Müseyyeb b. Râfi'den o da Âmir b. Abede'den naklen rivâyet etti. Âmir Şöyle dedi: dedi ki: şeytan insan kılığına girerek cemâate gelir de onlara yalandan hadîs söyler. Az sonra o cemâat dağılırlar. Onlardan bazısı: Bir adam dinledim; yüzünü tanıyorum ama adının ne olduğunu bilmiyorum; hadîs söylüyordu; der.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید اشج ‘ وکیع ‘ اعمش ‘ مسیب بن رافع ‘ عامر بن عبدہ سے روایت ہے ، کہا : حضرت عبد اللہ بن مسعود ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے فرمایا : بلاشبہ شیطان کسی آدمی کی شکل اختیار کرتا ہے ، پھر لوگوں کے پاس آتا ہے اور انہیں جھوٹ ( پر مبنی ) کوئی حدیث سناتا ہے ، پھر وہ بکھر جاتے ہیں ، ان میں سے کوئی آدمی کہتا ہے : میں نے ایک آدمی سے ( حدیث ) سنی ہے ، میں اس کا چہرہ تو پہنچانتا ہوں پر اس کا نام نہیں جانتا ، وہ حدیث سنا رہا تھا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>17</td></tr><tr><td>Reference</td><td>Book 0 Hadith 17</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 17 |
+| Reference | Book 0 Hadith 17 |

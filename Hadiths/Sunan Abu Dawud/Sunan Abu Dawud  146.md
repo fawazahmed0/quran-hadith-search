@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ ثَوْرٍ، عَنْ رَاشِدِ بْنِ سَعْدٍ، عَنْ ثَوْبَانَ، قَالَ بَعَثَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَرِيَّةً فَأَصَابَهُمُ الْبَرْدُ فَلَمَّا قَدِمُوا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم أَمَرَهُمْ أَنْ يَمْسَحُوا عَلَى الْعَصَائِبِ وَالتَّسَاخِينِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
+
 حدثنا احمد بن محمد بن حنبل، حدثنا يحيى بن سعيد، عن ثور، عن راشد بن سعد، عن ثوبان، قال بعث رسول الله صلى الله عليه وسلم سرية فاصابهم البرد فلما قدموا على رسول الله صلى الله عليه وسلم امرهم ان يمسحوا على العصايب والتساخين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
 
 ## Bengali
 
+। সাওবান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি ছোট সেনাদল প্রেরণ করলেন। তারা (যাত্রা পথে) ঠান্ডায় আক্রান্ত হয়। অতঃপর তারা যখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ফিরে আসলেন তখন তিনি তাদেরকে পাগড়ী ও মোজার উপর মাসাহ্ করার নির্দেশ দিলেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাওবান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম একটি ছোট সেনাদল প্রেরণ করলেন। তারা (যাত্রা পথে) ঠান্ডায় আক্রান্ত হয়। অতঃপর তারা যখন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট ফিরে আসলেন তখন তিনি তাদেরকে পাগড়ী ও মোজার উপর মাসাহ্ করার নির্দেশ দিলেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Thawban: The Messenger of Allah (ﷺ) sent out an expedition. They were affected by cold. When they returned to the Messenger of Allah (ﷺ), he commanded them to wipe over turbans and stockings
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
+
+## French
+
+Rapporté par Thawban رضي الله عنه : Le Messager d’Allah ﷺ a envoyé une expédition. Ils ont souffert du froid. À leur retour, il leur a ordonné d’essuyer par-dessus leurs turbans et leurs chaussettes
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Muhammad bin Hanbal\] telah menceritakan kepada kami \[Yahya bin Sa'id\] dari \[Tsaur\] dari \[Rasyid bin Sa'd\] dari \[Tsauban\] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengutus satu pasukan (untuk berperang tanpa diikuti beliau), lalu mereka diliputi cuaca dingin. Maka setelah mereka datang menghadap Rasulullah shallallahu 'alaihi wasallam, beliau memerintahkan supaya mereka mengusap sorban dan khuf mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] telah menceritakan kepada kami [Yahya bin Sa'id] dari [Tsaur] dari [Rasyid bin Sa'd] dari [Tsauban] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah mengutus satu pasukan (untuk berperang tanpa diikuti beliau), lalu mereka diliputi cuaca dingin. Maka setelah mereka datang menghadap Rasulullah shallallahu 'alaihi wasallam, beliau memerintahkan supaya mereka mengusap sorban dan khuf mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Саубан сказал: «Как-то Посланник Аллаха ﷺ отправил (в поход) отряд, которого настиг холод, и когда они возвратились к Посланнику Аллаха ﷺ он велел им обтирать чалмы и тасахины
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sevban (r.a.)'den, şöyle demiştir: "Rasulullah (sallallahu aleyhi ve sellem) (bir defa gece baskını için) Seriyye göndermişti. soğuğa tutuldular. Rasulullah (sallallahu aleyhi ve sellem)'m yanına döndükleri zaman onlara sarıklarının ve ayakkabılarının üzerlerine meshetmelerini emretti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثوبان رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک سریہ ( چھوٹا لشکر ) بھیجا تو اسے ٹھنڈ لگ گئی، جب وہ لوگ رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے تو رسول اللہ صلی اللہ علیہ وسلم نے انہیں ( وضو کرتے وقت ) عماموں ( پگڑیوں ) اور موزوں پر مسح کرنے کا حکم دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>146</td></tr><tr><td>Arabic No</td><td>146</td></tr><tr><td>Reference</td><td>Book 1 Hadith 146</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 146 |
+| Arabic No | 146 |
+| Reference | Book 1 Hadith 146 |

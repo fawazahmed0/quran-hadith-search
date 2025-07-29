@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَلِيُّ بْنُ سَهْلٍ الرَّمْلِيُّ، حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أُخْبِرْتُ عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ عَاصِمِ بْنِ ضَمْرَةَ، عَنْ عَلِيٍّ، رضى الله عنه قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ تَكْشِفْ فَخِذَكَ وَلاَ تَنْظُرْ إِلَى فَخِذِ حَىٍّ وَلاَ مَيِّتٍ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا الْحَدِيثُ فِيهِ نَكَارَةٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
+
 حدثنا علي بن سهل الرملي، حدثنا حجاج، عن ابن جريج، قال اخبرت عن حبيب بن ابي ثابت، عن عاصم بن ضمرة، عن علي، رضى الله عنه قال قال رسول الله صلى الله عليه وسلم " لا تكشف فخذك ولا تنظر الى فخذ حى ولا ميت " . قال ابو داود هذا الحديث فيه نكارة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
 
 ## Bengali
 
+। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা উরুদেশ অনাবৃত করো না এবং জীবিত ও মৃত লোকের উরুর দিকে তাকিও না।\[1\] খুবই দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা উরুদেশ অনাবৃত করো না এবং জীবিত ও মৃত লোকের উরুর দিকে তাকিও না।[1] খুবই দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: Do not uncover you thigh, and do not look at the thigh of the living and the dead. Abu Dawud said: This tradition disagrees with the generally reported traditions (nakarah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
+
+## French
+
+Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Prophète ﷺ a dit : « Ne découvre pas ta cuisse, et ne regarde pas la cuisse d’une personne vivante ou morte. » Abu Dawud a dit : Cette tradition diffère des traditions généralement rapportées (nakarah)
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ali bin Sahl Ar Ramli\] telah menceritakan kepada kami \[Hajjaj\] dari \[Ibnu Juraij\] ia berkata; aku mendapat kabar dari \[Habib bin Abu Tsabit\] dari \['Ashim bin Dlamrah\] dari \[Ali\] radliallahu 'anhu, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah engkau buka pahamu, dan jangan engkau melihat kepada paha orang yang hidup maupun yang mati!" Abu Daud berkata, "Dalam hadits ini terdapat sesuatu yang diingkari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Sahl Ar Ramli] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] ia berkata; aku mendapat kabar dari [Habib bin Abu Tsabit] dari ['Ashim bin Dlamrah] dari [Ali] radliallahu 'anhu, ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah engkau buka pahamu, dan jangan engkau melihat kepada paha orang yang hidup maupun yang mati!" Abu Daud berkata, "Dalam hadits ini terdapat sesuatu yang diingkari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Али, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не открывай своё бедро и не смотри на бёдра как живого, так и мёртвого». Абу Дауд сказал, что этот хадис отвергаемый
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ali (r.a.)!dan rivayet edildiğine göre; Resulullah (s.a.v.): "Uyluğunu açma, dirinin veya ölünün uyluğuna bakma" buyurmuştur Ebû Dâvûd dedi ki: Bu hadiste münkerlik vardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اپنی ران نہ کھولو اور کسی زندہ یا مردہ کی ران کو نہ دیکھو ۔ ابوداؤد کہتے ہیں: اس حدیث میں نکارت ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4015</td></tr><tr><td>Arabic No</td><td>4015</td></tr><tr><td>Reference</td><td>Book 33 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4015 |
+| Arabic No | 4015 |
+| Reference | Book 33 Hadith 7 |

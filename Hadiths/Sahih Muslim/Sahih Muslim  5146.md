@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ جَابِرِ بْنِ عَبْدِ، اللَّهِ الأَنْصَارِيِّ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ نَهَى أَنْ يُنْبَذَ التَّمْرُ وَالزَّبِيبُ جَمِيعًا وَنَهَى أَنْ يُنْبَذَ الرُّطَبُ وَالْبُسْرُ جَمِيعًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا قتيبة بن سعيد، حدثنا ليث، عن عطاء بن ابي رباح، عن جابر بن عبد، الله الانصاري عن رسول الله صلى الله عليه وسلم انه نهى ان ينبذ التمر والزبيب جميعا ونهى ان ينبذ الرطب والبسر جميعا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... জাবির ইবনু আবদুল্লাহ আনসারী (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শুকনো খেজুর ও কিসমিস একত্র করে নবীয তৈরি করতে নিষেধ করেছেন। তিনি আরও নিষেধ করেছেন কাঁচা-পাকা খেজুর একত্র মিশিয়ে নবীয বানানো থেকে। (ইসলামিক ফাউন্ডেশন ৪৯৮২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. 'Abdullah al-Ansari reported that Allah's Messenger (ﷺ) prohibited the (preparation of) Nabidh by mixing together fresh dates and grapes, and he prohibited the preparation of Nabidh by mixing the fresh dates and unripe dates together
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## French
 
+Rapporté par Jabir b. 'Abdullah al-Ansari : Le Messager d’Allah ﷺ a interdit de préparer le Nabidh en mélangeant des dattes fraîches et des raisins, et il a aussi interdit de préparer le Nabidh en mélangeant des dattes fraîches avec des dattes pas mûres
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Laits\] dari \['Atha bin Abu Rabah\] dari \[Jabir bin Abdullah Al Anshari\] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau melarang membuat perasan kurma dengan anggur menjadi satu, dan melarang membuat perasan kurma segar (matang) dengan kurma muda menjadi satu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Laits] dari ['Atha bin Abu Rabah] dari [Jabir bin Abdullah Al Anshari] dari Rasulullah shallallahu 'alaihi wasallam, bahwa beliau melarang membuat perasan kurma dengan anggur menjadi satu, dan melarang membuat perasan kurma segar (matang) dengan kurma muda menjadi satu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Leys Ata' b. Ebî Rebah'tan, o da Câbir b. Abdillah El-Ensârî'deıı, o da Resûlullah (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti ki Kuru hurma ile kuru üzümden beraberce nebiz yapılmasını ve olgun hurma ile koruk hurmanın beraberce nebiz yapılmasını yasak etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 لیث نے عطاء ابن ابی رباح سے ، انھوں نے حضرت جابر بن عبداللہ انصاری رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نےرسول اللہ صلی اللہ علیہ وسلم سےروایت کی کہ آپ صلی اللہ علیہ وسلم نےکھجوروں اور کشمش کو ملا کر نبیذ بنانے سے منع فرمایا اورتازہ کھجوروں اور کچی کھجوروں کو ملا کر نبیذ بنانے سے منع فرمایا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5146</td></tr><tr><td>Arabic No</td><td>1986.02</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5146 |
+| Arabic No | 1986.02 |
+| Reference | Book 36 Hadith 20 |

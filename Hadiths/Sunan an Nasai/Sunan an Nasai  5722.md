@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ سُفْيَانَ، عَنْ يَعْلَى بْنِ عَطَاءٍ، قَالَ سَمِعْتُ سَعِيدَ بْنَ الْمُسَيَّبِ، وَسَأَلَهُ، أَعْرَابِيٌّ عَنْ شَرَابٍ، يُطْبَخُ عَلَى النِّصْفِ فَقَالَ لاَ حَتَّى يَذْهَبَ ثُلُثَاهُ وَيَبْقَى الثُّلُثُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 51 Hadith 184</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن سفيان، عن يعلى بن عطاء، قال سمعت سعيد بن المسيب، وساله، اعرابي عن شراب، يطبخ على النصف فقال لا حتى يذهب ثلثاه ويبقى الثلث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 51 Hadith 184</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... সাঈদ ইবন মুসায়্যিব (রহঃ) থেকে বর্ণিত। যে দ্রাক্ষারস জ্বালানাের পর একতৃতীয়াংশ অবশিষ্ট থাকে তা পান করাতে পাপ নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 51 Hadith 184</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ya'la bin 'Ata' said:"I heard Sa'eed bin Al-Musayyab say, when a Bedouin asked him about a drink that had been cooked and reduced by half: 'No, not until two-third has gone and one-third is left
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 51 Hadith 184</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |
+
+## French
+
+Rapporté par Ya'la bin 'Ata' : "J'ai entendu Sa'eed bin Al-Musayyab dire, lorsqu'un bédouin lui a demandé au sujet d'une boisson qui avait été cuite et réduite de moitié : 'Non, pas avant que deux tiers soient partis et qu'il ne reste qu'un tiers
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah memberitakan kepada kami \[Abdullah\] dari \[Sufyan\] dari \[Ya'la bin Atha\] ia berkata, "Aku mendengar \[Sa'id Ibnul Musayyab\] ditanya oleh seorang arab dusun tentang perasan yang dimasak hingga hilang setengahnya. Lalu ia menjawab, "Tidak boleh (diminum), hingga hilang dua pertiga dan tersisa sepertiganya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah memberitakan kepada kami [Abdullah] dari [Sufyan] dari [Ya'la bin Atha] ia berkata, "Aku mendengar [Sa'id Ibnul Musayyab] ditanya oleh seorang arab dusun tentang perasan yang dimasak hingga hilang setengahnya. Lalu ia menjawab, "Tidak boleh (diminum), hingga hilang dua pertiga dan tersisa sepertiganya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 51 Hadith 184</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 51 Hadith 184</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5722</td></tr><tr><td>Arabic No</td><td>5722</td></tr><tr><td>Reference</td><td>Book 51 Hadith 184</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5722 |
+| Arabic No | 5722 |
+| Reference | Book 51 Hadith 184 |

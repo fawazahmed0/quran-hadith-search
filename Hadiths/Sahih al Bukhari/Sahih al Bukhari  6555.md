@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ أَبِيهِ، عَنْ سَهْلٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏إِنَّ أَهْلَ الْجَنَّةِ لَيَتَرَاءَوْنَ الْغُرَفَ فِي الْجَنَّةِ كَمَا تَتَرَاءَوْنَ الْكَوْكَبَ فِي السَّمَاءِ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الله بن مسلمة، حدثنا عبد العزيز، عن ابيه، عن سهل، عن النبي صلى الله عليه وسلم قال "ان اهل الجنة ليتراءون الغرف في الجنة كما تتراءون الكوكب في السماء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সাহল (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেনঃ জান্নাতীরা জান্নাতে বালাখানাগুলো দেখতে পাবে, যেমন তোমরা আকাশে তারকাগুলো দেখতে পাও। (আধুনিক প্রকাশনী- ৬১০২ ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sahl:The Prophet (ﷺ) said, "The people of Paradise will see the Ghuraf (special abodes) in Paradise as you see a star in the sky
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
+
+## French
+
+Rapporté par Sahl : Le Prophète (ﷺ) a dit : « Les gens du Paradis verront les Ghuraf (des demeures spéciales) au Paradis comme vous voyez une étoile dans le ciel. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Сахля, что Пророк ﷺ сказал: «Поистине, обитатели Рая обязательно станут смотреть в Раю на покои (находящиеся над ними) подобно тому, как вы смотрите на планету (находящуюся) в небе»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 நபி (ஸல் அவர்கள் கூறினார்கள்: சொர்க்கவாசி(களில் கீழ்த்தட்டில் இருப்பவர்)கள் (மேல்) அறை(களில் உள்ளவர்)களை, வானில் நீங்கள் நட்சத்திரங்களைப் பார்ப்பதைப் போன்று (ஆர்வத்துடன்) பார்ப்பார்கள். இதை சஹ்ல் பின் சஅத் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdulaziz'in babası vasıtasıyla Sehl'den nakline göre Resulullah Sallallahu Aleyhi ve Sellem şöyle demiştir: "Cennet ehli cennette kendilerinden yükseklerdeki köşkleri (mesafe uzaklığından dolayı) güçlükle görebilirler. Sizin gökyüzündeki yıldızı güçlükle gördüğünüz gibi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عبداللہ بن مسلمہ نے بیان کیا، کہا ہم سے عبدالعزیز بن ابی حازم نے بیان کیا، ان سے ان کے والد حازم نے بیان کیا، ان سے سہل بن سعد رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”جنت والے ( اپنے اوپر کے درجوں کے ) بالاخانوں کو اس طرح دیکھیں گے جیسے تم آسمان میں ستاروں کو دیکھتے ہو۔“
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6555</td></tr><tr><td>Arabic No</td><td>6555</td></tr><tr><td>Reference</td><td>Book 81 Hadith 144</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6555 |
+| Arabic No | 6555 |
+| Reference | Book 81 Hadith 144 |

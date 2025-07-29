@@ -14,62 +14,104 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي يَحْيَى، عَنْ مَالِكٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، أَنَّ عَبْدَ اللَّهِ بْنَ الزُّبَيْرِ، أَقَادَ مِنَ الْمُنَقَّلَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |
+
 وحدثني يحيى، عن مالك، عن ربيعة بن ابي عبد الرحمن، ان عبد الله بن الزبير، اقاد من المنقلة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik from Rabia ibn Abi Abd ar-Rahman that Abdullah ibn az-Zubayr allowed retaliation for a head wound which splintered the bone
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku Yahya dari Malik dari \[Rabi'ah bin Abu Abdurrahman\] bahwa \[Abdullah bin Az Zubair\] membalas luka yang menyebabkan pecahnya tulang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku Yahya dari Malik dari [Rabi'ah bin Abu Abdurrahman] bahwa [Abdullah bin Az Zubair] membalas luka yang menyebabkan pecahnya tulang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن زبیر رضی اللہ تعالیٰ عنہ نے قصاص لیا منقلہ کا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1570</td></tr><tr><td>Arabic No</td><td>1570</td></tr><tr><td>Reference</td><td>Book 43 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1570 |
+| Arabic No | 1570 |
+| Reference | Book 43 Hadith 19 |

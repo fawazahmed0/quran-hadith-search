@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَبِي الْمُتَوَكِّلِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا أَتَى أَحَدُكُمْ أَهْلَهُ ثُمَّ بَدَا لَهُ أَنْ يُعَاوِدَ فَلْيَتَوَضَّأْ بَيْنَهُمَا وُضُوءًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
+
 حدثنا عمرو بن عون، حدثنا حفص بن غياث، عن عاصم الاحول، عن ابي المتوكل، عن ابي سعيد الخدري، عن النبي صلى الله عليه وسلم قال " اذا اتى احدكم اهله ثم بدا له ان يعاود فليتوضا بينهما وضوءا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ একবার সহবাস করার পর পুনরায় সহবাসের ইচ্ছা করলে সে যেন অযু করে নেয়।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ একবার সহবাস করার পর পুনরায় সহবাসের ইচ্ছা করলে সে যেন অযু করে নেয়।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu sa’id al-Khudri reported :The Prophet (May peace be upon him) said : When any of you has intercourse with his wife and desire to repeat it, he should perform ablution between them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Prophète ﷺ a dit : « Quand l’un de vous a un rapport avec son épouse et souhaite recommencer, il doit faire les ablutions entre les deux. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Amru bin 'Aun\] telah menceritakan kepada kami \[Hafzh bin Ghiyats\] dari \['Ashim Al Ahwal\] dari \[Abu Al-Mutawakkil\] dari \[Abu Sa'id Al-Khudri\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila salah seorang di antara kalian berhubungan dengan istrinya, kemudian dia ingin mengulangi kembali, maka hendaklah dia berwudhu di antara keduanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amru bin 'Aun] telah menceritakan kepada kami [Hafzh bin Ghiyats] dari ['Ashim Al Ahwal] dari [Abu Al-Mutawakkil] dari [Abu Sa'id Al-Khudri] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Apabila salah seorang di antara kalian berhubungan dengan istrinya, kemudian dia ingin mengulangi kembali, maka hendaklah dia berwudhu di antara keduanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Са‘ида аль-Худри о том, что Пророк ﷺ сказал: «Если один из вас совокупится со своей женой, а затем захочет повторить, пусть совершит омовение /вудуъ/ между ними»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Sa'id el-Hudri (r.a.) Resulullah (sallallahu aleyhi ve sellem)'in şöyle buyurduğunu nakletmiştir; "Sizden biri hanımına yaklaştığında, tekrar etmeyi isterse ikisi arasında (sadece) abdest alsın." Diğer tahric: Müslim, hayz; Tirmizî, tahare; İbn Mace, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی شخص اپنی بیوی کے پاس جائے ۱؎ پھر دوبارہ صحبت کرنا چاہے، تو ان دونوں کے درمیان وضو کرے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (308)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>220</td></tr><tr><td>Arabic No</td><td>220</td></tr><tr><td>Reference</td><td>Book 1 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (308) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 220 |
+| Arabic No | 220 |
+| Reference | Book 1 Hadith 220 |

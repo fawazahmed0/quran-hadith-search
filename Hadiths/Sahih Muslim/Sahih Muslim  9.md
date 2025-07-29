@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## French
 
+Rapporté par Malik : « Sache qu’un homme qui rapporte tout ce qu’il entend n’est pas à l’abri de l’erreur, et il ne pourra jamais être un imam tant qu’il continue à tout rapporter. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу ‘Усман ан-Нахди сказал: «‘Умар ибн аль-Хаттаб, да будет доволен им Всевышний Аллах, сказал: “Достаточно для человека лжи, если он рассказывает все, что услышит”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یحییٰ بن یحییٰ ‘ ہشیم ‘ سلیمان تیمی ‘ ابو عثمان نہدی سے روایت ہے ، کہا : عمر بن خطاب ‌رضی ‌اللہ ‌عنہ ‌ ‌ نے فرمایا : آدمی کے لیے جھوٹ سے اتنا کافی ہے ( جس کی بنا پر وہ جھوٹا قرار دیا جا سکتا ہے ) کہ وہ ہر سنی ہوئی بات بیان کر دے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>9</td></tr><tr><td>Reference</td><td>Book 0 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 9 |
+| Reference | Book 0 Hadith 9 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحُمَيْدِيُّ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرِو بْنِ دِينَارٍ، قَالَ سَأَلْنَا ابْنَ عُمَرَ ـ رضى الله عنهما ـ عَنْ رَجُلٍ، طَافَ بِالْبَيْتِ فِي عُمْرَةٍ، وَلَمْ يَطُفْ بَيْنَ الصَّفَا وَالْمَرْوَةِ، أَيَأْتِي امْرَأَتَهُ فَقَالَ قَدِمَ النَّبِيُّ صلى الله عليه وسلم فَطَافَ بِالْبَيْتِ سَبْعًا، وَصَلَّى خَلْفَ الْمَقَامِ رَكْعَتَيْنِ، وَطَافَ بَيْنَ الصَّفَا وَالْمَرْوَةِ سَبْعًا، وَقَدْ كَانَ لَكُمْ فِي رَسُولِ اللَّهِ أُسْوَةٌ حَسَنَةٌ‏.‏ قَالَ وَسَأَلْنَا جَابِرَ بْنَ عَبْدِ اللَّهِ ـ رضى الله عنهما ـ فَقَالَ لاَ يَقْرَبَنَّهَا حَتَّى يَطُوفَ بَيْنَ الصَّفَا وَالْمَرْوَةِ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا الحميدي، حدثنا سفيان، عن عمرو بن دينار، قال سالنا ابن عمر رضى الله عنهما عن رجل، طاف بالبيت في عمرة، ولم يطف بين الصفا والمروة، اياتي امراته فقال قدم النبي صلى الله عليه وسلم فطاف بالبيت سبعا، وصلى خلف المقام ركعتين، وطاف بين الصفا والمروة سبعا، وقد كان لكم في رسول الله اسوة حسنة. قال وسالنا جابر بن عبد الله رضى الله عنهما فقال لا يقربنها حتى يطوف بين الصفا والمروة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আমর ইবনু দ্বীনার (রহ.) হতে বর্ণিত, তিনি বলেন, ‘উমরাহ’র মাঝে বাইতুল্লাহর তাওয়াফের পর সাফা-মারওয়াহর তাওয়াফ না করে যে স্ত্রীর নিকট গমন করে, এমন ব্যক্তি সম্পর্কে আমরা ইবনু ‘উমার (রাঃ)-কে জিজ্ঞেস করায় তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মক্কায়) এসে বায়তুল্লাহ’র সাতবার তাওয়াফ করে মাকামে ইব্রাহীমের পাশে দু’রাক‘আত সালাত আদায় করেছেন। এরপর সাতবার সাফা-মারওয়ার মাঝে সা‘য়ী করেছেন। ‘‘আর তোমাদের জন্য উত্তম আদর্শ তো রয়েছে আল্লাহর রাসূলের মাঝেই’’- (আল-আহযাবঃ ২১)। (৯৯৫) (আধুনিক প্রকাশনীঃ ১৬৬৫. ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
 ## English
 
+Narrated 'Amr bin Dinar:We asked Ibn 'Umar whether a man who had performed the Tawaf of the Ka'ba but had not performed the Tawaf between As-Safa and Al-Marwa yet, was permitted to have sexual relation with his wife. He replied, "The Prophet (ﷺ) arrived (at Mecca) and circumambulated the Ka'ba seven times and then offered a two rak'at prayer behind Maqam-Ibrahim and then performed the going (Tawaf) between As-Safa and Al-Marwa (seven times) (and verily, in Allah's Messenger (ﷺ) you have a good example." And we asked Jabir bin 'Abdullah (the same question) and he replied, "He should not go near her till he has finished the going (Tawaf) between As-Safa and Al-Marwa
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Amr bin Dinar:We asked Ibn 'Umar whether a man who had performed the Tawaf of the Ka'ba but had not performed the Tawaf between As-Safa and Al-Marwa yet, was permitted to have sexual relation with his wife. He replied, "The Prophet (ﷺ) arrived (at Mecca) and circumambulated the Ka'ba seven times and then offered a two rak'at prayer behind Maqam-lbrahim and then performed the going (Tawaf) between As-Safa and Al-Marwa (seven times) (and verily, in Allah's Messenger (ﷺ) you have a good example." And we asked Jabir bin 'Abdullah (the same question) and he replied, "He should not go near her till he has finished the going (Tawaf) between As-Safa and Al-Marwa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
+
+## French
+
+Rapporté par 'Amr bin Dinar : Nous avons demandé à Ibn 'Umar si un homme qui avait fait le Tawaf autour de la Ka'ba mais n’avait pas encore fait le Tawaf entre As-Safa et Al-Marwa, avait le droit d’avoir des relations sexuelles avec sa femme. Il a répondu : Le Prophète (ﷺ) est arrivé (à La Mecque), a tourné autour de la Ka'ba sept fois, puis a prié deux rak'a derrière Maqam Ibrahim, puis a fait les allers-retours (Tawaf) entre As-Safa et Al-Marwa (sept fois). Et certes, dans le Messager d’Allah (ﷺ), vous avez un bon exemple. Nous avons posé la même question à Jabir bin 'Abdullah et il a répondu : Il ne doit pas s’approcher d’elle tant qu’il n’a pas terminé les allers-retours (Tawaf) entre As-Safa et Al-Marwa
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Humaidiy\] telah menceritakan kepada kami \[Sufyan\] dari \['Amru bin Dinar\] berkata: "Kami pernah bertanya kepada \[Ibnu'Umar radliallahu 'anhuma\] tentang seseorang yang melaksanakan thawaf di Ka'bah Baitullah dam 'ibadah 'umrahnya namun belum melaksanakan sa'iy antara bukit Shafaa dan Marwah, apakah dia boleh mendatangi (berhubungan dengan) isterinya?. Dia menjawab: "Nabi shallallahu 'alaihi wasallam pernah datang ke Baitullah untuk haji yang Beliau thawaf di Ka'bah Baitullah tujuh kali putaran kemudian shalat dua raka'at di belakang Maqam (Ibrahim) lalu melaksakan sa'iy antara bukit Shafaa dan Marwah tujuh kali. (Kemudian dia membaca QS Al Ahzab ayat 21 yang artinya): ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Dan kami pernah pula bertanya kepada \[Jabir bin 'Abdullah radliallahu 'anhu\] tentang hal ini. Maka dia berkata: "Janganlah orang itu mendekati isterinya hingga dia melaksanakan sa'iy antara bukit Shafaa dan Marwah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Humaidiy] telah menceritakan kepada kami [Sufyan] dari ['Amru bin Dinar] berkata: "Kami pernah bertanya kepada [Ibnu'Umar radliallahu 'anhuma] tentang seseorang yang melaksanakan thawaf di Ka'bah Baitullah dam 'ibadah 'umrahnya namun belum melaksanakan sa'iy antara bukit Shafaa dan Marwah, apakah dia boleh mendatangi (berhubungan dengan) isterinya?. Dia menjawab: "Nabi shallallahu 'alaihi wasallam pernah datang ke Baitullah untuk haji yang Beliau thawaf di Ka'bah Baitullah tujuh kali putaran kemudian shalat dua raka'at di belakang Maqam (Ibrahim) lalu melaksakan sa'iy antara bukit Shafaa dan Marwah tujuh kali. (Kemudian dia membaca QS Al Ahzab ayat 21 yang artinya): ("Sungguh bagi kalian ada suri tauladan yang baik pada diri Rasulullah"). Dan kami pernah pula bertanya kepada [Jabir bin 'Abdullah radliallahu 'anhu] tentang hal ini. Maka dia berkata: "Janganlah orang itu mendekati isterinya hingga dia melaksanakan sa'iy antara bukit Shafaa dan Marwah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 И мы спросили Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, и он сказал: «Пусть он ни за что не приближается к ней, пока не пробежит между (холмами) ас-Сафа и аль-Марва»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அம்ர் பின் தீனார் (ரஹ்) அவர்கள் கூறியதாவது: நாங்கள் இப்னு உமர் (ரலி) அவர்களிடம், “உம்ராவில் ஒருவர் இறையில்லம் கஅபாவை தவாஃப் செய்துவிட்டு, ஸஃபா-மர்வாவுக்கிடையே தவாஃப் செய்யாமலேயே தம் மனைவியிடம் (தாம்பத்திய உறவு கொள்ள) வரலாமா?” என்று கேட்டோம். அதற்கு அவர்கள், நபி (ஸல்) அவர்கள் (மக்கா) வந்ததும் இறையில்லம் கஅபாவை ஏழு முறை தவாஃப் செய்து விட்டு, மகாமு இப்ராஹீமில் இரண்டு ரக்அத்கள் தொழுதபின் ஸஃபா-மர்வா வுக்கிடையே ஏழு முறை ‘சயீ’ செய்தார்கள்; எனவே, நிச்சயமாக அல்லாஹ்வின் தூதரிடம் உங்களுக்கு அழகிய முன்மாதிரி உள்ளது!” எனக் கூறினார்கள். நாங்கள் ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்களிடம் இது பற்றிக் கேட்டோம். அதற்கு அவர்கள், “ஸஃபா-மர்வாவுக்கிடையே ‘சயீ’ செய்யாமல் ஒருவர் தம் மனைவியை நெருங்கக் கூடாது” எனக் கூறினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr İbn Dînar şöyle dedi: İbn Ömer'e şu soruyu sorduk: Umre'ye giren bir adam Kabe'yi tavaf ettiği halde Safa ve Merve arasında tavaf yapmasa hanımı ile cinsel ilişkide bulunabilir mi? İbn Ömer şöyle dedi: Nebi Sallallahu Aleyhi ve Sellem Mekke'ye geldi. Kabe'yi yedi kere tavaf etti, makam-ı İbrahim'in arkasında iki rekat namaz kıldı. Safa ile Merve arasında yedi tavaf yapü. "Şüphesiz ki Allah'ın Resulünde sizin için en güzel örnek vardır." (Bu son cümle bir ayettir. Ahzab)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے حمیدی نے بیان کیا، ان سے سفیان بن عیینہ نے بیان کیا، ان سے عمرو بن دینار نے کہا کہ ہم نے ابن عمر رضی اللہ عنہما سے ایک ایسے شخص کے بارے میں دریافت کیا جو عمرہ کے لیے بیت اللہ کا طواف تو کرتا ہے لیکن صفا اور مروہ کی سعی نہیں کرتا، کیا وہ ( صرف بیت اللہ کے طواف کے بعد ) اپنی بیوی سے ہمبستر ہو سکتا ہے؟ انہوں نے اس کا جواب یہ دیا کہ نبی کریم صلی اللہ علیہ وسلم ( مکہ ) تشریف لائے اور آپ صلی اللہ علیہ وسلم نے بیت اللہ کا سات چکروں کے ساتھ طواف کیا، پھر مقام ابراہیم علیہ السلام کے قریب دو رکعت نماز پڑھی، اس کے بعد صفا اور مروہ کی سات مرتبہ سعی کی ”اور رسول اللہ صلی اللہ علیہ وسلم کی زندگی تمہارے لیے بہترین نمونہ ہے۔“
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1794</td></tr><tr><td>Arabic No</td><td>1794</td></tr><tr><td>Reference</td><td>Book 26 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1794 |
+| Arabic No | 1794 |
+| Reference | Book 26 Hadith 19 |

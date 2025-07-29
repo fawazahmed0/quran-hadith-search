@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,138 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، عَنْ شُعْبَةَ، بِهَذَا الْحَدِيثِ قَالَ فَلَمَّا كَانَ قَرِيبًا مِنَ الْمَسْجِدِ قَالَ لِلأَنْصَارِ ‏ "‏ قُومُوا إِلَى سَيِّدِكُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
+
 حدثنا محمد بن بشار، حدثنا محمد بن جعفر، عن شعبة، بهذا الحديث قال فلما كان قريبا من المسجد قال للانصار " قوموا الى سيدكم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
 
 ## Bengali
 
+। শু‘বাহ (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। তিনি বলেন, যখন তিনি (সা‘দ) মসজিদের নিকট আসলেন তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারদের বললেনঃ তোমরা তোমাদের নেতার আগমনে দাঁড়াও।­\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। শু‘বাহ (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। তিনি বলেন, যখন তিনি (সা‘দ) মসজিদের নিকট আসলেন তখন নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আনসারদের বললেনঃ তোমরা তোমাদের নেতার আগমনে দাঁড়াও।­[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Shu’bah through a different chain of narrators. This version has :when he came near the mosque, he said to the Ansar; stand up showing respect to your chief
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Shu’bah avec une chaîne différente de rapporteurs. Cette version dit : Quand il s’est approché de la mosquée, il a dit aux Ansar : « Levez-vous pour montrer du respect à votre chef. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (bir önceki 5215. hadis,) Şu'be'den de (rivayet edilmiştir). Bu hadisi Şu'be şöyle rivayet etti: (Hz. Nebi) mescidin yakınında idi. Ensara (hitaben): "Haydi kalkınız efendinize" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی شعبہ سے یہی حدیث مروی ہے اس میں ہے: جب وہ مسجد سے قریب ہوئے تو آپ نے انصار سے فرمایا: اپنے سردار کی طرف بڑھو ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5216</td></tr><tr><td>Arabic No</td><td>5216</td></tr><tr><td>Reference</td><td>Book 43 Hadith 444</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5216 |
+| Arabic No | 5216 |
+| Reference | Book 43 Hadith 444 |

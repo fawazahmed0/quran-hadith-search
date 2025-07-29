@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو عَاصِمٍ الضَّحَّاكُ بْنُ مَخْلَدٍ، حَدَّثَنَا يَزِيدُ، عَنْ سَلَمَةَ بْنِ الأَكْوَعِ ـ رضى الله عنه ـ قَالَ غَزَوْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم سَبْعَ غَزَوَاتٍ، وَغَزَوْتُ مَعَ ابْنِ حَارِثَةَ اسْتَعْمَلَهُ عَلَيْنَا‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو عاصم الضحاك بن مخلد، حدثنا يزيد، عن سلمة بن الاكوع رضى الله عنه قال غزوت مع النبي صلى الله عليه وسلم سبع غزوات، وغزوت مع ابن حارثة استعمله علينا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
 ## Bengali
 
+সালামাহ ইবনু আকওয়া‘ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে সাতটি যুদ্ধে অংশগ্রহণ করেছি এবং যায়দ ইবনু হারিসাহ্ (রাঃ)-এর সঙ্গেও যুদ্ধে অংশ নিয়েছি। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁকে (যায়দকে) আমাদের সেনাধ্যক্ষ নিয়োগ করেছিলেন। \[৪২৭০\] (আধুনিক প্রকাশনীঃ ৩৯৩৮, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-সালামাহ ইবনু আকওয়া‘ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-এর সঙ্গে সাতটি যুদ্ধে অংশগ্রহণ করেছি এবং যায়দ ইবনু হারিসাহ্ (রাঃ)-এর সঙ্গেও যুদ্ধে অংশ নিয়েছি। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাঁকে (যায়দকে) আমাদের সেনাধ্যক্ষ নিয়োগ করেছিলেন। [৪২৭০] (আধুনিক প্রকাশনীঃ ৩৯৩৮, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Salama bin Al-Akwa':I fought in nine Ghazwa-t along with the Prophet, I also fought along with Ibn Haritha when the Prophet made him our commander
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
+
+## French
+
+Rapporté par Salama bin Al-Akwa' : J’ai combattu dans neuf batailles avec le Prophète. J’ai aussi combattu avec Ibn Haritha lorsque le Prophète l’a désigné comme notre chef
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu "Ashim Adh Dhahak bin Makhlad\] Telah menceritakan kepada kami \[Yazid bin Abu Ubaid\] dari \[Salamah bin Al Akwa'\] katanya, aku pernah berperang bersama Nabi shallallahu 'alaihi wasallam sebanyak tujuh kali dan beliau pernah mengangkat Ibnu Haritsah sebagai komandan kami
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu "Ashim Adh Dhahak bin Makhlad] Telah menceritakan kepada kami [Yazid bin Abu Ubaid] dari [Salamah bin Al Akwa'] katanya, aku pernah berperang bersama Nabi shallallahu 'alaihi wasallam sebanyak tujuh kali dan beliau pernah mengangkat Ibnu Haritsah sebagai komandan kami
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Саляма ибн аль-Аква‘, да будет доволен им Аллах, сказал: «Я принимал участие в семи военных походах вместе с Пророком ﷺ, а также я принимал участие военных походах с Ибн Харисой, которого (Пророк ﷺ) назначил командовать нами»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 சலமா பின் அல்அக்வஉ (ரலி) அவர்கள் கூறியதாவது: நான் நபி (ஸல்) அவர்களுடன் ஒன்பது அறப்போர்களில் கலந்துகொண்டேன்.312 நான் (உசாமா) இப்னு (ஸைத் பின்) ஹாரிஸா (ரலி) அவர்களுடன் அறப் போர் புரிந்துள்ளேன். நபி (ஸல்) அவர்கள் உசாமா (ரலி) அவர்களை எங்களுக்குத் தளபதியாக நியமித்திருந்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Seleme b. el-Ekva r.a. dedi ki: "Nebi Sallallahu Aleyhi ve Sellem ile birlikte dokuz gazvede bulundum. İbn Harise ile de gazveye katıldım, onu bize kumandan tayin etmiştL
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابوعاصم الضحاک بن مخلد نے بیان کیا ‘ کہا ہم سے یزید بن ابی عبید نے بیان کیا ‘ ان سے سلمہ بن اکوع رضی اللہ عنہ نے بیان کیا کہ میں نبی کریم صلی اللہ علیہ وسلم کے ساتھ سات غزووں میں شریک رہا ہوں اور میں نے ابن حارثہ ( یعنی اسامہ رضی اللہ عنہ ) کے ساتھ بھی غزوہ کیا ہے۔ نبی کریم صلی اللہ علیہ وسلم نے انہیں ہم پر امیر بنایا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4272</td></tr><tr><td>Arabic No</td><td>4272</td></tr><tr><td>Reference</td><td>Book 64 Hadith 306</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4272 |
+| Arabic No | 4272 |
+| Reference | Book 64 Hadith 306 |

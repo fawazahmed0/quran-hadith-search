@@ -18,78 +18,72 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## French
 
+Rapporté par Salamah bin Shabīb : Al-Humaydī nous a rapporté, Sufyān nous a rapporté, il a dit : « Les gens transmettaient de Jābir avant que n’arrive ce qui est arrivé. Puis, quand cela est arrivé, les gens ont mis en doute ses hadiths et certains l’ont délaissé. » On demanda à \[Sufyān\] : « Qu’est-il arrivé ? » \[Sufyān\] répondit : « La croyance en ar-Raj’ah. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفیان نے کہا : جابر نے جس ( عقیدے ) کا اظہار کیا اس کے اظہار سے پہلے لوگ اس سے حدیث لیتے تھے ، جب اس نے اس کا اظہار کر دیا تو لوگوں نے اسے اس کی ( بیان کردہ ) حدیث کے بارے میں مطعون کیا اور بعض نے اسے چھوڑ دیا ۔ ان سے پوچھا گیا : اس نے کس چیز کا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>54</td></tr><tr><td>Reference</td><td>Book 0 Hadith 54</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 54 |
+| Reference | Book 0 Hadith 54 |

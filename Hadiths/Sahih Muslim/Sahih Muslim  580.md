@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي هَارُونُ بْنُ سَعِيدٍ الأَيْلِيُّ، حَدَّثَنِي ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرُو بْنُ الْحَارِثِ، عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ، عَنْ نُعَيْمِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ رَأَى أَبَا هُرَيْرَةَ يَتَوَضَّأُ فَغَسَلَ وَجْهَهُ وَيَدَيْهِ حَتَّى كَادَ يَبْلُغُ الْمَنْكِبَيْنِ ثُمَّ غَسَلَ رِجْلَيْهِ حَتَّى رَفَعَ إِلَى السَّاقَيْنِ ثُمَّ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ إِنَّ أُمَّتِي يَأْتُونَ يَوْمَ الْقِيَامَةِ غُرًّا مُحَجَّلِينَ مِنْ أَثَرِ الْوُضُوءِ فَمَنِ اسْتَطَاعَ مِنْكُمْ أَنْ يُطِيلَ غُرَّتَهُ فَلْيَفْعَلْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني هارون بن سعيد الايلي، حدثني ابن وهب، اخبرني عمرو بن الحارث، عن سعيد بن ابي هلال، عن نعيم بن عبد الله، انه راى ابا هريرة يتوضا فغسل وجهه ويديه حتى كاد يبلغ المنكبين ثم غسل رجليه حتى رفع الى الساقين ثم قال سمعت رسول الله صلى الله عليه وسلم يقول " ان امتي ياتون يوم القيامة غرا محجلين من اثر الوضوء فمن استطاع منكم ان يطيل غرته فليفعل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হারূন ইবনু সাঈদ আল আইলী (রহঃ) ..... নুআয়ম ইবনু আবদুল্লাহ (রহঃ) থেকে বর্ণিত। তিনি আবূ হুরাইরাহ (রাযিঃ) কে ওযু করতে দেখলেন। ওযু করতে তিনি মুখমণ্ডল ও হাত দুটি এমনভাবে ধুলেন যে, প্রায় কাঁধ পর্যন্ত ধুয়ে ফেললেন। এরপর পা দুটি এমনভাবে ধুলেন যে, পায়ের নালার কিছু অংশ ধুয়ে ফেললেন। এভাবে ওযু করার পর বললেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি, তিনি বলেছেনঃ আমার উম্মত ওযুর প্রভাবে কিয়ামতের দিন দীপ্তিময় মুখমণ্ডল ও হাত-পা নিয়ে উঠবে। কাজেই তোমরা যারা সক্ষম তারা অধিক বিস্তৃত দীপ্তিসহ উঠতে সে যেন চেষ্টা করে। (ইসলামিক ফাউন্ডেশনঃ ৪৭১, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nu'aim b. 'Abdallah reported:He saw Abu Huraira perform ablution. He washed his face and washed his hands up to the arms. He then washed his feet and reached up to the shanks and then said: I heard Allah's Messenger (ﷺ) say: My people would come with bright faces and bright hands and feet on account of the marks of ablution, so he who can increase the lustre of his forehead (and that of his hands and legs) should do so
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## French
 
+Rapporté par Nu’aim b. ‘Abdallah : Il a vu Abu Huraira faire ses ablutions. Il s’est lavé le visage, puis les mains jusqu’aux avant-bras, puis les pieds jusqu’aux tibias, puis il a dit : « J’ai entendu le Messager d’Allah ﷺ dire : “Ma communauté viendra avec des visages, des mains et des pieds lumineux à cause des traces des ablutions. Que celui qui le peut augmente la lumière de son front, de ses mains et de ses jambes.” »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## Indonesian
 
+Dan telah menceritakan kepadaku \[Harun bin Sa'id al-Aili\] telah menceritakan kepada kami \[Ibnu Wahb\] telah mengabarkan kepada kami \[Amru bin al-Harits\] dari \[Sa'id bin Abu Hilal\] dari \[Nu'aim bin Abdullah\] bahwa dia melihat \[Abu Hurairah\] berwudlu, lalu membasuh wajahnya dan kedua tangannya hingga hampir mencapai lengan, kemudian membasuh kedua kakinya hingga meninggi sampai pada kedua betisnya, kemudian dia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya umatku datang pada hari kiamat dalam keadaan putih bercahaya disebabkan bekas wudlu. Maka barangsiapa di antara kalian mampu untuk memanjangkan putih pada wajahnya maka hendaklah dia melakukannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepadaku [Harun bin Sa'id al-Aili] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami [Amru bin al-Harits] dari [Sa'id bin Abu Hilal] dari [Nu'aim bin Abdullah] bahwa dia melihat [Abu Hurairah] berwudlu, lalu membasuh wajahnya dan kedua tangannya hingga hampir mencapai lengan, kemudian membasuh kedua kakinya hingga meninggi sampai pada kedua betisnya, kemudian dia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya umatku datang pada hari kiamat dalam keadaan putih bercahaya disebabkan bekas wudlu. Maka barangsiapa di antara kalian mampu untuk memanjangkan putih pada wajahnya maka hendaklah dia melakukannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Ну‘айм ибн ‘Абдуллах рассказывал, что однажды он увидел, как Абу Хурайра совершал омовение. Он умыл лицо и помыл руки так, что почти дошёл до плечей. Затем он помыл ноги так, что дошёл до голеней. Затем он сказал: «Я слышал, как Посланник Аллаха ﷺ сказал: “В День воскресения члены моей общины придут с белыми пятнами на лбу и белыми кольцами на руках и ногах, (сияющими) от следов омовения. И если кто-либо из вас может увеличить свое белое пятно, пусть сделает это”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Harun b. Said el-Eyli'de rivayet etti. (Dediki): Bana İbni Vehb rivayet etti. (Dediki) : Bana Amr b. Haris, Said b. Ebi HiIal'den o da Nuaym b. AbdilIah'tan naklen haber verdi ki o Ebu Hureyte'yi abdest alırken görmüş, yüzünü ve ellerini neredeyse omuzlarına varıncaya kadar yıkamış sonra da ayaklarını ta baldırlarına kadar yıkamış sonra da şöyle demiştir: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinledim: "Şüphesiz ümmetim kıyamet gününde abdestin etkisinden dolayı alınları sakar, baldırıarı sekili geleceklerdir. Bu sebeple sizden alnının sakarlığını uzun tutabilen yapsın. " NEVEVİ ŞERHİ 248.sayfada. DAVUDOĞLU AÇIKLAMA: Bu hadisi Buhari Vudu’da tahriç etmiştir. Bazıları onu Ebu Hureyre'den başka yedi sahabî-i celîlin rivayet ettiğini söylerler. İbni Mendeh «Müstahrec»inde bu zevatın; İbhi Mes'ud, Cabir b. Abdillah, Ebu Saidi- Hudri, Ebu Umamete'l-Bahilî, Ebu Zerr-i Gıfari, Abdullah b. Yusr el-mazini ve Huzeyfetü'bnü yeman (R.A.) hazeratı olduklarını söylemektedir. غر Ğurr: Kelimesi egarrın çoğuludur. Eğarr atın alnındaki beyazlıktır. Buna türkçemizde birçok yerlerde sakar denilir. محجل Muhaccel: Atın ayaklarındaki beyazlıktır. Bazıları atın üç ayağı beyaz olursa ona muhaccel denildiğini söylemişlerdir. Türkçede bazı yerlerde buna sekir derler. Hadis-i Şerifte abdest azalarında parlayacak olan nur atın alnındaki ve bacaklarındaki beyaz yerlere benzetilmek suretiyle bir teşbih-i beliğ yapılmıştır. Gurre kelimesi ile yüzün; tahcil ile de ayakların nuru kinaye yoluyla ifade edilmiş olmasıda muhtemeldir. Gurre ile tahcili uzatmaktan murad abdest uzuvlarını yıkarken farz olan yerin ötesine geçmektir. Ellerde bunun hududu dirsekleri biraz geçmek ayaklarda da topuklardan biraz yukarıya çıkmaktır. İbni Battal. Kaadi Iyaz ve İbni Tîn dirseklerle topuklardan fazla yıkamanın müstahap olmadığına bütün ulemanın müttefik bulunduğunu söylemişlersede Aynî bunu «batıl bir iddiadır» diyerek reddetmiştir. Filhakika Resulullah (Sallallahu Aleyhi ve Sellem)'in dirseklerle topuklardan yukarsını yıkadığı sahih hadisle sabit olduğu gibi ravi Ebu Hureyre (R.A.) da bizzat abdest almak suretiyle Gurre ve tahcîli göstermiş öteden beri ulema o şekilde abdest alagelmişlerdir. Sahabe-i kiramdan İbni Ömer (R.A.)'nın dahi Gurre ve tahcilini uzatarak yani yıkanması farz olan yerlerin hududunu geçerek abdest aldığı rivayet olunur. Binaenaleyh İbni Battal ile onun kavline zahib olanların icma' davası mezkur davanın aksine münakit olan icma' ile sükut etmiştir. Gurre ve tahcilin müstahab olan miktarı ulema arasında ihtilaflıdır. Bazılarına göre; kollar omuzlara kadar, ayaklarda dizlere kadar yıkanacaktır. Bu rivayet Hz. Ebu Hureyre (R.A.)'dan sabit olmuştur. Bazıları: «Müstahab olan miktar kollarda pazuların ayaklarda baldırların yarısına kadar yıkamaktır,» derler. Biraz daha fazla gösterenlerde vardır. Bu kavil Bağavî 'den naklolunmuştur. Şafiller'den bazıları bu hususta üç vecih olduğunu söylerler. 1- Topuklarla dirseklerin biraz ötesine geçmek müstahaptır. Gurre ve tahcilin muayyen hududu yoktur. 2- Kollar ve bacaklar pazularla baldırların yarısına kadar yıkanırlar. 3- Kollar omuzlara bacaklarda dizlere kadar yıkanır. Bu kavillerin hepsini iktiza eden hadisler vardır. İmam Kuşeyri: «Hadiste pazularla baldırların ne miktar yıkanacağını bildiren bir tahdit yoktur; Ebu Hureyre bu hadisi mutlak ve zahiri üzere yürütmüş ve omuzlara yakın yıkamıştır. Ama bu miktar Nebi (Sallallahu Aleyhi ve Sellem)'den değil ekseriyetle sahabe ve tabiînin fiilî olarak nakledilmiştir. Onun içindirki fukaha buna kail olmamışlardır. Bazı kimselerin bu işin haddi pazu ile baldırın yarısıdır dediklerini gördüm» diyorsada Allame Aynî fukaha kail olmamışlardır!» iddiasını kabul etmiyor. İbni Battal ile Kaadî Iyaz'ın kavillerini dahi evhamdan ibaret diye vasıflandırıyor. Onlar Hz. Ebu Hureyre'nin kollarını koltuklarına kadar yıkamasını kabul etmemiş bu hususta ona tabî' olan kimse bulunmadığını söylemişlersede İbni Ebi Şeybe'nin Musannef»ında Hz. ibni: Ömer (R.A.)'adan rivayet olunan bir hadiste îbni ömer'in yaz günleri abdest alırken kollarını koltuklarına kadar yıkadığı görülmektedir. «Binaenaleyh sizden kim yapabilirse sakar ve sekirliğini uzatsın» ibaresi hakkında ravilerden Nuaym: «bunun Nebi (Sallallahu Aleyhi ve Sellem)'in mi yoksa Ebu Hureyre'nin sözü mü olduğunu bilmiyorum» demiştir. İbni Hacer: «Bu cümleyi on sahabiden ve Ebu Hureyre'den rivayet edenler içinde Nuaym'in bu rivayetin­den başka nakleden görmedim» diyor
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن ابی ہلال نے نعیم بن عبداللہ سےروایت کی کہ انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کو وضو کرتے ہوئے دیکھا ، انہوں نے اپنا چہرہ اور بازو دھوئےیہاں تک کہ کندھوں کے قریب پہنچ گئے ، پھر انہوں نے اپنے پاؤں دھوئے ، یہاں تک کہ اوپر پنڈلیوں تک لے گئے ، پھر کہا : میں نے رسول اللہ ﷺ کو یہ فرماتے ہوئے سنا : ’’ میری امت کے لوگ قیامت کے دن وضو کے اثر سے روشن چہروں اور سفید چمکدار ہاتھ پاؤں کے ساتھ آئیں گے ، لہٰذا تم میں سے جو اپنی روشنی کو آگے تک بڑھا سکتا ہے ، بڑھا لے ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>580</td></tr><tr><td>Arabic No</td><td>246.02</td></tr><tr><td>Reference</td><td>Book 2 Hadith 47</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 580 |
+| Arabic No | 246.02 |
+| Reference | Book 2 Hadith 47 |

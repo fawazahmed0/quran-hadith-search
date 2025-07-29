@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، قَالَ أَخْبَرَنِي نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ عَاشُورَاءُ يَوْمًا نَصُومُهُ فِي الْجَاهِلِيَّةِ فَلَمَّا نَزَلَ رَمَضَانُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ هَذَا يَوْمٌ مِنْ أَيَّامِ اللَّهِ فَمَنْ شَاءَ صَامَهُ وَمَنْ شَاءَ تَرَكَهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
+
 حدثنا مسدد، حدثنا يحيى، عن عبيد الله، قال اخبرني نافع، عن ابن عمر، قال كان عاشوراء يوما نصومه في الجاهلية فلما نزل رمضان قال رسول الله صلى الله عليه وسلم " هذا يوم من ايام الله فمن شاء صامه ومن شاء تركه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
 
 ## Bengali
 
+। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আশূরা এমন দিন ছিলো যে, জাহিলী যুগে আমরা এ দিন সওম পালন করতাম। অতঃপর রমাযান মাসের সওম ফরয করা হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এটি আল্লাহর দিনসমূহের একটি দিন। কাজেই যার ইচ্ছা সওম রাখুক, আর যার ইচ্ছা তা ত্যাগ করুক।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আশূরা এমন দিন ছিলো যে, জাহিলী যুগে আমরা এ দিন সওম পালন করতাম। অতঃপর রমাযান মাসের সওম ফরয করা হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এটি আল্লাহর দিনসমূহের একটি দিন। কাজেই যার ইচ্ছা সওম রাখুক, আর যার ইচ্ছা তা ত্যাগ করুক।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar said:'Ashurah was a day on which we used to fast in pre-Islamic days. When (fasting of) Ramadan was prescribed, the Messenger of Allah (ﷺ) said: This is one of the days of Allah ; he who wishes may fast on it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
+
+## French
+
+Rapporté par Ibn ‘Umar رضي الله عنه : ‘Ashura était un jour où nous jeûnions avant l’islam. Quand le jeûne de Ramadan a été prescrit, le Messager d’Allah ﷺ a dit : « C’est un des jours d’Allah ; celui qui veut peut jeûner ce jour-là. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Yahya\] dari \['Ubaidullah\], ia berkata; telah mengabarkan kepadaku \[Nafi'\] dari \[Ibnu Umar\], ia berkata; Hari 'Asyura' adalah hari kami berpuasa pada masa jahiliyah. Kemudian tatkala turun kewajiban puasa Bulan Ramadhan Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini adalah hari diantara hari-hari Allah, barangsiapa yang berkeinginan (berpuasa) ia (boleh) berpuasa, dan barangsiapa yang berkeinginan (berbuka) ia (boleh) meninggalkannya (tidak berpuasa)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari ['Ubaidullah], ia berkata; telah mengabarkan kepadaku [Nafi'] dari [Ibnu Umar], ia berkata; Hari 'Asyura' adalah hari kami berpuasa pada masa jahiliyah. Kemudian tatkala turun kewajiban puasa Bulan Ramadhan Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini adalah hari diantara hari-hari Allah, barangsiapa yang berkeinginan (berpuasa) ia (boleh) berpuasa, dan barangsiapa yang berkeinginan (berbuka) ia (boleh) meninggalkannya (tidak berpuasa)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом: «Во времена невежества мы соблюдали пост в день ‘Ашуры, и когда пост в рамадан был сделан обязательным, Посланник Аллаха ﷺ сказал: “Это один из дней Аллаха, и кто хочет, может поститься, а кто хочет, может отказаться от поста”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.)'den; demiştir ki: Aşure (günü), câhiliye devrinde oruç tuttuğumuz bir gündü. Ramazan (orucu) farz kılınınca, Rasûlullah (s.a.v.); "Bu (gün) Allah'ın günlerinden bir gündür. Dileyen o gün oruç tutar, dileyen tutmaz." buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ زمانہ جاہلیت میں ہم عاشورہ کا روزہ رکھتے تھے، پھر جب رمضان کے روزوں فرضیت نازل ہوئی تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یہ ( یوم عاشوراء ) اللہ کے دنوں میں سے ایک دن ہے لہٰذا جو روزہ رکھنا چاہے رکھے، اور جو نہ چاہے نہ رکھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4501) Sahih Muslim (1126)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2443</td></tr><tr><td>Arabic No</td><td>2443</td></tr><tr><td>Reference</td><td>Book 14 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4501) Sahih Muslim (1126) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2443 |
+| Arabic No | 2443 |
+| Reference | Book 14 Hadith 131 |

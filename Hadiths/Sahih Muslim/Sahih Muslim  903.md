@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَحْيَى بْنُ آدَمَ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ حُمَيْدٍ، حَدَّثَنِي أَبُو الزُّبَيْرِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُعَلِّمُنَا التَّشَهُّدَ كَمَا يُعَلِّمُنَا السُّورَةَ مِنَ الْقُرْآنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا يحيى بن ادم، حدثنا عبد الرحمن بن حميد، حدثني ابو الزبير، عن طاوس، عن ابن عباس، قال كان رسول الله صلى الله عليه وسلم يعلمنا التشهد كما يعلمنا السورة من القران
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম আমাদেরকে যেভাবে কুরআন শিক্ষা দিতেন, সেভাবেই আমাদেরকে তাশাহহুদ শিক্ষা দিতেন। (ইসলামিক ফাউন্ডেশনঃ ৭৮৬, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Tawus narrated it on the authority of Ibn 'Abbas that he said:The Messenger of Allah (ﷺ) used to teach us tashahhud as he would teach us a Sura of the Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## French
 
+Rapporté par Tawus d’après Ibn ‘Abbas : Il a dit : Le Messager d’Allah ﷺ nous enseignait le tashahhud comme il nous enseignait une sourate du Coran
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abi Syaibah\] telah menceritakan kepada kami \[Yahya bin Adam\] telah menceritakan kepada kami \[Abdurrahman bin Humaid\] telah menceritakan kepadaku \[Abu az-Zubair\] dari \[Thawus\] dari \[Ibnu Abbas\] dia berkata, "Dahulu Rasulullah shallallahu 'alaihi wasallam mengajarkan kepada kami tasyahhud sebagaimana beliau mengajarkan surat al-Qur'an
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abi Syaibah] telah menceritakan kepada kami [Yahya bin Adam] telah menceritakan kepada kami [Abdurrahman bin Humaid] telah menceritakan kepadaku [Abu az-Zubair] dari [Thawus] dari [Ibnu Abbas] dia berkata, "Dahulu Rasulullah shallallahu 'alaihi wasallam mengajarkan kepada kami tasyahhud sebagaimana beliau mengajarkan surat al-Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ учил нас (произнесению) ташаххуда, как учил (чтению каждой) суры Корана»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அப்துல்லாஹ் பின் அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் குர்ஆனின் அத்தியாயத்தைக் கற்றுத்தருவதைப் போன்று (தொழுகை இருப்பில் ஓதப்படும்) அத்தஹிய்யாத்தை எங்களுக்குக் கற்றுத் தருவார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebu Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Yahya b. Âdem rivayet etti. (Dediki): Bize Abdurrahman b. Humeyd rivayet etti. (Dediki): Bana Ebu Zübeyr Tâvus'dan, o da İbni Abbâs'dan naklen rivayet etti. İbni Abbâs: Resulullah (Sallallahu Aleyhi ve Sellem) bize Kur'ân'dan bir sure öğretir gibi teşehhüdü öğretti» demiş. İzah Bu hadîsi Buhârî'den maada bütün Sünen sahipleri tahrîc etmişlerdir. Neyevî'nin beyânına göre; hadîsteki «Mübare-kât, salâvât, tayyibat kelimeleri baştaki tehiyyât üzerine ma'tufturlar. Yalnız ihtisar için aralarından atıf harfi (vav) hazfedilmiştir ki bu Arap lisanında caiz ve maruftur. Hadîsin mânâsı gerek tahiyyât, gerekse on­dan sonra zikredilen «Mübarekât, salâvât» ve «tayyibat» hep Allah'a mahsustur» demektir. 402 / 55 56 57 58 59 nolu Hadis'i şerifi okumadı iseniz okuyunuz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبد الرحمن بن حمید نے کہا : مجھے ابو زبیر نے طاؤس کے حوالے سے حضرت ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث بیان کی ، انہوں نے کہا : رسول اللہﷺ ہمیں تشہد یوں سکھاتے تھے جیسے آپ ہمیں قرآن کی سورت سکھاتے تھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>903</td></tr><tr><td>Arabic No</td><td>403.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 903 |
+| Arabic No | 403.02 |
+| Reference | Book 4 Hadith 65 |

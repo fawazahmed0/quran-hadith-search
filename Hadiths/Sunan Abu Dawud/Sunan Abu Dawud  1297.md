@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ بِشْرِ بْنِ الْحَكَمِ النَّيْسَابُورِيُّ، حَدَّثَنَا مُوسَى بْنُ عَبْدِ الْعَزِيزِ، حَدَّثَنَا الْحَكَمُ بْنُ أَبَانَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ لِلْعَبَّاسِ بْنِ عَبْدِ الْمُطَّلِبِ ‏ "‏ يَا عَبَّاسُ يَا عَمَّاهُ أَلاَ أُعْطِيكَ أَلاَ أَمْنَحُكَ أَلاَ أَحْبُوكَ أَلاَ أَفْعَلُ بِكَ عَشْرَ خِصَالٍ إِذَا أَنْتَ فَعَلْتَ ذَلِكَ غَفَرَ اللَّهُ لَكَ ذَنْبَكَ أَوَّلَهُ وَآخِرَهُ قَدِيمَهُ وَحَدِيثَهُ خَطَأَهُ وَعَمْدَهُ صَغِيرَهُ وَكَبِيرَهُ سِرَّهُ وَعَلاَنِيَتَهُ عَشْرَ خِصَالٍ أَنْ تُصَلِّيَ أَرْبَعَ رَكَعَاتٍ تَقْرَأُ فِي كُلِّ رَكْعَةٍ فَاتِحَةَ الْكِتَابِ وَسُورَةً فَإِذَا فَرَغْتَ مِنَ الْقِرَاءَةِ فِي أَوَّلِ رَكْعَةٍ وَأَنْتَ قَائِمٌ قُلْتَ سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلاَ إِلَهَ إِلاَّ اللَّهُ وَاللَّهُ أَكْبَرُ خَمْسَ عَشْرَةَ مَرَّةً ثُمَّ تَرْكَعُ فَتَقُولُهَا وَأَنْتَ رَاكِعٌ عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ مِنَ الرُّكُوعِ فَتَقُولُهَا عَشْرًا ثُمَّ تَهْوِي سَاجِدًا فَتَقُولُهَا وَأَنْتَ سَاجِدٌ عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ مِنَ السُّجُودِ فَتَقُولُهَا عَشْرًا ثُمَّ تَسْجُدُ فَتَقُولُهَا عَشْرًا ثُمَّ تَرْفَعُ رَأْسَكَ فَتَقُولُهَا عَشْرًا فَذَلِكَ خَمْسٌ وَسَبْعُونَ فِي كُلِّ رَكْعَةٍ تَفْعَلُ ذَلِكَ فِي أَرْبَعِ رَكَعَاتٍ إِنِ اسْتَطَعْتَ أَنْ تُصَلِّيَهَا فِي كُلِّ يَوْمٍ مَرَّةً فَافْعَلْ فَإِنْ لَمْ تَفْعَلْ فَفِي كُلِّ جُمُعَةٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِي كُلِّ شَهْرٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِي كُلِّ سَنَةٍ مَرَّةً فَإِنْ لَمْ تَفْعَلْ فَفِي عُمُرِكَ مَرَّةً ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
+
 حدثنا عبد الرحمن بن بشر بن الحكم النيسابوري، حدثنا موسى بن عبد العزيز، حدثنا الحكم بن ابان، عن عكرمة، عن ابن عباس، ان رسول الله صلى الله عليه وسلم قال للعباس بن عبد المطلب " يا عباس يا عماه الا اعطيك الا امنحك الا احبوك الا افعل بك عشر خصال اذا انت فعلت ذلك غفر الله لك ذنبك اوله واخره قديمه وحديثه خطاه وعمده صغيره وكبيره سره وعلانيته عشر خصال ان تصلي اربع ركعات تقرا في كل ركعة فاتحة الكتاب وسورة فاذا فرغت من القراءة في اول ركعة وانت قايم قلت سبحان الله والحمد لله ولا اله الا الله والله اكبر خمس عشرة مرة ثم تركع فتقولها وانت راكع عشرا ثم ترفع راسك من الركوع فتقولها عشرا ثم تهوي ساجدا فتقولها وانت ساجد عشرا ثم ترفع راسك من السجود فتقولها عشرا ثم تسجد فتقولها عشرا ثم ترفع راسك فتقولها عشرا فذلك خمس وسبعون في كل ركعة تفعل ذلك في اربع ركعات ان استطعت ان تصليها في كل يوم مرة فافعل فان لم تفعل ففي كل جمعة مرة فان لم تفعل ففي كل شهر مرة فان لم تفعل ففي كل سنة مرة فان لم تفعل ففي عمرك مرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আব্বাস ইবনু ‘আবদুল মুত্তালিব (রাঃ)-কে বললেনঃ হে ‘আব্বাস! হে আমার চাচা! আমি কি আপনাকে দান করবো না? আমি কি আপনাকে উপহার দিবো না? আমি কি আপনার দশটি মহৎ কাজ করে দিবো না? আপনি যখন সে কাজগুলো বাস্তবায়ন করবেন, তখন আল্লাহ আপনার প্রথম ও শেষ, অতীত ও বর্তমান, ইচ্ছা ও অনিচ্ছাকৃত, ছোট ও বড় এবং প্রকাশ্য ও গোপন সমস্ত গুনাহ ক্ষমা করে দিবেন। ঐ দশটি মহৎ কাজ হচ্ছেঃ আপনি চার রাক‘আতের ক্বিরাআত হতে অবসর হয়ে দাঁড়ানো অবস্থায় বলবেন, ‘‘সুবহানাল্লাহ ওয়াল-হামদুলিল্লাহ ওয়া লা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার’’ পনের বার, অতঃপর রুকূ‘ করুন এবং রুকূ‘ অবস্থায় তা পাঠ করুন দশবার, আবার রুকূ‘ হতে মাথা উঠিয়ে তা পাঠ করুন দশবার, অতঃপর সিজদায় যান এবং সিজদা্ অবস্থায় তা পাঠ করুন দশবার, অতঃপর সিজদা্ হতে মাথা উঠিয়ে তা পাঠ করুন দশবার। আবার সিজদা্ করুন, সেখানে তা পাঠ করুন দশবার। অতঃপর সিজদা্ হতে মাথা তুলে তা পাঠ করুন দশবার, এ নিয়মে প্রত্যেক রাক‘আতে তাসবীহর সংখ্যা হবে ৭৫ বার এবং তা করতে থাকুন পূর্ণ চার রাক‘আতে। (এতে পুরো সালাতে তাসবীহর সংখ্যা হবে তিন শত বার)। আপনার পক্ষে সম্ভব হলে উক্ত সালাত দৈনিক একবার আদায় করুন। অন্যথায় সপ্তাহে একবার, তাও সম্ভব না হলে মাসে একবার, এটাও সম্ভব না হলে বছরে একবার, যদি তাও না হয় তবে সারা জীবনে অন্তত একবার আদায় করুন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আব্বাস ইবনু ‘আবদুল মুত্তালিব (রাঃ)-কে বললেনঃ হে ‘আব্বাস! হে আমার চাচা! আমি কি আপনাকে দান করবো না? আমি কি আপনাকে উপহার দিবো না? আমি কি আপনার দশটি মহৎ কাজ করে দিবো না? আপনি যখন সে কাজগুলো বাস্তবায়ন করবেন, তখন আল্লাহ আপনার প্রথম ও শেষ, অতীত ও বর্তমান, ইচ্ছা ও অনিচ্ছাকৃত, ছোট ও বড় এবং প্রকাশ্য ও গোপন সমস্ত গুনাহ ক্ষমা করে দিবেন। ঐ দশটি মহৎ কাজ হচ্ছেঃ আপনি চার রাক‘আতের ক্বিরাআত হতে অবসর হয়ে দাঁড়ানো অবস্থায় বলবেন, ‘‘সুবহানাল্লাহ ওয়াল-হামদুলিল্লাহ ওয়া লা ইলাহা ইল্লাল্লাহু ওয়াল্লাহু আকবার’’ পনের বার, অতঃপর রুকূ‘ করুন এবং রুকূ‘ অবস্থায় তা পাঠ করুন দশবার, আবার রুকূ‘ হতে মাথা উঠিয়ে তা পাঠ করুন দশবার, অতঃপর সিজদায় যান এবং সিজদা্ অবস্থায় তা পাঠ করুন দশবার, অতঃপর সিজদা্ হতে মাথা উঠিয়ে তা পাঠ করুন দশবার। আবার সিজদা্ করুন, সেখানে তা পাঠ করুন দশবার। অতঃপর সিজদা্ হতে মাথা তুলে তা পাঠ করুন দশবার, এ নিয়মে প্রত্যেক রাক‘আতে তাসবীহর সংখ্যা হবে ৭৫ বার এবং তা করতে থাকুন পূর্ণ চার রাক‘আতে। (এতে পুরো সালাতে তাসবীহর সংখ্যা হবে তিন শত বার)। আপনার পক্ষে সম্ভব হলে উক্ত সালাত দৈনিক একবার আদায় করুন। অন্যথায় সপ্তাহে একবার, তাও সম্ভব না হলে মাসে একবার, এটাও সম্ভব না হলে বছরে একবার, যদি তাও না হয় তবে সারা জীবনে অন্তত একবার আদায় করুন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah Ibn Abbas: The Messenger of Allah (ﷺ) said to al-Abbas ibn AbdulMuttalib: Abbas, my uncle, shall I not give you, shall I not present to you, shall I not donate to you, shall I not produce for you ten things? If you act upon them, Allah will forgive you your sins, first and last, old and new, involuntary and voluntary, small and great, secret and open. These are the ten things: you should pray four rak'ahs, reciting in each one Fatihat al-Kitab and a surah. When you finish the recitation of the first rak'ah you should say fifteen times while standing: "Glory be to Allah", "Praise be to Allah", "There is no god but Allah", "Allah is most great". Then you should bow and say it ten times while bowing. Then you should raise your head after bowing and say it ten times. Then you should kneel down in prostration and say it ten times while prostrating yourself. Then you should raise your head after prostration and say it ten times. Then you should prostrate yourself and say it ten times. Then you should raise your head after prostrating and say it ten times in every rak'ah. You should do that in four rak'ahs. If you can observe it once daily, do so; if not, then once weekly; if not, then once a month; if not, then once a year; if not, then once in your lifetime
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit à al-Abbas ibn AbdulMuttalib رضي الله عنه : « Abbas, mon oncle, ne veux-tu pas que je t’offre, que je te donne, que je t’offre en cadeau, que je te montre dix choses ? Si tu les fais, Allah te pardonnera tes péchés, les premiers et les derniers, les anciens et les récents, ceux commis par erreur ou volontairement, les petits et les grands, les cachés et les apparents. Voici ces dix choses : tu dois prier quatre rak‘as, en récitant dans chacune la Fatiha et une sourate. Quand tu as fini la récitation de la première rak‘a, tu dois dire quinze fois, debout : “Gloire à Allah”, “Louange à Allah”, “Il n’y a de dieu qu’Allah”, “Allah est le plus grand”. Ensuite, tu t’inclines et tu le dis dix fois en t’inclinant. Puis tu te relèves après l’inclinaison et tu le dis dix fois. Ensuite, tu te prosternes et tu le dis dix fois en étant prosterné. Puis tu te relèves de la prosternation et tu le dis dix fois. Ensuite, tu te prosternes à nouveau et tu le dis dix fois. Puis tu te relèves après la prosternation et tu le dis dix fois à chaque rak‘a. Tu dois faire cela dans quatre rak‘as. Si tu peux l’accomplir une fois par jour, fais-le ; sinon, une fois par semaine ; sinon, une fois par mois ; sinon, une fois par an ; sinon, une fois dans ta vie. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdurrahman bin Bisyr bin Hakam An Naisabury\] telah menceritakan kepada kami \[Musa bin Abdul Aziz\] telah menceritakan kepada kami \[Al Hakam bin Aban\] dari \[Ikrimah\] dari \[Ibnu Abbas\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepada Abbas bin Abdul Mutthalib: "Wahai Abbas, wahai pamanku, sukakah paman, aku beri, aku karuniai, aku beri hadiah istimewa, aku ajari sepuluh macam kebaikan yang dapat menghapus sepuluh macam dosa? Jika paman mengerjakan ha itu, maka Allah akan mengampuni dosa-dosa paman, baik yang awal dan yang akhir, baik yang telah lalu atau yang akan datang, yang di sengaja ataupun tidak, yang kecil maupun yang besar, yang samar-samar maupun yang terang-terangan. Sepuluh macam kebaikan itu ialah; "Paman mengerjakan shalat empat raka'at, dan setiap raka'at membaca AL Fatihah dan surat, apabila selesai membaca itu, dalam raka'at pertama dan masih berdiri, bacalah; "Subhanallah wal hamdulillah walaa ilaaha illallah wallahu akbar (Maha suci Allah, segala puji bagi Allah, tidak ada ilah selain Allah dan Allah Maha besar) " sebanyak lima belas kali, lalu ruku', dan dalam ruku' membaca bacaan seperti itu sebanyak sepuluh kali, kemudian mengangkat kepala dari ruku' (i'tidal) juga membaca seperti itu sebanyak sepuluh kali, lalu sujud juga membaca sepuluh kali, setelah itu mengangkat kepala dari sujud (duduk di antara dua sujud) juga membaca sepuluh kali, lalu sujud juga membaca sepuluh kali, kemudian mengangkat kepala dan membaca sepuluh kali, Salim bin Abul Ja'd jumlahnya ada tujuh puluh lama kali dalam setiap raka'at, paman dapat melakukannya dalam empat raka'at. jika paman sanggup mengerjakannya sekali dalam sehari, kerjakanlah. Jika tidak mampu, kerjakanlah setiap jum'at, jika tidak mampu, kerjakanlah setiap bulan, jika tidak mampu, kerjakanlah setiap tahun sekali. Dan jika masih tidak mampu, kerjakanlah sekali dalam seumur hidup." Telah menceritakan kepada kami \[Muhammad bin Sufyan Al Ubuli\] telah menceritakan kepada kami \[Habban bin Hilal Abu Habib\] telah menceritakan kepada kami \[Mahdi bin Maimun\] telah menceritakan kepada kami \['Amru bin Malik\] dari \[Abu Jauza'\] dia berkata; telah menceritakan kepada kami seseorang laki-laki yang pernah bersahabat dengannya, menurut mereka, dia adalah \[Abdullah bin 'Amru\] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepadaku: "Datanglah kepadaku besok hari, aku akan memberimu suatu pemberian." Hingga aku mengira beliau benar-benar akan memberiku suatu pemberian. Beliau bersabda: "Apabila siang agak reda, maka berdirilah untuk menunaikan shalat empat raka'at…" kemudian dia menyebutkan hadits seperti di atas. Beliau lalu bersabda: "Kemudian kamu mengangkat kepalamu -yaitu dari sujud kedua- sehingga kamu benar-benar duduk, dan janganlah berdiri hingga membaca tasbih, tahmid, takbir dan tahlil masing-masing sepuluh kali, lalu kamu melakukan hal itu di empat raka'at." Beliau melanjutkan; "Seandainya kamu orang yang paling besar dosanya di antara penduduk bumi, maka dosa-dosamu akan di ampuni dengan melakukan hal itu (shalat tasbih)." Aku bertanya; "Jika aku tidak mampu melaksanakan shalat tasbih pada waktu itu?" beliau menjawab: "Kerjakanlah di malam hari atau siang hari." Abu Daud berkata; "Habban bin Daud adalah pamannya Hilal Ar Ra'yi. Abu Daud berkata; "Hadits ini di riwayawatkan pula oleh \[Al Mustamir Ar Rayyan\] dari \[Abu Al Jauza'\] dari \[Abdullah bin 'Amru\] secara mauquf. Dan di riwayatkan pula oleh \[Rauh bin Al Musayyab\] dan \[Ja'far bin Sulaiman\] dari \['Amru bin Malik An Nukri\] dari \[Abu Al Jauza'\] dari \[Ibnu Abbas\]. Sedangkan perkataannya mengenai hadits Rauh, dia berkata; yaitu hadits dari Nabi shallallahu 'alaihi wasallam. Telah menceritakan kepada kami \[Abu Taubah Ar Rabi' bin Nafi'\] telah menceritakan kepada kami \[Muhammad bin Muhajir\] dari \['Urwah bin Ruwaim\] telah menceritakan kepadaku \[Al Anshari\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepada Ja'far…" dengan hadits ini, lalu dia menyebutkan seperti hadits mereka, katanya; "……dalam sujud kedua pada raka'at pertama." Sebagaimana dia berkata dalam hadits Mahdi bin Maimun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdurrahman bin Bisyr bin Hakam An Naisabury] telah menceritakan kepada kami [Musa bin Abdul Aziz] telah menceritakan kepada kami [Al Hakam bin Aban] dari [Ikrimah] dari [Ibnu Abbas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepada Abbas bin Abdul Mutthalib: "Wahai Abbas, wahai pamanku, sukakah paman, aku beri, aku karuniai, aku beri hadiah istimewa, aku ajari sepuluh macam kebaikan yang dapat menghapus sepuluh macam dosa? Jika paman mengerjakan ha itu, maka Allah akan mengampuni dosa-dosa paman, baik yang awal dan yang akhir, baik yang telah lalu atau yang akan datang, yang di sengaja ataupun tidak, yang kecil maupun yang besar, yang samar-samar maupun yang terang-terangan. Sepuluh macam kebaikan itu ialah; "Paman mengerjakan shalat empat raka'at, dan setiap raka'at membaca AL Fatihah dan surat, apabila selesai membaca itu, dalam raka'at pertama dan masih berdiri, bacalah; "Subhanallah wal hamdulillah walaa ilaaha illallah wallahu akbar (Maha suci Allah, segala puji bagi Allah, tidak ada ilah selain Allah dan Allah Maha besar) " sebanyak lima belas kali, lalu ruku', dan dalam ruku' membaca bacaan seperti itu sebanyak sepuluh kali, kemudian mengangkat kepala dari ruku' (i'tidal) juga membaca seperti itu sebanyak sepuluh kali, lalu sujud juga membaca sepuluh kali, setelah itu mengangkat kepala dari sujud (duduk di antara dua sujud) juga membaca sepuluh kali, lalu sujud juga membaca sepuluh kali, kemudian mengangkat kepala dan membaca sepuluh kali, Salim bin Abul Ja'd jumlahnya ada tujuh puluh lama kali dalam setiap raka'at, paman dapat melakukannya dalam empat raka'at. jika paman sanggup mengerjakannya sekali dalam sehari, kerjakanlah. Jika tidak mampu, kerjakanlah setiap jum'at, jika tidak mampu, kerjakanlah setiap bulan, jika tidak mampu, kerjakanlah setiap tahun sekali. Dan jika masih tidak mampu, kerjakanlah sekali dalam seumur hidup." Telah menceritakan kepada kami [Muhammad bin Sufyan Al Ubuli] telah menceritakan kepada kami [Habban bin Hilal Abu Habib] telah menceritakan kepada kami [Mahdi bin Maimun] telah menceritakan kepada kami ['Amru bin Malik] dari [Abu Jauza'] dia berkata; telah menceritakan kepada kami seseorang laki-laki yang pernah bersahabat dengannya, menurut mereka, dia adalah [Abdullah bin 'Amru] dia berkata; Nabi shallallahu 'alaihi wasallam bersabda kepadaku: "Datanglah kepadaku besok hari, aku akan memberimu suatu pemberian." Hingga aku mengira beliau benar-benar akan memberiku suatu pemberian. Beliau bersabda: "Apabila siang agak reda, maka berdirilah untuk menunaikan shalat empat raka'at…" kemudian dia menyebutkan hadits seperti di atas. Beliau lalu bersabda: "Kemudian kamu mengangkat kepalamu -yaitu dari sujud kedua- sehingga kamu benar-benar duduk, dan janganlah berdiri hingga membaca tasbih, tahmid, takbir dan tahlil masing-masing sepuluh kali, lalu kamu melakukan hal itu di empat raka'at." Beliau melanjutkan; "Seandainya kamu orang yang paling besar dosanya di antara penduduk bumi, maka dosa-dosamu akan di ampuni dengan melakukan hal itu (shalat tasbih)." Aku bertanya; "Jika aku tidak mampu melaksanakan shalat tasbih pada waktu itu?" beliau menjawab: "Kerjakanlah di malam hari atau siang hari." Abu Daud berkata; "Habban bin Daud adalah pamannya Hilal Ar Ra'yi. Abu Daud berkata; "Hadits ini di riwayawatkan pula oleh [Al Mustamir Ar Rayyan] dari [Abu Al Jauza'] dari [Abdullah bin 'Amru] secara mauquf. Dan di riwayatkan pula oleh [Rauh bin Al Musayyab] dan [Ja'far bin Sulaiman] dari ['Amru bin Malik An Nukri] dari [Abu Al Jauza'] dari [Ibnu Abbas]. Sedangkan perkataannya mengenai hadits Rauh, dia berkata; yaitu hadits dari Nabi shallallahu 'alaihi wasallam. Telah menceritakan kepada kami [Abu Taubah Ar Rabi' bin Nafi'] telah menceritakan kepada kami [Muhammad bin Muhajir] dari ['Urwah bin Ruwaim] telah menceritakan kepadaku [Al Anshari] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda kepada Ja'far…" dengan hadits ini, lalu dia menyebutkan seperti hadits mereka, katanya; "……dalam sujud kedua pada raka'at pertama." Sebagaimana dia berkata dalam hadits Mahdi bin Maimun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
 
 ## Russian
 
+Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал аль-‘Аббасу ибн ‘Абду-ль-Мутталибу: «О ‘Аббас! О дядя! Не одарить ли мне тебя? Не наделить ли мне тебя? Не облагодетельствовать ли мне тебя? Не сделать ли мне для тебя (нечто благое)? Если ты совершишь следующие десять действий, Аллах простит тебе и первые, и последние грехи, совершённые давно и совершённые недавно, случайные и умышленные, большие и малые, скрытые и явные. Вот эти десять действий. Совершай молитву в четыре рак‘ата, в каждом из которых ты должен читать “Аль-фатиху” и другую суру. Закончив читать аяты Корана в первом рак‘ате, стоя произнеси: “Пречист Аллах”, “Хвала Аллаху”, “Аллах Велик” и “Нет бога \[заслуживающего поклонение\], кроме Аллаха” по пятнадцать раз, потом соверши поясной поклон и в поясном поклоне повтори те же слова по десять раз. Затем выпрямись после поясного поклона и произнеси те же слова по десять раз. Потом соверши земной поклон и во время земного поклона произнеси эти слова по десять раз. Потом выпрямись после совершения земного поклона и произнеси те же слова по десять раз, а потом снова соверши земной поклон и произнеси эти слова по десять раз, затем выпрямись и снова произнеси эти слова по десять раз. Это составит семьдесят пять раз в каждом рак‘ате, а ты совершай четыре рак‘ата, проделывая всё это в каждом. Если сможешь, совершай эту молитву один раз в день, если не сможешь, то хотя бы раз в неделю, а если не сможешь и этого, то хотя бы раз в месяц, а если не сможешь и этого, то хотя бы раз в год. А если не сможешь и этого, то хотя бы раз в жизни!»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал аль-‘Аббасу ибн ‘Абду-ль-Мутталибу: «О ‘Аббас! О дядя! Не одарить ли мне тебя? Не наделить ли мне тебя? Не облагодетельствовать ли мне тебя? Не сделать ли мне для тебя (нечто благое)? Если ты совершишь следующие десять действий, Аллах простит тебе и первые, и последние грехи, совершённые давно и совершённые недавно, случайные и умышленные, большие и малые, скрытые и явные. Вот эти десять действий. Совершай молитву в четыре рак‘ата, в каждом из которых ты должен читать “Аль-фатиху” и другую суру. Закончив читать аяты Корана в первом рак‘ате, стоя произнеси: “Пречист Аллах”, “Хвала Аллаху”, “Аллах Велик” и “Нет бога [заслуживающего поклонение], кроме Аллаха” по пятнадцать раз, потом соверши поясной поклон и в поясном поклоне повтори те же слова по десять раз. Затем выпрямись после поясного поклона и произнеси те же слова по десять раз. Потом соверши земной поклон и во время земного поклона произнеси эти слова по десять раз. Потом выпрямись после совершения земного поклона и произнеси те же слова по десять раз, а потом снова соверши земной поклон и произнеси эти слова по десять раз, затем выпрямись и снова произнеси эти слова по десять раз. Это составит семьдесят пять раз в каждом рак‘ате, а ты совершай четыре рак‘ата, проделывая всё это в каждом. Если сможешь, совершай эту молитву один раз в день, если не сможешь, то хотя бы раз в неделю, а если не сможешь и этого, то хотя бы раз в месяц, а если не сможешь и этого, то хотя бы раз в год. А если не сможешь и этого, то хотя бы раз в жизни!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Abbas (r.a.)'dan rivayet edildiğine göre, Rasûlullah (s.a.v.) Abbâs b. Abdi'l-Muttalib'e şöyle buyurmuştur: "Ey Abbâs, ey amcam! Sana bir ikramda bulunayım, seni mentellendireyim mi? Sana iyilikte bulunayım da sana, işlediğin takdirde Allah'ın on haslet olan günâh(Iar)ının ilkini de sonuncusunu da eskisini de yenisini de, bilerek yapılanını da yanılarak yapılanını da, küçüğünü de büyüğünü de; gizlisini de açığını da bağışlayacağı bir ameli haber vereyim mi? (îşte günahın çeşitleri olan bu on hasleti arıtan amel, tesbih namazıdır. O'nu) dört rekat (olarak) kılarsın. Her rekatında Fatiha süresiyle diğer bir sûreyi okursun. (Bunları) okumayı bitirince rükû'dan önce, ayakta iken onbeş kere "sübhânellahi velhamdülillâhi velâ ilahe illallâhu vellâhu ekber" dersin. Sonra rükû'a varırsın. Bunları on kere de rüku'dayken söylersin, sonra rukû'dan başını kaldırıp bunları on kere (daha) söylersin. Sonra secdeye gidersin on kere de secde de söylersin, sonra secdeden başını kaldırıp on kere, sonra (ikinci) secdeye kapanıp on kere, sonra başını (ikinci secdeden) kaldırıp on kere (daha) bu kelimeleri söylersin. Bunlar(ın) bir rekatte(ki toplamı) yetmiş beştir. Bu namazı günde bir kere kılmaya gücün yeterse (her gün bir kere) kıl, eğer yapamazsan her cuma (günü) bir kere (kıl, bunu da) yapamazsan her ay bir kere (kıl, bunu da) yapamazsan senede bir kere (kıl. Bunu da) yapamazsan (hiç değilse) ömründe bir kere (kıl)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے عباس بن عبدالمطلب رضی اللہ عنہ سے فرمایا: اے عباس! اے میرے چچا! کیا میں آپ کو عطا نہ کروں؟ کیا میں آپ کو بھلائی نہ پہنچاؤں؟ کیا میں آپ کو نہ دوں؟ کیا میں آپ کو دس ایسی باتیں نہ بتاؤں جب آپ ان پر عمل کرنے لگیں تو اللہ تعالیٰ آپ کے اگلے پچھلے، نئے پرانے، جانے انجانے، چھوٹے بڑے، چھپے اور کھلے، سارے گناہ معاف کر دے گا، وہ دس باتیں یہ ہیں: آپ چار رکعت نماز پڑھیں، ہر رکعت میں سورۃ فاتحہ اور کوئی ایک سورۃ پڑھیں، جب پہلی رکعت کی قرآت کر لیں تو حالت قیام ہی میں پندرہ مرتبہ «سبحان الله، والحمد لله، ولا إله إلا الله، والله أكبر» کہیں، پھر رکوع کریں تو یہی کلمات حالت رکوع میں دس بار کہیں، پھر جب رکوع سے سر اٹھائیں تو یہی کلمات دس بار کہیں، پھر جب سجدہ میں جائیں تو حالت سجدہ میں دس بار یہی کلمات کہیں، پھر سجدے سے سر اٹھائیں تو یہی کلمات دس بار کہیں، پھر ( دوسرا ) سجدہ کریں تو دس بار کہیں اور پھر جب ( دوسرے ) سجدے سے سر اٹھائیں تو دس بار کہیں، تو اس طرح یہ ہر رکعت میں پچہتر بار ہوا، یہ عمل آپ چاروں رکعتوں میں کریں، اگر پڑھ سکیں تو ہر روز ایک مرتبہ اسے پڑھیں، اور اگر روزانہ نہ پڑھ سکیں تو ہر جمعہ کو ایک بار پڑھ لیں، ایسا بھی نہ کر سکیں تو ہر مہینے میں ایک بار، یہ بھی ممکن نہ ہو تو سال میں ایک بار اور اگر یہ بھی ممکن نہ ہو تو پھر عمر بھر میں ایک بار پڑھ لیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1297</td></tr><tr><td>Arabic No</td><td>1297</td></tr><tr><td>Reference</td><td>Book 5 Hadith 48</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1297 |
+| Arabic No | 1297 |
+| Reference | Book 5 Hadith 48 |

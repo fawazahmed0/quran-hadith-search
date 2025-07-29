@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدُ بْنُ مُسَرْهَدٍ، حَدَّثَنَا إِسْمَاعِيلُ، حَدَّثَنَا حُمَيْدٌ الطَّوِيلُ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم طَافَ ذَاتَ يَوْمٍ عَلَى نِسَائِهِ فِي غُسْلٍ وَاحِدٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَهَكَذَا رَوَاهُ هِشَامُ بْنُ زَيْدٍ عَنْ أَنَسٍ وَمَعْمَرٌ عَنْ قَتَادَةَ عَنْ أَنَسٍ وَصَالِحُ بْنُ أَبِي الأَخْضَرِ عَنِ الزُّهْرِيِّ كُلُّهُمْ عَنْ أَنَسٍ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
+
 حدثنا مسدد بن مسرهد، حدثنا اسماعيل، حدثنا حميد الطويل، عن انس، ان رسول الله صلى الله عليه وسلم طاف ذات يوم على نسايه في غسل واحد . قال ابو داود وهكذا رواه هشام بن زيد عن انس ومعمر عن قتادة عن انس وصالح بن ابي الاخضر عن الزهري كلهم عن انس عن النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকল স্ত্রীদের নিকট গেলেন এবং একবারই গোসল করলেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সকল স্ত্রীদের নিকট গেলেন এবং একবারই গোসল করলেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas reported :One day the Messenger of Allah (May peace be upon him) had sexual intercourse with (all) his wives with a single bath. Abu Dawud said: This tradition has been transmitted through another chain of narrators
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
+
+## French
+
+Rapporté par Anas رضي الله عنه : Un jour, le Messager d’Allah ﷺ a eu des rapports avec toutes ses épouses en ne prenant qu’un seul bain. Abu Dawud a dit : Cette tradition a été transmise par une autre chaîne de rapporteurs
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad bin Musarhad\] telah menceritakan kepada kami \[Isma'il\] telah menceritakan kepada kami \[Humaid Ath-Thawil\] dari \[Anas\] bahwasarnya Rasulullah shallallahu 'alaihi wasallam pada suatu hari pernah menggilir istri-istri beliau (untuk bersenggama) dengan sekali mandi. Abu Dawud berkata; Demikian yang diriwayatkan oleh \[Hisyam bin Zaid\] dari \[Anas\] dan \[Ma'mar\] dari \[Qatadah\] dari \[Anas\] dan \[Shalih bin Abi Al Ahdlar\] dari \[Az-Zuhri\] semuanya dari \[Anas\] dari Nabi shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad bin Musarhad] telah menceritakan kepada kami [Isma'il] telah menceritakan kepada kami [Humaid Ath-Thawil] dari [Anas] bahwasarnya Rasulullah shallallahu 'alaihi wasallam pada suatu hari pernah menggilir istri-istri beliau (untuk bersenggama) dengan sekali mandi. Abu Dawud berkata; Demikian yang diriwayatkan oleh [Hisyam bin Zaid] dari [Anas] dan [Ma'mar] dari [Qatadah] dari [Anas] dan [Shalih bin Abi Al Ahdlar] dari [Az-Zuhri] semuanya dari [Anas] dari Nabi shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса: «Однажды Посланник Аллаха ﷺ обошел всех своих жен, при этом искупавшись лишь один раз».Абу Дауд сказал: «В таком виде этот хадис передал Хишам ибн Зейд от Анаса, Ма‘мар от Катады со слов Анаса, а Салих ибн Абу-ль-Ахдар от аз-Зухри. Все эти версии переданы со слов Анаса от Пророка ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes b. Malik (r.a.)'dan rivayet edilmiştir: "Resulullah (sallallahu aleyhi ve sellem) bir gün (bütün) hanımlarıyla (cinsi) temasta bulundu ve (en sonunda) bir kere gusül abdesti aldı." Ebu Davud dedi ki; Bunu, Hişam b. Zeyd, Enes'den; Ma'mer de Katade vasıtası ile Enes'ten; Salih b. Ebi'l-Ahdar Zühri'den, hepside Enes tarikiyle Resulullah (s.a.v.)'den (böylece) rivayet ettiler. Diğer tahric: Buharî, Nikah; Nesai, tahare; İbn Mace, tahare; Darîmî, Vudu'; Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ایک دن ایک ہی غسل سے اپنی تمام بیویوں کے پاس گئے ۱؎۔ ابوداؤد کہتے ہیں: اور اسی طرح اسے ہشام بن زید نے انس سے اور معمر نے قتادہ سے، اور قتادہ نے انس سے اور صالح بن ابی الاخضر نے زہری سے اور ان سب نے انس رضی اللہ عنہ سے اور انس نے نبی اکرم صلی اللہ علیہ وسلم سے روایت کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>218</td></tr><tr><td>Arabic No</td><td>218</td></tr><tr><td>Reference</td><td>Book 1 Hadith 218</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 218 |
+| Arabic No | 218 |
+| Reference | Book 1 Hadith 218 |

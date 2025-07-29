@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، يَرْفَعُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا احمد بن يونس، حدثنا زهير، حدثنا ابو الزبير، عن جابر، يرفعه الى النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবনু ইউনুস, যুহায়র, আবূ যুবায়র, জাবির (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০৫০, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir reported this hadith directly from Allah's Apostle (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## French
 
+Rapporté par Jabir : Ce hadith a été rapporté directement du Messager d’Allah ﷺ
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Ahmed b. Yûnus rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Ebu'z-Zübeyr, Câbir'den Nebi (Sallallahu Aleyhi ve Sellem)'e ref ederek rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 احمد بن یونس نے ہمیں حدیث بیان کی : ہمیں زہیر نے حدیث بیان کی : ہمیں ابوزبیر نے حضرت جابر رضی اللہ عنہ سے حدیث سنائی ، وہ اس کی نسبت نبی صلی اللہ علیہ وسلم کی طرف کر رہے تھے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4195</td></tr><tr><td>Arabic No</td><td>1625.08</td></tr><tr><td>Reference</td><td>Book 24 Hadith 33</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4195 |
+| Arabic No | 1625.08 |
+| Reference | Book 24 Hadith 33 |

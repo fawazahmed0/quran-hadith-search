@@ -14,62 +14,108 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ يَحْيَى بْنِ سَعِيدٍ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَالَ إِيَّاكُمْ وَاللَّحْمَ فَإِنَّ لَهُ ضَرَاوَةً كَضَرَاوَةِ الْخَمْرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |
+
 وحدثني عن مالك، عن يحيى بن سعيد، ان عمر بن الخطاب، قال اياكم واللحم فان له ضراوة كضراوة الخمر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya said that Malik was asked, "Can a woman eat with other than her relative or slave?" Malik said, "There is no harm in that if it is in a manner which is accepted for a woman to eat with men." Malik said, "A woman sometimes eats with her husband and with others he dines with or with her brother in the same way. It is disapproved of for a woman to be alone with a man when there is no relationship between them by blood, marriage or suckling that would prevent him marrying her." Hadith Translation Not available
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 On demanda à Malek: «la femme pourra-t-elle manger avec quelqu'un d'autre que Zou-mahram (à savoir celui avec qui elle ne peut se marier), ou encore avec son domestique? Il répondit: «il n'y a pas de mal à cela, si l'homme avec qui elle mangera est tel qu'on l'a souligné. Et Malek de continuer: «la femme peut ainsi manger avec son mari ou avec celui qui mange avec lui, ou encore avec son frère, mais il est répugné qu'une femme en soit toute seule avec l'homme dont les rapports avec lui sont illicites. Chapitre XI Au sujet de la viande mangée
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku dari Malik dari \[Yahya bin Sa'id\] bahwa \[Umar bin Khattab\] berkata; "Hati-hatilah dengan daging, sesungguhnya ia memiliki candu seperti halnya khamer
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku dari Malik dari [Yahya bin Sa'id] bahwa [Umar bin Khattab] berkata; "Hati-hatilah dengan daging, sesungguhnya ia memiliki candu seperti halnya khamer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya b. Said (r.a)'den rivayete göre, Ömer b. Hattab şöyle demiştir: "Et yemekten sakının çünkü et şarap alışkanlığına benzer bir alışkanlık meydana getirir." (Sadece İmam-ı Malik'in Muvatla'ında geçmektedir)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت عمر رضی اللہ تعالیٰ عنہ نے کہا بچو تم گوشت سے کیونکہ گوشت کی طلب ہو جاتی ہے جیسے شراب پینے سے اس کی طلب ہو جاتی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Hasan Lighairihi</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1706</td></tr><tr><td>Arabic No</td><td>1706</td></tr><tr><td>Reference</td><td>Book 49 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Hasan Lighairihi | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1706 |
+| Arabic No | 1706 |
+| Reference | Book 49 Hadith 36 |

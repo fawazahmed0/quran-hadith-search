@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنَّ النِّسَاءُ يُصَلِّينَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم الصُّبْحَ مُتَلَفِّعَاتٍ بِمُرُوطِهِنَّ فَيَرْجِعْنَ فَمَا يَعْرِفْهُنَّ أَحَدٌ مِنَ الْغَلَسِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |
+
 اخبرنا اسحاق بن ابراهيم، قال حدثنا سفيان، عن الزهري، عن عروة، عن عايشة، قالت كن النساء يصلين مع رسول الله صلى الله عليه وسلم الصبح متلفعات بمروطهن فيرجعن فما يعرفهن احد من الغلس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইসহাক ইবনু ইবরাহিম (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, মহিলাগণ রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে চাঁদর পরিহিত অবস্থায় ফজরের সালাত আদায় করে বাড়ি ফিরতেন আর অন্ধকারের কারণে তাঁদের কেউ চিনতে পারত না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"The women used to pray Subh with the Messenger of Allah (ﷺ), wrapped in their wrappers, then they would return, and no one would recognize them because of the darkness
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |
+
+## French
+
+Rapporté par 'Aishah : Les femmes priaient le Subh avec le Messager d’Allah (ﷺ), enveloppées dans leurs vêtements, puis elles repartaient, et personne ne pouvait les reconnaître à cause de l’obscurité
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] dia berkata; Telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\] dari \[Urwah\] dari \[Aisyah\] Radliyallahu'anha dia berkata; "Para wanita shalat Subuh bersama Rasulullah dengan menyelimutkan kain ke tubuh mereka, lalu mereka kembali, dan tidak saling mengenal karena hari masih gelap
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; Telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Urwah] dari [Aisyah] Radliyallahu'anha dia berkata; "Para wanita shalat Subuh bersama Rasulullah dengan menyelimutkan kain ke tubuh mereka, lalu mereka kembali, dan tidak saling mengenal karena hari masih gelap
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yine Âişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: dış örtüleriyle birlikte Rasûlüllah (sallallahü aleyhi ve sellem)’in arkasında sabah namazını kılarlardı. Dönüşlerinde karanlıktan dolayı kimse onları tanımazdı.) (Ebû Dâvûd, Salat: 8; Dârimi, Salat:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے ساتھ عورتیں اپنی چادروں میں لپٹی فجر پڑھتی تھیں، پھر وہ لوٹتی تھیں تو اندھیرے کی وجہ سے کوئی انہیں پہچان نہیں پاتا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>546</td></tr><tr><td>Arabic No</td><td>546</td></tr><tr><td>Reference</td><td>Book 6 Hadith 53</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 546 |
+| Arabic No | 546 |
+| Reference | Book 6 Hadith 53 |

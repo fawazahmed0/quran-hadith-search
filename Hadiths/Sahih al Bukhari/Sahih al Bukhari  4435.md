@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ سَعْدٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ كُنْتُ أَسْمَعُ أَنَّهُ لاَ يَمُوتُ نَبِيٌّ حَتَّى يُخَيَّرَ بَيْنَ الدُّنْيَا وَالآخِرَةِ، فَسَمِعْتُ النَّبِيَّ صلى الله عليه وسلم يَقُولُ فِي مَرَضِهِ الَّذِي مَاتَ فِيهِ وَأَخَذَتْهُ بُحَّةٌ يَقُولُ ‏(‏مَعَ الَّذِينَ أَنْعَمَ اللَّهُ عَلَيْهِمْ‏)‏ الآيَةَ، فَظَنَنْتُ أَنَّهُ خُيِّرَ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني محمد بن بشار، حدثنا غندر، حدثنا شعبة، عن سعد، عن عروة، عن عايشة، قالت كنت اسمع انه لا يموت نبي حتى يخير بين الدنيا والاخرة، فسمعت النبي صلى الله عليه وسلم يقول في مرضه الذي مات فيه واخذته بحة يقول (مع الذين انعم الله عليهم) الاية، فظننت انه خير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
 ## Bengali
 
+‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এ কথা শুনেছিলাম যে, কোন নবী মারা যান না যতক্ষণ না তাঁকে বলা হয় দুনিয়া বা আখিরাতের একটি বেছে নিতে। যে রোগে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ইন্তিকাল করেন সে রোগে আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে যন্ত্রণায় কাতর অবস্থায় বলতে শুনেছি, তাঁদের সঙ্গে যাঁদের প্রতি আল্লাহ তা‘আলা নি‘য়ামাত প্রদান করেছেন- \[তাঁরা হলেন- নবী (আঃ)-গণ, সিদ্দীকগণ এবং শাহীদগণ\] (সূরাহ আন-নিসা ৪/৬৯)। তখন আমি ধারণা করলাম যে, তাঁকেও একটি বেছে নিতে বলা হয়েছে। \[৪৪৩৬, ৪৪৩৭, ৪৪৬৩, ৪৫৮৬, ৬৩৪৮, ৬৫০৯; মুসলিম ৪৪/১৩, হাঃ ২৪৪৪, আহমাদ ২৬৪৭৯\] (আধুনিক প্রকাশনীঃ ৪০৮৫, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আয়িশাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, আমি এ কথা শুনেছিলাম যে, কোন নবী মারা যান না যতক্ষণ না তাঁকে বলা হয় দুনিয়া বা আখিরাতের একটি বেছে নিতে। যে রোগে নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম ইন্তিকাল করেন সে রোগে আমি নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম-কে যন্ত্রণায় কাতর অবস্থায় বলতে শুনেছি, তাঁদের সঙ্গে যাঁদের প্রতি আল্লাহ তা‘আলা নি‘য়ামাত প্রদান করেছেন- [তাঁরা হলেন- নবী (আঃ)-গণ, সিদ্দীকগণ এবং শাহীদগণ] (সূরাহ আন-নিসা ৪/৬৯)। তখন আমি ধারণা করলাম যে, তাঁকেও একটি বেছে নিতে বলা হয়েছে। [৪৪৩৬, ৪৪৩৭, ৪৪৬৩, ৪৫৮৬, ৬৩৪৮, ৬৫০৯; মুসলিম ৪৪/১৩, হাঃ ২৪৪৪, আহমাদ ২৬৪৭৯] (আধুনিক প্রকাশনীঃ ৪০৮৫, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
 ## English
 
+Narrated 'Aisha:I used to hear (from the Prophet) that no Prophet dies till he is given the option to select either the worldly life or the life of the Hereafter. I heard the Prophet (ﷺ) in his fatal disease, with his voice becoming hoarse, saying, "In the company of those on whom is the grace of Allah ..( to the end of the Verse )." (4.69) Thereupon I thought that the Prophet (ﷺ) had been given the option
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aisha:Used to hear (from the Prophet) that no Prophet dies till he is given the option to select either the worldly life or the life of the Hereafter. I heard the Prophet (ﷺ) in his fatal disease, with his voice becoming hoarse, saying, "In the company of those on whom is the grace of Allah ..( to the end of the Verse )." (4.69) Thereupon I thought that the Prophet (ﷺ) had been given the option
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
+
+## French
+
+Rapporté par 'Aisha : J’avais entendu du Prophète (ﷺ) qu’aucun prophète ne meurt avant qu’on ne lui donne le choix entre la vie d’ici-bas et celle de l’au-delà. J’ai entendu le Prophète (ﷺ), pendant sa maladie mortelle, alors que sa voix était devenue rauque, dire : « Avec ceux sur qui Allah a accordé Sa grâce… (jusqu’à la fin du verset). » (4.69) J’ai alors compris que le Prophète (ﷺ) avait reçu ce choix
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Muhammad bin Basyar\] Telah menceritakan kepada kami \[Gundar\] Telah menceritakan kepada kami \[Syu'bah\] dari \[Sa'ad\] dari \[Urwah\] dari \[Aisyah\] dia berkata; Aku pernah mendengar bahwa seorang nabi tidak akan meninggal hingga dia di suruh memilih antara dunia dan akhirat. Aisyah berkata; Kemudian ketika Nabi shallallahu 'alaihi wasallam sakit yang menyebabkan kematiannya, aku mendengar beliau menuturkan dengan terputus-putus, beliau bersabda: "Bersama orang-orang yang telah Allah beri nikmat kepada mereka, baik dari para nabi, orang-orang yang jujur, orang-orang yang mati syahid, dan orang-orang yang shalih dan mereka itulah sebaik-baik teman." Aisyah berkata; "Aku mengira pada waktu itulah beliau diberi pilihan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Muhammad bin Basyar] Telah menceritakan kepada kami [Gundar] Telah menceritakan kepada kami [Syu'bah] dari [Sa'ad] dari [Urwah] dari [Aisyah] dia berkata; Aku pernah mendengar bahwa seorang nabi tidak akan meninggal hingga dia di suruh memilih antara dunia dan akhirat. Aisyah berkata; Kemudian ketika Nabi shallallahu 'alaihi wasallam sakit yang menyebabkan kematiannya, aku mendengar beliau menuturkan dengan terputus-putus, beliau bersabda: "Bersama orang-orang yang telah Allah beri nikmat kepada mereka, baik dari para nabi, orang-orang yang jujur, orang-orang yang mati syahid, dan orang-orang yang shalih dan mereka itulah sebaik-baik teman." Aisyah berkata; "Aku mengira pada waktu itulah beliau diberi pilihan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша, да будет доволен ею Аллах, сказала:«Я часто слышала (от Посланника Аллаха ﷺ), что ни один пророк не умирал, пока ему не предлагалось сделать выбор между миром этим и миром вечным. Кроме того, я слышала, как во время той болезни, от которой Пророк ﷺ умер, он говорил хриплым голосом: “...с теми, кого Аллах облагодетельствовал из числа пророков, правдивейших, павших за веру и праведников. Прекрасные это товарищи!” — и я подумала, что ему был предоставлен такой выбор»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஆயிஷா (ரலி) அவர்கள் கூறிய தாவது: “உலக வாழ்வு, மறுமை வாழ்வு ஆகிய இரண்டில், தாம் விரும்பியதைத் தேர்ந்தெடுத்துக்கொள்ளும் வாய்ப்பு வழங்கப்படாமல் எந்த இறைத்தூதரும் இறப்பதில்லை” என்று நான் (நபி (ஸல்) அவர்களிடமிருந்தே) செவியுற்றிருந்தேன். நபி (ஸல்) அவர்கள், எந்த நோயில் இறந்தார்களோ அந்த நோயின்போது அவர்களின் தொண்டை கட்டிக் கொண்டுவிட (கம்மிய, கரகரப்பான குரலில்), “அல்லாஹ் அருள் புரிந்துள்ள இறைத்தூதர்கள், உண்மையாளர்கள், இறைவழியில் உயிர்த் தியாகம் புரிந்தவர் கள் மற்றும் நல்லடியார்களுடன்” எனும் (4:69) இறைவாக்கைச் சொல்லத் தொடங்கினார்கள். ஆகவே, “இவ்வுலகம், மறுமை ஆகிய இரண்டில் ஒன்றைத் தேர்வு செய்யும் வாய்ப்பு அவர்களுக்கும் வழங்கப்பட்டது' என்று நான் எண்ணிக்கொண்டேன்.478 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
 ## Turkish
 
+Aişe dedi ki: "Ben şunu işitir dururdum: Hiçbir Nebi dünya ile ahiret arasında seçim yapmakta serbest bırakılmadıkça ölmez. Nebi Sallallahu Aleyhi ve Sellem'in vefatı ile neticelenen hastalığında sesi kısılmışken: "Allah'ın kendilerine nimet verdiği kimselerle beraber ... " \[Nisa, 69\] ayetini okuduğunu işitince, onun muhayyer bırakıldığın! anladım." Bu Hadis 4436,4437,4463,4586,6348 ve 6509 numara ile gelecektir
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Aişe dedi ki: "Ben şunu işitir dururdum: Hiçbir Nebi dünya ile ahiret arasında seçim yapmakta serbest bırakılmadıkça ölmez. Nebi Sallallahu Aleyhi ve Sellem'in vefatı ile neticelenen hastalığında sesi kısılmışken: "Allah'ın kendilerine nimet verdiği kimselerle beraber ... " [Nisa, 69] ayetini okuduğunu işitince, onun muhayyer bırakıldığın! anladım." Bu Hadis 4436,4437,4463,4586,6348 ve 6509 numara ile gelecektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے محمد بن بشار نے بیان کیا، کہا ہم سے غندر نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے سعد نے، ان سے عروہ نے اور ان سے عائشہ رضی اللہ عنہا نے بیان کیا کہ میں سنتی آئی تھی کہ ہر نبی کو وفات سے پہلے دنیا اور آخرت کے رہنے میں اختیار دیا جاتا ہے، پھر میں نے رسول اللہ صلی اللہ علیہ وسلم سے بھی سنا، آپ اپنے مرض الموت میں فرما رہے تھے۔ آپ صلی اللہ علیہ وسلم کی آواز بھاری ہو چکی تھی۔ آپ آیت «مع الذين أنعم الله عليهم‏» کی تلاوت فرما رہے تھے ( یعنی ان لوگوں کے ساتھ جن پر اللہ نے انعام کیا ہے ) مجھے یقین ہو گیا کہ آپ کو بھی اختیار دے دیا گیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4435</td></tr><tr><td>Arabic No</td><td>4435</td></tr><tr><td>Reference</td><td>Book 64 Hadith 456</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4435 |
+| Arabic No | 4435 |
+| Reference | Book 64 Hadith 456 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ الْقَاسِمِ، أَخْبَرَنِي مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كُلُّ مُسْكِرٍ خَمْرٌ وَكُلُّ مُسْكِرٍ حَرَامٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 51 Hadith 161</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |
+
 قال الحارث بن مسكين قراءة عليه وانا اسمع، عن ابن القاسم، اخبرني مالك، عن نافع، عن ابن عمر، قال كل مسكر خمر وكل مسكر حرام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 51 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হারিস ইবন মিসকীন (রহঃ) ... ইবন উমর (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ প্রত্যেক নেশাদায়ক দ্রব্য মদ, আর প্রত্যেক নেশাদায়ক দ্রব্য হারাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 51 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'Umar said:"Every intoxicant is Khamr and every intoxicant is unlawful
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 51 Hadith 161</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |
+
+## French
+
+Rapporté par Ibn 'Umar : « Tout ce qui enivre est du khamr et tout ce qui enivre est interdit. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 51 Hadith 161</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 51 Hadith 161</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5699</td></tr><tr><td>Arabic No</td><td>5699</td></tr><tr><td>Reference</td><td>Book 51 Hadith 161</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5699 |
+| Arabic No | 5699 |
+| Reference | Book 51 Hadith 161 |

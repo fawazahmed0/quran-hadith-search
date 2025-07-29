@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## French
 
+Rapporté par Hasan bin Alī al-Hulwānī : Il a dit : « Yazīd bin Hārūn nous a rapporté, Hammām nous a informés, il a dit : ‘Abū Dāwud al-A’mā est entré auprès de Qatādah et, lorsqu’il s’est levé, ils ont dit : “Celui-ci prétend avoir rencontré dix-huit combattants de la bataille de Badr.” Qatādah a dit : “Celui-là demandait à peine \[des hadiths\] avant la peste ; il ne s’est pas intéressé à la recherche du hadith et il n’a pas parlé \[avec des savants\] à ce sujet. Par Allah, al-Hasan ne nous a jamais rapporté d’un témoin de Badr sans intermédiaire ; et Sa’īd bin al-Musayyib ne nous a rapporté d’un témoin de Badr sans intermédiaire que de Sa’d bin Mālik.”’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>64</td></tr><tr><td>Reference</td><td>Book 0 Hadith 64</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 64 |
+| Reference | Book 0 Hadith 64 |

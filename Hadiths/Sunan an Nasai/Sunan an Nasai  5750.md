@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا جَرِيرٌ، عَنِ ابْنِ شُبْرُمَةَ، قَالَ رَحِمَ اللَّهُ إِبْرَاهِيمَ شَدَّدَ النَّاسُ فِي النَّبِيذِ وَرَخَّصَ فِيهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 51 Hadith 212</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا جرير، عن ابن شبرمة، قال رحم الله ابراهيم شدد الناس في النبيذ ورخص فيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 51 Hadith 212</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... ইবন শুবরুমা (রহঃ) থেকে বর্ণিত। তিনি বলেন, আল্লাহ্‌ তা'আলা ইব্রাহীমের উপর রহম করুন। লোক নবীযের ব্যাপারে কঠোরতা আরােপ করতে অথচ তিনি তা সহজ করে দিয়েছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 51 Hadith 212</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn Shubrumah said:"May Allah have mercy on Ibrahim. Other scholars had strict views on Nabidh but he was lenient
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 51 Hadith 212</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |
+
+## French
+
+Rapporté par Ibn Shubrumah : Qu'Allah fasse miséricorde à Ibrahim. D'autres savants étaient stricts concernant le Nabidh, mais lui était indulgent
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] ia berkata; telah memberitakan kepada kami \[Jarir\] dari \[Ibnu Syubrumah\] ia berkata, "Semoga Allah merahmati \[Ibrahim\], orang-orang berlaku keras dalam masalah perasan nabidz, namun ia justeru memberi kemudahan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] ia berkata; telah memberitakan kepada kami [Jarir] dari [Ibnu Syubrumah] ia berkata, "Semoga Allah merahmati [Ibrahim], orang-orang berlaku keras dalam masalah perasan nabidz, namun ia justeru memberi kemudahan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 51 Hadith 212</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 51 Hadith 212</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5750</td></tr><tr><td>Arabic No</td><td>5750</td></tr><tr><td>Reference</td><td>Book 51 Hadith 212</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5750 |
+| Arabic No | 5750 |
+| Reference | Book 51 Hadith 212 |

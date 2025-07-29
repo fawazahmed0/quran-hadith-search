@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ كَانَ يُنْبَذُ لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي سِقَاءٍ فَإِذَا لَمْ يَجِدُوا سِقَاءً نُبِذَ لَهُ فِي تَوْرٍ مِنْ حِجَارَةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
+
 حدثنا عبد الله بن محمد النفيلي، حدثنا زهير، حدثنا ابو الزبير، عن جابر بن عبد الله، قال كان ينبذ لرسول الله صلى الله عليه وسلم في سقاء فاذا لم يجدوا سقاء نبذ له في تور من حجارة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
 
 ## Bengali
 
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য মশকে নবীয ঢালা হতো। মশক না পাওয়া গেলে পাথরের তৈরী পাত্রে তাঁর জন্য নবীয ঢালা হতো।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য মশকে নবীয ঢালা হতো। মশক না পাওয়া গেলে পাথরের তৈরী পাত্রে তাঁর জন্য নবীয ঢালা হতো।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. ‘Abd Allah said:Dates were steeped for the Messenger of Allah (ﷺ) in a skin, but when they could not find a skin, they were steeped for him in a small stone vessel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
+
+## French
+
+Rapporté par Jabir ibn Abd Allah رضي الله عنه : « On faisait tremper des dattes pour le Messager d’Allah ﷺ dans une outre. Mais lorsqu’ils ne trouvaient pas d’outre, ils les faisaient tremper pour lui dans un petit récipient en pierre. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что настой плодов (набиз) для Посланника Аллаха ﷺ делали в кожаных бурдюках или же в каменном сосуде, если не было бурдюка
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir b. Abdillah (r.a)'dan rivayet olunmuştur; dedi ki: Rasûlullah (s.a.v.)'e (ince deriden yapılmış) bir su tulumunda şıra yapılırdı. (Böyle bir) su tulumu bulamadıkları zaman kendisine taştan yapılmış bir çanak içinde şıra yapılırdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں رسول اللہ صلی اللہ علیہ وسلم کے لیے چمڑے کے برتن میں نبیذ تیار کی جاتی تھی اور اگر وہ چمڑے کا برتن نہیں پاتے تو پتھر کے برتن میں آپ صلی اللہ علیہ وسلم کے لیے نبیذ تیار کی جاتی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3702</td></tr><tr><td>Arabic No</td><td>3702</td></tr><tr><td>Reference</td><td>Book 27 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3702 |
+| Arabic No | 3702 |
+| Reference | Book 27 Hadith 34 |

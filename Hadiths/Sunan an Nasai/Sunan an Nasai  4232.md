@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، عَنِ ابْنِ عُلَيَّةَ، عَنْ خَالِدٍ، قَالَ حَدَّثَنِي أَبُو قِلاَبَةَ، عَنْ أَبِي الْمَلِيحِ، فَلَقِيتُ أَبَا الْمَلِيحِ فَسَأَلْتُهُ فَحَدَّثَنِي عَنْ نُبَيْشَةَ الْهُذَلِيِّ، قَالَ قَالَ رَجُلٌ يَا رَسُولَ اللَّهِ إِنَّا كُنَّا نَعْتِرُ عَتِيرَةً فِي الْجَاهِلِيَّةِ فَمَا تَأْمُرُنَا قَالَ ‏ "‏ اذْبَحُوا لِلَّهِ عَزَّ وَجَلَّ فِي أَىِّ شَهْرٍ مَا كَانَ وَبَرُّوا اللَّهَ عَزَّ وَجَلَّ وَأَطْعِمُوا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |
+
 اخبرنا يعقوب بن ابراهيم، عن ابن علية، عن خالد، قال حدثني ابو قلابة، عن ابي المليح، فلقيت ابا المليح فسالته فحدثني عن نبيشة الهذلي، قال قال رجل يا رسول الله انا كنا نعتر عتيرة في الجاهلية فما تامرنا قال " اذبحوا لله عز وجل في اى شهر ما كان وبروا الله عز وجل واطعموا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াকূব ইবন ইবরাহীম (রহঃ) ... নুবায়শা হুযালী (রাঃ) থেকে বর্ণিত। তিনি বলেন, এক ব্যাক্তি বললোঃ ইয়া রাসূলাল্লাহ! আমরা জাহিলী যুগে আতীরা করতাম, এখন আপনি আমাদেরকে কী আদেশ করেন? তিনি বললেনঃ যে মাসেই হোক, আল্লাহর জন্য যবেহ কর এবং আল্লাহর জন্য নেককাজ কর এবং লোকদেরকে খাদ্য দান কর।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Nubaishah Al-Hudhaili said:"A man said: 'O Messenger of Allah, we used to sacrifice the 'Atirah during the Jahiliyyah in Rajab; what do you command us to do?' He said: 'Sacrifice to Allah, the Mighty and Sublime, whatever month it is, do good for the sake of Allah, the Mighty and Sublime, and feed (the poor)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |
+
+## French
+
+Rapporté par Nubaishah Al-Hudhaili : Un homme demanda : « Ô Messager d’Allah, nous avions l’habitude de sacrifier l’‘Atirah pendant la période de l’Ignorance au mois de Rajab ; que nous ordonnes-tu de faire ? » Il répondit : « Sacrifiez pour Allah, le Puissant et Majestueux, quel que soit le mois, faites le bien pour Allah, le Puissant et Majestueux, et nourrissez les pauvres. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ya'qub bin Ibrahim\] dari \[Ibnu 'Ulayyah\] dari \[Khalid\], ia berkata; telah menceritakan kepadaku \[Abu Qilabah\] dari \[Abu Al Malih\] kemudian Saya bertemu dengan Abu Al Malih dan bertanya kepadanya. Kemudian ia menceritakan kepadaku dari \[Nusyaibah Al Hudzali\], ia berkata; berkata seorang laki-laki; wahai Rasulullah, sesungguhnya kami dahulu menyembelih hewan di awal bulan Rajab pada masa jahiliyah, maka apakah yang anda perintahkan kepada kami? Beliau bersabda: "Sembelihlah untuk 'azza wajalla pada bulan apa saja dan berbuatlah baik kepada Allah 'azza wajalla, dan berilah makanan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ya'qub bin Ibrahim] dari [Ibnu 'Ulayyah] dari [Khalid], ia berkata; telah menceritakan kepadaku [Abu Qilabah] dari [Abu Al Malih] kemudian Saya bertemu dengan Abu Al Malih dan bertanya kepadanya. Kemudian ia menceritakan kepadaku dari [Nusyaibah Al Hudzali], ia berkata; berkata seorang laki-laki; wahai Rasulullah, sesungguhnya kami dahulu menyembelih hewan di awal bulan Rajab pada masa jahiliyah, maka apakah yang anda perintahkan kepada kami? Beliau bersabda: "Sembelihlah untuk 'azza wajalla pada bulan apa saja dan berbuatlah baik kepada Allah 'azza wajalla, dan berilah makanan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4232</td></tr><tr><td>Arabic No</td><td>4232</td></tr><tr><td>Reference</td><td>Book 41 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4232 |
+| Arabic No | 4232 |
+| Reference | Book 41 Hadith 11 |

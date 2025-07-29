@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ بْنُ مُوسَى، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ يُونُسَ، عَنِ الزُّهْرِيِّ، قَالَ قَالَتْ عَمْرَةُ عَنْ عَائِشَةَ، رضى الله عنها عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏ "‏ تُقْطَعُ يَدُ السَّارِقِ فِي رُبُعِ دِينَارٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 46 Hadith 47</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |
+
 اخبرنا محمد بن حاتم، قال انبانا حبان بن موسى، قال حدثنا عبد الله، عن يونس، عن الزهري، قال قالت عمرة عن عايشة، رضى الله عنها عن رسول الله صلى الله عليه وسلم " تقطع يد السارق في ربع دينار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 46 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন হাতিম (রহঃ) ... ইউনুস (রহঃ) যুহরী হতে, তিনি আমরা (রহঃ) হতে এবং তিনি আয়েশা (রাঃ) সূত্রে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা থেকে বর্ণনা করেন, দীনারের চার ভাগের এক ভাগের জন্য চোরের হাত কাটা যাবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 46 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Az-Zuhri said:"Amrah said, narrating from 'Aishah, may Allah be pleased with her, that the Messenger of Allah cut off the hand of a thief for a quarter of a Dinar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 46 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |
+
+## French
+
+Rapporté par Az-Zuhri : Amrah a rapporté de 'Aishah, رضي الله عنها, que le Messager d'Allah a coupé la main d’un voleur pour un quart de dinar
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Muhammad bin Hatim\], dia berkata; telah memberitakan kepada kami \[Hibban bin Musa\], dia berkata; telah menceritakan kepada kami \[Abdullah\] dari \[Yunus\] dari \[Az Zuhri\], dia berkata; telah berkata \['Amrah\] dari \[Aisyah radliallahu 'anha\] dari Rasulullah shallallahu 'alaihi wasallam; dipotong tangan pencuri barang senilai seperempat dinar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Muhammad bin Hatim], dia berkata; telah memberitakan kepada kami [Hibban bin Musa], dia berkata; telah menceritakan kepada kami [Abdullah] dari [Yunus] dari [Az Zuhri], dia berkata; telah berkata ['Amrah] dari [Aisyah radliallahu 'anha] dari Rasulullah shallallahu 'alaihi wasallam; dipotong tangan pencuri barang senilai seperempat dinar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 46 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 46 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4916</td></tr><tr><td>Arabic No</td><td>4916</td></tr><tr><td>Reference</td><td>Book 46 Hadith 47</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4916 |
+| Arabic No | 4916 |
+| Reference | Book 46 Hadith 47 |

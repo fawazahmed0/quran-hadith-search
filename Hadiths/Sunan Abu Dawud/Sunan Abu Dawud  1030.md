@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ إِنَّ أَحَدَكُمْ إِذَا قَامَ يُصَلِّي جَاءَهُ الشَّيْطَانُ فَلَبَسَ عَلَيْهِ حَتَّى لاَ يَدْرِي كَمْ صَلَّى فَإِذَا وَجَدَ أَحَدُكُمْ ذَلِكَ فَلْيَسْجُدْ سَجْدَتَيْنِ وَهُوَ جَالِسٌ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَا رَوَاهُ ابْنُ عُيَيْنَةَ وَمَعْمَرٌ وَاللَّيْثُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
+
 حدثنا القعنبي، عن مالك، عن ابن شهاب، عن ابي سلمة بن عبد الرحمن، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " ان احدكم اذا قام يصلي جاءه الشيطان فلبس عليه حتى لا يدري كم صلى فاذا وجد احدكم ذلك فليسجد سجدتين وهو جالس " . قال ابو داود وكذا رواه ابن عيينة ومعمر والليث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন সালাতে দাঁড়ায় তখন শয়তান তার কাছে এসে তাতে ধোঁকা দিতে থাকে। এমনকি সে কয় রাক‘আত সালাত আদায় করেছে তা স্মরণ করতে পারে না। কাজেই তোমাদের কারো এরূপ অবস্থা হলে সে যেন বসা অবস্থায় দু‘টি সিজদা্ আদায় করে।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ যখন সালাতে দাঁড়ায় তখন শয়তান তার কাছে এসে তাতে ধোঁকা দিতে থাকে। এমনকি সে কয় রাক‘আত সালাত আদায় করেছে তা স্মরণ করতে পারে না। কাজেই তোমাদের কারো এরূপ অবস্থা হলে সে যেন বসা অবস্থায় দু‘টি সিজদা্ আদায় করে।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (ﷺ) as saying; When one of you stands up to pray, the devil comes to him and confuses him so that he does not know how much he has prayed. If any of you has such an experience, he should perform two prostrations while he is sitting. Abu Dawud said; This tradition has been narrated in a similar manner by Ibn ‘Uyainab, Ma’mar and al-Laith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Lorsque l’un d’entre vous se lève pour prier, le diable vient à lui et le trouble au point qu’il ne sait plus combien de rak‘ah il a accomplies. Si cela vous arrive, faites deux prosternations assis. » Abu Dawud a dit : Cette tradition a été rapportée de façon similaire par Ibn ‘Uyainab, Ma‘mar et al-Laith
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\] dari \[Ibnu Syihab\] dari \[Abu Salamah bin Abdurrahman\] dari \[Abu Hurairah\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian tengah mengerjakan shalat, maka syetan akan datang kepadanya kemudian ia mengacaukan (pikiran) hingga tidak tahu berapa kali dia shalat, apabila salah seorang dari kalian mendapati yang demikian itu, hendaknya ia sujud dua kali ketika masih duduk (tasyahud)." Abu Daud mengatakan; "Demikianlah yang di riwayatkan oleh \[Ibnu 'Uyainah\], \[Ma'mar\], \[Al Laits\]. Telah menceritakan kepada kami \[Hajjaj bin Abu Ya'qub\] telah menceritakan kepada kami \[Ya'qub\] telah menceritakan kepada kami \[sepupunya Az Zuhri\] dari \[Muhammad bin Muslim\] seperti isnad hadits ini, dia menambahkan; "…ketika masih duduk sebelum salam." Telah menceritakan kepada kami \[Hajjaj\] telah menceritakan kepada kami \[Ya'qub\] telah mengabarkan kepada kami \[ayahku\] dari \[Ibnu Ishaq\] telah menceritakan kepadaku \[Muhammad bin Muslim Az Zuhri\] dengan isnad dan maknanya, dia berkata; "…Kemudian dia sujud dua kali sebelum salam, lalu salam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang dari kalian tengah mengerjakan shalat, maka syetan akan datang kepadanya kemudian ia mengacaukan (pikiran) hingga tidak tahu berapa kali dia shalat, apabila salah seorang dari kalian mendapati yang demikian itu, hendaknya ia sujud dua kali ketika masih duduk (tasyahud)." Abu Daud mengatakan; "Demikianlah yang di riwayatkan oleh [Ibnu 'Uyainah], [Ma'mar], [Al Laits]. Telah menceritakan kepada kami [Hajjaj bin Abu Ya'qub] telah menceritakan kepada kami [Ya'qub] telah menceritakan kepada kami [sepupunya Az Zuhri] dari [Muhammad bin Muslim] seperti isnad hadits ini, dia menambahkan; "…ketika masih duduk sebelum salam." Telah menceritakan kepada kami [Hajjaj] telah menceritakan kepada kami [Ya'qub] telah mengabarkan kepada kami [ayahku] dari [Ibnu Ishaq] telah menceritakan kepadaku [Muhammad bin Muslim Az Zuhri] dengan isnad dan maknanya, dia berkata; "…Kemudian dia sujud dua kali sebelum salam, lalu salam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если во время молитвы любого из вас к нему придёт шайтан и запутает его так, что он не будет знать, сколько рак‘атов совершил, если любой из вас обнаружит это, пусть он совершит два земных поклона во время сидения»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.) Nebi (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: "Sizden biriniz namaz kılmaya kalktığı zaman, şeytan kendisine gelip kaç rek'at kıldığını bilemeyecek kadar zihnim karıştırır. Birinize böyle bir şey olduğu zaman, oturarak iki defa secde yapsın." Ebû Dâvüd: bu hadisi aynı şekilde îbn Uyeyne, Ma'mer ve Leys de rivayet ettiler, dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی شخص نماز پڑھنے کے لیے کھڑا ہوتا ہے تو شیطان اس کے پاس آتا ہے اور اسے شبہے میں ڈال دیتا ہے، یہاں تک کہ اسے یاد نہیں رہ جاتا کہ اس نے کتنی رکعتیں پڑھی ہیں؟ لہٰذا جب تم میں سے کسی کو ایسا محسوس ہو تو وہ بیٹھے بیٹھے دو سجدے کر لے ۔ ابوداؤد کہتے ہیں: اسی طرح اسے ابن عیینہ، معمر اور لیث نے روایت کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1232) Sahih Muslim (389 After 569)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1030</td></tr><tr><td>Arabic No</td><td>1030</td></tr><tr><td>Reference</td><td>Book 2 Hadith 641</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1232) Sahih Muslim (389 After 569) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1030 |
+| Arabic No | 1030 |
+| Reference | Book 2 Hadith 641 |

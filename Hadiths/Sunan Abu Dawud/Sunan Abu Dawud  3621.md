@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا الأَعْمَشُ، عَنْ شَقِيقٍ، عَنِ الأَشْعَثِ، قَالَ كَانَ بَيْنِي وَبَيْنَ رَجُلٍ مِنَ الْيَهُودِ أَرْضٌ فَجَحَدَنِي فَقَدَّمْتُهُ إِلَى النَّبِيِّ صلى الله عليه وسلم قَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ أَلَكَ بَيِّنَةٌ ‏"‏ ‏.‏ قُلْتُ لاَ ‏.‏ قَالَ لِلْيَهُودِيِّ ‏"‏ احْلِفْ ‏"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ إِذًا يَحْلِفَ وَيَذْهَبَ بِمَالِي ‏.‏ فَأَنْزَلَ اللَّهُ ‏(‏ إِنَّ الَّذِينَ يَشْتَرُونَ بِعَهْدِ اللَّهِ وَأَيْمَانِهِمْ ‏)‏ إِلَى آخِرِ الآيَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
+
 حدثنا محمد بن عيسى، حدثنا ابو معاوية، حدثنا الاعمش، عن شقيق، عن الاشعث، قال كان بيني وبين رجل من اليهود ارض فجحدني فقدمته الى النبي صلى الله عليه وسلم قال لي النبي صلى الله عليه وسلم " الك بينة " . قلت لا . قال لليهودي " احلف " . قلت يا رسول الله اذا يحلف ويذهب بمالي . فانزل الله ( ان الذين يشترون بعهد الله وايمانهم ) الى اخر الاية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
 
 ## Bengali
 
+। আল-আশ‘আস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি এবং এক ইয়াহুদী এক খন্ড জমির মালিক ছিলাম। সে আমার মালিকানা অস্বীকার করলে আমি তাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট নিয়ে যাই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ তোমার কি সাক্ষী আছে? আমি বললাম, না। তিনি ইয়াহুদীকে বললেনঃ কসম খাও। আমি বললাম, হে আল্লাহর রাসূল! সে যখনই শপথ করবে, আমি আমার সম্পত্তি থেকে বঞ্চিত হবো। অতঃপর মহান আল্লাহ অবতীর্ণ করলেনঃ ‘‘যারা আল্লাহর সাথে কৃত ওয়াদা ও নিজেদের শপথসমূহ সামান্য মূল্যে বিক্রি করে, আর পরকালে তাদের জন্য কোনো অংশ নেই। কিয়ামতের দিন আল্লাহ তাদের সাথে কথা বলবেন না, তাদের প্রতি তাকিয়ে দেখবেন না, আর তাদেরকে পবিত্র করবেন না। তাদের জন্য কঠিন ও পীড়াদায়ক শাস্তি রয়েছে।’’ (সূরা আল-ইমরানঃ ৭৭)\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আল-আশ‘আস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি এবং এক ইয়াহুদী এক খন্ড জমির মালিক ছিলাম। সে আমার মালিকানা অস্বীকার করলে আমি তাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট নিয়ে যাই। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ তোমার কি সাক্ষী আছে? আমি বললাম, না। তিনি ইয়াহুদীকে বললেনঃ কসম খাও। আমি বললাম, হে আল্লাহর রাসূল! সে যখনই শপথ করবে, আমি আমার সম্পত্তি থেকে বঞ্চিত হবো। অতঃপর মহান আল্লাহ অবতীর্ণ করলেনঃ ‘‘যারা আল্লাহর সাথে কৃত ওয়াদা ও নিজেদের শপথসমূহ সামান্য মূল্যে বিক্রি করে, আর পরকালে তাদের জন্য কোনো অংশ নেই। কিয়ামতের দিন আল্লাহ তাদের সাথে কথা বলবেন না, তাদের প্রতি তাকিয়ে দেখবেন না, আর তাদেরকে পবিত্র করবেন না। তাদের জন্য কঠিন ও পীড়াদায়ক শাস্তি রয়েছে।’’ (সূরা আল-ইমরানঃ ৭৭)[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Ash’ath b. Qais said:A Jew and I shared some land and he denied my right, so I took him to the holy prophet (ﷺ). The holy prophet (ﷺ) said to me: Have you have proof. I said: No. He then said to the Jew: Swear an oath I said Messenger of Allah,he will swear an oath and go off my property. So Allah sent down: “Those who barter for a small price Allah’s covenant and their oaths...." to the end of the verse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
+
+## French
+
+Rapporté par Al-Ash’ath ibn Qais رضي الله عنه : Un Juif et moi possédions ensemble un terrain, et il a nié mon droit. Je l’ai donc amené devant le Saint Prophète ﷺ. Le Saint Prophète ﷺ m’a dit : « As-tu une preuve ? » J’ai répondu : « Non. » Il a alors dit au Juif : « Prête serment. » J’ai dit : « Messager d’Allah, il va prêter serment et partir avec mon bien. » Alors Allah a révélé : « Ceux qui échangent le pacte d’Allah et leurs serments contre un vil prix… » jusqu’à la fin du verset
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isa\] telah menceritakan kepada kami \[Abu Mu'awiyah\] telah menceritakan kepada kami \[Al A'masy\] dari \[Syaqiq\] dari \[Al Asy'ats\] ia berkata, "Aku dan seorang laki-laki Yahudi berselisih atas sebuah lahan, kemudian ia mengingkariku. Maka aku pun datang menemui Nabi shallallahu 'alaihi wasallam dan mengadukan hal itu kepadanya, Nabi shallallahu 'alaihi wasallam lalu berkata kepadaku: "Apakah engkau memiliki bukti?" Aku menjawab, "Tidak." Beliau bersabda kepada orang Yahudi tersebut: "Bersumpahlah!" Maka aku katakan, "Wahai Rasulullah, jika demikian ia akan bersumpah dan membawa hartaku!" Kemudian Allah menurunkan ayat: '(Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit…) ' (Qs. Ali Imran: 77) hingga akhir ayat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Al Asy'ats] ia berkata, "Aku dan seorang laki-laki Yahudi berselisih atas sebuah lahan, kemudian ia mengingkariku. Maka aku pun datang menemui Nabi shallallahu 'alaihi wasallam dan mengadukan hal itu kepadanya, Nabi shallallahu 'alaihi wasallam lalu berkata kepadaku: "Apakah engkau memiliki bukti?" Aku menjawab, "Tidak." Beliau bersabda kepada orang Yahudi tersebut: "Bersumpahlah!" Maka aku katakan, "Wahai Rasulullah, jika demikian ia akan bersumpah dan membawa hartaku!" Kemudian Allah menurunkan ayat: '(Sesungguhnya orang-orang yang menukar janji (nya dengan) Allah dan sumpah-sumpah mereka dengan harga yang sedikit…) ' (Qs. Ali Imran: 77) hingga akhir ayat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от аль-Аш‘аса: «Один иудей не хотел отдавать мне мою землю, и мы вели тяжбу из-за неё. Я привёл его к Пророку ﷺ и Пророк ﷺ сказал мне: “Есть ли у тебя доказательство?” Я ответил: “Нет”. Тогда он сказал иудею: “Поклянись”. Я возразил: “О Посланник Аллаха! Но ведь он сейчас поклянётся, и я лишусь своего имущества!” Тогда Аллах ниспослал: “Воистину, тем, которые продают завет с Аллахом и свои клятвы за ничтожную цену, нет доли в Последней жизни. Аллах не станет говорить с ними, не посмотрит на них в День воскресения и не очистит их. Им уготованы мучительные страдания” (сура “Али ‘Имран”, аят 77)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
 
 ## Turkish
 
+el-Eş'as'dan rivayet edilmiştir; dedi ki: Benimle yahudilerden bir adam arasında (ihtilaflı) bir arazi vardı. Adam beni (m hakkımı) inkâr et(miş)ti. (Tutup) kendisini Peygamber (s.a.v.)'e götürdüm. Nebi (s.a.v.) bana: "Senin şahidin var mı?" diye sordu. Bende, "Hayır" cevabını verdim. (Bunun üzerine) yahudiye (dönerek): "Yemin et" diye emir verdi. Ben (onun yemin etmesine fırsat vermeden): "Ey Allah'ın Rasûlü, bu durumda (bu adam) yemin eder ve malımı (da elimden alır) götürür, dedim. Bunun üzerine Yüce Allah; "Fakat Allah'a verdikleri sözü ve yeminlerini az (bir) paraya satanlar var ya..."\[Âl-i İmran 77\] âyetini, sonuna kadar indirdi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-el-Eş'as'dan rivayet edilmiştir; dedi ki: Benimle yahudilerden bir adam arasında (ihtilaflı) bir arazi vardı. Adam beni (m hakkımı) inkâr et(miş)ti. (Tutup) kendisini Peygamber (s.a.v.)'e götürdüm. Nebi (s.a.v.) bana: "Senin şahidin var mı?" diye sordu. Bende, "Hayır" cevabını verdim. (Bunun üzerine) yahudiye (dönerek): "Yemin et" diye emir verdi. Ben (onun yemin etmesine fırsat vermeden): "Ey Allah'ın Rasûlü, bu durumda (bu adam) yemin eder ve malımı (da elimden alır) götürür, dedim. Bunun üzerine Yüce Allah; "Fakat Allah'a verdikleri sözü ve yeminlerini az (bir) paraya satanlar var ya..."[Âl-i İmran 77] âyetini, sonuna kadar indirdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اشعث رضی اللہ عنہ کہتے ہیں کہ میرے اور ایک یہودی کے درمیان کچھ ( مشترک ) زمین تھی، یہودی نے میرے حصہ کا انکار کیا، میں اسے نبی اکرم صلی اللہ علیہ وسلم کے پاس لے گیا تو نبی اکرم صلی اللہ علیہ وسلم نے مجھ سے فرمایا: کیا تمہارے پاس کوئی گواہ ہے؟ میں نے کہا: نہیں، آپ صلی اللہ علیہ وسلم نے یہودی سے فرمایا: تم قسم کھاؤ میں نے عرض کیا: اللہ کے رسول! تب تو یہ قسم کھا کر میرا مال ہڑپ لے گا، تو اللہ تعالیٰ نے یہ آیت نازل فرمائی: «إن الذين يشترون بعهد الله وأيمانهم» جو لوگ اللہ کا عہد و پیمان دے کر اور اپنی قسمیں کھا کر تھوڑا مال خریدتے ہیں آخرت میں ان کا کوئی حصہ نہیں ( سورة آل عمران: ۷۷ ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2616، 2617) Sahih Muslim (138)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3621</td></tr><tr><td>Arabic No</td><td>3621</td></tr><tr><td>Reference</td><td>Book 25 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2616، 2617) Sahih Muslim (138) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3621 |
+| Arabic No | 3621 |
+| Reference | Book 25 Hadith 51 |

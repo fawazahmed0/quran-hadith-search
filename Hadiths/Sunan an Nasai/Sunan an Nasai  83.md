@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ سُفْيَانَ، - وَهُوَ ابْنُ حَبِيبٍ - عَنْ شُعْبَةَ، عَنِ النُّعْمَانِ بْنِ سَالِمٍ، عَنِ ابْنِ أَبِي أَوْسٍ، عَنْ جَدِّهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَوْكَفَ ثَلاَثًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |
+
 اخبرنا حميد بن مسعدة، عن سفيان، - وهو ابن حبيب - عن شعبة، عن النعمان بن سالم، عن ابن ابي اوس، عن جده، قال رايت رسول الله صلى الله عليه وسلم استوكف ثلاثا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । হুমায়দ ইবনু মাসআদাহ (রহঃ) ... ইবনু আওস (রহঃ) তাঁর দাদার নিকট থেকে বর্ণনা করেন। তিনি বলেনঃ আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে (উযূর সময়) তিনবার করে পানি ঢালতে দেখেছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from (Aws bin) Abi Aws that his grandfather said:"I saw the Messenger of Allah (ﷺ) trickle water into his hand until it started to drip from his hand, three times
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |
+
+## French
+
+Rapporté par (Aws bin) Abi Aws, dont le grand-père a dit : J'ai vu le Messager d'Allah (ﷺ) faire couler de l'eau dans sa main jusqu'à ce qu'elle commence à goutter, trois fois
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Humaid bin Mas'adah\] dari \[Sufyan yaitu Ibnu Habib\] dari \[Syu'bah\] dari \[Nu'man bin Salim\] dari \[Ibnu 'Aus bin Abu Aus\] dari \[Kakeknya\] dia berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam membasuh telapak tangan tiga kali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Humaid bin Mas'adah] dari [Sufyan yaitu Ibnu Habib] dari [Syu'bah] dari [Nu'man bin Salim] dari [Ibnu 'Aus bin Abu Aus] dari [Kakeknya] dia berkata; "Aku melihat Rasulullah shallallahu 'alaihi wasallam membasuh telapak tangan tiga kali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Evs b. Evs dedesinden naklediyor: sallallahü aleyhi ve sellem) abdest organlarını üçer sefer yıkarken gördüm.) (Tirmizî, Tahara: 34; Buhârî, Vudu’’:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابواوس رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا آپ نے ( اپنی ہتھیلیوں پر ) تین بار پانی ٹپکایا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Arabic No</td><td>83</td></tr><tr><td>Reference</td><td>Book 1 Hadith 83</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Arabic No | 83 |
+| Reference | Book 1 Hadith 83 |

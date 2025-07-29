@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، عَنْ مَالِكٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى الْمَغْرِبَ وَالْعِشَاءَ بِالْمُزْدَلِفَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |
+
 اخبرنا عبيد الله بن سعيد، قال حدثنا عبد الرحمن، عن مالك، عن الزهري، عن سالم، عن ابن عمر، ان النبي صلى الله عليه وسلم صلى المغرب والعشاء بالمزدلفة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । উবায়দুল্লাহ ইবনু সাঈদ (রহঃ) ... ইবনু উমর (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুযদালিফাতে মাগরিব ও ইশা (একত্রে) আদায় করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Umar that the Prophet (ﷺ) prayed Maghrib and 'Isha' at Al-Muzdalifah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Prophète (ﷺ) a prié le Maghrib et l'Isha à Al-Muzdalifah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Ubaidullah bin Sa'id\] dia berkata; telah menceritakan kepada kami \['Abdurrahman\] dari \[Malik\] dari \[Az-Zuhri\] dari \[Salim\] dari \[Ibnu 'Umar\] bahwa Nabi Shallallahu'alaihi wasallam shalat Maghrib dan Isya di Muzdalifah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Ubaidullah bin Sa'id] dia berkata; telah menceritakan kepada kami ['Abdurrahman] dari [Malik] dari [Az-Zuhri] dari [Salim] dari [Ibnu 'Umar] bahwa Nabi Shallallahu'alaihi wasallam shalat Maghrib dan Isya di Muzdalifah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (radıyallahü anh)’den rivâyete göre: (sallallahü aleyhi ve sellem), Müzdelife’de akşam ile yatsıyı birlikte kıldı.) (İbn Mâce, Menasik: 60; Buhârî, Hac:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہم سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے مزدلفہ میں مغرب و عشاء ( جمع کر کے ) پڑھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>607</td></tr><tr><td>Arabic No</td><td>607</td></tr><tr><td>Reference</td><td>Book 6 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 607 |
+| Arabic No | 607 |
+| Reference | Book 6 Hadith 114 |

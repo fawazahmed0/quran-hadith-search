@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو سَلَمَةَ، مُوسَى بْنُ إِسْمَاعِيلَ حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا أَبُو عَاصِمٍ الْغَنَوِيُّ، عَنْ أَبِي الطُّفَيْلِ، قَالَ قُلْتُ لاِبْنِ عَبَّاسٍ يَزْعُمُ قَوْمُكَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَدْ رَمَلَ بِالْبَيْتِ وَأَنَّ ذَلِكَ سُنَّةٌ ‏.‏ قَالَ صَدَقُوا وَكَذَبُوا ‏.‏ قُلْتُ وَمَا صَدَقُوا وَمَا كَذَبُوا قَالَ صَدَقُوا قَدْ رَمَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَكَذَبُوا لَيْسَ بِسُنَّةٍ إِنَّ قُرَيْشًا قَالَتْ زَمَنَ الْحُدَيْبِيَةِ دَعُوا مُحَمَّدًا وَأَصْحَابَهُ حَتَّى يَمُوتُوا مَوْتَ النَّغَفِ ‏.‏ فَلَمَّا صَالَحُوهُ عَلَى أَنْ يَجِيئُوا مِنَ الْعَاِمِ الْمُقْبِلِ فَيُقِيمُوا بِمَكَّةَ ثَلاَثَةَ أَيَّامٍ فَقَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَالْمُشْرِكُونَ مِنْ قِبَلِ قُعَيْقِعَانَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم لأَصْحَابِهِ ‏ "‏ ارْمُلُوا بِالْبَيْتِ ثَلاَثًا ‏"‏ ‏.‏ وَلَيْسَ بِسُنَّةٍ ‏.‏ قُلْتُ يَزْعُمُ قَوْمُكَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم طَافَ بَيْنَ الصَّفَا وَالْمَرْوَةِ عَلَى بَعِيرِهِ وَأَنَّ ذَلِكَ سُنَّةٌ فَقَالَ صَدَقُوا وَكَذَبُوا ‏.‏ قُلْتُ مَا صَدَقُوا وَمَا كَذَبُوا قَالَ صَدَقُوا قَدْ طَافَ رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ الصَّفَا وَالْمَرْوَةِ عَلَى بَعِيرِهِ وَكَذَبُوا لَيْسَ بِسُنَّةٍ كَانَ النَّاسُ لاَ يُدْفَعُونَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم وَلاَ يُصْرَفُونَ عَنْهُ فَطَافَ عَلَى بَعِيرٍ لِيَسْمَعُوا كَلاَمَهُ وَلِيَرَوْا مَكَانَهُ وَلاَ تَنَالَهُ أَيْدِيهِمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
+
 حدثنا ابو سلمة، موسى بن اسماعيل حدثنا حماد، حدثنا ابو عاصم الغنوي، عن ابي الطفيل، قال قلت لابن عباس يزعم قومك ان رسول الله صلى الله عليه وسلم قد رمل بالبيت وان ذلك سنة . قال صدقوا وكذبوا . قلت وما صدقوا وما كذبوا قال صدقوا قد رمل رسول الله صلى الله عليه وسلم وكذبوا ليس بسنة ان قريشا قالت زمن الحديبية دعوا محمدا واصحابه حتى يموتوا موت النغف . فلما صالحوه على ان يجييوا من العام المقبل فيقيموا بمكة ثلاثة ايام فقدم رسول الله صلى الله عليه وسلم والمشركون من قبل قعيقعان فقال رسول الله صلى الله عليه وسلم لاصحابه " ارملوا بالبيت ثلاثا " . وليس بسنة . قلت يزعم قومك ان رسول الله صلى الله عليه وسلم طاف بين الصفا والمروة على بعيره وان ذلك سنة فقال صدقوا وكذبوا . قلت ما صدقوا وما كذبوا قال صدقوا قد طاف رسول الله صلى الله عليه وسلم بين الصفا والمروة على بعيره وكذبوا ليس بسنة كان الناس لا يدفعون عن رسول الله صلى الله عليه وسلم ولا يصرفون عنه فطاف على بعير ليسمعوا كلامه وليروا مكانه ولا تناله ايديهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
 
 ## Bengali
 
+। আবুত তুফাইল (রহ.) সূত্রে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাস (রাযি.)-কে বললাম, আপনার সম্প্রদায়ের ধারণা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বায়তুল্লাহ তাওয়াফের সময় দ্রুতপদে হেটেছেন এবং এরূপ করা সুন্নাত। তিনি বললেন, তারা সত্য বলেছে এবং মিথ্যাও বলেছে। আমি বললাম, তারা কি সত্য বলেছে এবং কি মিথ্যা বলেছে? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘রমল’ করেছেন, একথা সত্য কিন্তু একে সুন্নাত বলা মিথ্যা। হুদায়বিয়ার সময় কুরাইশগণ মুসলিমদেরকে তিরস্কারস্বরূপ বলেছিল যে, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাথীদের এভাবেই থাকতে দাও। এমন কি তারা উট ও বকরীর মতো মৃত্যু বরণ করে নিঃশেষ হবে। অতঃপর তারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে সন্ধি চুক্তি করলো, মুসলিমরা আগামী বছর এসে মক্কায় তিন দিন অবস্থান করবে। সুতরাং পরবর্তী বছর রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসলেন। মুশরিকরা ‘কুয়াইকিয়ান পাহাড়ের পাদদেশে সমবেত হলো (মুসলিমদের অবস্থান লক্ষ্য করতে)। এসময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সাহাবীদের নির্দেশ দিলেন যে, তাওয়াফের মধ্যে তিনবার রমল করো। সুতরাং তারা তাই করলেন। এরূপ করা মূলতঃ সুন্নাত নয়। আমি আবার বললাম, আপনার সম্প্রদায়ের ধারণা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উটে চড়েই সাফা-মারওয়ার মাঝে তাওয়াফ (সাঈ) করেছেন, আর এরূপ নাকি সুন্নাত। তিনি বললেন, তারা সত্যও বলেছে এবং মিথ্যাও বলেছে। আমি বললাম, তারা কি সত্য বলেছে এবং কি মিথ্যা বলেছে? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উটে সাওয়ারী হয়ে সাফা-মারওয়ার মাঝে তাওয়াফ (সাঈ) করেছেন তাদের এ কথা সত্য। কিন্তু এটাকে সুন্নাত বলা মিথ্যা। প্রকৃত ব্যাপার হলো, তখন লোকদের অবস্থা এরূপ ছিলো যে, তাদেরকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছ থেকে সরানো যেতো না এবং তিনিও তাদের থেকে বিচ্ছিন্ন থাকতে পারতেন না। সুতরাং তিনি উটে আরোহী অবস্থায় তাওয়াফ (সাঈ) করেছেন, যাতে প্রতিটি লোক তাঁর কথা শুনতে পায়, তাঁকে সরাসরি দেখতে পায় এবং তাদের হাত তাঁর শরীরে না লাগে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবুত তুফাইল (রহ.) সূত্রে বর্ণিত। তিনি বলেন, আমি ইবনু ‘আব্বাস (রাযি.)-কে বললাম, আপনার সম্প্রদায়ের ধারণা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বায়তুল্লাহ তাওয়াফের সময় দ্রুতপদে হেটেছেন এবং এরূপ করা সুন্নাত। তিনি বললেন, তারা সত্য বলেছে এবং মিথ্যাও বলেছে। আমি বললাম, তারা কি সত্য বলেছে এবং কি মিথ্যা বলেছে? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘রমল’ করেছেন, একথা সত্য কিন্তু একে সুন্নাত বলা মিথ্যা। হুদায়বিয়ার সময় কুরাইশগণ মুসলিমদেরকে তিরস্কারস্বরূপ বলেছিল যে, মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাথীদের এভাবেই থাকতে দাও। এমন কি তারা উট ও বকরীর মতো মৃত্যু বরণ করে নিঃশেষ হবে। অতঃপর তারা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে সন্ধি চুক্তি করলো, মুসলিমরা আগামী বছর এসে মক্কায় তিন দিন অবস্থান করবে। সুতরাং পরবর্তী বছর রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসলেন। মুশরিকরা ‘কুয়াইকিয়ান পাহাড়ের পাদদেশে সমবেত হলো (মুসলিমদের অবস্থান লক্ষ্য করতে)। এসময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর সাহাবীদের নির্দেশ দিলেন যে, তাওয়াফের মধ্যে তিনবার রমল করো। সুতরাং তারা তাই করলেন। এরূপ করা মূলতঃ সুন্নাত নয়। আমি আবার বললাম, আপনার সম্প্রদায়ের ধারণা, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উটে চড়েই সাফা-মারওয়ার মাঝে তাওয়াফ (সাঈ) করেছেন, আর এরূপ নাকি সুন্নাত। তিনি বললেন, তারা সত্যও বলেছে এবং মিথ্যাও বলেছে। আমি বললাম, তারা কি সত্য বলেছে এবং কি মিথ্যা বলেছে? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর উটে সাওয়ারী হয়ে সাফা-মারওয়ার মাঝে তাওয়াফ (সাঈ) করেছেন তাদের এ কথা সত্য। কিন্তু এটাকে সুন্নাত বলা মিথ্যা। প্রকৃত ব্যাপার হলো, তখন লোকদের অবস্থা এরূপ ছিলো যে, তাদেরকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছ থেকে সরানো যেতো না এবং তিনিও তাদের থেকে বিচ্ছিন্ন থাকতে পারতেন না। সুতরাং তিনি উটে আরোহী অবস্থায় তাওয়াফ (সাঈ) করেছেন, যাতে প্রতিটি লোক তাঁর কথা শুনতে পায়, তাঁকে সরাসরি দেখতে পায় এবং তাদের হাত তাঁর শরীরে না লাগে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Al Tufail said I said to Ibn ‘Abbas Your people think that the Apostle of Allaah(ﷺ) walked proudly with swift strides while going round the Ka’bah and that it is sunnah (practice of the Prophet). He said “They spoke the truth (in part) and told a lie (in part).” I asked “What truth did they speak and what lie did they tell?” He said “They spoke the truth that the Apostle of Allaah(ﷺ) walked proudly while going round the Ka’bah but they told a lie, this is no sunnah. The Quraish asserted during the days of Al Hudaibiyyah “Forsake Muhammad and his Companions till they die the death of a Camel which dies of bacteria in its nose. When they concluded a treaty with him agreeing upon the fact that they (the Prophet and his Companions) would come (to Makkah) next year and stay at Makkah three days, the Apostle of Allaah(ﷺ) said to the Companions “Walk proudly (moving shoulders) while going round the Ka’bah in first three circuits. (Ibn ‘Abbas said) But this is not sunnah. I said “Your people think that the Apostle of Allaah(ﷺ) ran between Al Safa and Al Marwah on a Camel and that is sunnah.” He said “They spoke the truth (in part) and told a lie (in part). I asked “What truth did they speak and what lie did they tell? He said “they spoke the truth that the Apostle of Allaah(ﷺ) ran between Al Safa and Al Marwah on a Camel. They told a lie that it is a sunnah. As the people did not move from around the Apostle of Allaah(ﷺ) and did not separate themselves from him he did the sa’i on a Camel so that they may listen to him and see his position and their hands might not reach him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
+
+## French
+
+Abu Al Tufail a dit : J’ai dit à Ibn ‘Abbas رضي الله عنه : « Ton peuple pense que le Messager d’Allah ﷺ marchait fièrement à grands pas en faisant le tour de la Ka’bah et que c’est une sunna. » Il a répondu : « Ils ont dit en partie vrai et en partie faux. » J’ai demandé : « Qu’est-ce qui est vrai et qu’est-ce qui est faux ? » Il a dit : « Ils ont raison de dire que le Messager d’Allah ﷺ marchait fièrement autour de la Ka’bah, mais ils ont tort, ce n’est pas une sunna. Les Quraysh avaient dit, lors d’Al-Hudaybiyyah : “Laissez Muhammad et ses compagnons, ils mourront comme un chameau malade.” Quand ils ont conclu un traité permettant au Prophète et à ses compagnons de venir à La Mecque l’année suivante et d’y rester trois jours, le Messager d’Allah ﷺ a dit à ses compagnons : “Marchez fièrement (en bougeant les épaules) pendant les trois premiers tours autour de la Ka’bah.” (Ibn ‘Abbas a dit) Mais ce n’est pas une sunna. » J’ai dit : « Ton peuple pense que le Messager d’Allah ﷺ a parcouru la distance entre Al Safa et Al Marwah sur un chameau et que c’est une sunna. » Il a dit : « Ils ont dit en partie vrai et en partie faux. » J’ai demandé : « Qu’est-ce qui est vrai et qu’est-ce qui est faux ? » Il a dit : « Ils ont raison de dire que le Messager d’Allah ﷺ a fait le sa’i entre Al Safa et Al Marwah sur un chameau, mais ils ont tort de dire que c’est une sunna. Comme les gens ne s’écartaient pas du Messager d’Allah ﷺ et restaient autour de lui, il a fait le sa’i sur un chameau pour qu’ils puissent l’écouter, voir sa position et qu’ils ne le bousculent pas. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abu Salamah Musa bin Isma'il\], telah menceritakan kepada Kami \[Hammad\], telah menceritakan kepada Kami \[Abu 'Ashim Al Ghanawi\] dari \[Abu Ath Thufail\], ia berkata; aku katakan kepada \[Ibnu Abbas\]; orang-orang mengaku bahwa Rasulullah shallAllahu wa'alaihi wa sallam telah berlari-lari kecil di Ka'bah, dan hal tersebut sunah. Ia berkata; mereka benar, dan berdusta. Aku katakan; kebenaran apakah yang mereka katakan, dan kedustaan apa yang mereka ucapkan? Ia berkata; mereka telah benar, Rasulullah shallAllahu wa'alaihi wa sallam telah berlari-lari kecil, dan mereka bedusta, hal tersebut bukanlah sunah. Sesungguhnya orang-orang Quraisy berkata pada zaman terjadinya perjanjian hudaibiyah; biarkan Muhammad dan para sahabatnya hingga mereka bati seperti matinya ulatm. Kemudian tatkala mereka berdamai dengan beliau agar mereka datang pada tahun yang akan datang dan bermukim di Mekkah selama tiga hari. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam datang sementara orang-orang musyrik dari arah Qu'aiqi'an. Lalu Rasulullah shallAllahu wa'alaihi wa sallam berkata kepada para sahabatnya: "Berlari-lari kecillah di Ka'bah sebanyak tiga kali, dan bukanlah sesuatu yang sunah." Aku katakana; kaummu mengaku bahwa Rasulullah shallAllahu wa'alaihi wa sallam berthawaf antara Shafa dan Marwa di atas untanya, dan hal tersebut merupakan sesuatu yang sunah. Kemudian ia berkata; mereka telah benar dan berdusta. Aku katakan; kebenaran apakah yang mereka katakan? Dan kedustaan apakah yang mereka ucapkan? Ia berkata; mereka benar, Rasulullah shallAllahu wa'alaihi wa sallam telah melakukan thawaf antara Shafa dan Marwa di atas untanya, dan mereka berdusta, karena hal tersebut bukanlah sunah. Dahulu orang-orang tidak ditolak dari Rasulullah shallAllahu wa'alaihi wa sallam dan tidak dipalingkan dari beliau, beliau melakukan thawaf di atas untanya agar mereka mendengar perkataannya dan melihat tempatnya, serta tidak bisa dicapai tangan mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abu Salamah Musa bin Isma'il], telah menceritakan kepada Kami [Hammad], telah menceritakan kepada Kami [Abu 'Ashim Al Ghanawi] dari [Abu Ath Thufail], ia berkata; aku katakan kepada [Ibnu Abbas]; orang-orang mengaku bahwa Rasulullah shallAllahu wa'alaihi wa sallam telah berlari-lari kecil di Ka'bah, dan hal tersebut sunah. Ia berkata; mereka benar, dan berdusta. Aku katakan; kebenaran apakah yang mereka katakan, dan kedustaan apa yang mereka ucapkan? Ia berkata; mereka telah benar, Rasulullah shallAllahu wa'alaihi wa sallam telah berlari-lari kecil, dan mereka bedusta, hal tersebut bukanlah sunah. Sesungguhnya orang-orang Quraisy berkata pada zaman terjadinya perjanjian hudaibiyah; biarkan Muhammad dan para sahabatnya hingga mereka bati seperti matinya ulatm. Kemudian tatkala mereka berdamai dengan beliau agar mereka datang pada tahun yang akan datang dan bermukim di Mekkah selama tiga hari. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam datang sementara orang-orang musyrik dari arah Qu'aiqi'an. Lalu Rasulullah shallAllahu wa'alaihi wa sallam berkata kepada para sahabatnya: "Berlari-lari kecillah di Ka'bah sebanyak tiga kali, dan bukanlah sesuatu yang sunah." Aku katakana; kaummu mengaku bahwa Rasulullah shallAllahu wa'alaihi wa sallam berthawaf antara Shafa dan Marwa di atas untanya, dan hal tersebut merupakan sesuatu yang sunah. Kemudian ia berkata; mereka telah benar dan berdusta. Aku katakan; kebenaran apakah yang mereka katakan? Dan kedustaan apakah yang mereka ucapkan? Ia berkata; mereka benar, Rasulullah shallAllahu wa'alaihi wa sallam telah melakukan thawaf antara Shafa dan Marwa di atas untanya, dan mereka berdusta, karena hal tersebut bukanlah sunah. Dahulu orang-orang tidak ditolak dari Rasulullah shallAllahu wa'alaihi wa sallam dan tidak dipalingkan dari beliau, beliau melakukan thawaf di atas untanya agar mereka mendengar perkataannya dan melihat tempatnya, serta tidak bisa dicapai tangan mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу ат-Туфайль сказал: Я сказал Ибн ‘Аббасу: «Твои соплеменники утверждают, что Посланник Аллаха ﷺ обходил вокруг Каабы быстрым шагом и что это сунна». Он сказал: «Они и сказали правду, и солгали». Я спросил: «В чём они сказали правду, а в чём солгали?» Он ответил: «Они сказали правду: Посланник Аллаха ﷺ действительно обходил Каабу быстрым шагом. Что же касается того, что это сунна, то они солгали. Просто курайшиты в год Худайбии сказали: “Оставьте Мухаммада и его товарищей пусть умрут как черви”. А потом они заключили с ним мирный договор с условием, что мусульмане придут на следующий год и пробудут в Мекке три дня. И на следующий год Посланник Аллаха ﷺ прибыл, а язычники стояли со стороны горы Ку‘айкы‘ан, и Посланник Аллаха ﷺ сказал своим сподвижникам: “Обходя Каабу, пройдите три круга быстрым шагом”. Однако это не сунна». Я сказал: «Твои соплеменники утверждают, что Посланник Аллаха ﷺ совершал ритуальный бег /са‘и/ между холмами Сафа и Марва верхом на верблюде и что это сунна». Он сказал: «Они и сказали правду, и солгали». Я спросил: «В чём они сказали правду, а в чём солгали?» Он ответил: «Они сказали правду: Посланник Аллаха ﷺ действительно совершил ритуальный бег между холмами Сафа и Марва верхом на верблюде. Что же касается того, что это сунна, то они солгали. Люди не отходили от Посланника Аллаха ﷺ и он совершил обход на верблюде, чтобы люди слышали его слова и видели его и чтобы их руки не доставали до него»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu't-Tufeyl'den; demiştir ki: Ben, İbn Abbâs'a; Senin kavmin Resûlullah (S.A.V.)'in Beyt'i (tavaf ederken) remel yaptığını ve bunun sünnet olduğunu iddia ediyorlar, dedim. Hem doğru söylemişler, hem de yanlış söylemişler, dedi. Ben de; Hem doğru hem de yanlış söylemişler ne demektir? dedim. Doğru söylemişler. (Çünkü) gerçekten Resûlullah (S.A.V.) Beyt'i (tavaf ederken) remel yaptı. Yanlış söylemişler. (Çünkü) o sünnet değildir. Kureyş (müşrikleri) Hudeybiye gününde; "Şu Muhammed'i ve ashabını bırakınız da nağf (denilen ve develerin burnundan düşen kurtların sebeb olduğu deve) ölümüyle ölsün" dediler. (Kureyşlüer, müslümanların) gelecek sene Mekke'de üç gün kalmaları şartıyla Resûlullah (S.A.V.) ile barış yapınca, Resûlullah (ashabıyla birlikte Mekke'ye) geldi. Müşrikler de Kuaykıân (denilen sıradağlar) tarafında idiler. Resûlullah (S.A.V.) ashabına; "Beyt'i tavaf ederken üç (turda) remel yapınız." buyurdu. Ve (İbn Abbas, işte) bu sünnet değildir, dedi. Ben; Senin kavmin ResûIIah (S.A.V.)'in Safa ile Merve arasında devesine binerken sa'y yaptığını ve bunun (sa'yı deveye binerek yapmanın) sünnet olduğunu iddia ediyorlar, dedim. Bunun üzerine (İbn Abbas): Hem doğru söylemişler hem de yanlış söylemişler, dedi. Ben de; Hem doğru hem de yanlış söylemişler ne demektir? dedim. Doğru söylemişler. (Çünkü) gerçekten Resûllah (S.A.V.) Safa ile Merve arasında devesi üzerinde olduğu halde sa'y etti. Yanlış söylemişler. (Çünkü) bu (sa'y ederken deveye binmek) sünnet değildir. (Zira) halk(ın Resulü Ekrem'e yaklaşmasın)a engel olunamazdı ve (halk bundan) vazgeçirilemezdi. Bunun üzerine sözünü (halkın rahatça) işitmeleri, yerini görmeleri ve ellerinin kendisine erişmemesi için tavafı deve üzerinde yaptı, cevabını verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوطفیل کہتے ہیں کہ میں نے ابن عباس رضی اللہ عنہما سے کہا: آپ کی قوم سمجھتی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے بیت اللہ کے طواف میں رمل کیا اور یہ سنت ہے، انہوں نے کہا: لوگوں نے سچ کہا اور جھوٹ اور غلط بھی، میں نے دریافت کیا: لوگوں نے کیا سچ کہا اور کیا جھوٹ اور غلط؟ فرمایا: انہوں نے یہ سچ کہا کہ رسول اللہ صلی اللہ علیہ وسلم نے رمل کیا لیکن یہ جھوٹ اور غلط کہا کہ رمل سنت ہے ( واقعہ یہ ہے ) کہ قریش نے حدیبیہ کے موقع پر کہا کہ محمد اور اس کے ساتھیوں کو چھوڑ دو وہ اونٹ کی موت خود ہی مر جائیں گے، پھر جب ان لوگوں نے آپ صلی اللہ علیہ وسلم سے اس شرط پر مصالحت کر لی کہ آپ آئندہ سال آ کر حج کریں اور مکہ میں تین دن قیام کریں تو رسول اللہ صلی اللہ علیہ وسلم آئے اور مشرکین بھی قعیقعان کی طرف سے آئے، آپ صلی اللہ علیہ وسلم نے اپنے اصحاب سے فرمایا: تین پھیروں میں رمل کرو ، اور یہ سنت نہیں ہے ۱؎، میں نے کہا: آپ کی قوم سمجھتی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے صفا و مروہ کے درمیان اونٹ پر سوار ہو کر سعی کی اور یہ سنت ہے، وہ بولے: انہوں نے سچ کہا اور جھوٹ اور غلط بھی، میں نے دریافت کیا: کیا سچ کہا اور کیا جھوٹ؟ وہ بولے: یہ سچ ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے صفا و مروہ کے درمیان اپنے اونٹ پر سوار ہو کر سعی کی لیکن یہ جھوٹ اور غلط ہے کہ یہ سنت ہے، دراصل لوگ رسول اللہ صلی اللہ علیہ وسلم کے پاس سے نہ جا رہے تھے اور نہ سرک رہے تھے، تو آپ صلی اللہ علیہ وسلم نے اونٹ پر سوار ہو کر سعی کی تاکہ لوگ آپ کی بات سنیں اور لوگ آپ کو دیکھیں اور ان کے ہاتھ آپ تک نہ پہنچ سکیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1885</td></tr><tr><td>Arabic No</td><td>1885</td></tr><tr><td>Reference</td><td>Book 11 Hadith 165</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1885 |
+| Arabic No | 1885 |
+| Reference | Book 11 Hadith 165 |

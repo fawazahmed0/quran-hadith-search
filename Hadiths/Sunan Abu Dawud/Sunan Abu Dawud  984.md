@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، أَخْبَرَنَا عُمَرُ بْنُ يُونُسَ الْيَمَامِيُّ، حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ اللَّهِ بْنِ طَاوُسٍ، عَنْ أَبِيهِ، عَنْ طَاوُسٍ، عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ كَانَ يَقُولُ بَعْدَ التَّشَهُّدِ ‏ "‏ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ جَهَنَّمَ وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدَّجَّالِ وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
+
 حدثنا وهب بن بقية، اخبرنا عمر بن يونس اليمامي، حدثني محمد بن عبد الله بن طاوس، عن ابيه، عن طاوس، عن ابن عباس، عن النبي صلى الله عليه وسلم انه كان يقول بعد التشهد " اللهم اني اعوذ بك من عذاب جهنم واعوذ بك من عذاب القبر واعوذ بك من فتنة الدجال واعوذ بك من فتنة المحيا والممات
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে তাশাহহুদের পর বলতেনঃ ‘‘আল্লাহুম্মা ইন্নি আ‘উযুবিকা মিন ‘আযাবি জাহান্নাম, ওয়া আ‘উযুবিকা মিন ‘আযাবিল ক্বাবরি, ওয়া আ‘উযুবিকা মিন ফিতনাতিদ দাজ্জাল, ওয়া আ‘উযুবিকা মিন ফিতনাতিল মাহইয়া ওয়াল মামাতি’’। (অর্থঃ হে আল্লাহ, আমি আপনার নিকট আশ্রয় প্রার্থনা করছি জাহান্নামের আযাব হতে, আশ্রয় প্রার্থনা করছি কবরের আযাব হতে, আশ্রয় প্রার্থনা করছি দাজ্জালের ফিতনাহ হতে এবং আশ্রয় প্রার্থনা করছি জীবন ও মৃত্যুর ফিতনাহ হতে।)\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে তাশাহহুদের পর বলতেনঃ ‘‘আল্লাহুম্মা ইন্নি আ‘উযুবিকা মিন ‘আযাবি জাহান্নাম, ওয়া আ‘উযুবিকা মিন ‘আযাবিল ক্বাবরি, ওয়া আ‘উযুবিকা মিন ফিতনাতিদ দাজ্জাল, ওয়া আ‘উযুবিকা মিন ফিতনাতিল মাহইয়া ওয়াল মামাতি’’। (অর্থঃ হে আল্লাহ, আমি আপনার নিকট আশ্রয় প্রার্থনা করছি জাহান্নামের আযাব হতে, আশ্রয় প্রার্থনা করছি কবরের আযাব হতে, আশ্রয় প্রার্থনা করছি দাজ্জালের ফিতনাহ হতে এবং আশ্রয় প্রার্থনা করছি জীবন ও মৃত্যুর ফিতনাহ হতে।)[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Prophet (ﷺ) used to say after the tashahhud: "O Allah, I seek refuge in Thee from the punishment in Hell, and I seek refuge in Thee from the punishment in the grave, and I seek refuge in Thee from the trial of antichrist, and I seek refuge in Thee from the trial of life and death
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ avait l’habitude de dire après le tashahhud : « Ô Allah, je cherche refuge auprès de Toi contre le châtiment de l’Enfer, je cherche refuge auprès de Toi contre le châtiment de la tombe, je cherche refuge auprès de Toi contre l’épreuve du Faux Messie, et je cherche refuge auprès de Toi contre les épreuves de la vie et de la mort. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Wahb bin Baqiyah\] telah mengabarkan kepada kami \[Umar bin Yunus Al Yamami\] telah menceritakan kepadaku \[Muhammad bin Abdullah bin Thawus\] dari \[ayahnya\] dari \[Thawus\] dari \[Ibnu Abbas\] dari Nabi shallallahu 'alaihi wasallam bahwa setelah tasyahud beliau sering membaca do'a; "Allahumma inni a'uudzu bika min 'adzaabi jahannam wa a'uudzu bika min 'adzzabil qabri wa a'uudzu bika min fitnatid dajjal wa a'uudzu bika min fitnatil mahyaa wal mamaati (Ya Allah aku berlindung kepada-Mu dari siksa neraka Jahannam, dari siksa kubur, dan dari fitnah Dajjal fitnah serta fitnah kehidupan dan kematian)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Wahb bin Baqiyah] telah mengabarkan kepada kami [Umar bin Yunus Al Yamami] telah menceritakan kepadaku [Muhammad bin Abdullah bin Thawus] dari [ayahnya] dari [Thawus] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam bahwa setelah tasyahud beliau sering membaca do'a; "Allahumma inni a'uudzu bika min 'adzaabi jahannam wa a'uudzu bika min 'adzzabil qabri wa a'uudzu bika min fitnatid dajjal wa a'uudzu bika min fitnatil mahyaa wal mamaati (Ya Allah aku berlindung kepada-Mu dari siksa neraka Jahannam, dari siksa kubur, dan dari fitnah Dajjal fitnah serta fitnah kehidupan dan kematian)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что во время молитвы, после ташаххуда, Пророк ﷺ обращался к Аллаху с такой мольбой: «О Аллах, поистине, я прибегаю к Твоей защите от мучений в Аду, и я прибегаю к Твоей защите от мучений могилы, и я прибегаю к Твоей защите от искушения Даджжаля, и я прибегаю к Твоей защите от искушений жизни и смерти! /Аллахумма, инни а‘узу би-ка мин ‘азаби-ль-кабри, ва а‘узу би-ка мин фитнати-ль-масихи-д-даджжали, ва а‘узу би-ка мин фитнати-ль-махйа ва-ль-мамат/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Abbâs (r.a.)'dan; Resûlullah (s.a.v.)'in teşehhüdden sonra şöyle duâ ettiği rivayet edilmiştir: "Allah'ım, cehennem azabından, kabir azabından, Deccâl'in fitnesinden, hayatın ve ölümün fitnesinden sana sığınırım
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم تشہد کے بعد یہ کہتے تھے: «اللهم إني أعوذ بك من عذاب جهنم وأعوذ بك من عذاب القبر وأعوذ بك من فتنة الدجال وأعوذ بك من فتنة المحيا والممات» یعنی اے اللہ! میں تیری پناہ چاہتا ہوں جہنم کے عذاب سے، تیری پناہ چاہتا ہوں قبر کے عذاب سے، تیری پناہ چاہتا ہوں دجال کے فتنہ سے اور تیری پناہ چاہتا ہوں زندگی اور موت کے فتنے سے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>984</td></tr><tr><td>Arabic No</td><td>984</td></tr><tr><td>Reference</td><td>Book 2 Hadith 595</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 984 |
+| Arabic No | 984 |
+| Reference | Book 2 Hadith 595 |

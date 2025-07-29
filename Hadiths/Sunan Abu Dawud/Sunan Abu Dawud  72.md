@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,138 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا الْمُعْتَمِرُ يَعْنِي ابْنَ سُلَيْمَانَ، ح وَحَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، جَمِيعًا عَنْ أَيُّوبَ، عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، بِمَعْنَاهُ وَلَمْ يَرْفَعَاهُ زَادَ ‏ "‏ وَإِذَا وَلَغَ الْهِرُّ غُسِلَ مَرَّةً ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
+
 حدثنا مسدد، حدثنا المعتمر يعني ابن سليمان، ح وحدثنا محمد بن عبيد، حدثنا حماد بن زيد، جميعا عن ايوب، عن محمد، عن ابي هريرة، بمعناه ولم يرفعاه زاد " واذا ولغ الهر غسل مرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ্ (রাঃ) হতে উপরোক্ত হাদীসের সমার্থক বর্ণনাও আছে। তবে সেটি মারফু বর্ণনা নয়। তাতে এও রয়েছেঃ ‘বিড়াল লেহন করলে তা একবার ধুতে হবে।’\[1\] সহীহ মাওকুফ, মারফুভাবেও এটি সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ্ (রাঃ) হতে উপরোক্ত হাদীসের সমার্থক বর্ণনাও আছে। তবে সেটি মারফু বর্ণনা নয়। তাতে এও রয়েছেঃ ‘বিড়াল লেহন করলে তা একবার ধুতে হবে।’[1] সহীহ মাওকুফ, মারফুভাবেও এটি সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A similar tradition has been transmitted by Abu Hurairah through a different chain of narrators. But this version has been narrated as a statement of Abu Hurairah himself and not attributed to the Prophet (sal Allaahu alayhi wa sallam ). The version has the addition of the words :"If the cat licks (a utensil), it should be washed once
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
+
+## French
+
+Une tradition similaire a été transmise par Abu Huraira رضي الله عنه par une autre chaîne de rapporteurs. Mais cette version a été rapportée comme une parole d’Abu Huraira lui-même et non attribuée au Prophète ﷺ. Cette version ajoute : « Si un chat lèche (un récipient), il suffit de le laver une fois. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Мухаммад (ибн Сирин) передал от Абу Хурайры похожий хадис, но он не возвёл его (к Пророку ﷺ) с дополнением: «А если (сосуд) облизала кошка, то его следует помыть один раз»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد (ابن سیرین) ابوہریرہ رضی اللہ عنہ سے اسی مفہوم کی حدیث روایت کرتے ہیں، لیکن ان دونوں ( حماد بن زید اور معتمر ) نے اس حدیث کو مرفوعاً نقل نہیں کیا ہے، اور اس میں اتنا اضافہ ہے کہ: جب بلی کسی برتن میں منہ ڈال دے تو ایک بار دھویا جائے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih Muquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>72</td></tr><tr><td>Arabic No</td><td>72</td></tr><tr><td>Reference</td><td>Book 1 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Al-Albani |
+| Sahih Muquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 72 |
+| Arabic No | 72 |
+| Reference | Book 1 Hadith 72 |

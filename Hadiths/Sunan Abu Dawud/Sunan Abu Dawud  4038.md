@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ مُحَمَّدٍ الأَنْمَاطِيُّ الْبَصْرِيُّ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ اللَّهِ الرَّازِيُّ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ الرَّحْمَنِ الرَّازِيُّ، حَدَّثَنَا أَبِي، أَخْبَرَنِي أَبِي عَبْدُ اللَّهِ بْنُ سَعْدٍ، عَنْ أَبِيهِ، سَعْدٍ قَالَ رَأَيْتُ رَجُلاً بِبُخَارَى عَلَى بَغْلَةٍ بَيْضَاءَ عَلَيْهِ عِمَامَةُ خَزٍّ سَوْدَاءُ فَقَالَ كَسَانِيهَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ هَذَا لَفْظُ عُثْمَانَ وَالإِخْبَارُ فِي حَدِيثِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
+
 حدثنا عثمان بن محمد الانماطي البصري، حدثنا عبد الرحمن بن عبد الله الرازي، ح وحدثنا احمد بن عبد الرحمن الرازي، حدثنا ابي، اخبرني ابي عبد الله بن سعد، عن ابيه، سعد قال رايت رجلا ببخارى على بغلة بيضاء عليه عمامة خز سوداء فقال كسانيها رسول الله صلى الله عليه وسلم . هذا لفظ عثمان والاخبار في حديثه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
 
 ## Bengali
 
+। সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বোখারাতে রেশম ও পশমের তৈরী কালো পাগড়ি পরিহিত এক লোককে সাদা খচ্চরের উপর আরোহী দেখতে পেলাম। লোকটি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এটা (পাগড়ি) আমাকে পরিয়ে দিয়েছেন।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি বোখারাতে রেশম ও পশমের তৈরী কালো পাগড়ি পরিহিত এক লোককে সাদা খচ্চরের উপর আরোহী দেখতে পেলাম। লোকটি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এটা (পাগড়ি) আমাকে পরিয়ে দিয়েছেন।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sa'd: I saw a man riding on a white mule and he had a black turban of silk and wool. He said: The Messenger of Allah (ﷺ) put it on me. This is the version of Uthman, and there is the word akhbara in his tradition
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
+
+## French
+
+Rapporté par Sa’d رضي الله عنه : J’ai vu un homme monté sur une mule blanche, portant un turban noir en soie et en laine. Il a dit : « Le Messager d’Allah ﷺ me l’a mis. » Ceci est la version d’Uthman, et il y a le mot « akhbara » dans sa tradition
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Muhammad Al Anmathi Al Bashari\] berkata, telah menceritakan kepada kami \['Abdurrahman bin Abdullah Ar Razi\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Ahmad bin 'Abdurrahman Ar Razi\] berkata, telah menceritakan kepada kami \[Bapakku\] berkata, telah mengabarkan kepadaku bapakku \[Abdullah bin Sa'd\] dari bapaknya \[Sa'd\] ia berkata, "Di Bukhara aku melihat \[seorang laki-laki\] di atas bighal putih mengenakan imamah (semacam surban yang lilitkan pada kepala) hitam bersulam sutera, laki-laki itu lantas berkata, "Rasulullah shallallahu 'alaihi wasallam mengenakanku imamah ini." Ini adalah lafadz Utsman dalam haditsnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Muhammad Al Anmathi Al Bashari] berkata, telah menceritakan kepada kami ['Abdurrahman bin Abdullah Ar Razi]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin 'Abdurrahman Ar Razi] berkata, telah menceritakan kepada kami [Bapakku] berkata, telah mengabarkan kepadaku bapakku [Abdullah bin Sa'd] dari bapaknya [Sa'd] ia berkata, "Di Bukhara aku melihat [seorang laki-laki] di atas bighal putih mengenakan imamah (semacam surban yang lilitkan pada kepala) hitam bersulam sutera, laki-laki itu lantas berkata, "Rasulullah shallallahu 'alaihi wasallam mengenakanku imamah ini." Ini adalah lafadz Utsman dalam haditsnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу ‘Абдуллах ибн Са‘д передаёт от своего отца Са‘да: «В Бухаре я видел человека на белой мулице, на котором была чёрная чалма из шерстяной ткани с примесью шёлка, и он сказал: “Её надел на меня Посланник Аллаха ﷺ”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
 
 ## Turkish
 
+(Abdullah b. Sa'd b. Osman'ın) babası Sa'd'dan rivayet olunmuştur; dedi ki: Buhara'da beyaz bir katıra binmiş, (başı) üzerinde ipekli siyah sarık bulunan bir adam gördüm. "Bunu bana Resulullah (s.a.v) giydirdi" diyordu. Bu (hadis) Osman'ın rivayet ettiği lafızlarladır. (Çünkü senedde geçen ve) ihbar (ifâde eden "ahberenî" kelimesi) Osman'ın rivayetinde bulun­maktadır.\[Tirmizi, tefsir sure\] İzah 4039 da
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Abdullah b. Sa'd b. Osman'ın) babası Sa'd'dan rivayet olunmuştur; dedi ki: Buhara'da beyaz bir katıra binmiş, (başı) üzerinde ipekli siyah sarık bulunan bir adam gördüm. "Bunu bana Resulullah (s.a.v) giydirdi" diyordu. Bu (hadis) Osman'ın rivayet ettiği lafızlarladır. (Çünkü senedde geçen ve) ihbar (ifâde eden "ahberenî" kelimesi) Osman'ın rivayetinde bulun­maktadır.[Tirmizi, tefsir sure] İzah 4039 da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعد بن عثمان کہتے ہیں کہ میں نے ایک شخص کو بخارا میں ایک سفید خچر پر سوار دیکھا وہ سیاہ خز ۱؎ کا عمامہ باندھے ہوئے تھے اس نے کہا: یہ مجھے رسول اللہ صلی اللہ علیہ وسلم نے پہنایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4038</td></tr><tr><td>Arabic No</td><td>4038</td></tr><tr><td>Reference</td><td>Book 34 Hadith 19</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4038 |
+| Arabic No | 4038 |
+| Reference | Book 34 Hadith 19 |

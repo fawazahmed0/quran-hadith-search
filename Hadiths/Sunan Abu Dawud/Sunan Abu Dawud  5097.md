@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدٍ الْمَرْوَزِيُّ، وَسَلَمَةُ، - يَعْنِي ابْنَ شَبِيبٍ - قَالاَ حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، قَالَ حَدَّثَنِي ثَابِتُ بْنُ قَيْسٍ، أَنَّ أَبَا هُرَيْرَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ الرِّيحُ مِنْ رَوْحِ اللَّهِ ‏"‏ ‏.‏ قَالَ سَلَمَةُ فَرَوْحُ اللَّهِ تَأْتِي بِالرَّحْمَةِ وَتَأْتِي بِالْعَذَابِ فَإِذَا رَأَيْتُمُوهَا فَلاَ تَسُبُّوهَا وَسَلُوا اللَّهَ خَيْرَهَا وَاسْتَعِيذُوا بِاللَّهِ مِنْ شَرِّهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
+
 حدثنا احمد بن محمد المروزي، وسلمة، - يعني ابن شبيب - قالا حدثنا عبد الرزاق، اخبرنا معمر، عن الزهري، قال حدثني ثابت بن قيس، ان ابا هريرة، قال سمعت رسول الله صلى الله عليه وسلم يقول " الريح من روح الله " . قال سلمة فروح الله تاتي بالرحمة وتاتي بالعذاب فاذا رايتموها فلا تسبوها وسلوا الله خيرها واستعيذوا بالله من شرها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ বায়ু আল্লাহর অন্যতম রহমত। তা কখনো শান্তি বয়ে আনে আবার কখনো আযাব নিয়ে আসে। সুতরাং বাতাস প্রবাহিত হতে দেখলে তোমরা তাকে গালাগলি দিবে না, বরং আল্লাহর নিকট এর কল্যাণ চাইবে এবং তার খারাবী থেকে আল্লাহর নিকট মুক্তি প্রার্থনা করবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ বায়ু আল্লাহর অন্যতম রহমত। তা কখনো শান্তি বয়ে আনে আবার কখনো আযাব নিয়ে আসে। সুতরাং বাতাস প্রবাহিত হতে দেখলে তোমরা তাকে গালাগলি দিবে না, বরং আল্লাহর নিকট এর কল্যাণ চাইবে এবং তার খারাবী থেকে আল্লাহর নিকট মুক্তি প্রার্থনা করবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: I heard the Messenger of Allah (ﷺ) say: The wind comes from Allah's mercy. Salamah's version has: It is Allah's mercy; it (sometimes) brings blessing and (sometimes) brings punishment. So when you see it, do not revile it, but ask Allah for some of its good, and seek refuge in Allah from its evil
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Le vent vient de la miséricorde d’Allah. » Dans la version de Salamah : « C’est la miséricorde d’Allah ; parfois elle apporte la bénédiction, parfois le châtiment. Donc, quand vous la voyez, ne la blâmez pas, mais demandez à Allah d’en recevoir le bien et cherchez refuge auprès d’Allah contre son mal. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Muhammad Al Marwazi\] dan \[Salamah\] -maksudnya Salamah bin Syabib- keduanya berkata; telah menceritakan kepada kami \[Abdurrazaq\] berkata, telah mengabarkan kepada kami \[Ma'mar\] dari \[Az Zuhri\] ia berkata; telah menceritakan kepadaku \[Tsabit bin Qais\] bahwa \[Abu Hurairah\] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Angin itu dari rahmat Allah." Salamah berkata, "Terkadang angin datang bersama rahmat Allah dan terkadang datang dengan membawa siksa. Maka jika kalian melihatnya janganlah mencela, mohonlah kepada Allah akan kebaikannya, dan mintalah perlindungan kepada-Nya dari keburukannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad Al Marwazi] dan [Salamah] -maksudnya Salamah bin Syabib- keduanya berkata; telah menceritakan kepada kami [Abdurrazaq] berkata, telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] ia berkata; telah menceritakan kepadaku [Tsabit bin Qais] bahwa [Abu Hurairah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Angin itu dari rahmat Allah." Salamah berkata, "Terkadang angin datang bersama rahmat Allah dan terkadang datang dengan membawa siksa. Maka jika kalian melihatnya janganlah mencela, mohonlah kepada Allah akan kebaikannya, dan mintalah perlindungan kepada-Nya dari keburukannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz.Ebu Hureyre, Rasûlullah (s.a.v.)'i şöyle buyururken işittiğini söylemiştir: "Rüzgâr Allah'ın rahmet(ler)inden bir rahmettir. (Mu'minlere) rahmet, (kâfirlere de) azab getirir. Binaenaleyh onu görünce, ona sövmeyiniz de Allah'dan onun hayrını isteyiniz. Şerrinden de Allah'a sığınınız
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: «ریح» ( ہوا ) اللہ کی رحمت میں سے ہے ( سلمہ کی روایت میں «من روح الله‏‏» ہے ) ، کبھی وہ رحمت لے کر آتی ہے، اور کبھی عذاب لے کر آتی ہے، تو جب تم اسے دیکھو تو اسے برا مت کہو، اللہ سے اس کی بھلائی مانگو، اور اس کے شر سے اللہ کی پناہ چاہو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5097</td></tr><tr><td>Arabic No</td><td>5097</td></tr><tr><td>Reference</td><td>Book 43 Hadith 325</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5097 |
+| Arabic No | 5097 |
+| Reference | Book 43 Hadith 325 |

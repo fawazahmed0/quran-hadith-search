@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ حَجَّاجٍ، وَابْنِ أَبِي غَنِيَّةَ، عَنْ ثَابِتِ بْنِ عُبَيْدٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، قَالَتْ أَمَرَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ أُنَاوِلَهُ الْخُمْرَةَ مِنَ الْمَسْجِدِ ‏.‏ فَقُلْتُ إِنِّي حَائِضٌ ‏.‏ فَقَالَ ‏ "‏ تَنَاوَلِيهَا فَإِنَّ الْحَيْضَةَ لَيْسَتْ فِي يَدِكِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو كريب، حدثنا ابن ابي زايدة، عن حجاج، وابن ابي غنية، عن ثابت بن عبيد، عن القاسم بن محمد، عن عايشة، قالت امرني رسول الله صلى الله عليه وسلم ان اناوله الخمرة من المسجد . فقلت اني حايض . فقال " تناوليها فان الحيضة ليست في يدك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 –(১২/...) আবূ কুরায়ব (রহঃ) ..... আয়িশাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদ থেকে জায়নামায (হাত বাড়িয়ে) তুলে নিয়ে আসতে আমাকে নির্দেশ দিলেন। আমি বললাম যে, আমি তো ঋতুবতী। তিনি বললেন, তুমি তো আমার কাছে নিয়ে এসো। কারণ হায়িয তোমার হাতে নেই (লেগে যায়নি)। (ইসলামিক ফাউন্ডেশনঃ ৫৮১, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A'isha reported:The Messenger of Allah (ﷺ) ordered me that I should get him the mat from the mosque. I said: I am menstruating. He (the Holy Prophet) said: Do get me that, for menstruation is not in your hand
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## French
 
+Rapporté par Aïcha رضي الله عنها : Le Messager d’Allah ﷺ m’a demandé de lui apporter le tapis de la mosquée. J’ai dit : « Je suis en période de menstruation. » Le Prophète ﷺ a dit : « Apporte-le-moi, car la menstruation n’est pas dans ta main. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Abu Kuraib\] telah menceritakan kepada kami \[Ibnu Abi Zaidah\] dari \[Hajjaj\] dan \[Ibnu Abi Ghaniyyah\] dari \[Tsabit bin Ubaid\] dari \[al Qasim bin Muhammad\] dari \[Aisyah\] dia berkata; 'Rasulullah memerintahkanku untuk mengambilkan minyak wangi dari masjid. Aku jawab; 'Aku sedang haid.' Beliau menjawab: "Ambillah karena (darah) haid tidak berada di tanganmu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Abu Kuraib] telah menceritakan kepada kami [Ibnu Abi Zaidah] dari [Hajjaj] dan [Ibnu Abi Ghaniyyah] dari [Tsabit bin Ubaid] dari [al Qasim bin Muhammad] dari [Aisyah] dia berkata; 'Rasulullah memerintahkanku untuk mengambilkan minyak wangi dari masjid. Aku jawab; 'Aku sedang haid.' Beliau menjawab: "Ambillah karena (darah) haid tidak berada di tanganmu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что ‘Аиша сказала: «(Однажды) Посланник Аллаха ﷺ велел мне передать ему коврик из мечети, а я сказала: “У меня месячные”. (На что) Посланник Аллаха ﷺ сказал: “Дай мне его, ведь месячные у тебя не на руке”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebu Kureyb rivayet etti. (Dediki): Bize İbni Ebî Zaide Haccac ile Ebu Ganiyye'den, onlarda Sabit b. Ubeyt'ten o da Kaasım b. Muhammed'den o da Aişe'den naklen rivayet etti. Şöyle demiş: Resulullah (Sallallahu aleyhi ve Sellem) mescitten bana seccadeyi uzatmamı emretti. Ben: Ay haliyim dedim. O: "Sen onu bana uzat. Çünkü senin elinde ay hali yoktur" buyurdu.468 DAVUDOĞLU AÇIKLAMASI: 299.sayfada
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حجاج اور ابن ابی غنیہ نے ثابت سے ، انہوں نے قاسم بن محمد سے ، انہوں نے حضرت عائشہ سے روایت کی ، انہوں نے کہا : رسول اللہ ﷺ نے مجھے حکم دیا کہ میں مسجدسے آپ کو جائے نماز پکڑا دوں ، میں نےعرض کی : میں حائضہ ہوں ۔ آپ نے فرمایا : ’’حیض تمہارےہاتھ میں نہیں ہے ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>690</td></tr><tr><td>Arabic No</td><td>298.02</td></tr><tr><td>Reference</td><td>Book 3 Hadith 12</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 690 |
+| Arabic No | 298.02 |
+| Reference | Book 3 Hadith 12 |

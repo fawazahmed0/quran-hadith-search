@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، قَالَ لاَ بَأْسَ بِالدُّعَاءِ فِي الصَّلاَةِ فِي أَوَّلِهِ وَأَوْسَطِهِ وَفِي آخِرِهِ فِي الْفَرِيضَةِ وَغَيْرِهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
+
 حدثنا القعنبي، عن مالك، قال لا باس بالدعاء في الصلاة في اوله واوسطه وفي اخره في الفريضة وغيرها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
 
 ## Bengali
 
+। মালিক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ফরয ও নফল যে কোন সালাতেই সালাতের প্রথমে, মাঝে বা শেষ দিকের যে কোন সময়ে দু‘আ পড়া যায়।\[1\] সহীহ মাক্বতূ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মালিক (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ফরয ও নফল যে কোন সালাতেই সালাতের প্রথমে, মাঝে বা শেষ দিকের যে কোন সময়ে দু‘আ পড়া যায়।[1] সহীহ মাক্বতূ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malik said:There is no harm in uttering supplication in prayer, in its beginning, in its middle, and in the end, in obligatory prayer or other
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
+
+## French
+
+Malik a dit : Il n’y a pas de mal à faire des invocations dans la prière, au début, au milieu ou à la fin, que ce soit dans la prière obligatoire ou autre
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что (имам) Малик (ибн Анас) сказал: «Нет ничего плохого в обращении (к Аллаху) с мольбой /ду‘а/ в начале молитвы, в середине или в конце, обязательной или другой (молитвы)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 el-Ka'nebî; "Malik farz ya da farzın dışında bir namazın başlangıcında, ortasında veya sonunda dua etmekte bir sakınca yoktur, dedi." demiştir. Sadece Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نماز کے شروع، بیچ اور اخیر میں دعا کرنے میں کوئی حرج نہیں، فرض نماز ہو یا نفل نماز کے شروع، بیچ اور اخیر میں دعا کرنے میں کوئی حرج نہیں، فرض نماز ہو یا نفل۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>769</td></tr><tr><td>Arabic No</td><td>769</td></tr><tr><td>Reference</td><td>Book 2 Hadith 379</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 769 |
+| Arabic No | 769 |
+| Reference | Book 2 Hadith 379 |

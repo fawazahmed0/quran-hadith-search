@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْفَضْلُ بْنُ سَهْلٍ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ مَهْدِيٍّ، حَدَّثَنِي بُرَيْهُ بْنُ عُمَرَ بْنِ سَفِينَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ أَكَلْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم لَحْمَ حُبَارَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
+
 حدثنا الفضل بن سهل، حدثنا ابراهيم بن عبد الرحمن بن مهدي، حدثني بريه بن عمر بن سفينة، عن ابيه، عن جده، قال اكلت مع رسول الله صلى الله عليه وسلم لحم حبارى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
 
 ## Bengali
 
+। বুরাইহ ইবনু উমার ইবনু সাফীনাহ (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে হুবাবার গোশত খেয়েছি।\[1\] দুর্বলঃ মিশকাত
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। বুরাইহ ইবনু উমার ইবনু সাফীনাহ (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও দাদার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে হুবাবার গোশত খেয়েছি।[1] দুর্বলঃ মিশকাত
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Safinah: I ate the flesh of a bustard along with the Prophet (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
+
+## French
+
+Rapporté par Safinah رضي الله عنه : J’ai mangé de la viande d’outarde avec le Prophète ﷺ
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Fadll bin Sahl\] telah menceritakan kepada kami \[Ibrahim bin Abdurrahman bin Mahdi\] telah menceritakan kepadaku \[Buraih bin Umar bin Safinah\] dari \[Ayahnya\] dari \[Kakeknya\] ia berkata, "Aku bersama Rasulullah shallallahu 'alaihi wasallam pernah makan daging hubara (burung yang panjang lehernya menyerupai angsa)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Fadll bin Sahl] telah menceritakan kepada kami [Ibrahim bin Abdurrahman bin Mahdi] telah menceritakan kepadaku [Buraih bin Umar bin Safinah] dari [Ayahnya] dari [Kakeknya] ia berkata, "Aku bersama Rasulullah shallallahu 'alaihi wasallam pernah makan daging hubara (burung yang panjang lehernya menyerupai angsa)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Бурайх ибн ‘Умар ибн Сафина передаёт от своего отца от своего деда: «Я ел вместе с Посланником Аллаха ﷺ мясо вихляя»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Büreyh b. Ömer b. Sefîne'nin) dedesinden şöyle dediği rivayet olunmuştur: Ben Rasûlullah (s.a.v.) ile beraber toy kuşu eti yedim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سفینہ رضی اللہ عنہ کہتے ہیں میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ ( پانی کی چڑیا ) سرخاب کا گوشت کھایا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3797</td></tr><tr><td>Arabic No</td><td>3797</td></tr><tr><td>Reference</td><td>Book 28 Hadith 62</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3797 |
+| Arabic No | 3797 |
+| Reference | Book 28 Hadith 62 |

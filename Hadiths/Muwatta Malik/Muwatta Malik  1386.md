@@ -14,62 +14,108 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي مَالِكٌ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِيهِ، أَنَّهُ قَالَ خَرَجَ عَبْدُ اللَّهِ وَعُبَيْدُ اللَّهِ ابْنَا عُمَرَ بْنِ الْخَطَّابِ فِي جَيْشٍ إِلَى الْعِرَاقِ فَلَمَّا قَفَلاَ مَرَّا عَلَى أَبِي مُوسَى الأَشْعَرِيِّ وَهُوَ أَمِيرُ الْبَصْرَةِ فَرَحَّبَ بِهِمَا وَسَهَّلَ ثُمَّ قَالَ لَوْ أَقْدِرُ لَكُمَا عَلَى أَمْرٍ أَنْفَعُكُمَا بِهِ لَفَعَلْتُ ‏.‏ ثُمَّ قَالَ بَلَى هَا هُنَا مَالٌ مِنْ مَالِ اللَّهِ أُرِيدُ أَنْ أَبْعَثَ بِهِ إِلَى أَمِيرِ الْمُؤْمِنِينَ فَأُسْلِفُكُمَاهُ فَتَبْتَاعَانِ بِهِ مَتَاعًا مِنْ مَتَاعِ الْعِرَاقِ ثُمَّ تَبِيعَانِهِ بِالْمَدِينَةِ فَتُؤَدِّيَانِ رَأْسَ الْمَالِ إِلَى أَمِيرِ الْمُؤْمِنِينَ وَيَكُونُ الرِّبْحُ لَكُمَا فَقَالاَ وَدِدْنَا ذَلِكَ ‏.‏ فَفَعَلَ وَكَتَبَ إِلَى عُمَرَ بْنِ الْخَطَّابِ أَنْ يَأْخُذَ مِنْهُمَا الْمَالَ فَلَمَّا قَدِمَا بَاعَا فَأُرْبِحَا فَلَمَّا دَفَعَا ذَلِكَ إِلَى عُمَرَ قَالَ أَكُلُّ الْجَيْشِ أَسْلَفَهُ مِثْلَ مَا أَسْلَفَكُمَا قَالاَ لاَ ‏.‏ فَقَالَ عُمَرُ بْنُ الْخَطَّابِ ابْنَا أَمِيرِ الْمُؤْمِنِينَ فَأَسْلَفَكُمَا أَدِّيَا الْمَالَ وَرِبْحَهُ ‏.‏ فَأَمَّا عَبْدُ اللَّهِ فَسَكَتَ وَأَمَّا عُبَيْدُ اللَّهِ فَقَالَ مَا يَنْبَغِي لَكَ يَا أَمِيرَ الْمُؤْمِنِينَ هَذَا لَوْ نَقَصَ هَذَا الْمَالُ أَوْ هَلَكَ لَضَمِنَّاهُ ‏.‏ فَقَالَ عُمَرُ أَدِّيَاهُ ‏.‏ فَسَكَتَ عَبْدُ اللَّهِ وَرَاجَعَهُ عُبَيْدُ اللَّهِ ‏.‏ فَقَالَ رَجُلٌ مِنْ جُلَسَاءِ عُمَرَ يَا أَمِيرَ الْمُؤْمِنِينَ لَوْ جَعَلْتَهُ قِرَاضًا ‏.‏ فَقَالَ عُمَرُ قَدْ جَعَلْتُهُ قِرَاضًا ‏.‏ فَأَخَذَ عُمَرُ رَأْسَ الْمَالِ وَنِصْفَ رِبْحِهِ وَأَخَذَ عَبْدُ اللَّهِ وَعُبَيْدُ اللَّهِ ابْنَا عُمَرَ بْنِ الْخَطَّابِ نِصْفَ رِبْحِ الْمَالِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |
+
 حدثني مالك، عن زيد بن اسلم، عن ابيه، انه قال خرج عبد الله وعبيد الله ابنا عمر بن الخطاب في جيش الى العراق فلما قفلا مرا على ابي موسى الاشعري وهو امير البصرة فرحب بهما وسهل ثم قال لو اقدر لكما على امر انفعكما به لفعلت . ثم قال بلى ها هنا مال من مال الله اريد ان ابعث به الى امير المومنين فاسلفكماه فتبتاعان به متاعا من متاع العراق ثم تبيعانه بالمدينة فتوديان راس المال الى امير المومنين ويكون الربح لكما فقالا وددنا ذلك . ففعل وكتب الى عمر بن الخطاب ان ياخذ منهما المال فلما قدما باعا فاربحا فلما دفعا ذلك الى عمر قال اكل الجيش اسلفه مثل ما اسلفكما قالا لا . فقال عمر بن الخطاب ابنا امير المومنين فاسلفكما اديا المال وربحه . فاما عبد الله فسكت واما عبيد الله فقال ما ينبغي لك يا امير المومنين هذا لو نقص هذا المال او هلك لضمناه . فقال عمر ادياه . فسكت عبد الله وراجعه عبيد الله . فقال رجل من جلساء عمر يا امير المومنين لو جعلته قراضا . فقال عمر قد جعلته قراضا . فاخذ عمر راس المال ونصف ربحه واخذ عبد الله وعبيد الله ابنا عمر بن الخطاب نصف ربح المال
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 রেওয়ায়ত ১৫. মালিক (রহঃ) বলেনঃ যদি ব্যবসায়ী ব্যবসা করিয়া লাভ করিল আর পুঁজি বিনিয়োগকারীর অনুপস্থিতিতে নিজের লভ্যাংশ লইতে ইচ্ছা করিল তবে ইহা বৈধ হইবে না, যতক্ষণ না অর্থ বিনিয়োগকারী উপস্থিত হয়। যদি তাহার অনুপস্থিতিতেই নিয়া নেয়, তবে সে ইহার জন্য দায়ী হইবে, উভয়ের মধ্যে বন্টনের সময় উক্ত মাল একত্রিত করা পর্যন্ত। মালিক (রহঃ) বলেনঃ পুঁজি বিনিয়োগকারীর জন্য ইহা বৈধ হইবে না যে, মাল না দেখিয়া লভ্যাংশের হিসাব করবে, বরং মাল উপস্থাপন প্রয়োজন হইবে। প্রথমে পুঁজি বিনিয়োগকারী মূলধন লইয়া লইবে। পরে শর্তানুযায়ী লভ্যাংশ ভাগ করিবে। মালিক (রহঃ) বলেনঃ যদি ব্যবসায়ী কোন সামগ্ৰী ক্রয় করে আর ব্যবসায়ীর ঋণদাতাগণ তাহা আটকাইয়া বলে, এই মাল বিক্রয় করিয়া যে লাভ হইবে তোমার অংশে উহা হইতে আমরা ঋণ নিয়া দেব। যদি পুঁজি বিনিয়োগকারীর অনুপস্থিতিতে এইরূপ করে তবে ইহা অবৈধ হইবে। পুঁজি বিনিয়োগকারী তাহার মূলধন বাহির করিয়া লওয়ার পর লভ্যাংশ ভাগ করা হইবে। মালিক (রহঃ) বলেনঃ যদি ব্যবসায়ী ব্যবসা করিয়া লাভ করে এবং পুঁজি বিনিয়োগকারীর অবর্তমানে মূলধন পৃথক করিয়া লভ্যাংশ সাক্ষীদের সম্মুখে ভাগ করিয়া নেয় ইহা অবৈধ হইবে। যদি পুঁজি বিনিয়োগকারী আসিবার পূর্বে এইরূপ করিয়াও ফেলে, তবে উহা ফেরত দিতে হইবে, পুঁজি বিনিয়োগকারী আসিয়া প্রথমে তাহার মূলধন পৃথক করিয়া লইবে, তারপর অবশিষ্ট লভ্যাংশ ভাগ করা হইবে। মালিক (রহঃ) বলেনঃ ব্যবসায়ী ব্যবসা করিয়া লাভ করিল এবং সে পুঁজি বিনিয়োগকারীর লভ্যাংশ লইয়া উপস্থিত হইল এবং বলিতে লাগিল, ইহা তোমার লাভের অংশ। আমিও এইটুকু লইয়াছি। আর তোমার মূলধন আমার নিকট জমা রহিয়াছে, তবে এইরূপ করা অবৈধ হইবে, বরং সে সমস্ত মূলধন ও লাভ লইয়া পুঁজি বিনিয়োগকারীর সম্মুখে উপস্থিত করিবে। অতঃপর পুঁজির মালিকের ইখতিয়ার রহিয়াছে, হয় মূলধন লইয়া নিজে রাখিয়া দিকে বা পুনরায় ব্যবসায়ীকে দিবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malik related to me from Zayd ibn Aslam that his father said, "Abdullah and Ubaydullah, the sons of Umar ibn al-Khattab went out with the army to Iraq. On the way home, they passed by Abu Musa al- Ashari who was the amir of Basra. He greeted them and made them welcome, and told them that if there was anything he could do to help them, he would do it. Then he said, 'There is some of the property of Allah which I want to send to the amir al-muminin, so I will lend it to you, and you can buy wares from Iraq and sell them in Madina. Then give the principal to the amir al-muminin, and you keep the profit.' They said that they would like to do it, and so he gave them the money and wrote to Umar ibn al-Khattab to take the money from them. When they came to sell they made a profit, and when they paid the principal to Umar he asked, 'Did he lend everyone in the army the like of what he lent you?' They said, 'No.' Umar ibn al-Khattab said, 'He made you the loan, because you are the sons of the amir al-muminin, so pay the principal and the profit.' Abdullah was silent. Ubaydullah said, 'You do not need to do this, amir al-muminin. Had the principal decreased or been destroyed, we would have guaranteed it.' Umar said, 'Pay it.' Abdullah was silent, and Ubaydullah repeated it. A man who was sitting with Umar said, 'Amir al-muminin, better that you make it a qirad. 'Umar said, 'I have made it qirad.' Umar then took the principal and half of the profit, and Abdullah and Ubaydullah, the sons of Umar ibn al-Khattab took half of the profit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 «A propos d'un commanditaire qui verse à un commandité un capital, et que tous deux s'empruntent de l'argent (somme indépendante du capital) ou encore que le commanditaire demande à son partenaire de vendre pour lui une marchandise qu'il possède, ou aussi qu'il lui donne des dinars avec quoi le commandité achètera pour le commanditaire une marchandise, Malek a dit: «Le commanditaire n'aurait pas chargé son partenaire, d'un achat et d'une vente, s'il ne lui avait pas livré un capital, lui demandant amicalement de le faire et trouvant cela facile à être fait, mais si le commandité refuse de s'en charger, le commanditaire n'aura pas le droit de reprendre son capital de ce partenaire, et ce dernier, n'aura pas à emprunter de l'autre ni acceptera de lui vendre une marchandise, sachant bien qu'il n'a pas un capital; d'autre part, si le commandité refuse de se charger et de l'achat et de la vente, il n'est pas obligé de rendre le capital de la société en commandite. Or, s'il est fait, que tous deux se soient entendus sur ce qui est de convenable et pour l'un et pour l'autre, sans que cela en soit une condition, ceci est donc permis et toléré. Mais si une condition quelconque figure de telle façon que le commandité risque de rembourser au commanditaire le capital au cas où il refuse ce que le commanditaire le charge de faire, ou que le commanditaire craigne que le commandité ne lui remettra pas son capital, cela n'est plus permis dans une société en commandite et c'est ce que les hommes versés dans la religion ont interdit de faire». Chapitre XIII L'avance faite dans une société en commandite
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku Malik dari \[Zaid bin Aslam\] dari \[Bapaknya\] ia berkata; "Abdullah dan Ubaidullah, keduanya anak Umar bin Khattab, pernah bergabung dalam sebuah pasukan menuju Irak. Tatkala kembali, mereka berdua melewati Abu Musa Al Asy'ari yang pada saat itu menjadi gubernur Bashrah. Abu Musa kemudian menyambut keduanya dengan senang hati seraya berkata; "Sekiranya aku bisa memberikan sesuatu yang dapat bermanfaat kepada kalian di hari kemudian, niscaya akan aku lakukan." \[Abu Musa\] berkata lagi, "Oh ya, ini ada harta dari harta Allah, saya ingin menyerahkannya kepada Amirul Mukminin, saya pinjamkan harta ini kepada kalian berdua sehingga kalian bisa berbelanja barang dagangan di Irak dan menjualnya kembali sesampai di Madinah. Nanti serahkanlah modalnya kepada Amirul Mukiminin, dan keuntungannya untuk kalian berdua. Mereka berdua berkata; 'Kami senang dengan hal itu.' Maka Abu Musa melakukannya dan menulis pesan untuk Amirul Mukminin agar dia mengambil harta darinya yang dititipkan kepada kedua anaknya. Tatkala mereka berdua tiba (di Madinah) mereka menjual dagangannya hingga mendapatkan keuntungan. Namun tatkala hendak menyerahkan harta tersebut kepada 'Umar, Umar bertanya; 'Apakah Abu Musa meminjami setiap pasukan sebagaimana dia meminjamkannya kepada kalian berdua? ' Mereka berdua menjawab; 'Tidak'. \[Umar bin Khattab\] berkata; 'Jadi karena kalian anak dari Amirul Mukminin sehingga dia meminjamkannya?! Serahkan semua harta serta keuntungannya! ' Mendengar hal itu, Abdullah hanya bisa diam. Sedangkan Ubaidullah berkata; 'Tidak sepatutnya engkau bersikap demikian, wahai Amirul Mukminin, bukankah jika harta itu berkurang atau hilang, kami harus menanggungnya? ' Umar masih bersikukuh; 'Serahkan, ' Abdullah juga masih terus diam, sedang Ubaidullah masih terus berusaha mendesaknya. Lalu ada seorang lelaki yang berada di majelis itu berusaha untuk menengahi dan berkata; 'Wahai Amirul Mukminin, bagaimana jika harta itu engkau pinjamkan kepada mereka berdua? ' 'Aku telah meminjamkannya kepada mereka berdua', jawab Umar bin Khattab. Kemudian Umar mengambil harta itu ditambah setengah dari keuntungan, sedang Abdullah dan Ubaidullah juga mendapat setengah dari keuntungan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku Malik dari [Zaid bin Aslam] dari [Bapaknya] ia berkata; "Abdullah dan Ubaidullah, keduanya anak Umar bin Khattab, pernah bergabung dalam sebuah pasukan menuju Irak. Tatkala kembali, mereka berdua melewati Abu Musa Al Asy'ari yang pada saat itu menjadi gubernur Bashrah. Abu Musa kemudian menyambut keduanya dengan senang hati seraya berkata; "Sekiranya aku bisa memberikan sesuatu yang dapat bermanfaat kepada kalian di hari kemudian, niscaya akan aku lakukan." [Abu Musa] berkata lagi, "Oh ya, ini ada harta dari harta Allah, saya ingin menyerahkannya kepada Amirul Mukminin, saya pinjamkan harta ini kepada kalian berdua sehingga kalian bisa berbelanja barang dagangan di Irak dan menjualnya kembali sesampai di Madinah. Nanti serahkanlah modalnya kepada Amirul Mukiminin, dan keuntungannya untuk kalian berdua. Mereka berdua berkata; 'Kami senang dengan hal itu.' Maka Abu Musa melakukannya dan menulis pesan untuk Amirul Mukminin agar dia mengambil harta darinya yang dititipkan kepada kedua anaknya. Tatkala mereka berdua tiba (di Madinah) mereka menjual dagangannya hingga mendapatkan keuntungan. Namun tatkala hendak menyerahkan harta tersebut kepada 'Umar, Umar bertanya; 'Apakah Abu Musa meminjami setiap pasukan sebagaimana dia meminjamkannya kepada kalian berdua? ' Mereka berdua menjawab; 'Tidak'. [Umar bin Khattab] berkata; 'Jadi karena kalian anak dari Amirul Mukminin sehingga dia meminjamkannya?! Serahkan semua harta serta keuntungannya! ' Mendengar hal itu, Abdullah hanya bisa diam. Sedangkan Ubaidullah berkata; 'Tidak sepatutnya engkau bersikap demikian, wahai Amirul Mukminin, bukankah jika harta itu berkurang atau hilang, kami harus menanggungnya? ' Umar masih bersikukuh; 'Serahkan, ' Abdullah juga masih terus diam, sedang Ubaidullah masih terus berusaha mendesaknya. Lalu ada seorang lelaki yang berada di majelis itu berusaha untuk menengahi dan berkata; 'Wahai Amirul Mukminin, bagaimana jika harta itu engkau pinjamkan kepada mereka berdua? ' 'Aku telah meminjamkannya kepada mereka berdua', jawab Umar bin Khattab. Kemudian Umar mengambil harta itu ditambah setengah dari keuntungan, sedang Abdullah dan Ubaidullah juga mendapat setengah dari keuntungan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زید بن اسلم نے اپنے باپ سے روایت ہے کہ کہ عبداللہ بن عبیداللہ بیٹے حضرت عمر بن خطا کے ایک لشکر کے ساتھ نکلے جہاد کے واسطے عراق کی طرف جب لوٹے تو ابومویس اشعری کے پاس گئے جو حاکم تھے بصرے کے انہوں نے کہا مرحبا اور سہلا پھر کہا کاش میں تم کو کچھ نفع پہنچا سکتا تو پہنچاتا میرے پاس کچھ روپیہ ہے اللہ کا جس کو میں بھیجنا چاہتا ہوں حضرت عمر کے پاس تو میں وہ روپے تم کو قرض دے دیتا ہوں اس کا اسباب خرید لو عراق سے پھر مدینہ میں اس مال کو بیچ کر اصل روپیہ حضرت عمر کو دیدینا اور نفع تم لے لینا انہوں نے کہا ہم بھی یہ چاہتے ہیں ابوموسیٰ نے ایسا ہی کیا اور حضرت عمر کو لکھ بھیجا کہ ان دونوں سے اصل روپیہ وصول کر لیجئے گا جب دونوں مدینہ کو آئے انہوں نے مال بیچا اور نفع حاصل کیا پھر اصل مال لے کر حضرت عمر کے پاس گئے حضرت عمر نے پوچھا کی ابومویس نے لشکر کے سب لوگوں کو اتنا اتنا روپیہ قرض دیا تھا انہوں نے کہا نہیں حضرت عمر نے کہا پھر تم کو امیرالمومنین کا بیٹا سمجھ کر یہ روپیہ دیا ہوگا اصل روپیہ اور نفع دونوں دے دو عبداللہ تو چپ ہو رہے اور عبیداللہ نے کہا اے امیر المومنین تم کو ایسا نہیں کرنا چاہئے اگر مال تلف ہوتا یا نقصان ہوتا تو ہم ضمان دیتے حضرت عمرنے کہا نہیں دے دو عبداللہ چپ ہو رہے عبیداللہ نے پھر جواب دیا اتنے میں ایک شخص حضرت عمر کے مصاحبوں میں سے بولا اے امیر المومنین تم اس کو مضاربت کر دو تو بہتر ہے حضرت عمر نے کہا میں نے کیا پھر حضرت نے اصل مال اور نصف نفع لیا اور عبداللہ اور عبیداللہ نے آدھا نفع لیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1386</td></tr><tr><td>Arabic No</td><td>1386</td></tr><tr><td>Reference</td><td>Book 32 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1386 |
+| Arabic No | 1386 |
+| Reference | Book 32 Hadith 1 |

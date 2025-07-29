@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، عَنْ أَبِي أُسَامَةَ، قَالَ سَمِعْتُ ابْنَ الْمُبَارَكِ، يَقُولُ مَا وَجَدْتُ الرُّخْصَةَ فِي الْمُسْكِرِ عَنْ أَحَدٍ صَحِيحًا إِلاَّ عَنْ إِبْرَاهِيمَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 51 Hadith 213</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |
+
 حدثنا عبيد الله بن سعيد، عن ابي اسامة، قال سمعت ابن المبارك، يقول ما وجدت الرخصة في المسكر عن احد صحيحا الا عن ابراهيم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 51 Hadith 213</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উবায়দুল্লাহ ইবন সাঈদ (রহঃ) ... আবু উসমান (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি আবদুল্লাহ ইবন মুবারক (রহঃ)-কে বলতে শুনেছিঃ আমি ইব্রাহীম (রহঃ) ব্যতীত অন্য কাউকে মাদকদ্রব্যের অনুমতি দিতে শুনিনি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 51 Hadith 213</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn Al-Mubarak said:"I have never found any sound report, giving a concession on intoxicants, except the report narrated from Ibrahim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 51 Hadith 213</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |
+
+## French
+
+Rapporté par Ibn Al-Mubarak : Je n'ai jamais trouvé de récit authentique autorisant les enivrants, sauf le récit rapporté d'Ibrahim
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ubaidullah bin Sa'id\] dari \[Abu Usamah\] ia berkata, "Aku mendengar \[Ibnul Mubarak\] berkata, "Aku tidak pernah mendapatkan riwayat yang shahih dari seorang pun yang memberikan keringanan dalam masalah minuman yang memabukkan, selain dari Ibrahim
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Sa'id] dari [Abu Usamah] ia berkata, "Aku mendengar [Ibnul Mubarak] berkata, "Aku tidak pernah mendapatkan riwayat yang shahih dari seorang pun yang memberikan keringanan dalam masalah minuman yang memabukkan, selain dari Ibrahim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 51 Hadith 213</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 51 Hadith 213</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5751</td></tr><tr><td>Arabic No</td><td>5751</td></tr><tr><td>Reference</td><td>Book 51 Hadith 213</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5751 |
+| Arabic No | 5751 |
+| Reference | Book 51 Hadith 213 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، وَأَحْمَدُ بْنُ عَبْدَةَ، - الْمَعْنَى - قَالاَ حَدَّثَنَا حَمَّادٌ، حَدَّثَنَا عَامِرٌ الأَحْوَلُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، - قَالَ ابْنُ عَبْدَةَ - عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ يُجْلَسُ بَيْنَ رَجُلَيْنِ إِلاَّ بِإِذْنِهِمَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
+
 حدثنا محمد بن عبيد، واحمد بن عبدة، - المعنى - قالا حدثنا حماد، حدثنا عامر الاحول، عن عمرو بن شعيب، - قال ابن عبدة - عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم قال " لا يجلس بين رجلين الا باذنهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
 
 ## Bengali
 
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উভয়ের অনুমতি ছাড়া কেউ দু’ ব্যক্তির মাঝখানে বসবে না।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ উভয়ের অনুমতি ছাড়া কেউ দু’ ব্যক্তির মাঝখানে বসবে না।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) said: One should not sit between two men except with their permission
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
+
+## French
+
+Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il ne faut pas s’asseoir entre deux personnes sans leur permission. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Ubaid\] dan \[Ahmad bin Abdah\] secara makna, keduanya berkata; telah menceritakan kepada kami \[Hammad\] berkata, telah menceritakan kepada kami \[Amir Al Ahwal\] dari \[Amru bin Syu'aib\]. \[Ibnu Abdah\] berkata; dari \[Bapaknya\] dari \[Kakeknya\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh duduk di antara dua orang kecuali dengan seizinnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Ubaid] dan [Ahmad bin Abdah] secara makna, keduanya berkata; telah menceritakan kepada kami [Hammad] berkata, telah menceritakan kepada kami [Amir Al Ahwal] dari [Amru bin Syu'aib]. [Ibnu Abdah] berkata; dari [Bapaknya] dari [Kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidak boleh duduk di antara dua orang kecuali dengan seizinnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Амра бин Шу‘айба, что его отец передал, что его дед, да будет доволен им Аллах, сказал: «Посланник Аллаха ﷺ сказал: “Садиться между двумя (людьми) можно только с их позволения”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr b. Şuayb'den (ya da dedesinden rivayet edildiğine göre) Rasûlullah (s.a.v.): "İzinleri olmadıkça iki kişinin arasına oturulmasın" buyurmuştur. İzah 4845 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو بن عاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: دو آدمیوں کے درمیان گھس کر ان کی اجازت کے بغیر نہ بیٹھا جائے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4844</td></tr><tr><td>Arabic No</td><td>4844</td></tr><tr><td>Reference</td><td>Book 43 Hadith 72</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4844 |
+| Arabic No | 4844 |
+| Reference | Book 43 Hadith 72 |

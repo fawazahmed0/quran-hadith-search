@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,138 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمِنْهَالِ، حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ زُرَيْعٍ - حَدَّثَنَا رَوْحُ بْنُ الْقَاسِمِ، عَنْ سُهَيْلٍ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ قَالَ حِينَ يُصْبِحُ سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ مِائَةَ مَرَّةٍ وَإِذَا أَمْسَى كَذَلِكَ لَمْ يُوَافِ أَحَدٌ مِنَ الْخَلاَئِقِ بِمِثْلِ مَا وَافَى ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
+
 حدثنا محمد بن المنهال، حدثنا يزيد، - يعني ابن زريع - حدثنا روح بن القاسم، عن سهيل، عن سمى، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " من قال حين يصبح سبحان الله العظيم وبحمده ماية مرة واذا امسى كذلك لم يواف احد من الخلايق بمثل ما وافى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সকালে জেগে উঠে একশো বার বলবেঃ ‘‘সুবহানাল্লাহিল আযীম ওয়া বিহামদিহি’’ এবং সন্ধ্যায় উপনীত হয়েও অনুরূপ বলে, তাহলে সৃষ্টিকুলের কেউই তার মত মর্যাদা ও সওয়াব অর্জনে সক্ষম হবে না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি সকালে জেগে উঠে একশো বার বলবেঃ ‘‘সুবহানাল্লাহিল আযীম ওয়া বিহামদিহি’’ এবং সন্ধ্যায় উপনীত হয়েও অনুরূপ বলে, তাহলে সৃষ্টিকুলের কেউই তার মত মর্যাদা ও সওয়াব অর্জনে সক্ষম হবে না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying:if anyone says a hundred times in the morning: “Glory be to Allah, the Sublime, and I begin with praise of him”, and says likewise in the evening, no one from the creatures will bring anything like the one which he will bring
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : Si quelqu’un dit cent fois le matin : « Gloire à Allah, le Sublime, et je commence par Sa louange », et dit de même le soir, aucune créature n’apportera quelque chose de comparable à ce qu’il aura apporté
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Ebu Hureyre:den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "Her kim sabahleyin yüz defa sübhanellahilazim ve bihamdih (: Ulu Allah'ı hamdiyle beraber tenzih ederim), derse ve akşamleyin de aynı şekilde hareket ederse onun elde ettiğinin bir benzerini yaratıklardan hiçbiri elde edemez
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص «سبحان الله العظيم وبحمده» سو مرتبہ صبح پڑھے اور اسی طرح شام کو بھی سو مرتبہ پڑھے تو اس کے برابر مخلوق میں کسی کا درجہ نہیں ہو سکتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2692)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5091</td></tr><tr><td>Arabic No</td><td>5091</td></tr><tr><td>Reference</td><td>Book 43 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2692) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5091 |
+| Arabic No | 5091 |
+| Reference | Book 43 Hadith 319 |

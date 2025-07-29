@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدٌ، حَدَّثَنَا غُنْدَرٌ، حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَرَأَ ‏(‏فَهَلْ مِنْ مُدَّكِرٍ‏، ولقد أهلكنا أشياعكم فهل من مُدَّكِرٍ‏)‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد، حدثنا غندر، حدثنا شعبة، عن ابي اسحاق، عن الاسود، عن عبد الله، عن النبي صلى الله عليه وسلم قرا (فهل من مدكر، ولقد اهلكنا اشياعكم فهل من مدكر)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
 ## Bengali
 
+‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়েছেন। \[৩৩৪১\] (আধুনিক প্রকাশনীঃ ৪৫০৬, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়েছেন। [৩৩৪১] (আধুনিক প্রকাশনীঃ ৪৫০৬, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abdullah:The Prophet (ﷺ) recited: 'Fahal-min Muddakir': 'And verily, We have destroyed nations like unto you; then is there any that will receive admonition?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
+
+## French
+
+Rapporté par 'Abdullah : Le Prophète (ﷺ) récitait : « Fahal-min Muddakir » : « Et en vérité, Nous avons détruit des nations semblables à vous ; y a-t-il donc quelqu’un pour réfléchir ? »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad\] Telah menceritakan kepada kami \[Gundar\] Telah menceritakan kepada kami \[Syu'bah\] dari \[Abu Ishaq\] dari \[Al Aswad\] dari \[Abdullah\] dari Nabi shallallahu 'alaihi wasallam bahwa beliau membaca: "FAHAL MIN MUDDAKIR." (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar:)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad] Telah menceritakan kepada kami [Gundar] Telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah] dari Nabi shallallahu 'alaihi wasallam bahwa beliau membaca: "FAHAL MIN MUDDAKIR." (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абдуллах сказал: «Пророк ﷺ читал: “Найдётся ли поминающий?”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (54ஆவது அத்தியாயத்தின் மூலத்திலுள்ள இத்தொடரை) ‘ஃபஹல் மின்(ம்) முத்தக்கிர்’ என்றே ஓதினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
 ## Turkish
 
+Abdullah İbn Mes'ud'dan rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem \[şu ayeti\]. فهل من مدكر fehel min muddekir şeklinde okumuştur
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah İbn Mes'ud'dan rivayet edildiğine göre, Nebi Sallallahu Aleyhi ve Sellem [şu ayeti]. فهل من مدكر fehel min muddekir şeklinde okumuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے محمد بن بشار نے بیان کیا، کہا ہم سے غندر نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے ابواسحاق نے، ان سے اسود نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے «فهل من مدكر‏» ( دال مہملہ سے ) پڑھا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4873</td></tr><tr><td>Arabic No</td><td>4873</td></tr><tr><td>Reference</td><td>Book 65 Hadith 394</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4873 |
+| Arabic No | 4873 |
+| Reference | Book 65 Hadith 394 |

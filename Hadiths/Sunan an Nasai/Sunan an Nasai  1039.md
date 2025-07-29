@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا عَبْدُ الْحَمِيدِ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ عَمْرِو بْنِ عَطَاءٍ، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا رَكَعَ اعْتَدَلَ فَلَمْ يَنْصِبْ رَأْسَهُ وَلَمْ يُقْنِعْهُ وَوَضَعَ يَدَيْهِ عَلَى رُكْبَتَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |
+
 اخبرنا محمد بن بشار، قال حدثنا يحيى، قال حدثنا عبد الحميد بن جعفر، قال حدثني محمد بن عمرو بن عطاء، عن ابي حميد الساعدي، قال كان النبي صلى الله عليه وسلم اذا ركع اعتدل فلم ينصب راسه ولم يقنعه ووضع يديه على ركبتيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু বাশশার (রহঃ) ... আবূ হুমায়দ সাঈদী (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রুকু করতেন, তখন তিনি সোজা হয়ে যেতেন। তিনি তার মাথা উঁচু করে রাখতেন না আবার ঝুঁকিয়েও রাখতেন না। আর তার উভয় হাত হাটুর উপর রাখতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Humaid As-Sa'idi said:"When the Prophet (ﷺ) bowed he was balanced, he did not make his head higher or lower than his back, and he put his hands on his knees
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |
+
+## French
+
+Rapporté par Abu Humaid As-Sa'idi : « Quand le Prophète (ﷺ) s’inclinait, il gardait le dos droit, sans que sa tête soit plus haute ou plus basse que son dos, et il posait ses mains sur ses genoux. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Basysyar\] dia berkata; telah menceritakan kepada kami \[Yahya\] dia berkata; telah menceritakan kepada kami \['Abdul Humaid bin Ja'far\] dia berkata; telah menceritakan kepadaku \[Muhammad bin 'Amr bin 'Atha\] dari \[Abu Humaid As-Sa'diy\] dia berkata; "Apabila Rasulullah Shallallahu'alaihi wasallam ruku' maka beliau melakukannya dengan lurus, tidak mengangkat kepalanya dan tidak mengangkatnya melebihi punggungnya. Beliau meletakkan kedua tangan diatas kedua lututnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Basysyar] dia berkata; telah menceritakan kepada kami [Yahya] dia berkata; telah menceritakan kepada kami ['Abdul Humaid bin Ja'far] dia berkata; telah menceritakan kepadaku [Muhammad bin 'Amr bin 'Atha] dari [Abu Humaid As-Sa'diy] dia berkata; "Apabila Rasulullah Shallallahu'alaihi wasallam ruku' maka beliau melakukannya dengan lurus, tidak mengangkat kepalanya dan tidak mengangkatnya melebihi punggungnya. Beliau meletakkan kedua tangan diatas kedua lututnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو حمید ساعدی رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جب رکوع کرتے تو پیٹھ اور سر کو برابر رکھتے، نہ تو سر کو بہت اونچا رکھتے اور نہ اسے جھکا کر رکھتے، اور اپنے ہاتھوں کو اپنے دونوں گھٹنوں پہ رکھتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1039</td></tr><tr><td>Arabic No</td><td>1039</td></tr><tr><td>Reference</td><td>Book 12 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1039 |
+| Arabic No | 1039 |
+| Reference | Book 12 Hadith 11 |

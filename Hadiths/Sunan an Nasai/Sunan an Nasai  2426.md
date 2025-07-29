@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا رَجُلاَنِ، مُحَمَّدٌ وَحَكِيمٌ عَنْ مُوسَى بْنِ طَلْحَةَ، عَنِ ابْنِ الْحَوْتَكِيَّةِ، عَنْ أَبِي ذَرٍّ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَمَرَ رَجُلاً بِصِيَامِ ثَلاَثَ عَشْرَةَ وَأَرْبَعَ عَشْرَةَ وَخَمْسَ عَشْرَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 22 Hadith 337</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |
+
 اخبرنا محمد بن المثنى، قال حدثنا سفيان، قال حدثنا رجلان، محمد وحكيم عن موسى بن طلحة، عن ابن الحوتكية، عن ابي ذر، ان النبي صلى الله عليه وسلم امر رجلا بصيام ثلاث عشرة واربع عشرة وخمس عشرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 22 Hadith 337</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন মুছান্না (রহঃ) ... আবু যর (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ব্যক্তিকে তের তারিখ, চৌদ্দ তারিখ এবং পনের তারিখের সাওম পালন করার নির্দেশ দিয়েছিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 22 Hadith 337</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Dharr:That the Prophet commanded a man to fast on the thirteenth, fourteenth and fifteenth
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 22 Hadith 337</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |
+
+## French
+
+Rapporté par Abu Dharr : Le Prophète a ordonné à un homme de jeûner le treizième, le quatorzième et le quinzième
+
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al Mutsanna\] dia berkata; telah menceritakan kepada kami \[Sufyan\] dia berkata; telah menceritakan kepada kami dua orang laki-laki - \[Muhammad\] dan \[Hakim\] - dari \[Musa bin Thalhah\] dari \[Ibnul Hautakiyyah\] dari \[Abu Dzarr\] bahwa Nabi shallallahu 'alaihi wasallam memerintahkan seseorang agar berpuasa -tanggal- tiga belas, empat belas dan lima belas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dia berkata; telah menceritakan kepada kami [Sufyan] dia berkata; telah menceritakan kepada kami dua orang laki-laki - [Muhammad] dan [Hakim] - dari [Musa bin Thalhah] dari [Ibnul Hautakiyyah] dari [Abu Dzarr] bahwa Nabi shallallahu 'alaihi wasallam memerintahkan seseorang agar berpuasa -tanggal- tiga belas, empat belas dan lima belas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 22 Hadith 337</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 22 Hadith 337</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوذر رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے ایک شخص کو تیرہویں، چودہویں، اور پندرہویں کو روزے رکھنے کا حکم دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2426</td></tr><tr><td>Arabic No</td><td>2426</td></tr><tr><td>Reference</td><td>Book 22 Hadith 337</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Lighairihi | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2426 |
+| Arabic No | 2426 |
+| Reference | Book 22 Hadith 337 |

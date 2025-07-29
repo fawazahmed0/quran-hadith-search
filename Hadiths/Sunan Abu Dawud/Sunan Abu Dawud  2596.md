@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادٌ، عَنِ ابْنِ الْمُبَارَكِ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، عَنْ إِيَاسِ بْنِ سَلَمَةَ، عَنْ أَبِيهِ، قَالَ غَزَوْنَا مَعَ أَبِي بَكْرٍ - رضى الله عنه - زَمَنَ النَّبِيِّ صلى الله عليه وسلم فَكَانَ شِعَارُنَا أَمِتْ أَمِتْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
+
 حدثنا هناد، عن ابن المبارك، عن عكرمة بن عمار، عن اياس بن سلمة، عن ابيه، قال غزونا مع ابي بكر - رضى الله عنه - زمن النبي صلى الله عليه وسلم فكان شعارنا امت امت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইয়্যাস ইবনু সালামাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি (সালামাহ) বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আবূ বাকর (রাঃ)-এর সেনাপতিত্বে যুদ্ধ করেছিলাম। সে সময় আমাদের সাংকেতিক ডাক ছিলো ‘আমিত, আমিত।’
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ilyas bin Salamah(bin Al Akwa’) said on the authority of his father “We went on an expedition with Abu Bakr (Allaah be pleased with him) in the time of the Apostle of Allaah(ﷺ) and our war cry was “Put to death” “Put to death”.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
+
+## French
+
+Ilyas ibn Salamah (ibn Al Akwa’) رضي الله عنه a dit d’après son père : « Nous sommes partis en expédition avec Abu Bakr رضي الله عنه à l’époque du Messager d’Allah ﷺ et notre cri de guerre était : “Tuez ! Tuez !” »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hannad\] dari \[Ibnu Al Mubarak\] dari \[Ikrimah bin 'Ammar\], dari \[Iyas bin Salamah\], dari \[ayahnya\], ia berkata; kami telah berperang bersama Abu Bakr radliallahu 'anhu pada zaman Nabi shallallahu 'alaihi wasallam, dan slogan kami adalah kata: bunuh, bunuh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hannad] dari [Ibnu Al Mubarak] dari [Ikrimah bin 'Ammar], dari [Iyas bin Salamah], dari [ayahnya], ia berkata; kami telah berperang bersama Abu Bakr radliallahu 'anhu pada zaman Nabi shallallahu 'alaihi wasallam, dan slogan kami adalah kata: bunuh, bunuh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Саляма рассказывал: «Во время Посланника Аллаха ﷺ мы отправились в военной поход под руководством Абу Бакра, и нашим кличем были (следующие слова): “(О Аллах!) Умертви (врага)! (О Аллах!) Умертви (врага)!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İyas b. Seleme'nin babası (Seleme)'den; demiştir ki; "Biz Nebi (s.a.v.) zamanında, Ebu Bekr (r.a.)'le birlikte savaş'a çıktık, parolamız, "Öldür, öldür" idi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلمہ بن الاکوع رضی اللہ عنہ کہتے ہیں کہ ہم نے ابوبکر رضی اللہ عنہ کے ساتھ نبی اکرم صلی اللہ علیہ وسلم کے زمانہ میں غزوہ کیا تو ہمارا شعار «أمت أمت» ۱؎ تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2596</td></tr><tr><td>Arabic No</td><td>2596</td></tr><tr><td>Reference</td><td>Book 15 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2596 |
+| Arabic No | 2596 |
+| Reference | Book 15 Hadith 120 |

@@ -14,62 +14,110 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، أَنَّ أَبَاهُ، كَانَ يُصَلِّي فِي الصَّحْرَاءِ إِلَى غَيْرِ سُتْرَةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |
+
 وحدثني عن مالك، عن هشام بن عروة، ان اباه، كان يصلي في الصحراء الى غير سترة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 রেওয়ায়ত ৪২. মালিক (রহঃ) বলেনঃ তাহার নিকট রেওয়ায়ত পৌছিয়াছে যে, আবদুল্লাহ ইবন উমর (রাঃ) উটের পিঠের হাড় দ্বারা সুতরা করিতেন। হিশাম ইবন উরওয়াহ (রহঃ) তাহার পিতা হইতে বর্ণনা করেন- তিনি সুতরা সামনে না করিয়া মরুভূমিতে নামায পড়িতেন। (কারণ সেখানে লোকজনের চলাচল তেমন ছিল না।)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik from Hisham ibn Urwa that his father used to pray in the desert without a sutra
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 On rapporta à Malek que Abdallah Ibn Omar plaçait sa mon ture devant lui quand il priait». (....) 47 - Hicham Ibn Ourwa, a dit que son père priait dans un milieu désertique, sans qu'il y ait de la soutra». Chapitre XIII L’écartement des cailloux quand on prie
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku dari Malik dari \[Hisyam bin Urwah\], bahwa \[Bapaknya\] shalat di padang pasir tanpa adanya pembatas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku dari Malik dari [Hisyam bin Urwah], bahwa [Bapaknya] shalat di padang pasir tanpa adanya pembatas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hişam b. Urve de babasının sahrada (açık yerde, çölde) namaz kılarken önüne sütre koymadığını nakletmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہشام بن عروہ سے روایت ہے کہ ان کے باپ نماز پڑھتے تھے صحرا میں بغیر سترہ کے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>372</td></tr><tr><td>Arabic No</td><td>372</td></tr><tr><td>Reference</td><td>Book 9 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 372 |
+| Arabic No | 372 |
+| Reference | Book 9 Hadith 47 |

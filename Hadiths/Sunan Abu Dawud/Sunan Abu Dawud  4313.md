@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ الْكِنْدِيُّ، حَدَّثَنِي عُقْبَةُ بْنُ خَالِدٍ السَّكُونِيُّ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ خُبَيْبِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ حَفْصِ بْنِ عَاصِمٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ يُوشِكُ الْفُرَاتُ أَنْ يَحْسِرَ عَنْ كَنْزٍ مِنْ ذَهَبٍ فَمَنْ حَضَرَهُ فَلاَ يَأْخُذْ مِنْهُ شَيْئًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
+
 حدثنا عبد الله بن سعيد الكندي، حدثني عقبة بن خالد السكوني، حدثنا عبيد الله، عن خبيب بن عبد الرحمن، عن حفص بن عاصم، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " يوشك الفرات ان يحسر عن كنز من ذهب فمن حضره فلا ياخذ منه شييا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অচিরেই ফুরাত নদী স্বর্ণের খনি উন্মুক্ত করবে। অতএব যে কেউ সেখানে উপস্থিত থাকবে সে যেন তা থেকে কিছুই গ্রহণ না করে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ অচিরেই ফুরাত নদী স্বর্ণের খনি উন্মুক্ত করবে। অতএব যে কেউ সেখানে উপস্থিত থাকবে সে যেন তা থেকে কিছুই গ্রহণ না করে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:The Euphrates is soon to uncover a treasure of gold, but those who are present must not take any of it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le fleuve Euphrate découvrira bientôt un trésor d’or, mais ceux qui seront présents ne doivent en prendre aucune part. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Sa'id Al Kindi\] berkata, telah menceritakan kepadaku \[Uqbah bin Khalid As Sakuni\] berkata, telah menceritakan kepada kami \[Ubaidullah\] dari \[Khubaib bin 'Abdurrahman\] dari \[Hafsh bin Ashim\] dari \[Abu Hurairah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "begitu dekat (hari kiamat) yaitu ketika sungai Furat menyibak harta kekayaan berupa emas yang terkandung di dalamnya, barangsiapa yang datang kepadanya maka janganlah ia mengambil sesuatu pun darinya." Telah menceritakan kepada kami \[Abdullah bin Sa'id Al Kindi\] berkata, telah menceritakan kepadaku \[Uqbah\] -maksudnya Uqbah bin Khalid- berkata, telah menceritakan kepadaku \[Ubaidullah\] dari \[Abu Az Zinad\] dari \[Al A'raj\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam sebagaimana dalam hadits tersebut, hanya saja beliau mengatakan: "menyibak gunung emas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi] berkata, telah menceritakan kepadaku [Uqbah bin Khalid As Sakuni] berkata, telah menceritakan kepada kami [Ubaidullah] dari [Khubaib bin 'Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "begitu dekat (hari kiamat) yaitu ketika sungai Furat menyibak harta kekayaan berupa emas yang terkandung di dalamnya, barangsiapa yang datang kepadanya maka janganlah ia mengambil sesuatu pun darinya." Telah menceritakan kepada kami [Abdullah bin Sa'id Al Kindi] berkata, telah menceritakan kepadaku [Uqbah] -maksudnya Uqbah bin Khalid- berkata, telah menceritakan kepadaku [Ubaidullah] dari [Abu Az Zinad] dari [Al A'raj] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam sebagaimana dalam hadits tersebut, hanya saja beliau mengatakan: "menyibak gunung emas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Близится то время, когда обнажит (то есть вода его уйдёт) Евфрат клад золото, которое до сих пор оставалось сокрытым, и кто будет присутствовать при этом, пусть ничего не берёт из него»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a)'den Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Fırat'ın, altından bir defineyi açığa çıkarması yakındır. Kim ( o zaman) orada bulunursa ondan bir şey almasın." Tahric: Buhari, fiten; Müslim, fiten; Tirmizi, Sıfatü'l-cenne; İbn Mace, Filen
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: قریب ہے کہ فرات کے اندر سونے کا خزانہ نکلے تو جو کوئی وہاں موجود ہو اس میں سے کچھ نہ لے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (7119) Sahih Muslim (2894)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4313</td></tr><tr><td>Arabic No</td><td>4313</td></tr><tr><td>Reference</td><td>Book 39 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (7119) Sahih Muslim (2894) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4313 |
+| Arabic No | 4313 |
+| Reference | Book 39 Hadith 23 |

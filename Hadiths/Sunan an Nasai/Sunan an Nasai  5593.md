@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، رضى اللَّهُ عَنْهَا أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم سُئِلَ عَنِ الْبِتْعِ فَقَالَ ‏ "‏ كُلُّ شَرَابٍ أَسْكَرَ فَهُوَ حَرَامٌ وَالْبِتْعُ مِنَ الْعَسَلِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن معمر، عن الزهري، عن ابي سلمة، عن عايشة، رضى الله عنها ان رسول الله صلى الله عليه وسلم سيل عن البتع فقال " كل شراب اسكر فهو حرام والبتع من العسل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মধুর শরাব সম্বন্ধে জিজ্ঞাসা করা হলে তিনি বললেনঃ প্রত্যেক পানীয় যাতে মাদকতা রয়েছে, তা হারাম। আর মধুর শরাবকে 'বিত' বলা হয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |
 
 ## English
 
+It was narrated that 'Aishah, may Allah be pleased with her, that :The Messenger of Allah \[SAW\] was asked about mead and he said: "Every drink that intoxicates is unlawful," and mead is made from honey
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that 'Aishah, may Allah be pleased with her, that :The Messenger of Allah [SAW] was asked about mead and he said: "Every drink that intoxicates is unlawful," and mead is made from honey
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |
+
+## French
+
+Rapporté par 'Aishah, رضي الله عنها : Le Messager d’Allah ﷺ a été interrogé au sujet de l’hydromel et il a dit : « Toute boisson qui enivre est interdite. » Et l’hydromel est fait à partir de miel
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah memberitakan kepada kami \[Abdullah\] dari \[Ma'mar\] dari \[Az Zuhri\] dari \[Abu Salamah\] dari \['Aisyah radliallahu 'anha\] berkata; "Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang Al bit'u, lalu beliau menjawab: "Setiap minuman yang memabukkan adalah haram, dan Al bit'u terbuat dari madu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah memberitakan kepada kami [Abdullah] dari [Ma'mar] dari [Az Zuhri] dari [Abu Salamah] dari ['Aisyah radliallahu 'anha] berkata; "Rasulullah shallallahu 'alaihi wasallam pernah ditanya tentang Al bit'u, lalu beliau menjawab: "Setiap minuman yang memabukkan adalah haram, dan Al bit'u terbuat dari madu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5593</td></tr><tr><td>Arabic No</td><td>5593</td></tr><tr><td>Reference</td><td>Book 51 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5593 |
+| Arabic No | 5593 |
+| Reference | Book 51 Hadith 55 |

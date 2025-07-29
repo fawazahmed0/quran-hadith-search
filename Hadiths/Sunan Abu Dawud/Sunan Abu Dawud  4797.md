@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا شُعْبَةُ، عَنْ مَنْصُورٍ، عَنْ رِبْعِيِّ بْنِ حِرَاشٍ، عَنْ أَبِي مَسْعُودٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّ مِمَّا أَدْرَكَ النَّاسُ مِنْ كَلاَمِ النُّبُوَّةِ الأُولَى إِذَا لَمْ تَسْتَحِ فَافْعَلْ مَا شِئْتَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
+
 حدثنا عبد الله بن مسلمة، حدثنا شعبة، عن منصور، عن ربعي بن حراش، عن ابي مسعود، قال قال رسول الله صلى الله عليه وسلم " ان مما ادرك الناس من كلام النبوة الاولى اذا لم تستح فافعل ما شيت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
 
 ## Bengali
 
+। আবূ মাস‘ঊদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পূর্বযুগের নবীগণের যে কথাটি মানুষের নিকট পৌঁছেছে তা হলোঃ যখন তুমি নির্লজ্জ হবে তখন যা ইচ্ছা তাই করতে পারো।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ মাস‘ঊদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পূর্বযুগের নবীগণের যে কথাটি মানুষের নিকট পৌঁছেছে তা হলোঃ যখন তুমি নির্লজ্জ হবে তখন যা ইচ্ছা তাই করতে পারো।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Mas'ud reported the Messenger of Allah (ﷺ) as saying :One of the things people have learnt from the words of the earliest prophecy is : If you have no shame, do what you like
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
+
+## French
+
+Rapporté par Abu Mas‘ud رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Parmi les paroles que les gens ont retenues des premières prophéties, il y a : “Si tu n’as pas de pudeur, fais ce que tu veux.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Maslamah\] berkata, telah menceritakan kepada kami \[Syu'bah\] dari \[Manshur\] dari \[Rib'I bin Hirasy\] dari \[Abu Mas'ud\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perkataan pertama yang diperoleh oleh manusia dari perkataan kenabian adalah, 'Jika kamu tidak malu maka berbuatlah sesukamu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Syu'bah] dari [Manshur] dari [Rib'I bin Hirasy] dari [Abu Mas'ud] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perkataan pertama yang diperoleh oleh manusia dari perkataan kenabian adalah, 'Jika kamu tidak malu maka berbuatlah sesukamu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Mes’ud (r.a.)'dan (rivayet edildiğine göre) Rasulullah (s.a.v.) şöyle buyurmuştur: "İnsanların ilk Nebilikten beri duyageldikleri sözlerden biri; utanmazsan dilediğini yap! sözüdür
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابومسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: سابقہ نبوتوں کے کلام میں سے باقی ماندہ چیزیں جو لوگوں کو ملی ہیں ان میں سے ایک یہ بھی ہے کہ جب تمہیں شرم نہ ہو تو جو چاہو کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (3484)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4797</td></tr><tr><td>Arabic No</td><td>4797</td></tr><tr><td>Reference</td><td>Book 43 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (3484) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4797 |
+| Arabic No | 4797 |
+| Reference | Book 43 Hadith 25 |

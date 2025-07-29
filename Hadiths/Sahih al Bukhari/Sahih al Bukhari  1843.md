@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا آدَمُ، حَدَّثَنَا شُعْبَةُ، حَدَّثَنَا عَمْرُو بْنُ دِينَارٍ، عَنْ جَابِرِ بْنِ زَيْدٍ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ خَطَبَنَا النَّبِيُّ صلى الله عليه وسلم بِعَرَفَاتٍ فَقَالَ ‏ "‏ مَنْ لَمْ يَجِدِ الإِزَارَ فَلْيَلْبَسِ السَّرَاوِيلَ، وَمَنْ لَمْ يَجِدِ النَّعْلَيْنِ فَلْيَلْبَسِ الْخُفَّيْنِ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ادم، حدثنا شعبة، حدثنا عمرو بن دينار، عن جابر بن زيد، عن ابن عباس رضى الله عنهما قال خطبنا النبي صلى الله عليه وسلم بعرفات فقال " من لم يجد الازار فليلبس السراويل، ومن لم يجد النعلين فليلبس الخفين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘আরাফার ময়দানে আমাদেরকে লক্ষ্য করে তাঁর ভাষণে বললেনঃ (মুহরিম অবস্থায়) যার লুঙ্গি নেই সে যেন পায়জামা পরিধান করে এবং যার জুতা নেই সে যেন মোজা পরিধান করে। (১৭৪০) (আধুনিক প্রকাশনীঃ ১৭১১, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:The Prophet (ﷺ) delivered a sermon at 'Arafat and said, "Whoever does not get an Izar can wear trousers, and whoever cannot get a pair of shoes can wear Khuffs (socks made from thick fabric or leather)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Prophète (ﷺ) a prononcé un sermon à 'Arafat et a dit : « Celui qui ne trouve pas d’Izar peut porter un pantalon, et celui qui ne trouve pas de chaussures peut porter des Khuffs (chaussons épais ou en cuir). »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ обратился к нам на Арафате сказав: “Тот, кто не найдёт изара, пусть наденет брюки, а тот, кто не найдёт сандалии, пусть оденет кожаные носки”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் அரஃபாவில் எங்களுக்கு உரை நிகழ்த்தினார்கள். அப்போது அவர்கள், “யாருக்குக் கீழங்கி கிடைக்க வில்லையோ அவர் முழுக்கால் சட்டை களை அணியட்டும்! யாருக்குக் காலணி கள் கிடைக்கவில்லையோ அவர் காலுறை களை அணியட்டும்!” என்றார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ibn Abbas r.a. şöyle demiştir: Nebi Sallallahu Aleyhi ve Sellem Arafatta bize hutbe okuyarak şöyle buyurdu: 'İzar bulamayan sirval giysin. Nalin bulamayan mestlerini giysin". باب: لبس السلاح للمحرم. 17- İhramlının Silah Kuşanması
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے آدم بن ابی ایاس نے بیان کیا، کہا ہم سے شعبہ نے بیان کیا، ان سے عمرو بن دینار نے بیان کیا، ان سے جابر بن زید نے اور ان سے ابن عباس رضی اللہ عنہما نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے ہم کو میدان عرفات میں وعظ سنایا، اس میں آپ نے فرمایا کہ اگر کسی کو احرام کے لیے تہبند نہ ملے تو وہ پاجامہ پہن لے اور اگر کسی کو جوتے نہ ملیں تو وہ موزے پہن لے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1843</td></tr><tr><td>Arabic No</td><td>1843</td></tr><tr><td>Reference</td><td>Book 28 Hadith 23</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1843 |
+| Arabic No | 1843 |
+| Reference | Book 28 Hadith 23 |

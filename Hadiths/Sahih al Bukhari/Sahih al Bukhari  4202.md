@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا يَعْقُوبُ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ السَّاعِدِيِّ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم الْتَقَى هُوَ وَالْمُشْرِكُونَ فَاقْتَتَلُوا، فَلَمَّا مَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى عَسْكَرِهِ، وَمَالَ الآخَرُونَ إِلَى عَسْكَرِهِمْ، وَفِي أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم رَجُلٌ لاَ يَدَعُ لَهُمْ شَاذَّةً وَلاَ فَاذَّةً إِلاَّ اتَّبَعَهَا، يَضْرِبُهَا بِسَيْفِهِ، فَقِيلَ مَا أَجْزَأَ مِنَّا الْيَوْمَ أَحَدٌ كَمَا أَجْزَأَ فُلاَنٌ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَمَا إِنَّهُ مِنْ أَهْلِ النَّارِ ‏"‏‏.‏ فَقَالَ رَجُلٌ مِنَ الْقَوْمِ أَنَا صَاحِبُهُ‏.‏ قَالَ فَخَرَجَ مَعَهُ كُلَّمَا وَقَفَ وَقَفَ مَعَهُ، وَإِذَا أَسْرَعَ أَسْرَعَ مَعَهُ ـ قَالَ ـ فَجُرِحَ الرَّجُلُ جُرْحًا شَدِيدًا، فَاسْتَعْجَلَ الْمَوْتَ، فَوَضَعَ سَيْفَهُ بِالأَرْضِ وَذُبَابَهُ بَيْنَ ثَدْيَيْهِ، ثُمَّ تَحَامَلَ عَلَى سَيْفِهِ، فَقَتَلَ نَفْسَهُ، فَخَرَجَ الرَّجُلُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ أَشْهَدُ أَنَّكَ رَسُولُ اللَّهِ قَالَ ‏"‏ وَمَا ذَاكَ ‏"‏‏.‏ قَالَ الرَّجُلُ الَّذِي ذَكَرْتَ آنِفًا أَنَّهُ مِنْ أَهْلِ النَّارِ، فَأَعْظَمَ النَّاسُ ذَلِكَ، فَقُلْتُ أَنَا لَكُمْ بِهِ‏.‏ فَخَرَجْتُ فِي طَلَبِهِ، ثُمَّ جُرِحَ جُرْحًا شَدِيدًا، فَاسْتَعْجَلَ الْمَوْتَ، فَوَضَعَ نَصْلَ سَيْفِهِ فِي الأَرْضِ وَذُبَابَهُ بَيْنَ ثَدْيَيْهِ، ثُمَّ تَحَامَلَ عَلَيْهِ، فَقَتَلَ نَفْسَهُ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم عِنْدَ ذَلِكَ ‏"‏ إِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ الْجَنَّةِ، فِيمَا يَبْدُو لِلنَّاسِ، وَهْوَ مِنَ أَهْلِ النَّارِ، وَإِنَّ الرَّجُلَ لَيَعْمَلُ عَمَلَ أَهْلِ النَّارِ، فِيمَا يَبْدُو لِلنَّاسِ، وَهْوَ مِنْ أَهْلِ الْجَنَّةِ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا قتيبة، حدثنا يعقوب، عن ابي حازم، عن سهل بن سعد الساعدي رضى الله عنه ان رسول الله صلى الله عليه وسلم التقى هو والمشركون فاقتتلوا، فلما مال رسول الله صلى الله عليه وسلم الى عسكره، ومال الاخرون الى عسكرهم، وفي اصحاب رسول الله صلى الله عليه وسلم رجل لا يدع لهم شاذة ولا فاذة الا اتبعها، يضربها بسيفه، فقيل ما اجزا منا اليوم احد كما اجزا فلان. فقال رسول الله صلى الله عليه وسلم " اما انه من اهل النار ". فقال رجل من القوم انا صاحبه. قال فخرج معه كلما وقف وقف معه، واذا اسرع اسرع معه قال فجرح الرجل جرحا شديدا، فاستعجل الموت، فوضع سيفه بالارض وذبابه بين ثدييه، ثم تحامل على سيفه، فقتل نفسه، فخرج الرجل الى رسول الله صلى الله عليه وسلم فقال اشهد انك رسول الله قال " وما ذاك ". قال الرجل الذي ذكرت انفا انه من اهل النار، فاعظم الناس ذلك، فقلت انا لكم به. فخرجت في طلبه، ثم جرح جرحا شديدا، فاستعجل الموت، فوضع نصل سيفه في الارض وذبابه بين ثدييه، ثم تحامل عليه، فقتل نفسه. فقال رسول الله صلى الله عليه وسلم عند ذلك " ان الرجل ليعمل عمل اهل الجنة، فيما يبدو للناس، وهو من اهل النار، وان الرجل ليعمل عمل اهل النار، فيما يبدو للناس، وهو من اهل الجنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sahl bin Sa'd As Saidi:Allah's Messenger (ﷺ) (and his army) encountered the pagans and the two armies.,, fought and then Allah's Apostle returned to his army camps and the others (i.e. the enemy) returned to their army camps. Amongst the companions of the Prophet (ﷺ) there was a man who could not help pursuing any single isolated pagan to strike him with his sword. Somebody said, "None has benefited the Muslims today more than so-and-so." On that Allah's Messenger (ﷺ) said, "He is from the people of the Hell-Fire certainly." A man amongst the people (i.e. Muslims) said, "I will accompany him (to know the fact)." So he went along with him, and whenever he stopped he stopped with him, and whenever he hastened, he hastened with him. The (brave) man then got wounded severely, and seeking to die at once, he planted his sword into the ground and put its point against his chest in between his breasts, and then threw himself on it and committed suicide. On that the person (who was accompanying the deceased all the time) came to Allah's Messenger (ﷺ) and said, "I testify that you are the Messenger of Allah." The Prophet (ﷺ) said, "Why is that (what makes you say so)?" He said "It is concerning the man whom you have already mentioned as one of the dwellers of the Hell-Fire. The people were surprised by your statement, and I said to them, "I will try to find out the truth about him for you." So I went out after him and he was then inflicted with a severe wound and because of that, he hurried to bring death upon himself by planting the handle of his sword into the ground and directing its tip towards his chest between his breasts, and then he threw himself over it and committed suicide." Allah's Messenger (ﷺ) then said, "A man may do what seem to the people as the deeds of the dwellers of Paradise but he is from the dwellers of the Hell-Fire and another may do what seem to the people as the deeds of the dwellers of the Hell- Fire, but he is from the dwellers of Paradise
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
+
+## French
+
+Rapporté par Sahl ibn Sa'd As-Saidi : Le Messager d’Allah ﷺ (et son armée) ont rencontré les polythéistes, les deux armées se sont affrontées, puis le Messager d’Allah est retourné vers son camp et les autres (l’ennemi) sont retournés dans le leur. Parmi les compagnons du Prophète ﷺ, il y avait un homme qui ne pouvait s’empêcher de poursuivre tout polythéiste isolé pour le frapper avec son épée. Quelqu’un a dit : « Personne n’a été plus utile aux musulmans aujourd’hui que cet homme. » Sur ce, le Messager d’Allah ﷺ a dit : « Il fait partie des gens du Feu de l’Enfer, c’est certain. » Un homme parmi les gens (les musulmans) a dit : « Je vais le suivre (pour vérifier). » Il l’a donc accompagné, s’arrêtant quand il s’arrêtait, avançant quand il avançait. Cet homme courageux a alors été grièvement blessé, et cherchant à mourir rapidement, il a planté son épée dans le sol, en a dirigé la pointe vers sa poitrine, puis s’est jeté dessus et s’est suicidé. L’homme qui l’accompagnait est alors venu voir le Messager d’Allah ﷺ et a dit : « Je témoigne que tu es le Messager d’Allah. » Le Prophète ﷺ a dit : « Pourquoi dis-tu cela ? » Il a répondu : « C’est à propos de l’homme dont tu as dit qu’il faisait partie des gens du Feu de l’Enfer. Les gens ont été surpris par ta parole, et je leur ai dit : “Je vais vérifier pour vous.” Je l’ai suivi, il a été grièvement blessé, et à cause de cela, il a voulu se donner la mort en plantant la poignée de son épée dans le sol, en dirigeant la pointe vers sa poitrine, puis il s’est jeté dessus et s’est suicidé. » Le Messager d’Allah ﷺ a alors dit : « Un homme peut faire ce qui semble être les actions des gens du Paradis, alors qu’il fait partie des gens du Feu de l’Enfer, et un autre peut faire ce qui semble être les actions des gens du Feu de l’Enfer, alors qu’il fait partie des gens du Paradis. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah\] telah menceritakan kepada kami \[Ya'qub\] dari \[Abu Hazim\] dari \[Sahal bin Sa'ad As Sa'idi radliallahu 'anhu\] bahwa Rasulullah shallallahu 'alaihi wasallam berhadapan dengan Kaum Musyrikin, kemudian keduanya saling menyerang. Ketika Rasulullah shallallahu 'alaihi wasallam bergabung dengan bala tentara dan musuhnya pun bergabung kepada bala tentara mereka. Dan diantara shahabat Rasulullah shallallahu 'alaihi wasallam ada seseorang yang tidak menyisakan musuh pun kecuali terus ia mengejarnya untuk dipenggal dengan pedangnya. Setelah itu seseorang berkata; "Hari ini tidak ada seorangpun dari kita yang mendapat ganjaran pahala sebagaimana yang didapat si fulan orang tadi)." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang itu termasuk dari penduduk neraka." Seorang laki-laki dari kaumnya berkata; "Aku adalah sahabatnya." Sahal berkata; "Kemudian dia berangkat bersama orang itu, apabila dia berhenti orang itu pun berhenti dan bilamana dia bergegas maka orang itupun bergegas bersamanya. Sahal melanjutkan; "Kemudian laki-laki itu (orang yang berperang tadi) ditemukan dalam keadaan terluka sangat parah hingga mengharapkan segera mati. Lalu ia itu meletakkan pedangnya di tanah dan ujung pedangnya diletakkah diantara dua dadanya lalu dia membunuh dirinya sendiri. Maka orang yang bersamanya tadi pergi menemui Rasulullah shallallahu 'alaihi wasallam sambil berkata; "Aku bersaksi bahwa tuan adalah benar-benar utusan Allah". Beliau bertanya: "Kenapa kamu berkata seperti itu?". Orang itu menjawab; "Orang yang tuan sebutkan tadi benar-benar penghuni neraka." Mendengar perkataanya, para sahabat merasa heran. Aku lalu berkata; "Aku menjadi saksinya. Aku telah keluar bersamanya dimana aku mencarinya kemudian aku dapatkan dia dalam keadaan luka parah, hingga ia berkeinginan supaya cepat mati, lalu dia meletakkan pedangnya di tanah dan ujung pedangnya diletakkah diantara dua dadanya setelah itu dia membunuh dirinya sendiri. Pada kesempatan itu juga Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ada seseorang yang mengamalkan amalan penduduk surga berdasarkan yang nampak oleh manusia padahal dia adalah dari golongan penduduk neraka. Dan ada seseorang yang mengamalkan amalan penduduk neraka berdasarkan yang nampak oleh manusia padahal dia sebenarnya dari golongan penduduk surga
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ya'qub] dari [Abu Hazim] dari [Sahal bin Sa'ad As Sa'idi radliallahu 'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam berhadapan dengan Kaum Musyrikin, kemudian keduanya saling menyerang. Ketika Rasulullah shallallahu 'alaihi wasallam bergabung dengan bala tentara dan musuhnya pun bergabung kepada bala tentara mereka. Dan diantara shahabat Rasulullah shallallahu 'alaihi wasallam ada seseorang yang tidak menyisakan musuh pun kecuali terus ia mengejarnya untuk dipenggal dengan pedangnya. Setelah itu seseorang berkata; "Hari ini tidak ada seorangpun dari kita yang mendapat ganjaran pahala sebagaimana yang didapat si fulan orang tadi)." Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya orang itu termasuk dari penduduk neraka." Seorang laki-laki dari kaumnya berkata; "Aku adalah sahabatnya." Sahal berkata; "Kemudian dia berangkat bersama orang itu, apabila dia berhenti orang itu pun berhenti dan bilamana dia bergegas maka orang itupun bergegas bersamanya. Sahal melanjutkan; "Kemudian laki-laki itu (orang yang berperang tadi) ditemukan dalam keadaan terluka sangat parah hingga mengharapkan segera mati. Lalu ia itu meletakkan pedangnya di tanah dan ujung pedangnya diletakkah diantara dua dadanya lalu dia membunuh dirinya sendiri. Maka orang yang bersamanya tadi pergi menemui Rasulullah shallallahu 'alaihi wasallam sambil berkata; "Aku bersaksi bahwa tuan adalah benar-benar utusan Allah". Beliau bertanya: "Kenapa kamu berkata seperti itu?". Orang itu menjawab; "Orang yang tuan sebutkan tadi benar-benar penghuni neraka." Mendengar perkataanya, para sahabat merasa heran. Aku lalu berkata; "Aku menjadi saksinya. Aku telah keluar bersamanya dimana aku mencarinya kemudian aku dapatkan dia dalam keadaan luka parah, hingga ia berkeinginan supaya cepat mati, lalu dia meletakkan pedangnya di tanah dan ujung pedangnya diletakkah diantara dua dadanya setelah itu dia membunuh dirinya sendiri. Pada kesempatan itu juga Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya ada seseorang yang mengamalkan amalan penduduk surga berdasarkan yang nampak oleh manusia padahal dia adalah dari golongan penduduk neraka. Dan ada seseorang yang mengamalkan amalan penduduk neraka berdasarkan yang nampak oleh manusia padahal dia sebenarnya dari golongan penduduk surga
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
 ## Russian
 
+Сообщается, что Сахль ибн Са‘д ас-Са‘иди, да будет доволен им Аллах, сказал: «(Во время одного из походов) Посланник Аллаха ﷺ встретил многобожников, и (мусульмане) вступили с ними в сражение, (по завершении которого) Посланник Аллаха ﷺ (вместе с мусульманами) вернулся в свой лагерь, а (многобожники) — в свой. Среди сподвижников Посланника Аллаха ﷺ был один человек, который не упускал ни одного случая, чтобы не пуститься в погоню за многобожником и не зарубить его своим мечом, и (люди стали) говорить: “Сегодня никто из нас не сделал столько, сколько сделал такой-то!” — однако Посланник Аллаха ﷺ сказал: “Поистине, он — из числа обитателей Огня!” Тогда кто-то из людей сказал: “Я буду (повсюду) следовать за ним”, и (в следующий раз этот человек) поехал вместе с ним, останавливаясь там, где останавливался он, и поспешая, когда спешил он. А потом этот (смельчак) был тяжело ранен, и, желая как можно быстрее расстаться с жизнью, он приложил (рукоять) своего меча к земле, а его острие — к своей груди, бросился на меч и покончил с собой. После этого человек (, следовавший за ним,) пришёл к Посланнику Аллаха ﷺ и сказал: “Свидетельствую, что ты — Посланник Аллаха!” (Пророк ﷺ) спросил: “А что случилось?” (Этот человек) сказал: “(Дело касается) того человека, которого ты назвал одним из обитателей Огня, что поразило людей. Тогда я сказал: “Я расскажу вам о нём”, и стал неотступно следовать за ним. (Через некоторое время) он был тяжело ранен и, желая как можно быстрее расстаться с жизнью, приложил (рукоять) своего меча к земле, а его острие — к груди, бросился на меч и покончил с собой”. (Выслушав его,) Посланник Аллаха ﷺ сказал: “Поистине, людям может представляться, что человек совершает дела обитателей Рая, но (на самом деле) он относится к числу обитателей Огня, людям может представляться, что человек совершает дела обитателей Огня, но (на самом деле) он из числа обитателей Рая!”».\\nВ другой версии (этого хадиса) со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ (также) сказал: «Встань, о такой-то, и объяви, что только верующий войдет в Рай! Поистине, Аллах поддерживает эту религию даже с помощью грешного человека!»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Сообщается, что Сахль ибн Са‘д ас-Са‘иди, да будет доволен им Аллах, сказал: «(Во время одного из походов) Посланник Аллаха ﷺ встретил многобожников, и (мусульмане) вступили с ними в сражение, (по завершении которого) Посланник Аллаха ﷺ (вместе с мусульманами) вернулся в свой лагерь, а (многобожники) — в свой. Среди сподвижников Посланника Аллаха ﷺ был один человек, который не упускал ни одного случая, чтобы не пуститься в погоню за многобожником и не зарубить его своим мечом, и (люди стали) говорить: “Сегодня никто из нас не сделал столько, сколько сделал такой-то!” — однако Посланник Аллаха ﷺ сказал: “Поистине, он — из числа обитателей Огня!” Тогда кто-то из людей сказал: “Я буду (повсюду) следовать за ним”, и (в следующий раз этот человек) поехал вместе с ним, останавливаясь там, где останавливался он, и поспешая, когда спешил он. А потом этот (смельчак) был тяжело ранен, и, желая как можно быстрее расстаться с жизнью, он приложил (рукоять) своего меча к земле, а его острие — к своей груди, бросился на меч и покончил с собой. После этого человек (, следовавший за ним,) пришёл к Посланнику Аллаха ﷺ и сказал: “Свидетельствую, что ты — Посланник Аллаха!” (Пророк ﷺ) спросил: “А что случилось?” (Этот человек) сказал: “(Дело касается) того человека, которого ты назвал одним из обитателей Огня, что поразило людей. Тогда я сказал: “Я расскажу вам о нём”, и стал неотступно следовать за ним. (Через некоторое время) он был тяжело ранен и, желая как можно быстрее расстаться с жизнью, приложил (рукоять) своего меча к земле, а его острие — к груди, бросился на меч и покончил с собой”. (Выслушав его,) Посланник Аллаха ﷺ сказал: “Поистине, людям может представляться, что человек совершает дела обитателей Рая, но (на самом деле) он относится к числу обитателей Огня, людям может представляться, что человек совершает дела обитателей Огня, но (на самом деле) он из числа обитателей Рая!”».\nВ другой версии (этого хадиса) со слов Абу Хурайры, да будет доволен им Аллах, сообщается, что Посланник Аллаха ﷺ (также) сказал: «Встань, о такой-то, и объяви, что только верующий войдет в Рай! Поистине, Аллах поддерживает эту религию даже с помощью грешного человека!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூமூசா அல்அஷ்அரீ (ரலி) அவர்கள் கூறியதாவது: “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கைபர்மீது போர் தொடுத்தபோது' அல்லது “அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (கைபரை) நோக்கிச் சென்று (வெற்றி பெற்றுத்) திரும்பியபோது', மக்கள் ஒரு பள்ளத்தாக்கில் (உள்ள மேடான பகுதியில்) ஏறுகையில், “அல்லாஹு அக்பர், அல்லாஹு அக்பர்; (அல்லாஹ் மிகப் பெரியோன், அல்லாஹ் மிகப் பெரியோன்,) லா இலாஹ இல்லல்லாஹ்” (அல்லாஹ்வைத் தவிர வேறு இறைவனில்லை) என்று குரல்களை உயர்த்திக் கூறினர். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “(மக்களே!) உங்களைக் கட்டுப்படுத்திக்கொள்ளுங்கள். (அவசரப்படாதீர்கள். மென்மையாக, மெல்லக் கூறுங்கள்.) ஏனெனில், நீங்கள் காது கேட்காதவனையோ இங்கில்லாதவனையோ அழைப்பதில்லை. நன்கு செவியேற்பவனையும் அருகில் இருப்பவனையுமே நீங்கள் அழைக்கிறீர்கள். அவன் உங்களுடனேயே இருக்கின்றான்” என்று கூறினார்கள். அப்போது, நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களின் ஊர்திப் பிராணிக்குப் பின்னால் இருந்துகொண்டு, “லா ஹவ்ல வலா குவ்வத்த இல்லா பில்லாஹ்” (யுக்தியும் சக்தியும் அல்லாஹ்வின் மூலமே அன்றி வேறெதன் மூலமும் இல்லை) என்று கூறுவதைக் கேட்டார்கள். அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், “அப்துல்லாஹ் பின் கைஸே!” என்று அழைத்தார்கள். “காத்திருக்கிறேன் (கூறுங்கள்), அல்லாஹ்வின் தூதரே!” என்று நான் பதிலளித்தேன். அதற்கு அவர்கள், “உமக்கு ஒரு வார்த்தையை நான் அறிவித்துத் தரட்டுமா? அது சொர்க்கத்தின் கருவூலங் களில் ஒரு கருவூலமாகும்” என்று கூறினார்கள். நான், “சரி (கட்டாயம் கூறுங்கள்) அல்லாஹ்வின் தூதரே! என் தந்தையும் என் தாயும் தங்களுக்கு அர்ப்பணமாகட்டும்” என்று கூறினேன்.(அந்த வார்த்தை,) “லா ஹவ்ல வ லா குவ்வத்த இல்லா பில்லாஹ்” என்று சொன்னார்கள்.263 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl b. Sa'd es-Saidi r.a.'dan rivayete göre "Resulullah Sallallahu Aleyhi ve Sellem müşrikler ile karşılaştı. Birbirleriyle savaştılar. Resulullah Sallallahu Aleyhi ve Sellem kendi askeri karargahına, diğerleri de kendi askeri karargahlarına döndüler. Resulullah Sallallahu Aleyhi ve Sellem'in ashabı arasında öyle birisi vardı ki onun elinden hiçbir şey kurtulmazdı. Gördüğü herkesin peşine mutlaka takılır ve kılıcıyla onu öldürürdü. Bunun üzerine: Filan kişinin bize sağladıklarını bugün hiç kimse bize yapmış değildir. Bunun üzerine Resulullah Sallallahu Aleyhi ve Sellem: Ama o cehennem ehlindendir, buyurdu. Orada bulunanlardan birisi (kendi kendine): Ben onun peşine takılacağım dedi. (Said) dedi ki: Bu adam onunla birlikte çıktı. O durursa onunla beraber durur, hızlı giderse onunla beraber hızlı giderdi. (Sehl) dedi ki: O adam çok ağır bir yara aldı. Ölümün kendisine çabuk gelmesini istediğinden kılıcının kabza kısmını yere, sivri ucunu da memeleri arasına yerleştirdikten sonra ağırlığını vererek kılıcı üzerine eğildi ve kendisini öldürdü. (Peşine takılan) adam Resulullah Sallallahu Aleyhi ve Sellem'in yanına gelip: Şehadet ederim ki sen Allah'ın Resulüsün, dedi. Allah Resulü: Bu neden gerekti, diye sordu. Adam dedi ki: Sen az önce o adamdan cehennemliklerden olduğunu zikredince herkes bunu büyük bir iş olarak gördü. Ben de: Sizin adınıza ben onu takip edeceğim dedim ve onun arkasından çıktım. Daha sonra ağır bir yara aldı, ölümün erken gelmesini istediğinden ötürü kılıcının kabza kısmını yere, sivri ucunu da memeleri arasına yerleştirdikten sonra ağırlığını ona verip bir hamle yaptı ve kendisini öldürdü. Resulullah bunun üzerine şöyle buyurdu: Şüphesiz kişi insanların gördükleri kadarıyla cennet ehlinin ameli ile amel işler. Halbuki o cehennem ehlindendir. Şüphesiz kişi insanların gördükleri kadarıyla cehennemliklerin am eliyle amel eder. Halbuki o cennetliklerdendir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے قتیبہ نے بیان کیا ‘ کہا ہم سے یعقوب بن عبدالرحمٰن نے بیان کیا ‘ ان سے ابوحازم نے اور ان سے سہل بن سعد ساعدی رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے ( اپنے لشکر کے ساتھ ) مشرکین ( یعنی ) یہود خیبر کا مقابلہ کیا۔ دونوں طرف سے لوگوں نے جنگ کی ‘ پھر جب آپ اپنے خیمے کی طرف واپس ہوئے اور یہودی بھی اپنے خیموں میں واپس چلے گئے تو رسول اللہ صلی اللہ علیہ وسلم کے ایک صحابی کے متعلق کسی نے ذکر کیا کہ یہودیوں کا کوئی بھی آدمی اگر انہیں مل جائے تو وہ اس کا پیچھا کر کے اسے قتل کئے بغیر نہیں رہتے۔ کہا گیا کہ آج فلاں شخص ہماری طرف سے جتنی بہادری اور ہمت سے لڑا ہے شاید اتنی بہادری سے کوئی بھی نہیں لڑا ہو گا لیکن نبی کریم صلی اللہ علیہ وسلم نے ان کے متعلق فرمایا کہ وہ اہل دوزخ میں سے ہے۔ ایک صحابی رضی اللہ عنہ نے اس پر کہا کہ پھر میں ان کے ساتھ ساتھ رہوں گا، بیان کیا کہ پھر وہ ان کے پیچھے ہو لیے جہاں وہ ٹھہرتے یہ بھی ٹھہر جاتے اور جہاں وہ دوڑ کر چلتے یہ بھی دوڑنے لگتے۔ بیان کیا کہ پھر وہ صاحب زخمی ہو گئے ‘ انتہائی شدید طور پر اور چاہا کہ جلدی موت آ جائے۔ اس لیے انہوں نے اپنی تلوار زمین میں گاڑ دی اور اس کی نوک سینہ کے مقابل کر کے اس پر گر پڑے اور اس طرح خودکشی کر لی۔ اب دوسرے صحابی ( جو ان کی جستجو میں لگے ہوئے تھے ) نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کیا میں گواہی دیتا ہوں کہ آپ اللہ کے رسول ہیں۔ پوچھا کیا بات ہے؟ ان صحابی نے عرض کیا کہ جن کے متعلق ابھی آپ نے فرمایا تھا کہ وہ اہل دوزخ میں سے ہیں تو لوگوں پر آپ کا یہ فرمانا بڑا شاق گزرا تھا۔ میں نے ان سے کہا کہ میں تمہارے لیے ان کے پیچھے پیچھے جاتا ہوں۔ چنانچہ میں ان کے ساتھ ساتھ رہا۔ ایک موقع پر جب وہ شدید زخمی ہو گئے تو اس خواہش میں کہ موت جلدی آ جائے اپنی تلوار انہوں نے زمین میں گاڑ دی اور اس کی نوک کو اپنے سینہ کے سامنے کر کے اس پر گر پڑ ے اور اس طرح انہوں نے خود اپنی جان کو ہلاک کر دیا۔ اسی موقع پر آپ صلی اللہ علیہ وسلم نے فرمایا کہ انسان زندگی بھر جنت والوں کے عمل کرتا ہے حالانکہ وہ اہل دوزخ میں سے ہوتا ہے۔ اسی طرح دوسرا شخص زندگی بھر اہل دوزخ کے عمل کرتا ہے حالانکہ وہ جنتی ہوتا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4202</td></tr><tr><td>Arabic No</td><td>4202</td></tr><tr><td>Reference</td><td>Book 64 Hadith 242</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4202 |
+| Arabic No | 4202 |
+| Reference | Book 64 Hadith 242 |

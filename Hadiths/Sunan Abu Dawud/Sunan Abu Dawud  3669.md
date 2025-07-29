@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا إِسْمَاعِيلُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبُو حَيَّانَ، حَدَّثَنِي الشَّعْبِيُّ، عَنِ ابْنِ عُمَرَ، عَنْ عُمَرَ، قَالَ نَزَلَ تَحْرِيمُ الْخَمْرِ يَوْمَ نَزَلَ وَهِيَ مِنْ خَمْسَةِ أَشْيَاءَ مِنَ الْعِنَبِ وَالتَّمْرِ وَالْعَسَلِ وَالْحِنْطَةِ وَالشَّعِيرِ وَالْخَمْرُ مَا خَامَرَ الْعَقْلَ وَثَلاَثٌ وَدِدْتُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يُفَارِقْنَا حَتَّى يَعْهَدَ إِلَيْنَا فِيهِنَّ عَهْدًا نَنْتَهِي إِلَيْهِ الْجَدُّ وَالْكَلاَلَةُ وَأَبْوَابٌ مِنْ أَبْوَابِ الرِّبَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
+
 حدثنا احمد بن حنبل، حدثنا اسماعيل بن ابراهيم، حدثنا ابو حيان، حدثني الشعبي، عن ابن عمر، عن عمر، قال نزل تحريم الخمر يوم نزل وهي من خمسة اشياء من العنب والتمر والعسل والحنطة والشعير والخمر ما خامر العقل وثلاث وددت ان رسول الله صلى الله عليه وسلم لم يفارقنا حتى يعهد الينا فيهن عهدا ننتهي اليه الجد والكلالة وابواب من ابواب الربا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
 
 ## Bengali
 
+। উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মদ হারাম হওয়ার বিধান যেদিন অবতীর্ণ হলো তখন তা পাঁচটি জিনিস থেকে তৈরী করা হতো; আঙ্গুর, খেজুর, মধু, গম ও বার্লি। মদ সেই পানীয় যা মানুষকে জ্ঞানশূন্য করে দেয়। তিনটি বিষয় সম্পর্কে আমি আশা করেছিলাম, তা সুস্পষ্টভাবে আমাদের নিকট বর্ণনা না করা পর্যন্ত যদি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের থেকে বিদায় না নিতেন! সেগুলো হলো, দাদার মীরাস, কালালার ব্যাখ্যা ও সুদের কিছু বিষয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, মদ হারাম হওয়ার বিধান যেদিন অবতীর্ণ হলো তখন তা পাঁচটি জিনিস থেকে তৈরী করা হতো; আঙ্গুর, খেজুর, মধু, গম ও বার্লি। মদ সেই পানীয় যা মানুষকে জ্ঞানশূন্য করে দেয়। তিনটি বিষয় সম্পর্কে আমি আশা করেছিলাম, তা সুস্পষ্টভাবে আমাদের নিকট বর্ণনা না করা পর্যন্ত যদি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের থেকে বিদায় না নিতেন! সেগুলো হলো, দাদার মীরাস, কালালার ব্যাখ্যা ও সুদের কিছু বিষয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ’Umar said :The prohibition of wine came down when (the Quranic verse ) came down. It was made from five thing namely, grapes, dates, honey, wheat ,barley. Wine is what infects (khamara) the mind. There are three things I wished that the prophet (ﷺ) would not leave us until he explained them fully to our satisfaction: (share of) grandfather, one who leaves no descendants or ascendants as hairs, and the details of usury
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
+
+## French
+
+Omar رضي الله عنه a dit : L’interdiction du vin a été révélée lorsque ce verset du Coran est descendu. Il était fabriqué à partir de cinq choses : raisins, dattes, miel, blé et orge. Le vin est ce qui trouble l’esprit. Il y a trois choses que j’aurais aimé que le Prophète ﷺ nous explique complètement avant de nous quitter : la part du grand-père, le cas de celui qui ne laisse ni descendants ni ascendants comme héritiers, et les détails de l’usure
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Isma'il bin Ibrahim\] telah menceritakan kepada kami \[Abu Hayyan\] telah menceritakan kepadaku \[Asy Sya'bi\] dari \[Ibnu Umar\] dari \[Umar\] ia berkata, "Ketika pengharaman arak turun di hari pengharamannya, arak saat itu terbuat dari lima hal; anggur, kurma, madu, gandum, serta jewawut. Dan arak adalah sesuatu yang menutupi akal, dan ada tiga perkara yang aku inginkan Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan kami hingga menjelaskan kepada kami mengenai ketiga perkara tersebut hingga kami memahaminya; (warisan) seorang kakek, orang yang tidak memiliki anak dan orang tua, serta beberapa bab mengenai riba
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Isma'il bin Ibrahim] telah menceritakan kepada kami [Abu Hayyan] telah menceritakan kepadaku [Asy Sya'bi] dari [Ibnu Umar] dari [Umar] ia berkata, "Ketika pengharaman arak turun di hari pengharamannya, arak saat itu terbuat dari lima hal; anggur, kurma, madu, gandum, serta jewawut. Dan arak adalah sesuatu yang menutupi akal, dan ada tiga perkara yang aku inginkan Rasulullah shallallahu 'alaihi wasallam tidak meninggalkan kami hingga menjelaskan kepada kami mengenai ketiga perkara tersebut hingga kami memahaminya; (warisan) seorang kakek, orang yang tidak memiliki anak dan orang tua, serta beberapa bab mengenai riba
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что ‘Умар сказал: «Поистине, запрет вина был ниспослан в то время, когда его делали из пяти вещей: из винограда, фиников, мёда, пшеницы и ячменя, вином же /хамр/ является то, что окутывает разум. И я хотел бы, чтобы Посланник Аллаха ﷺ не расставался с нами, не оставив нам предельно ясного указания, которым бы мы руководствовались, относительно трёх вещей: о доле наследства деда, о каляле и о разных видах ростовщичества»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ömer (b. el-Hattâb) (r.a)'dan rivayet olunmuştur, dedi ki: Şarabın haram kılınması (ile ilgili âyet) indiği gün şarap beş şeyden (olurdu): Üzümden, kuru hurmadan, baldan, buğdaydan ve arpadan. (Oysa) hamr, aklı örten şeydir. Üç şey vardır ki, Rasûlullah (s.a.v.)'in bu üç şey hakkında üzerinde karar kılacağımız bir açıklama yapmadan bizden ayrılıp (öbür âleme) gitmemesini ne kadar isterdim: Dede, kelâle, ribâ bölümünden bazısı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمر رضی اللہ عنہ کہتے ہیں کہ شراب کی حرمت نازل ہوئی تو اس وقت شراب پانچ چیزوں: انگور، کھجور، شہد، گیہوں اور جو سے بنتی تھی، اور شراب وہ ہے جو عقل کو ڈھانپ لے، اور تین باتیں ایسی ہیں کہ میری خواہش تھی کہ رسول اللہ صلی اللہ علیہ وسلم ہم سے جدا نہ ہوں جب تک کہ آپ انہیں ہم سے اچھی طرح بیان نہ کر دیں: ایک دادا کا حصہ، دوسرے کلالہ کا معاملہ اور تیسرے سود کے کچھ مسائل۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (4619) Sahih Muslim (3032)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3669</td></tr><tr><td>Arabic No</td><td>3669</td></tr><tr><td>Reference</td><td>Book 27 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (4619) Sahih Muslim (3032) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3669 |
+| Arabic No | 3669 |
+| Reference | Book 27 Hadith 1 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا لَيْثٌ، عَنْ عُقَيْلٍ، عَنِ الزُّهْرِيِّ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ "‏ لاَ يُلْدَغُ الْمُؤْمِنُ مِنْ جُحْرٍ وَاحِدٍ مَرَّتَيْنِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
+
 حدثنا قتيبة بن سعيد، حدثنا ليث، عن عقيل، عن الزهري، عن سعيد بن المسيب، عن ابي هريرة، عن النبي صلى الله عليه وسلم انه قال " لا يلدغ المومن من جحر واحد مرتين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু‘মিন ব্যক্তি একই গর্তে দু’ বার দংশিত হয় না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মু‘মিন ব্যক্তি একই গর্তে দু’ বার দংশিত হয় না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Prophet(ﷺ) as saying:A believer is not stung twice from the same hole
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Un croyant ne se fait pas piquer deux fois par le même trou. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] berkata, telah menceritakan kepada kami \[Laits\] dari \[Uqail\] dari \[Az Zuhri\] dari \[Sa'id Ibnul Musayyab\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang mukmin tidak boleh jatuh dalam satu lubang dua kali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Laits] dari [Uqail] dari [Az Zuhri] dari [Sa'id Ibnul Musayyab] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Seorang mukmin tidak boleh jatuh dalam satu lubang dua kali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «Верующего не ужалят дважды из одной и той же норы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a.'den (rivayet edildiğine göre) Nebi (s.a.v.): "Akıllı bir müslüman bir delikten iki defa sokulmaz." buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: مومن ایک سوراخ سے دو بار نہیں ڈسا جاتا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6133) Sahih Muslim (2998)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4862</td></tr><tr><td>Arabic No</td><td>4862</td></tr><tr><td>Reference</td><td>Book 43 Hadith 90</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6133) Sahih Muslim (2998) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4862 |
+| Arabic No | 4862 |
+| Reference | Book 43 Hadith 90 |

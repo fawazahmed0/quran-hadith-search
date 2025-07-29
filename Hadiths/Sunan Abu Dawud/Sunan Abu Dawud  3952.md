@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو أُسَامَةَ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ جَابِرِ بْنِ زَيْدٍ، وَالْحَسَنِ، مِثْلَهُ ‏.‏ قَالَ أَبُو دَاوُدَ سَعِيدٌ أَحْفَظُ مِنْ حَمَّادٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
+
 حدثنا ابو بكر بن ابي شيبة، حدثنا ابو اسامة، عن سعيد، عن قتادة، عن جابر بن زيد، والحسن، مثله . قال ابو داود سعيد احفظ من حماد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
 
 ## Bengali
 
+। কাতাদাহ (রহঃ) থেকে জাবির ইবনু যায়িদ এবং হাসানের সূত্রে অনুরূপ হাদীস বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাম্মাদের তুলনায় সাঈদ (রহঃ) অধিক স্মৃতিশক্তি সম্পন্ন।\[1\] সহীহ মাকতু।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। কাতাদাহ (রহঃ) থেকে জাবির ইবনু যায়িদ এবং হাসানের সূত্রে অনুরূপ হাদীস বর্ণিত। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাম্মাদের তুলনায় সাঈদ (রহঃ) অধিক স্মৃতিশক্তি সম্পন্ন।[1] সহীহ মাকতু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A similar tradition has also been transmitted by Jabir b. Zaid and al-Hasan through a different chain of narrators. Abu Dawud said:The narrator sa'id retained te tradition more carefully than Hammad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
+
+## French
+
+Un récit similaire a aussi été transmis par Jabir ibn Zaid et al-Hasan par une autre chaîne de rapporteurs. Abu Dawud a dit : « Le rapporteur Sa’id a préservé la tradition plus soigneusement que Hammad. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Sulaiman\] telah menceritakan kepada kami \[Abdul Wahhab\] dari \[Sa'id\] dari \[Qatadah\] dari \[Al Hasan\] ia berkata, "Barangsiapa memiliki hubungan kekerabatan, maka ia adalah orang yang merdeka." Telah menceritakan kepada kami \[Abu Bakr bin Abu Syaibah\] telah menceritakan kepada kami \[Abu Usamah\] dari \[Sa'id\] dari \[Qatadah\] dari \[Jabir bin Zaid\] dan \[Al Hasan\] seperti itu." Abu Daud berkata, "Sa'id lebih hafal daripada Hammad
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Sulaiman] telah menceritakan kepada kami [Abdul Wahhab] dari [Sa'id] dari [Qatadah] dari [Al Hasan] ia berkata, "Barangsiapa memiliki hubungan kekerabatan, maka ia adalah orang yang merdeka." Telah menceritakan kepada kami [Abu Bakr bin Abu Syaibah] telah menceritakan kepada kami [Abu Usamah] dari [Sa'id] dari [Qatadah] dari [Jabir bin Zaid] dan [Al Hasan] seperti itu." Abu Daud berkata, "Sa'id lebih hafal daripada Hammad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Такой же хадис передаёт Катада от Джабира ибн Зейда и аль-Хасана
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bir önceki 3951. hadisin) bir benzeri de el-Hasen (el-Basrî) ile Câbir b. Zeyd'den de rivayet olunmuştur. Ebu Davud dedi ki: "Saîd'in hafızası Hammâd'dan daha güçlüdür
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن زید اور حسن سے بھی اسی کے ہم مثل مروی ہے ابوداؤد کہتے ہیں: سعید حماد ( حماد بن سلمہ ) سے زیادہ یاد رکھنے والے ہیں ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3952</td></tr><tr><td>Arabic No</td><td>3952</td></tr><tr><td>Reference</td><td>Book 31 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3952 |
+| Arabic No | 3952 |
+| Reference | Book 31 Hadith 27 |

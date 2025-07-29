@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ شُعَيْبِ بْنِ الْحَبْحَابِ، عَنْ أَنَسِ بْنِ مَالِكٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم فِي هَذَا الْحَدِيثِ قَالَ ‏ "‏ يَقْرَؤُهُ كُلُّ مُسْلِمٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
+
 حدثنا مسدد، حدثنا عبد الوارث، عن شعيب بن الحبحاب، عن انس بن مالك، عن النبي صلى الله عليه وسلم في هذا الحديث قال " يقروه كل مسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে এ হাদীস বর্ণিত আছেঃ প্রত্যেক মুসলিম তা পড়তে পারবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে এ হাদীস বর্ণিত আছেঃ প্রত্যেক মুসলিম তা পড়তে পারবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Anas b. Malik through a different chain of narrators, This version adds:Every Muslim will read it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
+
+## French
+
+Le récit mentionné ci-dessus a aussi été rapporté par Anas ibn Malik رضي الله عنه par une autre chaîne de transmetteurs. Cette version ajoute : « Tout musulman pourra le lire. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ сказал в этом хадисе, что эту надпись сможет прочесть каждый мусульманин
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Müsedded, ona Abdulvaris haber verdi, o Şuayb b. el-Hicab'dan, Şuayb da Enes b. Malik (r.a) vasıtasıyla Rasûlullah'tan rivayet ettiği bu hadiste Rasûîullah, "Onu (Deccal'in alnındaki kafir yazısını) her müslüman okur." buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم سے یہی حدیث روایت کرتے ہیں اس میں ہے: اسے ہر مسلمان پڑھ لے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2933)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4318</td></tr><tr><td>Arabic No</td><td>4318</td></tr><tr><td>Reference</td><td>Book 39 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2933) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4318 |
+| Arabic No | 4318 |
+| Reference | Book 39 Hadith 28 |

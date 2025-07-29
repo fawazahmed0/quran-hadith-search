@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا النَّضْرُ، قَالَ أَنْبَأَنَا شُعْبَةُ، عَنْ تَوْبَةَ الْعَنْبَرِيِّ، عَنْ مُحَمَّدِ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي سَلَمَةَ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَصِلُ شَعْبَانَ بِرَمَضَانَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا النضر، قال انبانا شعبة، عن توبة العنبري، عن محمد بن ابراهيم، عن ابي سلمة، عن ام سلمة، قالت كان رسول الله صلى الله عليه وسلم يصل شعبان برمضان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইসহাক ইবনু ইবরাহীম (রহঃ) ... উম্মে সালামা (রাঃ) থেকে বর্ণিত। তিনি বলেন যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম শা'বান মাসকে রমযান মাসের সাথে মিলাতেন সাওম (সিয়াম/রোজা/রোযা) পালনসহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Umm Salamah said:"The Messenger of Allah used to join Shaban to Ramadan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |
+
+## French
+
+Rapporté par Umm Salamah رضي الله عنها : Le Messager d’Allah ﷺ reliait le mois de Cha‘ban à Ramadan
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] dia berkata; telah memberitakan kepada kami \[An Nadlr\] dia berkata; telah memberitakan kepada kami \[Syu'bah\] dari \[Taubah Al 'Anbari\] dari \[Muhammad bin Ibrahim\] dari \[Abu Salamah\] dari \[Ummu Salamah\] dia berkata; "Rasulullah shallallahu 'alaihi wasallam menyambung bulan Sya'ban dengan Ramadlan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] dia berkata; telah memberitakan kepada kami [An Nadlr] dia berkata; telah memberitakan kepada kami [Syu'bah] dari [Taubah Al 'Anbari] dari [Muhammad bin Ibrahim] dari [Abu Salamah] dari [Ummu Salamah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam menyambung bulan Sya'ban dengan Ramadlan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین ام سلمہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم شعبان کو رمضان سے ملا دیتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2176</td></tr><tr><td>Arabic No</td><td>2176</td></tr><tr><td>Reference</td><td>Book 22 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2176 |
+| Arabic No | 2176 |
+| Reference | Book 22 Hadith 87 |

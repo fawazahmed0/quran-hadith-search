@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا بِشْرٌ، حَدَّثَنَا عُمَارَةُ بْنُ غَزِيَّةَ، قَالَ حَدَّثَنِي رَجُلٌ، مِنْ قَوْمِي عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ أُعْطِيَ عَطَاءً فَوَجَدَ فَلْيَجْزِ بِهِ فَإِنْ لَمْ يَجِدْ فَلْيُثْنِ بِهِ فَمَنْ أَثْنَى بِهِ فَقَدْ شَكَرَهُ وَمَنْ كَتَمَهُ فَقَدْ كَفَرَهُ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ يَحْيَى بْنُ أَيُّوبَ عَنْ عُمَارَةَ بْنِ غَزِيَّةَ عَنْ شُرَحْبِيلَ عَنْ جَابِرٍ ‏.‏ قَالَ أَبُو دَاوُدَ وَهُوَ شُرَحْبِيلُ يَعْنِي رَجُلاً مِنْ قَوْمِي كَأَنَّهُمْ كَرِهُوهُ فَلَمْ يُسَمُّوهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
+
 حدثنا مسدد، حدثنا بشر، حدثنا عمارة بن غزية، قال حدثني رجل، من قومي عن جابر بن عبد الله، قال قال رسول الله صلى الله عليه وسلم " من اعطي عطاء فوجد فليجز به فان لم يجد فليثن به فمن اثنى به فقد شكره ومن كتمه فقد كفره " . قال ابو داود رواه يحيى بن ايوب عن عمارة بن غزية عن شرحبيل عن جابر . قال ابو داود وهو شرحبيل يعني رجلا من قومي كانهم كرهوه فلم يسموه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
 
 ## Bengali
 
+। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কাউকে কিছু দান করা হলে সে যেন সামর্থ্য থাকলে তার প্রতিদান দেয়। যদি সেই সামর্থ্য না থাকে তবে সে যেন তার প্রশংসা করে। সে তার প্রশংসা করলে তার প্রতি কৃতজ্ঞতা আদায় করলো। আর যে ব্যক্তি তা গোপন রাখলো সে অকৃতজ্ঞতা প্রকাশ করলো।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কাউকে কিছু দান করা হলে সে যেন সামর্থ্য থাকলে তার প্রতিদান দেয়। যদি সেই সামর্থ্য না থাকে তবে সে যেন তার প্রশংসা করে। সে তার প্রশংসা করলে তার প্রতি কৃতজ্ঞতা আদায় করলো। আর যে ব্যক্তি তা গোপন রাখলো সে অকৃতজ্ঞতা প্রকাশ করলো।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Prophet (ﷺ) said: If someone is given something, he should give a return for it provided he can afford; if he cannot afford, he should praise him. He who praises him for it, thanks him, and he who conceals it is ungrateful to him. Abu Dawud said: It has been transmitted by Yahya b. Ayyub, from 'Umarah b. Ghaziyyah, from Sharahbil on the authority of Jabir. Abu Dawud said: In the chain of this tradition 'Umarah b. Ghaziyyah said: A man from my tribe said. The man referred by him is Sharahbil. It is likely that they disliked him and, therefore, they did not name him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Le Prophète ﷺ a dit : « Si quelqu’un reçoit quelque chose, il doit donner quelque chose en retour s’il en a les moyens ; s’il ne peut pas, qu’il le remercie. Celui qui le remercie pour cela l’a vraiment remercié, et celui qui le cache est ingrat envers lui. » Abu Dawud a dit : Ce hadith a été transmis par Yahya b. Ayyub, de 'Umarah b. Ghaziyyah, de Sharahbil, d’après Jabir. Abu Dawud a ajouté : Dans la chaîne de transmission, 'Umarah b. Ghaziyyah a dit : « Un homme de ma tribu a dit. » Cet homme est Sharahbil. Il est probable qu’ils ne l’appréciaient pas et c’est pourquoi ils ne l’ont pas nommé
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Bisyr\] berkata, telah menceritakan kepadaku \[Umarah bin Ghaziyah\] berkata; telah menceritakan kepadaku \[seorang laki-laki\] yang berasal dari kaumku, dari \[Jabir bin Abdullah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang diberi suatu pemberian kemudian ia mempunyai sesuatu hendaklah ia balas memberinya, jika tidak mempunyai sesuatu hendakah ia memujinya. Siapa yang memujinya (si pemberi) berarti ia telah bersyukur, dan siapa yang menutupinya maka ia telah mengkufurinya (nikmat)." Abu Dawud berkata, " \[Yahya bin Ayyub\] meriwayatkannya dari \[Umarah bin Ghaziyah\], dari \[Syurahbil\], dari \[Jabir\]." Abu Dawud berkata, "Syurahbil adalah seorang laki-laki dari kaumku, tetapi seakan-akan mereka membencinya hingga tidak bersedia menyebut namanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Bisyr] berkata, telah menceritakan kepadaku [Umarah bin Ghaziyah] berkata; telah menceritakan kepadaku [seorang laki-laki] yang berasal dari kaumku, dari [Jabir bin Abdullah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang diberi suatu pemberian kemudian ia mempunyai sesuatu hendaklah ia balas memberinya, jika tidak mempunyai sesuatu hendakah ia memujinya. Siapa yang memujinya (si pemberi) berarti ia telah bersyukur, dan siapa yang menutupinya maka ia telah mengkufurinya (nikmat)." Abu Dawud berkata, " [Yahya bin Ayyub] meriwayatkannya dari [Umarah bin Ghaziyah], dari [Syurahbil], dari [Jabir]." Abu Dawud berkata, "Syurahbil adalah seorang laki-laki dari kaumku, tetapi seakan-akan mereka membencinya hingga tidak bersedia menyebut namanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir İbn Abdullah'dan (rivayet edildiğine göre); Rasülullah (s.a.v.) şöyle buyurmuştur: "Kime bir iyilik yapılır da (bu iyiliğe iyilikle mukabelede bulunmak üzere maddi bir imkân) bulursa hemen o iyiliği (iyilikle) karşılasın. Eğer (o iyiliğe) iyilikle mukabele etmek için maddî bir imkân bulamazsa (kendisine yapılan) bu iyiliği övsün. (Kendisine yapılan) bu iyiliği öven kimse onun şükrünü yerine getirmiş olur. Bu iyiliği (kimseye söylemeyerek) gizleyen kimse de onu inkâr etmiş olur." Ebu Davud der ki; Bu hadisi Yahya İbn Eyyüb da Umar e İbn Gaziyye vasıtasiyle Şurahbil' den, (Şurahbil de) Câbir'den rivayet etmiştir. (Senedde): "Kavmimden bir adam" diye bahsedilen râviden maksat, Şurah­bil'dir. Her halde (bu hadîsi ondan rivayet eden kimseler) ondan hoşlan­madıkları için onun ismini (açıkça) vermemişlerdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس کو کوئی چیز دی جائے پھر وہ بھی ( دینے کے لیے کچھ ) پا جائے تو چاہیئے کہ اس کا بدلہ دے، اور اگر بدلہ کے لیے کچھ نہ پائے تو اس کی تعریف کرے، اس لیے کہ جس نے اس کی تعریف کی تو گویا اس نے اس کا شکر ادا کر دیا، اور جس نے چھپایا ( احسان کو ) تو اس نے اس کی ناشکری کی۔ ابوداؤد کہتے ہیں: اسے یحییٰ بن ایوب نے عمارہ بن غزیہ سے، انہوں نے شرحبیل سے اور انہوں نے جابر سے روایت کیا ہے۔ ابوداؤد کہتے ہیں: سند میں «رجل من قومی» سے مراد شرحبیل ہیں، گویا وہ انہیں ناپسند کرتے تھے، اس لیے ان کا نام نہیں لیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4813</td></tr><tr><td>Arabic No</td><td>4813</td></tr><tr><td>Reference</td><td>Book 43 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4813 |
+| Arabic No | 4813 |
+| Reference | Book 43 Hadith 41 |

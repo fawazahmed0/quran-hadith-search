@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، وَعَبْدِ الْعَزِيزِ بْنِ صُهَيْبٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَعْتَقَ صَفِيَّةَ وَجَعَلَ عِتْقَهَا صَدَاقَهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
+
 حدثنا عمرو بن عون، اخبرنا ابو عوانة، عن قتادة، وعبد العزيز بن صهيب، عن انس بن مالك، ان النبي صلى الله عليه وسلم اعتق صفية وجعل عتقها صداقها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
 
 ## Bengali
 
+। আনাস (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাফিয়্যাহ (রাযি.)-কে মুক্ত করেন এবং এ মুক্তিকে তার মোহর হিসেবে গণ্য করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাযি.) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাফিয়্যাহ (রাযি.)-কে মুক্ত করেন এবং এ মুক্তিকে তার মোহর হিসেবে গণ্য করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas bin ‘Malik said “The Prophet(ﷺ) manumitted Safiyyah and made her manumission her dower.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
+
+## French
+
+Rapporté par Anas ibn Malik رضي الله عنه : Le Prophète ﷺ a affranchi Safiyyah et a fait de son affranchissement sa dot
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Amr bin 'Aun\], telah mengabarkan kepada kami \[Abu 'Awanah\] dari \[Qatadah\] dan \[Abdul Aziz bin Shuhaib\] dari \[Anas bin Malik\] bahwa Nabi shallallahu 'alaihi wasallam telah membebaskan Shafiyyah dan menjadikan pembebasannya sebagai maharnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amr bin 'Aun], telah mengabarkan kepada kami [Abu 'Awanah] dari [Qatadah] dan [Abdul Aziz bin Shuhaib] dari [Anas bin Malik] bahwa Nabi shallallahu 'alaihi wasallam telah membebaskan Shafiyyah dan menjadikan pembebasannya sebagai maharnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Анаса ибн Малика, да будет доволен им Аллах, что Пророк ﷺ дал Сафийе свободу и сделал освобождение её брачным даром
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes b. Mâlik'den rivayet olunduğuna göre, Resûlullah (s.a.v.) Safiyye'yi hürriyetine kavuşturmuş (onunla evlenmiş ve) onu hürriyetine kavuşturmayı da mehri (yerine) saymıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے ام المؤمنین صفیہ رضی اللہ عنہا کو آزاد کیا اور ان کی آزادی ہی کو ان کا مہر قرار دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (947) Sahih Muslim (1365 After 1427)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2054</td></tr><tr><td>Arabic No</td><td>2054</td></tr><tr><td>Reference</td><td>Book 12 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (947) Sahih Muslim (1365 After 1427) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2054 |
+| Arabic No | 2054 |
+| Reference | Book 12 Hadith 9 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ وَحَدِيثُ مُعَاذِ بْنِ هِشَامٍ أَتَمُّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، عن هشام، بهذا الاسناد وحديث معاذ بن هشام اتم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) আবু বকর ইবনু আবূ শাইবাহ্ (রহঃ) .... হিশাম (রহঃ) এর সানাদে এ সূত্রে হুবহু হাদীস বর্ণনা করেছেন। আর মুআয ইবনু হিশামের বর্ণিত হাদীসটি অধিক পরিপূর্ণ। (ইসলামিক ফাউন্ডেশন ৬৬৭৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Hisham with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## French
 
+Rapporté par Hisham avec la même chaîne de transmetteurs : Ce hadith a été rapporté avec la même chaîne de transmission
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-83) Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dedikî): Bize Veki' Hişâm'dan bu isnadla rivayet etti. Ama Muâz b. Hişâm'ın hadîsi daha tamamdır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وکیع نے ہشام سے اسی سند کے ساتھ حدیث بیان کی ، لیکن معاذ بن ہشام کی حدیث زیادہ مکمل ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6922</td></tr><tr><td>Arabic No</td><td>2730.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 114</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6922 |
+| Arabic No | 2730.02 |
+| Reference | Book 48 Hadith 114 |

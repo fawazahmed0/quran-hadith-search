@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا سَيَّارٌ، وَأَخْبَرَنَا مُغِيرَةُ، وَأَخْبَرَنَا دَاوُدُ، عَنِ الشَّعْبِيِّ، وَأَنْبَأَنَا مُجَالِدٌ، وَإِسْمَاعِيلُ بْنُ سَالِمٍ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ أَنْحَلَنِي أَبِي نُحْلاً - قَالَ إِسْمَاعِيلُ بْنُ سَالِمٍ مِنْ بَيْنِ الْقَوْمِ نِحْلَةً غُلاَمًا لَهُ - قَالَ فَقَالَتْ لَهُ أُمِّي عَمْرَةُ بِنْتُ رَوَاحَةَ إِيتِ رَسُولَ اللَّهِ صلى الله عليه وسلم فَأَشْهِدْهُ فَأَتَى النَّبِيَّ صلى الله عليه وسلم فَأَشْهَدَهُ فَذَكَرَ ذَلِكَ لَهُ فَقَالَ إِنِّي نَحَلْتُ ابْنِي النُّعْمَانَ نُحْلاً وَإِنَّ عَمْرَةَ سَأَلَتْنِي أَنْ أُشْهِدَكَ عَلَى ذَلِكَ قَالَ فَقَالَ ‏"‏ أَلَكَ وَلَدٌ سِوَاهُ ‏"‏ ‏.‏ قَالَ قُلْتُ نَعَمْ ‏.‏ قَالَ ‏"‏ فَكُلَّهُمْ أَعْطَيْتَ مِثْلَ مَا أَعْطَيْتَ النُّعْمَانَ ‏"‏ ‏.‏ قَالَ لاَ قَالَ فَقَالَ بَعْضُ هَؤُلاَءِ الْمُحَدِّثِينَ ‏"‏ هَذَا جَوْرٌ ‏"‏ ‏.‏ وَقَالَ بَعْضُهُمْ ‏"‏ هَذَا تَلْجِئَةٌ فَأَشْهِدْ عَلَى هَذَا غَيْرِي ‏"‏ ‏.‏ قَالَ مُغِيرَةُ فِي حَدِيثِهِ ‏"‏ أَلَيْسَ يَسُرُّكَ أَنْ يَكُونُوا لَكَ فِي الْبِرِّ وَاللُّطْفِ سَوَاءً ‏"‏ ‏.‏ قَالَ نَعَمْ ‏.‏ قَالَ ‏"‏ فَأَشْهِدْ عَلَى هَذَا غَيْرِي ‏"‏ ‏.‏ وَذَكَرَ مُجَالِدٌ فِي حَدِيثِهِ ‏"‏ إِنَّ لَهُمْ عَلَيْكَ مِنَ الْحَقِّ أَنْ تَعْدِلَ بَيْنَهُمْ كَمَا أَنَّ لَكَ عَلَيْهِمْ مِنَ الْحَقِّ أَنْ يَبَرُّوكَ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ فِي حَدِيثِ الزُّهْرِيِّ قَالَ بَعْضُهُمْ ‏"‏ أَكُلَّ بَنِيكَ ‏"‏ ‏.‏ وَقَالَ بَعْضُهُمْ ‏"‏ وَلَدِكَ ‏"‏ ‏.‏ وَقَالَ ابْنُ أَبِي خَالِدٍ عَنِ الشَّعْبِيِّ فِيهِ ‏"‏ أَلَكَ بَنُونَ سِوَاهُ ‏"‏ ‏.‏ وَقَالَ أَبُو الضُّحَى عَنِ النُّعْمَانِ بْنِ بَشِيرٍ ‏"‏ أَلَكَ وَلَدٌ غَيْرُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
+
 حدثنا احمد بن حنبل، حدثنا هشيم، اخبرنا سيار، واخبرنا مغيرة، واخبرنا داود، عن الشعبي، وانبانا مجالد، واسماعيل بن سالم، عن الشعبي، عن النعمان بن بشير، قال انحلني ابي نحلا - قال اسماعيل بن سالم من بين القوم نحلة غلاما له - قال فقالت له امي عمرة بنت رواحة ايت رسول الله صلى الله عليه وسلم فاشهده فاتى النبي صلى الله عليه وسلم فاشهده فذكر ذلك له فقال اني نحلت ابني النعمان نحلا وان عمرة سالتني ان اشهدك على ذلك قال فقال " الك ولد سواه " . قال قلت نعم . قال " فكلهم اعطيت مثل ما اعطيت النعمان " . قال لا قال فقال بعض هولاء المحدثين " هذا جور " . وقال بعضهم " هذا تلجية فاشهد على هذا غيري " . قال مغيرة في حديثه " اليس يسرك ان يكونوا لك في البر واللطف سواء " . قال نعم . قال " فاشهد على هذا غيري " . وذكر مجالد في حديثه " ان لهم عليك من الحق ان تعدل بينهم كما ان لك عليهم من الحق ان يبروك " . قال ابو داود في حديث الزهري قال بعضهم " اكل بنيك " . وقال بعضهم " ولدك " . وقال ابن ابي خالد عن الشعبي فيه " الك بنون سواه " . وقال ابو الضحى عن النعمان بن بشير " الك ولد غيره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । নু‘মান ইবনু বাশীর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমার পিতা আমাকে অতিরিক্ত কিছু দিলেন। এ হাদীসের অন্যতম বর্ণনাকারী ইবনু সালিমের বর্ণনায় রয়েছেঃ তিনি তাকে একটি গোলাম দান করেন। বর্ণনাকারী (নু‘মান) বলেন, আমার মা ‘আমরাহ বিনতু রাওয়াহা (রাঃ) আমার পিতাকে বললেন, আপনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গিয়ে তাঁকে এ বিষয়ে সাক্ষী রাখুন। তিনি (পিতা) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে গিয়ে বিষয়টি জানালেন। তিনি বললেন, আমি আমার ছেলে নু‘মানকে কিছু উপহার দিয়েছি। এ ব্যাপারে আপনাকে সাক্ষী রাখার জন্য ‘আমরাহ আমাকে অনুরোধ করেছে। বর্ণনাকারী বলেন, তিনি বললেন, সে ছাড়াও তোমার আরো সন্তান আছে কি? তিনি বললেন, হ্যাঁ। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি কি তোমার প্রত্যেক সন্তানকে অনুরূপ দিয়েছো, যেমন নু‘মানকে দিয়েছো? তিনি বললেন, না। কতিপয় মুহাদ্দিসের বর্ণনায় রয়েছেঃ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘এটা অন্যায় কাজ।’’ আর কতিপয় মুহাদ্দিস বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ‘‘এতো নীতি বিরোধী কাজ।’’ সুতরাং আমাকে বাদ দিয়ে অন্য কাউকে সাক্ষী রাখো। মুগীরাহ (রাঃ) তার বর্ণিত হাদীসের উল্লেখ করেন, ‘‘তোমার সব সন্তানই সমান সৌভাগ্যবান হোক, এতে তুমি কি খুশি হবে না? তিনি বললেন, হ্যাঁ। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘‘আমাকে বাদ দিয়ে অন্য কাউকে এর সাক্ষী রাখো।’’ মুজালিদ তার বর্ণিত হাদীসে উল্লেখ করেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ ‘‘তোমার উপর তাদের হক রয়েছে যে, তুমি তাদের সাথে সমান ব্যবহার করবে এবং তাদের প্রতি ইনসাফ করবে। যেমন অধিকার রয়েছে তাদের উপর তোমার; তারা সবাই তোমার সাথে সদ্ব্যবহার করুক।’’ ইমাম আবূ দাঊদ (রহঃ) বলেন, যুহরীর বর্ণিত হাদীসে রয়েছে, কতিপয় বর্ণনাকারী ‘‘তোমার সন্তান’’ শব্দ বর্ণনা করেছেন। ইবনু খালিদ (রহঃ) বলেন, শা‘বীর বর্ণিত হাদীসে রয়েছেঃ ‘‘সে ছাড়া তোমার আরো সন্তান আছে কি?’’ আবুদ দুহা (রহঃ) নু‘মান ইবনু বাশীর সূত্রে বর্ণিত হাদীসে বলেন, (সে ব্যতীত তোমার কি আরো সন্তান আছে)?’’
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Nu'man b. Bashir: My father gave me a gift. The narrator Isma'il b. Salim said: (He gave me) his slave as a gift. My mother 'Umrah daughter of Rawahah said: Go to the Messenger of Allah and call him as witness. He then came to the Prophet (ﷺ) and mentioned it to him. He said him: I have given my son al-Nu'man a gift, and 'Umrah has asked me to call you as witness to it. He asked him: Have you children other than him? He said: I replied: Yes. He again asked: Have you given the rest of them the same as you have given al-Nu'man ? He said: No. Some of these narrators said in their version (that the Prophet said:) This in injustice. The others said in their version (that the Prophet said:) This is under force. So call some other person than me as witness to it. Mughirah said in his version: (The Prophet asked): Are you not pleased with the fact that all of them may be equal in virtue and grace ? He replied: Yes. He said: Then call some other person than me as witness to it. Mujahid mentioned in his version: They have right to you that you should do justice to them, as you have right to them that they should do good to you. Abu Dawud said: In the version of al-Zuhri some (narrators) said: (Have you given) to all your sons ? and some (narrators) said: Your children. Ibn Abi Khalid narrated from al-Sha'bi in his version: Have your sons other than him ? Abu al-Duha narrated on the authority of al-Nu'man b. Bashir: Have you children other than him ?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
+
+## French
+
+Rapporté par Al-Nu’man ibn Bashir رضي الله عنه : Mon père m’a offert un cadeau. Le narrateur Isma’il b. Salim a précisé : (Il m’a donné) son esclave en cadeau. Ma mère, Umrah bint Rawahah, a dit : « Va voir le Messager d’Allah et demande-lui d’en être témoin. » Il est donc allé voir le Prophète ﷺ et lui a expliqué la situation. Il lui a dit : « J’ai donné à mon fils al-Nu’man un cadeau, et Umrah m’a demandé de t’appeler comme témoin. » Le Prophète ﷺ lui demanda : « As-tu d’autres enfants que lui ? » Il répondit : « Oui. » Il demanda encore : « As-tu donné aux autres ce que tu as donné à al-Nu’man ? » Il répondit : « Non. » Certains rapporteurs ont dit que le Prophète ﷺ a dit : « C’est une injustice. » D’autres ont rapporté : « C’est sous la contrainte. » Il ajouta : « Fais témoigner quelqu’un d’autre que moi. » Mughirah a rapporté que le Prophète ﷺ demanda : « N’aimerais-tu pas que tous tes enfants soient égaux en bonté et en faveur ? » Il répondit : « Oui. » Il dit alors : « Fais témoigner quelqu’un d’autre que moi. » Mujahid a rapporté : « Ils ont droit à ce que tu sois juste envers eux, comme tu as droit à ce qu’ils soient bons envers toi. » Abu Dawud a précisé : Dans la version de al-Zuhri, certains ont dit : « As-tu donné à tous tes fils ? » et d’autres : « À tous tes enfants ? » Ibn Abi Khalid a rapporté de al-Sha’bi : « As-tu d’autres fils que lui ? » Abu al-Duha a rapporté d’après al-Nu’man ibn Bashir : « As-tu d’autres enfants que lui ? »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Husyaim\] telah mengabarkan kepada kami \[Sayyar\] dan telah mengabarkan kepada kami \[Mughirah\] telah mengabarkan kepada kami \[Daud\] dari \[Asy Sya'bi\] telah mengabarkan kepada kami \[Mujalid\] dan \[Isma'il bin Salim\] dari \[Asy Sya'bi\] dari \[An Nu'man bin Basyir\] ia berkata, "Ayahku memberi aku suatu pemberian -Isma'il bin Salim berkata; di antara orang-orang berupa seorang budak miliknya-." Nu'man berkata, "Kemudian ibuku, 'Umrah binti Rawahah, berkata kepadanya, "Datanglah kepada Rasulullah shallallahu 'alaihi wasallam dan mintalah persaksian kepada beliau." Basyir lalu datang kepada Nabi shallallahu 'alaihi wasallam dan meminta persaksian beliau. Ia lantas ceritakan hal tersebut kepada beliau, ia katakan, "Sesungguhnya aku telah memberikan suatu pemberian kepada anakku, An Nu'man. Dan 'Amrah meminta agar aku meminta persaksian anda atas hal tersebut?" An Nu'man melanjutkkan, "Kemudian beliau bertanya: "Apakah engkau memiliki anak selainnya?" Ia menjawab, "Ya." Beliau bertanya: "Apakah semua kamu beri sebagaimana yang telah diberikan kepada Nu'man?" maka dia menjawab; "Tidak." Maka sebagaian orang yang melaporkan menyatakan; "Itu adalah perbuatan aniaya!" sedang yang lainnya menyatakan; "Itu adalah paksaan Mintalah persaksian atas hal ini kepada selainku!" \[Mughirah\] menyebutkan dalam haditsnya, "Tidakkah kamu suka jika mereka sama dalam berbuat baik dan berkasih sayang terhadapmu?" maka dia menjawab; "Ya." Maka dia menambahkan; "Maka saksikanlah hal itu pada selainku." \[Mujalid\] menyebutkan; "Sesungguhnya mereka memiliki hak atas dirimu untuk berbuat adil di antara mereka sebagaimana engkau memiliki hak atas mereka agar mereka berbakti kepadamu." Abu Daud berkata dalam hadits Az Zuhri, "Sebagian ahli menyebutkan, "Apakah kepada seluruh anak laki-lakimu?" Sedangkan sebagian ahli hadits menyebutkan, "Apakah kepada seluruh anakmu?" \[Ibnu Abu Khalid\] menyebutkan dari \[Asy Sya'bi\] mengenai hadits tersebut, "Apakah engkau memiliki anak laki-laki selainnya?" \[Abu Adl Dluha\] menyebutkan dari \[An Nu'man bin Basyir\], "Apakah engkau memiliki anak selainnya?
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Sayyar] dan telah mengabarkan kepada kami [Mughirah] telah mengabarkan kepada kami [Daud] dari [Asy Sya'bi] telah mengabarkan kepada kami [Mujalid] dan [Isma'il bin Salim] dari [Asy Sya'bi] dari [An Nu'man bin Basyir] ia berkata, "Ayahku memberi aku suatu pemberian -Isma'il bin Salim berkata; di antara orang-orang berupa seorang budak miliknya-." Nu'man berkata, "Kemudian ibuku, 'Umrah binti Rawahah, berkata kepadanya, "Datanglah kepada Rasulullah shallallahu 'alaihi wasallam dan mintalah persaksian kepada beliau." Basyir lalu datang kepada Nabi shallallahu 'alaihi wasallam dan meminta persaksian beliau. Ia lantas ceritakan hal tersebut kepada beliau, ia katakan, "Sesungguhnya aku telah memberikan suatu pemberian kepada anakku, An Nu'man. Dan 'Amrah meminta agar aku meminta persaksian anda atas hal tersebut?" An Nu'man melanjutkkan, "Kemudian beliau bertanya: "Apakah engkau memiliki anak selainnya?" Ia menjawab, "Ya." Beliau bertanya: "Apakah semua kamu beri sebagaimana yang telah diberikan kepada Nu'man?" maka dia menjawab; "Tidak." Maka sebagaian orang yang melaporkan menyatakan; "Itu adalah perbuatan aniaya!" sedang yang lainnya menyatakan; "Itu adalah paksaan Mintalah persaksian atas hal ini kepada selainku!" [Mughirah] menyebutkan dalam haditsnya, "Tidakkah kamu suka jika mereka sama dalam berbuat baik dan berkasih sayang terhadapmu?" maka dia menjawab; "Ya." Maka dia menambahkan; "Maka saksikanlah hal itu pada selainku." [Mujalid] menyebutkan; "Sesungguhnya mereka memiliki hak atas dirimu untuk berbuat adil di antara mereka sebagaimana engkau memiliki hak atas mereka agar mereka berbakti kepadamu." Abu Daud berkata dalam hadits Az Zuhri, "Sebagian ahli menyebutkan, "Apakah kepada seluruh anak laki-lakimu?" Sedangkan sebagian ahli hadits menyebutkan, "Apakah kepada seluruh anakmu?" [Ibnu Abu Khalid] menyebutkan dari [Asy Sya'bi] mengenai hadits tersebut, "Apakah engkau memiliki anak laki-laki selainnya?" [Abu Adl Dluha] menyebutkan dari [An Nu'man bin Basyir], "Apakah engkau memiliki anak selainnya?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ан-Ну‘ман ибн Башир, да будет доволен Аллах им и его отцом, передаёт: «Мой отец подарил мне своего слугу, а моя мать ‘Амра бинт Раваха сказала ему: “Пойди к Посланнику Аллаха ﷺ и попроси его засвидетельствовать дарение”. И он пошёл к Посланнику Аллаха ﷺ рассказал ему обо всём и попросил засвидетельствовать дарение. Он сказал: “Я сделал своему сыну ан-Ну‘ману подарок. И ‘Амра попросила меня взять тебя в свидетели”. Посланник Аллаха ﷺ спросил: “Есть ли у тебя дети, кроме него?” Он ответил: “Да”. Посланник Аллаха ﷺ спросил: “И каждому из них ты сделал такой же подарок, как и ан-Ну‘ману?” Он ответил: “Нет”. Посланник Аллаха ﷺ сказал: “Это отказ от лучшего в пользу худшего”». А в другой версии Посланник Аллаха ﷺ сказал: «Это несправедливость. Попроси засвидетельствовать кого-то другого». А в версии Мугиры Посланник Аллаха ﷺ сказал: «Разве ты не желаешь, чтобы все они любили и уважали тебя одинаково?» Он ответил: «Да». Посланник Аллаха ﷺ сказал: «Возьми в свидетели кого-то другого». В версии Муджалида Посланник Аллаха ﷺ сказал: «Поистине, они имеют право на то, чтобы ты соблюдал справедливость в своём отношении к ним, а у тебя есть право на то, чтобы они почитали тебя»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
 
 ## Turkish
 
+Nu'man b. Beşîr (r.a)'in şöyle dediği rivayet edilmiştir: Babam bana bir mal bağışladı. -Ravilerden İsmail b. Salim: "Bir kölesini bağışladı" der.- Annem, Ravâha'nın kızı \[Amra\]: Rasûlullah (s.a.v.)'e git, o'nu bu bağışa şahit tut, dedi. Babam, Rasûlullah'a gidip \[onu şahit tuttu\], hâdiseyi ona anlatıp dedi ki: Ben oğlum Nu'man'a bir mal bağışladım. Ama Amra, (Nu'man'ın annesi) buna, seni şahit tutmamı istedi. Rasûlullah (s.a.v.): "Senin başka çocuğun var mi?" Evet, var. "Hepsine Nu'man'a verdiğin gibi mal verdin mi?" Hayır, vermedim. Rasûlullah (s.a.v.): Bazı râvilerin dediğine göre- "Bu zulümdür"; -bazılarının dediğine göre- "Bu telciedir, buna başkasını şahit tut" buyurdu. Mağîre'nin rivayetinde, (Rasûlullah): "İyilik ve lütufta hepsinin eşit olmaları seni sevindirmez mi?" (buyurdu). Adam: Evet, dedi. Rasûlullah: "Buna benden başkasını şahit tut" buyurdu. Mücâhid'in rivayetine göre ise Rasûlullah (s.a.v.): “Sana iyilik yapmaları, senin onlar üzerindeki hakkın olduğu gibi aralarında adaletli davranman da onların senin üzerindeki haklarıdır" buyurdu. Ebû Dâvûd, Zührî'nin rivayeti hakkında der ki: Bazıları, "Bütün oğullarına (verdin) mi?"; bazıları, "bütün çocuklarına (verdin) mi?" dedi. Bu konuda îbn Ebî Hâlid, Şa'bî'den rivayetle: "Senin ondan başka oğulların varmı?" dedi. Ebu'd-Duha da Nu'man b. Beşîr'den rivayetle: "Senin ondan başka çocuğun var mı?" dedi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Nu'man b. Beşîr (r.a)'in şöyle dediği rivayet edilmiştir: Babam bana bir mal bağışladı. -Ravilerden İsmail b. Salim: "Bir kölesini bağışladı" der.- Annem, Ravâha'nın kızı [Amra]: Rasûlullah (s.a.v.)'e git, o'nu bu bağışa şahit tut, dedi. Babam, Rasûlullah'a gidip [onu şahit tuttu], hâdiseyi ona anlatıp dedi ki: Ben oğlum Nu'man'a bir mal bağışladım. Ama Amra, (Nu'man'ın annesi) buna, seni şahit tutmamı istedi. Rasûlullah (s.a.v.): "Senin başka çocuğun var mi?" Evet, var. "Hepsine Nu'man'a verdiğin gibi mal verdin mi?" Hayır, vermedim. Rasûlullah (s.a.v.): Bazı râvilerin dediğine göre- "Bu zulümdür"; -bazılarının dediğine göre- "Bu telciedir, buna başkasını şahit tut" buyurdu. Mağîre'nin rivayetinde, (Rasûlullah): "İyilik ve lütufta hepsinin eşit olmaları seni sevindirmez mi?" (buyurdu). Adam: Evet, dedi. Rasûlullah: "Buna benden başkasını şahit tut" buyurdu. Mücâhid'in rivayetine göre ise Rasûlullah (s.a.v.): “Sana iyilik yapmaları, senin onlar üzerindeki hakkın olduğu gibi aralarında adaletli davranman da onların senin üzerindeki haklarıdır" buyurdu. Ebû Dâvûd, Zührî'nin rivayeti hakkında der ki: Bazıları, "Bütün oğullarına (verdin) mi?"; bazıları, "bütün çocuklarına (verdin) mi?" dedi. Bu konuda îbn Ebî Hâlid, Şa'bî'den rivayetle: "Senin ondan başka oğulların varmı?" dedi. Ebu'd-Duha da Nu'man b. Beşîr'den rivayetle: "Senin ondan başka çocuğun var mı?" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نعمان بن بشیر رضی اللہ عنہما کہتے ہیں کہ میرے والد نے مجھے کوئی چیز ( بطور عطیہ ) دی، ( اسماعیل بن سالم کی روایت میں ہے کہ انہیں اپنا ایک غلام بطور عطیہ دیا ) اس پر میری والدہ عمرہ بنت رواحہ رضی اللہ عنہا نے ان سے کہا: رسول اللہ صلی اللہ علیہ وسلم کے پاس جایئے ( اور میرے بیٹے کو جو دیا ہے اس پر ) آپ کو گواہ بنا لیجئے، وہ نبی اکرم صلی اللہ علیہ وسلم کے پاس ( آپ کو گواہ بنانے کے لیے ) حاضر ہوئے اور آپ صلی اللہ علیہ وسلم سے اس بات کا ذکر کیا اور کہا کہ میں نے اپنے بیٹے نعمان کو ایک عطیہ دیا ہے اور ( میری بیوی ) عمرہ نے کہا ہے کہ میں آپ کو اس بات کا گواہ بنا لوں ( اس لیے میں آپ صلی اللہ علیہ وسلم کے پاس حاضر ہوا ہوں ) آپ نے ان سے پوچھا: کیا اس کے علاوہ بھی تمہارے اور کوئی لڑکا ہے؟ انہوں نے کہا: ہاں، آپ صلی اللہ علیہ وسلم نے فرمایا: تم نے سب کو اسی جیسی چیز دی ہے جو نعمان کو دی ہے؟ انہوں نے کہا: نہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: یہ تو ظلم ہے اور بعض کی روایت میں ہے: یہ جانب داری ہے، جاؤ تم میرے سوا کسی اور کو اس کا گواہ بنا لو ( میں ایسے کاموں کی شہادت نہیں دیتا ) ۔ مغیرہ کی روایت میں ہے: کیا تمہیں اس بات سے خوشی نہیں ہوتی کہ تمہارے سارے لڑکے تمہارے ساتھ بھلائی اور لطف و عنایت کرنے میں برابر ہوں؟ انہوں نے کہا: ہاں ( مجھے اس سے خوشی ہوتی ہے ) تو آپ صلی اللہ علیہ وسلم نے فرمایا: تو اس پر میرے علاوہ کسی اور کو گواہ بنا لو ( مجھے یہ امتیاز اور ناانصافی پسند نہیں ) ۔ اور مجالد نے اپنی روایت میں ذکر کیا ہے: ان ( بیٹوں ) کا تمہارے اوپر یہ حق ہے کہ تم ان سب کے درمیان عدل و انصاف کرو جیسا کہ تمہارا حق ان پر یہ ہے کہ وہ تمہارے ساتھ حسن سلوک کریں ۔ ابوداؤد کہتے ہیں: زہری کی روایت میں ۱؎ بعض نے: «أكل بنيك» کے الفاظ روایت کئے ہیں اور بعض نے «بنيك» کے بجائے «ولدك» کہا ہے، اور ابن ابی خالد نے شعبی کے واسطہ سے «ألك بنون سواه» اور ابوالضحٰی نے نعمان بن بشیر رضی اللہ عنہ کے واسطہ سے «ألك ولد غيره» روایت کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3542</td></tr><tr><td>Arabic No</td><td>3542</td></tr><tr><td>Reference</td><td>Book 24 Hadith 127</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3542 |
+| Arabic No | 3542 |
+| Reference | Book 24 Hadith 127 |

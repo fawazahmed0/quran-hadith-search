@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَفْصٍ، قَالَ حَدَّثَنِي أَبِي، حَدَّثَنَا إِبْرَاهِيمُ بْنُ طَهْمَانَ، عَنْ سِمَاكٍ، بِإِسْنَادِهِ وَمَعْنَى هَذَا الْحَدِيثِ الطَّوِيلِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
+
 حدثنا احمد بن حفص، قال حدثني ابي، حدثنا ابراهيم بن طهمان، عن سماك، باسناده ومعنى هذا الحديث الطويل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সিমাক (রহঃ) সূত্রে এ সনদে উপরোক্ত দীর্ঘ হাদীসের অর্থানুরূপ বর্ণিত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has again been transmitted by Simak through a different chain of narrators and to the same effect as this lengthy tradition
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
+
+## French
+
+La tradition mentionnée ci-dessus a de nouveau été transmise par Simak à travers une autre chaîne de rapporteurs, avec le même sens que ce long récit
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Похожий длинный хадис передаёт Симак с тем же иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (4723 numaralı) uzun hadisin manası (yine oradaki) isnatla (fakat farklı bir rivayet zinciriyle) Simâk'dan da (rivayet edilmiştir)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی سماک سے اسی لمبی حدیث کا مفہوم مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4725</td></tr><tr><td>Arabic No</td><td>4725</td></tr><tr><td>Reference</td><td>Book 42 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4725 |
+| Arabic No | 4725 |
+| Reference | Book 42 Hadith 130 |

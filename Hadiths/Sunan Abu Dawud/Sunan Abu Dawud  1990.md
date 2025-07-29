@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ عَامِرٍ الأَحْوَلِ، عَنْ بَكْرِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَرَادَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْحَجَّ فَقَالَتِ امْرَأَةٌ لِزَوْجِهَا أَحِجَّنِي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى جَمَلِكَ ‏.‏ فَقَالَ مَا عِنْدِي مَا أُحِجُّكِ عَلَيْهِ ‏.‏ قَالَتْ أَحِجَّنِي عَلَى جَمَلِكَ فُلاَنٍ ‏.‏ قَالَ ذَاكَ حَبِيسٌ فِي سَبِيلِ اللَّهِ عَزَّ وَجَلَّ ‏.‏ فَأَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنَّ امْرَأَتِي تَقْرَأُ عَلَيْكَ السَّلاَمَ وَرَحْمَةَ اللَّهِ وَإِنَّهَا سَأَلَتْنِي الْحَجَّ مَعَكَ قَالَتْ أَحِجَّنِي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَقُلْتُ مَا عِنْدِي مَا أُحِجُّكِ عَلَيْهِ ‏.‏ فَقَالَتْ أَحِجَّنِي عَلَى جَمَلِكَ فُلاَنٍ ‏.‏ فَقُلْتُ ذَاكَ حَبِيسٌ فِي سَبِيلِ اللَّهِ ‏.‏ فَقَالَ ‏"‏ أَمَا إِنَّكَ لَوْ أَحْجَجْتَهَا عَلَيْهِ كَانَ فِي سَبِيلِ اللَّهِ ‏"‏ ‏.‏ قَالَ وَإِنَّهَا أَمَرَتْنِي أَنْ أَسْأَلَكَ مَا يَعْدِلُ حَجَّةً مَعَكَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَقْرِئْهَا السَّلاَمَ وَرَحْمَةَ اللَّهِ وَبَرَكَاتِهِ وَأَخْبِرْهَا أَنَّهَا تَعْدِلُ حَجَّةً مَعِي ‏"‏ ‏.‏ يَعْنِي عُمْرَةً فِي رَمَضَانَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
+
 حدثنا مسدد، حدثنا عبد الوارث، عن عامر الاحول، عن بكر بن عبد الله، عن ابن عباس، قال اراد رسول الله صلى الله عليه وسلم الحج فقالت امراة لزوجها احجني مع رسول الله صلى الله عليه وسلم على جملك . فقال ما عندي ما احجك عليه . قالت احجني على جملك فلان . قال ذاك حبيس في سبيل الله عز وجل . فاتى رسول الله صلى الله عليه وسلم فقال ان امراتي تقرا عليك السلام ورحمة الله وانها سالتني الحج معك قالت احجني مع رسول الله صلى الله عليه وسلم . فقلت ما عندي ما احجك عليه . فقالت احجني على جملك فلان . فقلت ذاك حبيس في سبيل الله . فقال " اما انك لو احججتها عليه كان في سبيل الله " . قال وانها امرتني ان اسالك ما يعدل حجة معك . فقال رسول الله صلى الله عليه وسلم " اقريها السلام ورحمة الله وبركاته واخبرها انها تعدل حجة معي " . يعني عمرة في رمضان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হজের (হজ্জের) ইচ্ছা করলেন। তখন জনৈক মহিলা (উম্মু মা‘কিল) তার স্বামীকে বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে আমার হজে (হজ্জে) গমনের ব্যবস্থা করে দিন। তিনি বললেন, তোমাকে হজে (হজ্জে) পাঠাবার মতো (বাহন) ব্যবস্থা আমার কাছে নেই। তিনি (উম্মু মা‘কিল) বললেন, অমুক উটটি দ্বারা আমাকে হজে (হজ্জে) গমনের ব্যবস্থা করুন। তিনি বললেন, তা তো মহান শক্তিমান আল্লাহর পথে (জিহাদের জন্য) আবদ্ধ। অতঃপর তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললেন, আমার স্ত্রী আপনাকে সালাম জানিয়েছে এবং আপনার উপর আল্লাহর রহমত কামনা করেছে। সে আপনার সাথে হজে (হজ্জে) যেতে আমার কাছে অনুমতি চেয়ে বলেছে, আমাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে হজে (হজ্জে) গমনের ব্যবস্থা করে দিন। আমি বলেছি, আমার কাছে তোমাকে হজে (হজ্জে) পাঠানোর কোনো ব্যবস্থা নেই। সে বললো, অমুক উট দ্বারা আমাকে হজে (হজ্জে) গমনের সুযোগ দিন। আমি বললাম, সেটি তো মহান শক্তিমান, আল্লাহর পথে (জিহাদের জন্য) আবদ্ধ। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেনঃ তুমি তাকে সেটির দ্বারা হজে (হজ্জে) গমনের ব্যবস্থা করে দিলে তাও আল্লাহর পথেই হতো। সে আমাকে আপনার কাছে জিজ্ঞেস করতে বলেছে, আপনার সাথে হজ (হজ্জ) করার সমতুল্য সওয়াব পাওয়ার মতো কোনো কাজ আছে কিনা? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাকে আমার সালাম জানাবে, তার উপর আল্লাহর রহমত ও বরকত বর্ষিত হোক। তাকে এ সংবাদও দিবে, রমযান মাসে ‘উমরা করা আমার সাথে হজ (হজ্জ) করার সমতুল্য।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হজের (হজ্জের) ইচ্ছা করলেন। তখন জনৈক মহিলা (উম্মু মা‘কিল) তার স্বামীকে বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে আমার হজে (হজ্জে) গমনের ব্যবস্থা করে দিন। তিনি বললেন, তোমাকে হজে (হজ্জে) পাঠাবার মতো (বাহন) ব্যবস্থা আমার কাছে নেই। তিনি (উম্মু মা‘কিল) বললেন, অমুক উটটি দ্বারা আমাকে হজে (হজ্জে) গমনের ব্যবস্থা করুন। তিনি বললেন, তা তো মহান শক্তিমান আল্লাহর পথে (জিহাদের জন্য) আবদ্ধ। অতঃপর তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললেন, আমার স্ত্রী আপনাকে সালাম জানিয়েছে এবং আপনার উপর আল্লাহর রহমত কামনা করেছে। সে আপনার সাথে হজে (হজ্জে) যেতে আমার কাছে অনুমতি চেয়ে বলেছে, আমাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে হজে (হজ্জে) গমনের ব্যবস্থা করে দিন। আমি বলেছি, আমার কাছে তোমাকে হজে (হজ্জে) পাঠানোর কোনো ব্যবস্থা নেই। সে বললো, অমুক উট দ্বারা আমাকে হজে (হজ্জে) গমনের সুযোগ দিন। আমি বললাম, সেটি তো মহান শক্তিমান, আল্লাহর পথে (জিহাদের জন্য) আবদ্ধ। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেনঃ তুমি তাকে সেটির দ্বারা হজে (হজ্জে) গমনের ব্যবস্থা করে দিলে তাও আল্লাহর পথেই হতো। সে আমাকে আপনার কাছে জিজ্ঞেস করতে বলেছে, আপনার সাথে হজ (হজ্জ) করার সমতুল্য সওয়াব পাওয়ার মতো কোনো কাজ আছে কিনা? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তাকে আমার সালাম জানাবে, তার উপর আল্লাহর রহমত ও বরকত বর্ষিত হোক। তাকে এ সংবাদও দিবে, রমযান মাসে ‘উমরা করা আমার সাথে হজ (হজ্জ) করার সমতুল্য।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah Ibn Abbas: The Messenger of Allah (ﷺ) intended to perform hajj. A woman said to her husband: Let me perform hajj along with the Messenger of Allah (ﷺ). He said: I have nothing on which I can let you perform hajj. She said: You may perform hajj on your such-and-such camel. He said: That is dedicated to the cause of Allah, the Exalted. He then came to the Messenger of Allah (ﷺ) and said: My wife has conveyed her greetings and the blessings of Allah to you. She has asked about performing hajj along with you. She said (to me): Let me perform hajj with the Messenger of Allah (ﷺ). I said (to her): I have nothing upon which I can let you perform hajj. She said: Let me perform hajj on your such-and-such camel. I said: That is dedicated to the cause of Allah, The Exalted. He replied: If you let her perform hajj on it, that would be in the cause of Allah. He said: She has also requested me to ask you: What is that action which is equivalent to performing hajj with you? The Messenger of Allah (ﷺ) said: Convey my greetings, the mercy of Allah and His blessings to her and tell her that umrah during Ramadan is equivalent to performing hajj along with me
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ avait l’intention d’accomplir le hajj. Une femme a dit à son mari : « Laisse-moi faire le hajj avec le Messager d’Allah ﷺ. » Il a dit : « Je n’ai rien sur quoi je puisse te permettre de faire le hajj. » Elle a dit : « Tu peux me laisser faire le hajj sur ton tel ou tel chameau. » Il a dit : « Celui-là est consacré à la cause d’Allah, le Très-Haut. » Il est alors allé voir le Messager d’Allah ﷺ et a dit : « Ma femme t’adresse ses salutations et les bénédictions d’Allah. Elle m’a demandé de faire le hajj avec toi. Elle m’a dit : “Laisse-moi faire le hajj avec le Messager d’Allah ﷺ.” J’ai répondu : “Je n’ai rien pour te permettre de faire le hajj.” Elle a dit : “Laisse-moi faire le hajj sur ton tel ou tel chameau.” J’ai répondu : “Celui-là est consacré à la cause d’Allah, le Très-Haut.” » Il a répondu : « Si tu la laisses faire le hajj dessus, cela sera dans la cause d’Allah. » Il a dit : « Elle m’a aussi demandé de te demander : Quelle action équivaut à faire le hajj avec toi ? » Le Messager d’Allah ﷺ a dit : « Transmets-lui mes salutations, la miséricorde d’Allah et Ses bénédictions, et dis-lui que la ‘Umrah accomplie pendant Ramadan équivaut à faire le hajj avec moi. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Musaddad\], telah menceritakan kepada Kami \[Abdul Warits\] dari \[Amir Al Ahwal\] dari \[Bakr bin Abdullah\] dari \[Ibnu Abbas\], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam hendak melakukan haji, kemudian seorang wanita berkata kepada suaminya; hajikan saya bersama Rasulullah shallAllahu wa'alaihi wa sallam di atas untamu! Kemudian beliau berkata; aku tidak memiliki sesuatu untuk membawamu berhaji. Ia berkata; hajikan saya di atas untamu Fulani! Ia berkata; itu adalah unta yang tertahan untuk di jalan Allah 'azza wajalla. Kemudian ia datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan berkata; sesungguhnya isteriku mengucapkan salam dan rahmat kepadamu. Dan ia meminta kepadaku untuk melakukan haji bersamamu. Ia berkata; hajikan aku bersama Rasulullah shallAllahu wa'alaihi wa sallam Fulani! Lalu aku mengatakan unta itu adalah unta yang tertahan di jalan Allah. Kemudian beliau berkata: "Sesungguhnya apabila engkau menghajikannya di atas unta tersebut maka hal itu adalah di jalan Allah." Ia berkata; dan ia memintaku untuk bertanya kepada anda, apakah yang sama dengan haji bersama anda? Kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Sampaikan salam dan rahmat serta berkah kepadanya. Umrah pada Bulan Ramadhan adalah sama dengan haji bersamaku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abdul Warits] dari [Amir Al Ahwal] dari [Bakr bin Abdullah] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam hendak melakukan haji, kemudian seorang wanita berkata kepada suaminya; hajikan saya bersama Rasulullah shallAllahu wa'alaihi wa sallam di atas untamu! Kemudian beliau berkata; aku tidak memiliki sesuatu untuk membawamu berhaji. Ia berkata; hajikan saya di atas untamu Fulani! Ia berkata; itu adalah unta yang tertahan untuk di jalan Allah 'azza wajalla. Kemudian ia datang kepada Rasulullah shallAllahu wa'alaihi wa sallam dan berkata; sesungguhnya isteriku mengucapkan salam dan rahmat kepadamu. Dan ia meminta kepadaku untuk melakukan haji bersamamu. Ia berkata; hajikan aku bersama Rasulullah shallAllahu wa'alaihi wa sallam Fulani! Lalu aku mengatakan unta itu adalah unta yang tertahan di jalan Allah. Kemudian beliau berkata: "Sesungguhnya apabila engkau menghajikannya di atas unta tersebut maka hal itu adalah di jalan Allah." Ia berkata; dan ia memintaku untuk bertanya kepada anda, apakah yang sama dengan haji bersama anda? Kemudian Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Sampaikan salam dan rahmat serta berkah kepadanya. Umrah pada Bulan Ramadhan adalah sama dengan haji bersamaku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Посланник Аллаха ﷺ собрался совершить прощальный хадж, одна женщина сказала своему мужу: «Отправь меня в хадж вместе с Посланником Аллаха ﷺ на твоём верблюде». Муж ответил ей: «Но у меня нет верблюда, на котором я мог бы отправить тебя в хадж». Она сказала: «Отправь меня в хадж на таком-то верблюде». Он возразил: «Но он предназначен для использования на пути Всемогущего и Великого Аллаха». Потом этот человек пошёл к Посланнику Аллаха ﷺ и сказал: «Моя жена приветствует тебя миром и призывает на тебя милость Аллаха. Она попросила меня отправить её совершать хадж вместе с тобой. Она сказала: “Отправь меня в хадж вместе с Посланником Аллаха ﷺ”. Я ответил ей: “Но у меня нет верблюда, на котором я мог бы отправить тебя в хадж”. Она сказала: “Отправь меня в хадж на таком-то верблюде”. Я возразил: “Но он предназначен для использования на пути Аллаха”». Посланник Аллаха ﷺ сказал: «Если бы ты отправил её в хадж, это было бы на пути Аллаха». Он сказал: «Она велела мне спросить у тебя, что может сравниться с хаджем, совершённым вместе с тобой?» Посланник Аллаха ﷺ сказал: «Передай ей пожелание мира, милости Аллаха и Его благословения и скажи, что она подобна хаджу, совершённому вместе со мной». Он имел в виду ‘умру, совершённую в рамадан
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs (r.a.)'dan; demiştir ki: Resülullah (s.a.v.) hac yapmak istemişti. (Bunu duyan) bir kadın da kocasına; Beni devenin (üzerine bindirerek) Resûlulah (s.a.v.) ile birlikte hacca götür, dedi. (Kocası da); Bende seni üzerinde hacca götürebileceğim bir deve yoktur, cevabını verdi. Kadın: Falan devene bindirsen olmaz mı? dedi. (Kocası): O (deve) aziz ve celil olan Allah yoluna vakfedilmiştir,. dedi ve Resüluilah (s.a.v.)'e gelip: (Ya Resuluilah), karım Allah'ın selam ve rahmetinin senin üzerine olmasını diliyor ve seninle hacetmek istiyor. Bana: "Beni Resuluilah sallallahu aleyhi ve sellemle hacca götür" dedi. Ben de (kendisine); "Bende seni üzerinde hacca götürebileceğim (bir hayvan) yok" dedim. O da "Beni falan devenin üzerinde hacca götür" dedi. Bunun üzerine; (O deve), Allah yoluna vakfedilmiştir" dedim. (Rasûlullah s.a.v.) şöyle buyurdu: "Şu bir gerçek ki eğer sen onu o deven üzerinde hacca götürseydin bu da Allah yolunda (bir iş) olurdu." diye cevab verdi ve benden hangi amelin seninle hacca gitmeye denk olabileceğini sana sormamı istedi. Resuluilah (s.a.v.)'de: "Allah'ın selâmı, rahmet ve berekâtı onun üzerine olsun. Ona, "Ramazanda yapılan umrenin (benimle birlikte yapılan) hacca denk olduğunu haber ver" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے حج کا ارادہ کیا، ایک عورت نے اپنے خاوند سے کہا: مجھے بھی اپنے اونٹ پر رسول اللہ صلی اللہ علیہ وسلم کے ساتھ حج کرائیں، انہوں نے کہا: میرے پاس تو کوئی ایسی چیز نہیں جس پر میں تمہیں حج کراؤں، وہ کہنے لگی: مجھے اپنے فلاں اونٹ پر حج کراؤ، تو انہوں نے کہا: وہ اونٹ تو اللہ کی راہ میں وقف ہے، پھر وہ رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے، اور کہنے لگے: اللہ کے رسول! میری بیوی آپ کو سلام کہتی ہے، اس نے آپ کے ساتھ حج کرنے کی مجھ سے خواہش کی ہے، اور کہا ہے: مجھے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ حج کرائیں، میں نے اس سے کہا: میرے پاس کوئی ایسی چیز نہیں جس پر میں تمہیں حج کراؤں، اس نے کہا: مجھے اپنے فلاں اونٹ پر حج کرائیں، میں نے اس سے کہا: وہ تو اللہ کی راہ میں وقف ہے، آپ صلی اللہ علیہ وسلم نے فرمایا: سنو اگر تم اسے اس اونٹ پر حج کرا دیتے تو وہ بھی اللہ کی راہ میں ہوتا ۔ اس نے کہا: اس نے مجھے یہ بھی آپ سے دریافت کرنے کے لیے کہا ہے کہ کون سی چیز آپ صلی اللہ علیہ وسلم کے ساتھ حج کرنے کے برابر ہے؟ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اسے سلام کہو اور بتاؤ کہ رمضان میں عمرہ کر لینا میرے ساتھ حج کر لینے کے برابر ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1990</td></tr><tr><td>Arabic No</td><td>1990</td></tr><tr><td>Reference</td><td>Book 11 Hadith 270</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1990 |
+| Arabic No | 1990 |
+| Reference | Book 11 Hadith 270 |

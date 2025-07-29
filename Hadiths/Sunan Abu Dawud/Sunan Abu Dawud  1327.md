@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ الْوَرْكَانِيُّ، حَدَّثَنَا ابْنُ أَبِي الزِّنَادِ، عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، مَوْلَى الْمُطَّلِبِ عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ‏:‏ كَانَتْ قِرَاءَةُ النَّبِيِّ صلى الله عليه وسلم عَلَى قَدْرِ مَا يَسْمَعُهُ مَنْ فِي الْحُجْرَةِ وَهُوَ فِي الْبَيْتِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
+
 حدثنا محمد بن جعفر الوركاني، حدثنا ابن ابي الزناد، عن عمرو بن ابي عمرو، مولى المطلب عن عكرمة، عن ابن عباس، قال : كانت قراءة النبي صلى الله عليه وسلم على قدر ما يسمعه من في الحجرة وهو في البيت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, ঘরে সালাত আদায়কালে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ক্বিরাআত এতো স্পষ্ট হতো যে, হুজরাহতে অবস্থানকারীরা তা শুনতে পেতো।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, ঘরে সালাত আদায়কালে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ক্বিরাআত এতো স্পষ্ট হতো যে, হুজরাহতে অবস্থানকারীরা তা শুনতে পেতো।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Prophet's (ﷺ) recitation was loud enough for one who was in the inner chamber to hear it when he was in the house
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : La récitation du Prophète ﷺ était assez forte pour que celui qui se trouvait dans la pièce intérieure puisse l’entendre lorsqu’il était dans la maison
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Ja'far Al Warakani\] telah menceritakan kepada kami \[Ibnu Abu Az Zinad\] dari \['Amru bin Abu 'Amru\] bekas budak Al Mutthalib, dari \['Ikrimah\] dari \[Ibnu Abbas\] dia berkata; "Bacaan Nabi shallallahu 'alaihi wasallam sekedar dapat di dengar oleh orang yang berada di kamar, sementara beliau berada di rumah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Ja'far Al Warakani] telah menceritakan kepada kami [Ibnu Abu Az Zinad] dari ['Amru bin Abu 'Amru] bekas budak Al Mutthalib, dari ['Ikrimah] dari [Ibnu Abbas] dia berkata; "Bacaan Nabi shallallahu 'alaihi wasallam sekedar dapat di dengar oleh orang yang berada di kamar, sementara beliau berada di rumah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что чтение (аятов во время ночной молитвы) Пророка ﷺ было таким, что, если он находился в доме, его могли слышать в комнате
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs (r.a.)'dan; demiştir ki: Nebi (s.a.v.)'in (gece namazlarında) kıraati,kendisi oda(sın)da (namaz kılmakta) iken salonda bulunan bir kimsenin işitebileceği kadar (sesli) idi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں نبی اکرم صلی اللہ علیہ وسلم کی قرآت اتنی اونچی آواز سے ہوتی کہ آنگن میں رہنے والے کو سنائی دیتی اور حال یہ ہوتا کہ آپ اپنے گھر میں ( نماز پڑھ رہے ) ہوتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1327</td></tr><tr><td>Arabic No</td><td>1327</td></tr><tr><td>Reference</td><td>Book 5 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1327 |
+| Arabic No | 1327 |
+| Reference | Book 5 Hadith 78 |

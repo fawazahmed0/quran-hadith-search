@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ أَبِي سَلَمَةَ، قَالَ سَأَلْتُ عَائِشَةَ - رضى الله عنها - عَنْ غُسْلِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْجَنَابَةِ فَقَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يُفْرِغُ عَلَى يَدَيْهِ ثَلاَثًا ثُمَّ يَغْسِلُ فَرْجَهُ ثُمَّ يَغْسِلُ يَدَيْهِ ثُمَّ يُمَضْمِضُ وَيَسْتَنْشِقُ ثُمَّ يُفْرِغُ عَلَى رَأْسِهِ ثَلاَثًا ثُمَّ يُفِيضُ عَلَى سَائِرِ جَسَدِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |
+
 اخبرنا احمد بن سليمان، قال حدثنا يزيد، قال حدثنا شعبة، عن عطاء بن السايب، عن ابي سلمة، قال سالت عايشة - رضى الله عنها - عن غسل رسول الله صلى الله عليه وسلم من الجنابة فقالت كان رسول الله صلى الله عليه وسلم يفرغ على يديه ثلاثا ثم يغسل فرجه ثم يغسل يديه ثم يمضمض ويستنشق ثم يفرغ على راسه ثلاثا ثم يفيض على ساير جسده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমদ ইবনু সুলাইমান (রহঃ) ... আবূ সালমা (রাঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি আয়িশা (রাঃ) কে জানাবাতের গোসল সম্পর্কে জিজ্ঞাসা করছিলাম। তিনি বললেনঃ রাসুলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তিনবার হাতে পানি ঢালতেন, তারপর লজ্জাস্থান ধুতেন। তারপর উভয় হাত ধুতেন, পরে কুলি করতেন এবং নাকে পানি দিতেন। তারপর মাথার উপর তিনবার পানি ঢালতেন। এরপর তার সমস্ত শরীরের উপর পানি ঢালতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Salamah said:"I asked 'Aishah about how the Messenger of Allah (ﷺ) performed Ghusl from Janabah. She said: 'The Messenger of Allah (ﷺ) used to pour water onto his hands three times, then he would wash his private part, then he would wash his hands, then rinse his mouth and nose, then pour water onto his head three times, then pour water over the rest of his body
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |
+
+## French
+
+Rapporté par Abu Salamah : J'ai demandé à 'Aïcha comment le Messager d'Allah (ﷺ) faisait le Ghusl après une souillure majeure. Elle a dit : "Le Messager d'Allah (ﷺ) versait de l'eau sur ses mains trois fois, puis il lavait sa partie intime, puis il lavait ses mains, puis se rinçait la bouche et le nez, puis versait de l'eau sur sa tête trois fois, puis versait de l'eau sur le reste de son corps
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin Sulaiman\] dia berkata; telah menceritakan kepada kami \[Yazid\] berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Atha' bin Sa'ib\] dari \[Abu Salamah\] berkata; "Aku bertanya kepada Aisyah Radliyallahu'anha tentang mandi junub Rasulullah shallallahu 'alaihi wasallam? \[Aisyah\] lalu menjawab, " Beliau shallallahu 'alaihi wasallam menyiramkan air ke kedua tangannya tiga kali, kemudian mencuci kemaluannya, lalu mencuci kedua tangannya, berkumur, memasukkan air ke hidung, menyiramkan air ke kepalanya tiga kali, kemudian menyiramkan air ke seluruh tubuhnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin Sulaiman] dia berkata; telah menceritakan kepada kami [Yazid] berkata; telah menceritakan kepada kami [Syu'bah] dari [Atha' bin Sa'ib] dari [Abu Salamah] berkata; "Aku bertanya kepada Aisyah Radliyallahu'anha tentang mandi junub Rasulullah shallallahu 'alaihi wasallam? [Aisyah] lalu menjawab, " Beliau shallallahu 'alaihi wasallam menyiramkan air ke kedua tangannya tiga kali, kemudian mencuci kemaluannya, lalu mencuci kedua tangannya, berkumur, memasukkan air ke hidung, menyiramkan air ke kepalanya tiga kali, kemudian menyiramkan air ke seluruh tubuhnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Seleme (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Âişe (radıyallahü anha)’ya Rasûlüllah (sallallahü aleyhi ve sellem)’in cünüplükten dolayı gusletmesi nasıldı diye sordum şöyle dedi: sallallahü aleyhi ve sellem), gusletmezden önce su kabından ellerine üç sefer su dökerdi. Avret yerini temizledikten sonra tekrar ellerini yıkardı. Sonra ağız ve burnuna su verir, sonra başına üç sefer su döker, sonra da tüm vücudunu yıkardı.) (Ebû Dâvûd, Tahara: 98; Müslim, Hayz:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسلمہ بن عبدالرحمٰن بن عوف زہری مدنی کہتے ہیں کہ میں نے ام المؤمنین عائشہ رضی اللہ عنہا سے رسول اللہ صلی اللہ علیہ وسلم کے غسل جنابت کے متعلق پوچھا؟ تو انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم اپنے دونوں ہاتھوں پر تین دفعہ پانی ڈالتے، پھر اپنی شرمگاہ دھوتے، پھر اپنے دونوں ہاتھ دھوتے، پھر کلی کرتے اور ناک میں پانی ڈالتے، پھر اپنے سر پر تین بار پانی ڈالتے، پھر اپنے پورے جسم پر پانی بہاتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>244</td></tr><tr><td>Arabic No</td><td>244</td></tr><tr><td>Reference</td><td>Book 1 Hadith 245</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 244 |
+| Arabic No | 244 |
+| Reference | Book 1 Hadith 245 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ قَالَ مُحَمَّدُ بْنُ الْحَسَنِ الْمَخْزُومِيُّ ‏ "‏ مَا لَمْ تَنَلْهُ أَخْفَافُ الإِبِلِ ‏"‏ يَعْنِي أَنَّ الإِبِلَ تَأْكُلُ مُنْتَهَى رُءُوسِهَا وَيُحْمَى مَا فَوْقَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
+
 حدثنا هارون بن عبد الله، قال قال محمد بن الحسن المخزومي " ما لم تنله اخفاف الابل " يعني ان الابل تاكل منتهى رءوسها ويحمى ما فوقه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনুল হাসান আল-মাখযুমী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, উটের পদচারণা হবে না’ অর্থাৎ উট গাছের উপরিভাগ খেয়ে থাকে। সুতরাং তা রক্ষার জন্য উপরেই বেড়া দিতে হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammad bin Al hasan Al Mukhzumi said “The sentence “that which is not reached by the Camel hoofs” means that the Camels eat (the arak trees) within the reach of their heads. So the land (where the arak trees are growing) may be protected beyond such a region
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
+
+## French
+
+Muhammad bin Al Hasan Al Mukhzumi a dit : « La phrase “ce qui n’est pas atteint par les sabots des chameaux” signifie que les chameaux mangent les arbres d’arak à la portée de leur tête. Ainsi, la terre où poussent ces arbres peut être protégée au-delà de cette zone. »
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Мухаммад ибн аль-Хасан аль-Махзуми сказал, объясняя слова «То, до чего не достают ноги верблюда»: «То есть верблюды могут есть то, до чего они достанут своими головами, а то, что выше, считается заповедным»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammed b. el-Hasen el-Mahzumî (bir önceki 3064. hadisi şöyle) rivayet etti. (Ben sana) deve ayaklarının erişemediği yerleri (ikta yoluyla verebilirim. Hz. Nebi bu sözüyle) demek istiyor ki: Develer başlarının erişebildiği yerler(dek)i (otları) yerler. Başlarının yukarısı mahfuz kalır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہارون بن عبداللہ کہتے ہیں کہ محمد بن حسن مخزومی نے کہا: «ما لم تنله أخفاف الإبل» کا مطلب یہ ہے کہ اونٹ کا سر جہاں تک پہنچے گا وہاں تک وہ کھائے ہی کھائے گا اس سے اوپر کا حصہ بچایا جا سکتا ہے ( اس لیے ایسی جگہ گھیرو جہاں اونٹ جاتے ہی نہ ہوں ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Very Daif</td><td>Al-Albani</td></tr><tr><td>Very Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3065</td></tr><tr><td>Arabic No</td><td>3065</td></tr><tr><td>Reference</td><td>Book 20 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Very Daif | Al-Albani |
+| Very Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3065 |
+| Arabic No | 3065 |
+| Reference | Book 20 Hadith 138 |

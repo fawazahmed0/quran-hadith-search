@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، بِهَذَا الْحَدِيثِ قَالَ ابْنُ بَشَّارٍ بِنَحْوِ حَدِيثِ يَحْيَى بْنِ سَعِيدٍ إِلاَّ أَنَّهُ قَالَ ‏:‏ وَيُسَلِّمُ تَسْلِيمَةً يُسْمِعُنَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
+
 حدثنا محمد بن بشار، حدثنا ابن ابي عدي، عن سعيد، بهذا الحديث قال ابن بشار بنحو حديث يحيى بن سعيد الا انه قال : ويسلم تسليمة يسمعنا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
 
 ## Bengali
 
+। সাঈদ (রহঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। ইবনু বাশশারও ইয়াহইয়া ইবনু সাঈদের অনুরূপ বলেছেন। তিনি আরো বলেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাদেরকে শুনিয়ে সালাম ফিরাতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাঈদ (রহঃ) হতে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। ইবনু বাশশারও ইয়াহইয়া ইবনু সাঈদের অনুরূপ বলেছেন। তিনি আরো বলেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) আমাদেরকে শুনিয়ে সালাম ফিরাতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This tradition has also been transmitted by Sa'id through a different chain of narrators to the same effect. Ibn Bashshar narrated the tradition like that of Yahya b. Sa'id. His version has:He uttered the salutation in a way that we could hear it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
+
+## French
+
+Cette tradition a aussi été transmise par Sa‘id selon une autre chaîne de transmetteurs avec le même sens. Ibn Bashshar a rapporté la tradition comme celle de Yahya b. Sa‘id. Sa version dit : « Il saluait de manière à ce que nous puissions l’entendre. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн Башшар передаёт похожий хадис от Са‘ида, подобный версии Яхьи ибн Са‘ида, только он сказал: «И он произносил слова таслима громко, чтобы мы слышали»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (bir önceki 1344.) hadisi Muhammed b. Beşşâr da İbn Ebî Adiyy vasıtasıyla Said (b. Ebi Arûbe)'den (rivayet etmiştir). İbn Beşşâr da Yahya b. Said hadisinin aynısını (rivayet etti). Ancak (farklı olarak) "bize işittirecek derecede selâm verirdi" ibaresini nakletmedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی سعید نے یہی حدیث روایت کی ہے ابن بشار نے یحییٰ بن سعید کی طرح حدیث نقل کی مگر اس میں «ويسلم تسليمة يسمعنا» کے الفاظ ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1345</td></tr><tr><td>Arabic No</td><td>1345</td></tr><tr><td>Reference</td><td>Book 5 Hadith 96</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1345 |
+| Arabic No | 1345 |
+| Reference | Book 5 Hadith 96 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زَائِدَةُ، فِي حَدِيثِ هِشَامٍ عَنْ مُحَمَّدٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ يَبُولَنَّ أَحَدُكُمْ فِي الْمَاءِ الدَّائِمِ ثُمَّ يَغْتَسِلُ مِنْهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
+
 حدثنا احمد بن يونس، حدثنا زايدة، في حديث هشام عن محمد، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " لا يبولن احدكم في الماء الدايم ثم يغتسل منه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ যেন বদ্ধ পানিতে পেশাব না করে। অতঃপর সেই তো আবার সেখানে গোসল করে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, তোমাদের কেউ যেন বদ্ধ পানিতে পেশাব না করে। অতঃপর সেই তো আবার সেখানে গোসল করে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurairah :The Prophet ( sal Allaahu alayhi wa sallam ) said : None amongst you should urinate in stagnant water , and then wash in it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Aucun de vous ne doit uriner dans de l’eau stagnante, puis s’y laver. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\] telah menceritakan kepada kami \[Za'idah\] dalam hadits \[Hisyam\] dari \[Muhammad\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah salah seorang dari kalian kencing di air yang menggenang kemudian mandi darinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Za'idah] dalam hadits [Hisyam] dari [Muhammad] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Janganlah salah seorang dari kalian kencing di air yang menggenang kemudian mandi darinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, что Пророк ﷺ сказал: «Пусть никто из вас не мочится в стоячую воду, в которой затем будет купаться»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.) Resulullah (sallallahu aleyhi ve sellem)'in şöyle buyurduğunu haber verdi. "Sizden biriniz sakın durgun su'ya abdest bozmasın, (ola ki) biraz sonra ondan ğusleder” Diğer tahric: Buhari, vudu'; Müslim, tahare; Tirmizî, tahare; Ibn Mace, tahare; Nesaî, tahare; ğusl; Darimî, vudu; Ahmed b.Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: تم میں سے کوئی شخص ٹھہرے ہوئے پانی میں ہرگز پیشاب نہ کرے پھر اس سے غسل کرے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (282)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>69</td></tr><tr><td>Arabic No</td><td>69</td></tr><tr><td>Reference</td><td>Book 1 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (282) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 69 |
+| Arabic No | 69 |
+| Reference | Book 1 Hadith 69 |

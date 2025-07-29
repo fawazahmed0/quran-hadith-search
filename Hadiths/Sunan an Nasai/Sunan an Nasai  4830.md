@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ، وَمُحَمَّدُ بْنُ مُصَفًّى، قَالاَ حَدَّثَنَا الْوَلِيدُ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ تَطَبَّبَ وَلَمْ يُعْلَمْ مِنْهُ طِبٌّ قَبْلَ ذَلِكَ فَهُوَ ضَامِنٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |
+
 اخبرني عمرو بن عثمان، ومحمد بن مصفى، قالا حدثنا الوليد، عن ابن جريج، عن عمرو بن شعيب، عن ابيه، عن جده، قال قال رسول الله صلى الله عليه وسلم " من تطبب ولم يعلم منه طب قبل ذلك فهو ضامن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন উসমান এবং মুহাম্মদ ইবন মুসাফফা (রহঃ) ... আমর ইবন শুআয়ব (রহঃ) তার পিতার মাধ্যমে তাঁর দাদা থেকে বর্ণনা করেন। তিনি বলেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি লোকের চিকিৎসা করে, অথচ সে চিকৎসক হিসেবে পরিচিত নয়, সে (রোগীর জন্য) দায়ী থাকবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from'Amrbin shu'aib, from his father that his grandfather said:"the Messenger of Allah said: 'Whoever practices medicine when he is not known for that, he is liable.(Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |
+
+## French
+
+Rapporté par 'Amr bin Shu'aib, d'après son père, que son grand-père a dit : Le Messager d'Allah a dit : "Celui qui pratique la médecine sans être reconnu pour cela est responsable." (Da'if)
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |
 
 ## Indonesian
 
+Telah mengabarkan kepadaku \['Amru bin Utsman\] dan \[Muhammad bin Mushaffa\], mereka berkata; telah menceritakan kepada kami \[Al Walid\] dari \[Ibnu Juraij\] dari \['Amru bin Syu'aib\] dari \[ayahnya\] dari \[kakekknya\], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mengobati dan dia tidak mengetahui ilmunya sebelum itu maka dia yang bertanggung jawab." Telah menceritakan kepadaku \[Mahmud bin Khalid\] telah menceritakan kepadaku \[Al Walid\] dari \[Ibn Juraij\] dari \[Amru bin Syu'aib\] dari \[kakekknya\] sama seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepadaku ['Amru bin Utsman] dan [Muhammad bin Mushaffa], mereka berkata; telah menceritakan kepada kami [Al Walid] dari [Ibnu Juraij] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakekknya], dia berkata; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barang siapa yang mengobati dan dia tidak mengetahui ilmunya sebelum itu maka dia yang bertanggung jawab." Telah menceritakan kepadaku [Mahmud bin Khalid] telah menceritakan kepadaku [Al Walid] dari [Ibn Juraij] dari [Amru bin Syu'aib] dari [kakekknya] sama seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4830</td></tr><tr><td>Arabic No</td><td>4830</td></tr><tr><td>Reference</td><td>Book 45 Hadith 125</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4830 |
+| Arabic No | 4830 |
+| Reference | Book 45 Hadith 125 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ وَقَالَ ابْنُ عَبَّاسٍ سَمِعْتُ أَبِي يَقُولُ، فِي الْجَاهِلِيَّةِ اسْقِنَا كَأْسًا دِهَاقًا‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قال وقال ابن عباس سمعت ابي يقول، في الجاهلية اسقنا كاسا دهاقا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
 ## English
 
+Ibn 'Abbas said:"In the pre-Islamic period of ignorance I heard my father saying, "Provide us with Kasan Dihaqa
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ibn 'Abbas said:"In the pre-lslamic period of ignorance I heard my father saying, "Provide us with Kasan Dihaqa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
+
+## French
+
+Rapporté par Ibn 'Abbas : À l’époque préislamique, j’ai entendu mon père dire : « Servez-nous du Kasan Dihaqa. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Он также сказал, что Ибн ‘Аббас сказал: «В доисламский период невежества я слышал, как мой отец говорил: “Напои нас из полных чаш”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 மேலும் இப்னு அப்பாஸ் (ரலி) அவர்கள், “என் தந்தை (அப்பாஸ் (ரலி) அவர்கள் இஸ்லாத்தில் இணைவதற்கு முன் அவர்களது) அறியாமைக் காலத்தில் “எங்களுக்குத் தொடர்ந்து நிரம்பும் கிண்ணத்(திலிருப்ப)தை அருந்தச்செய்' என்று (தம் பணியாளரிடம்) கூற நான் கேட்டேன்” எனச் சொன்னார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ve yine İkrime dedi ki: İbn Abbâs: Ben babam Abbâs'tan işittim, Câhiliyet devrinde hizmetçisine: "Bizi arka arkaya dolu kadehle sula" diyordu, demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عکرمہ نے بیان کیا اور عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ میں نے اپنے والد سے سنا وہ کہتے تھے کہ زمانہ جاہلیت میں ( یہ لفظ استعمال کرتے تھے ) «اسقنا كأسا دهاقا‏.» یعنی ہم کو بھرپور جام شراب پلاتے رہو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3840</td></tr><tr><td>Arabic No</td><td>3840</td></tr><tr><td>Reference</td><td>Book 63 Hadith 65</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3840 |
+| Arabic No | 3840 |
+| Reference | Book 63 Hadith 65 |

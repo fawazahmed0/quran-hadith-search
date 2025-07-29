@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ دَاوُدَ بْنِ سُفْيَانَ، حَدَّثَنِي يَحْيَى بْنُ حَسَّانَ، أَخْبَرَنَا سُلَيْمَانُ بْنُ مُوسَى أَبُو دَاوُدَ، حَدَّثَنَا جَعْفَرُ بْنُ سَعْدِ بْنِ سَمُرَةَ بْنِ جُنْدُبٍ، حَدَّثَنِي خُبَيْبُ بْنُ سُلَيْمَانَ، عَنْ أَبِيهِ، سُلَيْمَانَ بْنِ سَمُرَةَ عَنْ سَمُرَةَ بْنِ جُنْدُبٍ، أَمَّا بَعْدُ فَإِنَّ النَّبِيَّ صلى الله عليه وسلم سَمَّى خَيْلَنَا خَيْلَ اللَّهِ إِذَا فَزِعْنَا وَكَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَأْمُرُنَا إِذَا فَزِعْنَا بِالْجَمَاعَةِ وَالصَّبْرِ وَالسَّكِينَةِ وَإِذَا قَاتَلْنَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
+
 حدثنا محمد بن داود بن سفيان، حدثني يحيى بن حسان، اخبرنا سليمان بن موسى ابو داود، حدثنا جعفر بن سعد بن سمرة بن جندب، حدثني خبيب بن سليمان، عن ابيه، سليمان بن سمرة عن سمرة بن جندب، اما بعد فان النبي صلى الله عليه وسلم سمى خيلنا خيل الله اذا فزعنا وكان رسول الله صلى الله عليه وسلم يامرنا اذا فزعنا بالجماعة والصبر والسكينة واذا قاتلنا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। তিনি আল্লাহর প্রশংসা ও গুণগান বর্ণনার পর বললেন, ‘আমরা যখন ভীত হয়ে পড়লে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের ঘোড়াকে আল্লাহর ঘোড়া নামে ডাকতেন। আর ‘আমরা ভীত হয়ে পড়লে বা যুদ্ধে লিপ্ত হলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে সংঘবদ্ধ থাকতে, ধৈর্য ধরতে এবং ধীরস্থির অবলম্বনের আদেশ দিতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Samurah ibn Jundub: The Prophet (ﷺ) named our cavalry "the Cavalry of Allah," when we were struck with panic, and when panic overtook us, the Messenger of Allah (ﷺ) commanded us to be united, to have patience and perseverance; and to be so when we fought
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
+
+## French
+
+Rapporté par Samurah ibn Jundub : Le Prophète ﷺ a appelé notre cavalerie « la Cavalerie d’Allah » quand nous avons été pris de panique. Et lorsque la panique nous gagnait, le Messager d’Allah ﷺ nous ordonnait de rester unis, patients et persévérants, et de l’être aussi pendant le combat
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Daud bin Sufyan\], telah menceritakan kepadaku \[Yahya bin Hassan\], telah mengabarkan kepada kami \[Sulaiman bin Musa Abu Daud\], telah menceritakan kepada kami \[Ja'far bin Sa'd bin Samurah bin Jundab\], telah menceritakan kepadaku \[Khubaib bin Sulaiman\], dari \[ayahnya yaitu Sulaiman bin Samurah\] dari \[Samurah bin Jundub\], adapun selanjutnya, sesungguhnya Nabi shallallahu 'alaihi wasallam telah menamakan kuda kami sebagai kuda Allah apabila kami merasa takut, dan Rasulullah shallallahu wa'alaihi wa sallam memerintahkan kami apabila merasa takut agar berjama'ah, bersabar, dan tenang dan apabila kami berperang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Daud bin Sufyan], telah menceritakan kepadaku [Yahya bin Hassan], telah mengabarkan kepada kami [Sulaiman bin Musa Abu Daud], telah menceritakan kepada kami [Ja'far bin Sa'd bin Samurah bin Jundab], telah menceritakan kepadaku [Khubaib bin Sulaiman], dari [ayahnya yaitu Sulaiman bin Samurah] dari [Samurah bin Jundub], adapun selanjutnya, sesungguhnya Nabi shallallahu 'alaihi wasallam telah menamakan kuda kami sebagai kuda Allah apabila kami merasa takut, dan Rasulullah shallallahu wa'alaihi wa sallam memerintahkan kami apabila merasa takut agar berjama'ah, bersabar, dan tenang dan apabila kami berperang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Semûre b. Cündüb (r.a.)'den, şöyle dediği rivayet edilmiştir; "Gelelim sadede; Biz (düşman tehlikesinden) korktuğumuzda Rasûlullah (s.a.v.) süvarilerimizi, "Ey Allah'ın süvarileri," diyerek çağır(ır)dı. Ve korkuya kapıldığımız zaman bizden toplu halde sabırlı ve sakin olmamızı isterdi. Harbe çıktığımız zaman da (aynı şeyleri emrederdi)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سمرہ بن جندب رضی اللہ عنہ سے روایت ہے وہ حمد و صلاۃ کے بعد کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم ہمارے سواروں کو جب ہمیں دشمن سے گھبراہٹ ہوتی ( تسلی دیتے ہوئے ) «خیل اللہ» کہتے، اور ہمیں جماعت کو لازم پکڑنے اور صبر و سکون سے رہنے کا حکم دیتے، اور جب ہم قتال کر رہے ہوتے ( تو بھی انہیں کلمات کے ذریعہ ہمارا حوصلہ بڑھاتے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2560</td></tr><tr><td>Arabic No</td><td>2560</td></tr><tr><td>Reference</td><td>Book 15 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2560 |
+| Arabic No | 2560 |
+| Reference | Book 15 Hadith 84 |

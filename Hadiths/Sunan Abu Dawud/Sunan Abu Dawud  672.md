@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ بَشَّارٍ، حَدَّثَنَا أَبُو عَاصِمٍ، حَدَّثَنَا جَعْفَرُ بْنُ يَحْيَى بْنِ ثَوْبَانَ، قَالَ أَخْبَرَنِي عَمِّي، عُمَارَةُ بْنُ ثَوْبَانَ عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ خِيَارُكُمْ أَلْيَنُكُمْ مَنَاكِبَ فِي الصَّلاَةِ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ جَعْفَرُ بْنُ يَحْيَى مِنْ أَهْلِ مَكَّةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
+
 حدثنا ابن بشار، حدثنا ابو عاصم، حدثنا جعفر بن يحيى بن ثوبان، قال اخبرني عمي، عمارة بن ثوبان عن عطاء، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم " خياركم الينكم مناكب في الصلاة " . قال ابو داود جعفر بن يحيى من اهل مكة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মধ্যকার উৎকৃষ্ট হচ্ছে ঐসব লোক, যারা সালাতের মধ্যে নিজেদের কাঁধ বেশি নরম করে দেয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের মধ্যকার উৎকৃষ্ট হচ্ছে ঐসব লোক, যারা সালাতের মধ্যে নিজেদের কাঁধ বেশি নরম করে দেয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: The best of you are those whose shoulders are soft in prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Les meilleurs d’entre vous sont ceux dont les épaules sont souples pendant la prière. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Basysyar\] telah menceritakan kepada kami \[Abu 'Ashim\] telah menceritakan kepada kami \[Ja'far bin Yahya bin Tsauban\] dia berkata; Telah mengabarkan kepadaku \[Umarah bin Tsauban\] dari \['Atha'\] dari \[Ibnu Abbas\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik baik kalian adalah orang yang paling berlaku lunak menyentuh bahu bahu temannya (ketika meratakan shaf shalat). Abu Dawud berkata; Ja'far bin Yahya termasuk penduduk Makkah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Basysyar] telah menceritakan kepada kami [Abu 'Ashim] telah menceritakan kepada kami [Ja'far bin Yahya bin Tsauban] dia berkata; Telah mengabarkan kepadaku [Umarah bin Tsauban] dari ['Atha'] dari [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebaik baik kalian adalah orang yang paling berlaku lunak menyentuh bahu bahu temannya (ketika meratakan shaf shalat). Abu Dawud berkata; Ja'far bin Yahya termasuk penduduk Makkah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Аббас сказал: «Посланник Аллаха ﷺ сказал: “К лучшим из вас относятся те, у которых в молитве мягче плечи»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.a.)'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem) şöyle buyurdu: "Sizin en hayırlınız, namazda omuzu en yumuşak olanınızdır" Ebu Davud dedi ki: Ca'fer b. Yahya, Mekkelidir. Diğer tahric: Beyhakî, es-Sünenu'l-kübra, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم میں بہترین لوگ وہ ہیں جو نماز میں اپنے مونڈھوں کو نرم رکھنے والے ہیں ۱؎ ۔ ابوداؤد کہتے ہیں: جعفر بن یحییٰ کا تعلق اہل مکہ سے ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>672</td></tr><tr><td>Arabic No</td><td>672</td></tr><tr><td>Reference</td><td>Book 2 Hadith 282</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 672 |
+| Arabic No | 672 |
+| Reference | Book 2 Hadith 282 |

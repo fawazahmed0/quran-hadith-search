@@ -18,78 +18,90 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ ابْنُ شِهَابٍ فَأَخْبَرَنِي مَنْ، سَمِعَ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ فَكُنْتُ فِيمَنْ رَجَمَهُ فَرَجَمْنَاهُ بِالْمُصَلَّى فَلَمَّا أَذْلَقَتْهُ الْحِجَارَةُ هَرَبَ فَأَدْرَكْنَاهُ بِالْحَرَّةِ فَرَجَمْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قال ابن شهاب فاخبرني من، سمع جابر بن عبد الله، يقول فكنت فيمن رجمه فرجمناه بالمصلى فلما اذلقته الحجارة هرب فادركناه بالحرة فرجمناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn Shihab (one of the narrators) said:One who had heard Jabir b. 'Abdullah saying this informed me thus: I was one of those who stoned him. We stoned him at the place of prayer (either that of 'Id or a funeral). When the stones hurt him, he ran away. We caught him in the Harra and stoned him (to death)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## French
 
+Rapporté par Ibn Shihab : Quelqu’un qui avait entendu Jabir ibn Abdullah dire cela m’a informé ainsi : « J’étais parmi ceux qui l’ont lapidé. Nous l’avons lapidé à l’endroit de la prière (soit celle de l’Aïd, soit d’un enterrement). Quand les pierres l’ont blessé, il s’est enfui. Nous l’avons rattrapé dans la Harra et nous l’avons lapidé (jusqu’à la mort). »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bu hadîsi Leys dahi Abdurrahmân b. Hâlid b. Müsâfir'den, o da İbn Şihâb'dan bu isnadla bunun gibi rivâyet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمان بن خالد بن مسافر نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4421</td></tr><tr><td>Arabic No</td><td>1691.04</td></tr><tr><td>Reference</td><td>Book 29 Hadith 24</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4421 |
+| Arabic No | 1691.04 |
+| Reference | Book 29 Hadith 24 |

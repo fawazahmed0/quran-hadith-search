@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، حَدَّثَنَا جَعْفَرٌ، حَدَّثَنَا أَبِي، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، قَالَ أَهَلَّ رَسُولُ اللَّهِ صلى الله عليه وسلم فَذَكَرَ التَّلْبِيَةَ مِثْلَ حَدِيثِ ابْنِ عُمَرَ قَالَ وَالنَّاسُ يَزِيدُونَ ‏ "‏ ذَا الْمَعَارِجِ ‏"‏ ‏.‏ وَنَحْوَهُ مِنَ الْكَلاَمِ وَالنَّبِيُّ صلى الله عليه وسلم يَسْمَعُ فَلاَ يَقُولُ لَهُمْ شَيْئًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
+
 حدثنا احمد بن حنبل، حدثنا يحيى بن سعيد، حدثنا جعفر، حدثنا ابي، عن جابر بن عبد الله، قال اهل رسول الله صلى الله عليه وسلم فذكر التلبية مثل حديث ابن عمر قال والناس يزيدون " ذا المعارج " . ونحوه من الكلام والنبي صلى الله عليه وسلم يسمع فلا يقول لهم شييا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির ইবনু আব্দুল্লাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইহরাম বাঁধলেন। অতঃপর বর্ণনাকারী ইবনু উমার বর্ণিত হাদীসের তালবিয়ার উল্লেখ করেন। বর্ণনাকারী বলেন, লোকেরা তালবিয়াতে ‘যাল-মা‘আরিজ’ ইত্যাদি বাক্য বলতো। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা শুনতেন, অথচ তিনি তাদেরকে কিছুই বলতেন না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) raised his voice in talbiyah; he then mentioned the wordings of talbiyah like the tradition narrated by Ibn Umar. The people used to add the words dhal-ma'arij (the Possessor of ladders) and similar other words (to talbiyah) while the Prophet (ﷺ) heard them utter these words, but he did not say anything to them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Le Messager d’Allah ﷺ a élevé la voix en prononçant la talbiyah, puis il a mentionné les paroles de la talbiyah comme dans la tradition rapportée par Ibn ‘Umar. Les gens ajoutaient les mots « dhal-ma‘arij » (le Possesseur des degrés) et d’autres mots semblables à la talbiyah, alors que le Prophète ﷺ les entendait, mais il ne leur disait rien
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ стал произносить тальбию, упоминает такие же слова тальбийи, как в хадисе Ибн ‘Умара, и говорит, что люди добавляли к этим словам «Владыка ступеней» и тому подобные слова и Пророк ﷺ слышал это, но ничего не говорил им
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir b. Abdillâh'dan; demiştir ki: Resûlullah (s.a.v.) telbiye getirerek sesini yükseltti. (Hz. Cabir, Resûlullah sallallahu aleyhi vesellem'in okuduğu) telbiyeyi İbn Ömer hadisi(nde (1812.) anlatıldığı) gibi anlattı. Dedi ki: Halk, "Yüksek dereceler sahibi (Allahım)" gibi kelimeler ilâve ediyorlardı. Nebi (s.a.v.) de (söylenenleri) işittiği halde, ses çıkarmıyordu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے احرام باندھا، پھر انہوں نے تلبیہ کا اسی طرح ذکر کیا جیسے ابن عمر کی حدیث میں ہے اور کہا: لوگ ( اپنی طرف سے اللہ کی تعریف میں ) «ذا المعارج» اور اس جیسے کلمات بڑھاتے اور نبی اکرم صلی اللہ علیہ وسلم سنتے تھے لیکن آپ ان سے کچھ نہیں فرماتے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1813</td></tr><tr><td>Arabic No</td><td>1813</td></tr><tr><td>Reference</td><td>Book 11 Hadith 93</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1813 |
+| Arabic No | 1813 |
+| Reference | Book 11 Hadith 93 |

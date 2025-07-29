@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَلِيُّ بْنُ بَحْرٍ، وَعَبْدُ الرَّحِيمِ بْنُ مُطَرِّفٍ الرُّؤَاسِيُّ، قَالاَ حَدَّثَنَا عِيسَى، - وَهُوَ ابْنُ يُونُسَ بْنِ أَبِي إِسْحَاقَ السَّبِيعِيُّ - عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْبَلُ الْهَدِيَّةَ وَيُثِيبُ عَلَيْهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
+
 حدثنا علي بن بحر، وعبد الرحيم بن مطرف الرواسي، قالا حدثنا عيسى، - وهو ابن يونس بن ابي اسحاق السبيعي - عن هشام بن عروة، عن ابيه، عن عايشة، رضى الله عنها ان النبي صلى الله عليه وسلم كان يقبل الهدية ويثيب عليها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উপহার গ্রহণ করতেন এবং তিনি এর পরিবর্তে অন্যকেও (উপহার) দিতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah:That the Prophet (ﷺ) used to accept a gift and make return for it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
+
+## French
+
+Rapporté par Aisha رضي الله عنها : Le Prophète ﷺ acceptait les cadeaux et offrait quelque chose en retour
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ali bin Bahr\] dan \[Abdurrahim bin Mutharrif Ar Ruasai\] mereka berkata; telah menceritakan kepada kami \[Isa bin Yunus bin Abu Ishaq As Sabi'i\] dari \[Hisyam bin 'Urwah\] dari \[Ayahnya\] dari \[Aisyah\] radliallahu 'anha, bahwa Nabi shallallahu 'alaihi wasallam menerima hadiah, dan beliau membalas orang yang memberi hadiah dengan lebih baik
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Bahr] dan [Abdurrahim bin Mutharrif Ar Ruasai] mereka berkata; telah menceritakan kepada kami [Isa bin Yunus bin Abu Ishaq As Sabi'i] dari [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] radliallahu 'anha, bahwa Nabi shallallahu 'alaihi wasallam menerima hadiah, dan beliau membalas orang yang memberi hadiah dengan lebih baik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах, что Пророк ﷺ принимал подарки и воздавал за них добром
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Âişe (r.anha)'den rivayet edildiğine göre: Hz. Nebi (s.a.v.) hediye kabul eder ve karşılığında hediye verirdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا فرماتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم ہدیہ قبول فرماتے تھے، اور اس کا بدلہ دیتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2585)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3536</td></tr><tr><td>Arabic No</td><td>3536</td></tr><tr><td>Reference</td><td>Book 24 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2585) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3536 |
+| Arabic No | 3536 |
+| Reference | Book 24 Hadith 121 |

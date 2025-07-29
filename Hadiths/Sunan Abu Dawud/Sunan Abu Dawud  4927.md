@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا سَلاَّمُ بْنُ مِسْكِينٍ، عَنْ شَيْخٍ، شَهِدَ أَبَا وَائِلٍ فِي وَلِيمَةٍ فَجَعَلُوا يَلْعَبُونَ يَتَلَعَّبُونَ يُغَنُّونَ فَحَلَّ أَبُو وَائِلٍ حَبْوَتَهُ وَقَالَ سَمِعْتُ عَبْدَ اللَّهِ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ الْغِنَاءُ يُنْبِتُ النِّفَاقَ فِي الْقَلْبِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
+
 حدثنا مسلم بن ابراهيم، قال حدثنا سلام بن مسكين، عن شيخ، شهد ابا وايل في وليمة فجعلوا يلعبون يتلعبون يغنون فحل ابو وايل حبوته وقال سمعت عبد الله يقول سمعت رسول الله صلى الله عليه وسلم يقول " الغناء ينبت النفاق في القلب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
 
 ## Bengali
 
+। সাল্লাম ইবনু মিসকীন (রহঃ) এক শাইখের সূত্রে বর্ণনা করেন যিনি আবূ ওয়াইল (রহঃ)-এর সঙ্গে এক বৌ-ভাত অনুষ্ঠানে উপস্থিত ছিলেন। তখন লোকেরা খেলাধূলা ও আনন্দ আর সঙ্গীতে মত্ত হলো। আবূ ওয়াইল (রহঃ) তার হাত দিয়ে নিজ হাঁটুদ্বয় পেঁচিয়ে ধরে বললেন, আমি আব্দুল্লাহ (রাঃ)-কে বলতে শুনেছি, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ নিশ্চয়ই সঙ্গীত অন্তরে কপটতা সৃষ্টি করে।\[1\] দুর্বলঃ মিশকাত হা/ ৪৮১০, যঈফাহ হা/ ২৪৩০।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাল্লাম ইবনু মিসকীন (রহঃ) এক শাইখের সূত্রে বর্ণনা করেন যিনি আবূ ওয়াইল (রহঃ)-এর সঙ্গে এক বৌ-ভাত অনুষ্ঠানে উপস্থিত ছিলেন। তখন লোকেরা খেলাধূলা ও আনন্দ আর সঙ্গীতে মত্ত হলো। আবূ ওয়াইল (রহঃ) তার হাত দিয়ে নিজ হাঁটুদ্বয় পেঁচিয়ে ধরে বললেন, আমি আব্দুল্লাহ (রাঃ)-কে বলতে শুনেছি, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ নিশ্চয়ই সঙ্গীত অন্তরে কপটতা সৃষ্টি করে।[1] দুর্বলঃ মিশকাত হা/ ৪৮১০, যঈফাহ হা/ ২৪৩০।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salam ibn Miskin, quoting an old man who witnessed AbuWa'il in a wedding feast, said:They began to play, amuse and sing. He united the support of his hand round his knees that were drawn up, and said: I heard Abdullah (ibn Mas'ud) say: I heard the apostle of Allah (ﷺ) say: Singing produces hypocrisy in the heart
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
+
+## French
+
+Salam ibn Miskin, citant un vieil homme qui a assisté à une fête de mariage avec Abu Wa'il, a dit : Ils ont commencé à jouer, à s’amuser et à chanter. Il a entouré ses genoux de ses bras et a dit : J’ai entendu Abdullah (ibn Mas'ud) dire : J’ai entendu l’Envoyé d’Allah ﷺ dire : « Le chant fait naître l’hypocrisie dans le cœur. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\] ia berkata; telah menceritakan kepada kami \[Sallam bin Miskin\] dari \[seorang Syaikh\] Bahwasanya ia pernah melihat \[Abu Wail\] dalam sebuah jamuan walimah. Orang-orang lalu bermain rebana dan menyanyikan lagu, maka Abu Wail kemudian bangkit dari duduk ihtiba (duduk di atas bokong dengan mendekap kedua pahanya menempel dada) dan berkata, "Aku mendengar \[Abdullah\] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Nyayian akan menumbuhkan kenifakan dalam hati
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim] ia berkata; telah menceritakan kepada kami [Sallam bin Miskin] dari [seorang Syaikh] Bahwasanya ia pernah melihat [Abu Wail] dalam sebuah jamuan walimah. Orang-orang lalu bermain rebana dan menyanyikan lagu, maka Abu Wail kemudian bangkit dari duduk ihtiba (duduk di atas bokong dengan mendekap kedua pahanya menempel dada) dan berkata, "Aku mendengar [Abdullah] berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Nyayian akan menumbuhkan kenifakan dalam hati
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Vail şöyle demiştir: Ben Abdullah’ı şöyle derken işittim: Ben Resulullah (s.a.v.) “Ezgi kalpte münafıklık (duyguları) meydana getirir.” derken işittim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلام بن مسکین ایک شیخ سے روایت کرتے ہیں جو ابووائل کے ساتھ ایک ولیمہ میں موجود تھے تو لوگ کھیل کود اور گانے بجانے میں لگے گئے، تو ابووائل نے اپنا حبوہ ۱؎ کھولا اور بولے: میں نے عبداللہ بن مسعود کو کہتے سنا ہے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا ہے: گانا بجانا دل میں نفاق پیدا کرتا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Very Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4927</td></tr><tr><td>Arabic No</td><td>4927</td></tr><tr><td>Reference</td><td>Book 43 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Very Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4927 |
+| Arabic No | 4927 |
+| Reference | Book 43 Hadith 155 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ عَمْرِو بْنِ مُرَّةَ، عَنْ عَاصِمٍ الْعَنَزِيِّ، عَنِ ابْنِ جُبَيْرِ بْنِ مُطْعِمٍ، عَنْ أَبِيهِ، أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم يُصَلِّي صَلاَةً قَالَ عَمْرٌو لاَ أَدْرِي أَىَّ صَلاَةٍ هِيَ فَقَالَ ‏"‏ اللَّهُ أَكْبَرُ كَبِيرًا اللَّهُ أَكْبَرُ كَبِيرًا اللَّهُ أَكْبَرُ كَبِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَالْحَمْدُ لِلَّهِ كَثِيرًا وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلاً ‏"‏ ‏.‏ ثَلاَثًا ‏"‏ أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ مِنْ نَفْخِهِ وَنَفْثِهِ وَهَمْزِهِ ‏"‏ ‏.‏ قَالَ نَفْثُهُ الشِّعْرُ وَنَفْخُهُ الْكِبْرُ وَهَمْزُهُ الْمُوتَةُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
+
 حدثنا عمرو بن مرزوق، اخبرنا شعبة، عن عمرو بن مرة، عن عاصم العنزي، عن ابن جبير بن مطعم، عن ابيه، انه راى رسول الله صلى الله عليه وسلم يصلي صلاة قال عمرو لا ادري اى صلاة هي فقال " الله اكبر كبيرا الله اكبر كبيرا الله اكبر كبيرا والحمد لله كثيرا والحمد لله كثيرا والحمد لله كثيرا وسبحان الله بكرة واصيلا " . ثلاثا " اعوذ بالله من الشيطان من نفخه ونفثه وهمزه " . قال نفثه الشعر ونفخه الكبر وهمزه الموتة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
 
 ## Bengali
 
+। ইবনু জুবায়ির ইবনু মুত্বঈম হতে তাঁর পিতার সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কোন এক সালাত আদায় করতে দেখেছেন। বর্ণনাকারী ‘আমর বলেন, সেটা কোন সালাত ছিল (ফরয না নফল) তা আমার জানা নেই। তিনি (সালাত আদায়কালে) বলেছেন, ‘‘আল্লাহু আকবার কাবীরান, আল্লাহু আকবার কাবীরান, আল্লাহু আকবার কাবীরান, আলহামদু লিল্লাহি কাসীরান, আলহামদু লিল্লাহি কাসীরান, আলহামদু লিল্লাহি কাসীরান, ওয়া সুবহানাল্লাহি বুকরাতাও ওয়া আসীলা’’, (তিনবার) ‘‘আ‘উযু বিল্লাহি মিনাশ শাইত্বনির রাজীমি মিন নাফখিহি ওয়া নাফসিহি ওয়া হামযিহি।’’ বর্ণনাকারী (‘আমর ইবনু মুররাহ) বলেন, নাফখিহি হচ্ছে শয়তানের কবিতা, নাফসিহি হচ্ছে শয়তানের অহঙ্কার এবং হামযিহি হচ্ছে শয়তানের কুমন্ত্রণা।\[1\] দুর্বল : মিশকাত ৮১৭, ইরওয়া ৩৪২।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু জুবায়ির ইবনু মুত্বঈম হতে তাঁর পিতার সূত্রে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কোন এক সালাত আদায় করতে দেখেছেন। বর্ণনাকারী ‘আমর বলেন, সেটা কোন সালাত ছিল (ফরয না নফল) তা আমার জানা নেই। তিনি (সালাত আদায়কালে) বলেছেন, ‘‘আল্লাহু আকবার কাবীরান, আল্লাহু আকবার কাবীরান, আল্লাহু আকবার কাবীরান, আলহামদু লিল্লাহি কাসীরান, আলহামদু লিল্লাহি কাসীরান, আলহামদু লিল্লাহি কাসীরান, ওয়া সুবহানাল্লাহি বুকরাতাও ওয়া আসীলা’’, (তিনবার) ‘‘আ‘উযু বিল্লাহি মিনাশ শাইত্বনির রাজীমি মিন নাফখিহি ওয়া নাফসিহি ওয়া হামযিহি।’’ বর্ণনাকারী (‘আমর ইবনু মুররাহ) বলেন, নাফখিহি হচ্ছে শয়তানের কবিতা, নাফসিহি হচ্ছে শয়তানের অহঙ্কার এবং হামযিহি হচ্ছে শয়তানের কুমন্ত্রণা।[1] দুর্বল : মিশকাত ৮১৭, ইরওয়া ৩৪২।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jubayr ibn Mut'im: Jabir saw the Messenger of Allah (ﷺ) observing prayer. (The narrator Amr said: I do not know which prayer he was offering.) He (the Prophet) said: Allah is altogether great; Allah is altogether great; Allah is altogether great; and praise be to Allah in abundance; and praise be to Allah is abundance; and praise be to Allah in abundance. Glory be to Allah in the morning and after (saying it three times). I seek refuge in Allah from the accursed devil, from his puffing up (nafkh), his spitting (nafth) and his evil suggestion (hamz). He (Amr) said: His nafth it poetry, his nafkh is pride, and his hamz is madness
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
+
+## French
+
+Rapporté par Jubayr ibn Mut‘im رضي الله عنه : Jabir a vu le Messager d’Allah ﷺ en train de prier. (Le rapporteur Amr a dit : Je ne sais pas quelle prière il accomplissait.) Le Prophète a dit : « Allah est vraiment le plus grand ; Allah est vraiment le plus grand ; Allah est vraiment le plus grand ; et louange à Allah en abondance ; et louange à Allah en abondance ; et louange à Allah en abondance. Gloire à Allah le matin et après (il l’a dit trois fois). Je cherche refuge auprès d’Allah contre le diable maudit, contre son souffle (nafkh), sa salive (nafth) et ses mauvaises suggestions (hamz). » Amr a expliqué : Son nafth, c’est la poésie, son nafkh, c’est l’orgueil, et son hamz, c’est la folie
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Amru bin Marzuq\] telah mengabarkan kepada kami \[Syu'bah\] dari \['Amru bin Murrah\] dari \['Ashim Al 'Anazi\] dari \[Ibnu Jubair bin Muth'im\] dari \[ayahnya\] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, -'Amru mengatakan; Aku tidak tahu shalat apa yang sedang di kerjakan beliau- beliau mengucapkan; "ALLAHU AKBAR KABIIRA, ALLAHU AKBAR KABIIRA, ALLAHU AKBAR KABIIRAW WAL HAMDU LILLAAHI KATSIRA WAL HAMDU LILLAHI KATSIIRA WAL HAMDU LILLAHI KATSIRA WA SUBHAANALLAHI BUKRATA WA ASHIILA -tiga kali- A'UUDZU BILLAHI MINAS SYAITHAANI MIN NAFKHIHI WA NAFSIHI WA HAMAZIHI (Allah Maha Besar sungguh Maha Besar, Allah Maha Besar sungguh Maha Besar, Allah Maha Besar sungguh Maha Besar, dan segala puji bagi Allah dengan pujian yang banyak, segala puji bagi Allah dengan pujian yang banyak, segala puji bagi Allah dengan pujian yang banyak, dan Maha suci Allah pada pagi hari dan sore -sebanyak tiga kali- Aku berlindung kepada Allah dari godaan syetan, dari nafkh-nya, nafts-nya serta hamz-nya." Perawi berkata; nafts adalah syairnya, an-nafkh adalah kesombongannya sedangkan hamznya adalah kegilaan." Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya bin Mis'ar\] dari \[Mis'ar\] dari \['Amru bin Murrah\] dari \[seorang laki-laki\] dari \[Nafi' bin Jubair\] dari \[ayahnya\] dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam mengucapkan dalam shalat sunnahnya…" kemudian dia menyebutkan hadits yang serupa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amru bin Marzuq] telah mengabarkan kepada kami [Syu'bah] dari ['Amru bin Murrah] dari ['Ashim Al 'Anazi] dari [Ibnu Jubair bin Muth'im] dari [ayahnya] bahwa dia melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat, -'Amru mengatakan; Aku tidak tahu shalat apa yang sedang di kerjakan beliau- beliau mengucapkan; "ALLAHU AKBAR KABIIRA, ALLAHU AKBAR KABIIRA, ALLAHU AKBAR KABIIRAW WAL HAMDU LILLAAHI KATSIRA WAL HAMDU LILLAHI KATSIIRA WAL HAMDU LILLAHI KATSIRA WA SUBHAANALLAHI BUKRATA WA ASHIILA -tiga kali- A'UUDZU BILLAHI MINAS SYAITHAANI MIN NAFKHIHI WA NAFSIHI WA HAMAZIHI (Allah Maha Besar sungguh Maha Besar, Allah Maha Besar sungguh Maha Besar, Allah Maha Besar sungguh Maha Besar, dan segala puji bagi Allah dengan pujian yang banyak, segala puji bagi Allah dengan pujian yang banyak, segala puji bagi Allah dengan pujian yang banyak, dan Maha suci Allah pada pagi hari dan sore -sebanyak tiga kali- Aku berlindung kepada Allah dari godaan syetan, dari nafkh-nya, nafts-nya serta hamz-nya." Perawi berkata; nafts adalah syairnya, an-nafkh adalah kesombongannya sedangkan hamznya adalah kegilaan." Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya bin Mis'ar] dari [Mis'ar] dari ['Amru bin Murrah] dari [seorang laki-laki] dari [Nafi' bin Jubair] dari [ayahnya] dia berkata; saya mendengar Nabi shallallahu 'alaihi wasallam mengucapkan dalam shalat sunnahnya…" kemudian dia menyebutkan hadits yang serupa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Ибн Джубайра ибн Мут‘има о том, что его отец рассказывал, что он видел, как Посланник Аллаха ﷺ совершал молитву. ‘Амр (ибн Мурра) сказал: «Но я не знаю, какую молитву именно». И он сказал: «Аллах велик, намного (более велик, чем всё остальное), Аллах велик, намного (более велик, чем всё остальное), Аллах велик, намного (более велик, чем всё остальное), многая хвала Аллаху, многая хвала Аллаху, многая хвала Аллаху, пречист Аллах утром и вечером! /Аллаху акбару кабиран, Аллаху акбару кабиран, Аллаху акбару кабиран, валь-хамду ли-Ллахи касиран, валь-хамду ли-Ллахи касиран, валь-хамду ли-Ллахи касиран, ва субхана-Ллахи букратан ва асылан, ва субхана-Ллахи букратан ва асылан, ва субхана-Ллахи букратан ва асылан!/ трижды. Прибегаю к защите Аллаха от шайтана: от его дуновения, от выделения его слюны и от его наущений /А‘узу би-Лляхи мин-аш-шайтани, мин нафхихи, ва нафсихи, ва хамзихи/».(‘Амр) сказал: «Его слюна это поэзия; его дуновение это высокомерие; его наущения это безумие»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cübeyr b. Mut'ım'dan rivayet edildiğine göre, (Cübeyr) Resulullah'ı namaz kılarken görmüş -(Ravi) Amr der ki: Gerçi hangi namazın olduğunu bilemiyorum- Nebi (Sallallahu aleyhi ve Sellem) (o namazda) ’’ اللَّهُ أَكْبَرُ كَبِيرً –Allahu ekber kebira- (Allah gerçekten büyüktür), Allahu ekber kebira, Allahu ekber kebira’’ ‘’ وَالْحَمْدُ لِلَّهِ كَثِيرًا vel hamdu Lillahi kesira (Allah'a çok çok hamd olsun), vel hamdu Lillahi kesira, vel hamdu Lillahi kesira " (şeklinde) üç defa; " وَسُبْحَانَ اللَّهِ بُكْرَةً وَأَصِيلًاve sübhanallhi bukreten ve esila (Allah'ı sabah ve akşam her türlü noksanlıklardan tenzih ederim)" (diye) üç defa (zikretti, bir defa da)! "Şeytandan, onun nefhinden, nefsinden ve hemzinden Allah'a sığınırım" dedi. (Amr) dedi ki: (Şeytanın) nefsi şiirdir, nefh'i kibirdir, hemz'i de ilişmesidir." Diğer tahric: Tirmizî, mevakît; İbn Mace, ikame; Darimî, salat; Ahmed b. Hanbel, I, 403, 404; III, 50; IV, 80, 81, 83, 85; VI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جبیر بن مطعم رضی اللہ عنہ کہتے ہیں کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم کو نماز پڑھتے دیکھا ( عمرو کہتے ہیں: مجھے نہیں معلوم کہ وہ کون سی نماز تھی؟ ) آپ صلی اللہ علیہ وسلم نے تین تین بار فرمایا: «الله أكبر كبيرا الله أكبر كبيرا الله أكبر كبيرا والحمد لله كثيرا والحمد لله كثيرا والحمد لله كثيرا وسبحان الله بكرة وأصيلا» اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے، اللہ سب سے بڑا ہے، اللہ کے لیے بہت زیادہ تعریفیں ہیں، اللہ کے لیے بہت زیادہ تعریفیں ہیں، اللہ کے لیے بہت زیادہ تعریفیں ہیں اور میں صبح و شام اللہ کی پاکی بیان کرتا ہوں ، اور فرمایا: «أعوذ بالله من الشيطان من نفخه ونفثه وهمزه» میں شیطان کے کبر و غرور، اس کے اشعار و جادو بیانی اور اس کے وسوسوں سے اللہ کی پناہ طلب کرتا ہوں ۔ عمرو بن مرہ کہتے ہیں: اس کا «نفث» شعر ہے، اس کا«نفخ» کبر ہے اور اس کا «همز» جنون یا موت ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>764</td></tr><tr><td>Arabic No</td><td>764</td></tr><tr><td>Reference</td><td>Book 2 Hadith 374</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 764 |
+| Arabic No | 764 |
+| Reference | Book 2 Hadith 374 |

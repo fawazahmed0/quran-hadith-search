@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ ‏ "‏ إِذَا اسْتَأْذَنَتِ امْرَأَةُ أَحَدِكُمْ فَلاَ يَمْنَعْهَا ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسدد، حدثنا يزيد بن زريع، عن معمر، عن الزهري، عن سالم بن عبد الله، عن ابيه، عن النبي صلى الله عليه وسلم. " اذا استاذنت امراة احدكم فلا يمنعها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘আবদুল্লাহ্ (রাযি.) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, তোমাদের কারো স্ত্রী যদি (সালাতের জন্য মসজিদে যাবার) অনুমতি চায় তাহলে তার স্বামী তাকে যেন বাধা না দেয়। (৮৬৫) (আধুনিক প্রকাশনীঃ ৮২৪, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Salim bin 'Abdullah:My father said, "The Prophet (ﷺ) said, 'If the wife of any one of you asks permission (to go to the mosque) do not forbid her
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
+
+## French
+
+Rapporté par Salim bin 'Abdullah : Mon père a dit : Le Prophète (ﷺ) a dit : « Si la femme de l’un d’entre vous demande la permission (d’aller à la mosquée), ne l’en empêchez pas. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yazid bin Zurai'\] dari \[Ma'mar\] dari \[Az Zuhri\] dari \[Salim bin 'Abdullah\] dari \[Bapaknya\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika isteri salah seorang dari kalian minta izin (untuk ke Masjid), hendaklah ia larang
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yazid bin Zurai'] dari [Ma'mar] dari [Az Zuhri] dari [Salim bin 'Abdullah] dari [Bapaknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Jika isteri salah seorang dari kalian minta izin (untuk ke Masjid), hendaklah ia larang
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Салима ибн Абдиллаха, передавшего от своего отца, что Пророк ﷺ сказал: «Если супруга одного из вас попросит разрешения (отправиться в мечеть), то не препятствуйте ей»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 நபி (ஸல்) அவர்கள் கூறினார்கள்: உங்கள் துணைவியர் (பள்ளிவாசலுக் குச் செல்ல) அனுமதி கேட்டால், அவர் களைத் தடுக்காதீர்கள். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salim İbn Abdullah (r.a.)'ın babasın (Abdullah bin Ömer radiyallahu anh)'dan naklettiğine göre Resûlullah Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Herhangi birinizin eşi mescid'e gitmek için sizden izin isterse ona engel olmayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسدد بن مسرہد نے بیان کیا، کہا کہ ہم سے یزید بن زریع نے بیان کیا، ان سے معمر نے، ان سے زہری نے، ان سے سالم بن عبداللہ بن عمر نے، ان سے ان کے باپ نے، انہوں نے نبی کریم صلی اللہ علیہ وسلم سے روایت کی ہے کہ آپ صلی اللہ علیہ وسلم نے فرمایا کہ جب تم میں سے کسی کی بیوی ( نماز پڑھنے کے لیے مسجد میں آنے کی ) اس سے اجازت مانگے تو شوہر کو چاہیے کہ اس کو نہ روکے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>873</td></tr><tr><td>Arabic No</td><td>873</td></tr><tr><td>Reference</td><td>Book 10 Hadith 264</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 873 |
+| Arabic No | 873 |
+| Reference | Book 10 Hadith 264 |

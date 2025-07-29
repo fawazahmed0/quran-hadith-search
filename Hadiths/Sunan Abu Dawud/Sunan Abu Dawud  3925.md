@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يُونُسُ بْنُ مُحَمَّدٍ، حَدَّثَنَا مُفَضَّلُ بْنُ فَضَالَةَ، عَنْ حَبِيبِ بْنِ الشَّهِيدِ، عَنْ مُحَمَّدِ بْنِ الْمُنْكَدِرِ، عَنْ جَابِرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَخَذَ بِيَدِ مَجْذُومٍ فَوَضَعَهَا مَعَهُ فِي الْقَصْعَةِ وَقَالَ ‏ "‏ كُلْ ثِقَةً بِاللَّهِ وَتَوَكُّلاً عَلَيْهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا يونس بن محمد، حدثنا مفضل بن فضالة، عن حبيب بن الشهيد، عن محمد بن المنكدر، عن جابر، ان رسول الله صلى الله عليه وسلم اخذ بيد مجذوم فوضعها معه في القصعة وقال " كل ثقة بالله وتوكلا عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
 
 ## Bengali
 
+। জাবির (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক কুষ্ঠ রোগীর হাত ধরে তাঁর সঙ্গে খাবারের পেয়ালায় তা রেখে বললেনঃ আল্লাহর উপর আস্থা রেখে এবং তাঁর উপর পূর্ণ ভরসা রেখে খাও।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক কুষ্ঠ রোগীর হাত ধরে তাঁর সঙ্গে খাবারের পেয়ালায় তা রেখে বললেনঃ আল্লাহর উপর আস্থা রেখে এবং তাঁর উপর পূর্ণ ভরসা রেখে খাও।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) took a man who was suffering from tubercular leprosy by the hand; he then put it along with his own hand in the dish and said: Eat with confidence in Allah and trust in Him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ a pris la main d’un homme atteint de lèpre tuberculeuse ; il a ensuite mis sa main avec la sienne dans le plat et a dit : « Mange avec confiance en Allah et place ta confiance en Lui. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] telah menceritakan kepada kami \[Yunus bin Muhammad\] telah menceritakan kepada kami \[Mufadldlal bin Fadlalah\] dari \[Habib bin Asy Syahid\] dari \[Muhammad bin Al Munkadir\] dari \[Jabir\], bahwa Rasulullah shallallahu 'alaihi wasallam menggandeng tangan orang yang menderita penyakit kusta, kemudian beliau meletakkan tangan orang tersebut di atas nampan seraya bersabda: "Makanlah dengan percaya kepada Allah dan bertawakal kepada-Nya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Yunus bin Muhammad] telah menceritakan kepada kami [Mufadldlal bin Fadlalah] dari [Habib bin Asy Syahid] dari [Muhammad bin Al Munkadir] dari [Jabir], bahwa Rasulullah shallallahu 'alaihi wasallam menggandeng tangan orang yang menderita penyakit kusta, kemudian beliau meletakkan tangan orang tersebut di atas nampan seraya bersabda: "Makanlah dengan percaya kepada Allah dan bertawakal kepada-Nya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира, да будет доволен Аллах им и его отцом, что однажды Посланник Аллаха ﷺ взял руку прокажённого и опустил её на блюдо, с которого ел, со словами: «Ешь, с верой в Аллаха и упованием на Него»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir (r.a)'den rivayet olunduğuna göre: Rasûlullah (s.a.v.); bir cüzzamlının elini tutarak onu kendi (eli) ile birlikte (yemek) kab(m)a koymuş ve; "Allah’a güvenerek (benimle birlikte) ye, ben de Allah'a güveniyorum" buyurmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ایک کوڑھی کا ہاتھ پکڑ کر اپنے ساتھ پیالہ میں رکھ لیا اور فرمایا: اللہ پر بھروسہ اور اعتماد کر کے کھاؤ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3925</td></tr><tr><td>Arabic No</td><td>3925</td></tr><tr><td>Reference</td><td>Book 30 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3925 |
+| Arabic No | 3925 |
+| Reference | Book 30 Hadith 22 |

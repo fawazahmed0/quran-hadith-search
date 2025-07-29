@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ، قَالَ حَدَّثَنَا زَكَرِيَّا بْنُ عَدِيٍّ، قَالَ حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ عَمْرٍو، عَنْ زَيْدِ بْنِ أَبِي أُنَيْسَةَ، عَنْ سَيَّارٍ، ح قَالَ وَأَنْبَأَنَا هُشَيْمٌ، عَنْ سَيَّارٍ، عَنْ جَبْرِ بْنِ عَبِيدَةَ، - وَقَالَ عُبَيْدُ اللَّهِ عَنْ جُبَيْرٍ، - عَنْ أَبِي هُرَيْرَةَ، قَالَ وَعَدَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم غَزْوَةَ الْهِنْدِ فَإِنْ أَدْرَكْتُهَا أُنْفِقْ فِيهَا نَفْسِي وَمَالِي فَإِنْ أُقْتَلْ كُنْتُ مِنْ أَفْضَلِ الشُّهَدَاءِ وَإِنْ أَرْجِعْ فَأَنَا أَبُو هُرَيْرَةَ الْمُحَرَّرُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |
+
 اخبرني احمد بن عثمان بن حكيم، قال حدثنا زكريا بن عدي، قال حدثنا عبيد الله بن عمرو، عن زيد بن ابي انيسة، عن سيار، ح قال وانبانا هشيم، عن سيار، عن جبر بن عبيدة، - وقال عبيد الله عن جبير، - عن ابي هريرة، قال وعدنا رسول الله صلى الله عليه وسلم غزوة الهند فان ادركتها انفق فيها نفسي ومالي فان اقتل كنت من افضل الشهداء وان ارجع فانا ابو هريرة المحرر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমদ ইবন উছমান ইবন হাকিম (রহঃ) ... আবু হুরায়রা (রাঃ) বলেনঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে হিন্দুস্থানের জিহাদের ওয়াদা দিয়েছিলেন। যদি আমি ঐ যুদ্ধের সুযোগ পাই, তা হলে আমি তাতে আমার জান-মাল ব্যয় করব। আর যদি আমি তাতে নিহত হই, তা হলে আমি শহীদের মধ্যে উত্তম সাব্যস্ত হব। আর যদি আমি ফিরে আসি, তা হলে আমি আবূ হুরায়রা হবাে আযাদ বা জাহান্নাম হতে মুক্ত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |
 
 ## English
 
+It was narrated that Abu Hurairah said:"The Messenger of Allah (ﷺ) promised us (a) battle expedition (in) India. If I live to see that, I will expend myself and my wealth in it. If I am killed, I will be one of the best of the martyrs, and if I come back, I will be Abu Hurairah Al-Muharrar." \[1\] \[1\] Al-Muharrar: The one freed (from the Fire)
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Abu Hurairah said:"The Messenger of Allah (ﷺ) promised us (a) battle expedition (in) India. If I live to see that, I will expend myself and my wealth in it. If I am killed, I will be one of the best of the martyrs, and if I come back, I will be Abu Hurairah Al-Muharrar." [1] [1] Al-Muharrar: The one freed (from the Fire)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d’Allah (ﷺ) nous a promis une expédition en Inde. Si je vis assez longtemps pour la voir, j’y consacrerai ma vie et mes biens. Si je suis tué, je serai parmi les meilleurs des martyrs, et si je reviens, je serai Abu Hurairah Al-Muharrar
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Ahmad bin Utsman bin Hakim\], ia berkata; telah menceritakan kepada kami \[Zakariya bin 'Adi\], ia berkata; telah menceritakan kepada kami \['Ubaidullah bin 'Amr\] dari \[Zaid bin Abi Unaisah\] dari \[Sayyar\]. -dari jalur periwayatan yang lain disebutkan; Telah memberitakan kepada kami \[Husyaim\] dari \[Sayyar\] dari \[Jabar bin 'Ubaidah\], -menurut ucapan 'Ubaidullah dari Jubair- dari \[Abu Hurairah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam menjanjikan kepada kami untuk memerangi India, apabila peperang tersebut mendapati diriku maka akan saya infakkan jiwa dan hartaku padanya. Sehingga apabila saya terbunuh maka saya termasuk orang-orang syahid yang paling utama, dan apabila saya kembali maka saya adalah Abu Hurairah yang dimerdekakan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Ahmad bin Utsman bin Hakim], ia berkata; telah menceritakan kepada kami [Zakariya bin 'Adi], ia berkata; telah menceritakan kepada kami ['Ubaidullah bin 'Amr] dari [Zaid bin Abi Unaisah] dari [Sayyar]. -dari jalur periwayatan yang lain disebutkan; Telah memberitakan kepada kami [Husyaim] dari [Sayyar] dari [Jabar bin 'Ubaidah], -menurut ucapan 'Ubaidullah dari Jubair- dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam menjanjikan kepada kami untuk memerangi India, apabila peperang tersebut mendapati diriku maka akan saya infakkan jiwa dan hartaku padanya. Sehingga apabila saya terbunuh maka saya termasuk orang-orang syahid yang paling utama, dan apabila saya kembali maka saya adalah Abu Hurairah yang dimerdekakan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ہم ( مسلمانوں ) سے ہندوستان پر لشکر کشی کا وعدہ فرمایا، یعنی پیش گوئی کی، تو اگر ہند پر لشکر کشی میری زندگی میں ہوئی تو میں جان و مال کے ساتھ اس میں شریک ہوں گا۔ اگر میں قتل کر دیا گیا تو بہترین شہداء میں سے ہوں گا، اور اگر زندہ واپس آ گیا تو میں ( جہنم سے ) نجات یافتہ ابوہریرہ کہلاؤں گا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3173</td></tr><tr><td>Arabic No</td><td>3173</td></tr><tr><td>Reference</td><td>Book 25 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3173 |
+| Arabic No | 3173 |
+| Reference | Book 25 Hadith 89 |

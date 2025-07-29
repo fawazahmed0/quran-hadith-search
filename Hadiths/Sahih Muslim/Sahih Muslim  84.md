@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## French
 
+Rapporté par Abū Ja’far ad-Dārimī : Bishr bin Umar m’a rapporté : « J’ai interrogé Mālik bin Anas au sujet de Muhammad bin Abd ar-Rahman, qui rapporte de Sa’īd bin al-Musayyib. Il a répondu : “Il n’est pas digne de confiance.” Je l’ai interrogé à propos de Sālih, l’affranchi d’at-Taw’amah, il a dit : “Il n’est pas digne de confiance.” Je l’ai interrogé à propos d’Abūl-Huwayrith, il a dit : “Il n’est pas digne de confiance.” Je l’ai interrogé à propos de Shu’bah, dont Ibn Abī Dhi’b rapporte, il a dit : “Il n’est pas digne de confiance.” Je l’ai interrogé à propos de Harām bin Uthmān, il a dit : “Il n’est pas digne de confiance.” J’ai demandé à Mālik au sujet de ces cinq personnes et il a dit : “Ils ne sont pas dignes de confiance pour les ḥadiths.” Je l’ai interrogé au sujet d’un autre homme dont j’ai oublié le nom, il m’a dit : “L’as-tu vu dans mon livre ?” J’ai répondu : “Non.” Il a dit : “S’il était digne de confiance, tu l’aurais vu dans mon livre.” »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>84</td></tr><tr><td>Reference</td><td>Book 0 Hadith 84</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 84 |
+| Reference | Book 0 Hadith 84 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا عَبْدُ الْحَمِيدِ، - يَعْنِي الْحِمَّانِيَّ - حَدَّثَنَا الأَعْمَشُ، عَنْ مُسْلِمٍ، عَنْ مَسْرُوقٍ، عَنْ عَائِشَةَ، رضى الله عنها قَالَتْ كَانَ النَّبِيُّ صلى الله عليه وسلم إِذَا بَلَغَهُ عَنِ الرَّجُلِ الشَّىْءُ لَمْ يَقُلْ مَا بَالُ فُلاَنٍ يَقُولُ وَلَكِنْ يَقُولُ ‏ "‏ مَا بَالُ أَقْوَامٍ يَقُولُونَ كَذَا وَكَذَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا عبد الحميد، - يعني الحماني - حدثنا الاعمش، عن مسلم، عن مسروق، عن عايشة، رضى الله عنها قالت كان النبي صلى الله عليه وسلم اذا بلغه عن الرجل الشىء لم يقل ما بال فلان يقول ولكن يقول " ما بال اقوام يقولون كذا وكذا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কোনো ব্যক্তি কোনো বিষয়ে জানানো হলে তিনি এভাবে বলতেন নাঃ তার কি হলো যে, সে একথা বলে? বরং তিনি বলতেনঃ লোকজনের কি হলো যে, তারা এই এই বলে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কোনো ব্যক্তি কোনো বিষয়ে জানানো হলে তিনি এভাবে বলতেন নাঃ তার কি হলো যে, সে একথা বলে? বরং তিনি বলতেনঃ লোকজনের কি হলো যে, তারা এই এই বলে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: When the Prophet (ﷺ) was informed of anything of a certain man, he would not say: What is the matter with so and so that he says? But he would say: What is the matter with the people that they say such and such?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
+
+## French
+
+Rapporté par Aïsha, la mère des croyants رضي الله عنها : Quand le Prophète ﷺ apprenait quelque chose à propos d’un homme, il ne disait pas : « Qu’a donc untel pour dire cela ? » mais il disait : « Qu’ont donc les gens à dire de telles choses ? »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] berkata, telah menceritakan kepada kami \[Abdul Hamid\] -maksudnya Abdul Hamid Al Himani- berkata, telah menceritakan kepada kami \[Al A'masy\] dari \[Muslim\] dari \[Masruq\] dari \['Aisyah radliallahu 'anha\] ia berkata, "Ketika sampai kepada Nabi shallallahu 'alaihi wasallam berita bahwa ada seseorang yang mengatakan sesuatu, beliau tidak pernah mengatakan: "Mengapa si Fulan mengatakan demikian?" tetapi beliau mengatakan: "Mengapa orang-orang suka mengatakan begini dan begini?
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] berkata, telah menceritakan kepada kami [Abdul Hamid] -maksudnya Abdul Hamid Al Himani- berkata, telah menceritakan kepada kami [Al A'masy] dari [Muslim] dari [Masruq] dari ['Aisyah radliallahu 'anha] ia berkata, "Ketika sampai kepada Nabi shallallahu 'alaihi wasallam berita bahwa ada seseorang yang mengatakan sesuatu, beliau tidak pernah mengatakan: "Mengapa si Fulan mengatakan demikian?" tetapi beliau mengatakan: "Mengapa orang-orang suka mengatakan begini dan begini?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
 
 ## Russian
 
+‘Аиша, да будет доволен ею Аллах, сказала: «Когда до Пророка ﷺ доходило плохое о каком-либо человеке, он не говорил: “Почему такой-то говорит \[так-то\]”, а говорил: “Почему некоторые люди говорят так-то и так-то”»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘Аиша, да будет доволен ею Аллах, сказала: «Когда до Пророка ﷺ доходило плохое о каком-либо человеке, он не говорил: “Почему такой-то говорит [так-то]”, а говорил: “Почему некоторые люди говорят так-то и так-то”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Aişe'den (rivayet edilmiştir:) Nebi (s.a.v.)'e bir kimseden (hoşa gitmeyen) bir söz erişecek olursa (onun ismini anmış olmamak için); "Falan (isimli) kişiye ne oluyor da böyle diyor?" demezdi de; "bu insanlara ne oluyor da böyle böyle konuşuyorlar?" derdi. İzah 4789 da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کو جب کسی شخص کے بارے میں کوئی بری بات پہنچتی تو آپ یوں نہ فرماتے: فلاں کو کیا ہوا کہ وہ ایسا کہتا ہے؟ بلکہ یوں فرماتے: لوگوں کو کیا ہو گیا ہے جو ایسا اور ایسا کہتے ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6101) Sahih Muslim (2356)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4788</td></tr><tr><td>Arabic No</td><td>4788</td></tr><tr><td>Reference</td><td>Book 43 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6101) Sahih Muslim (2356) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4788 |
+| Arabic No | 4788 |
+| Reference | Book 43 Hadith 16 |

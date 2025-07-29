@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا عَبَّادُ بْنُ رَاشِدٍ، حَدَّثَنَا الْحَسَنُ، حَدَّثَنَا أَحْمَرُ بْنُ جَزْءٍ، صَاحِبُ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا سَجَدَ جَافَى عَضُدَيْهِ عَنْ جَنْبَيْهِ حَتَّى نَأْوِيَ لَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
+
 حدثنا مسلم بن ابراهيم، حدثنا عباد بن راشد، حدثنا الحسن، حدثنا احمر بن جزء، صاحب رسول الله صلى الله عليه وسلم ان رسول الله صلى الله عليه وسلم كان اذا سجد جافى عضديه عن جنبيه حتى ناوي له
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
 
 ## Bengali
 
+। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবী আহমার ইবনু জায’ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদাতে তাঁর দু’ বাহুকে পার্শ্বদেশ থেকে বিছিন্ন করে রাখতেন এবং এ অবস্থা দেখে আমাদের করুণা সৃষ্টি হতো।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাহাবী আহমার ইবনু জায’ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদাতে তাঁর দু’ বাহুকে পার্শ্বদেশ থেকে বিছিন্ন করে রাখতেন এবং এ অবস্থা দেখে আমাদের করুণা সৃষ্টি হতো।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ahmar ibn Jaz': When the Messenger of Allah (ﷺ) prostrated himself, he kept his arms far away from his sides so much so that we took pity on him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
+
+## French
+
+Rapporté par Ahmar ibn Jaz’ رضي الله عنه : Lorsque le Messager d’Allah ﷺ se prosternait, il gardait ses bras tellement éloignés de ses côtés que nous avions pitié de lui
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
 
 ## Indonesian
 
+telah menceritakan kepada kami \[Muslim bin Ibrahim\] telah menceritakan kepada kami \['Abbad bin Rasyid\] telah menceritakan kepada kami \[Al Hasan\] telah menceritakan kepada kami \[Ahmar bin Juz'in\] salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam bahwa apabila Rasulullah shallallahu 'alaihi wasallam sujud, beliau merenggangkan kedua lengannya dari kedua rusuk beliau sehingga kami amat kasihan terhadap beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami ['Abbad bin Rasyid] telah menceritakan kepada kami [Al Hasan] telah menceritakan kepada kami [Ahmar bin Juz'in] salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam bahwa apabila Rasulullah shallallahu 'alaihi wasallam sujud, beliau merenggangkan kedua lengannya dari kedua rusuk beliau sehingga kami amat kasihan terhadap beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ахмар ибн Джаз, да будет доволен им Аллах, сподвижник Посланника Аллаха ﷺ передаёт: «Посланник Аллаха ﷺ совершая земной поклон, отстранял руки от боков так, что нам даже становилось жаль его (из-за прилагаемых им усилий)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Allah Rasulü'nün ashabından olan Ahmer b. Cez' (şöyle) demiştir: "Resulullah (Sallallahu aleyhi ve Sellem) secdeye vardığı zaman pazularını (kendine zahmet verecek şekilde iyice) yanlarından ayırırdı. Hatta biz kendisine acırdık." Diğer tahric: İbn Mace, ikame; Tirmizî, mevakît; Nesaî, tatbîk
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 احمر بن جزء رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب سجدہ کرتے تو اپنے دونوں بازو اپنے دونوں پہلوؤں سے جدا رکھتے یہاں تک کہ ہمیں ( آپ کی تکلیف و مشقت پر ) رحم آ جاتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>900</td></tr><tr><td>Arabic No</td><td>900</td></tr><tr><td>Reference</td><td>Book 2 Hadith 510</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 900 |
+| Arabic No | 900 |
+| Reference | Book 2 Hadith 510 |

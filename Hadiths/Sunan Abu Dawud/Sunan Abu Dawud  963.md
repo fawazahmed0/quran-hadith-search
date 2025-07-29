@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو عَاصِمٍ الضَّحَّاكُ بْنُ مَخْلَدٍ، أَخْبَرَنَا عَبْدُ الْحَمِيدِ يَعْنِي ابْنَ جَعْفَرٍ، ح وَحَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا عَبْدُ الْحَمِيدِ، - يَعْنِي ابْنَ جَعْفَرٍ - حَدَّثَنِي مُحَمَّدُ بْنُ عَمْرٍو، عَنْ أَبِي حُمَيْدٍ السَّاعِدِيِّ، قَالَ سَمِعْتُهُ فِي، عَشْرَةٍ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم - وَقَالَ أَحْمَدُ قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ عَمْرِو بْنِ عَطَاءٍ قَالَ سَمِعْتُ أَبَا حُمَيْدٍ السَّاعِدِيَّ فِي عَشْرَةٍ مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنْهُمْ أَبُو قَتَادَةَ - قَالَ أَبُو حُمَيْدٍ أَنَا أَعْلَمُكُمْ بِصَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالُوا فَاعْرِضْ ‏.‏ فَذَكَرَ الْحَدِيثَ ‏.‏ قَالَ وَيَفْتَحُ أَصَابِعَ رِجْلَيْهِ إِذَا سَجَدَ ثُمَّ يَقُولُ اللَّهُ أَكْبَرُ وَيَرْفَعُ وَيَثْنِي رِجْلَهُ الْيُسْرَى فَيَقْعُدُ عَلَيْهَا ثُمَّ يَصْنَعُ فِي الأُخْرَى مِثْلَ ذَلِكَ فَذَكَرَ الْحَدِيثَ ‏.‏ قَالَ حَتَّى إِذَا كَانَتِ السَّجْدَةُ الَّتِي فِيهَا التَّسْلِيمُ أَخَّرَ رِجْلَهُ الْيُسْرَى وَقَعَدَ مُتَوَرِّكًا عَلَى شِقِّهِ الأَيْسَرِ ‏.‏ زَادَ أَحْمَدُ قَالُوا صَدَقْتَ هَكَذَا كَانَ يُصَلِّي وَلَمْ يَذْكُرَا فِي حَدِيثِهِمَا الْجُلُوسَ فِي الثِّنْتَيْنِ كَيْفَ جَلَسَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
+
 حدثنا احمد بن حنبل، حدثنا ابو عاصم الضحاك بن مخلد، اخبرنا عبد الحميد يعني ابن جعفر، ح وحدثنا مسدد، حدثنا يحيى، حدثنا عبد الحميد، - يعني ابن جعفر - حدثني محمد بن عمرو، عن ابي حميد الساعدي، قال سمعته في، عشرة من اصحاب رسول الله صلى الله عليه وسلم - وقال احمد قال اخبرني محمد بن عمرو بن عطاء قال سمعت ابا حميد الساعدي في عشرة من اصحاب رسول الله صلى الله عليه وسلم منهم ابو قتادة - قال ابو حميد انا اعلمكم بصلاة رسول الله صلى الله عليه وسلم . قالوا فاعرض . فذكر الحديث . قال ويفتح اصابع رجليه اذا سجد ثم يقول الله اكبر ويرفع ويثني رجله اليسرى فيقعد عليها ثم يصنع في الاخرى مثل ذلك فذكر الحديث . قال حتى اذا كانت السجدة التي فيها التسليم اخر رجله اليسرى وقعد متوركا على شقه الايسر . زاد احمد قالوا صدقت هكذا كان يصلي ولم يذكرا في حديثهما الجلوس في الثنتين كيف جلس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
 
 ## Bengali
 
+। মুহাম্মাদ ইবনু ‘আমর ইবনু ‘আত্বা (রহঃ) বলেন, আমি আবূ হুমাইদ আস-সাইদী (রাঃ)-কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর দশজন সাহাবীর উপস্থিতিতে বলতে শুনেছি, যাদের মধ্যে আবূ ক্বাতাদাহ (রাঃ)-ও ছিলেন। আবূ হুমাইদ (রাঃ) বললেন, আমি তোমাদের মধ্যে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সালাত সম্পর্কে সর্বাধিক জ্ঞাত। তারা বললেন, তাহলে আপনি বর্ণনা করুন। তখন তিনি হাদীস বর্ণনা করেন। তাতে তিনি এও বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে সাজদার সময় দুই পায়ের আঙ্গুলগুলো খোলা রাখতেন। অতঃপর ‘‘আল্লাহু আকবার’’ বলে মাথা উঠাতেন এবং বাম পা বিছিয়ে তার উপর বসতেন। অতঃপর দ্বিতীয় রাক’আতও তিনি অনুরূপভাবে আদায় করতেন। এরপর তিনি হাদীসের অবশিষ্ট অংশ বর্ণনা করেন যে, সবশেষে তিনি সালাম ফিরানোর পূর্বের সিজদা্ শেষ করে বাম পা বাইরের দিকে বের করে বাম পাশের নিতম্বের উপর বসতেন। ইমাম আহমাদ ইবনু হাম্বালের বর্ণনায় আরো রয়েছে, এভাবে হাদীস বর্ণনার পর উপস্থিত সাহাবীগণ বললেন, হাঁ, আপনি সত্যই বলেছেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এভাবেই সালাত আদায় করতেন। কিন্তু ইমাম আহমাদ ইবনু হাম্বল ও মুসাদ্দাদ তাদের বর্ণিত হাদীসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দ্বিতীয় রাক‘আতে কিরূপে বসতেন তা বর্ণনা করেননি।\[1\] সহীহ : এটি গত হয়েছে (৭৩০ নং)।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুহাম্মাদ ইবনু ‘আমর ইবনু ‘আত্বা (রহঃ) বলেন, আমি আবূ হুমাইদ আস-সাইদী (রাঃ)-কে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর দশজন সাহাবীর উপস্থিতিতে বলতে শুনেছি, যাদের মধ্যে আবূ ক্বাতাদাহ (রাঃ)-ও ছিলেন। আবূ হুমাইদ (রাঃ) বললেন, আমি তোমাদের মধ্যে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সালাত সম্পর্কে সর্বাধিক জ্ঞাত। তারা বললেন, তাহলে আপনি বর্ণনা করুন। তখন তিনি হাদীস বর্ণনা করেন। তাতে তিনি এও বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাতে সাজদার সময় দুই পায়ের আঙ্গুলগুলো খোলা রাখতেন। অতঃপর ‘‘আল্লাহু আকবার’’ বলে মাথা উঠাতেন এবং বাম পা বিছিয়ে তার উপর বসতেন। অতঃপর দ্বিতীয় রাক’আতও তিনি অনুরূপভাবে আদায় করতেন। এরপর তিনি হাদীসের অবশিষ্ট অংশ বর্ণনা করেন যে, সবশেষে তিনি সালাম ফিরানোর পূর্বের সিজদা্ শেষ করে বাম পা বাইরের দিকে বের করে বাম পাশের নিতম্বের উপর বসতেন। ইমাম আহমাদ ইবনু হাম্বালের বর্ণনায় আরো রয়েছে, এভাবে হাদীস বর্ণনার পর উপস্থিত সাহাবীগণ বললেন, হাঁ, আপনি সত্যই বলেছেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এভাবেই সালাত আদায় করতেন। কিন্তু ইমাম আহমাদ ইবনু হাম্বল ও মুসাদ্দাদ তাদের বর্ণিত হাদীসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দ্বিতীয় রাক‘আতে কিরূপে বসতেন তা বর্ণনা করেননি।[1] সহীহ : এটি গত হয়েছে (৭৩০ নং)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Humaid al-sa’idi said (in the presence of ten compansions of the prophet):I am more informed than any of you regarding the manner in which the Messenger of Allah (ﷺ) offered his prayer. They said: Present it. The narrator then reported the tradition, saying: he bent the toes of his feet turning them towards the Qiblah when he prostrated, then he uttered “ Allah is most great,” and raised (his head), and bent his left foot and sat on it, and he did the same in the second Rakah. The narrator then transmitted the tradition, and added: In the prostration (i.e., the Rakah) which ended at the salutation, he sat on the hips at the left side. ahmad (b. Hanbal) added: they said : You are right. This is how he used to pray. They (Ahmed and Musaddad) did not mention in their versions how he sat after offering two rak’ahs of prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
+
+## French
+
+Rapporté par Abu Humaid al-Sa’idi (en présence de dix compagnons du Prophète) : Je connais mieux que vous tous la façon dont le Messager d’Allah ﷺ priait. Ils ont dit : « Décris-la. » Le narrateur a alors rapporté la tradition en disant : il repliait les orteils de ses pieds en direction de la qibla lorsqu’il se prosternait, puis il disait « Allah est le plus grand », relevait la tête, pliait son pied gauche et s’asseyait dessus, et il faisait de même lors de la deuxième unité de prière. Le narrateur a ensuite transmis la tradition et ajouté : lors de la prosternation (c’est-à-dire la rak‘a) qui se terminait par la salutation, il s’asseyait sur la hanche du côté gauche. Ahmad (ibn Hanbal) a ajouté : ils ont dit : « Tu as raison. C’est ainsi qu’il priait. » Ahmed et Musaddad n’ont pas mentionné dans leurs versions la façon dont il s’asseyait après avoir accompli deux unités de prière
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Abu 'Ashim Adl Dlahak bin Makhlad\] telah mengabarkan kepada kami \[Abdul Hamid yaitu Ibnu Ja'far\]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] telah menceritakan kepada kami \[Abdul Hamid yaitu Ibnu Ja'far\] telah menceritakan kepadaku \[Muhammad bin 'Amru\] dari \[Abu Humaid As Sa'idi\] dia berkata; saya pernah mendengarnya berkata di tengah-tengah sepuluh sahabat Rasulullah shallallahu 'alaihi wasallam -Ahmad berkata; telah mengabarkan kepadaku Muhammad bin 'Amru bin 'Atha' dia berkata; aku mendengar Abu Humaid As Sa'idi berkata di tengah-tengah sepuluh sahabat Rasulullah shallallahu 'alaihi wasallam di antaranya adalah \[Abu Qatadah\], Abu Humaid berkata; "Aku lebih mengetahui tentang shalat Rasulullah shallallahu 'alaihi wasallam." Mereka berkata; "kalau demikian, jelaskanlah." Kemudian Abu Humaid menyebutkan hadits tersebut, katanya; "… kemudian beliau membuka jari-jari kedua tangannya apabila sujud, lalu mengucapkan: "Allahu Akbar" Setelah itu, beliau mengangkat kepala dan melipat kaki kirinya serta mendudukinya, beliau mengerjakan seperti itu di raka'at yang lain." Kemudian dia menyebutkan lanjutan dari hadits tersebut, katanya; "…dan ketika beliau duduk (tahiyyat) yang terdapat salam, beliau merubah posisi kaki kiri dan duduk secara tawaruk (duduk dengan posisi kaki kiri masuk ke kaki kanan) di atas betis kiri." Ahmad menambahkan; "Sepuluh sahabat tersebut berkata; "Benar kamu, demikianlah beliau biasa melaksanakan shalat." keduanya tidak menyebutkan dalam kedua hadits tersebut tentang cara duduk dalam rala'at kedua." Telah menceritakan kepada kami \[Isa bin Ibrahim Al Mishri\] telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Al Laits\] dari \[Yazid bin Muhammad Al Qurasyi\] dan \[Yazid bin Abu Habib\] dari \[Muhammad bin 'Amru bin Halhalah\] dari \[Muhammad bin 'Amru bin 'Atha'\] bahwa dia duduk-duduk bersama dengan beberapa sahabat Rasulullah shallallahu 'alaihi wasallam…" seperti hadits ini, namun dia tidak menyerbutkan Abu Qatadah, katanya; "Apabila beliau duduk pada raka'at kedua, beliau duduk di atas kaki kirinya, dan apabila duduk pada raka'at terakhir, beliau memajukan kaki kirinya dan duduk di atas tempat duduknya. ' Telah menceritakan kepada kami \[Qutaibah\] telah menceritakan kepada kami \[Ibnu Lahi'ah\] dari \[Yazid bin Abu Habib\] dari \[Muhammad bin 'Amru bin Halhalah\] dari \[Muhammad bin 'Amru Al 'Amiri\] dia berkata; "Aku pernah menghadiri suatu majlis…"seperti hadits ini" di dalam hadits tersebut, dia berkata; "Apabila duduk pada raka'at kedua, beliau duduk di atas telapak kaki kirinya dan menegakkan kaki kanannya, dan apabila duduk di raka'at ke empat (terakhir), beliau merapatkan pantatnya ke lantai dan mengeluarkan kedua telapak kakinya dari satu arah." Telah menceritakan kepada kami \[Ali bin Al Husain bin Ibrahim\] telah menceritakan kepada kami \[Abu Badr\] telah menceritakan kepadaku \[Zuhair Abu Khaitsamah\] telah menceritakan kepada kami \[Al Hasan bin Al Hurr\] telah menceritakan kepada kami \[Isa bin Abdullah bin Malik\] dari \['Abbas atau 'Ayyasy bin Sahl As Sa'idi\] bahwa dia pernah menghadiri suatu majlis yang di dalamnya terdapat ayahnya, kemudian dia menyebutkan sebagian hadits, katanya; "Kemudian beliau sujud sambil tegak di atas telapak tangan dan kedua lututnya serta kedua telapak kakinya, kemudian beliau bertakbir dan sujud, setelah itu beliau bertakbir dan langsung berdiri tidak duduk tawaruk, kemudian beliau kembali (berdiri), kemudian beliau ruku' di raka'at yang lain (raka'at terakhir) sambil bertakbir seperti itu, kemudian beliau duduk setelah dua raka'at, sehingga ketika beliau hendak berdiri, beliau bertakbir terlebih dahulu, kemudian beliau menyempurnakan dua raka'at yang terakhir, ketika memberi salam, beliau memberi salam ke kanan dan ke arah kiri." Abu Daud mengatakan; "Dalam haditsnya Isa bin Abdullah tidak disebutkan seperti apa yang di sebutkan oleh Abdul Hamid dalam duduk tawaruk dan mengangkat (tangan) apabila berdiri dari dua raka'at." Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Abdul Malik bin 'Amru\] telah mengabarkan kepadaku \[Fulaih\] telah mengabarkan kepadaku \['Abbas bin Sahl\] dia berkata; Abu Humaid, Abu Usaid, Sahl bin Sa'd dan Muhammad bin Maslamah pernah berkumpul…" kemudian dia menyebutkan hadits ini, namun tidak menyebutkan tentang mengangkat (tangan) apabila berdiri dari dua raka'at dan juga pada waktu duduk" katanya; "Sampai beliau selesai, kemudian duduk dengan menduduki kaki kiri dan menghadapkan kiblat pada punggung kaki kanannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abu 'Ashim Adl Dlahak bin Makhlad] telah mengabarkan kepada kami [Abdul Hamid yaitu Ibnu Ja'far]. Dan telah di riwayatkan dari jalur lain, telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Abdul Hamid yaitu Ibnu Ja'far] telah menceritakan kepadaku [Muhammad bin 'Amru] dari [Abu Humaid As Sa'idi] dia berkata; saya pernah mendengarnya berkata di tengah-tengah sepuluh sahabat Rasulullah shallallahu 'alaihi wasallam -Ahmad berkata; telah mengabarkan kepadaku Muhammad bin 'Amru bin 'Atha' dia berkata; aku mendengar Abu Humaid As Sa'idi berkata di tengah-tengah sepuluh sahabat Rasulullah shallallahu 'alaihi wasallam di antaranya adalah [Abu Qatadah], Abu Humaid berkata; "Aku lebih mengetahui tentang shalat Rasulullah shallallahu 'alaihi wasallam." Mereka berkata; "kalau demikian, jelaskanlah." Kemudian Abu Humaid menyebutkan hadits tersebut, katanya; "… kemudian beliau membuka jari-jari kedua tangannya apabila sujud, lalu mengucapkan: "Allahu Akbar" Setelah itu, beliau mengangkat kepala dan melipat kaki kirinya serta mendudukinya, beliau mengerjakan seperti itu di raka'at yang lain." Kemudian dia menyebutkan lanjutan dari hadits tersebut, katanya; "…dan ketika beliau duduk (tahiyyat) yang terdapat salam, beliau merubah posisi kaki kiri dan duduk secara tawaruk (duduk dengan posisi kaki kiri masuk ke kaki kanan) di atas betis kiri." Ahmad menambahkan; "Sepuluh sahabat tersebut berkata; "Benar kamu, demikianlah beliau biasa melaksanakan shalat." keduanya tidak menyebutkan dalam kedua hadits tersebut tentang cara duduk dalam rala'at kedua." Telah menceritakan kepada kami [Isa bin Ibrahim Al Mishri] telah menceritakan kepada kami [Ibnu Wahb] dari [Al Laits] dari [Yazid bin Muhammad Al Qurasyi] dan [Yazid bin Abu Habib] dari [Muhammad bin 'Amru bin Halhalah] dari [Muhammad bin 'Amru bin 'Atha'] bahwa dia duduk-duduk bersama dengan beberapa sahabat Rasulullah shallallahu 'alaihi wasallam…" seperti hadits ini, namun dia tidak menyerbutkan Abu Qatadah, katanya; "Apabila beliau duduk pada raka'at kedua, beliau duduk di atas kaki kirinya, dan apabila duduk pada raka'at terakhir, beliau memajukan kaki kirinya dan duduk di atas tempat duduknya. ' Telah menceritakan kepada kami [Qutaibah] telah menceritakan kepada kami [Ibnu Lahi'ah] dari [Yazid bin Abu Habib] dari [Muhammad bin 'Amru bin Halhalah] dari [Muhammad bin 'Amru Al 'Amiri] dia berkata; "Aku pernah menghadiri suatu majlis…"seperti hadits ini" di dalam hadits tersebut, dia berkata; "Apabila duduk pada raka'at kedua, beliau duduk di atas telapak kaki kirinya dan menegakkan kaki kanannya, dan apabila duduk di raka'at ke empat (terakhir), beliau merapatkan pantatnya ke lantai dan mengeluarkan kedua telapak kakinya dari satu arah." Telah menceritakan kepada kami [Ali bin Al Husain bin Ibrahim] telah menceritakan kepada kami [Abu Badr] telah menceritakan kepadaku [Zuhair Abu Khaitsamah] telah menceritakan kepada kami [Al Hasan bin Al Hurr] telah menceritakan kepada kami [Isa bin Abdullah bin Malik] dari ['Abbas atau 'Ayyasy bin Sahl As Sa'idi] bahwa dia pernah menghadiri suatu majlis yang di dalamnya terdapat ayahnya, kemudian dia menyebutkan sebagian hadits, katanya; "Kemudian beliau sujud sambil tegak di atas telapak tangan dan kedua lututnya serta kedua telapak kakinya, kemudian beliau bertakbir dan sujud, setelah itu beliau bertakbir dan langsung berdiri tidak duduk tawaruk, kemudian beliau kembali (berdiri), kemudian beliau ruku' di raka'at yang lain (raka'at terakhir) sambil bertakbir seperti itu, kemudian beliau duduk setelah dua raka'at, sehingga ketika beliau hendak berdiri, beliau bertakbir terlebih dahulu, kemudian beliau menyempurnakan dua raka'at yang terakhir, ketika memberi salam, beliau memberi salam ke kanan dan ke arah kiri." Abu Daud mengatakan; "Dalam haditsnya Isa bin Abdullah tidak disebutkan seperti apa yang di sebutkan oleh Abdul Hamid dalam duduk tawaruk dan mengangkat (tangan) apabila berdiri dari dua raka'at." Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abdul Malik bin 'Amru] telah mengabarkan kepadaku [Fulaih] telah mengabarkan kepadaku ['Abbas bin Sahl] dia berkata; Abu Humaid, Abu Usaid, Sahl bin Sa'd dan Muhammad bin Maslamah pernah berkumpul…" kemudian dia menyebutkan hadits ini, namun tidak menyebutkan tentang mengangkat (tangan) apabila berdiri dari dua raka'at dan juga pada waktu duduk" katanya; "Sampai beliau selesai, kemudian duduk dengan menduduki kaki kiri dan menghadapkan kiblat pada punggung kaki kanannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Мухаммада ибн ‘Амра, что Абу Хумайд ас-Са‘иди, да будет доволен им Аллах, сказал в присутствии десяти сподвижников, среди которых был и Абу Катада: «Я лучше всех вас знаю, как молился Посланник Аллаха ﷺ». Они сказали: «Так покажи нам». И он пересказал хадис и сказал: «…затем он совершал земной поклон, немного растопыривая пальцы ног. Затем он поднимал голову и усаживался на согнутую левую ногу. Во время земного поклона он подгибал пальцы ног… Затем он проделывал то же самое в оставшейся части молитвы. А когда он садился после последнего земного поклона, то приподнимал пятку правой ноги, просовывал под неё левую ногу и усаживался на ягодицы». В версии Ахмада добавлено, что они сказали: «Ты говоришь правду, именно так он молился. В этих версиях не упоминается о том, как Посланник Аллаха ﷺ сидел после второго рак‘ата»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
 
 ## Turkish
 
+Muhammed b. Amr, Ebû Humeyd es-Sâidî'den rivayet et­miştir: Demiştir ki: Ebû Hurneyd'i Resûlullah (s.a.v.)'in ashabında on kişinin arasında dinledim. Ahmed (b. Hanbel) ise şöyle der: Muhammed b. Amr b. Ata der ki: "Ebû Humeyd es-Sâidî'yi Resûlullah'ın ashabından içlerinde Ebû Katâde'nin de bulunduğu on kişinin arasında dinledim.” \[Müellif Ebû Dâvûd, bu hadisi iki ayrı üstâddan nakletmiştir. Bunlar: Müsedded ve Ahmed b. Hanbel'dir. "Ahmed..." diye başlayan kısımdan buraya kadar olan ifadeler Ahmed'in, daha önceki ise Musedded'indir. Bundan sonra ise her iki ravinin de rivayetleri aynıdır.\] Ebû Humeyd şöyle dedi: Ben Resûlullah’ın namazını en iyi bileninizim. Oradakiler: (Öyleyse) açıkla, dediler... (Râvî) hadisi nakledip şöyle devam etti: (Ebû Humeyd) dedi ki: (Resûlullah) secde yaptığı zaman ayak parmaklarını birazcık diker (ve kıbleye yöneltir), sonra "Allahu Ekber" deyip (başını) kaldırır ve sol ayağını büküp üzerinde otururdu. Daha sonra, son rekatte de aynısını yapardı. Sonra (Ahmed b. Hanbel) hadisi anlattı.\[Bu, Ebû Davud'un ifadesidir.\] (Ebû Humeyd, de­vamla) şöyle dedi: Nihayet kendisinde(n sonra) selâm olan secdeye (son oturuşa) gelince sol ayağını (sağ tarafa) çıkardı ve sol kabasının üzerine (teverruk yaparak) oturdu. Ahmed, (Müsedded'den) fazla olarak şunu ilâve etti: Oradakiler, "doğru söyledin, Resûlullah (s.a.v.) aynen böyle namaz kılardı" dediler. (Ebû Dâvûd dedi ki:) Her ikisi (Ahmed ve Müsedded) de rivayet­lerinde ilk teşehhüdde Resûlullah'm nasıl oturduğunu anmadılar. Diğer tahric: Ebû Dâvûd, salâl; Tirmızî, mevâkît; Nesâî, Sehv; Dânmî, salât; Ahmed b. Hanbel, IV, 227; V
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Muhammed b. Amr, Ebû Humeyd es-Sâidî'den rivayet et­miştir: Demiştir ki: Ebû Hurneyd'i Resûlullah (s.a.v.)'in ashabında on kişinin arasında dinledim. Ahmed (b. Hanbel) ise şöyle der: Muhammed b. Amr b. Ata der ki: "Ebû Humeyd es-Sâidî'yi Resûlullah'ın ashabından içlerinde Ebû Katâde'nin de bulunduğu on kişinin arasında dinledim.” [Müellif Ebû Dâvûd, bu hadisi iki ayrı üstâddan nakletmiştir. Bunlar: Müsedded ve Ahmed b. Hanbel'dir. "Ahmed..." diye başlayan kısımdan buraya kadar olan ifadeler Ahmed'in, daha önceki ise Musedded'indir. Bundan sonra ise her iki ravinin de rivayetleri aynıdır.] Ebû Humeyd şöyle dedi: Ben Resûlullah’ın namazını en iyi bileninizim. Oradakiler: (Öyleyse) açıkla, dediler... (Râvî) hadisi nakledip şöyle devam etti: (Ebû Humeyd) dedi ki: (Resûlullah) secde yaptığı zaman ayak parmaklarını birazcık diker (ve kıbleye yöneltir), sonra "Allahu Ekber" deyip (başını) kaldırır ve sol ayağını büküp üzerinde otururdu. Daha sonra, son rekatte de aynısını yapardı. Sonra (Ahmed b. Hanbel) hadisi anlattı.[Bu, Ebû Davud'un ifadesidir.] (Ebû Humeyd, de­vamla) şöyle dedi: Nihayet kendisinde(n sonra) selâm olan secdeye (son oturuşa) gelince sol ayağını (sağ tarafa) çıkardı ve sol kabasının üzerine (teverruk yaparak) oturdu. Ahmed, (Müsedded'den) fazla olarak şunu ilâve etti: Oradakiler, "doğru söyledin, Resûlullah (s.a.v.) aynen böyle namaz kılardı" dediler. (Ebû Dâvûd dedi ki:) Her ikisi (Ahmed ve Müsedded) de rivayet­lerinde ilk teşehhüdde Resûlullah'm nasıl oturduğunu anmadılar. Diğer tahric: Ebû Dâvûd, salâl; Tirmızî, mevâkît; Nesâî, Sehv; Dânmî, salât; Ahmed b. Hanbel, IV, 227; V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن عمرو کہتے کہ میں نے ابو حمید ساعدی رضی اللہ عنہ سے رسول اللہ صلی اللہ علیہ وسلم کے دس اصحاب کی موجودگی میں سنا، اور احمد بن حنبل کی روایت میں ہے کہ محمد بن عمرو بن عطاء کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے دس اصحاب کی موجودگی میں، جن میں ابوقتادہ بھی تھے، ابوحمید کو یہ کہتا سنا کہ میں تم لوگوں میں سب سے زیادہ رسول اللہ صلی اللہ علیہ وسلم کے طریقہ نماز کو جانتا ہوں، لوگوں نے کہا: تو آپ پیش کیجئے، پھر راوی نے حدیث ذکر کی اس میں ہے جب آپ صلی اللہ علیہ وسلم سجدہ کرتے تو پاؤں کی انگلیاں کھلی رکھتے پھر «الله أكبر» کہتے اور سجدے سے سر اٹھاتے اور اپنا بایاں پاؤں موڑتے اور اس پر بیٹھتے پھر دوسری رکعت میں ایسا ہی کرتے، پھر راوی نے حدیث ذکر کی اس میں ہے یہاں تک کہ جب آپ صلی اللہ علیہ وسلم اس ( آخری ) سجدے سے فارغ ہوتے جس کے بعد سلام پھیرنا رہتا ہے تو بایاں پاؤں ایک طرف نکال لیتے اور بائیں سرین پر ٹیک لگا کر بیٹھتے۔ احمد نے اپنی روایت میں اضافہ کیا ہے: پھر لوگوں نے ان سے کہا: آپ نے سچ کہا، آپ اسی طرح نماز پڑھتے تھے، لیکن ان دونوں نے یہ نہیں ذکر کیا کہ دو رکعت پڑھ کر آپ صلی اللہ علیہ وسلم کس طرح بیٹھے تھے؟ ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>963</td></tr><tr><td>Arabic No</td><td>963</td></tr><tr><td>Reference</td><td>Book 2 Hadith 574</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 963 |
+| Arabic No | 963 |
+| Reference | Book 2 Hadith 574 |

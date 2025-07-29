@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا شَرِيكٌ، عَنْ عَمْرِو بْنِ عَامِرٍ الْبَجَلِيِّ، - قَالَ مُحَمَّدٌ هُوَ أَبُو أَسَدِ بْنِ عَمْرٍو - قَالَ سَأَلْتُ أَنَسَ بْنَ مَالِكٍ عَنِ الْوُضُوءِ، فَقَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَتَوَضَّأُ لِكُلِّ صَلاَةٍ وَكُنَّا نُصَلِّي الصَّلَوَاتِ بِوُضُوءٍ وَاحِدٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
+
 حدثنا محمد بن عيسى، حدثنا شريك، عن عمرو بن عامر البجلي، - قال محمد هو ابو اسد بن عمرو - قال سالت انس بن مالك عن الوضوء، فقال كان النبي صلى الله عليه وسلم يتوضا لكل صلاة وكنا نصلي الصلوات بوضوء واحد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
 
 ## Bengali
 
+। ‘আমর ইবনু ‘আমির আল-বাজালী সূত্রে বর্ণিত। বর্ণনাকারী মুহাম্মাদ বলেন, তিনি হলেন আবূ আসাদ ইবনু ‘আমর। তিনি বলেন, একদা আমি আনাস ইবনু মালিক (রাঃ)-কে অযু সম্পর্কে জিজ্ঞাসা করলে তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক সালাতের জন্যই (নতুনভাবে) অযু করতেন। আর আমরা এক অযুতেই একাধিকবার সালাত আদায় করতাম।\[1\] সহীহ : বুখারী।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আমর ইবনু ‘আমির আল-বাজালী সূত্রে বর্ণিত। বর্ণনাকারী মুহাম্মাদ বলেন, তিনি হলেন আবূ আসাদ ইবনু ‘আমর। তিনি বলেন, একদা আমি আনাস ইবনু মালিক (রাঃ)-কে অযু সম্পর্কে জিজ্ঞাসা করলে তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রত্যেক সালাতের জন্যই (নতুনভাবে) অযু করতেন। আর আমরা এক অযুতেই একাধিকবার সালাত আদায় করতাম।[1] সহীহ : বুখারী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Asad b. ‘Amr said:I asked Anas b. Malik about ablution. He replied: The Prophet (ﷺ) performed ablution for each prayer and we offered (many) prayers with the same ablution
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
+
+## French
+
+Rapporté par Abu Asad b. ‘Amr رضي الله عنه : J’ai demandé à Anas b. Malik au sujet des ablutions. Il a répondu : « Le Prophète ﷺ faisait ses ablutions pour chaque prière, et nous avons parfois prié plusieurs fois avec la même ablution. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isa\] telah menceritakan kepada kami \[Syarik\] dari \[Amru bin Amir Al-Bajali\] berkata Muhammad, yaitu Abu Asad bin Amru dia berkata; Saya pernah bertanya kepada \[Anas bin Malik\] tentang cara berwudhu. Maka dia menjawab; Nabi shallallahu 'alaihi wasallam biasa berwudhu untuk setiap kali akan mengerjakan shalat. Dan kami pun pernah mengerjakan beberapa shalat dengan sekali wudhu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Syarik] dari [Amru bin Amir Al-Bajali] berkata Muhammad, yaitu Abu Asad bin Amru dia berkata; Saya pernah bertanya kepada [Anas bin Malik] tentang cara berwudhu. Maka dia menjawab; Nabi shallallahu 'alaihi wasallam biasa berwudhu untuk setiap kali akan mengerjakan shalat. Dan kami pun pernah mengerjakan beberapa shalat dengan sekali wudhu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Амра ибн ‘Амира аль-Баджали о том, что Мухаммад – он же Абу Асад ибн ‘Амр - сказал: «Я спросил Анаса ибн Малика об омовении и он сказал: “Пророк ﷺ совершал омовение для каждой молитвы, а мы совершали несколько молитв с одним омовением”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Esed b. Amr dedi ki: "Enes b. Malik'e abdest hakkında soru sordum. (Bana şöyle) dedi: Nebi (sallallahu aleyhi ve sellem) herbir (farz) namaz için (ayrı bir) abdest alırdı. Biz ise bir abdestle birçok namaz kılardık.” Diğer tahric: Buhari, vudu'; Müslim, tahare; Tirmizî, tahare; Nesai, tahare, İbn Mace, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمرو بن عامر بجلی (محمد بن عیسیٰ کہتے ہیں: عمرو بن عامر بجلی ابواسد بن عمرو ہیں ) کہتے ہیں کہ میں نے انس بن مالک رضی اللہ عنہ سے وضو کے بارے میں پوچھا، تو انہوں نے کہا: نبی اکرم صلی اللہ علیہ وسلم ہر نماز کے لیے وضو کرتے تھے، اور ہم لوگ ایک ہی وضو سے کئی نمازیں پڑھا کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (214)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>171</td></tr><tr><td>Arabic No</td><td>171</td></tr><tr><td>Reference</td><td>Book 1 Hadith 171</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (214) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 171 |
+| Arabic No | 171 |
+| Reference | Book 1 Hadith 171 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَمْرِو بْنِ أَبِي الْحَجَّاجِ أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، عَنْ حُسَيْنٍ الْمُعَلِّمِ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رِئَابَ بْنَ حُذَيْفَةَ، تَزَوَّجَ امْرَأَةً فَوَلَدَتْ لَهُ ثَلاَثَةَ غِلْمَةٍ فَمَاتَتْ أُمُّهُمْ فَوَرِثُوهَا رِبَاعَهَا وَوَلاَءَ مَوَالِيهَا وَكَانَ عَمْرُو بْنُ الْعَاصِ عَصَبَةَ بَنِيهَا فَأَخْرَجَهُمْ إِلَى الشَّامِ فَمَاتُوا فَقَدِمَ عَمْرُو بْنُ الْعَاصِ وَمَاتَ مَوْلًى لَهَا وَتَرَكَ مَالاً لَهُ فَخَاصَمَهُ إِخْوَتُهَا إِلَى عُمَرَ بْنِ الْخَطَّابِ فَقَالَ عُمَرُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَا أَحْرَزَ الْوَلَدُ أَوِ الْوَالِدُ فَهُوَ لِعَصَبَتِهِ مَنْ كَانَ ‏"‏ ‏.‏ قَالَ فَكَتَبَ لَهُ كِتَابًا فِيهِ شَهَادَةُ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَزَيْدِ بْنِ ثَابِتٍ وَرَجُلٍ آخَرَ فَلَمَّا اسْتُخْلِفَ عَبْدُ الْمَلِكِ اخْتَصَمُوا إِلَى هِشَامِ بْنِ إِسْمَاعِيلَ أَوْ إِلَى إِسْمَاعِيلَ بْنِ هِشَامٍ فَرَفَعَهُمْ إِلَى عَبْدِ الْمَلِكِ فَقَالَ هَذَا مِنَ الْقَضَاءِ الَّذِي مَا كُنْتُ أَرَاهُ ‏.‏ قَالَ فَقَضَى لَنَا بِكِتَابِ عُمَرَ بْنِ الْخَطَّابِ فَنَحْنُ فِيهِ إِلَى السَّاعَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
+
 حدثنا عبد الله بن عمرو بن ابي الحجاج ابو معمر، حدثنا عبد الوارث، عن حسين المعلم، عن عمرو بن شعيب، عن ابيه، عن جده، ان رياب بن حذيفة، تزوج امراة فولدت له ثلاثة غلمة فماتت امهم فورثوها رباعها وولاء مواليها وكان عمرو بن العاص عصبة بنيها فاخرجهم الى الشام فماتوا فقدم عمرو بن العاص ومات مولى لها وترك مالا له فخاصمه اخوتها الى عمر بن الخطاب فقال عمر قال رسول الله صلى الله عليه وسلم " ما احرز الولد او الوالد فهو لعصبته من كان " . قال فكتب له كتابا فيه شهادة عبد الرحمن بن عوف وزيد بن ثابت ورجل اخر فلما استخلف عبد الملك اختصموا الى هشام بن اسماعيل او الى اسماعيل بن هشام فرفعهم الى عبد الملك فقال هذا من القضاء الذي ما كنت اراه . قال فقضى لنا بكتاب عمر بن الخطاب فنحن فيه الى الساعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। রিয়াব ইবনু হুযাইফাহ জনৈক মহিলাকে বিবাহ করে এবং তার গর্ভে তিনটি সন্তান জন্ম হয়। অতঃপর তাদের মা মারা গেলে তারা তার পরিত্যক্ত বাড়ি ও আযাদকৃত দাসের সম্পদের উত্তরাধিকারী হয়। ‘আমর ইবনুল ‘আস (রাঃ) ছিলেন তাদের আত্মীয়। পরবর্তী সময় তিনি তাদেরকে সিরিয়ায় প্রেরণ করেন। তারা সেখানে মৃত্যু বরণ করে। পরে ‘আমর ইবনুল ‘আস সেখানে যান। তখন ঐ মহিলার মুক্তদাস কিছু মালপত্র রেখে মারা যায়। মহিলার ভাইয়েরা আমরের বিরুদ্ধে ‘উমার ইবনুল খাত্তাব (রাঃ)-এর নিকট অভিযোগ করলে ‘উমার (রাঃ) বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পিতা বা পুত্র যে ওয়ালাআ সঞ্চয় করলো সেগুলো তার আসাবা পাবে। ‘আব্দুল্লাহ ইবনু ‘আমর (রাঃ) বলেন, ‘উমার (রাঃ) আমাকে একটি রায় লিখেন। এতে ‘আব্দুর রাহমান ইবনু ‘আওফ, যায়িদ ইবনু সাবিত (রাঃ) ও অন্য এক লোক সাক্ষী হন। ‘আব্দুল মালিক যখন (৬৮৫ খৃঃ) খলীফা হলেন, তখন হিশাম ইবনু ইসমাঈল বা ইসমাঈল ইবনু হিশামের নিকট অনুরূপ একটি অভিযোগ করা হয়। তিনি বিষয়টি আব্দুল মালিকের নিকট পাঠিয়ে দেন। ‘আব্দুল মালিক বলেন, আমার মনে হয় এর ফায়সালা ইতিপূর্বে আমার নজড়ে পড়েছে। তিনি বলেন, তিনি ‘উমার ইবনুল খাত্তাব (রাঃ)-এর রায় অনুসারেই রায় দিলেন। আর সেই ওয়ালাআর সম্পত্তি এখনো আমাদের অধিকারে রয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather reported: Rabab ibn Hudhayfah married a woman and three sons were born to him from her. Their mother then died. They inherited her houses and had the right of inheritance of her freed slaves. Amr ibn al-'As was the agnate of her sons. He sent them to Syria where they died. Amr ibn al-'As then came. A freed slave of hers died and left some property. Her brothers disputed with him and brought the case to Umar ibn al-Khattab. Umar reported the Messenger of Allah (ﷺ) as saying: Whatever property a son or a father receives as an heir will go to his agnates, whoever they may be. He then wrote a document for him, witnessed by AbdurRahman ibn Awf, Zayd ibn Thabit and one other person. When AbdulMalik became caliph, they presented the case to Hisham ibn Isma'il or Isma'il ibn Hisham (the narrator is doubtful). He sent them to 'Abd al-Malik who said: This is the decision which I have already seen. The narrator said: So he ('Abd al-Malik) made the decision on the basis of the document of Umar ibn al-Khattab, and that is still with us till this moment
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
+
+## French
+
+Rapporté par ‘Amr b. Suh‘aib, d’après son père, qui le tient de son grand-père : Rabab ibn Hudhayfah a épousé une femme et a eu trois fils avec elle. Leur mère est décédée. Ils ont hérité de ses maisons et avaient le droit d’hériter de ses esclaves affranchis. ‘Amr ibn al-‘As était l’agnat de ses fils. Il les a envoyés en Syrie, où ils sont morts. ‘Amr ibn al-‘As est alors revenu. Un esclave affranchi de cette femme est mort et a laissé des biens. Les frères de la femme ont contesté avec lui et ont porté l’affaire devant Omar ibn al-Khattab. Omar a rapporté que le Messager d’Allah ﷺ avait dit : « Tout bien qu’un fils ou un père reçoit en héritage revient à ses agnats, quels qu’ils soient. » Il a alors rédigé un document pour lui, attesté par AbdurRahman ibn Awf, Zayd ibn Thabit et une autre personne. Quand AbdulMalik est devenu calife, ils ont présenté l’affaire à Hisham ibn Isma‘il ou Isma‘il ibn Hisham (le narrateur n’est pas sûr). Il les a envoyés à ‘Abd al-Malik qui a dit : « C’est la décision que j’ai déjà vue. » Le narrateur a dit : Ainsi, ‘Abd al-Malik a jugé selon le document d’Omar ibn al-Khattab, et il est encore chez nous à ce jour
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin 'Amr bin Abu Al Hajjaj Abu Ma'mar\], telah menceritakan kepada kami \[Abdul Warits\] dari \[Husain Al Mu'allim\], dari \['Amr bin Syu'aib\], dari \[ayahnya\], dari \[kakeknya\], bahwa Ri'ab bin Hudzaifah telah menikah dengan seorang wanita kemudian ia melahirkan tiga orang anak. Kemudian ibu mereka meninggal. Kemudian mereka mewarisi tempat tinggalnya dan perwalian mantan budaknya. Dan 'Amr bin Al 'Ash adalah 'ashabah (orang yang mendapat sisa dari pembagian warisan) anak-anak wanita tersebut, kemudian ia mengeluarkan mereka ke Syam, dan mereka meninggal. Kemudian 'Amr bin Al 'Ash datang dan mantan budak wanita tersebut dan meninggalkan harta untuknya. Kemudian para saudara wanita tersebut mempermasalahkannya kepada Umar bin Al Khathab, kemudian \[Umar\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang dijaga seorang anak atau orang tua adalah untuk 'ashabahnya, siapapun dia." Ia berkata; kemudian Umar menulis untuknya sebuah surat yang berisi persaksian Abdurrahman bin 'Auf, dan Zaid bin Tsabit serta seorang laki-laki yang lain. Kemudian tatkala Abdul Malik ditunjuk menjadi Khalifah mereka memperselisihkannya kepada Hisyam bin Isma'il, atau kepada Isma'il bin Hisyam. Kemudian ia melaporkannya kepada Abdul Malik. Kemudian ia berkata; ini termasuk keputusan yang telah aku lihat. Ia berkata; kemudian Abdul Malik memutuskan untuk kami dengan surat Umar bin Al Khathab, dan kami dalam keputusan tersebut hingga saat ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin 'Amr bin Abu Al Hajjaj Abu Ma'mar], telah menceritakan kepada kami [Abdul Warits] dari [Husain Al Mu'allim], dari ['Amr bin Syu'aib], dari [ayahnya], dari [kakeknya], bahwa Ri'ab bin Hudzaifah telah menikah dengan seorang wanita kemudian ia melahirkan tiga orang anak. Kemudian ibu mereka meninggal. Kemudian mereka mewarisi tempat tinggalnya dan perwalian mantan budaknya. Dan 'Amr bin Al 'Ash adalah 'ashabah (orang yang mendapat sisa dari pembagian warisan) anak-anak wanita tersebut, kemudian ia mengeluarkan mereka ke Syam, dan mereka meninggal. Kemudian 'Amr bin Al 'Ash datang dan mantan budak wanita tersebut dan meninggalkan harta untuknya. Kemudian para saudara wanita tersebut mempermasalahkannya kepada Umar bin Al Khathab, kemudian [Umar] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apa yang dijaga seorang anak atau orang tua adalah untuk 'ashabahnya, siapapun dia." Ia berkata; kemudian Umar menulis untuknya sebuah surat yang berisi persaksian Abdurrahman bin 'Auf, dan Zaid bin Tsabit serta seorang laki-laki yang lain. Kemudian tatkala Abdul Malik ditunjuk menjadi Khalifah mereka memperselisihkannya kepada Hisyam bin Isma'il, atau kepada Isma'il bin Hisyam. Kemudian ia melaporkannya kepada Abdul Malik. Kemudian ia berkata; ini termasuk keputusan yang telah aku lihat. Ia berkata; kemudian Abdul Malik memutuskan untuk kami dengan surat Umar bin Al Khathab, dan kami dalam keputusan tersebut hingga saat ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, что Риаб ибн Хузайфа женился на одной женщине, она родила ему троих сыновей, а потом умерла. Они получили её наследство и унаследовали право покровительства над её вольноотпущенниками. А ‘Амр ибн аль-‘Ас был родственником её детей со стороны отца. Он отправил их в Шам, где они и умерли. А ‘Амр ибн аль-‘Ас приехал туда, и как раз в это время умер один из её вольноотпущенников, оставив некоторое имущество. Её братья стали оспаривать его право на наследство. Они обратились по этому вопросу к ‘Умару ибн аль-Хаттабу, чтобы он рассудил их, и ‘Умар сообщил им, что Посланник Аллаха ﷺ сказал: «Оставленное отпрыском или родителем принадлежит его родственникам со стороны отца, кем бы они ни были». И он написал ему послание, в котором ‘Абду-р-Рахман ибн ‘Ауф, Зейд ибн Сабит и ещё один человек засвидетельствовали правильность вынесенного им решения. Потом, когда к власти пришёл Абду-ль-Малик, они обратились к Хишаму ибн Исма‘илю (или: Исма‘илю ибн Хишаму), и он сообщил об их деле ‘Абду-ль-Малику, который сказал: «С таким мне ещё сталкиваться не приходилось!» И он вынес решение на основе письма ‘Умара, и это предписание действует и по сей день
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr b. Şuayb'ın dedesinden (rivayet olunduğuna göre) Riâb b. Huzeyfe bir kadınla evlenmiş de kadın ondan üç erkek çocuk dünyaya getirmiş, sonra çocukların annesi ölmüş. Çocuklar da annelerinin ve hürriyetine kavuşturduğu kölelerinin velâ hakkına vâris oldular. Amr b. As da (bu kadının) oğullarının asabesi idi. Onları Şam'a götürdü (çocuklar orada) öldüler. Bunun üzerine Amr b. As geri geldi ve (o sırada) kadının hürriyetine kavuşturduğu bir kölesi (geriye) bir miktar mal bırakarak öldü. (Amr b. As da hem çocukların hem de bu köle'nin mallarına vâris olarak el koydu) Bunun üzerine (ölen kadının hayatta bulunan erkek kardeşleri) Amr'ı Ömer b. el-Hattab'a şikayet ettiler. Ömer de -RasÛlullah sallallahu aleyhivesellem: "Çocuğun yahutta babanın kazandığı mal onun (hayatta) olan asabesinindir." buyurdu.- dedi. (Ve Amr b. As lehine hüküm verdi). Bu hadisi rivayet eden Abdullah b. Amr rivayetine devamla dedi ki: (Ömer b. Hattâb) Amr b. As'a (hitaben bu meseleyle ilgili olarak): içinde Abdurrahman b. Avf ile Zeyd b. Sabit'in ve diğer bir adamın şahitliği bulunan bir de mektub yazdı. Nihayet Abdülmelik halifelik makamına getirilince (Hz. Ömer'in hükmüne uyulmadığı için ölen kadının erkek kardeşleri) Hişam b. İsrfıail'e -yahutta İsmail b. Hişam'a-şikâyette bulundular. (Hişam b. İsmail de) onlar(ın davasını) Abdülmelik'e havale etti. (Abdülmelik, Hz. Ömer'in mektubunu ve bu meseledeki hükmünü okuyunca: (Hz. Ömer'in verdiği) bu hüküm, benim de uygun gördüğüm paylaştığım hükümdür, dedi. Ömer b. Hattâb'ın mektubuna göre o da lehimize hüküm verdi. "Biz şu ana kadar bu hükme göre amel edegeldik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رئاب بن حذیفہ نے ایک عورت سے شادی کی، اس کے بطن سے تین لڑکے پیدا ہوئے، پھر لڑکوں کی ماں مر گئی، اور وہ لڑکے اپنی ماں کے گھر کے اور اپنی ماں کے آزاد کئے ہوئے غلاموں کی ولاء کے مالک ہوئے، اور عمرو بن العاص رضی اللہ عنہ ان لڑکوں کے عصبہ ( یعنی وارث ) ہوئے اس کے بعد عمرو بن العاص رضی اللہ عنہ نے انہیں شام کی طرف نکال دیا، اور وہ وہاں مر گئے تو عمرو بن العاص رضی اللہ عنہ آئے اور اس عورت کا ایک آزاد کیا ہوا غلام مر گیا اور مال چھوڑ گیا تو اس عورت کے بھائی عمر بن خطاب رضی اللہ عنہ کے پاس اس عورت کے ولاء کا مقدمہ لے گئے، عمر رضی اللہ عنہ نے کہا: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو ولاء اولاد یا باپ حاصل کرے تو وہ اس کے عصبوں کو ملے گی خواہ کوئی بھی ہو ( اولاد کے یا باپ کے مر جانے کے بعد ماں کے وارثوں کو نہ ملے گی ) پھر عمر رضی اللہ عنہ نے اس باب میں ایک فیصلہ نامہ لکھ دیا اور اس پر عبدالرحمٰن بن عوف اور زید بن ثابت رضی اللہ عنہما اور ایک اور شخص کی گواہی ثابت کر دی، جب عبدالملک بن مروان خلیفہ ہوئے تو پھر ان لوگوں نے جھگڑا کیا یہ لوگ اپنا مقدمہ ہشام بن اسماعیل یا اسماعیل بن ہشام کے پاس لے گئے انہوں نے عبدالملک کے پاس مقدمہ کو بھیج دیا، عبدالملک نے کہا: یہ فیصلہ تو ایسا لگتا ہے جیسے میں اس کو دیکھ چکا ہوں۔ راوی کہتے ہیں پھر عبدالملک نے عمر بن خطاب رضی اللہ عنہ کے فیصلہ کے مطابق فیصلہ دیا اور وہ ولاء اب تک ہمارے پاس ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2917</td></tr><tr><td>Arabic No</td><td>2917</td></tr><tr><td>Reference</td><td>Book 19 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2917 |
+| Arabic No | 2917 |
+| Reference | Book 19 Hadith 33 |

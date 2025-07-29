@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ نَصْرِ بْنِ عَلِيٍّ، قَالَ حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، قَالَ قُلْتُ لأَيُّوبَ هَلْ عَلِمْتَ أَحَدًا قَالَ فِي أَمْرِكِ بِيَدِكِ أَنَّهَا ثَلاَثٌ غَيْرَ الْحَسَنِ فَقَالَ لاَ ثُمَّ قَالَ اللَّهُمَّ غَفْرًا إِلاَّ مَا حَدَّثَنِي قَتَادَةُ عَنْ كَثِيرٍ مَوْلَى ابْنِ سَمُرَةَ عَنْ أَبِي سَلَمَةَ عَنْ أَبِي هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ ثَلاَثٌ ‏"‏ ‏.‏ فَلَقِيتُ كَثِيرًا فَسَأَلْتُهُ فَلَمْ يَعْرِفْهُ فَرَجَعْتُ إِلَى قَتَادَةَ فَأَخْبَرْتُهُ فَقَالَ نَسِيَ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا حَدِيثٌ مُنْكَرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |
+
 اخبرنا علي بن نصر بن علي، قال حدثنا سليمان بن حرب، قال حدثنا حماد بن زيد، قال قلت لايوب هل علمت احدا قال في امرك بيدك انها ثلاث غير الحسن فقال لا ثم قال اللهم غفرا الا ما حدثني قتادة عن كثير مولى ابن سمرة عن ابي سلمة عن ابي هريرة عن النبي صلى الله عليه وسلم قال " ثلاث " . فلقيت كثيرا فسالته فلم يعرفه فرجعت الى قتادة فاخبرته فقال نسي . قال ابو عبد الرحمن هذا حديث منكر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আলী ইবন নসর ইবন আলী (রহঃ) ... হাম্মাদ ইবন যায়দ (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি আইয়ূব (রাঃ)-কে বললাম, তুমি কি কাউকেও (أَمْرِكِ بِيَدِكِ) অৰ্থাৎ "তোমরা ব্যাপার তোমার হাতে" বলায় তাতে তিনি তালাক বলতে শুনেছ- হাসান ব্যতীত? তিনি বললেনঃ না। এরপর তিনি বললেন, আল্লাহু ক্ষমা কর। কাতাদা আবু সালাম (রাঃ) আবু হুরায়রা (রাঃ) রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন যে, এরূপ বললে- তিন তালাক হয়ে যাবে। এরপর আমি কাছীর (রহঃ)-এর সাথে সাক্ষাৎ করে তাকে জিজ্ঞাসা করলাম, তিনি তাকে চিনতে পারলেন না। এরপর আমি কাতাদা (রহঃ)-এর নিকট ফিরে আসলাম এবং তাকে এ সংবাদ দিলাম। তিনি বললেনঃ সে ভুলে গেছে। আবু আবদুর রহমান বলেন, এটা মুনকার হাদীস।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hammad bin Zaid said:"I said to Ayyub: 'Do you know anyone who said concerning the phrase 'It is up to you' that it is equivalent to three (divorces) except Al-Hasan?' He said: 'No.' Then he said: 'O Allah! Grant forgiveness, sorry.'" Qatadah narrated to me from Kathir the freed slave of Ibn Samurah, from Abu Salamah, from Abu Hurairah, that the Prophet said: "Three." I met Kathir and asked him, and he did not know of it. I went back to Qatadah and told him, and he said: "He forgot
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |
+
+## French
+
+Rapporté par Hammad bin Zaid : J'ai dit à Ayyub : "Connais-tu quelqu'un d'autre qu'Al-Hasan qui a dit, à propos de l'expression 'C'est à toi de voir', que cela équivaut à trois (divorces) ?" Il a dit : "Non." Puis il a dit : "Ô Allah, pardonne-moi, désolé." Qatadah m'a rapporté de Kathir, l'affranchi d'Ibn Samurah, d'Abu Salamah, d'Abu Hurairah, que le Prophète a dit : "Trois." J'ai rencontré Kathir et lui ai demandé, mais il ne s'en souvenait pas. Je suis retourné voir Qatadah et lui ai dit, et il a dit : "Il a oublié
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ali bin Nadhr bin Ali\], ia berkata; telah menceritakan kepada kami \[Sulaiman bin Harb\], ia berkata; telah menceritakan kepada kami \[Hammad bin Zaid\], ia berkata; aku berkata kepada \[Ayyub\]; apakah engkau tahu seseorang yang berkata; "mengenai urusanmu ada di tanganmu". Bahwa hal tersebut merupakan talak tiga kali selain Hasan? Ia berkata tidak, kemudian ia berkata; ya Allah ampunilah, kecuali apa yang dikatakan \[Qotadah\] kepadaku dari \[Katsir\] mantan budak Ibnu Samurah dari \[Abu Salamah\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: " Tiga kali, " lalu aku bertemu dengan Katsir lalu bertanya kepadanya, dan ia tidak tahu, lalu aku kembali kepada Qotadah dan aku mengkhabar kepadanya, maka ia berkata; beliau lupa. Abu Abdurrahman berkata hadis ini munkar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ali bin Nadhr bin Ali], ia berkata; telah menceritakan kepada kami [Sulaiman bin Harb], ia berkata; telah menceritakan kepada kami [Hammad bin Zaid], ia berkata; aku berkata kepada [Ayyub]; apakah engkau tahu seseorang yang berkata; "mengenai urusanmu ada di tanganmu". Bahwa hal tersebut merupakan talak tiga kali selain Hasan? Ia berkata tidak, kemudian ia berkata; ya Allah ampunilah, kecuali apa yang dikatakan [Qotadah] kepadaku dari [Katsir] mantan budak Ibnu Samurah dari [Abu Salamah] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: " Tiga kali, " lalu aku bertemu dengan Katsir lalu bertanya kepadanya, dan ia tidak tahu, lalu aku kembali kepada Qotadah dan aku mengkhabar kepadanya, maka ia berkata; beliau lupa. Abu Abdurrahman berkata hadis ini munkar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حماد بن زید کہتے ہیں کہ میں نے ایوب سے کہا: کیا آپ حسن کے سوا کسی کو جانتے ہیں؟ جو «أمرک بیدک» کہنے سے تین طلاقیں لاگو کرتا ہو؟ انہوں نے کہا نہیں ( میں کسی کو بھی نہیں جانتا ) پھر انہوں نے کہا: اللہ انہیں بخش دے اب رہی قتادہ کی حدیث جو انہوں نے مجھ سے کثیر مولی ابن سمرۃ سے روایت کی ہے اور کثیر نے ابوسلمہ سے انہوں نے ابوہریرہ سے اور ابوہریرہ نے نبی اکرم صلی اللہ علیہ وسلم سے، آپ صلی اللہ علیہ وسلم نے فرمایا: ”وہ تین طلاقیں ہوتی ہیں“ تو ( اس کا حال یہ ہے کہ ) میری ملاقات کثیر سے ہوئی میں نے ان سے ( اس حدیث کے متعلق ) پوچھا تو انہوں نے اسے پہچانا ہی نہیں ( کہ میں نے ایسی کوئی روایت کی ہے ) میں لوٹ کر قتادہ کے پاس آیا اور انہیں یہ بات بتائی ( کہ وہ ایسا کہتے ہیں ) تو قتادہ نے کہا کہ وہ بھول گئے ( انہوں نے ایسی بات کہی ہے ) ۔ ابوعبدالرحمٰن نسائی کہتے ہیں: یہ حدیث منکر ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3410</td></tr><tr><td>Arabic No</td><td>3410</td></tr><tr><td>Reference</td><td>Book 27 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3410 |
+| Arabic No | 3410 |
+| Reference | Book 27 Hadith 22 |

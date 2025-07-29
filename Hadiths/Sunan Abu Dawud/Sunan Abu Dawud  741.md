@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّهُ كَانَ إِذَا دَخَلَ فِي الصَّلاَةِ كَبَّرَ وَرَفَعَ يَدَيْهِ وَإِذَا رَكَعَ وَإِذَا قَالَ سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ وَإِذَا قَامَ مِنَ الرَّكْعَتَيْنِ رَفَعَ يَدَيْهِ وَيَرْفَعُ ذَلِكَ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ أَبُو دَاوُدَ الصَّحِيحُ قَوْلُ ابْنِ عُمَرَ وَلَيْسَ بِمَرْفُوعٍ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَى بَقِيَّةُ أَوَّلَهُ عَنْ عُبَيْدِ اللَّهِ وَأَسْنَدَهُ وَرَوَاهُ الثَّقَفِيُّ عَنْ عُبَيْدِ اللَّهِ أَوْقَفَهُ عَلَى اب��نِ عُمَرَ وَقَالَ فِيهِ وَإِذَا قَامَ مِنَ الرَّكْعَتَيْنِ يَرْفَعُهُمَا إِلَى ثَدْيَيْهِ وَهَذَا هُوَ الصَّحِيحُ ‏.‏ قال أَبُو دَاوُدَ وَرَوَاهُ اللَّيْثُ بْنُ سَعْدٍ وَمَالِكٌ وَأَيُّوبُ وَابْنُ جُرَيْجٍ مَوْقُوفًا وَأَسْنَدَهُ حَمَّادُ بْنُ سَلَمَةَ وَحْدَهُ عَنْ أَيُّوبَ وَلَمْ يَذْكُرْ أَيُّوبُ وَمَالِكٌ الرَّفْعَ إِذَا قَامَ مِنَ السَّجْدَتَيْنِ وَذَكَرَهُ اللَّيْثُ فِي حَدِيثِهِ قَالَ ابْنُ جُرَيْجٍ فِيهِ قُلْتُ لِنَافِعٍ أَكَانَ ابْنُ عُمَرَ يَجْعَلُ الأُولَى أَرْفَعَهُنَّ قَالَ لاَ سَوَاءً ‏.‏ قُلْتُ أَشِرْ لِي ‏.‏ فَأَشَارَ إِلَى الثَّدْيَيْنِ أَوْ أَسْفَلَ مِنْ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
+
 حدثنا نصر بن علي، اخبرنا عبد الاعلى، حدثنا عبيد الله، عن نافع، عن ابن عمر، انه كان اذا دخل في الصلاة كبر ورفع يديه واذا ركع واذا قال سمع الله لمن حمده واذا قام من الركعتين رفع يديه ويرفع ذلك الى رسول الله صلى الله عليه وسلم . قال ابو داود الصحيح قول ابن عمر وليس بمرفوع . قال ابو داود روى بقية اوله عن عبيد الله واسنده ورواه الثقفي عن عبيد الله اوقفه على اب��ن عمر وقال فيه واذا قام من الركعتين يرفعهما الى ثدييه وهذا هو الصحيح . قال ابو داود ورواه الليث بن سعد ومالك وايوب وابن جريج موقوفا واسنده حماد بن سلمة وحده عن ايوب ولم يذكر ايوب ومالك الرفع اذا قام من السجدتين وذكره الليث في حديثه قال ابن جريج فيه قلت لنافع اكان ابن عمر يجعل الاولى ارفعهن قال لا سواء . قلت اشر لي . فاشار الى الثديين او اسفل من ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
 
 ## Bengali
 
+। নাফি' (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাঃ) সালাতে দাঁড়িয়ে তাকবীর বলার সময়, রুকু‘তে গমনকালে, রুকু‘ হতে মাথা উত্তোলনকালে সামিআল্লাহু লিমান হামিদাহ্ বলে এবং দুই রাক‘আত সালাত আদায়ের পর (তৃতীয় রাক‘আতের জন্য) দাড়ানোর সময় উভয় হাত উত্তোলন করতেন। তিনি এর বর্ণনা সূত্র রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত পৌঁছিয়েছেন (অর্থাৎ এটি মারফূ হাদীস)। ইমাম আবূ দাউদ (রহঃ) বলেন, সঠিক হচ্ছে, এটি ইবনু ‘উমার (রাঃ)-এর বক্তব্য, মারফূ হাদীস নয়। ইমাম আবূ দাউদ (রহঃ) আরো বলেন, প্রথম হাদীসের দুই রাক‘আত সালাত শেষে দাঁড়ানোর সময় হাত উত্তোলনের কথাটি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণিত নয়। আর সাক্বাফী এটি ‘উবাইদুল্লাহ সূত্রে ইবনু ‘উমার (রাঃ)-এর মাওকূফ বর্ণনা হিসেবে উল্লেখ করেছেন। তাতে উল্লেখ আছেঃ ‘‘তিনি দু’ রাক‘আত সালাত শেষে দাড়ানোর সময় উভয় হাত বক্ষ পর্যন্ত উঠাতেন।’’ এ বর্ণনাটি সহীহ।\[1\] সহীহ : বুখারী। ইমাম আবূ দাউদ (রহঃ) আরো বলেন, লাইস ইবনু সা‘দ, মালিক, আইয়ূব ও ইবনু জুরায়িজ প্রমুখ বর্ণনাকারীগণ এর বর্ণনা সূত্র সাহাবী পর্যন্ত পৌঁছিয়েছেন। হাম্মাদই কেবল এককভাবে হাদীসকে মারফূ হিসাবে বর্ণনা করেছেন। বর্ণনাকারী ইবনু জুরায়িজ বলেন, আমি নাফি‘কে জিজ্ঞাসা করলাম, ইবনু ‘উমার (রাঃ) কি অন্য সময়ের চেয়ে তাকবীরে তাহরীমা বলার সময় তাঁর হাত অধিক উঠাতেন? তিনি বলেন, না; বরং তিনি সব সময়ই একইভাবে হাত উঠাতেন। আমি বললাম, আমাকে ইশারায় দেখিয়ে দিন। তিনি তার বুক বা তার চেয়ে একটু নীচে পর্যন্ত ইশারা করে দেখালেন।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নাফি' (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু ‘উমার (রাঃ) সালাতে দাঁড়িয়ে তাকবীর বলার সময়, রুকু‘তে গমনকালে, রুকু‘ হতে মাথা উত্তোলনকালে সামিআল্লাহু লিমান হামিদাহ্ বলে এবং দুই রাক‘আত সালাত আদায়ের পর (তৃতীয় রাক‘আতের জন্য) দাড়ানোর সময় উভয় হাত উত্তোলন করতেন। তিনি এর বর্ণনা সূত্র রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম পর্যন্ত পৌঁছিয়েছেন (অর্থাৎ এটি মারফূ হাদীস)। ইমাম আবূ দাউদ (রহঃ) বলেন, সঠিক হচ্ছে, এটি ইবনু ‘উমার (রাঃ)-এর বক্তব্য, মারফূ হাদীস নয়। ইমাম আবূ দাউদ (রহঃ) আরো বলেন, প্রথম হাদীসের দুই রাক‘আত সালাত শেষে দাঁড়ানোর সময় হাত উত্তোলনের কথাটি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে বর্ণিত নয়। আর সাক্বাফী এটি ‘উবাইদুল্লাহ সূত্রে ইবনু ‘উমার (রাঃ)-এর মাওকূফ বর্ণনা হিসেবে উল্লেখ করেছেন। তাতে উল্লেখ আছেঃ ‘‘তিনি দু’ রাক‘আত সালাত শেষে দাড়ানোর সময় উভয় হাত বক্ষ পর্যন্ত উঠাতেন।’’ এ বর্ণনাটি সহীহ।[1] সহীহ : বুখারী। ইমাম আবূ দাউদ (রহঃ) আরো বলেন, লাইস ইবনু সা‘দ, মালিক, আইয়ূব ও ইবনু জুরায়িজ প্রমুখ বর্ণনাকারীগণ এর বর্ণনা সূত্র সাহাবী পর্যন্ত পৌঁছিয়েছেন। হাম্মাদই কেবল এককভাবে হাদীসকে মারফূ হিসাবে বর্ণনা করেছেন। বর্ণনাকারী ইবনু জুরায়িজ বলেন, আমি নাফি‘কে জিজ্ঞাসা করলাম, ইবনু ‘উমার (রাঃ) কি অন্য সময়ের চেয়ে তাকবীরে তাহরীমা বলার সময় তাঁর হাত অধিক উঠাতেন? তিনি বলেন, না; বরং তিনি সব সময়ই একইভাবে হাত উঠাতেন। আমি বললাম, আমাকে ইশারায় দেখিয়ে দিন। তিনি তার বুক বা তার চেয়ে একটু নীচে পর্যন্ত ইশারা করে দেখালেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi’ said on the authority of Ibn ‘Umar that when he began prayer, he uttered the takbir( Allah is most great) and raised his hands; and when he bowed( he raised his hands); and when he said:“Allah listens to him who praises Him,” (he raised his hands); and when he stood up at the end of two rak’ahs, he raised his hands. He (Ibn ‘Umar) traced that back to the Messenger of Allah (ﷺ). Abu Dawud said: What is correct is that the tradition reported by Ibn ‘Umar does not go back to the Prophet (may peace beupon him). Abu Dawud said: The narrator Baqiyyah reported the first part of this tradition from ‘Ubaid Allah and traced it back to the Prophet (ﷺ); and the narrator al-Thaqafi reported it from ‘Ubaid Allah as a statement of Ibn ‘Umar himself(not from the Porphet). In this version he said: When he stood at the end of two rak’ahs he raised them up to his breasts. And this is the correct version. Abu Dawud said: This tradition has been transmitted as a statement of Ibn ‘Umar (and not of the Prophet) by al-Laith b. Sa’d, Malik, Ayyub, and Ibn Juraij; and this has been narrated as a statement of the Prophet (ﷺ) by Hammad b. Salamah alone on the authority of Ayyub. Ayyub and Malik did not mention his raising of hands when he stood after two prostrations, but al-Laith mentioned it in his version. Ibn Juraij said in this version: I asked Nafi’: Did Ibn ‘Umar raise (his hands) higher for the first time? He said: No, I said: Point out to me. He then pointed to the breasts or lower than that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
+
+## French
+
+Nafi’ a rapporté d’après Ibn ‘Umar رضي الله عنه : Quand il commençait la prière, il prononçait le takbir (Allah est le plus grand) et levait les mains ; et quand il s’inclinait, il levait les mains ; et quand il disait : « Allah entend celui qui Le loue », il levait les mains ; et quand il se relevait à la fin de deux rak‘as, il levait les mains. Ibn ‘Umar a attribué cela au Messager d’Allah ﷺ. Abu Dawud a dit : Ce qui est correct, c’est que le récit rapporté par Ibn ‘Umar ne remonte pas au Prophète ﷺ. Abu Dawud a dit : Le narrateur Baqiyyah a rapporté la première partie de ce récit d’après ‘Ubaid Allah et l’a attribuée au Prophète ﷺ ; et le narrateur al-Thaqafi l’a rapportée d’après ‘Ubaid Allah comme étant la parole d’Ibn ‘Umar lui-même (et non du Prophète). Dans cette version, il a dit : Quand il se relevait à la fin de deux rak‘as, il levait les mains jusqu’à la poitrine. Et c’est la version correcte. Abu Dawud a dit : Ce récit a été transmis comme la parole d’Ibn ‘Umar (et non du Prophète) par al-Laith b. Sa’d, Malik, Ayyub et Ibn Juraij ; et il a été rapporté comme la parole du Prophète ﷺ seulement par Hammad b. Salamah d’après Ayyub. Ayyub et Malik n’ont pas mentionné le fait de lever les mains après deux prosternations, mais al-Laith l’a mentionné dans sa version. Ibn Juraij a dit dans cette version : J’ai demandé à Nafi’ : Est-ce qu’Ibn ‘Umar levait les mains plus haut la première fois ? Il a répondu : Non. J’ai dit : Montre-moi. Il a alors montré la poitrine ou un peu plus bas
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Nahsr bin Ali\] telah mengabarkan kepada kami \[Abdul A'laa\] telah menceritakan kepada kami \['Ubaidullah\] dari \[Nafi'\] dari \[Ibnu Umar\] bahwa apabila dia hendak melaksanakan shalat, dia bertakbir sambil mengangkat kedua tangannya, (begitu juga) ketika ruku', ketika mengucapkan sami'allahu liman hamidah, ketika berdiri dari raka'at kedua beliau juga mengangkat kedua tangannya." Dia merafa'kan (mengangkat hadits ini) kepada Rasulullah shallallahu 'alaihi wasallam." Abu Daud mengatakan; "Yang shahih adalah perkataannya Ibnu Umar, bukan sampai kepada Nabi shallallahu 'alaihi wasallam. ' Abu Daud mengatakan; "Sedangkan di awal-awal hadits (yaitu tanpa menyebutkan "Apabila berdiri dari raka'at kedua -pent) telah di riwayatkan oleh \[Baqiyyah\] dari \['Ubaidullah\] dan ia merafa'kannya (bersambung sampai kepada Nabi -pent) kepada Nabi shallallahu 'alaihi wasallam. Dan di riwayatkan pula oleh \[Ats Tsaqafi\] dari \['Ubaidullah\], namun ia hanya mewaqafkan sampai kepada \[Ibnu Umar\], katanya; "Apabila beliau hendak berdiri di raka'at kedua, beliau mengangkat kedua tangannya sampai kedua susunya (dadanya), inilah (di antara riwayat) yang shahih." Abu Daud berkata; "Dan di riwayatkan pula oleh \[Al Laits bin Sa'd\], \[Malik\], \[Ayyub\] serta \[Ibnu Juraij\] secara mauquf, namun \[Hammad bin Salamah\] saja yang menyambungnya (hingga kepada Nabi) dari \[Ayyub\], sedangkan Malik dan Ayyub tidak merafa'kan lafadz; "Apabila beliau hendak bangkit dari sujud kedua." Al Laits juga menyebutkan dalam haditsnya seperti ini." Ibnu Juraij juga mengatakan; kataku kepada Nafi'; "Apakah ibnu Umar mengangkat (kedua tangannya) lebih tinggi (dari dada)?" jawabnya; "Tidak, namun sejajar (dengan dada)." Kataku; "Jelaskanlah padaku!." Kemudian Nafi' memberi isyarat pada kedua susunya (dadanya) atau lebih rendah darinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Nahsr bin Ali] telah mengabarkan kepada kami [Abdul A'laa] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa apabila dia hendak melaksanakan shalat, dia bertakbir sambil mengangkat kedua tangannya, (begitu juga) ketika ruku', ketika mengucapkan sami'allahu liman hamidah, ketika berdiri dari raka'at kedua beliau juga mengangkat kedua tangannya." Dia merafa'kan (mengangkat hadits ini) kepada Rasulullah shallallahu 'alaihi wasallam." Abu Daud mengatakan; "Yang shahih adalah perkataannya Ibnu Umar, bukan sampai kepada Nabi shallallahu 'alaihi wasallam. ' Abu Daud mengatakan; "Sedangkan di awal-awal hadits (yaitu tanpa menyebutkan "Apabila berdiri dari raka'at kedua -pent) telah di riwayatkan oleh [Baqiyyah] dari ['Ubaidullah] dan ia merafa'kannya (bersambung sampai kepada Nabi -pent) kepada Nabi shallallahu 'alaihi wasallam. Dan di riwayatkan pula oleh [Ats Tsaqafi] dari ['Ubaidullah], namun ia hanya mewaqafkan sampai kepada [Ibnu Umar], katanya; "Apabila beliau hendak berdiri di raka'at kedua, beliau mengangkat kedua tangannya sampai kedua susunya (dadanya), inilah (di antara riwayat) yang shahih." Abu Daud berkata; "Dan di riwayatkan pula oleh [Al Laits bin Sa'd], [Malik], [Ayyub] serta [Ibnu Juraij] secara mauquf, namun [Hammad bin Salamah] saja yang menyambungnya (hingga kepada Nabi) dari [Ayyub], sedangkan Malik dan Ayyub tidak merafa'kan lafadz; "Apabila beliau hendak bangkit dari sujud kedua." Al Laits juga menyebutkan dalam haditsnya seperti ini." Ibnu Juraij juga mengatakan; kataku kepada Nafi'; "Apakah ibnu Umar mengangkat (kedua tangannya) lebih tinggi (dari dada)?" jawabnya; "Tidak, namun sejajar (dengan dada)." Kataku; "Jelaskanlah padaku!." Kemudian Nafi' memberi isyarat pada kedua susunya (dadanya) atau lebih rendah darinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Нафи‘а: «Когда Ибн ‘Умар приступал к молитве, он произносил слова «Аллаху акбар» и поднимал руки. (Также он поднимал руки), когда совершал поясной поклон, и когда говорил: «Да услышит Аллах того, кто Его восхваляет» («Сами‘а-Ллаху лиман хамидах»). Когда он вставал после совершения двух рак‘атов, он также поднимал руки и относил это (к поступкам) Посланника Аллаха ﷺ».Абу Дауд сказал: «Достоверным является то, что это высказывание самого Ибн ‘Умара и не восходит (к Пророку ﷺ)».Абу Дауд сказал: «Бакъиййа передал первую часть этого хадиса от ‘Убайдуллаха и возвёл его к Пророку ﷺ. Также его передал ‘ас-Сакъафи от ‘Убайдуллы остановившись на Ибн ‘Умаре и сказал в нём: “Когда он вставал после совершения двух рак‘атов, он также поднимал их до уровня сосков (груди)”, и это является достоверным».Абу Дауд сказал: «Также его передали аль-Лейс ибн Са‘д, Малик, Аййюб (ас-Сахтияни) и Ибн Джурайдж, как слова Ибн ‘Умара, а к Пророку ﷺ отнёс его один Хаммад ибн Саляма от Аййюба, но ни Аййюб, ни Малик, не упомянули о поднятии рук при вставании после совершения двух рак‘атов, однако об этом упомянул аль-Лейс в своём хадисе».Ибн Джурайдж сказал в нём: «Я спросил у Нафи‘а: “Поднимал ли руки Ибн ‘Умар в первый раз из них выше?” Он ответил: “Нет, одинаково”. Я попросил: “Покажи мне”. И он указал на уровень сосков (груди) или ниже этого”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi'den rivayet edildiğine göre, Abdullah b. Ömer namaza durunca tekbir alır ve ellerini kaldırırdı. Rüku'a vardığında ve "semiallahü limen hamideh" dediğinde, iki rekattan (sonra üçüncü rekata) kalktığında da (yine) ellerini (kulakları hizasına kadar) kaldırırdı. (Abdullah İbn Ömer) bu hadisi Hazreti Nebi (Sallallahu aleyhi ve Sellem)'e isnad etti. Ebu Davud dedi ki: Gerçekte bu, İbn Ömer'in (kendi) sözüdür. Hz. Nebiye ulaşan bir hadis değildir. Ebu Davud dedi ki: Bu hadisin baş tarafını Bakıyye (b. el-Velid) Ubeydullah'dan rivayet etti. (Ubeydullah da) bu hadisi (Hz. Peygam­bere) isnad etmiştir. Bu hadisi bir de es-Sakafî, Ubeydullah 'dan riva­yet etmiştir. (Ancak Ubeydullah) bunu (Abdullah) İbn Ömer'e isnad etmiştir. (Sakafi) bu rivayetinde (şöyle) demiştir: "İkinci rekattan (sonra üçüncü rekata) kalkarken ellerini göğüsleri hizasına kadar kaldırırdı" Doğru olan da budur. Yine Ebu Davud dedi ki: Bu hadisi aynı zamanda el-Leys b. Sa'd, Maliki Eyyub ve İbn Cüreyc mevkuf olarak rivayet ettiler.(Yani sene­dini Hz. Nebie isnad etmediler), sadece Hammad b. Seleme bu hadisi Eyyub'dan naklederek Hz.Nebi (Sallallahu aleyhi ve Sellem)'a isnad etti. Eyyub ile Malik (rivayetlerinde) iki secdeden (rekattan sonra üçüncü re­kata) kalktığında (ellerini) kaldırdığından bahsetmemişlerdir. el-Leys ise, hadisinde el kaldırmayı söz konusu etmiştir. İbn Cüreyc bu riva­yetinde; "Ben Nafi'e; "İbn Ömer ellerini iftitah tekbiri alırken mi da­ha yukarı kaldırırdı, yoksa diğerlerinde mi'' diye sordum. O da; ' 'hayır (hepsinde) aynı seviyede (kaldırırdı)" diye cevap verdi. (Bunun üzeri­ne ben, "bana işaretle göster" dedim; o da göğüslerine veya biraz da­ha aşağısına işaret etti" demiştir. Diğer tahric: Buhari, ezan; Nesai, tatbîk)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih Sahih Bukhari (739) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>741</td></tr><tr><td>Arabic No</td><td>741</td></tr><tr><td>Reference</td><td>Book 2 Hadith 351</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 741 |
+| Arabic No | 741 |
+| Reference | Book 2 Hadith 351 |

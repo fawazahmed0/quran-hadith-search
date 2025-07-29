@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سَعِيدُ بْنُ يَحْيَى بْنِ سَعِيدٍ الأُمَوِيُّ، عَنْ أَبِيهِ، قَالَ حَدَّثَنَا أَبُو بُرْدَةَ، - وَهُوَ بُرَيْدُ بْنُ عَبْدِ اللَّهِ بْنِ أَبِي بُرْدَةَ - عَنْ أَبِي بُرْدَةَ، عَنْ أَبِي مُوسَى، قَالَ قُلْنَا يَا رَسُولَ اللَّهِ أَىُّ الإِسْلاَمِ أَفْضَلُ قَالَ ‏ "‏ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |
+
 اخبرنا سعيد بن يحيى بن سعيد الاموي، عن ابيه، قال حدثنا ابو بردة، - وهو بريد بن عبد الله بن ابي بردة - عن ابي بردة، عن ابي موسى، قال قلنا يا رسول الله اى الاسلام افضل قال " من سلم المسلمون من لسانه ويده
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সাঈদ ইবন ইয়াহইয়া ইবন সাঈদ উমাবী (রহঃ) ... আবু মূসা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি বললামঃ ইয়া রাসূলাল্লাহ! কোন্ ইসলাম উত্তম? তিনি বললেনঃ যার রসনা ও হাত হতে অন্য মুসলিমগণ নিরাপদ থাকে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Musa said:"I said: 'O Messenger of Allah, whose Islam is most virtuous?' He said: 'The one from whose tongue and hand the Muslims are safe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |
+
+## French
+
+Rapporté par Abu Musa : J'ai dit : "Ô Messager d'Allah, quel islam est le plus vertueux ?" Il a répondu : "Celui dont les musulmans sont à l'abri de la langue et de la main
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Sa'id bin Yahya bin Sa'id Al Umawi\] dari \[ayahnya\], dia berkata; telah menceritakan kepada kami \[Abu Burdah yaitu Buraid bin Abdullah bin Abu Burdah\] dari \[Abu Burdah\] dari \[Abu Musa\], dia berkata; "Kami bertanya; "Wahai Rasulullah (amalan) Islam yang manakah yang paling utama?" Beliau bersabda: "Orang yang seluruh kaum muslimin selamat dari lisan dan tangannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Sa'id bin Yahya bin Sa'id Al Umawi] dari [ayahnya], dia berkata; telah menceritakan kepada kami [Abu Burdah yaitu Buraid bin Abdullah bin Abu Burdah] dari [Abu Burdah] dari [Abu Musa], dia berkata; "Kami bertanya; "Wahai Rasulullah (amalan) Islam yang manakah yang paling utama?" Beliau bersabda: "Orang yang seluruh kaum muslimin selamat dari lisan dan tangannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4999</td></tr><tr><td>Arabic No</td><td>4999</td></tr><tr><td>Reference</td><td>Book 47 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4999 |
+| Arabic No | 4999 |
+| Reference | Book 47 Hadith 15 |

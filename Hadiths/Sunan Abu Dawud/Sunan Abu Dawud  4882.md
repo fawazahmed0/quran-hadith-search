@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَاصِلُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا أَسْبَاطُ بْنُ مُحَمَّدٍ، عَنْ هِشَامِ بْنِ سَعْدٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ كُلُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ حَرَامٌ مَالُهُ وَعِرْضُهُ وَدَمُهُ حَسْبُ امْرِئٍ مِنَ الشَّرِّ أَنْ يَحْقِرَ أَخَاهُ الْمُسْلِمَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
+
 حدثنا واصل بن عبد الاعلى، حدثنا اسباط بن محمد، عن هشام بن سعد، عن زيد بن اسلم، عن ابي صالح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " كل المسلم على المسلم حرام ماله وعرضه ودمه حسب امري من الشر ان يحقر اخاه المسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজন মুসলিমের জন্য অন্য মুসলিমের সম্পদ, সম্মান ও জীবনে হস্তক্ষেপ করা হারাম। কোনো ব্যক্তির নিকৃষ্ট প্রমাণিত হওয়ার জন্য এটুকুই যথেষ্ট যে, সে তার মুসলিম ভাইকে তুচ্ছ মনে করে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ একজন মুসলিমের জন্য অন্য মুসলিমের সম্পদ, সম্মান ও জীবনে হস্তক্ষেপ করা হারাম। কোনো ব্যক্তির নিকৃষ্ট প্রমাণিত হওয়ার জন্য এটুকুই যথেষ্ট যে, সে তার মুসলিম ভাইকে তুচ্ছ মনে করে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying :Everything of a Muslim is sacred to a Muslim : his property, honour and blood. It is enough evil for any man to despise his brother Muslim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté cela du Messager d’Allah ﷺ : « Tout ce qui appartient à un musulman est sacré pour un autre musulman : ses biens, son honneur et sa vie. Il suffit comme mal à un homme de mépriser son frère musulman. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Washil bin Abdul A'la\] berkata, telah menceritakan kepada kami \[Asbath bin Muhammad\] dari \[Hisyam bin Sa'd\] dari \[Zaid bin Aslam\] dari \[Abu Shalih\] dari \[Abu Hurairah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Antara muslim satu dengan muslim yang lainnya adalah haram untuk merusak hartanya, harga dirinya serta darahnya. Cukuplah seorang muslim itu dikatakan buruk jika ia menghina saudaranya sesama muslim
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Washil bin Abdul A'la] berkata, telah menceritakan kepada kami [Asbath bin Muhammad] dari [Hisyam bin Sa'd] dari [Zaid bin Aslam] dari [Abu Shalih] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Antara muslim satu dengan muslim yang lainnya adalah haram untuk merusak hartanya, harga dirinya serta darahnya. Cukuplah seorang muslim itu dikatakan buruk jika ia menghina saudaranya sesama muslim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "Müslümanın müslümana malı, ırzı ve kanı haramdır. Kişiye şer olarak müslüman kardeşini küçük görmesi yeter
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مسلمان کی ہر چیز اس کا مال، اس کی عزت اور اس کا خون دوسرے مسلمان پر حرام ہے، اور آدمی میں اتنی سی برائی ہونا ہی کافی ہے کہ وہ اپنے مسلمان بھائی کو حقیر سمجھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4882</td></tr><tr><td>Arabic No</td><td>4882</td></tr><tr><td>Reference</td><td>Book 43 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4882 |
+| Arabic No | 4882 |
+| Reference | Book 43 Hadith 110 |

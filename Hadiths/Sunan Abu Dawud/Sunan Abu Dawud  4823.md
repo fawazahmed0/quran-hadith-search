@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ الأَعْمَشِ، قَالَ حَدَّثَنِي الْمُسَيَّبُ بْنُ رَافِعٍ، عَنْ تَمِيمِ بْنِ طَرَفَةَ، عَنْ جَابِرِ بْنِ سَمُرَةَ، قَالَ دَخَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَسْجِدَ وَهُمْ حِلَقٌ فَقَالَ ‏ "‏ مَا لِي أَرَاكُمْ عِزِينَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
+
 حدثنا مسدد، حدثنا يحيى، عن الاعمش، قال حدثني المسيب بن رافع، عن تميم بن طرفة، عن جابر بن سمرة، قال دخل رسول الله صلى الله عليه وسلم المسجد وهم حلق فقال " ما لي اراكم عزين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
 
 ## Bengali
 
+। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সাহাবীগণ বিক্ষিপ্তভাবে এক এক স্থানে কয়েকজন করে মসজিদের মধ্যে গোলাকার হয়ে বসা ছিলেন। এমন সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে প্রবেশ করে বললেন, আবার কি হলো, আমি যে তোমাদেরকে বিচ্ছিন্ন অবস্থায় দেখতে পাচ্ছি!\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির ইবনু সামুরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, সাহাবীগণ বিক্ষিপ্তভাবে এক এক স্থানে কয়েকজন করে মসজিদের মধ্যে গোলাকার হয়ে বসা ছিলেন। এমন সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে প্রবেশ করে বললেন, আবার কি হলো, আমি যে তোমাদেরকে বিচ্ছিন্ন অবস্থায় দেখতে পাচ্ছি![1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir b. Samurah said:the Messenger of Allah (ﷺ) entered the mosque, and saw them (his companions) in separate groups. He said: How is it that I see you in separate groups?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
+
+## French
+
+Rapporté par Jabir b. Samurah : Le Messager d’Allah ﷺ est entré dans la mosquée et a vu ses compagnons assis en petits groupes séparés. Il a dit : « Comment se fait-il que je vous voie en groupes séparés ? »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Yahya\] dari \[Al A'masy\] ia berkata; telah menceritakan kepadaku \[Al Musayyab bin Rafi'\] dari \[Tamim bin Tharafah\] dari \[Jabir bin Samurah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam masuk ke dalam masjid saat para sahabat dalam sebuah lingkaran majlis, beliau lalu bersabda: "Kenapa aku melihat kalian berpencar-pencar (dalam lingkaran majlis)?" Telah menceritakan kepada kami \[Wasil bin Abdul A'la\] dari \[Ibnu Fudhail\] dari \[Al A'masy\] seperti ini, ia berkata, "sepertinya beliau suka mereka berkumpul (tidak berpencar)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Al A'masy] ia berkata; telah menceritakan kepadaku [Al Musayyab bin Rafi'] dari [Tamim bin Tharafah] dari [Jabir bin Samurah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam masuk ke dalam masjid saat para sahabat dalam sebuah lingkaran majlis, beliau lalu bersabda: "Kenapa aku melihat kalian berpencar-pencar (dalam lingkaran majlis)?" Telah menceritakan kepada kami [Wasil bin Abdul A'la] dari [Ibnu Fudhail] dari [Al A'masy] seperti ini, ia berkata, "sepertinya beliau suka mereka berkumpul (tidak berpencar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir İbn Semüre'den; demiştir ki: Rasûlullah (s.a.v.) bir gün mescide girdi. (Mescidde) cemaat (ayrı ayrı) halka(lar) halinde (oturuyorlardı. Bunun üzerine: Sizi niçin böyle dağınık halde görüyorum" buyurdu. Tahric edenler: Müslim, sala; Darimî, sala; Ahmed b: Hanbel, 11,377, 416, 526, 537, V)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن سمرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم مسجد میں داخل ہوئے اور لوگ حلقے بنا کر بیٹھے ہوئے تھے، آپ نے فرمایا: کیا وجہ ہے کہ میں تم لوگوں کو الگ الگ گروہوں میں دیکھ رہا ہوں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4823</td></tr><tr><td>Arabic No</td><td>4823</td></tr><tr><td>Reference</td><td>Book 43 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4823 |
+| Arabic No | 4823 |
+| Reference | Book 43 Hadith 51 |

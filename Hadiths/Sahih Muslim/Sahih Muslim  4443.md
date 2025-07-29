@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا رَوْحُ بْنُ عُبَادَةَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏ غَيْرَ أَنَّهُ قَالَ وَامْرَأَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا اسحاق بن ابراهيم، اخبرنا روح بن عبادة، حدثنا ابن جريج، بهذا الاسناد مثله . غير انه قال وامراة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবনু ইবরাহীম (রহঃ) ..... ইবনু জুরায়জ (রাযিঃ) থেকে একই সূত্রে উল্লিখিত হাদীসের অনুরূপ হাদীস বর্ণনা করেন। তবে তিনি "এবং একজন মহিলা" এ শব্দটি উল্লেখ করেন। (ইসলামিক ফাউন্ডেশন ৪২৯৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted on the authority of Juraij with a slight variation of words
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## French
 
+Rapporté par Juraij : Ce hadith a été transmis avec une légère variation dans les mots
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize İshâk b. İbrahim rivayet etti. (Dediki): Bize Ravh b. Ubâde haber verdi. (Dediki): Bize İbni Cüreyc bu isnadla bu hadîsin mislini rivayet etti. Yalnız o: «Bir de kadın» demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رَوح بن عبادہ نے ابن جریج سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ، البتہ انہوں نے ( اور اس کی عورت کے بجائے صرف " اور عورت " کہا)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4443</td></tr><tr><td>Arabic No</td><td>1701.02</td></tr><tr><td>Reference</td><td>Book 29 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4443 |
+| Arabic No | 1701.02 |
+| Reference | Book 29 Hadith 46 |

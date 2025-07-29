@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ الأَعْلَى، عَنْ سُوَيْدِ بْنِ غَفَلَةَ، أَنَّ عُمَرَ، قَبَّلَ الْحَجَرَ وَالْتَزَمَهُ وَقَالَ رَأَيْتُ أَبَا الْقَاسِمِ صلى الله عليه وسلم بِكَ حَفِيًّا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 24 Hadith 319</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |
+
 اخبرنا محمود بن غيلان، قال حدثنا وكيع، قال حدثنا سفيان، عن ابراهيم بن عبد الاعلى، عن سويد بن غفلة، ان عمر، قبل الحجر والتزمه وقال رايت ابا القاسم صلى الله عليه وسلم بك حفيا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 24 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মাহমুদ ইবন গায়লান (রহঃ) ... সুওয়ায়দ ইবন গাফলাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন, উমর (রাঃ) হাজরে আসওয়াদকে চুম্বন করলেন এবং তাকে জড়িয়ে ধরে বললেনঃ আমি আবুল কাসেম সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে তোমার প্রতি সম্মান প্রদর্শন করতে দেখেছি (চুমা দিয়ে এবং স্পর্শ করে)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 24 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Suwaid bin Ghafalah that Umar kissed the Black Stone and touched it, and said:"I saw Abdu Al-Qasim paying attention to you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 24 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |
+
+## French
+
+Rapporté par Suwaid ibn Ghafalah : Umar a embrassé la Pierre Noire et l’a touchée, puis il a dit : « J’ai vu Abul-Qasim faire attention à toi. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Mahmud bin Ghailan\], ia berkata; telah menceritakan kepada kami \[Waki'\], ia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Ibrahim bin Abdul A'la\] dari \[Suwaid bin Ghafalah\] bahwa \[Umar\] pernah mencium Hajar Aswad, serta memeluknya, dan berkata; saya pernah melihat Abu Al Qasim shallallahu 'alaihi wasallam begitu perhatian kepadamu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Mahmud bin Ghailan], ia berkata; telah menceritakan kepada kami [Waki'], ia berkata; telah menceritakan kepada kami [Sufyan] dari [Ibrahim bin Abdul A'la] dari [Suwaid bin Ghafalah] bahwa [Umar] pernah mencium Hajar Aswad, serta memeluknya, dan berkata; saya pernah melihat Abu Al Qasim shallallahu 'alaihi wasallam begitu perhatian kepadamu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 24 Hadith 319</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 24 Hadith 319</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوید بن غفلہ سے روایت ہے کہ عمر رضی اللہ عنہما نے ( حجر اسود ) کا بوسہ لیا، اور اس سے چمٹے، اور کہا: میں نے ابوالقاسم صلی اللہ علیہ وسلم کو تجھ پر مہربان دیکھا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2936</td></tr><tr><td>Arabic No</td><td>2936</td></tr><tr><td>Reference</td><td>Book 24 Hadith 319</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2936 |
+| Arabic No | 2936 |
+| Reference | Book 24 Hadith 319 |

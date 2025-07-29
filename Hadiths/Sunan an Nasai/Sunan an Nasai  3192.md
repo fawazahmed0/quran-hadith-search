@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ سَلَمَةَ، عَنْ حُمَيْدٍ، عَنْ أَنَسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ جَاهِدُوا بِأَيْدِيكُمْ وَأَلْسِنَتِكُمْ وَأَمْوَالِكُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |
+
 اخبرنا عمرو بن علي، قال حدثنا عبد الرحمن، قال حدثنا حماد بن سلمة، عن حميد، عن انس، قال قال رسول الله صلى الله عليه وسلم " جاهدوا بايديكم والسنتكم واموالكم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা জিহাদ কর তোমাদের হাত দ্বারা, তোমাদের জিহবা দ্বারা এবং তোমাদের মাল দ্বারা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |
 
 ## English
 
+It was narrated that Anas said:"The Messenger of Allah (ﷺ) said: 'Strive in Jihad with your hands, your tongues and your wealth.'" \[1\] \[1\] See
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Anas said:"The Messenger of Allah (ﷺ) said: 'Strive in Jihad with your hands, your tongues and your wealth.'" [1] [1] See
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |
+
+## French
+
+Rapporté par Anas : Le Messager d’Allah (ﷺ) a dit : "Efforcez-vous dans le jihad avec vos mains, vos paroles et vos biens
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \['Amr bin Ali\], ia berkata; telah menceritakan kepada kami \[Abdur Rahman\], ia berkata; telah menceritakan kepada kami \[Hammad bin Salamah\] dari \[Humaid\] dari \[Anas\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berjihadlah dengan tangan, lidah dan harta kalian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami ['Amr bin Ali], ia berkata; telah menceritakan kepada kami [Abdur Rahman], ia berkata; telah menceritakan kepada kami [Hammad bin Salamah] dari [Humaid] dari [Anas], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berjihadlah dengan tangan, lidah dan harta kalian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہاد کرو اپنے ہاتھوں سے، اپنی زبانوں سے، اور اپنے مالوں کے ذریعہ“ ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3192</td></tr><tr><td>Arabic No</td><td>3192</td></tr><tr><td>Reference</td><td>Book 25 Hadith 108</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3192 |
+| Arabic No | 3192 |
+| Reference | Book 25 Hadith 108 |

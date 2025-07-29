@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا عُثْمَانُ بْنُ حَكِيمٍ، قَالَ أَخْبَرَنِي إِبْرَاهِيمُ بْنُ مُحَمَّدِ بْنِ حَاطِبٍ الْقُرَشِيُّ، عَنْ أَبِي طَلْحَةَ الأَسَدِيِّ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ فَرَأَى قُبَّةً مُشْرِفَةً فَقَالَ ‏"‏ مَا هَذِهِ ‏"‏ ‏.‏ قَالَ لَهُ أَصْحَابُهُ هَذِهِ لِفُلاَنٍ - رَجُلٍ مِنَ الأَنْصَارِ - ‏.‏ قَالَ فَسَكَتَ وَحَمَلَهَا فِي نَفْسِهِ حَتَّى إِذَا جَاءَ صَاحِبُهَا رَسُولَ اللَّهِ صلى الله عليه وسلم يُسَلِّمُ عَلَيْهِ فِي النَّاسِ أَعْرَضَ عَنْهُ صَنَعَ ذَلِكَ مِرَارًا حَتَّى عَرَفَ الرَّجُلُ الْغَضَبَ فِيهِ وَالإِعْرَاضَ عَنْهُ فَشَكَا ذَلِكَ إِلَى أَصْحَابِهِ فَقَالَ وَاللَّهِ إِنِّي لأُنْكِرُ رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالُوا خَرَجَ فَرَأَى قُبَّتَكَ ‏.‏ قَالَ فَرَجَعَ الرَّجُلُ إِلَى قُبَّتِهِ فَهَدَمَهَا حَتَّى سَوَّاهَا بِالأَرْضِ فَخَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم ذَاتَ يَوْمٍ فَلَمْ يَرَهَا قَالَ ‏"‏ مَا فَعَلَتِ الْقُبَّةُ ‏"‏ ‏.‏ قَالُوا شَكَا إِلَيْنَا صَاحِبُهَا إِعْرَاضَكَ عَنْهُ فَأَخْبَرْنَاهُ فَهَدَمَهَا فَقَالَ ‏"‏ أَمَا إِنَّ كُلَّ بِنَاءٍ وَبَالٌ عَلَى صَاحِبِهِ إِلاَّ مَا لاَ إِلاَّ مَا لاَ ‏"‏ ‏.‏ يَعْنِي مَا لاَ بُدَّ مِنْهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
+
 حدثنا احمد بن يونس، حدثنا زهير، حدثنا عثمان بن حكيم، قال اخبرني ابراهيم بن محمد بن حاطب القرشي، عن ابي طلحة الاسدي، عن انس بن مالك، ان رسول الله صلى الله عليه وسلم خرج فراى قبة مشرفة فقال " ما هذه " . قال له اصحابه هذه لفلان - رجل من الانصار - . قال فسكت وحملها في نفسه حتى اذا جاء صاحبها رسول الله صلى الله عليه وسلم يسلم عليه في الناس اعرض عنه صنع ذلك مرارا حتى عرف الرجل الغضب فيه والاعراض عنه فشكا ذلك الى اصحابه فقال والله اني لانكر رسول الله صلى الله عليه وسلم . قالوا خرج فراى قبتك . قال فرجع الرجل الى قبته فهدمها حتى سواها بالارض فخرج رسول الله صلى الله عليه وسلم ذات يوم فلم يرها قال " ما فعلت القبة " . قالوا شكا الينا صاحبها اعراضك عنه فاخبرناه فهدمها فقال " اما ان كل بناء وبال على صاحبه الا ما لا الا ما لا " . يعني ما لا بد منه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাইরে বের হয়ে গম্বুজাকৃতির একটি উঁচু পাকা ঘর দেখতে পেয়ে বললেনঃ এটা কি? তাঁর সাহাবীগণ বললেন, এটা অমুক আনসারী ব্যক্তির। তিনি চুপ থাকলেন এবং বিষয়টি স্মরণে রাখলেন। পরে ঐ প্রাসাদের মালিক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে লোকদের মধ্যে তাঁকে সালাম দিলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দিক থেকে মুখ ফিরিয়ে নিলেন। এরূপ কয়েকবার হলো। ফলে লোকটি তার প্রতি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রাগ হওয়া এবং তাঁর উপেক্ষা সম্পর্কে বুঝতে পারলো। এতে সে তার সাথীদের নিকট প্রকৃত ঘটনা জানতে চাইলো। সে বললো, আল্লাহর কসম! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ আচরণ তো আমি বুঝতে পারছি না! লোকেরা বললো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাইরে বের হয়েছিলেন। তিনি তোমার গম্বুজ দেখতে পেয়েছেন। অতএব সে তার পাকা বাড়িতে ফিরে এসে তা ধ্বংস করে একেবারে মাটির সাথে মিশিয়ে দিলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরেক দিন বের হলেন। তিনি ঐ প্রাসাদটি দেখতে না পেয়ে বললেন, প্রাসাদটির কি হলো? লোকেরা বললো, প্রাসাদের মালিক আমাদের নিকট তার প্রতি আপনার অসন্তুষ্টির ও উপেক্ষার বিষয়ে জানতে চাইলে ‘আমরা তাকে ঘটনা খুলে বলি, এতে সে তা বিধ্বস্ত করে দেয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ বস্তুত প্রত্যেক উচ্চ পাকা বাড়ি তার মালিকের জন্য দুর্ভাগ্যের কারণ হবে। তবে যেটি একান্ত জরূরী সেটি ছাড়া।\[1\] সহীহ। সহীহা হা/ ২৮৩০।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাইরে বের হয়ে গম্বুজাকৃতির একটি উঁচু পাকা ঘর দেখতে পেয়ে বললেনঃ এটা কি? তাঁর সাহাবীগণ বললেন, এটা অমুক আনসারী ব্যক্তির। তিনি চুপ থাকলেন এবং বিষয়টি স্মরণে রাখলেন। পরে ঐ প্রাসাদের মালিক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে লোকদের মধ্যে তাঁকে সালাম দিলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার দিক থেকে মুখ ফিরিয়ে নিলেন। এরূপ কয়েকবার হলো। ফলে লোকটি তার প্রতি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রাগ হওয়া এবং তাঁর উপেক্ষা সম্পর্কে বুঝতে পারলো। এতে সে তার সাথীদের নিকট প্রকৃত ঘটনা জানতে চাইলো। সে বললো, আল্লাহর কসম! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এরূপ আচরণ তো আমি বুঝতে পারছি না! লোকেরা বললো, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাইরে বের হয়েছিলেন। তিনি তোমার গম্বুজ দেখতে পেয়েছেন। অতএব সে তার পাকা বাড়িতে ফিরে এসে তা ধ্বংস করে একেবারে মাটির সাথে মিশিয়ে দিলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরেক দিন বের হলেন। তিনি ঐ প্রাসাদটি দেখতে না পেয়ে বললেন, প্রাসাদটির কি হলো? লোকেরা বললো, প্রাসাদের মালিক আমাদের নিকট তার প্রতি আপনার অসন্তুষ্টির ও উপেক্ষার বিষয়ে জানতে চাইলে ‘আমরা তাকে ঘটনা খুলে বলি, এতে সে তা বিধ্বস্ত করে দেয়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ বস্তুত প্রত্যেক উচ্চ পাকা বাড়ি তার মালিকের জন্য দুর্ভাগ্যের কারণ হবে। তবে যেটি একান্ত জরূরী সেটি ছাড়া।[1] সহীহ। সহীহা হা/ ২৮৩০।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas ibn Malik: The Messenger of Allah (ﷺ) came out, and on seeing a high-domed building, he said: What is it? His companions replied to him: It belongs to so and so, one of the Ansar. He said: he said nothing but kept the matter in mind. When its owner came and gave him a greeting among the people, he turned away from him. When he had done this several times, the man realised that he was the cause of the anger and the rebuff. So he complained about it to his companions, saying: I swear by Allah that I cannot understand the Messenger of Allah (ﷺ). They said: He went out and saw your domed building. So the man returned to it and demolished it, levelling it to the ground. One day the Messenger of Allah (ﷺ) came out and did not see it. He asked: What has happened to the domed building? They replied: Its owner complained to us about your rebuff, and when we informed him about it, he demolished it. He said: Every building is a misfortune for its owner, except what cannot, except what cannot, meaning except that which is essential
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
+
+## French
+
+Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ est sorti et, en voyant un bâtiment à coupole élevé, il a dit : « Qu’est-ce que c’est ? » Ses compagnons lui ont répondu : « C’est à untel, l’un des Ansar. » Il n’a rien dit mais a gardé cela en tête. Quand le propriétaire est venu le saluer parmi les gens, il s’est détourné de lui. Après l’avoir fait plusieurs fois, l’homme a compris qu’il était la cause de la colère et de l’éloignement du Prophète. Il s’est plaint à ses compagnons en disant : « Par Allah, je ne comprends pas le Messager d’Allah ﷺ. » Ils lui ont dit : « Il est sorti et a vu ton bâtiment à coupole. » L’homme est alors retourné et l’a démoli, le rasant au sol. Un jour, le Messager d’Allah ﷺ est sorti et ne l’a pas vu. Il a demandé : « Qu’est-il arrivé au bâtiment à coupole ? » Ils ont répondu : « Son propriétaire s’est plaint à nous de ton éloignement, et quand nous l’en avons informé, il l’a démoli. » Il a dit : « Toute construction est une source de malheur pour son propriétaire, sauf ce qui est indispensable. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\] berkata, telah menceritakan kepada kami \[Zuhair\] berkata, telah menceritakan kepada kami \[Utsman bin Hakim\] ia berkata; telah mengabarkan kepadaku \[Ibrahim bin Muhammad bin Hathib Al Qurasyi\] dari \[Abu Thalhah Al Asadi\] dari \[Anas bin Malik\] berkata, "Rasulullah shallallahu 'alaihi wasallam keluar rumah, lalu beliau melihat bangunan yang tinggi. Beliau lalu bertanya: "Apa ini?" para sahabat menjawab, "Ini adalah bangunan milik si fulan, seorang laki-laki Anshar." Anas berkata, "Rasulullah shallallahu 'alaihi wasallam diam dan hanya memendam dalam hatinya, hingga ketika pemilik bangunan itu datang dan memberi salam kepada Rasulullah shallallahu 'alaihi wasallam di depan orang-orang beliau berpaling darinya. Beliau melakukan hal itu berulang-ulang hingga laki-laki paham bahwa Rasulullah sedang marah dan menghindar darinya. Maka laki-laki itu pun mengeluh kepada para sahabat Rasulullah. Laki-laki itu berkata, "Demi Allah, aku telah mengingkari Rasulullah shallallahu 'alaihi wasallam." Para sahabat berkata, "Rasulullah keluar dan melihat bangunan milikmu." Anas berkata, "Lalu laki-laki pulang dan menghancurkan rumahnya hingga rata dengan tanah. Ketika suatu hari Rasulullah shallallahu 'alaihi wasallam keluar dan melihat bangunan tersebut telah hilang, beliau pun bertanya: "Apa yang terjadi dengan bangunan tersebut?" para sahabat menjawab, "Pemilik banguan itu pernah mengeluh kepada kami tentang berpalingnya baginda kepadanya, maka kami pun mengabarkan kepadanya. Lalu ia pulang dan menghancurkan rumah miliknya. Rasulullah bersabda: "Ketahuilah, sesungguhnya setiap bangunan itu akan membawa bencana bagi pemiliknya, kecuali yang tidak, kecuali yang tidak." Maksudnya sesuatu yang memang dibutuhkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus] berkata, telah menceritakan kepada kami [Zuhair] berkata, telah menceritakan kepada kami [Utsman bin Hakim] ia berkata; telah mengabarkan kepadaku [Ibrahim bin Muhammad bin Hathib Al Qurasyi] dari [Abu Thalhah Al Asadi] dari [Anas bin Malik] berkata, "Rasulullah shallallahu 'alaihi wasallam keluar rumah, lalu beliau melihat bangunan yang tinggi. Beliau lalu bertanya: "Apa ini?" para sahabat menjawab, "Ini adalah bangunan milik si fulan, seorang laki-laki Anshar." Anas berkata, "Rasulullah shallallahu 'alaihi wasallam diam dan hanya memendam dalam hatinya, hingga ketika pemilik bangunan itu datang dan memberi salam kepada Rasulullah shallallahu 'alaihi wasallam di depan orang-orang beliau berpaling darinya. Beliau melakukan hal itu berulang-ulang hingga laki-laki paham bahwa Rasulullah sedang marah dan menghindar darinya. Maka laki-laki itu pun mengeluh kepada para sahabat Rasulullah. Laki-laki itu berkata, "Demi Allah, aku telah mengingkari Rasulullah shallallahu 'alaihi wasallam." Para sahabat berkata, "Rasulullah keluar dan melihat bangunan milikmu." Anas berkata, "Lalu laki-laki pulang dan menghancurkan rumahnya hingga rata dengan tanah. Ketika suatu hari Rasulullah shallallahu 'alaihi wasallam keluar dan melihat bangunan tersebut telah hilang, beliau pun bertanya: "Apa yang terjadi dengan bangunan tersebut?" para sahabat menjawab, "Pemilik banguan itu pernah mengeluh kepada kami tentang berpalingnya baginda kepadanya, maka kami pun mengabarkan kepadanya. Lalu ia pulang dan menghancurkan rumah miliknya. Rasulullah bersabda: "Ketahuilah, sesungguhnya setiap bangunan itu akan membawa bencana bagi pemiliknya, kecuali yang tidak, kecuali yang tidak." Maksudnya sesuatu yang memang dibutuhkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Enes b. Malik'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) birgün dışarı çıkıp yüksek bir kubbe görmüş de: "Bu (da) ne? (böyle)? demiş. (Orada bulunan) sahâbîler de kendisine: "(Bu kubbe) ensardan falanca kişiye aittir, demişler, Rasûlullah (s.a.v.) hoşlanmadığı bu işi içinde saklayarak sükût etmiş. Nihayet (bu kubbe'nin) sahibi Rasûlullah (s.a.v.)'e gelip halkın içinde selâm vermiş. Rasûlullah (s.a.v.) de ondan yüz çevirmiş. (Adam selamının alınmadığını anlayınca) bu selam verme işini defalarca tekrarlamış. Nihayet adam (her defasında da selamının alınmadığını görünce) Hz. Nebideki öfkeyi ve kendinden yüz çevirdiğini sezmiş ve durumu arkadaşlarına (açarak) dert yanmış ve: "Vallahi ben Rasûlullah (s.a.v.)'i(n bu davranışını) yadırgadım" demiş, onlar da: "(Rasûlullah (s.a.v.) dışarı çıktı senin bu kubbeni (yüksek bir halde) gördü (de ondan böyle yaptı)" demişler. Bunun üzerine adam hemen kubbesini dönüp yıkmış, yerle bir etmiş. Derken Rasûlullah (s.a.v.) birgün (yine) dışarı çıkmış bu kubbeyi göremeyince (oradakilere): Kubbeye ne oldu? diye sormuş (onlar da:) Onun sahibi bize senin kendisinden yüz çevirdiğinden sızlandı. (Gidip) onu yıktı" demişler (Hz. Nebi de:) İhtiyaç fazlası her bina sahibi üzerine bir vebaldir" buyurmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نکلے ( راہ میں ) ایک اونچا قبہ دیکھا تو فرمایا: یہ کیا ہے؟ تو آپ کے اصحاب نے بتایا کہ یہ فلاں انصاری کا مکان ہے، آپ یہ سن کر چپ ہو رہے اور بات دل میں رکھ لی، پھر جب صاحب مکان رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور لوگوں کی موجودگی میں آپ کو سلام کیا تو آپ نے اس سے اعراض کیا ( نہ اس کی طرف متوجہ ہوئے نہ اسے جواب دیا ) ایسا کئی بار ہوا، یہاں تک کہ اسے معلوم ہو گیا کہ آپ اس سے ناراض ہیں اور اس سے اعراض فرما رہے ہیں تو اس نے اپنے دوستوں سے اس بات کی شکایت کی اور کہا: قسم اللہ کی! میں اپنے ساتھ رسول اللہ صلی اللہ علیہ وسلم کی محبت و برتاؤ میں تبدیلی محسوس کرتا ہوں، تو لوگوں نے بتایا کہ: آپ ایک روز باہر نکلے تھے اور تیرا قبہ ( مکان ) دیکھا تھا ( شاید اسی مکان کو دیکھ کر آپ ناراض ہوئے ہوں ) یہ سن کر وہ واپس اپنے مکان پر آیا، اور اسے ڈھا دیا، حتیٰ کہ اسے ( توڑ تاڑ کر ) زمین کے برابر کر دیا، پھر ایک روز رسول اللہ صلی اللہ علیہ وسلم نکلے اور اس مکان کو نہ دیکھا تو فرمایا: وہ مکان کیا ہوا، لوگوں نے عرض کیا: مالک مکان نے ہم سے آپ کی اس سے بے التفاتی کی شکایت کی، ہم نے اسے بتا دیا، تو اس نے اسے گرا دیا، آپ نے فرمایا: سن لو ہر مکان اپنے مالک کے لیے وبال ہے، سوائے اس مکان کے جس کے بغیر چارہ و گزارہ نہ ہو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5237</td></tr><tr><td>Arabic No</td><td>5237</td></tr><tr><td>Reference</td><td>Book 43 Hadith 465</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5237 |
+| Arabic No | 5237 |
+| Reference | Book 43 Hadith 465 |

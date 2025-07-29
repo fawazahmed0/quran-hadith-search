@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، عَنْ شُعْبَةَ، قَالَ أَخْبَرَنِي مَعْبَدُ بْنُ خَالِدٍ، عَنْ زَيْدِ بْنِ عُقْبَةَ، عَنْ سَمُرَةَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقْرَأُ فِي صَلاَةِ الْجُمُعَةِ بِـ ‏(‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏)‏ وَ(‏ هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ ‏)‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |
+
 اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، عن شعبة، قال اخبرني معبد بن خالد، عن زيد بن عقبة، عن سمرة، قال كان رسول الله صلى الله عليه وسلم يقرا في صلاة الجمعة ب ( سبح اسم ربك الاعلى ) و( هل اتاك حديث الغاشية)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু আব্দুল আলা (রহঃ) ... সামুরা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমু'আর সালাতে سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى এবং هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ পড়তেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Samurah said:"The Messenger of Allah (ﷺ) used to recite in Jumu'ah prayer: 'Glorify the Name of your Lord, the Most High'(Al-A'la 87) and: 'Has there come to you the narration of the overwhelming (i.e. the Day of Resurrection)?"(Al-Ghashiyah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |
+
+## French
+
+Rapporté par Samurah : Le Messager d’Allah (ﷺ) récitait pendant la prière du vendredi : « Glorifie le nom de ton Seigneur, le Très-Haut » (Al-A'la 87) et : « T’est-il parvenue le récit de l’écrasante (c’est-à-dire le Jour de la Résurrection) ? » (Al-Ghashiyah)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin 'Abdul A'la\] dia berkata; telah menceritakan kepada kami \[Khalid\] dari \[Syu'bah\] dia berkata; telah mengabarkan kepadaku \[Ma'bad bin Khalid\] dari \[Zaid bin 'Uqbah\] dari \[Samurah\] dia berkata; "Rasulullah shallallahu 'alaihi wasallam membaca surah Al A'laa dan Al Ghaasyiyah dalam shalat Jum'at
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin 'Abdul A'la] dia berkata; telah menceritakan kepada kami [Khalid] dari [Syu'bah] dia berkata; telah mengabarkan kepadaku [Ma'bad bin Khalid] dari [Zaid bin 'Uqbah] dari [Samurah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam membaca surah Al A'laa dan Al Ghaasyiyah dalam shalat Jum'at
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سمرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جمعہ میں «سبح اسم ربك الأعلى» اور «هل أتاك حديث الغاشية» پڑھتے تھے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1422</td></tr><tr><td>Arabic No</td><td>1422</td></tr><tr><td>Reference</td><td>Book 14 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1422 |
+| Arabic No | 1422 |
+| Reference | Book 14 Hadith 59 |

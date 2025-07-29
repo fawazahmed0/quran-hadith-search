@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ أَيُّوبَ، حَدَّثَنَا إِسْمَاعِيلُ، - يَعْنِي ابْنَ جَعْفَرٍ - قَالَ أَخْبَرَنِي الْعَلاَءُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ دَعَا إِلَى هُدًى كَانَ لَهُ مِنَ الأَجْرِ مِثْلُ أُجُورِ مَنْ تَبِعَهُ لاَ يَنْقُصُ ذَلِكَ مِنْ أُجُورِهِمْ شَيْئًا وَمَنْ دَعَا إِلَى ضَلاَلَةٍ كَانَ عَلَيْهِ مِنَ الإِثْمِ مِثْلُ آثَامِ مَنْ تَبِعَهُ لاَ يَنْقُصُ ذَلِكَ مِنْ آثَامِهِمْ شَيْئًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
+
 حدثنا يحيى بن ايوب، حدثنا اسماعيل، - يعني ابن جعفر - قال اخبرني العلاء، - يعني ابن عبد الرحمن - عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " من دعا الى هدى كان له من الاجر مثل اجور من تبعه لا ينقص ذلك من اجورهم شييا ومن دعا الى ضلالة كان عليه من الاثم مثل اثام من تبعه لا ينقص ذلك من اثامهم شييا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি সৎপথের দিকে ডাকবে, সে তার অনুসারীর সমান সাওয়াব পাবে, অথচ অনুসরণকারীর সওয়াব কমানো হবে না। অপরদিকে যে ব্যক্তি ভ্রষ্টতার দিকে ডাকবে সে তার অনুসারীর সমান পাপে জর্জরিত হবে, তার অনুসারীর পাপ মোটেও কমানো হবে না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে ব্যক্তি সৎপথের দিকে ডাকবে, সে তার অনুসারীর সমান সাওয়াব পাবে, অথচ অনুসরণকারীর সওয়াব কমানো হবে না। অপরদিকে যে ব্যক্তি ভ্রষ্টতার দিকে ডাকবে সে তার অনুসারীর সমান পাপে জর্জরিত হবে, তার অনুসারীর পাপ মোটেও কমানো হবে না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:If anyone summons other to follow right guidance, his reward will be equivalent to that of the people who follow him, without their rewards being diminished in any respect on that account; and if anyone summons others to follow error the sin of which sins being diminished in any respect on that account
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Celui qui appelle les autres à suivre une bonne voie aura une récompense égale à celle de ceux qui le suivent, sans que leur récompense ne soit diminuée en rien. Et celui qui appelle les autres à l’égarement portera un péché équivalent à celui de ceux qui le suivent, sans que leur péché ne soit diminué en rien. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Кто призывал людей на истинный путь, тому достанется награда, подобная награде тех, кто последует этим путём, и это ничуть не уменьшит их собственных наград. А кто призывал к заблуждению, на того ляжет его собственный грех, а также грехи, подобные грехам тех, кто внемлет его призыву, и это ничуть не уменьшит их собственных грехов»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.)'den (rivayet olunduğuna göre) Rasûlullah (s.a.v.): "Kim (insanları) doğru yol'a çağırırsa, kendisine uyanların sevabı kadar ona da sevap yazılır. Bu (kendisine) uyanların sevabından birşey eksiltmez. Kim de bir sapıklığa çağırırsa kendisine uyanların günahı kadar ona da günah yazılır. Bu (kendisine) uyanların günahından bir şey eksiltmez" buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص دوسروں کو نیک عمل کی دعوت دیتا ہے تو اس کی دعوت سے جتنے لوگ ان نیک باتوں پر عمل کرتے ہیں ان سب کے برابر اس دعوت دینے والے کو بھی ثواب ملتا ہے، اور عمل کرنے والوں کے ثواب میں سے کوئی کمی نہیں کی جاتی، اور جو کسی گمراہی و ضلالت کی طرف بلاتا ہے تو جتنے لوگ اس کے بلانے سے اس پر عمل کرتے ہیں ان سب کے برابر اس کو گناہ ہوتا ہے اور ان کے گناہوں میں ( بھی ) کوئی کمی نہیں ہوتی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2674)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4609</td></tr><tr><td>Arabic No</td><td>4609</td></tr><tr><td>Reference</td><td>Book 42 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2674) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4609 |
+| Arabic No | 4609 |
+| Reference | Book 42 Hadith 14 |

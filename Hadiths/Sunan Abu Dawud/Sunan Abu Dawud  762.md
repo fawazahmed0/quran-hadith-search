@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا شُرَيْحُ بْنُ يَزِيدَ، حَدَّثَنِي شُعَيْبُ بْنُ أَبِي حَمْزَةَ، قَالَ قَالَ لِي مُحَمَّدُ بْنُ الْمُنْكَدِرِ وَابْنُ أَبِي فَرْوَةَ وَغَيْرُهُمَا مِنْ فُقَهَاءِ أَهْلِ الْمَدِينَةِ فَإِذَا قُلْتَ أَنْتَ ذَاكَ فَقُلْ ‏"‏ وَأَنَا مِنَ الْمُسْلِمِينَ ‏"‏ ‏.‏ يَعْنِي قَوْلَهُ ‏"‏ وَأَنَا أَوَّلُ الْمُسْلِمِينَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
+
 حدثنا عمرو بن عثمان، حدثنا شريح بن يزيد، حدثني شعيب بن ابي حمزة، قال قال لي محمد بن المنكدر وابن ابي فروة وغيرهما من فقهاء اهل المدينة فاذا قلت انت ذاك فقل " وانا من المسلمين " . يعني قوله " وانا اول المسلمين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
 
 ## Bengali
 
+। শু‘আইব ইবনু আবূ হামযাহ সূত্রে বর্ণিত। তিনি বলেন, মুহাম্মাদ ইবনুল মুনকাদির, ইবনু আবূ ফারওয়াহ এবং মদীনার অন্যান্য ফাক্বীহগণ আমাকে বলেছেন, উপরোক্ত দু‘আ পাঠকালে তুমি ‘‘ওয়া আনা আওয়ালুল মুসলিমীন’’ এর স্থলে ‘‘ওয়া আনা মিনাল-মুসলিমীন’’ বাক্যটি বলবে।\[1\] সহীহ মাক্বতূ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। শু‘আইব ইবনু আবূ হামযাহ সূত্রে বর্ণিত। তিনি বলেন, মুহাম্মাদ ইবনুল মুনকাদির, ইবনু আবূ ফারওয়াহ এবং মদীনার অন্যান্য ফাক্বীহগণ আমাকে বলেছেন, উপরোক্ত দু‘আ পাঠকালে তুমি ‘‘ওয়া আনা আওয়ালুল মুসলিমীন’’ এর স্থলে ‘‘ওয়া আনা মিনাল-মুসলিমীন’’ বাক্যটি বলবে।[1] সহীহ মাক্বতূ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Shu’aib b. Abi Hamzah said:Ibn al-Munkadir, Ibn Abi Farwah and a number of jurists of Madina said to me: When you recite the supplication “I am first of the Muslims,” say instead; “I am one of the Muslims”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
+
+## French
+
+Rapporté par Shu’aib b. Abi Hamzah : Ibn al-Munkadir, Ibn Abi Farwah et plusieurs juristes de Médine m’ont dit : « Quand tu récites l’invocation “Je suis le premier des musulmans”, dis plutôt : “Je fais partie des musulmans.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Рассказал нам Шурайх ибн Язид: Рассказал мне Шу‘айб ибн Абу Хамза, который сказал: «Мухаммад ибн аль-Мункадир, Ибн Абу Фарва и другие из числа факъихов Медины, сказали мне: “И когда ты произносишь это, то говори: “И я из числа мусульман” /Ва ана мина-ль-муслимин/, имея ввиду (вместо слов): “И я являюсь первым из мусульман”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu'ayb b. Ebî Hamza demiştir ki: Muhammed b. el-Münkedir, İbn Ebi Ferve ve bunlardan başka Medine'li bir fakih (iftitah duasında geçen) "ben müslümanların ilkiyim" sözünü kast ederek, bana "sen bu duayı okuduğun zaman: "Ve ben müslümanlardanım" şeklinde oku dedi. Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شعیب بن ابی حمزہ بیان کرتے ہیں کہ مجھ سے محمد بن منکدر، ابن ابی فروہ، اور دیگر فقہائے اہل مدینہ نے کہا: جب تم اس مذکورہ دعا کو پڑھو تو «وأنا أول المسلمين» کے جگہ «وأنا من المسلمين» کہا کرو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Maqtu</td><td>Al-Albani</td></tr><tr><td>Sahih Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>762</td></tr><tr><td>Arabic No</td><td>762</td></tr><tr><td>Reference</td><td>Book 2 Hadith 372</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Maqtu | Al-Albani |
+| Sahih Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 762 |
+| Arabic No | 762 |
+| Reference | Book 2 Hadith 372 |

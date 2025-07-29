@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## French
 
+Rapporté par Salamah : Al-Humaydī nous a rapporté, Sufyān nous a rapporté, il a dit : « J’ai entendu Jābir parler d’environ 30 000 hadiths dont je ne considérais pas qu’il était permis de rapporter quoi que ce soit, et pour moi, cela équivalait à ceci ou cela \[hadith\]. » Muslim dit : « J’ai entendu Abū Ghassān Muhammad bin Amr ar-Rāzī dire : ‘J’ai demandé à Jarīr bin Abd il-Hamīd : “As-tu rencontré al-Hārith bin Hasīrah ?” Il a répondu : “Oui, c’est un shaykh très silencieux ; il s’est entêté dans une affaire grave.”’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>59</td></tr><tr><td>Reference</td><td>Book 0 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 59 |
+| Reference | Book 0 Hadith 59 |

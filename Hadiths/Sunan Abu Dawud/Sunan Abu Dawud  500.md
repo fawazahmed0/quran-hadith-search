@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا الْحَارِثُ بْنُ عُبَيْدٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ الْمَلِكِ بْنِ أَبِي مَحْذُورَةَ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قُلْتُ يَا رَسُولَ اللَّهِ عَلِّمْنِي سُنَّةَ الأَذَانِ ‏.‏ قَالَ فَمَسَحَ مُقَدَّمَ رَأْسِي وَقَالَ ‏ "‏ تَقُولُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ تَرْفَعُ بِهَا صَوْتَكَ ثُمَّ تَقُولُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ تَخْفِضُ بِهَا صَوْتَكَ ثُمَّ تَرْفَعُ صَوْتَكَ بِالشَّهَادَةِ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ أَشْهَدُ أَنَّ مُحَمَّدًا رَسُولُ اللَّهِ حَىَّ عَلَى الصَّلاَةِ حَىَّ عَلَى الصَّلاَةِ حَىَّ عَلَى الْفَلاَحِ حَىَّ عَلَى الْفَلاَحِ فَإِنْ كَانَ صَلاَةَ الصُّبْحِ قُلْتَ الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ الصَّلاَةُ خَيْرٌ مِنَ النَّوْمِ اللَّهُ أَكْبَرُ اللَّهُ أَكْبَرُ لاَ إِلَهَ إِلاَّ اللَّهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
+
 حدثنا مسدد، حدثنا الحارث بن عبيد، عن محمد بن عبد الملك بن ابي محذورة، عن ابيه، عن جده، قال قلت يا رسول الله علمني سنة الاذان . قال فمسح مقدم راسي وقال " تقول الله اكبر الله اكبر الله اكبر الله اكبر ترفع بها صوتك ثم تقول اشهد ان لا اله الا الله اشهد ان لا اله الا الله اشهد ان محمدا رسول الله اشهد ان محمدا رسول الله تخفض بها صوتك ثم ترفع صوتك بالشهادة اشهد ان لا اله الا الله اشهد ان لا اله الا الله اشهد ان محمدا رسول الله اشهد ان محمدا رسول الله حى على الصلاة حى على الصلاة حى على الفلاح حى على الفلاح فان كان صلاة الصبح قلت الصلاة خير من النوم الصلاة خير من النوم الله اكبر الله اكبر لا اله الا الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
 
 ## Bengali
 
+। মুহাম্মাদ ইবনু ‘আবদুল মালিক ইবনু আবূ মাহযূরাহ হতে তার পিতা ও দাদার সূত্রে বর্ণিত। তিনি \[আবূ মাহযূরাহ (রাঃ)\] বললেন, হে আল্লাহর রসূল! আমাকে আযানের নিয়ম শিখিয়ে দিন। তিনি আমার মাথার সম্মুখ ভাগে হাত বুলিয়ে দিয়ে বললেন, তুমি বলবেঃ আল্লাহু আকবার আল্লাহু আকবার, আল্লাহু আকবার আল্লাহু আকবার-উচ্চস্বরে। এরপর কিছুটা নীচু স্বরে বলবেঃ আশহাদু আল-লা ইলাহা ইল্লাল্লাহ, আশহাদু আল-লা ইলাহা ইল্লাল্লাহ। আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ, আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ। হাইয়্যা ‘আলাস সলাহ, হাইয়্যা ‘আলাস সলাহ। হাইয়্যা ‘আলাল ফালাহ, হাইয়্যা ‘আলাল ফালাহ। ফজরের সালাত হলে বলবেঃ আসসালাতু খাইরুম মিনান নাউম, আসালাতু খাইরুম মিনান নাউম (ঘুমের চেয়ে সালাত উত্তম-দু’বার)। আল্লাহু আকবার আল্লাহু আকবার, লা ইলাহা ইল্লাল্লাহ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুহাম্মাদ ইবনু ‘আবদুল মালিক ইবনু আবূ মাহযূরাহ হতে তার পিতা ও দাদার সূত্রে বর্ণিত। তিনি [আবূ মাহযূরাহ (রাঃ)] বললেন, হে আল্লাহর রসূল! আমাকে আযানের নিয়ম শিখিয়ে দিন। তিনি আমার মাথার সম্মুখ ভাগে হাত বুলিয়ে দিয়ে বললেন, তুমি বলবেঃ আল্লাহু আকবার আল্লাহু আকবার, আল্লাহু আকবার আল্লাহু আকবার-উচ্চস্বরে। এরপর কিছুটা নীচু স্বরে বলবেঃ আশহাদু আল-লা ইলাহা ইল্লাল্লাহ, আশহাদু আল-লা ইলাহা ইল্লাল্লাহ। আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ, আশহাদু আন্না মুহাম্মাদার রাসূলুল্লাহ। হাইয়্যা ‘আলাস সলাহ, হাইয়্যা ‘আলাস সলাহ। হাইয়্যা ‘আলাল ফালাহ, হাইয়্যা ‘আলাল ফালাহ। ফজরের সালাত হলে বলবেঃ আসসালাতু খাইরুম মিনান নাউম, আসালাতু খাইরুম মিনান নাউম (ঘুমের চেয়ে সালাত উত্তম-দু’বার)। আল্লাহু আকবার আল্লাহু আকবার, লা ইলাহা ইল্লাল্লাহ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Mahdhurah reported; I said; Messenger of Allah, teach me the method of ADHAN (how to pronounce the call to prayer). He wiped my forehead (with his hand) and asked me to pronounce; Allah is most great. Allah is most great. Allah is most great. Allah is most great, raising your voice while saying them (these words). Then you must raise your voice in making the testimony:I testify that there is no god but Allah, I testify that there is no god but Allah; I testify that Muhammad is the Messenger of Allah, I testify that Muhammad is the Messenger of Allah. Lowering your voice while saying them (these words). Then you must raise your voice in making the testimony: I testify that there is no god but Allah, I testify there is no god but Allah; I testify Muhammad is the Messenger of Allah, I testify Muhammad is the Messenger of Allah. Come to prayer, come to prayer; come to salvation, come to salvation. If it is the morning prayer, you must pronounce; prayer is better than sleep, prayer is better than sleep, Allah is most great; there is no god but Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
+
+## French
+
+Rapporté par Abu Mahdhurah : J’ai dit : « Messager d’Allah, enseigne-moi la manière de faire l’ADHAN (l’appel à la prière). » Il a passé sa main sur mon front et m’a demandé de prononcer : « Allah est le plus Grand, Allah est le plus Grand, Allah est le plus Grand, Allah est le plus Grand », en élevant la voix pour ces paroles. Ensuite, tu dois élever la voix pour le témoignage : « J’atteste qu’il n’y a pas d’autre divinité qu’Allah, j’atteste qu’il n’y a pas d’autre divinité qu’Allah ; j’atteste que Muhammad est le Messager d’Allah, j’atteste que Muhammad est le Messager d’Allah », puis baisser la voix pour ces paroles. Ensuite, tu dois de nouveau élever la voix pour le témoignage : « J’atteste qu’il n’y a pas d’autre divinité qu’Allah, j’atteste qu’il n’y a pas d’autre divinité qu’Allah ; j’atteste que Muhammad est le Messager d’Allah, j’atteste que Muhammad est le Messager d’Allah. » « Venez à la prière, venez à la prière ; venez au salut, venez au salut. » Si c’est la prière du matin, tu dois dire : « La prière est meilleure que le sommeil, la prière est meilleure que le sommeil. Allah est le plus Grand, il n’y a pas d’autre divinité qu’Allah. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Al-Harits bin Ubaid\] dari \[Muhammad bin Abdul Malik bin Abu Mahzhurah\] dari \[Ayahnya\] dari \[Kakeknya\] dia berkata; Saya berkata; Wahai Rasulullah, ajarkanlah kepadaku sunnah (tata cara) adzan. Katanya; Maka beliau mengusap bagian depan kepalaku dan bersabda: "Kamu ucapkan; Allahu akbar Allahu akbar, Allaahu akbar, Allahu akbar (Allah Maha Besar Allah Maha Besar, Allah Maha Besar Allah Maha Besar), kamu angkat suaramu ketika mengucapkannya, kemudian kamu ucapkan, Asyhadu an laa ilaaha illallaah Asyhadu an laa ilaaha illallah (Aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah, aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah), Asyhadu anna Muhammadar Rasuulullah, Asyhadu anna muhammadar Rasuulullah (Aku bersaksi bahwa Muhammad adalah utusan Allah, Aku bersaksi bahwa Muhammad adalah utusan Allah) Kamu rendahkan suaramu tatkala mengucapkannya, setelah itu kamu angkat suaramu ketika mengucapkan syahadat, Asyhadu an laa ilaaha illallah, asyhadu an laa ilaaha illallah (Aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah, Aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah), Asyhadu anna Muhammadar rasulullah, asyhadu anna Muhammadar Rasulullah (Aku bersaksi bahwasanya Muhammad adalah utusan Allah, Aku bersaksi bahwasanya Muhammad adalah utusan Allah) Hayya 'Alash shalaah, hayya 'alas shalaah (Mari mendirikan shalat, mari mendirikan shalat) Hayya 'Alal falaah, hayya 'alal falaah (Mari menuju kemenangan, Mari menuju kemenangan). Kalau adzan untuk shalat Subuh, ucapkanlah, Ash shalaatu khairun minan nauum, Ash shalaatu khairun minan nauum (shalat itu lebih baik daripada tidur, shalat itu lebih baik daripada tidur), Allaahu akbar, Allaahu akbar (Allah Maha Besar, Allah Maha Besar) Laa ilaaha illallah (Tiada tuhan yang berhak disembah selain Allah)." Telah menceritakan kepada kami \[Al-Hasan bin Ali\] telah menceritakan kepada kami \[Abu 'Ashim\] dan \[Abdur Razzaq\] dari \[Ibnu Juraij\] dia berkata; Telah mengabarkan kepadaku \[Utsman bin As-Sa'ib\] Telah mengabarkan kepadaku \[Ayahku\] dan \[Ummu Abdil Malik bin Abi Mahzhurah\] dari \[Abu Mahzhurah\] dari Nabi shallallahu 'alaihi wasallam seperti lafazh hadits ini, dan di dalamnya disebutkan ucapan kalimat; Ash shalaatu khairun minan nauum, Ash shalaatu khairun minan nauum (shalat itu lebih baik daripada tidur, shalat itu lebih baik daripada tidur) pada Shubuh yang pertama. Abu Dawud berkata; Hadits Musaddad lebih jelas. Dia menyebutkan padanya; dia berkata; Beliau mengajarkanku tata cara iqamat dengan dua kali dua kali; Allahu Akbar Allahu Akbar, Asyhadu anlaa ilaaha illallah, Asyhadu anlaa ilaaha illallah, Asyhadu anna Muhammadar rasulullah, Asyhadu anna Muhammadar rasulullah, Hayya 'alash Shalah, Hayya 'alash Shalah, Hayya 'alal Falah, Hayya 'alal Falah, Allahu Akbar Allahu Akbar, Laa ilaaha illallah. Dan Abdur Razzaq menyebutkan; Apabila kamu mengumandangkan iqamat, maka ucapkanlah dua kali; yakni Qad qaamatish Shalah, Qad qaamatish Shalah, apakah kamu telah mendengarnya? Katanya; Maka Abu Mahdzurah tidak pernah mencukur ubun ubunnya, dan tidak pernah membelahnya, karena Nabi shallallahu 'alaihi wasallam pernah mengusapnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Al-Harits bin Ubaid] dari [Muhammad bin Abdul Malik bin Abu Mahzhurah] dari [Ayahnya] dari [Kakeknya] dia berkata; Saya berkata; Wahai Rasulullah, ajarkanlah kepadaku sunnah (tata cara) adzan. Katanya; Maka beliau mengusap bagian depan kepalaku dan bersabda: "Kamu ucapkan; Allahu akbar Allahu akbar, Allaahu akbar, Allahu akbar (Allah Maha Besar Allah Maha Besar, Allah Maha Besar Allah Maha Besar), kamu angkat suaramu ketika mengucapkannya, kemudian kamu ucapkan, Asyhadu an laa ilaaha illallaah Asyhadu an laa ilaaha illallah (Aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah, aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah), Asyhadu anna Muhammadar Rasuulullah, Asyhadu anna muhammadar Rasuulullah (Aku bersaksi bahwa Muhammad adalah utusan Allah, Aku bersaksi bahwa Muhammad adalah utusan Allah) Kamu rendahkan suaramu tatkala mengucapkannya, setelah itu kamu angkat suaramu ketika mengucapkan syahadat, Asyhadu an laa ilaaha illallah, asyhadu an laa ilaaha illallah (Aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah, Aku bersaksi bahwasanya tidak ada tuhan yang berhak disembah selain Allah), Asyhadu anna Muhammadar rasulullah, asyhadu anna Muhammadar Rasulullah (Aku bersaksi bahwasanya Muhammad adalah utusan Allah, Aku bersaksi bahwasanya Muhammad adalah utusan Allah) Hayya 'Alash shalaah, hayya 'alas shalaah (Mari mendirikan shalat, mari mendirikan shalat) Hayya 'Alal falaah, hayya 'alal falaah (Mari menuju kemenangan, Mari menuju kemenangan). Kalau adzan untuk shalat Subuh, ucapkanlah, Ash shalaatu khairun minan nauum, Ash shalaatu khairun minan nauum (shalat itu lebih baik daripada tidur, shalat itu lebih baik daripada tidur), Allaahu akbar, Allaahu akbar (Allah Maha Besar, Allah Maha Besar) Laa ilaaha illallah (Tiada tuhan yang berhak disembah selain Allah)." Telah menceritakan kepada kami [Al-Hasan bin Ali] telah menceritakan kepada kami [Abu 'Ashim] dan [Abdur Razzaq] dari [Ibnu Juraij] dia berkata; Telah mengabarkan kepadaku [Utsman bin As-Sa'ib] Telah mengabarkan kepadaku [Ayahku] dan [Ummu Abdil Malik bin Abi Mahzhurah] dari [Abu Mahzhurah] dari Nabi shallallahu 'alaihi wasallam seperti lafazh hadits ini, dan di dalamnya disebutkan ucapan kalimat; Ash shalaatu khairun minan nauum, Ash shalaatu khairun minan nauum (shalat itu lebih baik daripada tidur, shalat itu lebih baik daripada tidur) pada Shubuh yang pertama. Abu Dawud berkata; Hadits Musaddad lebih jelas. Dia menyebutkan padanya; dia berkata; Beliau mengajarkanku tata cara iqamat dengan dua kali dua kali; Allahu Akbar Allahu Akbar, Asyhadu anlaa ilaaha illallah, Asyhadu anlaa ilaaha illallah, Asyhadu anna Muhammadar rasulullah, Asyhadu anna Muhammadar rasulullah, Hayya 'alash Shalah, Hayya 'alash Shalah, Hayya 'alal Falah, Hayya 'alal Falah, Allahu Akbar Allahu Akbar, Laa ilaaha illallah. Dan Abdur Razzaq menyebutkan; Apabila kamu mengumandangkan iqamat, maka ucapkanlah dua kali; yakni Qad qaamatish Shalah, Qad qaamatish Shalah, apakah kamu telah mendengarnya? Katanya; Maka Abu Mahdzurah tidak pernah mencukur ubun ubunnya, dan tidak pernah membelahnya, karena Nabi shallallahu 'alaihi wasallam pernah mengusapnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Мухаммада ибн ‘Абдульмалика ибн Абу Махзуры о том, что его отец сообщил со слов его деда, который сказал: «Я сказал: “О Посланник Аллаха, научи меня принципам азана”.(Абу Махзура) сказал: “Он провел рукой по передней части моей головы и сказал: “Говори: Аллаху акбар! Аллаху акбар! Аллаху акбар! Аллаху акбар! повышая при этом свой голос. Затем, понизив голос, скажи: Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Затем опять повышай свой голос при произношении “свидетельства”/шахада/: Ашхаду ан ля иляха илля-Ллах! Ашхаду ан ля иляха илля-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Ашхаду анна Мухаммадан расулю-Ллах! Хаййа ‘аля-с-салях! Хаййа ‘аля-с-салях! Хаййа ‘аляль-фалях! Хаййа ‘аляль-фалях! Если это будет (азан) к утренней молитве, то (дополнительно) говори: ас-Саляту хайрун мина-н-наум, ас-Саляту хайрун мина-н-наум/Молитва лучше чем сон/, Аллаху акбар! Аллаху акбар! Ля иляха илля-Ллах!/”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Mahzure (r.a.)'den, demiştir ki:Resulullah (Sallallahu aleyhi ve Sellem)’e; Bana ezanın okunuş usulünü öğret, dedim. Başımı okşadı ve şöyle buyurdu: "Sesini yükselterek, Allahu ekber, Allahu ekber, Allahu ekber, Allahu Ekber dersin. Sonra şöyle buyurdu: Sesini alçaltarak, Eşhedü en la ilahe illellah, eşhedu en la ilahe illallah, eşhedü enne Muhammeden Resulullah, eşhedü enne Muhammeden Resulullah dersin. Sonra da sesini yükseltir ve eşhedü en Ia ilahe illellah, eşhedü en lailahe illellah; eşhedü enne Muhammeden Resulullah, eşhedü enne Muhammeden Resulullah dersin. Hayye ale's-salah. hayye ale's-salah; hayye ale'l-felah, hayye ale'l-felah (dersin), eğer sabah ezanı ise, es-salatü hayrun mine'n-nevm, es-Salatu hayrun mine'n-nevm" dersin (ve) Allahu ekber, Allalıu ekber, La ilahe illellah" (diye bitirirsin) Diğer tahric: Ahmed b. Hanbel, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابومحذورہ رضی اللہ عنہ کہتے ہیں کہ میں نے عرض کیا: اللہ کے رسول صلی اللہ علیہ وسلم! آپ مجھے اذان کا طریقہ سکھا دیجئیے، تو آپ نے میرے سر کے اگلے حصہ پر ( ہاتھ ) پھیرا اور فرمایا: کہو: «الله أكبر الله أكبر الله أكبر الله أكبر» ، تم انہیں بلند آواز سے کہو، پھر کہو: «أشهد أن لا إله إلا الله أشهد أن لا إله إلا الله أشهد أن محمدا رسول الله أشهد أن محمدا رسول الله» انہیں ہلکی آواز سے کہو، پھر انہیں کلمات شہادت «أشهد أن لا إله إلا الله أشهد أن لا إله إلا الله أشهد أن محمدا رسول الله أشهد أن محمدا رسول الله» کو بلند آواز سے کہو ۱؎، پھر «حى على الصلاة حى على الصلاة حى على الفلاح حى على الفلاح» کہو، اور اگر صبح کی اذان ہو تو«الصلاة خير من النوم الصلاة خير من النوم» کہو، پھر «الله أكبر الله أكبر لا إله إلا الله» کہو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>500</td></tr><tr><td>Arabic No</td><td>500</td></tr><tr><td>Reference</td><td>Book 2 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 500 |
+| Arabic No | 500 |
+| Reference | Book 2 Hadith 110 |

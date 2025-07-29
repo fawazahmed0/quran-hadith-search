@@ -14,62 +14,96 @@
 
 ## Arabic
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |
 
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |
 
 ## English
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |
 
 ## French
 
-
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Wahb Ibn Kaissan a rapporté que Jaber Ibn Abdallah enseignait aux fidèles le takbir, dans la prière en disant: «on nous ordonnait de prononcer le takbir à chaque fois qu'on s'abaissait1 et qu'on se relevait 2. (1) Pour s'incliner et pour se prosterner. (2) Se relever de la prosternation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 0 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 0 Hadith 1 |

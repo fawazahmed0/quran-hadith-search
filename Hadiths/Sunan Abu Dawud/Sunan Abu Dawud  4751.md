@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ الأَنْبَارِيُّ، حَدَّثَنَا عَبْدُ الْوَهَّابِ بْنُ عَطَاءٍ الْخَفَّافُ أَبُو نَصْرٍ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ ‏:‏ إِنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم دَخَلَ نَخْلاً لِبَنِي النَّجَّارِ فَسَمِعَ صَوْتًا فَفَزِعَ فَقَالَ ‏:‏ ‏"‏ مَنْ أَصْحَابُ هَذِهِ الْقُبُورِ ‏"‏ ‏.‏ قَالُوا ‏:‏ يَا رَسُولَ اللَّهِ نَاسٌ مَاتُوا فِي الْجَاهِلِيَّةِ ‏.‏ فَقَالَ ‏:‏ ‏"‏ تَعَوَّذُوا بِاللَّهِ مِنْ عَذَابِ النَّارِ وَمِنْ فِتْنَةِ الدَّجَّالِ ‏"‏ ‏.‏ قَالُوا ‏:‏ وَمِمَّ ذَاكَ يَا رَسُولَ اللَّهِ قَالَ ‏:‏ ‏"‏ إِنَّ الْمُؤْمِنَ إِذَا وُضِعَ فِي قَبْرِهِ أَتَاهُ مَلَكٌ فَيَقُولُ لَهُ ‏:‏ مَا كُنْتَ تَعْبُدُ فَإِنِ اللَّهُ هَدَاهُ قَالَ ‏:‏ كُنْتُ أَعْبُدُ اللَّهَ ‏.‏ فَيُقَالُ لَهُ ‏:‏ مَا كُنْتَ تَقُولُ فِي هَذَا الرَّجُلِ فَيَقُولُ ‏:‏ هُوَ عَبْدُ اللَّهِ وَرَسُولُهُ فَمَا يُسْأَلُ عَنْ شَىْءٍ غَيْرَهَا فَيُنْطَلَقُ بِهِ إِلَى بَيْتٍ كَانَ لَهُ فِي النَّارِ، فَيُقَالُ لَهُ ‏:‏ هَذَا بَيْتُكَ كَانَ لَكَ فِي النَّارِ وَلَكِنَّ اللَّهَ عَصَمَكَ وَرَحِمَكَ فَأَبْدَلَكَ بِهِ بَيْتًا فِي الْجَنَّةِ فَيَقُولُ ‏:‏ دَعُونِي حَتَّى أَذْهَبَ فَأُبَشِّرَ أَهْلِي ‏.‏ فَيُقَالُ لَهُ ‏:‏ اسْكُنْ ‏.‏ وَإِنَّ الْكَافِرَ إِذَا وُضِعَ فِي قَبْرِهِ أَتَاهُ مَلَكٌ فَيَنْتَهِرُهُ فَيَقُولُ لَهُ ‏:‏ مَا كُنْتَ تَعْبُدُ فَيَقُولُ ‏:‏ لاَ أَدْرِي ‏.‏ فَيُقَالُ لَهُ ‏:‏ لاَ دَرَيْتَ وَلاَ تَلَيْتَ ‏.‏ فَيُقَالُ لَهُ ‏:‏ فَمَا كُنْتَ تَقُولُ فِي هَذَا الرَّجُلِ فَيَقُولُ ‏:‏ كُنْتُ أَقُولُ مَا يَقُولُ النَّاسُ ‏.‏ فَيَضْرِبُهُ بِمِطْرَاقٍ مِنْ حَدِيدٍ بَيْنَ أُذُنَيْهِ فَيَصِيحُ صَيْحَةً يَسْمَعُهَا الْخَلْقُ غَيْرَ الثَّقَلَيْنِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
+
 حدثنا محمد بن سليمان الانباري، حدثنا عبد الوهاب بن عطاء الخفاف ابو نصر، عن سعيد، عن قتادة، عن انس بن مالك، قال : ان نبي الله صلى الله عليه وسلم دخل نخلا لبني النجار فسمع صوتا ففزع فقال : " من اصحاب هذه القبور " . قالوا : يا رسول الله ناس ماتوا في الجاهلية . فقال : " تعوذوا بالله من عذاب النار ومن فتنة الدجال " . قالوا : ومم ذاك يا رسول الله قال : " ان المومن اذا وضع في قبره اتاه ملك فيقول له : ما كنت تعبد فان الله هداه قال : كنت اعبد الله . فيقال له : ما كنت تقول في هذا الرجل فيقول : هو عبد الله ورسوله فما يسال عن شىء غيرها فينطلق به الى بيت كان له في النار، فيقال له : هذا بيتك كان لك في النار ولكن الله عصمك ورحمك فابدلك به بيتا في الجنة فيقول : دعوني حتى اذهب فابشر اهلي . فيقال له : اسكن . وان الكافر اذا وضع في قبره اتاه ملك فينتهره فيقول له : ما كنت تعبد فيقول : لا ادري . فيقال له : لا دريت ولا تليت . فيقال له : فما كنت تقول في هذا الرجل فيقول : كنت اقول ما يقول الناس . فيضربه بمطراق من حديد بين اذنيه فيصيح صيحة يسمعها الخلق غير الثقلين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী নাজ্জার গোত্রের একটি খেজুর বাগানে প্রবেশ করে একটা শব্দ শুনে শঙ্কিত হয়ে প্রশ্ন করলেন, এ কবরগুলো কাদের? তারা বললেন, হে আল্লাহর রাসূল! এরা সেসব লোক যারা জাহেলী যুগে মারা গেছে। তিনি বললেন, তোমরা আল্লাহর নিকট জাহান্নামের আযাব থেকে ও দাজ্জাল সৃষ্ট বিপর্যয় থেকে আশ্রয় চাও। তারা বললেন, হে আল্লাহর রাসূল! তা কেন? তিনি বললেন, যখন কোনো মু‘মিন ব্যক্তিকে তার কবরে রাখা হয় তখন তার নিকট একজন ফিরিশতা এসে বলে, তুমি কার ইবাদাত করতে? যদি আল্লাহ তাকে পথ দেখান, তাহলে সে বলে, আমি আল্লাহর ইবাদাত করতাম। অতঃপর তাকে প্রশ্ন করা হয়, তুমি এ ব্যক্তি (মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সম্বন্ধে কি বলতে? সে বলে, তিনি আল্লাহর বান্দা ও তাঁর রাসূল! এরপর তাকে অন্য প্রশ্ন না করে তাকে নিয়ে এমন একটি ঘরে যাওয়া হয় যা তার জন্য জাহান্নামে (তৈরী করা) ছিলো। অতঃপর তাকে বলা হয়, এটা তোমার ঘর যা জাহান্নামে তোমার জন্য ছিলো। কিন্তু আল্লাহ তোমাকে এ থেকে রক্ষা করেছেন এবং দয়া করে এর পরিবর্তে তোমার জন্য জান্নাতে একটি ঘরের ব্যবস্থা করেছেন। তখন সে বলে, আমাকে একটু ছেড়ে দিন, আমি আমার পরিবার-পরিজনকে এ সুসংবাদটি দিয়ে আসি। তাকে বলা হবে, তুমি এখানেই বসবাস করো। পক্ষান্তরে, যখন কোনো কাফির ব্যক্তিকে কবরে রাখা হয় তখন তার নিকট একজন ফিরিশতা এসে তাকে ধাক্কা দিয়ে বলে, তুমি কার ইবাদাত করতে? সে বলে, আমি জানি না। অতঃপর তাকে বলা হয়, তুমি জানতে চাওনি এবং অনুসরণও করনি। অতঃপর প্রশ্ন করা হয়, এ ব্যক্তি (মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সম্বন্ধে তুমি কি বলতে? সে বলবে, অন্যান্য লোক যা বলতো আমিও তাই বলতাম। তখন তার দু’ কানের মধ্যস্থলে লোহার হাতুড়ি দিয়ে স্বজোরে আঘাত করা হয় এতে সে এমন জোরে চিৎকার করে যে, মানুষ ও জীন জাতি ছাড়া অন্য সকল সৃষ্ট জীব তা শুনতে পায়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী নাজ্জার গোত্রের একটি খেজুর বাগানে প্রবেশ করে একটা শব্দ শুনে শঙ্কিত হয়ে প্রশ্ন করলেন, এ কবরগুলো কাদের? তারা বললেন, হে আল্লাহর রাসূল! এরা সেসব লোক যারা জাহেলী যুগে মারা গেছে। তিনি বললেন, তোমরা আল্লাহর নিকট জাহান্নামের আযাব থেকে ও দাজ্জাল সৃষ্ট বিপর্যয় থেকে আশ্রয় চাও। তারা বললেন, হে আল্লাহর রাসূল! তা কেন? তিনি বললেন, যখন কোনো মু‘মিন ব্যক্তিকে তার কবরে রাখা হয় তখন তার নিকট একজন ফিরিশতা এসে বলে, তুমি কার ইবাদাত করতে? যদি আল্লাহ তাকে পথ দেখান, তাহলে সে বলে, আমি আল্লাহর ইবাদাত করতাম। অতঃপর তাকে প্রশ্ন করা হয়, তুমি এ ব্যক্তি (মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সম্বন্ধে কি বলতে? সে বলে, তিনি আল্লাহর বান্দা ও তাঁর রাসূল! এরপর তাকে অন্য প্রশ্ন না করে তাকে নিয়ে এমন একটি ঘরে যাওয়া হয় যা তার জন্য জাহান্নামে (তৈরী করা) ছিলো। অতঃপর তাকে বলা হয়, এটা তোমার ঘর যা জাহান্নামে তোমার জন্য ছিলো। কিন্তু আল্লাহ তোমাকে এ থেকে রক্ষা করেছেন এবং দয়া করে এর পরিবর্তে তোমার জন্য জান্নাতে একটি ঘরের ব্যবস্থা করেছেন। তখন সে বলে, আমাকে একটু ছেড়ে দিন, আমি আমার পরিবার-পরিজনকে এ সুসংবাদটি দিয়ে আসি। তাকে বলা হবে, তুমি এখানেই বসবাস করো। পক্ষান্তরে, যখন কোনো কাফির ব্যক্তিকে কবরে রাখা হয় তখন তার নিকট একজন ফিরিশতা এসে তাকে ধাক্কা দিয়ে বলে, তুমি কার ইবাদাত করতে? সে বলে, আমি জানি না। অতঃপর তাকে বলা হয়, তুমি জানতে চাওনি এবং অনুসরণও করনি। অতঃপর প্রশ্ন করা হয়, এ ব্যক্তি (মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) সম্বন্ধে তুমি কি বলতে? সে বলবে, অন্যান্য লোক যা বলতো আমিও তাই বলতাম। তখন তার দু’ কানের মধ্যস্থলে লোহার হাতুড়ি দিয়ে স্বজোরে আঘাত করা হয় এতে সে এমন জোরে চিৎকার করে যে, মানুষ ও জীন জাতি ছাড়া অন্য সকল সৃষ্ট জীব তা শুনতে পায়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas b. Malik said:The Messenger of Allah(ﷺ) entered the garden of the palm trees of Banu al-Najjar. He heard a voice and was terrified. He asked: Who are the people buried in these graves? The people replied: Messenger of Allah! These are some people who died in the pre-Islamic times. He said: Seek refuge in Allah from the punishment of the fire, and the trail of Antichrist. They asked: Why is it that, Messenger of Allah? He said: When a man is placed in his grave, an angel comes to him and says to him: Whom did you worship? Allah then guides him and he says: I worshiped Allah. He is then asked: What was your opinion of this man? He replies: He is Allah’s servant and His Apostle. He will not then be asked about anything else. He will then be taken to his abode in Hell and will be told: This was your abode in Hell, but Allah protected you and had mercy on you substituted for you an abode in Paradise for it. He will say: Leave me so that I may go and give glad tidings to my family. He will be told: Dwell. When an infidel is placed in his grave, an angel comes to him, reprimands him and asks him: Whom did you worship? He replies: I do not know. He will be told: You neither knew nor did you follow(the believers). He is then asked: What was your opinion on this man? He replies: I held the opinion that the other people held. He will then give him a blow between his ears with an iron hammer and will utter a shout which will be heard by all the creatures(near him) with the exception of men and jinn
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
+
+## French
+
+Rapporté par Anas ibn Malik رضي الله عنه : Le Messager d’Allah ﷺ entra dans le jardin de palmiers des Banu al-Najjar. Il entendit une voix et eut peur. Il demanda : « Qui sont les personnes enterrées dans ces tombes ? » Les gens répondirent : « Messager d’Allah ! Ce sont des gens morts avant l’islam. » Il dit : « Cherchez la protection d’Allah contre le châtiment du Feu et contre l’épreuve de l’Antéchrist. » Ils demandèrent : « Pourquoi cela, Messager d’Allah ? » Il répondit : « Quand une personne est placée dans sa tombe, un ange vient à elle et lui demande : “Qui adorais-tu ?” Allah la guide et elle répond : “J’adorais Allah.” On lui demande ensuite : “Que pensais-tu de cet homme ?” Elle répond : “C’est le serviteur d’Allah et Son Messager.” Elle ne sera alors plus interrogée sur rien d’autre. On lui montrera alors sa place en Enfer et on lui dira : “Voici ta place en Enfer, mais Allah t’a protégé et t’a fait miséricorde, et Il t’a donné à la place une demeure au Paradis.” Elle dira : “Laissez-moi aller annoncer la bonne nouvelle à ma famille.” On lui dira : “Reste ici.” Quand un mécréant est placé dans sa tombe, un ange vient à lui, le réprimande et lui demande : “Qui adorais-tu ?” Il répond : “Je ne sais pas.” On lui dira : “Tu n’as pas su et tu n’as pas suivi (les croyants).” On lui demandera ensuite : “Que pensais-tu de cet homme ?” Il répondra : “J’avais le même avis que les autres.” L’ange le frappera alors entre les oreilles avec un marteau de fer, et il poussera un cri que toutes les créatures proches entendront, sauf les hommes et les djinns
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Sulaiman Al Anbari\] berkata, telah menceritakan kepada kami \[Abdul Wahhab bin Atha Al Khaffaf Abu Nashr\] dari \[Sa'id\] dari \[Qatadah\] dari \[Anas bin Malik\] ia berkata, "Nabi shallallahu 'alaihi wasallam pernah masuk ke sebuah kebun milik bani Najjar, lalu beliau mendengar suara hingga beliau kawatir. Beliau bertanya: "Siapa yang dikubur ini?" Para sahabat menjawab, "Wahai Rasulullah, orang-orang yang mati pada masa Jahilliyah." Beliau bersabda: "Berlindunglah kalian kepada Allah dari siksa neraka dan fitnah Dajjal." Para sahabat berkata, "Wahai Rasulullah, memang kenapa?" Beliau menjawab: "Seorang mukmin jika telah diletakkan dalam kuburnya, maka seorang malaikat akan datang kepadanya seraya berkata, "Apa yang kamu sembah?" Jika Allah memberinya pentunjuk maka ia akan menjawab, "Aku menyembah Allah." Lalu ditanyakan kepadanya, "Apa yang kau katakan tentang laki-laki ini (Muhammad)?" Lalu ia menjawab, "Dia adalah hamba Allah dan rasul-Nya." Dan ia tidak ditanya kecuali pertanyaan tersebut. Lalu ia dibawa menuju rumah yang disediakan untuknya dalam neraka, dikatakan kepadanya, "Ini adalah rumah yang semula disediakan untukmu di neraka, tetapi Allah telah melindungi dan memberimu rahmat lalu Allah menggantikan rumah di surga." Laki-laki mukmin itu pun berkata, "Biarkanlah aku mengabarkan berita baik ini kepada keluargaku." Lalu dikatakan kepadanya, "Diamlah.", Dan seorang kafir jika telah diletakkan dalam kuburnya, maka seorang malaikat akan datang kepadanya seraya menghardiknya, lalu malaikat itu bertanya, "Siapa yang kamu sembah?" Laki-laki itu menjawab, "Aku tidak tahu." Lalu dikatakan kepadanya, "Engkau tidak tahu tapi tidak mau membaca!" Lalu dikatakan kepadanya, "Apa yang kamu katakan tentang ini (Muhammad)?" Laki-laki itu menjawab, "Aku mengatakan sebagaimana yang dikatakan oleh manusia." Malaikat itu lalu memukulnya dengan palu besi antara dua telinganya hingga ia melolong dan menjerit kesakitan dengan jeritan yang dapat didengar oleh para semua makhluk kecuali jin dan manusia." Telah menceritakan kepada kami Muhammad bin Sulaiman berkata, telah menceritakan kepada kami Abdul Wahhab dengan sanad yang sama; seperti hadits tersebut. Beliau bersabda: "Jika seorang hamba diletakkan dalam kuburnya, dan orang-orang yang menghantarkannya telah kembali, maka ia dapat mendengar bunyi sandal mereka. setelah itu ada dua malaikat mendatanginya dan bertanya kepadanya. …lalu ia menyebutkan redaksi yang hampir sama dengan hadits pertama ia menyebutkan (dalam riwayatnya); "Adapun orang kafir dan munafik, maka kedua malaikat itu akan berkata kepadanya", - ia menambahkan kaliamat, 'munafik', dan ia juga menyebutkan dalam riwayatnya; "akan dapat didengar oleh makhluk yang disekitarnya selain jin dan manusia
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Sulaiman Al Anbari] berkata, telah menceritakan kepada kami [Abdul Wahhab bin Atha Al Khaffaf Abu Nashr] dari [Sa'id] dari [Qatadah] dari [Anas bin Malik] ia berkata, "Nabi shallallahu 'alaihi wasallam pernah masuk ke sebuah kebun milik bani Najjar, lalu beliau mendengar suara hingga beliau kawatir. Beliau bertanya: "Siapa yang dikubur ini?" Para sahabat menjawab, "Wahai Rasulullah, orang-orang yang mati pada masa Jahilliyah." Beliau bersabda: "Berlindunglah kalian kepada Allah dari siksa neraka dan fitnah Dajjal." Para sahabat berkata, "Wahai Rasulullah, memang kenapa?" Beliau menjawab: "Seorang mukmin jika telah diletakkan dalam kuburnya, maka seorang malaikat akan datang kepadanya seraya berkata, "Apa yang kamu sembah?" Jika Allah memberinya pentunjuk maka ia akan menjawab, "Aku menyembah Allah." Lalu ditanyakan kepadanya, "Apa yang kau katakan tentang laki-laki ini (Muhammad)?" Lalu ia menjawab, "Dia adalah hamba Allah dan rasul-Nya." Dan ia tidak ditanya kecuali pertanyaan tersebut. Lalu ia dibawa menuju rumah yang disediakan untuknya dalam neraka, dikatakan kepadanya, "Ini adalah rumah yang semula disediakan untukmu di neraka, tetapi Allah telah melindungi dan memberimu rahmat lalu Allah menggantikan rumah di surga." Laki-laki mukmin itu pun berkata, "Biarkanlah aku mengabarkan berita baik ini kepada keluargaku." Lalu dikatakan kepadanya, "Diamlah.", Dan seorang kafir jika telah diletakkan dalam kuburnya, maka seorang malaikat akan datang kepadanya seraya menghardiknya, lalu malaikat itu bertanya, "Siapa yang kamu sembah?" Laki-laki itu menjawab, "Aku tidak tahu." Lalu dikatakan kepadanya, "Engkau tidak tahu tapi tidak mau membaca!" Lalu dikatakan kepadanya, "Apa yang kamu katakan tentang ini (Muhammad)?" Laki-laki itu menjawab, "Aku mengatakan sebagaimana yang dikatakan oleh manusia." Malaikat itu lalu memukulnya dengan palu besi antara dua telinganya hingga ia melolong dan menjerit kesakitan dengan jeritan yang dapat didengar oleh para semua makhluk kecuali jin dan manusia." Telah menceritakan kepada kami Muhammad bin Sulaiman berkata, telah menceritakan kepada kami Abdul Wahhab dengan sanad yang sama; seperti hadits tersebut. Beliau bersabda: "Jika seorang hamba diletakkan dalam kuburnya, dan orang-orang yang menghantarkannya telah kembali, maka ia dapat mendengar bunyi sandal mereka. setelah itu ada dua malaikat mendatanginya dan bertanya kepadanya. …lalu ia menyebutkan redaksi yang hampir sama dengan hadits pertama ia menyebutkan (dalam riwayatnya); "Adapun orang kafir dan munafik, maka kedua malaikat itu akan berkata kepadanya", - ia menambahkan kaliamat, 'munafik', dan ia juga menyebutkan dalam riwayatnya; "akan dapat didengar oleh makhluk yang disekitarnya selain jin dan manusia
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса ибн Малика, что пророк Аллаха ﷺ вошёл в пальмовую рощу бану ан-наджжар и услышал звук, испугавший его. Он спросил: «Кто покоится в этих могилах?» Ему ответили: «О Посланник Аллаха! Это люди, умершие во времена невежества». Тогда он сказал: «Просите у Аллаха защиты от мучений в Огне и от смуты ад-Даджжаля». Люди спросили: «А почему, о Посланник Аллаха?» Посланник Аллаха ﷺ сказал: «Поистине, когда верующего укладывают в могилу, к нему приходит ангел и спрашивает: “Чему ты поклонялся?” И если Аллах поможет ему, он отвечает: “Я поклонялся Аллаху”. Потом его спрашивают: “Что ты говорил об этом человеке?” Он ответит: “Он раб Аллаха и Его посланник”. Больше его ни о чём не спросят. Потом ему покажут его место в огне и будет сказано: “Это было уготовано тебе, однако Аллах уберёг тебя и помиловал и заменил его тебе домом в раю”. И он скажет: “Позвольте мне пойти и обрадовать моих близких!” Но ему скажут: “Успокойся”. А когда неверующего укладывают в могилу, к нему приходит ангел, грубо окрикивает его и спрашивает: “Чему ты поклонялся?” Он отвечает: “Я не знаю”. Ему будет сказано: “Ты не знал и не следовал (за приверженцами истины)”. Потом его спросят: “Что ты говорил об этом человеке?” Он скажет: “Я говорил то, что говорили люди”. Тогда его ударят железным молотом между ушами, и он издаст вопль, который услышат все творения, кроме людей и джиннов»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes İbn Malik'den demiştir ki: "Allah'ın Nebii bir gün Neccar oğullarının hurmalığına girmişti (orada bulunan kabirlerden korkunç) bir ses işitti de korktu. Bunun üzerine: "Bu kabirlerde yatanlar kimlerdir?" dedi. "Ey Allah'ın Rasulü, (onlar) cahiliyye döneminde ölen bir takım insanlardır" dediler (Nebi efendimiz de): «Cehennem azabından ve Deccal'in Fitnesinden Allah'a sığınınız" buyurdu. Bunun üzerine '"Bu da niçin (oluyor), Ey Allah'ın rasulü?" dediler. (Hz. Nebi de şöyle) buyurdu: Muhakkak ki bir mu'min kabrine konduğu zaman ona bir melek gelir ve ona: Sen (dünyada iken) kime ibadet ediyordun? diye sorar. Eğer Yüce Allah o mu'min'e hidayet vermişse; "Allah'a ibadet ediyordum" der, bunun üzerine kendisine: "Sen şu (Nebi olarak gönderildiği söylenen) kimse hakkında ne dersin?" diye sorarlar. (O mu'min de): "O Allah'ın kulu ve rasulüdür" cevabını verir. Artık bundan sonra kendisine başka bir soru sorulmaz. (Ruhen) Cehennemde bulunan evine götürülür ve: "Bu (ev) senin evindir, cehennemde senin için (hazırlanmış) idi. Fakat Allah seni korudu ve sana acıdı da onu sana cennette bir evle değiştiriverdi." denir. (O mu'min de): "Beni bırakınız gideyim de ailemi müjdeleyeyim" der. Kendisine: "Hayır olmaz, sen burada kabrinde otur." cevabını verirler. Muhakkak ki kafir kabrine konduğu zaman kendisine bir melek gelip sertçe çıkışır da: "Sen (dünyada) neye tapıyordun?" diye sorar. O da: "Bilmiyorum" cevabını verir. (Melek de ona) "Bilmez ve hakka uymaz ol" der, sonra ona: "Şu (Nebi olduğunu söylenen) kimse hakkında ne dersiniz?" denir. (O kafir de onun hakkında onu yalanlayan) "Halkın dediğini derim" cevabını verir. Bunun üzerine (o melek) onun kulakları arasına demirden bir tokmak vurur; (o adam) öyle bir bağırış bağırır ki, insan ve cinnilerden başka onu bütün yaratıklar işitir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ اللہ کے نبی اکرم صلی اللہ علیہ وسلم بنی نجار کے کھجور کے ایک باغ میں داخل ہوئے، تو ایک آواز سنی، آپ صلی اللہ علیہ وسلم گھبرا اٹھے، فرمایا: یہ قبریں کس کی ہیں؟ لوگوں نے عرض کیا: زمانہ جاہلیت میں مرنے والوں کی ہیں، آپ صلی اللہ علیہ وسلم نے فرمایا: تم لوگ جہنم کے عذاب سے اور دجال کے فتنے سے اللہ کی پناہ مانگو لوگوں نے عرض کیا: ایسا کیوں؟ اللہ کے رسول! آپ صلی اللہ علیہ وسلم نے فرمایا: مومن جب قبر میں رکھا جاتا ہے تو اس کے پاس ایک فرشتہ آتا ہے، اور اس سے کہتا ہے: تم کس کی عبادت کرتے تھے؟ تو اگر اللہ اسے ہدایت دیئے ہوتا ہے تو وہ کہتا ہے: میں اللہ کی عبادت کرتا تھا؟ پھر اس سے کہا جاتا ہے، تم اس شخص کے بارے میں کیا کہتے تھے؟ ۱؎ تو وہ کہتا ہے: وہ اللہ کے بندے اور اس کے رسول ہیں، پھر اس کے علاوہ اور کچھ نہیں پوچھا جاتا، پھر اسے ایک گھر کی طرف لے جایا جاتا ہے، جو اس کے لیے جہنم میں تھا اور اس سے کہا جاتا ہے: یہ تمہارا گھر ہے جو تمہارے لیے جہنم میں تھا، لیکن اللہ نے تمہیں اس سے بچا لیا، تم پر رحم کیا اور اس کے بدلے میں تمہیں جنت میں ایک گھر دیا، تو وہ کہتا ہے: مجھے چھوڑ دو کہ میں جا کر اپنے گھر والوں کو بشارت دے دوں، لیکن اس سے کہا جاتا ہے، ٹھہرا رہ، اور جب کافر قبر میں رکھا جاتا ہے، تو اس کے پاس ایک فرشتہ آتا ہے اور اس سے ڈانٹ کر کہتا ہے: تو کس کی عبادت کرتا تھا؟ تو وہ کہتا ہے: میں نہیں جانتا، تو اس سے کہا جاتا ہے: نہ تو نے جانا اور نہ کتاب پڑھی ( یعنی قرآن ) ، پھر اس سے کہا جاتا ہے: تو اس شخص کے بارے میں کیا کہتا تھا؟ تو وہ کہتا ہے: وہی کہتا تھا جو لوگ کہتے تھے، تو وہ اسے لوہے کے ایک گرز سے اس کے دونوں کانوں کے درمیان مارتا ہے، تو وہ اس طرح چلاتا ہے کہ اس کی آواز آدمی اور جن کے علاوہ ساری مخلوق سنتی ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1338) Sahih Muslim (2870)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4751</td></tr><tr><td>Arabic No</td><td>4751</td></tr><tr><td>Reference</td><td>Book 42 Hadith 156</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1338) Sahih Muslim (2870) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4751 |
+| Arabic No | 4751 |
+| Reference | Book 42 Hadith 156 |

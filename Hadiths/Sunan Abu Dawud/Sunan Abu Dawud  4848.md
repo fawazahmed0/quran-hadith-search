@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَلِيُّ بْنُ بَحْرٍ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ إِبْرَاهِيمَ بْنِ مَيْسَرَةَ، عَنْ عَمْرِو بْنِ الشَّرِيدِ، عَنْ أَبِيهِ الشَّرِيدِ بْنِ سُوَيْدٍ، قَالَ مَرَّ بِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَأَنَا جَالِسٌ هَكَذَا وَقَدْ وَضَعْتُ يَدِيَ الْيُسْرَى خَلْفَ ظَهْرِي وَاتَّكَأْتُ عَلَى أَلْيَةِ يَدِي فَقَالَ ‏ "‏ أَتَقْعُدُ قِعْدَةَ الْمَغْضُوبِ عَلَيْهِمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
+
 حدثنا علي بن بحر، حدثنا عيسى بن يونس، حدثنا ابن جريج، عن ابراهيم بن ميسرة، عن عمرو بن الشريد، عن ابيه الشريد بن سويد، قال مر بي رسول الله صلى الله عليه وسلم وانا جالس هكذا وقد وضعت يدي اليسرى خلف ظهري واتكات على الية يدي فقال " اتقعد قعدة المغضوب عليهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
 
 ## Bengali
 
+। আমর ইবনুস শারীদ (রহঃ) থেকে তার পিতা শারীদ ইবনু সুওয়াইদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যাচ্ছিলেন। তখন আমি আমার বাম হাত পিঠে নিয়ে তার পাতার উপর বসেছিলাম। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, তুমি কি তাদের মতো বসছো, যারা অভিশপ্ত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আমর ইবনুস শারীদ (রহঃ) থেকে তার পিতা শারীদ ইবনু সুওয়াইদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার পাশ দিয়ে যাচ্ছিলেন। তখন আমি আমার বাম হাত পিঠে নিয়ে তার পাতার উপর বসেছিলাম। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বললেন, তুমি কি তাদের মতো বসছো, যারা অভিশপ্ত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr b. al-Sharid quoted his father al-Sharid b. Suwaid as saying:The Messenger of Allah (ﷺ) came upon me when I was sitting thus: having my left hand behind my back and leaning on the fleshy part of it, and said: Are you sitting in the manner of those with whom Allah is angry?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
+
+## French
+
+Amr ibn al-Sharid a rapporté de son père al-Sharid ibn Suwaid رضي الله عنه : Le Messager d’Allah ﷺ est venu vers moi alors que j’étais assis ainsi : la main gauche derrière le dos, appuyé sur sa paume. Il a dit : « Est-ce que tu t’assois comme ceux sur qui Allah est en colère ? »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ali bin Bahr\] berkata, telah menceritakan kepada kami \[Isa bin Yunus\] berkata, telah menceritakan kepada kami \[Ibnu Juraij\] dari \[Ibrahim bin Maisarah\] dari \[Amru bin Asy Syarid\] dari bapaknya \[Asy Syarid bin Suwaid\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melewatiku saat aku duduk seperti ini; aku meletakkan tangan kiriku di belakang punggung, lalu aku bersandar dengannya. Beliau lantas bersabda: "Apakah kamu ingin duduk seperti duduknya orang-orang yang dimurkai (Yahudi)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Bahr] berkata, telah menceritakan kepada kami [Isa bin Yunus] berkata, telah menceritakan kepada kami [Ibnu Juraij] dari [Ibrahim bin Maisarah] dari [Amru bin Asy Syarid] dari bapaknya [Asy Syarid bin Suwaid] ia berkata, "Rasulullah shallallahu 'alaihi wasallam melewatiku saat aku duduk seperti ini; aku meletakkan tangan kiriku di belakang punggung, lalu aku bersandar dengannya. Beliau lantas bersabda: "Apakah kamu ingin duduk seperti duduknya orang-orang yang dimurkai (Yahudi)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что аш-Ширрид бин Сувайд, да будет доволен им Аллах, сказал: (Как-то раз когда) я сидел в такой (позе, а именно) заложив левую руку за спину и опираясь на основание большого пальца, Посланник Аллаха ﷺ проходивший мимо меня, сказал: «Неужели тебе (нравится) сидеть так, как сидят находящиеся под гневом (Аллаха)?!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şerid İbn Süveyd'den demiştir ki: "Ben (birgün) sol elimi arkama koymuş ve (sağ) elimin ayasına dayanmış bir halde, şu şekilde otururken, Rasûlullah (s.a.v.) yanıma uğradı ve: "Kendilerine gazab edilen (yahudî)ler gibi mi oturuyorsun?" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 شرید بن سوید رضی اللہ عنہ کہتے ہیں کہ میرے پاس سے رسول اللہ صلی اللہ علیہ وسلم گزرے اور میں اس طرح بیٹھا ہوا تھا کہ میں نے اپنا بایاں ہاتھ اپنی پیٹھ کے پیچھے رکھ چھوڑا تھا اور اپنے ایک ہاتھ کی ہتھیلی پر ٹیک لگائے ہوئے تھا، آپ نے فرمایا: کیا تم ان لوگوں کی طرح بیٹھتے ہو جن پر غضب نازل ہوا؟ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4848</td></tr><tr><td>Arabic No</td><td>4848</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4848 |
+| Arabic No | 4848 |
+| Reference | Book 43 Hadith 76 |

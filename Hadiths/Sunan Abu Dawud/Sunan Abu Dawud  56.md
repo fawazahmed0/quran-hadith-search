@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا بَهْزُ بْنُ حَكِيمٍ، عَنْ زُرَارَةَ بْنِ أَوْفَى، عَنْ سَعْدِ بْنِ هِشَامٍ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُوضَعُ لَهُ وَضُوءُهُ وَسِوَاكُهُ فَإِذَا قَامَ مِنَ اللَّيْلِ تَخَلَّى ثُمَّ اسْتَاكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، اخبرنا بهز بن حكيم، عن زرارة بن اوفى، عن سعد بن هشام، عن عايشة، ان النبي صلى الله عليه وسلم كان يوضع له وضوءه وسواكه فاذا قام من الليل تخلى ثم استاك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য অযুর পানি ও মিসওয়াক রেখে দেয়া হতো। তিনি রাতে ঘুম থেকে উঠে প্রথমে ইস্তিনজা করতেন, এরপর মিসওয়াক করতেন।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য অযুর পানি ও মিসওয়াক রেখে দেয়া হতো। তিনি রাতে ঘুম থেকে উঠে প্রথমে ইস্তিনজা করতেন, এরপর মিসওয়াক করতেন।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: Ablution water and tooth-stick were placed by the side of the Prophet (ﷺ). When he got up during the night (for prayer), he relieved himself, then he used the tooth-stick
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : On plaçait de l’eau pour les ablutions et un siwak à côté du Prophète ﷺ. Quand il se levait la nuit pour prier, il allait aux toilettes puis utilisait le siwak
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] telah mengabarkan kepada kami \[Bahz bin Hakim\] dari \[Zurarah bin Aufa\] dari \[Sa'd bin Hisyam\] dari \[Aisyah\] bahwasanya tempat air wudhu dan siwak Nabi shallallahu 'alaihi wasallam diletakkan (dekat tempat tidurnya). Maka apabila beliau bangun malam, beliau membuang hajatnya lalu bersiwak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Bahz bin Hakim] dari [Zurarah bin Aufa] dari [Sa'd bin Hisyam] dari [Aisyah] bahwasanya tempat air wudhu dan siwak Nabi shallallahu 'alaihi wasallam diletakkan (dekat tempat tidurnya). Maka apabila beliau bangun malam, beliau membuang hajatnya lalu bersiwak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 – Передают со слов ‘Аиши: «Не бывало так, чтобы Пророк ﷺ проснувшись, не почистил зубы перед совершением омовения, будь то ночью или днем»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'd bin Hişam radiyallahu anh'dan rivayet edildiğine göre Aişe (validemiz) şöyle buyurmuştur: "Resul-i Ekrem (sallallahu aleyhi ve sellem) Efendimizin abdest suyu ve misvağı (yatmadan önce hazırlanıp belli bir yere) konurdu. Gece kalkınca, önce abdest bozar sonra da dişlerini misvaklardı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبی اکرم صلی اللہ علیہ وسلم کے لیے وضو کا پانی اور مسواک رکھ دی جاتی تھی، جب آپ صلی اللہ علیہ وسلم رات کو اٹھتے تو قضائے حاجت (پیشاب و پاخانہ) کرتے پھر مسواک کرتے۔ ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>56</td></tr><tr><td>Arabic No</td><td>56</td></tr><tr><td>Reference</td><td>Book 1 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 56 |
+| Arabic No | 56 |
+| Reference | Book 1 Hadith 56 |

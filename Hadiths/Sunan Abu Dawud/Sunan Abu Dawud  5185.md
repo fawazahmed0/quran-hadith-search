@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هِشَامٌ أَبُو مَرْوَانَ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، - الْمَعْنَى - قَالَ مُحَمَّدُ بْنُ الْمُثَنَّى حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ سَمِعْتُ يَحْيَى بْنَ أَبِي كَثِيرٍ، يَقُولُ حَدَّثَنِي مُحَمَّدُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ أَسْعَدَ بْنِ زُرَارَةَ، عَنْ قَيْسِ بْنِ سَعْدٍ، قَالَ زَارَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فِي مَنْزِلِنَا فَقَالَ ‏"‏ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ ‏"‏ ‏.‏ فَرَدَّ سَعْدٌ رَدًّا خَفِيًّا ‏.‏ قَالَ قَيْسٌ فَقُلْتُ أَلاَ تَأْذَنُ لِرَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ فَقَالَ ذَرْهُ يُكْثِرْ عَلَيْنَا مِنَ السَّلاَمِ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ ‏"‏ ‏.‏ فَرَدَّ سَعْدٌ رَدًّا خَفِيًّا ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللَّهِ ‏"‏ ‏.‏ ثُمَّ رَجَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَاتَّبَعَهُ سَعْدٌ فَقَالَ يَا رَسُولَ اللَّهِ إِنِّي كُنْتُ أَسْمَعُ تَسْلِيمَكَ وَأَرُدُّ عَلَيْكَ رَدًّا خَفِيًّا لِتُكْثِرَ عَلَيْنَا مِنَ السَّلاَمِ ‏.‏ قَالَ فَانْصَرَفَ مَعَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَمَرَ لَهُ سَعْدٌ بِغِسْلٍ فَاغْتَسَلَ ثُمَّ نَاوَلَهُ مِلْحَفَةً مَصْبُوغَةً بِزَعْفَرَانٍ أَوْ وَرْسٍ فَاشْتَمَلَ بِهَا ثُمَّ رَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ وَهُوَ يَقُولُ ‏"‏ اللَّهُمَّ اجْعَلْ صَلَوَاتِكَ وَرَحْمَتَكَ عَلَى آلِ سَعْدِ بْنِ عُبَادَةَ ‏"‏ ‏.‏ قَالَ ثُمَّ أَصَابَ رَسُولُ اللَّهِ صلى الله عليه وسلم مِنَ الطَّعَامِ فَلَمَّا أَرَادَ الاِنْصِرَافَ قَرَّبَ لَهُ سَعْدٌ حِمَارًا قَدْ وَطَّأَ عَلَيْهِ بِقَطِيفَةٍ فَرَكِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ سَعْدٌ يَا قَيْسُ اصْحَبْ رَسُولَ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَ قَيْسٌ فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ ارْكَبْ ‏"‏ ‏.‏ فَأَبَيْتُ ثُمَّ قَالَ ‏"‏ إِمَّا أَنْ تَرْكَبَ وَإِمَّا أَنْ تَنْصَرِفَ ‏"‏ ‏.‏ قَالَ فَانْصَرَفْتُ ‏.‏ قَالَ هِشَامٌ أَبُو مَرْوَانَ عَنْ مُحَمَّدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَسْعَدَ بْنِ زُرَارَةَ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ عُمَرُ بْنُ عَبْدِ الْوَاحِدِ وَابْنُ سَمَاعَةَ عَنِ الأَوْزَاعِيِّ مُرْسَلاً وَلَمْ يَذْكُرَا قَيْسَ بْنَ سَعْدٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
+
 حدثنا هشام ابو مروان، ومحمد بن المثنى، - المعنى - قال محمد بن المثنى حدثنا الوليد بن مسلم، حدثنا الاوزاعي، قال سمعت يحيى بن ابي كثير، يقول حدثني محمد بن عبد الرحمن بن اسعد بن زرارة، عن قيس بن سعد، قال زارنا رسول الله صلى الله عليه وسلم في منزلنا فقال " السلام عليكم ورحمة الله " . فرد سعد ردا خفيا . قال قيس فقلت الا تاذن لرسول الله صلى الله عليه وسلم . فقال ذره يكثر علينا من السلام فقال رسول الله صلى الله عليه وسلم " السلام عليكم ورحمة الله " . فرد سعد ردا خفيا ثم قال رسول الله صلى الله عليه وسلم " السلام عليكم ورحمة الله " . ثم رجع رسول الله صلى الله عليه وسلم واتبعه سعد فقال يا رسول الله اني كنت اسمع تسليمك وارد عليك ردا خفيا لتكثر علينا من السلام . قال فانصرف معه رسول الله صلى الله عليه وسلم فامر له سعد بغسل فاغتسل ثم ناوله ملحفة مصبوغة بزعفران او ورس فاشتمل بها ثم رفع رسول الله صلى الله عليه وسلم يديه وهو يقول " اللهم اجعل صلواتك ورحمتك على ال سعد بن عبادة " . قال ثم اصاب رسول الله صلى الله عليه وسلم من الطعام فلما اراد الانصراف قرب له سعد حمارا قد وطا عليه بقطيفة فركب رسول الله صلى الله عليه وسلم فقال سعد يا قيس اصحب رسول الله صلى الله عليه وسلم . قال قيس فقال لي رسول الله صلى الله عليه وسلم " اركب " . فابيت ثم قال " اما ان تركب واما ان تنصرف " . قال فانصرفت . قال هشام ابو مروان عن محمد بن عبد الرحمن بن اسعد بن زرارة . قال ابو داود رواه عمر بن عبد الواحد وابن سماعة عن الاوزاعي مرسلا ولم يذكرا قيس بن سعد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
 
 ## Bengali
 
+। কাইস ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সঙ্গে দেখা করতে আমাদের বাড়িতে আসলেন। তিনি বললেনঃ আসসালামু আলাইকুম ওয়ারহমাতুল্লাহ। বর্ণনাকারী বলেন, সা‘দ (রাঃ) আস্তে সালামের উত্তর দিলেন। কাইস (রাঃ) বলেন, আমি বললাম, আপনি কি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে প্রবেশের অনুমতি দিবেন না? তিনি বললেন, থামো, তাঁকে বেশী বেশী আমাদেরকে সালাম দিতে দাও। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আসসালামু আলাইকুম ওয়া রহমাতুল্লাহ। সা‘দ (রাঃ) এবারও আস্তে সালামের জবাব দিলেন। পুনরায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসসালামু আলাইকুম ওয়ারহমাতুল্লাহ বললেন। অতঃপর তিনি ফিরে যেতে থাকলেন। সা‘দ (রাঃ) তাঁর পিছনে পিছনে গিয়ে তাঁর সঙ্গে সাক্ষাৎ করে বললেন, হে আল্লাহর রাসূল! নিশ্চয়ই আমি আপনার সালাম শুনতে পাচ্ছিলাম এবং চুপে চুপে আপনার সালামের জবাব দিচ্ছিলাম। যাতে আপনি বেশী বেশী আমাদেরকে সালাম দেন। বর্ণনাকারী বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সঙ্গে ফিরে আসলেন এবং সা‘দ (রাঃ) তাঁর গোসলের জন্য পানি এনে দিতে নির্দেশ দিলেন, অতঃপর তিনি গোসল করলেন। এরপর তাঁকে জাফরান বা ওয়ারস দ্বারা রঞ্চিত একটি চাদর দিলেন। তিনি তা পরিধান করলেন। অতঃপর দু’হাত তুলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আল্লাহ! তুমি সা‘দ ইবনু উবাদাহর পরিবার-পরিজনের উপর শান্তি ও রহমত বর্ষণ করো। বর্ণনাকারী বলেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে খাবার দেয়া হলো। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) যখন রওয়ানা করার জন্য প্রস্তুত হলেন, তখন সা‘দ (রাঃ) পিঠে মখমলের চাদর বা গদি বিছানো একটি সুসজ্জিত গাধা এনে তাঁর নিকটবর্তী করলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাতে আরোহণ করলেন। সা‘দ (রাঃ) বললেন, হে কাইস! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে যাও। কাইস (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ আরোহণ করো। কিন্তু আমি সম্মত হলাম না। অতঃপর তিনি বললেনঃ আরোহণ করো, নতুনা ফিরে যাও। বর্ণনাকারী বলেন, আমি ফিরে এলাম। ইমাম আবূ দাঊদ (রহঃ) বলেন, উমার ইবনু আব্দুল ওয়াহিদ ও ইবনু সাম‘আহ (রহঃ) আল-আওয়াঈর (রহঃ) হাদীসটি মুরসালরূপে বর্ণনা করেছেন এবং তারা উভয়ে কাইস ইবনু সা‘দ (রাঃ)-এর উল্লেখ করেননি।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। কাইস ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সঙ্গে দেখা করতে আমাদের বাড়িতে আসলেন। তিনি বললেনঃ আসসালামু আলাইকুম ওয়ারহমাতুল্লাহ। বর্ণনাকারী বলেন, সা‘দ (রাঃ) আস্তে সালামের উত্তর দিলেন। কাইস (রাঃ) বলেন, আমি বললাম, আপনি কি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে প্রবেশের অনুমতি দিবেন না? তিনি বললেন, থামো, তাঁকে বেশী বেশী আমাদেরকে সালাম দিতে দাও। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আসসালামু আলাইকুম ওয়া রহমাতুল্লাহ। সা‘দ (রাঃ) এবারও আস্তে সালামের জবাব দিলেন। পুনরায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আসসালামু আলাইকুম ওয়ারহমাতুল্লাহ বললেন। অতঃপর তিনি ফিরে যেতে থাকলেন। সা‘দ (রাঃ) তাঁর পিছনে পিছনে গিয়ে তাঁর সঙ্গে সাক্ষাৎ করে বললেন, হে আল্লাহর রাসূল! নিশ্চয়ই আমি আপনার সালাম শুনতে পাচ্ছিলাম এবং চুপে চুপে আপনার সালামের জবাব দিচ্ছিলাম। যাতে আপনি বেশী বেশী আমাদেরকে সালাম দেন। বর্ণনাকারী বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সঙ্গে ফিরে আসলেন এবং সা‘দ (রাঃ) তাঁর গোসলের জন্য পানি এনে দিতে নির্দেশ দিলেন, অতঃপর তিনি গোসল করলেন। এরপর তাঁকে জাফরান বা ওয়ারস দ্বারা রঞ্চিত একটি চাদর দিলেন। তিনি তা পরিধান করলেন। অতঃপর দু’হাত তুলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে আল্লাহ! তুমি সা‘দ ইবনু উবাদাহর পরিবার-পরিজনের উপর শান্তি ও রহমত বর্ষণ করো। বর্ণনাকারী বলেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে খাবার দেয়া হলো। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) যখন রওয়ানা করার জন্য প্রস্তুত হলেন, তখন সা‘দ (রাঃ) পিঠে মখমলের চাদর বা গদি বিছানো একটি সুসজ্জিত গাধা এনে তাঁর নিকটবর্তী করলেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাতে আরোহণ করলেন। সা‘দ (রাঃ) বললেন, হে কাইস! রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সঙ্গে যাও। কাইস (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে বললেনঃ আরোহণ করো। কিন্তু আমি সম্মত হলাম না। অতঃপর তিনি বললেনঃ আরোহণ করো, নতুনা ফিরে যাও। বর্ণনাকারী বলেন, আমি ফিরে এলাম। ইমাম আবূ দাঊদ (রহঃ) বলেন, উমার ইবনু আব্দুল ওয়াহিদ ও ইবনু সাম‘আহ (রহঃ) আল-আওয়াঈর (রহঃ) হাদীসটি মুরসালরূপে বর্ণনা করেছেন এবং তারা উভয়ে কাইস ইবনু সা‘দ (রাঃ)-এর উল্লেখ করেননি।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Qays ibn Sa'd: The Messenger of Allah (ﷺ) came to visit us in our house, and said: Peace and Allah's mercy be upon you! Sa'd returned the greeting in a lower tone. Qays said: I said: Do you not grant permission to the Messenger of Allah (ﷺ) to enter? He said: Leave him, he will give us many greetings. The Messenger of Allah (ﷺ) then said: Peace and Allah's mercy be upon you! Sa'd again responded in a lower tone. The Messenger of Allah (ﷺ) again said: Peace and Allah's mercy be upon you! So the Messenger of Allah (ﷺ) went away. Sa'd went after him and said: Messenger of Allah! I heard your greetings and responded in a lower tone so that you might give us many greetings. The Messenger of Allah (ﷺ) returned with him. Sa'd then offered to prepare bath-water for him, and he took a bath. He then gave him a long wrapper dyed with saffron or wars and he wrapped himself in it. The Messenger of Allah (ﷺ) then raised his hands and said: O Allah, bestow Thy blessings and mercy on the family of Sa'd ibn Ubadah! The Messenger of Allah (ﷺ) then shared their meals. When he intended to return, Sa'd brought near him an ass which was covered with a blanket. The Messenger of Allah (ﷺ) mounted it. Sa'd said: O Qays, accompany the Messenger of Allah. Qays said: The Messenger of Allah (ﷺ) said to me: Ride. But I refused. He again said: Either ride or go away. He said: So I went away. Hisham said: AbuMarwan (transmitted) from Muhammad ibn AbdurRahman ibn As'ad ibn Zurarah. Abu Dawud said: 'Umar b. 'Abd al-Wahid and Ibn Sama'ah transmitted it from al-Awzai' in mursal form (the ling of the Companion being missing), and they did not mention Qais b. Sa'd
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
+
+## French
+
+Rapporté par Qays ibn Sa’d : Le Messager d’Allah ﷺ est venu nous rendre visite à la maison et a dit : « Que la paix et la miséricorde d’Allah soient sur vous ! » Sa’d a répondu à son salut à voix basse. Qays a dit : « N’accordes-tu pas la permission au Messager d’Allah ﷺ d’entrer ? » Il a répondu : « Laisse-le, il va nous saluer plusieurs fois. » Le Messager d’Allah ﷺ a alors dit : « Que la paix et la miséricorde d’Allah soient sur vous ! » Sa’d a de nouveau répondu à voix basse. Le Messager d’Allah ﷺ a répété : « Que la paix et la miséricorde d’Allah soient sur vous ! » Puis il est reparti. Sa’d l’a suivi et a dit : « Messager d’Allah ! J’ai entendu tes salutations et j’ai répondu à voix basse pour que tu nous salues plusieurs fois. » Le Messager d’Allah ﷺ est revenu avec lui. Sa’d lui a alors proposé de préparer de l’eau pour le bain, et il s’est lavé. Ensuite, il lui a donné un long vêtement teint au safran ou au wars, et il s’en est enveloppé. Le Messager d’Allah ﷺ a alors levé les mains et a dit : « Ô Allah, accorde Tes bénédictions et Ta miséricorde à la famille de Sa’d ibn Ubadah ! » Le Messager d’Allah ﷺ a ensuite partagé leur repas. Quand il a voulu repartir, Sa’d a approché un âne recouvert d’une couverture. Le Messager d’Allah ﷺ est monté dessus. Sa’d a dit : « Ô Qays, accompagne le Messager d’Allah. » Qays a dit : « Le Messager d’Allah ﷺ m’a dit : “Monte.” Mais j’ai refusé. Il a répété : “Monte ou pars.” Alors je suis parti. » Hisham a dit : AbuMarwan (a transmis) d’après Muhammad ibn AbdurRahman ibn As’ad ibn Zurarah. Abu Dawud a dit : ‘Umar b. ‘Abd al-Wahid et Ibn Sama’ah l’ont transmis d’al-Awzai’ sous forme mursal (le nom du compagnon manquant), et ils n’ont pas mentionné Qays b. Sa’d
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hisyam Abu Marwan\] dan \[Muhammad Ibnul Mutsanna\] secara makna, \[Muhammad Ibnul Mutsanna\] berkata; telah menceritakan kepada kami \[Al Walid bin Muslim\] berkata, telah menceritakan kepada kami \[Al Auza'i\] ia berkata; Aku mendengar \[Yahya bin Abu Katsir\] berkata; telah menceritakan kepadaku \[Muhammad bin 'Abdurrahman bin As'ad bin Zurarah\] dari \[Qais bin Sa'd\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mengunjungi kami di rumah milik kami, beliau lalu mengucapkan: "Assalamu Alaikum wa Rahmatullahi." Sa'd lalu menjawab salam tersebut dengan suara lirih." Qais berkata, "Aku bertanya, "Apakah kamu tidak memberi izin kepada Rasulullah shallallahu 'alaihi wasallam?" Sa'd menjawab, "Biarkan Rasulullah shallallahu 'alaihi wasallam memperbanyak salam kepada kami." Rasulullah shallallahu 'alaihi wasallam kemudian mengucapkan salam lagi: "Assalamu Alaikum wa Rahmatullahi." Sa'd lalu menjawab salam tersebut dengan suara lirih." Kemudian Rasulullah shallallahu 'alaihi wasallam kembali mengucapkan salam: "Assalamu Alaikum wa Rahmatullahi." Selah itu Rasulullah shallallahu 'alaihi wasallam kembali pulang, sementara Sa'd mengikutinya dari belakang. Sa'd berkata, "Wahai Rasulullah, sesungguhnya aku mendengar salammu, dan aku juga telah menjawab salammu dengan suara yang lirih dengan harapan engkau memperbanyak salam kepada kami." Akhirnya Rasulullah shallallahu 'alaihi wasallam bersama Sa'd kembali ke rumah Sa'd. Sa'd kemudian mempersilahkan Rasulullah untuk mandi, maka beliau pun mandi. Lalu ia menyediakan handuk yang telah dicelup dengan minyak Za'faran atau Wars (sejenis tumbuhan), sehingga beliau mengelap tubuhnya dengan handuk tersebut. Setelah itu Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya seraya berdoa: "Ya Allah, jadikanlah shalawat (kesejahteraan) dan rahmat-Mu tercurah kepada keluarga Sa'd bin Ubadah." Perawi berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam menyantap makanan, dan ketika beliau ingin berlalu pergi, Sa'd mendekatkan himar yang telah diberi alas selembar kain kepada Rasulullah shallallahu 'alaihi wasallam. Sa'd berkata, "Wahai Qais, temanilah Rasulullah shallallahu 'alaihi wasallam." Qais berkata, "Rasulullah shallallahu 'alaihi wasallam kemudian berkata kepadaku: "Naiklah." Aku diam. Kemudian beliau berkata lagi: "Engkau ikut naik atau engkau tidak usah ikut?" Qais berkata, "Maka aku pun memutuskan untuk tidak ikut." \[Hisyam Abu Marwan\] menyebutkan dari \[Muhammad bin 'Abdurrahman bin As'ad bin Zurarah\]. Abu Dawud berkata, " \[Umar bin Abdul Wahid\] dan \[Ibnu Sama'ah\] meriwayatkannya dari \[Al Auza'I\] secara mursal. Namun keduanya tidak menyebutkan Qais bin Sa'd
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hisyam Abu Marwan] dan [Muhammad Ibnul Mutsanna] secara makna, [Muhammad Ibnul Mutsanna] berkata; telah menceritakan kepada kami [Al Walid bin Muslim] berkata, telah menceritakan kepada kami [Al Auza'i] ia berkata; Aku mendengar [Yahya bin Abu Katsir] berkata; telah menceritakan kepadaku [Muhammad bin 'Abdurrahman bin As'ad bin Zurarah] dari [Qais bin Sa'd] ia berkata, "Rasulullah shallallahu 'alaihi wasallam mengunjungi kami di rumah milik kami, beliau lalu mengucapkan: "Assalamu Alaikum wa Rahmatullahi." Sa'd lalu menjawab salam tersebut dengan suara lirih." Qais berkata, "Aku bertanya, "Apakah kamu tidak memberi izin kepada Rasulullah shallallahu 'alaihi wasallam?" Sa'd menjawab, "Biarkan Rasulullah shallallahu 'alaihi wasallam memperbanyak salam kepada kami." Rasulullah shallallahu 'alaihi wasallam kemudian mengucapkan salam lagi: "Assalamu Alaikum wa Rahmatullahi." Sa'd lalu menjawab salam tersebut dengan suara lirih." Kemudian Rasulullah shallallahu 'alaihi wasallam kembali mengucapkan salam: "Assalamu Alaikum wa Rahmatullahi." Selah itu Rasulullah shallallahu 'alaihi wasallam kembali pulang, sementara Sa'd mengikutinya dari belakang. Sa'd berkata, "Wahai Rasulullah, sesungguhnya aku mendengar salammu, dan aku juga telah menjawab salammu dengan suara yang lirih dengan harapan engkau memperbanyak salam kepada kami." Akhirnya Rasulullah shallallahu 'alaihi wasallam bersama Sa'd kembali ke rumah Sa'd. Sa'd kemudian mempersilahkan Rasulullah untuk mandi, maka beliau pun mandi. Lalu ia menyediakan handuk yang telah dicelup dengan minyak Za'faran atau Wars (sejenis tumbuhan), sehingga beliau mengelap tubuhnya dengan handuk tersebut. Setelah itu Rasulullah shallallahu 'alaihi wasallam mengangkat kedua tangannya seraya berdoa: "Ya Allah, jadikanlah shalawat (kesejahteraan) dan rahmat-Mu tercurah kepada keluarga Sa'd bin Ubadah." Perawi berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam menyantap makanan, dan ketika beliau ingin berlalu pergi, Sa'd mendekatkan himar yang telah diberi alas selembar kain kepada Rasulullah shallallahu 'alaihi wasallam. Sa'd berkata, "Wahai Qais, temanilah Rasulullah shallallahu 'alaihi wasallam." Qais berkata, "Rasulullah shallallahu 'alaihi wasallam kemudian berkata kepadaku: "Naiklah." Aku diam. Kemudian beliau berkata lagi: "Engkau ikut naik atau engkau tidak usah ikut?" Qais berkata, "Maka aku pun memutuskan untuk tidak ikut." [Hisyam Abu Marwan] menyebutkan dari [Muhammad bin 'Abdurrahman bin As'ad bin Zurarah]. Abu Dawud berkata, " [Umar bin Abdul Wahid] dan [Ibnu Sama'ah] meriwayatkannya dari [Al Auza'I] secara mursal. Namun keduanya tidak menyebutkan Qais bin Sa'd
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kays b. Sa'd (b. Ubade)'den demiştir ki: (Birgün) Rasûlullah (s.a.v.) bizi ziyaret için evimize gelmişti: Esselamu aleyküm ve rahmetullah, dedi (Babam) Sa'd de: Bu selamı sesini yükseltmeden hafifçe aldı. Bunun üzerine ben: "Rasûlullah (s.a.v.)'e (evimize girmesi için) izin vermiyor musun? dedim. Sen O'nu bırak (biz selamı aldığımızı böyle hissettirmesek) bize selamı çoğaltır (biz de o selamlarla bereket buluruz), dedi. Hemen arkasından Rasûlullah (s.a.v.) (ikinci defa olarak): Esselamu aleyküm ve Rahmetullah, dedi (Babam) Sa'd (bu selamı da yine) alçak sesle aldı. Sonra Rasûlullah (s.a.v.) (üçüncü defa olarak) "Esselamu aleyküm ve rahmetullah" dedi. Sonra da dönüp gitti ve (babam) Sa'd de arkasından varıp: Ey Allah'ın Resulü! Ben senin selâmını işitiyordum, bize selâmı çoğaltman için (selâmını işittiğimi belli etmemeğe çalışarak) onu hafif bir sesle alıyordum, dedi. Bunun üzerine Rasûlullah (s.a.v.) onunla dönüp geldi. (Babam) Sa'd d'e (Onun yıkanmasını temin etmek maksadıyla) O'nun için su ve sabun (getirilmesini) emretti. (Bunlar derhal getirildi ve Hz. Nebi de bunlarla) yıkandı. Sonra (babam) kendisine zâferanla veya alçehre ile boyanmış bir peştemal getirdi. (Hz, Nebi de) ona sarındı. Sonra ellerini kaldırıp: "Allahümme c'al salavâtike ve rahmeteke alâ âl-i Sa'd ibn Ubade! =(Ey Allah, Sa'd b. Ubade ailesinin makamlarını yükselt ve onlara rahmet et!" diye dua etti. Sonra biraz yemek yeyip de ayrılmak isteyince (babam) Sa'd kendisine üzeri kadife (palan) ile donatılmış bir merkep yaklaştırdı. Rasûlullah (s.a.v.) de ona bindi, (babam) Sa'd (bana): "Ey Kays! (evine kadar) Rasûlullah (s.a.v.)'e arkadaş ol" dedi. Bunun üzerine Rasûlullah (s.a.v.)'de bana: "Sen de bin!" buyurdu. Ben de (Rasûlullah'ı rahatsız etmemek için) kabul etmedim. (Rasûlullah (s.a.v.): Ya binersin yahutta (evine) dönersin, (benimle yaya olarak gelip de yorulma) dedi. Bunun üzerine (evime) dönüp gittim. Hişam Ebu Mervân (bu hadisi) "Muhammed b. Abdurrahman b. Sa'd b. Zürare'den (şeklinde muan'an olarak rivayet etti. Ebu Davüd dedi ki: Ömer b, Abdih Vâhid ile İbn Semaa da bu hadisi Kays b. Şadın ismini söylemeden Evzaî'den mürsel olarak rivayet ettiler)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قیس بن سعد رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم ہمارے گھر ملاقات کے لیے تشریف لائے ( باہر رک کر ) السلام علیکم ورحمۃ اللہ کہا، سعد رضی اللہ عنہ نے دھیرے سے سلام کا جواب دیا، قیس کہتے ہیں: میں نے ( سعد سے ) کہا: آپ رسول اللہ صلی اللہ علیہ وسلم کو اندر تشریف لانے کی اجازت کیوں نہیں دیتے؟ سعد نے کہا چھوڑو ( جلدی نہ کرو ) ہمارے لیے رسول اللہ صلی اللہ علیہ وسلم کو سلامتی کی دعا زیادہ کر لینے دو، رسول اللہ صلی اللہ علیہ وسلم نے پھر السلام علیکم ورحمۃ اللہ کہا، سعد نے پھر دھیرے سے سلام کا جواب دیا، پھر تیسری بار رسول اللہ صلی اللہ علیہ وسلم نے کہا: السلام علیکم ورحمۃ اللہ ( اور جواب نہ سن کر ) لوٹ پڑے، تو سعد نے لپک کر آپ کا پیچھا کیا اور آپ کو پا لیا، اور عرض کیا: اللہ کے رسول! ہم آپ کا سلام سنتے تھے، اور دھیرے سے آپ کے سلام کا جواب دیتے تھے، خواہش یہ تھی کہ اس طرح آپ کی سلامتی کی دعا ہمیں زیادہ حاصل ہو جائے تب رسول اللہ صلی اللہ علیہ وسلم سعد کے ساتھ لوٹ آئے، اور اپنے گھر والوں کو رسول اللہ صلی اللہ علیہ وسلم کے غسل کے لیے ( پانی وغیرہ کی فراہمی و تیاری ) کا حکم دیا، تو آپ نے غسل فرمایا، پھر سعد نے رسول اللہ صلی اللہ علیہ وسلم کو زعفران یا ورس میں رنگی ہوئی ایک چادر دی جسے آپ نے لپیٹ لیا پھر رسول اللہ صلی اللہ علیہ وسلم نے اپنے دونوں ہاتھوں کو اٹھایا، آپ دعا فرما رہے تھے: اے اللہ! سعد بن عبادہ کی اولاد پر اپنی برکت و رحمت نازل فرما پھر آپ نے کھانا کھایا، اور جب آپ نے واپسی کا ارادہ کیا تو سعد نے ایک گدھا پیش کیا جس پر چادر ڈال دی گئی تھی، رسول اللہ صلی اللہ علیہ وسلم اس پر سوار ہو گئے، تو سعد نے کہا: اے قیس! تو رسول اللہ صلی اللہ علیہ وسلم کے ساتھ جا، قیس کہتے ہیں: رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا: تم بھی سوار ہو جاؤ تو میں نے انکار کیا، آپ نے فرمایا: سوار ہو جاؤ ورنہ واپس جاؤ ۔ قیس کہتے ہیں: میں لوٹ آیا۔ ابوداؤد کہتے ہیں: اسے عمر بن عبدالواحد اور ابن سماعۃ نے اوزاعی سے مرسلاً روایت کیا ہے اور ان دونوں نے اس میں قیس بن سعد کا ذکر نہیں کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5185</td></tr><tr><td>Arabic No</td><td>5185</td></tr><tr><td>Reference</td><td>Book 43 Hadith 413</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5185 |
+| Arabic No | 5185 |
+| Reference | Book 43 Hadith 413 |

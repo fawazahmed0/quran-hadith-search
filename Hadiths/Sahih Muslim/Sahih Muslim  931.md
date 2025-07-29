@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن رافع، حدثنا عبد الرزاق، حدثنا معمر، عن همام بن منبه، عن ابي هريرة، عن النبي صلى الله عليه وسلم بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু রাফি (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম-এর কাছ থেকে উপরের হাদীসের অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৮১৪, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been transmitted by Hammam b. Munabbih from the Messenger of Allah (ﷺ) on the authority of Abu Huraira
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Un hadith semblable a été transmis par Hammam b. Munabbih du Messager d’Allah ﷺ, d’après Abu Huraira رضي الله عنه
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Абу Хурайра передал от Пророка ﷺ хадис, подобный предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمام بن منبہ نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبی اکرمﷺ سے اسی ( سابقہ حدیث ) کے مانند روایت بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>931</td></tr><tr><td>Arabic No</td><td>414.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 93</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 931 |
+| Arabic No | 414.02 |
+| Reference | Book 4 Hadith 93 |

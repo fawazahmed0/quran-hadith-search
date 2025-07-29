@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ عُيَيْنَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، قَالَ قَالَ ابْنُ عَبَّاسٍ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ نَبِيذِ الْجَرِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 78</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |
+
 اخبرنا سويد، قال حدثنا عبد الله، عن عيينة بن عبد الرحمن، عن ابيه، قال قال ابن عباس نهى رسول الله صلى الله عليه وسلم عن نبيذ الجر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামমাটির মটকার তৈরি নবীয় পান করতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 78</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |
 
 ## English
 
+Ibn 'Abbas said:"The Messenger of Allah \[SAW\] forbade soaking (fruits) in earthenware jars
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ibn 'Abbas said:"The Messenger of Allah [SAW] forbade soaking (fruits) in earthenware jars
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 78</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Messager d'Allah ﷺ a interdit de faire tremper des fruits dans des jarres en terre cuite
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah menceritakan kepada kami \[Abdullah\] dari \[Uyainah bin 'Abdurrahman\] dari \[Bapaknya\] ia berkata; \[Ibnu Abbas\] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang perasan dalam guci (tembikar)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah menceritakan kepada kami [Abdullah] dari [Uyainah bin 'Abdurrahman] dari [Bapaknya] ia berkata; [Ibnu Abbas] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang perasan dalam guci (tembikar)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 78</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 78</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5616</td></tr><tr><td>Arabic No</td><td>5616</td></tr><tr><td>Reference</td><td>Book 51 Hadith 78</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5616 |
+| Arabic No | 5616 |
+| Reference | Book 51 Hadith 78 |

@@ -12,54 +12,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ عَطَاءِ بْنِ السَّائِبِ، عَنْ عَمْرِو بْنِ مَيْمُونٍ، عَنْ عَبْدِ اللَّهِ بْنِ مَسْعُودٍ، نَحْوَهُ بِمَعْنَاهُ وَلَمْ يَرْفَعْهُ ‏.‏ وَهَذَا أَصَحُّ مِنْ حَدِيثِ عَبِيدَةَ بْنِ حُمَيْدٍ وَهَكَذَا رَوَى جَرِيرٌ وَغَيْرُ وَاحِدٍ عَنْ عَطَاءِ بْنِ السَّائِبِ وَلَمْ يَرْفَعُوهُ ‏.‏ حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا جَرِيرٌ، عَنْ عَطَاءِ بْنِ السَّائِبِ، نَحْوَ حَدِيثِ أَبِي الأَحْوَصِ وَلَمْ يَرْفَعْهُ أَصْحَابُ عَطَاءٍ وَهَذَا أَصَحُّ ‏.‏ ‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2534 |
+| Arabic No | 2534 |
+| Reference | Book 38 Hadith 12 |
+
 حدثنا هناد، حدثنا ابو الاحوص، عن عطاء بن السايب، عن عمرو بن ميمون، عن عبد الله بن مسعود، نحوه بمعناه ولم يرفعه . وهذا اصح من حديث عبيدة بن حميد وهكذا روى جرير وغير واحد عن عطاء بن السايب ولم يرفعوه . حدثنا قتيبة، حدثنا جرير، عن عطاء بن السايب، نحو حديث ابي الاحوص ولم يرفعه اصحاب عطاء وهذا اصح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2534 |
+| Arabic No | 2534 |
+| Reference | Book 38 Hadith 12 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । হান্নাদ স্বীয় সূত্রে আবদুল্লাহ ইবনু মাসউদ হতে অনুরূপ হাদীস বর্ণনা করেছেন। কিন্তু মারফুরূপে নয়। (দেখুন পূর্বের হাদীস) আর এ হাদীস পূর্বোক্ত আবীদার হাদীসের তুলনায় অধিক সহীহ। এভাবেই জারীর প্রমুখগণ আতা ইবনু আস-সায়িব হতে আবূল আহ ওয়াসের মতই বর্ণনা করেছেন। মাওকুফরুপে আর এটি সঠিক।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2534 |
+| Arabic No | 2534 |
+| Reference | Book 38 Hadith 12 |
 
 ## English
 
+(Another chain:) From 'Abdullah bin Mas'ud, similar in meaning, and he did not report it in Marfu' form. And this is more correct than the narration of 'Abidah bin Humaid (a narrator in no.2533), and it has been reported like this by Jarir and more than one from 'Ata' bin As-Sa'ib, and they did not mention it in Marfu' form.\[Qutaibah repoted to us (he said): "Jarir reported to us, from 'Ata' bin As-Sa'ib and it is similar to the narration of Abu Al-Ahwas. The companions of 'Ata' did not narrate it in Marfu' form, and this is more correct
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-(Another chain:) From 'Abdullah bin Mas'ud, similar in meaning, and he did not report it in Marfu' form. And this is more correct than the narration of 'Abidah bin Humaid (a narrator in no.2533), and it has been reported like this by Jarir and more than one from 'Ata' bin As-Sa'ib, and they did not mention it in Marfu' form.[Qutaibah repoted to us (he said): "Jarir reported to us, from 'Ata' bin As-Sa'ib and it is similar to the narration of Abu Al-Ahwas. The companions of 'Ata' did not narrate it in Marfu' form, and this is more correct
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2534 |
+| Arabic No | 2534 |
+| Reference | Book 38 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sufyan bin Waki'\] telah menceritakan kepada kami \[ayahku\] dari \[Fudlail bin Marzuq\] dari \['Athiyah\] dari \[Abu Sa'id\] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya golongan pertama yang masuk surga pada hari kiamat (adalah yang) mukanya bersinar seperti sinar bulan di malam purnama dan golongan kedua seperti bintang bersinar terang terindah dilangit, setiap lelaki di antara mereka mendapatkan dua istri, setiap istri mengenakan tujuhpuluh perhiasan, sungsumnya terlihat dari belakang." Berkata Abu Isa: Hadits ini hasan shahih
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sufyan bin Waki'] telah menceritakan kepada kami [ayahku] dari [Fudlail bin Marzuq] dari ['Athiyah] dari [Abu Sa'id] dari nabi Shallallahu 'alaihi wa Salam bersabda: "Sesungguhnya golongan pertama yang masuk surga pada hari kiamat (adalah yang) mukanya bersinar seperti sinar bulan di malam purnama dan golongan kedua seperti bintang bersinar terang terindah dilangit, setiap lelaki di antara mereka mendapatkan dua istri, setiap istri mengenakan tujuhpuluh perhiasan, sungsumnya terlihat dari belakang." Berkata Abu Isa: Hadits ini hasan shahih
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2534 |
+| Arabic No | 2534 |
+| Reference | Book 38 Hadith 12 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2534 |
+| Arabic No | 2534 |
+| Reference | Book 38 Hadith 12 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2534</td></tr><tr><td>Arabic No</td><td>2534</td></tr><tr><td>Reference</td><td>Book 38 Hadith 12</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2534 |
+| Arabic No | 2534 |
+| Reference | Book 38 Hadith 12 |

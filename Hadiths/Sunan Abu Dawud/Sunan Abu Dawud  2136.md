@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ مَعِينٍ، وَمُحَمَّدُ بْنُ عِيسَى، - الْمَعْنَى - قَالاَ حَدَّثَنَا عَبَّادُ بْنُ عَبَّادٍ، عَنْ عَاصِمٍ، عَنْ مُعَاذَةَ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَسْتَأْذِنُنَا إِذَا كَانَ فِي يَوْمِ الْمَرْأَةِ مِنَّا بَعْدَ مَا نَزَلَتْ ‏(‏ تُرْجِي مَنْ تَشَاءُ مِنْهُنَّ وَتُؤْوِي إِلَيْكَ مَنْ تَشَاءُ ‏)‏ قَالَتْ مُعَاذَةُ فَقُلْتُ لَهَا مَا كُنْتِ تَقُولِينَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم قَالَتْ كُنْتُ أَقُولُ إِنْ كَانَ ذَلِكَ إِلَىَّ لَمْ أُوثِرْ أَحَدًا عَلَى نَفْسِي ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
+
 حدثنا يحيى بن معين، ومحمد بن عيسى، - المعنى - قالا حدثنا عباد بن عباد، عن عاصم، عن معاذة، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم يستاذننا اذا كان في يوم المراة منا بعد ما نزلت ( ترجي من تشاء منهن وتووي اليك من تشاء ) قالت معاذة فقلت لها ما كنت تقولين لرسول الله صلى الله عليه وسلم قالت كنت اقول ان كان ذلك الى لم اوثر احدا على نفسي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
 
 ## Bengali
 
+। আয়িশাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, (মহান আল্লাহর বাণীঃ) ‘‘তুমি তাদের মধ্যে যার সাথে ইচ্ছা (থাকতে) পারো এবং যাকে ইচ্ছা তোমার কাছ থেকে দূরে রাখতে পারো’’ (সূরা আল-আহযাবঃ ৫১) এ আয়াত অবতীর্ণ হওয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছে অবস্থানের দিনের বিষয়ে অনুমতি চাইলেন। মু‘আযা (রহ.) বলেন, আমি ‘আয়িশাহ্ (রাঃ)-কে জিজ্ঞেস করলাম, তখন আপনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কি বলতেন, তিনি বলেন, আমি বলতাম, পালার দিনটি আমার হলে আমি কাউকে আমার উপর অগ্রাধিকার দিবো না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, (মহান আল্লাহর বাণীঃ) ‘‘তুমি তাদের মধ্যে যার সাথে ইচ্ছা (থাকতে) পারো এবং যাকে ইচ্ছা তোমার কাছ থেকে দূরে রাখতে পারো’’ (সূরা আল-আহযাবঃ ৫১) এ আয়াত অবতীর্ণ হওয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছে অবস্থানের দিনের বিষয়ে অনুমতি চাইলেন। মু‘আযা (রহ.) বলেন, আমি ‘আয়িশাহ্ (রাঃ)-কে জিজ্ঞেস করলাম, তখন আপনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কি বলতেন, তিনি বলেন, আমি বলতাম, পালার দিনটি আমার হলে আমি কাউকে আমার উপর অগ্রাধিকার দিবো না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
 
 ## English
 
+Narrated 'Aishah:The Messenger of Allah (ﷺ) used to aske our permission on the day he had to stay with one of his wives (by turns) after the following Qur'anic verse was revealed: "You may distance those whom you like, and draw close to those whom you like" \[33:51\]. The narrator Mu'adhah said: I said to her: What did you say to the Messenger of Allah (ﷺ) ? She said: I used to say: If had an option for that, I would not preferred anyone to myself
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated 'Aishah:The Messenger of Allah (ﷺ) used to aske our permission on the day he had to stay with one of his wives (by turns) after the following Qur'anic verse was revealed: "You may distance those whom you like, and draw close to those whom you like" [33:51]. The narrator Mu'adhah said: I said to her: What did you say to the Messenger of Allah (ﷺ) ? She said: I used to say: If had an option for that, I would not preferred anyone to myself
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
+
+## French
+
+Rapporté par Aïsha رضي الله عنها : Le Messager d’Allah ﷺ nous demandait la permission le jour où il devait rester avec l’une de ses épouses (à tour de rôle) après la révélation du verset coranique : « Tu peux éloigner celles que tu veux et rapprocher celles que tu veux » \[33:51\]. La narratrice Mu’adhah a dit : Je lui ai demandé : « Qu’as-tu répondu au Messager d’Allah ﷺ ? » Elle a dit : « Je disais : Si j’avais eu le choix, je n’aurais préféré personne à moi-même. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Ma'in\], serta \[Muhammad bin Isa\] secara makna, mereka berkata; telah menceritakan kepada kami \['Abbad bin 'Abbad\] dari \['Ashim\] dari \[Mu'adzah\] dari \[Aisyah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam meminta izin kepada kami apabila berada pada hari (giliran) seorang isteri dari kami setelah turunnya ayat: "Kamu boleh menangguhkan menggauli siapa yang kamu kehendaki di antara mereka (isteri-isterimu) dan (boleh pula) menggauli siapa yang kamu kehendaki." Mu'adzah berkata; kemudian aku katakan kepada Aisyah; apa yang engkau katakan kepada Rasulullah shallallahu 'alaihi wasallam? Ia berkata; aku katakan; apabila hal itu diserahkan kepadaku, maka aku tidak akan mendahulukan seorangpun atas diriku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Ma'in], serta [Muhammad bin Isa] secara makna, mereka berkata; telah menceritakan kepada kami ['Abbad bin 'Abbad] dari ['Ashim] dari [Mu'adzah] dari [Aisyah], ia berkata; Rasulullah shallallahu 'alaihi wasallam meminta izin kepada kami apabila berada pada hari (giliran) seorang isteri dari kami setelah turunnya ayat: "Kamu boleh menangguhkan menggauli siapa yang kamu kehendaki di antara mereka (isteri-isterimu) dan (boleh pula) menggauli siapa yang kamu kehendaki." Mu'adzah berkata; kemudian aku katakan kepada Aisyah; apa yang engkau katakan kepada Rasulullah shallallahu 'alaihi wasallam? Ia berkata; aku katakan; apabila hal itu diserahkan kepadaku, maka aku tidak akan mendahulukan seorangpun atas diriku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Му‘азы, что ‘Аиша, да будет доволен ею Аллах, сказала: «Посланник Аллаха ﷺ спрашивал у нас разрешения после того, как было ниспослано: “Ты можешь по своему желанию отложить посещение любой из них (жён Пророка) и удержать возле себя ту, которую пожелаешь”» (сура 33 «аль-Ахзаб», аят 51). Му‘аза спросила: «И что ты говорила Посланнику Аллаха ﷺ в таких случаях?» Она ответила: «Я говорила, что, будь на то моя воля, я никому не уступила бы его»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
 
 ## Turkish
 
+Âişe (r.anha)'den; demiştir ki: "Onlardan dilediğini geri bırakır, dilediğini de yanında barındırırsın” \[Ahzâb 51\] âyeti kerimesi indikten sonra Rasûlullah (s.a.v.) birimizin nöbet günü gelirse, ondan izin isterdi." (Bu hadis'i Hz. Âişe'den rivayet eden) Muaze dedi ki: Ben Âişe'ye; Sen Rasûlullah (s.a.v.)'e ne cevap verirdin? diye sordum da; Eğer bu iş bana kaldıysa ben kimseyi kendime tercih edemem diye cevap verirdim dedi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Âişe (r.anha)'den; demiştir ki: "Onlardan dilediğini geri bırakır, dilediğini de yanında barındırırsın” [Ahzâb 51] âyeti kerimesi indikten sonra Rasûlullah (s.a.v.) birimizin nöbet günü gelirse, ondan izin isterdi." (Bu hadis'i Hz. Âişe'den rivayet eden) Muaze dedi ki: Ben Âişe'ye; Sen Rasûlullah (s.a.v.)'e ne cevap verirdin? diye sordum da; Eğer bu iş bana kaldıysa ben kimseyi kendime tercih edemem diye cevap verirdim dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ آیت کریمہ: «ترجي من تشاء منهن وتؤوي إليك من تشاء» آپ ان میں سے جسے آپ چاہیں دور رکھیں اور جسے آپ چاہیں اپنے پاس رکھیں ( سورۃ الاحزاب: ۵۱ ) نازل ہوئی تو ہم میں سے جس کسی کی باری ہوتی تھی اس سے اللہ کے رسول صلی اللہ علیہ وسلم اجازت لیتے تھے۔ معاذہ کہتی ہیں کہ یہ سن کر میں نے عائشہ رضی اللہ عنہا سے پوچھا: آپ ایسے موقع پر کیا کہتی تھیں؟ کہنے لگیں: میں تو یہ ہی کہتی تھی کہ اگر میرا بس چلے تو میں اپنے اوپر کسی کو ترجیح نہ دوں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (1476)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 12 Hadith 91</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (1476) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 12 Hadith 91 |

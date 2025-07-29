@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ حَدَّثَنَا هِشَامُ بْنُ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ نَاسًا، مِنَ الأَعْرَابِ كَانُوا يَأْتُونَا بِلَحْمٍ وَلاَ نَدْرِي أَذَكَرُوا اسْمَ اللَّهِ عَلَيْهِ أَمْ لاَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ اذْكُرُوا اسْمَ اللَّهِ عَزَّ وَجَلَّ عَلَيْهِ وَكُلُوا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |
+
 اخبرنا اسحاق بن ابراهيم، قال حدثنا النضر بن شميل، قال حدثنا هشام بن عروة، عن ابيه، عن عايشة، ان ناسا، من الاعراب كانوا ياتونا بلحم ولا ندري اذكروا اسم الله عليه ام لا فقال رسول الله صلى الله عليه وسلم " اذكروا اسم الله عز وجل عليه وكلوا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। বেদুঈনদের কেউ কেউ আমাদের নিকট গোশত নিয়ে আসত। আর আমরা জানতাম না এর উপর যবেহ করার সময় আল্লাহর নাম নেওয়া হয়েছে কি না। তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমরা এর উপর আল্লাহর নাম উচ্চারণ কর এবং খাও।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Aishah that:some Bedouin people used to bring us meat, and we did not know whether they had mentioned the Name of Allah (when slaughtering it) or not. The Messenger of Allah said: "Messenger of Allah said: "Mention the Name of Allah and eat." (Sahih)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |
+
+## French
+
+Rapporté par 'Aishah : « Certains Bédouins nous apportaient de la viande, et nous ne savions pas s’ils avaient mentionné le nom d’Allah lors de l’abattage. Le Messager d’Allah ﷺ a dit : “Mentionnez le nom d’Allah et mangez.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\], ia berkata; telah menceritakan kepada kami \[An Nadhr bin Syumail\], ia berkata; telah menceritakan kepada kami \[Hisyam bin 'Urwah\] dari \[ayahnya\] dari \['Aisyah\] bahwa orang-orang Badui menemui kami dengan membawa daging yang kami tidak mengetahui apakah mereka menyebut nama Allah ketika menyembelih atau tidak, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebutlah nama Allah Azza wa jalla lalu makanlah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim], ia berkata; telah menceritakan kepada kami [An Nadhr bin Syumail], ia berkata; telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [ayahnya] dari ['Aisyah] bahwa orang-orang Badui menemui kami dengan membawa daging yang kami tidak mengetahui apakah mereka menyebut nama Allah ketika menyembelih atau tidak, kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Sebutlah nama Allah Azza wa jalla lalu makanlah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4436</td></tr><tr><td>Arabic No</td><td>4436</td></tr><tr><td>Reference</td><td>Book 43 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4436 |
+| Arabic No | 4436 |
+| Reference | Book 43 Hadith 76 |

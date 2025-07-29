@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم لَمَّا بَلَغَهُ أَنَّ أُخْتَ عُقْبَةَ بْنِ عَامِرٍ نَذَرَتْ أَنْ تَحُجَّ مَاشِيَةً قَالَ ‏:‏ ‏ "‏ إِنَّ اللَّهَ لَغَنِيٌّ عَنْ نَذْرِهَا، مُرْهَا فَلْتَرْكَبْ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ رَوَاهُ سَعِيدُ بْنُ أَبِي عَرُوبَةَ نَحْوَهُ وَخَالِدٌ عَنْ عِكْرِمَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
+
 حدثنا مسلم بن ابراهيم، حدثنا هشام، عن قتادة، عن عكرمة، عن ابن عباس، : ان النبي صلى الله عليه وسلم لما بلغه ان اخت عقبة بن عامر نذرت ان تحج ماشية قال : " ان الله لغني عن نذرها، مرها فلتركب " . قال ابو داود : رواه سعيد بن ابي عروبة نحوه وخالد عن عكرمة عن النبي صلى الله عليه وسلم نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন জানতে পারলেন, উকবাহ ইবনু ‘আমির (রাঃ)-এর বোন পদব্রজে হজ (হজ্জ) করার মানত করেছেন তখন তিনি বললেনঃ নিশ্চয়ই আল্লাহ তার এরূপ মানতের মুখাপেক্ষী নন। তাকে যানবাহনে চড়ে হজে (হজ্জে) আসার নির্দেশ দাও। আবূ দাঊদ (রহঃ) বলেন, সাঈদ ইবনু আরূবাহ (রহঃ)-ও অনুরূপ বর্ণনা করেছেন। খালীদ (রহঃ) ইকরিমাহ (রহঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে অনুরূপ হাদীস বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas: That when the Prophet (ﷺ) was informed that the sister of 'Uqbah b. 'Amir had taken a vow to perform Hajj on foot, he said: Allah is not in need of her vow. So ask her to ride. Abu Dawud said: Sa'ib b. 'Arubah has transmitted a similar tradition. Khalid has also transmitted a similar tradition on the authority of 'Ikrimah from the Prophet (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : Lorsque le Prophète ﷺ a été informé que la sœur de ‘Uqbah b. ‘Amir avait fait le vœu d’accomplir le Hajj à pied, il a dit : « Allah n’a pas besoin de son vœu. Ordonnez-lui de monter à dos de monture. » Abu Dawud a dit : Sa’ib b. ‘Arubah a transmis une tradition similaire. Khalid a aussi transmis une tradition semblable de la part de ‘Ikrimah, du Prophète ﷺ
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\], telah menceritakan kepada kami \[Hisyam\] dari \[Qatadah\] dari \[Ikrimah\] dari \[Ibnu Abbas\], bahwa Nabi shallallahu 'alaihi wasallam tatkala telah sampai kepadanya bahwa saudari 'Uqbah bin 'Amir bernadzar untuk berhaji dengan berjalan kaki, maka beliau berkata: "Sesungguhnya Allah tidak butuh kepada nadzarnya. Perintahkan dia agar berkendaraan." Abu Daud berkata; hadits tersebut diriwayatkan oleh \[Sa'id bin Abi 'Arubah\] seperti itu. Dan oleh \[Khalid\] dari \[Ikrimah\], dari Nabi shallallahu 'alaihi wasallam seperti itu. Telah menceritakan kepada kami \[Muhammad bin Al Mutsanna\], telah menceritakan kepada kami \[Ibnu Abu Adi\], dari \[Qatadah\] dari \[Ikrimah\] bahwa saudari Uqbah bin Amir …… seperti makna hadits Hisyam tanpa menyebutkan kurban. Dan padanya beliau berkata: "Perintahkan saudarimu agar berkendaraan!" Abu Daud berkata; hadits tersebut diriwayatkan oleh Khalid dari Ikrimah sama dengan makna hadits Hisyam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim], telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Ikrimah] dari [Ibnu Abbas], bahwa Nabi shallallahu 'alaihi wasallam tatkala telah sampai kepadanya bahwa saudari 'Uqbah bin 'Amir bernadzar untuk berhaji dengan berjalan kaki, maka beliau berkata: "Sesungguhnya Allah tidak butuh kepada nadzarnya. Perintahkan dia agar berkendaraan." Abu Daud berkata; hadits tersebut diriwayatkan oleh [Sa'id bin Abi 'Arubah] seperti itu. Dan oleh [Khalid] dari [Ikrimah], dari Nabi shallallahu 'alaihi wasallam seperti itu. Telah menceritakan kepada kami [Muhammad bin Al Mutsanna], telah menceritakan kepada kami [Ibnu Abu Adi], dari [Qatadah] dari [Ikrimah] bahwa saudari Uqbah bin Amir …… seperti makna hadits Hisyam tanpa menyebutkan kurban. Dan padanya beliau berkata: "Perintahkan saudarimu agar berkendaraan!" Abu Daud berkata; hadits tersebut diriwayatkan oleh Khalid dari Ikrimah sama dengan makna hadits Hisyam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом, что в день покорения Мекки один человек поднялся со своего места и сказал: «О Посланник Аллаха, поистине, я дал обет Аллаху совершить молитву в два рак‘ата в Иерусалиме (в мечети Аль-Акса), если Аллах дарует тебе победу в Мекке». (Посланник Аллаха ﷺ) сказал: «Молись вот здесь». Тот повторил свои слова, и (Посланник Аллаха ﷺ) снова сказал: «Молись вот здесь». Но тот снова повторил свои слова. (Посланник Аллаха ﷺ) сказал: «Что ж, дело твоё…»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.a.)'dan rivayet edildiğine göre; Ukbe b. Âmir'in kız kardeşinin yaya olarak hacca gitmeyi adadığı haberi Rasûlullah (s.a.v.)'e ulaşınca Efendimiz: "Şüphesiz Allah o'nun adağına muhtaç değildir. Ona emret, bir şeye binsin" buyurdu. Ebû Dâvûd dedi ki: Bu hadisin benzerini Saîd b. Ebî Arûbe rivayet etmiştir. Halid de İkrime vasıtasıyla Hz. Nebi'den hadisin benzerini rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کو جب خبر ملی کہ عقبہ بن عامر رضی اللہ عنہ کی بہن نے پیدل حج کرنے کی نذر مانی ہے تو آپ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ اس کی نذر سے بے نیاز ہے، اسے کہو: سوار ہو جائے ۔ ابوداؤد کہتے ہیں: اسے سعید بن ابی عروبہ نے اسی طرح اور خالد نے عکرمہ رضی اللہ عنہ سے انہوں نے نبی اکرم صلی اللہ علیہ وسلم سے اسی طرح روایت کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3297</td></tr><tr><td>Arabic No</td><td>3297</td></tr><tr><td>Reference</td><td>Book 22 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3297 |
+| Arabic No | 3297 |
+| Reference | Book 22 Hadith 56 |

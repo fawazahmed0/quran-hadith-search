@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا شَيْبَانُ بْنُ فَرُّوخَ، حَدَّثَنَا جَرِيرٌ، - يَعْنِي ابْنَ حَازِمٍ - حَدَّثَنَا نَافِعٌ، قَالَ قِيلَ لاِبْنِ عُمَرَ إِنَّ أَبَا هُرَيْرَةَ يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ مَنْ تَبِعَ جَنَازَةً فَلَهُ قِيرَاطٌ مِنَ الأَجْرِ ‏"‏ ‏.‏ فَقَالَ ابْنُ عُمَرَ أَكْثَرَ عَلَيْنَا أَبُو هُرَيْرَةَ ‏.‏ فَبَعَثَ إِلَى عَائِشَةَ فَسَأَلَهَا فَصَدَّقَتْ أَبَا هُرَيْرَةَ فَقَالَ ابْنُ عُمَرَ لَقَدْ فَرَّطْنَا فِي قَرَارِيطَ كَثِيرَةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا شيبان بن فروخ، حدثنا جرير، - يعني ابن حازم - حدثنا نافع، قال قيل لابن عمر ان ابا هريرة يقول سمعت رسول الله صلى الله عليه وسلم يقول " من تبع جنازة فله قيراط من الاجر " . فقال ابن عمر اكثر علينا ابو هريرة . فبعث الى عايشة فسالها فصدقت ابا هريرة فقال ابن عمر لقد فرطنا في قراريط كثيرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 শায়বান ইবনু ফাররূখ (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনছিঃ যে ব্যক্তি জানাযার অনুসরণ করে তার জন্য রয়েছে এক কীরাত সাওয়াব। এটা শুনে ইবনু উমর (রাযিঃ) বললেন, আবূ হুরায়রাহ (রাযিঃ) আমাদের কাছে অতিরঞ্জিত করেছে। এরপর তিনি আয়িশাহ (রাযিঃ) এর নিকট লোক পাঠিয়ে তাকে এর সত্যতা সম্পর্কে জিজ্ঞেস করলেন। আয়িশাহ (রাযিঃ) আবূ হুরায়রাহ (রাবিঃ) এর কথাটি সত্যায়িত করলেন। এরপর ইবনু উমর (রাযিঃ) বললেন, আমরা তো বহু সংখ্যক কীরাত থেকে বঞ্চিত হলাম। (ইসলামী ফাউন্ডেশন ২০৬২, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi' narrated that it was said to Ibn 'Umar that Abu Huraira reported to have heard Allah's Messenger (ﷺ) as saying:He who follows the bier, for him is the reward of one qirat. Ibn 'Umar said: Abu Huraira narrated it too often. So he sent (a messenger to) 'A'isha to ascertain (the fact). She ('A'isha) testified Abu Huraira. Ibn 'Umar said: We missed so many qirats
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## French
 
+Rapporté par Nafi’ : On dit à Ibn ‘Umar que Abu Huraira avait rapporté avoir entendu le Messager d’Allah ﷺ dire : « Celui qui suit le cortège funéraire aura la récompense d’un qirat. » Ibn ‘Umar dit : « Abu Huraira l’a trop souvent rapporté. » Il envoya donc quelqu’un demander à ‘Aïsha de vérifier ce fait. Elle confirma le témoignage d’Abu Huraira. Ibn ‘Umar dit alors : « Nous avons manqué beaucoup de qirats. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Syaiban bin Farukh\] telah menceritakan kepada kami \[Jarir bin Hazim\] telah menceritakan kepada kami \[Nafi'\] ia berkata; telah dikatakan kepada Ibnu Umar, bahwa \[Abu Hurairah\] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mengikuti jenazah, maka baginya satu qirath pahala." Ibnu Umar berkata, "Yang paling banyak (menceritakan hadits kepada kita) adalah Abu Hurairah." Lalu ia pun mengutus seseorang kepada Aisyah dan menanyakan hal itu padanya, maka \[Aisyah\] pun membenarkan Abu Hurairah. Maka Ibnu Umar pun berkata, "Sungguh, kita telah melewatkan qirath yang banyak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Syaiban bin Farukh] telah menceritakan kepada kami [Jarir bin Hazim] telah menceritakan kepada kami [Nafi'] ia berkata; telah dikatakan kepada Ibnu Umar, bahwa [Abu Hurairah] berkata; Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa yang mengikuti jenazah, maka baginya satu qirath pahala." Ibnu Umar berkata, "Yang paling banyak (menceritakan hadits kepada kita) adalah Abu Hurairah." Lalu ia pun mengutus seseorang kepada Aisyah dan menanyakan hal itu padanya, maka [Aisyah] pun membenarkan Abu Hurairah. Maka Ibnu Umar pun berkata, "Sungguh, kita telah melewatkan qirath yang banyak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается со слов Нафи‘а, что (однажды) Ибн ‘Умару сказали: «Абу Хурайра говорит, что он слышал, как Посланник Аллаха ﷺ говорил: “Тот, кто присоединится к похоронной процессии, получит награду в один кырат”. (На что) Ибн ‘Умар сказал: «Абу Хурайра рассказывает слишком много (хадисов)». После этого он отправил посланца к ‘Аише, чтобы он спросил её (об этом), и она подтвердила (слова) Абу Хурайры. Тогда Ибн ‘Умар воскликнул: «(Значит,) упустили мы множество кыратов (награды)!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Şeybân b. Ferrûh rivayet etti. (dediki): Bize Cerîr yâni İbni Hâzim rivayet etti. (dediki): Bize Nâfi' rivayet etti. (dediki): İbni Ömer'e: — Ebû Hureyre: Ben Resulullah (Sallallahu Aleyhi ve Sellem)'i «Her kim bir cenazenin arkasından yürürse, ona bir kirât ecir vardır.» buyururken işittim, diyor; dediler. İbni Ömer (Artık) Ebû Hureyre de bize hadis rivayet etmekte çok oluyor; dedi ve Âişe'ye birini göndererek (bu meseleyi) sordurdu. Âişe, Ebû Hureyre'yi tasdik etti. Bunun üzerine îbni Ömer: — Vallahi biz pek çok kıratlarda kusur ettik, dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نا فع نے کہا : حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے کہا گیا کہ ابو ہریرہ رضی اللہ تعالیٰ عنہ کہتے ہیں میں نے رسول اللہ صلی اللہ علیہ وسلم کو فر ما تے ہو ئے سنا : " جو شخص جنازے کے پیچھے چلا تو اس کے لیے قیراط اجرہے اس پر ابن عمر رضی اللہ تعالیٰ عنہ نے کہا : ابو ہریرہ رضی اللہ تعالیٰ عنہ نے ہمیں کثرت سے احادیث سنا ئی ہیں اس کے بعد انھوں نے حضرت عائشہ رضی اللہ تعالیٰ عنہا کے پا س پیغا م بھیجا اور ان سے پو چھا تو انھوں نے حضرت ابو ہر یرہ رضی اللہ تعالیٰ عنہ کی تصدیق فر ما ئی اس پر حضرت ابن عمر رضی اللہ تعالیٰ عنہ نے کہا : یقیناً ہم نے بہت سے قیراطوں ( کے حصول ) میں کو تا ہی کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2194</td></tr><tr><td>Arabic No</td><td>945.06</td></tr><tr><td>Reference</td><td>Book 11 Hadith 71</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2194 |
+| Arabic No | 945.06 |
+| Reference | Book 11 Hadith 71 |

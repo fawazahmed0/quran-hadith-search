@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا قَطَنُ بْنُ نُسَيْرٍ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، حَدَّثَنَا ثَابِتٌ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ كَانَ ثَابِتُ بْنُ قَيْسِ بْنِ شَمَّاسٍ خَطِيبَ الأَنْصَارِ فَلَمَّا نَزَلَتْ هَذِهِ الآيَةُ ‏.‏ بِنَحْوِ حَدِيثِ حَمَّادٍ ‏.‏ وَلَيْسَ فِي حَدِيثِهِ ذِكْرُ سَعْدِ بْنِ مُعَاذٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا قطن بن نسير، حدثنا جعفر بن سليمان، حدثنا ثابت، عن انس بن مالك، قال كان ثابت بن قيس بن شماس خطيب الانصار فلما نزلت هذه الاية . بنحو حديث حماد . وليس في حديثه ذكر سعد بن معاذ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কাতান ইবনু নুসায়র (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) বলেন, সাবিত ইবনু কায়স ইবনু শাম্মাস ছিলেন আনসারদের খতীব। যখন এ আয়াত নাযিল হলঃ "তোমরা নবীর কণ্ঠের উপর নিজেদের কণ্ঠ উচু করো না।" বাকী অংশ হাম্মাদ বর্ণিত উল্লেখিত রিওয়ায়াতের অনুরূপ। তবে এ রিওয়ায়াতে সা'দ ইবনু মুআয এর উল্লেখ নেই। আহমাদ ইবনু সাঈদ ইবনু সাখর আদ দারিমী (রহঃ) ..... আনাস ইবনু মালিক (রাযিঃ) থেকে বর্ণিত যে, যখন এ আয়াত নায়িল হলঃ অর্থাৎ "তোমরা নবীর কণ্ঠের উপর নিজেদের কণ্ঠ উচু করো না।" এ বর্ণনায় সাদ ইবনু মুআয এর উল্লেখ নেই। (ইসলামিক ফাউন্ডেশনঃ ২১৬, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Anas b. Malik by another chain of transmitters in which these words are found:Thabit b. Qais was the orator of the Ansar, when this verse was revealed: the rest of the hadith is the same with the exception that there is no mention of Sa'd b. Mu'adh in it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## French
 
+Rapporté par Anas b. Malik رضي الله عنه : Ce hadith a aussi été rapporté par une autre chaîne, où il est précisé que Thabit b. Qais était l’orateur des Ansar. Quand ce verset a été révélé, le reste du hadith est identique, sauf qu’il n’est pas fait mention de Sa’d b. Mu’adh
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Анас ибн Малик сказал: «Сабит ибн Кайс ибн Шаммас был оратором из числа ансаров. И когда был ниспослан этот аят…». Дальше так же, как и в предыдущему хадисе, за исключением того, что в нём нет упоминания Са‘да ибн Му‘аза
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Katan b. Nüseyr rivayet etti. (Dedi ki) : Bize Ca'fer b. Süleyman rivayet etti. (Dedi ki): Bize Sabit, Enes b. Malik'den naklen rivayet eyledi. Enes; Sabit b. Kays b. Şemmas Ensarın hatibi idi. Şu ayet nazil olunca... diyerek Hammad'ın hadisi gibi rivayet etmiş. Yalnız Enes hadisinde Sa'd b. Muaz'ın zikri geçmez. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جعفر بن سلیمان نے کہا : ہمیں ثابت ( بنانی ) نے حضرت انس بن مالک ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی کہ ثابت بن قیس بن شماس ‌رضی ‌اللہ ‌عنہ ‌ ‌ انصار کے خطیب تھے ۔ جب یہ آیت اتری ..... آگے حماد کی ( سابقہ ) حدیث کی طرح ہے لیکن اس میں سعد بن معاذ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کاذکر نہیں ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>315</td></tr><tr><td>Arabic No</td><td>119.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 222</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 315 |
+| Arabic No | 119.02 |
+| Reference | Book 1 Hadith 222 |

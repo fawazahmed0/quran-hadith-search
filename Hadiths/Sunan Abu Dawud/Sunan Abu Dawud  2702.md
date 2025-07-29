@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، وَالْقَعْنَبِيُّ، قَالاَ حَدَّثَنَا سُلَيْمَانُ، عَنْ حُمَيْدٍ، - يَعْنِي ابْنَ هِلاَلٍ - عَنْ عَبْدِ اللَّهِ بْنِ مُغَفَّلٍ، قَالَ دُلِّيَ جِرَابٌ مِنْ شَحْمٍ يَوْمَ خَيْبَرَ - قَالَ - فَأَتَيْتُهُ فَالْتَزَمْتُهُ - قَالَ - ثُمَّ قُلْتُ لاَ أُعْطِي مِنْ هَذَا أَحَدًا الْيَوْمَ شَيْئًا - قَالَ - فَالْتَفَتُّ فَإِذَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَبَسَّمُ إِلَىَّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
+
 حدثنا موسى بن اسماعيل، والقعنبي، قالا حدثنا سليمان، عن حميد، - يعني ابن هلال - عن عبد الله بن مغفل، قال دلي جراب من شحم يوم خيبر - قال - فاتيته فالتزمته - قال - ثم قلت لا اعطي من هذا احدا اليوم شييا - قال - فالتفت فاذا رسول الله صلى الله عليه وسلم يتبسم الى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আব্দুল্লাহ ইবনু মুগাফফাল (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, খায়বার যুদ্ধের দিন চর্বিভর্তি একটি ব্যাগ পড়ে থাকতে দেখে আমি তা উঠিয়ে নিয়ে বললাম, এ চর্বি থেকে কাউকে একটুও দিবো না। বর্ণনাকারী বলেন, দৃষ্টি ফিরিয়ে দেখি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার দিকে তাকিয়ে মুচকি হাসছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Abd Allaah bin Mughaffal said “On the day of Khaibar a skin of fat was hanging. I came to it and clung to it. I then said (i.e., thought) I shall not give any one any of it today. I then turned round and saw the Apostle of Allaah(ﷺ) smiling at me
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
+
+## French
+
+Rapporté par ‘Abd Allah ibn Mughaffal : Le jour de Khaybar, une peau pleine de graisse était suspendue. Je m’en suis approché et je m’y suis accroché. Je me suis alors dit : « Aujourd’hui, je n’en donnerai à personne. » Je me suis retourné et j’ai vu le Messager d’Allah ﷺ me sourire
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] dan \[Al Qa'nabi\], mereka berkata; telah menceritakan kepada kami \[Sulaiman\] dari \[Humaid bin Hilal\] dari \[Abdullah bin Mughaffal\], ia berkata; telah diambilkan satu kantong lemak pada saat perang Khaibar. Ia berkata; kemudian aku mendatanginya dan menjaganya. Kemudian aku katakan; hari ini aku tidak akan memberikan sedikit pun dari lemak ini kepada seorang pun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] dan [Al Qa'nabi], mereka berkata; telah menceritakan kepada kami [Sulaiman] dari [Humaid bin Hilal] dari [Abdullah bin Mughaffal], ia berkata; telah diambilkan satu kantong lemak pada saat perang Khaibar. Ia berkata; kemudian aku mendatanginya dan menjaganya. Kemudian aku katakan; hari ini aku tidak akan memberikan sedikit pun dari lemak ini kepada seorang pun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Muğaffel'den; demiştir ki: Hayber (savaşı) günü atılmış (dolu) bir yağ tulumunu (gördüm) ve varıp onu aldım ve sırtıma attım. Sonra: "Bugün bundan kimseye birşey vermem" dedim, derken (etrafıma) bakındım ve bir de ne göreyim Rasulullah sallallahu aleyhi ve sellem bana gülümseyip duruyor
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مغفل رضی اللہ عنہ کہتے ہیں کہ خیبر کے دن چربی کا ایک مشک لٹکایا گیا تو میں آیا اور اس سے چمٹ گیا، پھر میں نے کہا: آج میں اس میں سے کسی کو بھی کچھ نہیں دوں گا، پھر میں مڑا تو کیا دیکھتا ہوں کہ رسول اللہ صلی اللہ علیہ وسلم میری اس حرکت پر کھڑے مسکرا رہے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3153) Sahih Muslim (1772)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2702</td></tr><tr><td>Arabic No</td><td>2702</td></tr><tr><td>Reference</td><td>Book 15 Hadith 226</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3153) Sahih Muslim (1772) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2702 |
+| Arabic No | 2702 |
+| Reference | Book 15 Hadith 226 |

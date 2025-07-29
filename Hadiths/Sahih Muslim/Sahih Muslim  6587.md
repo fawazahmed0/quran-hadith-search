@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ الْحَنْظَلِيُّ، أَخْبَرَنَا جَرِيرٌ، عَنْ مُطَرِّفٍ، عَنِ الشَّعْبِيِّ، عَنِ النُّعْمَانِ بْنِ، بَشِيرٍ عَنِ النَّبِيِّ صلى الله عليه وسلم بِنَحْوِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا اسحاق الحنظلي، اخبرنا جرير، عن مطرف، عن الشعبي، عن النعمان بن، بشير عن النبي صلى الله عليه وسلم بنحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) ইসহাক আল হান্‌যালী (রহঃ) ..... নুমান ইবনু বাশীর (রাযিঃ) এর সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে হুবহু বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৬৩৫১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nu'man b. Bashir reported a hadith like this from Allah's Apostle (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## French
 
+Rapporté par Nu’man ibn Bashir : Un hadith similaire a été rapporté du Messager d’Allah ﷺ
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m66) Bize İshak el-Hanzali rivayet etti (Dediki): Bize Cerir Mutarrif’ten haber verdi oda Şa’bi’den, Şa’bi Nu’man bin Beşir’den oda Nebi sallallahu aleyhi ve sellem’den yukarıdaki gibi rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مطرف نے شعبی سے ، انہوں نے نعمان بن بشیر رضی اللہ عنہ سے ، انہوں نے نبی صلی اللہ علیہ وسلم سے اسی ( گزشتہ حدیث ) کی طرح روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6587</td></tr><tr><td>Arabic No</td><td>2586.02</td></tr><tr><td>Reference</td><td>Book 45 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6587 |
+| Arabic No | 2586.02 |
+| Reference | Book 45 Hadith 85 |

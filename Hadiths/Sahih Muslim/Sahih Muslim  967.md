@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي أَبُو الطَّاهِرِ، وَعَمْرُو بْنُ سَوَّادٍ، قَالاَ أَخْبَرَنَا ابْنُ وَهْبٍ، حَدَّثَنِي اللَّيْثُ بْنُ سَعْدٍ، عَنْ جَعْفَرِ بْنِ رَبِيعَةَ، عَنْ عَبْدِ الرَّحْمَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لَيَنْتَهِيَنَّ أَقْوَامٌ عَنْ رَفْعِهِمْ أَبْصَارَهُمْ عِنْدَ الدُّعَاءِ فِي الصَّلاَةِ إِلَى السَّمَاءِ أَوْ لَتُخْطَفَنَّ أَبْصَارُهُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني ابو الطاهر، وعمرو بن سواد، قالا اخبرنا ابن وهب، حدثني الليث بن سعد، عن جعفر بن ربيعة، عن عبد الرحمن الاعرج، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " لينتهين اقوام عن رفعهم ابصارهم عند الدعاء في الصلاة الى السماء او لتخطفن ابصارهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ তাহির ও আমর ইবনু সাওওয়াদ (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ লোকেদের উচিত, তারা যেন সালাতের মধ্যে দু'আর সময় আকাশের দিকে দৃষ্টি নিক্ষেপ না করে। অন্যথায় তাদের দৃষ্টিশক্তি ছিনিয়ে নেয়া হবে। (ইসলামিক ফাউন্ডেশনঃ ৮৪৯, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported:People should avoid lifting their eyes towards the sky while supplicating in prayer, otherwise their eyes would be snatched away
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Les gens devraient éviter de lever les yeux vers le ciel en faisant des invocations pendant la prière, sinon leurs yeux pourraient leur être retirés
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[ath-Thahir\] dan \[Amru bin Sawwad\] keduanya berkata, telah mengabarkan kepada kami \[Ibnu Wahb\] telah menceritakan kepadaku \[al-Laits bin Sa'd\] dari \[Ja'far bin Rabi'ah\] dari \[Abdurrahman al-A'raj\] dari \[Abu Hurairah radhiyallahu'anhu\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Hendaklah suatu kaum menghentikan untuk mengangkat pandangan mereka ke langit ketika berdoa dalam shalat atau (kalau tidak), niscaya pandangan mereka akan dicabut (dibutakan)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [ath-Thahir] dan [Amru bin Sawwad] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah menceritakan kepadaku [al-Laits bin Sa'd] dari [Ja'far bin Rabi'ah] dari [Abdurrahman al-A'raj] dari [Abu Hurairah radhiyallahu'anhu] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Hendaklah suatu kaum menghentikan untuk mengangkat pandangan mereka ke langit ketika berdoa dalam shalat atau (kalau tidak), niscaya pandangan mereka akan dicabut (dibutakan)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Абу Хурайры, что (однажды) Посланник Аллаха ﷺ сказал: «Люди, обращающиеся к Аллаху с мольбами во время молитв, должны прекратить поднимать глаза к небу, иначе они непременно лишатся зрения!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Ebu't-Tâhir ile Amr b. Sevvad rivayet etülcr. Dedilerki: Bize İbni Vehb haber verdi. (Dediki): Bana Leys b. Sai'd, Cafer b. Ramâ'dan, o da Abdurrahman el-Arac'dan, o da Ebu Hureyre'den naklen rivayet etti, Resulullah (Sallallahu Aleyhi ve Sellem) : . «Bir takım insanlar ya namazda dua ederken gözlerini semaya dikmekden vaz geçerler, yahut gözleri kör olur!» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ رسول اللہﷺ نے فرمایا : ’’ لوگ نماز میں دعا کے وقت اپنی نظریں آسمان کی طرف بلند کرنے سے لازما باز آ جائیں یا ( پھر ایسا ہو سکتا ہے کہ ) ان کی نظریں اچک لی جائیں ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>967</td></tr><tr><td>Arabic No</td><td>429</td></tr><tr><td>Reference</td><td>Book 4 Hadith 129</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 967 |
+| Arabic No | 429 |
+| Reference | Book 4 Hadith 129 |

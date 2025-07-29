@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا يَحْيَى، - يَعْنِي ابْنَ سَعِيدٍ - عَنْ عُبَيْدِ اللَّهِ، قَالَ حَدَّثَنَا عَمْرُو بْنُ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ مَا أَسْكَرَ كَثِيرُهُ فَقَلِيلُهُ حَرَامٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 51 Hadith 69</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |
+
 اخبرنا عبيد الله بن سعيد، قال حدثنا يحيى، - يعني ابن سعيد - عن عبيد الله، قال حدثنا عمرو بن شعيب، عن ابيه، عن جده، عن النبي صلى الله عليه وسلم قال " ما اسكر كثيره فقليله حرام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 51 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উবায়দুল্লাহ ইবন সাঈদ (রহঃ) ... আমর ইবন শু‘আয়ব (রহঃ) তাঁর পিতার মাধ্যমে তাঁর দাদা থেকে বর্ণনা করেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে পানীয় বস্তুর অধিক পানে মাদকতা আসে, তার অল্পও হারাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 51 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |
 
 ## English
 
+Amr bin Shu'aib narrated from his father, from his grandfather, that:The Prophet \[SAW\] said: "What intoxicates in large amounts, a small amount of it is unlawful
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Amr bin Shu'aib narrated from his father, from his grandfather, that:The Prophet [SAW] said: "What intoxicates in large amounts, a small amount of it is unlawful
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 51 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |
+
+## French
+
+Rapporté par Amr bin Shu'aib, d'après son père, d'après son grand-père : Le Prophète ﷺ a dit : « Ce qui enivre en grande quantité, même une petite quantité en est interdite. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ubaidullah bin Sa'id\] ia berkata; telah menceritakan kepada kami \[Yahya\] -yaitu Ibnu Sa'id- dari \[Ubaidullah\] ia berkata; telah menceritakan kepada kami \[Amru bin Syu'aib\] dari \[Bapaknya\] dari \[Kakeknya\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesuatu yang banyaknya memabukkan, maka sedikitnya juga memabukkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ubaidullah bin Sa'id] ia berkata; telah menceritakan kepada kami [Yahya] -yaitu Ibnu Sa'id- dari [Ubaidullah] ia berkata; telah menceritakan kepada kami [Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Sesuatu yang banyaknya memabukkan, maka sedikitnya juga memabukkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 51 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 51 Hadith 69</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5607</td></tr><tr><td>Arabic No</td><td>5607</td></tr><tr><td>Reference</td><td>Book 51 Hadith 69</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5607 |
+| Arabic No | 5607 |
+| Reference | Book 51 Hadith 69 |

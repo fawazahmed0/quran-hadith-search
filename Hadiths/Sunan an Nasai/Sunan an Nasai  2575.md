@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، قَالَ سَمِعْتُ أَبِي يُحَدِّثُ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ ثَلاَثَةٌ لاَ يُكَلِّمُهُمُ اللَّهُ عَزَّ وَجَلَّ يَوْمَ الْقِيَامَةِ الشَّيْخُ الزَّانِي وَالْعَائِلُ الْمَزْهُوُّ وَالإِمَامُ الْكَذَّابُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |
+
 اخبرنا محمد بن المثنى، قال حدثنا يحيى، عن ابن عجلان، قال سمعت ابي يحدث، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " ثلاثة لا يكلمهم الله عز وجل يوم القيامة الشيخ الزاني والعايل المزهو والامام الكذاب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন মুছান্না (রহঃ) ... আবু হুরায়রা (রাঃ) থেকে বর্ণিত। তিনি বলেন যে, বাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তিন ব্যক্তির সাথে আল্লাহ্ তাআলা কিয়ামতের দিন কথা বলবেন না। বৃদ্ধ ব্যভিচারী, অহংকারী ফকীর এবং মিথ্যাবাদী নেতা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Hurairah said:"The Messenger of Allah said: "There are three to whom Allah, it Mighty and Sublime, with not speak on the Day of Resurrection: An old man who commits adultery, a poor man who is arrogant, and an Imam who tells lies
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d'Allah a dit : "Il y a trois personnes à qui Allah, le Puissant et Majestueux, ne parlera pas le Jour de la Résurrection : un vieil homme qui commet l'adultère, un pauvre qui est arrogant, et un imam qui ment
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al Mutsanna\] dia berkata; Telah menceritakan kepada kami \[Yahya\] dari \[Ibnu 'Ajlan\] dia berkata; Aku mendengar \[Bapakku\] bercerita dari \[Abu Hurairah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tiga golongan yang tidak akan diajak bicara oleh Allah pada hari kiamat; 'Seorang yang sudah tua berzina, orang miskin namun sombong, dan pemimpin yang pendusta
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] dia berkata; Telah menceritakan kepada kami [Yahya] dari [Ibnu 'Ajlan] dia berkata; Aku mendengar [Bapakku] bercerita dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tiga golongan yang tidak akan diajak bicara oleh Allah pada hari kiamat; 'Seorang yang sudah tua berzina, orang miskin namun sombong, dan pemimpin yang pendusta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تین طرح کے لوگ ہیں جن سے اللہ عزوجل قیامت کے دن بات نہیں کرے گا: بوڑھا زنا کار، گھمنڈی فقیر، جھوٹا امام“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2575</td></tr><tr><td>Arabic No</td><td>2575</td></tr><tr><td>Reference</td><td>Book 23 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Abu Ghuddah |
+| Hasan Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2575 |
+| Arabic No | 2575 |
+| Reference | Book 23 Hadith 141 |

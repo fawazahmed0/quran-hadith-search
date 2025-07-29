@@ -18,78 +18,76 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## French
 
+Rapporté par Abou Hourayra رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il suffit qu’un homme rapporte tout ce qu’il entend pour qu’il soit considéré comme menteur. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов аль-Мугъиры ибн Шу‘бы, который передал от Пророка ﷺ похожий (хадис) и не упомянул в нём (слова) «Поистине, возведение на меня лжи не подобно возведению лжи на кого-то другого»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Ali b. Hucr es-Sa'dî de rivâyet etti. ki: Bize Ali b. Müshir rivâyet etti. (Dedik ki: Bize Muhammed b. Kays el-Esedî , Ali b. Rabıate'l Esedi (63) o da Muğiretü'bnü Şu'be'den o da Peygamber (sallallahü aleyhi ve sellem)'den naklen bu hadîsin bir benzerini haber verdi; ama: Şüphesiz ki benim üzerimden söylenen bir yalan, başka birinin üzerinden söylenen yalan gibi değildir.» cümlesini zikretmedi.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ محمد بن قیس اسدی نے علی بن ربیعہ اسدی سے ، انہوں نے حضرت مغیرہ بن شعبہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے نبیﷺ سے اسی طرح روایت کی لیکن ’’بلاشبہ مجھ پر جھوٹ بولنا اس طرح نہیں جیسے کسی ایک ( عام ) آدمی پر جھوٹ بولنا ہے ۔ ‘ ‘ ( اس جملہ ) بیان نہیں کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6</td></tr><tr><td>Reference</td><td>Book 0 Hadith 6</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6 |
+| Reference | Book 0 Hadith 6 |

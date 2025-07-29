@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ صَالِحٍ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي عَمْرٌو، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي سَلَمَةَ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ الْمَاءُ مِنَ الْمَاءِ ‏"‏ ‏.‏ وَكَانَ أَبُو سَلَمَةَ يَفْعَلُ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
+
 حدثنا احمد بن صالح، حدثنا ابن وهب، اخبرني عمرو، عن ابن شهاب، عن ابي سلمة بن عبد الرحمن، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم قال " الماء من الماء " . وكان ابو سلمة يفعل ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, পানির জন্যই পানি ব্যবহার করতে হবে (অর্থাৎ বীর্যপাত হলেই গোসল করতে হবে)। আবূ সালামাহ (রাঃ) এরূপই করতেন।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, পানির জন্যই পানি ব্যবহার করতে হবে (অর্থাৎ বীর্যপাত হলেই গোসল করতে হবে)। আবূ সালামাহ (রাঃ) এরূপই করতেন।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aba Sa’id al-Khudri reported :The Messenger of Allah (May peace be upon him) said : water (bath) is necessary only when there is seminal emission. And Abu Salamah followed it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Le bain n’est obligatoire qu’en cas d’émission de sperme. » Et Abu Salamah a suivi ce jugement
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Shalih\] telah menceritakan kepada kami \[Ibnu Wahb\] telah mengabarkan kepada kami \['Amru\] dari \[Ibnu Syihab\] dari \[Abu Salamah bin Abdurrahman\] dari \[Abu Sa'id Al-Khudri\] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Air (mandi janabat) itu disebabkan karena keluarnya air (mani)." Dan Abu Salamah melakukan demikian (yakni, dia tidak berpendapat wajibnya mandi bagi suami yang telah memasukkan kemaluannya pada kemaluan istrinya namun tidak keluar air mani, dan dia berpendapat dengan hadits bahwa air (mandi) itu disebabkan karena keluarnya air (mani)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Shalih] telah menceritakan kepada kami [Ibnu Wahb] telah mengabarkan kepada kami ['Amru] dari [Ibnu Syihab] dari [Abu Salamah bin Abdurrahman] dari [Abu Sa'id Al-Khudri] bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: "Air (mandi janabat) itu disebabkan karena keluarnya air (mani)." Dan Abu Salamah melakukan demikian (yakni, dia tidak berpendapat wajibnya mandi bagi suami yang telah memasukkan kemaluannya pada kemaluan istrinya namun tidak keluar air mani, dan dia berpendapat dengan hadits bahwa air (mandi) itu disebabkan karena keluarnya air (mani)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Са‘ида аль-Худри о том, что Посланник Аллаха ﷺ сказал: «Водой от воды». И Абу Салама поступал таким образом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Said el-Hudri'den Resulullah (sallallahu aleyhi ve sellem)'in şöyle buyurduğu rivayet edilmiştir; "Su (yıkanma) su'dan (meni'den) dir." Ebu Seleme de böyle yapardı. Diğer tahric: Müslim, hayz; Tirmizî, tahare; Nesai, tahare; ibn Mace, tahare; Dârimî, vudu; Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: پانی پانی سے ہے ( یعنی منی نکلنے سے غسل واجب ہوتا ہے ) اور ابوسلمہ ایسا ہی کرتے تھے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (343)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>217</td></tr><tr><td>Arabic No</td><td>217</td></tr><tr><td>Reference</td><td>Book 1 Hadith 217</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (343) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 217 |
+| Arabic No | 217 |
+| Reference | Book 1 Hadith 217 |

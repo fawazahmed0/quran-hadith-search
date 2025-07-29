@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا أَبَانُ بْنُ يَزِيدَ الْعَطَّارُ، حَدَّثَنَا يَحْيَى، أَنَّ مَحْمُودَ بْنَ عَمْرٍو الأَنْصَارِيَّ، حَدَّثَهُ أَنَّ أَسْمَاءَ بِنْتَ يَزِيدَ حَدَّثَتْهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ أَيُّمَا امْرَأَةٍ تَقَلَّدَتْ قِلاَدَةً مِنْ ذَهَبٍ قُلِّدَتْ فِي عُنُقِهَا مِثْلَهُ مِنَ النَّارِ يَوْمَ الْقِيَامَةِ وَأَيُّمَا امْرَأَةٍ جَعَلَتْ فِي أُذُنِهَا خُرْصًا مِنْ ذَهَبٍ جُعِلَ فِي أُذُنِهَا مِثْلُهُ مِنَ النَّارِ يَوْمَ الْقِيَامَةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
+
 حدثنا موسى بن اسماعيل، حدثنا ابان بن يزيد العطار، حدثنا يحيى، ان محمود بن عمرو الانصاري، حدثه ان اسماء بنت يزيد حدثته ان رسول الله صلى الله عليه وسلم قال " ايما امراة تقلدت قلادة من ذهب قلدت في عنقها مثله من النار يوم القيامة وايما امراة جعلت في اذنها خرصا من ذهب جعل في اذنها مثله من النار يوم القيامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
 
 ## Bengali
 
+। আসমা বিনতু ইয়াযীদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে কোনো নারী গলায় স্বর্ণের মালা পরবে, কিয়ামতের দিন তার গলায় আগুনের মালা ঝুলিয়ে দেয়া হবে। আর যে কোনো নারী তার কানে স্বর্ণের দুল পরবে, কিয়ামতের দিন অনুরূপ একটি আগুনের দুল তার কানে লটকিয়ে দেয়া হবে।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আসমা বিনতু ইয়াযীদ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে কোনো নারী গলায় স্বর্ণের মালা পরবে, কিয়ামতের দিন তার গলায় আগুনের মালা ঝুলিয়ে দেয়া হবে। আর যে কোনো নারী তার কানে স্বর্ণের দুল পরবে, কিয়ামতের দিন অনুরূপ একটি আগুনের দুল তার কানে লটকিয়ে দেয়া হবে।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Asma' daughter of Yazid: The Prophet (ﷺ) as saying: Any woman who wears a gold necklace will have a similar one of fire put on her neck on the Day of Resurrection, and any woman who puts a gold earring in her ear will have a similar one of fire put in her ear on the Day of Resurrection
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
+
+## French
+
+Rapporté par Asma', fille de Yazid رضي الله عنها : Le Prophète ﷺ a dit : « Toute femme qui porte un collier en or aura un collier de feu autour du cou le Jour de la Résurrection, et toute femme qui met une boucle d’oreille en or aura une boucle de feu dans l’oreille le Jour de la Résurrection. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] berkata, telah menceritakan kepada kami \[Aban bin Yazid Al 'Aththar\] berkata, telah menceritakan kepada kami \[Yahya\] bahwa \[Mahmud bin Amru Al Anshari\] menceritakan kepadanya, bahwa \[Asma binti Yazid\] menceritakan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wanita mana saja memakai kalung emas, maka pada hari kiamat kelak ia akan diberi kalung yang semisal dari api. Dan wanita mana saja yang di telinganya terdapat anting emas, maka pada hari kiamat kelak ia akan diberi anting yang semisal dari api
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Aban bin Yazid Al 'Aththar] berkata, telah menceritakan kepada kami [Yahya] bahwa [Mahmud bin Amru Al Anshari] menceritakan kepadanya, bahwa [Asma binti Yazid] menceritakan kepadanya, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Wanita mana saja memakai kalung emas, maka pada hari kiamat kelak ia akan diberi kalung yang semisal dari api. Dan wanita mana saja yang di telinganya terdapat anting emas, maka pada hari kiamat kelak ia akan diberi anting yang semisal dari api
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Асма бинт Язид (да будет доволен ею Аллах) передаёт, что Посланник Аллаха ﷺ сказал: «На шею любой женщины, надевшей золотое ожерелье, будет надето такое же ожерелье из Огня в Судный день, и на уши любой женщины, носящей золотые серьги, будут надеты такие же серьги из Огня в Судный день»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Esma Binti yezid (r.a), Rasûlullah (s.a.v.)'in şöyle buyurduğunu rivayet etmiştir: Altından gerdanlık takınan her bir kadın'ın boynuna kıyamet gününde ateşten bir benzeri takılır. Altın küpe takan her bir kadın'ın kulağına da kıyamet günü bunun bir benzeri takılır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسماء بنت یزید رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس عورت نے سونے کا ہار پہنا تو قیامت کے دن اس کے گلے میں آگ کا ہار پہنایا جائے گا، اور جس عورت نے اپنے کان میں سونے کی بالی پہنی تو قیامت کے دن اس کے کان میں اسی کے ہم مثل آگ کی بالی پہنائی جائے گی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4238</td></tr><tr><td>Arabic No</td><td>4238</td></tr><tr><td>Reference</td><td>Book 36 Hadith 25</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4238 |
+| Arabic No | 4238 |
+| Reference | Book 36 Hadith 25 |

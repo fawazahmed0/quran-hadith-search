@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي الإِسْكَنْدَرَانِيَّ - عَنْ سُهَيْلٍ، - يَعْنِي ابْنَ أَبِي صَالِحٍ - عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ تَقُومُ السَّاعَةُ حَتَّى يُقَاتِلَ الْمُسْلِمُونَ التُّرْكَ قَوْمًا وُجُوهُهُمْ كَالْمَجَانِّ الْمُطْرَقَةِ يَلْبَسُونَ الشَّعْرَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
+
 حدثنا قتيبة، حدثنا يعقوب، - يعني الاسكندراني - عن سهيل، - يعني ابن ابي صالح - عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " لا تقوم الساعة حتى يقاتل المسلمون الترك قوما وجوههم كالمجان المطرقة يلبسون الشعر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে পর্যন্ত না মুসলিমরা তুর্কি জাতির সঙ্গে যুদ্ধ করবে, সে পর্যন্ত কিয়ামত হবে না। সেই জাতির মুখমন্ডল হবে বর্মের ন্যায় চওড়া আর মাংসল। তারা পশমী পোশাক পরে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ যে পর্যন্ত না মুসলিমরা তুর্কি জাতির সঙ্গে যুদ্ধ করবে, সে পর্যন্ত কিয়ামত হবে না। সেই জাতির মুখমন্ডল হবে বর্মের ন্যায় চওড়া আর মাংসল। তারা পশমী পোশাক পরে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Prophet (May peace be upon him) as saying:The last hour will not come before the Muslims fight with the Turks, a people whose faces look as if they were shields covered with skin, and who will wear sandals of hair
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « L’Heure ne viendra pas avant que les musulmans ne combattent les Turcs, un peuple dont les visages ressemblent à des boucliers recouverts de peau et qui portent des sandales en poil. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah\] berkata, telah menceritakan kepada kami \[Ya'qub\] -maksudnya Ya'qub Al Iskandarani- dari \[Suhail\] -maksudnya Suhail bin Abu Shalih- dari \[Bapaknya\] dari \[Abu Hurairah\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kiamat tidak akan terjadi hingga kaum muslimin memerangi bangsa Turki, wajah mereka seperti perisai dan mengenakan sandal dari rambut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Ya'qub] -maksudnya Ya'qub Al Iskandarani- dari [Suhail] -maksudnya Suhail bin Abu Shalih- dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kiamat tidak akan terjadi hingga kaum muslimin memerangi bangsa Turki, wajah mereka seperti perisai dan mengenakan sandal dari rambut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Не настанет Час этот, пока мусульмане не сразятся с тюрками людьми с лицами, подобными кожаным щитам, носящими волосяную обувь (из меха или шерсти по причине холодного климата в их землях)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a)'den Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir: "Müslümanlar, yüzleri kat kat deri ile kaplı kalkan gibi olan, kıldan elbise giyen Türklerle savaşmadikça kıyamet kopmaz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: قیامت قائم نہیں ہو گی جب تک مسلمان ترکوں سے نہ لڑیں جو ایک ایسی قوم ہو گی جن کے چہرے تہ بہ تہ جمی ہوئی ڈھالوں کے مانند ہونگے، اور وہ بالوں کے لباس پہنتے ہوں گے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4303</td></tr><tr><td>Arabic No</td><td>4303</td></tr><tr><td>Reference</td><td>Book 39 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4303 |
+| Arabic No | 4303 |
+| Reference | Book 39 Hadith 13 |

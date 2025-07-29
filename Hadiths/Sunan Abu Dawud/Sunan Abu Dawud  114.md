@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو نُعَيْمٍ، حَدَّثَنَا رَبِيعَةُ الْكِنَانِيُّ، عَنِ الْمِنْهَالِ بْنِ عَمْرٍو، عَنْ زِرِّ بْنِ حُبَيْشٍ، أَنَّهُ سَمِعَ عَلِيًّا، رضى الله عنه وَسُئِلَ عَنْ وُضُوءِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرَ الْحَدِيثَ وَقَالَ وَمَسَحَ عَلَى رَأْسِهِ حَتَّى لَمَّا يَقْطُرْ وَغَسَلَ رِجْلَيْهِ ثَلاَثًا ثَلاَثًا ثُمَّ قَالَ هَكَذَا كَانَ وُضُوءُ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا ابو نعيم، حدثنا ربيعة الكناني، عن المنهال بن عمرو، عن زر بن حبيش، انه سمع عليا، رضى الله عنه وسيل عن وضوء، رسول الله صلى الله عليه وسلم فذكر الحديث وقال ومسح على راسه حتى لما يقطر وغسل رجليه ثلاثا ثلاثا ثم قال هكذا كان وضوء رسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
 
 ## Bengali
 
+। যির্ ইবনু হুবাইশ সূত্রে বর্ণিত। তিনি ‘আলী (রাঃ) হতে শুনেছেন, তাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু সম্পর্কে জিজ্ঞেস করা হয়েছিল। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীস বর্ণনা করেন এবং বলেন, তিনি এমনভাবে মাথা মাসাহ্ করলেন যে, পানি ঝড়ে পড়েনি। তিনি তিনবার করে উভয় পা ধুলেন। তারপর বললেন, এরূপই ছিল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। যির্ ইবনু হুবাইশ সূত্রে বর্ণিত। তিনি ‘আলী (রাঃ) হতে শুনেছেন, তাকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু সম্পর্কে জিজ্ঞেস করা হয়েছিল। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীস বর্ণনা করেন এবং বলেন, তিনি এমনভাবে মাথা মাসাহ্ করলেন যে, পানি ঝড়ে পড়েনি। তিনি তিনবার করে উভয় পা ধুলেন। তারপর বললেন, এরূপই ছিল রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zirr b. Hubaish said that the heard that ‘ Ali was asked how the Messenger of Allah (ﷺ) used to perform ablution. He then narrated the tradition and said:he wiped his head so much so that drops (of water) were about to trickle down. He then washed his feet three times and said: This is how the Messenger of Allah (ﷺ) performed ablutions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
+
+## French
+
+Rapporté par Zirr b. Hubaish : Il a entendu qu’on a demandé à Ali comment le Messager d’Allah ﷺ faisait ses ablutions. Il a alors rapporté la tradition et a dit : « Il a essuyé sa tête à tel point que des gouttes d’eau allaient couler. » Ensuite, il a lavé ses pieds trois fois et a dit : « C’est ainsi que le Messager d’Allah ﷺ faisait ses ablutions. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Зирра ибн Хубайша о том, что (однажды) он слышал, как у ‘Али, да будет доволен им Аллах, спросили об омовении Посланника Аллаха ﷺ. И далее (Зирр) привёл этот хадис, и (в нём) он сказал: «И он обтёр свою голову (влажными руками) так, что вода с неё не капала, и помыл ноги по три раза каждую, после чего сказал: “Таким было омовение Посланника Аллаха ﷺ”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Minhal b. Amr'ın rivayet ettiğine göre, Zirr b. Hubeyş, "Ali'ye Resulullah (sallallahu aleyhi ve sellem)'in abdest alışından sorulduğunu işittim" demiş ve (yukarıdaki) Hadisi nakletmiştir. (Bu nakil esnasında) Zirr, sözlerine şöyle devam etmiştir: "Ali (r.a.) başını hiç su damlamayacak şekilde mesh etti, ayaklarını üçer kere yıkadı ve; "İşte Resulullah (Sallallahu aleyhi ve Sellem)'tn abdesti böyleydi", dedi." Diğer tahric: Nesai, tahare; Tirmizî, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زر بن حبیش کہتے ہیں کہ انہوں نے علی رضی اللہ عنہ سے سنا جب ان سے رسول اللہ صلی اللہ علیہ وسلم کے وضو کے بارے میں پوچھا گیا تھا، پھر زر بن حبیش نے پوری حدیث ذکر کی اور کہا: انہوں نے اپنے سر کا مسح کیا حتیٰ کہ پانی سر سے ٹپکنے کو تھا، پھر اپنے دونوں پیر تین تین بار دھوئے، پھر کہا: رسول اللہ صلی اللہ علیہ وسلم کا وضو اسی طرح تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>114</td></tr><tr><td>Arabic No</td><td>114</td></tr><tr><td>Reference</td><td>Book 1 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 114 |
+| Arabic No | 114 |
+| Reference | Book 1 Hadith 114 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، أَخْبَرَنَا نَافِعٌ، عَنِ ابْنِ عُمَرَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ اجْعَلُوا فِي بُيُوتِكُمْ مِنْ صَلاَتِكُمْ وَلاَ تَتَّخِذُوهَا قُبُورًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
+
 حدثنا مسدد، حدثنا يحيى، عن عبيد الله، اخبرنا نافع، عن ابن عمر، قال قال رسول الله صلى الله عليه وسلم " اجعلوا في بيوتكم من صلاتكم ولا تتخذوها قبورا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
 
 ## Bengali
 
+। ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের কিছু সালাত নিজ নিজ ঘরে আদায় করবে এবং তোমাদের ঘরগুলোকে কবরস্থানে পরিণত করবে না।\[1\] সহীহ : বুখারী ও মুসলিম। এটি গত হয়েছে (১০৪৩)।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা তোমাদের কিছু সালাত নিজ নিজ ঘরে আদায় করবে এবং তোমাদের ঘরগুলোকে কবরস্থানে পরিণত করবে না।[1] সহীহ : বুখারী ও মুসলিম। এটি গত হয়েছে (১০৪৩)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar reported the Messenger of Allah (ﷺ) as saying:Some offer prayer in your houses; do not make them graves
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
+
+## French
+
+Rapporté par Ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Priez dans vos maisons ; ne les rendez pas semblables à des tombes. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Musaddad\], telah menceritakan kepada Kami \[Yahya\] dari \['Ubaidullah\], telah mengabarkan kepada Kami \[Nafi'\] dari \[Ibnu Umar\] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jadikanlah sebagian shalat kalian di rumah kalian, dan janganlah kalian menjadikan rumah tersebut sebagai kuburan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Yahya] dari ['Ubaidullah], telah mengabarkan kepada Kami [Nafi'] dari [Ibnu Umar] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Jadikanlah sebagian shalat kalian di rumah kalian, dan janganlah kalian menjadikan rumah tersebut sebagai kuburan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Молитесь в своих домах и не превращайте их в могилы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.)'ın rivayetine göre, Resulullah (s.a.v.) şöyle buyurmuştur: "Namazlarınızın bir kısmını evlerinizde kılınız, oraları kabirlere çevirmeyiniz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اپنی نماز میں سے کچھ گھروں میں پڑھا کرو، اور انہیں قبرستان نہ بناؤ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (432) Sahih Muslim (77)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1448</td></tr><tr><td>Arabic No</td><td>1448</td></tr><tr><td>Reference</td><td>Book 8 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (432) Sahih Muslim (77) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1448 |
+| Arabic No | 1448 |
+| Reference | Book 8 Hadith 33 |

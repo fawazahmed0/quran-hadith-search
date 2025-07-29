@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي عُمَرُ بْنُ سُلَيْمَانَ، - مِنْ وَلَدِ عُمَرَ بْنِ الْخَطَّابِ - عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبَانَ، عَنْ أَبِيهِ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ نَضَّرَ اللَّهُ امْرَأً سَمِعَ مِنَّا حَدِيثًا فَحَفِظَهُ حَتَّى يُبَلِّغَهُ فَرُبَّ حَامِلِ فِقْهٍ إِلَى مَنْ هُوَ أَفْقَهُ مِنْهُ وَرُبَّ حَامِلِ فِقْهٍ لَيْسَ بِفَقِيهٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
+
 حدثنا مسدد، حدثنا يحيى، عن شعبة، حدثني عمر بن سليمان، - من ولد عمر بن الخطاب - عن عبد الرحمن بن ابان، عن ابيه، عن زيد بن ثابت، قال سمعت رسول الله صلى الله عليه وسلم يقول " نضر الله امرا سمع منا حديثا فحفظه حتى يبلغه فرب حامل فقه الى من هو افقه منه ورب حامل فقه ليس بفقيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
 
 ## Bengali
 
+। যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি আমার নিকট থেকে হাদিস শুনে তা মুখস্থ রাখলো এবং অন্যের নিকটও তা পৌঁছে দিলো, আল্লাহ তাকে চিরউজ্জ্বল করে রাখবেন। জ্ঞানের অনেক বাহক তার চেয়ে অধিক সমঝদার লোকের নিকট তার বহন নিয়ে যায়; যদিও জ্ঞানের বহু বাহক নিজেরা জ্ঞানী নয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে ব্যক্তি আমার নিকট থেকে হাদিস শুনে তা মুখস্থ রাখলো এবং অন্যের নিকটও তা পৌঁছে দিলো, আল্লাহ তাকে চিরউজ্জ্বল করে রাখবেন। জ্ঞানের অনেক বাহক তার চেয়ে অধিক সমঝদার লোকের নিকট তার বহন নিয়ে যায়; যদিও জ্ঞানের বহু বাহক নিজেরা জ্ঞানী নয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Zayd ibn Thabit: I heard the Messenger of Allah (ﷺ) say: May Allah brighten a man who hears a tradition from us, gets it by heart and passes it on to others. Many a bearer of knowledge conveys it to one who is more versed than he is; and many a bearer of knowledge is not versed in it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
+
+## French
+
+Rapporté par Zayd ibn Thabit : J’ai entendu le Messager d’Allah ﷺ dire : « Qu’Allah illumine celui qui entend une tradition de nous, la retient et la transmet à d’autres. Il arrive qu’une personne porteuse de savoir le transmette à quelqu’un de plus savant qu’elle, et il arrive qu’une personne porteuse de savoir ne comprenne pas elle-même ce qu’elle transmet. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Syu'bah\] telah menceritakan kepadaku \[Umar bin Sulaiman\] dari putera Umar bin Al Khathab, dari \[Abdurrahman bin Aban\] dari \[Ayahnya\] dari \[Zaid bin Tsabit\] ia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah memperindah orang yang mendengar hadits dariku lalu menghafal dan menyampaikannya kepada orang lain, berapa banyak orang menyampaikan ilmu kepada orang yang lebih berilmu, dan berapa banyak pembawa ilmu yang tidak berilmu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepadaku [Umar bin Sulaiman] dari putera Umar bin Al Khathab, dari [Abdurrahman bin Aban] dari [Ayahnya] dari [Zaid bin Tsabit] ia berkata, "Saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah memperindah orang yang mendengar hadits dariku lalu menghafal dan menyampaikannya kepada orang lain, berapa banyak orang menyampaikan ilmu kepada orang yang lebih berilmu, dan berapa banyak pembawa ilmu yang tidak berilmu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Зейда ибн Сабита, да будет доволен им Аллах: «Я слышал, как Посланник Аллаха ﷺ сказал: “Да порадует Аллах человека, который, услышав от нас хадис, запомнит его и передаст другому. Возможно, тот, кому он передаст это знание, поймёт и усвоит его лучше него самого. Бывает, что носитель знания не понимает его должным образом”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeyd b. Sabit (r.a)'ten rivayet olunmuştur; dedi ki: Ben Rasûlullah (s.a.v.)'i şöyle derken işittim: "Allah, benden bir hadisi işitip de onu (güzelce) ezberleyip başkasına (eksiksizce) aktaran kimsenin yüzünü ak etsin. Nice fıkıh ilmine (esas teşkil eden hadislere) sahip olup da onu kendisinden daha anlayışlı bir kişiye aktaran kimseler vardır. (Bu bilgiyi aktardığı kimseler de onun inceliklerini kavrayıp halka açıklar.) Nice fıkıh ilimine (esas teşkil eden hadislere) sahip olup da (o hadislerin inciliklerine nüfuz edecek şekilde) anlayışlı olmayan kişiler de vardır." Ayrıca bu hadis'i Tirmizî, ilim; İbn Mâce, mukaddime, menâsik; Dârimî, mukaddime; Ahme b. Hanbel, I, 437, III, 225, IV, 80, 82, V, 183. te tahric ettiler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زید بن ثابت رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا: اللہ تعالیٰ اس شخص کو تروتازہ رکھے جس نے ہم سے کوئی بات سنی اور اسے یاد رکھا یہاں تک کہ اسے دوسروں تک پہنچا دیا کیونکہ بہت سے حاملین فقہ ایسے ہیں جو فقہ کو اپنے سے زیادہ فقہ و بصیرت والے کو پہنچا دیتے ہیں، اور بہت سے فقہ کے حاملین خود فقیہ نہیں ہوتے ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3660</td></tr><tr><td>Arabic No</td><td>3660</td></tr><tr><td>Reference</td><td>Book 26 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3660 |
+| Arabic No | 3660 |
+| Reference | Book 26 Hadith 20 |

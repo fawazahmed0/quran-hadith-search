@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدٍ النُّفَيْلِيُّ، حَدَّثَنَا عُثْمَانُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - حَدَّثَنَا عِصَامُ بْنُ قُدَامَةَ، - مِنْ بَنِي بُجَيْلَةَ - عَنْ مَالِكِ بْنِ نُمَيْرٍ الْخُزَاعِيِّ، عَنْ أَبِيهِ، قَالَ رَأَيْتُ النَّبِيَّ صلى الله عليه وسلم وَاضِعًا ذِرَاعَهُ الْيُمْنَى عَلَى فَخِذِهِ الْيُمْنَى رَافِعًا أُصْبُعَهُ السَّبَّابَةَ قَدْ حَنَاهَا شَيْئًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
+
 حدثنا عبد الله بن محمد النفيلي، حدثنا عثمان، - يعني ابن عبد الرحمن - حدثنا عصام بن قدامة، - من بني بجيلة - عن مالك بن نمير الخزاعي، عن ابيه، قال رايت النبي صلى الله عليه وسلم واضعا ذراعه اليمنى على فخذه اليمنى رافعا اصبعه السبابة قد حناها شييا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
 
 ## Bengali
 
+। মালিক ইবনু নুমাইর আল-খুযাঈ (রহঃ) তার পিতা হতে বর্ণনা করে যে, তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে সালাতে তাঁর ডান হাত ডান উরুর উপর রেখে শাহাদাত আঙুল অর্ধনমিত অবস্থায় উচিয়ে রাখতে দেখেছি। \[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মালিক ইবনু নুমাইর আল-খুযাঈ (রহঃ) তার পিতা হতে বর্ণনা করে যে, তিনি বলেছেন, আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে সালাতে তাঁর ডান হাত ডান উরুর উপর রেখে শাহাদাত আঙুল অর্ধনমিত অবস্থায় উচিয়ে রাখতে দেখেছি। [1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuMalik Numayr al-Khuza'i: I saw the Prophet (peace be upon him placing his right hand on his right thigh and raising his forefinger curving it a little)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
+
+## French
+
+Rapporté par Abu Malik Numayr al-Khuza'i : J’ai vu le Prophète ﷺ poser sa main droite sur sa cuisse droite et lever son index en le courbant légèrement
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Muhammad An Nufaili\] telah menceritakan kepada kami \[Utsman yaitu Ibnu Abdurrahman\] telah menceritakan kepada kami \['Isham bin Qudamah\] dari Bani Bajilah, dari \[Malik bin Numair Al Khuza'i\] dari \[ayahnya\] dia berkata; "Aku melihat Nabi shallallahu 'alaihi wasallam meletakkan lengan kanannya diatas paha kanannya sambil mengangkat jari telunjuknya dengan sedikit melengkung
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Muhammad An Nufaili] telah menceritakan kepada kami [Utsman yaitu Ibnu Abdurrahman] telah menceritakan kepada kami ['Isham bin Qudamah] dari Bani Bajilah, dari [Malik bin Numair Al Khuza'i] dari [ayahnya] dia berkata; "Aku melihat Nabi shallallahu 'alaihi wasallam meletakkan lengan kanannya diatas paha kanannya sambil mengangkat jari telunjuknya dengan sedikit melengkung
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Малик ибн Нумайр аль-Хуза‘и передаёт от своего отца: «Я видел, как Пророк ﷺ сидел во время молитвы, положив правое предплечье на правое бедро и подняв и немного изогнув указательный палец»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mâlik b.Numeyr el-Huzâî babası Numeyr'den; demiştir ki: Resûlullah (s.a.v.)'i sağ kolunu sağ uyluğunun üzerine koymuş ve işaret parmağını kaldırmış bir vaziyette gördüm. Ancak parmağını birazcık bükmüştü. Diğer tahric: Nesâî, sehv; Ahmed b. Hanbel, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>991</td></tr><tr><td>Arabic No</td><td>991</td></tr><tr><td>Reference</td><td>Book 2 Hadith 602</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 991 |
+| Arabic No | 991 |
+| Reference | Book 2 Hadith 602 |

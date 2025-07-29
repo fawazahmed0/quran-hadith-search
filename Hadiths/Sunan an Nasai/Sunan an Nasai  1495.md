@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَسْوَدِ بْنِ قَيْسٍ، عَنِ ابْنِ عَبَّادٍ، - رَجُلٌ مِنْ بَنِي عَبْدِ الْقَيْسِ - عَنْ سَمُرَةَ، ‏.‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى بِهِمْ فِي كُسُوفِ الشَّمْسِ لاَ نَسْمَعُ لَهُ صَوْتًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |
+
 اخبرنا عمرو بن منصور، قال حدثنا ابو نعيم، قال حدثنا سفيان، عن الاسود بن قيس، عن ابن عباد، - رجل من بني عبد القيس - عن سمرة، . ان النبي صلى الله عليه وسلم صلى بهم في كسوف الشمس لا نسمع له صوتا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু মানসূর (রহঃ) ... সামুরা (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের নিয়ে সূর্য গ্রহণকালীন সালাত আদায় করলেন, আমরা (তাতে) তার আওয়াজ শুনিনি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Samurah that:The Prophet (ﷺ) led them in prayer during an eclipse of the sun, and we did not hear him say anything
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |
+
+## French
+
+Rapporté par Samurah : Le Prophète (ﷺ) les a dirigés dans la prière lors d’une éclipse du soleil, et nous ne l’avons pas entendu dire quoi que ce soit
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin Manshur\] dia berkata; Telah menceritakan kepada kami \[Abu Nu'aim\] dia berkata; Telah menceritakan kepada kami \[Sufyan\] dari \[Al Aswad bin Qais\] dari \[Ibnu 'Abbad\] -seorang laki-laki dari Bani 'Abdul Qais- dari \[Samurah\] bahwa Nabi Shalallahu 'Alaihi Wa Sallam shalat bersama mereka ketika terjadi gerhana matahari dan kami tidak mendengar suaranya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin Manshur] dia berkata; Telah menceritakan kepada kami [Abu Nu'aim] dia berkata; Telah menceritakan kepada kami [Sufyan] dari [Al Aswad bin Qais] dari [Ibnu 'Abbad] -seorang laki-laki dari Bani 'Abdul Qais- dari [Samurah] bahwa Nabi Shalallahu 'Alaihi Wa Sallam shalat bersama mereka ketika terjadi gerhana matahari dan kami tidak mendengar suaranya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سمرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے سورج گرہن کی نماز پڑھائی ( وہ کہتے ہیں ) کہ ہم آپ کی آواز نہیں سن رہے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1495</td></tr><tr><td>Arabic No</td><td>1495</td></tr><tr><td>Reference</td><td>Book 16 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1495 |
+| Arabic No | 1495 |
+| Reference | Book 16 Hadith 37 |

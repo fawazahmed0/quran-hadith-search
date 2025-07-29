@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ عُمَرَ، عَنْ أَبِي عَلْقَمَةَ، مَوْلاَهُمْ وَعَبْدِ الرَّحْمَنِ بْنِ عَبْدِ اللَّهِ الْغَافِقِيِّ أَنَّهُمَا سَمِعَا ابْنَ عُمَرَ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لَعَنَ اللَّهُ الْخَمْرَ وَشَارِبَهَا وَسَاقِيَهَا وَبَائِعَهَا وَمُبْتَاعَهَا وَعَاصِرَهَا وَمُعْتَصِرَهَا وَحَامِلَهَا وَالْمَحْمُولَةَ إِلَيْهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا وكيع بن الجراح، عن عبد العزيز بن عمر، عن ابي علقمة، مولاهم وعبد الرحمن بن عبد الله الغافقي انهما سمعا ابن عمر، يقول قال رسول الله صلى الله عليه وسلم " لعن الله الخمر وشاربها وساقيها وبايعها ومبتاعها وعاصرها ومعتصرها وحاملها والمحمولة اليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদ, তা পানকারী, পরিবেশনকারী বিক্রেতা, ক্রেতা, উৎপাদক ও শোধনকারী, যে উৎপাদন করায়, সরবরাহকারী এবং যার জন্য সরবরাহ করা হয়- এদের সকলকে আল্লাহ লা‘নত করেছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মদ, তা পানকারী, পরিবেশনকারী বিক্রেতা, ক্রেতা, উৎপাদক ও শোধনকারী, যে উৎপাদন করায়, সরবরাহকারী এবং যার জন্য সরবরাহ করা হয়- এদের সকলকে আল্লাহ লা‘নত করেছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: The Prophet (ﷺ) said: Allah has cursed wine, its drinker, its server, its seller, its buyer, its presser, the one for whom it is pressed, the one who conveys it, and the one to whom it is conveyed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
+
+## French
+
+Rapporté par Abdullah ibn Umar : Le Prophète ﷺ a dit : « Allah a maudit le vin, celui qui le boit, celui qui le sert, celui qui le vend, celui qui l’achète, celui qui le presse, celui pour qui il est pressé, celui qui le transporte et celui à qui il est transporté. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] telah menceritakan kepada kami \[Waki' bin Al Jarrah\] dari \[Abdul Aziz bin Umar\] dari \[Abu 'Alqamah\] mantan budak mereka, dan \[Abdurrahman bin Abdullah Al Ghafiqi\] bahwa keduanya telah mendengar \[Ibnu Umar\] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah melaknat khamer, peminumnya, yang menuangkannya, penjualnya, pembelinya, pemerasnya, orang yang diperaskannya, orang yang membawanya dan orang yang dibawakan kepadanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Waki' bin Al Jarrah] dari [Abdul Aziz bin Umar] dari [Abu 'Alqamah] mantan budak mereka, dan [Abdurrahman bin Abdullah Al Ghafiqi] bahwa keduanya telah mendengar [Ibnu Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Semoga Allah melaknat khamer, peminumnya, yang menuangkannya, penjualnya, pembelinya, pemerasnya, orang yang diperaskannya, orang yang membawanya dan orang yang dibawakan kepadanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Аллах проклял вино, а также того, кто пьёт его, того, кто поит им других, того, кто покупает его, того, кто продаёт его, того, кто выжимает плоды для его изготовления, того, для кого выжимают этот виноград, того, кто разносит его, и того, кому его несут»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Abdullah) İbn Ömer, Rasûlullah (s.a.v.)'in (şöyle) buyurduğunu söylemiştir: "Şaraba, onu içene, sunana, satana (ve alana), onu (üzümden) sıkıp çıkarana, onun sıkılıp çıkarılması için emir verene, taşıyıcısına, kendisine getirilen kimseye Allah lanet etsin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کو کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: شراب کے پینے اور پلانے والے، اس کے بیچنے اور خریدنے والے، اس کے نچوڑنے اور نچوڑوانے والے، اسے لے جانے والے اور جس کے لیے لے جائی جائے سب پر اللہ کی لعنت ہو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3674</td></tr><tr><td>Arabic No</td><td>3674</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3674 |
+| Arabic No | 3674 |
+| Reference | Book 27 Hadith 6 |

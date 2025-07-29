@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي زِيَادُ بْنُ أَيُّوبَ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ غُرَابٍ، قَالَ حَدَّثَنَا بَيْهَسُ بْنُ فَهْدَانَ، قَالَ أَنْبَأَنَا أَبُو شَيْخٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لُبْسِ الذَّهَبِ إِلاَّ مُقَطَّعًا ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ حَدِيثُ النَّضْرِ أَشْبَهُ بِالصَّوَابِ وَاللَّهُ تَعَالَى أَعْلَمُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |
+
 اخبرني زياد بن ايوب، قال حدثنا علي بن غراب، قال حدثنا بيهس بن فهدان، قال انبانا ابو شيخ، قال سمعت ابن عمر، قال نهى رسول الله صلى الله عليه وسلم عن لبس الذهب الا مقطعا . قال ابو عبد الرحمن حديث النضر اشبه بالصواب والله تعالى اعلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যিয়াদ ইবন আইয়্যুব (রহঃ) ... আবুশ শায়খ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি ইবন উমরকে বলতে শুনেছিঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বর্ণ পরতে নিষেধ করেছেন, তবে সামান্য পরিমাণ হলে ক্ষতি নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |
 
 ## English
 
+Abu Shaikh said:"I heard Ibn 'Umar say: 'The Messenger of Allah \[SAW\] forbade wearing gold unless it is broken (into smaller pieces)
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Shaikh said:"I heard Ibn 'Umar say: 'The Messenger of Allah [SAW] forbade wearing gold unless it is broken (into smaller pieces)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |
+
+## French
+
+Rapporté par Abu Shaikh : J'ai entendu Ibn 'Umar dire : « Le Messager d'Allah ﷺ a interdit de porter de l'or, sauf s'il est brisé (en petits morceaux). »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5160</td></tr><tr><td>Arabic No</td><td>5160</td></tr><tr><td>Reference</td><td>Book 48 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5160 |
+| Arabic No | 5160 |
+| Reference | Book 48 Hadith 121 |

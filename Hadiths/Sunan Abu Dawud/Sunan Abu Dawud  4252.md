@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، وَمُحَمَّدُ بْنُ عِيسَى، قَالاَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَبِي أَسْمَاءَ، عَنْ ثَوْبَانَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنَّ اللَّهَ زَوَى لِيَ الأَرْضَ ‏"‏ ‏.‏ أَوْ قَالَ ‏"‏ إِنَّ رَبِّي زَوَى لِيَ الأَرْضَ فَرَأَيْتُ مَشَارِقَهَا وَمَغَارِبَهَا وَإِنَّ مُلْكَ أُمَّتِي سَيَبْلُغُ مَا زُوِيَ لِي مِنْهَا وَأُعْطِيتُ الْكَنْزَيْنِ الأَحْمَرَ وَالأَبْيَضَ وَإِنِّي سَأَلْتُ رَبِّي لأُمَّتِي أَنْ لاَ يُهْلِكَهَا بِسَنَةٍ بِعَامَّةٍ وَلاَ يُسَلِّطَ عَلَيْهِمْ عَدُوًّا مِنْ سِوَى أَنْفُسِهِمْ فَيَسْتَبِيحَ بَيْضَتَهُمْ وَإِنَّ رَبِّي قَالَ لِي يَا مُحَمَّدُ إِنِّي إِذَا قَضَيْتُ قَضَاءً فَإِنَّهُ لاَ يُرَدُّ وَلاَ أُهْلِكُهُمْ بِسَنَةٍ بِعَامَّةٍ وَلاَ أُسَلِّطُ عَلَيْهِمْ عَدُوًّا مِنْ سِوَى أَنْفُسِهِمْ فَيَسْتَبِيحَ بَيْضَتَهُمْ وَلَوِ اجْتَمَعَ عَلَيْهِمْ مَنْ بَيْنَ أَقْطَارِهَا أَوْ قَالَ بِأَقْطَارِهَا حَتَّى يَكُونَ بَعْضُهُمْ يُهْلِكُ بَعْضًا وَحَتَّى يَكُونَ بَعْضُهُمْ يَسْبِي بَعْضًا وَإِنَّمَا أَخَافُ عَلَى أُمَّتِي الأَئِمَّةَ الْمُضِلِّينَ وَإِذَا وُضِعَ السَّيْفُ فِي أُمَّتِي لَمْ يُرْفَعْ عَنْهَا إِلَى يَوْمِ الْقِيَامَةِ وَلاَ تَقُومُ السَّاعَةُ حَتَّى تَلْحَقَ قَبَائِلُ مِنْ أُمَّتِي بِالْمُشْرِكِينَ وَحَتَّى تَعْبُدَ قَبَائِلُ مِنْ أُمَّتِي الأَوْثَانَ وَإِنَّهُ سَيَكُونُ فِي أُمَّتِي كَذَّابُونَ ثَلاَثُونَ كُلُّهُمْ يَزْعُمُ أَنَّهُ نَبِيٌّ وَأَنَا خَاتَمُ النَّبِيِّينَ لاَ نَبِيَّ بَعْدِي وَلاَ تَزَالُ طَائِفَةٌ مِنْ أُمَّتِي عَلَى الْحَقِّ ‏"‏ ‏.‏ قَالَ ابْنُ عِيسَى ‏"‏ ظَاهِرِينَ ‏"‏ ‏.‏ ثُمَّ اتَّفَقَا ‏"‏ لاَ يَضُرُّهُمْ مَنْ خَالَفَهُمْ حَتَّى يَأْتِيَ أَمْرُ اللَّهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
+
 حدثنا سليمان بن حرب، ومحمد بن عيسى، قالا حدثنا حماد بن زيد، عن ايوب، عن ابي قلابة، عن ابي اسماء، عن ثوبان، قال قال رسول الله صلى الله عليه وسلم " ان الله زوى لي الارض " . او قال " ان ربي زوى لي الارض فرايت مشارقها ومغاربها وان ملك امتي سيبلغ ما زوي لي منها واعطيت الكنزين الاحمر والابيض واني سالت ربي لامتي ان لا يهلكها بسنة بعامة ولا يسلط عليهم عدوا من سوى انفسهم فيستبيح بيضتهم وان ربي قال لي يا محمد اني اذا قضيت قضاء فانه لا يرد ولا اهلكهم بسنة بعامة ولا اسلط عليهم عدوا من سوى انفسهم فيستبيح بيضتهم ولو اجتمع عليهم من بين اقطارها او قال باقطارها حتى يكون بعضهم يهلك بعضا وحتى يكون بعضهم يسبي بعضا وانما اخاف على امتي الايمة المضلين واذا وضع السيف في امتي لم يرفع عنها الى يوم القيامة ولا تقوم الساعة حتى تلحق قبايل من امتي بالمشركين وحتى تعبد قبايل من امتي الاوثان وانه سيكون في امتي كذابون ثلاثون كلهم يزعم انه نبي وانا خاتم النبيين لا نبي بعدي ولا تزال طايفة من امتي على الحق " . قال ابن عيسى " ظاهرين " . ثم اتفقا " لا يضرهم من خالفهم حتى ياتي امر الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
 
 ## Bengali
 
+। সাওবান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নিশ্চয়ই আল্লাহ (অথবা) আমার রব পৃথিবীকে আমার জন্য সংকুচিত করে দিয়েছেন এবং আমাকে এর পূর্ব ও পশ্চিম সীমানা দেখানো হয়েছে। আর যুতটুকু আমার জন্য সংকুচিত করা হয়েছে, ততটুকুতে অচিরেই আমার উম্মাতের রাজত্ব বিস্তার লাভ করবে। আমাকে লাল ও সাদা (স্বর্ণ ও রূপার) দু’টি ধনভান্ডার দেয়া হয়েছে। আর আমি আমার মহান প্রতিপালকের নিকট আমার উম্মাতের জন্য এই কথার আবেদন করছি যে, তিনি তাদের সবাইকে যেন দুর্ভিক্ষে ধ্বংস না করেন এবং তাদের নিজেদের ব্যতীত কোনো শত্রু যেন তাদের উপর কর্তৃত্ব করতে না পারে যারা তাদের ধ্বংস করে দিবে। নিশ্চয়ই আমার রব আমাকে বলেছেন, হে মুহাম্মাদ! আমি যা ফায়সালা করি, তা বাতিল হয় না। তবে আমি তাদের সবাইকে একসঙ্গে দুর্ভিক্ষে ধ্বংস করবো না এবং তাদের নিজেদের ছাড়া দিকবিদিক থেকে আগত তাদের সমূলে বিনাশকারী বিধর্মী শত্রুকে তাদের উপর কর্তৃত্ব করতে দিবো না, তবে তাদের কতক অপরদের ধ্বংস করবে এবং কতক অপরাধে বন্দী করবে। আর আমি আমার উম্মাতের পথভ্রষ্ট নেতাদের ব্যাপারে শঙ্কিত। আমার উম্মত যখন পরস্পর যুদ্ধে লিপ্ত হবে, তখন কিয়ামত সংঘটিত হওয়ার পূর্ব পর্যন্ত তারা বিরত হবে না। আর আমার উম্মাতের কিছু সংখ্যক মুশরিকদের সঙ্গে মিলিত না হওয়া পর্যন্ত এবং আমার উম্মাতের কতিপয় গোত্র মূর্তি পূজায় লিপ্ত না হওয়া পর্যন্ত কিয়ামত সংঘটিত হবে না। অবিলম্বে আমার উম্মাতের মধ্যে ত্রিশজন মিথ্যাবাদীর আবির্ভাব ঘটবে, তাদের প্রত্যেকেই নিজেকে নবী বলে দাবী করবে। অথচ আমিই সর্বশেষ নবী এবং আমার পরে আর কোনো নবী আসবে না। তবে আমার উম্মাতের একটি দল সর্বদা সত্যের উপর অটল থাকবে। যারা তাদের বিরোধিতা করবে, তারা তাদের কোনো ক্ষতি করতে পারবে না, এমন কি এ অবস্থায় আল্লাহর নির্দেশ (কিয়ামত) এসে যাবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাওবান (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলূল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, নিশ্চয়ই আল্লাহ (অথবা) আমার রব পৃথিবীকে আমার জন্য সংকুচিত করে দিয়েছেন এবং আমাকে এর পূর্ব ও পশ্চিম সীমানা দেখানো হয়েছে। আর যুতটুকু আমার জন্য সংকুচিত করা হয়েছে, ততটুকুতে অচিরেই আমার উম্মাতের রাজত্ব বিস্তার লাভ করবে। আমাকে লাল ও সাদা (স্বর্ণ ও রূপার) দু’টি ধনভান্ডার দেয়া হয়েছে। আর আমি আমার মহান প্রতিপালকের নিকট আমার উম্মাতের জন্য এই কথার আবেদন করছি যে, তিনি তাদের সবাইকে যেন দুর্ভিক্ষে ধ্বংস না করেন এবং তাদের নিজেদের ব্যতীত কোনো শত্রু যেন তাদের উপর কর্তৃত্ব করতে না পারে যারা তাদের ধ্বংস করে দিবে। নিশ্চয়ই আমার রব আমাকে বলেছেন, হে মুহাম্মাদ! আমি যা ফায়সালা করি, তা বাতিল হয় না। তবে আমি তাদের সবাইকে একসঙ্গে দুর্ভিক্ষে ধ্বংস করবো না এবং তাদের নিজেদের ছাড়া দিকবিদিক থেকে আগত তাদের সমূলে বিনাশকারী বিধর্মী শত্রুকে তাদের উপর কর্তৃত্ব করতে দিবো না, তবে তাদের কতক অপরদের ধ্বংস করবে এবং কতক অপরাধে বন্দী করবে। আর আমি আমার উম্মাতের পথভ্রষ্ট নেতাদের ব্যাপারে শঙ্কিত। আমার উম্মত যখন পরস্পর যুদ্ধে লিপ্ত হবে, তখন কিয়ামত সংঘটিত হওয়ার পূর্ব পর্যন্ত তারা বিরত হবে না। আর আমার উম্মাতের কিছু সংখ্যক মুশরিকদের সঙ্গে মিলিত না হওয়া পর্যন্ত এবং আমার উম্মাতের কতিপয় গোত্র মূর্তি পূজায় লিপ্ত না হওয়া পর্যন্ত কিয়ামত সংঘটিত হবে না। অবিলম্বে আমার উম্মাতের মধ্যে ত্রিশজন মিথ্যাবাদীর আবির্ভাব ঘটবে, তাদের প্রত্যেকেই নিজেকে নবী বলে দাবী করবে। অথচ আমিই সর্বশেষ নবী এবং আমার পরে আর কোনো নবী আসবে না। তবে আমার উম্মাতের একটি দল সর্বদা সত্যের উপর অটল থাকবে। যারা তাদের বিরোধিতা করবে, তারা তাদের কোনো ক্ষতি করতে পারবে না, এমন কি এ অবস্থায় আল্লাহর নির্দেশ (কিয়ামত) এসে যাবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Thawban:The Messenger of Allah (ﷺ) as saying: Allah, the Exalted, folded for me the earth, or he said (the narrator is doubtful): My Lord folded for me the earth, so much so that I saw its easts and wests (i.e. the extremities). The kingdom of my community will reach as far as the earth was floded for me. The two treasures, the red and the white, were bestowed on me. I prayed to my Lord that He may not destroy my community by prevailing famine, and not give their control to an enemy who annihilates then en masse except from among themselves. My Lord said to me: Muhammad, If I make a decision, it is not withdrawn ; and I shall not destroy them by prevailing famine, and I shall not give their control to an enemy, except from among themselves, who exterminates them en masse, even if they are stormed from all sides of the earth ; only a section of them will destroy another section, and a section will captive another section. I am afraid about my community of those leaders who will lead astray. When the sword is used among my people, it will not be withdrawn from them till the Day of Resurrection, and the Last Hour will not come before the tribes of my people attach themselves to the polytheists and tribes of my people worship idols. There will be among my people thirty great liars each of them asserting that he is (Allah's) prophet, where as I am the seal of the Prophet s after whom (me) there will be no prophet ; and a section of my people will continue to hold to the truth - (according to the Ibn Isa's version: (will continue to dominate) - the agreed version goes: "and will not be injured by those who oppose them, till Allah's command comes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
+
+## French
+
+Rapporté par Thawban : Le Messager d’Allah ﷺ a dit : « Allah, le Très-Haut, a replié pour moi la terre – ou il a dit (le narrateur a un doute) : Mon Seigneur a replié pour moi la terre – au point que j’en ai vu l’Orient et l’Occident (c’est-à-dire les extrémités). Le royaume de ma communauté atteindra tout ce qui m’a été montré. Les deux trésors, le rouge et le blanc, m’ont été accordés. J’ai demandé à mon Seigneur qu’Il ne détruise pas ma communauté par une famine générale, et qu’Il ne la livre pas à un ennemi qui l’exterminerait complètement, sauf si cet ennemi vient d’eux-mêmes. Mon Seigneur m’a dit : “Ô Muhammad, si Je prends une décision, elle n’est pas annulée ; Je ne les détruirai pas par une famine générale, et Je ne les livrerai pas à un ennemi, sauf s’il vient d’eux-mêmes, qui les extermineraient complètement, même s’ils sont attaqués de toutes parts ; seule une partie d’eux détruira une autre partie, et une partie fera prisonnière une autre partie.” Je crains pour ma communauté à cause de leurs dirigeants qui les égareront. Quand l’épée sera utilisée parmi mon peuple, elle ne sera pas retirée jusqu’au Jour de la Résurrection. L’Heure ne viendra pas avant que des tribus de mon peuple ne s’attachent aux polythéistes et que des tribus de mon peuple n’adorent des idoles. Il y aura parmi mon peuple trente grands menteurs, chacun prétendant être prophète, alors que je suis le sceau des prophètes, après moi il n’y aura pas de prophète. Et une partie de ma communauté restera attachée à la vérité – (selon la version d’Ibn Isa : “restera dominante”) – la version commune dit : “et ne sera pas blessée par ceux qui s’opposent à eux, jusqu’à ce qu’Allah ordonne autrement.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Саубана, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах (или: мой Господь) показал мне землю, и увидел я восток её и запад. И, поистине, всё, что было показано мне из неё, будет принадлежать общине моей, и даровано мне было два сокровища красное и белое, и я попросил Господа моего не губить мою общину целиком посредством засухи и не давать власти над её членами врагу не из их числа, который истребил бы их поголовно, и, поистине, мой Господь сказал: “О Мухаммад, если Я принимаю решение, оно не отменяется. Поистине, Я не погублю их всех засухой и не дам власти над ними врагу не из их числа, который истребил бы их поголовно, даже если соберутся против них люди со всех концов (или: из всех пределов) земли, пока сами они не начнут истреблять друг друга и захватывать друг друга в плен. И, поистине, я боюсь для моей общины предводителей, вводящих в заблуждение (призывая к нововведениям, нечестию и грехам). И когда будет опущен меч (или оружие вообще) в мою общину, то уже не будет он поднят до самого Судного дня. И Час не наступит, пока племена из моей общины не присоединятся к многобожникам и пока не станут племена из моей общины поклоняться идолам. И, поистине, появятся в моей общине тридцать лжецов, каждый из которых будет утверждать, что он пророк, но я печать пророков, и не будет пророков после меня. И не перестанет часть моей общины придерживаться истины (имея превосходство над противниками), и не повредит им тот, кто станет противоречить им, пока не придёт предопределённое Всевышним Аллахом”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
 
 ## Turkish
 
+Sevban (r.a)'den rivayet edildi ki; Rasûlullah (s.a.v.) şöyle buyurdu: "Allah (c.c) benim için yer yüzünü dürüp topladı -Yahut "Rabbim benim için yeryüzünü dürüp topladı." dedi. \[şek râvînindir\] doğusunu ve batısını gördüm. Şüphesiz benim ümmetimin hükümranlığı, dünya'dan benim için dürülüp toparlanan yere ulaşacak. Ayrıca bana kırmızı (altın) ve beyaz (gümüş) olan iki hazine verdi. Ben, Rabbim'den ümmetim için, onları genel bir kıtlıkla helak etmemesini, onlara kendilerinden başka bir düşman musallat edip de köklerini kazımamasını istedim. Rabbim, bana şöyle dedi: "Yâ Muhammed, (s.a.v.) Şüpesiz ben bir şeyi takdir ettiğim zaman, artık o geri çevrilmez. Ben, onları genel bir kıtlıkla helak etmeyeceğim. Onlar aleyhine dünyanın dört bucağından toplansalar bile, köklerini kazısın diye, başlarına kendilerinden başka bir düşmanı musallat etmem. Ta ki, birbirlerini helak etsinler ve birbirlerini esir etsinler." Ben Ümmetim için ancak sapıtıcı (yoldan çıkartıp bid'atları emreden) liderlerden korkarım. Benim ümmetimin arasına kılıç girdi mi (iç kavgalar çıkınca), artık kıyamet gününe kadar bir daha çıkmaz. Ümmetimden bazı kabileler, müşriklere iltihak etmedikçe ve yine ümmetimden bazı kabileler putlara tapmadıkça kıyamet kopmaz. Şüpesiz, ümmetim içerisinden otuz tane yalancı çıkacak. Onların her biri kendisini Nebi sanacak. Halbuki, ben, Nebilerin sonuncusuyum. Benden sonra Nebi yoktur. Benim ümmetimden bir grup da Allah'ın emri gelinceye kadar hak üzerine -İbn İsa, "Üstün olarak" dedi. - devam edecek. -Sonra, iki râvî ittifak ettiler - Onlara muhalefet edenler kendilerine zarar vermeyecektir
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Sevban (r.a)'den rivayet edildi ki; Rasûlullah (s.a.v.) şöyle buyurdu: "Allah (c.c) benim için yer yüzünü dürüp topladı -Yahut "Rabbim benim için yeryüzünü dürüp topladı." dedi. [şek râvînindir] doğusunu ve batısını gördüm. Şüphesiz benim ümmetimin hükümranlığı, dünya'dan benim için dürülüp toparlanan yere ulaşacak. Ayrıca bana kırmızı (altın) ve beyaz (gümüş) olan iki hazine verdi. Ben, Rabbim'den ümmetim için, onları genel bir kıtlıkla helak etmemesini, onlara kendilerinden başka bir düşman musallat edip de köklerini kazımamasını istedim. Rabbim, bana şöyle dedi: "Yâ Muhammed, (s.a.v.) Şüpesiz ben bir şeyi takdir ettiğim zaman, artık o geri çevrilmez. Ben, onları genel bir kıtlıkla helak etmeyeceğim. Onlar aleyhine dünyanın dört bucağından toplansalar bile, köklerini kazısın diye, başlarına kendilerinden başka bir düşmanı musallat etmem. Ta ki, birbirlerini helak etsinler ve birbirlerini esir etsinler." Ben Ümmetim için ancak sapıtıcı (yoldan çıkartıp bid'atları emreden) liderlerden korkarım. Benim ümmetimin arasına kılıç girdi mi (iç kavgalar çıkınca), artık kıyamet gününe kadar bir daha çıkmaz. Ümmetimden bazı kabileler, müşriklere iltihak etmedikçe ve yine ümmetimden bazı kabileler putlara tapmadıkça kıyamet kopmaz. Şüpesiz, ümmetim içerisinden otuz tane yalancı çıkacak. Onların her biri kendisini Nebi sanacak. Halbuki, ben, Nebilerin sonuncusuyum. Benden sonra Nebi yoktur. Benim ümmetimden bir grup da Allah'ın emri gelinceye kadar hak üzerine -İbn İsa, "Üstün olarak" dedi. - devam edecek. -Sonra, iki râvî ittifak ettiler - Onlara muhalefet edenler kendilerine zarar vermeyecektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثوبان رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ نے میرے لیے زمین سمیٹ دی یا فرمایا: میرے لیے میرے رب نے زمین سمیٹ دی، تو میں نے مشرق و مغرب کی ساری جگہیں دیکھ لیں، یقیناً میری امت کی حکمرانی وہاں تک پہنچ کر رہے گی جہاں تک زمین میرے لیے سمیٹی گئی، مجھے سرخ و سفید دونوں خزانے دئیے گئے، میں نے اپنے رب سے سوال کیا کہ میری امت کو کسی عام قحط سے ہلاک نہ کرے، ان پر ان کے علاوہ باہر سے کوئی ایسا دشمن مسلط نہ کرے جو انہیں جڑ سے مٹا دے، اور ان کا نام باقی نہ رہنے پائے، تو میرے رب نے مجھ سے فرمایا: اے محمد! جب میں کوئی فیصلہ کر لیتا ہوں تو وہ بدلتا نہیں میں تیری امت کے لوگوں کو عام قحط سے ہلاک نہیں کروں گا، اور نہ ہی ان پر کوئی ایسا دشمن مسلط کروں گا جو ان میں سے نہ ہو، اور ان کو جڑ سے مٹا دے گو ساری زمین کے کافر مل کر ان پر حملہ کریں، البتہ ایسا ہو گا کہ تیری امت کے لوگ خود آپس میں ایک دوسرے کو ہلاک کریں گے، انہیں قید کریں گے، اور میں اپنی امت پر گمراہ کر دینے والے ائمہ سے ڈرتا ہوں، اور جب میری امت میں تلوار رکھ دی جائے گی تو پھر وہ اس سے قیامت تک نہیں اٹھائی جائے گی، اور قیامت اس وقت تک قائم نہ ہو گی جب تک کہ میری امت کے کچھ لوگ مشرکین سے مل نہ جائیں اور کچھ بتوں کو نہ پوجنے لگ جائیں، اور عنقریب میری امت میں تیس ( ۳۰ ) کذاب پیدا ہوں گے، ان میں ہر ایک گمان کرے گا کہ وہ نبی ہے، حالانکہ میں خاتم النبیین ہوں، میرے بعد کوئی نبی نہیں آئے گا، میری امت کا ایک گروہ ہمیشہ حق پر قائم رہے گا ( ابن عیسیٰ کی روایت میں ہے ) وہ غالب رہے گا، ان کا مخالف ان کو ضرر نہ پہنچا سکے گا یہاں تک کہ اللہ کا حکم آ جائے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2889)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4252</td></tr><tr><td>Arabic No</td><td>4252</td></tr><tr><td>Reference</td><td>Book 37 Hadith 13</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2889) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4252 |
+| Arabic No | 4252 |
+| Reference | Book 37 Hadith 13 |

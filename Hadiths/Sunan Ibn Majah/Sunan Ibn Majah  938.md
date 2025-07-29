@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ عَبْدِ الْوَهَّابِ، حَدَّثَنَا الضَّحَّاكُ بْنُ مَخْلَدٍ، عَنْ عَبَّادِ بْنِ مَنْصُورٍ، قَالَ سَمِعْتُ عَطَاءً، يُحَدِّثُ عَنِ ابْنِ عَبَّاسٍ، عَنِ النَّبِيِّ ـ صلى الله عليه وسلم ـ أَنَّهُ قَالَ فِي يَوْمِ جُمُعَةٍ مَطِيرَةٍ ‏ "‏ صَلُّوا فِي رِحَالِكُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |
+
 حدثنا عبد الرحمن بن عبد الوهاب، حدثنا الضحاك بن مخلد، عن عباد بن منصور، قال سمعت عطاء، يحدث عن ابن عباس، عن النبي صلى الله عليه وسلم انه قال في يوم جمعة مطيرة " صلوا في رحالكم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বৃষ্টিমুখর জুমুআহর দিনে বলেনঃ তোমরা তোমাদের নিজ নিজ আবাসে সালাত পড়ো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn ‘Abbas that the Prophet (ﷺ) said, on a Friday that was rainy:“Perform your prayer at your camps.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) a dit, un vendredi pluvieux : “Faites la prière dans vos campements.”
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Abdurrahman bin Abdul Wahhab\] berkata, telah menceritakan kepada kami \[Adl Dlahhak bin Makhlad\] dari \[Abbad bin Mashur\] berkata; aku mendengar \['Atho'\] menceritakan dari \[Ibnu Abbas\] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda di hari jum'at yang hujan: "Shalatlah di rumah-rumah kalian
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Abdurrahman bin Abdul Wahhab] berkata, telah menceritakan kepada kami [Adl Dlahhak bin Makhlad] dari [Abbad bin Mashur] berkata; aku mendengar ['Atho'] menceritakan dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, bahwa beliau bersabda di hari jum'at yang hujan: "Shalatlah di rumah-rumah kalian
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Abdullah) bin Abbas (r.a.)'dan rivayet edildiğine göre şöyle demiştir : Nebi (Sallallahu Aleyhi ve Sellem) yağışlı bir Cum'a günü buyurdu ki: «Olduğunuz yerlerde namaz kılınız.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جمعہ کے دن جب کہ بارش ہو رہی تھی فرمایا: اپنے اپنے ٹھکانوں میں نماز پڑھ لو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>938</td></tr><tr><td>Arabic No</td><td>938</td></tr><tr><td>Reference</td><td>Book 5 Hadith 136</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 938 |
+| Arabic No | 938 |
+| Reference | Book 5 Hadith 136 |

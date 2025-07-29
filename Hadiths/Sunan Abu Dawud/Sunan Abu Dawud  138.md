@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ سُفْيَانَ، حَدَّثَنِي زَيْدُ بْنُ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ أَلاَ أُخْبِرُكُمْ بِوُضُوءِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فَتَوَضَّأَ مَرَّةً مَرَّةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
+
 حدثنا مسدد، حدثنا يحيى، عن سفيان، حدثني زيد بن اسلم، عن عطاء بن يسار، عن ابن عباس، قال الا اخبركم بوضوء، رسول الله صلى الله عليه وسلم فتوضا مرة مرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি কি তোমাদেরকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু সম্পর্কে অবহিত করব না? অতঃপর তিনি অযুর (প্রত্যেক অঙ্গ) একবার করে ধুলেন।\[1\] সহীহ : বুখারী।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি কি তোমাদেরকে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর অযু সম্পর্কে অবহিত করব না? অতঃপর তিনি অযুর (প্রত্যেক অঙ্গ) একবার করে ধুলেন।[1] সহীহ : বুখারী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ata’ b. Yasar quoting Ibn. ‘Abbas said:May I not tell you how the Messenger of Allah (ﷺ) performed ablution? He then performed ablution washing each limb once only
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
+
+## French
+
+‘Ata’ b. Yasar, citant Ibn ‘Abbas رضي الله عنه, a dit : Voulez-vous que je vous dise comment le Messager d’Allah ﷺ faisait ses ablutions ? Il a alors fait les ablutions en lavant chaque membre une seule fois
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Sufyan\] telah menceritakan kepada saya \[Zaid bin Aslam\] dari \['Atha' bin Yasar\] dari \[Ibnu Abbas\] dia berkata; Maukah aku kabarkan kepada kalian tentang wudhu Rasulullah shallallahu 'alaihi wasallam? Lalu dia berwudhu satu kali satu kali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Sufyan] telah menceritakan kepada saya [Zaid bin Aslam] dari ['Atha' bin Yasar] dari [Ibnu Abbas] dia berkata; Maukah aku kabarkan kepada kalian tentang wudhu Rasulullah shallallahu 'alaihi wasallam? Lalu dia berwudhu satu kali satu kali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Аббас сказал: «Не сообщить ли мне вам об омовении Посланника Аллаха ﷺ?» И он совершил омовение (обмывая части тела) по одному разу
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ata b. Yesar'dan, demiştir ki; ibn Abbas (r.a.) "Ben size Rasulullah (sallallahu aleyhi ve sellem)'in abdest alışını göstereyim mi?" dedi ve (sonra abdest organlarını) birer birer (yıkayarak) abdest aldı. Diğer tahric: Buhari, vudu; Tirmizi, tahare; Nesai, tahare; Îbn Mace tahare; Darimîi salat; Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کیا میں تم کو رسول اللہ صلی اللہ علیہ وسلم کے وضو کے بارے میں نہ بتاؤں؟ پھر انہوں نے وضو کیا، اور اعضاء کو ایک ایک بار دھلا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (157)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>138</td></tr><tr><td>Arabic No</td><td>138</td></tr><tr><td>Reference</td><td>Book 1 Hadith 138</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (157) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 138 |
+| Arabic No | 138 |
+| Reference | Book 1 Hadith 138 |

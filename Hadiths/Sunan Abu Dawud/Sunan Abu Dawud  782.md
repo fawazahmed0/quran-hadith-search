@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسْلِمُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا هِشَامٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم وَأَبَا بَكْرٍ وَعُمَرَ وَعُثْمَانَ كَانُوا يَفْتَتِحُونَ الْقِرَاءَةَ بِـ ‏(‏ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ‏)‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
+
 حدثنا مسلم بن ابراهيم، حدثنا هشام، عن قتادة، عن انس، ان النبي صلى الله عليه وسلم وابا بكر وعمر وعثمان كانوا يفتتحون القراءة ب ( الحمد لله رب العالمين)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর (রাঃ), ‘উমার (রাঃ) ও ‘উসমান (রাঃ) ‘‘আলহামদু লিল্লাহি রব্বিল ‘আলামিন’’ হতে কিরাত আরম্ভ করতেন। \[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম, আবূ বাকর (রাঃ), ‘উমার (রাঃ) ও ‘উসমান (রাঃ) ‘‘আলহামদু লিল্লাহি রব্বিল ‘আলামিন’’ হতে কিরাত আরম্ভ করতেন। [1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Anas said:The Prophet(peace be upon hm), Abu Bakr, ‘Umar and ‘Uthman used to begin the recitation with “Praise be to Allah, the Lord of the Universe.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
+
+## French
+
+Rapporté par Anas رضي الله عنه : Le Prophète ﷺ, Abou Bakr, Omar et Othman commençaient la récitation par : « Louange à Allah, Seigneur de l’univers. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muslim bin Ibrahim\] telah menceritakan kepada kami \[Hisyam\] dari \[Qatadah\] dari \[Anas\] bahwa Nabi shallallahu 'alaihi wasallam, Abu Bakar, Umar dan Utsman, mereka semua memulai bacaannya dengan "ALHAMDULILLAHI RABBIL 'AALAMIN
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muslim bin Ibrahim] telah menceritakan kepada kami [Hisyam] dari [Qatadah] dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam, Abu Bakar, Umar dan Utsman, mereka semua memulai bacaannya dengan "ALHAMDULILLAHI RABBIL 'AALAMIN
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса (да будет доволен им Аллах): «Пророк ﷺ, а также Абу Бакр, ‘Умар и ‘Усман, да будет доволен ими Аллах, всегда начинали чтение (суры “аль-Фатиха” в молитве словами): “Хвала Аллаху, Господу миров!” /Аль-Хамдули-Лляхи раббиль-‘алямин/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a.)'den rivayet edildiğine göre, Nebi (Sallallahu aleyhi ve Sellem) Ebu Bekr, Ömer ve Osman (namazda) kıraata El-hamdulillahi rabbil alemin ile başlarlardı. Diğer tahric: Buharî, ezan; Tirmızî, Mevakît; îbn Ma'ce İkame, Müslim, salat; Darımî, salat; Ahmed b. Hanbel, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم، ابوبکر رضی اللہ عنہ، عمر رضی اللہ عنہ اور عثمان رضی اللہ عنہ «الحمد لله رب العالمين» سے قرآت شروع کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (743) Sahih Muslim (399)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>782</td></tr><tr><td>Arabic No</td><td>782</td></tr><tr><td>Reference</td><td>Book 2 Hadith 392</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (743) Sahih Muslim (399) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 782 |
+| Arabic No | 782 |
+| Reference | Book 2 Hadith 392 |

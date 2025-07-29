@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ بَشَّارٍ، حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ حَبِيبٍ الأَنْصَارِيِّ، قَالَ سَمِعْتُ عَبَّادَ بْنَ تَمِيمٍ، عَنْ جَدَّتِهِ، وَهِيَ أُمُّ عُمَارَةَ أَنَّ النَّبِيَّ صلى الله عليه وسلم تَوَضَّأَ فَأُتِيَ بِإِنَاءٍ فِيهِ مَاءٌ قَدْرُ ثُلُثَىِ الْمُدِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
+
 حدثنا محمد بن بشار، حدثنا محمد بن جعفر، حدثنا شعبة، عن حبيب الانصاري، قال سمعت عباد بن تميم، عن جدته، وهي ام عمارة ان النبي صلى الله عليه وسلم توضا فاتي باناء فيه ماء قدر ثلثى المد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
 
 ## Bengali
 
+। উম্মু ‘উমারাহ (রাঃ) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করার ইচ্ছা করলে তাঁর জন্য একটি পাত্রে পানি আনা হয়। তিনি তা দিয়ে অযু করলেন। তাতে পানির পরিমাণ ছিল এক মুদের দুই-তৃতীয়াংশ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উম্মু ‘উমারাহ (রাঃ) সূত্রে বর্ণিত। একদা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অযু করার ইচ্ছা করলে তাঁর জন্য একটি পাত্রে পানি আনা হয়। তিনি তা দিয়ে অযু করলেন। তাতে পানির পরিমাণ ছিল এক মুদের দুই-তৃতীয়াংশ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umm Umarah: Habib al-Ansari reported: I heard Abbad ibn Tamim who reported on the authority of my grandmother, Umm Umarah, saying: The Prophet (ﷺ) wanted to perform ablution. A vessel containing 2/3 mudd of water was brought to him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
+
+## French
+
+Rapporté par Umm Umarah رضي الله عنها : Habib al-Ansari a rapporté : J’ai entendu Abbad ibn Tamim, qui rapportait de la part de ma grand-mère, Umm Umarah, dire : Le Prophète ﷺ voulait faire ses ablutions. On lui a apporté un récipient contenant les deux tiers d’un mudd d’eau
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Basysyar\] telah menceritakan kepada kami \[Muhammad bin Ja'far\] telah menceritakan kepada kami \[Syu'bah\] dari \[Habib Al Anshari\] dia berkata; Saya pernah mendengar \[Abbad bin Tamim\] dari \[Neneknya, yaitu Ummu Ammarah\] bahwasanya Nabi shallallahu 'alaihi wasallam berwudhu, beliau diberikan bejana yang berisi air sekitar dua pertiga mud
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Muhammad bin Ja'far] telah menceritakan kepada kami [Syu'bah] dari [Habib Al Anshari] dia berkata; Saya pernah mendengar [Abbad bin Tamim] dari [Neneknya, yaitu Ummu Ammarah] bahwasanya Nabi shallallahu 'alaihi wasallam berwudhu, beliau diberikan bejana yang berisi air sekitar dua pertiga mud
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Хабиб аль-Ансари сказал: «Я слышал как ‘Аббад ибн Тамим со слов своей бабушки, а это – Умм ‘Умара рассказывал: “Когда Пророк ﷺ (захотел) совершить омовение, ему принесли сосуд, в котором было две трети мудда воды”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ümmü Umare’den rivayet edilmiştir ki: "Resulullah (sallallahu aleyhi ve sellem) kendisine getirilen ve içinde bir müdd'ün üçte ikisi su bulunan bir kab'dan abdest almıştır." Diğer tahric: Nesai tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عباد بن تمیم کی دادی ام عمارہ (ام عمارہ بنت کعب) رضی اللہ عنہما سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے وضو کا ارادہ کیا تو آپ کے پاس پانی کا ایک برتن لایا گیا جس میں دو تہائی مد کے بقدر پانی تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>94</td></tr><tr><td>Arabic No</td><td>94</td></tr><tr><td>Reference</td><td>Book 1 Hadith 94</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 94 |
+| Arabic No | 94 |
+| Reference | Book 1 Hadith 94 |

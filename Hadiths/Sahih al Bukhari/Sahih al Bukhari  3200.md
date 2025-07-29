@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ الْمُخْتَارِ، حَدَّثَنَا عَبْدُ اللَّهِ الدَّانَاجُ، قَالَ حَدَّثَنِي أَبُو سَلَمَةَ بْنُ عَبْدِ الرَّحْمَنِ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ الشَّمْسُ وَالْقَمَرُ مُكَوَّرَانِ يَوْمَ الْقِيَامَةِ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسدد، حدثنا عبد العزيز بن المختار، حدثنا عبد الله الداناج، قال حدثني ابو سلمة بن عبد الرحمن، عن ابي هريرة رضى الله عنه عن النبي صلى الله عليه وسلم قال " الشمس والقمر مكوران يوم القيامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেন, কিয়ামতের দিন সূর্য ও চন্দ্র দু’টিকেই গুটিয়ে নেয়া হবে। (আধুনিক প্রকাশনীঃ ২৯৫৯, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Huraira:The Prophet (ﷺ) said, "The sun and the moon will be folded up (deprived of their light) on the Day of Resurrection
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
+
+## French
+
+Rapporté par Abu Huraira : Le Prophète (ﷺ) a dit : « Le soleil et la lune seront repliés (privés de leur lumière) le Jour de la Résurrection. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
 ## Indonesian
 
+Telah bercerita kepada kami \[Musaddad\] telah bercerita kepada kami \['Abdul 'Aziz Al Mukhtar\] telah bercerita kepada kami \['Abdullah Ad Danaj\] berkata telah bercerita kepadaku \[Abu Salamah bin 'Abdur Rahman\] dari \[Abu Hurairah radliallahu 'anhu\] dari Nabi shallallahu 'alaihi wasallam bersabda: "Matahari dan bulan akan digulung pada hari qiyamat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdul 'Aziz Al Mukhtar] telah bercerita kepada kami ['Abdullah Ad Danaj] berkata telah bercerita kepadaku [Abu Salamah bin 'Abdur Rahman] dari [Abu Hurairah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bersabda: "Matahari dan bulan akan digulung pada hari qiyamat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры, да будет доволен им Аллах, что Пророк ﷺ сказал: «В День воскрешения солнце и луна будут свёрнуты»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 நபி (ஸல்) அவர்கள்கூறினார்கள்: மறுமை நாளில் சூரியனும் சந்திரனும் சுருட்டப்பட்டு (ஒளியிழந்து)விடும். இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a.'den nakledildiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Güneş ve ay kıyamet gününde dürülüp katlanacaktır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسدد بن مسرہد نے بیان کیا، انہوں نے کہا ہم سے عبدالعزیز بن مختار نے بیان کیا، انہوں نے کہا ہم سے عبداللہ بن فیروز داناج نے بیان کیا، انہوں نے کہا کہ مجھ سے ابوسلمہ بن عبدالرحمٰن نے بیان کیا اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”قیامت کے دن سورج اور چاند دونوں تاریک ( بے نور ) ہو جائیں گے۔“
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3200</td></tr><tr><td>Arabic No</td><td>3200</td></tr><tr><td>Reference</td><td>Book 59 Hadith 11</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3200 |
+| Arabic No | 3200 |
+| Reference | Book 59 Hadith 11 |

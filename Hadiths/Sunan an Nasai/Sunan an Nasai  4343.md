@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا الْمُفَضَّلُ، - هُوَ ابْنُ فَضَالَةَ - عَنِ ابْنِ جُرَيْجٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ أَكَلْنَا يَوْمَ خَيْبَرَ لُحُومَ الْخَيْلِ وَالْوَحْشِ وَنَهَانَا النَّبِيُّ صلى الله عليه وسلم عَنِ الْحِمَارِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 42 Hadith 81</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |
+
 اخبرنا قتيبة، قال حدثنا المفضل، - هو ابن فضالة - عن ابن جريج، عن ابي الزبير، عن جابر، قال اكلنا يوم خيبر لحوم الخيل والوحش ونهانا النبي صلى الله عليه وسلم عن الحمار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 42 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা খায়বারের দিন ঘোড়া ও বন্য জন্তুর গোশত খেয়েছি। আর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদেরকে গাধার গোশত খেতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 42 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Jabir said:"On the Day of Khaibar we ate the flesh of horses, and onagers, but the Prophet forbade us (from eating) donkeys."(sahih)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 42 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |
+
+## French
+
+Rapporté par Jabir : « Le jour de Khaybar, nous avons mangé de la viande de cheval et d’onagre, mais le Prophète nous a interdit (de manger) les ânes. » (sahih)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\], ia berkata; telah menceritakan kepada kami \[Al Mufadhdhal yaitu Ibnu Fadhalah\] dari \[Ibnu Juraij\] dari \[Abu Az Zubair\] dari \[Jabir\], ia berkata; kami pada saat perang Khaibar makan daging kuda serta keledai liar, dan Nabi shallallahu 'alaihi wasallam melarang dari keledai
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah], ia berkata; telah menceritakan kepada kami [Al Mufadhdhal yaitu Ibnu Fadhalah] dari [Ibnu Juraij] dari [Abu Az Zubair] dari [Jabir], ia berkata; kami pada saat perang Khaibar makan daging kuda serta keledai liar, dan Nabi shallallahu 'alaihi wasallam melarang dari keledai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 42 Hadith 81</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 42 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4343</td></tr><tr><td>Arabic No</td><td>4343</td></tr><tr><td>Reference</td><td>Book 42 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4343 |
+| Arabic No | 4343 |
+| Reference | Book 42 Hadith 81 |

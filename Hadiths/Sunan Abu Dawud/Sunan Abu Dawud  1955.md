@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُؤَمَّلٌ، - يَعْنِي ابْنَ الْفَضْلِ - الْحَرَّانِيُّ - حَدَّثَنَا الْوَلِيدُ، حَدَّثَنَا ابْنُ جَابِرٍ، حَدَّثَنَا سُلَيْمُ بْنُ عَامِرٍ الْكَلاَعِيُّ، سَمِعْتُ أَبَا أُمَامَةَ، يَقُولُ سَمِعْتُ خُطْبَةَ، رَسُولِ اللَّهِ صلى الله عليه وسلم بِمِنًى يَوْمَ النَّحْرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
+
 حدثنا مومل، - يعني ابن الفضل - الحراني - حدثنا الوليد، حدثنا ابن جابر، حدثنا سليم بن عامر الكلاعي، سمعت ابا امامة، يقول سمعت خطبة، رسول الله صلى الله عليه وسلم بمنى يوم النحر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
 
 ## Bengali
 
+। আবূ উমামহ (রাযি.) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কুরবানীর দিন মিনায় খুৎবা দিতে শুনেছি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ উমামহ (রাযি.) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে কুরবানীর দিন মিনায় খুৎবা দিতে শুনেছি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Umamah:I heard the address of the Messenger of Allah (ﷺ) at Mina on the day of sacrifice
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
+
+## French
+
+Rapporté par Abu Umamah : J’ai entendu le discours du Messager d’Allah ﷺ à Mina le jour du sacrifice
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Muammal yaitu Ibnu Al Fadhl Al Harrani\], telah menceritakan kepada Kami \[Al Walid\], telah menceritakan kepada Kami \[Ibnu Jabir\], telah menceritakan kepada Kami \[Sulaim bin 'Amir Al Kala'i\]; saya mendengar \[Abu Umamah\] berkata; saya mendengar Khutbah Rasulullah shallallahu 'alaihi wasallam di Mina pada Hari Nahr
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Muammal yaitu Ibnu Al Fadhl Al Harrani], telah menceritakan kepada Kami [Al Walid], telah menceritakan kepada Kami [Ibnu Jabir], telah menceritakan kepada Kami [Sulaim bin 'Amir Al Kala'i]; saya mendengar [Abu Umamah] berkata; saya mendengar Khutbah Rasulullah shallallahu 'alaihi wasallam di Mina pada Hari Nahr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Умама, да будет доволен им Аллах, передаёт: «Я слышал проповедь Посланника Аллаха ﷺ в Мине в день жертвоприношения»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süleym b. Âmir el-Kilâ'î dedi ki: Ben Ebu Umâme'yi, "Resûlullah'ın kurban bayramı günü Miriâ'daki hutbesini dinledim" derken işittim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلیم بن عامر کلاعی کہتے ہیں کہ میں نے ابوامامہ رضی اللہ عنہ کو کہتے سنا کہ میں نے منیٰ میں یوم النحر کو رسول اللہ صلی اللہ علیہ وسلم کا خطبہ سنا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1955</td></tr><tr><td>Arabic No</td><td>1955</td></tr><tr><td>Reference</td><td>Book 11 Hadith 235</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1955 |
+| Arabic No | 1955 |
+| Reference | Book 11 Hadith 235 |

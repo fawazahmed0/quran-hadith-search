@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا زَيَادُ بْنُ يَحْيَى الْحَسَّانِيُّ، حَدَّثَنَا أَبُو بَحْرٍ، حَدَّثَنَا عَتَّابُ بْنُ عَبْدِ الْعَزِيزِ الْحِمَّانِيُّ، حَدَّثَتْنِي صَفِيَّةُ بِنْتُ عَطِيَّةَ، قَالَتْ دَخَلْتُ مَعَ نِسْوَةٍ مِنْ عَبْدِ الْقَيْسِ عَلَى عَائِشَةَ فَسَأَلْنَاهَا عَنِ التَّمْرِ وَالزَّبِيبِ فَقَالَتْ كُنْتُ آخُذُ قَبْضَةً مِنْ تَمْرٍ وَقَبْضَةً مِنْ زَبِيبٍ فَأُلْقِيهِ فِي إِنَاءٍ فَأَمْرُسُهُ ثُمَّ أَسْقِيهِ النَّبِيَّ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
+
 حدثنا زياد بن يحيى الحساني، حدثنا ابو بحر، حدثنا عتاب بن عبد العزيز الحماني، حدثتني صفية بنت عطية، قالت دخلت مع نسوة من عبد القيس على عايشة فسالناها عن التمر والزبيب فقالت كنت اخذ قبضة من تمر وقبضة من زبيب فالقيه في اناء فامرسه ثم اسقيه النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
 
 ## Bengali
 
+। সাফিয়্যাহ বিনুত আতিয়্যাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আব্দুল কায়িস গোত্রের মহিলাদের সঙ্গে আমি আয়িশাহ (রাঃ)-এর নিকট উপস্থিত হলাম। আমরা তাকে খেজুর ও আঙ্গুর মিশ্রিত শরবত সম্পর্কে প্রশ্ন করলে তিনি বলেন, আমি এক মুষ্টি খেজুর ও এক মুষ্টি আঙ্গুর একটি পাত্রে ঢালতাম। তা আঙ্গুল দিয়ে চেপে রস বের করতাম, অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পান করাতাম।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাফিয়্যাহ বিনুত আতিয়্যাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আব্দুল কায়িস গোত্রের মহিলাদের সঙ্গে আমি আয়িশাহ (রাঃ)-এর নিকট উপস্থিত হলাম। আমরা তাকে খেজুর ও আঙ্গুর মিশ্রিত শরবত সম্পর্কে প্রশ্ন করলে তিনি বলেন, আমি এক মুষ্টি খেজুর ও এক মুষ্টি আঙ্গুর একটি পাত্রে ঢালতাম। তা আঙ্গুল দিয়ে চেপে রস বের করতাম, অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পান করাতাম।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: Safiyyah, daughter of Atiyyah, said: I entered upon Aisha with some women of AbdulQays, and asked her about mixing dried dates and raisins (for drink). She replied: I used to take a handful of dried dates and a handful or raisins and put them in a vessel, and then crush them (and soak in water). Then I would give it to the Prophet (ﷺ) to drink
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
+
+## French
+
+Rapporté par Aïsha, la mère des croyants رضي الله عنها : Safiyyah, fille d’Atiyyah, a dit : « Je suis entrée chez Aïsha رضي الله عنها avec des femmes d’AbdulQays et je lui ai demandé au sujet du mélange de dattes sèches et de raisins secs (pour une boisson). Elle a répondu : “Je prenais une poignée de dattes sèches et une poignée de raisins secs, je les mettais dans un récipient, puis je les écrasais et les faisais tremper dans l’eau. Ensuite, je donnais cette boisson au Prophète ﷺ.” »
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ziyad bin Yahya Al Hassani\] telah menceritakan kepada kami \[Abu Bahr\] telah menceritakan kepada kami \['Attab bin Abdul Aziz Al Himmani\] telah menceritakan kepadaku \[Shafiyyah binti 'Athiyyah\] ia berkata, "Aku bersama beberapa orang wanita dari Abdul Qais menemui Aisyah dan bertanya kepadanya mengenai kurma dan anggur. Lalu \[Aisyah\] menjawab, "Aku pernah mengambil satu genggam kurma dan satu genggam anggur, lalu aku memasukkannya ke dalam bejana, aku lalu memerasnya untuk kemudian aku berikan kepada Nabi shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ziyad bin Yahya Al Hassani] telah menceritakan kepada kami [Abu Bahr] telah menceritakan kepada kami ['Attab bin Abdul Aziz Al Himmani] telah menceritakan kepadaku [Shafiyyah binti 'Athiyyah] ia berkata, "Aku bersama beberapa orang wanita dari Abdul Qais menemui Aisyah dan bertanya kepadanya mengenai kurma dan anggur. Lalu [Aisyah] menjawab, "Aku pernah mengambil satu genggam kurma dan satu genggam anggur, lalu aku memasukkannya ke dalam bejana, aku lalu memerasnya untuk kemudian aku berikan kepada Nabi shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Сафийи бинт ‘Атыйя: «Я зашла к ‘Аише вместе с другими женщинами из племени ‘абду-ль-Кайс, и мы спросили её о финиках и изюме. Она ответила: “Я брала горсть изюма и горсть фиников, бросала в сосуд, заливала водой и потирала плоды пальцами, а потом поила Пророка ﷺ”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Safiyye binti Atiyye dedi ki: Abdülkays (oğulların)ın kadınlarından bazıları) ile Hz. Âişe'nin yanına girmiştim. Ona, kuru hurma ile kuru üzümü (karıştırarak birlikte şıralarını çıkarmanın hükmünü) sorduk. Şöyle cevapladı: Ben bir tutam kuru hurmadan, bir tutam da kuru üzümden alıp onu (içinde su olan) bir kaba koyardım ve onu (parmaklarımla iyice) ezdikten sonra Nebi (s.a.v.)'e içirirdim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صفیہ بنت عطیہ کہتی ہیں میں عبدالقیس کی چند عورتوں کے ساتھ ام المؤمنین عائشہ رضی اللہ عنہا کے پاس گئی، اور ہم نے آپ سے کھجور اور کشمش ملا کر ( نبیذ تیار کرنے کے سلسلے میں ) پوچھا، آپ نے کہا: میں ایک مٹھی کھجور اور ایک مٹھی کشمش لیتی اور اسے ایک برتن میں ڈال دیتی، پھر اس کو ہاتھ سے مل دیتی پھر اسے نبی اکرم صلی اللہ علیہ وسلم کو پلاتی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3708</td></tr><tr><td>Arabic No</td><td>3708</td></tr><tr><td>Reference</td><td>Book 27 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3708 |
+| Arabic No | 3708 |
+| Reference | Book 27 Hadith 40 |

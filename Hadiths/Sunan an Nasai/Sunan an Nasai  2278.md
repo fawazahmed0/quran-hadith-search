@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي الْعَلاَءِ بْنِ الشِّخِّيرِ، عَنْ رَجُلٍ، نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 189</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |
+
 اخبرنا سويد بن نصر، قال انبانا عبد الله، عن خالد الحذاء، عن ابي العلاء بن الشخير، عن رجل، نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুওয়ায়দ ইবনু নাসর (রহঃ) ... আবূল আলা ইবনুল শিখখীর অপর এক ব্যক্তি থেকে অনুরূপ বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated from Abu Al-Ala bin Ash-Shikhkhir:A similar report was narrated from Abu Al-Ala bin Ash-Shikhkhir, from a man
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |
+
+## French
+
+Rapporté par Abu Al-Ala bin Ash-Shikhkhir : Un récit similaire a été rapporté de la part d'Abu Al-Ala bin Ash-Shikhkhir, transmis par un homme
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 189</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو العلاء بن شخیر بھی ایک شخص سے اسی جیسی حدیث روایت کرتے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2278</td></tr><tr><td>Arabic No</td><td>2278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 189</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2278 |
+| Arabic No | 2278 |
+| Reference | Book 22 Hadith 189 |

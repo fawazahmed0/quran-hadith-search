@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## French
 
+Rapporté par Omar ibn al-Khattab رضي الله عنه : « Il suffit qu’un homme rapporte tout ce qu’il entend pour qu’il soit considéré comme menteur. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 От Хафса ибн ‘Асыма передавшего от Абу Хурайры, сообщившего от Пророка ﷺ передают похожий (хадис)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ ابو بکر بن ابی شیبہ ‘ علی بن حفص نے شعبہ سے ، انہوں نے خبیب بن عبد الرحمٰن سے ، انہوں نے حفص بن عاصم سے ، انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے ، انہوں نے نبیﷺ سے اس کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>8</td></tr><tr><td>Reference</td><td>Book 0 Hadith 8</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 8 |
+| Reference | Book 0 Hadith 8 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا قُدَامَةُ بْنُ مُحَمَّدٍ، قَالَ أَنْبَأَنَا مَخْرَمَةُ، عَنْ أَبِيهِ، قَالَ سَمِعْتُ عُثْمَانَ بْنَ أَبِي الْوَلِيدِ، مَوْلَى الأَخْنَسِيِّينَ يَقُولُ سَمِعْتُ عُرْوَةَ بْنَ الزُّبَيْرِ، يَقُولُ كَانَتْ عَائِشَةُ تُحَدِّثُ عَنِ النَّبِيِّ صلى الله عليه وسلم يَقُولُ ‏ "‏ لاَ تُقْطَعُ الْيَدُ إِلاَّ فِي الْمِجَنِّ أَوْ ثَمَنِهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 46 Hadith 68</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |
+
 اخبرني هارون بن عبد الله، قال حدثنا قدامة بن محمد، قال انبانا مخرمة، عن ابيه، قال سمعت عثمان بن ابي الوليد، مولى الاخنسيين يقول سمعت عروة بن الزبير، يقول كانت عايشة تحدث عن النبي صلى الله عليه وسلم يقول " لا تقطع اليد الا في المجن او ثمنه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 46 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হারূন ইবন আবদুল্লাহ (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলতেনঃ ঢাল অথবা এর মূল্যের কমে হাত কাটা যাবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 46 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Makhramah narrated that his father said:"I heard 'Uthman bin Abi AL-Walid, the freed slave of the Akhnasiyin, say: 'I heard 'Urwah bin Az-Zubair say;'Aishah used to narrated that the Prophet said: "The hand (of the htief) should notbe cut off for anything but a shield or its equivalent in value
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 46 Hadith 68</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |
+
+## French
+
+Rapporté par Makhramah, d'après son père : J'ai entendu 'Uthman bin Abi Al-Walid, l'affranchi des Akhnasiyin, dire : J'ai entendu 'Urwah bin Az-Zubair dire : 'Aishah racontait que le Prophète ﷺ a dit : "La main du voleur ne doit être coupée que pour un bouclier ou sa valeur équivalente
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Abu Bakar bin Ishaq\], dia berkata; telah menceritakan kepadaku \[Qudamah bin Muhammad\], dia berkata; telah mengkhabarkan kepadaku \[Makhramah bin Bukair\] dari \[ayahnya\], dia berkata; saya mendengar \[Utsman bin Abu Al Walid\] berkata; saya mendengar \['Urwah bin Az Zubair\] berkata; \[Aisyah\] menceritakan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: "Tidak dipotong tangan kecuali mencuri tameng atau yang seharga dengannya." Utsman mengira bahwa Urwah berkata; "Harga tameng adalah empat dirham
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Abu Bakar bin Ishaq], dia berkata; telah menceritakan kepadaku [Qudamah bin Muhammad], dia berkata; telah mengkhabarkan kepadaku [Makhramah bin Bukair] dari [ayahnya], dia berkata; saya mendengar [Utsman bin Abu Al Walid] berkata; saya mendengar ['Urwah bin Az Zubair] berkata; [Aisyah] menceritakan dari Nabi shallallahu 'alaihi wasallam bahwa beliau bersabda: "Tidak dipotong tangan kecuali mencuri tameng atau yang seharga dengannya." Utsman mengira bahwa Urwah berkata; "Harga tameng adalah empat dirham
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 46 Hadith 68</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 46 Hadith 68</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4937</td></tr><tr><td>Arabic No</td><td>4937</td></tr><tr><td>Reference</td><td>Book 46 Hadith 68</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4937 |
+| Arabic No | 4937 |
+| Reference | Book 46 Hadith 68 |

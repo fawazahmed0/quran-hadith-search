@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو سَلَمَةَ، مُوسَى حَدَّثَنَا حَمَّادٌ، عَنْ عَبْدِ اللَّهِ بْنِ عُثْمَانَ بْنِ خُثَيْمٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم وَأَصْحَابَهُ اعْتَمَرُوا مِنَ الْجِعْرَانَةِ فَرَمَلُوا بِالْبَيْتِ وَجَعَلُوا أَرْدِيَتَهُمْ تَحْتَ آبَاطِهِمْ قَدْ قَذَفُوهَا عَلَى عَوَاتِقِهِمُ الْيُسْرَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
+
 حدثنا ابو سلمة، موسى حدثنا حماد، عن عبد الله بن عثمان بن خثيم، عن سعيد بن جبير، عن ابن عباس، ان رسول الله صلى الله عليه وسلم واصحابه اعتمروا من الجعرانة فرملوا بالبيت وجعلوا ارديتهم تحت اباطهم قد قذفوها على عواتقهم اليسرى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীগণ আল-জিই‘ররানা নামক স্থান থেকে ‘উমরার ইহরাম বাঁধেন এবং তাঁরা বায়তুল্লাহ তাওয়াফের সময় রমল করেন (দ্রুত পদে হাটেন)। এসময় তাঁরা নিজেদের চাদর বগলের নীচে নিয়ে বাম কাঁধের উপর রেখে দেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এবং তাঁর সাহাবীগণ আল-জিই‘ররানা নামক স্থান থেকে ‘উমরার ইহরাম বাঁধেন এবং তাঁরা বায়তুল্লাহ তাওয়াফের সময় রমল করেন (দ্রুত পদে হাটেন)। এসময় তাঁরা নিজেদের চাদর বগলের নীচে নিয়ে বাম কাঁধের উপর রেখে দেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) and his Companions performed umrah from al-Ji'ranah. They went quickly round the House (the Ka'bah) moving their shoulders) proudly. They put their upper garments under their armpits and threw the ends over their left shoulders
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Messager d’Allah ﷺ et ses Compagnons ont accompli la ‘umrah depuis al-Ji’ranah. Ils ont fait le tawaf de la Ka’bah rapidement, en bougeant les épaules avec fierté. Ils avaient passé leur vêtement supérieur sous leurs aisselles et jeté l’extrémité sur leur épaule gauche
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abu Salamah Musa\], telah menceritakan kepada Kami \[Hammad\] dari \[Abdullah bin Utsman bin Khutsaim\] dari \[Sa'id bin Jubair\] dari \[Ibnu Abbas\] bahwa Rasulullah shallAllahu wa'alaihi wa sallam dan para sahabatnya melakukan umrah dari Al Ji'ranah, dan mereka berlari-lari kecil di Ka'bah dan meletakkan selendang mereka di bawah ketiak mereka, dan melemparkan di atas pundak kiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abu Salamah Musa], telah menceritakan kepada Kami [Hammad] dari [Abdullah bin Utsman bin Khutsaim] dari [Sa'id bin Jubair] dari [Ibnu Abbas] bahwa Rasulullah shallAllahu wa'alaihi wa sallam dan para sahabatnya melakukan umrah dari Al Ji'ranah, dan mereka berlari-lari kecil di Ka'bah dan meletakkan selendang mereka di bawah ketiak mereka, dan melemparkan di atas pundak kiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ и его сподвижники совершали ‘умру из Джи‘раны и обходили Каабу почти бегом и при этом они пропустили свои накидки /ридаъ/ под мышками и забросили их концы на левое плечо
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs (r.a.)'dan rivayet olunduğuna göre, Resûlullah (S.A.V.) ve sahabîleri Cî'râne'den (ihram'a girerek) ve Beyt'i (tavaf esnasında) koltuk altlarından geçirdikleri peştemallerini sol omuzları üzerine atmış oldukları halde adımlarını kısaltarak ve omuz silkeleyerek umre yapmışlardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم اور آپ کے صحابہ نے جعرانہ سے عمرہ کا احرام باندھا تو بیت اللہ کے طواف میں رمل ۱؎ کیا اور اپنی چادروں کو اپنی بغلوں کے نیچے سے نکال کر اپنے بائیں کندھوں پر ڈالا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1884</td></tr><tr><td>Arabic No</td><td>1884</td></tr><tr><td>Reference</td><td>Book 11 Hadith 164</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1884 |
+| Arabic No | 1884 |
+| Reference | Book 11 Hadith 164 |

@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ سَعِيدِ بْنِ مَسْرُوقٍ، عَنْ عَبْدِ الرَّحْمَنِ، بْنِ أَبِي نُعْمٍ عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ بَعَثَ عَلِيٌّ - رضى الله عنه - وَهُوَ بِالْيَمَنِ بِذَهَبَةٍ فِي تُرْبَتِهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَسَمَهَا رَسُولُ اللَّهِ صلى الله عليه وسلم بَيْنَ أَرْبَعَةِ نَفَرٍ الأَقْرَعُ بْنُ حَابِسٍ الْحَنْظَلِيُّ وَعُيَيْنَةُ بْنُ بَدْرٍ الْفَزَارِيُّ وَعَلْقَمَةُ بْنُ عُلاَثَةَ الْعَامِرِيُّ ثُمَّ أَحَدُ بَنِي كِلاَبٍ وَزَيْدُ الْخَيْرِ الطَّائِيُّ ثُمَّ أَحَدُ بَنِي نَبْهَانَ - قَالَ - فَغَضِبَتْ قُرَيْشٌ فَقَالُوا أَتُعْطِي صَنَادِيدَ نَجْدٍ وَتَدَعُنَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنِّي إِنَّمَا فَعَلْتُ ذَلِكَ لأَتَأَلَّفَهُمْ ‏"‏ فَجَاءَ رَجُلٌ كَثُّ اللِّحْيَةِ مُشْرِفُ الْوَجْنَتَيْنِ غَائِرُ الْعَيْنَيْنِ نَاتِئُ الْجَبِينِ مَحْلُوقُ الرَّأْسِ فَقَالَ اتَّقِ اللَّهَ يَا مُحَمَّدُ ‏.‏ - قَالَ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ فَمَنْ يُطِعِ اللَّهَ إِنْ عَصَيْتُهُ أَيَأْمَنُنِي عَلَى أَهْلِ الأَرْضِ وَلاَ تَأْمَنُونِي ‏"‏ قَالَ ثُمَّ أَدْبَرَ الرَّجُلُ فَاسْتَأْذَنَ رَجُلٌ مِنَ الْقَوْمِ فِي قَتْلِهِ - يُرَوْنَ أَنَّهُ خَالِدُ بْنُ الْوَلِيدِ - فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنَّ مِنْ ضِئْضِئِ هَذَا قَوْمًا يَقْرَءُونَ الْقُرْآنَ لاَ يُجَاوِزُ حَنَاجِرَهُمْ يَقْتُلُونَ أَهْلَ الإِسْلاَمِ وَيَدَعُونَ أَهْلَ الأَوْثَانِ يَمْرُقُونَ مِنَ الإِسْلاَمِ كَمَا يَمْرُقُ السَّهْمُ مِنَ الرَّمِيَّةِ لَئِنْ أَدْرَكْتُهُمْ لأَقْتُلَنَّهُمْ قَتْلَ عَادٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا هناد بن السري، حدثنا ابو الاحوص، عن سعيد بن مسروق، عن عبد الرحمن، بن ابي نعم عن ابي سعيد الخدري، قال بعث علي - رضى الله عنه - وهو باليمن بذهبة في تربتها الى رسول الله صلى الله عليه وسلم فقسمها رسول الله صلى الله عليه وسلم بين اربعة نفر الاقرع بن حابس الحنظلي وعيينة بن بدر الفزاري وعلقمة بن علاثة العامري ثم احد بني كلاب وزيد الخير الطايي ثم احد بني نبهان - قال - فغضبت قريش فقالوا اتعطي صناديد نجد وتدعنا فقال رسول الله صلى الله عليه وسلم " اني انما فعلت ذلك لاتالفهم " فجاء رجل كث اللحية مشرف الوجنتين غاير العينين ناتي الجبين محلوق الراس فقال اتق الله يا محمد . - قال - فقال رسول الله صلى الله عليه وسلم " فمن يطع الله ان عصيته ايامنني على اهل الارض ولا تامنوني " قال ثم ادبر الرجل فاستاذن رجل من القوم في قتله - يرون انه خالد بن الوليد - فقال رسول الله صلى الله عليه وسلم " ان من ضيضي هذا قوما يقرءون القران لا يجاوز حناجرهم يقتلون اهل الاسلام ويدعون اهل الاوثان يمرقون من الاسلام كما يمرق السهم من الرمية لين ادركتهم لاقتلنهم قتل عاد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হান্নাদ ইবনু আস্ সারী (রহঃ) ..... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, একবার আলী (রাযিঃ) ইয়ামান থেকে কিছু অপরিশোধিত স্বর্ণ রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কাছে পাঠালেন। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা চার ব্যক্তি যথা- (১) আকরা ইবনু হাবিস আল হানযালী, (২) উয়াইনাহ্ ইবনু বাদর আল ফাযারী, (৩) আলকামাহ্ ইবনু উলাসাহ্ আল আমির ও (৪) বানী কিলাব গোত্রীয় এক ব্যক্তির মধ্যে বণ্টন করলেন এবং এরপর তায়ী গোত্রীয় যায়দ আল খায়র ও বানী নাহান গোত্রের এক ব্যক্তিকে এ থেকে দান করলেন। এতে কুরায়শ গোত্রের লোকেরা ক্ষেপে গিয়ে বললেন, "আপনি কেবল নাজদের নেতৃস্থানীয় লোকদের দান করছেন আর আমাদের বাদ দিচ্ছেন, এটা কেমন ব্যাপার?” এ কথা শুনে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমি তাদের শুধু চিত্তাকর্ষণ অর্থাৎ তাদের অন্তরে ইসলামের প্রতি ভালবাসা ও অনুরাগ সৃষ্টির জন্য দিচ্ছি। এমন সময় ঘন দাড়ি, স্ফীত গাল, গর্তে ঢোকা চোখ, উঁচু ললাট ও নেড়া মাথা বিশিষ্ট এক ব্যক্তি এসে বললঃ হে মুহাম্মাদ! আল্লাহকে ভয় কর। তখন রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ আমিই যদি আল্লাহর অবাধ্য হই, তাহলে কে তার অনুগত হবে? আল্লাহ আমাকে দুনিয়াবাসীদের জন্য আমানাতদার হিসেবে পাঠিয়েছেন আর তুমি আমাকে আমানাতদার মনে করছো না। এরপর লোকটি ফিরে চলে গেল। উপস্থিত লোকদের মধ্যে এক ব্যক্তি তাকে হত্যা করার অনুমতি চাইল। লোকদের ধারণা, হত্যার অনুমতি প্রার্থী ছিলেন খালিদ ইবনু ওয়ালীদ। অতঃপর রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ এর মূলে এমন একটি সম্প্রদায় রয়েছে যারা কুরআন পাঠ করে অথচ তাদের এ পাঠ কণ্ঠনালী অতিক্রম করে না (অর্থাৎ হৃদয়ে আবেদন সৃষ্টি করে না)। এরা ইসলামের অনুসারীদের হত্যা করে এবং মূর্তিপূজারীদের ছেড়ে দেয়। তীর যেভাবে শিকার ভেদ করে বেরিয়ে যায় তারাও অনুরূপভাবে ইসলাম থেকে বেরিয়ে যায়। যদি আমি তাদেরকে পেতাম তাহলে তাদেরকে এমনভাবে হত্যা করতাম যেভাবে আদ সম্প্রদায়ের লোকদেরকে হত্যা করা হয়েছে (অর্থাৎ সমূলে নিপাত করতাম)। (ইসলামিক ফাউন্ডেশন ২৩১৯, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Said Khudri reported that 'Ali (Allah be pleased with him) sent some gold alloyed with dust to the Messenger of Allah (ﷺ), and the Messenger of Allah (ﷺ) distributed that among four men, al-Aqra b. Habis Hanzali and Uyaina b. Badr al-Fazari and 'Alqama b. 'Ulatha al-'Amiri, then to one person of the tribe of Kilab and to Zaid al-Khair al-Ta'l, and then to one person of the tribe of Nabhan. Upon this the people of Quraish felt angry and said:He (the Holy Prophet) gave to the chiefs of Najd and ignored us. Upon this the Messenger of Allah (ﷺ) said: I have done it with a view to conciliating between them. Then there came a person with thick beard, prominent cheeks, deep sunken eyes and protruding forehead and shaven head. He said: Muhammad, fear Allah. Upon this the Messenger of Allah (ﷺ) said: "If I disobey Allah, who would then obey Him? Have I not been (sent as the) most trustworthy among the people of the world? But you do not repose trust in me." That person then went back. A person among the people then sought permission (from the Holy Prophet) for his murder. According to some, it was Khalid b. Walid who sought the permission. Upon this the Messenger of Allah (ﷺ), said: From this very person's posterity there would arise people who would recite the Qur'an, but it would not go beyond their throat; they would kill the followers of Islam and would spare the idol-worshippers. They would glance through the teachings of Islam so hurriedly just as the arrow passes through the pray. If I were to ever find them I would kill them like 'Ad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## French
 
+Rapporté par Abu Saïd al-Khudri رضي الله عنه : ‘Ali رضي الله عنه a envoyé au Messager d’Allah ﷺ de l’or mêlé de poussière, et le Prophète ﷺ l’a distribué à quatre hommes : al-Aqra’ ibn Habis al-Hanzali, ‘Uyayna ibn Badr al-Fazari, ‘Alqama ibn ‘Ulatha al-‘Amiri, puis à un homme de la tribu de Kilab, à Zayd al-Khair al-Ta’i, et à un homme de la tribu de Nabhan. Les gens de Quraysh se sont alors fâchés et ont dit : « Il a donné aux chefs du Najd et nous a ignorés. » Le Messager d’Allah ﷺ a répondu : « Je l’ai fait pour apaiser leurs cœurs. » Un homme à la barbe fournie, aux joues saillantes, aux yeux enfoncés, au front proéminent et à la tête rasée s’est alors avancé et a dit : « Muhammad, crains Allah. » Le Prophète ﷺ a dit : « Si je désobéis à Allah, qui Lui obéira ? Ne suis-je pas le plus digne de confiance parmi les gens de la terre ? Pourtant, vous ne me faites pas confiance. » Cet homme est reparti. Quelqu’un a alors demandé la permission de le tuer, et selon certains, c’était Khalid ibn al-Walid. Le Prophète ﷺ a dit : « De la descendance de cet homme sortiront des gens qui réciteront le Coran, mais il ne dépassera pas leur gorge ; ils tueront les musulmans et laisseront les idolâtres. Ils passeront à côté des enseignements de l’islam aussi vite qu’une flèche traverse sa cible. Si je les trouve, je les tuerai comme le peuple de ‘Ad. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-D'après Abou Sa'îd Al-Khoudri (que Dieu l'agrée), 'Ali (que Dieu l'agrée), étant au Yémen, envoya de l'or brut à l'Envoyé de Dieu (paix et bénédiction de Dieu sur lui) qui le partagea entre quatre hommes : Al-'Aqra' Ibn Hâbis Al-Hanzalî, 'Uyayna Ibn Badr Al-Fazârî, 'Alqama Ibn 'Ulâtha Al-'Amirî. Puis, il en donna à l'un des Banû Kilâb, à Zayd Al-Khayr At-Tâ'î et à l'un des Banû Nabhân. Les Qoraychites en furent très irrités et lui dirent : "Comment donnes-tu aux chefs de Nedjd et tu nous prives?". Le Prophète (paix et bénédiction de Dieu sur lui) répliqua : "Je ne fais cela que dans le but de gagner leurs cœurs à l'Islam". Alors un homme ayant la barbe touffue, les pommettes saillantes, les yeux creux, le front accusé et la tête rasée, vint lui dire : "Ô Muhammad! Crains Dieu!". L'Envoyé de Dieu (paix et bénédiction de Dieu sur lui) lui répondit : "Qui donc obéirait à Dieu si moi je Lui désobéissais? Dieu m'a confié tous les gens de la terre, et vous n'avez pas confiance en moi?". Quand l'homme s'en alla, l'un des fidèles (on raconte qu'il s'agit de Khâlid Ibn Al-Walîd) demanda l'autorisation de le tuer. L'Envoyé de Dieu (paix et bénédiction de Dieu sur lui) dit : "De la descendance de cet homme, naîtront des gens qui réciteront le Coran sans qu'il ne dépasse leur gosier, qui tueront les musulmans, qui laisseront en vie les idolâtres et qui abandonneront précipitamment l'Islam comme une flèche qui perce un gibier et sort de l'autre côté. Si je vis encore à cette époque, je les mettrai à mort comme les 'Ad. Incitation à tuer les "Kharijites
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hannad bin As Sari\] telah menceritakan kepada kami \[Abul Ahwash\] dari \[Sa'id bin Masruq\] dari \[Abdurrahman bin Abu Nu'm\] dari \[Abu Sa'id Al Khudri\] ia berkata; Ketika Ali bin Abi Thalib berada di Yaman, dia pernah mengirimkan emas yang masih kotor kepada Rasulullah shallallahu 'alaihi wasallam. Lalu emas itu dibagi-bagikan oleh Rasulullah shallallahu 'alaihi wasallam kepada empat kelompok. Yaitu kepada Aqra' bin Habis Al Hanzhali, Uyainah bin Badar Al Fazari, Alqamah bin Ulatsah Al Amiri, termasuk Bani Kilab dan Zaid Al Khair Ath Thay dan salah satu Bani Nabhan. Abu Sa'id berkata; Orang-orang Quraisy marah dengan adanya pembagian itu. kata mereka, "Kenapa pemimpin-pemimpin Najed yang diberi pembagian oleh Rasulullah, dan kita tidak dibaginya?" maka Rasulullah shallallahu 'alaihi wasallam pun menjawab: "Sesungguhnya aku lakukan yang demikian itu, untuk membujuk hati mereka." Sementara itu, datanglah laki-laki berjenggot tebal, pelipis menonjol, mata cekung, dahi menjorok dan kepalanya digundul. Ia berkata, "Wahai Muhammad! Takutlah Anda kepada Allah!" Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa pulakah lagi yang akan mentaati Allah, jika aku sendiri telah mendurhakai-Nya? Allah memberikan ketenangan bagiku atas semua penduduk bumi, maka apakah kamu tidak mau memberikan ketenangan bagiku?" Abu Sa'id berkata; Setelah orang itu berlaku, maka seorang sahabat (Khalid bin Al Walid) meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk membunuh orang itu. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Dari kelompok orang ini, akan muncul nanti orang-orang yang pandai membaca Al Qur'an tetapi tidak sampai melewati kerongkongan mereka, bahkan mereka membunuh orang-orang Islam, dan membiarkan para penyembah berhala; mereka keluar dari Islam seperti panah yang meluncur dari busurnya. Seandainya aku masih mendapati mereka, akan kumusnahkan mereka seperti musnahnya kaum 'Ad
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hannad bin As Sari] telah menceritakan kepada kami [Abul Ahwash] dari [Sa'id bin Masruq] dari [Abdurrahman bin Abu Nu'm] dari [Abu Sa'id Al Khudri] ia berkata; Ketika Ali bin Abi Thalib berada di Yaman, dia pernah mengirimkan emas yang masih kotor kepada Rasulullah shallallahu 'alaihi wasallam. Lalu emas itu dibagi-bagikan oleh Rasulullah shallallahu 'alaihi wasallam kepada empat kelompok. Yaitu kepada Aqra' bin Habis Al Hanzhali, Uyainah bin Badar Al Fazari, Alqamah bin Ulatsah Al Amiri, termasuk Bani Kilab dan Zaid Al Khair Ath Thay dan salah satu Bani Nabhan. Abu Sa'id berkata; Orang-orang Quraisy marah dengan adanya pembagian itu. kata mereka, "Kenapa pemimpin-pemimpin Najed yang diberi pembagian oleh Rasulullah, dan kita tidak dibaginya?" maka Rasulullah shallallahu 'alaihi wasallam pun menjawab: "Sesungguhnya aku lakukan yang demikian itu, untuk membujuk hati mereka." Sementara itu, datanglah laki-laki berjenggot tebal, pelipis menonjol, mata cekung, dahi menjorok dan kepalanya digundul. Ia berkata, "Wahai Muhammad! Takutlah Anda kepada Allah!" Rasulullah shallallahu 'alaihi wasallam bersabda: "Siapa pulakah lagi yang akan mentaati Allah, jika aku sendiri telah mendurhakai-Nya? Allah memberikan ketenangan bagiku atas semua penduduk bumi, maka apakah kamu tidak mau memberikan ketenangan bagiku?" Abu Sa'id berkata; Setelah orang itu berlaku, maka seorang sahabat (Khalid bin Al Walid) meminta izin kepada Rasulullah shallallahu 'alaihi wasallam untuk membunuh orang itu. Maka Rasulullah shallallahu 'alaihi wasallam pun bersabda: "Dari kelompok orang ini, akan muncul nanti orang-orang yang pandai membaca Al Qur'an tetapi tidak sampai melewati kerongkongan mereka, bahkan mereka membunuh orang-orang Islam, dan membiarkan para penyembah berhala; mereka keluar dari Islam seperti panah yang meluncur dari busurnya. Seandainya aku masih mendapati mereka, akan kumusnahkan mereka seperti musnahnya kaum 'Ad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Са‘ид аль-Худри сказал: «Однажды ‘Али, да будет доволен им Аллах, отправил Посланнику Аллаха ﷺ из Йемена неочищенный от породы золотой самородок, и он разделил его на четверых. Это аль-Акра‘ ибн Хабис аль-Ханзали, ‘Уейна ибн Бадр аль-Фазари, ‘Алькама ибн ‘Уляса аль-Амири из бану киляб и Зейд ат-Таи из бану набхан. (Узнав об этом,) курайшиты и возмутились: “Неужели ты даёшь предводителям жителей Неджда, а нас оставляешь (ни с чем)?” Посланник Аллаха ﷺ сказал: “Я поступил так лишь для того, чтобы склонить их (сердца к исламу)”. Тут пришёл человек с густой бородой, выступающими скулами, впалыми глазами, выпуклым лбом и бритой головой и воскликнул: “Побойся Аллаха, о Мухаммад!” Посланник Аллаха ﷺ сказал: “Если я ослушиваюсь Аллаха, то кто же тогда покорен Ему? Аллах доверил мне (передать Его послание) обитателям земли, а вы не доверяете мне?” Когда тот удалился, один человек (возможно, это был Халид ибн аль-Валид) попросил у Посланника Аллаха ﷺ разрешения казнить этого человека, но Посланник Аллаха ﷺ сказал: “Поистине, среди потомков этого (человека) появятся люди, которые станут читать Коран, но дальше их глоток такое чтение проходить не будет. Они будут убивать мусульман и оставлять в живых язычников. Они вылетят из религии подобно тому, как стрела вылетает через дичь, (пробив её насквозь). Если я застану их, то непременно буду убивать их, как были убиты адиты!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: அலீ (ரலி) அவர்கள் யமன் நாட்டிலிருந்து மண் அகற்றப்பட்டிராத தங்கக்கட்டி ஒன்றை அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு அனுப்பிவைத்தார்கள். அதை அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நால்வரிடையே பங்கிட்டுவிட்டார்கள்: அக்ரஉ பின் ஹாபிஸ் அல்ஹன்ழலீ (ரலி), உயைனா பின் பத்ர் அல்ஃபஸாரீ (ரலி), பனூ கிலாப் குலத்தாரில் ஒருவரான அல்கமா பின் உலாஸா அல்ஆமிரீ (ரலி) மற்றும் பனூ நப்ஹான் குலத்தாரில் ஒருவரான ஸைத் அல்கைர் அத்தாயீ (ரலி) ஆகியோரே அந்நால்வரும். இதைக் கண்ட குறைஷி (முஸ்லிம்)கள் கோபமடைந்தனர். "நஜ்த்வாசிகளின் தலைவர்களுக்குக் கொடுக்கிறீர்கள்; எங்களை விட்டுவிடுகிறீர்களே!" என்று கேட்டனர். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "(புதிதாக இஸ்லாத்தைத் தழுவியுள்ள) அவர்களுடன் இணக்கத்தை ஏற்படுத்துவதற்காகவே நான் இவ்வாறு செய்தேன்" என்று கூறினார்கள். அப்போது அடர்த்தியான தாடி கொண்ட, கன்னங்கள் தடித்திருந்த, கண்கள் பஞ்சடைந்த, நெற்றி புடைத்திருந்த, தலைமுடி மழிக்கப்பட்டிருந்த மனிதர் ஒருவர் வந்து, "முஹம்மதே! அல்லாஹ்விற்கு அஞ்சுவீராக!" என்று கூறினார். அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "நானே (அல்லாஹ்விற்கு) மாறுசெய்தால் வேறெவர்தாம் அவனுக்குக் கீழ்ப்படிவார்? பூமியில் வசிப்பவர்கள் விஷயத்தில் அவ(ர்களைப் படைத்த இறைவ)ன் என்மீது நம்பிக்கை வைத்திருக்க, நீங்கள் என்மீது நம்பிக்கை வைக்கமாட்டீர்களா?" என்று கேட்டார்கள். பின்னர் அந்த மனிதர் திரும்பிச் சென்றபோது, அங்கிருந்த மக்களில் ஒருவர் அவரைக் கொல்ல அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் அனுமதி கேட்டார். (அனுமதி கேட்டவர் காலித் பின் அல்வலீத் (ரலி) அவர்கள் என்றே கருதப்படுகிறது.) பிறகு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "இ(வ்வாறு என்னிடம் பேசிய அ)ந்த மனிதரின் பரம்பரையிலிருந்து ஒரு சமுதாயத்தார் தோன்றுவர். அவர்கள் குர்ஆனை ஓதுவார்கள். ஆனால், அது அவர்களுடைய தொண்டைக்குழிகளைத் தாண்டிச் செல்லாது; இஸ்லாமியர்களைக் கொல்வார்கள்: சிலை வணக்கம் செய்பவர்களை விட்டுவிடுவார்கள். (வேட்டைக்காரனின்) அம்பு வேட்டையாடப்பட்ட பிராணியின் உடலிலிருந்து (மறுபக்கமாக) வெளியேறிவிடுவதைப் போன்று அவர்கள் இஸ்லாத்திலிருந்து வெளியேறிவிடுவார்கள். நான் அவர்க(ள் வாழும் நாட்க)ளை அடைந்தால் "ஆத்" கூட்டத்தார் அழிக்கப்பட்டதைப் போன்று அவர்களை நான் நிச்சயம் அழித்துவிடுவேன்" என்று சொன்னார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Hemmad b. Seriyy rivayet etti. (Dediki): Bize Ebû'l-Ahvas, Saîd b. Mesrûk'dan, o da Abdurrahman b. Ebî Nu'm'dan, o da Ebû Said-î Hudriden naklen rivayet etti. Ebû Saîd şöyle demiş: Alî (Radiyallahu anh) Yemen'de iken Resulullah (Sallallahu Aleyhi ve Sellem) toprağı üzerinde bir altın külçesi gönderdi. Resulullah (Sallallahu Aleyhi ve Sellem) bunu dört kişi (yani): Akra' b. Habis El-Hanzalî, Uyeynetü'bnü Bedr El-Fezari, Alkametü'bnu Ulasete'l-Amiri —ki sonradan Benî Kilab'dan olmuştur.— ve sonra Benî Nebhan'dan olan Zeydü'l-Hayr Et-Taî arasında taksim etti. Bunun üzerine Kureyşliler kızdılar ve: Resulullah (Sallallahu Aleyhi ve Sellem) bizi bırakıp da Necid'in büyüklerine mi veriyor? dediler. Bunun üzerine Resulullah (Sallallahu Aleyhi ve Sellem): «Ben, bunu ancak onların kalplerini yatıştırmak için yaptım.» buyurdu. Derken gür sakallı, elmacıkları çıkık gözleri çukur, alnı yüksek ve başı tıraşlı bir adam gelerek: «Allah'dan kork, ya Muhammed!» dedi. Resulullah (Sallallahu Aleyhi ve Sellem): «Ben, isyan edersem, Allah'a kim itaat eder? Bana siz emniyet etmezseniz hiç o bana yer yüzünde yaşayan insanlar için emniyet eder mi?» buyurdu. Sonra o adam dönüp gitti. Cemaattan biri -ki Halid bin Velîd olduğu zannedilir.- onu öldürmek için izin istedi. Resulullah (Sallallahu Aleyhi ve Sellem): «Bu adamın sülalesinden öyle birtakım insanlar gelecek ki, Kur'anı okuyacaklar fakat gırtlaklarını geçmiyecek, Müslümanları öldürecekler ve putlara tapanları bırakacaklar, İslam'dan ok'un avı delip geçtiği gibi çıkacaklar. Ben, bunlara yetişmiş olsam kendilerini mutlaka Ad kavminin tepelendiği gibi tepelerdim.» buyurdular
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن مسروق نے عبدالرحمان بن ابی نعم سے اور انھوں نے حضرت ابو سعید خدری رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا : حضرت علی رضی اللہ تعالیٰ عنہ جب یمن میں تھے تو انھوں نےکچھ سونا رسول اللہ صلی اللہ علیہ وسلم کے پاس بھیجا جو اپنی مٹی کے اندر ہی تھا تو رسول اللہ صلی اللہ علیہ وسلم نے اسے چار افراد : اقرع بن حابس حنظلی ، عینیہ ( بن حصین بن حذیفہ ) بن بدر فزاری ، علقمہ بن علاثہ عامری رضی اللہ تعالیٰ عنہ جو اس کے بعد ( آگے بڑے قبیلے ) بنو کلاب ( بن ربیعہ بن عامر ) کا ایک فرد تھا اور زید الخیر طائی جو اس کے بعد ( آگے بنوطے کی ذیلی شاخ ) بن نہہمان کا ایک فرد تھا ، میں تقسیم فرمادیا ، کہا : اس پر قریش ناراض ہوگئے اور کہنےلگے : کیا آپ صلی اللہ علیہ وسلم نجدی سرداروں کو عطا کریں گے اور ہمیں چھوڑدیں گے؟تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " یہ کام میں نے ان کی تالیف قلب کی خاطر کیا ہے ۔ " اتنے میں گھنی داڑھی ، ابھرے ہوئے رخساروں ، دھنسی ہوئی آنکھوں ، نکلی ہوئی پیشانی ، منڈھے ہوئے سر والا ایک شخص آیا اور کہا : اے محمد صلی اللہ علیہ وسلم !اللہ سے ڈریں!تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " اگر میں اس کی نافرمانی کروں گاتو اس کی فرمانبرداری کون کرے گا!وہ تو مجھے تمام روئے زمین کے لوگوں پر امین سمجھتا ہے اور تم مجھے امین نہیں سمجھتے؟ " پھر وہ آدمی پیٹھ پھیر کر چل دیا ، لوگوں میں سے ایک شخص نے اس کو قتل کرنے کی اجازت طلب کی ۔ ۔ ۔ بیان کرنے والے سمجھتے ہیں کہ وہ خالد بن ولید رضی اللہ تعالیٰ عنہ تھے ۔ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : " اس کی اصل ( جس قبیلے سے اس کا اپنا تعلق ہے ) سے ایسی قوم ہوگی جو قرآن پڑھے گی لیکن وہ ان کے گلے سے نیچے نہیں اتر ےگا ۔ وہ اہل اسلام کو قتل کریں گے اور بت پرستوں کو چھوڑدیں گے ۔ وہ اسلام سے اس طرح نکل جائیں گے جس طرح تیر نشانہ بنائے جانے والے شکار سے نکل جاتا ہے ، اگر میں نے ان کو پالیاتو میں ہر صورت انھیں اس طرح قتل کروں گا جس طرح ( عذاب بھیج کر ) قوم عاد کو قتل کیا گیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2451</td></tr><tr><td>Arabic No</td><td>1064.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 188</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2451 |
+| Arabic No | 1064.01 |
+| Reference | Book 12 Hadith 188 |

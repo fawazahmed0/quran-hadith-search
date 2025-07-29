@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، حَدَّثَنَا هِشَامٌ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اغْتَسَلَ مِنَ الْجَنَابَةِ فَبَدَأَ فَغَسَلَ كَفَّيْهِ ثَلاَثًا ثُمَّ ذَكَرَ نَحْوَ حَدِيثِ أَبِي مُعَاوِيَةَ وَلَمْ يَذْكُرْ غَسْلَ الرِّجْلَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، حدثنا هشام، عن ابيه، عن عايشة، ان النبي صلى الله عليه وسلم اغتسل من الجنابة فبدا فغسل كفيه ثلاثا ثم ذكر نحو حديث ابي معاوية ولم يذكر غسل الرجلين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... আয়িশাহ (রাযিঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অপবিত্রতা থেকে গোসলের সময় প্রথমে তার উভয় হাত কজি পর্যন্ত তিনবার ধুতেন। এরপর আবূ মুআবিয়ার হাদীসের অবিকল উল্লেখ করেন কিন্তু তিনি উভয় পা ধোয়ার কথা উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশনঃ ৬১১, ইসলামিক সেন্টারঃ নেই)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hisham narrated it from his father, who narrated it on the authority of 'A'isha that when the Apostle (ﷺ) took a bath because of sexual inter-course, he first washed the palms of his hands three times, and then the whole hadith was transmitted like that based on the authority of Abu Mu'awyia, but no mention is made of the washing of feet
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## French
 
+Rapporté par Hisham d’après son père, d’après Aïcha رضي الله عنها : Lorsque le Prophète ﷺ faisait le grand lavage après un rapport sexuel, il se lavait d’abord les paumes des mains trois fois, puis tout le reste du hadith est rapporté comme selon Abu Mu’awiya, mais il n’est pas fait mention du lavage des pieds
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается со слов ‘Аиши, что совершая большое омовение после полового осквернения, Посланник Аллаха ﷺ сначала трижды омыл кисти рук… Далее подобно предыдущему хадису, но без упоминания мытья ног
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebu Bekr b. Ebi Şeybe de rivayet etti. (Dediki): Bize Veki' rivayet ettit (Dediki): Bize Hişam, babasından, o da Âişe'den naklen rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem) «cünüblükten yıkanmış ve evvela üç defa ellerini yıkamış...» Bundan sonra ravi hadîsi Ebu Muaviyeninki gibi rivayet etmiş. Fakat (o da) ayakların yıkanacağını zikretmemiştir. Yalnız Müslim rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وکیع نے ہشام کی اسی سند کے ساتھ حضرت عائشہ ؓ سے حدیث بیان کی کہ رسو ل اللہ ﷺ نے جنابت سےغسل فرمایا ، آغاز کرتے ہوئے تین بار ہتھلیاں دھوئیں ..... پھر ابو معاویہ کی حدیث کی طرح بیان کیا ، تاہم پاؤں دھونے کا ذکر نہ کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>720</td></tr><tr><td>Arabic No</td><td>316.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 42</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 720 |
+| Arabic No | 316.03 |
+| Reference | Book 3 Hadith 42 |

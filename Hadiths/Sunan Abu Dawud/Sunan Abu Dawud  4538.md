@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا دَاوُدُ بْنُ رُشَيْدٍ، حَدَّثَنَا الْوَلِيدُ، عَنِ الأَوْزَاعِيِّ، أَنَّهُ سَمِعَ حِصْنًا، أَنَّهُ سَمِعَ أَبَا سَلَمَةَ، يُخْبِرُ عَنْ عَائِشَةَ، رضى الله عنها عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏"‏ عَلَى الْمُقْتَتِلِينَ أَنْ يَنْحَجِزُوا الأَوَّلَ فَالأَوَّلَ وَإِنْ كَانَتِ امْرَأَةً ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ بَلَغَنِي أَنَّ عَفْوَ النِّسَاءِ فِي الْقَتْلِ جَائِزٌ إِذَا كَانَتْ إِحْدَى الأَوْلِيَاءِ وَبَلَغَنِي عَنْ أَبِي عُبَيْدٍ فِي قَوْلِهِ ‏"‏ يَنْحَجِزُوا ‏"‏ ‏.‏ يَكُفُّوا عَنِ الْقَوَدِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
+
 حدثنا داود بن رشيد، حدثنا الوليد، عن الاوزاعي، انه سمع حصنا، انه سمع ابا سلمة، يخبر عن عايشة، رضى الله عنها عن رسول الله صلى الله عليه وسلم انه قال " على المقتتلين ان ينحجزوا الاول فالاول وان كانت امراة " . قال ابو داود بلغني ان عفو النساء في القتل جايز اذا كانت احدى الاولياء وبلغني عن ابي عبيد في قوله " ينحجزوا " . يكفوا عن القود
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বিবাদমান পক্ষবৃন্দ যেন কিসাস গ্রহণ থেকে বিরত থাকে। ঘণিষ্ঠতর ব্যক্তি কিসাস ক্ষমা করবে, অতঃপর পরবর্তী ঘনিষ্ঠতর ব্যক্তি, যদিও সে মহিলা হয়। ইমাম আবূ দাঊদ (রহঃ) বলেন, ‘ইয়ানহাজিযু’ শব্দের অর্থ হলো, তারা কিসাস গ্রহণ থেকে বিরত থাকবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, মহিলাদের জন্যও হত্যাকারীকে ক্ষমা করা বৈধ। যদি তিনি নিহতের ওয়ারিস হন।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ বিবাদমান পক্ষবৃন্দ যেন কিসাস গ্রহণ থেকে বিরত থাকে। ঘণিষ্ঠতর ব্যক্তি কিসাস ক্ষমা করবে, অতঃপর পরবর্তী ঘনিষ্ঠতর ব্যক্তি, যদিও সে মহিলা হয়। ইমাম আবূ দাঊদ (রহঃ) বলেন, ‘ইয়ানহাজিযু’ শব্দের অর্থ হলো, তারা কিসাস গ্রহণ থেকে বিরত থাকবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, মহিলাদের জন্যও হত্যাকারীকে ক্ষমা করা বৈধ। যদি তিনি নিহতের ওয়ারিস হন।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) Said: The disputants should refrain from taking retaliation. The one who is nearer should forgive first and then the one who is next to him, even if (the one who forgives) were a woman. Abu Dawud said: I have been informed that forgiving by women in the case of murder is permissible if a woman were one of the heirs (of the slain). I have been told on the authority of Abu 'Ubaid about the meaning of the word yanhajizu, that is, they should refrain from retaliation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
+
+## French
+
+Rapporté par Aisha, la mère des croyants رضي الله عنها : Le Prophète ﷺ a dit : « Les parties en conflit doivent s’abstenir de prendre leur revanche. Celui qui est le plus proche doit pardonner en premier, puis celui qui vient après, même si c’est une femme. » Abu Dawud a dit : On m’a informé que le pardon par une femme dans le cas d’un meurtre est permis si elle fait partie des héritiers de la victime. On m’a dit, de la part de Abu ‘Ubaid, que le mot « yanhajizu » signifie qu’ils doivent s’abstenir de vengeance
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Dawud bin Rusyaid\] berkata, telah menceritakan kepada kami \[Al Walid\] dari \[Al Auza'i\] Bahwasanya ia mendengar \[Hishn\] bahwa ia mendengar \[Abu Salamah\] mengabarkan dari \['Aisyah radliallahu 'anha\] dari Rasulullah shallallahu 'alaihi wasallam, Bahwasanya beliau bersabda tentang orang-orang yang saling bunuh: "Hendaklah mereka menahan dari meminta qishas dari orang yang lebih dekat, meskipun itu seorang wanita." Abu Dawud berkata, "Telah sampai kabar kepadaku bahwa memaafkan wanita dalam perkara qishas itu di bolehkan jika ia termasuk salah satu dari sekian wali yang ada. Dan telah sampai kabar kepadaku tentang sabda Nabi 'hendaklah mereka meminta mundur dari qishash', artinya menahan diri dari meminta qihsas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Dawud bin Rusyaid] berkata, telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] Bahwasanya ia mendengar [Hishn] bahwa ia mendengar [Abu Salamah] mengabarkan dari ['Aisyah radliallahu 'anha] dari Rasulullah shallallahu 'alaihi wasallam, Bahwasanya beliau bersabda tentang orang-orang yang saling bunuh: "Hendaklah mereka menahan dari meminta qishas dari orang yang lebih dekat, meskipun itu seorang wanita." Abu Dawud berkata, "Telah sampai kabar kepadaku bahwa memaafkan wanita dalam perkara qishas itu di bolehkan jika ia termasuk salah satu dari sekian wali yang ada. Dan telah sampai kabar kepadaku tentang sabda Nabi 'hendaklah mereka meminta mundur dari qishash', artinya menahan diri dari meminta qihsas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ сказал: «Сражающиеся должны воздержаться (от воздаяния равным за убийство), один за другим, начиная с ближайших, даже если это женщины». Абу Дауд сказал: «Как мне передали, прощение женщиной пролитой крови принимается лишь в том случае, если она входит в число покровителей того, чья кровь пролита»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe radiyellâhu anhâ'dan; Rasûlullah (s.a.v) şöyle buyurmuştur: "Maktulün kısas isteyen velilerinin, bundan vazgeçme hakları vardır. Bu, kadın bile olsa maktule yakınlık sırasına göredir." Ebû Davud şöyle dedi: Yani velilerden birisi oldukları zaman kadınların katildeki afları caiz­dir. Bana Ebû Ubeyd'in; "ondan vazgeçmeleri" sözü, "kısastan vazgeç­meleri" anlamına geldiği (ne dair açıklaması) ulaştı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: لڑنے والوں پر لازم ہے کہ وہ قصاص لینے سے باز رہیں، پہلے جو سب سے قریبی ہے وہ معاف کرے، پھر اس کے بعد والے خواہ وہ عورت ہی ہو ۔ ابوداؤد کہتے ہیں: مجھے یہ بات معلوم ہوئی ہے کہ عورتوں کا قتل کے سلسلے میں قصاص معاف کر دینا جائز ہے جب وہ مقتول کے اولیاء میں سے ہوں، اور مجھے ابو عبید کے واسطے سے یہ بات پہنچی ہے کہ آپ کے قول «ينحجزوا» کے معنی قصاص سے باز رہنے کے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4538</td></tr><tr><td>Arabic No</td><td>4538</td></tr><tr><td>Reference</td><td>Book 41 Hadith 45</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4538 |
+| Arabic No | 4538 |
+| Reference | Book 41 Hadith 45 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، أَنَّ يَزِيدَ بْنَ زُرَيْعٍ، وَيَحْيَى بْنَ سَعِيدٍ، حَدَّثَاهُمْ قَالاَ، حَدَّثَنَا عَوْفٌ، قَالَ حَدَّثَنَا قَسَامَةُ بْنُ زُهَيْرٍ، قَالَ حَدَّثَنَا أَبُو مُوسَى الأَشْعَرِيُّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنَّ اللَّهَ خَلَقَ آدَمَ مِنْ قَبْضَةٍ قَبَضَهَا مِنْ جَمِيعِ الأَرْضِ فَجَاءَ بَنُو آدَمَ عَلَى قَدْرِ الأَرْضِ جَاءَ مِنْهُمُ الأَحْمَرُ وَالأَبْيَضُ وَالأَسْوَدُ وَبَيْنَ ذَلِكَ وَالسَّهْلُ وَالْحَزْنُ وَالْخَبِيثُ وَالطَّيِّبُ ‏"‏ ‏.‏ زَادَ فِي حَدِيثِ يَحْيَى ‏"‏ وَبَيْنَ ذَلِكَ ‏"‏ ‏.‏ وَالإِخْبَارُ فِي حَدِيثِ يَزِيدَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
+
 حدثنا مسدد، ان يزيد بن زريع، ويحيى بن سعيد، حدثاهم قالا، حدثنا عوف، قال حدثنا قسامة بن زهير، قال حدثنا ابو موسى الاشعري، قال قال رسول الله صلى الله عليه وسلم " ان الله خلق ادم من قبضة قبضها من جميع الارض فجاء بنو ادم على قدر الارض جاء منهم الاحمر والابيض والاسود وبين ذلك والسهل والحزن والخبيث والطيب " . زاد في حديث يحيى " وبين ذلك " . والاخبار في حديث يزيد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
 
 ## Bengali
 
+। আবূ মূসা আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই আল্লাহ আদম (আঃ)-কে একমুঠো মাটি দিয়ে সৃষ্টি করেছেন, যা তিনি সমগ্র পৃথিবী থেকে নিয়েছিলেন। তাই আদম সন্তান মাটির বিভিন্ন বর্ণ ও প্রকৃতি অনুসারে হয়েছে। এদের মধ্যে কেউ লোহিত, কেউবা সাদা, কেউ কালো এবং কেউবা এসবের মধ্যবর্তী বর্ণের হয়েছে। এরূপে কেউ কোমল, কেউ কঠোর এবং কেউ অসৎ এবং কেউ সৎ হয়েছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ মূসা আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নিশ্চয়ই আল্লাহ আদম (আঃ)-কে একমুঠো মাটি দিয়ে সৃষ্টি করেছেন, যা তিনি সমগ্র পৃথিবী থেকে নিয়েছিলেন। তাই আদম সন্তান মাটির বিভিন্ন বর্ণ ও প্রকৃতি অনুসারে হয়েছে। এদের মধ্যে কেউ লোহিত, কেউবা সাদা, কেউ কালো এবং কেউবা এসবের মধ্যবর্তী বর্ণের হয়েছে। এরূপে কেউ কোমল, কেউ কঠোর এবং কেউ অসৎ এবং কেউ সৎ হয়েছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Musa al-Ash’ari reported the Messenger of Allah (May peace be upon him) as saying :Allah created Adam from a handful which he took from the whole of the earth ; so the children of Adam are in accordance with the earth : some red, some white, some black, some a mixture, also smooth and rough, bad and good
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
+
+## French
+
+Rapporté par Abu Musa al-Ash’ari رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Allah a créé Adam à partir d’une poignée de terre prise sur toute la surface de la terre ; ainsi, les enfants d’Adam ressemblent à la terre : certains sont rouges, d’autres blancs, d’autres noirs, d’autres encore sont un mélange, certains sont doux, d’autres rugueux, certains sont mauvais, d’autres bons. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] bahwa \[Yazid bin Zurai'\] dan \[Yahya bin Sa'id\] menceritakan kepada mereka, keduanya berkata; telah menceritakan kepada kami \[Auf\] ia berkata; telah menceritakan kepada kami \[Qasamah bin Zuhair\] ia berkata; telah menceritakan kepada kami \[Abu Musa Al Asy'ari\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menciptakan Adam dari segenggam tanah dari semua jenis tanah. Kemudian keturunannya datang beragam sesuai dengan unsur tanahnya. Ada di antara mereka yang berkulit merah, putih, hitam, dan antara warna-warna itu. Ada yang lembut dan ada yang kasar, ada yang buruk dan ada yang baik." Dan ada tambahan dalam hadits Yahya; "dan ada pula di antara (sifat) itu", adapun lafadz (redaksi) hadits di atas adalah riwayat Yazid
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] bahwa [Yazid bin Zurai'] dan [Yahya bin Sa'id] menceritakan kepada mereka, keduanya berkata; telah menceritakan kepada kami [Auf] ia berkata; telah menceritakan kepada kami [Qasamah bin Zuhair] ia berkata; telah menceritakan kepada kami [Abu Musa Al Asy'ari] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Allah menciptakan Adam dari segenggam tanah dari semua jenis tanah. Kemudian keturunannya datang beragam sesuai dengan unsur tanahnya. Ada di antara mereka yang berkulit merah, putih, hitam, dan antara warna-warna itu. Ada yang lembut dan ada yang kasar, ada yang buruk dan ada yang baik." Dan ada tambahan dalam hadits Yahya; "dan ada pula di antara (sifat) itu", adapun lafadz (redaksi) hadits di atas adalah riwayat Yazid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Мусы аль-Аш‘ари, что Посланник Аллаха ﷺ сказал: «Поистине, Аллах сотворил Адама из пригоршни почвы, которую собрал Он со всей земли, и потомки Адама получились такими, какой была эта земля: среди них есть краснокожие и белокожие, чернокожие и обладатели кожи других оттенков, с хорошим характером и с трудным, скверные и хорошие». А в версии Яхьи имеется добавление: «… и средние»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Musa el-Eş'arî(nin) haber verdi (ğine göre), Rasûlullah (s.a.v.) (şöyle) buyurmuştur: "Allah, Adem'i yeryüzünün her tarafından avuçladığı bir avuç topraktan yarattı. Bu sebeple Ademoğulları (dünyaya, renk ve tabiat cihetiyle) yeryüzü (nün renkleri ve karakterleri) kadar (değişik şekillerde vücuda) geldiler. Onlardan kimisi kızıl, kimisi beyaz, kimisi siyah, kimisi de bunların karışımı, kimisi yumuşak, kimisi sert, kimisi kötü kimisi de iyi (huylu olarak dünyaya) geldi." (Ebu Davud der ki): Yahya (b. Said)in rivayetinde "(Kimisi de) yumuşak ile sert ve kötü ile iyi arası" ilavesi (vardır). Yezidin rivayetinde de bu hadis "ihbar" lafzıyla nakledilmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوموسی اشعری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: اللہ تعالیٰ نے آدم کو ایک مٹھی مٹی سے پیدا کیا جس کو اس نے ساری زمین سے لیا تھا، چنانچہ آدم کی اولاد اپنی مٹی کی مناسبت سے مختلف رنگ کی ہے، کوئی سفید، کوئی سرخ، کوئی کالا اور کوئی ان کے درمیان، کوئی نرم خو، تو کوئی درشت خو، سخت گیر، کوئی خبیث تو کوئی پاک باز ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4693</td></tr><tr><td>Arabic No</td><td>4693</td></tr><tr><td>Reference</td><td>Book 42 Hadith 98</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4693 |
+| Arabic No | 4693 |
+| Reference | Book 42 Hadith 98 |

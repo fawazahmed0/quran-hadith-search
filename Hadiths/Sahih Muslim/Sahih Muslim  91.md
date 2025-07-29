@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## French
 
+Rapporté par Bishr bin al-Hakam : J’ai entendu Yahyā bin Sa’īd al-Qattān critiquer Hakīm bin Jubayr et Abd al-A’lā ; il a aussi critiqué Yahyā Mūsā bin Dīnār et a dit : « Ses ḥadiths sont du vent – n’écrivez pas les ḥadiths de Ubaydah bin Mu’attib, as-Sarī bin Ismā’īl ou Muhammad bin Sālim. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>91</td></tr><tr><td>Reference</td><td>Book 0 Hadith 91</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 91 |
+| Reference | Book 0 Hadith 91 |

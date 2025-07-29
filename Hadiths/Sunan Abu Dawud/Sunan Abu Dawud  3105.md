@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ كَثِيرٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ أَطْعِمُوا الْجَائِعَ وَعُودُوا الْمَرِيضَ وَفُكُّوا الْعَانِيَ ‏"‏ ‏.‏ قَالَ سُفْيَانُ وَالْعَانِي الأَسِيرُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
+
 حدثنا ابن كثير، قال حدثنا سفيان، عن منصور، عن ابي وايل، عن ابي موسى الاشعري، قال قال رسول الله صلى الله عليه وسلم " اطعموا الجايع وعودوا المريض وفكوا العاني " . قال سفيان والعاني الاسير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ মূসা আল-আশ‘আরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্ষুধার্তকে খাদ্য দাও, রোগীর সাথে দেখা-সাক্ষাৎ করো এবং বন্দীকে মুক্ত করো। সুফিয়ান আস-সাওরী (রহঃ) বলেন, ‘আল-আনী’ অর্থ বন্দী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Musa Al-Ash'ari:The Messenger of Allah (ﷺ) as saying: Feed the hungry, visit the sick and free the captive. Sufyan said: al-'ani means captive
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
+
+## French
+
+Rapporté par Abu Musa Al-Ash'ari رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Nourrissez les affamés, rendez visite aux malades et libérez les prisonniers. » Sufyan a précisé : « al-‘ani » signifie prisonnier
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Katsir\] ia berkata; \[Sufyan\] dari \[Manshur?\], dari \[Abu Wail\] dari \[Abu Musa Al Asy'ari\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berilah makan orang yang lapar dan jenguklah orang yang sakit serta bebaskanlah budak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Katsir] ia berkata; [Sufyan] dari [Manshur?], dari [Abu Wail] dari [Abu Musa Al Asy'ari], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Berilah makan orang yang lapar dan jenguklah orang yang sakit serta bebaskanlah budak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Мусы аль-Аш‘ари, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кормите голодного, навещайте больного и освобождайте пленника»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Musa el-Eş'ari'den demiştir ki: Rasülullah (s.a.v.) (şöyle) buyurdu: "- Aç'ı doyurunuz, hastayı ziyaret ediniz, esiri hürriyetine kavuşturunuz." (Ravi) Süfyan (metinde geçen) âni (kelimesi) esir (anlamına gehnekte) dir. Dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوموسی اشعری رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: بھوکے کو کھانا کھلاؤ، مریض کی عیادت کرو اور ( مسلمان ) قیدی کو ( کافروں کی ) قید سے آزاد کراؤ ۔ سفیان کہتے ہیں: «العاني» سے مرا «داسیر» ( قیدی ) ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5373)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3105</td></tr><tr><td>Arabic No</td><td>3105</td></tr><tr><td>Reference</td><td>Book 21 Hadith 17</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5373) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3105 |
+| Arabic No | 3105 |
+| Reference | Book 21 Hadith 17 |

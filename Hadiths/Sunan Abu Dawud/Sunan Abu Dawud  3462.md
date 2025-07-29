@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي حَيْوَةُ بْنُ شُرَيْحٍ، ح وَحَدَّثَنَا جَعْفَرُ بْنُ مُسَافِرٍ التِّنِّيسِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ يَحْيَى الْبُرُلُّسِيُّ، حَدَّثَنَا حَيْوَةُ بْنُ شُرَيْحٍ، عَنْ إِسْحَاقَ أَبِي عَبْدِ الرَّحْمَنِ، - قَالَ سُلَيْمَانُ عَنْ أَبِي عَبْدِ الرَّحْمَنِ الْخُرَاسَانِيِّ، - أَنَّ عَطَاءً الْخُرَاسَانِيَّ، حَدَّثَهُ أَنَّ نَافِعًا حَدَّثَهُ عَنِ ابْنِ عُمَرَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ إِذَا تَبَايَعْتُمْ بِالْعِينَةِ وَأَخَذْتُمْ أَذْنَابَ الْبَقَرِ وَرَضِيتُمْ بِالزَّرْعِ وَتَرَكْتُمُ الْجِهَادَ سَلَّطَ اللَّهُ عَلَيْكُمْ ذُلاًّ لاَ يَنْزِعُهُ حَتَّى تَرْجِعُوا إِلَى دِينِكُمْ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ الإِخْبَارُ لِجَعْفَرٍ وَهَذَا لَفْظُهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
+
 حدثنا سليمان بن داود المهري، اخبرنا ابن وهب، اخبرني حيوة بن شريح، ح وحدثنا جعفر بن مسافر التنيسي، حدثنا عبد الله بن يحيى البرلسي، حدثنا حيوة بن شريح، عن اسحاق ابي عبد الرحمن، - قال سليمان عن ابي عبد الرحمن الخراساني، - ان عطاء الخراساني، حدثه ان نافعا حدثه عن ابن عمر، قال سمعت رسول الله صلى الله عليه وسلم يقول " اذا تبايعتم بالعينة واخذتم اذناب البقر ورضيتم بالزرع وتركتم الجهاد سلط الله عليكم ذلا لا ينزعه حتى ترجعوا الى دينكم " . قال ابو داود الاخبار لجعفر وهذا لفظه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
 
 ## Bengali
 
+। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, যখন তোমরা ঈনা\[1\] পদ্ধতিতে ব্যবসা করবে, গরুর লেজ আঁকড়ে ধরবে, কৃষিকাজেই সন্তুষ্ট থাকবে এবং জিহাদ ছেড়ে দিবে তখন আল্লাহ তোমাদের উপর লাঞ্ছনা ও অপমান চাপিয়ে দিবেন। তোমরা তোমাদের দ্বীনে ফিরে না আসা পর্যন্ত আল্লাহ তোমাদেরকে এই অপমান থেকে মুক্তি দিবেন না।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, যখন তোমরা ঈনা[1] পদ্ধতিতে ব্যবসা করবে, গরুর লেজ আঁকড়ে ধরবে, কৃষিকাজেই সন্তুষ্ট থাকবে এবং জিহাদ ছেড়ে দিবে তখন আল্লাহ তোমাদের উপর লাঞ্ছনা ও অপমান চাপিয়ে দিবেন। তোমরা তোমাদের দ্বীনে ফিরে না আসা পর্যন্ত আল্লাহ তোমাদেরকে এই অপমান থেকে মুক্তি দিবেন না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: I heard the Messenger of Allah, (ﷺ) say: When you enter into the inah transaction, hold the tails of oxen, are pleased with agriculture, and give up conducting jihad (struggle in the way of Allah). Allah will make disgrace prevail over you, and will not withdraw it until you return to your original religion
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
+
+## French
+
+Rapporté par Abdullah ibn Umar رضي الله عنه : J’ai entendu le Messager d’Allah ﷺ dire : « Quand vous pratiquez la transaction ‘inah, que vous vous attachez aux queues des bœufs, que vous vous contentez de l’agriculture et que vous délaissez le jihad (l’effort dans le chemin d’Allah), Allah fera que l’humiliation s’abatte sur vous et ne l’enlèvera pas avant que vous ne reveniez à votre religion d’origine. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Daud Al Mahri\] telah mengabarkan kepada kami \[Ibnu Wahb\] telah mengabarkan kepadaku \[Haiwah bin Syuraih\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Ja'far bin Musafir At Tinnisi\] telah menceritakan kepada kami \[Abdullah bin Yahya Al Burullussi\] telah menceritakan kepada kami \[Haiwah bin Syuraih\] dari \[Ishaq bin Abu Abdurrahman\] dan \[Sulaiman\] berkata dari \[Abu Abdurrahman Al Khurasani\] bahwa \['Atha Al Khurasani\] menceritakan kepadanya bahwa \[Nafi'\] telah menceritakan kepadanya dari \[Ibnu Umar\] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian berjual beli secara cara 'inah, mengikuti ekor sapi, ridla dengan bercocok tanam dan meninggalkan jihad, maka Allah akan menguasakan kehinaan atas kalian. Allah tidak akan mencabutnya dari kalian hingga kalian kembali kepada agama kalian." Abu Daud berkata, "Ini adalah riwayat Ja'far, dan hadits ini adalah lafadznya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Haiwah bin Syuraih]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ja'far bin Musafir At Tinnisi] telah menceritakan kepada kami [Abdullah bin Yahya Al Burullussi] telah menceritakan kepada kami [Haiwah bin Syuraih] dari [Ishaq bin Abu Abdurrahman] dan [Sulaiman] berkata dari [Abu Abdurrahman Al Khurasani] bahwa ['Atha Al Khurasani] menceritakan kepadanya bahwa [Nafi'] telah menceritakan kepadanya dari [Ibnu Umar] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kalian berjual beli secara cara 'inah, mengikuti ekor sapi, ridla dengan bercocok tanam dan meninggalkan jihad, maka Allah akan menguasakan kehinaan atas kalian. Allah tidak akan mencabutnya dari kalian hingga kalian kembali kepada agama kalian." Abu Daud berkata, "Ini adalah riwayat Ja'far, dan hadits ini adalah lafadznya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Я слышал, как Посланник Аллаха ﷺ сказал: “Когда вы начнёте продавать путём ‘ина и ходить за хвостами коров (на пашнях) и удовольствуетесь земледелием, оставив джихад, Аллах нашлёт на вас унижение и не избавит вас от него до тех пор, пока вы не вернётесь к своей религии”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Ömer (r.a.), Rasûlullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken dinlediğini haber vermiştir: “Iyne yoluyla alışveriş yaptığınız, öküzlerin kuyruğuna yapıştığınız, tarımı seçtiğiniz ve cihadı terkettiğiniz zaman Allah size öyle bir zillet musallat eder ki dininize dönünceye kadar onu üzerinizden atamazsınız.” Ebû Dâvûd dedi ki: Hadisin lafzı Ca'fer'e aittir. Bu, onun ifadesidir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: جب تم بیع عینہ ۱؎ کرنے لگو گے گایوں بیلوں کے دم تھام لو گے، کھیتی باڑی میں مست و مگن رہنے لگو گے، اور جہاد کو چھوڑ دو گے، تو اللہ تعالیٰ تم پر ایسی ذلت مسلط کر دے گا، جس سے تم اس وقت تک نجات و چھٹکارا نہ پا سکو گے جب تک اپنے دین کی طرف لوٹ نہ آؤ گے ۔ ابوداؤد کہتے ہیں: روایت جعفر کی ہے اور یہ انہیں کے الفاظ ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3462</td></tr><tr><td>Arabic No</td><td>3462</td></tr><tr><td>Reference</td><td>Book 24 Hadith 47</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3462 |
+| Arabic No | 3462 |
+| Reference | Book 24 Hadith 47 |

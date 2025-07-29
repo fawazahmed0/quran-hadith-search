@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ أَبِي التَّيَّاحِ، عَنْ أَبِي مِجْلَزٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ الْوَتْرُ رَكْعَةٌ مِنْ آخِرِ اللَّيْلِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |
+
 اخبرنا محمد بن يحيى بن عبد الله، قال حدثنا وهب بن جرير، قال حدثنا شعبة، عن ابي التياح، عن ابي مجلز، عن ابن عمر، ان النبي صلى الله عليه وسلم قال " الوتر ركعة من اخر الليل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু ইয়াহয়া (রহঃ) ... ইবনু উমর (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বিতরের সালাত শেয রাত্রে (পূর্বের আদায়কৃত সালাত এর সাথে মিলিত) একটি রাকআত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated fom Ibn Umar that:The Prophet (ﷺ) said: "Witr is one rak'ah at the end of the night
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |
+
+## French
+
+Rapporté par Ibn Umar : Le Prophète (ﷺ) a dit : « Le witr, c’est une rak‘a à la fin de la nuit. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Yahya bin 'Abdullah\] dia berkata; telah menceritakan kepada kami \[Wahb bin Jarir\] dia berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Abu At Tayyah\] dari \[Abu Mijlaz\] dari \[Ibnu 'Umar\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Witir itu satu raka? t pada akhir malam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Yahya bin 'Abdullah] dia berkata; telah menceritakan kepada kami [Wahb bin Jarir] dia berkata; telah menceritakan kepada kami [Syu'bah] dari [Abu At Tayyah] dari [Abu Mijlaz] dari [Ibnu 'Umar] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Witir itu satu raka? t pada akhir malam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہم سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: وتر رات کے آخری حصہ میں ایک رکعت ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1689</td></tr><tr><td>Arabic No</td><td>1689</td></tr><tr><td>Reference</td><td>Book 20 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1689 |
+| Arabic No | 1689 |
+| Reference | Book 20 Hadith 92 |

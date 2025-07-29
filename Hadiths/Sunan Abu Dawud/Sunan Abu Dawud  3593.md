@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,131 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي أَبُو عَوْنٍ، عَنِ الْحَارِثِ بْنِ عَمْرٍو، عَنْ نَاسٍ، مِنْ أَصْحَابِ مُعَاذٍ عَنْ مُعَاذِ بْنِ جَبَلٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمَّا بَعَثَهُ إِلَى الْيَمَنِ فَذَكَرَ مَعْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
+
 حدثنا مسدد، حدثنا يحيى، عن شعبة، حدثني ابو عون، عن الحارث بن عمرو، عن ناس، من اصحاب معاذ عن معاذ بن جبل، ان رسول الله صلى الله عليه وسلم لما بعثه الى اليمن فذكر معناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মু‘আয ইবনু জাবাল (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন তাকে ইয়ামেনে প্রেরণ করলেন... অতঃপর পূর্ববর্তী হাদীসের অনুরূপ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Mu'adh bin Jabal said that when the Messenger of Allah (ﷺ) sent him to the Yemen... He then narrated the rest of the tradition to the same effect
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
+
+## French
+
+Mu'adh bin Jabal a dit que lorsque le Messager d’Allah ﷺ l’a envoyé au Yémen… Il a ensuite raconté le reste du récit dans le même sens
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Похожий хадис о том, как Посланник Аллаха ﷺ отправил его в Йемен, передаётся от Му‘аза ибн Джабаля другим путём
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muaz b. Cebel'den, diğer bir rivayete göre de; Hz. Nebi onu Yemen'e göndereceği zaman... (aralarında geçen konuşmayı anlatırken) bir önceki (3592.) hadisin manasını zikretmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معاذ بن جبل رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے جب انہیں یمن کی طرف بھیجا۔ ۔ ۔، پھر راوی نے اسی مفہوم کی حدیث ذکر کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3593</td></tr><tr><td>Arabic No</td><td>3593</td></tr><tr><td>Reference</td><td>Book 25 Hadith 23</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3593 |
+| Arabic No | 3593 |
+| Reference | Book 25 Hadith 23 |

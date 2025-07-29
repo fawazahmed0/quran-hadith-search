@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَزُهَيْرُ بْنُ حَرْبٍ، وَابْنُ، نُمَيْرٍ قَالُوا حَدَّثَنَا سُفْيَانُ، عَنْ زِيَادِ بْنِ عِلاَقَةَ، سَمِعَ جَرِيرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ بَايَعْتُ النَّبِيَّ صلى الله عليه وسلم عَلَى النُّصْحِ لِكُلِّ مُسْلِمٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، وزهير بن حرب، وابن، نمير قالوا حدثنا سفيان، عن زياد بن علاقة، سمع جرير بن عبد الله، يقول بايعت النبي صلى الله عليه وسلم على النصح لكل مسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## Bengali
 
+আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইবনু নুমায়র (রহঃ) ..... জারীর ইবনু 'আবদুল্লাহ (রাযিঃ) বলেন, আমি প্রত্যেক মুসলিমের কল্যাণ করার শর্তে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর নিকট বাই’আত করেছি\*। (ইসলামিক ফাউন্ডেশনঃ ১০৬, ইসলামিক সেন্টারঃ)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর ইবনু আবূ শাইবাহ, যুহায়র ইবনু হারব ও ইবনু নুমায়র (রহঃ) ..... জারীর ইবনু 'আবদুল্লাহ (রাযিঃ) বলেন, আমি প্রত্যেক মুসলিমের কল্যাণ করার শর্তে নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম এর নিকট বাই’আত করেছি*। (ইসলামিক ফাউন্ডেশনঃ ১০৬, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Sufyan narrated on the authority of Ziyad b. 'Ilaqa that he heard Jarir b. 'Abdullah saying:I pledged allegiance to the Messenger of Allah may peace and blessings be upon him) on sincerity and well-wishing for every Muslim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## French
 
+Rapporté par Sufyan d’après Ziyad b. 'Ilaqa : Il a entendu Jarir b. 'Abdullah dire : J’ai prêté allégeance au Messager d’Allah ﷺ pour la sincérité et le bon conseil envers chaque musulman
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] dan \[Zuhair bin Harb\] serta \[Ibnu Numair\] mereka berkata, telah menceritakan kepada kami \[Sufyan\] dari \[Ziyad bin Ilaqah\] dia mendengar \[Jarir bin Abdullah\] berkata, "Aku berbaiat kepada Nabi shallallahu 'alaihi wasallam untuk menasihat setiap muslim
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Zuhair bin Harb] serta [Ibnu Numair] mereka berkata, telah menceritakan kepada kami [Sufyan] dari [Ziyad bin Ilaqah] dia mendengar [Jarir bin Abdullah] berkata, "Aku berbaiat kepada Nabi shallallahu 'alaihi wasallam untuk menasihat setiap muslim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Джарир ибн ‘Абдуллах сказал: «Я поклялся Пророку ﷺ проявлять искренность (в наставлении) по отношению к каждому мусульманину»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebu Bekir b. Ebî Şeybe ile Züheyr b. Harb ve İbni Nümeyr rivayet ettiler. Dediler ki: Bize Süfyân, Ziyâd b. îlâka'dan rivayet etti.. Ziyad, Cerir b. Abdullah'ı: "Nebi (Sallallahu aleyhi ve Sellem)'e her Müslümana nasihat etmek şartı ile bey'at ettim" dediğini dinlemiştir. Diğer tahric: Buhari, 58, 2565; Nesai, 4167; Tuhfetu'l-Eşraf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زیاد بن علاقہ ( کوفی ) سے روایت ہے ، انہوں نے حضرت جریر بن عبد اللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، وہ کہہ رہے تھے : میں نے نبی ﷺ سے ہر مسلمان کے ساتھ خیر خواہی کرنے پر بیعت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>200</td></tr><tr><td>Arabic No</td><td>56.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 107</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 200 |
+| Arabic No | 56.02 |
+| Reference | Book 1 Hadith 107 |

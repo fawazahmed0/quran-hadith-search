@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ ـ رضى الله عنهما ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَسْتَوْفِيَهُ ‏"‏‏.‏ زَادَ إِسْمَاعِيلُ ‏"‏ مَنِ ابْتَاعَ طَعَامًا فَلاَ يَبِعْهُ حَتَّى يَقْبِضَهُ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الله بن مسلمة، حدثنا مالك، عن نافع، عن ابن عمر رضى الله عنهما ان النبي صلى الله عليه وسلم قال " من ابتاع طعاما فلا يبعه حتى يستوفيه ". زاد اسماعيل " من ابتاع طعاما فلا يبعه حتى يقبضه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘উমার (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, খাদ্য ক্রয় করে পুরোপুরি মেপে না নিয়ে। রাবী ‘ইসমাঈল (রহ.) আরো বলেন, খাদ্যদ্রব্য ক্রয় করে নিজের অধিকারে না এনে কেউ যেন তা বিক্রি না করে। (২১২৪) (আধুনিক প্রকাশনীঃ ১৯৮৮ , ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Umar:The Prophet (ﷺ) said, "The buyer of foodstuff should not sell it before it has been measured for him." Isma'il narrated instead, "He should not sell it before receiving it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Prophète (ﷺ) a dit : « L’acheteur de nourriture ne doit pas la revendre avant qu’elle n’ait été mesurée pour lui. » Isma'il a rapporté à la place : « Il ne doit pas la revendre avant de l’avoir reçue. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ сказал: «Пусть тот, кто купил что-то съестное, не продаёт его, пока не получит его в полной мере». Исма‘иль добавил: «Пусть тот, кто купил что-то съестное, не продаёт его, пока не получит его на руки»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 நபி (ஸல்) அவர்கள்கூறினார்கள்: உணவுப் பொருளை விலைக்கு வாங்கிய ஒருவர், அது முழுமையாக அவரது கைக்கு வந்து சேர்வதற்குமுன் (மற்றவருக்கு) விற்க வேண்டாம்! இதை இப்னு உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அவற்றில் இஸ்மாயீல் பின் அப்தில்லாஹ் (ரஹ்) அவர்களது அறிவிப்பில், ‘அதை அவர் கைப்பற்றாத வரை’ என்று இடம்பெற்றுள்ளது.44 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer r.a.'in rivayet ettiğine göre Nebi Sallallahu Aleyhi ve Sellem şöyle buyurmuştur: "Yiyecek maddesi satın alan, teslim alıncaya kadar onu satmasın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2136</td></tr><tr><td>Arabic No</td><td>2136</td></tr><tr><td>Reference</td><td>Book 34 Hadith 88</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2136 |
+| Arabic No | 2136 |
+| Reference | Book 34 Hadith 88 |

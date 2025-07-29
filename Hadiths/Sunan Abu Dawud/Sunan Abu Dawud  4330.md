@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ، - يَعْنِي ابْنَ عَبْدِ الرَّحْمَنِ - عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ نَافِعٍ، قَالَ كَانَ ابْنُ عُمَرَ يَقُولُ وَاللَّهِ مَا أَشُكُّ أَنَّ الْمَسِيحَ الدَّجَّالَ ابْنُ صَيَّادٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
+
 حدثنا قتيبة بن سعيد، حدثنا يعقوب، - يعني ابن عبد الرحمن - عن موسى بن عقبة، عن نافع، قال كان ابن عمر يقول والله ما اشك ان المسيح الدجال ابن صياد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
 
 ## Bengali
 
+। নাফি (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু উমার (রাঃ) বলতেন, ইবনু সাইয়্যাদই যে মাসিহ দাজ্জাল এতে আমার কোনো সন্দেহ নেই।\[1\] সনদ সহীহ মাওকুফ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নাফি (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইবনু উমার (রাঃ) বলতেন, ইবনু সাইয়্যাদই যে মাসিহ দাজ্জাল এতে আমার কোনো সন্দেহ নেই।[1] সনদ সহীহ মাওকুফ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: Nafi' told that Ibn Umar used to say: I swear by Allah that I do not doubt that Antichrist is Ibn Sayyad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
+
+## French
+
+Rapporté par Abdullah ibn Umar رضي الله عنه : Nafi’ a rapporté qu’Ibn Umar avait l’habitude de dire : « Je jure par Allah que je ne doute pas que le Dajjal est Ibn Sayyad. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] berkata, telah menceritakan kepada kami \[Ya'qub\] -maksudnya Ya'qub bin 'Abdurrahman- dari \[Musa bin Uqbah\] dari \[Nafi'\] ia berkata, " \[Ibnu Umar\] berkata, "Demi Allah, aku tidak ragu bahwa Al Masih Dajjal adalah Ibnu Shayyad
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] berkata, telah menceritakan kepada kami [Ya'qub] -maksudnya Ya'qub bin 'Abdurrahman- dari [Musa bin Uqbah] dari [Nafi'] ia berkata, " [Ibnu Umar] berkata, "Demi Allah, aku tidak ragu bahwa Al Masih Dajjal adalah Ibnu Shayyad
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Нафи‘ передаёт, что Ибн ‘Умар (да будет доволен Аллах им и его отцом) говорил: «Клянусь Аллахом, я не сомневаюсь в том, что Даджжаль это и есть Ибн Сайяд!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi demiştir ki; İbn Ömer (r.a): "Vallahi mesihu'd-Deccarin İbn Sayyad olduğunda asla şüphe etmiyorum"' dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نافع سے روایت ہے کہ ابن عمر رضی اللہ عنہما کہتے تھے: قسم اللہ کی مجھے اس میں شک نہیں کہ مسیح دجال ابن صیاد ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4330</td></tr><tr><td>Arabic No</td><td>4330</td></tr><tr><td>Reference</td><td>Book 39 Hadith 40</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Sahih Isnaad Mauquf | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4330 |
+| Arabic No | 4330 |
+| Reference | Book 39 Hadith 40 |

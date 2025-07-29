@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ أَبُو الرَّبِيعِ الْعَتَكِيُّ، - هُوَ الزَّهْرَانِيُّ - حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - حَدَّثَنَا أَيُّوبُ، وَعَاصِمٌ الأَحْوَلُ، بِهَذَا الإِسْنَادِ وَلَمْ يَذْكُرْ فِي حَدِيثِهِ يَعْنِي النَّبِيَّ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه ابو الربيع العتكي، - هو الزهراني - حدثنا حماد، - يعني ابن زيد - حدثنا ايوب، وعاصم الاحول، بهذا الاسناد ولم يذكر في حديثه يعني النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূর রাবী আল আতাকী (আয যাহরানী) (রহঃ) ... আইয়ুব ও আসিম আল আহওয়াল (রহঃ) থেকে একই সানাদে হাদীসটি বর্ণনা করেছেন। তবে তিনি পূর্বোক্ত হাদীসের 'নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম' কথাটি উল্লেখ করেননি। (ইসলামী ফাউন্ডেশন ১৪৭৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Ayyub and 'Asim al-Ahwal with the same chain of transmitters, but in this hadith it is not recorded:" i. e. the Messenger of Allah (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## French
 
+Rapporté par Ayyub et 'Asim al-Ahwal, selon la même chaîne de transmetteurs : Dans ce hadith, il n’est pas mentionné : « c’est-à-dire le Messager d’Allah ﷺ. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему, но в нём нет слов: «…имея в виду Пророка ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bu hadîsi bana Ebû-Rabî' El-Atekî -ki Zehrânî'dir- rivayet etti. (Dediki); Bize Hammâd (yâni İbni Zeyd) rivayet etti. (Dediki): Bize, Eyyûb ile Âsım-ı Ahvel bu isnâdla rivayet ettiler. Râvî bu hadîsinde: «Nebi (Sallallahu Aleyhi ve Sellem) 'i kastederek.» ibaresini zikretmemişdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو ربیع عتکی زہرانی نے کہا : ہمیں حماد یعنی ابن زید نے حدیث سنائی ، کہا : ہمیں ایوب اور عاصم احول نے اس سند کےساتھ حدیث سنائی ، البتہ انھوں ( ابو ربیع ) نے اپنی حدیث میں یعنی النبي صلی اللہ علیہ وسلم کے الفاظ ذکر نہیں کیے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1606</td></tr><tr><td>Arabic No</td><td>699.03</td></tr><tr><td>Reference</td><td>Book 6 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1606 |
+| Arabic No | 699.03 |
+| Reference | Book 6 Hadith 37 |

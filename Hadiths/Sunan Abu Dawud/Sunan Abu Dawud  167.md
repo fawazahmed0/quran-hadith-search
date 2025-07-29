@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ مُجَاهِدٍ، عَنْ رَجُلٍ، مِنْ ثَقِيفٍ عَنْ أَبِيهِ، قَالَ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم بَالَ ثُمَّ نَضَحَ فَرْجَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
+
 حدثنا اسحاق بن اسماعيل، حدثنا سفيان، عن ابن ابي نجيح، عن مجاهد، عن رجل، من ثقيف عن ابيه، قال رايت رسول الله صلى الله عليه وسلم بال ثم نضح فرجه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
 
 ## Bengali
 
+। সাক্বীফ গোত্রের জনৈক ব্যক্তি হতে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পেশাব করে লজ্জাস্থানে পানি ছিটা দিতে দেখেছি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাক্বীফ গোত্রের জনৈক ব্যক্তি হতে তাঁর পিতার সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে পেশাব করে লজ্জাস্থানে পানি ছিটা দিতে দেখেছি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A man from Thaqif on the authority of his father reported:I saw the Messenger of Allah (ﷺ) urinate, and he sprinkled water on the private parts of his body
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
+
+## French
+
+Un homme de Thaqif, rapportant de son père, a dit : J’ai vu le Messager d’Allah ﷺ uriner, puis il a aspergé d’eau ses parties intimes
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Isma'il\] telah menceritakan kepada kami \[Sufyan bin 'Uyainah\] dari \[Ibnu Abi Najih\] dari \[Mujahid\] dari \[seorang lelaki dari Tsaqif\] dari \[Ayahnya\] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah buang air kecil kemudian memercikkan air kepada kemaluan beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Isma'il] telah menceritakan kepada kami [Sufyan bin 'Uyainah] dari [Ibnu Abi Najih] dari [Mujahid] dari [seorang lelaki dari Tsaqif] dari [Ayahnya] dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah buang air kecil kemudian memercikkan air kepada kemaluan beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Муджахида о том, что один человек и племени Сакафи рассказывал со слов своего отца: «Я видел, как Посланник Аллаха ﷺ справил малую нужду и затем побрызгал водой на свой половой орган»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sakifli bir adam, babasının şöyle dediğini bildirmiştir: "Ben Rasulullah (sallallahu aleyhi ve sellem)'in küçük abdest bozduktan sonra eteğine su serptiğini gördüm." Diğer tahric: Nesai, tahare; İbn Mace, tahare; Tirmizi, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ثقیف کے ایک شخص اپنے والد سے روایت کرتے ہیں، ان کے والد کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو دیکھا کہ آپ نے پیشاب کیا، پھر اپنی شرمگاہ پر پانی چھڑکا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>167</td></tr><tr><td>Arabic No</td><td>167</td></tr><tr><td>Reference</td><td>Book 1 Hadith 167</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 167 |
+| Arabic No | 167 |
+| Reference | Book 1 Hadith 167 |

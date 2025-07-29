@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا نُوحُ بْنُ يَزِيدَ بْنِ سَيَّارٍ الْمُؤَدِّبُ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، قَالَ حَدَّثَنِيهِ ابْنُ إِسْحَاقَ، عَنْ عِيسَى بْنِ مَعْمَرٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرِو بْنِ الْفَغْوَاءِ الْخُزَاعِيِّ، عَنْ أَبِيهِ، قَالَ دَعَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَدْ أَرَادَ أَنْ يَبْعَثَنِي بِمَالٍ إِلَى أَبِي سُفْيَانَ يَقْسِمُهُ فِي قُرَيْشٍ بِمَكَّةَ بَعْدَ الْفَتْحِ فَقَالَ ‏"‏ الْتَمِسْ صَاحِبًا ‏"‏ ‏.‏ قَالَ فَجَاءَنِي عَمْرُو بْنُ أُمَيَّةَ الضَّمْرِيُّ فَقَالَ بَلَغَنِي أَنَّكَ تُرِيدُ الْخُرُوجَ وَتَلْتَمِسُ صَاحِبًا ‏.‏ قَالَ قُلْتُ أَجَلْ ‏.‏ قَالَ فَأَنَا لَكَ صَاحِبٌ ‏.‏ قَالَ فَجِئْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم قُلْتُ قَدْ وَجَدْتُ صَاحِبًا ‏.‏ قَالَ فَقَالَ ‏"‏ مَنْ ‏"‏ ‏.‏ قُلْتُ عَمْرَو بْنَ أُمَيَّةَ الضَّمْرِيَّ ‏.‏ قَالَ ‏"‏ إِذَا هَبَطْتَ بِلاَدَ قَوْمِهِ فَاحْذَرْهُ فَإِنَّهُ قَدْ قَالَ الْقَائِلُ أَخُوكَ الْبِكْرِيُّ وَلاَ تَأْمَنْهُ ‏"‏ ‏.‏ فَخَرَجْنَا حَتَّى إِذَا كُنْتُ بِالأَبْوَاءِ قَالَ إِنِّي أُرِيدُ حَاجَةً إِلَى قَوْمِي بِوَدَّانَ فَتَلْبَثُ لِي قُلْتُ رَاشِدًا فَلَمَّا وَلَّى ذَكَرْتُ قَوْلَ النَّبِيِّ صلى الله عليه وسلم فَشَدَدْتُ عَلَى بَعِيرِي حَتَّى خَرَجْتُ أُوضِعُهُ حَتَّى إِذَا كُنْتُ بِالأَصَافِرِ إِذَا هُوَ يُعَارِضُنِي فِي رَهْطٍ قَالَ وَأَوْضَعْتُ فَسَبَقْتُهُ فَلَمَّا رَآنِي قَدْ فُتُّهُ انْصَرَفُوا وَجَاءَنِي فَقَالَ كَانَتْ لِي إِلَى قَوْمِي حَاجَةٌ ‏.‏ قَالَ قُلْتُ أَجَلْ وَمَضَيْنَا حَتَّى قَدِمْنَا مَكَّةَ فَدَفَعْتُ الْمَالَ إِلَى أَبِي سُفْيَانَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
+
 حدثنا محمد بن يحيى بن فارس، حدثنا نوح بن يزيد بن سيار المودب، حدثنا ابراهيم بن سعد، قال حدثنيه ابن اسحاق، عن عيسى بن معمر، عن عبد الله بن عمرو بن الفغواء الخزاعي، عن ابيه، قال دعاني رسول الله صلى الله عليه وسلم وقد اراد ان يبعثني بمال الى ابي سفيان يقسمه في قريش بمكة بعد الفتح فقال " التمس صاحبا " . قال فجاءني عمرو بن امية الضمري فقال بلغني انك تريد الخروج وتلتمس صاحبا . قال قلت اجل . قال فانا لك صاحب . قال فجيت رسول الله صلى الله عليه وسلم قلت قد وجدت صاحبا . قال فقال " من " . قلت عمرو بن امية الضمري . قال " اذا هبطت بلاد قومه فاحذره فانه قد قال القايل اخوك البكري ولا تامنه " . فخرجنا حتى اذا كنت بالابواء قال اني اريد حاجة الى قومي بودان فتلبث لي قلت راشدا فلما ولى ذكرت قول النبي صلى الله عليه وسلم فشددت على بعيري حتى خرجت اوضعه حتى اذا كنت بالاصافر اذا هو يعارضني في رهط قال واوضعت فسبقته فلما راني قد فته انصرفوا وجاءني فقال كانت لي الى قومي حاجة . قال قلت اجل ومضينا حتى قدمنا مكة فدفعت المال الى ابي سفيان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু আমর ইবনু ফাগওয়া আল-খুযাঈ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ডাকলেন। তিনি মক্কা বিজয়ের পর কুরাইশদের মধ্যে কিছু সম্পদ বণ্টনের জন্য আমাকে আবূ সুফিয়ান (রাঃ)-এর নিকট প্রেরণের ইচ্ছা করলেন। তিনি বললেন, তুমি একজন সঙ্গী যোগাড় করো। বর্ণনাকারী বলেন, আমর ইবনু উমাইয়াহ আদ-দামরী আমার নিকট এসে বললেন, অবগত হলাম, আপনি সফরে যেতে চান এবং একজন সাথী খুঁজছেন। তিনি বলেছেন, আমি বললাম, হ্যাঁ। তিনি বললেন, আমিই সঙ্গী। বর্ণনাকারী বলেন, এরপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গিয়ে জানালাম, আমি একজন সাথী পেয়েছি। তিনি তার পরিচয় জানতে চাইলে আমি বললাম, আমর ইবনু উমাইমাহ আদ-দামরী। তিনি বললেন, তুমি যখন তার গোত্রের এলাকায় পৌঁছবে তখন তার ব্যাপারে খুব সাবধানতা অবলম্বন করবে। কেননা প্রবাদ আছেঃ ‘‘আপন ভাইকেও নিজের জন্য নিরাপদ ভেবো না।’’ অতঃপর আমরা যাত্রা করে আল-আবওয়া নামক স্থানে পৌঁছলে আমর ইবনু উমাইমাহ বললো, আমি আমার গোত্রের নিকট এক দরকারে যাচ্ছি। তুমি আমার জন্য অপেক্ষা করো। আমি বললাম, আপনি যান, কিন্তু যেন রাস্তা ভুল না যান। তিনি চলে যাবার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাবধানবাণী মনে পড়ে গেলো, তখনই আমি আমার হাওদা উটের উপর শক্ত করে বেঁধে তাড়াহুড়া করে দ্রুত আল-আসাফ নামক স্থান পৌঁছলে তিনিও দলবল নিয়ে আমার পিছু নিলেন। আমি অতি দ্রুত অগ্রসর হয়ে তাদেরকে পিছনে ফেলে সামনে এগিয়ে গেলাম। ফলে তারা ফিরে গেলো। আমর ইবনু উমাইয়াহ আমার নিকট এসে বললো, গোত্রের লোকদের নিকট আমার দরকারী কাজ ছিলো। আমি বললাম, হ্যাঁ। এরপর আমরা সামনে অগ্রসর হয়ে মক্কায় পৌঁছলাম এবং আবূ সুফিয়ানের নিকট মালগুলো হস্তান্তর করলাম।\[1\] দুর্বলঃ যঈফাহ হা/ ১২০৫।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু আমর ইবনু ফাগওয়া আল-খুযাঈ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে ডাকলেন। তিনি মক্কা বিজয়ের পর কুরাইশদের মধ্যে কিছু সম্পদ বণ্টনের জন্য আমাকে আবূ সুফিয়ান (রাঃ)-এর নিকট প্রেরণের ইচ্ছা করলেন। তিনি বললেন, তুমি একজন সঙ্গী যোগাড় করো। বর্ণনাকারী বলেন, আমর ইবনু উমাইয়াহ আদ-দামরী আমার নিকট এসে বললেন, অবগত হলাম, আপনি সফরে যেতে চান এবং একজন সাথী খুঁজছেন। তিনি বলেছেন, আমি বললাম, হ্যাঁ। তিনি বললেন, আমিই সঙ্গী। বর্ণনাকারী বলেন, এরপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট গিয়ে জানালাম, আমি একজন সাথী পেয়েছি। তিনি তার পরিচয় জানতে চাইলে আমি বললাম, আমর ইবনু উমাইমাহ আদ-দামরী। তিনি বললেন, তুমি যখন তার গোত্রের এলাকায় পৌঁছবে তখন তার ব্যাপারে খুব সাবধানতা অবলম্বন করবে। কেননা প্রবাদ আছেঃ ‘‘আপন ভাইকেও নিজের জন্য নিরাপদ ভেবো না।’’ অতঃপর আমরা যাত্রা করে আল-আবওয়া নামক স্থানে পৌঁছলে আমর ইবনু উমাইমাহ বললো, আমি আমার গোত্রের নিকট এক দরকারে যাচ্ছি। তুমি আমার জন্য অপেক্ষা করো। আমি বললাম, আপনি যান, কিন্তু যেন রাস্তা ভুল না যান। তিনি চলে যাবার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাবধানবাণী মনে পড়ে গেলো, তখনই আমি আমার হাওদা উটের উপর শক্ত করে বেঁধে তাড়াহুড়া করে দ্রুত আল-আসাফ নামক স্থান পৌঁছলে তিনিও দলবল নিয়ে আমার পিছু নিলেন। আমি অতি দ্রুত অগ্রসর হয়ে তাদেরকে পিছনে ফেলে সামনে এগিয়ে গেলাম। ফলে তারা ফিরে গেলো। আমর ইবনু উমাইয়াহ আমার নিকট এসে বললো, গোত্রের লোকদের নিকট আমার দরকারী কাজ ছিলো। আমি বললাম, হ্যাঁ। এরপর আমরা সামনে অগ্রসর হয়ে মক্কায় পৌঁছলাম এবং আবূ সুফিয়ানের নিকট মালগুলো হস্তান্তর করলাম।[1] দুর্বলঃ যঈফাহ হা/ ১২০৫।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Amr ibn al-Faghwa' al-Khuza'i: The Messenger of Allah (ﷺ) called me. He intended to send me with some goods to AbuSufyan to distribute among the Quraysh at Mecca after the conquest. He said: Search for a companion. Then Amr ibn Umayyah ad-Damri came to me and said: I have been told that you are intending to make a journey and are seeking a companion. I said: Yes. He said: I am your companion. I then went to the Messenger of Allah (ﷺ) and said: I have found a companion. He asked: Who is he? I replied: Amr ibn Umayyah ad-Damri. He said: When you come down to the territory of his people, be careful of him, for a maxim says: If one is your real brother, do not feel safe with him. So we proceeded, and when I reached al-Abwa', he said to me: I have some work with my people at Waddan, so stay here till I come back. I said: Do not lose your way. When he turned his back, I recalled the words of the Prophet (ﷺ). So I rode my camel and galloped without stopping. When I reached al-Asafir, he was pursuing me with a group of men. So I galloped and forged ahead of him. When he saw me that I had outstripped him, they returned and he came to me. He said to me: I had some work with my people. I said: Yes. We then went on until we reached Mecca, and I gave the goods to AbuSufyan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
+
+## French
+
+Rapporté par Amr ibn al-Faghwa’ al-Khuza’i رضي الله عنه : Le Messager d’Allah ﷺ m’a appelé. Il voulait m’envoyer avec des biens à Abu Sufyan pour les distribuer aux Quraysh à La Mecque après la conquête. Il a dit : « Cherche-toi un compagnon. » Alors Amr ibn Umayyah ad-Damri est venu me voir et a dit : « On m’a dit que tu veux voyager et que tu cherches un compagnon. » J’ai répondu : « Oui. » Il a dit : « Je suis ton compagnon. » Je suis alors allé voir le Messager d’Allah ﷺ et j’ai dit : « J’ai trouvé un compagnon. » Il a demandé : « Qui est-ce ? » J’ai répondu : « Amr ibn Umayyah ad-Damri. » Il a dit : « Quand tu arriveras sur le territoire de son peuple, sois prudent avec lui, car il y a un dicton : Même si quelqu’un est ton vrai frère, ne sois pas totalement en confiance avec lui. » Nous sommes donc partis, et quand je suis arrivé à al-Abwa’, il m’a dit : « J’ai quelque chose à faire avec mon peuple à Waddan, attends-moi ici jusqu’à mon retour. » J’ai dit : « Ne te perds pas. » Quand il s’est éloigné, je me suis rappelé les paroles du Prophète ﷺ. J’ai donc monté mon chameau et je suis parti au galop sans m’arrêter. Quand je suis arrivé à al-Asafir, il me poursuivait avec un groupe d’hommes. J’ai accéléré et je les ai distancés. Quand il a vu que je les avais dépassés, ils sont repartis et il est revenu vers moi. Il m’a dit : « J’avais quelque chose à faire avec mon peuple. » J’ai répondu : « Oui. » Nous avons continué jusqu’à La Mecque, et j’ai remis les biens à Abu Sufyan
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Yahya bin faris\] berkata, telah menceritakan kepada kami \[Nuh bin Yazid bin Sayyar Al Muaddib\] berkata, telah menceritakan kepada kami \[Ibrahim bin Sa'd\] ia berkata; \[Ibnu Ishaq\] menceritakannya kepadaku dari \[Isa bin Ma'mar\] dari \[Abdullah bin Amru bin Al Faghwa Al Khuza'i\] dari \[Bapaknya\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memanggilku, beliau ingin mengutusku untuk membawa uang yang di berikan kepada Abu Sufyan agar dibagikan olehnya kepada penduduk Quraisy di Makkah setelah terjadinya penaklukan (penaklukan Makkah). Beliau bersabda: "Carilah seorang teman." Lalu datanglah Amru bin Umayyah Adh Dhamri kepadaku, ia bertanya, "Telah sampai berita kepadaku bahwa engkau ingin pergi dan membutuhkan seorang teman?" Aku menjawab, "Benar." Amru berkata, "Aku siap untuk menemanimu." Ia (perawi) berkata, "Aku lalu datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Aku telah mendapatkan seorang teman." Beliau bertanya: "Siapa." Aku menjawab, "Amru bin Umayyah Adh Dhamri." Beliau bersabda: "Jika engkau sampai di wilayahnya maka berhati-hatilah dengannya, sebab telah ada seseorang yang berkata, 'Saudaramu adalah Al Bikri' maka janganlah engkau percaya kepadanya." Maka kami pun berangkat hingga ketika aku sampai di daerah Al Abwa, ia berkata, "Aku ada kepentingan dengan kaumku di kampung, maka tunggulah aku." Aku menyahut, "Hati-hatilah." maka ketika ia telah berlalu pergi, aku teringat dengan ucapan Nabi shallallahu 'alaihi wasallam. Aku lalu menaiki untaku dan memacunya dengan cepat, hingga ketika aku sampai di daerah Ashafir, aku menjumpainya telah bersama serombongan orang. Aku kemudian kembali memaci untaku hingga dapat mendahuluinya. Ketika ia melihat aku telah mendahuluinya, mereka berlalu pergi. Amru bin Umayyah lalu mendatangiku seraya berkata, "Aku mempunyai keperluan dengan kaumku." Aku menjawab, "Benar." Lantas kami berangkat hingga sampai Makkah, lalu uang itu aku berikan kepada Abu Sufyan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yahya bin faris] berkata, telah menceritakan kepada kami [Nuh bin Yazid bin Sayyar Al Muaddib] berkata, telah menceritakan kepada kami [Ibrahim bin Sa'd] ia berkata; [Ibnu Ishaq] menceritakannya kepadaku dari [Isa bin Ma'mar] dari [Abdullah bin Amru bin Al Faghwa Al Khuza'i] dari [Bapaknya] ia berkata, "Rasulullah shallallahu 'alaihi wasallam memanggilku, beliau ingin mengutusku untuk membawa uang yang di berikan kepada Abu Sufyan agar dibagikan olehnya kepada penduduk Quraisy di Makkah setelah terjadinya penaklukan (penaklukan Makkah). Beliau bersabda: "Carilah seorang teman." Lalu datanglah Amru bin Umayyah Adh Dhamri kepadaku, ia bertanya, "Telah sampai berita kepadaku bahwa engkau ingin pergi dan membutuhkan seorang teman?" Aku menjawab, "Benar." Amru berkata, "Aku siap untuk menemanimu." Ia (perawi) berkata, "Aku lalu datang kepada Rasulullah shallallahu 'alaihi wasallam dan berkata, "Aku telah mendapatkan seorang teman." Beliau bertanya: "Siapa." Aku menjawab, "Amru bin Umayyah Adh Dhamri." Beliau bersabda: "Jika engkau sampai di wilayahnya maka berhati-hatilah dengannya, sebab telah ada seseorang yang berkata, 'Saudaramu adalah Al Bikri' maka janganlah engkau percaya kepadanya." Maka kami pun berangkat hingga ketika aku sampai di daerah Al Abwa, ia berkata, "Aku ada kepentingan dengan kaumku di kampung, maka tunggulah aku." Aku menyahut, "Hati-hatilah." maka ketika ia telah berlalu pergi, aku teringat dengan ucapan Nabi shallallahu 'alaihi wasallam. Aku lalu menaiki untaku dan memacunya dengan cepat, hingga ketika aku sampai di daerah Ashafir, aku menjumpainya telah bersama serombongan orang. Aku kemudian kembali memaci untaku hingga dapat mendahuluinya. Ketika ia melihat aku telah mendahuluinya, mereka berlalu pergi. Amru bin Umayyah lalu mendatangiku seraya berkata, "Aku mempunyai keperluan dengan kaumku." Aku menjawab, "Benar." Lantas kami berangkat hingga sampai Makkah, lalu uang itu aku berikan kepada Abu Sufyan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Abdullah b. Amr İbn el-Feğvâ el Hıızaî'nin) babası şöyle demiştir: Rasûlullah (s.a.v.) Fetih'ten sonra (bir gün) beni çağırdı ve Mekke'de Kureyş arasında dağıtması için Ebu Süfyan'a benimle (bir mikdar) mal göndermek istedi ve: "(Yolculuk için) kendine bir arkadaş ara" buyur­du. Bunun üzerine Amr b. Umeyye ed-Damrî yanıma gelip: Senin (bir yolculuğa) çıkmak istediğin ve (bu yolculuk için de) bir arkadaş aradığın (haberi) bana erişti. (Bu haber doğru mudur?) dedi. Ben de: Evet, dedim. Öyleyse ben sana arkadaşım, cevabını verdi. Bunun üzerine (doğru) Rasûlullah (s.a.v.)'e geldim ve: (Bu yolculuk için kendime) bir arkadaş buldum, dedim. Kimdir? diye sordu. Amr İbn Ümeyye e'd Damrî'dir, cevabını verdim. "(Onunla birlikte): Onun memleketine vardığın zaman O'na karşı ihtiyatlı davran. Nitekim (vaktiyle) biri büyük biraderine bile güvenme? demiş" buyurdu. Kısa bir süre sonra (Amr ile birlikte yolculuğa) çıktık ve nihayet Ebvâ denilen yere varınca (arkadaşım) bana: "Bir ihtiyaçtan dolayı Veddan'da bulunan kavmime (gitmek) istiyorum, beni (burada) bekle(yebilir) misin," dedi ben de: "Selametle (git)" dedim. (Arkadaşım kavmine) dönüp gidince, Nebi (s.a.v.)'in sözünü hatırladım ve hemen deveme yükümü yükletip onu koşturarak oradan ayrıldım. Nihayet "Edâfir" denilen yere vardığımda bir de baktım ki (arkadaşım) beş on kişilik bir kalabalıkla önüme geçmeye çalışıyor. (Bunun üzerine) devemi (iyice) hızlandırıp onu geride bıraktım. Kendisini geçtiğimi görünce (etrafında bulunan kalabalık) dönüp gitti ve (Amr tek başına) yanıma geldi ve: Kavmime ihtiyacım vardı da... dedi. Ben de: Evet, cevabını verdim, (sonra yola) devam ettik. Nihayet Mekke'ye doğru geldik de (bana emanet edilen) malı Ebu Süfyan'a ver(ebil)dim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمرو بن فغواء خزاعی رضی اللہ عنہ کہتے ہیں کہ مجھے رسول اللہ صلی اللہ علیہ وسلم نے بلایا، آپ مجھے کچھ مال دے کر ابوسفیان کے پاس بھیجنا چاہتے تھے، جو آپ فتح مکہ کے بعد قریش میں تقسیم فرما رہے تھے، آپ نے فرمایا: کوئی اور ساتھی تلاش کر لو ، تو میرے پاس عمرو بن امیہ ضمری آئے، اور کہنے لگے: مجھے معلوم ہوا ہے کہ تمہارا ارادہ نکلنے کا ہے اور تمہیں ایک ساتھی کی تلاش ہے، میں نے کہا: ہاں، تو انہوں نے کہا: میں تمہارا ساتھی بنتا ہوں چنانچہ میں رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور میں نے عرض کیا، مجھے ایک ساتھی مل گیا ہے، آپ نے فرمایا: کون؟ میں نے کہا: عمرو بن امیہ ضمری، آپ نے فرمایا: جب تم اس کی قوم کے ملک میں پہنچو تو اس سے بچ کے رہنا اس لیے کہ کہنے والے نے کہا ہے کہ تمہارا سگا بھائی ہی کیوں نہ ہو اس سے مامون نہ رہو ، چنانچہ ہم نکلے یہاں تک کہ جب ہم ابواء میں پہنچے تو اس نے کہا: میں ودان میں اپنی قوم کے پاس ایک ضرورت کے تحت جانا چاہتا ہوں لہٰذا تم میرے لیے تھوڑی دیر ٹھہرو، میں نے کہا: جاؤ راستہ نہ بھولنا، جب وہ چلا گیا تو مجھے رسول اللہ صلی اللہ علیہ وسلم کی بات یاد آئی، تو میں نے زور سے اپنے اونٹ کو بھگایا، اور تیزی سے دوڑاتا وہاں سے نکلا، یہاں تک کہ جب مقام اصافر میں پہنچا تو دیکھا کہ وہ کچھ لوگوں کے ساتھ مجھے روکنے آ رہا ہے میں نے اونٹ کو اور تیز کر دیا، اور میں اس سے بہت آگے نکل گیا، جب اس نے مجھے دیکھا کہ میں اسے بہت پیچھے چھوڑ چکا ہوں، تو وہ لوگ لوٹ گئے، اور وہ میرے پاس آیا اور بولا، مجھے اپنی قوم میں ایک کام تھا، میں نے کہا: ٹھیک ہے اور ہم چلتے رہے یہاں تک کہ ہم مکہ پہنچ گئے تو میں نے وہ مال ابوسفیان کو دے دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4861</td></tr><tr><td>Arabic No</td><td>4861</td></tr><tr><td>Reference</td><td>Book 43 Hadith 89</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4861 |
+| Arabic No | 4861 |
+| Reference | Book 43 Hadith 89 |

@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَلِيُّ بْنُ حُجْرٍ، حَدَّثَنَا شُعَيْبُ بْنُ صَفْوَانَ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ رِبْعِيِّ، بْنِ حِرَاشٍ عَنْ عُقْبَةَ بْنِ عَمْرٍو أَبِي مَسْعُودٍ الأَنْصَارِيِّ، قَالَ انْطَلَقْتُ مَعَهُ إِلَى حُذَيْفَةَ بْنِ الْيَمَانِ فَقَالَ لَهُ عُقْبَةُ حَدِّثْنِي مَا سَمِعْتَ مِنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الدَّجَّالِ ‏.‏ قَالَ ‏ "‏ إِنَّ الدَّجَّالَ يَخْرُجُ وَإِنَّ مَعَهُ مَاءً وَنَارًا فَأَمَّا الَّذِي يَرَاهُ النَّاسُ مَاءً فَنَارٌ تُحْرِقُ وَأَمَّا الَّذِي يَرَاهُ النَّاسُ نَارًا فَمَاءٌ بَارِدٌ عَذْبٌ فَمَنْ أَدْرَكَ ذَلِكَ مِنْكُمْ فَلْيَقَعْ فِي الَّذِي يَرَاهُ نَارًا فَإِنَّهُ مَاءٌ عَذْبٌ طَيِّبٌ ‏"‏ ‏.‏ فَقَالَ عُقْبَةُ وَأَنَا قَدْ، سَمِعْتُهُ تَصْدِيقًا، لِحُذَيْفَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا علي بن حجر، حدثنا شعيب بن صفوان، عن عبد الملك بن عمير، عن ربعي، بن حراش عن عقبة بن عمرو ابي مسعود الانصاري، قال انطلقت معه الى حذيفة بن اليمان فقال له عقبة حدثني ما سمعت من رسول الله صلى الله عليه وسلم في الدجال . قال " ان الدجال يخرج وان معه ماء ونارا فاما الذي يراه الناس ماء فنار تحرق واما الذي يراه الناس نارا فماء بارد عذب فمن ادرك ذلك منكم فليقع في الذي يراه نارا فانه ماء عذب طيب " . فقال عقبة وانا قد، سمعته تصديقا، لحذيفة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আলী ইবনু হুজর (রহঃ) ..... উকবাহ ইবনু আম্‌র ও আবু মাসউদ আনসারী (রাযিঃ) থেকে বর্ণিত। রিবাঈ ইবনু হিরাশ (রহঃ) বলেন, আমি উকবাহ ইবনু আমির আবূ মাসউদ আনসারী (রাযিঃ) এর সাথে হুযাইফাহ্ ইবনু ইয়ামান (রাযিঃ) এর নিকট গেলাম। তারপর উকবাহ (রাযিঃ) হুযইফাহ্ (রাযিঃ) কে বললেন, আপনি দাজ্জাল বিষয়ে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে যা যা শুনেছেন তা আমাদেরকেও শুনান। তিনি বললেন, দাজ্জাল যখন আবির্ভূত হবে তখন তার সাথে পানি ও আগুন থাকবে। কিন্তু মানুষ যেটাকে বাহ্যত পানি দেখবে সেটা হবে দাহনশীল অগ্নি। আর যেটাকে মানুষ বাহ্যত অগ্নি দেখবে সেটা হবে সুমিষ্ট ঠাণ্ডা পানি। কাজেই তোমাদের মধ্যে যে কেউ এ সময়কাল পায় সে যেন দৃশ্যত যাকে অগ্নি দেখা যাচ্ছে তাতেই প্রবেশ করে। কেননা প্রকৃতপক্ষে সেটা হবে সুমিষ্ট পানি। তারপর হুযাইফার সমর্থন করে উকবাহ্ (রাযিঃ) বলেন, আমিও রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে এ হাদীস শুনেছি। (ইসলামিক ফাউন্ডেশন ৭১০৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Uqba b. 'Amr Abu Mas'ud al-Ansari reported:I went to Hudhaifa b. Yaman and said to him: Narrate what you have heard from Allah's Messenger (ﷺ) pertaining to the Dajjal. He said that the Dajjal would appear and there would be along with him water and fire and what the people would see as water that would be fire and that would burn and what would appear as fire that would be water and any one of you who would see that should plunge in that which he sees as fire for it would be sweet, pure water, and 'Uqba said: I also heard it, testifying Hudhaifa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## French
 
+Rapporté par Uqba ibn Amr Abu Mas’ud al-Ansari رضي الله عنه : Je suis allé voir Hudhayfa ibn al-Yaman et je lui ai dit : « Raconte-moi ce que tu as entendu du Messager d’Allah ﷺ au sujet du Dajjal. » Il a dit : « Le Dajjal apparaîtra, accompagné d’eau et de feu. Ce que les gens verront comme de l’eau sera en réalité du feu qui brûle, et ce qui semblera être du feu sera de l’eau. Si l’un d’entre vous voit cela, qu’il plonge dans ce qui ressemble au feu, car ce sera de l’eau douce et pure. » Uqba a ajouté : « Je l’ai entendu aussi, et je confirme ce que dit Hudhayfa. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஹுதைஃபா பின் அல்யமான் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் தஜ்ஜால் தொடர்பாகக் கூறுகையில், "அவனுடன் நீரும் நெருப்பும் இருக்கும். அவனிடம் உள்ள நெருப்பானது (உண்மையில்) குளிர்ந்த நீராகும். அவனிடமுள்ள நீர் (உண்மையில்) நெருப்பாகும். ஆகவே, (அவனிடமுள்ள தண்ணீரை நம்பி) அழிந்து விடாதீர்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. இந்த ஹதீஸை நானும் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடமிருந்து செவியுற்றுள்ளேன் என அபூமஸ்ஊத் உக்பா பின் அம்ர் அல்அன்சாரீ (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ali b. Hucur rivayet etti. (Dediki): Bize Şuayb b. Safvan, Abdü'l-Melik b. Umeyr'den, o da Rıb'î b. Hîraş'dan, o da Ukbe b. Amr Ebû Mes'ud El-Ensârî'den naklen rivayet etti. (Demişki): Onunla birlikte Huzeyfe b. Yeman'a gittim. Ukbe ona: Resûlullah (Sallallahu Aleyhi ve Sellem)'den Deccal hakkında işittiklerinden bana rivayet et, dedi. Huzeyfe şunu söyledi: «Şüphesiz Deccal çıkacaktır. Ve şüphesiz beraberinde su ve ateş olacaktır. Ama insanların su gördüğü şey ateştir, yakar. İnsanların ateş gördüğü şey ise tatlı soğuk sudur. Sizden buna kim erişirse ateş gördüğüne koşsun. Çünkü o güzel tatlı sudur.» Müteakiben Ukbe, Huzeyfe'yi tasdik ederek: Onu ben de işittim, demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت ابو مسعود رضی اللہ تعالیٰ عنہ نے کہا : میں نے بھی یہ حدیث رسول اللہ صلی اللہ علیہ وسلم سے سنی تھی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7369</td></tr><tr><td>Arabic No</td><td>2935.01</td></tr><tr><td>Reference</td><td>Book 54 Hadith 131</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7369 |
+| Arabic No | 2935.01 |
+| Reference | Book 54 Hadith 131 |

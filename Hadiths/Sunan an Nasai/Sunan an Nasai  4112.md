@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ أَبِي وَائِلٍ، قَالَ قَالَ عَبْدُ اللَّهِ سِبَابُ الْمُسْلِمِ فُسُوقٌ وَقِتَالُهُ كُفْرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 37 Hadith 147</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |
+
 اخبرنا قتيبة بن سعيد، قال حدثنا جرير، عن منصور، عن ابي وايل، قال قال عبد الله سباب المسلم فسوق وقتاله كفر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 37 Hadith 147</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা ইবন সাঈদ (রহঃ) ... আবূ ওয়ায়ল (রহঃ) থেকে বর্ণিত যে, আবদুল্লাহ (রাঃ) বলেছেনঃ মুসলিমকে গালি দেয়া পাপ এবং তার সাথে যুদ্ধ করা কুফরী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 37 Hadith 147</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Wa'il said:"'Abdullah said: 'Defaming a Muslim is evildoing and fighting him is Kufr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 37 Hadith 147</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |
+
+## French
+
+Rapporté par Abu Wa'il : "'Abdullah a dit : 'Insulter un musulman est une mauvaise action et le combattre est un acte de mécréance
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah bin Sa'id\], ia berkata; telah menceritakan kepada kami \[Jarir\] dari \[Manshur\] dari \[Abu Wail\], ia berkata; \[Abdullah\] berkata; Mencela seorang muslim adalah kefasikan dan membunuhnya adalah kekafiran
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah bin Sa'id], ia berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Abu Wail], ia berkata; [Abdullah] berkata; Mencela seorang muslim adalah kefasikan dan membunuhnya adalah kekafiran
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 37 Hadith 147</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 37 Hadith 147</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4112</td></tr><tr><td>Arabic No</td><td>4112</td></tr><tr><td>Reference</td><td>Book 37 Hadith 147</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4112 |
+| Arabic No | 4112 |
+| Reference | Book 37 Hadith 147 |

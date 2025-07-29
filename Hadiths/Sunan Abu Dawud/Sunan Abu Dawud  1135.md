@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو الْمُغِيرَةِ، حَدَّثَنَا صَفْوَانُ، حَدَّثَنَا يَزِيدُ بْنُ خُمَيْرٍ الرَّحْبِيُّ، قَالَ خَرَجَ عَبْدُ اللَّهِ بْنُ بُسْرٍ صَاحِبُ رَسُولِ اللَّهِ صلى الله عليه وسلم مَعَ النَّاسِ فِي يَوْمِ عِيدِ فِطْرٍ أَوْ أَضْحَى فَأَنْكَرَ إِبْطَاءَ الإِمَامِ فَقَالَ إِنَّا كُنَّا قَدْ فَرَغْنَا سَاعَتَنَا هَذِهِ وَذَلِكَ حِينَ التَّسْبِيحِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
+
 حدثنا احمد بن حنبل، حدثنا ابو المغيرة، حدثنا صفوان، حدثنا يزيد بن خمير الرحبي، قال خرج عبد الله بن بسر صاحب رسول الله صلى الله عليه وسلم مع الناس في يوم عيد فطر او اضحى فانكر ابطاء الامام فقال انا كنا قد فرغنا ساعتنا هذه وذلك حين التسبيح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
 
 ## Bengali
 
+। ইয়াযীদ ইবনু খুমাইর আর-রাহাবী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবী ‘আবদুল্লাহ ইবনু বুসর (রাঃ) লোকদের সাথে ঈদুল ফিত্বর কিংবা ঈদুল আযহার সালাত আদায় করতে যান। (সালাত আরম্ভ করতে) ইমাম দেরী করায় তিনি অসন্তুষ্টি প্রকাশ করে বললেন, (রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর) যুগে এ (ইশরাকের) সময় আমরা ঈদের সালাত আদায় শেষ করতাম।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইয়াযীদ ইবনু খুমাইর আর-রাহাবী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবী ‘আবদুল্লাহ ইবনু বুসর (রাঃ) লোকদের সাথে ঈদুল ফিত্বর কিংবা ঈদুল আযহার সালাত আদায় করতে যান। (সালাত আরম্ভ করতে) ইমাম দেরী করায় তিনি অসন্তুষ্টি প্রকাশ করে বললেন, (রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর) যুগে এ (ইশরাকের) সময় আমরা ঈদের সালাত আদায় শেষ করতাম।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Busr: Yazid ibn Khumayr ar-Rahbi said: Abdullah ibn Busr, the Companion of the Messenger of Allah (ﷺ) came out along with the people on the day of the breaking of the fast or on the day of sacrifice (to offer the prayer). He disliked the delay of the imam, and said: We would finish (our 'Id prayer) at this moment, that is, at the time of forenoon
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
+
+## French
+
+Rapporté par Abdullah ibn Busr رضي الله عنه : Yazid ibn Khumayr ar-Rahbi a dit : Abdullah ibn Busr, compagnon du Messager d’Allah ﷺ, est sorti avec les gens le jour de la rupture du jeûne ou le jour du sacrifice (pour la prière). Il n’aimait pas que l’imam tarde, et il a dit : « Nous avions déjà terminé (notre prière de l’Aïd) à ce moment-là, c’est-à-dire dans la matinée. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Abu Al Mughirah\] telah menceritakan kepada kami \[Shufwan\] telah menceritakan kepada kami \[Yazid bin Khumair Ar Rahabi\] dia berkata; \[Abdullah bin Busr\] -salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- keluar untuk melaksanakan shalat Iedul Fithri atau Iedul Adha bersama orang-orang, dia tidak membenarkan keterlambatan imam, lalu berkata; "Sesungguhnya kami dahulu pada saat seperti ini telah selesai melaksanakan shalat." waktu itu adalah waktu Dhuha
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Abu Al Mughirah] telah menceritakan kepada kami [Shufwan] telah menceritakan kepada kami [Yazid bin Khumair Ar Rahabi] dia berkata; [Abdullah bin Busr] -salah seorang sahabat Rasulullah shallallahu 'alaihi wasallam- keluar untuk melaksanakan shalat Iedul Fithri atau Iedul Adha bersama orang-orang, dia tidak membenarkan keterlambatan imam, lalu berkata; "Sesungguhnya kami dahulu pada saat seperti ini telah selesai melaksanakan shalat." waktu itu adalah waktu Dhuha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Язида ибн Хумайра ар-Рахби, что ‘Абдуллах ибн Буср, да будет доволен им Аллах, один из сподвижников Посланника Аллаха ﷺ вышел с людьми в день праздника разговения или праздника жертвоприношения и осудил имама за медлительность, сказав: «Мы к этому времени уже заканчивали». А было это в то время, когда совершается молитва-духа
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
 
 ## Turkish
 
+Yezîd b. Humeyr er-Rahabî'den; demiştir ki: Resûlullah (s.a.v.)'in sahâbisi Abdullah b. Büsr, Fıtr (Ramazan) veya \[Şek râvilerden birine aittir.\] kurban bayramı günü insanlarla birlikte çıktı. İmamın gecikmesini yadırgayıp "Biz bu saatte namazı bitirmiş olurduk. Bu vakit nafile (kuşluk) vaktidir" dedi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yezîd b. Humeyr er-Rahabî'den; demiştir ki: Resûlullah (s.a.v.)'in sahâbisi Abdullah b. Büsr, Fıtr (Ramazan) veya [Şek râvilerden birine aittir.] kurban bayramı günü insanlarla birlikte çıktı. İmamın gecikmesini yadırgayıp "Biz bu saatte namazı bitirmiş olurduk. Bu vakit nafile (kuşluk) vaktidir" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یزید بن خمیر رحبی سے روایت ہے کہ صحابی رسول عبداللہ بن بسر رضی اللہ عنہ لوگوں کے ساتھ عید الفطر یا عید الاضحی کے دن نکلے، تو انہوں نے امام کے دیر کرنے کو ناپسند کیا اور کہا: ہم تو اس وقت عید کی نماز سے فارغ ہو جاتے تھے اور یہ اشراق پڑھنے کا وقت تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1135</td></tr><tr><td>Arabic No</td><td>1135</td></tr><tr><td>Reference</td><td>Book 2 Hadith 746</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1135 |
+| Arabic No | 1135 |
+| Reference | Book 2 Hadith 746 |

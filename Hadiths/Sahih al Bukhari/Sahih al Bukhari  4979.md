@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُوسَى، عَنْ شَيْبَانَ، عَنْ يَحْيَى، عَنْ أَبِي سَلَمَةَ، قَالَ أَخْبَرَتْنِي عَائِشَةُ، وَابْنُ، عَبَّاسٍ رضى الله عنهم قَالاَ لَبِثَ النَّبِيُّ صلى الله عليه وسلم بِمَكَّةَ عَشْرَ سِنِينَ يُنْزَلُ عَلَيْهِ الْقُرْآنُ وَبِالْمَدِينَةِ عَشْرَ سِنِينَ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبيد الله بن موسى، عن شيبان، عن يحيى، عن ابي سلمة، قال اخبرتني عايشة، وابن، عباس رضى الله عنهم قالا لبث النبي صلى الله عليه وسلم بمكة عشر سنين ينزل عليه القران وبالمدينة عشر سنين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
 ## Bengali
 
+আবূ সালামাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আয়িশাহ (রাঃ) ও ইবনু ‘আব্বাস (রাঃ) বলেছেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মক্কা্য় দশ বছর অবস্থান করেন। এ সময় তাঁর প্রতি কুরআন অবতীর্ণ হয়েছে এবং মদিনা্তেও দশ বছর (তাঁর প্রতি কুরআন অবতীর্ণ হয়েছে)। \[৩৮৫১, ৪৪৬৪\] (আধুনিক প্রকাশনীঃ ৪৬০৯, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সালামাহ (রাঃ) হতে বর্ণিত। তিনি বলেন, ‘আয়িশাহ (রাঃ) ও ইবনু ‘আব্বাস (রাঃ) বলেছেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম মক্কা্য় দশ বছর অবস্থান করেন। এ সময় তাঁর প্রতি কুরআন অবতীর্ণ হয়েছে এবং মদিনা্তেও দশ বছর (তাঁর প্রতি কুরআন অবতীর্ণ হয়েছে)। [৩৮৫১, ৪৪৬৪] (আধুনিক প্রকাশনীঃ ৪৬০৯, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aisha and Ibn 'Abbas:The Prophet (ﷺ) remained in Mecca for ten years, during which the Qur'an used to be revealed to him; and he stayed in Medina for ten years
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
+
+## French
+
+Rapporté par 'Aisha et Ibn 'Abbas : Le Prophète (ﷺ) est resté à La Mecque pendant dix ans, durant lesquels le Coran lui était révélé ; puis il a séjourné à Médine pendant dix ans
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ubaidullah bin Musa\] dari \[Syaiban\] dari \[Yahya\] dari \[Abu Salamah\] ia berkata; Telah mengabarkan kepadaku \[Aisyah\] dan \[Ibnu Abbas\] radliallahu 'anhum, keduanya berkata; Nabi shallallahu 'alaihi wasallam berdiam diri di Makkah selama sepuluh tahun, dan Al Qur'an diturunkan kepada beliau. Sementara di Madinah adalah juga sepuluh tahun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Syaiban] dari [Yahya] dari [Abu Salamah] ia berkata; Telah mengabarkan kepadaku [Aisyah] dan [Ibnu Abbas] radliallahu 'anhum, keduanya berkata; Nabi shallallahu 'alaihi wasallam berdiam diri di Makkah selama sepuluh tahun, dan Al Qur'an diturunkan kepada beliau. Sementara di Madinah adalah juga sepuluh tahun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов ’Аишы и Ибн ‘Аббаса, да будет доволен Аллах ими обоими, что в течении десяти лет Пророку ﷺ ниспосылался Коран, пока он был в Мекке, а затем, в течении десяти лет, Коран ниспосылался в Медине»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஆயிஷா (ரலி) அவர்களும் இப்னு அப்பாஸ் (ரலி) அவர்களும் கூறியதாவது: நபி (ஸல்) அவர்கள் தம்மீது குர்ஆன் அருளப்பெற்றுக்கொண்டிருந்த நிலையில் (தம் பிறந்தகமான) மக்காவில் பத்தாண்டுகள் தங்கி இருந்தார்கள். (ஹிஜ்ரத்திற்குப் பின்) மதீனாவில் பத்தாண்டுகள் தங்கியிருந்தார்கள்.2 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Aişe ve İbn Abbas'tan şöyle dedikleri rivayet edilmiştir: "Nebi Sallallahu Aleyhi ve Sellem, vahiy inmeye başladıktan sonra Mekke'de on yıl kaldı. Medine'de de on yıl kaldı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4979</td></tr><tr><td>Arabic No</td><td>4979</td></tr><tr><td>Reference</td><td>Book 66 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4979 |
+| Arabic No | 4979 |
+| Reference | Book 66 Hadith 1 |

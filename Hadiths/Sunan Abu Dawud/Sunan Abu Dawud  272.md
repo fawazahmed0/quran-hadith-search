@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ عِكْرِمَةَ، عَنْ بَعْضِ، أَزْوَاجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا أَرَادَ مِنَ الْحَائِضِ شَيْئًا أَلْقَى عَلَى فَرْجِهَا ثَوْبًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن ايوب، عن عكرمة، عن بعض، ازواج النبي صلى الله عليه وسلم ان النبي صلى الله عليه وسلم كان اذا اراد من الحايض شييا القى على فرجها ثوبا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
 
 ## Bengali
 
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোন এক স্ত্রী সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ঋতুবতী স্ত্রীর সাথে কিছু করতে চাইলে স্ত্রীর লজ্জাস্থানের উপর কাপড় রেখে তারপর করতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোন এক স্ত্রী সূত্রে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর ঋতুবতী স্ত্রীর সাথে কিছু করতে চাইলে স্ত্রীর লজ্জাস্থানের উপর কাপড় রেখে তারপর করতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated One of the Wives of the Prophet: Ikrimah reported on the authority of one of the wives of the Prophet (ﷺ) saying: When the Prophet (ﷺ) wanted to do something (i.e. kissing, embracing) with (his) menstruating wife, he would put a garment on her private part
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
+
+## French
+
+Rapporté par l’une des épouses du Prophète ﷺ : Ikrimah rapporte d’après l’une des épouses du Prophète ﷺ : Quand le Prophète ﷺ voulait faire quelque chose (comme embrasser ou enlacer) avec son épouse qui avait ses règles, il mettait un vêtement sur sa partie intime
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Hammad\] dari \[Ayyub\] dari \[Ikrimah\] dari \[sebagian istri-istri Nabi shallallahu 'alaihi wasallam\], bahwasanya Nabi shallallahu 'alaihi wasallam apabila menginginkan sesuatu dari istrinya yang sedang haidl, beliau menutup kemaluan istrinya dengan suatu kain
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Ikrimah] dari [sebagian istri-istri Nabi shallallahu 'alaihi wasallam], bahwasanya Nabi shallallahu 'alaihi wasallam apabila menginginkan sesuatu dari istrinya yang sedang haidl, beliau menutup kemaluan istrinya dengan suatu kain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Икрима со слов некоторых из жен Пророка ﷺ рассказывал: «Когда Пророк ﷺ хотел что-то от той, у которой менструации, он накидывал на их половые органы одежду»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İkrime, Rasulullah (Sallallahu aleyhi ve Sellem)’in hanımlarının birinin şöyle dediğini rivayet etmiştir: "Rasulullah (Sallallahu aleyhi ve Sellem) hayızlı olan (bir hanımından bir şey (cima dışında faydalanmak) istediği zaman, hanımının ferci üzerine bir bez örterdi." Diğer tahric: Ahmed b. Hanbel Müsnedinde
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عکرمہ بعض ازواج مطہرات رضی اللہ عنہن سے روایت کرتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم حائضہ سے جب کچھ کرنا چاہتے تو ان کی شرمگاہ پر ایک کپڑا ڈال دیتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>272</td></tr><tr><td>Arabic No</td><td>272</td></tr><tr><td>Reference</td><td>Book 1 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 272 |
+| Arabic No | 272 |
+| Reference | Book 1 Hadith 272 |

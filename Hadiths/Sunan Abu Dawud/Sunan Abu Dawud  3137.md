@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبَّاسٌ الْعَنْبَرِيُّ، حَدَّثَنَا عُثْمَانُ بْنُ عُمَرَ، حَدَّثَنَا أُسَامَةُ، عَنِ الزُّهْرِيِّ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم مَرَّ بِحَمْزَةَ وَقَدْ مُثِّلَ بِهِ وَلَمْ يُصَلِّ عَلَى أَحَدٍ مِنَ الشُّهَدَاءِ غَيْرِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
+
 حدثنا عباس العنبري، حدثنا عثمان بن عمر، حدثنا اسامة، عن الزهري، عن انس، ان النبي صلى الله عليه وسلم مر بحمزة وقد مثل به ولم يصل على احد من الشهداء غيره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হামযাহ (রাঃ)-এর লাশের পাশ দিয়ে অতিক্রমকালে দেখলেন, তার মৃতদেহ বিকৃত করা হয়েছে। তিনি হামযাহ (রাঃ) ছাড়া অন্য কোনো শহীদ জানাযা পড়েননি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas ibn Malik: The Prophet (ﷺ) passed by Hamzah who was disfigured (after being killed). He did not offer prayer over any martyr except him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
+
+## French
+
+Rapporté par Anas ibn Malik : Le Prophète ﷺ est passé devant Hamzah, qui avait été mutilé après avoir été tué. Il n’a pas fait la prière funéraire sur un martyr, sauf sur lui
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abbas Al 'Anbari\], telah menceritakan kepada kami \[Utsman bin Umar\], telah menceritakan kepada kami \[Usamah\] dari \[Az Zuhri\], dari \[Anas\] bahwa Nabi shallallahu 'alaihi wasallam melewati Hamzah dan ia telah dicincang dan beliau tidak menshalatkan seorang pun dari para syuhada' selainnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abbas Al 'Anbari], telah menceritakan kepada kami [Utsman bin Umar], telah menceritakan kepada kami [Usamah] dari [Az Zuhri], dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam melewati Hamzah dan ia telah dicincang dan beliau tidak menshalatkan seorang pun dari para syuhada' selainnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса, да будет доволен им Аллах, , что Пророк ﷺ прошёл мимо обезображенного тела Хамзы и не совершал погребальную молитву ни над одним из павших в бою, кроме Хамзы
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (r.a)'den (rivayet edildiğine göre), Nebi (s.a.v.) Hamza'nın organları kesilmiş bir halde (yatan cesedinin) yanına varmış ve ondan başka (Uhud) şehidleri(nin hiçbiri) üzerine namaz kılmamıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم حمزہ رضی اللہ عنہ کے پاس سے گزرے، دیکھا کہ ان کا مثلہ کر دیا گیا ہے، آپ صلی اللہ علیہ وسلم نے ان کے علاوہ کسی اور کی نماز جنازہ نہیں پڑھی ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3137</td></tr><tr><td>Arabic No</td><td>3137</td></tr><tr><td>Reference</td><td>Book 21 Hadith 49</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3137 |
+| Arabic No | 3137 |
+| Reference | Book 21 Hadith 49 |

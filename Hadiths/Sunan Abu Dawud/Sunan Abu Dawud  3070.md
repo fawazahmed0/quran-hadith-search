@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ، وَمُوسَى بْنُ إِسْمَاعِيلَ، - الْمَعْنَى وَاحِدٌ - قَالاَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ حَسَّانَ الْعَنْبَرِيُّ، حَدَّثَتْنِي جَدَّتَاىَ، صَفِيَّةُ وَدُحَيْبَةُ ابْنَتَا عُلَيْبَةَ وَكَانَتَا رَبِيبَتَىْ قَيْلَةَ بِنْتِ مَخْرَمَةَ وَكَانَتْ جَدَّةَ أَبِيهِمَا أَنَّهَا أَخْبَرَتْهُمَا قَالَتْ، قَدِمْنَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَتْ تَقَدَّمَ صَاحِبِي - تَعْنِي حُرَيْثَ بْنَ حَسَّانَ وَافِدَ بَكْرِ بْنِ وَائِلٍ - فَبَايَعَهُ عَلَى الإِسْلاَمِ عَلَيْهِ وَعَلَى قَوْمِهِ ثُمَّ قَالَ يَا رَسُولَ اللَّهِ اكْتُبْ بَيْنَنَا وَبَيْنَ بَنِي تَمِيمٍ بِالدَّهْنَاءِ أَنْ لاَ يُجَاوِزَهَا إِلَيْنَا مِنْهُمْ أَحَدٌ إِلاَّ مُسَافِرٌ أَوْ مُجَاوِرٌ ‏.‏ فَقَالَ ‏"‏ اكْتُبْ لَهُ يَا غُلاَمُ بِالدَّهْنَاءِ ‏"‏ ‏.‏ فَلَمَّا رَأَيْتُهُ قَدْ أَمَرَ لَهُ بِهَا شُخِصَ بِي وَهِيَ وَطَنِي وَدَارِي فَقُلْتُ يَا رَسُولَ اللَّهِ إِنَّهُ لَمْ يَسْأَلْكَ السَّوِيَّةَ مِنَ الأَرْضِ إِذْ سَأَلَكَ إِنَّمَا هِيَ هَذِهِ الدَّهْنَاءُ عِنْدَكَ مُقَيَّدُ الْجَمَلِ وَمَرْعَى الْغَنَمِ وَنِسَاءُ بَنِي تَمِيمٍ وَأَبْنَاؤُهَا وَرَاءَ ذَلِكَ فَقَالَ ‏"‏ أَمْسِكْ يَا غُلاَمُ صَدَقَتِ الْمِسْكِينَةُ الْمُسْلِمُ أَخُو الْمُسْلِمِ يَسَعُهُمَا الْمَاءُ وَالشَّجَرُ وَيَتَعَاوَنَانِ عَلَى الْفُتَّانِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
+
 حدثنا حفص بن عمر، وموسى بن اسماعيل، - المعنى واحد - قالا حدثنا عبد الله بن حسان العنبري، حدثتني جدتاى، صفية ودحيبة ابنتا عليبة وكانتا ربيبتى قيلة بنت مخرمة وكانت جدة ابيهما انها اخبرتهما قالت، قدمنا على رسول الله صلى الله عليه وسلم قالت تقدم صاحبي - تعني حريث بن حسان وافد بكر بن وايل - فبايعه على الاسلام عليه وعلى قومه ثم قال يا رسول الله اكتب بيننا وبين بني تميم بالدهناء ان لا يجاوزها الينا منهم احد الا مسافر او مجاور . فقال " اكتب له يا غلام بالدهناء " . فلما رايته قد امر له بها شخص بي وهي وطني وداري فقلت يا رسول الله انه لم يسالك السوية من الارض اذ سالك انما هي هذه الدهناء عندك مقيد الجمل ومرعى الغنم ونساء بني تميم وابناوها وراء ذلك فقال " امسك يا غلام صدقت المسكينة المسلم اخو المسلم يسعهما الماء والشجر ويتعاونان على الفتان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । উলাইবার দু’ কন্যা সফিয়্যাহ ও দুহাইবাহ (রহঃ) সূত্রে বর্ণিত। তারা উভয়ে মাখরামাহর কন্যা কাইলাহ (রাঃ)-এর তত্ত্বাবধানে প্রতিপালিত হন। তিনি তাদের পিতার দাদী ছিলেন। তিনি তাদের উভয়কে এ হাদীস সম্পর্কে জানিয়েছেন। তিনি বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে গেলাম। আমার সঙ্গী বাকর ইবনু ওয়াইল গোত্রের প্রতিনিধি হুরাইস ইবনু হাসসান অগ্রসর হয়ে নিজের ও তাদের গোষ্ঠীর পক্ষ থেকে তাঁর নিকট ইসলাম কবূলের বাই‘আত গ্রহণ করলেন। অতঃপর তিনি বললেনঃ হে আল্লাহর রাসূল! আমাদের ও বনূ তামীম গোত্রের মধ্যে আদ-দাহনাকে সীমান্ত হিসেবে চিহ্নিত করে দিন। তাদের কেউ এ স্থানটি অতিক্রম করে আমাদের এদিকে আসবে, তবে মুসাফিরের কথা ভিন্ন। তিনি বললেনঃ হে যুবক! তাকে আদ-দাহনাহ সম্পর্কে লিখে দাও। কাইলাহ (রাঃ) বলেন, আমি যখন দেখলাম যে, তিনি তাকে ঐ স্থানটি লিখে দেয়ার নির্দেশ দিয়েছেন, তখন আমার চিন্তা হলো। কেননা আদ-দাহনাহ আমার জন্মভূমি। এখানেই আমার ঘর-বাড়ি। আমি বললাম, হে আল্লাহর রাসূল! সে আপনার কাছে সঠিক সীমানা ইনসাফ সহকারে বলেনি। এই আদ-দাহনাহ হচ্ছে উট বাঁধার ও বকরী চড়াবার চরম ভূমি। বনূ তামীম গোত্রের নারী ও শিশুরা এর পিছনেই বসবাস করে। এ কথা শুনে তিনি বললেনঃ হে যুবক! (লিখা) থামাও। এ মহিলা সত্যিই বলেছে। মুসলিম পরস্পর ভাই ভাই। একজনের পানি এবং গাছের দ্বারা অন্যজন উপকৃত হবে এবং বিপদে পরস্পরের সাহায্য করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Qaylah bint Makhramah: Abdullah ibn Hasan al-Anbari said: My grandmothers, Safiyyah and Duhaybah, narrated to me, that hey were the daughters of Ulaybah and were nourished by Qaylah, daughter of Makhramah. She was the grandmother of their father. She reported to them, saying: We came upon the Messenger of Allah (ﷺ). My companion, Hurayth ibn Hassan, came to him as a delegate from Bakr ibn Wa'il. He took the oath of allegiance of Islam for himself and for his people. He then said: Messenger of Allah (ﷺ), write a document for us, giving us the land lying between us and Banu Tamim at ad-Dahna' to the effect that not one of them will cross it in our direction except a traveller or a passer-by. He said: Write down ad-Dahna' for them, boy. When I saw that he passed orders to give it to him, I became anxious, for it was my native land and my home. I said: Messenger of Allah, he did not ask you for a true border when he asked you. This land of Dahna' is a place where the camels have their home, and it is a pasture for the sheep. The women of Banu Tamim and their children are beyond it. He said: Stop, boy! A poor woman spoke the truth: a Muslim is a brother of a Muslim. Each one of them may benefit from water and trees, and they should cooperate with each other against Satan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
+
+## French
+
+Rapporté par Qaylah bint Makhramah رضي الله عنها : Abdullah ibn Hasan al-Anbari a dit : Mes grands-mères, Safiyyah et Duhaybah, m’ont raconté qu’elles étaient les filles d’Ulaybah et qu’elles avaient été élevées par Qaylah, fille de Makhramah, la grand-mère de leur père. Elle leur a rapporté : Nous sommes allées voir le Messager d’Allah ﷺ. Mon compagnon, Hurayth ibn Hassan, est venu à lui comme délégué de Bakr ibn Wa’il. Il a prêté serment d’allégeance à l’islam pour lui-même et pour son peuple. Il a ensuite dit : Messager d’Allah ﷺ, écris-nous un document nous attribuant la terre entre nous et Banu Tamim à ad-Dahna’, afin qu’aucun d’eux ne la traverse vers nous sauf en tant que voyageur ou passant. Il a dit : Écris-leur ad-Dahna’, garçon. Quand j’ai vu qu’il lui donnait cet ordre, j’ai eu peur, car c’était ma terre natale et mon foyer. J’ai dit : Messager d’Allah, il ne t’a pas demandé une vraie frontière en te demandant cela. Cette terre de Dahna’ est un lieu où les chameaux vivent, et c’est un pâturage pour les moutons. Les femmes de Banu Tamim et leurs enfants sont au-delà. Il a dit : Arrête, garçon ! Une pauvre femme a dit la vérité : un musulman est le frère d’un autre musulman. Chacun peut profiter de l’eau et des arbres, et ils doivent s’entraider contre Satan
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hafsh bin Umar\], dan \[Musa bin Isma'il\] secara makna adalah satu. Mereka berkata; telah menceritakan kepada kami \[Abdullah bin Hassan Al 'Anbari\] telah menceritakan kepadaku kedua nenekku yaitu \[Shafiyyah\] dan \[Duhaibah\] dua anak wanita 'Ulaibah. Dan mereka berdua adalah dua anak asuh \[Qailah binti Makhramah\], dan ia adalah nenek ayah mereka berdua, bahwa ia telah mengabarkan kepada mereka berdua, ia berkata; kami datang kepada Rasulullah shallallahu 'alaihi wasallam, kemudian sahabatku yaitu Huraits bin Hassan utusan Bakr bin Wail maju ke depan, kemudian beliau membai'atnya ia dan kaumnya harus berada di atas Islam. Kemudian ia berkata; wahai Rasulullah, tulislah antara kami dan Bani Tamim di Ad Dahna' di Ad Dahna' agar tidak ada seorangpun yang melampauinya kepada kami kecuali orang musafir atau orang yang bertetangga. Kemudian beliau berkata: "Tuliskan untuknya wahai pembantu, di Ad Dahnah', bahwa tidak ada menewatinya menuju kepada kami seorang pun diantara mereka kecuali orang y ang bersafar, atau orang yang bertetangga." Kemudian tatkala aku melihat beliau memerintahkan agar menuliskan hal tersebut maka aku merasa gelisah, Ad Dahna' adalah negeriku dan tempat tinggalku. Kemudian aku katakan; wahai Rasulullah, sesungguhnya ia tidak meminta kepadamu tanah datarketika ia meminta kepadamu. Sesungguhnya Ad Dahna' ini adalah tempat mengikat unta serta tempat menggembala kambing, sementara para wanita Bani Tamim dan anak-anak mereka di belakang perjanjian tersebut. Kemudian beliau berkata; tahan wahai pelayan. Wanita miskin (yaitu Qailah) itu benar, seorang muslim adalah saudara muslim yang lain, mereka berdua boleh mengambil air dan pohon serta mereka berdua saling tolang menolong melawan pembawa fitnah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hafsh bin Umar], dan [Musa bin Isma'il] secara makna adalah satu. Mereka berkata; telah menceritakan kepada kami [Abdullah bin Hassan Al 'Anbari] telah menceritakan kepadaku kedua nenekku yaitu [Shafiyyah] dan [Duhaibah] dua anak wanita 'Ulaibah. Dan mereka berdua adalah dua anak asuh [Qailah binti Makhramah], dan ia adalah nenek ayah mereka berdua, bahwa ia telah mengabarkan kepada mereka berdua, ia berkata; kami datang kepada Rasulullah shallallahu 'alaihi wasallam, kemudian sahabatku yaitu Huraits bin Hassan utusan Bakr bin Wail maju ke depan, kemudian beliau membai'atnya ia dan kaumnya harus berada di atas Islam. Kemudian ia berkata; wahai Rasulullah, tulislah antara kami dan Bani Tamim di Ad Dahna' di Ad Dahna' agar tidak ada seorangpun yang melampauinya kepada kami kecuali orang musafir atau orang yang bertetangga. Kemudian beliau berkata: "Tuliskan untuknya wahai pembantu, di Ad Dahnah', bahwa tidak ada menewatinya menuju kepada kami seorang pun diantara mereka kecuali orang y ang bersafar, atau orang yang bertetangga." Kemudian tatkala aku melihat beliau memerintahkan agar menuliskan hal tersebut maka aku merasa gelisah, Ad Dahna' adalah negeriku dan tempat tinggalku. Kemudian aku katakan; wahai Rasulullah, sesungguhnya ia tidak meminta kepadamu tanah datarketika ia meminta kepadamu. Sesungguhnya Ad Dahna' ini adalah tempat mengikat unta serta tempat menggembala kambing, sementara para wanita Bani Tamim dan anak-anak mereka di belakang perjanjian tersebut. Kemudian beliau berkata; tahan wahai pelayan. Wanita miskin (yaitu Qailah) itu benar, seorang muslim adalah saudara muslim yang lain, mereka berdua boleh mengambil air dan pohon serta mereka berdua saling tolang menolong melawan pembawa fitnah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Кайли бинт Махрама, да будет доволен ею Аллах: «Мы прибыли к Посланнику Аллаха ﷺ и мой спутник Хурайс ибн Хассан, делегат бану Бакр ибн Ваиль, опередил меня и принёс ему присягу от своего имени и от имени своего народа, а потом сказал: “О Посланник Аллаха! Напиши мне грамоту о том, что бану тамим не должны переходить Дехну, за исключением путешественника и желающего попросить защиты”. (Посланник Аллаха ﷺ) сказал: “О юноша, напиши ему насчёт Дехны”. Когда я увидела, что он велел сделать это, меня задело это, ведь это был мой дом, моя родина, и я сказала: “О Посланник Аллаха! Поистине, он не о простой земле просил тебя… Он о Дехне говорит, пастбище верблюдов и овец. А за ними женщины Тамима и его сыны”. (Посланник Аллаха ﷺ) сказал: “Подожди, о юноша. Бедняжка правду сказала… Мусульманин мусульманину брат. Они не делят воду и землю и помогают друг другу против смутьяна”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Safiyye bint Uleybe ile Duheybe bint Uleybe'nin haber verdiklerine göre, babalarının ninesi olan, Kayle bint Mahreme kendilerine (şöyle) demiştir: "Rasûlullah (s.a.v.)'in yanına gelmiştik. Bekr b. Vail (oğulların)ın elçisi (olan) arkadaşım Hureys b. Hassan öne geçip îslârniyet(e bağlı kalmak üzere) kendi ve kavmi adına Rasûlullah (s.a.v.)'e biat etti. Sonra "Ey Allah'ın Rasûlü! Bizimle Temim oğulları arasında Dehna (mevkii) hakkında (yani) onlardan yolcuların ya da (oradan mecburen) geçenlerin dışında hiçbir kimsenin oraya girmeyeceğine dair (bir belge) yaz" (ılmasım emret) dedi. Bunun üzerine Hz. Nebi katiplerinden birisine emr edip "Ey Oğul! Hureys için Dehna hakkında (bir belge) yaz" dedi. Ben (Hz. Nebi'in) Dehna hakkında Hureys'(in arzusuna uygun bir şekilde idare edilmesi) için emrettiğini görünce, oranın kendi memleketim ve ülkem olması cihetiyle beni bir üzüntü kapladı bunun üzerine "Ey Allah'ın Rasûlü o sen'den istediği zaman (bu) yerlerden adaletli bir istekte bulunmadı, işte bu Dehna senin yakınında bulunuyor, (orası) Develerin ve koyunların merasıdır. Temim oğullarının kadınları ve oğulları da hemen o'nun arkasındadır" Deyiverdim. (Hz. Peygamber de) "Ey oğul! (bu anlaşma metnini yazmaktan) vazgeç (çünkü bu) kadıncağız doğru söyledi, müslüman müslüman'ın kardeşidir. Dehna'da (bulunan) su ve ağaç her ikisi için de müşterektir, (orada) fitnecilere karşı yardımlaşırlar" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن حسان عنبری کا بیان ہے کہ مجھ سے میری دادی اور نانی صفیہ اور دحیبہ نے حدیث بیان کی یہ دونوں علیبہ کی بیٹیاں تھیں اور قیلہ بنت مخرمہ رضی اللہ عنہا کی پروردہ تھیں اور قیلہ ان دونوں کے والد کی دادی تھیں، قیلہ نے ان سے بیان کیا کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے اور ہمارا ساتھی حریث بن حسان جو بکر بن وائل کی طرف پیامبر بن کر آیا تھا ہم سے آگے بڑھ کر رسول اللہ صلی اللہ علیہ وسلم کے پاس پہنچ گیا، اور آپ سے اسلام پر اپنی اور اپنی قوم کی طرف سے بیعت کی پھر عرض کیا: اللہ کے رسول! ہمارے اور بنو تمیم کے درمیان دہناء ۱؎ کو سرحد بنا دیجئیے، مسافر اور پڑوسی کے سوا اور کوئی ان میں سے آگے بڑھ کر ہماری طرف نہ آئے، تو آپ صلی اللہ علیہ وسلم نے فرمایا: اے غلام! دہناء کو انہیں لکھ کر دے دو ، قیلہ کہتی ہیں: جب میں نے دیکھا کہ رسول اللہ صلی اللہ علیہ وسلم نے دہناء انہیں دے دیا تو مجھے اس کا ملال ہوا کیونکہ وہ میرا وطن تھا اور وہیں میرا گھر تھا، میں نے کہا: اللہ کے رسول! انہوں نے اس زمین کا آپ سے مطالبہ کر کے مبنی پر انصاف مطالبہ نہیں کیا ہے، دہناء اونٹوں کے باندھنے کی جگہ اور بکریوں کی چراگاہ ہے اور بنی تمیم کی عورتیں اور بچے اس کے پیچھے رہتے ہیں تو آپ صلی اللہ علیہ وسلم نے فرمایا: اے غلام رک جاؤ! ( مت لکھو ) بڑی بی صحیح کہہ رہی ہیں، مسلمان مسلمان کا بھائی ہے ایک دوسرے کے درختوں اور پانی سے فائدہ اٹھا سکتا ہے اور مصیبتوں و فتنوں میں ایک دوسرے کی مدد کر سکتے اور کام آ سکتے ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3070</td></tr><tr><td>Arabic No</td><td>3070</td></tr><tr><td>Reference</td><td>Book 20 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3070 |
+| Arabic No | 3070 |
+| Reference | Book 20 Hadith 143 |

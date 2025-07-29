@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، أَخْبَرَنَا سُلَيْمَانُ التَّيْمِيُّ، بِالإِسْنَادَيْنِ جَمِيعًا ‏.‏ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا يزيد بن هارون، اخبرنا سليمان التيمي، بالاسنادين جميعا . مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) আবূ বকর ইবনু আবূ শাইবাহ ও সুলাইমান তাইমী (রহঃ) সবাই তার অবিকল রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৬২৫৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been reported on the authority of Sulaiman Taimi through other chains of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## French
 
+Ce hadith a été rapporté par Sulaiman Taimi à travers d’autres chaînes de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-218-3) Bize Ebu Bekr b. Ebi Şeybe rivayet etti. (Dediki): Bize Yezid b Harun rivayet etti. (Dediki): Bize Süleyman Et-Teymi iki ısnadla birden bu hadisin mislini haber verdi. İZAH 2539 DA
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یزید بن ہارون نے کہا : ہمیں سلیمان تیمی نے دونوں سندوں سے اسی کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6484</td></tr><tr><td>Arabic No</td><td>2538.04</td></tr><tr><td>Reference</td><td>Book 44 Hadith 313</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6484 |
+| Arabic No | 2538.04 |
+| Reference | Book 44 Hadith 313 |

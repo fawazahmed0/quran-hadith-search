@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ حُزَابَةَ، حَدَّثَنَا إِسْحَاقُ، - يَعْنِي ابْنَ مَنْصُورٍ - حَدَّثَنَا إِسْرَائِيلُ، عَنْ أَبِي يَحْيَى، عَنْ مُجَاهِدٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ مَرَّ عَلَى النَّبِيِّ صلى الله عليه وسلم رَجُلٌ عَلَيْهِ ثَوْبَانِ أَحْمَرَانِ فَسَلَّمَ عَلَيْهِ فَلَمْ يَرُدَّ النَّبِيُّ صلى الله عليه وسلم عَلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
+
 حدثنا محمد بن حزابة، حدثنا اسحاق، - يعني ابن منصور - حدثنا اسراييل، عن ابي يحيى، عن مجاهد، عن عبد الله بن عمرو، قال مر على النبي صلى الله عليه وسلم رجل عليه ثوبان احمران فسلم عليه فلم يرد النبي صلى الله عليه وسلم عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, এক ব্যক্তি দু’টি লাল কাপড় পরে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পাশ দিয়ে অতিক্রমের সময় তাঁকে সালাম দিলো। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সালামের জবাব দেননি।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু আমর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, এক ব্যক্তি দু’টি লাল কাপড় পরে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পাশ দিয়ে অতিক্রমের সময় তাঁকে সালাম দিলো। কিন্তু নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার সালামের জবাব দেননি।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Amr ibn al-'As: A man wearing two red garments passed the Prophet (ﷺ) and gave him a greeting, but he did not respond to his greeting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
+
+## French
+
+Rapporté par Abdullah ibn Amr ibn al-‘As رضي الله عنه : Un homme portant deux vêtements rouges est passé devant le Prophète ﷺ et l’a salué, mais il n’a pas répondu à son salut
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Huzabah\] berkata, telah menceritakan kepada kami \[Ishaq\] -maksudnya Ishaq bin manshur- berkata, telah menceritakan kepada kami \[Isra'il\] dari \[Abu Yahya\] dari \[Mujahid\] dari \[Abdullah bin Amru\] ia berkata, "Seorang laki-laki yang mengenakan dua kain berwarna merah lewat di depan Nabi shallallahu 'alaihi wasallam seraya mengucapkan salam, namun Nabi shallallahu 'alaihi wasallam tidak menjawab salamnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Huzabah] berkata, telah menceritakan kepada kami [Ishaq] -maksudnya Ishaq bin manshur- berkata, telah menceritakan kepada kami [Isra'il] dari [Abu Yahya] dari [Mujahid] dari [Abdullah bin Amru] ia berkata, "Seorang laki-laki yang mengenakan dua kain berwarna merah lewat di depan Nabi shallallahu 'alaihi wasallam seraya mengucapkan salam, namun Nabi shallallahu 'alaihi wasallam tidak menjawab salamnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Абдуллаха ибн ‘Амра, да будет доволен Аллах им и его отцом: «Мимо Пророка ﷺ проходил один человек, на котором были две красные одежды, и он поприветствовал его, но Пророк ﷺ не ответил на его приветствие»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Amr'dan rivayet olunmuştur; dedi ki: Üzerinde (bi­ri eteklik diğeri de gömlek olmak üzere) iki kırmızı giysi bulunan bir adam Nebi (s.a.v)'e (selam vererek) geçti de Nebi (s.a.v) onun selamını almadı. Bu hadis Tirmizî. edeb tede var
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم کے پاس سے ایک شخص گزرا جس کے جسم پر دو سرخ کپڑے تھے، اس نے آپ کو سلام کیا تو آپ نے اسے جواب نہیں دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4069</td></tr><tr><td>Arabic No</td><td>4069</td></tr><tr><td>Reference</td><td>Book 34 Hadith 50</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4069 |
+| Arabic No | 4069 |
+| Reference | Book 34 Hadith 50 |

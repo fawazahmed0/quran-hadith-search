@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، قَالَ أَخْبَرَنَا ح، وَحَدَّثَنَا مُسَدَّدٌ، قَالَ حَدَّثَنَا هُشَيْمٌ، عَنْ دَاوُدَ بْنِ عَمْرٍو، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي زَكَرِيَّاءَ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّكُمْ تُدْعَوْنَ يَوْمَ الْقِيَامَةِ بِأَسْمَائِكُمْ وَأَسْمَاءِ آبَائِكُمْ فَأَحْسِنُوا أَسْمَاءَكُمْ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ابْنُ أَبِي زَكَرِيَّاءَ لَمْ يُدْرِكْ أَبَا الدَّرْدَاءِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
+
 حدثنا عمرو بن عون، قال اخبرنا ح، وحدثنا مسدد، قال حدثنا هشيم، عن داود بن عمرو، عن عبد الله بن ابي زكرياء، عن ابي الدرداء، قال قال رسول الله صلى الله عليه وسلم " انكم تدعون يوم القيامة باسمايكم واسماء ابايكم فاحسنوا اسماءكم " . قال ابو داود ابن ابي زكرياء لم يدرك ابا الدرداء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
 
 ## Bengali
 
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন তোমাদেরকে, তোমাদের ও তোমাদের পিতাদের নাম ধরে ডাকা হবে। তাই তোমরা তোমাদের সুন্দর নামকরণ করো। ইমাম আবূ দাঊদ (রহঃ) বলেন, বর্ণনাকারী ইবনু আবূ যাকারিয়া (রহঃ) আবূ দারদা (রাঃ)-এর সাক্ষাৎ পাননি।\[1\] দুর্বলঃ মিশকাত হা/ ৪৭৬৮, যঈফাহ হা/ ৫৪৬০।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন তোমাদেরকে, তোমাদের ও তোমাদের পিতাদের নাম ধরে ডাকা হবে। তাই তোমরা তোমাদের সুন্দর নামকরণ করো। ইমাম আবূ দাঊদ (রহঃ) বলেন, বর্ণনাকারী ইবনু আবূ যাকারিয়া (রহঃ) আবূ দারদা (রাঃ)-এর সাক্ষাৎ পাননি।[1] দুর্বলঃ মিশকাত হা/ ৪৭৬৮, যঈফাহ হা/ ৫৪৬০।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbudDarda': The Prophet (ﷺ) said: On the Day of Resurrection you will be called by your names and by your father's names, so give yourselves good names
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
+
+## French
+
+Rapporté par Abud Darda’ رضي الله عنه : Le Prophète ﷺ a dit : « Le Jour de la Résurrection, vous serez appelés par vos noms et ceux de vos pères, alors donnez-vous de bons noms. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Amru bin Aun\] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Musaddad\] ia berkata; telah menceritakan kepada kami \[Husyaim\] dari \[Dawud bin Amru\] dari \[Abdullah bin Abu Zakariya\] dari \[Abu Darda\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pada hari kiamat kalian akan dipanggil dengan nama-nama kalian dan nama bapak-bapak kalian, maka baguskanlah nama kalian." Abu Dawud berkata, "Ibnu Abu Zakariya belum pernah bertemu dengan Abu Darda
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Amru bin Aun] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Musaddad] ia berkata; telah menceritakan kepada kami [Husyaim] dari [Dawud bin Amru] dari [Abdullah bin Abu Zakariya] dari [Abu Darda] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Sesungguhnya pada hari kiamat kalian akan dipanggil dengan nama-nama kalian dan nama bapak-bapak kalian, maka baguskanlah nama kalian." Abu Dawud berkata, "Ibnu Abu Zakariya belum pernah bertemu dengan Abu Darda
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu'd-Derdâ'dan (rivayet edildiğine göre) Rasûlullah (s.a.v.) (şöyle) buyurmuştur: "Siz kıyamet gününde kendi isimlerinizle ve babalarınızın isimleriyle çağrılacaksınız. Öyleyse isimlerinizi güzel koyunuz." Ebu Davud der ki; ibn Ebî Zekeriyya, Ebu’d-Derda'ya yetişmemiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوالدرداء رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: قیامت کے دن تم اپنے اور اپنے باپ دادا کے ناموں کے ساتھ پکارے جاؤ گے، تو اپنے نام اچھے رکھا کرو ۱؎ ۔ ابوداؤد کہتے ہیں: ابن ابی زکریا نے ابودرداء کا زمانہ نہیں پایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4948</td></tr><tr><td>Arabic No</td><td>4948</td></tr><tr><td>Reference</td><td>Book 43 Hadith 176</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4948 |
+| Arabic No | 4948 |
+| Reference | Book 43 Hadith 176 |

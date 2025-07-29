@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، قَالَ سَمِعْتُهُ مِنْهُ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، رضى الله عنها أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْطَعُ فِي رُبْعِ دِينَارٍ فَصَاعِدًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
+
 حدثنا احمد بن محمد بن حنبل، حدثنا سفيان، عن الزهري، قال سمعته منه، عن عمرة، عن عايشة، رضى الله عنها ان النبي صلى الله عليه وسلم كان يقطع في ربع دينار فصاعدا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক দীনারের এক-চতুর্থাংশ বা এর চাইতে বেশী চুরির অপরাধে চোরের হাত কাটতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক দীনারের এক-চতুর্থাংশ বা এর চাইতে বেশী চুরির অপরাধে চোরের হাত কাটতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘A’ishah said:The prophet (ﷺ) used to cut off a thief’s hand for a quarter of a dinar and upwards
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
+
+## French
+
+‘A’ishah رضي الله عنها a dit : Le Prophète ﷺ faisait couper la main d’un voleur pour un quart de dinar ou plus
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Muhammad bin Hanbal\] berkata, telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\] ia berkata; Aku mendengar hadits itu darinya, dari \[Amrah\] dari \['Aisyah radliallahu 'anha\] ia berkata, "Nabi shallallahu 'alaihi wasallam memotong tangan pencuri, jika barang yang dicuri senilai seperempat dinar atau lebih
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal] berkata, telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] ia berkata; Aku mendengar hadits itu darinya, dari [Amrah] dari ['Aisyah radliallahu 'anha] ia berkata, "Nabi shallallahu 'alaihi wasallam memotong tangan pencuri, jika barang yang dicuri senilai seperempat dinar atau lebih
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши (да будет доволен ею Аллах), что Пророк ﷺ велел отрубать (руку за кражу) четверти динара и больше
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anha) şöyle demiştir: Rasulullah (s.a.v.) çeyrek dinar ve daha çoğunda (hırsızın elini) keserdi Tahric edenler: Müslim, hudûd; Tirmizi, hudûd; Nesai, katu's-sarık; Ahmed, b. Hanbel, VI, 36. İzah 4387 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم چوتھائی دینار یا اس سے زائد میں ( چور کا ہاتھ ) کاٹتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6789) Sahih Muslim (1684)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4383</td></tr><tr><td>Arabic No</td><td>4383</td></tr><tr><td>Reference</td><td>Book 40 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6789) Sahih Muslim (1684) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4383 |
+| Arabic No | 4383 |
+| Reference | Book 40 Hadith 33 |

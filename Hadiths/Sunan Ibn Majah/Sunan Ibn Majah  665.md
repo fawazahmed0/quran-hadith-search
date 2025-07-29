@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَرْمَلَةُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَجُلاً، أَتَى النَّبِيَّ ـ صلى الله عليه وسلم ـ وَقَدْ تَوَضَّأَ وَتَرَكَ مَوْضِعَ الظُّفْرِ لَمْ يُصِبْهُ الْمَاءُ فَقَالَ لَهُ النَّبِيُّ ـ صلى الله عليه وسلم ـ ‏ "‏ ارْجِعْ فَأَحْسِنْ وُضُوءَكَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |
+
 حدثنا حرملة بن يحيى، حدثنا عبد الله بن وهب، حدثنا جرير بن حازم، عن قتادة، عن انس، ان رجلا، اتى النبي صلى الله عليه وسلم وقد توضا وترك موضع الظفر لم يصبه الماء فقال له النبي صلى الله عليه وسلم " ارجع فاحسن وضوءك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আনাস (রাঃ) থেকে বর্ণিত। এক ব্যাক্তি উযু করে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর নিকট আসলো, সে নখ পরিমাণ স্থান ছেড়ে দিয়েছিল, যেখানে পানি পৌঁছেনি। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বলেনঃ তুমি ফিরে গিয়ে উত্তমরূপে উযূ (ওজু/অজু/অযু) করো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Anas that:A man came to the Prophet; he had performed ablution and has missed a spot the size of a fingernail where water had not reached. The Prophet said to him: 'Go back and perform ablution properly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |
+
+## French
+
+Rapporté par Anas : Un homme est venu voir le Prophète ; il avait fait ses ablutions mais avait oublié une petite zone de la taille d'un ongle où l'eau n'était pas passée. Le Prophète lui a dit : "Retourne et refais correctement tes ablutions
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Harmalah bin Yahya\] berkata, telah menceritakan kepada kami \[Abdullah bin Wahb\] berkata, telah menceritakan kepada kami \[Jarir bin Hazim\] dari \[Qotadah\] dari \[Anas\] berkata; Seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam, laki-laki tersebut telah berwudlu namun masih menyisakan seukuran kuku yang belum terkena air, maka Nabi shallallahu 'alaihi wasallam pun bersabda kepadanya: "Kembali dan perbaikilah wudlumu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Harmalah bin Yahya] berkata, telah menceritakan kepada kami [Abdullah bin Wahb] berkata, telah menceritakan kepada kami [Jarir bin Hazim] dari [Qotadah] dari [Anas] berkata; Seorang laki-laki datang menemui Nabi shallallahu 'alaihi wasallam, laki-laki tersebut telah berwudlu namun masih menyisakan seukuran kuku yang belum terkena air, maka Nabi shallallahu 'alaihi wasallam pun bersabda kepadanya: "Kembali dan perbaikilah wudlumu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes (bin Malik) (r.a.)'den rivayet edildiğine göre: Bir adam, abdest alarak (ayağının üst kısmından baş parmak) tırnağı kadar bir yeri kuru bıraktığı ve oraya su değmediği halde Nebi (Sallallahu Aleyhi ve Sellem)'in yanına geldi. Nebi (Sallallahu Aleyhi ve Sellem) Ona: «Dön de abdestini güzel al.» buyurdu." Diğer tahric: Ahmed, Ebu Davud, İbn-i Huzeyme, Darekutni ve Beyhaki
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ سے روایت ہے کہ ایک آدمی وضو کر کے نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا، اور اس نے ناخن کی مقدار خشک جگہ چھوڑ دی تھی، جہاں پانی نہیں پہنچا تھا، تو نبی اکرم صلی اللہ علیہ وسلم نے اس سے فرمایا: جاؤ دوبارہ اچھی طرح وضو کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>665</td></tr><tr><td>Arabic No</td><td>665</td></tr><tr><td>Reference</td><td>Book 1 Hadith 399</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 665 |
+| Arabic No | 665 |
+| Reference | Book 1 Hadith 399 |

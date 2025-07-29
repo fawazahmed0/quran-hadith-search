@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو تَوْبَةَ، عَنْ إِبْرَاهِيمَ بْنِ سَعْدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَلَمَةَ، عَنْ عَائِشَةَ، قَالَتْ ‏:‏ مَا أَلْفَاهُ السَّحَرُ عِنْدِي إِلاَّ نَائِمًا، تَعْنِي النَّبِيَّ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
+
 حدثنا ابو توبة، عن ابراهيم بن سعد، عن ابيه، عن ابي سلمة، عن عايشة، قالت : ما الفاه السحر عندي الا نايما، تعني النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট যখনই ভোর করেছেন, (আমি তাকে) নিদ্রাবস্থায় পেয়েছি।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার নিকট যখনই ভোর করেছেন, (আমি তাকে) নিদ্রাবস্থায় পেয়েছি।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah:When he was with me he would sleep at dawn. By this she referred to the Prophet (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
+
+## French
+
+Rapporté par Aïcha رضي الله عنها : Quand il était avec moi, il dormait à l’aube. Par là, elle parlait du Prophète ﷺ
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Taubah\] dari \[Ibrahim bin Sa'd\] dari \[ayahnya\] dari \[Abu Salamah\] dari \[Aisyah\] dia berkata; "Tidaklah datang waktu sahur, melainkan beliau tidur berada di dekatku." Maksudnya Nabi shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Taubah] dari [Ibrahim bin Sa'd] dari [ayahnya] dari [Abu Salamah] dari [Aisyah] dia berkata; "Tidaklah datang waktu sahur, melainkan beliau tidur berada di dekatku." Maksudnya Nabi shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Аиши, да будет доволен ею Аллах: «Рассвет заставал его у меня не иначе как спящим» имея в виду Пророка ﷺ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Âişe (r.anhâ)'dan; demiştir ki: Seher vakti, Nebi (s.a.v.)'i benim yanımda ancak uyurken bulurdum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں صبح ہوتی تو آپ یعنی نبی اکرم صلی اللہ علیہ وسلم میرے پاس سوئے ہوئے ہی ملتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1133) Sahih Muslim (742)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1318</td></tr><tr><td>Arabic No</td><td>1318</td></tr><tr><td>Reference</td><td>Book 5 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1133) Sahih Muslim (742) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1318 |
+| Arabic No | 1318 |
+| Reference | Book 5 Hadith 69 |

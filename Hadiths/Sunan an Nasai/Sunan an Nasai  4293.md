@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يُونُسُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَنْبَأَنَا مَعْرُوفُ بْنُ سُوَيْدٍ الْجُذَامِيُّ، أَنَّ عُلَىَّ بْنَ رَبَاحٍ اللَّخْمِيَّ، حَدَّثَهُ أَنَّهُ، سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ لاَ يَحِلُّ ثَمَنُ الْكَلْبِ وَلاَ حُلْوَانُ الْكَاهِنِ وَلاَ مَهْرُ الْبَغِيِّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |
+
 اخبرنا يونس بن عبد الاعلى، قال حدثنا ابن وهب، قال انبانا معروف بن سويد الجذامي، ان على بن رباح اللخمي، حدثه انه، سمع ابا هريرة، يقول قال النبي صلى الله عليه وسلم " لا يحل ثمن الكلب ولا حلوان الكاهن ولا مهر البغي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইউনুস ইবন আবদুল আ'লা (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কুকুরের মূল্য, গণকদের পারিশ্রমিক এবং গণিকার উপার্জন হালাল নয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah said:"The Prophet said: 'The price of a dog, the fees of a fortuneteller and the gift of a female fornicator are not permissible
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Le prix d’un chien, les honoraires d’un devin et le don d’une fornicatrice ne sont pas permis. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Yunus bin Abdul A'la\], ia berkata; telah menceritakan kepada kami \[Ibnu Wahb\], ia berkata; telah memberitakan kepada kami \[Ma'ruf bin Suwaid Al Judzami\] bahwa \[Ali bin Radbah Al Lakhmi\] telah menceritakan kepada kepadanya bahwa ia mendengar \[Abu Hurairah\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " Tidak halal harga anjing, bayaran dukun dan upah pezina
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Yunus bin Abdul A'la], ia berkata; telah menceritakan kepada kami [Ibnu Wahb], ia berkata; telah memberitakan kepada kami [Ma'ruf bin Suwaid Al Judzami] bahwa [Ali bin Radbah Al Lakhmi] telah menceritakan kepada kepadanya bahwa ia mendengar [Abu Hurairah] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: " Tidak halal harga anjing, bayaran dukun dan upah pezina
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih Hadith | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4293</td></tr><tr><td>Arabic No</td><td>4293</td></tr><tr><td>Reference</td><td>Book 42 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4293 |
+| Arabic No | 4293 |
+| Reference | Book 42 Hadith 31 |

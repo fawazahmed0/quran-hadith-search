@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ يَحْيَى بْنِ الأَزْهَرِ الْوَاسِطِيُّ، حَدَّثَنَا إِسْحَاقُ بْنُ يُوسُفَ الأَزْرَقُ، عَنْ شَرِيكٍ، عَنْ عَاصِمٍ، عَنْ أَبِي وَائِلٍ، عَنْ عَبْدِ اللَّهِ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ أَوَّلُ مَا يُقْضَى بَيْنَ النَّاسِ يَوْمَ الْقِيَامَةِ فِي الدِّمَاءِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |
+
 حدثنا سعيد بن يحيى بن الازهر الواسطي، حدثنا اسحاق بن يوسف الازرق، عن شريك، عن عاصم، عن ابي وايل، عن عبد الله، قال قال رسول الله صلى الله عليه وسلم " اول ما يقضى بين الناس يوم القيامة في الدماء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কিয়ামতের দিন মানুষের মধ্যে সর্বপ্রথম নরহত্যার (অপরাধের) বিচার করা হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abdullah that the Messenger of Allah (ﷺ) said:The first matter concerning which judgment will be passed among the people on the Day of Resurrection will be bloodshed.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |
+
+## French
+
+Rapporté par Abdullah : Le Messager d’Allah (ﷺ) a dit : “La première affaire sur laquelle un jugement sera rendu entre les gens au Jour de la Résurrection sera le meurtre.”
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Yahya bin Azhar Al Wasithi\], telah menceritakan kepada kami \[Ishaq bin Yusuf Al Azraq\] dari \[Syarik\] dari \[Ashim\] dari \[Abu Wa'il\] dari \[Abdullah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perkara pertama yang diadili pada manusia di hari Kiamat adalah masalah pembunuhan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Yahya bin Azhar Al Wasithi], telah menceritakan kepada kami [Ishaq bin Yusuf Al Azraq] dari [Syarik] dari [Ashim] dari [Abu Wa'il] dari [Abdullah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Perkara pertama yang diadili pada manusia di hari Kiamat adalah masalah pembunuhan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah (bin Mes'ûd) (r.a.)'den rivayet edildiğine göre; Resulullah (Sallallahu Aleyhi ve Sellem) şöyle buyurdu, demiştir: «Kıyamet günü insanlar arasında verilen ilk hüküm kan dâvâları hakkındadır.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: قیامت کے دن سب سے پہلے لوگوں کے درمیان خون کا فیصلہ کیا جائے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Lighairihi</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 21 Hadith 3</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih Lighairihi | Muhammad Fouad Abd al-Baqi |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 21 Hadith 3 |

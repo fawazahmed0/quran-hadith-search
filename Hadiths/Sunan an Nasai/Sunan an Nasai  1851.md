@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنْ مُطَرِّفٍ، عَنْ حَكِيمِ بْنِ قَيْسٍ، أَنَّ قَيْسَ بْنَ عَاصِمٍ، قَالَ لاَ تَنُوحُوا عَلَىَّ فَإِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَمْ يُنَحْ عَلَيْهِ ‏.‏ مُخْتَصَرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |
+
 اخبرنا محمد بن عبد الاعلى، قال حدثنا خالد، قال حدثنا شعبة، عن قتادة، عن مطرف، عن حكيم بن قيس، ان قيس بن عاصم، قال لا تنوحوا على فان رسول الله صلى الله عليه وسلم لم ينح عليه . مختصر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু আব্দুল আ’লা (রহঃ) ... হাকীম ইবনু কায়স (রহঃ) থেকে বর্ণিত যে, কায়স ইবনু আসিম (রাঃ) বলেছেন, তোমরা আমার জন্য বিলাপ করবে না। কেননা রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জন্য বিলাপ করা হয়নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Hakim bin Qais, that Qais bin 'Asim said:"Do not wail over me, for no one wailed over the Messenger of Allah." This is an abridgment
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |
+
+## French
+
+Rapporté par Hakim bin Qais, d’après Qais bin 'Asim : "Ne pleurez pas sur moi, car personne n’a pleuré sur le Messager d’Allah ﷺ." Ceci est un résumé
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin 'Abdul A'la\] dia berkata; telah menceritakan kepada kami \[Khalid\] dia berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Qatadah\] dari \[Mutharrif\] dari \[Hakim bin Qais\] bahwasanya \[Qais bin 'Ashim\] berkata; "Janganlah kalian meratapiku karena Rasulullah shallallahu 'alaihi wasallam tidak diratapi. (secara ringkas)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin 'Abdul A'la] dia berkata; telah menceritakan kepada kami [Khalid] dia berkata; telah menceritakan kepada kami [Syu'bah] dari [Qatadah] dari [Mutharrif] dari [Hakim bin Qais] bahwasanya [Qais bin 'Ashim] berkata; "Janganlah kalian meratapiku karena Rasulullah shallallahu 'alaihi wasallam tidak diratapi. (secara ringkas)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قیس بن عاصم رضی الله عنہ نے کہا تم میرے اوپر نوحہ مت کرنا کیونکہ رسول اللہ صلی اللہ علیہ وسلم پر نوحہ نہیں کیا گیا۔ یہ لمبی حدیث سے مختصر ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1851</td></tr><tr><td>Arabic No</td><td>1851</td></tr><tr><td>Reference</td><td>Book 21 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1851 |
+| Arabic No | 1851 |
+| Reference | Book 21 Hadith 34 |

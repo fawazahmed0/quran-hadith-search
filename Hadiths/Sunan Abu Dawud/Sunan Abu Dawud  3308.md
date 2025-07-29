@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عَوْنٍ، أَخْبَرَنَا هُشَيْمٌ، عَنْ أَبِي بِشْرٍ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، ‏:‏ أَنَّ امْرَأَةً، رَكِبَتِ الْبَحْرَ فَنَذَرَتْ إِنْ نَجَّاهَا اللَّهُ أَنْ تَصُومَ شَهْرًا، فَنَجَّاهَا اللَّهُ فَلَمْ تَصُمْ حَتَّى مَاتَتْ، فَجَاءَتِ ابْنَتُهَا أَوْ أُخْتُهَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَمَرَهَا أَنْ تَصُومَ عَنْهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
+
 حدثنا عمرو بن عون، اخبرنا هشيم، عن ابي بشر، عن سعيد بن جبير، عن ابن عباس، : ان امراة، ركبت البحر فنذرت ان نجاها الله ان تصوم شهرا، فنجاها الله فلم تصم حتى ماتت، فجاءت ابنتها او اختها الى رسول الله صلى الله عليه وسلم فامرها ان تصوم عنها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। এক মহিলা সমুদ্রে ভ্রমণে গিয়ে মানত করলো, আল্লাহ যদি তাকে নিরাপদে ফেরার সুযোগ দিলে সে একমাস সওম পালন করবে। অতঃপর আল্লাহ তাকে সমুদ্রে বিপদ থেকে মুক্তি দিলেন। কিন্তু সওম পালনের পূর্বেই সে মারা গেলো। তার মেয়ে অথবা বোন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলে তিনি তাকে মৃতের পক্ষ থেকে সওম পালনের নির্দেশ দিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: A woman made a voyage and vowed that she would fast one month if Allah made her reach her destination with peace and security. Allah made her reach her destination with security but she died before she could fast. Her daughter or sister (the narrator doubted) came to the Messenger of Allah (ﷺ). So he commanded to fast on her behalf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas : Une femme a fait un voyage et a promis de jeûner un mois si Allah lui permettait d’arriver à destination en sécurité. Allah l’a fait arriver en sécurité, mais elle est morte avant de pouvoir jeûner. Sa fille ou sa sœur (le rapporteur n’est pas sûr) est venue voir le Messager d’Allah ﷺ. Il a alors ordonné de jeûner à sa place
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Имран ибн Хусайн, да будет доволен Аллах им и его отцом, передаёт: «Аль-Адба принадлежала одному человеку из бану ‘Укайль и была одной из быстроногих верблюдиц, опережавшей караваны паломников, отправляющихся в хадж. Его взяли в плен и привели к Пророку ﷺ связанным. А Пророк ﷺ сидел на осле. Этот человек сказал: “О Мухаммад! За что ты схватил меня и взял верблюдицу, обгоняющую караваны паломников?” (Посланник Аллаха ﷺ) ответил: “Мы схватили тебя за преступление твоих союзников из бану Сакыф”. А дело было в том, что сакыфиты взяли в плен двух сподвижников Пророка ﷺ. Услышав, за что его схватили, тот человек сказал: “Но я мусульманин (или: я принял ислам)!”» А в другой версии говорится: «А когда Пророк ﷺ уже собрался уехать, этот человек закричал: “О Мухаммад! О Мухаммад!” А Пророк ﷺ был человеком мягким и милосердным. Он вернулся к нему. Тот человек сказал: “О Мухаммад! Поистине, я мусульманин!” Посланник Аллаха ﷺ сказал: “Если бы ты сказал это, когда твоя судьба была в твоих руках, ты преуспел бы истинным преуспеянием”.» А в предыдущей версии говорится: «Он сказал: “О Мухаммад! Я голоден, накорми же меня! Я страдаю от жажды, напои же меня!” Посланник Аллаха ﷺ сказал: “Это то, в чём ты нуждаешься? (или: это то, в чём он нуждается?)”. После этого тот человек был обменян на двух других. Посланник Аллаха ﷺ оставил у себя аль-Адбу для поездок. Однажды язычники угнали скот, пасшийся около Медины и среди угнанных верблюдов оказалась и аль-Адба. Они также пленили одну женщину из числа мусульман (жена Абу Зарра). Ночью они оставляли верблюдов во дворах, и, когда они уснули, эта женщина стала подходить к каждому верблюду и возлагать на него руку. Но каждый из них ревел при этом. Наконец она подошла к аль-Адбе, и та, будучи смирной и послушной, не заревела. Тогда эта женщина села на неё и сбежала от язычников. При этом она дала обет зарезать верблюдицу в случае, если Аллах спасёт её. Когда она добралась до Медины, люди узнали верблюдицу Пророка ﷺ. Ему сообщили об этом, и он послал за ней и её привели к нему. Когда ему сообщили о её обете, он сказал: “Плохо же ты отплатила ей!” Или же он сказал: “Вот каково её воздаяние! Если Аллах спасёт её, она зарежет верблюдицу! Не должен соблюдаться обет, предполагающий ослушание Аллаха, а также обет, касающийся того, что не принадлежит сыну Адама!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
 
 ## Turkish
 
+İbn Abbas (r.a.)'dan rivayet edildiğine göre; Bir kadın gemiye bindi ve Allah kendisini kurtarırsa (sahile çıkarırsa) bir ay oruç tutmayı adadı. Allah onu kurtardı, fakat kadın orucu tutmadan Öldü. Kızı -veya kız kardeşi-\[Bu şek ravilerden birisine aittir.\] Rasûlullah'a geldi, (meseleyi sordu). Hz. Nebi de kendisine; onun (ölenin) yerine oruç tutmasını emretti
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbas (r.a.)'dan rivayet edildiğine göre; Bir kadın gemiye bindi ve Allah kendisini kurtarırsa (sahile çıkarırsa) bir ay oruç tutmayı adadı. Allah onu kurtardı, fakat kadın orucu tutmadan Öldü. Kızı -veya kız kardeşi-[Bu şek ravilerden birisine aittir.] Rasûlullah'a geldi, (meseleyi sordu). Hz. Nebi de kendisine; onun (ölenin) yerine oruç tutmasını emretti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ ایک عورت بحری سفر پر نکلی اس نے نذر مانی کہ اگر وہ بخیریت پہنچ گئی تو وہ مہینے بھر کا روزہ رکھے گی، اللہ تعالیٰ نے اسے بخیریت پہنچا دیا مگر روزہ نہ رکھ پائی تھی کہ موت آ گئی، تو اس کی بیٹی یا بہن رسول اللہ صلی اللہ علیہ وسلم کے پاس ( مسئلہ پوچھنے ) آئی تو اس کی جانب سے آپ نے اسے روزے رکھنے کا حکم دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3308</td></tr><tr><td>Arabic No</td><td>3308</td></tr><tr><td>Reference</td><td>Book 22 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3308 |
+| Arabic No | 3308 |
+| Reference | Book 22 Hadith 67 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنِي قَتَادَةُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، رضى الله عنهما عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ هَذِهِ وَهَذِهِ سَوَاءٌ ‏"‏ ‏.‏ يَعْنِي الْخِنْصَرَ وَالإِبْهَامَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 45 Hadith 142</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |
+
 اخبرنا عمرو بن علي، قال حدثنا يحيى بن سعيد، قال حدثنا شعبة، قال حدثني قتادة، عن عكرمة، عن ابن عباس، رضى الله عنهما عن النبي صلى الله عليه وسلم قال " هذه وهذه سواء " . يعني الخنصر والابهام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 45 Hadith 142</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আমর ইবন আলী (রহঃ) ... ইবন আব্বাস (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেন যে, তিনি বলেছেনঃ এইটি ও এইটি অর্থাৎ বৃদ্ধাঙ্গুলি ও কনিষ্ঠা সমান-সমান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 45 Hadith 142</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Ibn 'Abbas that the Propher said:"this and this are the same,": meaning the little finger and the thumb
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 45 Hadith 142</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Le Prophète a dit : "Celui-ci et celui-là sont égaux", en parlant du petit doigt et du pouce
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin Ali\] telah menceritakan kepada kami \[Yahya bin Sa'id\] telah menceritakan kepada kami \[Syu'bah\] telah menceritakan kepadaku \[Qatadah\] dari \[Ikrimah\] dari \[Ibnu Abbas\] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Ini dan ini adalah sama." yaitu jari kelingking dan ibu jari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin Ali] telah menceritakan kepada kami [Yahya bin Sa'id] telah menceritakan kepada kami [Syu'bah] telah menceritakan kepadaku [Qatadah] dari [Ikrimah] dari [Ibnu Abbas] radliallahu 'anhuma dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Ini dan ini adalah sama." yaitu jari kelingking dan ibu jari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 45 Hadith 142</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 45 Hadith 142</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4847</td></tr><tr><td>Arabic No</td><td>4847</td></tr><tr><td>Reference</td><td>Book 45 Hadith 142</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4847 |
+| Arabic No | 4847 |
+| Reference | Book 45 Hadith 142 |

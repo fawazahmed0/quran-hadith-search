@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عَاصِمٍ، عَنِ الشَّعْبِيِّ، عَنِ ابْنِ، عَبَّاسٍ قَالَ سَقَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم مِنْ زَمْزَمَ فَشَرِبَ وَهُوَ قَائِمٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو كامل الجحدري، حدثنا ابو عوانة، عن عاصم، عن الشعبي، عن ابن، عباس قال سقيت رسول الله صلى الله عليه وسلم من زمزم فشرب وهو قايم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 –(১১৭/২০২৭) আবূ কামিল জাহদারী (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে যমযম হতে পানি পান করিয়েছি। তিনি দাঁড়িয়ে তা পান করলেন। (ইসলামিক ফাউন্ডেশন ৫১০৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn Abbas reported:I served. (water of) Zamzam to Allah's Messenger (ﷺ), and he drank it while standing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## French
 
+Rapporté par Ibn Abbas رضي الله عنه : J’ai servi de l’eau de Zamzam au Messager d’Allah ﷺ, et il l’a bue en étant debout
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Kamil Al Jahdari\]; Telah menceritakan kepada kami \[Abu 'Awanah\] dari \[Ashim\] dari \[Asy Sya'bi\] dari \[Ibnu 'Abbas\] ia berkata; "Aku memberi minum dari Air Zam-zam kepada Rasulullah, lalu beliau minum sambil berdiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Kamil Al Jahdari]; Telah menceritakan kepada kami [Abu 'Awanah] dari [Ashim] dari [Asy Sya'bi] dari [Ibnu 'Abbas] ia berkata; "Aku memberi minum dari Air Zam-zam kepada Rasulullah, lalu beliau minum sambil berdiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «(Однажды) я напоил Пророка ﷺ (водой) из Замзама и он выпил (её) стоя»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நான் அல்லாஹ்வின் தூதர் (ஸல்) அவர்களுக்கு, அருந்துவதற்கு ஸம்ஸம் தண்ணீரைக் கொடுத்தேன். அதை அவர்கள் நின்றுகொண்டு அருந்தினார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebû Kâmil El-Cahderî rivayet etti. (Dediki): Bize Ebû Avâne, Âsim'dan, o da Şa'bî'den, o da îbn-i Abbâs'dan naklen rivayet etti. (Şöyle demiş): Resûlullah (Sallallahu Aleyhi ve Sellem)'e zemzem sundum; ayakta olduğu halde içti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوعوانہ نے عاصم سے ، انھوں نے شعبی سے ، انھوں نے حضرت ابن عباس رضی اللہ تعالیٰ عنہ سے روایت کی ، کہا : میں نے رسول اللہ صلی اللہ علیہ وسلم کو زم زم کا پانی پلایا تو آپ نے کھڑے کھڑے پیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5280</td></tr><tr><td>Arabic No</td><td>2027.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 154</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5280 |
+| Arabic No | 2027.01 |
+| Reference | Book 36 Hadith 154 |

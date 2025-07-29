@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ الْحَسَنِ بْنِ ذَكْوَانَ، حَدَّثَنَا أَبُو رَجَاءٍ، قَالَ حَدَّثَنِي عِمْرَانُ بْنُ حُصَيْنٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏:‏ ‏ "‏ يَخْرُجُ قَوْمٌ مِنَ النَّارِ بِشَفَاعَةِ مُحَمَّدٍ فَيَدْخُلُونَ الْجَنَّةَ وَيُسَمَّوْنَ الْجَهَنَّمِيِّينَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
+
 حدثنا مسدد، حدثنا يحيى، عن الحسن بن ذكوان، حدثنا ابو رجاء، قال حدثني عمران بن حصين، عن النبي صلى الله عليه وسلم قال : " يخرج قوم من النار بشفاعة محمد فيدخلون الجنة ويسمون الجهنميين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
 
 ## Bengali
 
+। ইমরান ইবনু হুসাইন (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমার উম্মাতের একটি গোত্র আমার শাফা‘আত পেয়ে জাহান্নাম থেকে মুক্তি লাভ করে বেরিয়ে আসবে, অতঃপর তারা জান্নাতে প্রবেশ করবে, আর তাদেরকে জাহান্নামের অধিবাসী নামে আখ্যায়িত করা হবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইমরান ইবনু হুসাইন (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ আমার উম্মাতের একটি গোত্র আমার শাফা‘আত পেয়ে জাহান্নাম থেকে মুক্তি লাভ করে বেরিয়ে আসবে, অতঃপর তারা জান্নাতে প্রবেশ করবে, আর তাদেরকে জাহান্নামের অধিবাসী নামে আখ্যায়িত করা হবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Imran b. Husain reported the Prophet(ﷺ) as saying:People will come forth from Hell by Muhammad’s intercession, will enter paradise and be named Jahannamis
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
+
+## French
+
+Rapporté par ‘Imran b. Husain : Le Prophète ﷺ a dit : « Des gens sortiront de l’Enfer grâce à l’intercession de Muhammad, entreront au Paradis et seront appelés les Jahannamis. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Yahya\] dari \[Al Hasan bin Dzakwan\] berkata, telah menceritakan kepada kami \[Abu Raja\] ia berkata; telah menceritakan kepadaku \[Imran bin Hushain\] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akan ada sekelompok orang keluar dari neraka karena syafaat Muhammad, mereka kemudian masuk ke dalam surga, dan mereka diberi nama Al Jahannamiyyun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Al Hasan bin Dzakwan] berkata, telah menceritakan kepada kami [Abu Raja] ia berkata; telah menceritakan kepadaku [Imran bin Hushain] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: "Akan ada sekelompok orang keluar dari neraka karena syafaat Muhammad, mereka kemudian masuk ke dalam surga, dan mereka diberi nama Al Jahannamiyyun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Земля поедает всё тело потомка Адама, за исключением копчиковой кости, из которой он был создан и из которой он будет воссоздан (в Судный день)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İmran b. Husayn'dan (rivayet edildiğine göre) Nebi (s.a.v.) (şöyle) buyurmuştur: "Ümmetimden büyük günah işlemiş olan bir topluluk Muhammed'in şefââtı ile cehennemden çıkar, cennete girer. Bunlar (cehennemden çıktıkları için); cehennemlikler diye anılırlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمران بن حصین رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: کچھ لوگ جہنم سے محمد ( صلی اللہ علیہ وسلم ) کی سفارش پر نکالے جائیں گے، وہ جنت میں داخل ہوں گے، اور وہ «جهنميين» جہنمی کہہ کر پکارے جائیں گے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6566)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4740</td></tr><tr><td>Arabic No</td><td>4740</td></tr><tr><td>Reference</td><td>Book 42 Hadith 145</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Sahih Bukhari (6566) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4740 |
+| Arabic No | 4740 |
+| Reference | Book 42 Hadith 145 |

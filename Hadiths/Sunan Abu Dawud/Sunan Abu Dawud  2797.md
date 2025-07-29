@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ الْحَرَّانِيُّ، حَدَّثَنَا زُهَيْرُ بْنُ مُعَاوِيَةَ، حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ تَذْبَحُوا إِلاَّ مُسِنَّةً إِلاَّ أَنْ يَعْسُرَ عَلَيْكُمْ فَتَذْبَحُوا جَذَعَةً مِنَ الضَّأْنِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
+
 حدثنا احمد بن ابي شعيب الحراني، حدثنا زهير بن معاوية، حدثنا ابو الزبير، عن جابر، قال قال رسول الله صلى الله عليه وسلم " لا تذبحوا الا مسنة الا ان يعسر عليكم فتذبحوا جذعة من الضان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা ‘মুসিন্নাহ’ ছাড়া যবাহ করবে না। তবে তা সংগ্রহ করা তোমাদের জন্য কষ্টকর হলে মেষের জাযা‘আহ যবাহ করতে পারো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir:The Messenger of Allah (ﷺ) as saying: Sacrifice only a full-grown animal unless it is difficult for you, in which case sacrifice a lamb
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
+
+## French
+
+Rapporté par Jabir : Le Messager d’Allah ﷺ a dit : « N’offrez en sacrifice qu’un animal adulte, sauf si cela vous est difficile, alors vous pouvez sacrifier un agneau. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Abu Syu'aib Al Harrani\], telah menceritakan kepada kami \[Zuhair bin Mu'awiyah\], telah menceritakan kepada kami \[Abu Az Zubair\] dari \[Jabir\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menyembelih kecuali domba yang berumur tiga tahun, kecuali kalian kesulitan mendapatkannya maka sembelihlah domba yang berumur satu tahun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani], telah menceritakan kepada kami [Zuhair bin Mu'awiyah], telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Janganlah kalian menyembelih kecuali domba yang berumur tiga tahun, kecuali kalian kesulitan mendapatkannya maka sembelihlah domba yang berumur satu tahun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Приносите в жертву только взрослое животное, а если для вас это окажется слишком трудным, тогда полугодовалую овцу»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir'den demiştir ki:"Resûlullah (S.A.V.): "Bir yıllık hayvan'dan başkasını kesmeyiniz. Ancak (böylesini bulmak) size güç gelirse, o başka bu durumda (altı aylık) bir koyun yavrusu kesiverin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: صرف مسنہ ۱؎ ہی ذبح کرو، مسنہ نہ پاؤ تو بھیڑ کا جذعہ ذبح کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1963)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2797</td></tr><tr><td>Arabic No</td><td>2797</td></tr><tr><td>Reference</td><td>Book 16 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih Muslim (1963) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2797 |
+| Arabic No | 2797 |
+| Reference | Book 16 Hadith 10 |

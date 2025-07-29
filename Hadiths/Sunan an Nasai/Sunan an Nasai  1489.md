@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ عُثْمَانَ بْنِ حَكِيمٍ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، عَنِ الْحَسَنِ بْنِ صَالِحٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ أَبِي قِلاَبَةَ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى حِينَ انْكَسَفَتِ الشَّمْسُ مِثْلَ صَلاَتِنَا يَرْكَعُ وَيَسْجُدُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |
+
 اخبرنا احمد بن عثمان بن حكيم، قال حدثنا ابو نعيم، عن الحسن بن صالح، عن عاصم الاحول، عن ابي قلابة، عن النعمان بن بشير، ان رسول الله صلى الله عليه وسلم صلى حين انكسفت الشمس مثل صلاتنا يركع ويسجد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আহমদ ইবনু উসমান ইবনু হাকীম (রহঃ) ... নু'মান ইবনু বশীর (রাঃ) থেকে বর্ণিত যে, যখন সূর্যগ্রহণ লেগে গেল, তখনরাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের সালাতের ন্যায় সালাত আদায় করলেন। তিনি রুকু ও সিজদাও করলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from An-Nu'man bin Bashir that:The Messenger of Allah (ﷺ) prayed when there was an eclipse of the sun like our prayer, bowing and prostrating
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |
+
+## French
+
+Rapporté par An-Nu'man bin Bashir : Le Messager d’Allah (ﷺ) a prié lors d’une éclipse du soleil comme notre prière, avec inclinaison et prosternation
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نعمان بن بشیر رضی اللہ عنہم سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے جس وقت سورج گرہن لگا ہماری نماز کی طرح نماز پڑھی آپ رکوع کر رہے تھے اور سجدہ کر رہے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1489</td></tr><tr><td>Arabic No</td><td>1489</td></tr><tr><td>Reference</td><td>Book 16 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1489 |
+| Arabic No | 1489 |
+| Reference | Book 16 Hadith 31 |

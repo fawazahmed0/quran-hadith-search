@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ قَتَادَةَ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا كَانُوا ثَلاَثَةً فَلْيَؤُمَّهُمْ أَحَدُهُمْ وَأَحَقُّهُمْ بِالإِمَامَةِ أَقْرَؤُهُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا قتيبة بن سعيد، حدثنا ابو عوانة، عن قتادة، عن ابي نضرة، عن ابي سعيد الخدري، قال قال رسول الله صلى الله عليه وسلم " اذا كانوا ثلاثة فليومهم احدهم واحقهم بالامامة اقروهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বাহ ইবনু সাঈদ (রহঃ) ..... আবূ সাঈদ আল খুদরী (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তিনজন লোক একত্রিত হলে তাদের একজনকে তাদের ইমাম বা নেতা হতে হবে। আর তাদের মধ্যে ইমামাত বা নেতৃত্বের সবচাইতে বেশী হাক্বদার সেই ব্যক্তি যে সবচেয়ে বেশী কুরআন মাজীদ অধ্যয়ন করেছে। (ইসলামী ফাউন্ডেশন ১৪০১, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Sa'id al-Khudri reported Allah's Messenger (ﷺ) as saying:When there are three persons, one of them should lead them. The one among them most worthy to act as Imam is one who is best versed in the Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## French
 
+Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ a dit : « Quand il y a trois personnes, l’une d’elles doit diriger la prière. Celui qui connaît le mieux le Coran parmi eux est le plus digne d’être imam. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Са‘ид аль-Худри сказал: «Посланник Аллаха ﷺ сказал: “Если людей будет трое, пусть один из их числа возглавляет их (в молитве), и больше всех их имеет права быть имамом тот, кто больше из них читает Коран”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Kuteybetü'bnü Saîd rivayet etti. (Dediki): Bize Ebu Avane, Katâde'den, o da Ebu Nadra'daa, o da Ebu Saîd-i Hudri'den naklen rivayet etti. Şöyle demiş: Resûlullah (Sallallahu Aleyhi ve Sellem) Namaz. kılacak kimseler, üç kişi olursa, biri kendilerine imam olsun! Onların İmamlığa en layık olanı, en iyi okuyanıdır.» buyurdular
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوعوانہ نے ہمیں قتادہ سے حدیث سنائی ، انھوں نے ابو نضرہ سے اور انھوں نے حضرت ابوسعید خدری رضی اللہ عنہ سے روایت کی ، کہا : رسول اللہ ﷺ نے فرمایا : ‘ ‘ جب ( نماز پڑھنے والے ) تین ہوں تو ان میں سے ایک ان کی امامت کرائے اور ان میں سے امامت کا زیادہ حقدار وہ ہے جو ان میں سے زیادہ ( قرآن ) پڑھا ہو ۔ ’’
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1529</td></tr><tr><td>Arabic No</td><td>672.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 362</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1529 |
+| Arabic No | 672.01 |
+| Reference | Book 5 Hadith 362 |

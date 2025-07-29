@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زَائِدَةُ، حَدَّثَنَا السَّائِبُ بْنُ حُبَيْشٍ، عَنْ مَعْدَانَ بْنِ أَبِي طَلْحَةَ الْيَعْمُرِيِّ، عَنْ أَبِي الدَّرْدَاءِ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ مَا مِنْ ثَلاَثَةٍ فِي قَرْيَةٍ وَلاَ بَدْوٍ لاَ تُقَامُ فِيهِمُ الصَّلاَةُ إِلاَّ قَدِ اسْتَحْوَذَ عَلَيْهِمُ الشَّيْطَانُ فَعَلَيْكَ بِالْجَمَاعَةِ فَإِنَّمَا يَأْكُلُ الذِّئْبُ الْقَاصِيَةَ ‏"‏ ‏.‏ قَالَ زَائِدَةُ قَالَ السَّائِبُ يَعْنِي بِالْجَمَاعَةِ الصَّلاَةَ فِي الْجَمَاعَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
+
 حدثنا احمد بن يونس، حدثنا زايدة، حدثنا السايب بن حبيش، عن معدان بن ابي طلحة اليعمري، عن ابي الدرداء، قال سمعت رسول الله صلى الله عليه وسلم يقول " ما من ثلاثة في قرية ولا بدو لا تقام فيهم الصلاة الا قد استحوذ عليهم الشيطان فعليك بالجماعة فانما ياكل الذيب القاصية " . قال زايدة قال السايب يعني بالجماعة الصلاة في الجماعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
 
 ## Bengali
 
+। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কোন জনপদে বা বনজঙ্গলে তিনজন লোক একত্রে বসবাস করা সত্ত্বেও তারা জামা‘আতে সালাত আদায়ের ব্যবস্থা না করলে তাদের উপর শয়তান আধিপত্য বিস্তার করে। অতএব তোমরা জামা‘আতকে আকঁড়ে ধর। কারণ নেকড়ে (বাঘ) দলচ্যুত বকরীটিকেই খেয়ে থাকে। যায়িদাহ (রহঃ) বলেন, সায়িব (রহঃ) বলেছেন, এখানে জামা‘আত বলতে সালাতের জামা‘আতকেই বোঝানো হয়েছে।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ দারদা (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ কোন জনপদে বা বনজঙ্গলে তিনজন লোক একত্রে বসবাস করা সত্ত্বেও তারা জামা‘আতে সালাত আদায়ের ব্যবস্থা না করলে তাদের উপর শয়তান আধিপত্য বিস্তার করে। অতএব তোমরা জামা‘আতকে আকঁড়ে ধর। কারণ নেকড়ে (বাঘ) দলচ্যুত বকরীটিকেই খেয়ে থাকে। যায়িদাহ (রহঃ) বলেন, সায়িব (রহঃ) বলেছেন, এখানে জামা‘আত বলতে সালাতের জামা‘আতকেই বোঝানো হয়েছে।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbudDarda': I heard the Messenger of Allah (ﷺ) say: If there are three men in a village or in the desert among whom prayer is not offered (in congregation), the devil has got the mastery over them. So observe (prayer) in congregation), for the wolf eats only the straggling animal. Sa'ib said: By the word Jama'ah he meant saying prayer in company or in congregation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
+
+## French
+
+Rapporté par AbudDarda’ : J’ai entendu le Messager d’Allah ﷺ dire : « Si trois hommes se trouvent dans un village ou dans le désert et qu’ils n’accomplissent pas la prière en groupe, le diable prend le dessus sur eux. Priez donc en groupe, car le loup ne mange que l’animal isolé. » Sa’ib a dit : Par le mot “jama’ah”, il voulait dire prier en groupe ou en assemblée
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\] telah menceritakan kepada kami \[Za'idah\] telah menceritakan kepada kami \[As-Sa'ib bin Huaisy\] dari \[Ma'dan bin Abi Thalhah Al-Ya'muri\] dari \[Abu Ad-Darda'\] dia berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; "Tidaklah tiga orang di suatu desa atau lembah yang tidak didirikan shalat berjamaah di lingkungan mereka, melainkan setan telah menguasai mereka. Karena itu tetaplah kalian berjamaah, karena sesungguhnya serigala itu hanya akan memakan kambing yang sendirian (jauh dari kawan-kawannya)." As-Sa'ib berkata; Maksud berjamaah adalah shalat secara berjamaah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Za'idah] telah menceritakan kepada kami [As-Sa'ib bin Huaisy] dari [Ma'dan bin Abi Thalhah Al-Ya'muri] dari [Abu Ad-Darda'] dia berkata; Saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda; "Tidaklah tiga orang di suatu desa atau lembah yang tidak didirikan shalat berjamaah di lingkungan mereka, melainkan setan telah menguasai mereka. Karena itu tetaplah kalian berjamaah, karena sesungguhnya serigala itu hanya akan memakan kambing yang sendirian (jauh dari kawan-kawannya)." As-Sa'ib berkata; Maksud berjamaah adalah shalat secara berjamaah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Дардаъ сказал: «Я слышал как Посланник Аллаха ﷺ говорил: “Нет таких троих живущих в поселении или пустыне, чтобы шайтан не взял над ними власть, если они не совершают (коллективную) молитву. Тебе следует (придерживаться) джама‘ата, ведь волк съедает овцу, которая отделилась от стада”».Заида сказал: «Ас-Саиб сказал: “Придерживаться джама‘ата означает совершать коллективную молитву”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Derda'dan; demiştir ki: Resulullah (Sallallahu aleyhi ve Sellem)'i şöyle buyururken işittim: "Köyde ve kırda üç kişi bir arada olur da, namazı cemaatle kıl­mazlarsa şeytan mutlaka onlara galib gelir, (musallat olur ve onları Allah'ın zikrinden alıkoyar). Aman, cemaate sarıl, çünkü kurt, sürüden ayrılan koyunu kapar". Diğer tahric: Nesai, imame; Ahmed b. Hanbel, V, 196; VI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو الدرداء رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: تین آدمی کسی بستی یا جنگل میں ہوں اور وہ جماعت سے نماز نہ پڑھیں تو ان پر شیطان مسلط ہو جاتا ہے، لہٰذا تم جماعت کو لازم پکڑو، اس لیے کہ بھیڑیا اسی بکری کو کھاتا ہے جو ریوڑ سے الگ ہوتی ہے ۔ زائدہ کا بیان ہے: سائب نے کہا: جماعت سے مراد نماز باجماعت ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>547</td></tr><tr><td>Arabic No</td><td>547</td></tr><tr><td>Reference</td><td>Book 2 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 547 |
+| Arabic No | 547 |
+| Reference | Book 2 Hadith 157 |

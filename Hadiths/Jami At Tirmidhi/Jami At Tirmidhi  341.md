@@ -12,54 +12,115 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادٌ، حَدَّثَنَا وَكِيعٌ، عَنْ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانُوا رُكُوعًا فِي صَلاَةِ الصُّبْحِ ‏.‏ قَالَ أَبُو عِيسَى وَحَدِيثُ ابْنِ عُمَرَ حَدِيثٌ صَحِيحٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Sahih | Bashar Awad Maarouf |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 341 |
+| Arabic No | 341 |
+| Reference | Book 2 Hadith 193 |
+
 حدثنا هناد، حدثنا وكيع، عن سفيان، عن عبد الله بن دينار، عن ابن عمر، قال كانوا ركوعا في صلاة الصبح . قال ابو عيسى وحديث ابن عمر حديث صحيح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Sahih | Bashar Awad Maarouf |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 341 |
+| Arabic No | 341 |
+| Reference | Book 2 Hadith 193 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু উমার (রাঃ) হতে বর্ণিত আছে, তিনি বলেন, তারা তখন ফযরের নামাযের রুকূতে ছিলেন। —সহীহ। সিফাতুস সালাত- (৫৭), ইরওয়া— (২৯০), বুখারী ও মুসলিম। আবু ঈসা বলেনঃ ইবনু উমারের এ হাদীসটি হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Sahih | Bashar Awad Maarouf |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 341 |
+| Arabic No | 341 |
+| Reference | Book 2 Hadith 193 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn Umar said:"They were bowing during the Subh (Fajr) Prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Sahih | Bashar Awad Maarouf |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 341 |
+| Arabic No | 341 |
+| Reference | Book 2 Hadith 193 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Sahih | Bashar Awad Maarouf |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 341 |
+| Arabic No | 341 |
+| Reference | Book 2 Hadith 193 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer (r.a.)’den rivâyete göre, şöyle demiştir: “Onlar sabah namazında ve rükû’ vaziyetinde idiler.” Eğer 340'ı okumadı iseniz, okuyun ! Diğer tahric: Nesâî, Kıble Tirmîzî İbn Ömer hadisi hasen sahihtir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Sahih | Bashar Awad Maarouf |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 341 |
+| Arabic No | 341 |
+| Reference | Book 2 Hadith 193 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی الله عنہما کہتے ہیں وہ لوگ نماز فجر میں رکوع میں تھے ۱؎۔ امام ترمذی کہتے ہیں: ابن عمر کی حدیث حسن صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Bashar Awad Maarouf</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>341</td></tr><tr><td>Arabic No</td><td>341</td></tr><tr><td>Reference</td><td>Book 2 Hadith 193</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Ahmad Muhammad Shakir |
+| Sahih | Al-Albani |
+| Sahih | Bashar Awad Maarouf |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 341 |
+| Arabic No | 341 |
+| Reference | Book 2 Hadith 193 |

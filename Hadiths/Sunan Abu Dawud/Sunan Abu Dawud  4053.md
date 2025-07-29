@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، - فِي آخَرِينَ - قَالُوا حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، نَحْوَهُ وَالأَوَّلُ أَشْبَعُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
+
 حدثنا عثمان بن ابي شيبة، - في اخرين - قالوا حدثنا سفيان، عن الزهري، عن عروة، عن عايشة، نحوه والاول اشبع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
 
 ## Bengali
 
+। আয়িশাহ (রাঃ) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। তবে প্রথম বর্ণনাটি অধিক শুদ্ধ।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আয়িশাহ (রাঃ) সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত। তবে প্রথম বর্ণনাটি অধিক শুদ্ধ।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A similar tradition has also been transmitted by 'Aishah through a different chain of narrators. But the former is more perfect
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
+
+## French
+
+Un récit similaire a aussi été rapporté par ‘Aishah رضي الله عنها à travers une autre chaîne de transmetteurs, mais la version précédente est plus complète
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Похожий хадис передаётся от ‘Аиши другим путём, однако предыдущая версия более полная
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Şu bir önceki 4052. hadisin bir) benzeri de (yine) Hz. Aişe'den rivayet olunmuştur. Ancak bir önceki; (hadis buna nisbetle) daha uzundur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ام المؤمنین عائشہ رضی اللہ عنہا سے اسی جیسی حدیث مروی ہے اور پہلی روایت زیادہ کامل ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (752) Sahih Muslim (556)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4053</td></tr><tr><td>Arabic No</td><td>4053</td></tr><tr><td>Reference</td><td>Book 34 Hadith 34</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (752) Sahih Muslim (556) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4053 |
+| Arabic No | 4053 |
+| Reference | Book 34 Hadith 34 |

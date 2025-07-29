@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا يَعْقُوبُ بْنُ عَبْدِ الرَّحْمَنِ بْنِ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ عَبْدٍ الْقَارِيُّ الْقُرَشِيُّ، حَدَّثَنِي أَبُو حَازِمِ بْنُ دِينَارٍ، أَنَّ رِجَالاً، أَتَوْا سَهْلَ بْنَ سَعْدٍ السَّاعِدِيَّ وَقَدِ امْتَرَوْا فِي الْمِنْبَرِ مِمَّ عُودُهُ فَسَأَلُوهُ عَنْ ذَلِكَ فَقَالَ وَاللَّهِ إِنِّي لأَعْرِفُ مِمَّا هُوَ وَلَقَدْ رَأَيْتُهُ أَوَّلَ يَوْمٍ وُضِعَ وَأَوَّلَ يَوْمٍ جَلَسَ عَلَيْهِ رَسُولُ اللَّهِ صلى الله عليه وسلم أَرْسَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِلَى فُلاَنَةَ امْرَأَةٍ قَدْ سَمَّاهَا سَهْلٌ ‏"‏ أَنْ مُرِي غُلاَمَكِ النَّجَّارَ أَنْ يَعْمَلَ لِي أَعْوَادًا أَجْلِسُ عَلَيْهِنَّ إِذَا كَلَّمْتُ النَّاسَ ‏"‏ ‏.‏ فَأَمَرَتْهُ فَعَمِلَهَا مِنْ طَرْفَاءِ الْغَابَةِ ثُمَّ جَاءَ بِهَا فَأَرْسَلَتْهُ إِلَى النَّبِيِّ صلى الله عليه وسلم فَأَمَرَ بِهَا فَوُضِعَتْ هَا هُنَا فَرَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى عَلَيْهَا وَكَبَّرَ عَلَيْهَا ثُمَّ رَكَعَ وَهُوَ عَلَيْهَا ثُمَّ نَزَلَ الْقَهْقَرَى فَسَجَدَ فِي أَصْلِ الْمِنْبَرِ ثُمَّ عَادَ فَلَمَّا فَرَغَ أَقْبَلَ عَلَى النَّاسِ فَقَالَ ‏"‏ أَيُّهَا النَّاسُ إِنَّمَا صَنَعْتُ هَذَا لِتَأْتَمُّوا بِي وَلِتَعَلَّمُوا صَلاَتِي ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
+
 حدثنا قتيبة بن سعيد، حدثنا يعقوب بن عبد الرحمن بن محمد بن عبد الله بن عبد القاري القرشي، حدثني ابو حازم بن دينار، ان رجالا، اتوا سهل بن سعد الساعدي وقد امتروا في المنبر مم عوده فسالوه عن ذلك فقال والله اني لاعرف مما هو ولقد رايته اول يوم وضع واول يوم جلس عليه رسول الله صلى الله عليه وسلم ارسل رسول الله صلى الله عليه وسلم الى فلانة امراة قد سماها سهل " ان مري غلامك النجار ان يعمل لي اعوادا اجلس عليهن اذا كلمت الناس " . فامرته فعملها من طرفاء الغابة ثم جاء بها فارسلته الى النبي صلى الله عليه وسلم فامر بها فوضعت ها هنا فرايت رسول الله صلى الله عليه وسلم صلى عليها وكبر عليها ثم ركع وهو عليها ثم نزل القهقرى فسجد في اصل المنبر ثم عاد فلما فرغ اقبل على الناس فقال " ايها الناس انما صنعت هذا لتاتموا بي ولتعلموا صلاتي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
 
 ## Bengali
 
+। আবূ হাযিম ইবনু দীনার (রহঃ) সূত্রে বর্ণিত। কতিপয় লোক মসজিদের মিম্বার কোন কাঠের তৈরী ছিলো এ বিষয়ে সন্দিহান হলে তারা সাহল ইবনু সা‘দ আস-সাঈদী (রাঃ) এর নিকট এসে তাকে এ সম্পর্কে জিজ্ঞেস করলো। তিনি বলেন, আল্লাহর শপথ! তা কোন কাঠের তৈরী ছিলো তা আমি জানি। প্রথম যেদিন তা স্থাপন করা হয়েছিল তাও আমি অবগত আছি। আবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথম যেদিন তার উপর বলেছিলেন আমি সেদিনও তা দেখেছি। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক মহিলার (যার নাম সাহল (রাঃ) উল্লেখ করেছিলেন) এর নিকট কাউকে এ সংবাদসহ পাঠালেন যে, লোকদের উদ্দেশে বক্তব্য বা খুত্ববাহর সময় আমার বসার জন্য তোমার কাঠমিস্ত্রি ক্রীতদাসকে আমার জন্য কিছু কাঠ প্রস্তুত করতে (মিম্বার বানাতে) বলো। মহিলা তাকে তাই করতে আদেশ করলো। ক্রীতদাসটি আল-গাবা নামক স্থানের ঝাউগাছের কাঠ দিয়ে তা তৈরী করে আনলে ঐ মহিলা তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট পাঠিয়ে দেন। অতঃপর তাঁর নির্দেশে সেটি এ স্থানে রাখা হলো। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এর উপর সালাত পড়তে, তাকবীর বলতে, রুকু‘ করতে দেখেছি। অতঃপর তিনি পিছন দিকে সরে গিয়ে মিম্বারের গোড়ায় সিজদা্ করেন। এরপর তিনি পুনরায় মিম্বারে উঠেন। অতঃপর সালাত শেষে তিনি লোকদের দিকে ঘুরে বলেনঃ হে লোকেরা! আমি এজন্যই এরূপ করেছি যাতে তোমরা আমাকে সঠিকভাবে অনুসরণ করতে পারো এবং আমার সালাত আদায়ের পদ্ধতি সম্পর্কে জানতে পারো।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হাযিম ইবনু দীনার (রহঃ) সূত্রে বর্ণিত। কতিপয় লোক মসজিদের মিম্বার কোন কাঠের তৈরী ছিলো এ বিষয়ে সন্দিহান হলে তারা সাহল ইবনু সা‘দ আস-সাঈদী (রাঃ) এর নিকট এসে তাকে এ সম্পর্কে জিজ্ঞেস করলো। তিনি বলেন, আল্লাহর শপথ! তা কোন কাঠের তৈরী ছিলো তা আমি জানি। প্রথম যেদিন তা স্থাপন করা হয়েছিল তাও আমি অবগত আছি। আবার রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথম যেদিন তার উপর বলেছিলেন আমি সেদিনও তা দেখেছি। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জনৈক মহিলার (যার নাম সাহল (রাঃ) উল্লেখ করেছিলেন) এর নিকট কাউকে এ সংবাদসহ পাঠালেন যে, লোকদের উদ্দেশে বক্তব্য বা খুত্ববাহর সময় আমার বসার জন্য তোমার কাঠমিস্ত্রি ক্রীতদাসকে আমার জন্য কিছু কাঠ প্রস্তুত করতে (মিম্বার বানাতে) বলো। মহিলা তাকে তাই করতে আদেশ করলো। ক্রীতদাসটি আল-গাবা নামক স্থানের ঝাউগাছের কাঠ দিয়ে তা তৈরী করে আনলে ঐ মহিলা তা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট পাঠিয়ে দেন। অতঃপর তাঁর নির্দেশে সেটি এ স্থানে রাখা হলো। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এর উপর সালাত পড়তে, তাকবীর বলতে, রুকু‘ করতে দেখেছি। অতঃপর তিনি পিছন দিকে সরে গিয়ে মিম্বারের গোড়ায় সিজদা্ করেন। এরপর তিনি পুনরায় মিম্বারে উঠেন। অতঃপর সালাত শেষে তিনি লোকদের দিকে ঘুরে বলেনঃ হে লোকেরা! আমি এজন্যই এরূপ করেছি যাতে তোমরা আমাকে সঠিকভাবে অনুসরণ করতে পারো এবং আমার সালাত আদায়ের পদ্ধতি সম্পর্কে জানতে পারো।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hazim b. Dinar said:People came to Sahl b. Sa'd al-Sa'idi, when they were doubtful about the kind of wood of the pulpit (in the mosque of the Prophet). They asked him about it. He said: By Allah, I know (the wood) of which it was made; I saw it the first day when it was placed there, and the first day when the Messenger of Allah (ﷺ) sat on it. The Messenger of Allah (ﷺ) sent for a woman whom Sahl named and asked her: Order your boy, the carpenter, to construct for me a wooden pulpit so that I sit on it when I deliver a speech to the people. So she ordered him and he made a pulpit of a wood called tarfa taken from al-Ghabah (a place at a distance of nine miles from Medina). He brought it to her. She sent it to the Messenger of Allah (ﷺ). He ordered and that was placed here. I saw the Messenger of Allah (ﷺ) praying on it: he said: "Allah is most great"; he then bowed while he was on it; then he returned and prostrated in the root of the pulpit; he then returned (to the pulpit). When he finished (the prayer), he addressed himself to the people and said: O people, I did this so that you may follow me and know my prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
+
+## French
+
+Abu Hazim ibn Dinar a dit : Des gens sont venus voir Sahl ibn Sa’d al-Sa’idi رضي الله عنه, car ils doutaient du type de bois utilisé pour la chaire (dans la mosquée du Prophète). Ils l’interrogèrent à ce sujet. Il répondit : « Par Allah, je sais de quel bois elle a été faite ; je l’ai vue le premier jour où elle a été installée, et le premier jour où le Messager d’Allah ﷺ s’est assis dessus. Le Messager d’Allah ﷺ a envoyé chercher une femme, que Sahl a nommée, et lui a dit : “Dis à ton garçon, le menuisier, de me fabriquer une chaire en bois pour que je m’y assoie quand je m’adresse aux gens.” Elle lui a donc ordonné et il a fabriqué une chaire avec du bois appelé tarfa, pris à al-Ghabah (un endroit à neuf miles de Médine). Il l’a apportée à cette femme, qui l’a envoyée au Messager d’Allah ﷺ. Il a ordonné qu’on la place là. J’ai vu le Messager d’Allah ﷺ prier dessus : il disait “Allah est le plus grand”, puis il s’inclinait alors qu’il était sur la chaire, puis il descendait et se prosternait au pied de la chaire, puis il remontait. Quand il terminait la prière, il s’adressait aux gens et disait : “Ô gens, j’ai fait cela pour que vous me suiviez et que vous connaissiez ma façon de prier.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Qutaibah bin Sa'id\] telah menceritakan kepada kami \[Ya'qub bin Abdurrahman bin Muhammad bin Abdullah bin Abdul Qarri' Al Qurasyi\] telah menceritakan kepadaku \[Abu Hazim bin Dinar\] bahwa beberapa orang pergi menemui \[Sahl bin Sa'd As Saidi\], sedangkan mereka memperdebatkan mengenai bahan kayu untuk membuat mimbar, mereka menanyakan hal itu kepada Sahl, jawab Sahl; "Demi Allah, sungguh aku telah mengetahuinya dari apakah ia di buat, sesungguhnya aku telah melihatnya ketika pertama kali di letakkan, dan pada hari pertama Rasulullah shallallahu 'alaihi wasallam duduk di atasnya. Rasulullah shallallahu 'alaihi wasallam pernah mengutus seseorang untuk menemui fulanah -seorang wanita yang namanya di sebutkan oleh Sahl-, sabdanya: "Suruhlah budakmu yang tukang kayu untuk membuatkanku mimbar supaya aku bisa duduk di atasnya apabila aku berkhutbah (pidato) di hadapan manusia." Lantas fulanah tadi menyuruh budaknya, dan budak tersebut mulai membuatnya yang di ambil (kayunya) dari hutan Tharfa' (derah pedesaan), setelah jadi, budak tersebut membawanya kepada wanita itu, lalu (mimbar itu) di kirim kepada Nabi shallallahu 'alaihi wasallam, maka beliau menyuruh untuk meletakkan di sini, aku melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat di atas mimbar tersebut, lalu beliau bertakbir dan ruku', sementara beliau masih di atas mimbar, kemudian beliau turun pelan-pelan dan mundur ke belakang lalu sujud di pangkal mimbarnya, kemudian beliau kembali. Selesai shalat, beliau menghadap kepada orang-orang lalu bersabda: "Wahai sekalian manusia, aku melakukan hal ini tidak lain supaya kalian mengikutiku dan melihat tata cara shalatku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Ya'qub bin Abdurrahman bin Muhammad bin Abdullah bin Abdul Qarri' Al Qurasyi] telah menceritakan kepadaku [Abu Hazim bin Dinar] bahwa beberapa orang pergi menemui [Sahl bin Sa'd As Saidi], sedangkan mereka memperdebatkan mengenai bahan kayu untuk membuat mimbar, mereka menanyakan hal itu kepada Sahl, jawab Sahl; "Demi Allah, sungguh aku telah mengetahuinya dari apakah ia di buat, sesungguhnya aku telah melihatnya ketika pertama kali di letakkan, dan pada hari pertama Rasulullah shallallahu 'alaihi wasallam duduk di atasnya. Rasulullah shallallahu 'alaihi wasallam pernah mengutus seseorang untuk menemui fulanah -seorang wanita yang namanya di sebutkan oleh Sahl-, sabdanya: "Suruhlah budakmu yang tukang kayu untuk membuatkanku mimbar supaya aku bisa duduk di atasnya apabila aku berkhutbah (pidato) di hadapan manusia." Lantas fulanah tadi menyuruh budaknya, dan budak tersebut mulai membuatnya yang di ambil (kayunya) dari hutan Tharfa' (derah pedesaan), setelah jadi, budak tersebut membawanya kepada wanita itu, lalu (mimbar itu) di kirim kepada Nabi shallallahu 'alaihi wasallam, maka beliau menyuruh untuk meletakkan di sini, aku melihat Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat di atas mimbar tersebut, lalu beliau bertakbir dan ruku', sementara beliau masih di atas mimbar, kemudian beliau turun pelan-pelan dan mundur ke belakang lalu sujud di pangkal mimbarnya, kemudian beliau kembali. Selesai shalat, beliau menghadap kepada orang-orang lalu bersabda: "Wahai sekalian manusia, aku melakukan hal ini tidak lain supaya kalian mengikutiku dan melihat tata cara shalatku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хазима ибн Динара, что некие люди пришли к Сахлю ибн Са‘ду ас-Са‘иди после того, как поспорили относительно того, из какого дерева был изготовлен минбар. Они спросили его об этом, и он сказал: «Клянусь Аллахом, поистине, я знаю, из чего он сделан, ведь я видел его ещё в тот день, когда его поставили и когда на него сел Посланник Аллаха ﷺ. Посланник Аллаха ﷺ послал человека к такой-то женщине и Сахль назвал её имя, чтобы ей передали: “Вели своему рабу-плотнику, чтобы он сделал для меня возвышение из дерева, на котором я буду сидеть, когда стану обращаться к людям”. И она отдала распоряжение своему рабу, который сделал этот минбар из тамариска из аль-Габы, а потом доставил его к ней. Она отослала его Пророку ﷺ по велению которого он был установлен здесь. А потом я видел, как Посланник Аллаха ﷺ совершил на этом минбаре молитву, произнеся такбир и совершив поясной поклон. Затем он сошёл вниз, пятясь назад, и совершил у подножия минбара земной поклон, а затем снова поднялся на минбар. Когда же он закончил молитву, то повернулся к людям и сказал: “О люди, поистине, я сделал это, чтобы вы следовали моему примеру и учились моей молитве”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
 
 ## Turkish
 
+Ebû Hâzim b. Dînar anlatmıştır: Bazı insanlar, minberin hangi ağaçtan olduğu konusunda münakaşa ederek, Sehl b. Sa'd es-Sa'idî'ye gelip sordular. Sa'd şöyle dedi: Vallahi ben onun neden olduğunu çok iyi biliyorum. Onu, mescid'e konulduğu ve Resûlullah'ın üzerine oturduğu ilk günde gördüm. Hz. Nebi (s.a.v.) -Sehl'in adını da verdiği- \[Bunu Ebû Hazm söylüyor. Yani Sehl bu kadının ismini söylemiş fakat Ebû Hazm unutmuş.\] falan kadına; "Marangoz kölene emret, benim için bir minber yapsın. İnsanlara hitab ettiğim zaman üzerine oturayım" diye haber gönderdi. Kadın köleye emretti, o da minberi Ğabe ılgınlarından yapıp getirdi. Kadın da Hz. Nebi'ye gönderdi. Resûlullah emretti ve minber işte oraya kondu. Resûlullah (s.a.v.)'in onun üzerinde namaz kıldığını gördüm. Tekbir aldı, sonra onun üstünde iken rükû' yaptı daha sonra da geri geri inip minberin dibinde secde etti. Bilâhere (minbere) tekrar çıktı. Namazı bitirince cemaate dönüp: "Ey insanlar! Bunu ancak bana uymanız ve namazımı öğrenmeniz için yaptım" buyurdu
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Hâzim b. Dînar anlatmıştır: Bazı insanlar, minberin hangi ağaçtan olduğu konusunda münakaşa ederek, Sehl b. Sa'd es-Sa'idî'ye gelip sordular. Sa'd şöyle dedi: Vallahi ben onun neden olduğunu çok iyi biliyorum. Onu, mescid'e konulduğu ve Resûlullah'ın üzerine oturduğu ilk günde gördüm. Hz. Nebi (s.a.v.) -Sehl'in adını da verdiği- [Bunu Ebû Hazm söylüyor. Yani Sehl bu kadının ismini söylemiş fakat Ebû Hazm unutmuş.] falan kadına; "Marangoz kölene emret, benim için bir minber yapsın. İnsanlara hitab ettiğim zaman üzerine oturayım" diye haber gönderdi. Kadın köleye emretti, o da minberi Ğabe ılgınlarından yapıp getirdi. Kadın da Hz. Nebi'ye gönderdi. Resûlullah emretti ve minber işte oraya kondu. Resûlullah (s.a.v.)'in onun üzerinde namaz kıldığını gördüm. Tekbir aldı, sonra onun üstünde iken rükû' yaptı daha sonra da geri geri inip minberin dibinde secde etti. Bilâhere (minbere) tekrar çıktı. Namazı bitirince cemaate dönüp: "Ey insanlar! Bunu ancak bana uymanız ve namazımı öğrenmeniz için yaptım" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوحازم بن دینار بیان کرتے ہیں کہ کہ کچھ لوگ سہل بن سعد ساعدی رضی اللہ عنہ کے پاس آئے، وہ لوگ منبر کے سلسلے میں جھگڑ رہے تھے کہ کس لکڑی کا تھا؟ تو انہوں نے سہل بن سعد سے اس کے متعلق پوچھا تو آپ نے کہا: قسم اللہ کی! میں جانتا ہوں کہ وہ کس لکڑی کا تھا اور میں نے اسے پہلے ہی دن دیکھا جب وہ رکھا گیا اور جب اس پر رسول اللہ صلی اللہ علیہ وسلم بیٹھے، آپ صلی اللہ علیہ وسلم نے ایک عورت کے پاس- جس کا سہل نے نام لیا- یہ پیغام بھیجا کہ تم اپنے نوجوان بڑھئی کو حکم دو کہ وہ میرے لیے چند لکڑیاں ایسی بنا دے جن پر بیٹھ کر میں لوگوں کو خطبہ دیا کروں، تو اس عورت نے اسے منبر کے بنانے کا حکم دیا، اس بڑھئی نے غابہ کے جھاؤ سے منبر بنایا پھر اسے لے کر وہ عورت کے پاس آیا تو اس عورت نے اسے آپ صلی اللہ علیہ وسلم کے پاس بھیج دیا، آپ صلی اللہ علیہ وسلم نے اسے ( ایک جگہ ) رکھنے کا حکم دیا، چنانچہ وہ منبر اسی جگہ رکھا گیا، پھر میں نے دیکھا کہ آپ صلی اللہ علیہ وسلم نے اس پر نماز پڑھی اور تکبیر کہی پھر اسی پر رکوع بھی کیا، پھر آپ الٹے پاؤں اترے اور منبر کی جڑ میں سجدہ کیا، پھر منبر پر واپس چلے گئے، پھر جب نماز سے فارغ ہوئے تو لوگوں کی جانب متوجہ ہو کر فرمایا: لوگو! میں نے یہ اس لیے کیا ہے تاکہ تم میری پیروی کرو اور میری نماز کو جان سکو۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (917) Sahih Muslim (544)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1080</td></tr><tr><td>Arabic No</td><td>1080</td></tr><tr><td>Reference</td><td>Book 2 Hadith 691</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (917) Sahih Muslim (544) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1080 |
+| Arabic No | 1080 |
+| Reference | Book 2 Hadith 691 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ قَوْمًا، مِنْ عُكْلٍ - أَوْ قَالَ مِنْ عُرَيْنَةَ - قَدِمُوا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَاجْتَوَوُا الْمَدِينَةَ فَأَمَرَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم بِلِقَاحٍ وَأَمَرَهُمْ أَنْ يَشْرَبُوا مِنْ أَبْوَالِهَا وَأَلْبَانِهَا فَانْطَلَقُوا فَلَمَّا صَحُّوا قَتَلُوا رَاعِيَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَاسْتَاقُوا النَّعَمَ فَبَلَغَ النَّبِيَّ صلى الله عليه وسلم خَبَرُهُمْ مِنْ أَوَّلِ النَّهَارِ فَأَرْسَلَ النَّبِيُّ صلى الله عليه وسلم فِي آثَارِهِمْ فَمَا ارْتَفَعَ النَّهَارُ حَتَّى جِيءَ بِهِمْ فَأَمَرَ بِهِمْ فَقُطِعَتْ أَيْدِيهِمْ وَأَرْجُلُهُمْ وَسُمِّرَ أَعْيُنُهُمْ وَأُلْقُوا فِي الْحَرَّةِ يَسْتَسْقُونَ فَلاَ يُسْقَوْنَ ‏.‏ قَالَ أَبُو قِلاَبَةَ فَهَؤُلاَءِ قَوْمٌ سَرَقُوا وَقَتَلُوا وَكَفَرُوا بَعْدَ إِيمَانِهِمْ وَحَارَبُوا اللَّهَ وَرَسُولَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
+
 حدثنا سليمان بن حرب، حدثنا حماد، عن ايوب، عن ابي قلابة، عن انس بن مالك، ان قوما، من عكل - او قال من عرينة - قدموا على رسول الله صلى الله عليه وسلم فاجتووا المدينة فامر لهم رسول الله صلى الله عليه وسلم بلقاح وامرهم ان يشربوا من ابوالها والبانها فانطلقوا فلما صحوا قتلوا راعي رسول الله صلى الله عليه وسلم واستاقوا النعم فبلغ النبي صلى الله عليه وسلم خبرهم من اول النهار فارسل النبي صلى الله عليه وسلم في اثارهم فما ارتفع النهار حتى جيء بهم فامر بهم فقطعت ايديهم وارجلهم وسمر اعينهم والقوا في الحرة يستسقون فلا يسقون . قال ابو قلابة فهولاء قوم سرقوا وقتلوا وكفروا بعد ايمانهم وحاربوا الله ورسوله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। উকল অথবা উরাইনাহ গোত্রের কিছু লোক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলো। মদীনায় বসবাস তাদের পক্ষে অনুপযোগী হওয়ায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে উটের পালের নিকট গিয়ে এগুলোর পেশাব ও দুধ পান করতে আদেশ দেন। অতএব তারা সেখানে চলে গেলো। পরে তারা সুস্থ হয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রাখালকে হত্যা করে এবং উট পালকে তাড়িয়ে নিয়ে যায়। দিনের প্রথমভাগে এ খবর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পৌঁছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের পিছনে লোক পাঠান। উঠন্ত বেলায় তাদের ধরে নিয়ে আসা হয়। তাঁর আদেশে তাদের হাত-পা কাটা হয় এবং লৌহ শলাকা তাদের চোখে বিদ্ধ করে উত্তপ্ত রোদে ফেলে রাখা হয়। তারা পানি চাইলেও তা দেয়া হয়নি। আবূ কিলাবাহ বলেন, এরা এমন একটি গোত্রের, যারা চুরি করেছে, হত্যা করেছে, ঈমান আনার পর কুফরী করেছে এবং সর্বোপরি আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে বিদ্রোহ করেছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। উকল অথবা উরাইনাহ গোত্রের কিছু লোক রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলো। মদীনায় বসবাস তাদের পক্ষে অনুপযোগী হওয়ায় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদেরকে উটের পালের নিকট গিয়ে এগুলোর পেশাব ও দুধ পান করতে আদেশ দেন। অতএব তারা সেখানে চলে গেলো। পরে তারা সুস্থ হয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর রাখালকে হত্যা করে এবং উট পালকে তাড়িয়ে নিয়ে যায়। দিনের প্রথমভাগে এ খবর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট পৌঁছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের পিছনে লোক পাঠান। উঠন্ত বেলায় তাদের ধরে নিয়ে আসা হয়। তাঁর আদেশে তাদের হাত-পা কাটা হয় এবং লৌহ শলাকা তাদের চোখে বিদ্ধ করে উত্তপ্ত রোদে ফেলে রাখা হয়। তারা পানি চাইলেও তা দেয়া হয়নি। আবূ কিলাবাহ বলেন, এরা এমন একটি গোত্রের, যারা চুরি করেছে, হত্যা করেছে, ঈমান আনার পর কুফরী করেছে এবং সর্বোপরি আল্লাহ ও তাঁর রাসূলের বিরুদ্ধে বিদ্রোহ করেছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas b. Malik said:Some people of ‘Ukl or ‘Urainah’ came to the Messenger of Allah (ﷺ) and found Madinah unhealthy. So the Messenger of Allah (ﷺ) ordered them to go to the camels (of the sadaqah) and ordered them to drink some of their urine and milk. They went there when they became well, they killed the herdsman of the Messenger of Allah (ﷺ) and drove off the camels. The news about them reached the prophet (ﷺ) early in the morning. So he sent people in pursuit of them, and they were brought when they day had risen high. He ordered and their hands and feet were cut off and nails were drawn into their eyes, and they were thrown out of Harrah. They begged for water but were not supplied water. Abu Qilabah said: They were people who had stolen, killed, apostatized after their faith and fought against Allah and his Apostle (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
+
+## French
+
+Rapporté par Anas b. Malik : Des gens de ‘Ukl ou ‘Urainah sont venus voir le Messager d’Allah ﷺ et ont trouvé Médine malsaine. Le Messager d’Allah ﷺ leur a ordonné d’aller vers les chamelles (de la sadaqah) et de boire de leur lait et de leur urine. Ils y sont allés et, une fois guéris, ils ont tué le berger du Messager d’Allah ﷺ et ont emmené les chamelles. La nouvelle est parvenue au Prophète ﷺ tôt le matin. Il a envoyé des gens à leur poursuite, et ils ont été ramenés alors que le soleil était déjà haut. Il a ordonné qu’on leur coupe les mains et les pieds, qu’on leur crève les yeux avec des clous chauffés, puis ils ont été jetés à Harrah. Ils demandaient de l’eau, mais on ne leur en a pas donné. Abu Qilabah a dit : « C’étaient des gens qui avaient volé, tué, quitté l’islam après la foi et combattu contre Allah et Son Messager ﷺ. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Harb\] berkata, telah menceritakan kepada kami \[Hammad\] dari \[Ayyub\] dari \[Abu Qilabah\] dari \[Anas bin Malik\] berkata, "Beberapa orang dari 'Ukl, atau ia mengatakan, "dari Urainah datang menemui Rasulullah shallallahu 'alaihi wasallam. Namun mereka tidak cocok dengan iklim Madinah (hingga jatuh sakit). Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan untuk menyediakan liqah (unta hamil) bagi mereka. Beliau perintahkan mereka minum air kencing dan susu unta tersebut. Mereka pun pergi (menuju kandang unta), namun ketika telah sembuh mereka justru membunuh pengembala Rasulullah shallallahu 'alaihi wasallam dan membawa lari unta-unta tersebut. Menjelang siang hari, berita yang menimpa mereka sampai kepada Nabi shallallahu 'alaihi wasallam, Nabi shallallahu 'alaihi wasallam lalu mengirim (beberapa orang) untuk mengikuti jejak mereka. Matahari belum tinggi, orang-orang tersebut telah ditangkap dan dihadapkan kepada beliau. Beliau pun memberi perintah untuk memberi hukuman kepada mereka, tangan dan kaki mereka lalu dipotong, matanya dicongkel kemudian mereka dibuang ke padang pasir. Mereka minta minum namun tidak diberi." \[Abu Qilabah\] berkata, "Orang-orang itu telah mencuri dan membunuh, murtad setelah beriman, serta memerangi Allah dan Rasul-Nya." Telah menceritakan kepada kami \[Musa bin Isma'il\] berkata, telah menceritakan kepada kami \[Wuhaib\] dari \[Ayyub\] dengan sanadnya sebagaimana dalam hadits tersebut. Namun ia menambahkan dalam haditsnya, "Beliau memerintahkan untuk mengambil beberapa paku yang dipanaskan, lalu mereka disayat (dengan paku tersebut), tangan dan kaki mereka juga dipotong, namun beliau tidak memerintahkan untuk menghentikan darah mereka dengan menempelkan besi panas." Telah menceritakan kepada kami \[Muhammad bin Ash Shabbah bin Sufyan\] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Amru bin Utsman\] berkata, telah menceritakan kepada kami \[Al Walid\] dari \[Al Auza'i\] dari \[Yahya\] -maksudnya Yahya bin Abu Katsir- dari \[Abu Qilabah\] dari \[Anas bin Malik\] dengan hadits yang sama. Dalam hadits tersebut ia mengatakan, "Rasulullah shallallahu 'alaihi wasallam lalu mengirim teliksandi untuk mencari mereka, hingga akhirnya mereka tertangkap. Anas berkata, "Allah Tabaaraka Wa Ta'ala lalu menurunkan ayat: '(Sesungguhnya pembalasan terhadap orang-orang yang memerangi Allah dan Rasul-Nya dan membuat kerusakan..) ' -Qs. Al Maidah: 33-. Telah menceritakan kepada kami \[Musa bin Isma'il\] berkata, telah menceritakan kepada kami \[Hammad\] berkata, telah mengabarkan kepada kami \[Tsabit\] dan \[Qatadah\] dan \[Humaid\] dari \[Anas bin Malik\] ia lalu menyebutkan hadits tersebut. Anas berkata, "Aku melihat salah seorang dari mereka menjilati bumi dengan mulutnya karena haus, hingga akhirnya mati." Telah menceritakan kepada kami \[Muhammad bin Basysyar\] berkata, telah menceritakan kepada kami \[Ibnu Abu Adi\] dari \[Hisyam\] dari \[Qatadah\] dari \[Anas bin Malik\] sama dengan hadits tersebut, namun ia menambahkan, "kemudian beliau melarang untuk melakukan mutslah (Mutilasi atau menyayat mayat). dan ia tidak menyebut kata; 'min khilaf' (secara bersilang). \[Syu'bah\] juga meriwayatkan dari \[Qatadah\] dan \[Salam bin Miskin\], dari \[Tsabit\]. Semuanya juga berasal dari \[Anas\], namun keduanya juga tidak menyebutkan kata; min khilaf (dipotong tangan dan kakinya secara bersilang). Aku tidak pernah mendapatkan dalam hadits seorang pun yang menyebutkan; 'beliau memotong tangan dan kaki mereka secara bersilang', kecuali hadits hadits riwayat Hammad bin Salamah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Abu Qilabah] dari [Anas bin Malik] berkata, "Beberapa orang dari 'Ukl, atau ia mengatakan, "dari Urainah datang menemui Rasulullah shallallahu 'alaihi wasallam. Namun mereka tidak cocok dengan iklim Madinah (hingga jatuh sakit). Rasulullah shallallahu 'alaihi wasallam kemudian memerintahkan untuk menyediakan liqah (unta hamil) bagi mereka. Beliau perintahkan mereka minum air kencing dan susu unta tersebut. Mereka pun pergi (menuju kandang unta), namun ketika telah sembuh mereka justru membunuh pengembala Rasulullah shallallahu 'alaihi wasallam dan membawa lari unta-unta tersebut. Menjelang siang hari, berita yang menimpa mereka sampai kepada Nabi shallallahu 'alaihi wasallam, Nabi shallallahu 'alaihi wasallam lalu mengirim (beberapa orang) untuk mengikuti jejak mereka. Matahari belum tinggi, orang-orang tersebut telah ditangkap dan dihadapkan kepada beliau. Beliau pun memberi perintah untuk memberi hukuman kepada mereka, tangan dan kaki mereka lalu dipotong, matanya dicongkel kemudian mereka dibuang ke padang pasir. Mereka minta minum namun tidak diberi." [Abu Qilabah] berkata, "Orang-orang itu telah mencuri dan membunuh, murtad setelah beriman, serta memerangi Allah dan Rasul-Nya." Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] dari [Ayyub] dengan sanadnya sebagaimana dalam hadits tersebut. Namun ia menambahkan dalam haditsnya, "Beliau memerintahkan untuk mengambil beberapa paku yang dipanaskan, lalu mereka disayat (dengan paku tersebut), tangan dan kaki mereka juga dipotong, namun beliau tidak memerintahkan untuk menghentikan darah mereka dengan menempelkan besi panas." Telah menceritakan kepada kami [Muhammad bin Ash Shabbah bin Sufyan] ia berkata; telah mengabarkan kepada kami. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Amru bin Utsman] berkata, telah menceritakan kepada kami [Al Walid] dari [Al Auza'i] dari [Yahya] -maksudnya Yahya bin Abu Katsir- dari [Abu Qilabah] dari [Anas bin Malik] dengan hadits yang sama. Dalam hadits tersebut ia mengatakan, "Rasulullah shallallahu 'alaihi wasallam lalu mengirim teliksandi untuk mencari mereka, hingga akhirnya mereka tertangkap. Anas berkata, "Allah Tabaaraka Wa Ta'ala lalu menurunkan ayat: '(Sesungguhnya pembalasan terhadap orang-orang yang memerangi Allah dan Rasul-Nya dan membuat kerusakan..) ' -Qs. Al Maidah: 33-. Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Hammad] berkata, telah mengabarkan kepada kami [Tsabit] dan [Qatadah] dan [Humaid] dari [Anas bin Malik] ia lalu menyebutkan hadits tersebut. Anas berkata, "Aku melihat salah seorang dari mereka menjilati bumi dengan mulutnya karena haus, hingga akhirnya mati." Telah menceritakan kepada kami [Muhammad bin Basysyar] berkata, telah menceritakan kepada kami [Ibnu Abu Adi] dari [Hisyam] dari [Qatadah] dari [Anas bin Malik] sama dengan hadits tersebut, namun ia menambahkan, "kemudian beliau melarang untuk melakukan mutslah (Mutilasi atau menyayat mayat). dan ia tidak menyebut kata; 'min khilaf' (secara bersilang). [Syu'bah] juga meriwayatkan dari [Qatadah] dan [Salam bin Miskin], dari [Tsabit]. Semuanya juga berasal dari [Anas], namun keduanya juga tidak menyebutkan kata; min khilaf (dipotong tangan dan kakinya secara bersilang). Aku tidak pernah mendapatkan dalam hadits seorang pun yang menyebutkan; 'beliau memotong tangan dan kaki mereka secara bersilang', kecuali hadits hadits riwayat Hammad bin Salamah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса: «В своё время люди из племени ‘укль (или: ‘урайна) приехали к Посланнику Аллаха ﷺ в Медину, где стали болеть из-за её климата. Пророк ﷺ выделил дойных верблюдиц и велел этим людям пить их мочу и молоко. Они отправились, (куда им было сказано), но, выздоровев, убили пастуха Посланника Аллаха ﷺ и угнали верблюдиц. Пророк ﷺ узнал об этом в начале дня. Пророк ﷺ отправил за ними в погоню. К полудню их уже привели в Медину, и (Посланник Аллаха ﷺ) велел отрубить им кисти и ступни. Им также выжгли глаза калёным железом и бросили на харре, где они просили напоить их, но никто не подал им воды». Абу Кыляба сказал: «Это были люди, которые украли, совершили убийство, стали неверующими после того, как уверовали, и выступили против Аллаха и Его посланника ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes b. Malik (r.a) den rivayet edildi ki; Ukl veya Urayne'den bir grup Rasulullah (s.a.v.)'e geldi. Ama Medine'nin havasına uyum sağlayamadılar. Rasulullah (s.a.v.) onlara sağmal develeri tavsiye edip idrarlarından ve sütlerinden içmelerini emretti. Onlar da gittiler ve iyileşince Rasulullah'ın çobanını öldürdüler, develeri de sürüp götürdüler. Onların bu yaptıklarının haberi daha günün başında Rasulullah'a ulaştı. Efendimiz de peşlerinden (adam) gönderdi. Günün ilerlemiş bir vaktinde (yakalanarak) Rasulullah'a getirildiler. Rasulullah emretti ve adamların elleri ayakları kesildi, gözlerine mil çekildi ve Harra'ya atıldılar. Su istiyorlar fakat kendilerine su verilmiyordu. Ebu Kılâbe der ki: "Bunlar, çalan, öldüren, imandan sonra kafir olan, Allah ve Rasûlüne karşı muharebe eden bir kavimdir." Tahric edenler: Buhari, zekat; cihad; tıp; hudud; Müslim, kasâme; İman; Tirmizi vudû'; et'ime ; tıb; İbn Mace, hudûd
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ قبیلہ عکل، یا قبیلہ عرینہ کے کچھ لوگ رسول اللہ صلی اللہ علیہ وسلم کے پاس آئے تو مدینہ کی آب و ہوا انہیں راس نہ آئی، رسول اللہ صلی اللہ علیہ وسلم نے انہیں دودھ والی چند اونٹنیاں دلوائیں، اور انہیں حکم دیا کہ وہ ان کے پیشاب اور دودھ پئیں، وہ ( اونٹنیاں لے کر ) چلے گئے جب وہ صحت یاب ہو گئے تو رسول اللہ صلی اللہ علیہ وسلم کے چرواہے کو قتل کر ڈالا، اور اونٹ ہانک لے گئے تو نبی اکرم صلی اللہ علیہ وسلم کو صبح ہی صبح اس کی خبر مل گئی، چنانچہ آپ نے ان کے تعاقب میں لوگوں کو روانہ کیا، تو ابھی دن بھی اوپر نہیں چڑھنے پایا تھا کہ انہیں پکڑ کر لے آیا گیا، آپ صلی اللہ علیہ وسلم نے حکم دیا تو ان کے ہاتھ اور پیر کاٹ دئیے گئے، ان کی آنکھوں میں گرم سلائیاں پھیر دی گئیں، اور وہ گرم سیاہ پتھریلی زمین میں ڈال دیئے گئے، وہ پانی مانگتے تھے لیکن انہیں پانی نہیں دیا جاتا تھا، ابوقلابہ کہتے ہیں: ان لوگوں نے چوری کی تھی، قتل کیا تھا، ایمان لانے کے بعد کافر ہو گئے تھے اور اللہ اور اس کے رسول سے جنگ کی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (233) Sahih Muslim (1671)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4364</td></tr><tr><td>Arabic No</td><td>4364</td></tr><tr><td>Reference</td><td>Book 40 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (233) Sahih Muslim (1671) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4364 |
+| Arabic No | 4364 |
+| Reference | Book 40 Hadith 14 |

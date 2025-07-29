@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي يَحْيَى بْنُ يَحْيَى، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، عَنِ الْجُرَيْرِيِّ، عَنْ أَبِي الْعَلاَءِ، يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ الشِّخِّيرِ عَنْ أَبِيهِ، أَنَّهُ صَلَّى مَعَ النَّبِيِّ صلى الله عليه وسلم قَالَ فَتَنَخَّعَ فَدَلَكَهَا بِنَعْلِهِ الْيُسْرَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني يحيى بن يحيى، اخبرنا يزيد بن زريع، عن الجريري، عن ابي العلاء، يزيد بن عبد الله بن الشخير عن ابيه، انه صلى مع النبي صلى الله عليه وسلم قال فتنخع فدلكها بنعله اليسرى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুল্লাহ ইবনু শিখখীর (রাযিঃ) থেকে বর্ণনা করেছেন যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে সালাত আদায় করেছেন। তিনি দেখেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কাশি ফেলেছেন এবং তা বাঁ পায়ের জুতা দিয়ে ঘষে দিয়েছেন। (ইসলামী ফাউন্ডেশন ১১১৫, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Shakhkhir narrated it on the authority of his father that he said prayer with the Messenger of Allah (ﷺ), and he spat and then rubbed it off with his left shoe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## French
 
+Rapporté par Abdullah ibn Shakhkhir d’après son père : Il a prié avec le Messager d’Allah ﷺ, qui a craché puis a essuyé cela avec sa chaussure gauche
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## Indonesian
 
+Dan telah menceritakan kepadaku \[Yahya bin Yahya\] telah mengabarkan kepada kami \[Yazid bin Zurai'\] dari \[al-Jurairi\] dari \[Abu al-'Ala' Yazid bin Abdullah bin asy-Syikhkhir\] dari \[Bapaknya\] "Bahwanya dia shalat bersama-sama dengan Nabi Shallallahu'alaihiwasallam. Tiba-tiba Nabi meludah, lalu menggosok-gosoknya dengan sandalnya yang kiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepadaku [Yahya bin Yahya] telah mengabarkan kepada kami [Yazid bin Zurai'] dari [al-Jurairi] dari [Abu al-'Ala' Yazid bin Abdullah bin asy-Syikhkhir] dari [Bapaknya] "Bahwanya dia shalat bersama-sama dengan Nabi Shallallahu'alaihiwasallam. Tiba-tiba Nabi meludah, lalu menggosok-gosoknya dengan sandalnya yang kiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Абу аль-‘Аля Язид ибн ‘Абдуллах ибн аш-Шиххир рассказал, что, когда его отец молился вместе с Пророком ﷺ, он сплюнул и растёр плевок левой сандалией
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Yahya b. Yahya rivayet etti. (Dediki) : Bize Yezid b. Zürey', Cüreyrî'den o da Ebu'l - Ala' Yezîd b. Abdillâh b. Sıhhîr'den, o da babasından naklen haber verdi ki; babası Nebi (Sallallahu Aleyhi ve Sellem) ile birlikde namaz kılmış; «Tükürdü ve arkasından onu sol ayakkabı ile ovaladı.» demiş. İzah için buraya tıklayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جریری نے ابو علاء یزید بن عبداللہ بن شخیر سے اور انھوں نے اپنے والد سے روایت کی کہ انھوں نے رسول اللہ ﷺ کی معیت میں نماز پڑھی ۔ کہا : آپ نے گلے سے بلغم نکالا اور اسے اپنے بائیں جوتے سے مسل ڈالا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1235</td></tr><tr><td>Arabic No</td><td>554.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1235 |
+| Arabic No | 554.02 |
+| Reference | Book 5 Hadith 73 |

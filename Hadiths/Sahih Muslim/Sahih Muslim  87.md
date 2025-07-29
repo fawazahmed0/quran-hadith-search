@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## French
 
+Rapporté par Al-Faḍl bin Sahl : Walīd bin Sālih nous a rapporté, Ubayd Allah bin Amr a dit, Zayd – c’est-à-dire Ibn Abī Unaysah – a dit : « Ne prenez rien de mon frère. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>87</td></tr><tr><td>Reference</td><td>Book 0 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 87 |
+| Reference | Book 0 Hadith 87 |

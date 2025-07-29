@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ الشِّرَاءِ وَالْبَيْعِ فِي الْمَسْجِدِ وَأَنْ تُنْشَدَ فِيهِ ضَالَّةٌ وَأَنْ يُنْشَدَ فِيهِ شِعْرٌ وَنَهَى عَنِ التَّحَلُّقِ قَبْلَ الصَّلاَةِ يَوْمَ الْجُمُعَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
+
 حدثنا مسدد، حدثنا يحيى، عن ابن عجلان، عن عمرو بن شعيب، عن ابيه، عن جده، ان رسول الله صلى الله عليه وسلم نهى عن الشراء والبيع في المسجد وان تنشد فيه ضالة وان ينشد فيه شعر ونهى عن التحلق قبل الصلاة يوم الجمعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
 
 ## Bengali
 
+। ‘আমর ইবনু শু‘আইব (রহঃ) হতে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে বেচা-কেনা করতে, হারানো বস্তু তালাশ করতে এবং কবিতা আবৃত্তি করতে নিষেধ করেছেন। আরো নিষেধ করেছেন জুমু‘আহর দিন সালাতের পূর্বে মসজিদে গোল হয়ে বসতে।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আমর ইবনু শু‘আইব (রহঃ) হতে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মসজিদে বেচা-কেনা করতে, হারানো বস্তু তালাশ করতে এবং কবিতা আবৃত্তি করতে নিষেধ করেছেন। আরো নিষেধ করেছেন জুমু‘আহর দিন সালাতের পূর্বে মসজিদে গোল হয়ে বসতে।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Amr ibn al-'As: The Messenger of Allah (ﷺ) prohibited buying and selling in the mosque, announcing aloud about a lost thing, the recitation of a poem in it, and prohibited sitting in a circle (in the mosque) on Friday before the prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
+
+## French
+
+Rapporté par ‘Abd Allah ibn ‘Amr ibn al-‘As رضي الله عنه : Le Messager d’Allah ﷺ a interdit d’acheter et de vendre dans la mosquée, d’annoncer à haute voix une chose perdue, de réciter des poèmes dans la mosquée, et il a interdit de s’asseoir en cercle dans la mosquée le vendredi avant la prière
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Ibnu 'Ajlan\] dari \['Amru bin Syu'aib\] dari \[ayahnya\] dari \[kakeknya\] bahwa Rasulullah shallallahu 'alaihi wasallam melarang berjual beli di masjid, mencari sesuatu yang hilang, mendendangkan syair dan mengadakan mengadakan pertemuan (di masjid) sebelum shalat Jum'at
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu 'Ajlan] dari ['Amru bin Syu'aib] dari [ayahnya] dari [kakeknya] bahwa Rasulullah shallallahu 'alaihi wasallam melarang berjual beli di masjid, mencari sesuatu yang hilang, mendendangkan syair dan mengadakan mengadakan pertemuan (di masjid) sebelum shalat Jum'at
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Амр ибн Шу‘айб передаёт со слов своего отца рассказ его деда, да будет доволен Аллах им и его отцом, о том, что Посланник Аллаха ﷺ запретил покупать и продавать в мечети, расспрашивать там о пропавшей вещи, декламировать стихи и собираться в кружки перед пятничной молитвой
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr b. Şuayb'ın babası kanalıyla dedesinden yaptığı rivayete göre; Resulullah (s.a.v.), mescid'de alış-veriş yapılmasını, kayıp ilân edilmesini, şiir söylenmesini ve cum’a günü namazından önce halka halinde oturulrnasınr nehyetmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مسجد میں خرید و فروخت کرنے، کوئی گمشدہ چیز تلاش کرنے، شعر پڑھنے اور جمعہ کے دن نماز سے پہلے حلقہ بنا کر بیٹھنے سے منع فرمایا ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1079</td></tr><tr><td>Arabic No</td><td>1079</td></tr><tr><td>Reference</td><td>Book 2 Hadith 690</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1079 |
+| Arabic No | 1079 |
+| Reference | Book 2 Hadith 690 |

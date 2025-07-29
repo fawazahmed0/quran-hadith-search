@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنْ عَمْرِو بْنِ أَبِي عَمْرٍو، عَنْ عِكْرِمَةَ، أَنَّ نَفَرًا، مِنْ أَهْلِ الْعِرَاقِ قَالُوا يَا ابْنَ عَبَّاسٍ كَيْفَ تَرَى فِي هَذِهِ الآيَةِ الَّتِي أُمِرْنَا فِيهَا بِمَا أُمِرْنَا وَلاَ يَعْمَلُ بِهَا أَحَدٌ قَوْلُ اللَّهِ عَزَّ وَجَلَّ ‏(‏ يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنْكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنْكُمْ ثَلاَثَ مَرَّاتٍ مِنْ قَبْلِ صَلاَةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُمْ مِنَ الظَّهِيرَةِ وَمِنْ بَعْدِ صَلاَةِ الْعِشَاءِ ثَلاَثُ عَوْرَاتٍ لَكُمْ لَيْسَ عَلَيْكُمْ وَلاَ عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ طَوَّافُونَ عَلَيْكُمْ ‏)‏ قَرَأَ الْقَعْنَبِيُّ إِلَى ‏(‏ عَلِيمٌ حَكِيمٌ ‏)‏ قَالَ ابْنُ عَبَّاسٍ إِنَّ اللَّهَ حَلِيمٌ رَحِيمٌ بِالْمُؤْمِنِينَ يُحِبُّ السَّتْرَ وَكَانَ النَّاسُ لَيْسَ لِبُيُوتِهِمْ سُتُورٌ وَلاَ حِجَالٌ فَرُبَّمَا دَخَلَ الْخَادِمُ أَوِ الْوَلَدُ أَوْ يَتِيمَةُ الرَّجُلِ وَالرَّجُلُ عَلَى أَهْلِهِ فَأَمَرَهُمُ اللَّهُ بِالاِسْتِئْذَانِ فِي تِلْكَ الْعَوْرَاتِ فَجَاءَهُمُ اللَّهُ بِالسُّتُورِ وَالْخَيْرِ فَلَمْ أَرَ أَحَدًا يَعْمَلُ بِذَلِكَ بَعْدُ ‏.‏ قَالَ أَبُو دَاوُدَ حَدِيثُ عُبَيْدِ اللَّهِ وَعَطَاءٍ يُفْسِدُ هَذَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
+
 حدثنا عبد الله بن مسلمة، حدثنا عبد العزيز، - يعني ابن محمد - عن عمرو بن ابي عمرو، عن عكرمة، ان نفرا، من اهل العراق قالوا يا ابن عباس كيف ترى في هذه الاية التي امرنا فيها بما امرنا ولا يعمل بها احد قول الله عز وجل ( يا ايها الذين امنوا ليستاذنكم الذين ملكت ايمانكم والذين لم يبلغوا الحلم منكم ثلاث مرات من قبل صلاة الفجر وحين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم ليس عليكم ولا عليهم جناح بعدهن طوافون عليكم ) قرا القعنبي الى ( عليم حكيم ) قال ابن عباس ان الله حليم رحيم بالمومنين يحب الستر وكان الناس ليس لبيوتهم ستور ولا حجال فربما دخل الخادم او الولد او يتيمة الرجل والرجل على اهله فامرهم الله بالاستيذان في تلك العورات فجاءهم الله بالستور والخير فلم ار احدا يعمل بذلك بعد . قال ابو داود حديث عبيد الله وعطاء يفسد هذا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
 
 ## Bengali
 
+। ইকরিমাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইরাকের অধিবাসী একদল লোক ইবনু আব্বাস (রাঃ)-এর নিকট প্রশ্ন করলো, হে ইবনু আব্বাস! এ আয়াত সম্পর্কে আপনার মতামত কি? তাতে আমাদেরকে যা নির্দেশ দেয়া হয়েছে, কিন্তু কেউই সে মোতাবেক আমল করে না। মহান আল্লাহ বলেন, ‘‘হে ঈমানদারগণ! তোমাদের অধিকারভুক্ত দাস-দাসীরা এবং তোমাদের মধ্যে যারা বয়োপ্রাপ্ত হয়নি তারা যেন তোমাদের ঘরে প্রবেশ করতে তিন সময়ে অনুমতি নেয়, ফাজর সালাতের পূর্বে, দুপুরে যখন তোমরা তোমাদের পোশাক খুলে রাখো এবং ইশার সালাতের পর- এ তিন সময় তোমাদের গোপনীয়তা অবলম্বনের সময়। এ তিন সময় ছাড়া অন্য সময় অনুমতি ছাড়া প্রবেশ করলে তোমাদের জন্য এবং তাদের জন্য কোনো দোষ নেই। তোমাদের একজনকে অপরজনের নিকট যাতায়াত করতে হয়। এভাবে আল্লাহ তোমাদের নিকট তাঁর নির্দেশ সুস্পষ্টভাবে বর্ণনা করেন। আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়। তোমাদের সন্তান-সন্ততি বয়োপ্রাপ্ত হলে তারাও যেন তোমাদের বয়োজ্যেষ্ঠাদের মতো অনুমতি গ্রহণ করে। এভাবে আল্লাহ তোমাদের জন্য তাঁর নির্দেশ সুস্পষ্টভাবে বর্ণনা করেন, আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়’’ (সূরা নূরঃ ৫৮-৫৯)। ইবনু আব্বাস (রাঃ) বলেন, আল্লাহ মু‘মিনদের প্রতি সহনশীল, পরম দয়ালু। তিনি গোপনীয়তা ভালোবাসেন। লোকজনের ঘরে কোনোরূপ পর্দার ব্যবস্থা ছিলো না। ফলে কখনো ঘরে স্বামী-স্ত্রী অবস্থানকালে তার খাদেম বা বালক-বালিকারা ঢুকে পড়তো। এজন্যই আল্লাহ গোপনীয়তা অবলম্বনের এ সময়গুলোতে অনুমতি চাওয়ার নির্দেশ দেন। অতএব আল্লাহ তাদের জন্য গোপনীয়তা অবলম্বন ও কল্যাণকর ব্যবস্থা দিয়েছেন। অথচ আমি কাউকে তদনুসারে আমল করতে দেখি না। ইমাম আবূ দাঊদ (রহঃ) (রহঃ) বলেন, উবাইদুল্লাহ ও আতা (রহঃ) কর্তৃক বর্ণিত হাদীস এ হাদীসে দুর্বল করে।\[1\] সনদ হাসান মাওকুফ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইকরিমাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, ইরাকের অধিবাসী একদল লোক ইবনু আব্বাস (রাঃ)-এর নিকট প্রশ্ন করলো, হে ইবনু আব্বাস! এ আয়াত সম্পর্কে আপনার মতামত কি? তাতে আমাদেরকে যা নির্দেশ দেয়া হয়েছে, কিন্তু কেউই সে মোতাবেক আমল করে না। মহান আল্লাহ বলেন, ‘‘হে ঈমানদারগণ! তোমাদের অধিকারভুক্ত দাস-দাসীরা এবং তোমাদের মধ্যে যারা বয়োপ্রাপ্ত হয়নি তারা যেন তোমাদের ঘরে প্রবেশ করতে তিন সময়ে অনুমতি নেয়, ফাজর সালাতের পূর্বে, দুপুরে যখন তোমরা তোমাদের পোশাক খুলে রাখো এবং ইশার সালাতের পর- এ তিন সময় তোমাদের গোপনীয়তা অবলম্বনের সময়। এ তিন সময় ছাড়া অন্য সময় অনুমতি ছাড়া প্রবেশ করলে তোমাদের জন্য এবং তাদের জন্য কোনো দোষ নেই। তোমাদের একজনকে অপরজনের নিকট যাতায়াত করতে হয়। এভাবে আল্লাহ তোমাদের নিকট তাঁর নির্দেশ সুস্পষ্টভাবে বর্ণনা করেন। আল্লাহ মহাজ্ঞানী, প্রজ্ঞাময়। তোমাদের সন্তান-সন্ততি বয়োপ্রাপ্ত হলে তারাও যেন তোমাদের বয়োজ্যেষ্ঠাদের মতো অনুমতি গ্রহণ করে। এভাবে আল্লাহ তোমাদের জন্য তাঁর নির্দেশ সুস্পষ্টভাবে বর্ণনা করেন, আল্লাহ সর্বজ্ঞ, প্রজ্ঞাময়’’ (সূরা নূরঃ ৫৮-৫৯)। ইবনু আব্বাস (রাঃ) বলেন, আল্লাহ মু‘মিনদের প্রতি সহনশীল, পরম দয়ালু। তিনি গোপনীয়তা ভালোবাসেন। লোকজনের ঘরে কোনোরূপ পর্দার ব্যবস্থা ছিলো না। ফলে কখনো ঘরে স্বামী-স্ত্রী অবস্থানকালে তার খাদেম বা বালক-বালিকারা ঢুকে পড়তো। এজন্যই আল্লাহ গোপনীয়তা অবলম্বনের এ সময়গুলোতে অনুমতি চাওয়ার নির্দেশ দেন। অতএব আল্লাহ তাদের জন্য গোপনীয়তা অবলম্বন ও কল্যাণকর ব্যবস্থা দিয়েছেন। অথচ আমি কাউকে তদনুসারে আমল করতে দেখি না। ইমাম আবূ দাঊদ (রহঃ) (রহঃ) বলেন, উবাইদুল্লাহ ও আতা (রহঃ) কর্তৃক বর্ণিত হাদীস এ হাদীসে দুর্বল করে।[1] সনদ হাসান মাওকুফ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah Ibn Abbas: Ikrimah said: A group of people from Iraq said: Ibn Abbas, what is your opinion about the verse in which we have been commanded whatever we have been commanded, but no one acts upon it? The word of Allah, Most High, reads: "O ye who believe! Let those whom your right hands possess, and the (children) among you, who have not come of age, ask your permission (before) they enter your presence on three occasions: before morning prayer, while you are undressing for the noonday heat, and after late-night prayer. These are your three times of undress; outside those times it is not wrong for you or for them to move about." Al-Qa'nabi recited the verse up to "full of knowledge and wisdom". Ibn Abbas said: Allah is Most Clement and Most Merciful to the believers. He loves concealment. The people had neither curtains nor curtained canopies in their houses. Sometimes a servant, a child or a female orphan of a man entered while the man was having sexual intercourse with his wife. So Allah commanded them to ask permission in those times of undress. Then Allah brought them curtains and all good things. But I did not see anyone following it after that. Abu Dawud said: The tradition of 'Ubaid Allah and of 'Ata, weakens this tradition
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
+
+## French
+
+Rapporté par Abdullah Ibn Abbas رضي الله عنه : Ikrimah a dit : Un groupe de gens d’Irak a demandé à Ibn Abbas : « Quel est ton avis sur le verset dans lequel nous avons reçu un ordre, mais que personne n’applique ? » La parole d’Allah, le Très-Haut, dit : « Ô vous qui croyez ! Que ceux que possèdent vos mains droites et les enfants parmi vous qui n’ont pas atteint la puberté demandent la permission avant d’entrer à trois moments : avant la prière du matin, quand vous retirez vos vêtements pour la sieste, et après la prière de la nuit. Ce sont trois moments d’intimité pour vous. En dehors de ces moments, ni vous ni eux ne commettez de faute en allant et venant. » Al-Qa’nabi a récité le verset jusqu’à : « plein de science et de sagesse. » Ibn Abbas a dit : Allah est très Clément et très Miséricordieux envers les croyants. Il aime la discrétion. À l’époque, les gens n’avaient ni rideaux ni tentures dans leurs maisons. Parfois, un serviteur, un enfant ou une orpheline entrait alors qu’un homme avait des rapports avec sa femme. Allah leur a donc ordonné de demander la permission à ces moments d’intimité. Ensuite, Allah leur a donné des rideaux et toutes sortes de biens. Mais je n’ai vu personne appliquer cela après. Abu Dawud a dit : Le récit de ‘Ubaid Allah et de ‘Ata affaiblit ce récit
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Maslamah\] berkata, telah menceritakan kepada kami \[Abdul Aziz\] -maksudnya Abdul Aziz bin Muhammad- dari \[Amru bin Abu Amru\] dari \[Ikrimah\] bahwa ada beberapa orang dari penduduk Irak berkata, "Wahai \[Ibnu Abbas\], apa pendapatmu tentang ayat ini; kami telah diperintahkan untuk mengamalkan apa yang terkandung di dalamnya, namun tidak seorang pun mau mengamalkannya? Yaitu firman Allah: (Hai orang-orang yang beriman, hendaklah budak-budak (lelaki dan wanita) yang kamu miliki, dan orang-orang yang belum baligh di antara kamu, meminta izin kepada kamu tiga kali (dalam satu hari) yaitu: sebelum sembahyang subuh, ketika kamu menanggalkan pakaian (luar) mu di tengah hari dan sesudah sembahyang Isya'. (Itulah) tiga 'aurat bagi kamu. Tidak ada dosa atasmu dan tidak (pula) atas mereka selain dari (tiga waktu) itu…." Al -Qa'nabi membacanya hingga firman-Nya-: "…Maha Mengetahui lagi Maha Bijaksana) ' -Qs. An Nuur: 58- Ibnu Abbas berkata, "Sesungguhnya Allah Maha Lembut dan menyanyangi orang-orang mukmin. Allah suka (sifat) menutupi air orang lain. Sementara saat itu orang-orang tidak memiliki penutup atau hijab di rumah mereka, hingga dimungkinkan seorang pembantu, atau anak, atau wanita anak yatim seorang laki-laki masuk rumah saat suami menggauli isterinya. Maka Allah memerintahkan mereka untuk meminta izin pada waktu-waktu tersebut. Allah datang kepada mereka dengan syari'at hijab dan kebaikan, namun aku tidak pernah mendapati seorang pun melakukan itu." Abu Dawud berkata, "Hadits Ubaidullah dan Atha merusak hadits ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muhammad- dari [Amru bin Abu Amru] dari [Ikrimah] bahwa ada beberapa orang dari penduduk Irak berkata, "Wahai [Ibnu Abbas], apa pendapatmu tentang ayat ini; kami telah diperintahkan untuk mengamalkan apa yang terkandung di dalamnya, namun tidak seorang pun mau mengamalkannya? Yaitu firman Allah: (Hai orang-orang yang beriman, hendaklah budak-budak (lelaki dan wanita) yang kamu miliki, dan orang-orang yang belum baligh di antara kamu, meminta izin kepada kamu tiga kali (dalam satu hari) yaitu: sebelum sembahyang subuh, ketika kamu menanggalkan pakaian (luar) mu di tengah hari dan sesudah sembahyang Isya'. (Itulah) tiga 'aurat bagi kamu. Tidak ada dosa atasmu dan tidak (pula) atas mereka selain dari (tiga waktu) itu…." Al -Qa'nabi membacanya hingga firman-Nya-: "…Maha Mengetahui lagi Maha Bijaksana) ' -Qs. An Nuur: 58- Ibnu Abbas berkata, "Sesungguhnya Allah Maha Lembut dan menyanyangi orang-orang mukmin. Allah suka (sifat) menutupi air orang lain. Sementara saat itu orang-orang tidak memiliki penutup atau hijab di rumah mereka, hingga dimungkinkan seorang pembantu, atau anak, atau wanita anak yatim seorang laki-laki masuk rumah saat suami menggauli isterinya. Maka Allah memerintahkan mereka untuk meminta izin pada waktu-waktu tersebut. Allah datang kepada mereka dengan syari'at hijab dan kebaikan, namun aku tidak pernah mendapati seorang pun melakukan itu." Abu Dawud berkata, "Hadits Ubaidullah dan Atha merusak hadits ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. îkrime'den (rivayet edildiğine göre) Irak halkından bir cemaatin Hz. İbn Abbas'a: Ey Abbas'ın oğlu! İçinde bulunan emirlerle emrolunduğumuz halde, hiç kimsenin kendisiyle amel etmediği aziz ve celil olan Allah'ın şu: "Ey iman edenler, sağ elinizin mâlik olduğu (köle ve cariyeler) bir de sizden olup da henüz bulûğ çağına girmemiş (küçük)ler (şu) üç vakitte, sabah namazından sonra (odanıza girecek olurlarsa) sizden izin istesinler. Bu vakitlerin dışında birbirinizin yanına girip-çıkmakta size de onlara da ne sizin üzerine bir vebal yoktur..." buyruğu hakkında görüşün nedir? diye sormuşlar. El-Ka'nebî (yani râvi Abdullah b. Mesleme, bu âyet-i kerimeyi âyetin sonunda yer alan): "Hakkıyla bilendir ve hikmet sahibidir" (kelimelerin) kadar okudu. Hz. İbn Abbas da şöyle demiş: Allah mu'minlere karşı çok yumuşak ve merhametlidir. Örtünmeyi (bu nedenle onların sürekli örtünmelerini ister. Bu âyet-i kerime nazil olduğu sıralarda ise halkın) evlerinde perdeler ve özel hazırlanmış (kilitli) odalar da yoktu. Bazan hizmetçiler, çocuklar yahutta adam'ın (yanında, başkasından) öksüz kalmış kız çocuğu adam hanımı ile cinsi münasebette iken odasına giriverebiliyordu. İşte bu yüzden (yüce) Allah bu açık saçıklık vakitlerinde onlara (odalara girmek için) izin istemeyi emretti. (Sonra da) onlara örtüyü ve hayrı getirdi. Ve ben (bu örtünme ve hayır geldikten sonra) bu âyetle amel eden bir kimseyi görmedim. Ebu Davud dedi ki: Ubeyduîlah ile Atâ rivayet ettikleri (bir Önceki) hadis, bu hadisi zayıflatmaktadır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عکرمہ سے روایت ہے کہ عراق کے کچھ لوگوں نے کہا: ابن عباس! اس آیت کے بارے میں آپ کا کیا خیال ہے جس میں ہمیں حکم دیا گیا جو حکم دیا گیا لیکن اس پر کسی نے عمل نہیں کیا، یعنی اللہ تعالیٰ کے قول «يا أيها الذين آمنوا ليستأذنكم الذين ملكت أيمانكم والذين لم يبلغوا الحلم منكم ثلاث مرات من قبل صلاة الفجر وحين تضعون ثيابكم من الظهيرة ومن بعد صلاة العشاء ثلاث عورات لكم ليس عليكم ولا عليهم جناح بعدهن طوافون عليكم» اے ایمان والو! تمہارے غلاموں اور لونڈیوں کو اور تمہارے سیانے لیکن نابالغ بچوں کو تین اوقات میں تمہارے پاس اجازت لے کر ہی آنا چاہیئے نماز فجر سے پہلے، دوپہر کے وقت جب تم کپڑے اتار کر آرام کے لیے لیٹتے ہو، بعد نماز عشاء یہ تینوں وقت پردہ پوشی کے ہیں ان تینوں اوقات کے علاوہ اوقات میں کوئی مضائقہ نہیں ہے کہ تم ان کے پاس جاؤ، اور وہ تمہارے پاس آئیں۔ ( النور: ۵۸ ) قعنبی نے آیت «عليم حكيم» تک پڑھی۔ عبداللہ بن عباس رضی اللہ عنہما نے کہا: اللہ تعالیٰ حلیم ( بردبار ) ہے اور مسلمانوں پر رحیم ( مہربان ) ہے، وہ پردہ پوشی کو پسند فرماتا ہے، ( یہ آیت جب نازل ہوئی ہے تو ) لوگوں کے گھروں پر نہ پردے تھے، اور نہ ہی چلمن ( سرکیاں ) ، کبھی کبھی ایسا ہوتا کہ کوئی خدمت گار کوئی لڑکا یا کوئی یتیم بچی ایسے وقت میں آ جاتی جب آدمی اپنی بیوی سے صحبت کرتا ہوتا، اس لیے اللہ تعالیٰ نے پردے کے ان اوقات میں اجازت لینے کا حکم دیا، اس کے بعد اللہ تعالیٰ نے اپنے فضل سے پردے دیے اور خیر ( مال ) سے نوازا، اس وقت سے میں نے کسی کو اس آیت پر عمل کرتے نہیں دیکھا ۱؎۔ ابوداؤد کہتے ہیں: عبیداللہ اور عطاء کی حدیث ( جن کا ذکر اس سے پہلے آ چکا ہے ) اس حدیث کی تضعیف کرتی ہے۔ ۳؎ یعنی یہ حدیث ان دونوں احادیث کی ضد ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Isnaad</td><td>Al-Albani</td></tr><tr><td>Hasan Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5192</td></tr><tr><td>Arabic No</td><td>5192</td></tr><tr><td>Reference</td><td>Book 43 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Isnaad | Al-Albani |
+| Hasan Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5192 |
+| Arabic No | 5192 |
+| Reference | Book 43 Hadith 420 |

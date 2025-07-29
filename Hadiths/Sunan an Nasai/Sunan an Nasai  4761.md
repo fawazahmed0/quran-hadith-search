@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ زُرَارَةَ، عَنْ عِمْرَانَ بْنِ حُصَيْنٍ، أَنَّ يَعْلَى، قَالَ فِي الَّذِي عَضَّ فَنَدَرَتْ ثَنِيَّتُهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ دِيَةَ لَكَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 45 Hadith 56</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |
+
 اخبرنا سويد بن نصر، قال انبانا عبد الله، عن شعبة، عن قتادة، عن زرارة، عن عمران بن حصين، ان يعلى، قال في الذي عض فندرت ثنيته ان النبي صلى الله عليه وسلم قال " لا دية لك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 45 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ ইবন নাসর (রহঃ) ... যুরারা (রহঃ) ইমরান ইবন হুসায়ন (রাঃ) থেকে বর্ণনা করেন যে, ইয়ালা বলেন, এক ব্যক্তি অন্যজনের হাতে কামড় দিলে তার দাঁত পড়ে যায়। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তোমার জন্য কোন দিয়াত নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 45 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Imran bin Husain that:Ya'la said, concerning the one who bit (another), and his front tooth fell out, that the Prophet said: "There is no Diyah for you." (Sahih)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 45 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |
+
+## French
+
+Rapporté par ‘Imran bin Husain : Ya’la a dit, à propos de celui qui a mordu (un autre) et dont la dent de devant est tombée, que le Prophète a dit : "Il n’y a pas de compensation pour toi." (Sahih)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid bin Nashr\] telah memberitakan kepada kami \[Abdullah\] dari \[Syu'bah\] dari \[Qatadah\] dari \[Zurarah\] dari \[Imran bin Hushain\] bahwa Ya'la berkata mengenai orang yang menggigit kemudian gigi serinya terlepas; sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada diyat untukmu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid bin Nashr] telah memberitakan kepada kami [Abdullah] dari [Syu'bah] dari [Qatadah] dari [Zurarah] dari [Imran bin Hushain] bahwa Ya'la berkata mengenai orang yang menggigit kemudian gigi serinya terlepas; sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: "Tidak ada diyat untukmu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 45 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 45 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4761</td></tr><tr><td>Arabic No</td><td>4761</td></tr><tr><td>Reference</td><td>Book 45 Hadith 56</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4761 |
+| Arabic No | 4761 |
+| Reference | Book 45 Hadith 56 |

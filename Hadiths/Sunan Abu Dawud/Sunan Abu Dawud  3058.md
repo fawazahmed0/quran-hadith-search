@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,133 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ مَرْزُوقٍ، أَخْبَرَنَا شُعْبَةُ، عَنْ سِمَاكٍ، عَنْ عَلْقَمَةَ بْنِ وَائِلٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم أَقْطَعَهُ أَرْضًا بِحَضْرَمَوْتَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
+
 حدثنا عمرو بن مرزوق، اخبرنا شعبة، عن سماك، عن علقمة بن وايل، عن ابيه، ان النبي صلى الله عليه وسلم اقطعه ارضا بحضرموت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ওয়াইল (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে হাদরামাওত এলাকায় এখ খন্ড জমি জায়গীর হিসাবে দিয়েছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Alqamah ibn Wa'il: The Prophet (ﷺ) bestowed land in Hadramawt as fief
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
+
+## French
+
+Rapporté par Alqamah ibn Wa’il رضي الله عنه : Le Prophète ﷺ a accordé des terres à Hadramawt comme fief
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Amr bin Marzuq\], telah mengabarkan kepada kami \[Syu'bah\], dari \[Simak\] dari \['Alqamah bin Wail\] dari \[ayahnya\], bahwa Nabi shallallahu 'alaihi wasallam telah mengalokasikan untuknya lahan di Hadhramaut. Telah menceritakan kepada kami \[Hafsh bin Umar\], telah menceritakan kepada kami \[Jami' bin Mathar\], dari \['Alqamah bin Wail\] dengan sanadnya seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amr bin Marzuq], telah mengabarkan kepada kami [Syu'bah], dari [Simak] dari ['Alqamah bin Wail] dari [ayahnya], bahwa Nabi shallallahu 'alaihi wasallam telah mengalokasikan untuknya lahan di Hadhramaut. Telah menceritakan kepada kami [Hafsh bin Umar], telah menceritakan kepada kami [Jami' bin Mathar], dari ['Alqamah bin Wail] dengan sanadnya seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ваиля, да будет доволен им Аллах, что Пророк ﷺ дал ему земельный надел в Хадрамауте
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Alkame b. Vâil(in, babasından rivayet olduğuna göre) Nebi (s.a.v.) Hadramevt'te bulunan bir araziyi parselleyerek kendisine vermiştir. Ayrıca bu hadis'i Tirmizi, ahkâm, Ahmed b. Hanbel VI-399. da da tahric ettiler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وائل رضی اللہ عنہ ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے انہیں حضر موت ۱؎ میں زمین کا ٹکڑا جاگیر میں دیا ۲؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3058</td></tr><tr><td>Arabic No</td><td>3058</td></tr><tr><td>Reference</td><td>Book 20 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3058 |
+| Arabic No | 3058 |
+| Reference | Book 20 Hadith 131 |

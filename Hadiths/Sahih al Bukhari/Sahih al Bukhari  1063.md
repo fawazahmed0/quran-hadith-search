@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو مَعْمَرٍ، قَالَ حَدَّثَنَا عَبْدُ الْوَارِثِ، قَالَ حَدَّثَنَا يُونُسُ، عَنِ الْحَسَنِ، عَنْ أَبِي بَكْرَةَ، قَالَ خَسَفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَخَرَجَ يَجُرُّ رِدَاءَهُ حَتَّى انْتَهَى إِلَى الْمَسْجِدِ، وَثَابَ النَّاسُ إِلَيْهِ فَصَلَّى بِهِمْ رَكْعَتَيْنِ، فَانْجَلَتِ الشَّمْسُ فَقَالَ ‏ "‏ إِنَّ الشَّمْسَ وَالْقَمَرَ آيَتَانِ مِنْ آيَاتِ اللَّهِ، وَإِنَّهُمَا لاَ يَخْسِفَانِ لِمَوْتِ أَحَدٍ، وَإِذَا كَانَ ذَاكَ فَصَلُّوا وَادْعُوا حَتَّى يُكْشَفَ مَا بِكُمْ ‏"‏‏.‏ وَذَاكَ أَنَّ ابْنًا لِلنَّبِيِّ صلى الله عليه وسلم مَاتَ، يُقَالُ لَهُ إِبْرَاهِيمُ، فَقَالَ النَّاسُ فِي ذَاكَ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو معمر، قال حدثنا عبد الوارث، قال حدثنا يونس، عن الحسن، عن ابي بكرة، قال خسفت الشمس على عهد رسول الله صلى الله عليه وسلم فخرج يجر رداءه حتى انتهى الى المسجد، وثاب الناس اليه فصلى بهم ركعتين، فانجلت الشمس فقال " ان الشمس والقمر ايتان من ايات الله، وانهما لا يخسفان لموت احد، واذا كان ذاك فصلوا وادعوا حتى يكشف ما بكم ". وذاك ان ابنا للنبي صلى الله عليه وسلم مات، يقال له ابراهيم، فقال الناس في ذاك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকরাহ (রাযি.) হতে বর্ণিত। তিনি বলেন, আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সময় সূর্যগ্রহণ হল। তিনি বের হয়ে তাঁর চাদর টেনে টেনে মসজিদে পৌঁছলেন এবং লোকজনও তাঁর নিকট সমবেত হল। অতঃপর তিনি তাঁদের নিয়ে দু‘রাক‘আত সালাত আদায় করেন। অতঃপর সূর্যগ্রহণ মুক্ত হলে তিনি বললেনঃ সূর্য ও চন্দ্র আল্লাহর নিদর্শন সমূহের মধ্যে দু’টি নিদর্শন। কারো মৃত্যুর কারণে এ দু’টোর গ্রহণ হয় না। কাজেই যখন গ্রহণ হবে, তা মুক্ত না হওয়া পর্যন্ত সালাত আদায় করবে এবং দু‘আ করতে থাকবে। এ কথা নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এ কারণেই বলেছেন যে, সেদিন তাঁর পুত্র ইব্রাহীম (রাযি.)-এর ওফাত হয়েছিল এবং লোকেরা সে ব্যাপারে পরস্পর বলাবলি করছিল। (১০৪০) (আধুনিক প্রকাশনীঃ ৯৯৮, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
 ## English
 
+Narrated Abu Bakra:In the lifetime of Allah's Messenger (ﷺ) the sun eclipsed and he went out dragging his clothes till he reached the Mosque. The people gathered around him and he led them and offered two rak'at. When the sun (eclipse) cleared, he said, "The sun and the moon are two signs amongst the signs of Allah; they do not eclipse because of the death of someone, and so when an eclipse occurs, pray and invoke Allah till the eclipse is over." It happened that a son of the Prophet (ﷺ) called Ibrahim died on that day and the people were talking about that (saying that the eclipse was caused by his death)
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Bakra:In the lifetime of the Allah's Messenger (ﷺ) (p.b.u.h) the sun eclipsed and he went out dragging his clothes till he reached the Mosque. The people gathered around him and he led them and offered two rak'at. When the sun (eclipse) cleared, he said, "The sun and the moon are two signs amongst the signs of Allah; they do not eclipse because of the death of someone, and so when an eclipse occurs, pray and invoke Allah till the eclipse is over." It happened that a son of the Prophet (ﷺ) called Ibrahim died on that day and the people were talking about that (saying that the eclipse was caused by his death)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
+
+## French
+
+Rapporté par Abu Bakra : Du vivant du Messager d’Allah (ﷺ), le soleil s’est éclipsé et il est sorti en traînant ses vêtements jusqu’à la mosquée. Les gens se sont rassemblés autour de lui, il les a dirigés et a accompli deux rak'at. Quand l’éclipse a pris fin, il a dit : « Le soleil et la lune sont deux signes parmi les signes d’Allah ; ils ne s’éclipsent pas à cause de la mort de quelqu’un. Donc, quand une éclipse se produit, priez et invoquez Allah jusqu’à ce que l’éclipse soit terminée. » Ce jour-là, un fils du Prophète (ﷺ) nommé Ibrahim est décédé et les gens en parlaient (en disant que l’éclipse était causée par sa mort)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Ma'mar\] berkata, telah telah menceritakan kepada kami \['Abdul Warits\] berkata, telah menceritakan kepada kami \[Yunus\] dari \[Al Hasan\] dari \[Abu Bakrah\] berkata: "Telah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam lalu Beliau keluar dengan menyingsingkan selendangnya hingga tiba di masjid. Maka orang-orang berkumpul mengelilingi Beliau. Lalu Beliau memimpin shalat bersama mereka dua raka'at hingga matahari kembali nampak. Kemudian Beliau bersabda: "Matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah dan keduanya tidak akan mengalami gerhana disebabkan karena kematian seseorang. Jika terjadi gerhana, maka dirikanlah shalat dan banyaklah berdo'a hingga selesai gerhana yang terjadi pada kalian". Peristiwa ini berkenaan ketika putra Nabi shallallahu 'alaihi wasallam yang bernama Ibrahim wafat yang manusia kemudian memperbincangkannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Ma'mar] berkata, telah telah menceritakan kepada kami ['Abdul Warits] berkata, telah menceritakan kepada kami [Yunus] dari [Al Hasan] dari [Abu Bakrah] berkata: "Telah terjadi gerhana matahari pada zaman Rasulullah shallallahu 'alaihi wasallam lalu Beliau keluar dengan menyingsingkan selendangnya hingga tiba di masjid. Maka orang-orang berkumpul mengelilingi Beliau. Lalu Beliau memimpin shalat bersama mereka dua raka'at hingga matahari kembali nampak. Kemudian Beliau bersabda: "Matahari dan bulan adalah dua tanda dari tanda-tanda kebesaran Allah dan keduanya tidak akan mengalami gerhana disebabkan karena kematian seseorang. Jika terjadi gerhana, maka dirikanlah shalat dan banyaklah berdo'a hingga selesai gerhana yang terjadi pada kalian". Peristiwa ini berkenaan ketika putra Nabi shallallahu 'alaihi wasallam yang bernama Ibrahim wafat yang manusia kemudian memperbincangkannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Бакра сказал: «При жизни Посланника Аллаха ﷺ произошло солнечное затмение, он вышел, волоча свою накидку, пока не достиг мечети. Люди собрались около него, и он совершил с ними молитву в два рак‘ата. Когда солнце (затмение) прояснилось, он сказал: “Поистине, солнце и луна являются знамениями из знамений Аллаха. Они не затмеваются из-за чьей-то смерти, и поэтому, когда происходит (подобное), совершайте молитву и взывайте к Аллаху, пока затмение не закончится”. Случилось так, что сын Пророка ﷺ по имени Ибрахим умер (в тот день), и люди говорили об этом (говоря, что затмение было вызвано его смертью)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூபக்ரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர் களது காலத்தில் சூரிய கிரகணம் ஏற்பட்டது. உடனே அவர்கள் தமது மேலாடையை இழுத்தபடியே பள்ளி வாசலைச் சென்றடைந்தார்கள். (தொழுது விட்டுச் சென்றிருந்த) மக்களும் அவர்களிடம் வந்து குழுமினர். அப்போது அவர்களுடன் நபி (ஸல்) அவர்கள் இரண்டு ரக்அத்கள் தொழுதார்கள். (கிரகணம் விலகி) சூரியன் ஒளிர்ந்த தும், “சூரியனும் சந்திரனும் அல்லாஹ்வின் சான்றுகளில் இரு சான்றுகளாகும். எவரது இறப்புக்காகவும் அவற்றில் கிரகணம் ஏற்படுவதில்லை. இ(த்தகைய கிரகண மான)து ஏற்பட்டால், உங்களைவிட்டு இது அகற்றப்படும்வரை தொழுங்கள்; பிரார்த்தி யுங்கள்” என்று கூறினார்கள்.10 இவ்வாறு நபி (ஸல்) அவர்கள் கூறக் காரணம், (கிரகணம் ஏற்பட்ட தினம்) நபி (ஸல்) அவர்களுடைய புதல்வர் இப்ராஹீம் எனப்படுவார் இறந்துவிட்டார். இதையொட்டி மக்கள் (‘இப்ராஹீமின் இறப்புக்காகவே கிரகணம் ஏற்பட்டது’ என்று) பேசிக்கொண்டனர். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Bekre'nin şöyle dediği nakledilmiştir: "Resul-i Ekrem Sallallahu Aleyhi ve Sellem hayatta İken güneş tutulması oldu. Bunun üzerine Nebi Sallallahu Aleyhi ve Sellem omuzuna attığı ridasını sürüyerek yanımızdan ayrıldı ve mescide girdi. Orada bulunanlar da onu takip ederek mescide gittiler. Resulullah Sallallahu Aleyhi ve Sellem iki rekat namaz kıldırdı ve bir süre sonra güneş açıldı. Namaz sonrasında şöyle buyurdu: "Güneş ve ay Allah'ın birer ayetidir. Bunlar hiçkimsenin ölümü dolayısıyla tutulmaz. Siz bunların tutulduğunu görürseniz tekrar açılana kadar namaz kılın ve dua edin!" Nebi Sallallahu Aleyhi ve Sellem'in, İbrahim adındaki oğlu vefat edince insanlar güneş tutulmasının bu yüzden meydana geldiğini söylemişlerdi. İşte Resulullah Sallallahu Aleyhi ve Sellem bu sözleri duyunca namaz sonunda böyle söylemişti." باب: الركعة الأولى في الكسوف أطول. 18. Güneş Tutulması Namazının İlk Rekatı Daha Uzun Olur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابومعمر نے بیان کیا، کہا کہ ہم سے عبدالوارث نے بیان کیا، کہا کہ ہم سے یونس نے بیان کیا، ان سے امام حسن بصری نے، ان سے ابوبکرہ نے کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانے میں سورج گرہن لگا تو آپ صلی اللہ علیہ وسلم اپنی چادر گھسیٹتے ہوئے ( بڑی تیزی سے ) مسجد میں پہنچے۔ صحابہ بھی جمع ہو گئے۔ پھر آپ صلی اللہ علیہ وسلم نے انہیں دو رکعت نماز پڑھائی، گرہن بھی ختم ہو گیا۔ اس کے بعد آپ صلی اللہ علیہ وسلم نے فرمایا کہ سورج اور چاند اللہ تعالیٰ کی نشانیوں میں سے دو نشانیاں ہیں اور ان میں گرہن کسی کی موت پر نہیں لگتا اس لیے جب گرہن لگے تو اس وقت تک نماز اور دعا میں مشغول رہو جب تک یہ صاف نہ ہو جائے۔ یہ آپ صلی اللہ علیہ وسلم نے اس لیے فرمایا کہ نبی کریم صلی اللہ علیہ وسلم کے ایک صاحبزادے ابراہیم رضی اللہ عنہ کی وفات ( اسی دن ) ہوئی تھی اور بعض لوگ ان کے متعلق کہنے لگے تھے ( کہ گرہن ان کی موت پر لگا ہے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1063</td></tr><tr><td>Arabic No</td><td>1063</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1063 |
+| Arabic No | 1063 |
+| Reference | Book 16 Hadith 22 |

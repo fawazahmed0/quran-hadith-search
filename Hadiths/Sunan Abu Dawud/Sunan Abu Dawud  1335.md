@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم ‏:‏ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي مِنَ اللَّيْلِ إِحْدَى عَشْرَةَ رَكْعَةً، يُوتِرُ مِنْهَا بِوَاحِدَةٍ، فَإِذَا فَرَغَ مِنْهَا اضْطَجَعَ عَلَى شِقِّهِ الأَيْمَنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
+
 حدثنا القعنبي، عن مالك، عن ابن شهاب، عن عروة بن الزبير، عن عايشة، زوج النبي صلى الله عليه وسلم : ان رسول الله صلى الله عليه وسلم كان يصلي من الليل احدى عشرة ركعة، يوتر منها بواحدة، فاذا فرغ منها اضطجع على شقه الايمن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
 
 ## Bengali
 
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে এগার রাক‘আত সালাত আদায় করতেন। তন্মধ্যে বিতর হতো এক রাক‘আত। অতঃপর সালাত শেষে তিনি ডান কাতে শুয়ে বিশ্রাম নিতেন।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর স্ত্রী ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাতে এগার রাক‘আত সালাত আদায় করতেন। তন্মধ্যে বিতর হতো এক রাক‘আত। অতঃপর সালাত শেষে তিনি ডান কাতে শুয়ে বিশ্রাম নিতেন।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Aishah, wife of Prophet (ﷺ):The Messenger of Allah (ﷺ) used to pray eleven rak'ahs (at night, observing the witr with one rak'ahs). When he finished it (the prayer), he would lie down on his right side
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
+
+## French
+
+Rapporté par Aishah, l’épouse du Prophète ﷺ رضي الله عنها : Le Messager d’Allah ﷺ priait onze rak‘as (la nuit, en terminant par une rak‘a de witr). Lorsqu’il avait terminé la prière, il s’allongeait sur son côté droit
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\] dari \[Ibnu Syihab\] dair \['Urwah bin Az Zubair\] dari \[Aisyah isteri Nabi shallallahu 'alaihi wasallam\] bahwa Rasulullah shallallahu 'alaihi wasallam biasa mengerjakan shalat malam sebelas raka'at termasuk witir satu raka'at, apabila beliau selesai dari shalat malam, beliau berbaring di atas rusuk kanannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dair ['Urwah bin Az Zubair] dari [Aisyah isteri Nabi shallallahu 'alaihi wasallam] bahwa Rasulullah shallallahu 'alaihi wasallam biasa mengerjakan shalat malam sebelas raka'at termasuk witir satu raka'at, apabila beliau selesai dari shalat malam, beliau berbaring di atas rusuk kanannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от жены Пророка ﷺ ‘Аиши, да будет доволен ею Аллах, что Посланник Аллаха ﷺ совершал по ночам молитву в одиннадцать рак‘атов, завершая её одним рак‘атом. Закончив молиться, он ложился на правый бок
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nebi (s.a.v.)'in eşi Âişe (r.anhâ)'dan rivayet edildi­ğine göre; Resülullah (s.a.v.) gecenin bir kısmında onbir rekat namaz kılar, bunlardan bir rekat ile de vitir yapardı. Onu bitirince müezzin gelinceye kadar sağ yanı üzerine yatıp uzanırdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم رات کو گیارہ رکعتیں پڑھتے تھے ان میں سے ایک رکعت وتر کی ہوتی تھی، جب آپ اس سے فارغ ہو جاتے تو داہنی کروٹ لیٹتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (736)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 5 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (736) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 5 Hadith 86 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا جَرِيرٌ، عَنْ مَنْصُورٍ، عَنْ هِلاَلِ بْنِ يِسَافٍ، عَنْ أَبِي يَحْيَى، عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ أَسْبِغُوا الْوُضُوءَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |
+
 اخبرنا قتيبة، قال حدثنا جرير، عن منصور، عن هلال بن يساف، عن ابي يحيى، عن عبد الله بن عمرو، قال قال رسول الله صلى الله عليه وسلم " اسبغوا الوضوء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... আবদুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা পরিপূর্ণরূপে উযূ (ওজু/অজু/অযু) করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |
 
 ## English
 
+It was narrated that 'Abdullah bin 'Amr said:"The Messenger of Allah (ﷺ) said: 'Do Wudu' properly.'" \[1\] \[1\] Isbighu Al-Wudu'. And this narration supports the claim that some of them used this expression to mean "three times" for each limb, rather than "properly
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that 'Abdullah bin 'Amr said:"The Messenger of Allah (ﷺ) said: 'Do Wudu' properly.'" [1] [1] Isbighu Al-Wudu'. And this narration supports the claim that some of them used this expression to mean "three times" for each limb, rather than "properly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Amr : Le Messager d'Allah (ﷺ) a dit : "Faites bien vos ablutions
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dia berkata; telah menceritakan kepada kami \[Jarir\] dari \[Manshur\] dari \[Hilal bin Yasaf\] dari \[Abu Yahya\] dari \[Abdullah bin Amru\], dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: ' Sempurnakanlah wudlu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada kami [Jarir] dari [Manshur] dari [Hilal bin Yasaf] dari [Abu Yahya] dari [Abdullah bin Amru], dia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: ' Sempurnakanlah wudlu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Amr (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlüllah (sallallahü aleyhi ve sellem), (abdesti tam ve noksansız şekilde alınız) buyurdular. (İbn Mâce, Tahara: 49; Buhârî, Vudu’’:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی اللہ عنہم کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: کامل وضو کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>142</td></tr><tr><td>Arabic No</td><td>142</td></tr><tr><td>Reference</td><td>Book 1 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 142 |
+| Arabic No | 142 |
+| Reference | Book 1 Hadith 143 |

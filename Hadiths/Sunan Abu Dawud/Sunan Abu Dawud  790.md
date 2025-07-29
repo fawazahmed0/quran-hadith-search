@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، سَمِعَهُ مِنْ، جَابِرٍ قَالَ كَانَ مُعَاذٌ يُصَلِّي مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ يَرْجِعُ فَيَؤُمُّنَا - قَالَ مَرَّةً ثُمَّ يَرْجِعُ فَيُصَلِّي بِقَوْمِهِ - فَأَخَّرَ النَّبِيُّ صلى الله عليه وسلم لَيْلَةً الصَّلاَةَ - وَقَالَ مَرَّةً الْعِشَاءَ - فَصَلَّى مُعَاذٌ مَعَ النَّبِيِّ صلى الله عليه وسلم ثُمَّ جَاءَ يَؤُمُّ قَوْمَهُ فَقَرَأَ الْبَقَرَةَ فَاعْتَزَلَ رَجُلٌ مِنَ الْقَوْمِ فَصَلَّى فَقِيلَ نَافَقْتَ يَا فُلاَنُ ‏.‏ فَقَالَ مَا نَافَقْتُ ‏.‏ فَأَتَى رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنَّ مُعَاذًا يُصَلِّي مَعَكَ ثُمَّ يَرْجِعُ فَيَؤُمُّنَا يَا رَسُولَ اللَّهِ وَإِنَّمَا نَحْنُ أَصْحَابُ نَوَاضِحَ وَنَعْمَلُ بِأَيْدِينَا وَإِنَّهُ جَاءَ يَؤُمُّنَا فَقَرَأَ بِسُورَةِ الْبَقَرَةِ ‏.‏ فَقَالَ ‏"‏ يَا مُعَاذُ أَفَتَّانٌ أَنْتَ أَفَتَّانٌ أَنْتَ اقْرَأْ بِكَذَا اقْرَأْ بِكَذَا ‏"‏ ‏.‏ قَالَ أَبُو الزُّبَيْرِ بِـ ‏(‏ سَبِّحِ اسْمَ رَبِّكَ الأَعْلَى ‏)‏ ‏(‏ وَاللَّيْلِ إِذَا يَغْشَى ‏)‏ فَذَكَرْنَا لِعَمْرٍو فَقَالَ أُرَاهُ قَدْ ذَكَرَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
+
 حدثنا احمد بن حنبل، حدثنا سفيان، عن عمرو، سمعه من، جابر قال كان معاذ يصلي مع النبي صلى الله عليه وسلم ثم يرجع فيومنا - قال مرة ثم يرجع فيصلي بقومه - فاخر النبي صلى الله عليه وسلم ليلة الصلاة - وقال مرة العشاء - فصلى معاذ مع النبي صلى الله عليه وسلم ثم جاء يوم قومه فقرا البقرة فاعتزل رجل من القوم فصلى فقيل نافقت يا فلان . فقال ما نافقت . فاتى رسول الله صلى الله عليه وسلم فقال ان معاذا يصلي معك ثم يرجع فيومنا يا رسول الله وانما نحن اصحاب نواضح ونعمل بايدينا وانه جاء يومنا فقرا بسورة البقرة . فقال " يا معاذ افتان انت افتان انت اقرا بكذا اقرا بكذا " . قال ابو الزبير ب ( سبح اسم ربك الاعلى ) ( والليل اذا يغشى ) فذكرنا لعمرو فقال اراه قد ذكره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
 
 ## Bengali
 
+। জাবির (রাঃ) বলেন, মু‘আয (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে সালাত আদায়ের পর ফিরে এসে আমাদের সালাতে ইমামতি করতেন-বর্ণনাকারী পুনরায় বলেন, তিনি ফিরে এসে স্বীয় সম্প্রদায়ের লোকদের সালাতে ইমামতি করতেন। এক রাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায়ে বিলম্ব করেন। সেদিনও মু‘আয (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ‘ইশার সালাত আদায়ের পর স্বীয় সম্প্রদায়ের নিকট গিয়ে তাদের ইমামতি করেন এবং উক্ত সালাতে তিনি সূরাহ আল-বাক্বারাহ পাঠ করলে এক ব্যক্তি জামা‘আত থেকে বিচ্ছিন্ন হয়ে একাকী সালাত আদায় করে নেয়। ফলে বলা হলো, হে অমুক! তুমি কি মুনাফিক হয়ে গেলে নাকি? লোকটি বললঃ আমি মুনাফিক হই নাই। পরে লোকটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বলল, হে আল্লাহর রসূল! মু‘আয (রাঃ) আপনার সাথে সালাত আদায় শেষে ফিরে গিয়ে আমাদের সালাতের ইমামতি করেন। আমরা মেহনতী মজদুর লোক এবং নিজেরাই ক্ষেতের কাজ-কর্ম করে থাকি। অথচ মু‘আয (রাঃ) আমাদের সালাতে ইমামতিকালে সূরাহ বাক্বারাহ পড়েন (অর্থাৎ দীর্ঘ সুরাহ পাঠ করে থাকেন)। এ কথা শুনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মু‘আয (রাঃ)-কে সম্বোধন করে) বললেনঃ হে মু‘আয! তুমি কি ফিতনা সৃষ্টিকারী? তুমি কি লোকদের ফিতনায় ফেলতে চাও? তুমি সালাতে অমুক অমুক (ছোট) সূরাহ পাঠ করবে। আবূয যুবায়ির বলেন, সূরাহ আল-‘আলা, ওয়াল লাইলি ইযা ইয়াগশা এ ধরনের (ছোট) সূরাহ পাঠ করবে। অতঃপর আমরা তা (বর্ণনাকারী) ‘আমরের নিকট উল্লেখ করলে তিনি বলেন, আমার ধারণা, তিনি সেটাও উল্লেখ করেছেন। \[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির (রাঃ) বলেন, মু‘আয (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে সালাত আদায়ের পর ফিরে এসে আমাদের সালাতে ইমামতি করতেন-বর্ণনাকারী পুনরায় বলেন, তিনি ফিরে এসে স্বীয় সম্প্রদায়ের লোকদের সালাতে ইমামতি করতেন। এক রাতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘ইশার সালাত আদায়ে বিলম্ব করেন। সেদিনও মু‘আয (রাঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে ‘ইশার সালাত আদায়ের পর স্বীয় সম্প্রদায়ের নিকট গিয়ে তাদের ইমামতি করেন এবং উক্ত সালাতে তিনি সূরাহ আল-বাক্বারাহ পাঠ করলে এক ব্যক্তি জামা‘আত থেকে বিচ্ছিন্ন হয়ে একাকী সালাত আদায় করে নেয়। ফলে বলা হলো, হে অমুক! তুমি কি মুনাফিক হয়ে গেলে নাকি? লোকটি বললঃ আমি মুনাফিক হই নাই। পরে লোকটি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বলল, হে আল্লাহর রসূল! মু‘আয (রাঃ) আপনার সাথে সালাত আদায় শেষে ফিরে গিয়ে আমাদের সালাতের ইমামতি করেন। আমরা মেহনতী মজদুর লোক এবং নিজেরাই ক্ষেতের কাজ-কর্ম করে থাকি। অথচ মু‘আয (রাঃ) আমাদের সালাতে ইমামতিকালে সূরাহ বাক্বারাহ পড়েন (অর্থাৎ দীর্ঘ সুরাহ পাঠ করে থাকেন)। এ কথা শুনে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম (মু‘আয (রাঃ)-কে সম্বোধন করে) বললেনঃ হে মু‘আয! তুমি কি ফিতনা সৃষ্টিকারী? তুমি কি লোকদের ফিতনায় ফেলতে চাও? তুমি সালাতে অমুক অমুক (ছোট) সূরাহ পাঠ করবে। আবূয যুবায়ির বলেন, সূরাহ আল-‘আলা, ওয়াল লাইলি ইযা ইয়াগশা এ ধরনের (ছোট) সূরাহ পাঠ করবে। অতঃপর আমরা তা (বর্ণনাকারী) ‘আমরের নিকট উল্লেখ করলে তিনি বলেন, আমার ধারণা, তিনি সেটাও উল্লেখ করেছেন। [1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir said:Mu’adh b. Jabal used to pray along with the Prophet (ﷺ); then he returned and led us in prayer. Sometimes he (the narrator) said: then he returned and led his people in prayer. One night the Prophet (ﷺ) delayed the prayer. Sometimes he (the narrator) mentioned the word “the night prayer”. Then Mu’adh prayed along with the Prophet (ﷺ), then returned to his people and led them in prayer, and recited Surat al-Baqarah. A man turned aside and prayed alone. The people said to him: Have you become a hypocrite, so and so? He replied: I did not become a hypocrite. He then came to the Prophet (ﷺ) and said (to him): Messenger of Allah, Mu’adh prays along with you and then returns and leads us in prayers. We look after camels used for watering and work for by day. He came to us leading us in prayer, and he recited Surah al-Baqarah (in prayer). He (the Prophet) said: Mu’adh, are you a trouble maker? Recite such and such ; recite such and such (surahs) The narrator Abu al-Zubair said (recite) “Glorify the name of the most high lord” (surah lxxxvii) and “By the night when it covers over” (surah xcii). We mentioned this to ‘Amr. He said I think he mentioned it (the names of some surahs)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
+
+## French
+
+Rapporté par Jabir رضي الله عنه : Mu‘adh ibn Jabal priait avec le Prophète ﷺ, puis il revenait et nous dirigeait dans la prière. Parfois, le narrateur disait : puis il revenait et dirigeait son peuple dans la prière. Une nuit, le Prophète ﷺ a retardé la prière. Parfois, le narrateur précisait : la prière du soir. Alors Mu‘adh priait avec le Prophète ﷺ, puis retournait auprès des siens et dirigeait la prière, et il récitait la sourate al-Baqarah. Un homme s’est alors détourné et a prié seul. Les gens lui ont dit : « Es-tu devenu hypocrite, untel ? » Il a répondu : « Je ne suis pas devenu hypocrite. » Il est ensuite allé voir le Prophète ﷺ et lui a dit : « Messager d’Allah, Mu‘adh prie avec toi puis revient et nous dirige dans la prière. Nous nous occupons des chameaux pour l’arrosage et travaillons toute la journée. Il est venu nous diriger et a récité la sourate al-Baqarah. » Le Prophète ﷺ a dit : « Mu‘adh, veux-tu être un fauteur de troubles ? Récite telle ou telle sourate. » Le narrateur Abu al-Zubair a précisé : « Récite “Glorifie le nom de ton Seigneur le Très-Haut” (sourate 87) et “Par la nuit quand elle couvre” (sourate 92). » Nous avons rapporté cela à ‘Amr, qui a dit : « Il me semble qu’il a mentionné ces sourates. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Sufyan\] dari \['Amru\] dan dia mendengarnya dari \[Jabir\] dia berkata; "Mu'adz biasa shalat bersama Nabi shallallahu 'alaihi wasallam, kemudian dia kembali dan menjadi imam (shalat) bagi kami' -di lain kali Jabir mengatakan; kemudian dia kembali dan menjadi imam (shalat) bagi kaumnya-, pada suatu malam, Nabi shallallahu 'alaihi wasallam mengakhirkan shalat -di lain kali Jabir mengatakan; shalat Isya'- Mu'adz mengerjakan shalat bersama Nabi shallallahu 'alaihi wasallam, lalu kembali (ke kaumnya) menjadi imam (shalat) bagi kaumnya dengan membaca surat Al Baqarah, (karena panjangnya) maka salah seorang laki-laki memisahkan diri dari Jama'ah dan mengerjakan shalat sendirian, hingga di katakan kepadanya; "kamu telah berbuat nifak wahai fulan." Laki-laki itu menimpali; "aku tidak munafik." Lantas laki-laki itu pergi menghadap Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya Mu'adz biasa mengerjakan shalat bersama anda, kemudian ia kembali (ke kaumnya) dan menjadi imam (shalat) bagi kami, wahai Rasulullah, kami hanya pemilik unta pengangkut air dan kami harus bekerja keras, sesungguhnya dia datang mengimami kami dengan membaca surat Al Baqarah." Maka beliau bersabda: "Wahai Mu'adz, apakah kamu hendak menyebarkan fitnah, apakah kamu hendak menyebarkan fitnah, bacalah surat ini, bacalah surat ini." Abu Zubair mengatakan; "(cukup) dengan membaca 'sabbihisma rabbikal a'la dan wallaili idzaa yaghsyaa." Kemudian aku sebutkan perkara itu kepada 'amru, maka dia berkata; "Aku telah melihat Jabir telah menyebutkan hadits tersebut." Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Thalib bin Habib\] telah menceritakan kepada kami \[Abdurrahman bin Jabir\] dia menceritakan dari \[Hazm bin Ubay bin Ka'b\] bahwa dia menemui Mu'adz bin Jabal yang sedang mengerjakan shalat maghrib (menjadi imam) bersama kaumnya…" dalam hadits ini perawi mengatakan; "Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Mu'adz, janganlah kamu menjadi penyebar fitnah, karena yang mengerjakan shalat di belakangmu terdapat orang tua, orang yang lemah, orang yang memiliki keperluan dan musafir
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Sufyan] dari ['Amru] dan dia mendengarnya dari [Jabir] dia berkata; "Mu'adz biasa shalat bersama Nabi shallallahu 'alaihi wasallam, kemudian dia kembali dan menjadi imam (shalat) bagi kami' -di lain kali Jabir mengatakan; kemudian dia kembali dan menjadi imam (shalat) bagi kaumnya-, pada suatu malam, Nabi shallallahu 'alaihi wasallam mengakhirkan shalat -di lain kali Jabir mengatakan; shalat Isya'- Mu'adz mengerjakan shalat bersama Nabi shallallahu 'alaihi wasallam, lalu kembali (ke kaumnya) menjadi imam (shalat) bagi kaumnya dengan membaca surat Al Baqarah, (karena panjangnya) maka salah seorang laki-laki memisahkan diri dari Jama'ah dan mengerjakan shalat sendirian, hingga di katakan kepadanya; "kamu telah berbuat nifak wahai fulan." Laki-laki itu menimpali; "aku tidak munafik." Lantas laki-laki itu pergi menghadap Rasulullah shallallahu 'alaihi wasallam seraya berkata; "Sesungguhnya Mu'adz biasa mengerjakan shalat bersama anda, kemudian ia kembali (ke kaumnya) dan menjadi imam (shalat) bagi kami, wahai Rasulullah, kami hanya pemilik unta pengangkut air dan kami harus bekerja keras, sesungguhnya dia datang mengimami kami dengan membaca surat Al Baqarah." Maka beliau bersabda: "Wahai Mu'adz, apakah kamu hendak menyebarkan fitnah, apakah kamu hendak menyebarkan fitnah, bacalah surat ini, bacalah surat ini." Abu Zubair mengatakan; "(cukup) dengan membaca 'sabbihisma rabbikal a'la dan wallaili idzaa yaghsyaa." Kemudian aku sebutkan perkara itu kepada 'amru, maka dia berkata; "Aku telah melihat Jabir telah menyebutkan hadits tersebut." Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Thalib bin Habib] telah menceritakan kepada kami [Abdurrahman bin Jabir] dia menceritakan dari [Hazm bin Ubay bin Ka'b] bahwa dia menemui Mu'adz bin Jabal yang sedang mengerjakan shalat maghrib (menjadi imam) bersama kaumnya…" dalam hadits ini perawi mengatakan; "Maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Mu'adz, janganlah kamu menjadi penyebar fitnah, karena yang mengerjakan shalat di belakangmu terdapat orang tua, orang yang lemah, orang yang memiliki keperluan dan musafir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Аммара ибн Ясира, да будет доволен Аллах им и его отцом: «Я слышал, что Посланник Аллаха ﷺ сказал: “Поистине, бывает так, что человек завершает молитву, но ему записывается только десятая часть молитвы, или девятая, или восьмая, или седьмая, или шестая, или пятая, или четвёртая, или третья, или половина”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cabir (r.a.)'den; demiştir ki: Muaz (r.a.) Nebi (Sallallahu aleyhi ve Sellem) ile namaz kılar, sonra gelip bize imam olurdu. (Amr, bu cümleyi:) Bir de "sonra gelir kavmine imam olurdu" (şeklinde) rivayet etti. Bir gece Nebi (Sallallahu aleyhi ve Sellem) namazı geç kıldırmıştı. (Amr bu cümleyi) bir de "yatsıyı geciktirmişti" (şeklinde) nakletti. Muaz (bir gün yine) Peygamber (s.a.v.)'le namaz kıldı, sonra gelip kavmine imam oldu ve Bakara Suresi'ni okumaya başladı. Bunun üzerine bir adam cemaatten ayrılarak (kendi başına) namaz(ını) kıldı. (O'na): "Be adam sen münafık oldun" denilince: Ben münafık olmadım, diye cevab verdi. Sonra Nebi (s.a.v.)'e gelerek: Ey Allah'ın Resülu! Muaz seninle beraber namaz kılıyor, sonra gelip bize imam oluyor. Bizse develerle su taşıyan ve ellerimizle çalışan kimseleriz. Muaz gelip bize imam oldu ve (namazda) Bakara Suresini okudu dedi. Bunun üzerine Nebi (s.a.v.): "Ey Muaz! Sen fitneci misin? Fitneci misin sen? Filan ve filan sureleri okusaydın ya!" buyurdular. Ebu'z-Zübeyr dedi ki: "Nebi (s.a.v.) (Muaz'a) "Sebbihisme Rabbika'la'la, velleyli iza yağşa (surelerini okusaydın ya)" demişti. Biz (bunu) Amr'e hatırlattık. (O da); "Öyle zannediyorum ki (bunu) Cabir de (böyle) söylemişti" dedi. Diğer tahric: Buharî, ezan; edeb; Müslim, Salat; Nesaî, iftitah; imame
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ معاذ رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم کے ساتھ نماز پڑھتے، پھر لوٹتے تو ہماری امامت کرتے تھے – ایک روایت میں ہے: پھر وہ لوٹتے تو اپنی قوم کو نماز پڑھاتے تھے، نبی اکرم صلی اللہ علیہ وسلم نے ایک رات نماز دیر سے پڑھائی اور ایک روایت میں ہے: عشاء دیر سے پڑھائی، چنانچہ معاذ بن جبل رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ نماز پڑھی پھر گھر واپس آ کر اپنی قوم کی امامت کی اور سورۃ البقرہ کی قرآت شروع کر دی تو ان کی قوم میں سے ایک شخص نے جماعت سے الگ ہو کر اکیلے نماز پڑھ لی، لوگ کہنے لگے: اے فلاں! تم نے منافقت کی ہے؟ اس نے کہا: میں نے منافقت نہیں کی ہے، پھر وہ شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور عرض کیا: اللہ کے رسول صلی اللہ علیہ وسلم! معاذ آپ کے ساتھ نماز پڑھ کر یہاں سے واپس جا کر ہماری امامت کرتے ہیں، ہم لوگ دن بھر اونٹوں سے کھیتوں کی سینچائی کرنے والے لوگ ہیں، اور اپنے ہاتھوں سے محنت اور مزدوری کا کام کرتے ہیں ( اس لیے تھکے ماندے رہتے ہیں ) معاذ نے آ کر ہماری امامت کی اور سورۃ البقرہ کی قرآت شروع کر دی ( یہ سن کر ) آپ صلی اللہ علیہ وسلم نے فرمایا: اے معاذ! کیا تم لوگوں کو فتنے اور آزمائش میں ڈالو گے! کیا تم لوگوں کو فتنے اور آزمائش میں ڈالو گے؟ فلاں اور فلاں سورۃ پڑھا کرو ۔ ابوزبیر نے کہا کہ ( آپ صلی اللہ علیہ وسلم نے فرمایا ) : تم «سبح اسم ربك الأعلى» ، «والليل إذا يغشى» پڑھا کرو ، ہم نے عمرو بن دینار سے ذکر کیا تو انہوں نے کہا: میرا بھی خیال ہے کہ آپ نے اسی کا ذکر کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (700) Sahih Muslim (465)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>790</td></tr><tr><td>Arabic No</td><td>790</td></tr><tr><td>Reference</td><td>Book 2 Hadith 400</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (700) Sahih Muslim (465) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 790 |
+| Arabic No | 790 |
+| Reference | Book 2 Hadith 400 |

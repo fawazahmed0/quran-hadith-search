@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي عَلِيُّ بْنُ الْجَعْدِ، أَخْبَرَنَا شُعْبَةُ، عَنِ الأَعْمَشِ، عَنْ أَبِي حَازِمٍ، عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ مَا عَابَ النَّبِيُّ صلى الله عليه وسلم طَعَامًا قَطُّ، إِنِ اشْتَهَاهُ أَكَلَهُ، وَإِلاَّ تَرَكَهُ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني علي بن الجعد، اخبرنا شعبة، عن الاعمش، عن ابي حازم، عن ابي هريرة رضى الله عنه قال ما عاب النبي صلى الله عليه وسلم طعاما قط، ان اشتهاه اكله، والا تركه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ হুরাইরাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কখনো কোন খাদ্যকে মন্দ বলতেন না। রুচি হলে খেতেন না হলে বাদ দিতেন। (৫৪০৯, মুসলিম ৩৩/৩৫ হাঃ ২০৬৪) (আধুনিক প্রকাশনীঃ ৩৩০০, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
 ## English
 
+Narrated Abu Huraira:The Prophet (ﷺ) never criticized any food (presented to him), but he would eat it if he liked it; otherwise, he would leave it (without expressing his dislike)
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Abu Huraira:The Prophet (ﷺ) never criticized any food (presented him), but he would eat it if he liked it; otherwise, he would leave it (without expressing his dislike)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
+
+## French
+
+Rapporté par Abu Huraira : Le Prophète (ﷺ) n'a jamais critiqué un aliment qu'on lui présentait ; s'il l'aimait, il le mangeait, sinon il le laissait sans exprimer de mécontentement
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Хурайра, да будет доволен им Аллах, сказал: «Пророк ﷺ никогда не порицал никакую еду: если он желал её, то ел, в противном же случае (просто) не притрагивался к ней»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் எந்த உணவையும் ஒருபோதும் குறை கூறியதில்லை. அவர்கள் அதை விரும்பினால் உண்பார்கள்; இல்லையென்றால் விட்டுவிடுவார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a. dedi ki: "Nebi asla bir yemeğin kusurunu sayıp dökmüş değildir, Canı onu çekerse yer, değilse bırakırdı. " Bu Hadis ileride 5409 numara ile gelecektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مجھ علی بن جعد نے بیان کیا، انہوں نے کہا کہ ہم کو شعبہ نے خبر دی، انہیں اعمش نے، انہیں ابوحازم نے اور ان سے ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے کبھی کسی کھانے میں عیب نہیں نکالا، اگر آپ کو مرغوب ہوتا تو کھاتے ورنہ چھوڑ دیتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3563</td></tr><tr><td>Arabic No</td><td>3563</td></tr><tr><td>Reference</td><td>Book 61 Hadith 73</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3563 |
+| Arabic No | 3563 |
+| Reference | Book 61 Hadith 73 |

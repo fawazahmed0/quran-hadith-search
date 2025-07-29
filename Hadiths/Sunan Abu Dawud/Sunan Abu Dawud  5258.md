@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,147 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ عَجْلاَنَ، بِهَذَا الْحَدِيثِ مُخْتَصَرًا قَالَ ‏ "‏ فَلْيُؤْذِنْهُ ثَلاَثًا فَإِنْ بَدَا لَهُ بَعْدُ فَلْيَقْتُلْهُ فَإِنَّهُ شَيْطَانٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
+
 حدثنا مسدد، حدثنا يحيى، عن ابن عجلان، بهذا الحديث مختصرا قال " فليوذنه ثلاثا فان بدا له بعد فليقتله فانه شيطان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
 
 ## Bengali
 
+। ইবনু আজলান (রহঃ) থেকে এ হাদীস সংক্ষিপ্তভাবে বর্ণিত হয়েছে। এতে রয়েছেঃ সে এটিকে তিনবার সতর্ক করবে। তারপরও যদি দেখতে পাও, তবে তাকে মারবে। কারণ তা একটি শয়তান।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আজলান (রহঃ) থেকে এ হাদীস সংক্ষিপ্তভাবে বর্ণিত হয়েছে। এতে রয়েছেঃ সে এটিকে তিনবার সতর্ক করবে। তারপরও যদি দেখতে পাও, তবে তাকে মারবে। কারণ তা একটি শয়তান।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Ibn 'Ajilan through a different chain of narrators briefly. This version has:He should give it a warning three times. If it appears to him after that, he should kill it, for it is a devil
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
+
+## French
+
+Le récit mentionné ci-dessus a aussi été transmis par Ibn ‘Ajilan à travers une autre chaîne, de façon plus brève. Dans cette version, il est dit : « Il doit le prévenir trois fois. S’il revient après cela, il doit le tuer, car c’est un démon. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Şu (bir önceki 5257.) hadis kısa olarak İbn Aclân'dan da (rivayet edilmiştir. Bu rivayete göre Hz. Nebi) şöyle buyurmuştur: "Ona üç (defa) izin versin. (Bu izin kullanıldıktan) sonra (yılan) yine de (evde) kendisine görünecek olursa hemen onu öldürsün. Çünkü o şeytandır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے ابن عجلان سے یہی حدیث مختصراً مروی ہے، اس میں ہے کہ اسے ( سانپ کو ) تین بار آگاہ کر دو، ( اگر جن وغیرہ ہو تو چلے جاؤ ) پھر اس کے بعد اگر وہ تمہیں نظر آئے تو اسے مار ڈالو کیونکہ وہ شیطان ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2236)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5258</td></tr><tr><td>Arabic No</td><td>5258</td></tr><tr><td>Reference</td><td>Book 43 Hadith 486</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2236) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5258 |
+| Arabic No | 5258 |
+| Reference | Book 43 Hadith 486 |

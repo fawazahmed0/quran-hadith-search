@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ أَبِي غِفَارٍ، حَدَّثَنَا أَبُو تَمِيمَةَ الْهُجَيْمِيُّ، - وَأَبُو تَمِيمَةَ اسْمُهُ طَرِيفُ بْنُ مُجَالِدٍ - عَنْ أَبِي جُرَىٍّ، جَابِرِ بْنِ سُلَيْمٍ قَالَ رَأَيْتُ رَجُلاً يَصْدُرُ النَّاسُ عَنْ رَأْيِهِ، لاَ يَقُولُ شَيْئًا إِلاَّ صَدَرُوا عَنْهُ قُلْتُ مَنْ هَذَا قَالُوا هَذَا رَسُولُ اللَّهِ صلى الله عليه وسلم ‏.‏ قُلْتُ عَلَيْكَ السَّلاَمُ يَا رَسُولَ اللَّهِ مَرَّتَيْنِ ‏.‏ قَالَ ‏"‏ لاَ تَقُلْ عَلَيْكَ السَّلاَمُ ‏.‏ فَإِنَّ عَلَيْكَ السَّلاَمُ تَحِيَّةُ الْمَيِّتِ قُلِ السَّلاَمُ عَلَيْكَ ‏"‏ ‏.‏ قَالَ قُلْتُ أَنْتَ رَسُولُ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ أَنَا رَسُولُ اللَّهِ الَّذِي إِذَا أَصَابَكَ ضُرٌّ فَدَعَوْتَهُ كَشَفَهُ عَنْكَ وَإِنْ أَصَابَكَ عَامُ سَنَةٍ فَدَعَوْتَهُ أَنْبَتَهَا لَكَ وَإِذَا كُنْتَ بِأَرْضٍ قَفْرَاءَ أَوْ فَلاَةٍ فَضَلَّتْ رَاحِلَتُكَ فَدَعَوْتَهُ رَدَّهَا عَلَيْكَ ‏"‏ ‏.‏ قُلْتُ اعْهَدْ إِلَىَّ ‏.‏ قَالَ ‏"‏ لاَ تَسُبَّنَّ أَحَدًا ‏"‏ ‏.‏ قَالَ فَمَا سَبَبْتُ بَعْدَهُ حُرًّا وَلاَ عَبْدًا وَلاَ بَعِيرًا وَلاَ شَاةً ‏.‏ قَالَ ‏"‏ وَلاَ تَحْقِرَنَّ شَيْئًا مِنَ الْمَعْرُوفِ وَأَنْ تُكَلِّمَ أَخَاكَ وَأَنْتَ مُنْبَسِطٌ إِلَيْهِ وَجْهُكَ إِنَّ ذَلِكَ مِنَ الْمَعْرُوفِ وَارْفَعْ إِزَارَكَ إِلَى نِصْفِ السَّاقِ فَإِنْ أَبَيْتَ فَإِلَى الْكَعْبَيْنِ وَإِيَّاكَ وَإِسْبَالَ الإِزَارِ فَإِنَّهَا مِنَ الْمَخِيلَةِ وَإِنَّ اللَّهَ لاَ يُحِبُّ الْمَخِيلَةَ وَإِنِ امْرُؤٌ شَتَمَكَ وَعَيَّرَكَ بِمَا يَعْلَمُ فِيكَ فَلاَ تُعَيِّرْهُ بِمَا تَعْلَمُ فِيهِ فَإِنَّمَا وَبَالُ ذَلِكَ عَلَيْهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
+
 حدثنا مسدد، حدثنا يحيى، عن ابي غفار، حدثنا ابو تميمة الهجيمي، - وابو تميمة اسمه طريف بن مجالد - عن ابي جرى، جابر بن سليم قال رايت رجلا يصدر الناس عن رايه، لا يقول شييا الا صدروا عنه قلت من هذا قالوا هذا رسول الله صلى الله عليه وسلم . قلت عليك السلام يا رسول الله مرتين . قال " لا تقل عليك السلام . فان عليك السلام تحية الميت قل السلام عليك " . قال قلت انت رسول الله صلى الله عليه وسلم قال " انا رسول الله الذي اذا اصابك ضر فدعوته كشفه عنك وان اصابك عام سنة فدعوته انبتها لك واذا كنت بارض قفراء او فلاة فضلت راحلتك فدعوته ردها عليك " . قلت اعهد الى . قال " لا تسبن احدا " . قال فما سببت بعده حرا ولا عبدا ولا بعيرا ولا شاة . قال " ولا تحقرن شييا من المعروف وان تكلم اخاك وانت منبسط اليه وجهك ان ذلك من المعروف وارفع ازارك الى نصف الساق فان ابيت فالى الكعبين واياك واسبال الازار فانها من المخيلة وان الله لا يحب المخيلة وان امرو شتمك وعيرك بما يعلم فيك فلا تعيره بما تعلم فيه فانما وبال ذلك عليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
 
 ## Bengali
 
+। আবূ জুরায়্যি জাবির ইবনু সুলাইম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি এমন এক ব্যক্তিকে দেখেছি, যার কথা সবাই মেনে চলে এবং যা কিছু বলেন সবাই তা পালন করে। আমি বললাম, ইনি কে? তারা বললো, ইনি হলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম। আমি দু’ বার বললাম, ‘আলাইকাস সালাম ইয়া রাসূলাল্লাহ! তিনি বললেনঃ ‘আলাইকাস সালাম বলো না, কেননা ‘আলাইকাস সালাম দ্বারা মৃত ব্যক্তিকে সালাম দেয়া হয়। বরং তুমি বলো, আসসালামু আলাইকা। বর্ণনাকারী বলেন, আমি প্রশ্ন করলাম, আপনি কি আল্লাহর রাসূল! তিনি বললেনঃ আমি সেই আল্লাহর রাসূল, যাকে তুমি বিপদে পড়ে ডাকলে তিনি তোমার বিপদ দূর করেন; দুর্ভিক্ষের সময়ে তাঁকে ডাকলে তিনি তোমার জন্য খাদ্যশস্য উৎপাদন করেন; ঘাস-পানিহীন মরু প্রান্তরে তোমার সওয়ারী হারিয়ে গেলে তাঁকে ডাকলে তিনি তোমার নিকট তা ফিরিয়ে দেন। বর্ণনাকারী বলেন, আমি তাঁকে আমাকে উপদেশ প্রদানের অনুরোধ জানালাম। তিনি বললেনঃ তুমি কখনো কাউকে গালি দিবে না। বর্ণনাকারী বলেন, এর পরে আমি কখনো স্বাধীন, গোলাম, উট ও ছাগল, কোনো কিছুকেই গালি দেইনি। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ ভালো কাজে অবজ্ঞা প্রদর্শন করো না। তোমার ভাইয়ের সাথে হাসিমুখে কথা বলাটা নিঃসন্দেহে ভালো কাজের অন্তর্ভুক্ত। তোমার কাপড় পায়ের নলার মাঝামাঝি পর্যন্ত উঠিয়ে রাখো, যদি এতে সন্তুষ্ট না হও তবে টাখনু পর্যন্ত রাখো। টাখনুর নীচে ঝুলিয়ে পরা থেকে সাবধান; কারণ তা করা অহংকারের অন্তর্ভুক্ত। আল্লাহ অহংকার পছন্দ করেন না। কেউ যদি তোমার মধ্যকার জানা কোনো দোষ উল্লেখ করে তোমাকে মন্দ কথা বলে এবং লজ্জিত করে তবে তুমি কিন্তু তার জ্ঞাত দোষ উল্লেখ করে তাকে লজ্জা দিবে না। কেননা এর কৃতকর্মের প্রতিফল তাকে ভোগ করতেই হবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ জুরায়্যি জাবির ইবনু সুলাইম (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি এমন এক ব্যক্তিকে দেখেছি, যার কথা সবাই মেনে চলে এবং যা কিছু বলেন সবাই তা পালন করে। আমি বললাম, ইনি কে? তারা বললো, ইনি হলেন রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম। আমি দু’ বার বললাম, ‘আলাইকাস সালাম ইয়া রাসূলাল্লাহ! তিনি বললেনঃ ‘আলাইকাস সালাম বলো না, কেননা ‘আলাইকাস সালাম দ্বারা মৃত ব্যক্তিকে সালাম দেয়া হয়। বরং তুমি বলো, আসসালামু আলাইকা। বর্ণনাকারী বলেন, আমি প্রশ্ন করলাম, আপনি কি আল্লাহর রাসূল! তিনি বললেনঃ আমি সেই আল্লাহর রাসূল, যাকে তুমি বিপদে পড়ে ডাকলে তিনি তোমার বিপদ দূর করেন; দুর্ভিক্ষের সময়ে তাঁকে ডাকলে তিনি তোমার জন্য খাদ্যশস্য উৎপাদন করেন; ঘাস-পানিহীন মরু প্রান্তরে তোমার সওয়ারী হারিয়ে গেলে তাঁকে ডাকলে তিনি তোমার নিকট তা ফিরিয়ে দেন। বর্ণনাকারী বলেন, আমি তাঁকে আমাকে উপদেশ প্রদানের অনুরোধ জানালাম। তিনি বললেনঃ তুমি কখনো কাউকে গালি দিবে না। বর্ণনাকারী বলেন, এর পরে আমি কখনো স্বাধীন, গোলাম, উট ও ছাগল, কোনো কিছুকেই গালি দেইনি। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) বলেনঃ ভালো কাজে অবজ্ঞা প্রদর্শন করো না। তোমার ভাইয়ের সাথে হাসিমুখে কথা বলাটা নিঃসন্দেহে ভালো কাজের অন্তর্ভুক্ত। তোমার কাপড় পায়ের নলার মাঝামাঝি পর্যন্ত উঠিয়ে রাখো, যদি এতে সন্তুষ্ট না হও তবে টাখনু পর্যন্ত রাখো। টাখনুর নীচে ঝুলিয়ে পরা থেকে সাবধান; কারণ তা করা অহংকারের অন্তর্ভুক্ত। আল্লাহ অহংকার পছন্দ করেন না। কেউ যদি তোমার মধ্যকার জানা কোনো দোষ উল্লেখ করে তোমাকে মন্দ কথা বলে এবং লজ্জিত করে তবে তুমি কিন্তু তার জ্ঞাত দোষ উল্লেখ করে তাকে লজ্জা দিবে না। কেননা এর কৃতকর্মের প্রতিফল তাকে ভোগ করতেই হবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuJurayy Jabir ibn Salim al-Hujaymi: I saw a man whose opinion was accepted by the people, and whatever he said they submitted to it. I asked: Who is he? They said: This is the Messenger of Allah (ﷺ). I said: On you be peace, Messenger of Allah, twice. He said: Do not say "On you be peace," for "On you be peace" is a greeting for the dead, but say "Peace be upon you". I asked: You are the Messenger of Allah (may peace be upon you)? He said: I am the Messenger of Allah Whom you call when a calamity befalls you and He removes it; when you suffer from drought and you call Him, He grows food for you; and when you are in a desolate land or in a desert and your she-camel strays and you call Him, He returns it to you. I said: Give me some advice. He said: Do not abuse anyone. He said that he did not abuse a freeman, or a slave, or a camel or a sheep thenceforth. He said: Do not look down upon any good work, and when you speak to your brother, show him a cheerful face. This is a good work. Have your lower garment halfway down your shin; if you cannot do it, have it up to the ankles. Beware of trailing the lower garment, for it is conceit and Allah does not like conceit. And if a man abuses and shames you for something which he finds in you, then do not shame him for something which you find in him; he will bear the evil consequences for it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
+
+## French
+
+Rapporté par AbuJurayy Jabir ibn Salim al-Hujaymi رضي الله عنه : J’ai vu un homme dont l’avis était respecté par les gens, et tout ce qu’il disait, ils l’acceptaient. J’ai demandé : « Qui est-ce ? » On m’a dit : « C’est le Messager d’Allah ﷺ. » J’ai dit : « Que la paix soit sur toi, Messager d’Allah », deux fois. Il a dit : « Ne dis pas “Que la paix soit sur toi”, car c’est un salut pour les morts. Dis plutôt : “La paix soit sur toi”. » J’ai demandé : « Tu es le Messager d’Allah (que la paix soit sur toi) ? » Il a répondu : « Je suis le Messager d’Allah, Celui que tu invoques quand un malheur t’atteint et Il l’éloigne, quand tu souffres de sécheresse et que tu L’invoques, Il fait pousser la nourriture pour toi, et quand tu es dans un endroit désert et que ta chamelle s’égare, tu L’invoques et Il te la ramène. » J’ai dit : « Donne-moi un conseil. » Il a dit : « N’insulte personne. » Il a précisé qu’il n’a plus insulté ni homme libre, ni esclave, ni chameau, ni mouton après cela. Il a dit : « Ne méprise aucune bonne action, et quand tu parles à ton frère, montre-lui un visage souriant. C’est une bonne action. Porte ton vêtement jusqu’à mi-mollet ; si tu ne peux pas, alors jusqu’aux chevilles. Prends garde à laisser traîner ton vêtement, car c’est de l’orgueil et Allah n’aime pas l’orgueil. Et si quelqu’un t’insulte et te fait honte à cause de quelque chose qu’il trouve chez toi, ne lui rends pas la pareille pour ce que tu trouves chez lui ; il portera la faute pour cela. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Yahya\] dari \[Abu Ghifar\] berkata, telah menceritakan kepada kami \[Abu Tamimah Al Hujaimi\] -dan Abu Tamimah namanya adalah Tharif bin Mujalid- dari \[Abu Jurai Jabir bin Sulaim\] ia berkata, "Aku melihat seorang laki-laki yang fikirannya dijadikan sandaran oleh orang banyak, dan ia tidak mengatakan sesuatu kecuali orang-orang akan mengikutinya. Aku lalu bertanya, "Siapakah dia?" orang-orang menjawab, "Ini adalah Rasulullah shallallahu 'alaihi wasallam." maka aku pun berkata, 'Wahai Rasulullah, 'Alaika As Salam (semoga keselamatan bersamamu) ' wahai Rasulullah, sebanyak dua kali. Beliau bersabda: "Jangan engkau ucapkan 'Alaika As Salam', karena 'Alaika As Salam adalah penghormatan dan salam untuk mayit. Tetapi ucapkanlah 'As Salamu 'Alaika'." Jabir bin Sulaim berkata, "Aku lalu bertanya, "Apakah engkau utusan Allah?" beliau menjawab: "Ya, aku adalah utusan Allah, Dzat yang jika engkau tertimpa musibah, lalu engkau berdoa kepada-Nya, maka Dia akan menghilangkannya darimu. Jika kamu tertimpa paceklik, lalu engkau berdoa maka Dia akan menumbuhkan (tanaman) bagi kamu. Jika engkau berada di suatu tempat yang luas hingga kendaraanmu hilang, lalu engkau berdoa kepada-Nya, maka Dia akan mengembalikannya kepadamu." Jabir bin Sulaim berkata, "Lalu aku berkata, "Berilah kami perjanjian." Beliau bersabda: "Jangan sekali-kali engaku cela orang lain." Jabir bin Sulaim berkata, "Setelah itu aku tidak pernah mencela seorang pun; orang merdeka atau budak, unta atau kambing." Beliau bersabda lagi: "Janganlah engkau remehkan perkara ma'ruf, berbicaralah kepada saudaramu dengan wajah yang penuh senyum dan berseri, sebab itu bagian dari perkara yang ma'ruf. Angkatlah sarungmu hingga setengah betis, jika tidak maka hingga kedua mata kaki. Dan janganlah engkau julurkan sarungmu karena itu bagian dari sifat sombong, sesungguhnya Allah tidak menyukai sifat sombong. Jika ada seseorang yang mencela dan memakimu karena cela yang ia ketahui darimu, maka janganlah engkau balas memaki karena cela yang engkau ketahui padanya, karena hal itu akan memberatkannya (pada hari kiamat)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Abu Ghifar] berkata, telah menceritakan kepada kami [Abu Tamimah Al Hujaimi] -dan Abu Tamimah namanya adalah Tharif bin Mujalid- dari [Abu Jurai Jabir bin Sulaim] ia berkata, "Aku melihat seorang laki-laki yang fikirannya dijadikan sandaran oleh orang banyak, dan ia tidak mengatakan sesuatu kecuali orang-orang akan mengikutinya. Aku lalu bertanya, "Siapakah dia?" orang-orang menjawab, "Ini adalah Rasulullah shallallahu 'alaihi wasallam." maka aku pun berkata, 'Wahai Rasulullah, 'Alaika As Salam (semoga keselamatan bersamamu) ' wahai Rasulullah, sebanyak dua kali. Beliau bersabda: "Jangan engkau ucapkan 'Alaika As Salam', karena 'Alaika As Salam adalah penghormatan dan salam untuk mayit. Tetapi ucapkanlah 'As Salamu 'Alaika'." Jabir bin Sulaim berkata, "Aku lalu bertanya, "Apakah engkau utusan Allah?" beliau menjawab: "Ya, aku adalah utusan Allah, Dzat yang jika engkau tertimpa musibah, lalu engkau berdoa kepada-Nya, maka Dia akan menghilangkannya darimu. Jika kamu tertimpa paceklik, lalu engkau berdoa maka Dia akan menumbuhkan (tanaman) bagi kamu. Jika engkau berada di suatu tempat yang luas hingga kendaraanmu hilang, lalu engkau berdoa kepada-Nya, maka Dia akan mengembalikannya kepadamu." Jabir bin Sulaim berkata, "Lalu aku berkata, "Berilah kami perjanjian." Beliau bersabda: "Jangan sekali-kali engaku cela orang lain." Jabir bin Sulaim berkata, "Setelah itu aku tidak pernah mencela seorang pun; orang merdeka atau budak, unta atau kambing." Beliau bersabda lagi: "Janganlah engkau remehkan perkara ma'ruf, berbicaralah kepada saudaramu dengan wajah yang penuh senyum dan berseri, sebab itu bagian dari perkara yang ma'ruf. Angkatlah sarungmu hingga setengah betis, jika tidak maka hingga kedua mata kaki. Dan janganlah engkau julurkan sarungmu karena itu bagian dari sifat sombong, sesungguhnya Allah tidak menyukai sifat sombong. Jika ada seseorang yang mencela dan memakimu karena cela yang ia ketahui darimu, maka janganlah engkau balas memaki karena cela yang engkau ketahui padanya, karena hal itu akan memberatkannya (pada hari kiamat)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Тамима аль-Джухайми передаёт от Абу Джурайя Джабира ибн Суляйма: «Я увидел человека, к мнению которого неизменно прислушивались люди, принимая от него всё, что он говорил. Я спросил: “Кто это?” Мне сказали: “Посланник Аллаха ﷺ”. Я сказал дважды: “Тебе мир, о Посланник Аллаха!” Он сказал: “Не говори: “Тебе мир” /‘аляйка-с-салям/, ибо это приветствие мёртвых. Говори: “Мир тебе“ /Ассаляму ‘аляйкя/”. Я спросил: “Ты Посланник Аллаха?” Он ответил: “Я Посланник Аллаха, к Которому если воззовёшь ты, когда тебя коснётся вред, Он непременно отведёт его от тебя, и если воззовёшь ты к Нему в голодный год, Он взрастит для тебя растения, и если воззовёшь ты к Нему, когда верблюдица твоя потеряется в пустыне, Он непременно вернёт её тебе”. Я попросил: “Дай мне какое-нибудь наставление”. (Посланник Аллаха ﷺ) сказал: “Ты не должен никого поносить”. И с тех пор я не обругал ни свободного, ни раба, ни верблюда, ни овцу. И (Посланник Аллаха ﷺ) сказал: “Пусть никакое доброе дело не кажется тебе незначительным, даже если речь идёт всего лишь о том, чтобы у тебя было приветливое выражение лица, когда ты говоришь со своим братом. Это тоже доброе дело. Подними свой изар до середины голени, а если не желаешь так, тогда до щиколоток. И ни за что не опускай изар ещё ниже, ведь это признак высокомерия, а, поистине, Аллах не любит проявления высокомерия. И если кто-то начнёт поносить тебя, попрекая тебя тем, что знает о тебе, не попрекай его тем, что знаешь о нём, и тогда грех за это ляжет на него”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Cüreyy Câbir b. Süleym'den (rivayet olunmuştur;) dedi ki: Halkın fikrinden (yararlanarak) döndüğü bir adam gördüm. Onun her söylediğini halk kabul ediyordu. (Halka) "Bu (zat) kimdir?" diye sordum. "Resulullah (s.a.v) dir" cevabım verdiler. (Bunun üzerine yanına varıp; "Aleykesselam ey Allah'ın Resulü; diyerek iki defa selam verdim. "Aleykesselam diye selam verme. Çünkü 'aleykesselam” ölülerin selamıdır. 'Esselamu aleyke' diye selam ver" buyurdu. Sen Allah'ın Resulü müsün? Dedim. "Ben Allah'ın Resulüyüm. (O öyle bir Allah 'tır ki) sana bir zarar gelse de kendisine dua etsen o zararı senden giderir. Sana bir kıtlık yılı gelse de kendisine dua etsen o yılı senin için verimli hale getirir. Eğer susuz ve kıraç bir yerde yada bir çölde iken bineğin kaybolsa da kendisine dua etsen onu sana geri getirir" buyurdu. Bana bir tavsiyede bulun, dedim. "Kimseye sövme" dedi. Ondan sonra ben hiçbir hür insana, köleye, deveye ve koyuna sövmedim. (Sonra tavsiyesine devamla) şöyle buyurdu: "Hiçbir iyiliği küçümserde.(Müslüman) kardeşinle güler yüzle konuşmanı da küçümseme. (Çünkü) bu da bir iyiliktir. Eteği dizinin yarısına kadar (yukarı) kaldır. Eğer bunu kabul etmezsen topuklarına kadar (kaldır). (Fakat) eteği(ni daha aşağıya) salıvermekten sakın. Çünkü bu büyüklenme alametidir. Allah büyüklenmeyi sevmez. Eğer bir kimse sana söverse ve sende (olduğunu) bildiğin bir şeyden dolayı seni ayıplayacak olursa, sen de onda (olduğunu) bildiğin bir şeyden dolayı onu ayıplama. Çünkü bunun vebali onadır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوجری جابر بن سلیم رضی اللہ عنہ کہتے ہیں کہ میں نے ایک شخص کو دیکھا کہ لوگ اس کی رائے کو قبول کرتے ہیں جب بھی وہ کوئی بات کہتا ہے لوگ اسی کو تسلیم کرتے ہیں، میں نے پوچھا: یہ کون ہیں؟ لوگوں نے بتایا کہ یہ رسول اللہ صلی اللہ علیہ وسلم ہیں، میں نے دو مرتبہ کہا: «عليك السلام يا رسول الله» آپ پر سلام ہو اللہ کے رسول آپ صلی اللہ علیہ وسلم نے فرمایا: «عليك السلام»نہ کہو، یہ مردوں کا سلام ہے اس کے بجائے «السلام عليك» کہو۔ میں اس اللہ کا بھیجا رسول ہوں، جس کو تمہیں کوئی ضرر لاحق ہو تو پکارو وہ تم سے اس ضرر کو دور فرما دے گا، جب تم پر کوئی قحط سالی آئے اور تم اسے پکارو تو وہ تمہارے لیے غلہ اگا دے گا، اور جب تم کسی چٹیل زمین میں ہو یا میدان پھر تمہاری اونٹنی گم ہو جائے تو اگر تم اس اللہ سے دعا کرو تو وہ اسے لے آئے گا میں نے کہا: مجھے نصیحت کیجئے آپ نے فرمایا: کسی کو بھی گالی نہ دو ۔ اس کے بعد سے میں نے کسی کو گالی نہیں دی، نہ آزاد کو، نہ غلام کو، نہ اونٹ کو، نہ بکری کو، اور آپ صلی اللہ علیہ وسلم نے فرمایا: کسی بھی بھلائی کے کام کو معمولی نہ سمجھو، اور اگر تم اپنے بھائی سے خندہ پیشانی سے بات کرو گے تو یہ بھی بھلے کام میں داخل ہے، اور اپنا تہ بند نصف «ساق» ( پنڈلی ) تک اونچی رکھو، اور اگر اتنا نہ ہو سکے تو ٹخنوں تک رکھو، اور تہ بند کو ٹخنوں سے نیچے لٹکانے سے بچو کیونکہ یہ غرور و تکبر کی بات ہے، اور اللہ غرور پسند نہیں کرتا، اور اگر تمہیں کوئی گالی دے اور تمہارے اس عیب سے تمہیں عار دلائے جسے وہ جانتا ہے تو تم اسے اس کے اس عیب سے عار نہ دلاؤ جسے تم جانتے ہو کیونکہ اس کا وبال اسی پر ہو گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4084</td></tr><tr><td>Arabic No</td><td>4084</td></tr><tr><td>Reference</td><td>Book 34 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4084 |
+| Arabic No | 4084 |
+| Reference | Book 34 Hadith 65 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ يَزِيدَ، قَالَ حَدَّثَنَا بَهْزُ بْنُ أَسَدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ مَيْسَرَةَ، قَالَ سَمِعْتُ النَّزَّالَ بْنَ سَبْرَةَ، قَالَ رَأَيْتُ عَلِيًّا - رضى الله عنه - صَلَّى الظُّهْرَ ثُمَّ قَعَدَ لِحَوَائِجِ النَّاسِ فَلَمَّا حَضَرَتِ الْعَصْرُ أُتِيَ بِتَوْرٍ مِنْ مَاءٍ فَأَخَذَ مِنْهُ كَفًّا فَمَسَحَ بِهِ وَجْهَهُ وَذِرَاعَيْهِ وَرَأْسَهُ وَرِجْلَيْهِ ثُمَّ أَخَذَ فَضْلَهُ فَشَرِبَ قَائِمًا وَقَالَ إِنَّ نَاسًا يَكْرَهُونَ هَذَا وَقَدْ رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَفْعَلُهُ وَهَذَا وُضُوءُ مَنْ لَمْ يُحْدِثْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |
+
 اخبرنا عمرو بن يزيد، قال حدثنا بهز بن اسد، قال حدثنا شعبة، عن عبد الملك بن ميسرة، قال سمعت النزال بن سبرة، قال رايت عليا - رضى الله عنه - صلى الظهر ثم قعد لحوايج الناس فلما حضرت العصر اتي بتور من ماء فاخذ منه كفا فمسح به وجهه وذراعيه وراسه ورجليه ثم اخذ فضله فشرب قايما وقال ان ناسا يكرهون هذا وقد رايت رسول الله صلى الله عليه وسلم يفعله وهذا وضوء من لم يحدث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু ইয়াযীদ (রহঃ) আবদুল মালিক মায়সারা (রহঃ) থেকে বর্ণিত। তিনি বলেনঃ আমি নাযযাল ইবনু সাবরাহকে বলতে শুনেছি যে, আমি আলী (রাঃ) কে দেখলাম যে, তিনি যোহরের সালাত (নামায/নামাজ) আদায় করলেন এবং জনসাধারণের প্রয়োজন পূরণার্থে বসলেন। যখন আসরের সময় উপস্থিত হল তখন তার নিকট একটি পানির পাত্র আনা হল। তিনি তা হতে এককোষ পানি নিলেন এবং তা দ্বারা মুখমন্ডল, হস্তদ্বয়, মাথা এবং উভয় পা মসেহ করলেন। পরে দাঁড়িয়ে উদ্বৃত্ত পানি পান করলেন এবং বললেনঃ অনেক লোক এরূপ পান করাকে খারাপ মনে করে। অথচ আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে এরূপ করতে দেখেছি। আর এটা হল ঐ ব্যাক্তির উযূ, যার উযূ (ওজু/অজু/অযু) ভঙ্গ হয়নি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 An-Nazzal bin Sabrah said:"I saw 'Ali (may Allah be please with him) praying Zuhr, then he sat to tend to the people's needs, and when the time for 'Asr came, a vessel of water was brought to him. He took a handful of it and wiped his face, forearms, head and feet with it, then he took what was left and drank standing up. He said: 'People dislike this, but I saw the Messenger of Allah (ﷺ) doing it. This is the Wudu' of one who has not committed Hadath
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |
+
+## French
+
+Rapporté par An-Nazzal bin Sabrah : J'ai vu 'Ali (qu'Allah soit satisfait de lui) prier la prière du Zuhr, puis il s'est assis pour répondre aux besoins des gens. Quand l'heure de 'Asr est arrivée, on lui a apporté un récipient d'eau. Il en a pris une poignée et s'est essuyé le visage, les avant-bras, la tête et les pieds, puis il a bu le reste debout. Il a dit : "Les gens n'aiment pas cela, mais j'ai vu le Messager d'Allah (ﷺ) le faire. C'est l'ablution de celui qui n'a pas perdu son état de pureté
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin Yazid\] dia berkata; telah menceritakan kepada kami \[Bahzu bin Asad\] berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Abdul Malik bin Maisa Radliyallahu'anha\] berkata; "Saya mendengar \[An Nazzal bin Sabrah\] berkata: "Aku melihat \[Ali\] Radliyallahu'anhu shalat dzuhur. Kemudian dia duduk untuk keperluan orang lain. Tatkala datang waktu Ashar, dibawakanlah kepadanya seember air, maka beliau mengambilnya dengan telapak tangannya dan mengusap wajahnya, kedua lengannya, kepalanya, dan kedua kakinya. Lalu beliau mengambil sisanya dan meminumnya sambil berdiri. Setelah itu dia berkata, "Manusia tidak suka seperti ini! padahal aku melihat Rasulullah shallallahu 'alaihi wasallam melakukannya, dan inilah cara berwudlu bagi orang yang belum batal
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin Yazid] dia berkata; telah menceritakan kepada kami [Bahzu bin Asad] berkata; telah menceritakan kepada kami [Syu'bah] dari [Abdul Malik bin Maisa Radliyallahu'anha] berkata; "Saya mendengar [An Nazzal bin Sabrah] berkata: "Aku melihat [Ali] Radliyallahu'anhu shalat dzuhur. Kemudian dia duduk untuk keperluan orang lain. Tatkala datang waktu Ashar, dibawakanlah kepadanya seember air, maka beliau mengambilnya dengan telapak tangannya dan mengusap wajahnya, kedua lengannya, kepalanya, dan kedua kakinya. Lalu beliau mengambil sisanya dan meminumnya sambil berdiri. Setelah itu dia berkata, "Manusia tidak suka seperti ini! padahal aku melihat Rasulullah shallallahu 'alaihi wasallam melakukannya, dan inilah cara berwudlu bagi orang yang belum batal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nezzal b. Sebre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Ali’yi gördüm öğle namazını kıldı ve insanların dertlerini dinlemek üzere oturdu. İkindi vakti girince bir su kabı getirdiler ondan bir avuç su aldı o su ile yüzünü, kollarını, başını ve ayaklarını meshetti, sonra suyun artan kısmını ayakta içip şöyle dedi: Bazı kimseler bu yaptığımdan hoşlanmıyorlar. Halbuki ben Rasûlüllah (sallallahü aleyhi ve sellem)’i böyle yaparken gördüm, işte bu yaptığım şey abdesti bozulmayan kimsenin abdestidir. (Tirmizî, Tahara: 37; İbn Mâce, Tahara:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالملک بن میسرہ کہتے ہیں کہ میں نے نزال بن سبرہ سے سنا، انہوں نے کہا کہ میں نے علی رضی اللہ عنہ کو دیکھا کہ آپ نے ظہر کی نماز پڑھی، پھر لوگوں کی ضرورتیں پوری کرنے یعنی ان کے مقدمات نپٹانے کے لیے بیٹھے، جب عصر کا وقت ہوا تو پانی کا ایک برتن لایا گیا، آپ نے اس سے ایک ہتھیلی میں پانی لیا، پھر اسے اپنے چہرہ، اپنے دونوں بازو، سر اور دونوں پیروں پر ملا ۱؎، پھر بچا ہوا پانی لیا اور کھڑے ہو کر پیا، اور کہنے لگے کہ کچھ لوگ اسے ناپسند کرتے ہیں حالانکہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو ایسا کرتے دیکھا ہے، اور یہ ان لوگوں کا وضو ہے جن کا وضو نہیں ٹوٹا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>130</td></tr><tr><td>Arabic No</td><td>130</td></tr><tr><td>Reference</td><td>Book 1 Hadith 131</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 130 |
+| Arabic No | 130 |
+| Reference | Book 1 Hadith 131 |

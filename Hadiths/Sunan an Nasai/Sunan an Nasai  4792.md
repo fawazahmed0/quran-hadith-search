@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا يُونُسُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ أَيُّوبَ، عَنِ الْقَاسِمِ بْنِ رَبِيعَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَطَبَ يَوْمَ الْفَتْحِ ‏.‏ مُرْسَلٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |
+
 اخبرني محمد بن اسماعيل بن ابراهيم، قال حدثنا يونس، قال حدثنا حماد، عن ايوب، عن القاسم بن ربيعة، ان رسول الله صلى الله عليه وسلم خطب يوم الفتح . مرسل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন ইসমাঈল ইবন ইবরাহীম (রহঃ) ... হাম্মাদ আইয়্যুব থেকে এবং তিনি কাসিম ইবন রবীআ (রাঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের দিন ভাষণ দিতে গিয়ে অনুরূপ বর্ণনা করেন। এটি মুরসাল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Al-Qasim bin Rabi'ah that:the Messenger of Allah delivered a speech on the Day of the Conquest. (And he mentioned it) in Mursal from
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |
+
+## French
+
+Rapporté par Al-Qasim bin Rabi'ah : Le Messager d’Allah ﷺ a prononcé un discours le jour de la Conquête. (Et il l’a mentionné sous forme Mursal)
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isma'il bin Ibrahim\] telah menceritakan kepada kami \[Yunus\] telah menceritakan kepada kami \[Hammad\] dari \[Ayyub\] dari \[Al Qasim bin Rabi'ah\] bahwa Rasulullah shallallahu 'alaihi wasallam berkhutbah pada saat penaklukan Mekkah. Hadits mursal
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isma'il bin Ibrahim] telah menceritakan kepada kami [Yunus] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Al Qasim bin Rabi'ah] bahwa Rasulullah shallallahu 'alaihi wasallam berkhutbah pada saat penaklukan Mekkah. Hadits mursal
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4792</td></tr><tr><td>Arabic No</td><td>4792</td></tr><tr><td>Reference</td><td>Book 45 Hadith 87</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4792 |
+| Arabic No | 4792 |
+| Reference | Book 45 Hadith 87 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا وَهْبُ بْنُ جَرِيرٍ، قَالَ حَدَّثَنَا أَبِي قَالَ، سَمِعْتُ قَتَادَةَ، يُحَدِّثُ عَنْ أَنَسٍ، قَالَ كَانَ شَعْرُ النَّبِيِّ صلى الله عليه وسلم شَعْرًا رَجِلاً لَيْسَ بِالْجَعْدِ وَلاَ بِالسَّبْطِ بَيْنَ أُذُنَيْهِ وَعَاتِقِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |
+
 اخبرنا محمد بن المثنى، قال حدثنا وهب بن جرير، قال حدثنا ابي قال، سمعت قتادة، يحدث عن انس، قال كان شعر النبي صلى الله عليه وسلم شعرا رجلا ليس بالجعد ولا بالسبط بين اذنيه وعاتقه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন মুসান্না (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত, তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর চুল ছিল মধ্যম রকমের, অত্যধিক সোজাও না, আর অধিক কোঁকড়াও না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |
 
 ## English
 
+It was narrated that Anas said:"The hair of the Prophet \[SAW\] was wavy, neither curly nor straight, and (hung down) between his ears and his shoulders
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Anas said:"The hair of the Prophet [SAW] was wavy, neither curly nor straight, and (hung down) between his ears and his shoulders
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |
+
+## French
+
+Rapporté par Anas : Les cheveux du Prophète ﷺ étaient ondulés, ni bouclés ni raides, et ils descendaient entre ses oreilles et ses épaules
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Muhammad bin Al Mutsanna\], dia berkata; telah menceritakan kepada kami \[Wahb bin Jarir\], dia berkata; telah menceritakan kepada kami \[ayahku\], dia berkata; "Saya mendengar \[Qatadah\] bercerita dari \[Anas\], dia berkata; "Rambut Nabi shallallahu 'alaihi wasallam adalah rambut yang tidak keriting dan tidak pula lurus, (terurai) di antara kedua telinga dan pundak beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Muhammad bin Al Mutsanna], dia berkata; telah menceritakan kepada kami [Wahb bin Jarir], dia berkata; telah menceritakan kepada kami [ayahku], dia berkata; "Saya mendengar [Qatadah] bercerita dari [Anas], dia berkata; "Rambut Nabi shallallahu 'alaihi wasallam adalah rambut yang tidak keriting dan tidak pula lurus, (terurai) di antara kedua telinga dan pundak beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5053</td></tr><tr><td>Arabic No</td><td>5053</td></tr><tr><td>Reference</td><td>Book 48 Hadith 14</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5053 |
+| Arabic No | 5053 |
+| Reference | Book 48 Hadith 14 |

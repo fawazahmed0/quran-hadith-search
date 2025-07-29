@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، قَالَ حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ شُعْبَةَ، عَنْ سُلَيْمَانَ، ح وَأَنْبَأَنَا أَحْمَدُ بْنُ سَيَّارٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عُثْمَانَ، عَنْ أَبِي حَمْزَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم وَقَالَ أَحْمَدُ فِي حَدِيثِهِ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ يَزْنِي الزَّانِي حِينَ يَزْنِي وَهُوَ مُؤْمِنٌ وَلاَ يَسْرِقُ حِينَ يَسْرِقُ وَهُوَ مُؤْمِنٌ وَلاَ يَشْرَبُ الْخَمْرَ حِينَ يَشْرَبُ وَهُوَ مُؤْمِنٌ ثُمَّ التَّوْبَةُ مَعْرُوضَةٌ بَعْدُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |
+
 اخبرنا محمد بن المثنى، قال حدثنا ابن ابي عدي، عن شعبة، عن سليمان، ح وانبانا احمد بن سيار، قال حدثنا عبد الله بن عثمان، عن ابي حمزة، عن الاعمش، عن ابي صالح، عن ابي هريرة، عن النبي صلى الله عليه وسلم وقال احمد في حديثه قال قال رسول الله صلى الله عليه وسلم " لا يزني الزاني حين يزني وهو مومن ولا يسرق حين يسرق وهو مومن ولا يشرب الخمر حين يشرب وهو مومن ثم التوبة معروضة بعد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন মুসান্না ও আহমাদ ইবন সায়্যার (রহঃ) ... আবূ হুরায়রা (রাঃ) সূত্রে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেছেনঃ যখন ব্যভিচারী ব্যভিচার করে, তখন সে মুমিন অবস্থায় ব্যভিচার করে না, আর যখন চোর চুরি করে, তখন সে মুমিন অবস্থায় চুরি করে না, আর যখন মদ পান করে, তখন সে মুমিন অবস্থায় মদপান করে না। এরপরও তওবার সুযোগ রাখা হয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from abu Hurairah that the Prophet - and Ahmad said in his Hadith:"The Messenger of Allah said: 'No one who commits Zina is a believer at the moment when he is committing Zina; no one who steals is a believer at the moment when he is stealing; no one who drinks wine is a believer at the moment when he is drinking it; but repentance is available to him after that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |
+
+## French
+
+Rapporté par Abou Hourayra – et Ahmad a dit dans son hadith : Le Messager d’Allah ﷺ a dit : « Celui qui commet la fornication n’est pas croyant au moment où il la commet ; celui qui vole n’est pas croyant au moment où il vole ; celui qui boit du vin n’est pas croyant au moment où il le boit ; mais il peut se repentir après cela. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al Mutsanna\] telah menceritakan kepada kami \[Ibnu Abu 'Adi\] dari \[Syu'bah\] dari \[Sulaiman\]. Disebutkan dari jalur lain: Telah menceritakan kepada kami \[Ahmad bin Sayyar\] telah menceritakan kepada kami \[Abdullah bin Utsman\] dari \[Abu Hamzah\] dari \[Al A'masy\] dari \[Abu Shalih\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam... dan Ahmad berkata di dalam haditsnya; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah pezina itu berzina ketika dia dalam keadaan beriman, dan tidaklah pencuri itu mencuri ketika dia dalam keadaan beriman, tidaklah dia meminum khamr ketika meminumnya sedangkan dia dalam keadaan beriman, kemudian taubah terbentang setelah itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Ibnu Abu 'Adi] dari [Syu'bah] dari [Sulaiman]. Disebutkan dari jalur lain: Telah menceritakan kepada kami [Ahmad bin Sayyar] telah menceritakan kepada kami [Abdullah bin Utsman] dari [Abu Hamzah] dari [Al A'masy] dari [Abu Shalih] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam... dan Ahmad berkata di dalam haditsnya; "Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah pezina itu berzina ketika dia dalam keadaan beriman, dan tidaklah pencuri itu mencuri ketika dia dalam keadaan beriman, tidaklah dia meminum khamr ketika meminumnya sedangkan dia dalam keadaan beriman, kemudian taubah terbentang setelah itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4871</td></tr><tr><td>Arabic No</td><td>4871</td></tr><tr><td>Reference</td><td>Book 46 Hadith 2</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4871 |
+| Arabic No | 4871 |
+| Reference | Book 46 Hadith 2 |

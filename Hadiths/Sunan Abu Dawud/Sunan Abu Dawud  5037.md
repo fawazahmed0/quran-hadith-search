@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا ابْنُ أَبِي زَائِدَةَ، عَنْ عِكْرِمَةَ بْنِ عَمَّارٍ، عَنْ إِيَاسِ بْنِ سَلَمَةَ بْنِ الأَكْوَعِ، عَنْ أَبِيهِ، أَنَّ رَجُلاً، عَطَسَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَقَالَ لَهُ ‏"‏ يَرْحَمُكَ اللَّهُ ‏"‏ ‏.‏ ثُمَّ عَطَسَ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ الرَّجُلُ مَزْكُومٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
+
 حدثنا ابراهيم بن موسى، اخبرنا ابن ابي زايدة، عن عكرمة بن عمار، عن اياس بن سلمة بن الاكوع، عن ابيه، ان رجلا، عطس عند النبي صلى الله عليه وسلم فقال له " يرحمك الله " . ثم عطس فقال النبي صلى الله عليه وسلم " الرجل مزكوم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
 
 ## Bengali
 
+। সালামাহ ইবনুল আকওয়া (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট বসে হাঁচি দিলে তিনি ‘ইয়ারহামুকাল্লাহ’ বললেন। লোকটি আবার হাঁচি দিলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ লোকটির ঠান্ডা লেগেছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সালামাহ ইবনুল আকওয়া (রাঃ) সূত্রে বর্ণিত। এক ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট বসে হাঁচি দিলে তিনি ‘ইয়ারহামুকাল্লাহ’ বললেন। লোকটি আবার হাঁচি দিলে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ লোকটির ঠান্ডা লেগেছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salamah b. al-Akwa said :when a man sneezed beside the prophet (May peace be upon him), he said to him : Allah have mercy on you, but when he sneezed again, he said : The man has a cold in the head
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
+
+## French
+
+Rapporté par Salamah b. al-Akwa : Lorsqu’un homme éternua près du Prophète ﷺ, il lui dit : « Qu’Allah te fasse miséricorde. » Mais lorsqu’il éternua de nouveau, il dit : « Cet homme a un rhume. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibrahim bin Musa\] berkata, telah mengabarkan kepada kami \[Ibnu Abu Zaidah\] dari \[Ikrimah bin Ammar\] dari \[Iyas bin Salamah Ibnul Akwa'\] dari \[Bapaknya\] ia berkata, "Seorang laki-laki bersin di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau mendoakannya: "YARHAMUKAALLAHU (semoga Allah merahmatimu)." Kemudian orang itu bersin lagi, beliau pun bersabda: "Laki-laki itu sedang kena pilek
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Musa] berkata, telah mengabarkan kepada kami [Ibnu Abu Zaidah] dari [Ikrimah bin Ammar] dari [Iyas bin Salamah Ibnul Akwa'] dari [Bapaknya] ia berkata, "Seorang laki-laki bersin di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau mendoakannya: "YARHAMUKAALLAHU (semoga Allah merahmatimu)." Kemudian orang itu bersin lagi, beliau pun bersabda: "Laki-laki itu sedang kena pilek
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (İyas b. Seleme'nin) babasından (rivayet edildiğine göre); Bir adam Nebi (s.a.v.)'in yanında aksırmış da Nebi (s.a.v.) ona: "Yerhamukellah" diye dua etmiş. Sonra (adam yine) aksırmış. Bunun üzerine Nebi (s.a.v.): "Bu adam nezledir" buyurmuş (ve teşmitten vazgeçmiş)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلمہ بن الاکوع رضی اللہ عنہ کہتے ہیں کہ ایک شخص کو نبی اکرم صلی اللہ علیہ وسلم کے پاس چھینک آئی تو آپ نے اس سے فرمایا:«يرحمك الله» اللہ تم پر رحم فرمائے اسے پھر چھینک آئی تو آپ نے فرمایا: آدمی کو زکام ہوا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (2993)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5037</td></tr><tr><td>Arabic No</td><td>5037</td></tr><tr><td>Reference</td><td>Book 43 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (2993) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5037 |
+| Arabic No | 5037 |
+| Reference | Book 43 Hadith 265 |

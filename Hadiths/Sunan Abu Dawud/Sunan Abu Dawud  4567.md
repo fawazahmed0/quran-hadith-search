@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ السُّلَمِيُّ، حَدَّثَنَا مَرْوَانُ، - يَعْنِي ابْنَ مُحَمَّدٍ - حَدَّثَنَا الْهَيْثَمُ بْنُ حُمَيْدٍ، حَدَّثَنِي الْعَلاَءُ بْنُ الْحَارِثِ، حَدَّثَنِي عَمْرُو بْنُ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، قَالَ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْعَيْنِ الْقَائِمَةِ السَّادَّةِ لِمَكَانِهَا بِثُلُثِ الدِّيَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
+
 حدثنا محمود بن خالد السلمي، حدثنا مروان، - يعني ابن محمد - حدثنا الهيثم بن حميد، حدثني العلاء بن الحارث، حدثني عمرو بن شعيب، عن ابيه، عن جده، قال قضى رسول الله صلى الله عليه وسلم في العين القايمة السادة لمكانها بثلث الدية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
 
 ## Bengali
 
+। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং তার দাদার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশ দিয়েছেন, যদি আঘাতের কারণে চক্ষু স্থানচ্যুত না হয়ে জ্যোতি নষ্ট হয় তাহলে পূর্ণ দিয়াতের এক-তৃতীয়াংশ দিতে হবে।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আমর ইবনু শু‘আইব (রহঃ) থেকে পর্যায়ক্রমে তার পিতা এবং তার দাদার সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নির্দেশ দিয়েছেন, যদি আঘাতের কারণে চক্ষু স্থানচ্যুত না হয়ে জ্যোতি নষ্ট হয় তাহলে পূর্ণ দিয়াতের এক-তৃতীয়াংশ দিতে হবে।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Amr b. Suh'aib: On his father's authority, said that his grandfather said: The Messenger of Allah (ﷺ) gave judgment that a third of the blood-wit should be paid for an eye fixed in its place
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
+
+## French
+
+Rapporté par 'Amr b. Suh'aib, d’après son père, d’après son grand-père رضي الله عنهم : Le Messager d’Allah ﷺ a jugé qu’un tiers du prix du sang devait être payé pour un œil qui reste en place
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Амр ибн Шу‘айб передаёт от своего отца рассказ его деда о том, как Посланник Аллаха ﷺ постановил, что за ослепший в результате повреждения, но оставшийся на месте глаз выплачивается треть компенсации /дийа
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr bin Şuayb babasından o da dedesinden naklen dediki: Rasulullah (s.a.v) Yerinden çıkmayan (ama görme hassasını kaybeden) gözde üçte bir diyete hükmetti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے ایسی آنکھ میں جو اپنی جگہ باقی رہے لیکن بینائی جاتی رہے، تہائی دیت کا فیصلہ فرمایا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4567</td></tr><tr><td>Arabic No</td><td>4567</td></tr><tr><td>Reference</td><td>Book 41 Hadith 74</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4567 |
+| Arabic No | 4567 |
+| Reference | Book 41 Hadith 74 |

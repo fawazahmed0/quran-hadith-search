@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، عَنْ زَكَرِيَّا، عَنْ أَبِي إِسْحَاقَ، عَنْ عَاصِمٍ، عَنْ عَلِيٍّ، - رضى الله عنه - قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ يَا أَهْلَ الْقُرْآنِ أَوْتِرُوا فَإِنَّ اللَّهَ وِتْرٌ يُحِبُّ الْوِتْرَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
+
 حدثنا ابراهيم بن موسى، اخبرنا عيسى، عن زكريا، عن ابي اسحاق، عن عاصم، عن علي، - رضى الله عنه - قال قال رسول الله صلى الله عليه وسلم " يا اهل القران اوتروا فان الله وتر يحب الوتر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
 
 ## Bengali
 
+। ‘আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে কুরআনের ধারকগণ! তোমরা বিতর সালাত আদায় করো। কেননা আল্লাহ বেজোড়, তাই তিনি বেজোড়কে ভালবাসেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আলী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হে কুরআনের ধারকগণ! তোমরা বিতর সালাত আদায় করো। কেননা আল্লাহ বেজোড়, তাই তিনি বেজোড়কে ভালবাসেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ali ibn AbuTalib: The Prophet (ﷺ) said: Allah is single (witr) and loves what is single, so observe the witr, you who follow the Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
+
+## French
+
+Rapporté par Ali ibn Abu Talib رضي الله عنه : Le Prophète ﷺ a dit : « Allah est unique (witr) et Il aime ce qui est unique, alors accomplissez le witr, vous qui suivez le Coran. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepada \[Ibrahim bin Musa\] telah mengabarkan kepada Kami \[Isa\] dari \[Zakaria\] dari \[Abu Ishaq\] dari \['Ashim\] dari \[Ali\] radliallahu 'anhu ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam berkata; wahai ahli Al Qur'an, shalat witirlah kalian karena Allah adalah Dzat yang Maha Tunggal dan menyukai sesuatu yang ganjil. Telah berkata kepada Kami \[Utsman bin Abu Syaibah\], telah menceritakan kepada Kami \[Abu Hafsh Al Abbar\] dari \[Al A'masy\] dari \['Amr bin Murrah\] dari \[Abu Ubaidah\] dari \[Abdullah\] dari Nabi Shalla Allahu 'alaihi wa sallam dengan makna yang sama namun ia menambahkan; kemudian terdapat seorang badui berkata; apa yang kamu katakan? Dia menjawab; bukan urusanmu dan bukan urusan para sahabatmu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada [Ibrahim bin Musa] telah mengabarkan kepada Kami [Isa] dari [Zakaria] dari [Abu Ishaq] dari ['Ashim] dari [Ali] radliallahu 'anhu ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam berkata; wahai ahli Al Qur'an, shalat witirlah kalian karena Allah adalah Dzat yang Maha Tunggal dan menyukai sesuatu yang ganjil. Telah berkata kepada Kami [Utsman bin Abu Syaibah], telah menceritakan kepada Kami [Abu Hafsh Al Abbar] dari [Al A'masy] dari ['Amr bin Murrah] dari [Abu Ubaidah] dari [Abdullah] dari Nabi Shalla Allahu 'alaihi wa sallam dengan makna yang sama namun ia menambahkan; kemudian terdapat seorang badui berkata; apa yang kamu katakan? Dia menjawab; bukan urusanmu dan bukan urusan para sahabatmu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Али, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «О приверженцы Корана! Совершайте витр, ибо, поистине, Аллах Один, и Он любит нечётное»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ali (r.a.)'den; demiştir ki: - Resûlullah (s.a.) şöyle buyurdu: “Ey ehl-i Kur'ân; vitr namazı kılınız, çünkü Allah tektir ve vitri sever (kabul eder)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اے قرآن والو! ۱؎ وتر پڑھا کرو اس لیے کہ اللہ وتر (طاق) ہے اور وتر کو پسند کرتا ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1416</td></tr><tr><td>Arabic No</td><td>1416</td></tr><tr><td>Reference</td><td>Book 8 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1416 |
+| Arabic No | 1416 |
+| Reference | Book 8 Hadith 1 |

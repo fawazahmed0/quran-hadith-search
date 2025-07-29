@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ أَنْبَأَنَا شَرِيكٌ، عَنْ عَاصِمٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَامِرِ بْنِ رَبِيعَةَ، عَنْ عَائِشَةَ، قَالَتْ فَقَدْتُهُ مِنَ اللَّيْلِ وَسَاقَ الْحَدِيثَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 36 Hadith 27</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |
+
 اخبرنا علي بن حجر، قال انبانا شريك، عن عاصم، عن عبد الله بن عامر بن ربيعة، عن عايشة، قالت فقدته من الليل وساق الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 36 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আলী ইবন হুজর (রহঃ) ... আবদুল্লাহ ইবন আমির ইবন রবীয়া (রহঃ) থেকে বর্ণিত। তিনি আয়েশা (রাঃ) থেকে বর্ণনা করেন যে, আয়েশা (রাঃ) বলেন, এক রাত্রে রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বিছানায় পেলাম না। তারপর তিনি পূর্ণ হাদীসটির বর্ণনা দেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 36 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"I noticed that he was not there one night" and he quoted the rest of the Hadith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 36 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |
+
+## French
+
+Rapporté par ‘Aïcha : "J’ai remarqué qu’il n’était pas là une nuit" et il a rapporté le reste du hadith
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 36 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 36 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی عائشہ رضی الله عنہا کہتی ہیں کہ رات کو آپ صلی اللہ علیہ وسلم نے مجھے غائب پایا اور پھر پوری حدیث بیان کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3965</td></tr><tr><td>Arabic No</td><td>3965</td></tr><tr><td>Reference</td><td>Book 36 Hadith 27</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3965 |
+| Arabic No | 3965 |
+| Reference | Book 36 Hadith 27 |

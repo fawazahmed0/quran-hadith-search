@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ أَبِي مَرْيَمَ، حَدَّثَنَا اللَّيْثُ، قَالَ حَدَّثَنِي عُقَيْلٌ، عَنِ ابْنِ شِهَابٍ، قَالَ ذَكَرَ عُرْوَةُ أَنَّ الْمِسْوَرَ بْنَ مَخْرَمَةَ، رضى الله عنهما وَمَرْوَانَ أَخْبَرَاهُ أَنَّ النَّبِيَّ صلى الله عليه وسلم حِينَ جَاءَهُ وَفْدُ هَوَازِنَ قَامَ فِي النَّاسِ، فَأَثْنَى عَلَى اللَّهِ بِمَا هُوَ أَهْلُهُ، ثُمَّ قَالَ ‏ "‏ أَمَّا بَعْدُ، فَإِنَّ إِخْوَانَكُمْ جَاءُونَا تَائِبِينَ، وَإِنِّي رَأَيْتُ أَنْ أَرُدَّ إِلَيْهِمْ سَبْيَهُمْ، فَمَنْ أَحَبَّ مِنْكُمْ أَنْ يُطَيِّبَ ذَلِكَ فَلْيَفْعَلْ، وَمَنْ أَحَبَّ أَنْ يَكُونَ عَلَى حَظِّهِ حَتَّى نُعْطِيَهُ إِيَّاهُ مِنْ أَوَّلِ مَا يُفِيءُ اللَّهُ عَلَيْنَا ‏"‏‏.‏ فَقَالَ النَّاسُ طَيَّبْنَا لَكَ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا سعيد بن ابي مريم، حدثنا الليث، قال حدثني عقيل، عن ابن شهاب، قال ذكر عروة ان المسور بن مخرمة، رضى الله عنهما ومروان اخبراه ان النبي صلى الله عليه وسلم حين جاءه وفد هوازن قام في الناس، فاثنى على الله بما هو اهله، ثم قال " اما بعد، فان اخوانكم جاءونا تايبين، واني رايت ان ارد اليهم سبيهم، فمن احب منكم ان يطيب ذلك فليفعل، ومن احب ان يكون على حظه حتى نعطيه اياه من اول ما يفيء الله علينا ". فقال الناس طيبنا لك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
 ## Bengali
 
+মিসওয়ার ইবনু মাখরামাহ ও মারওয়ান (রাঃ) হতে বর্ণিত যে, তারা বলেন, হাওয়াযিন গোত্রের প্রতিনিধি দল যখন নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট আগমন করলেন। তখন তিনি লোকদের সামনে ভাষণ দিতে দাঁড়িয়ে আল্লাহ তা‘আলার যথাযোগ্য প্রশংসা করলেন। অতঃপর বললেন, তোমার ভাইয়েরা আমাদের নিকট তওবা করে এসেছে। আমি তাদেরকে তাদের যুদ্ধবন্দীদের ফেরত দেয়া সঙ্গত মনে করছি। কাজেই তোমাদের মধ্যে যারা সন্তুষ্টচিত্তে করতে চায় তারা যেন তা করে। আর যে নিজের অংশ রেখে দিতে চায়, এভাবে প্রথম যে ফায়\* আল্লাহ আমাদের দান করবেন সেখান হতে তার হিস্সা আদায় করে দিব। তখন সকলেই বললেন, আমরা আপনার সন্তুষ্টির জন্য তা করলাম। (২৩০৮, ২৩০৭) (আধুনিক প্রকাশনীঃ ২৩৯৬, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-মিসওয়ার ইবনু মাখরামাহ ও মারওয়ান (রাঃ) হতে বর্ণিত যে, তারা বলেন, হাওয়াযিন গোত্রের প্রতিনিধি দল যখন নবী (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম)-এর নিকট আগমন করলেন। তখন তিনি লোকদের সামনে ভাষণ দিতে দাঁড়িয়ে আল্লাহ তা‘আলার যথাযোগ্য প্রশংসা করলেন। অতঃপর বললেন, তোমার ভাইয়েরা আমাদের নিকট তওবা করে এসেছে। আমি তাদেরকে তাদের যুদ্ধবন্দীদের ফেরত দেয়া সঙ্গত মনে করছি। কাজেই তোমাদের মধ্যে যারা সন্তুষ্টচিত্তে করতে চায় তারা যেন তা করে। আর যে নিজের অংশ রেখে দিতে চায়, এভাবে প্রথম যে ফায়* আল্লাহ আমাদের দান করবেন সেখান হতে তার হিস্সা আদায় করে দিব। তখন সকলেই বললেন, আমরা আপনার সন্তুষ্টির জন্য তা করলাম। (২৩০৮, ২৩০৭) (আধুনিক প্রকাশনীঃ ২৩৯৬, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Miswar bin Makhrama and Marwan:When the delegates of the tribe of Hawazin came to the Prophet (ﷺ) he stood up amongst the people, Glorified and Praised Allah as He deserved, and said, "Then after: Your brethren have come to you with repentance and I see it logical to return to them their captives; so whoever amongst you likes to do that as a favor, then he can do it, and whoever of you like to stick to his share till we give him his right from the very first Fai (war booty) (1) which Allah will bestow on us, then (he can do so)." The people replied, "We do that (to return the captives) willingly as a favor for your sake
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
+
+## French
+
+Rapporté par Al-Miswar bin Makhrama et Marwan : Quand les délégués de la tribu de Hawazin sont venus voir le Prophète (ﷺ), il s’est levé devant les gens, a glorifié et loué Allah comme il se doit, puis a dit : « Ensuite : Vos frères sont venus vers vous repentants et je trouve juste de leur rendre leurs prisonniers ; donc, si l’un d’entre vous veut le faire par bonté, qu’il le fasse, et si l’un d’entre vous préfère garder sa part jusqu’à ce que nous lui donnions son droit lors du premier butin (Fai) qu’Allah nous accordera, qu’il le fasse aussi. » Les gens ont répondu : « Nous le faisons volontiers, par bonté pour toi. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Abi Maryam\] telah menceritakan kepada kami \[Al Laits\] berkata, telah menceritakan kepadaku \['Uqail\] dari \[Ibnu Syihab\] berkata, bahwa \['Urwah\] menyebutkan bahwa \[Al Miswar bin Makhramah radliallahu 'anhu\] dan \[Marwan\] keduanya mengabarkan bahwa Nabi shallallahu 'alaihi wasallam ketika datang kepada Beliau utusan suku HawAzin, Beliau berdiri di hadapan manusia lalu memuji Allah Dzat yang paling berhak dipuji kemudian bersabda: "Kemudian dari pada itu, bahwa saudara-saudara kalian telah datang dengan bertobat dan aku berpikir untuk mengembalikan tawanan mereka. Maka itu siapa diantara kalian yang suka berbuat baik (untuk membebaskannya) maka lakukanlah dan siapa yang ingin mendapatkan haknya maka kami akan berikan haknya kepadanya dari sejak awal harta fa'i yang Allah karuniakan kepada kita". Maka orang-orang berkata: "Kami memilih berbuat kebaikan untuk anda
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Abi Maryam] telah menceritakan kepada kami [Al Laits] berkata, telah menceritakan kepadaku ['Uqail] dari [Ibnu Syihab] berkata, bahwa ['Urwah] menyebutkan bahwa [Al Miswar bin Makhramah radliallahu 'anhu] dan [Marwan] keduanya mengabarkan bahwa Nabi shallallahu 'alaihi wasallam ketika datang kepada Beliau utusan suku HawAzin, Beliau berdiri di hadapan manusia lalu memuji Allah Dzat yang paling berhak dipuji kemudian bersabda: "Kemudian dari pada itu, bahwa saudara-saudara kalian telah datang dengan bertobat dan aku berpikir untuk mengembalikan tawanan mereka. Maka itu siapa diantara kalian yang suka berbuat baik (untuk membebaskannya) maka lakukanlah dan siapa yang ingin mendapatkan haknya maka kami akan berikan haknya kepadanya dari sejak awal harta fa'i yang Allah karuniakan kepada kita". Maka orang-orang berkata: "Kami memilih berbuat kebaikan untuk anda
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что аль-Мисвар ибн Махрама и Марван, да будет доволен Аллах ими обоими, сказали: «Когда к Пророку ﷺ прибыла делегация (племени) хавазин, он встал среди (собравшихся) мусульман, должным образом воздал хвалу Аллаху, а потом сказал: “А затем, поистине, эти ваши братья пришли к нам с покаянием, и я посчитал нужным вернуть им их пленных, так пусть же тот из вас, кто захочет сделать доброе дело (вернув им их пленных), так и поступит, а кто хочет подождать (получения) своей доли до тех пор, пока мы не выделим её ему из первой же военной добычи, которую дарует нам Аллах, пусть сделает (так)”. Люди сказали: “Мы (по своей воле) отдадим им (пленных)”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 மிஸ்வர் பின் மக்ரமா (ரலி), மர்வான் பின் அல்ஹகம் ஆகி யோர் கூறியதாவது: நபி (ஸல்) அவர்கள், தம்மிடம் ஹவாஸின் குலத்தாரின் தூதுக் குழு ஒன்று வந்தபோது, மக்களிடையே எழுந்து நின்று அல்லாஹ்வை அவனது தகுதிக் கேற்றவாறு போற்றிப் புகழ்ந்துவிட்டு (பின்வருமாறு) கூறினார்கள்: இறைவாழ்த்துக்குப்பின்! (மக்களே!)உங்கள் சகோதரர்கள் மனம் திருந்தி நம்மிடம் வந்துள்ளனர். அவர்களுடைய போர்க் கைதிகளை அவர்களிடமே திருப் பித் தந்துவிடலாமெனக் கருதுகிறேன். ஆகவே, உங்களில் யார் மனப்பூர்வமாகத் திருப்பித் தந்துவிட விரும்புகிறாரோ அவர் அவ்வாறே செய்யட்டும்! யார், (இனி) அல்லாஹ் நமக்கு அளிக்கவிருக்கும் முதலாவது செல்வத்திலிருந்து அவருக்கு நாம் கொடுக்கும்வரை தமது பங்கைத் தாமே வைத்துக்கொள்ள விரும்புகிறாரோ அவர் அவ்வாறே செய்யட்டும்” என்று கூறினார்கள். மக்கள், ‘‘நாங்கள் உங்களுக்காக (போர்க் ûதிகளைத் திருப்பித் தந்துவிட) மனப்பூர்வமாகச் சம்மதிக்கிறோம்” என்று கூறினார்கள்.11 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Urve, Misver b. Mahrame ile Mervan'ın kendisine şöyle haber verdiklerini nakletmiştir: Hevazin heyeti Hz. Nebi'in huzuruna gelmişlerdi. Hz. Nebi insanlar içinde ayağa kalktı, Allah'a layık olduğu biçimde hamdetti. Sonra: "Konuya gelelim. Kardeşleriniz tövbe etmiş ve bize gelmişler; ben esirlerini kendilerine geri vermeyi uygun görüyorum. Hakkından vazgeçecek kimler varsa bunu yapsın. Hakkını almak isteyenlerin hakkını ise ilk ganimetlerden verelim" buyurdu. Bunun üzerine insanlar: "Biz hakkımızdan vazgeçiyoruz" dediler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2583</td></tr><tr><td>Arabic No</td><td>2583</td></tr><tr><td>Reference</td><td>Book 51 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2583 |
+| Arabic No | 2583 |
+| Reference | Book 51 Hadith 18 |

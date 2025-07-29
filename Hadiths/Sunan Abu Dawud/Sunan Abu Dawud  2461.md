@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي الزِّنَادِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا دُعِيَ أَحَدُكُمْ إِلَى طَعَامٍ وَهُوَ صَائِمٌ فَلْيَقُلْ إِنِّي صَائِمٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
+
 حدثنا مسدد، حدثنا سفيان، عن ابي الزناد، عن الاعرج، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " اذا دعي احدكم الى طعام وهو صايم فليقل اني صايم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কোনো (সওম পালনকারী) ব্যক্তিকে খাবার দাওয়াত দেয়া হলে সে যেন বলে, নিশ্চয় আমি রোযাদার।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কোনো (সওম পালনকারী) ব্যক্তিকে খাবার দাওয়াত দেয়া হলে সে যেন বলে, নিশ্চয় আমি রোযাদার।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported Messenger of Allah (ﷺ) as saying:When one of you is invited (to a meal), and he is fasting, he should say that he is fasting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Quand l’un de vous est invité à un repas et qu’il est en train de jeûner, qu’il dise qu’il jeûne. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Sufyan\], dari \[Abu Az Zinad\], dari \[Al A'raj\], dari \[Abu Hurairah\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian diundang untuk makan sementara ia sedang berpuasa, hendaknya ia mengatakan; saya sedang berpuasa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Sufyan], dari [Abu Az Zinad], dari [Al A'raj], dari [Abu Hurairah], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian diundang untuk makan sementara ia sedang berpuasa, hendaknya ia mengatakan; saya sedang berpuasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кого-то из вас позвали поесть, а он в это время постится, пусть он скажет: “Поистине, я пощусь”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.), "Nebi (s.a.v.) şöyle buyurdu" demiştir: "Biriniz oruçlu iken yemeğe davet edildiği zaman "ben oruçluyum" desin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1150) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1150)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2461</td></tr><tr><td>Arabic No</td><td>2461</td></tr><tr><td>Reference</td><td>Book 14 Hadith 149</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2461 |
+| Arabic No | 2461 |
+| Reference | Book 14 Hadith 149 |

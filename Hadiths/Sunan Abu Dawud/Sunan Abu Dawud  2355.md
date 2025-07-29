@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا عَبْدُ الْوَاحِدِ بْنُ زِيَادٍ، عَنْ عَاصِمٍ الأَحْوَلِ، عَنْ حَفْصَةَ بِنْتِ سِيرِينَ، عَنِ الرَّبَابِ، عَنْ سَلْمَانَ بْنِ عَامِرٍ، عَمِّهَا قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا كَانَ أَحَدُكُمْ صَائِمًا فَلْيُفْطِرْ عَلَى التَّمْرِ فَإِنْ لَمْ يَجِدِ التَّمْرَ فَعَلَى الْمَاءِ فَإِنَّ الْمَاءَ طَهُورٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
+
 حدثنا مسدد، حدثنا عبد الواحد بن زياد، عن عاصم الاحول، عن حفصة بنت سيرين، عن الرباب، عن سلمان بن عامر، عمها قال قال رسول الله صلى الله عليه وسلم " اذا كان احدكم صايما فليفطر على التمر فان لم يجد التمر فعلى الماء فان الماء طهور
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
 
 ## Bengali
 
+। সালমান ইবনু ‘আমির (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেই সওম রাখলে যেন খেজুর দিয়ে ইফতার করে। খেজুর না পেলে পানি দিয়ে ইফতার করবে। কেননা পানি পবিত্রকারী।\[1\] দুর্বলঃ যঈফ সুনান আত-তিরমিযী (১০১/৬৬১, ১১০/৬৯৯), যঈফ সুনান ইবনু মাজাহ (৩৭৪), ইরওয়া (৯২২)।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সালমান ইবনু ‘আমির (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেই সওম রাখলে যেন খেজুর দিয়ে ইফতার করে। খেজুর না পেলে পানি দিয়ে ইফতার করবে। কেননা পানি পবিত্রকারী।[1] দুর্বলঃ যঈফ সুনান আত-তিরমিযী (১০১/৬৬১, ১১০/৬৯৯), যঈফ সুনান ইবনু মাজাহ (৩৭৪), ইরওয়া (৯২২)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Salman ibn Amir: The Prophet (ﷺ) said: When one of you is fasting, he should break his fast with dates; but if he cannot get any, then (he should break his fast) with water, for water is purifying
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
+
+## French
+
+Rapporté par Salman ibn Amir رضي الله عنه : Le Prophète ﷺ a dit : « Quand l’un de vous jeûne, qu’il rompe son jeûne avec des dattes ; s’il n’en trouve pas, alors avec de l’eau, car l’eau purifie. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Abdul Wahid bin Ziyad\] dari \['Ashim Al Ahwal\], dari \[Hafshah binti Sirin\] dari \[Ar Rabab\] dari \[Salman bin 'Amir yang merupakan pamannya\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian sedang berpuasa, maka hendaknya ia berbuka dengan kurma, apabila ia tidak mendapatkan kurma hendaknya dengan air, karena sesungguhnya air dapat membersihkan (zhahir dan batin, atau menghilangkan rasa haus)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abdul Wahid bin Ziyad] dari ['Ashim Al Ahwal], dari [Hafshah binti Sirin] dari [Ar Rabab] dari [Salman bin 'Amir yang merupakan pamannya], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila salah seorang diantara kalian sedang berpuasa, maka hendaknya ia berbuka dengan kurma, apabila ia tidak mendapatkan kurma hendaknya dengan air, karena sesungguhnya air dapat membersihkan (zhahir dan batin, atau menghilangkan rasa haus)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Сальмана ибн ‘Амира, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Если кто-то из вас постится, пусть он разговляется финиками, а если не найдёт фиников, тогда водой, ибо вода очищает»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Selmân b. Amir'den; demiştirki; "Rasûlullah (s.a.v.); "Sîzden bîriniz oruçlu olduğu zaman hurma ile, hurma bulamazsa su ile iftar etsin. Çünkü su temizleyicidir." buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلمان بن عامر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی روزے سے ہو تو اسے کھجور ۱؎سے روزہ افطار کرنا چاہیئے اگر کھجور نہ پائے تو پانی سے کر لے اس لیے کہ وہ پاکیزہ چیز ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2355</td></tr><tr><td>Arabic No</td><td>2355</td></tr><tr><td>Reference</td><td>Book 14 Hadith 43</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2355 |
+| Arabic No | 2355 |
+| Reference | Book 14 Hadith 43 |

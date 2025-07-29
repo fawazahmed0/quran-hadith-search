@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعُ بْنُ الْجَرَّاحِ، حَدَّثَنَا الْوَلِيدُ بْنُ عَبْدِ اللَّهِ بْنِ جُمَيْعٍ، قَالَ حَدَّثَتْنِي جَدَّتِي، وَعَبْدُ الرَّحْمَنِ بْنُ خَلاَّدٍ الأَنْصَارِيُّ، عَنْ أُمِّ وَرَقَةَ بِنْتِ نَوْفَلٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم لَمَّا غَزَا بَدْرًا قَالَتْ قُلْتُ لَهُ يَا رَسُولَ اللَّهِ ائْذَنْ لِي فِي الْغَزْوِ مَعَكَ أُمَرِّضُ مَرْضَاكُمْ لَعَلَّ اللَّهَ أَنْ يَرْزُقَنِي شَهَادَةً ‏.‏ قَالَ ‏ "‏ قِرِّي فِي بَيْتِكِ فَإِنَّ اللَّهَ تَعَالَى يَرْزُقُكِ الشَّهَادَةَ ‏"‏ ‏.‏ قَالَ فَكَانَتْ تُسَمَّى الشَّهِيدَةَ ‏.‏ قَالَ وَكَانَتْ قَدْ قَرَأَتِ الْقُرْآنَ فَاسْتَأْذَنَتِ النَّبِيَّ صلى الله عليه وسلم أَنْ تَتَّخِذَ فِي دَارِهَا مُؤَذِّنًا فَأَذِنَ لَهَا قَالَ وَكَانَتْ دَبَّرَتْ غُلاَمًا لَهَا وَجَارِيَةً فَقَامَا إِلَيْهَا بِاللَّيْلِ فَغَمَّاهَا بِقَطِيفَةٍ لَهَا حَتَّى مَاتَتْ وَذَهَبَا فَأَصْبَحَ عُمَرُ فَقَامَ فِي النَّاسِ فَقَالَ مَنْ كَانَ عِنْدَهُ مِنْ هَذَيْنِ عِلْمٌ أَوْ مَنْ رَآهُمَا فَلْيَجِئْ بِهِمَا فَأَمَرَ بِهِمَا فَصُلِبَا فَكَانَا أَوَّلَ مَصْلُوبٍ بِالْمَدِينَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا وكيع بن الجراح، حدثنا الوليد بن عبد الله بن جميع، قال حدثتني جدتي، وعبد الرحمن بن خلاد الانصاري، عن ام ورقة بنت نوفل، ان النبي صلى الله عليه وسلم لما غزا بدرا قالت قلت له يا رسول الله ايذن لي في الغزو معك امرض مرضاكم لعل الله ان يرزقني شهادة . قال " قري في بيتك فان الله تعالى يرزقك الشهادة " . قال فكانت تسمى الشهيدة . قال وكانت قد قرات القران فاستاذنت النبي صلى الله عليه وسلم ان تتخذ في دارها موذنا فاذن لها قال وكانت دبرت غلاما لها وجارية فقاما اليها بالليل فغماها بقطيفة لها حتى ماتت وذهبا فاصبح عمر فقام في الناس فقال من كان عنده من هذين علم او من راهما فليجي بهما فامر بهما فصلبا فكانا اول مصلوب بالمدينة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
 
 ## Bengali
 
+। উম্মু ওয়ারক্বাহ বিনতু নাওফাল (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বদরের যুদ্ধে গেলেন তখন আমি বললাম, হে আল্লাহর রসূল! আমাকে আপনার সাথে জিহাদে যাওয়ার অনুমতি দিন। আমি পীড়িত-আহতদের সেবা করব। হয়তো মহান আল্লাহ আমাকেও শাহাদাতের মর্যাদা দিবেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি তোমার ঘরেই অবস্থান কর। মহান আল্লাহ তোমাকে শাহাদাতের মর্যাদা দান করবেন। বর্ণনাকারী বলেন, ঐদিন থেকে উক্ত মহিলার নাম হয়ে গেল শাহীদাহ্। তিনি কুরআন মাজীদ ভাল পড়তেন। সেজন্য তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে অনুমতি চাইলে তিনি তার ঘরে একজন মুয়াজ্জিন নিয়োগের অনুমতি দিলেন। তিনি একটি দাস ও একটি বোবা দাসীকে তার মৃত্যুর পর আযাদ করে দেয়ার চুক্তি করেছিলেন। তারা (দাস ও দাসী) দু’জন রাতে উঠে তার নিকট গিয়ে তাঁর চাদর দিয়ে তাকে চেপে ধরে হত্যা করে উভয়ে পালিয়ে যায়। প্রত্যুষে এটা ‘উমার (রাঃ) জানতে পেরে লোকদের জানিয়ে দিলেন, এ দু’টি গোলাম-বাঁদী সম্পর্কে কারো জানা থাকলে বা তাদেরকে কেউ দেখে থাকলে, তাদের যেন (ধরে) নিয়ে আসে। (তারা গ্রেফতার হলে) তাদেরকে নির্দেশ মোতাবেক শূলে চড়ানো হয়। মাদীনাতে তাদের দু’জনকেই সর্বপ্রথম শূলে চড়ানো হয়।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উম্মু ওয়ারক্বাহ বিনতু নাওফাল (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন বদরের যুদ্ধে গেলেন তখন আমি বললাম, হে আল্লাহর রসূল! আমাকে আপনার সাথে জিহাদে যাওয়ার অনুমতি দিন। আমি পীড়িত-আহতদের সেবা করব। হয়তো মহান আল্লাহ আমাকেও শাহাদাতের মর্যাদা দিবেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি তোমার ঘরেই অবস্থান কর। মহান আল্লাহ তোমাকে শাহাদাতের মর্যাদা দান করবেন। বর্ণনাকারী বলেন, ঐদিন থেকে উক্ত মহিলার নাম হয়ে গেল শাহীদাহ্। তিনি কুরআন মাজীদ ভাল পড়তেন। সেজন্য তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কাছে অনুমতি চাইলে তিনি তার ঘরে একজন মুয়াজ্জিন নিয়োগের অনুমতি দিলেন। তিনি একটি দাস ও একটি বোবা দাসীকে তার মৃত্যুর পর আযাদ করে দেয়ার চুক্তি করেছিলেন। তারা (দাস ও দাসী) দু’জন রাতে উঠে তার নিকট গিয়ে তাঁর চাদর দিয়ে তাকে চেপে ধরে হত্যা করে উভয়ে পালিয়ে যায়। প্রত্যুষে এটা ‘উমার (রাঃ) জানতে পেরে লোকদের জানিয়ে দিলেন, এ দু’টি গোলাম-বাঁদী সম্পর্কে কারো জানা থাকলে বা তাদেরকে কেউ দেখে থাকলে, তাদের যেন (ধরে) নিয়ে আসে। (তারা গ্রেফতার হলে) তাদেরকে নির্দেশ মোতাবেক শূলে চড়ানো হয়। মাদীনাতে তাদের দু’জনকেই সর্বপ্রথম শূলে চড়ানো হয়।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umm Waraqah daughter of Nawfal: When the Prophet (ﷺ) proceeded for the Battle of Badr, I said to him: Messenger of Allah allow me to accompany you in the battle. I shall act as a nurse for patients. It is possible that Allah might bestow martyrdom upon me. He said: Stay at your home. Allah, the Almighty , will bestow martyrdom upon you. The narrator said: Hence she was called martyr. She read the Qur'an. She sought permission from the Prophet (ﷺ) to have a mu'adhdhin in her house. He, therefore, permitted her (to do so). She announced that her slave and slave-girl would be free after her death. One night they went to her and strangled her with a sheet of cloth until she died, and they ran away. Next day Umar announced among the people, "Anyone who has knowledge about them, or has seen them, should bring them (to him)." Umar (after their arrest) ordered (to crucify them) and they were crucified. This was the first crucifixion at Medina
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
+
+## French
+
+Rapporté par Umm Waraqah, fille de Nawfal : Quand le Prophète ﷺ partit pour la bataille de Badr, je lui ai dit : « Messager d’Allah, permets-moi de t’accompagner à la bataille. Je soignerai les blessés. Peut-être qu’Allah m’accordera le martyre. » Il a dit : « Reste chez toi. Allah, le Tout-Puissant, t’accordera le martyre. » Le narrateur a dit : C’est pourquoi on l’appelait « la martyre ». Elle récitait le Coran. Elle a demandé la permission au Prophète ﷺ d’avoir un muezzin chez elle. Il le lui a permis. Elle a annoncé que son esclave et son esclave-femme seraient libres après sa mort. Une nuit, ils sont venus chez elle et l’ont étranglée avec un tissu jusqu’à ce qu’elle meure, puis ils se sont enfuis. Le lendemain, Omar a annoncé parmi les gens : « Celui qui a des informations sur eux, ou les a vus, doit les amener. » Omar (après leur arrestation) a ordonné de les crucifier, et ils ont été crucifiés. Ce fut la première crucifixion à Médine
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Utsman bin Abi Syaibah\] telah menceritakan kepada kami \[Waki' bin Al-Jarrah\] telah menceritakan kepada kami \[Al-Walid bin Abdullah bin Jumai'\] dia berkata; Telah menceritakan kepadaku \[Nenekku\] dan \[Abdurrahman bin Khallad Al-Anshari\] dari \[Ummu Waraqah binti Abdillah bin Naufal Al-Anshariyah\] bahwasanya Nabi shallallahu 'alaihi wasallam ketika menuju ke pertempuran badar, dia berkata; saya bertanya kepada beliau; Ya Rasulullah, izinkanlah saya ikut serta dalam peperangan bersamamu untuk merawat prajurit-prajurit yang sakit, mudah mudahan Allah menganugerahkan kepadaku mati syahid. Beliau bersabda; "Tetaplah di rumahmu, sesungguhnya Ta'ala akan menganugerahkan kepadamu mati syahid." Perawi Hadits ini berkata; Karena itulah dia disebut Asy Syahidah (wanita yang mati syahid). Kata perawi; Dia adalah ahli Al Quran, lalu dia meminta izin kepada Nabi shallallahu 'alaihi wasallam supaya diperbolehkan mengambil seorang muadzin di rumahnya. Lalu beliau mengizinkannya. Katanya; Dia membuat kedua budaknya yang laki laki dan perempuan sebagai budak Mudabbar (budak yang dijanjikan merdeka sepeninggal tuannya). Pada suatu malam, kedua budak itu bangun dan pergi kepadanya, Ialu menyelubungkan sehelai kain tutup mukanya ke wajahnya sampai wanita itu meninggal, sementara kedua budak itu melarikan diri. Pada keesokan harinya, Umar berdiri di hadapan orang banyak, lalu berkata; Barangsiapa yang mengetahui kedua atau melihat kedua budak ini, hendaklah membawanya kemari! Setelah tertangkap, maka keduanya diperintahkan untuk disalib. Kedua budak inilah orang yang pertama kali disalib di kota Madinah. Telah menceritakan kepada kami \[Al-Hasan bin Hammad Al-Hadlrami\] telah menceritakan kepada kami \[Muhammad bin Fudlail\] dari \[Al-Walid bin Jumai'\] dari \[Abdurrahman bin Khallad\] dari \[Ummu Waraqah binti Abdullah bin Al-Harits\] dengan hadits ini, namun yang pertama lebih lengkap. Dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah berkunjung ke rumahnya dan beliau mengangkat seorang muadzin yang menyerukan adzan untuknya dan beliau mengizinkan Ummu Waraqah menjadi imam keluarganya. Abdurrahman berkata; Saya melihat muadzinnya adalah seorang laki laki yang sudah tua
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Utsman bin Abi Syaibah] telah menceritakan kepada kami [Waki' bin Al-Jarrah] telah menceritakan kepada kami [Al-Walid bin Abdullah bin Jumai'] dia berkata; Telah menceritakan kepadaku [Nenekku] dan [Abdurrahman bin Khallad Al-Anshari] dari [Ummu Waraqah binti Abdillah bin Naufal Al-Anshariyah] bahwasanya Nabi shallallahu 'alaihi wasallam ketika menuju ke pertempuran badar, dia berkata; saya bertanya kepada beliau; Ya Rasulullah, izinkanlah saya ikut serta dalam peperangan bersamamu untuk merawat prajurit-prajurit yang sakit, mudah mudahan Allah menganugerahkan kepadaku mati syahid. Beliau bersabda; "Tetaplah di rumahmu, sesungguhnya Ta'ala akan menganugerahkan kepadamu mati syahid." Perawi Hadits ini berkata; Karena itulah dia disebut Asy Syahidah (wanita yang mati syahid). Kata perawi; Dia adalah ahli Al Quran, lalu dia meminta izin kepada Nabi shallallahu 'alaihi wasallam supaya diperbolehkan mengambil seorang muadzin di rumahnya. Lalu beliau mengizinkannya. Katanya; Dia membuat kedua budaknya yang laki laki dan perempuan sebagai budak Mudabbar (budak yang dijanjikan merdeka sepeninggal tuannya). Pada suatu malam, kedua budak itu bangun dan pergi kepadanya, Ialu menyelubungkan sehelai kain tutup mukanya ke wajahnya sampai wanita itu meninggal, sementara kedua budak itu melarikan diri. Pada keesokan harinya, Umar berdiri di hadapan orang banyak, lalu berkata; Barangsiapa yang mengetahui kedua atau melihat kedua budak ini, hendaklah membawanya kemari! Setelah tertangkap, maka keduanya diperintahkan untuk disalib. Kedua budak inilah orang yang pertama kali disalib di kota Madinah. Telah menceritakan kepada kami [Al-Hasan bin Hammad Al-Hadlrami] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Al-Walid bin Jumai'] dari [Abdurrahman bin Khallad] dari [Ummu Waraqah binti Abdullah bin Al-Harits] dengan hadits ini, namun yang pertama lebih lengkap. Dia berkata; Rasulullah shallallahu 'alaihi wasallam pernah berkunjung ke rumahnya dan beliau mengangkat seorang muadzin yang menyerukan adzan untuknya dan beliau mengizinkan Ummu Waraqah menjadi imam keluarganya. Abdurrahman berkata; Saya melihat muadzinnya adalah seorang laki laki yang sudah tua
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Умм Уаракъи бинт Науфаль о том, что когда Пророк ﷺ (решил) отправиться на битву при Бадре, она сказала (ему): «Я сказала: “О Посланник Аллаха, позволь мне отправиться с тобой в поход! Я буду лечить ваших больных, и возможно, что Аллах дарует мне смерть мученицы (шахада)”. Он ответил: “Оставайся у себя дома, и поистине, Всевышний Аллах даст тебе смерть мученицы”».(Передатчик этого хадиса) сказал: «И её прозвали “Мученица”. Она была чтецом Корана и попросила у Пророка ﷺ разрешения назначить (кого-нибудь) муаззином у себя дома и он разрешил ей».(Передатчик этого хадиса) сказал: «Она объявила, что её раб и рабыня будут свободны после её смерти, и, однажды ночью они отправились к ней и душили её покрывалом, принадлежавшим ей, пока она не умерла, после чего они скрылись. На следующее утро ‘Умар встал среди людей и объявил: “Если кто-то знает что-нибудь о них, или видел их, пусть приведёт их”. (А после того, как они были задержаны, ‘Умар) велел их распять и их распяли, и они были первыми, с кем это сделали в Медине».Шейх аль-Альбани сказал: «Хороший достоверный хадис /хасан сахих/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdurrahman b. Hallad el-Ensari, Ummü Veraka binti Nevfel'den rivayet etmiştir: Resulullah (Sallallahu aleyhi ve Sellem) Bedr savaş'ına çıkacağı zaman kendisine dedim ki: "Ya Resulullah seninle beraber savaş'a çıkmama izin ver de hastaları tedavi edeyim. Belki yüce Allah (bu sayede) bana şehidlik nasib eder." Resulullah (Sallallahu aleyhi ve Sellem) da şöyle) cevap verdi: "Evinde kal, muhakkak Allah (c.c.) sana şehitliği nasib edecektir" (Vekî' b. Cerrah) der ki; Ona "şehide" denirdi. (el-Velîd) der ki: (Ümmü Veraka) Kur'an okurdu, evinde özel müezzin bulundurmak için Nebi (Sallallahu aleyhi ve Sellem)'den izin istemiş, (Nebi Sallallahu aleyhi ve Sellem) O'na izin vermişti. (Veki') der ki; Ümmü Veraka'ya ait bir köle ile cariye vardı. Ölümünden sonra onların hür olacaklarını ifade etmişti. Bu köle ile cariye bir gece kalktılar, o'nu bir kadife ile boğup öldürdüler. Sonra da kaçıp gittiler. Hz. Ömer (r.a.) sabahleyin bunu duydu ve halka hitaben bir konuşma yaparak; "Kim bunları bilir" veya "görürse, yakalayıp getirsin" dedi. Nihayet Ömer (r.a.) onların (asılmasını) emretti de asıldılar ve Medine'de ilk asılan kimseler oldular." Hadisi sadece Ebu Davud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام ورقہ بنت عبداللہ بن نوفل انصاریہ رضی اللہ عنہا فرماتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جب غزوہ بدر میں جانے لگے تو میں نے آپ سے کہا: اللہ کے رسول! اپنے ساتھ مجھے بھی جہاد میں چلنے کی اجازت دیجئیے، میں آپ کے بیماروں کی خدمت کروں گی، شاید اللہ تعالیٰ مجھے بھی شہادت نصیب فرمائے، آپ صلی اللہ علیہ وسلم نے فرمایا: تم اپنے گھر میں بیٹھی رہو، اللہ تمہیں شہادت نصیب کرے گا ۔ راوی کہتے ہیں: چنانچہ انہیں شہیدہ کہا جاتا تھا، وہ کہتے ہیں: ام ورقہ رضی اللہ عنہا نے قرآن پڑھ رکھا تھا، رسول اللہ صلی اللہ علیہ وسلم سے اپنے گھر میں مؤذن مقرر کرنے کی اجازت چاہی، تو آپ نے انہیں اس کی اجازت دی، اپنے ایک غلام اور ایک لونڈی کو اپنے مر جانے کے بعد آزاد کر دینے کی وصیت کر دی تھی، چنانچہ وہ دونوں ( یعنی غلام اور لونڈی ) رات کو ام ورقہ رضی اللہ عنہا کے پاس گئے اور انہی کی ایک چادر سے ان کا گلا گھونٹ دیا یہاں تک کہ وہ مر گئیں اور وہ دونوں بھاگ نکلے، صبح ہوئی تو عمر رضی اللہ عنہ لوگوں میں کھڑے ہو کر اعلان کیا کہ ان دونوں کے متعلق جس کو بھی کچھ معلوم ہو، یا جس نے بھی ان دونوں کو دیکھا ہو وہ انہیں پکڑ کر لائے، ( چنانچہ وہ پکڑ کر لائے گئے ) تو آپ نے ان دونوں کے متعلق حکم دیا تو انہیں سولی دے دی گئی، یہی دونوں تھے جنہیں مدینہ منورہ میں سب سے پہلے سولی دی گئی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>591</td></tr><tr><td>Arabic No</td><td>591</td></tr><tr><td>Reference</td><td>Book 2 Hadith 201</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 591 |
+| Arabic No | 591 |
+| Reference | Book 2 Hadith 201 |

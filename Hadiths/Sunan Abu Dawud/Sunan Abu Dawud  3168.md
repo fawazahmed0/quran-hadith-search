@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا سُفْيَانُ، عَنْ سُمَىٍّ، عَنْ أَبِي صَالِحٍ، عَنْ أَبِي هُرَيْرَةَ، يَرْوِيهِ قَالَ مَنْ تَبِعَ جَنَازَةً فَصَلَّى عَلَيْهَا فَلَهُ قِيرَاطٌ وَمَنْ تَبِعَهَا حَتَّى يُفْرَغَ مِنْهَا فَلَهُ قِيرَاطَانِ أَصْغَرُهُمَا مِثْلُ أُحُدٍ أَوْ أَحَدُهُمَا مِثْلُ أُحُدٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
+
 حدثنا مسدد، حدثنا سفيان، عن سمى، عن ابي صالح، عن ابي هريرة، يرويه قال من تبع جنازة فصلى عليها فله قيراط ومن تبعها حتى يفرغ منها فله قيراطان اصغرهما مثل احد او احدهما مثل احد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরা (রাঃ) সূত্রে বর্ণিত। তিনি বলেনঃ (নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন), যে ব্যক্তি লাশের অনুগমন করে এবং তার জানাযা আদায় করে তার জন্য এক ক্বীরাত সওয়াব রয়েছে। আর যে ব্যক্তি লাশের অনুগমন করে এবং দাফন শেষ করা পর্যন্ত শরীক থাকে তার জন্য রয়েছে দু’ ক্বীরাত সওয়াব। এ দু’ ক্বীরাতের ছোট ক্বীরাতটি উহুদ পাহাড়ের সমান অথবা উভয়ের একটি উহুদ পাহাড়ের সমান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurairah:If anyone attends the funeral and prays over (the dead), he will get the reward of one qirat, and if anyone attends the funeral until the completion (of the burial), he will get the reward of two qirats, the smaller of them being equivalent of Uhud, or one of them being equivalent to Uhud
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Si quelqu’un assiste à des funérailles et prie pour le défunt, il aura la récompense d’un qirat, et s’il reste jusqu’à l’enterrement, il aura la récompense de deux qirats, dont le plus petit équivaut à la montagne d’Uhud, ou l’un d’eux équivaut à Uhud
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Хурайра, да будет доволен им Аллах, передаёт, (что Посланник Аллаха ﷺ сказал): «Кто проводил погребальные носилки и совершил погребальную молитву, тому достанется один карат награды, а кто остался до конца погребения, получит два карата награды, наименьший из которых (или: один из которых) величиной с гору Ухуд»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre Hz. Nebi'den naklen demiştir ki: '-Kim cenazeye uya(rak musallaya kadar gide)r de, üzerine na­maz kılarsa ona bir kırat (ağırlığınca sevap) vardır. Kim (namazdan sonra da) ona uyar(ak kabrine kadar gidip, defni) sona erinceye kadar (başında durursa), ona en küçüğü Uhud dağı kadar -veyahut da birisi Uhud dağı kadar- (olan) iki kırat (ağırlığında sevap) vardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ جو شخص جنازہ کے ساتھ جائے اور نماز جنازہ پڑھے تو اسے ایک قیراط ( کا ثواب ) ملے گا، اور جو جنازہ کے ساتھ جائے اور اس کے دفنانے تک ٹھہرا رہے تو اسے دو قیراط ( کا ثواب ) ملے گا، ان میں سے چھوٹا قیراط یا ان میں سے ایک قیراط احد پہاڑ کے برابر ہو گا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3168</td></tr><tr><td>Arabic No</td><td>3168</td></tr><tr><td>Reference</td><td>Book 21 Hadith 80</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3168 |
+| Arabic No | 3168 |
+| Reference | Book 21 Hadith 80 |

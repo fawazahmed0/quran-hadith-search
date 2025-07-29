@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا هُشَيْمٌ، ح وَحَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، أَخْبَرَنَا هُشَيْمٌ، عَنِ ابْنِ أَبِي لَيْلَى، عَنْ حُمَيْضَةَ بْنِ الشَّمَرْدَلِ، عَنِ الْحَارِثِ بْنِ قَيْسٍ، - قَالَ مُسَدَّدٌ ابْنِ عُمَيْرَةَ ‏.‏ وَقَالَ وَهْبٌ الأَسَدِيِّ - قَالَ أَسْلَمْتُ وَعِنْدِي ثَمَانُ نِسْوَةٍ فَذَكَرْتُ ذَلِكَ لِلنَّبِيِّ صلى الله عليه وسلم فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ اخْتَرْ مِنْهُنَّ أَرْبَعًا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدَّثَنَا بِهِ أَحْمَدُ بْنُ إِبْرَاهِيمَ حَدَّثَنَا هُشَيْمٌ بِهَذَا الْحَدِيثِ فَقَالَ قَيْسُ بْنُ الْحَارِثِ مَكَانَ الْحَارِثِ بْنِ قَيْسٍ قَالَ أَحْمَدُ بْنُ إِبْرَاهِيمَ هَذَا الصَّوَابُ ‏.‏ يَعْنِي قَيْسَ بْنَ الْحَارِثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
+
 حدثنا مسدد، حدثنا هشيم، ح وحدثنا وهب بن بقية، اخبرنا هشيم، عن ابن ابي ليلى، عن حميضة بن الشمردل، عن الحارث بن قيس، - قال مسدد ابن عميرة . وقال وهب الاسدي - قال اسلمت وعندي ثمان نسوة فذكرت ذلك للنبي صلى الله عليه وسلم فقال النبي صلى الله عليه وسلم " اختر منهن اربعا " . قال ابو داود وحدثنا به احمد بن ابراهيم حدثنا هشيم بهذا الحديث فقال قيس بن الحارث مكان الحارث بن قيس قال احمد بن ابراهيم هذا الصواب . يعني قيس بن الحارث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
 
 ## Bengali
 
+। হারিস ইবনু কায়িস ইবনু ‘উমাইর আল-আসাদী (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি যখন ইসলাম গ্রহণ করি তখন আমার আটজন স্ত্রী ছিলো। বিষয়টি আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জানালে তিনি বলেনঃ তাদের যে কোনো চারজনকে বেছে নাও।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হারিস ইবনু কায়িস ইবনু ‘উমাইর আল-আসাদী (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি যখন ইসলাম গ্রহণ করি তখন আমার আটজন স্ত্রী ছিলো। বিষয়টি আমি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে জানালে তিনি বলেনঃ তাদের যে কোনো চারজনকে বেছে নাও।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Harith ibn Qays al-Asadi: I embraced Islam while I had eight wives. So I mentioned it to the Prophet (ﷺ). The Prophet (said) said: Select four of them. Abu Dawud said: This tradition has also been narrated to us by Ahmad b. Ibrahim from Hushaim. He said: Qais b. al-Harith instead of al-Harith b. Qais. Ahmad b. Ibrahim said: This is correct, i.e. Qais b. al-Harith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
+
+## French
+
+Rapporté par Al-Harith ibn Qays al-Asadi رضي الله عنه : J’ai embrassé l’islam alors que j’avais huit femmes. J’en ai parlé au Prophète ﷺ. Le Prophète ﷺ m’a dit : « Choisis-en quatre. » Abu Dawud a dit : Cette tradition nous a aussi été rapportée par Ahmad b. Ibrahim, de Hushaim, qui a dit : Qais b. al-Harith au lieu de al-Harith b. Qais. Ahmad b. Ibrahim a dit : C’est bien Qais b. al-Harith
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Husyaim\], telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami \[Wahb bin Baqiyyah\], telah mengabarkan kepada kami \[Husyaim\] dari \[Ibnu Abu Laila\] dari \[Humaidhah bin Asy Syamardal\], dari \[Al Harits bin Qais\], ia berkata; Musaddad bin 'Umairah, dan telah berkata Wahb Al Asadi; aku masuk Islam delapan, kemudian aku menceritakannya kepada Nabi shallallahu 'alaihi wasallam. Nabi shallallahu 'alaihi wasallam bersabda: "Pilihlah empat orang diantara mereka." Abu Daud berkata; dan \[Ahmad bin Ibrahim\] telah menceritakannya kepada kami, telah menceritakan kepada kami \[Husyaim\] dengan hadits ini, telah berkata \[Qais bin Al Harits\] -sebagai ganti Al Harits bin Qais, Ahmad bin Ibrahim berkata; inilah yang benar, yaitu bernama Qais bin Al Harits, telah menceritakan kepada kami \[Ahmad bin Ibrahim\], telah menceritakan kepada kami \[Bakr bin Abdurrahman\] seorang hakim di Kufah, dari \[Isa bin Al Mukhtar\] dari \[Ibnu Abu Laila\], dari \[Humaishah bin Aisyah Syamardal\] dari \[Qais bin Al Harits\] dengan maknanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Husyaim], telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Wahb bin Baqiyyah], telah mengabarkan kepada kami [Husyaim] dari [Ibnu Abu Laila] dari [Humaidhah bin Asy Syamardal], dari [Al Harits bin Qais], ia berkata; Musaddad bin 'Umairah, dan telah berkata Wahb Al Asadi; aku masuk Islam delapan, kemudian aku menceritakannya kepada Nabi shallallahu 'alaihi wasallam. Nabi shallallahu 'alaihi wasallam bersabda: "Pilihlah empat orang diantara mereka." Abu Daud berkata; dan [Ahmad bin Ibrahim] telah menceritakannya kepada kami, telah menceritakan kepada kami [Husyaim] dengan hadits ini, telah berkata [Qais bin Al Harits] -sebagai ganti Al Harits bin Qais, Ahmad bin Ibrahim berkata; inilah yang benar, yaitu bernama Qais bin Al Harits, telah menceritakan kepada kami [Ahmad bin Ibrahim], telah menceritakan kepada kami [Bakr bin Abdurrahman] seorang hakim di Kufah, dari [Isa bin Al Mukhtar] dari [Ibnu Abu Laila], dari [Humaishah bin Aisyah Syamardal] dari [Qais bin Al Harits] dengan maknanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от аль-Хариса аль-Асади: «Когда я принял ислам, у меня было восемь жён. Я рассказал об этом Пророку ﷺ и Пророк ﷺ сказал: “Выбери четырёх из них”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 El-Hâris b. Kays'dan; demiştir ki: "Ben (nikahlım olarak) yanımda sekiz tane kadın varken müslüman olmuştum. Bunu Nebi (s.a.v.)'e anlattım. Rasûlullah (s.a.v.); "Bunlardan dördünü (kendine) seç (diğerlerini bırak)" buyurdu. ibn Mâce, nikah; Beyhakî, es-Sünenü'I-kübra, VII, 183. Ebu Davud dedi ki: "Bize bu hadisi Ahmed b. İbrahim de Hüşeym'den (naklen) rivayet etti ve Ahmed b. İbrahim (bu hadisin senedinde zikredilen) el-Haris b. Kays'ın yerinde Kays B. el-Hâris (vardır senedin bu şekilde düzeltilmesi gerekir) dedi. Ahmed b. İbrahim, Kays b. el-Haris'i kasdederek: "Doğrusu budur" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حارث بن قیس اسدی رضی اللہ عنہ کہتے ہیں میں نے اسلام قبول کیا، میرے پاس آٹھ بیویاں تھیں تو میں نے اس کا ذکر نبی اکرم صلی اللہ علیہ وسلم سے کیا، آپ صلی اللہ علیہ وسلم نے فرمایا: ان میں سے چار کا انتخاب کر لو ( اور باقی کو طلاق دے دو ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2241</td></tr><tr><td>Arabic No</td><td>2241</td></tr><tr><td>Reference</td><td>Book 13 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2241 |
+| Arabic No | 2241 |
+| Reference | Book 13 Hadith 67 |

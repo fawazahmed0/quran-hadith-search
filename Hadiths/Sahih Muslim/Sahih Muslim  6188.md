@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، عَنْ عُمَرَ بْنِ سَعِيدٍ، فِي هَذَا الإِسْنَادِ بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا اسحاق بن ابراهيم، اخبرنا عيسى بن يونس، عن عمر بن سعيد، في هذا الاسناد بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) ইসহাক ইবনু ইবরাহীম (রহঃ) ..... 'উমার ইবনু সাঈদ (রহঃ) হতে একই সূত্রে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৭২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of 'Umar b. Sa'id with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## French
 
+Rapporté par Umar ibn Sa'id : Ce hadith a été rapporté avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-14) Bize İshâk b. İbrahim de rivayet etti. (Dediki): Bize isa b. Yûnus, Ömer b. Said'den bu isnadda bu hadisin mislini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عیسیٰ بن یونس نے عمربن سعید سے اسی سند سے اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6188</td></tr><tr><td>Arabic No</td><td>2389.02</td></tr><tr><td>Reference</td><td>Book 44 Hadith 19</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6188 |
+| Arabic No | 2389.02 |
+| Reference | Book 44 Hadith 19 |

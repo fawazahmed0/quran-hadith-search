@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَلِيُّ بْنُ بَحْرِ بْنِ بَرِّيٍّ، حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا مُحَمَّدُ بْنُ عَجْلاَنَ، عَنْ نَافِعٍ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا خَرَجَ ثَلاَثَةٌ فِي سَفَرٍ فَلْيُؤَمِّرُوا أَحَدَهُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
+
 حدثنا علي بن بحر بن بري، حدثنا حاتم بن اسماعيل، حدثنا محمد بن عجلان، عن نافع، عن ابي سلمة، عن ابي سعيد الخدري، ان رسول الله صلى الله عليه وسلم قال " اذا خرج ثلاثة في سفر فليومروا احدهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ তিন ব্যক্তি একত্রে সফর কলে তারা যেন নিজেদের মধ্য থেকে একজনকে আমীর বানায়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id al-Khudri: The Prophet (ﷺ) said: When three are on a journey, they should appoint one of them as their commander
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
+
+## French
+
+Rapporté par Abu Sa'id al-Khudri رضي الله عنه : Le Prophète ﷺ a dit : « Lorsque trois personnes sont en voyage, qu’elles désignent l’un d’eux comme chef. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ali bin Bahr bin Barri\], Telah menceritakan kepada kami \[Hatim bin Isma'il\], telah menceritakan kepada kami \[Muhammad bin 'Ajlan\], dari \[Nafi'\], dari \[Abu Salamah\], dari \[Abu Sa'id Al Khudri\], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila ada tiga orang yang keluar dalam suatu perjalanan, maka hendaknya mereka menunjuk salah seorang dari mereka sebagai pemimpin
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Bahr bin Barri], Telah menceritakan kepada kami [Hatim bin Isma'il], telah menceritakan kepada kami [Muhammad bin 'Ajlan], dari [Nafi'], dari [Abu Salamah], dari [Abu Sa'id Al Khudri], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Apabila ada tiga orang yang keluar dalam suatu perjalanan, maka hendaknya mereka menunjuk salah seorang dari mereka sebagai pemimpin
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Са‘ида о том, что Посланник Аллаха ﷺ сказал: «Если трое отправятся в путь, пусть назначат одного из их числа амиром»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Said el-Hudrî'den rivayet olunduğuna göre, Rasûlullah (s.a.v.): "üç kişi yolculuğa çıktığı zaman içlerinden birini başkan seçsinler" buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تین افراد کسی سفر میں ہوں تو ہوئے کہ اپنے میں سے کسی ایک کو امیر بنا لیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2608</td></tr><tr><td>Arabic No</td><td>2608</td></tr><tr><td>Reference</td><td>Book 15 Hadith 132</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2608 |
+| Arabic No | 2608 |
+| Reference | Book 15 Hadith 132 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنِي الْمُفَضَّلُ بْنُ فَضَالَةَ، عَنْ عَيَّاشِ بْنِ عَبَّاسٍ، عَنْ بُكَيْرِ بْنِ الأَشَجِّ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، عَنْ حَفْصَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ رَوَاحُ الْجُمُعَةِ وَاجِبٌ عَلَى كُلِّ مُحْتَلِمٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |
+
 اخبرني محمود بن غيلان، قال حدثنا الوليد بن مسلم، قال حدثني المفضل بن فضالة، عن عياش بن عباس، عن بكير بن الاشج، عن نافع، عن ابن عمر، عن حفصة، زوج النبي صلى الله عليه وسلم ان النبي صلى الله عليه وسلم قال " رواح الجمعة واجب على كل محتلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মাহমূদ ইবনু গায়লান (রহঃ) ... নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সহধর্মিনী হাফসা (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, জুমু'আর জন্য মধ্যাহ্নের পর যাত্রা করা প্রত্যেক সাবালক ব্যক্তির উপর ওয়াজিব।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Hafsah, the wife of the Prophet (ﷺ) that:The Prophet (ﷺ) said: "Going to Jumu'ah is obligatory for everyone who has reached the age of puberty
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |
+
+## French
+
+Rapporté par Hafsah, l'épouse du Prophète (ﷺ) : Le Prophète (ﷺ) a dit : "Aller à la prière du vendredi est obligatoire pour toute personne ayant atteint la puberté
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |
 
 ## Indonesian
 
+Telah mengabarkan kepadaku \[Mahmud bin Ghailan\] dia berkata; telah menceritakan kepada kami \[Al Walid bin Muslim\] dia berkata; telah menceritakan kepadaku \[Al Mufadhdhal bin Fadhalah\] dari \['Ayyasy bin 'Abbas\] dari \[Bukair bin Al Asyaj\] dari \[Nafi'\] dari \[Ibnu 'Umar\] dari \[Hafshah\] -istri Nabi Shalallahu 'Alaihi Wa Sallam- bahwa Nabi Shallallahu 'Alahi Wa Sallam bersabda: "Mendatangi shalat Jum'at hukumnya wajib bagi setiap (muslim) yang sudah baligh (dewasa)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepadaku [Mahmud bin Ghailan] dia berkata; telah menceritakan kepada kami [Al Walid bin Muslim] dia berkata; telah menceritakan kepadaku [Al Mufadhdhal bin Fadhalah] dari ['Ayyasy bin 'Abbas] dari [Bukair bin Al Asyaj] dari [Nafi'] dari [Ibnu 'Umar] dari [Hafshah] -istri Nabi Shalallahu 'Alaihi Wa Sallam- bahwa Nabi Shallallahu 'Alahi Wa Sallam bersabda: "Mendatangi shalat Jum'at hukumnya wajib bagi setiap (muslim) yang sudah baligh (dewasa)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین حفصہ رضی اللہ عنہا سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جمعہ کے لیے ( مسجد ) جانا ہر بالغ مرد پر فرض ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1371</td></tr><tr><td>Arabic No</td><td>1371</td></tr><tr><td>Reference</td><td>Book 14 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1371 |
+| Arabic No | 1371 |
+| Reference | Book 14 Hadith 7 |

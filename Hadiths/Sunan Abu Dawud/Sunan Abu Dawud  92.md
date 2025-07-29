@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا هَمَّامٌ، عَنْ قَتَادَةَ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَغْتَسِلُ بِالصَّاعِ وَيَتَوَضَّأُ بِالْمُدِّ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ أَبَانُ عَنْ قَتَادَةَ قَالَ سَمِعْتُ صَفِيَّةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
+
 حدثنا محمد بن كثير، حدثنا همام، عن قتادة، عن صفية بنت شيبة، عن عايشة، ان النبي صلى الله عليه وسلم كان يغتسل بالصاع ويتوضا بالمد . قال ابو داود رواه ابان عن قتادة قال سمعت صفية
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ‘সা’ পানি দিয়ে গোসল করতেন এবং এক ‘মুদ্’ পানি দিয়ে অযু করতেন। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ আবান কাতাদাহ সূত্রে বর্ণনা করেন। তিনি বলেন, আমি সাফিয়্যা (রাঃ) থেকে শুনেছি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক ‘সা’ পানি দিয়ে গোসল করতেন এবং এক ‘মুদ্’ পানি দিয়ে অযু করতেন। ইমাম আবূ দাঊদ (রহঃ) বলেনঃ আবান কাতাদাহ সূত্রে বর্ণনা করেন। তিনি বলেন, আমি সাফিয়্যা (রাঃ) থেকে শুনেছি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Aisha, Ummul Mu'minin: The Prophet (ﷺ) used to wash himself with a sa' (of water) and perform ablution with a mudd (of water). Abu Dawud said: This tradition has also been narrated by Aban on the authority of Qatadah. In this version he said: "I herd safiyyah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
+
+## French
+
+Rapporté par Aisha (la mère des croyants) رضي الله عنها : Le Prophète ﷺ se lavait avec un sa‘ (de l’eau) et faisait ses ablutions avec un mudd (de l’eau). Abu Dawud a dit : Ce hadith a aussi été rapporté par Aban d’après Qatadah. Dans cette version, il a dit : « J’ai entendu Safiyyah. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\] telah menceritakan kepada kami \[Hammam\] dari \[Qatadah\] dari \[Shafiyyah binti Syaibah\] dari \['Aisyah\] bahwasanya Nabi shallallahu 'alaihi wasallam mandi dengan satu sha' air dan berwudhu dengan satu mud. Abu Dawud berkata; Diriwayatkan oleh \[Aban\] dari \[Qatadah\] dia berkata; Saya pernah mendengar \[Syafiyyah\]
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir] telah menceritakan kepada kami [Hammam] dari [Qatadah] dari [Shafiyyah binti Syaibah] dari ['Aisyah] bahwasanya Nabi shallallahu 'alaihi wasallam mandi dengan satu sha' air dan berwudhu dengan satu mud. Abu Dawud berkata; Diriwayatkan oleh [Aban] dari [Qatadah] dia berkata; Saya pernah mendengar [Syafiyyah]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Аиши: «Пророк ﷺ купался с одним са‘а (воды), а омовение /вудуъ/ совершал с одним муддом»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan demiştir ki; "Nebi (sallallahu aleyhi ve sellem) bir sa'(miktarı) su ile ğusleder, bir müdd(miktarı) su ile de abdest alırdı." Ebu Davud dedi ki; hadisin Eban rivayetinde Katade "ben Safiyye'den işittim'' diye (aralarında sema’ bulunduğunu) açıklamıştır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہ نبی اکرم صلی اللہ علیہ وسلم ایک صاع سے غسل فرماتے تھے اور ایک مد سے وضو ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>92</td></tr><tr><td>Arabic No</td><td>92</td></tr><tr><td>Reference</td><td>Book 1 Hadith 92</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 92 |
+| Arabic No | 92 |
+| Reference | Book 1 Hadith 92 |

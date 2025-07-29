@@ -14,62 +14,106 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ زَيْدِ بْنِ أَسْلَمَ، أَنَّ عُمَرَ بْنَ الْخَطَّابِ، قَالَ إِذَا نَامَ أَحَدُكُمْ مُضْطَجِعًا فَلْيَتَوَضَّأْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |
+
 وحدثني عن مالك، عن زيد بن اسلم، ان عمر بن الخطاب، قال اذا نام احدكم مضطجعا فليتوضا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik from Zayd ibn Aslam that Umar ibn al-Khattab said, "If you fall asleep Iying down you must do wudu ( before you pray)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku dari Malik dari \[Zaid bin Aslam\], \[Umar bin Al Khatthab\] berkata; "Jika salah seorang dari kalian tidur dengan berbaring terlentang maka hendaklah dia berwudlu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku dari Malik dari [Zaid bin Aslam], [Umar bin Al Khatthab] berkata; "Jika salah seorang dari kalian tidur dengan berbaring terlentang maka hendaklah dia berwudlu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zeyd. b. Eslem'den: Ömer b. el-Hattab (r.a.): «Yatarak uyuyan kimse abdest alsın.» dedi. Bu Hadis Sadece Muvatta da var
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زید بن اسلم سے روایت ہے کہ کہا عمر بن خطاب نے جو شخص تم میں سے سو جائے لیٹ کر تو وضو کرے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>38</td></tr><tr><td>Arabic No</td><td>38</td></tr><tr><td>Reference</td><td>Book 2 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 38 |
+| Arabic No | 38 |
+| Reference | Book 2 Hadith 7 |

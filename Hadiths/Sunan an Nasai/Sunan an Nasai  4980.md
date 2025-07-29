@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا الْحَسَنُ بْنُ مُدْرِكٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ حَمَّادٍ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ عُمَرَ، - وَهُوَ ابْنُ أَبِي سَلَمَةَ - عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا سَرَقَ الْعَبْدُ فَبِعْهُ وَلَوْ بِنَشٍّ ‏"‏ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ عُمَرُ بْنُ أَبِي سَلَمَةَ لَيْسَ بِالْقَوِيِّ فِي الْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 46 Hadith 110</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |
+
 اخبرنا الحسن بن مدرك، قال حدثنا يحيى بن حماد، قال حدثنا ابو عوانة، عن عمر، - وهو ابن ابي سلمة - عن ابيه، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " اذا سرق العبد فبعه ولو بنش " . قال ابو عبد الرحمن عمر بن ابي سلمة ليس بالقوي في الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 46 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হাসান ইবন মুদরিক (রহঃ) ... আবু হুরায়রা (রাঃ) থেকে বর্ণিত, রাসূলুল্লাহসাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ক্রীতদাস যদি চুরি করে, তবে তাকে বিক্রি করে ফেলবে বিশ দিরহামের বিনিময়ে (বা অর্ধেক মূল্যে) হলেও।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 46 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that the Prophet said:"If a slave steals, then sell him, even for half price." (Hasan) Abu 'Abdur-Rahman (An-Nasai) said: 'Umar bin Abi Salamah is not strong in Hadith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 46 Hadith 110</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète ﷺ a dit : « Si un esclave vole, alors vendez-le, même à moitié prix. » (Hasan) Abu 'Abdur-Rahman (An-Nasai) a dit : 'Umar bin Abi Salamah n'est pas fort dans le hadith
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Al Hasan bin Mudrik\], dia berkata; telah menceritakan kepada kami \[Yahya bin Hammad\], dia berkata; telah menceritakan kepada kami \[Abu 'Awanah\] dari \[Umar yaitu Ibnu Abu Salamah\] dari \[ayahnya\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: " Jika seorang budak mencuri maka juallah dia walau dengan duapuluh dirham, " Abu Abdur Rahman berkata; "Umar bin Abu Salamah adalah orang yang tidak kuat dalam hal hadits
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Al Hasan bin Mudrik], dia berkata; telah menceritakan kepada kami [Yahya bin Hammad], dia berkata; telah menceritakan kepada kami [Abu 'Awanah] dari [Umar yaitu Ibnu Abu Salamah] dari [ayahnya] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: " Jika seorang budak mencuri maka juallah dia walau dengan duapuluh dirham, " Abu Abdur Rahman berkata; "Umar bin Abu Salamah adalah orang yang tidak kuat dalam hal hadits
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 46 Hadith 110</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 46 Hadith 110</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4980</td></tr><tr><td>Arabic No</td><td>4980</td></tr><tr><td>Reference</td><td>Book 46 Hadith 110</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4980 |
+| Arabic No | 4980 |
+| Reference | Book 46 Hadith 110 |

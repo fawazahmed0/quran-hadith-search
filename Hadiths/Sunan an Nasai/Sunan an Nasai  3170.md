@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ مَهْدِيٍّ، قَالَ حَدَّثَنَا ابْنُ الْمُبَارَكِ، قَالَ حَدَّثَنَا أَبُو مَعْنٍ، قَالَ حَدَّثَنَا زَهْرَةُ بْنُ مَعْبَدِ، عَنْ أَبِي صَالِحٍ، مَوْلَى عُثْمَانَ قَالَ قَالَ عُثْمَانُ بْنُ عَفَّانَ رَضِيَ اللَّهُ عَنْهُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ يَوْمٌ فِي سَبِيلِ اللَّهِ خَيْرٌ مِنْ أَلْفِ يَوْمٍ فِيمَا سِوَاهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |
+
 اخبرنا عمرو بن علي، قال حدثنا عبد الرحمن بن مهدي، قال حدثنا ابن المبارك، قال حدثنا ابو معن، قال حدثنا زهرة بن معبد، عن ابي صالح، مولى عثمان قال قال عثمان بن عفان رضي الله عنه سمعت رسول الله صلى الله عليه وسلم يقول " يوم في سبيل الله خير من الف يوم فيما سواه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Salih, the freed slace of 'Uthman, said:"uthman bin 'Affan said: 'I heard the Messenger of Allah (ﷺ) say: A day in the cause of Allah is better than a thousand days doing anything else
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |
+
+## French
+
+Rapporté par Abu Salih, l’esclave affranchi de 'Uthman : 'Uthman bin 'Affan a dit : J’ai entendu le Messager d’Allah (ﷺ) dire : « Un jour dans la voie d’Allah vaut mieux que mille jours à faire autre chose. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \['Amr bin Ali\], ia berkata; telah menceritakan kepada kami \[Abdur Rahman bin Mahdi\], ia berkata; telah menceritakan kepada kami \[Ibnu Al Mubarak\], ia berkata; telah menceritakan kepada kami \[Abu Ma'n\], ia berkata; telah menceritakan kepada kami \[Zuhrah bin Ma'bad\] dari \[Abu Shalih\] sahaya Utsman, ia berkata; \[Utsman bin Affan\] radliallahu 'anhu berkata; saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Satu hari di jalan Allah lebih baik daripada seribu hari selainnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami ['Amr bin Ali], ia berkata; telah menceritakan kepada kami [Abdur Rahman bin Mahdi], ia berkata; telah menceritakan kepada kami [Ibnu Al Mubarak], ia berkata; telah menceritakan kepada kami [Abu Ma'n], ia berkata; telah menceritakan kepada kami [Zuhrah bin Ma'bad] dari [Abu Shalih] sahaya Utsman, ia berkata; [Utsman bin Affan] radliallahu 'anhu berkata; saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Satu hari di jalan Allah lebih baik daripada seribu hari selainnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عثمان بن عفان رضی الله عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: ”اللہ کے راستے ( جہاد ) کا ایک دن اس کے سوا کے ہزار دن سے بہتر ہے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3170</td></tr><tr><td>Arabic No</td><td>3170</td></tr><tr><td>Reference</td><td>Book 25 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Daif | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3170 |
+| Arabic No | 3170 |
+| Reference | Book 25 Hadith 86 |

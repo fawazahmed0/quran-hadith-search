@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا مُحَمَّدُ بْنُ سَلَمَةَ الْمُرَادِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ، وَسَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ هِشَامٍ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا محمد بن سلمة المرادي، حدثنا عبد الله بن وهب، عن يحيى بن عبد الله، وسعيد بن عبد الرحمن، عن هشام، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু সালামাহ আল মুরাদী (রহঃ) ..... হিশাম (রহঃ) এর উল্লিখিত সনদ পরম্পরায় হিশাম থেকে (উপরের হাদীসের) অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশনঃ ৭৩০, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been transmitted by Hisham
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## French
 
+Un hadith similaire a été transmis par Hisham
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize Muhammed b. Selemete'l-Murâdî dahî rivayet etti. (Dediki): Bize Abdullah b. Vehb, Yahya b. Abdillâh ile Saîd b. Abdirrahman'dan, onlar da Hişâm'dan bu isnadla bu hadîsin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ یحییٰ بن عبد اللہ اور سعید بن عبد الرحمن نے ہشام سے اسی سند کے ساتھ اس ( مذکورہ بالا روایت ) کے مانند حدیث بیان کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>846</td></tr><tr><td>Arabic No</td><td>381.02</td></tr><tr><td>Reference</td><td>Book 4 Hadith 10</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 846 |
+| Arabic No | 381.02 |
+| Reference | Book 4 Hadith 10 |

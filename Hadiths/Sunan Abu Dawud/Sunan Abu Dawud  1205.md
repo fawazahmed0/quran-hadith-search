@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنْ شُعْبَةَ، حَدَّثَنِي حَمْزَةُ الْعَائِذِيُّ، - رَجُلٌ مِنْ بَنِي ضَبَّةَ - قَالَ سَمِعْتُ أَنَسَ بْنَ مَالِكٍ، يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا نَزَلَ مَنْزِلاً لَمْ يَرْتَحِلْ حَتَّى يُصَلِّيَ الظُّهْرَ فَقَالَ لَهُ رَجُلٌ وَإِنْ كَانَ بِنِصْفِ النَّهَارِ قَالَ وَإِنْ كَانَ بِنِصْفِ النَّهَارِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
+
 حدثنا مسدد، حدثنا يحيى، عن شعبة، حدثني حمزة العايذي، - رجل من بني ضبة - قال سمعت انس بن مالك، يقول كان رسول الله صلى الله عليه وسلم اذا نزل منزلا لم يرتحل حتى يصلي الظهر فقال له رجل وان كان بنصف النهار قال وان كان بنصف النهار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
 
 ## Bengali
 
+। আনাস ইবনু মালিক (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন স্থানে (যুহরের সময়) যাত্রাবিরতী করলে যুহর সালাত আদায় না করা পর্যন্ত সেখান থেকে পুনরায় রওয়ানা করতেন না। এক ব্যক্তি আনাস (রাঃ)-কে জিজ্ঞেস করলো, তখন যদি ঠিক দুপুর হয় তবুও? তিনি বললেন, হ্যাঁ, ঠিক দুপুর হলেও।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস ইবনু মালিক (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কোন স্থানে (যুহরের সময়) যাত্রাবিরতী করলে যুহর সালাত আদায় না করা পর্যন্ত সেখান থেকে পুনরায় রওয়ানা করতেন না। এক ব্যক্তি আনাস (রাঃ)-কে জিজ্ঞেস করলো, তখন যদি ঠিক দুপুর হয় তবুও? তিনি বললেন, হ্যাঁ, ঠিক দুপুর হলেও।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas ibn Malik: When the Messenger of Allah (ﷺ) halted at a certain place (while on a journey), he would not leave that place till he offered the noon prayer. A man said to him: Even if in the middle of the day? He replied: Even if in the middle of the day
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
+
+## French
+
+Rapporté par Anas ibn Malik : Quand le Messager d’Allah ﷺ faisait une halte à un endroit pendant un voyage, il ne quittait pas cet endroit avant d’avoir accompli la prière du midi. Un homme lui a demandé : « Même si c’est en plein milieu de la journée ? » Il a répondu : « Même si c’est en plein milieu de la journée. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Syu'bah\] telah menceritakan kepadaku \[Hamzah Al 'A'idzi\] -seorang laki-laki dari Bani Dlabbah- dia berkata; saya mendengar \[Anas bin Malik\] berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam singgah di suatu tempat, beliau tidak melanjutkan perjalanannya sehingga beliau shalat dluhur." Maka laki-laki tersebut berkata; "Meskipun berada pada tengah hari?" Anas menjawab; "Meskipun berada di tengah hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Syu'bah] telah menceritakan kepadaku [Hamzah Al 'A'idzi] -seorang laki-laki dari Bani Dlabbah- dia berkata; saya mendengar [Anas bin Malik] berkata; "Apabila Rasulullah shallallahu 'alaihi wasallam singgah di suatu tempat, beliau tidak melanjutkan perjalanannya sehingga beliau shalat dluhur." Maka laki-laki tersebut berkata; "Meskipun berada pada tengah hari?" Anas menjawab; "Meskipun berada di tengah hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Анаса ибн Малика, да будет доволен им Аллах: «Когда Посланник Аллаха ﷺ останавливался в каком-нибудь месте, он не отправлялся в путь снова, пока не совершал полуденную молитву /зухр/». Один человек спросил: «Даже если был полдень?» Он ответил: «Даже если был полдень»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Dabbe oğullarından Hamz el-Âizî dedi ki: Enes b. Mâlik'in şöyle dediğini işittim: Resûlullah (s.a.v.) bir yerde konakladığında öğle namazını kılmadan yola çıkmazdı. Bir adam: Gündüzün yarısında (zevalden önce) olsa da mı? deyince (Enes); Evet, gündüzün yarısında da olsa diye cevab verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب کسی مقام پر قیام فرماتے تو ظہر پڑھ کر ہی کوچ فرماتے، تو ایک شخص نے ان سے کہا: گرچہ نصف النہار ہوتا؟ انہوں نے کہا: اگرچہ نصف النہار ہوتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1205</td></tr><tr><td>Arabic No</td><td>1205</td></tr><tr><td>Reference</td><td>Book 4 Hadith 8</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1205 |
+| Arabic No | 1205 |
+| Reference | Book 4 Hadith 8 |

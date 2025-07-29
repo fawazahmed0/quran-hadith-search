@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ قَرَأْتُ عَلَى أَبِي قُرَّةَ مُوسَى بْنِ طَارِقٍ عَنِ ابْنِ جُرَيْجٍ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ عُثْمَانَ بْنِ خُثَيْمٍ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم حِينَ رَجَعَ مِنْ عُمْرَةِ الْجِعِرَّانَةِ بَعَثَ أَبَا بَكْرٍ عَلَى الْحَجِّ فَأَقْبَلْنَا مَعَهُ حَتَّى إِذَا كَانَ بِالْعَرْجِ ثَوَّبَ بِالصُّبْحِ ثُمَّ اسْتَوَى لِيُكَبِّرَ فَسَمِعَ الرُّغْوَةَ خَلْفَ ظَهْرِهِ فَوَقَفَ عَلَى التَّكْبِيرِ فَقَالَ هَذِهِ رُغْوَةُ نَاقَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم الْجَدْعَاءِ لَقَدْ بَدَا لِرَسُولِ اللَّهِ صلى الله عليه وسلم فِي الْحَجِّ فَلَعَلَّهُ أَنْ يَكُونَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَنُصَلِّيَ مَعَهُ فَإِذَا عَلِيٌّ عَلَيْهَا فَقَالَ لَهُ أَبُو بَكْرٍ أَمِيرٌ أَمْ رَسُولٌ قَالَ لاَ بَلْ رَسُولٌ أَرْسَلَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم بِبَرَاءَةَ أَقْرَؤُهَا عَلَى النَّاسِ فِي مَوَاقِفِ الْحَجِّ ‏.‏ فَقَدِمْنَا مَكَّةَ فَلَمَّا كَانَ قَبْلَ التَّرْوِيَةِ بِيَوْمٍ قَامَ أَبُو بَكْرٍ رضى الله عنه فَخَطَبَ النَّاسَ فَحَدَّثَهُمْ عَنْ مَنَاسِكِهِمْ حَتَّى إِذَا فَرَغَ قَامَ عَلِيٌّ رضى الله عنه فَقَرَأَ عَلَى النَّاسِ بَرَاءَةَ حَتَّى خَتَمَهَا ثُمَّ خَرَجْنَا مَعَهُ حَتَّى إِذَا كَانَ يَوْمُ عَرَفَةَ قَامَ أَبُو بَكْرٍ فَخَطَبَ النَّاسَ فَحَدَّثَهُمْ عَنْ مَنَاسِكِهِمْ حَتَّى إِذَا فَرَغَ قَامَ عَلِيٌّ فَقَرَأَ عَلَى النَّاسِ بَرَاءَةَ حَتَّى خَتَمَهَا ثُمَّ كَانَ يَوْمُ النَّحْرِ فَأَفَضْنَا فَلَمَّا رَجَعَ أَبُو بَكْرٍ خَطَبَ النَّاسَ فَحَدَّثَهُمْ عَنْ إِفَاضَتِهِمْ وَعَنْ نَحْرِهِمْ وَعَنْ مَنَاسِكِهِمْ فَلَمَّا فَرَغَ قَامَ عَلِيٌّ فَقَرَأَ عَلَى النَّاسِ بَرَاءَةَ حَتَّى خَتَمَهَا فَلَمَّا كَانَ يَوْمُ النَّفْرِ الأَوَّلُ قَامَ أَبُو بَكْرٍ فَخَطَبَ النَّاسَ فَحَدَّثَهُمْ كَيْفَ يَنْفِرُونَ وَكَيْفَ يَرْمُونَ فَعَلَّمَهُمْ مَنَاسِكَهُمْ فَلَمَّا فَرَغَ قَامَ عَلِيٌّ فَقَرَأَ بَرَاءَةَ عَلَى النَّاسِ حَتَّى خَتَمَهَا ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ بْنُ خُثَيْمٍ لَيْسَ بِالْقَوِيِّ فِي الْحَدِيثِ وَإِنَّمَا أَخْرَجْتُ هَذَا لِئَلاَّ يُجْعَلَ ابْنُ جُرَيْجٍ عَنْ أَبِي الزُّبَيْرِ وَمَا كَتَبْنَاهُ إِلاَّ عَنْ إِسْحَاقَ بْنِ إِبْرَاهِيمَ وَيَحْيَى بْنُ سَعِيدٍ الْقَطَّانُ لَمْ يَتْرُكْ حَدِيثَ ابْنِ خُثَيْمٍ وَلاَ عَبْدِ الرَّحْمَنِ إِلاَّ أَنَّ عَلِيَّ بْنَ الْمَدِينِيِّ قَالَ ابْنُ خُثَيْمٍ مُنْكَرُ الْحَدِيثِ وَكَأَنَّ عَلِيَّ بْنَ الْمَدِينِيِّ خُلِقَ لِلْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 24 Hadith 376</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |
+
 اخبرنا اسحاق بن ابراهيم، قال قرات على ابي قرة موسى بن طارق عن ابن جريج، قال حدثني عبد الله بن عثمان بن خثيم، عن ابي الزبير، عن جابر، ان النبي صلى الله عليه وسلم حين رجع من عمرة الجعرانة بعث ابا بكر على الحج فاقبلنا معه حتى اذا كان بالعرج ثوب بالصبح ثم استوى ليكبر فسمع الرغوة خلف ظهره فوقف على التكبير فقال هذه رغوة ناقة رسول الله صلى الله عليه وسلم الجدعاء لقد بدا لرسول الله صلى الله عليه وسلم في الحج فلعله ان يكون رسول الله صلى الله عليه وسلم فنصلي معه فاذا علي عليها فقال له ابو بكر امير ام رسول قال لا بل رسول ارسلني رسول الله صلى الله عليه وسلم ببراءة اقروها على الناس في مواقف الحج . فقدمنا مكة فلما كان قبل التروية بيوم قام ابو بكر رضى الله عنه فخطب الناس فحدثهم عن مناسكهم حتى اذا فرغ قام علي رضى الله عنه فقرا على الناس براءة حتى ختمها ثم خرجنا معه حتى اذا كان يوم عرفة قام ابو بكر فخطب الناس فحدثهم عن مناسكهم حتى اذا فرغ قام علي فقرا على الناس براءة حتى ختمها ثم كان يوم النحر فافضنا فلما رجع ابو بكر خطب الناس فحدثهم عن افاضتهم وعن نحرهم وعن مناسكهم فلما فرغ قام علي فقرا على الناس براءة حتى ختمها فلما كان يوم النفر الاول قام ابو بكر فخطب الناس فحدثهم كيف ينفرون وكيف يرمون فعلمهم مناسكهم فلما فرغ قام علي فقرا براءة على الناس حتى ختمها . قال ابو عبد الرحمن بن خثيم ليس بالقوي في الحديث وانما اخرجت هذا ليلا يجعل ابن جريج عن ابي الزبير وما كتبناه الا عن اسحاق بن ابراهيم ويحيى بن سعيد القطان لم يترك حديث ابن خثيم ولا عبد الرحمن الا ان علي بن المديني قال ابن خثيم منكر الحديث وكان علي بن المديني خلق للحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 24 Hadith 376</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উমরাহ্ করে জিয়িররানা নামক স্থানে ফিরে এসে আবু বকর (রাঃ)-কে হজ্জের আমীর নিযুক্ত করে প্রেরণ করেন। আমরাও তাঁর সঙ্গে আসলাম। যখন ‘আরজ নামক স্থানে পৌছলেন তখন সকাল হলে তিনি তাকবীর বলার জন্য প্রস্তুত হলেন। এমন সময় তার পেছনে উটের শব্দ শুনতে পেয়ে তিনি তাকবীর না দিয়ে বললেন ইহা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর উটনী জাদ’আর শব্দ। হয়তো রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাশরীফ এনেছেন, আমরা তার সঙ্গে সালাত আদায় করবো, হঠাৎ দেখা গেল এর আরােহী হলেন আলী (রাঃ)। আবু বকর (রাঃ) তাকে বললেনঃ আপনি কি আমীর হিসেবে এসেছেন, না সংবাদ বাহক হিসেবে। তিনি বললেনঃ আমি সংবাদ বাহক হিসেবে এসেছি। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে অব্যাহতি বাণী (সূরা তাওবা বা বারা'আত) সহ প্রেরণ করেছেন। আমি হজ্জের বিশিষ্ট স্থানসমূহে লোকদের তা শুনাব। আমরা মক্কায় আগমন করলাম। যিলহজ্জের ৮ তারিখের একদিন পূর্বে আবু বকর (রাঃ) লোকের মধ্যে দাঁড়িয়ে খুতবা দিলেন এবং তাদেরকে হজ্জের আহকাম শুনালেন। তিনি তার খুৎবা শেষ করলে আলী (রাঃ) দাঁড়ালেন এবং তিনি লোকের মধ্যে অব্যাহতি বাণী (সূরা বারাআত) পাঠ করে শুনালেন এবং তা শেষ করলে আমরা তাঁর সঙ্গে বের হলাম। যখন আরাফার দিন উপস্থিত হলো, তখন আবু বকর (রাঃ) লোকের মধ্যে দাঁড়িয়ে খুৎবা দিলেন, তাদের কাছে হজ্জের আহকাম বর্ণনা করলেন। যখন তিনি তাঁর বক্তব্য শেষ করলেন, তখন আলী (রাঃ) দাঁড়িয়ে লোকের মধ্যে সূরা বারাআত পাঠ করে শুনালেন। এরপর কুরবানীর দিন আসলে আমরা তাওয়াফে ইফাযা করলাম। আবু বকর (রাঃ) ফিরে এসে লোকের মধ্যে খুৎবা দিলেন। তাতে তিনি প্রত্যাবর্তন ও কুরবানীর আহকাম এবং হজ্জের আহকাম বৰ্ণনা করলেন। তিনি যখন খুৎবা শেষ করলেন, তখন আলী (রাঃ) দাঁড়িয়ে লোকের মধ্যে বারাআতের ঘােষণা শুনালেন, সূরা বারাআত শুনানাে শেষ করলেন। প্রথম নফরের দিন আসলে আবু বকর (রাঃ) লোকের উদ্দেশ্যে খুতবা দিলেন; কিরূপে নফর বা যাত্রা করতে হবে এবং রমী করতে হবে সে সমস্ত আহকাম তাদেরকে শিক্ষা দিলেন। তিনি খুৎবা শেষ করলে আলী (রাঃ) দাঁড়িয়ে লোকের নিকট সূরা বারাআত পড়ে শুনালেন এবং তা শেষ পর্যন্ত পাঠ করলেন। আবু আবদুর রহমান (রহঃ) বলেন, ইবন খুশায়ম (রহঃ) হাদীস বর্ণনায় তেমন শক্তিশালী নন। আমি ইবন জুরায়জ (রহঃ) আবূ যুবায়র (রহঃ) থেকে এ সনদে বর্ণনা না করে ইবন জুরায়জ (রহঃ) ইবন খুশায়ম (রহঃ) থেকে, তিনি আবু যুবায়র (রাঃ) এ সনদে রেওয়ায় বর্ণনা করেছি। কেননা প্রথমােক্ত সনদে ইবন জুরায়জ (রহঃ) ও আবু যুবায়র (রহঃ)-এর মধ্যের একজন রাবী বাদ পড়ার সম্ভাবনা রয়েছে। যাকে উসূলে হাদীসের ভাষায় মুনকাতি' বলা হয়। আমি এ হাদীসটি ইসহাক ইবন রাহওয়াই ইবন ইবরাহীম (রহঃ) সূত্রে লিপিবদ্ধ করেছি। ইয়াহইয়া ইবন সাঈদ আল-কাত্তান (রহঃ) ইবন খুশায়ম (রহঃ) থেকে হাদীস বর্ণনা বাদ দেননি। আর আবদুর রহমান থেকেও না। তবে আলী ইবন মাদীনী (রহঃ) ইবন খুশায়ম (রহঃ)-কে 'মুনকারুল হাদীস' বলে মন্তব্য করেছেন। আর আলী ইবন মাদীনী (রহঃ) হাদীস শাস্ত্রের জন্যেই তাঁর সৃষ্টি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 24 Hadith 376</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Jabir that:when the Prophet came back from the Umrah of Al-Jirranah, he sent Abu Bakr to lead the Hajj. We wnet the him until, when he was in Al-Urj, the Iqamah for Subh was said, and he stood up to say the Takbir while he heard the grunting of a camel behind him, and he did not say the Takbir. He said: "This is the grunting of the camel of the Messenger of Allah has had second thoughts about the Hajj, and may be he is here, and we will pray with him." But it was 'Ali on the camel. Abu Bakr said to him: "(Have you come) as a leader or as messenger?" He said: "No, as a messenger, sent by the Messenger of Allah with a declaration of innocence to recite it to the people in the stations of Hajj. So we came to makkah and one day before the day of At-Tarwiyah Abu Bakr, may Allah be pleased with him, stood up and addressed the people telling them about their rituals. When he finished, Ali, may Allah be pleased with him, stood up and recited the declaration of innocence to the people until he finished it. Then we went out with hm and on the day of Arafat. Abu Bakr stood up and addressed people, telling them about rituals. When he finished, Ali, may Allah be pleased with him, stood up and recited the declaration of innocence to the people until he finished it. Then on the day of Sacrifice, we departed (Ifadah) and when Abu Bakr came back, eh addressed the people, telling them about their departure (Ifadah), sacrifice and rituals. When he finished, Ali, may Allah be pleased with him, stood up and recited the declaration of innocence to the people until he finished it. On the first day of An-Nafr (The 12th of Dhul-Hijjah), Abu Bakr stood up and addressed the people, telling them how to offer their sacrifice and how to stone the Jamrat, and teaching them their rituals. When he had finished, "Ali, may Allah be pleased with him, stood up and recited the declaration of innocence to the people until he finished it. (Daif) Abu Abdur-Rahman (An-Nasai) said: Ibn Khuthaim is not strong in Hadith, and I only narrated this so it would not be considered to be from Ibn Juraij from Abu Az-Zubai. And we did not write it except from Ishaq bin Rahuyah bin Ibrahm. And yahya bin Saeed Al-Qattan did not abandon the narrations of Ibn Khuthaim, or dod Abdur-Rahamn. However, Ali bin Al-Madini said: "Ibn Khuthaim is Munkar in Hadith," and Ali bin Al-Madini is more knowledgeable of Hadith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 24 Hadith 376</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |
+
+## French
+
+Rapporté par Jabir : Lorsque le Prophète ﷺ est revenu de la Omra d’Al-Jirranah, il a envoyé Abou Bakr diriger le Hajj. Nous sommes partis avec lui jusqu’à ce qu’il soit à Al-Urj, l’Iqama pour la prière du matin a été dite, et il s’est levé pour prononcer le Takbir quand il a entendu le grognement d’un chameau derrière lui, alors il n’a pas prononcé le Takbir. Il a dit : « C’est le grognement du chameau du Messager d’Allah ﷺ, il a peut-être changé d’avis concernant le Hajj, et il est peut-être ici, et nous prierons avec lui. » Mais c’était Ali sur le chameau. Abou Bakr lui a dit : « Es-tu venu comme chef ou comme messager ? » Il a répondu : « Non, comme messager, envoyé par le Messager d’Allah ﷺ avec une déclaration d’innocence à réciter aux gens dans les stations du Hajj. » Nous sommes donc allés à La Mecque et, un jour avant le jour d’At-Tarwiyah, Abou Bakr, qu’Allah l’agrée, s’est levé et a expliqué aux gens leurs rites. Quand il a fini, Ali, qu’Allah l’agrée, s’est levé et a récité la déclaration d’innocence aux gens jusqu’à la fin. Ensuite, nous sommes partis avec lui et le jour de Arafat, Abou Bakr s’est levé et a expliqué les rites aux gens. Quand il a fini, Ali, qu’Allah l’agrée, s’est levé et a récité la déclaration d’innocence aux gens jusqu’à la fin. Puis, le jour du Sacrifice, nous avons accompli l’Ifadah et, au retour, Abou Bakr a expliqué aux gens le départ (Ifadah), le sacrifice et les rites. Quand il a fini, Ali, qu’Allah l’agrée, s’est levé et a récité la déclaration d’innocence aux gens jusqu’à la fin. Le premier jour d’An-Nafr (le 12 Dhul-Hijjah), Abou Bakr s’est levé et a expliqué aux gens comment offrir leur sacrifice, comment jeter les cailloux et leur a enseigné leurs rites. Quand il a fini, Ali, qu’Allah l’agrée, s’est levé et a récité la déclaration d’innocence aux gens jusqu’à la fin. (Daif)
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\], ia berkata; saya membacakan riwayat kepada \[Abu Qurrah Musa bin Thariq\] dari \[Ibnu Juraij\], ia berkata; telah menceritakan kepadaku \[Abdullah bin Utsman bn Khutsaim\] dari \[Abu Az Zubair\] dari \[Jabir\] bahwa Nabi shallallahu 'alaihi wasallam ketika kembali dari umrah di Ji'ranah beliau mengutus Abu Bakar memimpin haji, lalu kami datang bersamanya, hingga ketika sampai di Al 'Arj ia mengumandangkan adzan untuk shalat shubuh, lalu ia berdiri untuk bertakbir, kemudian ia mendengar suara unta dibelakangnya dan berhenti bertakbir, ia berkata 'ini adalah suara unta shallallahu 'alaihi wasallam Al Jad'a', tampaknya Rasulullah shallallahu 'alaihi wasallam melaksanakan haji, dan semoga ia adalah Rasulullah shallallahu 'alaihi wasallam sehingga kita melaksanakan sholat bersama beliau, namun ternyata Ali yang berada diatas unta tersebut, kemudian Abu Bakar berkata kepadanya; engkau sebagai amir atau utusan. Ia menjawab; tidak, aku hanyalah utusan Rasulullah shallallahu 'alaihi wasallam dengan surat Bara-ah yang akan saya bacakan di beberapa tempat pemberhentian untuk haji. Kemudian kami sampai di Mekkah, setelah sehari sebelum Tarwiyah (tanggal delapan dzulhijjah), Abu Bakar radliallahu 'anhu berdiri didepan manusia kemudian berkhutbah kepada manusia, ia berbicara mengenai ibadah haji mereka hingga setelah ia selesai, lalu Ali radliallahu 'anhu berdiri dan membacakan surat Taubah hingga selesai. Kemudian pada hari Kurban kami melakukan thawaf ifadhah, lalu setelah Abu Bakar kembali ia berkhutbah kepada manusia, ia berbicara mengenai ibadah thawaf ifadhah serta penyembelihan kurban, serta ibadah haji mereka. Setelah ia selesai, Ali berdiri dan membacakan surat Taubah hingga ia menyelesaikannya. Kemudian pada hari Nafar pertama Abu Bakar berdiri kemudian berkhutbah kepada manusia, ia berbicara mengenai bagaimana mereka kembali dari Mina, dan bagaimana mereka melempar jumrah, ia mengajarkan kepada mereka cara-cara ibadah haji mereka. Setelah ia selesai, Ali berdiri dan membacakan surat Taubah hingga ia menyelesaikannya. Abu Abdurrahman berkata; Ibnu Khutsaim tidaklah kuat dalam hal hadits, saya menyebutkannya agar Ibn Juraij tidak dijadikan dari Abi Zubair, dan tidaklah kami menulisnya kecuali dari ishaq bin Ibrahim dan Yahya bin Sa'id Alqaththan, ia tidak meninggalkan hadits Ibn Khutsaim dan Abdurrahman hanya saja Ali bin Al Madini berkata; Ibn Hutsaim itu haditsnya mungkar, dan sepertinya Ali bin Madini diciptakan untuk meriwayatkan hadits
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim], ia berkata; saya membacakan riwayat kepada [Abu Qurrah Musa bin Thariq] dari [Ibnu Juraij], ia berkata; telah menceritakan kepadaku [Abdullah bin Utsman bn Khutsaim] dari [Abu Az Zubair] dari [Jabir] bahwa Nabi shallallahu 'alaihi wasallam ketika kembali dari umrah di Ji'ranah beliau mengutus Abu Bakar memimpin haji, lalu kami datang bersamanya, hingga ketika sampai di Al 'Arj ia mengumandangkan adzan untuk shalat shubuh, lalu ia berdiri untuk bertakbir, kemudian ia mendengar suara unta dibelakangnya dan berhenti bertakbir, ia berkata 'ini adalah suara unta shallallahu 'alaihi wasallam Al Jad'a', tampaknya Rasulullah shallallahu 'alaihi wasallam melaksanakan haji, dan semoga ia adalah Rasulullah shallallahu 'alaihi wasallam sehingga kita melaksanakan sholat bersama beliau, namun ternyata Ali yang berada diatas unta tersebut, kemudian Abu Bakar berkata kepadanya; engkau sebagai amir atau utusan. Ia menjawab; tidak, aku hanyalah utusan Rasulullah shallallahu 'alaihi wasallam dengan surat Bara-ah yang akan saya bacakan di beberapa tempat pemberhentian untuk haji. Kemudian kami sampai di Mekkah, setelah sehari sebelum Tarwiyah (tanggal delapan dzulhijjah), Abu Bakar radliallahu 'anhu berdiri didepan manusia kemudian berkhutbah kepada manusia, ia berbicara mengenai ibadah haji mereka hingga setelah ia selesai, lalu Ali radliallahu 'anhu berdiri dan membacakan surat Taubah hingga selesai. Kemudian pada hari Kurban kami melakukan thawaf ifadhah, lalu setelah Abu Bakar kembali ia berkhutbah kepada manusia, ia berbicara mengenai ibadah thawaf ifadhah serta penyembelihan kurban, serta ibadah haji mereka. Setelah ia selesai, Ali berdiri dan membacakan surat Taubah hingga ia menyelesaikannya. Kemudian pada hari Nafar pertama Abu Bakar berdiri kemudian berkhutbah kepada manusia, ia berbicara mengenai bagaimana mereka kembali dari Mina, dan bagaimana mereka melempar jumrah, ia mengajarkan kepada mereka cara-cara ibadah haji mereka. Setelah ia selesai, Ali berdiri dan membacakan surat Taubah hingga ia menyelesaikannya. Abu Abdurrahman berkata; Ibnu Khutsaim tidaklah kuat dalam hal hadits, saya menyebutkannya agar Ibn Juraij tidak dijadikan dari Abi Zubair, dan tidaklah kami menulisnya kecuali dari ishaq bin Ibrahim dan Yahya bin Sa'id Alqaththan, ia tidak meninggalkan hadits Ibn Khutsaim dan Abdurrahman hanya saja Ali bin Al Madini berkata; Ibn Hutsaim itu haditsnya mungkar, dan sepertinya Ali bin Madini diciptakan untuk meriwayatkan hadits
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 24 Hadith 376</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 24 Hadith 376</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم جس وقت جعرانہ کے عمرہ سے لوٹے تو ابوبکر رضی اللہ عنہ کو ( امیر مقرر کر کے ) حج پر بھیجا تو ہم بھی ان کے ساتھ آئے۔ پھر جب وہ عرج ۱؎ میں تھے اور صبح کی نماز کی اقامت کہی گئی اور وہ اللہ اکبر کہنے کے لیے کھڑے ہوئے تو اپنی پیٹھ کے پیچھے آپ نے ایک اونٹ کی آواز سنی تو اللہ اکبر کہنے سے رک گئے اور کہنے لگے: یہ تو رسول اللہ صلی اللہ علیہ وسلم کی اونٹنی جدعا کی آواز ہے۔ شاید رسول اللہ صلی اللہ علیہ وسلم کا خود بھی حج کے لیے آنے کا ارادہ بن گیا ہو تو ہو سکتا ہے رسول اللہ صلی اللہ علیہ وسلم آ رہے ہوں ( آپ ہوئے ) تو ہم آپ کے ساتھ نماز پڑھیں گے۔ تو کیا دیکھتے ہیں کہ اس اونٹنی پر علی رضی اللہ عنہ سوار ہیں۔ تو ابوبکر رضی اللہ عنہ نے ان سے پوچھا: آپ ( امیر بنا کر بھیجے گئے ہیں ) یا قاصد بن کے آئے ہیں؟ انہوں نے کہا: نہیں، ہم قاصد بنا کر بھیجے گئے ہیں۔ رسول اللہ صلی اللہ علیہ وسلم نے مجھے مقامات حج میں سورۃ برأۃ پڑھ کر لوگوں کو سنانے کے لیے بھیجا ہے۔ پھر ہم مکہ آئے تو ترویہ سے ایک دن پہلے ( یعنی ساتویں تاریخ کو ) ابوبکر رضی اللہ عنہ کھڑے ہوئے اور لوگوں کے سامنے خطبہ دیا۔ اور انہیں ان کے حج کے ارکان بتائے۔ جب وہ ( اپنے بیان سے ) فارغ ہوئے تو علی رضی اللہ عنہ کھڑے ہوئے اور انہوں نے لوگوں کو سورۃ برأت پڑھ کر سنائی، یہاں تک کہ پوری سورت ختم ہو گئی، پھر ہم ان کے ساتھ نکلے یہاں تک کہ جب عرفہ کا دن آیا تو ابوبکر رضی اللہ عنہ کھڑے ہوئے اور لوگوں کے سامنے انہوں نے خطبہ دیا اور انہیں حج کے احکام سکھائے۔ یہاں تک کہ جب وہ فارغ ہو گئے تو علی رضی اللہ عنہ کھڑے ہوئے اور انہوں نے سورۃ برأت لوگوں کو پڑھ کر سنائی یہاں تک کہ اسے ختم کیا۔ پھر جب یوم النحر یعنی دسویں تاریخ آئی تو ہم نے طواف افاضہ کیا، اور جب ابوبکر رضی اللہ عنہ لوٹ کر آئے تو لوگوں سے خطاب کیا، اور انہیں طواف افاضہ کرو، قربانی کرنے اور حج کے دیگر ارکان ادا کرنے کے طریقے سکھائے اور جب وہ فارغ ہوئے تو علی رضی اللہ عنہ کھڑے ہوئے اور انہوں نے لوگوں کو سورۃ برأت پڑھ کر سنائی یہاں تک کہ پوری سورت انہوں نے ختم کی، پھر جب کوچ کا پہلا دن آیا ۲؎ تو ابوبکر رضی اللہ عنہ کھڑے ہوئے اور انہوں نے لوگوں سے خطاب کیا اور انہیں بتایا کہ وہ کیسے کوچ کریں اور کیسے رمی کریں۔ پھر انہیں حج کے ( باقی احکام ) سکھلائے جب وہ فارغ ہوئے تو علی رضی اللہ عنہ کھڑے ہوئے اور انہوں نے سورۃ برأت لوگوں کو پڑھ کر سنائی یہاں تک کہ اسے ختم کیا۔ ابوعبدالرحمٰن ( نسائی ) کہتے ہیں: ابن خثیم ( یعنی عبداللہ بن عثمان ) حدیث میں قوی نہیں ہیں، اور میں نے اس کی تخریج اس لیے کی تاکہ اسے «ابن جریج عن ابی الزبیر» نہ بنا لیا جائے ۳؎ میں نے اسے صرف اسحاق بن راہویہ بن ابراہیم سے لکھا ہے، اور یحییٰ ابن سعید القطان نے ابن خیثم کی حدیث کو نہیں چھوڑا ہے، اور نہ ہی عبدالرحمٰن کی حدیث کو۔ البتہ علی بن مدینی نے کہا ہے کہ ابن خیثم منکر الحدیث ہیں اور گویا علی بن مدینی حدیث ہی کے لیے پیدا کئے گئے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2993</td></tr><tr><td>Arabic No</td><td>2993</td></tr><tr><td>Reference</td><td>Book 24 Hadith 376</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2993 |
+| Arabic No | 2993 |
+| Reference | Book 24 Hadith 376 |

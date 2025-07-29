@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، وَمُسَدَّدٌ، قَالاَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، - قَالَ مُسَدَّدٌ - حَدَّثَنَا قُرَّةُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا حُمَيْدُ بْنُ هِلاَلٍ، حَدَّثَنَا أَبُو بُرْدَةَ، قَالَ قَالَ أَبُو مُوسَى أَقْبَلْتُ إِلَى النَّبِيِّ صلى الله عليه وسلم وَمَعِي رَجُلاَنِ مِنَ الأَشْعَرِيِّينَ أَحَدُهُمَا عَنْ يَمِينِي وَالآخَرُ عَنْ يَسَارِي فَكِلاَهُمَا سَأَلَ الْعَمَلَ وَالنَّبِيُّ صلى الله عليه وسلم سَاكِتٌ فَقَالَ ‏"‏ مَا تَقُولُ يَا أَبَا مُوسَى ‏"‏ ‏.‏ أَوْ ‏"‏ يَا عَبْدَ اللَّهِ بْنَ قَيْسٍ ‏"‏ ‏.‏ قُلْتُ وَالَّذِي بَعَثَكَ بِالْحَقِّ مَا أَطْلَعَانِي عَلَى مَا فِي أَنْفُسِهِمَا وَمَا شَعَرْتُ أَنَّهُمَا يَطْلُبَانِ الْعَمَلَ ‏.‏ قَالَ وَكَأَنِّي أَنْظُرُ إِلَى سِوَاكِهِ تَحْتَ شَفَتِهِ قَلَصَتْ قَالَ ‏"‏ لَنْ نَسْتَعْمِلَ - أَوْ لاَ نَسْتَعْمِلُ - عَلَى عَمَلِنَا مَنْ أَرَادَهُ وَلَكِنِ اذْهَبْ أَنْتَ يَا أَبَا مُوسَى أَوْ يَا عَبْدَ اللَّهِ بْنَ قَيْسٍ ‏"‏ ‏.‏ فَبَعَثَهُ عَلَى الْيَمَنِ ثُمَّ أَتْبَعَهُ مُعَاذَ بْنَ جَبَلٍ قَالَ فَلَمَّا قَدِمَ عَلَيْهِ مُعَاذٌ قَالَ انْزِلْ ‏.‏ وَأَلْقَى لَهُ وِسَادَةً فَإِذَا رَجُلٌ عِنْدَهُ مُوثَقٌ قَالَ مَا هَذَا قَالَ هَذَا كَانَ يَهُودِيًّا فَأَسْلَمَ ثُمَّ رَاجَعَ دِينَهُ دِينَ السُّوءِ ‏.‏ قَالَ لاَ أَجْلِسُ حَتَّى يُقْتَلَ قَضَاءُ اللَّهِ وَرَسُولِهِ ‏.‏ قَالَ اجْلِسْ نَعَمْ ‏.‏ قَالَ لاَ أَجْلِسُ حَتَّى يُقْتَلَ قَضَاءُ اللَّهِ وَرَسُولِهِ ‏.‏ ثَلاَثَ مَرَّاتٍ فَأَمَرَ بِهِ فَقُتِلَ ثُمَّ تَذَاكَرَا قِيَامَ اللَّيْلِ فَقَالَ أَحَدُهُمَا مُعَاذُ بْنُ جَبَلٍ أَمَّا أَنَا فَأَنَامُ وَأَقُومُ - أَوْ أَقُومُ وَأَنَامُ - وَأَرْجُو فِي نَوْمَتِي مَا أَرْجُو فِي قَوْمَتِي ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
+
 حدثنا احمد بن حنبل، ومسدد، قالا حدثنا يحيى بن سعيد، - قال مسدد - حدثنا قرة بن خالد، قال حدثنا حميد بن هلال، حدثنا ابو بردة، قال قال ابو موسى اقبلت الى النبي صلى الله عليه وسلم ومعي رجلان من الاشعريين احدهما عن يميني والاخر عن يساري فكلاهما سال العمل والنبي صلى الله عليه وسلم ساكت فقال " ما تقول يا ابا موسى " . او " يا عبد الله بن قيس " . قلت والذي بعثك بالحق ما اطلعاني على ما في انفسهما وما شعرت انهما يطلبان العمل . قال وكاني انظر الى سواكه تحت شفته قلصت قال " لن نستعمل - او لا نستعمل - على عملنا من اراده ولكن اذهب انت يا ابا موسى او يا عبد الله بن قيس " . فبعثه على اليمن ثم اتبعه معاذ بن جبل قال فلما قدم عليه معاذ قال انزل . والقى له وسادة فاذا رجل عنده موثق قال ما هذا قال هذا كان يهوديا فاسلم ثم راجع دينه دين السوء . قال لا اجلس حتى يقتل قضاء الله ورسوله . قال اجلس نعم . قال لا اجلس حتى يقتل قضاء الله ورسوله . ثلاث مرات فامر به فقتل ثم تذاكرا قيام الليل فقال احدهما معاذ بن جبل اما انا فانام واقوم - او اقوم وانام - وارجو في نومتي ما ارجو في قومتي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
 
 ## Bengali
 
+। আবূ বুরদাহ (রহঃ) বলেন, আবূ মূসা (রাঃ) বলেছেন, একদা আমি আশ্আরী গোত্রের দু’ জন লোককে সঙ্গে নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট যাই। তাদের একজন আমার ডানপাশে এবং অপরজন বামপাশে ছিলো। তারা উভয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট চাকুরী (সরকারী পদ) চাইলো। তিনি নীরব রইলেন। অতঃপর তিনি বললেনঃ হে আবূ মূসা অথবা হে আব্দুল্লাহ ইবনু কাইস! তুমি কি বলো? আমি বললাম, সেই পবিত্র সত্তার কসম, যিনি আপনাকে সত্যসহ পাঠিয়েছেন! এরা এদের মনের উদ্দেশ্য সম্পর্কে আমাকে অবহিত করেনি এবং আমি জানতাম না যে, তারা চাকুরী চাইবে। আবূ মূসা বলেন, আমি তাঁর ঠোঁটের নীচে মেসওয়াকের দিকে তাকিয়ে দেখলাম, তা যেন ফুলে আছে। তিনি বললেনঃ যে ব্যক্তি সরকারী পদে নিয়োগের প্রার্থনা করে আমরা তাকে কখনো তাতে নিয়োগ করি না। তুমি বরং চলে যাও হে আবূ মূসা! অথবা হে আব্দুল্লাহ ইবনু কাইস! অতঃপর তিনি তাকে ইয়ামেনে পাঠিয়ে দেন এবং তার পরে মু‘আয ইবনু জাবাল (রাঃ)-কে পাঠালেন। বর্ণনাকারী বলেন, মু‘আয (রাঃ) তার নিকট পৌঁছলে তিনি বললেন, নেমে আসুন এবং তার জন্য একটা বালিশ পেতে দিলেন। তার নিকট ছিলো একটা বাঁধা লোক। তিনি প্রশ্ন করলেন, লোকটি কে? তিনি বললেন, লোকটা ছিলো ইয়াহুদী, পরে ইসলাম গ্রহণ করে। পরে আবারো সে তার খারাপ ধর্মে ফিরে যায়। মু‘আয (রাঃ) বলেন, আল্লাহ ও তাঁর রাসূলের ফায়সালা মোতাবেক তাকে হত্যা না করা পর্যন্ত আমি বসবো না। তিনি বলেন, হ্যাঁ, আপনি বসুন। মু‘আয (রাঃ) বলেন, আল্লাহ ও তাঁর রাসূলের ফায়সালা মোতাবেক তাকে হত্যা না করা পর্যন্ত আমিও বসবো না। একথা তিনি তিনবার বলেন। অতঃপর তার হুকুমে তাকে হত্যা করা হলো। পরে তারা দু’ জন রাত জেগে ইবাদাত করা প্রসঙ্গে আলোচনা করেন। তাদের একজন মু‘আয ইবনু জাবাল (রাঃ) বলেন, আমি তো রাতে ঘুমাই ও জেগে ইবাদাত করি, অথবা দাঁড়িয়ে ইবাদাত করি, ঘুমাই এবং ইবাদাতের মধ্যে আমি যা কামনা করি, ঘুমের মধ্যেও তাই কামনা করি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ বুরদাহ (রহঃ) বলেন, আবূ মূসা (রাঃ) বলেছেন, একদা আমি আশ্আরী গোত্রের দু’ জন লোককে সঙ্গে নিয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট যাই। তাদের একজন আমার ডানপাশে এবং অপরজন বামপাশে ছিলো। তারা উভয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট চাকুরী (সরকারী পদ) চাইলো। তিনি নীরব রইলেন। অতঃপর তিনি বললেনঃ হে আবূ মূসা অথবা হে আব্দুল্লাহ ইবনু কাইস! তুমি কি বলো? আমি বললাম, সেই পবিত্র সত্তার কসম, যিনি আপনাকে সত্যসহ পাঠিয়েছেন! এরা এদের মনের উদ্দেশ্য সম্পর্কে আমাকে অবহিত করেনি এবং আমি জানতাম না যে, তারা চাকুরী চাইবে। আবূ মূসা বলেন, আমি তাঁর ঠোঁটের নীচে মেসওয়াকের দিকে তাকিয়ে দেখলাম, তা যেন ফুলে আছে। তিনি বললেনঃ যে ব্যক্তি সরকারী পদে নিয়োগের প্রার্থনা করে আমরা তাকে কখনো তাতে নিয়োগ করি না। তুমি বরং চলে যাও হে আবূ মূসা! অথবা হে আব্দুল্লাহ ইবনু কাইস! অতঃপর তিনি তাকে ইয়ামেনে পাঠিয়ে দেন এবং তার পরে মু‘আয ইবনু জাবাল (রাঃ)-কে পাঠালেন। বর্ণনাকারী বলেন, মু‘আয (রাঃ) তার নিকট পৌঁছলে তিনি বললেন, নেমে আসুন এবং তার জন্য একটা বালিশ পেতে দিলেন। তার নিকট ছিলো একটা বাঁধা লোক। তিনি প্রশ্ন করলেন, লোকটি কে? তিনি বললেন, লোকটা ছিলো ইয়াহুদী, পরে ইসলাম গ্রহণ করে। পরে আবারো সে তার খারাপ ধর্মে ফিরে যায়। মু‘আয (রাঃ) বলেন, আল্লাহ ও তাঁর রাসূলের ফায়সালা মোতাবেক তাকে হত্যা না করা পর্যন্ত আমি বসবো না। তিনি বলেন, হ্যাঁ, আপনি বসুন। মু‘আয (রাঃ) বলেন, আল্লাহ ও তাঁর রাসূলের ফায়সালা মোতাবেক তাকে হত্যা না করা পর্যন্ত আমিও বসবো না। একথা তিনি তিনবার বলেন। অতঃপর তার হুকুমে তাকে হত্যা করা হলো। পরে তারা দু’ জন রাত জেগে ইবাদাত করা প্রসঙ্গে আলোচনা করেন। তাদের একজন মু‘আয ইবনু জাবাল (রাঃ) বলেন, আমি তো রাতে ঘুমাই ও জেগে ইবাদাত করি, অথবা দাঁড়িয়ে ইবাদাত করি, ঘুমাই এবং ইবাদাতের মধ্যে আমি যা কামনা করি, ঘুমের মধ্যেও তাই কামনা করি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Burdah said on the authority of Abu Musa :I went to the Prophet (ﷺ) while two men who were Ash’ arIs were with me. One of them was on my right and the other on my left side. Bothe of them asked him for employment. The prophet (ﷺ) was silent. He asked : What do you say Abu Musa, or ‘Abd Allah b. Qais (Abu Musa’s name)? I replied: By him who has sent you with truth, they did not inform me of what they had in their hearts, and I did not know that they would ask for an employment. He said : I have the scene before my eyes that he had his toothstick below his lip which receded. He (the prophet) said: We will never or will not put in charge of our work anyone who asks for it. But go, ye, Abu Musa, or ‘Abd Allah b. Qais. He then sent him as a Governor of the Yemen, After him he sent Muadh b. Jabal. When Muadh came to him, he said: come down , and he put a cushion for him. He saw that a man was chained with him. He asked : What is this? He replied: He was a Jew and he accepted Islam. He then converted to his religion, an evil religion. He said: I will not sit until he is killed according to the decision of Allah and his Apostle (ﷺ). He said: Yes, be seated. He said: I will not sit until he is killed according to the decision of Allah and his Apostle (peace be upon him). He said it three times. He then commanded for it and he was killed. Both of them then discussed the question of prayer and vigilance at night. One of them, probably Muadh, said : So far as I am concerned, I sleep and I keep vigilance: I keep vigilance and I sleep: I hope for the same reward for my sleep as for my vigilance
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
+
+## French
+
+Abu Burdah a rapporté d’Abu Musa : Je suis allé voir le Prophète ﷺ avec deux hommes des Ash‘ariyyin, l’un à ma droite et l’autre à ma gauche. Tous deux lui ont demandé un poste. Le Prophète ﷺ est resté silencieux. Il a demandé : « Qu’en dis-tu, Abu Musa, ou ‘Abd Allah b. Qais (le nom d’Abu Musa) ? » J’ai répondu : « Par Celui qui t’a envoyé avec la vérité, ils ne m’ont rien dit de ce qu’ils avaient dans le cœur, et je ne savais pas qu’ils allaient demander un poste. » Je me souviens encore qu’il avait son siwak sous la lèvre, qui s’est reculée. Le Prophète ﷺ a dit : « Nous ne confierons jamais notre travail à quelqu’un qui le demande. Mais vas-y, Abu Musa, ou ‘Abd Allah b. Qais. » Il l’a alors envoyé comme gouverneur du Yémen. Après lui, il a envoyé Mu‘adh b. Jabal. Quand Mu‘adh est arrivé, il lui a dit : « Descends », et il lui a mis un coussin. Il a vu qu’un homme était enchaîné avec lui. Il a demandé : « Qui est-ce ? » Il a répondu : « C’était un Juif qui a embrassé l’islam, puis il est revenu à sa religion, une mauvaise religion. » Il a dit : « Je ne m’assiérai pas tant qu’il ne sera pas tué selon la décision d’Allah et de Son Messager ﷺ. » Il a dit : « Oui, assieds-toi. » Il a répété : « Je ne m’assiérai pas tant qu’il ne sera pas tué selon la décision d’Allah et de Son Messager ﷺ. » Il l’a dit trois fois. Il a alors ordonné qu’il soit tué. Ensuite, tous deux ont discuté de la prière et de la veille nocturne. L’un d’eux, probablement Mu‘adh, a dit : « Pour ma part, je dors et je veille ; je veille et je dors ; j’espère la même récompense pour mon sommeil que pour ma veille. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] dan \[Musaddad\] keduanya berkata; telah menceritakan kepada kami \[Yahya bin Sa'id\] berkata; \[Musaddad\] berkata; telah menceritakan kepada kami \[Qurrah bin Khalid\] berkata, telah menceritakan kepada kami \[Humaid bin Hilal\] berkata, telah menceritakan kepada kami \[Abu Burdah\] ia berkata; \[Abu Musa\] berkata, "Aku menemui Nabi shallallahu 'alaihi wasallam bersama dua orang laki-laki dari Al Asy'ari; seorang dari keduanya ada di sebelah kananku dan seorang lagi di sebelah kiri. Keduanya minta dicarikan pekerjaan, sementara Nabi shallallahu 'alaihi wasallam hanya terdiam. Kemudian beliau bersabda: "Wahai Abu Musa, apa pendapatmu? Atau beliau mengatakan, "Wahai Abdullah bin Qais?" Aku (Abu Musa) berkata, "Demi Dzat yang mengutusmu dengan kebenaran, aku tidak tahu apa yang mereka inginkan, aku juga tidak tahu bahwa keduanya juga minta pekerjaan. Seakan aku melihat siwak yang berada di bawah bibir beliau telah menyusut. Beliau lalu bersabda: "Sekali-kali kami tidak akan memperkerjakan, atau beliau mengatakan, "tidak akan memperkerjakan orang yang menghendakinya untuk melakukan pekerjaan kami. Wahai Abu Musa, pergilah engkau, atau beliau mengatakan, "Wahai Abu Abdullah bin Qais." Rasulullah kemudian mengutus Abu Musa ke Yaman yang kemudian disusul Mu'adz bin Jabal. Ketika Mu'adz datang, Abu Musa berkata, "Turunlah kemari." Kemudian Abu Musa mengambilkan bantal untuk Mu'adz. Namun tiba-tiba di sisinya (Mu'adz) ada seorang laki-laki yang terikat, Mu'adz bertanya, "Siapa ini?" Abu Musa menjawab, "Ini adalah seorang laki-laki yahudi, ia pernah masuk Islam, namun ia kembali lagi kepada agamanya yang jelek." Mu'adz lalu berkata, "Aku tidak akan duduk hingga ia dibunuh, sebagai bentuk dari ketetapan Allah dan Rasul-Nya." Hal itu ia ucapkan hingga tiga kali. Abu Musa berkata, "Baiklah, sekarang duduklah." Mu'adz berkata, "Aku tidak akan duduk hingga ia dibunuh, sebagai bentuk dari ketetapan Allah dan Rasul-Nya." Hal itu ia ucapkan hingga tiga kali. Abu Musa kemudian memerintahkan hukuman tersebut, dan laki-laki itu pun dihumum mati. Setelah itu mereka menyebut-nyebut tentang shalat malam, salah seorang dari keduanya (Mu'adz bin Jabal) lalu berkata, "Aku tidur dan bangun, atau ia mengatakan, "bangun dan tidur. Dan aku berharap disaat tidurku mendapatkan (pahala) sebagaimana saat aku terjaga
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] dan [Musaddad] keduanya berkata; telah menceritakan kepada kami [Yahya bin Sa'id] berkata; [Musaddad] berkata; telah menceritakan kepada kami [Qurrah bin Khalid] berkata, telah menceritakan kepada kami [Humaid bin Hilal] berkata, telah menceritakan kepada kami [Abu Burdah] ia berkata; [Abu Musa] berkata, "Aku menemui Nabi shallallahu 'alaihi wasallam bersama dua orang laki-laki dari Al Asy'ari; seorang dari keduanya ada di sebelah kananku dan seorang lagi di sebelah kiri. Keduanya minta dicarikan pekerjaan, sementara Nabi shallallahu 'alaihi wasallam hanya terdiam. Kemudian beliau bersabda: "Wahai Abu Musa, apa pendapatmu? Atau beliau mengatakan, "Wahai Abdullah bin Qais?" Aku (Abu Musa) berkata, "Demi Dzat yang mengutusmu dengan kebenaran, aku tidak tahu apa yang mereka inginkan, aku juga tidak tahu bahwa keduanya juga minta pekerjaan. Seakan aku melihat siwak yang berada di bawah bibir beliau telah menyusut. Beliau lalu bersabda: "Sekali-kali kami tidak akan memperkerjakan, atau beliau mengatakan, "tidak akan memperkerjakan orang yang menghendakinya untuk melakukan pekerjaan kami. Wahai Abu Musa, pergilah engkau, atau beliau mengatakan, "Wahai Abu Abdullah bin Qais." Rasulullah kemudian mengutus Abu Musa ke Yaman yang kemudian disusul Mu'adz bin Jabal. Ketika Mu'adz datang, Abu Musa berkata, "Turunlah kemari." Kemudian Abu Musa mengambilkan bantal untuk Mu'adz. Namun tiba-tiba di sisinya (Mu'adz) ada seorang laki-laki yang terikat, Mu'adz bertanya, "Siapa ini?" Abu Musa menjawab, "Ini adalah seorang laki-laki yahudi, ia pernah masuk Islam, namun ia kembali lagi kepada agamanya yang jelek." Mu'adz lalu berkata, "Aku tidak akan duduk hingga ia dibunuh, sebagai bentuk dari ketetapan Allah dan Rasul-Nya." Hal itu ia ucapkan hingga tiga kali. Abu Musa berkata, "Baiklah, sekarang duduklah." Mu'adz berkata, "Aku tidak akan duduk hingga ia dibunuh, sebagai bentuk dari ketetapan Allah dan Rasul-Nya." Hal itu ia ucapkan hingga tiga kali. Abu Musa kemudian memerintahkan hukuman tersebut, dan laki-laki itu pun dihumum mati. Setelah itu mereka menyebut-nyebut tentang shalat malam, salah seorang dari keduanya (Mu'adz bin Jabal) lalu berkata, "Aku tidur dan bangun, atau ia mengatakan, "bangun dan tidur. Dan aku berharap disaat tidurku mendapatkan (pahala) sebagaimana saat aku terjaga
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Бурды, что Абу Муса сказал: «Однажды я пришёл к Пророку ﷺ вместе с двумя аш‘аритами (то есть соплеменниками Абу Мусы), один из которых стоял справа от меня, а другой слева. Каждый из них попросил назначить его на какую-нибудь должность. Пророк ﷺ в это время молчал, а потом сказал: “Что скажешь, о Абу Муса (или: о ‘Абдуллах ибн Кайс)?” Я сказал: “Клянусь Тем, Кто послал тебя с истиной, они не сообщали мне, что у них на уме, и я не знал, что они собираются просить об этом”. И я будто и сейчас вижу сивак под его приподнятой губой. Потом (Посланник Аллаха ﷺ) сказал: “Мы никогда не назначим (или: не назначаем) на должность того, кто сам добивается этого! Ступай же (и займи должность) ты, о Абу Муса (или: о ‘Абдуллах ибн Кайс)” И Посланник Аллаха ﷺ послал Абу Мусу управлять Йеменом, а следом за ним отправил Му‘аза ибн Джабаля».(Абу Бурда) сказал: «Когда Му‘аз приехал к (Абу Мусе), тот сказал: “Садись здесь”. И он положил для него подушку. Тут Му‘аз увидел у Абу Мусы связанного человека и спросил: “Что это?” Абу Муса сказал: “Этот человек был иудеем, потом принял ислам, а потом снова вернулся к своей религии недоброй религии”. Му‘аз сказал: “Я не сяду, пока его не казнят, ибо таково решение Аллаха и Его посланника”. (Абу Муса) сказал: “Садись же, хорошо”. (Му‘аз) сказал: “Я не сяду, пока его не казнят, ибо таково решение Аллаха и Его посланника”. Это повторилось трижды. Тогда (Абу Муса) отдал веление и того человека казнили. Потом они стали говорить о ночных молитвах, и один из них Му‘аз ибн Джабаль сказал: “Что касается меня, то я и сплю, и молюсь (или: и молюсь, и сплю), надеясь (получить награду от Аллаха) как за свой сон (ложусь спать с намерением набраться сил для поклонения Аллаху), так и за свои молитвы”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
 
 ## Turkish
 
+Ebu Mûsâ (r.a), şöyle demiştir: Yanımda Eş'arilerden iki adamla birlikte Rasulullah (s.a.v.)'e geldim. Adamlardan birisi sağımda birisi solumda idi. Her ikisi de Rasulullah'tan görev istediler. Rasulullah susmakta idi. Bunun üzerine: " Ne diyorsun ya Ebu Musa? veya: Ya Abdullah b. Kays?" dedi. Seni hak (din) ile gönderen Allah'a yemin ederim ki, gönüllerindekini bana söylemediler ve onların görev isteyeceklerinin farkına dahi varmadım, dedim. Sanki ben şu anda Rasulullah'ın dudağı altında misvakinin yükseldiğini görür gibiyim. Rasulullah (s.a.v.): "Biz işimize asla onu isteyeni tayin etmeyeceğiz - veya onu isteyeni ta­yin etmeyiz \[Şek ravinindir\] - ama, ey Ebu Musa - yada Abdullah b. Kays- sen git" buyurdu ve onu Yemen'e gönderdi. Sonra peşinden Muaz b. Cebel (r.a)'i de gönderdi.Râvi der ki: Muaz, Ebu Musa'nın yanına varınca Ebu Musa, "in" (buyur) dedi ve onun için bir minder serdi. Muaz, Ebu Musa'nın yanında bağlı bir adam gördü ve: Bu ne? dedi Ebu Musa: Bu yahidi idi, müslüman oldu, sonra tekrar dinine; kötü dinine döndü, de­di. Muaz: O öldürülmedikçe oturmam. Bu, Allah'ın ve Rasulünün hükmüdür, dedi. Ebu Musa: Otur, evet, dedi. Muaz üç kere: O Öldürülünceye kadar oturmam. Bu Allah'ın ve Rasulünün hükmüdür, dedi. Bunun üzerine Ebû Musa emretti ve adam öldürüldü. Sonra bu iki sahabe gece namazını tartıştılar. Muaz: "Ben uyurum da, namaz da kılarım; veya: namaz da kılarım uyurum da.\[Şek ravinindir\] Namazımda umduğumu (sevabı) uykum halinde de umarım" dedi. Diğer tahric edenler: Buhari. istitabetü'l-mürteddin; Müslim, imare; Ahmed b. Hanbel, IV, 409. Hadisin izahı 4357 no'lu hadisten sonra gelecektir
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Mûsâ (r.a), şöyle demiştir: Yanımda Eş'arilerden iki adamla birlikte Rasulullah (s.a.v.)'e geldim. Adamlardan birisi sağımda birisi solumda idi. Her ikisi de Rasulullah'tan görev istediler. Rasulullah susmakta idi. Bunun üzerine: " Ne diyorsun ya Ebu Musa? veya: Ya Abdullah b. Kays?" dedi. Seni hak (din) ile gönderen Allah'a yemin ederim ki, gönüllerindekini bana söylemediler ve onların görev isteyeceklerinin farkına dahi varmadım, dedim. Sanki ben şu anda Rasulullah'ın dudağı altında misvakinin yükseldiğini görür gibiyim. Rasulullah (s.a.v.): "Biz işimize asla onu isteyeni tayin etmeyeceğiz - veya onu isteyeni ta­yin etmeyiz [Şek ravinindir] - ama, ey Ebu Musa - yada Abdullah b. Kays- sen git" buyurdu ve onu Yemen'e gönderdi. Sonra peşinden Muaz b. Cebel (r.a)'i de gönderdi.Râvi der ki: Muaz, Ebu Musa'nın yanına varınca Ebu Musa, "in" (buyur) dedi ve onun için bir minder serdi. Muaz, Ebu Musa'nın yanında bağlı bir adam gördü ve: Bu ne? dedi Ebu Musa: Bu yahidi idi, müslüman oldu, sonra tekrar dinine; kötü dinine döndü, de­di. Muaz: O öldürülmedikçe oturmam. Bu, Allah'ın ve Rasulünün hükmüdür, dedi. Ebu Musa: Otur, evet, dedi. Muaz üç kere: O Öldürülünceye kadar oturmam. Bu Allah'ın ve Rasulünün hükmüdür, dedi. Bunun üzerine Ebû Musa emretti ve adam öldürüldü. Sonra bu iki sahabe gece namazını tartıştılar. Muaz: "Ben uyurum da, namaz da kılarım; veya: namaz da kılarım uyurum da.[Şek ravinindir] Namazımda umduğumu (sevabı) uykum halinde de umarım" dedi. Diğer tahric edenler: Buhari. istitabetü'l-mürteddin; Müslim, imare; Ahmed b. Hanbel, IV, 409. Hadisin izahı 4357 no'lu hadisten sonra gelecektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوموسیٰ اشعری رضی اللہ عنہ کہتے ہیں میں نبی اکرم صلی اللہ علیہ وسلم کے پاس آیا، میرے ساتھ قبیلہ اشعر کے دو شخص تھے، ایک میرے دائیں طرف تھا دوسرا بائیں طرف، تو دونوں نے آپ سے عامل کا عہدہ طلب کیا، اور آپ صلی اللہ علیہ وسلم خاموش رہے، پھر فرمایا: ابوموسیٰ! یا فرمایا: عبداللہ بن قیس! تم کیا کہتے ہو؟ میں نے عرض کیا: قسم ہے اس ذات کی جس نے آپ کو حق کے ساتھ بھیجا، ان دونوں نے مجھے اس چیز سے آگاہ نہیں کیا تھا جو ان کے دل میں تھا، اور مجھے نہیں معلوم تھا کہ وہ آپ سے عامل بنائے جانے کا مطالبہ کریں گے، گویا میں اس وقت آپ کی مسواک کو دیکھ رہا ہوں، وہ آپ صلی اللہ علیہ وسلم کے مسوڑھے کے نیچے تھی اور مسوڑھا اس کی وجہ سے اوپر اٹھا ہوا تھا، پھر آپ صلی اللہ علیہ وسلم نے فرمایا: ہم اپنے کام پر اس شخص کو ہرگز عامل نہیں بنائیں گے یا عامل نہیں بناتے جو عامل بننے کی خواہش کرے، لیکن اے ابوموسیٰ! یا آپ نے فرمایا: اے عبداللہ بن قیس! اس کام کے لیے تم جاؤ چنانچہ آپ صلی اللہ علیہ وسلم نے انہیں بھیج دیا، پھر ان کے پیچھے معاذ بن جبل رضی اللہ عنہ کو بھیجا، جب معاذ بن جبل رضی اللہ عنہ ان کے پاس آئے تو انہوں نے کہا: اترو، اور ایک گاؤ تکیہ ان کے لیے لگا دیا، تو اچانک وہ کیا دیکھتے ہیں کہ ایک آدمی ان کے پاس بندھا ہوا ہے، معاذ رضی اللہ عنہ نے پوچھا: یہ کیسا آدمی ہے؟ ابوموسیٰ نے کہا: یہ ایک یہودی تھا جو اسلام لے آیا تھا، لیکن اب پھر وہ اپنے باطل دین کی طرف پھر گیا ہے، معاذ رضی اللہ عنہ نے کہا: اللہ اور اس کے رسول کے فیصلہ کے مطابق جب تک یہ قتل نہ کر دیا جائے میں نہیں بیٹھ سکتا، ابوموسیٰ نے کہا: اچھا بیٹھئیے، معاذ نے پھر کہا: اللہ اور اس کے رسول کے فیصلہ کی رو سے جب تک وہ قتل نہ کر دیا جائے میں نہیں بیٹھ سکتا، آپ نے تین بار ایسا کہا، چنانچہ انہوں نے اس کے قتل کا حکم دیا، وہ قتل کر دیا گیا، ( پھر وہ بیٹھے ) پھر ان دونوں نے آپس میں قیام اللیل ( تہجد کی نماز ) کا ذکر کیا تو ان دونوں میں سے ایک نے غالباً وہ معاذ بن جبل رضی اللہ عنہ تھے کہا: رہا میں، تو میں سوتا بھی ہوں، اور قیام بھی کرتا ہوں، یا کہا قیام بھی کرتا ہوں اور سوتا بھی ہوں، اور بحالت نیند بھی اسی ثواب کی امید رکھتا ہوں جو بحالت قیام رکھتا ہوں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6923) Sahih Muslim (1824)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4354</td></tr><tr><td>Arabic No</td><td>4354</td></tr><tr><td>Reference</td><td>Book 40 Hadith 4</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6923) Sahih Muslim (1824) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4354 |
+| Arabic No | 4354 |
+| Reference | Book 40 Hadith 4 |

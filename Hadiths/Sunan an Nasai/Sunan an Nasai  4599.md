@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ طَاوُسٍ، عَنْ طَاوُسٍ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، يَقُولُ أَمَّا الَّذِي نَهَى عَنْهُ رَسُولُ اللَّهِ صلى الله عليه وسلم أَنْ يُبَاعَ حَتَّى يُسْتَوْفَى الطَّعَامُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |
+
 اخبرنا قتيبة، قال حدثنا سفيان، عن ابن طاوس، عن طاوس، قال سمعت ابن عباس، يقول اما الذي نهى عنه رسول الله صلى الله عليه وسلم ان يباع حتى يستوفى الطعام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিকারে আনার পূর্বে যা বিক্রয় করতে নিষেধ করেছেন, তা হলো খাদ্যবস্তু।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Tawus said:"I heard Ibn 'Abbas say: 'As for that which the Messenger of Allah forbade, (it is) selling before taking possession of food
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |
+
+## French
+
+Rapporté par Tawus : « J’ai entendu Ibn 'Abbas dire : “En ce qui concerne ce que le Messager d’Allah a interdit, c’est de vendre avant d’avoir pris possession de la nourriture.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] telah menceritakan kepada kami \[Sufyan\] dari \[Ibnu Thawus\] dari \[Thawus\], dia berkata; "Saya mendengar \[Ibnu Abbas\] berkata; "Adapun yang dilarang Rasulullah shallallahu 'alaihi wasallam untuk dijual hingga diambil adalah makanan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] telah menceritakan kepada kami [Sufyan] dari [Ibnu Thawus] dari [Thawus], dia berkata; "Saya mendengar [Ibnu Abbas] berkata; "Adapun yang dilarang Rasulullah shallallahu 'alaihi wasallam untuk dijual hingga diambil adalah makanan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4599</td></tr><tr><td>Arabic No</td><td>4599</td></tr><tr><td>Reference</td><td>Book 44 Hadith 151</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4599 |
+| Arabic No | 4599 |
+| Reference | Book 44 Hadith 151 |

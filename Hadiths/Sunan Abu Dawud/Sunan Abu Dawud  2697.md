@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا هَاشِمُ بْنُ الْقَاسِمِ، قَالَ حَدَّثَنَا عِكْرِمَةُ، قَالَ حَدَّثَنِي إِيَاسُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنِي أَبِي قَالَ، خَرَجْنَا مَعَ أَبِي بَكْرٍ وَأَمَّرَهُ عَلَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَغَزَوْنَا فَزَارَةَ فَشَنَنَّا الْغَارَةَ ثُمَّ نَظَرْتُ إِلَى عُنُقٍ مِنَ النَّاسِ فِيهِ الذُّرِّيَّةُ وَالنِّسَاءُ فَرَمَيْتُ بِسَهْمٍ فَوَقَعَ بَيْنَهُمْ وَبَيْنَ الْجَبَلِ فَقَامُوا فَجِئْتُ بِهِمْ إِلَى أَبِي بَكْرٍ فِيهِمُ امْرَأَةٌ مِنْ فَزَارَةَ وَعَلَيْهَا قِشْعٌ مِنْ أَدَمٍ مَعَهَا بِنْتٌ لَهَا مِنْ أَحْسَنِ الْعَرَبِ فَنَفَّلَنِي أَبُو بَكْرٍ ابْنَتَهَا فَقَدِمْتُ الْمَدِينَةَ فَلَقِيَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ لِي ‏"‏ يَا سَلَمَةُ هَبْ لِيَ الْمَرْأَةَ ‏"‏ ‏.‏ فَقُلْتُ وَاللَّهِ لَقَدْ أَعْجَبَتْنِي وَمَا كَشَفْتُ لَهَا ثَوْبًا ‏.‏ فَسَكَتَ حَتَّى إِذَا كَانَ مِنَ الْغَدِ لَقِيَنِي رَسُولُ اللَّهِ صلى الله عليه وسلم فِي السُّوقِ فَقَالَ ‏"‏ يَا سَلَمَةُ هَبْ لِيَ الْمَرْأَةَ لِلَّهِ أَبُوكَ ‏"‏ ‏.‏ فَقُلْتُ يَا رَسُولَ اللَّهِ وَاللَّهِ مَا كَشَفْتُ لَهَا ثَوْبًا وَهِيَ لَكَ ‏.‏ فَبَعَثَ بِهَا إِلَى أَهْلِ مَكَّةَ وَفِي أَيْدِيهِمْ أَسْرَى فَفَادَاهُمْ بِتِلْكَ الْمَرْأَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
+
 حدثنا هارون بن عبد الله، قال حدثنا هاشم بن القاسم، قال حدثنا عكرمة، قال حدثني اياس بن سلمة، قال حدثني ابي قال، خرجنا مع ابي بكر وامره علينا رسول الله صلى الله عليه وسلم فغزونا فزارة فشننا الغارة ثم نظرت الى عنق من الناس فيه الذرية والنساء فرميت بسهم فوقع بينهم وبين الجبل فقاموا فجيت بهم الى ابي بكر فيهم امراة من فزارة وعليها قشع من ادم معها بنت لها من احسن العرب فنفلني ابو بكر ابنتها فقدمت المدينة فلقيني رسول الله صلى الله عليه وسلم فقال لي " يا سلمة هب لي المراة " . فقلت والله لقد اعجبتني وما كشفت لها ثوبا . فسكت حتى اذا كان من الغد لقيني رسول الله صلى الله عليه وسلم في السوق فقال " يا سلمة هب لي المراة لله ابوك " . فقلت يا رسول الله والله ما كشفت لها ثوبا وهي لك . فبعث بها الى اهل مكة وفي ايديهم اسرى ففاداهم بتلك المراة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইয়াস ইবনু সালামাহ (রহঃ) থেকে তার পিতার সূত্রে বর্ণিত। তিনি (সালামাহ) বলেন, ‘আমরা আবূ বাকর (রাঃ)-এর সঙ্গে অভিযানে বের হওয়ার সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে আমাদের সেনাপতি নিযুক্ত করেন। ‘আমরা ফাযারাহ গোত্রের বিরুদ্ধে হামলা করে তাদেরকে তছনছ করে দেই। অতঃপর আমি কিছু লোক দেখতে পাই, যাদের সাথে শিশু ও নারী ছিলো। আমি একটি তীর ছুঁড়লে সেটা তাদের এবং পাহাড়ের মাঝখানে গিয়ে পড়ে। এতে তারা দাঁড়িয়ে যায়। আমি তাদেরকে ধরে আবূ বাকরের কাছে নিয়ে আসি। তাদের মধ্যে ফাযারাহ গোত্রের এক মহিলা ছিলো। সে শুকনা চামড়া পরা ছিলো। তার কন্যাও তার সাথে ছিলো। ঐ কন্যাটি আরবের অন্যতম সুন্দরী। তার কন্যাকে আবূ বাকর (রাঃ) আমাকে (গানীমাত হিসাবে) প্রদান করেন। আমি মদীনায় ফিরে এলে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার সাথে সাক্ষাৎ করে আমাকে বললেনঃ হে সালামাহ! কন্যাটি আমাকে উপহার দিয়ে দাও। আমি বললাম, আল্লাহর শপথ! তার সৌন্দর্য আমাকে হতবাক করেছে। আমি তার পোশাক খুলিনি। তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) নিশ্চুপ থাকলেন। পরের দিন সকালে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বাজারে আমার সাথে সাক্ষাত করলেন। তিনি আমাকে বললেনঃ হে সালামাহ! তুমি আল্লাহর ওয়াস্তে কন্যাটি আমাকে দিয়ে দাও। আমি বললাম, হে আল্লাহর রাসূল! আল্লাহর শপথ! আমি তার পোশাক খুলিনি। সে আপনার জন্যই। কন্যাটিকে তিনি মক্কাহ্বাসীদের কাছে পাঠিয়ে দিলেন। মক্কাবাসীদের হাতে কিছু মুসলিম বন্দী ছিলো। তাদের মুক্তির জন্য তিনি মেয়েটিকে বিনিময় হিসাবে মক্কায় ফেরত দিয়ে তাদেরকে মুক্ত করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salamah said “We went out (on an expedition) with Abu Bakr. The Apostle of Allaah(ﷺ) appointed him commander over us. We attacked Fazarah and took them from all sides. I then saw a group of people which contained children and women. I shot an arrow towards them, but it fell between them and the mountain. They stood; I brought them to Abu Bakr. There was among them a woman of Fazarah. She wore a skin over her and her daughter who was the most beautiful of the Arabs was with her. Abu Bakr gave her daughter to me as a reward. I came back to Madeenah. The Apostle of Allaah(ﷺ) met me and said to me “Give me the woman, Salamah. I said to him, I swear by Allaah, she is to my liking and I have not yet untied he garment. He kept silence, and when the next day came the Apostle of Allaah(ﷺ) met me in the market and said to me “Give me the woman, Salamah, by Allaah, your father. I said the Apostle of Allaah, I have not yet untied her garment. I swear by Allaah, she is now yours. He sent her to the people of Makkah who had (some Muslims) prisoners in their hands. They released them for this woman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
+
+## French
+
+Salamah رضي الله عنه a dit : Nous sommes partis en expédition avec Abu Bakr. Le Messager d’Allah ﷺ l’avait nommé chef sur nous. Nous avons attaqué Fazarah et les avons encerclés de tous côtés. J’ai alors vu un groupe de personnes où il y avait des enfants et des femmes. J’ai tiré une flèche vers eux, mais elle est tombée entre eux et la montagne. Ils se sont arrêtés ; je les ai amenés à Abu Bakr. Parmi eux, il y avait une femme de Fazarah. Elle portait une peau sur elle et sa fille, qui était la plus belle des Arabes, était avec elle. Abu Bakr m’a donné sa fille comme récompense. Je suis revenu à Médine. Le Messager d’Allah ﷺ m’a rencontré et m’a dit : « Donne-moi la femme, Salamah. » Je lui ai dit : « Par Allah, elle me plaît et je ne l’ai pas encore touchée. » Il est resté silencieux, puis le lendemain, le Messager d’Allah ﷺ m’a rencontré au marché et m’a dit : « Donne-moi la femme, Salamah, par Allah, ton père. » J’ai dit : « Ô Messager d’Allah, je ne l’ai pas encore touchée. Par Allah, elle est maintenant à toi. » Il l’a envoyée aux gens de La Mecque qui détenaient des prisonniers musulmans. Ils les ont libérés en échange de cette femme
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Harun bin Abdullah\], ia berkata; telah menceritakan kepada kami \[Hisyam bin Al Qasim\], ia berkata; telah menceritakan kepada kami \[Ikrimah\], ia berkata; telah menceritakan kepadaku \[Iyas bin Salamah\], ia berkata; telah menceritakan kepadaku \[ayahku\], ia berkata; kami keluar bersama Abu Bakr dan Rasulullah shallallahu 'alaihi wasallam telah menjadikannya pemimpin atas kami. Kemudian kami memerangi Fazarah dan kami menyerbu dari setiap penjuru. Kemudian aku melihat kepada sekelompok orang padanya terdapat anak-anak dan wanita. Lalu aku memanah dan jatuh diantara mereka dan gunung, kemudian mereka berdiri. Lalu aku datang membawa mereka kepada Abu Bakr, dan diantara mereka terdapat seorang wanita dari Fazarah di atasnya terdapat keranjang dari kulit, dan ia membawa seorang anak wanita yang merupakan diantara wanita Arab yang tercantik. Lalu Abu Bakr memberikan anaknya kepadaku, kemudian aku datang ke Madinah dan bertemu dengan Rasulullah shallallahu 'alaihi wasallam. Beliau berkata: "Wahai Salamah, berikan wanita tersebut kepadaku!" Lalu aku katakan; wahai Rasulullah, ia telah membuatku terkagum dan aku belum menggaulinya. Lalu beliau terdiam hingga keesokan harinya Rasulullah shallallahu 'alaihi wasallam bertemu denganku di pasar dan beliau berkata; wahai Salamah, berikan wanita tersebut kepadaku, semoga engkau beruntung. Lalu aku katakan; wahai Rasulullah, demi Allah, aku belum mengaulinya, ia untuk engkau. Kemudian beliau mengirim wanita tersebut kepada penduduk Mekkah yang membawa beberapa orang tawanan, dan beliau menebus mereka dengan wanita tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Harun bin Abdullah], ia berkata; telah menceritakan kepada kami [Hisyam bin Al Qasim], ia berkata; telah menceritakan kepada kami [Ikrimah], ia berkata; telah menceritakan kepadaku [Iyas bin Salamah], ia berkata; telah menceritakan kepadaku [ayahku], ia berkata; kami keluar bersama Abu Bakr dan Rasulullah shallallahu 'alaihi wasallam telah menjadikannya pemimpin atas kami. Kemudian kami memerangi Fazarah dan kami menyerbu dari setiap penjuru. Kemudian aku melihat kepada sekelompok orang padanya terdapat anak-anak dan wanita. Lalu aku memanah dan jatuh diantara mereka dan gunung, kemudian mereka berdiri. Lalu aku datang membawa mereka kepada Abu Bakr, dan diantara mereka terdapat seorang wanita dari Fazarah di atasnya terdapat keranjang dari kulit, dan ia membawa seorang anak wanita yang merupakan diantara wanita Arab yang tercantik. Lalu Abu Bakr memberikan anaknya kepadaku, kemudian aku datang ke Madinah dan bertemu dengan Rasulullah shallallahu 'alaihi wasallam. Beliau berkata: "Wahai Salamah, berikan wanita tersebut kepadaku!" Lalu aku katakan; wahai Rasulullah, ia telah membuatku terkagum dan aku belum menggaulinya. Lalu beliau terdiam hingga keesokan harinya Rasulullah shallallahu 'alaihi wasallam bertemu denganku di pasar dan beliau berkata; wahai Salamah, berikan wanita tersebut kepadaku, semoga engkau beruntung. Lalu aku katakan; wahai Rasulullah, demi Allah, aku belum mengaulinya, ia untuk engkau. Kemudian beliau mengirim wanita tersebut kepada penduduk Mekkah yang membawa beberapa orang tawanan, dan beliau menebus mereka dengan wanita tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Seleme'den; dedi ki: Biz Ebu Bekir'le birlikte (bir sefere) çıktık. Rasûlullah (S.A.V.) onu bizim başımıza kumandan tayin etmişti. Fezâre (kabilesi) ile savaş'a başladık. Süvarileri (hücum için) dağıttık sonra içlerinde çocuk(lar) ve kadınlar bulunan bir topluluğa bak (maya başla) dım. (Onlara doğru) bir ok attım, (ok) onlarla dağın arasında düştü. (Okun düştüğünü görünce ileri gidemeyip orada) durdular. Ben de onları (alıp) Ebu Bekr'e getirdim. İçlerinde üzerinde deriden bir yaygı (elbise) bulunan Fezare (kabilesin)den bir kadın vardı. Yanında da bir kızı vardı ki arabın en güzel (ler) indendi. Ebu Bekir de bana o kadının kızını nefel (fazladan) olarak verdi. Bunun üzerine Medine'ye geldim. Derken Rasûlullah (S.A.V.) bana rastladı ve; "Ey Seleme! Bu kadını bana bağışla” dedi. Ben de; Vallahi (o) benim hoşuma gitti. Ve daha elbisesini bile açmadım, dedim. Sükut etti. Ertesi gün olunca Rasûlullah (S.A.V.) çarşıda (yine) bana rastladı ve; "Ey Seleme! Bu kadını bana bağışla" dedi. Ben de; Vallahi (o) benim hoşuma gitti. Ve daha elbisesini bile açmadım dedim. Sükut etti. Ertesi gün olunca Rasûlullah (S.A.V.) çarşıda (yine) bana rastladı ve; "Ey Seleme! Baban Allah'a emanet (Bu) kadını bana bağışla." dedi. Ben de; Ey Allah'ın rasûlü ben henüz onun elbisesini bile açmadım. O senin olsun, dedim. Bunun üzerine o kızı Mekkelilere gönderdi. Mekkelilerin elinde (müslüman) esirler vardı. O esirleri de (Mekkelilerden) bu kadına karşılık olarak aldı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلمہ بن الاکوع رضی اللہ عنہ کہتے ہیں کہ ہم ابوبکر رضی اللہ عنہ کے ساتھ نکلے، رسول اللہ صلی اللہ علیہ وسلم نے ان کو ہمارا امیر بنایا تھا، ہم نے قبیلہ بنی فزارہ سے جنگ کی، ہم نے ان پر اچانک حملہ کیا، کچھ بچوں اور عورتوں کی گردنیں ہمیں نظر آئیں، تو میں نے ایک تیر چلائی، تیر ان کے اور پہاڑ کے درمیان جا گرا وہ سب کھڑے ہو گئے، پھر میں ان کو پکڑ کر ابوبکر رضی اللہ عنہ کے پاس لایا، ان میں فزارہ کی ایک عورت تھی، وہ کھال پہنے ہوئی تھی، اس کے ساتھ اس کی لڑکی تھی جو عرب کی حسین ترین لڑکیوں میں سے تھی، ابوبکر رضی اللہ عنہ نے مجھے اس کی بیٹی کو بطور انعام دے دیا، میں مدینہ آیا تو رسول اللہ صلی اللہ علیہ وسلم سے میری ملاقات ہوئی تو آپ نے فرمایا: سلمہ! اس عورت کو مجھے ہبہ کر دو ، میں نے کہا: اللہ کی قسم وہ لڑکی مجھے پسند آئی ہے، اور میں نے ابھی تک اس کا کپڑا نہیں ہٹایا ہے، آپ خاموش ہو گئے، جب دوسرا دن ہوا تو رسول اللہ صلی اللہ علیہ وسلم پھر مجھے بازار میں ملے اور فرمایا: سلمہ! اس عورت کو مجھے ہبہ کر دو، قسم ہے اللہ کی ۱؎، میں نے کہا: اللہ کے رسول! اللہ کی قسم! میں نے ابھی تک اس کا کپڑا نہیں ہٹایا ہے، اور وہ آپ کے لیے ہے، پھر آپ صلی اللہ علیہ وسلم نے اسے مکہ والوں کے پاس بھیج دیا، اور اس کے بدلے میں ان کے پاس جو مسلمان قیدی تھے انہیں چھڑا لیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1755)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2697</td></tr><tr><td>Arabic No</td><td>2697</td></tr><tr><td>Reference</td><td>Book 15 Hadith 221</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1755) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2697 |
+| Arabic No | 2697 |
+| Reference | Book 15 Hadith 221 |

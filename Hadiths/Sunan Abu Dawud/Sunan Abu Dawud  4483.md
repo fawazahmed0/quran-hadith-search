@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا حَمَّادٌ، عَنْ حُمَيْدِ بْنِ يَزِيدَ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ بِهَذَا الْمَعْنَى قَالَ وَأَحْسِبُهُ قَالَ فِي الْخَامِسَةِ ‏ "‏ إِنْ شَرِبَهَا فَاقْتُلُوهُ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَكَذَا فِي حَدِيثِ أَبِي غُطَيْفٍ فِي الْخَامِسَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
+
 حدثنا موسى بن اسماعيل، حدثنا حماد، عن حميد بن يزيد، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم قال بهذا المعنى قال واحسبه قال في الخامسة " ان شربها فاقتلوه " . قال ابو داود وكذا في حديث ابي غطيف في الخامسة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ... উপরের হাদীসের সমার্থবোধক। এতে রয়েছেঃ আমার ধারণা, তিনি পঞ্চমবারে বলেছেনঃ আবারো যদি সে মদ পান করে তবে তাকে হত্যা করো। ইমাম আবূ দাঊদ (রহঃ) বলেন, আবূ গুতাইফ বর্ণিত হাদীসেরও পঞ্চমবারের কথা উল্লেখ আছে।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ ... উপরের হাদীসের সমার্থবোধক। এতে রয়েছেঃ আমার ধারণা, তিনি পঞ্চমবারে বলেছেনঃ আবারো যদি সে মদ পান করে তবে তাকে হত্যা করো। ইমাম আবূ দাঊদ (রহঃ) বলেন, আবূ গুতাইফ বর্ণিত হাদীসেরও পঞ্চমবারের কথা উল্লেখ আছে।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Ibn ‘Umar through a different chain of narrators to the same effect. This version has :I think he said for the fifth time: If he drinks it, kill him. Abu Dawud said: And similarly the word “a fifth time” occurs in the tradition of Abu Ghutaif
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
+
+## French
+
+Le récit précédent a aussi été transmis par Ibn ‘Umar رضي الله عنه par une autre chaîne de transmetteurs avec le même sens. Cette version précise : Je crois qu’il a dit pour la cinquième fois : « S’il boit encore, tuez-le. » Abu Dawud a dit : De même, l’expression « une cinquième fois » se trouve dans la version d’Abu Ghutaif
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн ‘Умар, да будет доволен Аллах им и его отцом, передал похожий хадис, сказав: «И, кажется, на пятый раз он сказал: “Если он выпьет снова, то убейте его”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nafi, İbn Ömer radıyallahü anh vasıtasıyla Rasûlullah (s.a.v.)'den bu (önceki 4482.) hadisi manası ile rivayet etmiştir. Ravi (bu rivayette) şöyle demiştir: Zannediyorum, (şeyhim) beşincisinde: "Eğer (yine) içerse onu öldürünüz" buyurdu. Ebu Dayud der ki: "Ebu Gutayfın hadisinde de; "beşincisinde" şeklindedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ایسے ہی فرمایا ہے، اس میں یہ ہے کہ میرا خیال ہے کہ پانچویں بار میں فرمایا: پھر اگر وہ پئے تو اسے قتل کر دو ۔ ابوداؤد کہتے ہیں: اسی طرح ابوغطیف کی روایت میں پانچویں بار کا ذکر ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4483</td></tr><tr><td>Arabic No</td><td>4483</td></tr><tr><td>Reference</td><td>Book 40 Hadith 133</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4483 |
+| Arabic No | 4483 |
+| Reference | Book 40 Hadith 133 |

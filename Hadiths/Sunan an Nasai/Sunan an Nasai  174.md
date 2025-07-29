@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِبْرَاهِيمُ بْنُ يَعْقُوبَ، قَالَ حَدَّثَنَا عَبْدُ الصَّمَدِ بْنُ عَبْدِ الْوَارِثِ، قَالَ حَدَّثَنَا أَبِي، عَنْ حُسَيْنٍ الْمُعَلِّمِ، قَالَ حَدَّثَنِي يَحْيَى بْنُ أَبِي كَثِيرٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ عَمْرٍو الأَوْزَاعِيِّ، أَنَّهُ سَمِعَ الْمُطَّلِبَ بْنَ عَبْدِ اللَّهِ بْنِ حَنْطَبٍ، يَقُولُ قَالَ ابْنُ عَبَّاسٍ أَتَوَضَّأُ مِنْ طَعَامٍ أَجِدُهُ فِي كِتَابِ اللَّهِ حَلاَلاً لأَنَّ النَّارَ مَسَّتْهُ فَجَمَعَ أَبُو هُرَيْرَةَ حَصًى فَقَالَ أَشْهَدُ عَدَدَ هَذَا الْحَصَى أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ تَوَضَّئُوا مِمَّا مَسَّتِ النَّارُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |
+
 اخبرنا ابراهيم بن يعقوب، قال حدثنا عبد الصمد بن عبد الوارث، قال حدثنا ابي، عن حسين المعلم، قال حدثني يحيى بن ابي كثير، عن عبد الرحمن بن عمرو الاوزاعي، انه سمع المطلب بن عبد الله بن حنطب، يقول قال ابن عباس اتوضا من طعام اجده في كتاب الله حلالا لان النار مسته فجمع ابو هريرة حصى فقال اشهد عدد هذا الحصى ان رسول الله صلى الله عليه وسلم قال " توضيوا مما مست النار
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবরাহীম ইবনু ইয়াকুব (রহঃ) ... আবদুর রহমান ইবনু আমর আল-আওযায়ী (রহঃ) থেকে বর্ণিত। তিনি মুত্তালিব ইবনু আবদুল্লাহ ইবনু হানতাব (রাঃ) কে বলতে শুনেছেন যে, ইবনু আব্বাস (রাঃ) বলেছেনঃ আগুন স্পর্শ করার কারণে কি ঐ খাদ্যের জন্য উযূ (ওজু/অজু/অযু) করতে হবে যাকে আমি আল্লাহর কিতাবে (কুরআনে) হালাল পেয়েছি? এতদশ্রবণে আবূ হুরায়রা (রাঃ) কতকগুলো পাথর টুকরা একত্রিত করলেন এবং বললেন আমি এই কংকর পরিমাণ সাক্ষ্য দিচ্ছি যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমরা উযূ (ওজু/অজু/অযু) করবে ঐ সকল বস্তু হতে যা আগুন স্পর্শ করেছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Abbas said:"Should I perform Wudu' after eating food that I see in the Book of Allah is permissible because fire has touched it?" Abu Hurairah gathered some pebbles and said: "I bear witness (as many times as) the number of these pebbles, that the Messenger of Allah (ﷺ) said: 'Perform Wudu' from that which has been touched by fire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |
+
+## French
+
+Rapporté par Ibn 'Abbas : « Dois-je faire les ablutions après avoir mangé un aliment que je vois permis dans le Livre d’Allah simplement parce qu’il a été exposé au feu ? » Abu Hurairah a ramassé quelques cailloux et a dit : « Je témoigne autant de fois qu’il y a de ces cailloux, que le Messager d’Allah (ﷺ) a dit : “Faites les ablutions après avoir touché ce qui a été exposé au feu.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ibrahim bin Ya'qub\] dia berkata; telah menceritakan kepada kami \[Abdu Shamad bin Abdul Warits\] berkata; telah menceritakan kepada kami \[Bapakku\] dari \[Husain Al Mu'allim\] berkata; telah menceritakan kepadaku \[Yahya bin Abu Katsir\] dari \[Abdurrahman bin Amr Al Auza'i\] bahwasannya dia mendengar \[Al Muthallib bin Abdullah bin Hanthab\] berkata; Ibnu Abbas berkata: "Apakah aku harus wudlu karena (makan) makanan halal yang aku dapati di dalam Al-Qur'an karena di sentuh (dimasak dengan) api?" lalu \[Abu Hurairah\] mengambil kerikil dan berkata, "Aku bersaksi sebanyak kerikil-kerikil ini, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: " Berwudlulah kalian karena memakan makanan yang dimasak dengan api
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ibrahim bin Ya'qub] dia berkata; telah menceritakan kepada kami [Abdu Shamad bin Abdul Warits] berkata; telah menceritakan kepada kami [Bapakku] dari [Husain Al Mu'allim] berkata; telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Abdurrahman bin Amr Al Auza'i] bahwasannya dia mendengar [Al Muthallib bin Abdullah bin Hanthab] berkata; Ibnu Abbas berkata: "Apakah aku harus wudlu karena (makan) makanan halal yang aku dapati di dalam Al-Qur'an karena di sentuh (dimasak dengan) api?" lalu [Abu Hurairah] mengambil kerikil dan berkata, "Aku bersaksi sebanyak kerikil-kerikil ini, bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: " Berwudlulah kalian karena memakan makanan yang dimasak dengan api
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہم کہتے ہیں کیا میں اس کھانے سے وضو کروں جسے میں اللہ تعالیٰ کی کتاب میں حلال پاتا ہوں، محض اس لیے کہ وہ آگ سے پکا ہوا ہے؟ تو ابوہریرہ رضی اللہ عنہ نے کچھ کنکریاں جمع کیں اور کہا: ان کنکریوں کی تعداد کے برابر گواہی دیتا ہوں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: آگ سے پکی چیزوں سے وضو کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>174</td></tr><tr><td>Arabic No</td><td>174</td></tr><tr><td>Reference</td><td>Book 1 Hadith 175</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 174 |
+| Arabic No | 174 |
+| Reference | Book 1 Hadith 175 |

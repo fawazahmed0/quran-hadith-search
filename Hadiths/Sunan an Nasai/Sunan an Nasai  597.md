@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَبْدَةُ بْنُ عَبْدِ الرَّحِيمِ، قَالَ حَدَّثَنَا ابْنُ شُمَيْلٍ، قَالَ حَدَّثَنَا كَثِيرُ بْنُ قَارَوَنْدَا، قَالَ سَأَلْنَا سَالِمَ بْنَ عَبْدِ اللَّهِ عَنِ الصَّلاَةِ، فِي السَّفَرِ فَقُلْنَا أَكَانَ عَبْدُ اللَّهِ يَجْمَعُ بَيْنَ شَىْءٍ مِنَ الصَّلَوَاتِ فِي السَّفَرِ فَقَالَ لاَ إِلاَّ بِجَمْعٍ ثُمَّ أَتَيْتُهُ فَقَالَ كَانَتْ عِنْدَهُ صَفِيَّةُ فَأَرْسَلَتْ إِلَيْهِ أَنِّي فِي آخِرِ يَوْمٍ مِنَ الدُّنْيَا وَأَوَّلِ يَوْمٍ مِنَ الآخِرَةِ ‏.‏ فَرَكِبَ وَأَنَا مَعَهُ فَأَسْرَعَ السَّيْرَ حَتَّى حَانَتِ الصَّلاَةُ فَقَالَ لَهُ الْمُؤَذِّنُ الصَّلاَةَ يَا أَبَا عَبْدِ الرَّحْمَنِ ‏.‏ فَسَارَ حَتَّى إِذَا كَانَ بَيْنَ الصَّلاَتَيْنِ نَزَلَ فَقَالَ لِلْمُؤَذِّنِ أَقِمْ فَإِذَا سَلَّمْتُ مِنَ الظُّهْرِ فَأَقِمْ مَكَانَكَ ‏.‏ فَأَقَامَ فَصَلَّى الظُّهْرَ رَكْعَتَيْنِ ثُمَّ سَلَّمَ ثُمَّ أَقَامَ مَكَانَهُ فَصَلَّى الْعَصْرَ رَكْعَتَيْنِ ثُمَّ رَكِبَ فَأَسْرَعَ السَّيْرَ حَتَّى غَابَتِ الشَّمْسُ فَقَالَ لَهُ الْمُؤَذِّنُ الصَّلاَةَ يَا أَبَا عَبْدِ الرَّحْمَنِ ‏.‏ فَقَالَ كَفِعْلِكَ الأَوَّلِ ‏.‏ فَسَارَ حَتَّى إِذَا اشْتَبَكَتِ النُّجُومُ نَزَلَ فَقَالَ أَقِمْ فَإِذَا سَلَّمْتُ فَأَقِمْ ‏.‏ فَصَلَّى الْمَغْرِبَ ثَلاَثًا ثُمَّ أَقَامَ مَكَانَهُ فَصَلَّى الْعِشَاءَ الآخِرَةَ ثُمَّ سَلَّمَ وَاحِدَةً تِلْقَاءَ وَجْهِهِ ثُمَّ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا حَضَرَ أَحَدَكُمْ أَمْرٌ يَخْشَى فَوْتَهُ فَلْيُصَلِّ هَذِهِ الصَّلاَةَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |
+
 اخبرنا عبدة بن عبد الرحيم، قال حدثنا ابن شميل، قال حدثنا كثير بن قاروندا، قال سالنا سالم بن عبد الله عن الصلاة، في السفر فقلنا اكان عبد الله يجمع بين شىء من الصلوات في السفر فقال لا الا بجمع ثم اتيته فقال كانت عنده صفية فارسلت اليه اني في اخر يوم من الدنيا واول يوم من الاخرة . فركب وانا معه فاسرع السير حتى حانت الصلاة فقال له الموذن الصلاة يا ابا عبد الرحمن . فسار حتى اذا كان بين الصلاتين نزل فقال للموذن اقم فاذا سلمت من الظهر فاقم مكانك . فاقام فصلى الظهر ركعتين ثم سلم ثم اقام مكانه فصلى العصر ركعتين ثم ركب فاسرع السير حتى غابت الشمس فقال له الموذن الصلاة يا ابا عبد الرحمن . فقال كفعلك الاول . فسار حتى اذا اشتبكت النجوم نزل فقال اقم فاذا سلمت فاقم . فصلى المغرب ثلاثا ثم اقام مكانه فصلى العشاء الاخرة ثم سلم واحدة تلقاء وجهه ثم قال قال رسول الله صلى الله عليه وسلم " اذا حضر احدكم امر يخشى فوته فليصل هذه الصلاة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবদা ইবনু আবদুর রহীম (রহঃ) ... কাছীর ইবনু কারাওয়ান্দা (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমরা সফরের সালাত সম্বন্ধে সালিম ইবনু আবদুল্লাহকে জিজ্ঞাসা করলাম যে, আপনার পিতা আবদুল্লাহ (রাঃ) সফরের একাধিক সালাত একত্রে আদায় করেছেন কি? উত্তরে বললেনঃ না, মুযদালিফা ব্যতীত আর কোথাও একত্রে আদায় করেননি। পুনরায় সতর্ক হয়ে ঘটনার উল্লেখ করে বললেনঃ সফিয়্যা আবদুল্লাহ (রাঃ)-এর স্ত্রী ছিলেন। সফিয়্যা (রাঃ) তাঁর নিকট খবর পাঠালেন যে, আমি পার্থিব জীবনের শেষ দিনে এবং আখিরাতের প্রথম দিনে উপনীত হয়েছি। সংবাদ পাওয়ামাত্রই তিনি আরোহন করলেন, আমিও তাঁর সঙ্গে ছিলাম। তিনি অত্যন্ত দ্রুতবেগে চললেন। পরে যখন সালাতের সময় হল, মুয়াযযিন বললেন, হে আবদূর রহমান! সালাত। তিনি চলতে লাগলেন। তারপর দুই সালাতের মাঝামাঝি সময়ে উপনীত হলেন, তখন অবতরণ করে মুয়াযযিনকে বললেনঃ ইকামত বল। যখন যোহরের সালাত সমাপ্ত করি তখন আবার সেখানে দাঁড়িয়েই ইকামত বলবে। ইকামত বলা হলে যোহরের দু’রাক’আত্ আদায় করলেন। আবার সেখানেই ইকামত দিলে আসরের দু’রাক’আত্ আদায় করে আরোহন করলেন এবং সুর্য অস্ত যাওয়ার পূর্ব পর্যন্ত দ্রুত চললেন। আবার মুয়াযযীন বললেন, হে আবদূর রহমান! সালাত। তিনি বললেনঃ পূর্বের মতই কাজ কর, এই বলে চলতে লাগলেন। তারপর যখন আকাশে তারকারাশি ছেয়ে গেল, তখন অবতরণ করেন এবং ইকামতের আদেশ দিলেন। বললেনঃ যখন সালাম ফিরাব, আবার ইকামত বলবে। তারপর মাগরিবের তিন রাক’আত্ আদায় করলেন। তারপর সেখানেই ইকামত বলে ইশার সালাত আদায় করলেন। তারপর একদিকে সালাম ফিরিয়ে বললেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যখন তোমাদের কারও সামনে এমন কোন কাজ দেখা দেয়, যা ফওত হয়ে যাওয়ার (ছুটে যাওয়ার) আশংকা থাকে, এভাবেই সালাত আদায় করে নেবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |
 
 ## English
 
+Kathir bin Qarawanda said:"We asked Salim bin 'Abdullah about prayer while traveling. We said: 'Did 'Abdullah combine any of his prayer while traveling?' He said: 'No, except at Jam'.'\[1\] Then he paused, and said: 'Safiyyah was married to him, and she sent word to him that she was in her last day in this world and the first day in the Hereafter. So he ride off in a hurry, and I was with him. The time for prayer came and the Mu'adhdhin said to him: 'The prayer, O Abu 'Abdur-Rahman! But he kept going until it was between the time for the two prayer. Then he stopped and said to the Mu'adhdhin: "Say the Iqamah, and when I say the Taslim at the end of Zuhr, say the Iqamah (again) straight away." So he said the Iqamah and he prayed Zuhr, two Rak'ahs, then he said the Iqamah (again) straight away, and he prayed 'Asr, two Rak'ahs. Then he rode off quickly until the sun set and the Mu'adhdhin said to him: "The prayer, O Abu 'Abdur-Rahman!" He said: "Do what you did before." He rode on until the starts appeared, then he stopped and said: "Say the Iqamah, then when I say the Taslim, say the Iqamah. So he said the Iqamah and he prayed Maghrib, three Rak'ahs, then he said the Iqamah (again) straight away and he prayed 'Isha', then he said one Taslim, turning his face. Then he said: "The Messenger of Allah (ﷺ) said: 'If any one of you has urgent need that he fears he may miss, let him pray like this
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Kathir bin Qarawanda said:"We asked Salim bin 'Abdullah about prayer while traveling. We said: 'Did 'Abdullah combine any of his prayer while traveling?' He said: 'No, except at Jam'.'[1] Then he paused, and said: 'Safiyyah was married to him, and she sent word to him that she was in her last day in this world and the first day in the Hereafter. So he ride off in a hurry, and I was with him. The time for prayer came and the Mu'adhdhin said to him: 'The prayer, O Abu 'Abdur-Rahman! But he kept going until it was between the time for the two prayer. Then he stopped and said to the Mu'adhdhin: "Say the Iqamah, and when I say the Taslim at the end of Zuhr, say the Iqamah (again) straight away." So he said the Iqamah and he prayed Zuhr, two Rak'ahs, then he said the Iqamah (again) straight away, and he prayed 'Asr, two Rak'ahs. Then he rode off quickly until the sun set and the Mu'adhdhin said to him: "The prayer, O Abu 'Abdur-Rahman!" He said: "Do what you did before." He rode on until the starts appeared, then he stopped and said: "Say the Iqamah, then when I say the Taslim, say the Iqamah. So he said the Iqamah and he prayed Maghrib, three Rak'ahs, then he said the Iqamah (again) straight away and he prayed 'Isha', then he said one Taslim, turning his face. Then he said: "The Messenger of Allah (ﷺ) said: 'If any one of you has urgent need that he fears he may miss, let him pray like this
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |
+
+## French
+
+Rapporté par Kathir bin Qarawanda : "Nous avons demandé à Salim bin 'Abdullah au sujet de la prière en voyage. Nous avons dit : ''Abdullah combinait-il ses prières en voyage ?' Il a dit : 'Non, sauf à Jam'.' Puis il a fait une pause et a dit : 'Safiyyah était mariée avec lui, et elle lui a envoyé un message disant qu'elle était dans son dernier jour dans ce monde et le premier dans l'au-delà. Il est donc parti rapidement, et j'étais avec lui. L'heure de la prière est arrivée et le muezzin lui a dit : 'La prière, ô Abu 'Abdur-Rahman !' Mais il a continué jusqu'à ce que ce soit entre les deux horaires de prière. Puis il s'est arrêté et a dit au muezzin : "Fais l'Iqamah, et quand je dis le Taslim à la fin de Zuhr, fais l'Iqamah (encore) tout de suite." Il a donc fait l'Iqamah et il a prié Zuhr, deux Rak'ah, puis il a fait l'Iqamah (encore) tout de suite et il a prié 'Asr, deux Rak'ah. Ensuite, il est reparti rapidement jusqu'à ce que le soleil se couche et le muezzin lui a dit : "La prière, ô Abu 'Abdur-Rahman !" Il a dit : "Fais comme tout à l'heure." Il a continué jusqu'à ce que les étoiles apparaissent, puis il s'est arrêté et a dit : "Fais l'Iqamah, puis quand je dis le Taslim, fais l'Iqamah." Il a donc fait l'Iqamah et il a prié Maghrib, trois Rak'ah, puis il a fait l'Iqamah (encore) tout de suite et il a prié 'Isha', puis il a fait un Taslim en tournant la tête. Ensuite, il a dit : "Le Messager d'Allah (ﷺ) a dit : 'Si l'un de vous a un besoin urgent et craint de le manquer, qu'il prie ainsi
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Abdah bin Abdurrahim\] dia berkata; Telah menceritakan kepada kami \[Ibnu Syumail\] dia berkata; Telah menceritakan kepada kami \[Katsir bin Qarawanda\], dia berkata; "Aku bertanya kepada \[Salim bin Abdullah\], "Apakah ayahmu (\[Abdullah\]) menjama' antara dua shalat dalam perjalanan? ' la menjawab, 'Tidak kecuali di Muzdalifah'. Kemudian aku mendatanginya, dan ia berkata, 'Di sampingnya ada Shafiyyah (istrinya), maka dia (shafiyyah) menulis surat kepada Salim, bahwa ia pada hari terakhir dari hari-harinya di dunia dan permulaan dari hari-harinya di akhirat. Lalu Salim segera menaiki kendaraannya dan aku bersamanya. Dia (Salim) memacu laju kendaraannya, hingga ketika saat shalat Zhuhur tiba berkatalah muadzin kepadanya, "Shalat wahai Abu Abdurahman!" namun beliau tetap berlalu hingga ketika sampai diantara dua shalat beliau turun dan berkata kepada muadzinnya, "Kumandangkan i iqamat, dan jika aku sudah mengucapkan salam (setelah shalat) dari shalat Zhuhur maka kumandangkan lag! iqamat." Lalu muadzin mengumandangkan iqamat, lantas ia (Salim) shalat Zhuhur dua rakaat kemudian salam. Kemudian shalat Ashar dua rakaat. Selanjutnya ia naik kendaraan lagi dan memacu lajunya hingga bila matahari telah terbenam, muadzin berkata kepadanya, "Shalat, wahai Abdurrahman!" la berkata, "Kerjakanlah seperti yang kamu lakukan saat Zhuhur dan Ashar." Kemudian dia berjalan lagi hingga ketika bintang mulai bertaburan iapun singgah, kemudian berkata kepada muadzin, "Kumandangkanlah iqamat dan jika aku telah salam (selesai shalat) maka kumandangkanlah iqamat lagi, lalu dia shalat" Kemudian dia selesai shalat Maghrib tiga rakaat dan dia tetap di tempatnya hingga shalat Isya yang terakhir, kemudian salam sekali dengan wajahnya. Lalu ia berkata, "Rasulullah Shallallahu'alaihi wasallam bersabda; "Bila salah seorang dari kalian menghadapi suatu perkara yang kalian khawatir akan kehilangannya, maka shalatlah seperti ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Abdah bin Abdurrahim] dia berkata; Telah menceritakan kepada kami [Ibnu Syumail] dia berkata; Telah menceritakan kepada kami [Katsir bin Qarawanda], dia berkata; "Aku bertanya kepada [Salim bin Abdullah], "Apakah ayahmu ([Abdullah]) menjama' antara dua shalat dalam perjalanan? ' la menjawab, 'Tidak kecuali di Muzdalifah'. Kemudian aku mendatanginya, dan ia berkata, 'Di sampingnya ada Shafiyyah (istrinya), maka dia (shafiyyah) menulis surat kepada Salim, bahwa ia pada hari terakhir dari hari-harinya di dunia dan permulaan dari hari-harinya di akhirat. Lalu Salim segera menaiki kendaraannya dan aku bersamanya. Dia (Salim) memacu laju kendaraannya, hingga ketika saat shalat Zhuhur tiba berkatalah muadzin kepadanya, "Shalat wahai Abu Abdurahman!" namun beliau tetap berlalu hingga ketika sampai diantara dua shalat beliau turun dan berkata kepada muadzinnya, "Kumandangkan i iqamat, dan jika aku sudah mengucapkan salam (setelah shalat) dari shalat Zhuhur maka kumandangkan lag! iqamat." Lalu muadzin mengumandangkan iqamat, lantas ia (Salim) shalat Zhuhur dua rakaat kemudian salam. Kemudian shalat Ashar dua rakaat. Selanjutnya ia naik kendaraan lagi dan memacu lajunya hingga bila matahari telah terbenam, muadzin berkata kepadanya, "Shalat, wahai Abdurrahman!" la berkata, "Kerjakanlah seperti yang kamu lakukan saat Zhuhur dan Ashar." Kemudian dia berjalan lagi hingga ketika bintang mulai bertaburan iapun singgah, kemudian berkata kepada muadzin, "Kumandangkanlah iqamat dan jika aku telah salam (selesai shalat) maka kumandangkanlah iqamat lagi, lalu dia shalat" Kemudian dia selesai shalat Maghrib tiga rakaat dan dia tetap di tempatnya hingga shalat Isya yang terakhir, kemudian salam sekali dengan wajahnya. Lalu ia berkata, "Rasulullah Shallallahu'alaihi wasallam bersabda; "Bila salah seorang dari kalian menghadapi suatu perkara yang kalian khawatir akan kehilangannya, maka shalatlah seperti ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کثیر بن قاروندا کہتے ہیں کہ ہم نے سالم بن عبداللہ سے سفر کی نماز کے بارے میں پوچھا، ہم نے کہا: کیا عبداللہ بن عمر رضی اللہ عنہم سفر میں جمع بین الصلاتین کرتے تھے؟ تو انہوں نے کہا: نہیں، سوائے مزدلفہ کے، پھر چونکے اور کہنے لگے: ان کے نکاح میں صفیہ تھیں، انہوں نے انہیں کہلوا بھیجا کہ میں دنیا کے آخری اور آخرت کے پہلے دن میں ہوں ۱؎ ( اس لیے آپ آ کر آخری ملاقات کر لیجئے ) ، تو وہ سوار ہوئے، اور میں اس ان کے ساتھ تھا، وہ تیز رفتاری سے چلتے رہے یہاں تک کہ نماز کا وقت آ گیا، تو ان سے مؤذن نے کہا: ابوعبدالرحمٰن! نماز پڑھ لیجئے، لیکن وہ چلتے رہے یہاں تک کہ دونوں نمازوں کا درمیانی وقت آ گیا، تو اترے اور مؤذن سے کہا: اقامت کہو، اور جب میں ظہر پڑھ لوں تو اپنی جگہ پر ( دوبارہ ) اقامت کہنا، چنانچہ اس نے اقامت کہی، تو انہوں نے ظہر کی دو رکعت پڑھائی، پھر سلام پھیرا، پھر تو ( مؤذن نے ) اپنی اسی جگہ پر پھر اقامت کہی، تو انہوں نے عصر کی دو رکعت پڑھائی، پھر سوار ہوئے اور تیزی سے چلتے رہے یہاں تک کہ سورج ڈوب گیا، تو مؤذن نے ان سے کہا: ابوعبدالرحمٰن نماز پڑھ لیجئے، تو انہوں نے کہا جیسے پہلے کیا تھا، اسی طرح کرو اور تیزی سے چلتے رہے یہاں تک کہ جب ستارے گھنے ہو گئے تو اترے، اور کہنے لگے: اقامت کہو، اور جب سلام پھیر چکوں تو دوبارہ اقامت کہنا، پھر انہوں نے مغرب کی تین رکعت پڑھائی، پھر اپنی اسی جگہ پر اس نے پھر تکبیر کہی تو انہوں نے عشاء پڑھائی، اور اپنے چہرہ کے سامنے ایک ہی سلام پھیرا، اور کہنے لگے: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کسی کو کوئی ایسا معاملہ درپیش ہو جس کے فوت ہونے کا اندیشہ ہو تو اسی طرح نماز پڑھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>597</td></tr><tr><td>Arabic No</td><td>597</td></tr><tr><td>Reference</td><td>Book 6 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 597 |
+| Arabic No | 597 |
+| Reference | Book 6 Hadith 104 |

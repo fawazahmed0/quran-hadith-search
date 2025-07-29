@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَبْدَةَ الضَّبِّيُّ، أَخْبَرَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي الدَّرَاوَرْدِيَّ - عَنِ الْعَلاَءِ، ح وَحَدَّثَنَا أُمَيَّةُ بْنُ بِسْطَامَ، - وَاللَّفْظُ لَهُ - حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا رَوْحٌ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ يَعْقُوبَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَشْهَدُوا أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَيُؤْمِنُوا بِي وَبِمَا جِئْتُ بِهِ فَإِذَا فَعَلُوا ذَلِكَ عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلاَّ بِحَقِّهَا وَحِسَابُهُمْ عَلَى اللَّهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا احمد بن عبدة الضبي، اخبرنا عبد العزيز، - يعني الدراوردي - عن العلاء، ح وحدثنا امية بن بسطام، - واللفظ له - حدثنا يزيد بن زريع، حدثنا روح، عن العلاء بن عبد الرحمن بن يعقوب، عن ابيه، عن ابي هريرة، عن رسول الله صلى الله عليه وسلم قال " امرت ان اقاتل الناس حتى يشهدوا ان لا اله الا الله ويومنوا بي وبما جيت به فاذا فعلوا ذلك عصموا مني دماءهم واموالهم الا بحقها وحسابهم على الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবনু আবদ আয যাববী (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণনা করেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেছেন, "আল্লাহ ব্যতীত প্রকৃত কোন ইলাহ নেই" এ কথার সাক্ষ্য না দেয়া পর্যন্ত এবং আমার প্রতি ও আমি যা নিয়ে এসেছি তার প্রতি ঈমান না আনা পর্যন্ত লোকদের বিরুদ্ধে যুদ্ধ করার জন্য আমি আদিষ্ট হয়েছি। এগুলো মেনে নিলে তারা তাদের জান-মালের নিরাপত্তা লাভ করবে- তবে শারীআত সম্মত কারণ ছাড়া। আর তাদের হিসাব-নিকাশ আল্লাহর কাছে। (ইসলামিক ফাউন্ডেশনঃ ৩৪, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is reported on the authority of Abu Huraira that he heard the Messenger of Allah say:I have been commanded to fight against people, till they testify to the fact that there is no god but Allah, and believe in me (that) I am the messenger (from the Lord) and in all that I have brought. And when they do it, their blood and riches are guaranteed protection on my behalf except where it is justified by law, and their affairs rest with Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « J’ai reçu l’ordre de combattre les gens jusqu’à ce qu’ils attestent qu’il n’y a pas d’autre dieu qu’Allah, qu’ils croient en moi comme messager et en tout ce que j’ai apporté. Lorsqu’ils le font, leur sang et leurs biens sont protégés de ma part, sauf si la loi l’exige, et le reste de leurs affaires dépend d’Allah. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Abdah adl-Dlabbi\] telah mengabarkan kepada kami \[Abdul Aziz\] -yaitu ad-Darawardi- dari \[al-Ala'\]. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami \[Umayyah bin Bistham\] dan lafazh tersebut miliknya, telah menceritakan kepada kami \[Yazid bin Zura'i\] telah menceritakan kepada kami \[Rauh\] dari \[al-Ala' bin Abdurrahman bin Ya'qub\] dari \[bapaknya\] dari \[Abu Hurairah\] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka bersaksi bahwa tidak ada tuhan (yang berhak disembah) melainkan Allah dan beriman kepadaku serta dengan al-Qur'an yang aku bawa, maka apabila mereka mengucapkan hal tersebut maka sungguh dia telah menjaga harta dan jiwanya dari (seranganku) kecuali disebabkan hak Islam. Dan hisab mereka diserahkan kepada Allah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Abdah adl-Dlabbi] telah mengabarkan kepada kami [Abdul Aziz] -yaitu ad-Darawardi- dari [al-Ala']. (dalam riwayat lain disebutkan) Dan telah menceritakan kepada kami [Umayyah bin Bistham] dan lafazh tersebut miliknya, telah menceritakan kepada kami [Yazid bin Zura'i] telah menceritakan kepada kami [Rauh] dari [al-Ala' bin Abdurrahman bin Ya'qub] dari [bapaknya] dari [Abu Hurairah] dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Aku diperintahkan untuk memerangi manusia hingga mereka bersaksi bahwa tidak ada tuhan (yang berhak disembah) melainkan Allah dan beriman kepadaku serta dengan al-Qur'an yang aku bawa, maka apabila mereka mengucapkan hal tersebut maka sungguh dia telah menjaga harta dan jiwanya dari (seranganku) kecuali disebabkan hak Islam. Dan hisab mereka diserahkan kepada Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Абу Хурайры о том, что Посланник Аллаха ﷺ сказал: «Мне было велено сражаться с этими людьми до тех пор, пока они не засвидетельствуют, что нет бога, достойного поклонения, кроме Аллаха и не уверуют в то, с чем я пришел. И если они сделают это, то защитят от меня свою кровь и своё имущество, если только (не совершат ничего такого, за что можно будет лишить их имущества или жизни) по праву, и тогда (лишь) Аллах (сможет потребовать) от них отчёта»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ahmed b. Abde ed-Dabbi tahdis etti. Bize Abdulaziz -yani ed-Deraverdi- el-Ala'dan haber verdi. (H) Bize Umeyye b. Bistam da -ki lafız onundur- tahdis etti. Bize Yezid b. Zurey" tahdis etti. Bize Ravh b. el-Ala b. Abdurrahman b. Yakub babasından tahdis etti. O Ebu Hureyre'den, o Rasulullah (Sallallahu aleyhi ve Sellem)'den şöyle buyurduğunu nakletti: ''Allah'tan başka hiçbir ilah olmadığına şahadet edinceye ve bana ve benim getirdiklerime iman edinceye kadar insanlarla savaşmakla emrolundum. Bunu yerine getirecek olurlarsa kanlarını ve mallarını -onun hakkıyla olması dışında- bana karşı korumuş olurlar. Hesaplarını görmek ise Allah'a aittir. " Bunu yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf, 14016 AHMED. D
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبدالرحمٰن بن یعقوب نے حضرت ابوہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ رسو ل اللہ ﷺ نے فرمایا : ’’مجھے حکم دیا گیا ہے کہ میں لوگوں سے جنگ کروں یہاں تک کہ وہ لا اله الا الله کی شہادت دیں اور مجھ پر اور جو ( دین ) میں لے کر آیا ہوں اس پر ایمان لے آئیں ، چنانچہ جب وہ ایسا کر لیں تو انہوں نےمیری طرف سے اپنی جان و مال کو محفوظ کر لیا ، الا یہ کہ اس ( شہادت ) کاحق ہو اور ان کاحساب اللہ کے سپرد ہے ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>126</td></tr><tr><td>Arabic No</td><td>21.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 126 |
+| Arabic No | 21.02 |
+| Reference | Book 1 Hadith 34 |

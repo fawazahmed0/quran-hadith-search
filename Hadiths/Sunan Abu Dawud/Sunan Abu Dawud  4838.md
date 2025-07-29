@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، حَدَّثَنَا مُحَمَّدُ بْنُ بِشْرٍ، عَنْ مِسْعَرٍ، قَالَ سَمِعْتُ شَيْخًا، فِي الْمَسْجِدِ يَقُولُ سَمِعْتُ جَابِرَ بْنَ عَبْدِ اللَّهِ، يَقُولُ كَانَ فِي كَلاَمِ رَسُولِ اللَّهِ صلى الله عليه وسلم تَرْتِيلٌ أَوْ تَرْسِيلٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
+
 حدثنا محمد بن العلاء، حدثنا محمد بن بشر، عن مسعر، قال سمعت شيخا، في المسجد يقول سمعت جابر بن عبد الله، يقول كان في كلام رسول الله صلى الله عليه وسلم ترتيل او ترسيل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
 
 ## Bengali
 
+। মিস‘আর (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি একজন শাইখকে মসজিদের মধ্যে বলতে শুনেছি, আমি জাবির ইবনু আব্দুল্লাহ (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বক্তব্য ছিলো স্পষ্ট ও ধীর গতিসম্পন্ন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মিস‘আর (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি একজন শাইখকে মসজিদের মধ্যে বলতে শুনেছি, আমি জাবির ইবনু আব্দুল্লাহ (রাঃ)-কে বলতে শুনেছি, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বক্তব্য ছিলো স্পষ্ট ও ধীর গতিসম্পন্ন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: The Messenger of Allah (ﷺ) spoke in a distinct and leisurely manner
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah رضي الله عنه : Le Messager d’Allah ﷺ parlait de façon claire et posée
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Al 'Ala\] berkata, telah menceritakan kepada kami \[Muhammad bin Bisyr\] dari \[Mis'ar\] ia berkata, "Aku mendengar \[Seorang syaikh\] dalam masjid berkata, "Aku mendengar \[Jabir bin Abdullah\] mengatakan; "bahwa ucapan Rasulullah shallallahu 'alaihi wasallam tartil (jelas)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Muhammad bin Bisyr] dari [Mis'ar] ia berkata, "Aku mendengar [Seorang syaikh] dalam masjid berkata, "Aku mendengar [Jabir bin Abdullah] mengatakan; "bahwa ucapan Rasulullah shallallahu 'alaihi wasallam tartil (jelas)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir İbn Abdullah (şöyle) demiştir: "Rasûlullah (s.a.v.)'in konuşmasında (devamlı olarak bir) açıklık ve rahatlık vardı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مسعر کہتے ہیں کہ میں نے مسجد میں ایک بزرگ کو کہتے سنا کہ میں نے جابر بن عبداللہ رضی اللہ عنہما کو کہتے سنا: رسول اللہ صلی اللہ علیہ وسلم کی گفتگو میں ترتیل یا ترسیل ہوتی تھی یعنی آپ ٹھہر ٹھہر کر صاف صاف گفتگو کرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4838</td></tr><tr><td>Arabic No</td><td>4838</td></tr><tr><td>Reference</td><td>Book 43 Hadith 66</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4838 |
+| Arabic No | 4838 |
+| Reference | Book 43 Hadith 66 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عَلِيٍّ الْبَاهِلِيُّ، حَدَّثَنَا مُحَمَّدُ بْنُ أَبِي عَدِيٍّ، حَدَّثَنِي سَعِيدٌ، عَنْ أَبِي مَعْشَرٍ، عَنِ النَّخَعِيِّ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا أَرَادَ أَنْ يَغْتَسِلَ مِنَ الْجَنَابَةِ بَدَأَ بِكَفَّيْهِ فَغَسَلَهُمَا ثُمَّ غَسَلَ مَرَافِغَهُ وَأَفَاضَ عَلَيْهِ الْمَاءَ فَإِذَا أَنْقَاهُمَا أَهْوَى بِهِمَا إِلَى حَائِطٍ ثُمَّ يَسْتَقْبِلُ الْوُضُوءَ وَيُفِيضُ الْمَاءَ عَلَى رَأْسِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
+
 حدثنا عمرو بن علي الباهلي، حدثنا محمد بن ابي عدي، حدثني سعيد، عن ابي معشر، عن النخعي، عن الاسود، عن عايشة، قالت كان رسول الله صلى الله عليه وسلم اذا اراد ان يغتسل من الجنابة بدا بكفيه فغسلهما ثم غسل مرافغه وافاض عليه الماء فاذا انقاهما اهوى بهما الى حايط ثم يستقبل الوضوء ويفيض الماء على راسه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানাবাতের গোসল করার ইচ্ছা করলে প্রথমে উভয় হাত কব্জি পর্যন্ত ধুতেন, তারপর (শরীরের) জোড়াসমূহ পানি দিয়ে ধুতেন। যখন উভয় হাত পরিষ্কার হয়ে যেত তখন (ঘষার জন্য) দেয়ালের দিকে হাত বাড়িয়ে দিতেন। তারপর অযু শুরু করতেন এবং মাথায় পানি ঢালতেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জানাবাতের গোসল করার ইচ্ছা করলে প্রথমে উভয় হাত কব্জি পর্যন্ত ধুতেন, তারপর (শরীরের) জোড়াসমূহ পানি দিয়ে ধুতেন। যখন উভয় হাত পরিষ্কার হয়ে যেত তখন (ঘষার জন্য) দেয়ালের দিকে হাত বাড়িয়ে দিতেন। তারপর অযু শুরু করতেন এবং মাথায় পানি ঢালতেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah said; When the Messenger of Allah (May peace be upon him) intended to take a bath because of sexual defilement, he would begin with his hands and wash them. Then he would wash the joints of his limbs and pour water upon him when he cleansed both his (hands), he would rub them on the wall (to make them perfectly clean with the dust). Then he would perform ablution and pour water over his head
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : Quand le Messager d’Allah ﷺ voulait prendre un bain rituel après une impureté majeure, il commençait par se laver les mains. Ensuite, il lavait les articulations de ses membres et versait de l’eau sur lui. Lorsqu’il avait bien nettoyé ses deux mains, il les frottait contre le mur (pour les nettoyer parfaitement avec la poussière). Puis il faisait les ablutions et versait de l’eau sur sa tête
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Amru bin Ali Al-Bahili\] telah menceritakan kepada kami \[Muhammad bin Abi Adi\] telah menceritakan kepada saya \[Sa'id\] dari \[Abu Ma'syar\] dari \[An-Nakha'i\] dari \[Al-Aswad\] dari \[Aisyah\] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam hendak mandi junub, beliau memulai dengan membasuh kedua telapak tangan, kemudian membasuh pangkal tangannya, membersihkan bagian sela-selanya dan menuangkan air kepadanya. Sesudah membersihkan kedua telapak tangannya, lalu beliau menggosok-gosokkanyya ke dinding. Kemudian berwudhu dan menuangkan air ke atas kepalanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Amru bin Ali Al-Bahili] telah menceritakan kepada kami [Muhammad bin Abi Adi] telah menceritakan kepada saya [Sa'id] dari [Abu Ma'syar] dari [An-Nakha'i] dari [Al-Aswad] dari [Aisyah] dia berkata; Apabila Rasulullah shallallahu 'alaihi wasallam hendak mandi junub, beliau memulai dengan membasuh kedua telapak tangan, kemudian membasuh pangkal tangannya, membersihkan bagian sela-selanya dan menuangkan air kepadanya. Sesudah membersihkan kedua telapak tangannya, lalu beliau menggosok-gosokkanyya ke dinding. Kemudian berwudhu dan menuangkan air ke atas kepalanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Аиша сказала: «Когда Посланник Аллаха ﷺ хотел купаться из-за осквернения, он начинал с рук и мыл их. Затем он мыл промежности, обливал себя водой. А после того, как почистит их (руки), он протягивал их и вытирал о стену. Затем он принимался за омовение и наливал воду на голову»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha) şöyle demiştir: "Resulullah (sallallahu aleyhi ve sellem) cünuplükten dolayı gusletmek istediği zaman önce ellerini bileklerine kadar, sonra da fercini kaşığıyla yıkar ve onlar üzerine su dökerdi. Ellerini temizledikten sonra duvara sürterdi. Sonra abdest almaya başlar (abdest aldıktan) sonra da başına su dökerdi." Diğer tahric: Ahmed b. Hanbel Müsned
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب غسل جنابت کا ارادہ کرتے تو پہلے اپنے دونوں پہونچوں کو، پھر اپنے جوڑوں کو دھوتے ( مثلاً کہنی بغل وغیرہ جہاں میل جم جاتا ہے ) اور ان پر پانی بہاتے، جب دونوں ہاتھ صاف ہو جاتے تو انہیں ( مٹی سے ) دیوار پر ملتے، ( تاکہ مکمل صاف ہو جائے ) پھر وضو شروع کرتے اور اپنے سر پر پانی ڈالتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>243</td></tr><tr><td>Arabic No</td><td>243</td></tr><tr><td>Reference</td><td>Book 1 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 243 |
+| Arabic No | 243 |
+| Reference | Book 1 Hadith 243 |

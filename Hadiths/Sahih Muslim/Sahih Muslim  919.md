@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ هَمَّامِ بْنِ مُنَبِّهٍ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا محمد بن رافع، حدثنا عبد الرزاق، حدثنا معمر، عن همام بن منبه، عن ابي هريرة، عن النبي صلى الله عليه وسلم بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this is transmitted by Ma'mar from Hammam b. Munabbih on the authority of Abu Huraira who reported it from the Messenger of Allah (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Un hadith semblable est transmis par Ma’mar d’après Hammam b. Munabbih, qui le rapporte du Messager d’Allah ﷺ
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Абу Хурайра передал от Пророка ﷺ хадис, подобный предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bize Muhammed b. Râfi' rivâyet etti. ki): Bize Abdürrezzâk rivâyet etti. ki): Bize Ma'mer, Hemmâm b. Münebbih'den, o da Ebû Hüreyre'den, o da Peygamber (sallallahü aleyhi ve sellem)'den naklen bu hadîsin mislini rivâyet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمام بن منبہ نے ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے اور انہوں نے نبیﷺ سے اسی ( گزشتہ حدیث ) کی طرح حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>919</td></tr><tr><td>Arabic No</td><td>410.05</td></tr><tr><td>Reference</td><td>Book 4 Hadith 81</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 919 |
+| Arabic No | 410.05 |
+| Reference | Book 4 Hadith 81 |

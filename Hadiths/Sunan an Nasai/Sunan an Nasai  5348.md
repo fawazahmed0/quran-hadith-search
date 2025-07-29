@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَنْبَأَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ أَبِي الشَّوَارِبِ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، عَنْ أَبِي طَلْحَةَ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ لاَ تَدْخُلُ الْمَلاَئِكَةُ بَيْتًا فِيهِ كَلْبٌ وَلاَ صُورَةُ تَمَاثِيلَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 48 Hadith 309</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |
+
 انبانا محمد بن عبد الملك بن ابي الشوارب، قال حدثنا يزيد، قال حدثنا معمر، عن الزهري، عن عبيد الله بن عبد الله، عن ابن عباس، عن ابي طلحة، قال سمعت رسول الله صلى الله عليه وسلم يقول " لا تدخل الملايكة بيتا فيه كلب ولا صورة تماثيل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 48 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আবদুল মালিক ইবন আবুশ শাওয়ারিব (রহঃ) ... আবু তালহা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ ফেরেশতা ঐ ঘরে প্রবেশ করে না, যে ঘরে কুকুর অথবা ভাস্কর্য থাকে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 48 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |
 
 ## English
 
+It was narrated that Abu Talhah said:"I heard the Messenger of Allah \[SAW\] say: 'The angels do not enter a house in which there is a dog or an image of an animate being
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated that Abu Talhah said:"I heard the Messenger of Allah [SAW] say: 'The angels do not enter a house in which there is a dog or an image of an animate being
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 48 Hadith 309</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |
+
+## French
+
+Rapporté par Abu Talhah : J'ai entendu le Messager d'Allah ﷺ dire : « Les anges n'entrent pas dans une maison où il y a un chien ou une image d'être vivant. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |
 
 ## Indonesian
 
+Telah memberitakan kepada kami \[Muhammad bin Abdul Malik bin Abu Asy Syawarib\] ia berkata; telah menceritakan kepada kami \[Yazid\] berkata; telah menceritakan kepada kami \[Ma'mar\] dari \[Az Zuhri\] dari \[Ubaidullah bin Abdullah\] dari \[Ibnu Abbas\] dari \[Abu Thalhah\] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Malaikat tidak akan masuk ke dalam rumah yang di dalamnya terdapat anjing atau gambar patung
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah memberitakan kepada kami [Muhammad bin Abdul Malik bin Abu Asy Syawarib] ia berkata; telah menceritakan kepada kami [Yazid] berkata; telah menceritakan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari [Abu Thalhah] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Malaikat tidak akan masuk ke dalam rumah yang di dalamnya terdapat anjing atau gambar patung
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 48 Hadith 309</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 48 Hadith 309</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5348</td></tr><tr><td>Arabic No</td><td>5348</td></tr><tr><td>Reference</td><td>Book 48 Hadith 309</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5348 |
+| Arabic No | 5348 |
+| Reference | Book 48 Hadith 309 |

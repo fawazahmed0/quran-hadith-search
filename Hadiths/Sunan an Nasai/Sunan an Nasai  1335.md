@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا بِشْرُ بْنُ خَالِدٍ الْعَسْكَرِيُّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، عَنْ سُفْيَانَ بْنِ عُيَيْنَةَ، عَنْ عَمْرِو بْنِ دِينَارٍ، عَنْ أَبِي مَعْبَدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ إِنَّمَا كُنْتُ أَعْلَمُ انْقِضَاءَ صَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالتَّكْبِيرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 13 Hadith 157</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |
+
 اخبرنا بشر بن خالد العسكري، قال حدثنا يحيى بن ادم، عن سفيان بن عيينة، عن عمرو بن دينار، عن ابي معبد، عن ابن عباس، قال انما كنت اعلم انقضاء صلاة رسول الله صلى الله عليه وسلم بالتكبير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 13 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । বিশর ইবনু খালিদ আসকরী (রহঃ) ... ইবনু আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সালাত শেষ হওয়া জানতে পারতাম তাকবীরের দ্বারা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 13 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ibn 'Abbas said:"I used to know that the prayer of the Messenger of Allah (ﷺ) ended by the takbir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 13 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Je savais que la prière du Messager d’Allah (ﷺ) se terminait par le takbir
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Bisyr bin Khalid Al 'Askari\] dia berkata; telah menceritakan kepada kami \[Yahya bin Adam\] dari \[Sufyan bin 'Uyainah\] dari \['Amr bin Dinar\] dari \[Abu Ma'bad\] dari \[Ibnu 'Abbas\] dia berkata; "Aku orang yang paling tahu tentang akhir shalatnya Rasulullah Shallallahu 'Alahi Wa Sallam dengan takbir
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Bisyr bin Khalid Al 'Askari] dia berkata; telah menceritakan kepada kami [Yahya bin Adam] dari [Sufyan bin 'Uyainah] dari ['Amr bin Dinar] dari [Abu Ma'bad] dari [Ibnu 'Abbas] dia berkata; "Aku orang yang paling tahu tentang akhir shalatnya Rasulullah Shallallahu 'Alahi Wa Sallam dengan takbir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 13 Hadith 157</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 13 Hadith 157</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہم کہتے ہیں میں رسول اللہ صلی اللہ علیہ وسلم کی نماز کے ختم ہونے کو تکبیر کے ذریعہ جانتا تھا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1335</td></tr><tr><td>Arabic No</td><td>1335</td></tr><tr><td>Reference</td><td>Book 13 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1335 |
+| Arabic No | 1335 |
+| Reference | Book 13 Hadith 157 |

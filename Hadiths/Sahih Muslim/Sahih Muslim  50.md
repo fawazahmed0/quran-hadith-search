@@ -18,78 +18,74 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## French
 
+Rapporté par Abū Kāmil al-Jahdarī : Hammād – c’est Ibn Zayd – nous a rapporté, Āsim nous a rapporté, il a dit : « Nous rejoignions Abū Abd ar-Rahman as-Sulamī alors que nous étions jeunes, et il nous disait : “Ne vous asseyez pas avec les conteurs, sauf Abūl-Ahwas, et méfiez-vous de Shaqīq.” »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bana Ubeydullah b. Saîd rivâyel etti. ki): Bize Abdurrahman yani İbn Mehdi rivâyet etti. ki): Bize Hammâd b. Zeyd, İbn Avn'dan naklen rivâyet eyledi. İbn Avn Şöyle dedi: bize: Saîd ile Ebû Abdirrahîm den sakının! Zira bunların ikisi de yalancıdır.» dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ ( عبد اللہ ) بن عون سے روایت ہے ، کہا : ابراہیم ( نخعی ) نے ہم سے کہا : تم لوگ مغیرہ بن سعید اور ابو عبد الرحیم سے بچ کر رہو ، وہ کذاب ہیں
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>50</td></tr><tr><td>Reference</td><td>Book 0 Hadith 50</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 50 |
+| Reference | Book 0 Hadith 50 |

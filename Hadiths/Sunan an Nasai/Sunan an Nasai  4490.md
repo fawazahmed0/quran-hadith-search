@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا عِيسَى بْنُ يُونُسَ، وَوَكِيعٌ، قَالاَ حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنْ مَخْلَدِ بْنِ خُفَافٍ، عَنْ عُرْوَةَ، عَنْ عَائِشَةَ، قَالَتْ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم أَنَّ الْخَرَاجَ بِالضَّمَانِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 44 Hadith 42</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |
+
 اخبرنا اسحاق بن ابراهيم، قال حدثنا عيسى بن يونس، ووكيع، قالا حدثنا ابن ابي ذيب، عن مخلد بن خفاف، عن عروة، عن عايشة، قالت قضى رسول الله صلى الله عليه وسلم ان الخراج بالضمان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 44 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ফয়সালা দিয়েছেন যে, দায়িত্ব যার উসূলও তার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 44 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishsh said:" The Messenger of Allah ruled that what a slave earns belongs to his guarantor
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 44 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |
+
+## French
+
+Rapporté par ‘Aïcha : Le Messager d’Allah a jugé que ce qu’un esclave gagne appartient à son garant
+
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\], ia berkata; telah menceritakan kepada kami \[Isa bin Yunus\] dan \[Waki'\] mereka berkata; telah menceritakan kepada kami \[Ibnu Abu Dzi'b\] dari \[Makhlad bin Khufaf\] dari \['Urwah\] dari \['Aisyah\] ia berkata; Rasulullah shallallahu 'alaihi wasallam menetapkan bahwa manfaat yang di dapat disertai dengan tanggungan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim], ia berkata; telah menceritakan kepada kami [Isa bin Yunus] dan [Waki'] mereka berkata; telah menceritakan kepada kami [Ibnu Abu Dzi'b] dari [Makhlad bin Khufaf] dari ['Urwah] dari ['Aisyah] ia berkata; Rasulullah shallallahu 'alaihi wasallam menetapkan bahwa manfaat yang di dapat disertai dengan tanggungan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 44 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 44 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Hasan | Abu Ghuddah |
+| Hasan | Al-Albani |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4490</td></tr><tr><td>Arabic No</td><td>4490</td></tr><tr><td>Reference</td><td>Book 44 Hadith 42</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4490 |
+| Arabic No | 4490 |
+| Reference | Book 44 Hadith 42 |

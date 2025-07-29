@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا حَجَّاجٌ، عَنِ ابْنِ جُرَيْجٍ، عَنْ حُكَيْمَةَ بِنْتِ أُمَيْمَةَ بِنْتِ رُقَيْقَةَ، عَنْ أُمِّهَا، أَنَّهَا قَالَتْ كَانَ لِلنَّبِيِّ صلى الله عليه وسلم قَدَحٌ مِنْ عَيْدَانٍ تَحْتَ سَرِيرِهِ يَبُولُ فِيهِ بِاللَّيْلِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
+
 حدثنا محمد بن عيسى، حدثنا حجاج، عن ابن جريج، عن حكيمة بنت اميمة بنت رقيقة، عن امها، انها قالت كان للنبي صلى الله عليه وسلم قدح من عيدان تحت سريره يبول فيه بالليل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
 
 ## Bengali
 
+। হুকাইমাহ বিনতু উমাইমাহ বিনতু রুক্বাইক্বাহ তাঁর মা থেকে বর্ণনা করেন, তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর একটি কাঠের পাত্র ছিল। সেটি তাঁর খাটের নিচে থাকত। রাতের বেলায় তিনি তাতে পেশাব করতেন।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হুকাইমাহ বিনতু উমাইমাহ বিনতু রুক্বাইক্বাহ তাঁর মা থেকে বর্ণনা করেন, তিনি বলেছেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর একটি কাঠের পাত্র ছিল। সেটি তাঁর খাটের নিচে থাকত। রাতের বেলায় তিনি তাতে পেশাব করতেন।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umaymah daughter of Ruqayqah: The Prophet (ﷺ) had a wooden vessel under his bed in which he would urinate at night
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
+
+## French
+
+Rapporté par Umaymah, fille de Ruqayqah : Le Prophète ﷺ avait un récipient en bois sous son lit dans lequel il urinait la nuit
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isa\] telah menceritakan kepada kami \[Hajjaj\] dari \[Ibnu Juraij\] dari \[Hukaimah binti Umaimah binti Ruqaiqah\] dari \[Ibunya\] bahwasanya dia berkata; Nabi shallallahu 'alaihi wasallam memiliki bejana dari pelepah kurma (yang beliau letakkan) di bawah ranjangnya, yang beliau gunakan untuk buang air kecil pada waktu malam hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Hajjaj] dari [Ibnu Juraij] dari [Hukaimah binti Umaimah binti Ruqaiqah] dari [Ibunya] bahwasanya dia berkata; Nabi shallallahu 'alaihi wasallam memiliki bejana dari pelepah kurma (yang beliau letakkan) di bawah ranjangnya, yang beliau gunakan untuk buang air kecil pada waktu malam hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Хукаймы бинт Умаймы бинт Рукъаййи о том, что ее мать сказала: «У Пророка ﷺ под кроватью находился деревянный сосуд, в который он мочился ночью»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hukeyme bint Umeyme annesi Umeyme bint Rukayka'nin şöyle dediğini rivayet etmiştir: "Nebi (Sallallahu Aleyhi ve Sellem)'in sedirinin altında hurma ağacından yapılmış bir kap vardı. Geceleyin ona küçük abdest bozardı.” Diğer tahric: Nesai tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 امیمہ بنت رقیقہ رضی اللہ عنہا کہتی ہیں کہ کہ نبی اکرم صلی اللہ علیہ وسلم کے لیے آپ کے تخت کے نیچے لکڑی کا ایک پیالہ ( رہتا ) تھا، جس میں آپ صلی اللہ علیہ وسلم رات کو پیشاب کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>24</td></tr><tr><td>Arabic No</td><td>24</td></tr><tr><td>Reference</td><td>Book 1 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 24 |
+| Arabic No | 24 |
+| Reference | Book 1 Hadith 24 |

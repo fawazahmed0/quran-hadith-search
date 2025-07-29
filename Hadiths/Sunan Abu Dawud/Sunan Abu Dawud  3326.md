@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، عَنْ أَبِي وَائِلٍ، عَنْ قَيْسِ بْنِ أَبِي غَرَزَةَ، قَالَ كُنَّا فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم نُسَمَّى السَّمَاسِرَةَ فَمَرَّ بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَسَمَّانَا بِاسْمٍ هُوَ أَحْسَنُ مِنْهُ فَقَالَ ‏ "‏ يَا مَعْشَرَ التُّجَّارِ إِنَّ الْبَيْعَ يَحْضُرُهُ اللَّغْوُ وَالْحَلِفُ فَشُوبُوهُ بِالصَّدَقَةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
+
 حدثنا مسدد، حدثنا ابو معاوية، عن الاعمش، عن ابي وايل، عن قيس بن ابي غرزة، قال كنا في عهد رسول الله صلى الله عليه وسلم نسمى السماسرة فمر بنا رسول الله صلى الله عليه وسلم فسمانا باسم هو احسن منه فقال " يا معشر التجار ان البيع يحضره اللغو والحلف فشوبوه بالصدقة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কায়িস ইবনু আবূ গারাযাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে আমাদের (ব্যবসায়ীদের) সামাসিরাহ (দালাল সম্প্রদায় বলা হতো)। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের কাছ দিয়ে যাওয়ার সময় আমাদেরকে এই নামের চেয়ে অধিক সুন্দর নাম দিলেন। তিনি বললেনঃ হে ব্যবসায়ী সম্প্রদায়! ব্যবসায়িক জাজে বেহুদা কথাবার্তা এবং অপ্রয়োজনীয় শপথ হয়ে থাকে। সুতরাং তোমরা ব্যবসার পাশাপাশি সাদাকাহ করে তাকে ত্রুটিমুক্ত করো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Qays ibn AbuGharazah: In the time of the Messenger of Allah (ﷺ) we used to be called brokers, but the Prophet (ﷺ) came upon us one day, and called us by a better name than that, saying: O company of merchants, unprofitable speech and swearing takes place in business dealings, so mix it with sadaqah (alms)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
+
+## French
+
+Rapporté par Qays ibn Abu Gharazah : À l’époque du Messager d’Allah ﷺ, on nous appelait des courtiers, mais un jour, le Prophète ﷺ est venu vers nous et nous a donné un nom meilleur en disant : « Ô groupe de commerçants, il y a souvent des paroles inutiles et des serments dans les transactions commerciales, alors accompagnez-les de sadaqah (aumône). »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Abu Mu'awiyah\] dari \[Al A'masy\] dari \[Abu Wail\] dari \[Qais bin Abu Gharazah\], ia berkata; kami pada zaman Rasulullah shallallahu 'alaihi wasallam diberi nama para calo, kemudian Rasulullah shallallahu 'alaihi wasallam lewat di hadapan kami, dan menamai kami dengan nama yang lebih baik darinya. Beliau mengatakan: "Wahai para pedagang, sesungguhnya dalam transksi jual beli itu diwarnai tindakan sia-sia dan pengucapan sumpah, maka bersihkanlah jual beli tersebut dengan bersedekah!" telah menceritakan kepada kami \[Al Husain bin Isa Al Bisthami\], dan \[Hamid bin Yahya\], serta \[Abdullah bin Muhammad Az Zuhri\], mereka mengatakan; telah menceritakan kepada kami \[Sufyan\], dari \[Jami' bin Abu Rasyid\], \[Abdul Malik bin A'yan\] dan \['Ashim\] dari \[Abu Wail\] dari \[Qais bin Abu Gharazah\] dengan makna hadits tersebut, ia berkata; dihadiri ucapan dusta dan sumpah. Abdullah Az Zuhri mengatakan; perbuatan sia-sia dan ucapan dusta
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Abu Mu'awiyah] dari [Al A'masy] dari [Abu Wail] dari [Qais bin Abu Gharazah], ia berkata; kami pada zaman Rasulullah shallallahu 'alaihi wasallam diberi nama para calo, kemudian Rasulullah shallallahu 'alaihi wasallam lewat di hadapan kami, dan menamai kami dengan nama yang lebih baik darinya. Beliau mengatakan: "Wahai para pedagang, sesungguhnya dalam transksi jual beli itu diwarnai tindakan sia-sia dan pengucapan sumpah, maka bersihkanlah jual beli tersebut dengan bersedekah!" telah menceritakan kepada kami [Al Husain bin Isa Al Bisthami], dan [Hamid bin Yahya], serta [Abdullah bin Muhammad Az Zuhri], mereka mengatakan; telah menceritakan kepada kami [Sufyan], dari [Jami' bin Abu Rasyid], [Abdul Malik bin A'yan] dan ['Ashim] dari [Abu Wail] dari [Qais bin Abu Gharazah] dengan makna hadits tersebut, ia berkata; dihadiri ucapan dusta dan sumpah. Abdullah Az Zuhri mengatakan; perbuatan sia-sia dan ucapan dusta
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Къайс ибн Абу Гъараза, да будет доволен им Аллах, сказал: «При жизни Посланника Аллаха, нас называли посредниками в торговле /ас-самасира/, и (однажды) Посланник Аллаха ﷺ проходил мимо нас и назвал нас более лучшим именем, чем это, сказав: “О торговцы, поистине, торговля сопровождается пустословием и клятвами, так смешайте же её с садакой”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Kays b. Ebî Garaza'nın şöyle dediği rivayet edilmiştir: Rasûlullah (s.a.v.) devrinde bize (tacirlere) "simsarlar" denilirdi. Rasûlullah (s.a.v.) bize uğrayıp ondan daha güzel bir isim verdi ve: "Ey tacirler topluluğu! Şüphesiz alışverişde boş laf ve yemin bulunur. Onun için siz ona sadaka karıştırınız."buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قیس بن ابی غرزہ رضی اللہ عنہ کہتے ہیں کہ ہمیں رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سماسرہ ۱؎ کہا جاتا تھا، پھر رسول اللہ صلی اللہ علیہ وسلم ہمارے پاس سے گزرے تو ہمیں ایک اچھے نام سے نوازا، آپ صلی اللہ علیہ وسلم نے فرمایا: اے سوداگروں کی جماعت! بیع میں لایعنی باتیں اور ( جھوٹی ) قسمیں ہو جاتی ہیں تو تم اسے صدقہ سے ملا دیا کرو ۲؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3326</td></tr><tr><td>Arabic No</td><td>3326</td></tr><tr><td>Reference</td><td>Book 23 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3326 |
+| Arabic No | 3326 |
+| Reference | Book 23 Hadith 1 |

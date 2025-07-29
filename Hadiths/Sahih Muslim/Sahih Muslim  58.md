@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## French
 
+Rapporté par Salamah bin Shabīb : Al-Humaydī nous a rapporté, Sufyān nous a rapporté, il a dit : « J’ai entendu un homme interroger Jābir au sujet du verset : (Ainsi, je ne quitterai jamais ce pays jusqu’à ce que mon père me le permette ou qu’Allah décide pour moi, et Il est le meilleur des juges) \[Yūsuf : 80\]. Jābir répondit : ‘Je n’ai pas reçu d’explication concernant ces versets.’ Sufyān dit : ‘Il a menti.’ Nous avons demandé à Sufyān : ‘Que voulait-il dire par là ?’ \[Sufyān\] répondit : ‘En fait, les Rāfiḍah disent : “Ali est dans les nuages et nous ne sortirons pas avec celui qui sortira de ses descendants \[le calife\] jusqu’à ce qu’un appel vienne du ciel, c’est-à-dire Ali : ‘Sortez avec untel \[le Mahdī promis\].’” Jābir disait que c’était là l’explication de ces versets, et il mentait car ils concernaient en réalité les frères de Yūsuf, paix sur lui.’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>58</td></tr><tr><td>Reference</td><td>Book 0 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 58 |
+| Reference | Book 0 Hadith 58 |

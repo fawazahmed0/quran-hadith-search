@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ أَبِي عُبَيْدٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ يُسْتَجَابُ لأَحَدِكُمْ مَا لَمْ يَعْجَلْ فَيَقُولُ قَدْ دَعَوْتُ فَلَمْ يُسْتَجَبْ لِي ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
+
 حدثنا القعنبي، عن مالك، عن ابن شهاب، عن ابي عبيد، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " يستجاب لاحدكم ما لم يعجل فيقول قد دعوت فلم يستجب لي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের দু‘আ কবুল হয়ে থাকে, যতক্ষণ না সে তাড়াহুড়া করে এবং বলে, আমি তো দু‘আ করেছি, অথচ কবুল হয়নি?\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তোমাদের দু‘আ কবুল হয়ে থাকে, যতক্ষণ না সে তাড়াহুড়া করে এবং বলে, আমি তো দু‘আ করেছি, অথচ কবুল হয়নি?[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:"One of you is granted an answer (to his supplication) provided he does not say: 'I prayed but I was not granted an answer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’un de vous verra sa demande exaucée tant qu’il ne dit pas : “J’ai prié mais je n’ai pas été exaucé.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Al Qa'nabi\] dari \[Malik\] dari \[Ibnu Syihab\] dari \[Abu 'Ubaid\] dari \[Abu Hurairah\] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Diperkenankan bagi salah seorang diantara kalian selama ia tidak terburu-buru, ia mengatakan; aku telah berdoa namun belum dikabulkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Abu 'Ubaid] dari [Abu Hurairah] bahwa Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Diperkenankan bagi salah seorang diantara kalian selama ia tidak terburu-buru, ia mengatakan; aku telah berdoa namun belum dikabulkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «На мольбу любого из вас придёт ответ, если только он не поторопится и не скажет: “Вот, я взывал, но ответа не последовало!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.)'den rivayet edildiğine göre, ResululIah (s.a.v.) şöyle buyurmuştur: "Sizden biriniz "dua ettim fakat kabul olunmadı" diye acele etmedikçe duası kabul olunur." Diğer tahric: Buhari, deavat; Müslim, zikir;Tirmizî, deavât; ibn Mace, dua; Muvatta', kur'an; Ahmed b. Hanbel, II
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: تم میں سے ہر ایک کی دعا قبول کی جاتی ہے جب تک وہ جلد بازی سے کام نہیں لیتا اور یہ کہنے نہیں لگتا کہ میں نے تو دعا مانگی لیکن میری دعا قبول ہی نہیں ہوئی ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (6340) Sahih Muslim (2735)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1484</td></tr><tr><td>Arabic No</td><td>1484</td></tr><tr><td>Reference</td><td>Book 8 Hadith 69</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (6340) Sahih Muslim (2735) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1484 |
+| Arabic No | 1484 |
+| Reference | Book 8 Hadith 69 |

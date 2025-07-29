@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه عبيد الله بن معاذ، حدثنا ابي، حدثنا شعبة، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উবায়দুল্লাহ ইবনু মু'আয (রহঃ) ..... শু'বাহ (রহঃ) থেকে একই সানাদে অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন. ১৭৭৭, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Shu'ba with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## French
 
+Rapporté par Shu'ba avec la même chaîne de rapporteurs : Le contenu du hadith est identique
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize bu hadîsi Ubeydullah b. Muâz da rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Şu'be bu isnâdla bu hadîsin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معاذ عنبری نےشعبہ سے اسی سند کے ساتھ اسی کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1907</td></tr><tr><td>Arabic No</td><td>821.02</td></tr><tr><td>Reference</td><td>Book 6 Hadith 335</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1907 |
+| Arabic No | 821.02 |
+| Reference | Book 6 Hadith 335 |

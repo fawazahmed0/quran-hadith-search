@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ مَنْصُورٍ، وَحُصَيْنٍ، عَنْ أَبِي وَائِلٍ، عَنْ حُذَيْفَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا قَامَ مِنَ اللَّيْلِ يَشُوصُ فَاهُ بِالسِّوَاكِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
+
 حدثنا محمد بن كثير، حدثنا سفيان، عن منصور، وحصين، عن ابي وايل، عن حذيفة، ان رسول الله صلى الله عليه وسلم كان اذا قام من الليل يشوص فاه بالسواك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
 
 ## Bengali
 
+। হুযাইফাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে জাগতেন, তখন মিসওয়াক দিয়ে মুখ পরিষ্কার করতেন।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হুযাইফাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন রাতে জাগতেন, তখন মিসওয়াক দিয়ে মুখ পরিষ্কার করতেন।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Hudhaifah:When the Apostle of Allaah (sal Allaahu alayhi wa sallam) got up during the night (to pray), he cleansed his mouth with the tooth-stick
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
+
+## French
+
+Rapporté par Hudhayfah : Lorsque le Messager d’Allah ﷺ se levait la nuit pour prier, il se nettoyait la bouche avec un siwak
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhamamd bin Katsir\] telah menceritakan kepada kami \[Sufyan\] dari \[Manshur\] dan \[Hushain\] dari \[Abu Wa'il\] dari \[Hudzaifah\] bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila bangun di malam hari, beliau menggosok (gigi-gigi) mulutnya dengan siwak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhamamd bin Katsir] telah menceritakan kepada kami [Sufyan] dari [Manshur] dan [Hushain] dari [Abu Wa'il] dari [Hudzaifah] bahwasanya Rasulullah shallallahu 'alaihi wasallam apabila bangun di malam hari, beliau menggosok (gigi-gigi) mulutnya dengan siwak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 – Передают со слов ‘Аиши: «Для Пророка ﷺ ставили воду для омовения и зубочистку, а когда он просыпался ночью, то он (сначала) справлял нужду, а затем чистил зубы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Huzeyfe (r.a.)'den, şöyle demiştir: "Resulullah (sallallahu aleyhi ve sellem) geceleyin uykudan kalktığında mutlaka ağzını misvaklardı." Diğer tahric: Buhari, vudu'; Cuma ; Teheccüd; Müslim, tahare; Nesaî, tahare; kıyamu’l-leyl; ibn Mace, tahare; Darimi, vudu; Ahmed b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حذیفہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم جب رات کو اٹھتے تو اپنا منہ مسواک سے صاف کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (245، 889) Sahih Muslim (255)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>55</td></tr><tr><td>Arabic No</td><td>55</td></tr><tr><td>Reference</td><td>Book 1 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (245، 889) Sahih Muslim (255) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 55 |
+| Arabic No | 55 |
+| Reference | Book 1 Hadith 55 |

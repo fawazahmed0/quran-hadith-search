@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ أَبِي الزُّبَيْرِ، عَنْ سَعِيدِ بْنِ جُبَيْرٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم الظُّهْرَ وَالْعَصْرَ جَمِيعًا وَالْمَغْرِبَ وَالْعِشَاءَ جَمِيعًا فِي غَيْرِ خَوْفٍ وَلاَ سَفَرٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن يحيى، قال قرات على مالك عن ابي الزبير، عن سعيد بن جبير، عن ابن عباس، قال صلى رسول الله صلى الله عليه وسلم الظهر والعصر جميعا والمغرب والعشاء جميعا في غير خوف ولا سفر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবদুল্লাহ ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ভীতিকর অবস্থা কিংবা সফররত অবস্থা ছাড়াই যুহর এবং আসরের সালাত একসাথে এবং মাগরিব ও ইশার সালাত একসাথে আদায় করেছেন। (ইসলামী ফাউন্ডেশন ১৪৯৮, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Abbas reported:The Messenger of Allah (ﷺ) observed the noon and afternoon prayers together, and the sunset and Isha' prayers together without being in a state of fear or in a state of journey
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## French
 
+Rapporté par Ibn 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ a accompli la prière du midi et celle de l’après-midi ensemble, ainsi que la prière du coucher du soleil et celle du soir ensemble, sans qu’il y ait de danger ni de voyage
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Yahya\] katanya; Aku pernah menyetorkan hapalan kepada \[Malik\] dari \[Abu Zubair\] dari \[Said bin Jubair\] dari \[Ibnu Abbas\] katanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat zhuhur dan ashar semuanya, dan antara Maghrib dan Isya' semuanya bukan karena ketakutan dan tidak pula ketika safar
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Yahya] katanya; Aku pernah menyetorkan hapalan kepada [Malik] dari [Abu Zubair] dari [Said bin Jubair] dari [Ibnu Abbas] katanya; Rasulullah shallallahu 'alaihi wasallam pernah shalat zhuhur dan ashar semuanya, dan antara Maghrib dan Isya' semuanya bukan karena ketakutan dan tidak pula ketika safar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Са‘ида ибн Джубайра о том, что Ибн ‘Аббас, да будет доволен Аллах ими обоими, сказал: «Посланник Аллаха ﷺ совершил полуденную /зухр/ молитву, объединив с послеполуденной /‘аср/, а закатную с вечерней в то время, когда он не испытывал страха и не будучи в пути»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் லுஹரையும் அஸ்ரையும் சேர்த்து ஒரே நேரத்தில் தொழுதார்கள்; மஃக்ரிபையும் இஷாவையும் ஒரே நேரத்தில் தொழுதார்கள்; அப்போது (போர் அபாயம் மிகுந்த) அச்ச நிலையிலோ பயணத்திலோ அவர்கள் இருக்கவில்லை. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya rivayet etti. Dediki: Mâlike, Ebû'z-Zübeyr'den dinlediğim, onun da Saîd b. Cübeyr'den, onun da İbni Abbâs'dan naklen rivayet ettiği şu hadîsi okudum: İbnî Abbâs: «Resûlullah (Sallallahu Aleyhi ve Sellem) hiç bir korku ve sefer yokken öğle ile ikindiyi toptan, akşamla yatsıyı da toptan kıldı.» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 امام مالک ؒ نے ابو زبیر سے ، انھوں نے سعید بن جبیر سے اور انھوں نے حضرت ابن عباس رضی اللہ تعالیٰ عنہ سے روایت کی ، انھوں نے کہا : رسول اللہ صلی اللہ علیہ وسلم نے ظہر اور عصر کو اکھٹا پڑھا اور مغرب اور عشاء کو اکھٹا پڑھا کسی خوف اور سفر کے بغیر ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1628</td></tr><tr><td>Arabic No</td><td>705.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 59</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1628 |
+| Arabic No | 705.01 |
+| Reference | Book 6 Hadith 59 |

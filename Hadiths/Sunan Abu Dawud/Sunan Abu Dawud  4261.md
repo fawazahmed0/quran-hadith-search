@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَبِي عِمْرَانَ الْجَوْنِيِّ، عَنِ الْمُشَعَّثِ بْنِ طَرِيفٍ، عَنْ عَبْدِ اللَّهِ بْنِ الصَّامِتِ، عَنْ أَبِي ذَرٍّ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ يَا أَبَا ذَرٍّ ‏"‏ ‏.‏ قُلْتُ لَبَّيْكَ يَا رَسُولَ اللَّهِ وَسَعْدَيْكَ ‏.‏ فَذَكَرَ الْحَدِيثَ قَالَ فِيهِ ‏"‏ كَيْفَ أَنْتَ إِذَا أَصَابَ النَّاسَ مَوْتٌ يَكُونُ الْبَيْتُ فِيهِ بِالْوَصِيفِ ‏"‏ ‏.‏ قُلْتُ اللَّهُ وَرَسُولُهُ أَعْلَمُ أَوْ قَالَ مَا خَارَ اللَّهُ لِي وَرَسُولُهُ ‏.‏ قَالَ ‏"‏ عَلَيْكَ بِالصَّبْرِ ‏"‏ ‏.‏ أَوْ قَالَ ‏"‏ تَصْبِرُ ‏"‏ ‏.‏ ثُمَّ قَالَ لِي ‏"‏ يَا أَبَا ذَرٍّ ‏"‏ ‏.‏ قُلْتُ لَبَّيْكَ وَسَعْدَيْكَ ‏.‏ قَالَ ‏"‏ كَيْفَ أَنْتَ إِذَا رَأَيْتَ أَحْجَارَ الزَّيْتِ قَدْ غَرِقَتْ بِالدَّمِ ‏"‏ ‏.‏ قُلْتُ مَا خَارَ اللَّهُ لِي وَرَسُولُهُ ‏.‏ قَالَ ‏"‏ عَلَيْكَ بِمَنْ أَنْتَ مِنْهُ ‏"‏ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ أَفَلاَ آخُذُ سَيْفِي وَأَضَعُهُ عَلَى عَاتِقِي قَالَ ‏"‏ شَارَكْتَ الْقَوْمَ إِذًا ‏"‏ ‏.‏ قُلْتُ فَمَا تَأْمُرُنِي قَالَ ‏"‏ تَلْزَمُ بَيْتَكَ ‏"‏ ‏.‏ قُلْتُ فَإِنْ دُخِلَ عَلَىَّ بَيْتِي قَالَ ‏"‏ فَإِنْ خَشِيتَ أَنْ يَبْهَرَكَ شُعَاعُ السَّيْفِ فَأَلْقِ ثَوْبَكَ عَلَى وَجْهِكَ يَبُوءُ بِإِثْمِكَ وَإِثْمِهِ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ لَمْ يَذْكُرِ الْمُشَعَّثَ فِي هَذَا الْحَدِيثِ غَيْرُ حَمَّادِ بْنِ زَيْدٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
+
 حدثنا مسدد، حدثنا حماد بن زيد، عن ابي عمران الجوني، عن المشعث بن طريف، عن عبد الله بن الصامت، عن ابي ذر، قال قال لي رسول الله صلى الله عليه وسلم " يا ابا ذر " . قلت لبيك يا رسول الله وسعديك . فذكر الحديث قال فيه " كيف انت اذا اصاب الناس موت يكون البيت فيه بالوصيف " . قلت الله ورسوله اعلم او قال ما خار الله لي ورسوله . قال " عليك بالصبر " . او قال " تصبر " . ثم قال لي " يا ابا ذر " . قلت لبيك وسعديك . قال " كيف انت اذا رايت احجار الزيت قد غرقت بالدم " . قلت ما خار الله لي ورسوله . قال " عليك بمن انت منه " . قلت يا رسول الله افلا اخذ سيفي واضعه على عاتقي قال " شاركت القوم اذا " . قلت فما تامرني قال " تلزم بيتك " . قلت فان دخل على بيتي قال " فان خشيت ان يبهرك شعاع السيف فالق ثوبك على وجهك يبوء باثمك واثمه " . قال ابو داود لم يذكر المشعث في هذا الحديث غير حماد بن زيد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
 
 ## Bengali
 
+। আবূ যার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রসাূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, হে আবূ যার! আমি বললাম, হে আল্লাহর রাসূল! আমি আপনার সৌভাগ্যময় সাহচর্যে উপস্থিত। অতঃপর বর্ণনাকারী হাদীস বর্ণনা করেন। তিনি বলেন, যখন এক সঙ্গে বহু লোক মারা যাবে এবং একটি ঘর অর্থাৎ একটি কবর একটি গোলামের মূল্যের সমান হবে, তখন তুমি কি করবে? আমি বললাম, আল্লাহ ও তাঁর রাসূলই অধিক জ্ঞাত অথবা তিনি বলেন, আল্লাহ ও তাঁর রাসূল এ ব্যাপারে আমার জন্য যা কল্যাণকর মনে করেন। তিনি বললেন, তখন তোমার ধৈর্য ধারণ করা উচিত অথবা তিনি বলেন, তুমি ধৈর্য ধারণ করবে। পুনরায় তিনি আমাকে ডেকে বলেন, হে আবূ যার! আমি বললাম, আমি বললাম, আমি আপনার কল্যাণময় সাহচর্যে উপস্থিত। তিনি বললেনঃ তুমি কি করবে যখন দেখবে যে, ‘আহজারুয-যায়িত’ নামক জায়গাটি রক্তে ডুবে যাচ্ছে। আমি বললাম, আল্লাহ ও তাঁর রাসূল আমার জন্য এ বিষয়ে যা উত্তম মনে করেন। তিনি বললেন, তুমি তোমার সমমনা লোকদের নিকট চলে যাবে। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমি কি তখন আমার কাঁধে তরবারি ধারণ করবো না? তিনি বললেন, তাহলে তো তুমি তাদের সঙ্গী হয়ে যাবে! তিনি বলেন, তুমি তোমার ঘরে আশ্রয় নিবে। তিনি বলেন, আমি বললাম, যদি সেই বিপদ আমার ঘরে প্রবেশ করে? তিনি বললেন, তুমি যদি আশঙ্কা করো যে, তরবারি ঝলকে তোমাকে ঝলসিয়ে দিবে, তবে তোমার মুখমন্ডল কাপড়ে ঢেকে ফেলো। তাতে সে হত্যাকারী তোমার গুনাহ ও তার গুনাহ নিয়ে ফিরে যাবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাম্মাদ ইবনু যায়িদ ছাড়া কেউ এ হাদীসে বর্ণনাকারী ‘মুশা‘আস-এর নাম উল্লেখ করেননি।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ যার (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রসাূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, হে আবূ যার! আমি বললাম, হে আল্লাহর রাসূল! আমি আপনার সৌভাগ্যময় সাহচর্যে উপস্থিত। অতঃপর বর্ণনাকারী হাদীস বর্ণনা করেন। তিনি বলেন, যখন এক সঙ্গে বহু লোক মারা যাবে এবং একটি ঘর অর্থাৎ একটি কবর একটি গোলামের মূল্যের সমান হবে, তখন তুমি কি করবে? আমি বললাম, আল্লাহ ও তাঁর রাসূলই অধিক জ্ঞাত অথবা তিনি বলেন, আল্লাহ ও তাঁর রাসূল এ ব্যাপারে আমার জন্য যা কল্যাণকর মনে করেন। তিনি বললেন, তখন তোমার ধৈর্য ধারণ করা উচিত অথবা তিনি বলেন, তুমি ধৈর্য ধারণ করবে। পুনরায় তিনি আমাকে ডেকে বলেন, হে আবূ যার! আমি বললাম, আমি বললাম, আমি আপনার কল্যাণময় সাহচর্যে উপস্থিত। তিনি বললেনঃ তুমি কি করবে যখন দেখবে যে, ‘আহজারুয-যায়িত’ নামক জায়গাটি রক্তে ডুবে যাচ্ছে। আমি বললাম, আল্লাহ ও তাঁর রাসূল আমার জন্য এ বিষয়ে যা উত্তম মনে করেন। তিনি বললেন, তুমি তোমার সমমনা লোকদের নিকট চলে যাবে। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমি কি তখন আমার কাঁধে তরবারি ধারণ করবো না? তিনি বললেন, তাহলে তো তুমি তাদের সঙ্গী হয়ে যাবে! তিনি বলেন, তুমি তোমার ঘরে আশ্রয় নিবে। তিনি বলেন, আমি বললাম, যদি সেই বিপদ আমার ঘরে প্রবেশ করে? তিনি বললেন, তুমি যদি আশঙ্কা করো যে, তরবারি ঝলকে তোমাকে ঝলসিয়ে দিবে, তবে তোমার মুখমন্ডল কাপড়ে ঢেকে ফেলো। তাতে সে হত্যাকারী তোমার গুনাহ ও তার গুনাহ নিয়ে ফিরে যাবে। ইমাম আবূ দাঊদ (রহঃ) বলেন, হাম্মাদ ইবনু যায়িদ ছাড়া কেউ এ হাদীসে বর্ণনাকারী ‘মুশা‘আস-এর নাম উল্লেখ করেননি।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuDharr: The Messenger of Allah (ﷺ) said to me: O AbuDharr. I replied: At thy service and at thy pleasure, Messenger of Allah. He then mentioned the tradition in which he said: What will you do when there the death of the people (in Medina) and a house will reach the value of a slave (that is, a grave will be sold for a slave). I replied: Allah and His Apostle know best. Or he said: What Allah and His Apostle choose for me. He said: You must show endurance. Or he said; you may endure. He then said to me: What will you do, AbuDharr, when you see the Ahjar az-Zayt covered with blood? I replied: What Allah and His Apostle choose for me. He said: You must go to those who are like-minded. I asked: Should I not take my sword and put it on my shoulder? He replied: you would then associate yourself with the people. I then asked: What do you order me to do? You must stay at home. I asked: (What should I do) if people enter my house and find me? He replied: If you are afraid the gleam of the sword may dazzle you, put the end of your garment over your face in order that (the one who kills you) may bear the punishment of your sins and his. Abu Dawud said: No one mentioned al-Mush'ath in the chain of this tradition except Hammad b. Zaid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
+
+## French
+
+Rapporté par Abu Dharr : Le Messager d’Allah ﷺ m’a dit : « Ô Abu Dharr. » J’ai répondu : « Me voici à ton service et à ton plaisir, Messager d’Allah. » Il a ensuite mentionné le hadith où il a dit : « Que feras-tu quand il y aura beaucoup de morts parmi les gens (à Médine) et qu’une tombe vaudra le prix d’un esclave ? » J’ai répondu : « Allah et Son Messager savent mieux. » Ou il a dit : « Ce qu’Allah et Son Messager choisiront pour moi. » Il m’a dit : « Tu dois faire preuve de patience. » Ou il a dit : « Tu peux patienter. » Puis il m’a dit : « Que feras-tu, Abu Dharr, quand tu verras Ahjar az-Zayt couvert de sang ? » J’ai répondu : « Ce qu’Allah et Son Messager choisiront pour moi. » Il a dit : « Tu dois rejoindre ceux qui te ressemblent. » J’ai demandé : « Ne devrais-je pas prendre mon épée et la porter sur mon épaule ? » Il répondit : « Tu te joindrais alors aux gens. » J’ai alors demandé : « Que m’ordonnes-tu de faire ? » Il répondit : « Tu dois rester chez toi. » J’ai demandé : « Et si des gens entrent chez moi et me trouvent ? » Il répondit : « Si tu crains d’être ébloui par l’épée, mets le bout de ton vêtement sur ton visage afin que (celui qui te tue) porte la charge de tes péchés et des siens. » Abu Dawud a dit : Personne n’a mentionné al-Mush’ath dans la chaîne de ce hadith sauf Hammad b. Zaid
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Hammad bin Zaid\] dari \[Abu Imran Al Jauni\] dari \[Musya'ats bin Tharif\] dari \[Abdullah bin Ash Shamit\] dari \[Abu Dzar\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abu Dzar!" Aku menjawab, "Wahai Rasulullah, aku penuhi panggilanmu dan kebahagiaan semoga bersamamu, " -lalu ia menyebutkan hadits secara lengkap-. Dalam hadits tersebut beliau bertanya: "Apa yang akan kamu lakukan jika datang kematian kepada manusia, kemudian rumahnya pindah ke kuburan?" Aku menjawab, "Allah dan Rasul-Nya lebih tahu." Atau ia menyebutkan, "(Aku akan melakukan) apa yang Allah dan Rasul-Nya kehendaki (pilih)." Beliau bersabda: "Hendaklah engkau sabar, atau beliau mengatakan: "Bersabarlah." Kemudian beliau berkata lagi kepadaku: "Wahai Abu Dzar!" aku menjawab, "Aku penuhi panggilanmu dan kebahagiaan semoga bersamamu, "Apa pendapatmu jika Ahjar Az Zait (nama suatu tempat di Madinah) berlumuran darah?" Aku menjawab, "(Aku akan melakukan) apa yang Allah dan Rasul-Nya kehendaki untukku." Beliau bersabda: "Hendaklah engkau bergabung bersama orang terdekatmu (keluarga, atau Imam yang kamu berbaiat kepadanya)." Aku bertanya, "Wahai Rasulullah, apa tidak lebih baik jika aku ambil pedangku, lalu aku letakkan di atas pundakku?" beliau menjawab: "Kalau begitu kamu telah ikut serta bersama orang-orang (dalam dosa)." Aku lalu bertanya lagi, "Lantas apa yang engkau perintahkan untukku?" beliau menjawab: "Berdiamlah engkau dirumahmu." Aku terus bertanya, "Bagaimana jika ada seseorang yang masuk ke dalam rumahku!" beliau menjawab: "Jika engkau merasa takut dengan kilauan pedang musuh, maka letakkanlah kain baju di mukamu (pasrah), maka ia akan menanggung dosamu dan dosanya sendiri." Abu Dawud berkata, "Al Musya'ats dalam hadits ini tidak menyebutkan selain Hammad bin Zaid
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Abu Imran Al Jauni] dari [Musya'ats bin Tharif] dari [Abdullah bin Ash Shamit] dari [Abu Dzar] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda kepadaku: "Wahai Abu Dzar!" Aku menjawab, "Wahai Rasulullah, aku penuhi panggilanmu dan kebahagiaan semoga bersamamu, " -lalu ia menyebutkan hadits secara lengkap-. Dalam hadits tersebut beliau bertanya: "Apa yang akan kamu lakukan jika datang kematian kepada manusia, kemudian rumahnya pindah ke kuburan?" Aku menjawab, "Allah dan Rasul-Nya lebih tahu." Atau ia menyebutkan, "(Aku akan melakukan) apa yang Allah dan Rasul-Nya kehendaki (pilih)." Beliau bersabda: "Hendaklah engkau sabar, atau beliau mengatakan: "Bersabarlah." Kemudian beliau berkata lagi kepadaku: "Wahai Abu Dzar!" aku menjawab, "Aku penuhi panggilanmu dan kebahagiaan semoga bersamamu, "Apa pendapatmu jika Ahjar Az Zait (nama suatu tempat di Madinah) berlumuran darah?" Aku menjawab, "(Aku akan melakukan) apa yang Allah dan Rasul-Nya kehendaki untukku." Beliau bersabda: "Hendaklah engkau bergabung bersama orang terdekatmu (keluarga, atau Imam yang kamu berbaiat kepadanya)." Aku bertanya, "Wahai Rasulullah, apa tidak lebih baik jika aku ambil pedangku, lalu aku letakkan di atas pundakku?" beliau menjawab: "Kalau begitu kamu telah ikut serta bersama orang-orang (dalam dosa)." Aku lalu bertanya lagi, "Lantas apa yang engkau perintahkan untukku?" beliau menjawab: "Berdiamlah engkau dirumahmu." Aku terus bertanya, "Bagaimana jika ada seseorang yang masuk ke dalam rumahku!" beliau menjawab: "Jika engkau merasa takut dengan kilauan pedang musuh, maka letakkanlah kain baju di mukamu (pasrah), maka ia akan menanggung dosamu dan dosanya sendiri." Abu Dawud berkata, "Al Musya'ats dalam hadits ini tidak menyebutkan selain Hammad bin Zaid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Зарр (аль-Гифари), да будет доволен им Аллах, передаёт: «Однажды Посланник Аллаха ﷺ сказал: “О Абу Зарр!” Я ответил: “Вот я перед тобой, о Посланник Аллаха, слушаюсь и повинуюсь”. Посланник Аллаха ﷺ сказал: “Что будешь делать ты, когда обрушится на людей смерть и могила будет стоить столько же, сколько стоит раб?” Я ответил: “Аллах и Его Посланник знают об этом лучше (или: да будет то, что избрал для меня Аллах и Его Посланник)”. (Посланник Аллаха ﷺ) сказал: “Ты должен будешь проявить терпение (или: терпеть)”. Затем он сказал мне: “О Абу Зарр!” Я ответил: “Вот я перед тобой, о Посланник Аллаха, слушаюсь и повинуюсь”. Он сказал: “Что будешь делать ты, когда увидишь камни аз-Зейта утонувшими в крови?” Я ответил: “Да будет то, что избрал для меня Аллах и Его Посланник”. Посланник Аллаха ﷺ сказал: “Оставайся с людьми, к которым ты принадлежишь”. Я спросил: “О Посланник Аллаха, а почему бы мне не взять свой меч и не возложить его на плечо (чтобы сражаться с этими людьми)?” Он сказал: “Тогда ты станешь их соучастником (в грехе)”. Я спросил: “Что же ты велишь мне делать?” (Посланник Аллаха ﷺ) сказал: “Держись дома своего”. Я спросил: “А если в мой дом ворвутся?” Он сказал: “Если боишься, что ослепит тебя блеск меча, то прикрой лицо одеждой, (чтобы тебя не обуял страх, покорись и не сражайся), и тот человек возьмёт на себя и твой грех, и свой”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
 
 ## Turkish
 
+Ebu Zer (r.a) şöyle demiştir: Rasûlullah (s.a.v.) bana, -Yâ Ebû Zer, dedi. Buyur, Yâ Rasûlullah, Emrin başım üstünde... dedim. Râvî hadisi zikredip, şöyle dedi: Rasûlullah: İnsanlar (topluca) ölüp, kabir bir köle fiyatına olduğu zaman ne yaparsın? buyurdu. Allah ve Rasûlü daha iyi bilir veya Allah ve Rasulü benim için ne seçerse onu. Sabra sarıl veya Sabret \[şekler râvîlerindir \] Rasûlullah daha sonra şöyle dedi: -Yâ Ebû Zer, Buyur ya Rasûlullah Ahcâr'u zeyt'in kan içinde kaldığını gördüğün zaman ne yaparsın? -Allah ve Rasûlü benim için ne isterse onu. Sen kendilerinden olduğun kişilerin (ailenin veya bi'at ettiğin hükümdarın) yanına katıl. Yâ Rasûlullah! Kılıcımı alıp, boynuma takmayayım mı? (savaşa katılmayayım mı?) Öyle yaparsan o kavme ortak olursun. Öyleyse bana ne emredersin? Evine kapan Eğer seni kılıç parıltısının kaplamasından korkarsan elbiseni yüzüne tut, o (seni öldürmek isteyen kişi) senin ve kendisinin günahı ile döner
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebu Zer (r.a) şöyle demiştir: Rasûlullah (s.a.v.) bana, -Yâ Ebû Zer, dedi. Buyur, Yâ Rasûlullah, Emrin başım üstünde... dedim. Râvî hadisi zikredip, şöyle dedi: Rasûlullah: İnsanlar (topluca) ölüp, kabir bir köle fiyatına olduğu zaman ne yaparsın? buyurdu. Allah ve Rasûlü daha iyi bilir veya Allah ve Rasulü benim için ne seçerse onu. Sabra sarıl veya Sabret [şekler râvîlerindir ] Rasûlullah daha sonra şöyle dedi: -Yâ Ebû Zer, Buyur ya Rasûlullah Ahcâr'u zeyt'in kan içinde kaldığını gördüğün zaman ne yaparsın? -Allah ve Rasûlü benim için ne isterse onu. Sen kendilerinden olduğun kişilerin (ailenin veya bi'at ettiğin hükümdarın) yanına katıl. Yâ Rasûlullah! Kılıcımı alıp, boynuma takmayayım mı? (savaşa katılmayayım mı?) Öyle yaparsan o kavme ortak olursun. Öyleyse bana ne emredersin? Evine kapan Eğer seni kılıç parıltısının kaplamasından korkarsan elbiseni yüzüne tut, o (seni öldürmek isteyen kişi) senin ve kendisinin günahı ile döner
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوذر رضی اللہ عنہ کہتے ہیں کہ مجھ سے رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ابوذر! میں نے عرض کیا: تعمیل حکم کے لیے حاضر ہوں، اللہ کے رسول! پھر انہوں نے حدیث ذکر کی اس میں ہے: آپ صلی اللہ علیہ وسلم نے فرمایا: ابوذر! اس دن تمہارا کیا حال ہو گا؟ جب مدینہ میں اتنی موتیں ہوں گی کہ گھر یعنی قبر ایک غلام کے بدلہ میں ملے گا؟ ۱؎ میں نے عرض کیا: اللہ اور اس کے رسول کو خوب معلوم ہے، یا کہا: اللہ اور اس کے رسول میرے لیے ایسے موقع پر کیا پسند فرماتے ہیں؟ آپ نے فرمایا: صبر کو لازم پکڑنا یا فرمایا: صبر کرنا ، پھر آپ صلی اللہ علیہ وسلم نے مجھ سے فرمایا: اے ابوذر! میں نے عرض کیا: اللہ کے رسول! ارشاد فرمائیں تعمیل حکم کے لیے حاضر ہوں، آپ صلی اللہ علیہ وسلم نے فرمایا: تمہارا کیا حال ہو گا جب تم احجار الزیت ۲؎ کو خون میں ڈوبا ہوا دیکھو گے میں نے عرض کیا: جو اللہ اور اس کے رسول میرے لیے پسند فرمائیں گے، آپ صلی اللہ علیہ وسلم نے فرمایا: اس جگہ کو لازم پکڑنا جہاں کے تم ہو ۳؎ ، میں نے عرض کیا: اللہ کے رسول! کیا میں اپنی تلوار لے کر اسے اپنے کندھے پر نہ رکھ لوں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: تب تو تم ان کے شریک بن جاؤ گے میں نے عرض کیا: پھر آپ مجھے کیا حکم دیتے ہیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: اپنے گھر کو لازم پکڑنا میں نے عرض کیا: اگر کوئی میرے گھر میں گھس آئے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: اگر تمہیں یہ اندیشہ ہو کہ تلواروں کی چمک تمہاری نگاہیں خیرہ کر دے گی تو تم اپنا کپڑا اپنے چہرے پر ڈال لینا ( اور قتل ہو جانا ) وہ تمہارا اور اپنا دونوں کا گناہ سمیٹ لے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4261</td></tr><tr><td>Arabic No</td><td>4261</td></tr><tr><td>Reference</td><td>Book 37 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4261 |
+| Arabic No | 4261 |
+| Reference | Book 37 Hadith 22 |

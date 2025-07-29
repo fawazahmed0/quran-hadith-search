@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ أَبُو إِسْحَاقَ حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، بِمِثْلِ هَذَا الْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قال ابو اسحاق حدثنا محمد بن يحيى، حدثنا عبد الرزاق، اخبرنا معمر، بمثل هذا الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ ইসহাক, মা'মার (রহঃ) হতে অবিকল হাদীস রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৯৩৬, ইসলামিক সেন্টার, নেই)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted on the authority of Ma'mar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## French
 
+Rapporté par Ma’mar : Ce hadith a été transmis par une autre chaîne de Ma’mar
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-158) Ebû İshâk dedi ki: Bize Muhammed b, Yahya rivayet etti. (Dediki): Bize Abdürrezzâk rivayet etti, (Dediki): Bize Ma'mer bu hadîsin mislini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن یحییٰ نے کہا : ہمیں عبد الرزاق نے حدیث بیان کی ، کہا : ہمیں معمر نے اسی حدیث کے مانند حدیث بیان کی ،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6150</td></tr><tr><td>Arabic No</td><td>2372.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 208</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6150 |
+| Arabic No | 2372.03 |
+| Reference | Book 43 Hadith 208 |

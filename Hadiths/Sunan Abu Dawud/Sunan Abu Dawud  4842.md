@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
+حَدَّثَنَا يَحْيَى بْنُ إِسْمَاعِيلَ، وَابْنُ أَبِي خَلَفٍ، أَنَّ يَحْيَى بْنَ الْيَمَانِ، أَخْبَرَهُمْ عَنْ سُفْيَانَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ مَيْمُونِ بْنِ أَبِي شَبِيبٍ، أَنَّ عَائِشَةَ \[رضى الله عنها\] مَرَّ بِهَا سَائِلٌ فَأَعْطَتْهُ كِسْرَةً وَمَرَّ بِهَا رَجُلٌ عَلَيْهِ ثِيَابٌ وَهَيْئَةٌ فَأَقْعَدَتْهُ فَأَكَلَ فَقِيلَ لَهَا فِي ذَلِكَ فَقَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَنْزِلُوا النَّاسَ مَنَازِلَهُمْ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ يَحْيَى مُخْتَصَرٌ ‏.‏ قَالَ أَبُو دَاوُدَ مَيْمُونٌ لَمْ يُدْرِكْ عَائِشَةَ ‏.‏
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حَدَّثَنَا يَحْيَى بْنُ إِسْمَاعِيلَ، وَابْنُ أَبِي خَلَفٍ، أَنَّ يَحْيَى بْنَ الْيَمَانِ، أَخْبَرَهُمْ عَنْ سُفْيَانَ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ مَيْمُونِ بْنِ أَبِي شَبِيبٍ، أَنَّ عَائِشَةَ [رضى الله عنها] مَرَّ بِهَا سَائِلٌ فَأَعْطَتْهُ كِسْرَةً وَمَرَّ بِهَا رَجُلٌ عَلَيْهِ ثِيَابٌ وَهَيْئَةٌ فَأَقْعَدَتْهُ فَأَكَلَ فَقِيلَ لَهَا فِي ذَلِكَ فَقَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَنْزِلُوا النَّاسَ مَنَازِلَهُمْ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَحَدِيثُ يَحْيَى مُخْتَصَرٌ ‏.‏ قَالَ أَبُو دَاوُدَ مَيْمُونٌ لَمْ يُدْرِكْ عَائِشَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حدثنا يحيى بن اسماعيل، وابن ابي خلف، ان يحيى بن اليمان، اخبرهم عن سفيان، عن حبيب بن ابي ثابت، عن ميمون بن ابي شبيب، ان عايشة [رضى الله عنها] مر بها سايل فاعطته كسرة ومر بها رجل عليه ثياب وهيية فاقعدته فاكل فقيل لها في ذلك فقالت قال رسول الله صلى الله عليه وسلم " انزلوا الناس منازلهم " . قال ابو داود وحديث يحيى مختصر . قال ابو داود ميمون لم يدرك عايشة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+حدثنا يحيى بن اسماعيل، وابن ابي خلف، ان يحيى بن اليمان، اخبرهم عن سفيان، عن حبيب بن ابي ثابت، عن ميمون بن ابي شبيب، ان عايشة \[رضى الله عنها\] مر بها سايل فاعطته كسرة ومر بها رجل عليه ثياب وهيية فاقعدته فاكل فقيل لها في ذلك فقالت قال رسول الله صلى الله عليه وسلم " انزلوا الناس منازلهم " . قال ابو داود وحديث يحيى مختصر . قال ابو داود ميمون لم يدرك عايشة
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
 
 ## Bengali
 
+। মাইমূন ইবনু আবূ শাবীব (রহঃ) সূত্রে বর্ণিত। একদা এক ভিক্ষুক আয়িশাহ (রাঃ)-এর নিকট এলে তিনি তাকে এক টুকরা রুটি দিলেন এবং পোশাক পরিহিত সুন্দর চেহারাবিশিষ্ট আরেক ব্যক্তি এলে তিনি তাকে বসালেন এবং খেতে দিলেন। এ ব্যাপারে প্রশ্ন করা হলে তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মানুষের সঙ্গে তাদের মর্যাদা অনুযায়ী আচরণ করো। ইমাম আবূ দাঊদ (রহঃ) বলেন, মাইমূন (রহঃ) আয়িশাহ (রাঃ)-এর সাক্ষাৎ পাননি।\[1\] দুর্বলঃ যঈফাহ হা/ ১৮৯৪।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মাইমূন ইবনু আবূ শাবীব (রহঃ) সূত্রে বর্ণিত। একদা এক ভিক্ষুক আয়িশাহ (রাঃ)-এর নিকট এলে তিনি তাকে এক টুকরা রুটি দিলেন এবং পোশাক পরিহিত সুন্দর চেহারাবিশিষ্ট আরেক ব্যক্তি এলে তিনি তাকে বসালেন এবং খেতে দিলেন। এ ব্যাপারে প্রশ্ন করা হলে তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা মানুষের সঙ্গে তাদের মর্যাদা অনুযায়ী আচরণ করো। ইমাম আবূ দাঊদ (রহঃ) বলেন, মাইমূন (রহঃ) আয়িশাহ (রাঃ)-এর সাক্ষাৎ পাননি।[1] দুর্বলঃ যঈফাহ হা/ ১৮৯৪।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Maimun ibn Abu Shabib: A beggar passed by Aisha and she gave him a piece of bread. Another man who wore clothes and had a good appearance passed by her, and she made him sit down and he ate (with her). When she was asked about that, she replied: The Messenger of Allah (ﷺ) said: Treat the people according to their ranks. Abu Dawud said: The version of Yahya is short. Abu Dawud said: Maimun did not meet 'A'ishah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
+
+## French
+
+Rapporté par Maimun ibn Abu Shabib : Un mendiant est passé devant Aïsha رضي الله عنها et elle lui a donné un morceau de pain. Un autre homme, bien habillé et de bonne apparence, est passé devant elle, et elle l’a fait asseoir pour qu’il mange avec elle. Quand on l’a interrogée à ce sujet, elle a répondu : « Le Messager d’Allah ﷺ a dit : “Traitez les gens selon leur rang.” » Abu Dawud a dit : La version de Yahya est courte. Abu Dawud a aussi dit : Maimun n’a pas rencontré Aïsha رضي الله عنها
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Isma'il\] dan \[Ibnu Abu Khalaf\] bahwa \[Yahya Ibnul Yaman\] mengabarkan kepada mereka dari \[Sufyan\] dari \[Habib bin Abu Tsabit\] dari \[Maimun bin Abu Syabib\] berkata, "Seorang peminta-minta melewati 'Aisyah, lalu ia memberinya remukan roti. Setelah itu ada lagi seorang laki-laki yang berpakaian rapi dan berkedudukan melewati 'Aisyah, lalu ia menyuruhnya duduk dan memberinya jamuan makan. Maka 'Aisyah pun ditanya dengan perlakukannya tersebut, \['Aisyah\] menjawab, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perlakukanlah manusia sesuai dengan kedudukannya." Abu Dawud berkata, "hadits Yahya lebih singkat." Abu Dawud berkata lagi, "Maimun belum pernah bertemu dengan 'Aisyah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Isma'il] dan [Ibnu Abu Khalaf] bahwa [Yahya Ibnul Yaman] mengabarkan kepada mereka dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Maimun bin Abu Syabib] berkata, "Seorang peminta-minta melewati 'Aisyah, lalu ia memberinya remukan roti. Setelah itu ada lagi seorang laki-laki yang berpakaian rapi dan berkedudukan melewati 'Aisyah, lalu ia menyuruhnya duduk dan memberinya jamuan makan. Maka 'Aisyah pun ditanya dengan perlakukannya tersebut, ['Aisyah] menjawab, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perlakukanlah manusia sesuai dengan kedudukannya." Abu Dawud berkata, "hadits Yahya lebih singkat." Abu Dawud berkata lagi, "Maimun belum pernah bertemu dengan 'Aisyah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Meymun İbn Ebi Şebib'den (rivayet edildiğine göre Bir gün) Hz. Aişe (r.anhâ)'ya bir dilenci uğramış da o dilenciye bir (ekmek) parçası) vermiş .(Daha sonra) yanına üzerinde bir elbise ve iyilik alameti bulunan bir kimse daha uğramış. Bunun üzerine o adam'ı (layık olduğu bir yere) oturtmuş (ve kendisine bir takım yiyecekler ikram etmiş, adam da kendisine ikram edilen yiyecekleri) yemiş. (Daha sonra oradan uzaklaşıp gitmiş. Adam oradan ayrılınca) bu durum Hz. Aişe'ye sorulmuş (Hz. Aişe de): Rasûlullah (s.a.v.): "İnsanları (layık oldukları) makamlarına oturtunuz" buyurdu. Cevabını vermiş. Ebû Davud der ki: Yahya'nın rivayeti kısaltılmıştır. Meymun ise Hz. Aişe'ye erişmemiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ان کے پاس سے ایک بھکاری گزرا تو انہوں نے اس کو روٹی کا ایک ٹکڑا دے دیا، پھر ایک شخص کپڑوں میں ملبوس اور معقول صورت میں گزرا تو انہوں نے اسے بٹھایا اور ( اسے کھانا پیش کیا ) اور اس نے کھایا، لوگوں نے ان سے اس ( امتیاز ) کی بابت پوچھا تو وہ بولیں: رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ہے ہر شخص کو اس کے مرتبے پر رکھو ۱؎۔ ابوداؤد کہتے ہیں: یحییٰ کی حدیث مختصر ہے، اور میمون نے عائشہ رضی اللہ عنہا کو نہیں پایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4842</td></tr><tr><td>Arabic No</td><td>4842</td></tr><tr><td>Reference</td><td>Book 43 Hadith 70</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4842 |
+| Arabic No | 4842 |
+| Reference | Book 43 Hadith 70 |

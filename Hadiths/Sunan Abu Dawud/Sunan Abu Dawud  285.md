@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ أَبِي عَقِيلٍ، وَمُحَمَّدُ بْنُ سَلَمَةَ الْمِصْرِيَّانِ، قَالاَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ عَمْرِو بْنِ الْحَارِثِ، عَنِ ابْنِ شِهَابٍ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، وَعَمْرَةَ، عَنْ عَائِشَةَ، أَنَّ أُمَّ حَبِيبَةَ بِنْتَ جَحْشٍ، خَتَنَةَ رَسُولِ اللَّهِ صلى الله عليه وسلم وَتَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ اسْتُحِيضَتْ سَبْعَ سِنِينَ فَاسْتَفْتَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنَّ هَذِهِ لَيْسَتْ بِالْحَيْضَةِ وَلَكِنْ هَذَا عِرْقٌ فَاغْتَسِلِي وَصَلِّي ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ زَادَ الأَوْزَاعِيُّ فِي هَذَا الْحَدِيثِ عَنِ الزُّهْرِيِّ عَنْ عُرْوَةَ وَعَمْرَةَ عَنْ عَائِشَةَ قَالَتِ اسْتُحِيضَتْ أُمُّ حَبِيبَةَ بِنْتُ جَحْشٍ - وَهِيَ تَحْتَ عَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ - سَبْعَ سِنِينَ فَأَمَرَهَا النَّبِيُّ صلى الله عليه وسلم قَالَ ‏"‏ إِذَا أَقْبَلَتِ الْحَيْضَةُ فَدَعِي الصَّلاَةَ وَإِذَا أَدْبَرَتْ فَاغْتَسِلِي وَصَلِّي ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ وَلَمْ يَذْكُرْ هَذَا الْكَلاَمَ أَحَدٌ مِنْ أَصْحَابِ الزُّهْرِيِّ غَيْرَ الأَوْزَاعِيِّ وَرَوَاهُ عَنِ الزُّهْرِيِّ عَمْرُو بْنُ الْحَارِثِ وَاللَّيْثُ وَيُونُسُ وَابْنُ أَبِي ذِئْبٍ وَمَعْمَرٌ وَإِبْرَاهِيمُ بْنُ سَعْدٍ وَسُلَيْمَانُ بْنُ كَثِيرٍ وَابْنُ إِسْحَاقَ وَسُفْيَانُ بْنُ عُيَيْنَةَ وَلَمْ يَذْكُرُوا هَذَا الْكَلاَمَ ‏.‏ قَالَ أَبُو دَاوُدَ وَإِنَّمَا هَذَا لَفْظُ حَدِيثِ هِشَامِ بْنِ عُرْوَةَ عَنْ أَبِيهِ عَنْ عَائِشَةَ ‏.‏ قَالَ أَبُو دَاوُدَ وَزَادَ ابْنُ عُيَيْنَةَ فِيهِ أَيْضًا أَمَرَهَا أَنْ تَدَعَ الصَّلاَةَ أَيَّامَ أَقْرَائِهَا ‏.‏ وَهُوَ وَهَمٌ مِنَ ابْنِ عُيَيْنَةَ وَحَدِيثُ مُحَمَّدِ بْنِ عَمْرٍو عَنِ الزُّهْرِيِّ فِيهِ شَىْءٌ يَقْرُبُ مِنَ الَّذِي زَادَ الأَوْزَاعِيُّ فِي حَدِيثِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
+
 حدثنا ابن ابي عقيل، ومحمد بن سلمة المصريان، قالا حدثنا ابن وهب، عن عمرو بن الحارث، عن ابن شهاب، عن عروة بن الزبير، وعمرة، عن عايشة، ان ام حبيبة بنت جحش، ختنة رسول الله صلى الله عليه وسلم وتحت عبد الرحمن بن عوف استحيضت سبع سنين فاستفتت رسول الله صلى الله عليه وسلم فقال رسول الله صلى الله عليه وسلم " ان هذه ليست بالحيضة ولكن هذا عرق فاغتسلي وصلي " . قال ابو داود زاد الاوزاعي في هذا الحديث عن الزهري عن عروة وعمرة عن عايشة قالت استحيضت ام حبيبة بنت جحش - وهي تحت عبد الرحمن بن عوف - سبع سنين فامرها النبي صلى الله عليه وسلم قال " اذا اقبلت الحيضة فدعي الصلاة واذا ادبرت فاغتسلي وصلي " . قال ابو داود ولم يذكر هذا الكلام احد من اصحاب الزهري غير الاوزاعي ورواه عن الزهري عمرو بن الحارث والليث ويونس وابن ابي ذيب ومعمر وابراهيم بن سعد وسليمان بن كثير وابن اسحاق وسفيان بن عيينة ولم يذكروا هذا الكلام . قال ابو داود وانما هذا لفظ حديث هشام بن عروة عن ابيه عن عايشة . قال ابو داود وزاد ابن عيينة فيه ايضا امرها ان تدع الصلاة ايام اقرايها . وهو وهم من ابن عيينة وحديث محمد بن عمرو عن الزهري فيه شىء يقرب من الذي زاد الاوزاعي في حديثه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah said:Umm Habibah, daughter of Jahsh and sister-in-law of Messenger of Allah (ﷺ)m and wife of 'Abd al-Rahman b. 'Awf, had a prolonged flow of blood for seven years. She inquired from the Messenger of Allah (ﷺ) about it. The Messenger of Allah (ﷺ) said: This is not menstruation, but this (due to) a vein. Therefore, wash yourself and pray. Abu Dawud said: In this tradition which is transmitted by al-Zuhri from 'Urwah and 'Urwah on the authority of 'Aishah, al-Awza'i added: She ('Aishah) said: Umm Habibah daughter of Jahsh and wife of 'Abd al-Rahman b. 'Awf had a prolonged flow of blood for seven years. The Prophet (ﷺ) commander her saying: When the menstruation begins, abandon prayer; when it is finished, take a bath and pray. Abu Dawud said: None of the disciple of al-Zuhri mentioned these words except al-Awza'i, from al-Zuhri it has been narrated by 'Amr b. al-Harith, al-Laith, Yunus, Ibn Abi Dhi'b, Ma'mar, Ibrahim b. Sa'd, Sulaiman b. Kathir, Ibn Ishaq and Sufyan b. 'Uyainah, they did not narrate these words. Abu Dawud said: These are the words of the version reported by Hisham b. 'Urwah from this father on the authority of 'Aishah. Abu Dawud said: In this tradition Ibn 'Uyainah also added the words: He commander her to abandon prayer during her menstrual period. This is a misunderstanding on the part of Ibn 'Uyainah. The version of this tradition narrated by Muhammad b. 'Amr from al-Zuhri has the addition similar to that made by al-Awza'i in his version
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : Umm Habibah, fille de Jahsh, belle-sœur du Messager d’Allah ﷺ et épouse de 'Abd al-Rahman b. 'Awf, a eu un écoulement de sang prolongé pendant sept ans. Elle a interrogé le Messager d’Allah ﷺ à ce sujet. Le Messager d’Allah ﷺ a dit : « Ce n’est pas la menstruation, mais cela vient d’une veine. Donc, lave-toi et prie. » Abu Dawud a dit : Dans ce récit transmis par al-Zuhri de 'Urwah et 'Urwah d’après 'Aishah, al-Awza'i a ajouté : 'Aishah a dit : Umm Habibah, fille de Jahsh et épouse de 'Abd al-Rahman b. 'Awf, a eu un écoulement de sang prolongé pendant sept ans. Le Prophète ﷺ lui a ordonné : « Quand tes règles commencent, arrête de prier ; quand elles sont terminées, prends un bain et prie. » Abu Dawud a dit : Aucun des élèves de al-Zuhri n’a mentionné ces mots, sauf al-Awza'i. Abu Dawud a dit : Ce sont les mots de la version rapportée par Hisham b. 'Urwah de son père d’après 'Aishah. Abu Dawud a dit : Dans cette tradition, Ibn 'Uyainah a aussi ajouté les mots : Il lui a ordonné de s’abstenir de prier pendant sa période menstruelle. C’est une confusion de la part d’Ibn 'Uyainah. La version de ce récit rapportée par Muhammad b. 'Amr de al-Zuhri a un ajout similaire à celui fait par al-Awza'i dans sa version
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibnu Abi Aqil\] dan \[Muhammad bin Salamah\] keduanya dari Mesir. Mereka berdua berkata; Telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Amru bin Al-Harits\] dari \[Ibnu Syihab\] dari \[Urwah bin Az-Zubair\] dan \['Amrah\] dari \[Aisyah\] bahwasanya Ummu Habibah binti Jahsy, ipar Rasulullah shallallahu 'alaihi wasallam dan istri Abdurrahman bin Auf terkena darah penyakit selama tujuh tahun. Lalu dia meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini bukan darah haidl, akan tetapi ini darah penyakit. Karena itu, mandilah kamu dan kerjakanlah shalat". Abu Dawud berkata; \[Al-Auza'i\] menambahkan di dalam hadits ini dari \[Az-Zuhri\] dari \['Urwah\] dan \['Amrah\] dari \[Aisyah\] dia berkata; Ummu Habibah binti Jahsy, yaitu istri Abdurrahman bin 'Auf terkena darah penyakit selama tujuh tahun, maka Nabi shallallahu 'alaihi wasallam memerintahkan kepadanya, seraya bersabda: "Apabila datang haidl, maka tinggalkanlah shalat, dan apabila telah berlalu, maka mandilah, kemudian shalatlah". Abu Dawud berkata; Perkataan ini tidak disebutkan oleh seorang pun dari murid-murid Az-Zuhri selain Al-Auza'i. dan telah meriwayatkan dari \[Az-Zuhri\], \[Amru bin Al-Harits\] dan \[Al-Laits\] dan \[Yunus\] dan \[Ibnu Abi Dzi'b\] dan \[Ma'mar\] dan \[Ibrahim bin Sa'd\] dan \[Sulaiman bin Katsir\] dan \[Ibnu Ishaq\] dan \[Sufyan bin Uyainah\], dan mereka semua tidak menyebutkan perkataan ini. Abu Dawud berkata; Ini adalah lafazh hadits Hisyam bin Urwah dari Ayahnya dari Aisyah. Abu Dawud berkata; Ibnu Uyainah juga menambahkan padanya, bahwa beliau menyuruhnya untuk meninggalkan shalat pada hari-hari datangnya haidl. Ini adalah wahm (keraguan) dari Ibnu Uyainah dan hadits \[Muhammad bin Amru\] dari \[Az-Zuhri\] ada suatu ucapan yang mendekati tambahan Al-Auza'i di dalam haditsnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibnu Abi Aqil] dan [Muhammad bin Salamah] keduanya dari Mesir. Mereka berdua berkata; Telah menceritakan kepada kami [Ibnu Wahb] dari [Amru bin Al-Harits] dari [Ibnu Syihab] dari [Urwah bin Az-Zubair] dan ['Amrah] dari [Aisyah] bahwasanya Ummu Habibah binti Jahsy, ipar Rasulullah shallallahu 'alaihi wasallam dan istri Abdurrahman bin Auf terkena darah penyakit selama tujuh tahun. Lalu dia meminta fatwa kepada Rasulullah shallallahu 'alaihi wasallam, maka Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini bukan darah haidl, akan tetapi ini darah penyakit. Karena itu, mandilah kamu dan kerjakanlah shalat". Abu Dawud berkata; [Al-Auza'i] menambahkan di dalam hadits ini dari [Az-Zuhri] dari ['Urwah] dan ['Amrah] dari [Aisyah] dia berkata; Ummu Habibah binti Jahsy, yaitu istri Abdurrahman bin 'Auf terkena darah penyakit selama tujuh tahun, maka Nabi shallallahu 'alaihi wasallam memerintahkan kepadanya, seraya bersabda: "Apabila datang haidl, maka tinggalkanlah shalat, dan apabila telah berlalu, maka mandilah, kemudian shalatlah". Abu Dawud berkata; Perkataan ini tidak disebutkan oleh seorang pun dari murid-murid Az-Zuhri selain Al-Auza'i. dan telah meriwayatkan dari [Az-Zuhri], [Amru bin Al-Harits] dan [Al-Laits] dan [Yunus] dan [Ibnu Abi Dzi'b] dan [Ma'mar] dan [Ibrahim bin Sa'd] dan [Sulaiman bin Katsir] dan [Ibnu Ishaq] dan [Sufyan bin Uyainah], dan mereka semua tidak menyebutkan perkataan ini. Abu Dawud berkata; Ini adalah lafazh hadits Hisyam bin Urwah dari Ayahnya dari Aisyah. Abu Dawud berkata; Ibnu Uyainah juga menambahkan padanya, bahwa beliau menyuruhnya untuk meninggalkan shalat pada hari-hari datangnya haidl. Ini adalah wahm (keraguan) dari Ibnu Uyainah dan hadits [Muhammad bin Amru] dari [Az-Zuhri] ada suatu ucapan yang mendekati tambahan Al-Auza'i di dalam haditsnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов ‘Аиши о том, что у Умм Хабибы бинт Джахш, которая являлась родственницей Посланника Аллаха ﷺ и женой ‘Абду-р-Рахмана ибн ‘Ауфа, были хроническое кровотечение в течение семи лет. Она спросила об этом Посланника Аллаха ﷺ и Посланник Аллаха ﷺ сказал: «Поистине, это не менструальная кровь, а венозная, поэтому, искупайся и совершай молитву».Абу Дауд сказал: «В риваяте этого хадиса, который передал аль-Ауза‘и со слов аз-Зухри, от ‘Урвы и ‘Амра со слов ‘Аиши, добавлено, что она сказала: «У Умм Хабибы бинт Джахш, которая являлась женой ‘Абду-р-Рахмана ибн ‘Ауфа, было хроническое кровотечение в течение семи лет, и Посланник Аллаха ﷺ велел ей: «Когда у тебя начнутся менструации, оставь молитву, а когда они завершатся, искупайся и совершай молитву».Абу Дауд сказал: «Никто из товарищей аз-Зухри не упоминал об этом, кроме аль-Ауза‘и, и он передал этот хадис от аз-Зухри, ‘Амру ибн Хурайса, ал-Лейса, Йунуса, Ибн Абу Зиъба, Ма‘мара, Ибрахима ибн Са‘да, Сулеймана ибн Касира, Ибн Исхака и Суфьяна ибн ‘Уйейны и не упомянул эти слова».Абу Дауд сказал: «Это - текст хадиса Хишама ибн ‘Урвы, переданного от его отца со слов ‘Аиши».Абу Дауд сказал: «Также Ибн ‘Уйейна передал этот хадис с дополнением: “Он велел ей оставить молитву во время кровотечения”. Это ошибка Ибн ‘Уйейны. В хадисе Мухаммада ибн ‘Амра от аз-Зухри, есть что-то схожее с тем, что привел в дополнение к своему хадису аль-Ауза‘и»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Davud demiştir ki; Evzai, bu hadiste Zühri'den o da Urve ve Amre kanalıyla Aişe'den şöyle dediğini ilave etmiştir: Abdurrahman b. Avf'ın hanımı Ümmü Habibe bint Cahş yedi sene istihaza oldu. Rasulullah (Sallallahu aleyhi ve Sellem) ona, "Hayz vakti geldiğinde namazı terketmesini, gittiğinde de yıkanıp namazı kılmasını emretti"... (Yine) Ebu Davud, bu sözü Zühri'nin ashabından Evzai'den başka kimse söylememiştir. Bunu Zühri'den, Amr b. Haris, Leys, Yunus, ibn Ebi Zi'b, Ma'mer, ibrahim b. Sa'd, Süleyman b. Kesir, İbn İshak ve Süfyan b. Uyeyne rivayet etmişler ve bu sözü zikretmemişlerdir. Ancak bu, (yani: Hayız geldiğinde namazı terketmesini...) lafzı Hişam b. Urve'nin, babasından, onun da Aişe (r. anha)'dan rivayet ettiği hadisin lafzıdır” dedi. Ebu Davud (ilave olarak); ibn Uyeyne;"Rasulullah ona hayz gün­lerinde namazı terketmesini emretti" lafzını ilave etmiştir. Fakat bu, ibn Uyeyne'den bir vehmdir. Muhammed b. Amr'ın Zühri'den (riva­yet ettiği) hadiste, Evzai'nin hadisinde ilave ettiği söze yakın bir şey var demiştir. Diğer tahric: Buharî, hayz; Müslim, hayz; Tirmizî, tahare; Nesai tahare, hayz, İbn Mace, tahare; Darimî, vudu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کی سالی اور عبدالرحمٰن بن عوف رضی اللہ عنہ کی بیوی ام حبیبہ بنت حجش رضی اللہ عنہا کو سات سال تک استحاضہ کا خون آتا رہا، تو انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے مسئلہ پوچھا، تو آپ نے فرمایا: یہ حیض نہیں ہے بلکہ یہ رگ ( کا خون ) ہے، لہٰذا غسل کر کے نماز پڑھتی رہو ۔ ابوداؤد کہتے ہیں: اس حدیث میں اوزاعی نے زہری سے، زہری نے عروہ اور عمرہ سے اور انہوں نے ام المؤمنین عائشہ رضی اللہ عنہا سے یوں اضافہ کیا ہے کہ: ام حبیبہ بنت حجش رضی اللہ عنہا کو سات سال تک استحاضہ کا خون آتا رہا، اور وہ عبدالرحمٰن بن عوف رضی اللہ عنہ کے عقد میں تھیں، تو نبی اکرم صلی اللہ علیہ وسلم نے انہیں حکم دیا کہ جب حیض آ جائے تو نماز چھوڑ دو، اور جب ختم ہو جائے تو غسل کر کے نماز پڑھو۔ ابوداؤد کہتے ہیں کہ اوزاعی کے علاوہ زہری کے کسی اور شاگرد نے یہ بات ذکر نہیں کی ہے، اسے زہری سے عمرو بن حارث، لیث، یونس، ابن ابی ذئب، معمر، ابراہیم بن سعد، سلیمان بن کثیر، ابن اسحاق اور سفیان بن عیینہ نے روایت کیا ہے اور ان لوگوں نے یہ بات ذکر نہیں کی ہے۔ ابوداؤد کہتے ہیں کہ یہ صرف ہشام بن عروہ کی حدیث کے الفاظ ہیں جسے انہوں نے اپنے والد سے اور عروہ نے ام المؤمنین عائشہ رضی اللہ عنہا سے روایت کی ہے۔ ابوداؤد کہتے ہیں کہ ابن عیینہ نے اس میں یہ بھی اضافہ کیا ہے کہ آپ صلی اللہ علیہ وسلم نے انہیں حیض کے دنوں میں نماز چھوڑ دینے کا حکم دیا، یہ ابن عیینہ کا وہم ہے ۱؎، البتہ محمد بن عمرو کی حدیث میں جسے انہوں نے زہری سے نقل کیا ہے کچھ ایسی چیز ہے، جو اوزاعی کے اضافہ کے قریب قریب ہے ۲؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (327) Sahih Muslim (334)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>285</td></tr><tr><td>Arabic No</td><td>285</td></tr><tr><td>Reference</td><td>Book 1 Hadith 285</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (327) Sahih Muslim (334) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 285 |
+| Arabic No | 285 |
+| Reference | Book 1 Hadith 285 |

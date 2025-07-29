@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## French
 
+Rapporté par Abd Allah bin Abd ar-Rahman ad-Dārimī : Il a dit : « J’ai entendu Abū Nu’aym parler d’al-Mu’allā bin Urfān, et \[Abū Nu’aym\] a dit : \[al-Mu’allā\] a dit : “Abū Wā’il nous a rapporté, il a dit : ‘Ibn Mas’ūd nous a attaqués le jour de Siffīn.’” Alors Abū Nu’aym a dit : “Penses-tu qu’il ait été ressuscité après sa mort ?” \[Ibn Mas’ūd est décédé en 32 ou 33H, plusieurs années avant ce jour-là.\] »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>83</td></tr><tr><td>Reference</td><td>Book 0 Hadith 83</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 83 |
+| Reference | Book 0 Hadith 83 |

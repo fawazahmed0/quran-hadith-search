@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَبُو دَاوُدَ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا ابْنُ زَبْرٍ، عَنِ الْقَاسِمِ بْنِ مُحَمَّدٍ، عَنْ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ تَنْبِذُوا فِي الدُّبَّاءِ وَلاَ الْمُزَفَّتِ وَلاَ النَّقِيرِ وَكُلُّ مُسْكِرٍ حَرَامٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |
+
 اخبرنا ابو داود، قال حدثنا محمد بن سليمان، قال حدثنا ابن زبر، عن القاسم بن محمد، عن عايشة، عن النبي صلى الله عليه وسلم قال " لا تنبذوا في الدباء ولا المزفت ولا النقير وكل مسكر حرام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবু দাউদ (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা দুব্বায়, মুযাফফাত, নকীরে নবীয প্রস্তুত করবে না এবং প্রত্যেক মাদকদ্রব্যই হারাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |
 
 ## English
 
+It was narrated from 'Aishah that:The Prophet \[SAW\] said: "Do not soak (fruits) in Ad-Dubba', An-Naqir, Al-Hantam, and every intoxicant is unlawful
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from 'Aishah that:The Prophet [SAW] said: "Do not soak (fruits) in Ad-Dubba', An-Naqir, Al-Hantam, and every intoxicant is unlawful
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |
+
+## French
+
+Rapporté par 'Aishah : Le Prophète ﷺ a dit : « Ne faites pas tremper (des fruits) dans l’Ad-Dubba’, l’An-Naqir, l’Al-Hantam, et toute boisson enivrante est interdite. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5590</td></tr><tr><td>Arabic No</td><td>5590</td></tr><tr><td>Reference</td><td>Book 51 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5590 |
+| Arabic No | 5590 |
+| Reference | Book 51 Hadith 52 |

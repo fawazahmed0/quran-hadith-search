@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,147 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَحْمُودُ بْنُ خَالِدٍ، حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، عَنْ سَعِيدِ بْنِ بَشِيرٍ، عَنِ الزُّهْرِيِّ، بِإِسْنَادِ عَبَّادٍ وَمَعْنَاهُ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ مَعْمَرٌ وَشُعَيْبٌ وَعَقِيلٌ عَنِ الزُّهْرِيِّ، عَنْ رِجَالٍ، مِنْ أَهْلِ الْعِلْمِ وَهَذَا أَصَحُّ عِنْدَنَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
+
 حدثنا محمود بن خالد، حدثنا الوليد بن مسلم، عن سعيد بن بشير، عن الزهري، باسناد عباد ومعناه . قال ابو داود رواه معمر وشعيب وعقيل عن الزهري، عن رجال، من اهل العلم وهذا اصح عندنا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আয-যুহরী (রহঃ) থেকে ‘আব্বাদের সনদ সূত্রে অনুরূপ বর্ণিত হয়েছে। ইমাম আবূ দাঊদ (রাঃ) বলেন, উপরোক্ত হাদীস মা‘মার, শু‘আইব ও উকাইর- আয-যুহরী (রহঃ) একদল জ্ঞানী ব্যক্তির সূত্রে বর্ণনা করেছেন। আমাদের মতো এই সনদ সর্বাধিক সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Al Zuhri with the chain of ‘Abbad and to the same affect. Abu Dawud said “This tradition has also been narrated by Ma’mar, Shu’aib and ‘Aqil on the authority of Al Zuhri from a number of scholars and this is the soundest one in our opinion
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Al Zuhri avec la chaîne de ‘Abbad et dans le même sens. Abu Dawud a dit : « Cette tradition a aussi été rapportée par Ma’mar, Shu’aib et ‘Aqil d’après Al Zuhri venant de plusieurs savants, et c’est celle-ci qui nous paraît la plus authentique. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Önceki 2579. hadisin) manası (bir de) Mahmud b. Halid, Velid b. Müslim, Said b. Beşir, ez-Zühri (zinciriyle ve) Abbâd isnadıyla rivayet olunmuştur. Ebû Dâvud dedi ki: "(önceki), Ma'mer, Şuayb ve Akif, Zührt'den o da bazı ilim ehlinden rivayet etmiştir. Bize göre bu rivayet daha sahihtir." Bu Hadis'i sadece Ebû Dâvud rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی زہری سے عباد والے طریق ہی سے اسی مفہوم کی حدیث مروی ہے ابوداؤد کہتے ہیں: اسے معمر، شعیب اور عقیل نے زہری سے اور زہری نے اہل علم کی ایک جماعت سے روایت کیا ہے اور یہ ہمارے نزدیک زیادہ صحیح ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2580</td></tr><tr><td>Arabic No</td><td>2580</td></tr><tr><td>Reference</td><td>Book 15 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2580 |
+| Arabic No | 2580 |
+| Reference | Book 15 Hadith 104 |

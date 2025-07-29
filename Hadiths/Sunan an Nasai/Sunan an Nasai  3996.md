@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، قَالَ حَدَّثَنَا أَبُو مُعَاوِيَةَ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ شَقِيقٍ، عَنْ عَبْدِ اللَّهِ، قَالَ أَوَّلُ مَا يُقْضَى بَيْنَ النَّاسِ فِي الدِّمَاءِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 37 Hadith 31</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |
+
 اخبرنا محمد بن العلاء، قال حدثنا ابو معاوية، قال حدثنا الاعمش، عن شقيق، عن عبد الله، قال اول ما يقضى بين الناس في الدماء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 37 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন আলা (রহঃ) ... আবদুল্লাহ (রাঃ) থেকে বর্ণিত। তিনি বলেন, কিয়ামতের দিন সর্বাগ্রে লোকের মাঝে খুনের বিচার করা হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 37 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Abdullah said:"The first matter concerning which scores will be settled among the people will be bloodshed
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 37 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |
+
+## French
+
+Rapporté par 'Abdullah : La première affaire sur laquelle les comptes seront réglés entre les gens sera le sang versé
+
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Al 'Ala'\], ia berkata; telah menceritakan kepada kami \[Abu Mu'awiyah\], ia berkata; telah menceritakan kepada kami \[Al A'masy\] dari \[Syaqiq\] dari \[Abdullah\], ia berkata; "Sesuatu pertama yang diputuskan diantara manusia adalah mengenai darah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Al 'Ala'], ia berkata; telah menceritakan kepada kami [Abu Mu'awiyah], ia berkata; telah menceritakan kepada kami [Al A'masy] dari [Syaqiq] dari [Abdullah], ia berkata; "Sesuatu pertama yang diputuskan diantara manusia adalah mengenai darah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 37 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 37 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Muquf | Abu Ghuddah |
+| Sahih Muquf | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Muquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Muquf</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3996</td></tr><tr><td>Arabic No</td><td>3996</td></tr><tr><td>Reference</td><td>Book 37 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3996 |
+| Arabic No | 3996 |
+| Reference | Book 37 Hadith 31 |

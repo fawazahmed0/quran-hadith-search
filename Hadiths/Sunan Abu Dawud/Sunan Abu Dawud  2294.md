@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَارُونُ بْنُ زَيْدٍ، حَدَّثَنَا أَبِي، عَنْ سُفْيَانَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ سُلَيْمَانَ بْنِ يَسَارٍ، فِي خُرُوجِ فَاطِمَةَ قَالَ إِنَّمَا كَانَ ذَلِكَ مِنْ سُوءِ الْخُلُقِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
+
 حدثنا هارون بن زيد، حدثنا ابي، عن سفيان، عن يحيى بن سعيد، عن سليمان بن يسار، في خروج فاطمة قال انما كان ذلك من سوء الخلق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
 
 ## Bengali
 
+। সুলায়মান ইবনু ইয়াসার (রহ.) থেকে ফাতিমাহর চলে যাওয়ার বিষয়ে বর্ণিত। তিনি বলেন, তার অশোভনীয় আচরণের কারণে তা হয়েছিল।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সুলায়মান ইবনু ইয়াসার (রহ.) থেকে ফাতিমাহর চলে যাওয়ার বিষয়ে বর্ণিত। তিনি বলেন, তার অশোভনীয় আচরণের কারণে তা হয়েছিল।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sulaimah bin Yasar said about leaving the house by Fathimah “That was due to her bad manners.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
+
+## French
+
+Sulaimah ibn Yasar a dit au sujet du départ de Fatimah de sa maison : « C’était à cause de sa mauvaise conduite. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сулейман ибн Ясар сказал о выходе Фатимы из своего дома: «Причиной тому был (её) скверный нрав!»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süleyman b. Yesâr, Fâtıma (bint Kays)ın (iddetini beklemekte olduğu kocasının evinden başka bir eve) çıkmasının sebebi hakkında şöyle demiştir; "Bu sadece, Hz. Fâtıma (bint Kays)'ın huysuzluğundan dolayı meydana gelmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلیمان بن یسار سے بھی فاطمہ رضی اللہ عنہا کے گھر سے نکلنے کا قصہ مروی ہے وہ کہتے ہیں: یہ بد خلقی کی بنا پر ہوا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2294</td></tr><tr><td>Arabic No</td><td>2294</td></tr><tr><td>Reference</td><td>Book 13 Hadith 120</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2294 |
+| Arabic No | 2294 |
+| Reference | Book 13 Hadith 120 |

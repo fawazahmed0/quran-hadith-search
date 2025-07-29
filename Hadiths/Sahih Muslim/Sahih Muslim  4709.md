@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنْ دَاوُدَ، عَنِ الشَّعْبِيِّ، عَنْ جَابِرِ، بْنِ سَمُرَةَ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ لاَ يَزَالُ هَذَا الأَمْرُ عَزِيزًا إِلَى اثْنَىْ عَشَرَ خَلِيفَةً ‏"‏ ‏.‏ قَالَ ثُمَّ تَكَلَّمَ بِشَىْءٍ لَمْ أَفْهَمْهُ فَقُلْتُ لأَبِي مَا قَالَ فَقَالَ ‏"‏ كُلُّهُمْ مِنْ قُرَيْشٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا ابو معاوية، عن داود، عن الشعبي، عن جابر، بن سمرة قال قال النبي صلى الله عليه وسلم " لا يزال هذا الامر عزيزا الى اثنى عشر خليفة " . قال ثم تكلم بشىء لم افهمه فقلت لابي ما قال فقال " كلهم من قريش
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## Bengali
 
+আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির ইবনু সামুরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, শাসন কর্তৃত্ব অতি শক্তিশালী থাকবে বারজন খলীফা পর্যন্ত। রাবী বলেন, তারপর তিনি কিছু বললেন, যা আমি বুঝতে পারিনি। তাই আমি আমার পিতাকে জিজ্ঞেস করলাম, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কী বললেন? তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাদের সকলেই হবে কুরায়শ বংশের।\*(ইসলামিক ফাউন্ডেশন ৪৫৫৮, ইসলামিক সেন্টার)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ বাকর ইবনু আবূ শাইবাহ্ (রহঃ) ..... জাবির ইবনু সামুরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, শাসন কর্তৃত্ব অতি শক্তিশালী থাকবে বারজন খলীফা পর্যন্ত। রাবী বলেন, তারপর তিনি কিছু বললেন, যা আমি বুঝতে পারিনি। তাই আমি আমার পিতাকে জিজ্ঞেস করলাম, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কী বললেন? তিনি বললেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তাদের সকলেই হবে কুরায়শ বংশের।*(ইসলামিক ফাউন্ডেশন ৪৫৫৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It has been narrated on the authority of Jabir b. Samura that the Prophet (ﷺ) said:This order will continue to be dominant until there have been twelve Caliphs. The narrator says: Then he said something which I could not understand, and I said to my father: What did he say? My father told me that he said that all of them (Caliphs) would be from the Quraish
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## French
 
+Rapporté par Jabir ibn Samura : Le Prophète ﷺ a dit : « Cet ordre continuera à dominer jusqu’à ce qu’il y ait eu douze califes. » Le narrateur dit : Ensuite, il a dit quelque chose que je n’ai pas compris, alors j’ai demandé à mon père : « Qu’a-t-il dit ? » Mon père m’a dit qu’il a dit que tous ces califes seraient issus des Quraish
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] telah menceritakan kepada kami \[Abu Mu'awiyah\] dari \[Daud\] dari \[As Sya'bi\] dari \[Jabir bin Samurah\] dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Perkara (kepemimpinan) ini akan senantiasa kuat sampai kedua belas khilafah (pemimpin)." Jabir berkata, "Kemudian beliau mengucapkan kata-kata yang tidak aku fahami, maka aku bertanya kepada \[ayahku\], "Apa yang dikatakan beliau?" dia menjawab, "Mereka semua dari bangsa Quraisy
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Abu Mu'awiyah] dari [Daud] dari [As Sya'bi] dari [Jabir bin Samurah] dia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Perkara (kepemimpinan) ini akan senantiasa kuat sampai kedua belas khilafah (pemimpin)." Jabir berkata, "Kemudian beliau mengucapkan kata-kata yang tidak aku fahami, maka aku bertanya kepada [ayahku], "Apa yang dikatakan beliau?" dia menjawab, "Mereka semua dari bangsa Quraisy
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஜாபிர் பின் சமுரா (ரலி) அவர்கள் கூறியதாவது: நான் என் தந்தை (சமுரா -ரலி) அவர்களுடன் நபி (ஸல்) அவர்களிடம் சென்றேன். அப்போது நபி (ஸல்) அவர்கள், "பன்னிரண்டு கலீஃபாக்கள் மக்களை ஆளாதவரை இந்த ஆட்சியதிகாரம் முடிவடையாது" என்று கூறிவிட்டு, பிறகு எனக்குக் கேட்காமல் இரகசியமாக ஏதோ (என் தந்தையிடம்) சொன்னார்கள். அப்போது நான் என் தந்தையிடம், "நபி (ஸல்) அவர்கள் என்ன சொன்னார்கள்?" என்று கேட்டேன். அதற்கு என் தந்தை "அவர்கள் அனைவரும் குறைஷியர் ஆவர் (என்று கூறினார்கள்)" என்றார்கள். இந்த ஹதீஸ் நான்கு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebû Bekir b. Ebi Şeybe rivayet etti. (Dediki): Bize Ebû Muâviye, Dâvûd'dan, o da Şa'bî'den, o da Câbir b. Semûra'dan naklen rivayet etti. Câbir şöyle demiş: Nebi (Sallallahu Aleyhi ve Sellem): «Bu iş (hilâfet) on iki halîfeye kadar azîz olarak devam edecektir!» buyurdu. Sonra bir şey konuştu ki, onu anlamadım. Ve babama : — Ne söyledi? diye sordum. — «Hepsi Kureyş'ten» (buyurdu) dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 داود نے شعبی سے ، انہوں نے جابر بن سمرہ رضی اللہ عنہ سے روایت کی ، کہا : نبی صلی اللہ علیہ وسلم نے فرمایا : " بارہ خلفاء ( کے عہد ) تک اسلام کا غلبہ جاری رہے گا ۔ " پھر آپ نے کوئی بات کہی جس کو میں نہیں سمجھ سکا ، میں نے اپنے والد سے پوچھا : آپ صلی اللہ علیہ وسلم نے کیا فرمایا؟ انہوں نے کہا : آپ نے فرمایا : " وہ سب قریش میں سے ہوں گے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4709</td></tr><tr><td>Arabic No</td><td>1821.05</td></tr><tr><td>Reference</td><td>Book 33 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4709 |
+| Arabic No | 1821.05 |
+| Reference | Book 33 Hadith 9 |

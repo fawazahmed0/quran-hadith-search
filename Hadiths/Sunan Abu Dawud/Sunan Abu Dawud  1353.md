@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عِيسَى، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا حُصَيْنٌ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، ح وَحَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا مُحَمَّدُ بْنُ فُضَيْلٍ، عَنْ حُصَيْنٍ، عَنْ حَبِيبِ بْنِ أَبِي ثَابِتٍ، عَنْ مُحَمَّدِ بْنِ عَلِيِّ بْنِ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، عَنْ أَبِيهِ، عَنِ ابْنِ عَبَّاسٍ، ‏:‏ أَنَّهُ رَقَدَ عِنْدَ النَّبِيِّ صلى الله عليه وسلم فَرَآهُ اسْتَيْقَظَ فَتَسَوَّكَ وَتَوَضَّأَ وَهُوَ يَقُولُ ‏:‏ ‏(‏ إِنَّ فِي خَلْقِ السَّمَوَاتِ وَالأَرْضِ ‏)‏ حَتَّى خَتَمَ السُّورَةَ، ثُمَّ قَامَ فَصَلَّى رَكْعَتَيْنِ أَطَالَ فِيهِمَا الْقِيَامَ وَالرُّكُوعَ وَالسُّجُودَ، ثُمَّ إِنَّهُ انْصَرَفَ فَنَامَ حَتَّى نَفَخَ، ثُمَّ فَعَلَ ذَلِكَ ثَلاَثَ مَرَّاتٍ بِسِتِّ رَكَعَاتٍ، كُلُّ ذَلِكَ يَسْتَاكُ ثُمَّ يَتَوَضَّأُ وَيَقْرَأُ هَؤُلاَءِ الآيَاتِ، ثُمَّ أَوْتَرَ - قَالَ عُثْمَانُ ‏:‏ بِثَلاَثِ رَكَعَاتٍ، فَأَتَاهُ الْمُؤَذِّنُ فَخَرَجَ إِلَى الصَّلاَةِ - وَقَالَ ابْنُ عِيسَى ‏:‏ ثُمَّ أَوْتَرَ فَأَتَاهُ بِلاَلٌ فَآذَنَهُ بِالصَّلاَةِ حِينَ طَلَعَ الْفَجْرُ، فَصَلَّى رَكْعَتَىِ الْفَجْرِ ثُمَّ خَرَجَ إِلَى الصَّلاَةِ - ثُمَّ اتَّفَقَا - وَهُوَ يَقُولُ ‏:‏ ‏"‏ اللَّهُمَّ اجْعَلْ فِي قَلْبِي نُورًا، وَاجْعَلْ فِي لِسَانِي نُورًا، وَاجْعَلْ فِي سَمْعِي نُورًا، وَاجْعَلْ فِي بَصَرِي نُورًا، وَاجْعَلْ خَلْفِي نُورًا، وَأَمَامِي نُورًا، وَاجْعَلْ مِنْ فَوْقِي نُورًا، وَمِنْ تَحْتِي نُورًا، اللَّهُمَّ وَأَعْظِمْ لِي نُورًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
+
 حدثنا محمد بن عيسى، حدثنا هشيم، اخبرنا حصين، عن حبيب بن ابي ثابت، ح وحدثنا عثمان بن ابي شيبة، حدثنا محمد بن فضيل، عن حصين، عن حبيب بن ابي ثابت، عن محمد بن علي بن عبد الله بن عباس، عن ابيه، عن ابن عباس، : انه رقد عند النبي صلى الله عليه وسلم فراه استيقظ فتسوك وتوضا وهو يقول : ( ان في خلق السموات والارض ) حتى ختم السورة، ثم قام فصلى ركعتين اطال فيهما القيام والركوع والسجود، ثم انه انصرف فنام حتى نفخ، ثم فعل ذلك ثلاث مرات بست ركعات، كل ذلك يستاك ثم يتوضا ويقرا هولاء الايات، ثم اوتر - قال عثمان : بثلاث ركعات، فاتاه الموذن فخرج الى الصلاة - وقال ابن عيسى : ثم اوتر فاتاه بلال فاذنه بالصلاة حين طلع الفجر، فصلى ركعتى الفجر ثم خرج الى الصلاة - ثم اتفقا - وهو يقول : " اللهم اجعل في قلبي نورا، واجعل في لساني نورا، واجعل في سمعي نورا، واجعل في بصري نورا، واجعل خلفي نورا، وامامي نورا، واجعل من فوقي نورا، ومن تحتي نورا، اللهم واعظم لي نورا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। একদা তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ঘুমালেন। অতঃপর তিনি দেখলেন যে, তিনি ঘুম থেকে জেগে মিসওয়াক করে অযু সেরে আল্লাহর এ বাণী তিলাওয়াত করলেনঃ ‘‘ইন্না ফি খালক্বিস সামাওয়াতি ওয়াল আরদি’’ সূরাহ আল ‘ইমরানের শেষ আয়াত পর্যন্ত। তারপর উঠে দু’ রাক‘আত সালাত আদায় করলেন। সালাতের ক্বিয়াম, রুকূ‘ ও সিজদা্ খুব দীর্ঘায়িত করলেন। অতঃপর সালাত শেষে তিনি নাক ডেকে ঘুমাতে লাগলেন। এরূপে তিনবারে ছয় রাক‘আত আদায় করলেন এবং প্রতিবারই মিসওয়াক করে অযু সেরে উক্ত আয়াতগুলো তিলাওয়াত করলেন। সবশেষে বিতর পড়লেন। বর্ণনাকারী ‘উসমান বলেন, তিনি বিতর সালাত তিন রাক‘আত আদায় করেছেন। অতঃপর মুয়াযযিন এলে তিনি মসজিদে চলে গেলেন। ইবনু ঈসা বলেন, তিনি বিতর করলেন, অতঃপর ফজরের আবির্ভাব হলে বিলাল (রাঃ) এসে তাঁকে সালাতের সংবাদ দিলেন। তিনি ফজরের দু’ রাক‘আত সুন্নাত আদায়ের পর মসজিদে যান এবং এ দু‘আ পাঠ করেনঃ ‘‘হে আল্লাহ! আমার অন্তরে নূর দাও, আমার জবানে নূর দাও, আমার কানে নূর দাও, আমার চোখে নূর দাও, নূর দান করো আমার পেছন ও সম্মুখভাগে এবং আমার উপরে ও নীচে। হে আল্লাহ! আমাকে পর্যাপ্ত নূর দান করো’’।\[1\] সহীহ : মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। একদা তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে ঘুমালেন। অতঃপর তিনি দেখলেন যে, তিনি ঘুম থেকে জেগে মিসওয়াক করে অযু সেরে আল্লাহর এ বাণী তিলাওয়াত করলেনঃ ‘‘ইন্না ফি খালক্বিস সামাওয়াতি ওয়াল আরদি’’ সূরাহ আল ‘ইমরানের শেষ আয়াত পর্যন্ত। তারপর উঠে দু’ রাক‘আত সালাত আদায় করলেন। সালাতের ক্বিয়াম, রুকূ‘ ও সিজদা্ খুব দীর্ঘায়িত করলেন। অতঃপর সালাত শেষে তিনি নাক ডেকে ঘুমাতে লাগলেন। এরূপে তিনবারে ছয় রাক‘আত আদায় করলেন এবং প্রতিবারই মিসওয়াক করে অযু সেরে উক্ত আয়াতগুলো তিলাওয়াত করলেন। সবশেষে বিতর পড়লেন। বর্ণনাকারী ‘উসমান বলেন, তিনি বিতর সালাত তিন রাক‘আত আদায় করেছেন। অতঃপর মুয়াযযিন এলে তিনি মসজিদে চলে গেলেন। ইবনু ঈসা বলেন, তিনি বিতর করলেন, অতঃপর ফজরের আবির্ভাব হলে বিলাল (রাঃ) এসে তাঁকে সালাতের সংবাদ দিলেন। তিনি ফজরের দু’ রাক‘আত সুন্নাত আদায়ের পর মসজিদে যান এবং এ দু‘আ পাঠ করেনঃ ‘‘হে আল্লাহ! আমার অন্তরে নূর দাও, আমার জবানে নূর দাও, আমার কানে নূর দাও, আমার চোখে নূর দাও, নূর দান করো আমার পেছন ও সম্মুখভাগে এবং আমার উপরে ও নীচে। হে আল্লাহ! আমাকে পর্যাপ্ত নূর দান করো’’।[1] সহীহ : মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
 
 ## English
 
+Abd Allah b. 'Abbas said that he slept with the Prophet (ﷺ). He saw that he (the Prophet) awoke, used tooth-stick, performed ablution, and recited:"In the creation of the heavens and earth" \[3:190\] to the end of the surah. Then he stood up and prayed two rak'ahs in which he prolonged the standing, bowing, and prostrations. He then uttered turned away and slept till he bagan to snore. This he did three times. This made six rak'ahs in all. He would use tooth-stick, then perform ablution, and recite those verses. He then observed the witr prayer. The version of 'Uthman has: with three rak'ahs. The mu'adhdhin then came to him and he went out for prayer. The version of Ibn 'Isa adds: He then observed witr prayer ; then Bilal came to him and called him for prayer when the dawn broke. He then prayed the two rak'ahs of the dawn prayer. He then went out for prayer. Then both the narrators were agreed: He beagan to supplicate saying: O Allah, place light in my heart, light in my tongue, light in my hearing, light in my eyesight, light on my right hand, light on my left hand, light in front of me, light behing me, light below me, O Allah, give me abundant light
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abd Allah b. 'Abbas said that he slept with the Prophet (ﷺ). He saw that he (the Prophet) awoke, used tooth-stick, performed ablution, and recited:"In the creation of the heavens and earth" [3:190] to the end of the surah. Then he stood up and prayed two rak'ahs in which he prolonged the standing, bowing, and prostrations. He then uttered turned away and slept till he bagan to snore. This he did three times. This made six rak'ahs in all. He would use tooth-stick, then perform ablution, and recite those verses. He then observed the witr prayer. The version of 'Uthman has: with three rak'ahs. The mu'adhdhin then came to him and he went out for prayer. The version of Ibn 'Isa adds: He then observed witr prayer ; then Bilal came to him and called him for prayer when the dawn broke. He then prayed the two rak'ahs of the dawn prayer. He then went out for prayer. Then both the narrators were agreed: He beagan to supplicate saying: O Allah, place light in my heart, light in my tongue, light in my hearing, light in my eyesight, light on my right hand, light on my left hand, light in front of me, light behing me, light below me, O Allah, give me abundant light
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
+
+## French
+
+Abd Allah b. ‘Abbas رضي الله عنه a dit qu’il a dormi chez le Prophète ﷺ. Il a vu que le Prophète ﷺ se réveillait, utilisait le siwak, faisait ses ablutions, puis récitait : « En la création des cieux et de la terre » \[3:190\] jusqu’à la fin de la sourate. Ensuite, il se levait et priait deux rak‘at, en prolongeant la station debout, l’inclinaison et la prosternation. Puis il se tournait et dormait jusqu’à ce qu’il commence à ronfler. Il a fait cela trois fois, ce qui fait six rak‘at au total. Il utilisait le siwak, faisait ses ablutions, et récitait ces versets. Ensuite, il accomplissait la prière du witr. Dans la version de ‘Uthman, il priait trois rak‘at pour le witr. Le muezzin venait alors l’appeler pour la prière, et il sortait pour prier. La version d’Ibn ‘Isa ajoute : Il accomplissait ensuite le witr, puis Bilal venait l’appeler pour la prière à l’aube. Il priait alors les deux rak‘at de la prière de l’aube, puis sortait pour la prière. Les deux narrateurs sont d’accord sur le fait qu’il invoquait en disant : « Ô Allah, mets de la lumière dans mon cœur, de la lumière sur ma langue, de la lumière dans mon ouïe, de la lumière dans ma vue, de la lumière à ma droite, de la lumière à ma gauche, de la lumière devant moi, de la lumière derrière moi, de la lumière sous moi. Ô Allah, accorde-moi beaucoup de lumière. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Isa\] telah menceritakan kepada kami \[Husyaim\] telah mengabarkan kepada kami \[Hushain\] dari \[Habib bin Abu Tsabit\]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami \[Utsman bin Abu Syaibah\] telah menceritakan kepada kami \[Muhammad bin Fudlail\] dari \[Hushain\] dari \[Habib bin Abu Tsabit\] dari \[Muhammad bin Ali bin Abdullah bin 'Abbas\] dari \[ayahnya\] dari \[Ibnu Abbas\] bahwa dia pernah tidur di samping Nabi shallallahu 'alaihi wasallam, maka dia melihat beliau bangun (malam) lalu bersiwak dan berwudlu', lalu beliau mengucapkan; "Sesungguhnya dalam penciptaan langit dan bumi…" hingga akhir ayat, setelah itu mengerjakan shalat dua raka'at, dalam dua raka'at tersebut, beliau panjangkan berdirinya, ruku'nya dan sujudnya. Selesai shalat beliau tidur hingga mendengkur. Beliau kerjakan hal itu hingga tiga kali, yaitu enam raka'at. setiap kali hendak shalat, beliau bersiwak lalu berwudlu dan membaca beberapa ayat. Kemudian beliau shalat witir tiga raka'at. Setelah itu Mu'adzin datang, lalu beliau keluar untuk mengerjakan shalat (subuh)." Ibnu 'Isa mengatakan; "…kemudian beliau mengerjakan witir, lalu datanglah Bilal untuk mengumandangkan adzan shalat ketika fajar telah terbit, kemudian beliau mengerjakan dua raka'at (sunnah) fajar. Setelah itu beliau keluar untuk mengerjakan shalat -lalu hadits keduanya sepakat pada kalimat- sambil mengucapkan: "Allahummaj'al fii qalbii nuuran, waj'al fii lisaani nuuran, waj'al fii basharii nuuran, waj'al khalfii nuuran, wa amaami nuuran, waj'al min fauqii nuuran wa min tahtii nuuran, Allahumma wa a'dzim lii nuuran (Ya Allah, jadikanlah dalam hatiku cahaya, jadikanlah dalam lisanku cahaya, jadikanlah dalam pendengaranku cahaya, jadikanlah dalam penglihatanku cahaya, jadikanlah di belakangku cahaya, jadikanlah di depanku cahaya, jadikanlah di atasku cahaya, jadikanlah di bawahku cahaya. Ya Allah, agungkanlah untukku cahaya." Telah menceritakan kepada kami \[Wahb bin Baqiyah\] dari \[Khalid\] dari \[Hushain\] seperti hadits di atas, dia berkata; "Wa a'dzim lii nuuran (dan agungkanlah untukku cahaya)." Abu Daud berkata; "Demikian pula yang di katakan \[Abu Khalid Ad Dalalani\] dari \[Habib\] dalam permasalahan ini, demikian pula dia berkata dalam hadits ini, \[Salamah bin Kuhail\] berkata; dari \[Abu Risydin\] dari \[Ibnu Abbas\]
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Isa] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepada kami [Hushain] dari [Habib bin Abu Tsabit]. Dan diriwayatkan dari jalur lain, telah menceritakan kepada kami [Utsman bin Abu Syaibah] telah menceritakan kepada kami [Muhammad bin Fudlail] dari [Hushain] dari [Habib bin Abu Tsabit] dari [Muhammad bin Ali bin Abdullah bin 'Abbas] dari [ayahnya] dari [Ibnu Abbas] bahwa dia pernah tidur di samping Nabi shallallahu 'alaihi wasallam, maka dia melihat beliau bangun (malam) lalu bersiwak dan berwudlu', lalu beliau mengucapkan; "Sesungguhnya dalam penciptaan langit dan bumi…" hingga akhir ayat, setelah itu mengerjakan shalat dua raka'at, dalam dua raka'at tersebut, beliau panjangkan berdirinya, ruku'nya dan sujudnya. Selesai shalat beliau tidur hingga mendengkur. Beliau kerjakan hal itu hingga tiga kali, yaitu enam raka'at. setiap kali hendak shalat, beliau bersiwak lalu berwudlu dan membaca beberapa ayat. Kemudian beliau shalat witir tiga raka'at. Setelah itu Mu'adzin datang, lalu beliau keluar untuk mengerjakan shalat (subuh)." Ibnu 'Isa mengatakan; "…kemudian beliau mengerjakan witir, lalu datanglah Bilal untuk mengumandangkan adzan shalat ketika fajar telah terbit, kemudian beliau mengerjakan dua raka'at (sunnah) fajar. Setelah itu beliau keluar untuk mengerjakan shalat -lalu hadits keduanya sepakat pada kalimat- sambil mengucapkan: "Allahummaj'al fii qalbii nuuran, waj'al fii lisaani nuuran, waj'al fii basharii nuuran, waj'al khalfii nuuran, wa amaami nuuran, waj'al min fauqii nuuran wa min tahtii nuuran, Allahumma wa a'dzim lii nuuran (Ya Allah, jadikanlah dalam hatiku cahaya, jadikanlah dalam lisanku cahaya, jadikanlah dalam pendengaranku cahaya, jadikanlah dalam penglihatanku cahaya, jadikanlah di belakangku cahaya, jadikanlah di depanku cahaya, jadikanlah di atasku cahaya, jadikanlah di bawahku cahaya. Ya Allah, agungkanlah untukku cahaya." Telah menceritakan kepada kami [Wahb bin Baqiyah] dari [Khalid] dari [Hushain] seperti hadits di atas, dia berkata; "Wa a'dzim lii nuuran (dan agungkanlah untukku cahaya)." Abu Daud berkata; "Demikian pula yang di katakan [Abu Khalid Ad Dalalani] dari [Habib] dalam permasalahan ini, demikian pula dia berkata dalam hadits ini, [Salamah bin Kuhail] berkata; dari [Abu Risydin] dari [Ibnu Abbas]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды он заночевал у Пророка ﷺ и увидел, как тот, проснувшись, почистил зубы сиваком и совершил малое омовение, читая при этом: «Поистине, в сотворении небес и земли…» (сура “аль-‘Имран”, аят 190), пока не дочитал до конца суры. Потом он совершил два рак‘ата, причём его стояние, поясные и земные поклоны были долгими. Завершив молитву, он уснул так, что его дыхание стало громким. И он проделал это трижды, совершив шесть рак‘атов. Каждый раз он чистил зубы сиваком, потом совершал малое омовение и читал эти аяты. Затем он завершил молитву нечётным числом рак‘атов. (Передатчик) ‘Усман сказал: «…тремя. И к нему пришёл муаззин, и он вышел на молитву». (Передатчик) Ибн ‘Иса сказал: «Затем он совершил витр, и к нему пришёл Биляль и произнёс азан, когда начало светать. И он совершил два рак‘ата, совершаемые перед утренней молитвой, после чего вышел на молитву». Далее говорится, что (Посланник Аллаха ﷺ) вышел со словами: «О Аллах, помести в сердце моё свет, и помести в язык мой свет, и помести в слух мой свет, и помести в зрение моё свет, и помести позади меня свет и передо мной свет, и помести надо мной свет и подо мной свет. О Аллах, и сделай свет для меня великим /Аллахумма-дж‘аль фи кальби нуран ва-дж‘аль фи лисани нуран ва дж‘аль фи сам‘и нуран ва дж‘аль фи басари нуран ва-дж‘аль хальфи нуран ва амами нуран ва дж‘аль мин фаукы нуран ва мин тахти нуран Аллахумма ва а‘зым ли нуран/»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
 
 ## Turkish
 
+İbn Abbâs (r.a.)'den rivayet edildiğine göre, Kendisi (bir gece) Nebi (s.a.v.)'in odasında yatmış ve (Resûlullah sallallahu aleyhi ve sellem'in geceleyin) "Hakikat göklerin ve yerin yaratılışında...”\[Âl-i İmrân 190\] diye (başlayıp) sûreyi sonuna kadar okuyarak uykudan kalktığını ve misvaklanıp abdest aldığını, kıyamı, rükû'u ve sücûdu uzatarak iki rekat namaz kıldığını sonra namazdan çıkıp nefes alışverişi işitilecek kadar uykuya daldığını, sonra bunu üç defa tekrarlayarak altı re­kat namaz (kıldığım) ve her defasında da misvâklandığını sonra abdest aldığını ve bu âyetleri okuduğunu daha sonra da vitr (namazı) kıldığını görmüş. (Bu hadisi Ebû Davud'a nakleden diğer râvi) Osman dedi ki: Üç rekatle (vitr yapardı). Bunu müteakip müezzinin gelmesiyle namaza çıkardı. (Diğer râvi) îbn İsâ ise (şöyle) dedi: Vitri kılardı. Bunu müteakip sabahın girmesiyle Bilâl gelip kendisine namazı haber verirdi. Bunun üzerine sabah namazının iki rekatlık sünnetini kılıp namaza çıkardı. (Hadisin buraya kadarki rivayetinden) sonra (her iki râvi de) Resûlullah (s.a.v.)'in; "Ey Allah'ım! Benim kalbime nur, dilime nur, kulağıma nûr, gözüme nur, arkama nur, önüme, altıma ve üstüme nûr ver ve benim nurumu büyüt" diyerek (namaza gittiği rivayetinde) birleşirler
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-İbn Abbâs (r.a.)'den rivayet edildiğine göre, Kendisi (bir gece) Nebi (s.a.v.)'in odasında yatmış ve (Resûlullah sallallahu aleyhi ve sellem'in geceleyin) "Hakikat göklerin ve yerin yaratılışında...”[Âl-i İmrân 190] diye (başlayıp) sûreyi sonuna kadar okuyarak uykudan kalktığını ve misvaklanıp abdest aldığını, kıyamı, rükû'u ve sücûdu uzatarak iki rekat namaz kıldığını sonra namazdan çıkıp nefes alışverişi işitilecek kadar uykuya daldığını, sonra bunu üç defa tekrarlayarak altı re­kat namaz (kıldığım) ve her defasında da misvâklandığını sonra abdest aldığını ve bu âyetleri okuduğunu daha sonra da vitr (namazı) kıldığını görmüş. (Bu hadisi Ebû Davud'a nakleden diğer râvi) Osman dedi ki: Üç rekatle (vitr yapardı). Bunu müteakip müezzinin gelmesiyle namaza çıkardı. (Diğer râvi) îbn İsâ ise (şöyle) dedi: Vitri kılardı. Bunu müteakip sabahın girmesiyle Bilâl gelip kendisine namazı haber verirdi. Bunun üzerine sabah namazının iki rekatlık sünnetini kılıp namaza çıkardı. (Hadisin buraya kadarki rivayetinden) sonra (her iki râvi de) Resûlullah (s.a.v.)'in; "Ey Allah'ım! Benim kalbime nur, dilime nur, kulağıma nûr, gözüme nur, arkama nur, önüme, altıma ve üstüme nûr ver ve benim nurumu büyüt" diyerek (namaza gittiği rivayetinde) birleşirler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما سے روایت ہے کہ وہ نبی اکرم صلی اللہ علیہ وسلم کے پاس سوئے تو دیکھا کہ آپ بیدار ہوئے، تو مسواک اور وضو کیا اور آیت کریمہ «إن في خلق السموات والأرض» ۱؎ اخیر سورۃ تک پڑھی، پھر کھڑے ہوئے اور دو رکعتیں پڑھیں، ان میں قیام، رکوع اور سجدہ لمبا کیا، پھر آپ صلی اللہ علیہ وسلم فارغ ہوئے اور سو گئے یہاں تک کہ خراٹے لینے لگے، پھر آپ صلی اللہ علیہ وسلم نے چھ رکعتوں میں تین بار ایسا ہی کیا، ہر بار مسواک کرتے اور وضو کرتے اور انہیں آیتوں کو پڑھتے تھے پھر آپ صلی اللہ علیہ وسلم نے وتر پڑھی۔ عثمان کی روایت میں ہے کہ وتر کی تین رکعتیں پڑھیں۔ پھر مؤذن آیا تو آپ نماز کے لیے نکلے۔ ابن عیسیٰ کی روایت میں ہے: پھر آپ نے وتر پڑھی، پھر آپ کے پاس بلال رضی اللہ عنہ آئے اور جس وقت فجر طلوع ہوئی آپ کو نماز کی خبر دی تو آپ نے فجر کی دو رکعتیں ( سنتیں ) پڑھیں۔ اس کے بعد نماز کے لیے نکلے۔ آگے دونوں کی روایتیں ایک جیسی ہیں۔ آپ ( اس وقت ) فرما رہے تھے: «اللهم اجعل في قلبي نورا، واجعل في لساني نورا، واجعل في سمعي نورا، واجعل في بصري نورا، واجعل خلفي نورا، وأمامي نورا، واجعل من فوقي نورا، ومن تحتي نورا، اللهم وأعظم لي نورا» اے اللہ! تو نور پیدا فرما میرے دل میں، میری زبان میں، میرے کان میں، میری نگاہ میں، میرے پیچھے، میرے آگے، میرے اوپر اور میرے نیچے۔ اور اے اللہ! میرے لیے نور کو بڑا بنا دے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1353</td></tr><tr><td>Arabic No</td><td>1353</td></tr><tr><td>Reference</td><td>Book 5 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1353 |
+| Arabic No | 1353 |
+| Reference | Book 5 Hadith 104 |

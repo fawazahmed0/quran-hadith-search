@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ فَارِسٍ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، - قَالَ مُحَمَّدٌ كَتَبْتُهُ مِنْ كِتَابِهِ - قَالَ أَخْبَرَنَا مَعْمَرٌ عَنِ الزُّهْرِيِّ عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ عَنِ ابْنِ عَبَّاسٍ قَالَ كَانَ أَبُو هُرَيْرَةَ يُحَدِّثُ أَنَّ رَجُلاً أَتَى إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ إِنِّي أَرَى اللَّيْلَةَ ظُلَّةً يَنْطِفُ مِنْهَا السَّمْنُ وَالْعَسَلُ فَأَرَى النَّاسَ يَتَكَفَّفُونَ بِأَيْدِيهِمْ فَالْمُسْتَكْثِرُ وَالْمُسْتَقِلُّ وَأَرَى سَبَبًا وَاصِلاً مِنَ السَّمَاءِ إِلَى الأَرْضِ فَأَرَاكَ يَا رَسُولَ اللَّهِ أَخَذْتَ بِهِ فَعَلَوْتَ بِهِ ثُمَّ أَخَذَ بِهِ رَجُلٌ آخَرُ فَعَلاَ بِهِ ثُمَّ أَخَذَ بِهِ رَجُلٌ آخَرُ فَعَلاَ بِهِ ثُمَّ أَخَذَ بِهِ رَجُلٌ آخَرُ فَانْقَطَعَ ثُمَّ وُصِلَ فَعَلاَ بِهِ ‏.‏ قَالَ أَبُو بَكْرٍ بِأَبِي وَأُمِّي لَتَدَعَنِّي فَلأَعْبُرَنَّهَا ‏.‏ فَقَالَ ‏"‏ اعْبُرْهَا ‏"‏ ‏.‏ قَالَ أَمَّا الظُّلَّةُ فَظُلَّةُ الإِسْلاَمِ وَأَمَّا مَا يَنْطِفُ مِنَ السَّمْنِ وَالْعَسَلِ فَهُوَ الْقُرْآنُ لِينُهُ وَحَلاَوَتُهُ وَأَمَّا الْمُسْتَكْثِرُ وَالْمُسْتَقِلُّ فَهُوَ الْمُسْتَكْثِرُ مِنَ الْقُرْآنِ وَالْمُسْتَقِلُّ مِنْهُ وَأَمَّا السَّبَبُ الْوَاصِلُ مِنَ السَّمَاءِ إِلَى الأَرْضِ فَهُوَ الْحَقُّ الَّذِي أَنْتَ عَلَيْهِ تَأْخُذُ بِهِ فَيُعْلِيكَ اللَّهُ ثُمَّ يَأْخُذُ بِهِ بَعْدَكَ رَجُلٌ فَيَعْلُو بِهِ ثُمَّ يَأْخُذُ بِهِ رَجُلٌ آخَرُ فَيَعْلُو بِهِ ثُمَّ يَأْخُذُ بِهِ رَجُلٌ آخَرُ فَيَنْقَطِعُ ثُمَّ يُوصَلُ لَهُ فَيَعْلُو بِهِ أَىْ رَسُولَ اللَّهِ لَتُحَدِّثَنِّي أَصَبْتُ أَمْ أَخْطَأْتُ ‏.‏ فَقَالَ ‏"‏ أَصَبْتَ بَعْضًا وَأَخْطَأْتَ بَعْضًا ‏"‏ ‏.‏ فَقَالَ أَقْسَمْتُ يَا رَسُولَ اللَّهِ لَتُحَدِّثَنِّي مَا الَّذِي أَخْطَأْتُ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ لاَ تُقْسِمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
+
 حدثنا محمد بن يحيى بن فارس، حدثنا عبد الرزاق، - قال محمد كتبته من كتابه - قال اخبرنا معمر عن الزهري عن عبيد الله بن عبد الله عن ابن عباس قال كان ابو هريرة يحدث ان رجلا اتى الى رسول الله صلى الله عليه وسلم فقال اني ارى الليلة ظلة ينطف منها السمن والعسل فارى الناس يتكففون بايديهم فالمستكثر والمستقل وارى سببا واصلا من السماء الى الارض فاراك يا رسول الله اخذت به فعلوت به ثم اخذ به رجل اخر فعلا به ثم اخذ به رجل اخر فعلا به ثم اخذ به رجل اخر فانقطع ثم وصل فعلا به . قال ابو بكر بابي وامي لتدعني فلاعبرنها . فقال " اعبرها " . قال اما الظلة فظلة الاسلام واما ما ينطف من السمن والعسل فهو القران لينه وحلاوته واما المستكثر والمستقل فهو المستكثر من القران والمستقل منه واما السبب الواصل من السماء الى الارض فهو الحق الذي انت عليه تاخذ به فيعليك الله ثم ياخذ به بعدك رجل فيعلو به ثم ياخذ به رجل اخر فيعلو به ثم ياخذ به رجل اخر فينقطع ثم يوصل له فيعلو به اى رسول الله لتحدثني اصبت ام اخطات . فقال " اصبت بعضا واخطات بعضا " . فقال اقسمت يا رسول الله لتحدثني ما الذي اخطات . فقال النبي صلى الله عليه وسلم " لا تقسم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আবূ হুরাইরাহ (রাঃ) হাদীস বর্ণনা করতেন, একদা এক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, আমি রাতে স্বপ্নে দেখেছি, এক টুকরা মেঘ থেকে মাখন ও মধু ঝড়ে পড়ছে এবং আমি আরো দেখলাম যে, লোকজন হাতের মুঠোয় করে তা তুলে নিচ্ছে; তাতে কেউ বেশী নিচ্ছে আবার কেউ কম নিচ্ছে। আর দেখতে পেলাম একখানা রশি আকাশ থেকে পৃথিবী পর্যন্ত ঝুলন্ত অবস্থায় রয়েছে। হে আল্লাহর রাসূল! আমি দেখলাম সেটা ধরে আপনি উপরে উঠে গেলেন। অতঃপর অন্য এক ব্যক্তি তা ধরে উপরের দিকে উঠে গেলেন। অতঃপর আর ব্যক্তি তা ধরে উঠতে লাগলে তা ছিঁড়ে যায়, তারপর পুনরায় তা জোড়া দেয়া হলে সেও তা দিয়ে উপরে উঠে যায়। আবূ বাকর (রাঃ) বললেন, আমার পিতা-মাতার কসম! আমাকে অনুমতি দিলে আমি এর ব্যাখ্যা করি। তিনি বললেন, ঠিক আছে, করুন। তিনি \[আবূ বাকর (রাঃ)\] বললেন, মেঘ হলো ইসলামের মেঘ, আর মেঘ থেকে যে মধু ও মাখন ঝড়ে পড়ছে তা হলো কুরআনের মাধুর্যতা ও আস্বাদ, আর কম-বেশি গ্রহণ হলো কুরআন থেকে বেশি হিদায়াত গ্রহণ ও কম গ্রহণ করা। আর আকাশ থেকে পৃথিবী পর্যন্ত ঝুলন্ত রশিটি হলো সেই সত্য যার উপর আপনি রয়েছেন এবং এটা ধরেই আল্লাহ আপনাকে উর্ধ্বে উঠাবেন। অতঃপর এক ব্যক্তি তা ধরে উপরে উঠবেন \[তিনি হলেন, আবূ বাকর (রাঃ)\] তারপর এক ব্যক্তি তা ধরে উপরের দিকে উঠতেই তা ছিঁড়ে যাবে, তারপর পুনরায় জুড়ে দেয়া হলে তা ধরে তিনিও উপরে উঠবেন \[তিনি হলেন উসমান (রাঃ)\]। হে আল্লাহর রাসূল! আমি ভুল বলেছি না ঠিক বলেছি বলে দিন। তিনি বলেন, কিছুটা ঠিক হয়েছে এবং কিছুটা ভুল হয়েছে। তিনি বললেন, আমি কসম করে বলছি! আমার যা ভুল হয়েছে তা হে আল্লাহর রাসূল! আমাকে অবশ্যই বলে দিন। এতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি কসম করো না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আবূ হুরাইরাহ (রাঃ) হাদীস বর্ণনা করতেন, একদা এক ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এসে বললো, আমি রাতে স্বপ্নে দেখেছি, এক টুকরা মেঘ থেকে মাখন ও মধু ঝড়ে পড়ছে এবং আমি আরো দেখলাম যে, লোকজন হাতের মুঠোয় করে তা তুলে নিচ্ছে; তাতে কেউ বেশী নিচ্ছে আবার কেউ কম নিচ্ছে। আর দেখতে পেলাম একখানা রশি আকাশ থেকে পৃথিবী পর্যন্ত ঝুলন্ত অবস্থায় রয়েছে। হে আল্লাহর রাসূল! আমি দেখলাম সেটা ধরে আপনি উপরে উঠে গেলেন। অতঃপর অন্য এক ব্যক্তি তা ধরে উপরের দিকে উঠে গেলেন। অতঃপর আর ব্যক্তি তা ধরে উঠতে লাগলে তা ছিঁড়ে যায়, তারপর পুনরায় তা জোড়া দেয়া হলে সেও তা দিয়ে উপরে উঠে যায়। আবূ বাকর (রাঃ) বললেন, আমার পিতা-মাতার কসম! আমাকে অনুমতি দিলে আমি এর ব্যাখ্যা করি। তিনি বললেন, ঠিক আছে, করুন। তিনি [আবূ বাকর (রাঃ)] বললেন, মেঘ হলো ইসলামের মেঘ, আর মেঘ থেকে যে মধু ও মাখন ঝড়ে পড়ছে তা হলো কুরআনের মাধুর্যতা ও আস্বাদ, আর কম-বেশি গ্রহণ হলো কুরআন থেকে বেশি হিদায়াত গ্রহণ ও কম গ্রহণ করা। আর আকাশ থেকে পৃথিবী পর্যন্ত ঝুলন্ত রশিটি হলো সেই সত্য যার উপর আপনি রয়েছেন এবং এটা ধরেই আল্লাহ আপনাকে উর্ধ্বে উঠাবেন। অতঃপর এক ব্যক্তি তা ধরে উপরে উঠবেন [তিনি হলেন, আবূ বাকর (রাঃ)] তারপর এক ব্যক্তি তা ধরে উপরের দিকে উঠতেই তা ছিঁড়ে যাবে, তারপর পুনরায় জুড়ে দেয়া হলে তা ধরে তিনিও উপরে উঠবেন [তিনি হলেন উসমান (রাঃ)]। হে আল্লাহর রাসূল! আমি ভুল বলেছি না ঠিক বলেছি বলে দিন। তিনি বলেন, কিছুটা ঠিক হয়েছে এবং কিছুটা ভুল হয়েছে। তিনি বললেন, আমি কসম করে বলছি! আমার যা ভুল হয়েছে তা হে আল্লাহর রাসূল! আমাকে অবশ্যই বলে দিন। এতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তুমি কসম করো না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Abbas said:Abu Hurairah said that a man came to the Messenger of Allah (ﷺ) and said: I saw (in my dream) a piece of cloud from which ghee and honey were dropping. I saw the people spreading their hands. Some of them took much and some a little. I also saw a rope hanging from Heaven to Earth. I saw, Messenger of Allah, that you caught hold of it and ascended by it. Then another man caught hold of it and ascended it. Then another man caught hold of it and ascended it. Then another man caught hold of it, but it broke, and then it was joined and he ascended it. AbuBakr said: May my parents be sacrificed for you, if you allow, I shall interpret it. He said: Interpret it. He said: The piece of cloud is the cloud of Islam; the ghee and honey that were dropping from it are the Qur'an, which contains softness and sweetness. Those who received much or little of it are those who learn much or little of the Qur'an. The rope hanging from Heaven to Earth is the truth which you are following. You catch hold of it and then Allah will raise you to Him. Then another man will catch hold of it and ascend it, Then another man will catch hold of it and it will break. But it will be joined and he will ascend it. Tell me. Messenger of Allah, whether I am right or wrong. He said: You are partly right and partly wrong. He said: I adjure you by Allah, you should tell me where I am wrong. The Prophet (ﷺ) said: Do not take an oath
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : Abu Huraira رضي الله عنه a rapporté qu’un homme est venu voir le Messager d’Allah ﷺ et a dit : « J’ai vu (en rêve) un nuage d’où tombaient du beurre clarifié et du miel. J’ai vu les gens tendre les mains : certains en prenaient beaucoup, d’autres peu. J’ai aussi vu une corde suspendue du ciel à la terre. J’ai vu, Messager d’Allah, que tu t’y es accroché et tu es monté. Puis un autre homme s’y est accroché et il est monté. Puis un autre homme s’y est accroché et il est monté. Puis un autre homme s’y est accroché, mais la corde s’est rompue, puis elle a été raccommodée et il est monté. » Abu Bakr رضي الله عنه a dit : « Que mes parents te soient sacrifiés, si tu permets, je vais l’interpréter. » Il a dit : « Interprète. » Il a dit : « Le nuage, c’est l’islam ; le beurre et le miel qui en tombent, c’est le Coran, qui contient douceur et tendresse. Ceux qui en reçoivent beaucoup ou peu sont ceux qui apprennent beaucoup ou peu du Coran. La corde suspendue du ciel à la terre, c’est la vérité que tu suis. Tu t’y accroches, puis Allah t’élève vers Lui. Ensuite, un autre homme s’y accroche et monte, puis un autre, puis un autre s’y accroche, la corde se rompt, mais elle est raccommodée et il monte. Dis-moi, Messager d’Allah, ai-je vu juste ou non ? » Il a dit : « Tu as partiellement raison et partiellement tort. » Il a dit : « Je t’en supplie par Allah, dis-moi où je me suis trompé. » Le Prophète ﷺ a dit : « Ne jure pas. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Yahya bin Faris\] berkata, telah menceritakan kepada kami \[Abdurrazaq\] -Muhammad berkata; aku pernah menulis dari dalam bukunya- ia berkata; telah mengabarkan kepada kami \[Ma'mar\] dari \[Az Zuhri\] dari \[Ubaidullah bin Abdullah\] dari \[Ibnu Abbas\] ia berkata, " \[Abu Hurairah\] pernah menceritakan bahwa ada seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Pada suatu malam aku bermimpi melihat suatu naungan yang mengeluarkan minyak dan madu. Lalu aku melihat orang-orang saling berebut untuk mengambilnya dengan tangan, ada yang mendapat banyak dan ada yang mendapat sedikit. Kemudian aku melihat ada sesuatu yang membentang dari langit ke bumi, dan ternyata itu adalah engkau wahai Rasulullah. Engkau mengambilnya hingga engkau menjadi mulia, lalu ada seorang laki-laki lain yang mengambilnya dan ia pun menjadi mulia, lalu ada seorang laki-laki lain yang mengambilnya dan ia pun menjadi mulia karenanya. Kemudian ada seorang laki-laki lain yang mengambilnya dan terputuslah kemuliaan itu. Setelah itu disambungkan lagi hingga ia menjadi mulia karenanya." Abu Bakar berkata, "Demi bapak dan ibuku, biarkan aku menafsirkan mimpi itu?" beliau bersabda: "Silahkan." Abu Bakar berkata, "Naungan itu adalah Islam, minyak dan madu itu adalah kelembutan dan manisnya Al-Qur'an. Orang yang mendapat sedikit dan banyak dalam mimpi itu adalah orang yang sedikit atau banyaknya dalam membaca Al-Qur'an. Dan yang menjadi wasilah (perantara) antara langit dan bumi adalah kebenaran yang engkau ada padannya engkau mengambilnya hingga Allah meninggikan dan memuliakanmu. Lalu setelahmu ada seorang laki-laki yang mengambilnya dan ia menjadi mulia, lalu setelah itu ada seorang laki-laki lain yang mengambilnya dan ia juga menjadi mulia. Kemudian ada lagi laki-laki lain yang mengambilnya, namun kemuliaan itu terputus. Allah lalu menyambungnya kembali hingga laki-laki itu pun menjadi mulia. Wahai Rasulullah, katakanlah kepadaku, benar atau salah yang aku katakan ini?" beliau menjawab: "Sebagian benar dan sebagian salah." Abu Bakar berkata lagi, "Wahai Rasulullah, aku bersumpah, tolong anda katakan apa yang salah?" Nabi shallallahu 'alaihi wasallam lalu bersabda: "Janganlah kamu bersumpah." Telah menceritakan kepada kami \[Muhammad bin Yahya bin Faris\] berkata, telah menceritakan kepada kami \[Muhammad bin Katsir\] berkata, telah menceritakan kepada kami \[Sulaiman bin Katsir\] dari \[Az Zuhri\] dari \[Ubaidullah bin Abdullah\] dari \[Ibnu Abbas\] dari Nabi shallallahu 'alaihi wasallam, dengan kisah seperti ini. Ia berkata, "Beliau menolak untuk mengabarkannya (Tafsiran Abu Bakar yang salah)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Abdurrazaq] -Muhammad berkata; aku pernah menulis dari dalam bukunya- ia berkata; telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] ia berkata, " [Abu Hurairah] pernah menceritakan bahwa ada seorang laki-laki datang menemui Rasulullah shallallahu 'alaihi wasallam seraya berkata, "Pada suatu malam aku bermimpi melihat suatu naungan yang mengeluarkan minyak dan madu. Lalu aku melihat orang-orang saling berebut untuk mengambilnya dengan tangan, ada yang mendapat banyak dan ada yang mendapat sedikit. Kemudian aku melihat ada sesuatu yang membentang dari langit ke bumi, dan ternyata itu adalah engkau wahai Rasulullah. Engkau mengambilnya hingga engkau menjadi mulia, lalu ada seorang laki-laki lain yang mengambilnya dan ia pun menjadi mulia, lalu ada seorang laki-laki lain yang mengambilnya dan ia pun menjadi mulia karenanya. Kemudian ada seorang laki-laki lain yang mengambilnya dan terputuslah kemuliaan itu. Setelah itu disambungkan lagi hingga ia menjadi mulia karenanya." Abu Bakar berkata, "Demi bapak dan ibuku, biarkan aku menafsirkan mimpi itu?" beliau bersabda: "Silahkan." Abu Bakar berkata, "Naungan itu adalah Islam, minyak dan madu itu adalah kelembutan dan manisnya Al-Qur'an. Orang yang mendapat sedikit dan banyak dalam mimpi itu adalah orang yang sedikit atau banyaknya dalam membaca Al-Qur'an. Dan yang menjadi wasilah (perantara) antara langit dan bumi adalah kebenaran yang engkau ada padannya engkau mengambilnya hingga Allah meninggikan dan memuliakanmu. Lalu setelahmu ada seorang laki-laki yang mengambilnya dan ia menjadi mulia, lalu setelah itu ada seorang laki-laki lain yang mengambilnya dan ia juga menjadi mulia. Kemudian ada lagi laki-laki lain yang mengambilnya, namun kemuliaan itu terputus. Allah lalu menyambungnya kembali hingga laki-laki itu pun menjadi mulia. Wahai Rasulullah, katakanlah kepadaku, benar atau salah yang aku katakan ini?" beliau menjawab: "Sebagian benar dan sebagian salah." Abu Bakar berkata lagi, "Wahai Rasulullah, aku bersumpah, tolong anda katakan apa yang salah?" Nabi shallallahu 'alaihi wasallam lalu bersabda: "Janganlah kamu bersumpah." Telah menceritakan kepada kami [Muhammad bin Yahya bin Faris] berkata, telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah menceritakan kepada kami [Sulaiman bin Katsir] dari [Az Zuhri] dari [Ubaidullah bin Abdullah] dari [Ibnu Abbas] dari Nabi shallallahu 'alaihi wasallam, dengan kisah seperti ini. Ia berkata, "Beliau menolak untuk mengabarkannya (Tafsiran Abu Bakar yang salah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Абу Хурайра рассказывал, как однажды к Посланнику Аллаха ﷺ пришёл один человек и сказал: «Сегодня ночью я видел во сне дававшее тень облако, из которого изливались масло и мёд, и я видел людей, собиравших это в свои ладони, и у некоторых из них было много масла и мёда, а у других мало. И вдруг я увидел верёвку, протянувшуюся от земли до неба, и увидел, как ты, о Посланник Аллаха, взялся за неё и поднялся по ней наверх. Потом за неё взялся другой человек и поднялся наверх, затем другой и тоже поднялся наверх, а когда взялся другой человек, она порвалась, а затем соединилась вновь, и затем он тоже поднялся наверх». Абу Бакр сказал: «(О Посланник Аллаха), да станет отец мой выкупом за тебя, позволь мне истолковать этот сон». Он сказал: «Толкуй». Абу Бакр сказал: «Что касается облака, дающего тень, то это ислам, что касается истекающего из него масла и мёда, то это Коран, его мягкость и сладость. А набравший больше и набравший меньше это человек, постигший его в большей мере, и человек, постигший его в меньшей мере. Что касается верёвки, протянувшейся от неба до земли, то это истина, которой ты следуешь. Ты станешь придерживаться её, и Аллах возвысит тебя, после тебя станет придерживаться её другой человек, благодаря чему он возвысится. Затем её станет придерживаться другой человек, и он тоже возвысится, а потом станет придерживаться её другой человек, но она порвётся в его руках, а потом будет соединена для него, благодаря чему и он возвысится… Скажи же мне, о Посланник Аллаха, я был прав или ошибся?» Он сказал: «В чём-то ты был прав, а в чём-то ошибся». (Абу Бакр) сказал: «Клянусь, ты должен сказать мне, в чём я ошибся!» Пророк ﷺ сказал: «Не клянись»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs (r.a.)'dan (rivayet edildiğine göre) Ebu Hureyre (radiyallahü anh) şöyle demiştir: Adamın biri Rasûlullah (s.a.v.)'e gelip: "(Ey Allah'ın Rasulü!) Ben bu gece (rüyamda) kendisinden yağ ve bal yağan bir bulut gördüm. Halkı da (yağan yağ ve baldan) elleriyle avuçlarken gördüm. Kimisi çok avuçluyordu, kimisi de az. Bir de gökten yere ulaşan bir ip gördüm. Ey Allah'ın Rasülü, senin de o ipi tutup yükseldiğini gördüm. Sonra onu başka bir adam tutup o iple o da yükseldi. Sonra başkası onu tutup onunla o da yükseldi. Sonra onu başka bir adam tuttu. Fakat (ip) koptu. Sonra (ip koptuğu yerden) eklendi. Onunla (o adam da) yükseldi." (Bu rüyayı Hz. Nebi ile birlikte dinleyen) Hz. Ebu Bekir (söz alarak: "Ey Allah'ın rasulü!) İzin ver de ben onu yorumlayayım "dedi. (Hz. Nebi de: "Haydi) onu yorumla!" buyurdu. Bunun üzerine (Hz. Ebû Bekir şöyle) dedi: "Bulut'a gelince. (O) İslâmın bulutudur. (Ondan) yağan yağ ve bal'a gelince o da Kur'andır. (Yani Kurân'ın) yumuşaklığı ve tadıdır. (Yağ ve bal'dan) çok ve az avuçlaym(lar)a gelince o Kur'an'dan az ve çok alandır. Gökten yere ulaşan ip, senin üzerinde bulunduğun hakk (yol) dur. Sen onu tutuyorsun (o da) seni Allah'a yükseltiyor. Senden sonra onu bir adam daha tutuyor. O iple (o adam da) yükseliyor. Sonra onu başka bir adam tutuyor, (fakat ip) kopuyor. Sonra O adam için (ip) ekleniyor ve onunla o adam da yükseliyor. Ey Allah'ın Rasulü! Bana kesinlikle söyle! (yorumumda) isabet mi ettim hata mı ettim? (Hz. Nebi de): "Bazısında isabet ettin, bazısında hatâ ettin" buyurdu. Bunun üzerine (Hz. Ebû Bekir) "Ey Allah'ın rasulü yemin verdim hatamın ne olduğunu bana söyle!" dedi. Nebi (s.a.v.) de, "Yemin verme!" buyurdu. Tahric edenler: Buharî, ta'bir; eymân; Müslim, ru'yâ; Ebû Davud, eymân; Tirmizî. ru'yâ; İbn Mâce, ru'ya; Dârimî, ru'yâ; Ahmed b. Hanbel, I
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ ابوہریرہ رضی اللہ عنہ بیان کرتے تھے کہ ایک شخص رسول اللہ صلی اللہ علیہ وسلم کے پاس آیا اور کہنے لگا: میں نے رات کو بادل کا ایک ٹکڑا دیکھا، جس سے گھی اور شہد ٹپک رہا تھا، پھر میں نے لوگوں کو دیکھا وہ اپنے ہاتھوں کو پھیلائے اسے لے رہے ہیں، کسی نے زیادہ لیا کسی نے کم، اور میں نے دیکھا کہ ایک رسی آسمان سے زمین تک لٹکی ہوئی ہے، پھر میں نے آپ کو دیکھا اللہ کے رسول! کہ آپ نے اسے پکڑ ا اور اس سے اوپر چلے گئے، پھر ایک اور شخص نے اسے پکڑا اور وہ بھی اوپر چلا گیا، پھر ایک اور شخص نے اسے پکڑا اور وہ بھی اوپر چلا گیا، پھر اسے ایک اور شخص نے پکڑا تو وہ ٹوٹ گئی پھر اسے جوڑا گیا، تو وہ بھی اوپر چلا گیا۔ ابوبکر رضی اللہ عنہ نے کہا: میرے ماں باپ آپ پر قربان جائیں مجھے اس کی تعبیر بیان کرنے دیجئیے آپ صلی اللہ علیہ وسلم نے فرمایا: اس کی تعبیر بیان کرو وہ بولے: بادل کے ٹکڑے سے مراد اسلام ہے، اور ٹپکنے والے گھی اور شہد سے قرآن کی حلاوت ( شیرینی ) اور نرمی مراد ہے، کم اور زیادہ لینے والوں سے مراد قرآن کو کم یا زیادہ حاصل کرنے والے لوگ ہیں، آسمان سے زمین تک پہنچی ہوئی رسی سے مراد حق ہے جس پر آپ ہیں، آپ اسے پکڑے ہوئے ہیں، اللہ آپ کو اٹھا لے گا، پھر آپ صلی اللہ علیہ وسلم کے بعد ایک اور شخص اسے پکڑے گا تو وہ بھی اٹھ جائے گا، پھر ایک اور شخص پکڑے گا تو وہ بھی اٹھ جائے گا، پھر اسے ایک اور شخص پکڑے گا، تو وہ ٹوٹ جائے گی تو اسے جوڑا جائے گا، پھر وہ بھی اٹھ جائے گا، اللہ کے رسول! آپ مجھے بتائیے کہ میں نے صحیح کہا یا غلط، آپ صلی اللہ علیہ وسلم نے فرمایا: کچھ صحیح کہا اور کچھ غلط کہا: اللہ کے رسول! میں آپ کو قسم دلاتا ہوں کہ آپ مجھے بتائیے کہ میں نے کیا غلطی کی، تو نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: قسم نہ دلاؤ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (7046) Sahih Muslim (2269)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4632</td></tr><tr><td>Arabic No</td><td>4632</td></tr><tr><td>Reference</td><td>Book 42 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (7046) Sahih Muslim (2269) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4632 |
+| Arabic No | 4632 |
+| Reference | Book 42 Hadith 37 |

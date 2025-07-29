@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## French
 
+Rapporté par Salamah bin Shabīb : Al-Humaydī nous a rapporté, Sufyān nous a rapporté, il a dit : J’ai entendu un homme demander à Jābir au sujet du verset : « Ainsi, je ne quitterai jamais ce pays jusqu’à ce que mon père me le permette ou qu’Allah décide pour moi, et Il est le meilleur des juges. » Jābir a dit : « C’est une interprétation de ces versets », et il mentait car cela concernait les frères de Yūsuf, paix sur lui
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>57</td></tr><tr><td>Reference</td><td>Book 0 Hadith 57</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 57 |
+| Reference | Book 0 Hadith 57 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,147 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا ابْنُ الْعَلاَءِ، عَنْ وَكِيعٍ، عَنْ سُفْيَانَ، عَنْ سُهَيْلٍ، نَحْوَهُ قَالَ ‏ "‏ فِي الصَّلاَةِ فَلْيَكْظِمْ مَا اسْتَطَاعَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
+
 حدثنا ابن العلاء، عن وكيع، عن سفيان، عن سهيل، نحوه قال " في الصلاة فليكظم ما استطاع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
 
 ## Bengali
 
+। সুহাইল (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সালাতরত অবস্থায় হাই উঠলে যথাসাধ্য তা বন্ধ রাখবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সুহাইল (রহঃ) সূত্রে অনুরূপ হাদীস বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ সালাতরত অবস্থায় হাই উঠলে যথাসাধ্য তা বন্ধ রাখবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted in a similar way by Suhail through a different chain of narrators. This version has; “during prayer, so he should hold as far as possible”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
+
+## French
+
+Le même enseignement a aussi été transmis par Suhail à travers une autre chaîne de rapporteurs. Dans cette version, il est précisé : « pendant la prière, qu’il retienne autant que possible. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süheyl'in (yine İbn Ebi Said el-Hudrî ve onun babası yoluyla yaptığı) diğer bir rivayete göre Rasûlullah (s.a.v.) (şöyle) buyurmuştur: "(Birinizin) namazda esne(mesi gel)diği vakit gücü yettiği kadar ona engel olmaya çalışsın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سہیل سے بھی اسی طرح مروی ہے اس میں یہ ہے ( جب جمائی ) نماز میں ہو تو جہاں تک ہو سکے منہ بند رکھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2995)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5027</td></tr><tr><td>Arabic No</td><td>5027</td></tr><tr><td>Reference</td><td>Book 43 Hadith 255</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2995) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5027 |
+| Arabic No | 5027 |
+| Reference | Book 43 Hadith 255 |

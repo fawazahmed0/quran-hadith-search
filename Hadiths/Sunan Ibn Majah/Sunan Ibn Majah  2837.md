@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الصَّبَّاحِ، أَنْبَأَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ عُمَرَ بْنِ كَثِيرِ بْنِ أَفْلَحَ، عَنْ أَبِي مُحَمَّدٍ، مَوْلَى أَبِي قَتَادَةَ عَنْ أَبِي قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَفَّلَهُ سَلَبَ قَتِيلٍ قَتَلَهُ يَوْمَ حُنَيْنٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |
+
 حدثنا محمد بن الصباح، انبانا سفيان بن عيينة، عن يحيى بن سعيد، عن عمر بن كثير بن افلح، عن ابي محمد، مولى ابي قتادة عن ابي قتادة، ان رسول الله صلى الله عليه وسلم نفله سلب قتيل قتله يوم حنين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ কাতাদা (রাঃ) থেকে বর্ণিত। হুনায়নের যুদ্ধের দিন তিনি যাকে হত্যা করেছিলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার মালপত্র তাকে দিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Muhammad, the freed slave of Abu Qatadah (from Abu Qatadah) that the Messenger of Allah (ﷺ) awarded him the spoils of a man whom he killed on the Day of Hunain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |
+
+## French
+
+Rapporté par Abu Muhammad, l’affranchi d’Abu Qatadah (d’après Abu Qatadah) : Le Messager d’Allah (ﷺ) lui a attribué le butin d’un homme qu’il avait tué le jour de Hunain
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Ash Shabah\]; telah memberitakan kepada kami \[Sufyan bin 'Uyainah\] dari \[Yahya bin Sa'id\] dari \['Umar bin Katsir bin Aflah\] dari \[Abu Muhammad\] maula Abu Qatadah, dari \[Abu Qatadah\]; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memberikan harta rampasan seseorang yang terbunuh di saat perang Hunain kepada yang membunuhnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Ash Shabah]; telah memberitakan kepada kami [Sufyan bin 'Uyainah] dari [Yahya bin Sa'id] dari ['Umar bin Katsir bin Aflah] dari [Abu Muhammad] maula Abu Qatadah, dari [Abu Qatadah]; "Sesungguhnya Rasulullah shallallahu 'alaihi wasallam memberikan harta rampasan seseorang yang terbunuh di saat perang Hunain kepada yang membunuhnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Katâde (r.a.)'den rivayet edildiğine göre: Kendisinin Huneyn (savaşı) günü öldürdüğü (kâfir) bir maktulün selebini (yâni beraberindeki eşyayı) Resulullah (Sallallahu Aleyhi ve Sellem) kendisine vermiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوقتادہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے جنگ حنین کے موقعہ پر ان کے ہاتھ سے قتل کیے گئے شخص کا سامان انہیں کو دے دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2837</td></tr><tr><td>Arabic No</td><td>2837</td></tr><tr><td>Reference</td><td>Book 24 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2837 |
+| Arabic No | 2837 |
+| Reference | Book 24 Hadith 85 |

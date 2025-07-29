@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، عَنْ جَابِرٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَهَى عَنِ الْمُخَابَرَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا سفيان، عن عمرو، عن جابر، ان النبي صلى الله عليه وسلم نهى عن المخابرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু আবূ শাইবাহ (রহঃ) ..... জাবির (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুখাবারাহ নিষেধ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৭৭৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir (Allah be pleased with him) reported Allah's Apostle (ﷺ) having forbidden Mukhabara
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## French
 
+Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a interdit la Mukhabara
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebû Bekr b. Ebî Şeybe rivayet etti. (Dediki): Bize Süfyân, Amr'dan, o da Câbir'den naklen rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem) muhabereden nehî buyurmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عمرو ( بن دینار ) نے حضرت جابر رضی اللہ عنہ سے روایت کی کہ نبی صلی اللہ علیہ وسلم نے مخابرہ ( غلط شرطوں کے ساتھ بٹائی پر دینے ) سے منع فرمایا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3922</td></tr><tr><td>Arabic No</td><td>1536.17</td></tr><tr><td>Reference</td><td>Book 21 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3922 |
+| Arabic No | 1536.17 |
+| Reference | Book 21 Hadith 121 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، ح وَحَدَّثَنَا عَبْدُ بْنُ، حُمَيْدٍ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، وَابْنُ، جُرَيْجٍ كُلُّهُمْ عَنِ الزُّهْرِيِّ، بِهَذَا الإِسْنَادِ ‏.‏ بِمَعْنَى حَدِيثِهِمْ ‏.‏ وَزَادَ فِي حَدِيثِ يُونُسَ وَكَانَ مُجَزِّزٌ قَائِفًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني حرملة بن يحيى، اخبرنا ابن وهب، اخبرني يونس، ح وحدثنا عبد بن، حميد اخبرنا عبد الرزاق، اخبرنا معمر، وابن، جريج كلهم عن الزهري، بهذا الاسناد . بمعنى حديثهم . وزاد في حديث يونس وكان مجزز قايفا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হারমালাহ ইবনু ইয়াহইয়া ও আবদ ইবনু হুমায়দ (রহিমাহুমাল্লাহ) ..... সকলেই যুহরী (রহঃ) সূত্রে তাদের সানাদে হাদীসের মর্মানুযায়ী বর্ণনা করেন। তবে ইউনুস বর্ণিত হাদীসে অতিরিক্ত আছে, তিনি ছিলেন একজন কায়িফ। (ইসলামিক ফাউন্ডেশন ৩৪৮৫, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been narrated on the authority of Zuhri and Yunus said:Mujazziz was a physiognomist
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## French
 
+Rapporté par Zuhri et Yunus : Un hadith similaire a été rapporté, et Yunus a précisé que Mujazziz était un physionomiste
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana Harmeletübnü Yahya rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yunus haber verdi. H. Bize Abd b. Humeyd de rivayet etti. (Dediki): Bize Abdürrezzak haber verdi. (Dediki): Bize Ma'mer ile îbnü Cüreyc haber verdiler. Bu ravilerin hepsi Zührî'den bu isnadla yukarıkilerin hadîsi manasında rivayette bulunmuşlardır. Yunus hadîsinde: «Mücezziz kaif idi» ziyadesi vardır. Diğer tahric: Buhari Feraiz; Ebu Davud ile Nesaî Talak; Tirmizî Vela
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یونس ، معمر اور ابن جریج سب نے زہری سے اسی سند کے ساتھ ، ان ( لیث ، سفیان اور ابراہیم بھی سعد ) کی حدیث کے ہم معنی روایت بیان کی اور ( ابن وہب نے ) یونس کی حدیث میں یہ اضافہ کیا : اور مجزز ایک قیافہ شاس تھا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3620</td></tr><tr><td>Arabic No</td><td>1459.04</td></tr><tr><td>Reference</td><td>Book 17 Hadith 53</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3620 |
+| Arabic No | 1459.04 |
+| Reference | Book 17 Hadith 53 |

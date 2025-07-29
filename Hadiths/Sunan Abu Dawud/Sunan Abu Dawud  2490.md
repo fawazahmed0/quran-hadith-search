@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْعَتَكِيُّ، حَدَّثَنَا حَمَّادٌ، - يَعْنِي ابْنَ زَيْدٍ - عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ مُحَمَّدِ بْنِ يَحْيَى بْنِ حَبَّانَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ حَدَّثَتْنِي أُمُّ حَرَامٍ بِنْتُ مِلْحَانَ، أُخْتُ أُمِّ سُلَيْمٍ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ عِنْدَهُمْ فَاسْتَيْقَظَ وَهُوَ يَضْحَكُ ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا أَضْحَكَكَ قَالَ ‏"‏ رَأَيْتُ قَوْمًا مِمَّنْ يَرْكَبُ ظَهْرَ هَذَا الْبَحْرِ كَالْمُلُوكِ عَلَى الأَسِرَّةِ ‏"‏ ‏.‏ قَالَتْ قُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ ‏.‏ قَالَ ‏"‏ فَإِنَّكِ مِنْهُمْ ‏"‏ ‏.‏ قَالَتْ ثُمَّ نَامَ فَاسْتَيْقَظَ وَهُوَ يَضْحَكُ ‏.‏ قَالَتْ فَقُلْتُ يَا رَسُولَ اللَّهِ مَا أَضْحَكَكَ فَقَالَ مِثْلَ مَقَالَتِهِ ‏.‏ قُلْتُ يَا رَسُولَ اللَّهِ ادْعُ اللَّهَ أَنْ يَجْعَلَنِي مِنْهُمْ ‏.‏ قَالَ ‏"‏ أَنْتِ مِنَ الأَوَّلِينَ ‏"‏ ‏.‏ قَالَ فَتَزَوَّجَهَا عُبَادَةُ بْنُ الصَّامِتِ فَغَزَا فِي الْبَحْرِ فَحَمَلَهَا مَعَهُ فَلَمَّا رَجَعَ قُرِّبَتْ لَهَا بَغْلَةٌ لِتَرْكَبَهَا فَصَرَعَتْهَا فَانْدَقَّتْ عُنُقُهَا فَمَاتَتْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
+
 حدثنا سليمان بن داود العتكي، حدثنا حماد، - يعني ابن زيد - عن يحيى بن سعيد، عن محمد بن يحيى بن حبان، عن انس بن مالك، قال حدثتني ام حرام بنت ملحان، اخت ام سليم ان رسول الله صلى الله عليه وسلم قال عندهم فاستيقظ وهو يضحك . قالت فقلت يا رسول الله ما اضحكك قال " رايت قوما ممن يركب ظهر هذا البحر كالملوك على الاسرة " . قالت قلت يا رسول الله ادع الله ان يجعلني منهم . قال " فانك منهم " . قالت ثم نام فاستيقظ وهو يضحك . قالت فقلت يا رسول الله ما اضحكك فقال مثل مقالته . قلت يا رسول الله ادع الله ان يجعلني منهم . قال " انت من الاولين " . قال فتزوجها عبادة بن الصامت فغزا في البحر فحملها معه فلما رجع قربت لها بغلة لتركبها فصرعتها فاندقت عنقها فماتت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আনাস ইবনু মালিক (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, উম্মু সুলাইমের বোন উম্মু হারাম বিনতু মিলহান (রাঃ) (অর্থাৎ আমার খালা) আমার কাছে হাদীস বর্ণনা করেছেন যে, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাদের নিকট দুপুরে বিশ্রাম নিলেন। অতঃপর তিনি হাসতে হাসতে ঘুম থেকে জেগে উঠলেন। উম্মু হারাম (রাঃ) বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর রাসূল! আপনার হাসির কারণ কি? তিনি বললেনঃ আমি স্বপ্নে দেখলাম, (আমার উম্মাতের) কিছু লোক এই সমুদ্র পাড়ি দিচ্ছে। যেন তারা রাজার মতো সিংহাসনে বসে আছে। উম্মু হারাম বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমার জন্য আল্লাহর কাছে দু‘আ করুন, যেন আমি তাদের দলভুক্ত হই। তিনি বললেনঃ তুমি তাদের দলভুক্ত হবে। উম্মু হারাম বলেন, তিনি আবারো ঘুমালেন এবং হাসতে হাসতে জেগে উঠলেন। তিনি বলেন, আমি জিজ্ঞেস করলাম, হে আল্লাহর রাসূল! আপনি হাসলেন কেন? তিনি আবারো একই কথার পুনরাবৃত্তি করলেন। তিনি বলেন, আমি বললাম, হে আল্লাহর রাসূল! আমার জন্য দু‘আ করুন, যেন আল্লাহ আমাকে তাদের দলভুক্ত করেন। তিনি বললেনঃ তুমি তাদের প্রথম দলে থাকবে। আনাস (রাঃ) বলেন, পরবর্তীতে ‘উবাদাহ ইবনুস সামিত (রাঃ) তাকে বিবাহ করেন। অতঃপর তিনি নৌ-যুদ্ধে অংশগ্রহণ করেন এবং উম্মু হারামকেও সাথে নেন। যুদ্ধ থেকে প্রত্যাবর্তনকালে উম্মু হারামকে একটি খচ্চর বহন হিসাবে দেয়া হয়। খচ্চরটিতে আরোহণ করলে সেটা তাকে পিঠ থেকে ফেলে দেয়ায় তার ঘাড় ভেঙ্গে যায়, ফলে তিনি মারা যান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas bin Malik (may Allaah be pleased with him) said “Umm Haram, daughter of Milhan, sister of Umm Sulaim, narrated to me that the Apostle of Allaah(ﷺ) took a mid day nap with them. He then awoke laughing. She said “I asked the Apostle of Allaah(ﷺ), what made you laugh?” He replied “I saw some people who ere sailing in the midst of the sea like kings on thrones. She said “I said the Apostle of Allaah(ﷺ) beseech Allaah that He may put me among them. He replied “You will be among them.” She said “He then slept and awoke laughing. She said “I asked the Apostle of Allaah(ﷺ), what made you laugh? He replied as he said in the first reply. She said “I said the Apostle of Allaah(ﷺ) beseech Allaah that HE may put me amongst them. He replied “You will be among the first. Then ‘Ubadah bin Al Samit married her and sailed on the sea on an expedition and took her with him. When he returned, a riding beast was brought near her to ride, but it threw her down. Her neck was broken and she died
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
+
+## French
+
+Rapporté par Anas bin Malik رضي الله عنه : « Umm Haram, fille de Milhan et sœur d’Umm Sulaim, m’a raconté que le Messager d’Allah ﷺ a fait la sieste chez elles. Il s’est réveillé en riant. Elle a dit : “J’ai demandé au Messager d’Allah ﷺ : ‘Qu’est-ce qui t’a fait rire ?’” Il a répondu : “J’ai vu des gens naviguer au milieu de la mer comme des rois sur leurs trônes.” Elle a dit : “J’ai dit : Ô Messager d’Allah ﷺ, demande à Allah de me compter parmi eux.” Il a répondu : “Tu seras parmi eux.” Elle a dit : “Il s’est ensuite rendormi et s’est réveillé en riant.” Elle a dit : “J’ai demandé : ‘Qu’est-ce qui t’a fait rire ?’” Il a répondu comme la première fois. Elle a dit : “J’ai dit : Ô Messager d’Allah ﷺ, demande à Allah de me compter parmi eux.” Il a répondu : “Tu seras parmi les premiers.” Ensuite, ‘Ubadah bin Al Samit l’a épousée et l’a emmenée avec lui lors d’une expédition en mer. À leur retour, on lui a amené une monture, mais elle est tombée et s’est brisé le cou. Elle est morte. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Daud Al 'Ataki\], telah menceritakan kepada kami \[Hammad bin Zaid\], dari \[Yahya bin Sa'id\] dari \[Muhammad bin Yahya bin Habban\] dari \[Anas bin Malik\], ia berkata; telah menceritakan kepadaku \[Ummu Haram binti Milhan\], saudara Ummu Sulaim bahwa Rasulullah shallallahu 'alaihi wasallam tidur siang di rumah mereka, kemudian beliau terbangun dan tertawa, Ummu Haram berkata; lalu aku katakan; wahai Rasulullah, apakah yang membuat engkau tertawa? Beliau berkata: "Aku melihat sebuah kaum yang mengarungi laut ini seperti para raja di atas dipan-dipan." Ia berkata; aku katakan; wahai Rasulullah, doakan kepada Allah agar menjadikanku bagian dari mereka! Beliau berkata: "Sesungguhnya engkau bagian dari mereka." Ummu Haram berkata; kemudian beliau tidur lalu terbangun dan tertawa. Ummu Haram berkata; lalu aku katakan; wahai Rasulullah, apakah yang membuat engkau tertawa? Kemudian beliau mengatakan seperti apa yang telah beliau katakan. Ia berkata; aku katakan; wahai Rasulullah, doakan kepada Allah agar menjadikanku bagian dari mereka! Beliau berkata: "Sesungguhnya engkau bagian dari orang-orang yang pertama." Anas berkata; kemudian 'Ubadah bin Ash Shamit menikahi Ummu Haram, lalu ia berperang di laut dan membawa Ummu Haram bersamanya. Kemudian tatkala kembali di dekatkan kepada Ummu Haram seekor bighal untuk ia naiki. Lalu bighal tersebut menjatuhkan Ummu Haram sehingga lehernya patah dan ia pun meninggal. Telah menceritakan kepada kami \[Al Qa'nabi\], dari \[Malik\] dari \[Ishaq bin Abdullah bin Abu Thalhah\], dari \[Anas bin Malik\], bahwa ia mendengarnya berkata; Rasulullah shallallahu 'alaihi wasallam apabila pergi ke Quba' beliau menemui Ummu Haram binti Milhan, ia adalah isteri 'Ubadah bin Ash Shamit. Kemudian ia menemuinya pada suatu hari lalu ia memberi makan beliau dan duduk serta mencari kutu pada rambut kepala beliau, …… Al Qa'nabi menyebutkan hadits ini. Abu Daud berkata; dan Bintu Milhan meninggal di Qubrush. Telah menceritakan kepada kami \[Yahya bin Ma'in\], telah menceritakan kepada kami \[Hisyam bin Yusuf\], dari \[Ma'mar\] dari \[Zaid bin Aslam\], dari \['Atha' bin Yasar\], dari \[Saudari Ummu Sulaim Ar Rumaisha'\], ia berkata; Nabi shallallahu 'alaihi wasallam tidur kemudian terbangun -dan Saudari Ummu Sulaim Ar Rumaisha'sedang mencuci kepalanya- kemudian beliau terbangun dan tertawa. Lalu ia berkata; wahai Rasulullah, apakah anda mentertawakan rambut kepalaku? Ia berkata; tidak….. dan Yahya menyebutkan hadits ini, dengan menambah dan mengurangi. Abu Daud berkata; Ar Rumaisha' adalah saudari Ummu Sulaim sepersusuan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki], telah menceritakan kepada kami [Hammad bin Zaid], dari [Yahya bin Sa'id] dari [Muhammad bin Yahya bin Habban] dari [Anas bin Malik], ia berkata; telah menceritakan kepadaku [Ummu Haram binti Milhan], saudara Ummu Sulaim bahwa Rasulullah shallallahu 'alaihi wasallam tidur siang di rumah mereka, kemudian beliau terbangun dan tertawa, Ummu Haram berkata; lalu aku katakan; wahai Rasulullah, apakah yang membuat engkau tertawa? Beliau berkata: "Aku melihat sebuah kaum yang mengarungi laut ini seperti para raja di atas dipan-dipan." Ia berkata; aku katakan; wahai Rasulullah, doakan kepada Allah agar menjadikanku bagian dari mereka! Beliau berkata: "Sesungguhnya engkau bagian dari mereka." Ummu Haram berkata; kemudian beliau tidur lalu terbangun dan tertawa. Ummu Haram berkata; lalu aku katakan; wahai Rasulullah, apakah yang membuat engkau tertawa? Kemudian beliau mengatakan seperti apa yang telah beliau katakan. Ia berkata; aku katakan; wahai Rasulullah, doakan kepada Allah agar menjadikanku bagian dari mereka! Beliau berkata: "Sesungguhnya engkau bagian dari orang-orang yang pertama." Anas berkata; kemudian 'Ubadah bin Ash Shamit menikahi Ummu Haram, lalu ia berperang di laut dan membawa Ummu Haram bersamanya. Kemudian tatkala kembali di dekatkan kepada Ummu Haram seekor bighal untuk ia naiki. Lalu bighal tersebut menjatuhkan Ummu Haram sehingga lehernya patah dan ia pun meninggal. Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik] dari [Ishaq bin Abdullah bin Abu Thalhah], dari [Anas bin Malik], bahwa ia mendengarnya berkata; Rasulullah shallallahu 'alaihi wasallam apabila pergi ke Quba' beliau menemui Ummu Haram binti Milhan, ia adalah isteri 'Ubadah bin Ash Shamit. Kemudian ia menemuinya pada suatu hari lalu ia memberi makan beliau dan duduk serta mencari kutu pada rambut kepala beliau, …… Al Qa'nabi menyebutkan hadits ini. Abu Daud berkata; dan Bintu Milhan meninggal di Qubrush. Telah menceritakan kepada kami [Yahya bin Ma'in], telah menceritakan kepada kami [Hisyam bin Yusuf], dari [Ma'mar] dari [Zaid bin Aslam], dari ['Atha' bin Yasar], dari [Saudari Ummu Sulaim Ar Rumaisha'], ia berkata; Nabi shallallahu 'alaihi wasallam tidur kemudian terbangun -dan Saudari Ummu Sulaim Ar Rumaisha'sedang mencuci kepalanya- kemudian beliau terbangun dan tertawa. Lalu ia berkata; wahai Rasulullah, apakah anda mentertawakan rambut kepalaku? Ia berkata; tidak….. dan Yahya menyebutkan hadits ini, dengan menambah dan mengurangi. Abu Daud berkata; Ar Rumaisha' adalah saudari Ummu Sulaim sepersusuan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes b. Mâlik (r.a.)’den; demiştir ki: Ümmü Süleym'ın kızkardeşi Ümmü Haram bint Milhan'(ın) bana anlattığına göre); Rasûlullah (s.a.v.) (Ümmü Haram'in da içlerinde bulunduğu) bir cemaatın yanında öğle uykusuna yatmış, biraz sonra gülerek uyanmış. (Ümmü Haram sözlerine devam ederek Enes b. Malik'e şunları) söylemiş; Ey Allah'ın Rasûlü, seni güldüren şey nedir? dedim. "Rüyamda (ümmetimden) bir cemaatı, tahtlar(ı) üzerinde (kurulu) padişahlar gibi şu denizin üstünde (yüzen gemilere) binerek (Allah yolunda savaşa çıkarken) gördüm" buyurdu. Ben: Ey Allah'ın Rasûlü! Beni de onlardan kılması için Allah'a dua et dedim. "Sen onlardansın!" buyurdu. Sonra yine öğle uykusuna yattı ve hemen arkasından gülerek uyandı. Ey Allah'ın Rasûlü! Seni güldüren şey nedir? dedim, (ilk) sözünün bir benzerini söyledi. (Ben de:) "Ey Allah'ın Rasûlü, beni de onlardan kılması için Allah'a dua et!" dedim. "Sen birincilerdensin" buyurdu. (Enes b. Malik) dedi ki: "Bir süre sonra Ubâde b. es-Sâmit bu kadınla evlenip deniz savaşına katıldı, onu da beraberinde götürdü. (Denizden çıkıp da karaya) dönünce binmesi için Ümmü Haram'a bir katır getirdi. (Katır üzerinden atıp) onu yere serdi. (Bu yüzden) kadının boynu kırıldı ve öldü
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس بن مالک رضی اللہ عنہ کہتے ہیں کہ ام سلیم رضی اللہ عنہا کی بہن ام حرام بنت ملحان رضی اللہ عنہا نے مجھ سے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے ان کے یہاں قیلولہ کیا، پھر بیدار ہوئے، آپ صلی اللہ علیہ وسلم ہنس رہے تھے، میں نے پوچھا: اللہ کے رسول! آپ کیوں ہنس رہے ہیں؟ فرمایا: میں نے اپنی امت میں سے چند لوگوں کو دیکھا جو اس سمندر کی پشت پر سوار ہیں جیسے بادشاہ تخت پر ، میں نے کہا: اللہ کے رسول! دعا کیجئے، اللہ مجھ کو ان لوگوں میں سے کر دے، فرمایا: تو انہیں میں سے ہے ۔ پھر آپ صلی اللہ علیہ وسلم سو گئے اور ہنستے ہوئے بیدار ہوئے، میں نے پوچھا: اللہ کے رسول! آپ کے ہنسنے کا سبب کیا ہے؟ آپ صلی اللہ علیہ وسلم نے وہی فرمایا جو پہلے فرمایا تھا، میں نے کہا: اللہ کے رسول! دعا کیجئے، اللہ مجھ کو ان لوگوں میں سے کر دے، آپ صلی اللہ علیہ وسلم نے فرمایا: تو پہلے لوگوں میں سے ہے ۔ انس رضی اللہ عنہ کہتے ہیں: تو ان سے عبادہ بن صامت رضی اللہ عنہ نے شادی کی، پھر انہوں نے سمندر میں جہاد کیا توا نہیں بھی اپنے ساتھ لے گئے، جب لوٹے تو ایک خچر ان کی سواری کے لیے ان کے قریب لایا گیا، تو اس نے انہیں گرا دیا جس سے ان کی گردن ٹوٹ گئی اور وہ انتقال کر گئیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2799، 2800) Sahih Muslim (1912)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2490</td></tr><tr><td>Arabic No</td><td>2490</td></tr><tr><td>Reference</td><td>Book 15 Hadith 14</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2799، 2800) Sahih Muslim (1912) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2490 |
+| Arabic No | 2490 |
+| Reference | Book 15 Hadith 14 |

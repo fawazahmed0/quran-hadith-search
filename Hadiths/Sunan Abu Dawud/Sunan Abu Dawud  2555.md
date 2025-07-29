@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا سُهَيْلُ بْنُ أَبِي صَالِحٍ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ تَصْحَبُ الْمَلاَئِكَةُ رُفْقَةً فِيهَا كَلْبٌ أَوْ جَرَسٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
+
 حدثنا احمد بن يونس، حدثنا زهير، حدثنا سهيل بن ابي صالح، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " لا تصحب الملايكة رفقة فيها كلب او جرس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ রহমতের ফিরিশতা তাদের সঙ্গী হয় না যাদের মধ্যে ঘণ্টা কিংবা কুকুর থাকে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Apostle of Allaah(ﷺ) as saying “The angels do not accompany the fellow travelers who have a dog or bell (with them).”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Les anges n’accompagnent pas les voyageurs qui ont un chien ou une clochette avec eux. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\], telah menceritakan kepada kami \[Zuhair\], telah menceritakan kepada kami \[Suhail bin Abu Shalih\], dari \[ayahnya\] dari \[Abu Hurairah\], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Malaikat tidak menyertai rombongan yang membawa anjing atau lonceng
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus], telah menceritakan kepada kami [Zuhair], telah menceritakan kepada kami [Suhail bin Abu Shalih], dari [ayahnya] dari [Abu Hurairah], ia berkata; Rasulullah shallallahu wa'alaihi wa sallam bersabda: "Malaikat tidak menyertai rombongan yang membawa anjing atau lonceng
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.)'den; demiştir ki: "Rasûlullah (s.a.v.) şöyle buyurdu": "Melekler, aralarında köpek ve çan sesi bulunan yoldaşlara arkadaş olmazlar.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ( رحمت کے فرشتے ) اس جماعت کے ساتھ نہیں رہتے ہیں جس کے ساتھ کتا یا گھنٹی ہو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2113)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2555</td></tr><tr><td>Arabic No</td><td>2555</td></tr><tr><td>Reference</td><td>Book 15 Hadith 79</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2113) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2555 |
+| Arabic No | 2555 |
+| Reference | Book 15 Hadith 79 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا مُعَاذُ بْنُ هِشَامٍ، قَالَ حَدَّثَنِي أَبِي، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ جَوْنِ بْنِ قَتَادَةَ، عَنْ سَلَمَةَ بْنِ الْمُحَبِّقِ، أَنَّ نَبِيَّ اللَّهِ صلى الله عليه وسلم فِي غَزْوَةِ تَبُوكَ دَعَا بِمَاءٍ مِنْ عِنْدِ امْرَأَةٍ قَالَتْ مَا عِنْدِي إِلاَّ فِي قِرْبَةٍ لِي مَيْتَةٍ ‏.‏ قَالَ ‏"‏ أَلَيْسَ قَدْ دَبَغْتِهَا ‏"‏ ‏.‏ قَالَتْ بَلَى ‏.‏ قَالَ ‏"‏ فَإِنَّ دِبَاغَهَا ذَكَاتُهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |
+
 اخبرنا عبيد الله بن سعيد، قال حدثنا معاذ بن هشام، قال حدثني ابي، عن قتادة، عن الحسن، عن جون بن قتادة، عن سلمة بن المحبق، ان نبي الله صلى الله عليه وسلم في غزوة تبوك دعا بماء من عند امراة قالت ما عندي الا في قربة لي ميتة . قال " اليس قد دبغتها " . قالت بلى . قال " فان دباغها ذكاتها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উবায়দুল্লাহ ইবন সাঈদ (রহঃ) ... সালামা ইবন মুহাব্বিক (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাবুক যুদ্ধে এক মহিলার নিকট পানি চেয়ে পাঠান। সেই মহিলা বলে পাঠালো যে, আমার নিকট পানি তো আছে, কিন্তু তা মৃত জন্তুর মশকে ভরা রয়েছে। তিনি জিজ্ঞাসা করলেন, তুমি কি তা দাবাগত করেছিলে? সেই মহিলা বললোঃ হ্যাঁ! তখন রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ দাবাগতকরণই তার পবিত্রকরণ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Salamah bin Al-Muhabbaq that:during the campaign of Tabuk, the Prophet of Allah called for water from a woman. She said: "I only have a waterskin of mine made from an (unslaughtered) dead animal." He said: "Didn't you tan it?" She said: "Of course." He said: "Then it's tanning is its slaughter". (Daif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |
+
+## French
+
+Rapporté par Salamah bin Al-Muhabbaq : Lors de la campagne de Tabuk, le Prophète d’Allah ﷺ demanda de l’eau à une femme. Elle dit : « Je n’ai qu’une outre faite d’une bête morte (non abattue). » Il demanda : « Ne l’as-tu pas tannée ? » Elle répondit : « Bien sûr. » Il dit : « Son tannage équivaut à son abattage. » (Faible)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4243</td></tr><tr><td>Arabic No</td><td>4243</td></tr><tr><td>Reference</td><td>Book 41 Hadith 22</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4243 |
+| Arabic No | 4243 |
+| Reference | Book 41 Hadith 22 |

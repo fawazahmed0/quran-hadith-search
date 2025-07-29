@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ سُمَىٍّ، مَوْلَى أَبِي بَكْرٍ عَنْ أَبِي صَالِحٍ السَّمَّانِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لَوْ يَعْلَمُ النَّاسُ مَا فِي النِّدَاءِ وَالصَّفِّ الأَوَّلِ ثُمَّ لَمْ يَجِدُوا إِلاَّ أَنْ يَسْتَهِمُوا عَلَيْهِ لاَسْتَهَمُوا وَلَوْ يَعْلَمُونَ مَا فِي التَّهْجِيرِ لاَسْتَبَقُوا إِلَيْهِ وَلَوْ يَعْلَمُونَ مَا فِي الْعَتَمَةِ وَالصُّبْحِ لأَتَوْهُمَا وَلَوْ حَبْوًا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن يحيى، قال قرات على مالك عن سمى، مولى ابي بكر عن ابي صالح السمان، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " لو يعلم الناس ما في النداء والصف الاول ثم لم يجدوا الا ان يستهموا عليه لاستهموا ولو يعلمون ما في التهجير لاستبقوا اليه ولو يعلمون ما في العتمة والصبح لاتوهما ولو حبوا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম বলেনঃ আযান দেয়া এবং প্রথম লাইনে দাঁড়ানোর মধ্যে যে কি মর্যাদা রয়েছে তা যদি মানুষ জানতে পারত, তবে তা পাবার জন্য তারা প্রয়োজনবোধে লটারী করত। দুপুরের সালাতের যে মর্যাদা রয়েছে তা যদি তারা জানতে পারত, তবে তারা এটা লাভ করার প্রতিযোগিতায় লেগে যেত। ইশা ও ফজরের সালাতের মধ্যে (তাদের জন্য) কি মর্যাদা রয়েছে তা যদি জানতে পারত তবে তারা হামাগুড়ি দিয়ে হলেও এসে সালাতে উপস্থিত হত। (ইসলামিক ফাউন্ডেশনঃ ৮৬৩, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported:The Messenger of Allah (ﷺ) said: If the people were to know what excellence is there in the Adhan and in the first row, and they could not (get these opportunities) except by drawing lots, they would have definitely done that. And if they were to know what excellence lies in joining the prayer in the first takbir (prayer), they would have vied with one another. And if they were to know what excellence lies in the night prayer and morning prayer, they would have definitely come even if crawling (on their knees)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si les gens connaissaient la valeur de l’appel à la prière et du premier rang, et qu’ils ne pouvaient y accéder qu’en tirant au sort, ils le feraient sûrement. Et s’ils connaissaient la valeur de rejoindre la prière dès le premier takbir, ils rivaliseraient entre eux. Et s’ils connaissaient la valeur de la prière de nuit et de la prière du matin, ils viendraient même en rampant. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Yahya\] dia berkata, saya membaca di hadapan \[Malik\] dari \[Sumai maula Abu Bakar\] dari \[Abu Shalih as-Samman\] dari \[Abu Hurairah ra\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Kalau manusia tahu pahala dalam adzan dan shaf pertama kemudian mereka tidak mendapatkan jalan keluar untuk mendapatkannya kecuali dengan cara mengundi, niscaya mereka akan mengadakan undian. Dan seandainya mereka mengetahui pahala bersegera ke masjid, niscaya mereka akan bersegera kepadanya. Dan kalau mereka mengetahui pahala shalat Isya' dan shubuh, niscaya mereka akan mendatangi keduanya walaupun dengan cara merangkak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata, saya membaca di hadapan [Malik] dari [Sumai maula Abu Bakar] dari [Abu Shalih as-Samman] dari [Abu Hurairah ra] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda, "Kalau manusia tahu pahala dalam adzan dan shaf pertama kemudian mereka tidak mendapatkan jalan keluar untuk mendapatkannya kecuali dengan cara mengundi, niscaya mereka akan mengadakan undian. Dan seandainya mereka mengetahui pahala bersegera ke masjid, niscaya mereka akan bersegera kepadanya. Dan kalau mereka mengetahui pahala shalat Isya' dan shubuh, niscaya mereka akan mendatangi keduanya walaupun dengan cara merangkak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Абу Хурайры, что Посланник Аллаха ﷺ сказал: «Если бы люди знали о (награде, уготованной тем, кто произносит слова) азана, и (тем, кто находится в) первом ряду (во время общей молитвы), и только с помощью жребия по стрелам могли (решить, кто станет возглашать азан, и кто займёт места в первом ряду), они обязательно прибегали бы к (жребию)! Если бы знали они о (награде, которая ждёт человека), являющегося на молитву заранее, то спешили бы на неё наперегонки! И если бы знали они о (награде, которая ждёт тех, кто принимает участие в общих) ночных и утренних молитвах, то обязательно являлись бы на (эти молитвы в мечеть), даже если бы им приходилось добираться (туда) ползком!»Глава: О воздаянии тех, кто становится в последних рядах
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya rivayet etti. Dediki: Malik'e, Ebu Bekir'in azatlısı Sümey'den dinlediğim, onun da Ebu Salih es-Semmân'dan, onun da Ebu Hureyre'den naklettiği şu hadîsi okudum: Resulullah (Sallallahu Aleyhi ve Sellem) : «İnsanlar ezan İle ilk safda neler olduğunu bilseler de bunlara nâîl olmak için kur'a çekmekten başka çare bulamasalar mutlaka kur'a çekerlerdi. Namaza erken gitmekte neler olduğunu bilseler, bu hususta mutlaka yârış ederler. Yatsı ile sabah namazlarında neler olduğunu bilseler onlara emekliyerek dahî olsa giderlerdi.» buyurmuşlardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت ہے کہ رسول اللہﷺ نے فرمایا : ’’ اگر لوگ جان لیں کہ اذان ( کہنے ) اور پہلی صف ( کا حصہ بننے ) میں کیا ( خیر وبرکت ) ہے ، پھر وہ اس کی خاطر قرعہ اندازی کرنے کے سوا کوئی چارہ نہ پائیں تو وہ اس کے لیے قرعہ اندازی ( بھی ) کریں اور اگر وہ جان لیں کہ ظہر ( کی نماز ) جلدی ادا کرنے میں کتنا اجر وثواب ملتا ہے تو اس کے لیے ایک دوسرے سے سبقت لے جانے کی کوشش کریں گے اور اگر انہیں معلوم ہو جائے کہ عشاء اور صبح کی نمازوں میں کتنا ثواب ہے تو ان دونوں نمازوں میں ( ہر صورت ) پہنچیں چاہے گھسٹ گھسٹ کر آنا پڑے ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>981</td></tr><tr><td>Arabic No</td><td>437</td></tr><tr><td>Reference</td><td>Book 4 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 981 |
+| Arabic No | 437 |
+| Reference | Book 4 Hadith 143 |

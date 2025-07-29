@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ أَبِي بَكْرِ بْنِ نَافِعٍ، عَنْ أَبِيهِ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ بِإِحْفَاءِ الشَّوَارِبِ وَإِعْفَاءِ اللِّحَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
+
 حدثنا عبد الله بن مسلمة القعنبي، عن مالك، عن ابي بكر بن نافع، عن ابيه، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم امر باحفاء الشوارب واعفاء اللحى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মোঁচ কাটতে এবং দাড়ি লম্বা করতে আদেশ দিয়েছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মোঁচ কাটতে এবং দাড়ি লম্বা করতে আদেশ দিয়েছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abd Allah b. 'Umar:The Messenger of Allah (ﷺ) commanded to clip the moustaches and grow the beard long
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
+
+## French
+
+Rapporté par Abd Allah ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a ordonné de tailler la moustache et de laisser pousser la barbe
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Maslamah Al Qa'nabi\] dari \[Malik\] dari \[Abu Bakr bin Nafi'\] dari \[Bapaknya\] dari \[Abdullah bin Umar\] berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan mencukur kumis dan membiarkan janggut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Abu Bakr bin Nafi'] dari [Bapaknya] dari [Abdullah bin Umar] berkata, "Rasulullah shallallahu 'alaihi wasallam memerintahkan mencukur kumis dan membiarkan janggut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ велел подстригать усы и отращивать бороду
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Ömer (r.a); şöyle demiştir: Rasûhıllah (s.a.v.) bıyıkları kazıyıp sakalları olduğu hâl üzere bırakmayı (uzatmayı) emretti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے مونچھوں کے خوب کترنے، اور داڑھیوں کے بڑھانے کا حکم دیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (5892، 5893) Sahih Muslim (259)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4199</td></tr><tr><td>Arabic No</td><td>4199</td></tr><tr><td>Reference</td><td>Book 35 Hadith 41</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (5892، 5893) Sahih Muslim (259) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4199 |
+| Arabic No | 4199 |
+| Reference | Book 35 Hadith 41 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
+حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّ عَلِيًّا الأَزْدِيَّ، أَخْبَرَهُ أَنَّ ابْنَ عُمَرَ عَلَّمَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا اسْتَوَى عَلَى بَعِيرِهِ خَارِجًا إِلَى سَفَرٍ كَبَّرَ ثَلاَثًا ثُمَّ قَالَ ‏"‏ ‏(‏ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ \* وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ ‏)‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا اللَّهُمَّ اطْوِ لَنَا الْبُعْدَ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الأَهْلِ وَالْمَالِ ‏"‏ ‏.‏ وَإِذَا رَجَعَ قَالَهُنَّ وَزَادَ فِيهِنَّ ‏"‏ آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ ‏"‏ ‏.‏ وَكَانَ النَّبِيُّ صلى الله عليه وسلم وَجُيُوشُهُ إِذَا عَلَوُا الثَّنَايَا كَبَّرُوا وَإِذَا هَبَطُوا سَبَّحُوا فَوُضِعَتِ الصَّلاَةُ عَلَى ذَلِكَ ‏.‏
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا ابْنُ جُرَيْجٍ، أَخْبَرَنِي أَبُو الزُّبَيْرِ، أَنَّ عَلِيًّا الأَزْدِيَّ، أَخْبَرَهُ أَنَّ ابْنَ عُمَرَ عَلَّمَهُ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا اسْتَوَى عَلَى بَعِيرِهِ خَارِجًا إِلَى سَفَرٍ كَبَّرَ ثَلاَثًا ثُمَّ قَالَ ‏"‏ ‏(‏ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ * وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ ‏)‏ اللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى وَمِنَ الْعَمَلِ مَا تَرْضَى اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا اللَّهُمَّ اطْوِ لَنَا الْبُعْدَ اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيفَةُ فِي الأَهْلِ وَالْمَالِ ‏"‏ ‏.‏ وَإِذَا رَجَعَ قَالَهُنَّ وَزَادَ فِيهِنَّ ‏"‏ آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ ‏"‏ ‏.‏ وَكَانَ النَّبِيُّ صلى الله عليه وسلم وَجُيُوشُهُ إِذَا عَلَوُا الثَّنَايَا كَبَّرُوا وَإِذَا هَبَطُوا سَبَّحُوا فَوُضِعَتِ الصَّلاَةُ عَلَى ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حدثنا الحسن بن علي، حدثنا عبد الرزاق، اخبرنا ابن جريج، اخبرني ابو الزبير، ان عليا الازدي، اخبره ان ابن عمر علمه ان رسول الله صلى الله عليه وسلم كان اذا استوى على بعيره خارجا الى سفر كبر ثلاثا ثم قال " ( سبحان الذي سخر لنا هذا وما كنا له مقرنين * وانا الى ربنا لمنقلبون ) اللهم اني اسالك في سفرنا هذا البر والتقوى ومن العمل ما ترضى اللهم هون علينا سفرنا هذا اللهم اطو لنا البعد اللهم انت الصاحب في السفر والخليفة في الاهل والمال " . واذا رجع قالهن وزاد فيهن " ايبون تايبون عابدون لربنا حامدون " . وكان النبي صلى الله عليه وسلم وجيوشه اذا علوا الثنايا كبروا واذا هبطوا سبحوا فوضعت الصلاة على ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+حدثنا الحسن بن علي، حدثنا عبد الرزاق، اخبرنا ابن جريج، اخبرني ابو الزبير، ان عليا الازدي، اخبره ان ابن عمر علمه ان رسول الله صلى الله عليه وسلم كان اذا استوى على بعيره خارجا الى سفر كبر ثلاثا ثم قال " ( سبحان الذي سخر لنا هذا وما كنا له مقرنين \* وانا الى ربنا لمنقلبون ) اللهم اني اسالك في سفرنا هذا البر والتقوى ومن العمل ما ترضى اللهم هون علينا سفرنا هذا اللهم اطو لنا البعد اللهم انت الصاحب في السفر والخليفة في الاهل والمال " . واذا رجع قالهن وزاد فيهن " ايبون تايبون عابدون لربنا حامدون " . وكان النبي صلى الله عليه وسلم وجيوشه اذا علوا الثنايا كبروا واذا هبطوا سبحوا فوضعت الصلاة على ذلك
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
 
 ## Bengali
 
+। আবুয যুবাইর (রাঃ) সূত্রে বর্ণিত। ‘আলী-আযদী (রাঃ) তাকে জানিয়েছেন, ইবনু ‘উমার তাকে শিক্ষা দিয়েছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে বের হওয়ার সময় উটের পিঠে সোজা হয়ে বসে তিনবার ‘আল্লাহু আকবার’ বলে এ আয়াত পড়তেনঃ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا، وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ ‘‘মহান পবিত্র তিনি, যিনি একে আমাদের অনুগত বানিয়েছেন, তা না হলে একে বশ করতে ‘আমরা সক্ষম ছিলাম না। নিশ্চয়ই আমাদেরকে আমাদের রবের নিকট ফিরে যেতে হবে।’’\[সূরা আয-যুখরুফঃ আয়াত ১৩-১৪\] অতঃপর এ দু‘আ পাঠ করতেনঃ اللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنِ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا، اللَّهُمَّ اطْوِ لَنَا الْبُعْدَ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ وَالْمَالِ তিনি যখন ফিরে আসতেন, এ দু‘আই পাঠ করতেন, শুধু এটুকু বাড়িয়ে বলতেনঃ آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর সেনাবাহিনী কোনো উঁচু স্থানে উঠার সময় ‘আল্লাহু আকবার’ বলতেন এবং নীচে নামার সময় সুবহানাল্লাহ বলতেন। অতঃপর এভাবেই (শুকরিয়া) সালাতে নির্ধারণ হয়।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবুয যুবাইর (রাঃ) সূত্রে বর্ণিত। ‘আলী-আযদী (রাঃ) তাকে জানিয়েছেন, ইবনু ‘উমার তাকে শিক্ষা দিয়েছেন যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সফরে বের হওয়ার সময় উটের পিঠে সোজা হয়ে বসে তিনবার ‘আল্লাহু আকবার’ বলে এ আয়াত পড়তেনঃ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا، وَمَا كُنَّا لَهُ مُقْرِنِينَ، وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ ‘‘মহান পবিত্র তিনি, যিনি একে আমাদের অনুগত বানিয়েছেন, তা না হলে একে বশ করতে ‘আমরা সক্ষম ছিলাম না। নিশ্চয়ই আমাদেরকে আমাদের রবের নিকট ফিরে যেতে হবে।’’[সূরা আয-যুখরুফঃ আয়াত ১৩-১৪] অতঃপর এ দু‘আ পাঠ করতেনঃ اللَّهُمَّ إِنِّي أَسْأَلُكَ فِي سَفَرِنَا هَذَا الْبِرَّ وَالتَّقْوَى، وَمِنِ الْعَمَلِ مَا تَرْضَى، اللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَذَا، اللَّهُمَّ اطْوِ لَنَا الْبُعْدَ، اللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ، وَالْخَلِيفَةُ فِي الْأَهْلِ وَالْمَالِ তিনি যখন ফিরে আসতেন, এ দু‘আই পাঠ করতেন, শুধু এটুকু বাড়িয়ে বলতেনঃ آيِبُونَ تَائِبُونَ عَابِدُونَ لِرَبِّنَا حَامِدُونَ নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ও তাঁর সেনাবাহিনী কোনো উঁচু স্থানে উঠার সময় ‘আল্লাহু আকবার’ বলতেন এবং নীচে নামার সময় সুবহানাল্লাহ বলতেন। অতঃপর এভাবেই (শুকরিয়া) সালাতে নির্ধারণ হয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Umar: When the Messenger of Allah (ﷺ) sat on his camel to go out on a journey, he said: "Allah is Most Great" three times. Then he said: "Glory be to Him Who has made subservient to us, for we had not the strength for it, and to our Lord do we return. O Allah, we ask Thee in this journey of ours, uprightness, piety and such deeds as are pleasing to Thee. O Allah, make easy for us this journey of ours and make its length short for us. O Allah, Thou art the Companion in the journey, and the One Who looks after the family and property in our absence." When he returned, he said these words adding: "Returning, repentant, serving and praising our Lord." The Prophet (ﷺ) and his armies said: "Allah is Most Great" when they went up to high ground; and when armies said: "Allah is most Great" when they went up to high ground; and when they descended, they said: "Glory be to Allah." So the prayer was patterned on that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
+
+## French
+
+Rapporté par Abdullah ibn Umar رضي الله عنه : Quand le Messager d’Allah ﷺ montait sur son chameau pour partir en voyage, il disait : « Allah est le plus Grand » trois fois. Puis il disait : « Gloire à Celui qui nous a soumis cela, alors que nous n’en étions pas capables, et c’est vers notre Seigneur que nous retournerons. Ô Allah, nous Te demandons dans ce voyage la droiture, la piété et des actes qui Te plaisent. Ô Allah, facilite-nous ce voyage et rends-le court pour nous. Ô Allah, Tu es le Compagnon pendant le voyage, et Celui qui veille sur la famille et les biens en notre absence. » À son retour, il disait ces paroles en ajoutant : « Nous revenons repentants, en servant et en louant notre Seigneur. » Le Prophète ﷺ et ses compagnons disaient : « Allah est le plus Grand » quand ils montaient sur une hauteur ; et quand ils descendaient, ils disaient : « Gloire à Allah. » Ainsi la prière a été organisée de cette façon
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali\], Telah menceritakan kepada kami \[Abdurrazzaq\], telah mengabarkan kepada kami \[Ibnu Juraij\], telah mengabarkan kepadaku \[Abu Az Zubair\], bahwa \[Ali Al Azdi\] telah mengabarkan kepadanya bahwa \[Ibnu Umar\] telah memberitahukan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam apabila telah berada di atas untanya keluar untuk melakukan safar, beliau bertakbir tiga kali, kemudian mengucapkan: SUBHAANALLADZII SAKHKHARA LANAA HAADZAA WA MAA KUNNAA LAHUU MUQRINIIN, WA INNAA ILAA RABBINAA LAMUNQALIBUUN. ALLAAHUMMA HAWWIN 'ALAINAA SAFARANAA HAADZAA, ALLAAHUMMATHWI LANAL BU'DA. ALLAAHUMMA ANTASH SHAAHIBU FIS SAFARI WAL KHALIIATU FIL AHLI WAL MAALI (Maha Suci Dzat yang telah menundukkan untuk kami hewan ini, dan tidaklah kami dapat memaksakannya, dan kepada Tuhan kami niscaya kami akan kembali. Ya Allah, permudahlah bagi kami perjananan ini, dan dekatkanlah jarak yang jauh. Ya Allah, Engkau adalah Teman diperjalanan dan pengganti berada diantara keluarga serta harta kami). Dan apabila kembali beliau mengucapkan hal tersebut ditambah: "AAYIBUUNA, TAAIBUUNA 'AABIDUUNA LIRABBINAA HAAMIDUUN" (Kami kembali, kami bertaubat, kami menyembah, dan kepada Tuhan kami, kami memuji). Dan Rasulullah shallallahu 'alaihi wasallam serta para pasukannya apabila menaiki tempat yang tinggi mereka bertakbir dan apabila turun mereka bertasbih, kemudian shalat ditetapkan seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali], Telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ibnu Juraij], telah mengabarkan kepadaku [Abu Az Zubair], bahwa [Ali Al Azdi] telah mengabarkan kepadanya bahwa [Ibnu Umar] telah memberitahukan kepadanya bahwa Rasulullah shallallahu 'alaihi wasallam apabila telah berada di atas untanya keluar untuk melakukan safar, beliau bertakbir tiga kali, kemudian mengucapkan: SUBHAANALLADZII SAKHKHARA LANAA HAADZAA WA MAA KUNNAA LAHUU MUQRINIIN, WA INNAA ILAA RABBINAA LAMUNQALIBUUN. ALLAAHUMMA HAWWIN 'ALAINAA SAFARANAA HAADZAA, ALLAAHUMMATHWI LANAL BU'DA. ALLAAHUMMA ANTASH SHAAHIBU FIS SAFARI WAL KHALIIATU FIL AHLI WAL MAALI (Maha Suci Dzat yang telah menundukkan untuk kami hewan ini, dan tidaklah kami dapat memaksakannya, dan kepada Tuhan kami niscaya kami akan kembali. Ya Allah, permudahlah bagi kami perjananan ini, dan dekatkanlah jarak yang jauh. Ya Allah, Engkau adalah Teman diperjalanan dan pengganti berada diantara keluarga serta harta kami). Dan apabila kembali beliau mengucapkan hal tersebut ditambah: "AAYIBUUNA, TAAIBUUNA 'AABIDUUNA LIRABBINAA HAAMIDUUN" (Kami kembali, kami bertaubat, kami menyembah, dan kepada Tuhan kami, kami memuji). Dan Rasulullah shallallahu 'alaihi wasallam serta para pasukannya apabila menaiki tempat yang tinggi mereka bertakbir dan apabila turun mereka bertasbih, kemudian shalat ditetapkan seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
 
 ## Turkish
 
+îbn Ömer'in Aliy el-Ezdi'ye anlattığına göre Rasûlullah (s.a.v.) yolculuğa çıkarken devesinin üzerine dimdik oturduğu vakit, üç (defa) tekbir getirir sonra, "Bunu bizim hizmetimize veren (Allah)ın şanı yücedir. Yoksa biz bunu (hizmetimize) yanaştıramazdık. Biz elbette Rabbimize döneceğiz"\[bk. Zuhrûf 13,14.\] "Ey Allahım! Senden bu yolculuğumuzda (bize) iyilik ve takva (üzere olan) amel(ler)den de senin razı olacaklarını (nasib etmeni) dilerim. Ey Allah'ım! Bize bu yolculuğumuzu kolaylaştır. Bizim için uzaklığı dür. Yolculukta arkadaş, ailede ve malda vekil sensin." derdi. (Yolculuktan) döndüğü vakit de aynı duayı okur ve bu duaya (şunu da) ilâve ederdi; "Biz dönenleriz, tevbe edenleriz, ibâdet edenleriz. Rabbimize hamdedicilerîz." Nebi (s.a.v.) ve askerleri (savaşa giderlerken) tepelere çıkınca; "Allahü ekber" (tepelerden) inince de; "sübhanallah" derlerdi. Namaz(daki tekbir ve tesbihler) buna göre konmuştur
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-îbn Ömer'in Aliy el-Ezdi'ye anlattığına göre Rasûlullah (s.a.v.) yolculuğa çıkarken devesinin üzerine dimdik oturduğu vakit, üç (defa) tekbir getirir sonra, "Bunu bizim hizmetimize veren (Allah)ın şanı yücedir. Yoksa biz bunu (hizmetimize) yanaştıramazdık. Biz elbette Rabbimize döneceğiz"[bk. Zuhrûf 13,14.] "Ey Allahım! Senden bu yolculuğumuzda (bize) iyilik ve takva (üzere olan) amel(ler)den de senin razı olacaklarını (nasib etmeni) dilerim. Ey Allah'ım! Bize bu yolculuğumuzu kolaylaştır. Bizim için uzaklığı dür. Yolculukta arkadaş, ailede ve malda vekil sensin." derdi. (Yolculuktan) döndüğü vakit de aynı duayı okur ve bu duaya (şunu da) ilâve ederdi; "Biz dönenleriz, tevbe edenleriz, ibâdet edenleriz. Rabbimize hamdedicilerîz." Nebi (s.a.v.) ve askerleri (savaşa giderlerken) tepelere çıkınca; "Allahü ekber" (tepelerden) inince de; "sübhanallah" derlerdi. Namaz(daki tekbir ve tesbihler) buna göre konmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |
 
 ## Urdu
 
+علی ازدی کہتے ہیں کہ ابن عمر رضی اللہ عنہما نے انہیں سکھایا کہ رسول اللہ صلی اللہ علیہ وسلم سفر میں جانے کے لیے جب اپنے اونٹ پر سیدھے بیٹھ جاتے تو تین بار اللہ اکبر فرماتے، پھر یہ دعا پڑھتے: «‏‏‏‏(‏ سبحان الذي سخر لنا هذا وما كنا له مقرنين \* وإنا إلى ربنا لمنقلبون ‏)‏ اللهم إني أسألك في سفرنا هذا البر والتقوى ومن العمل ما ترضى اللهم ہوں علينا سفرنا هذا اللهم اطو لنا البعد اللهم أنت الصاحب في السفر والخليفة في الأهل والمال» پاک ہے وہ اللہ جس نے اس ( سواری ) کو ہمارے تابع کر دیا جب کہ ہم اس کو قابو میں لانے والے نہیں تھے، اور ہمیں اپنے رب ہی کی طرف پلٹ کر جانا ہے، اے اللہ! میں اپنے اس سفر میں تجھ سے نیکی اور تقویٰ اور پسندیدہ اعمال کا سوال کرتا ہوں، اے اللہ! ہمارے اس سفر کو ہمارے لیے آسان فرما دے، اے اللہ! ہمارے لیے مسافت کو لپیٹ دے، اے اللہ! تو ہی رفیق سفر ہے، اور تو ہی اہل و عیال اور مال میں میرا قائم مقام ہے ، اور جب سفر سے واپس لوٹتے تو مذکورہ دعا پڑھتے اور اس میں اتنا اضافہ کرتے: «آيبون تائبون عابدون لربنا حامدون» ہم امن و سلامتی کے ساتھ سفر سے لوٹنے والے، اپنے رب سے توبہ کرنے والے، اس کی عبادت اور حمد و ثنا کرنے والے ہیں ، نبی اکرم صلی اللہ علیہ وسلم اور آپ کے لشکر کے لوگ جب چڑھائیوں پر چڑھتے تو اللہ اکبر کہتے، اور جب نیچے اترتے تو سبحان اللہ کہتے، پھر نماز بھی اسی قاعدہ پر رکھی گئی ۱؎۔
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-علی ازدی کہتے ہیں کہ ابن عمر رضی اللہ عنہما نے انہیں سکھایا کہ رسول اللہ صلی اللہ علیہ وسلم سفر میں جانے کے لیے جب اپنے اونٹ پر سیدھے بیٹھ جاتے تو تین بار اللہ اکبر فرماتے، پھر یہ دعا پڑھتے: «‏‏‏‏(‏ سبحان الذي سخر لنا هذا وما كنا له مقرنين * وإنا إلى ربنا لمنقلبون ‏)‏ اللهم إني أسألك في سفرنا هذا البر والتقوى ومن العمل ما ترضى اللهم ہوں علينا سفرنا هذا اللهم اطو لنا البعد اللهم أنت الصاحب في السفر والخليفة في الأهل والمال» پاک ہے وہ اللہ جس نے اس ( سواری ) کو ہمارے تابع کر دیا جب کہ ہم اس کو قابو میں لانے والے نہیں تھے، اور ہمیں اپنے رب ہی کی طرف پلٹ کر جانا ہے، اے اللہ! میں اپنے اس سفر میں تجھ سے نیکی اور تقویٰ اور پسندیدہ اعمال کا سوال کرتا ہوں، اے اللہ! ہمارے اس سفر کو ہمارے لیے آسان فرما دے، اے اللہ! ہمارے لیے مسافت کو لپیٹ دے، اے اللہ! تو ہی رفیق سفر ہے، اور تو ہی اہل و عیال اور مال میں میرا قائم مقام ہے ، اور جب سفر سے واپس لوٹتے تو مذکورہ دعا پڑھتے اور اس میں اتنا اضافہ کرتے: «آيبون تائبون عابدون لربنا حامدون» ہم امن و سلامتی کے ساتھ سفر سے لوٹنے والے، اپنے رب سے توبہ کرنے والے، اس کی عبادت اور حمد و ثنا کرنے والے ہیں ، نبی اکرم صلی اللہ علیہ وسلم اور آپ کے لشکر کے لوگ جب چڑھائیوں پر چڑھتے تو اللہ اکبر کہتے، اور جب نیچے اترتے تو سبحان اللہ کہتے، پھر نماز بھی اسی قاعدہ پر رکھی گئی ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1342)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2599</td></tr><tr><td>Arabic No</td><td>2599</td></tr><tr><td>Reference</td><td>Book 15 Hadith 123</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1342) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2599 |
+| Arabic No | 2599 |
+| Reference | Book 15 Hadith 123 |

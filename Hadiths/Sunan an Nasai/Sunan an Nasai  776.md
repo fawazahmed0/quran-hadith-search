@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، وَشُعَيْبُ بْنُ يُوسُفَ، عَنْ يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي مُحَمَّدُ بْنُ عَبَّادٍ، عَنْ عَبْدِ اللَّهِ بْنِ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ السَّائِبِ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم صَلَّى يَوْمَ الْفَتْحِ فَوَضَعَ نَعْلَيْهِ عَنْ يَسَارِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |
+
 اخبرنا عبيد الله بن سعيد، وشعيب بن يوسف، عن يحيى، عن ابن جريج، قال اخبرني محمد بن عباد، عن عبد الله بن سفيان، عن عبد الله بن السايب، ان رسول الله صلى الله عليه وسلم صلى يوم الفتح فوضع نعليه عن يساره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । উবায়দুল্লাহ ইবনু সাঈদ ও শুআয়ব ইবনু ইউসুফ (রহঃ) ... আব্দুল্লাহ ইবনু সায়িব (রাঃ) থেকে বর্ণিত। রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কা বিজয়ের দিন সালাত আদায় করলেনঃ তিনি তাঁর জুতা তাঁর বামদিকে রাখলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abdullah bin As Saib that the Messenger of Allah(ﷺ) prayed on the day of Conquest (of Makkah), and he put his sandals to his left
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |
+
+## French
+
+Rapporté par Abdullah bin As Saib : Le Messager d'Allah (ﷺ) a prié le jour de la conquête (de La Mecque), et il a posé ses sandales à sa gauche
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |
 
 ## Indonesian
 
+Telah mengkabarkan kepada kami \['Ubaidullah bin Sa'id\] dan \[Syu'aib bin Yusuf\] dari \[Yahya\] dari \[Ibnu Juraij\] dia berkata; telah mengkabarkan kepadaku \[Muhammad bin 'Abbad\] dari \[Abdullah bin Sufyan\] dari \[Abdullah bin As Saib\] bahwa Rasulullah Shallallahu'alaihi wasallam pernah shalat pada hari Fathu (Penaklukan) Makkah dengan meletakkan sandal di sebelah kirinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkabarkan kepada kami ['Ubaidullah bin Sa'id] dan [Syu'aib bin Yusuf] dari [Yahya] dari [Ibnu Juraij] dia berkata; telah mengkabarkan kepadaku [Muhammad bin 'Abbad] dari [Abdullah bin Sufyan] dari [Abdullah bin As Saib] bahwa Rasulullah Shallallahu'alaihi wasallam pernah shalat pada hari Fathu (Penaklukan) Makkah dengan meletakkan sandal di sebelah kirinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن سائب رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فتح ( مکہ ) کے دن نماز پڑھی، تو آپ نے اپنے جوتوں کو اپنے بائیں جانب رکھا ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>776</td></tr><tr><td>Arabic No</td><td>776</td></tr><tr><td>Reference</td><td>Book 9 Hadith 35</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 776 |
+| Arabic No | 776 |
+| Reference | Book 9 Hadith 35 |

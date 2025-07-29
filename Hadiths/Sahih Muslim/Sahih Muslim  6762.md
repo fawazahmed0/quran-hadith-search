@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي الدَّرَاوَرْدِيَّ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ كُلُّ إِنْسَانٍ تَلِدُهُ أُمُّهُ عَلَى الْفِطْرَةِ وَأَبَوَاهُ بَعْدُ يُهَوِّدَانِهِ وَيُنَصِّرَانِهِ وَيُمَجِّسَانِهِ فَإِنْ كَانَا مُسْلِمَيْنِ فَمُسْلِمٌ كُلُّ إِنْسَانٍ تَلِدُهُ أُمُّهُ يَلْكُزُهُ الشَّيْطَانُ فِي حِضْنَيْهِ إِلاَّ مَرْيَمَ وَابْنَهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا قتيبة بن سعيد، حدثنا عبد العزيز، - يعني الدراوردي - عن العلاء، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " كل انسان تلده امه على الفطرة وابواه بعد يهودانه وينصرانه ويمجسانه فان كانا مسلمين فمسلم كل انسان تلده امه يلكزه الشيطان في حضنيه الا مريم وابنها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতাইবাহ ইবনু সাঈদ (রহঃ) ..... আবু হুরাইরাহ (রাযিঃ) থেকে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেকটি মানুষের বাচ্চাকে তার মা ফিতরাতের উপর জন্ম দিয়েছেন। পরে তার পিতামাতাই তাকে ইয়াহুদী বানিয়ে দিয়েছে, খ্ৰীষ্টান বানিয়ে দিয়েছে এবং অগ্নিপূজারী বানিয়ে দিয়েছে। যদি তার পিতা-মাতা মুসলিম হয় তবে বাচ্চাটিও মুসলিম হবে। প্রত্যেক বাচ্চাকে মা জন্মদানের সময় শাইতান (শয়তান) তার দু’পাঁজরে খোঁচা দেয়। কেবলমাত্র মারইয়াম ও তার পুত্র ঈসা (আঃ) কে শাইতান (শয়তান) খোঁচা দিতে পারেনি। (ইসলামিক ফাউন্ডেশন ৬৫২০, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported Allah's Messenger (ﷺ) as saying:The mother of every person gives him birth according to his true nature. It is subsequently his parents who make him a Jew or a Christian or a Magian. Had his parents been Muslim he would have also remained a Muslim. Every person to whom his mother gives birth (has two aspects of his life) ; when his mother gives birth Satan strikes him but it was not the case with Mary and her son (Jesus Christ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La mère de chaque personne le met au monde selon sa nature d’origine. Ensuite, ce sont ses parents qui font de lui un Juif, un Chrétien ou un Mage. Si ses parents étaient musulmans, il serait aussi resté musulman. Chaque personne à qui sa mère donne naissance a deux aspects dans sa vie : quand sa mère l’accouche, Satan le touche, sauf Marie et son fils (Jésus). »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் இணைவைப்பாளர்களின் குழந்தைகள் சிறிய வயதிலேயே இறந்துவிட்டால், அவர்களின் நிலை என்ன என்பது பற்றிக் கேட்கப்பட்டது. அதற்கு அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "(உயிருடன் வாழ்ந்தால்) அவர்கள் எவ்வாறு செயல்பட்டிருப்பார்கள் என்பதை அல்லாஹ் நன்கறிவான்"என்று விடையளித்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Kuteybe b. Saîd rivayet etti. (Dediki): Bize Abdü'l-Aziz (yâni Ed-Derâverdî), Alâ'dan, o da babasından, o da Ebû Hureyre'den naklen rivayet etti ki: Resûlullah (Sallallahu Aleyhi ve Sellem) : «Her insanı annesi fıtrat üzere doğurur. Sonra annesi, babası onu yahudileştirir, hristiyanlaştırır ve mecûsîleştirir. Eğer annesi, babası müslüman İseler çocuk da müslüman olur. Annesinin doğurduğu her insanı şeytan iki yanından çarpar. Yalnız Meryem'le oğlu müstesna!» buyurmuşlar. İZAH 2662 DE EBU DAVUDDAKİ ŞU HADİS ÇOK ÖNEMLİ BURAYA TIKLAYIN
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن ابی ذئب اور یونس نے ابن شہاب سے روایت کی ، انہوں نے عطاء بن یزید سے اور انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم سے مشرکین کی اولاد کے بارے میں سوال کیا گیا تو آپ نے فرمایا : " اللہ ہی زیادہ جانتا ہے کہ ( بڑے ہو کر ) وہ کیا عمل کرنے والے تھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6762</td></tr><tr><td>Arabic No</td><td>2659.01</td></tr><tr><td>Reference</td><td>Book 46 Hadith 40</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6762 |
+| Arabic No | 2659.01 |
+| Reference | Book 46 Hadith 40 |

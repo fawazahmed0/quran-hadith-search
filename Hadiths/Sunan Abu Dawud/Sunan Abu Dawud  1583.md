@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، حَدَّثَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، حَدَّثَنَا أَبِي، عَنِ ابْنِ إِسْحَاقَ، قَالَ حَدَّثَنِي عَبْدُ اللَّهِ بْنُ أَبِي بَكْرٍ، عَنْ يَحْيَى بْنِ عَبْدِ اللَّهِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ سَعْدِ بْنِ زُرَارَةَ، عَنْ عُمَارَةَ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ أُبَىِّ بْنِ كَعْبٍ، قَالَ بَعَثَنِي النَّبِيُّ صلى الله عليه وسلم مُصَدِّقًا فَمَرَرْتُ بِرَجُلٍ فَلَمَّا جَمَعَ لِي مَالَهُ لَمْ أَجِدْ عَلَيْهِ فِيهِ إِلاَّ ابْنَةَ مَخَاضٍ فَقُلْتُ لَهُ أَدِّ ابْنَةَ مَخَاضٍ فَإِنَّهَا صَدَقَتُكَ ‏.‏ فَقَالَ ذَاكَ مَا لاَ لَبَنَ فِيهِ وَلاَ ظَهْرَ وَلَكِنْ هَذِهِ نَاقَةٌ فَتِيَّةٌ عَظِيمَةٌ سَمِينَةٌ فَخُذْهَا ‏.‏ فَقُلْتُ لَهُ مَا أَنَا بِآخِذٍ مَا لَمْ أُومَرْ بِهِ وَهَذَا رَسُولُ اللَّهِ صلى الله عليه وسلم مِنْكَ قَرِيبٌ فَإِنْ أَحْبَبْتَ أَنْ تَأْتِيَهُ فَتَعْرِضَ عَلَيْهِ مَا عَرَضْتَ عَلَىَّ فَافْعَلْ فَإِنْ قَبِلَهُ مِنْكَ قَبِلْتُهُ وَإِنْ رَدَّهُ عَلَيْكَ رَدَدْتُهُ ‏.‏ قَالَ فَإِنِّي فَاعِلٌ فَخَرَجَ مَعِي وَخَرَجَ بِالنَّاقَةِ الَّتِي عَرَضَ عَلَىَّ حَتَّى قَدِمْنَا عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ لَهُ يَا نَبِيَّ اللَّهِ أَتَانِي رَسُولُكَ لِيَأْخُذَ مِنِّي صَدَقَةَ مَالِي وَايْمُ اللَّهِ مَا قَامَ فِي مَالِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَلاَ رَسُولُهُ قَطُّ قَبْلَهُ فَجَمَعْتُ لَهُ مَالِي فَزَعَمَ أَنَّ مَا عَلَىَّ فِيهِ ابْنَةُ مَخَاضٍ وَذَلِكَ مَا لاَ لَبَنَ فِيهِ وَلاَ ظَهْرَ وَقَدْ عَرَضْتُ عَلَيْهِ نَاقَةً فَتِيَّةً عَظِيمَةً لِيَأْخُذَهَا فَأَبَى عَلَىَّ وَهَا هِيَ ذِهِ قَدْ جِئْتُكَ بِهَا يَا رَسُولَ اللَّهِ ‏.‏ خُذْهَا فَقَالَ لَهُ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ ذَاكَ الَّذِي عَلَيْكَ فَإِنْ تَطَوَّعْتَ بِخَيْرٍ آجَرَكَ اللَّهُ فِيهِ وَقَبِلْنَاهُ مِنْكَ ‏"‏ ‏.‏ قَالَ فَهَا هِيَ ذِهِ يَا رَسُولَ اللَّهِ قَدْ جِئْتُكَ بِهَا فَخُذْهَا ‏.‏ قَالَ فَأَمَرَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِقَبْضِهَا وَدَعَا لَهُ فِي مَالِهِ بِالْبَرَكَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
+
 حدثنا محمد بن منصور، حدثنا يعقوب بن ابراهيم، حدثنا ابي، عن ابن اسحاق، قال حدثني عبد الله بن ابي بكر، عن يحيى بن عبد الله بن عبد الرحمن بن سعد بن زرارة، عن عمارة بن عمرو بن حزم، عن ابى بن كعب، قال بعثني النبي صلى الله عليه وسلم مصدقا فمررت برجل فلما جمع لي ماله لم اجد عليه فيه الا ابنة مخاض فقلت له اد ابنة مخاض فانها صدقتك . فقال ذاك ما لا لبن فيه ولا ظهر ولكن هذه ناقة فتية عظيمة سمينة فخذها . فقلت له ما انا باخذ ما لم اومر به وهذا رسول الله صلى الله عليه وسلم منك قريب فان احببت ان تاتيه فتعرض عليه ما عرضت على فافعل فان قبله منك قبلته وان رده عليك رددته . قال فاني فاعل فخرج معي وخرج بالناقة التي عرض على حتى قدمنا على رسول الله صلى الله عليه وسلم فقال له يا نبي الله اتاني رسولك لياخذ مني صدقة مالي وايم الله ما قام في مالي رسول الله صلى الله عليه وسلم ولا رسوله قط قبله فجمعت له مالي فزعم ان ما على فيه ابنة مخاض وذلك ما لا لبن فيه ولا ظهر وقد عرضت عليه ناقة فتية عظيمة لياخذها فابى على وها هي ذه قد جيتك بها يا رسول الله . خذها فقال له رسول الله صلى الله عليه وسلم " ذاك الذي عليك فان تطوعت بخير اجرك الله فيه وقبلناه منك " . قال فها هي ذه يا رسول الله قد جيتك بها فخذها . قال فامر رسول الله صلى الله عليه وسلم بقبضها ودعا له في ماله بالبركة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
 
 ## Bengali
 
+। উবাই ইবনু কা‘ব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে যাকাত আদায়কারী হিসেবে পাঠালেন। অতঃপর আমি এক ব্যক্তির নিকট উপস্থিত হলে সে তার মাল (উট) একত্র করলো। আমি দেখলাম যে, তার উপর একটি বিনতু মাখাদ ফারয হয়েছে। সুতরাং আমি তাকে বললাম, একটি বিনতু মাখাদ দিন। কেননা তোমার যাকাত সেটাই। সে বললো, এর এতে দুগ্ধও নেই এবং এটি বাহনের উপযোগীও নয়, বরং এর পরিবর্তে আমার এই বড় মোটাতাজা যুবতী উটনী নিন। আমি বললাম, আমি এটা নিতে পারবো না, এরূপ নিতে আমাকে আদেশ করা হয়নি। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তো তোমার নিকটেই আছেন। তুমি আমাকে যা বলেছো, তা ইচ্ছে হলে তাকে বলে দেখতে পারো। তিনি এটা গ্রহণ করলে আমি নিবো, আর প্রতাখ্যান করলে আমিও প্রত্যাখ্যান করবো। সে বললো, আমি তাই করবো। অতঃপর সে আমাকে নিয়ে উক্ত উষ্ট্রী সহ রওয়ানা হলো। অবশেষে আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সম্মুখে উপস্থিত হই। লোকটি বললো, হে আল্লাহর রসূল! আপনার প্রতিনিধি আমার কাছে আমার সম্পদের যাকাত নিতে এসেছে। আল্লাহর শপথ! এর পূর্বে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বয়ং কিংবা তাঁর প্রতিনিধি কখনো আমার সম্পদের যাকাত নিতে আসেননি। কাজেই আমি আমার সমস্ত মাল তাঁর সম্মুখে একত্র করেছি। কিন্তু তিনি বলেন, আমার মালের উপর নাকি একটি মাখাদ ফারয। অথচ তাতে দুগ্ধও নেই বা আরোহণেরও অনুপযোগী। তাই আমি একটি বড় ও মোটাতাজা যুবতী উষ্ট্রী পেশ করেছি। কিন্তু তিনি এটা গ্রহণ করতে অস্বীকৃতি জানান। আর সেটি এটাই, আমি আপনার কাছে নিয়ে এসেছি। হে আল্লাহর রসূল! এটা গ্রহণ করুন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, আদায়কারী যা বলেছে তাই তোমার উপর ফারয। তবে তুমি স্বেচ্ছায় অতিরিক্ত দিলে আল্লাহ তোমাকে এর প্রতিদান দিবেন এবং আমরাও সেটা তোমার থেকে গ্রহণ করলাম। সে বললো, এটাই সেই উষ্ট্রী, হে আল্লাহর রসূল! আমি আপনার নিকট নিয়ে এসেছি, গ্রহণ করুন। উবাই ইবনু কা‘ব (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা গ্রহণ করতে আদেশ দিলেন এবং তার ও তার সম্পদের বরকতের জন্য দু‘আ করলেন।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উবাই ইবনু কা‘ব (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে যাকাত আদায়কারী হিসেবে পাঠালেন। অতঃপর আমি এক ব্যক্তির নিকট উপস্থিত হলে সে তার মাল (উট) একত্র করলো। আমি দেখলাম যে, তার উপর একটি বিনতু মাখাদ ফারয হয়েছে। সুতরাং আমি তাকে বললাম, একটি বিনতু মাখাদ দিন। কেননা তোমার যাকাত সেটাই। সে বললো, এর এতে দুগ্ধও নেই এবং এটি বাহনের উপযোগীও নয়, বরং এর পরিবর্তে আমার এই বড় মোটাতাজা যুবতী উটনী নিন। আমি বললাম, আমি এটা নিতে পারবো না, এরূপ নিতে আমাকে আদেশ করা হয়নি। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তো তোমার নিকটেই আছেন। তুমি আমাকে যা বলেছো, তা ইচ্ছে হলে তাকে বলে দেখতে পারো। তিনি এটা গ্রহণ করলে আমি নিবো, আর প্রতাখ্যান করলে আমিও প্রত্যাখ্যান করবো। সে বললো, আমি তাই করবো। অতঃপর সে আমাকে নিয়ে উক্ত উষ্ট্রী সহ রওয়ানা হলো। অবশেষে আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সম্মুখে উপস্থিত হই। লোকটি বললো, হে আল্লাহর রসূল! আপনার প্রতিনিধি আমার কাছে আমার সম্পদের যাকাত নিতে এসেছে। আল্লাহর শপথ! এর পূর্বে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বয়ং কিংবা তাঁর প্রতিনিধি কখনো আমার সম্পদের যাকাত নিতে আসেননি। কাজেই আমি আমার সমস্ত মাল তাঁর সম্মুখে একত্র করেছি। কিন্তু তিনি বলেন, আমার মালের উপর নাকি একটি মাখাদ ফারয। অথচ তাতে দুগ্ধও নেই বা আরোহণেরও অনুপযোগী। তাই আমি একটি বড় ও মোটাতাজা যুবতী উষ্ট্রী পেশ করেছি। কিন্তু তিনি এটা গ্রহণ করতে অস্বীকৃতি জানান। আর সেটি এটাই, আমি আপনার কাছে নিয়ে এসেছি। হে আল্লাহর রসূল! এটা গ্রহণ করুন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে বললেন, আদায়কারী যা বলেছে তাই তোমার উপর ফারয। তবে তুমি স্বেচ্ছায় অতিরিক্ত দিলে আল্লাহ তোমাকে এর প্রতিদান দিবেন এবং আমরাও সেটা তোমার থেকে গ্রহণ করলাম। সে বললো, এটাই সেই উষ্ট্রী, হে আল্লাহর রসূল! আমি আপনার নিকট নিয়ে এসেছি, গ্রহণ করুন। উবাই ইবনু কা‘ব (রাঃ) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তা গ্রহণ করতে আদেশ দিলেন এবং তার ও তার সম্পদের বরকতের জন্য দু‘আ করলেন।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ubayy ibn Ka'b: The Messenger of Allah (ﷺ) commissioned me as a collector of zakat. I visited a man. When he had collected his property of camels, I found that a she-camel in her second year was due from him. I said to him: Pay a she-camel in her second year, for she is to be paid as sadaqah (zakat) by you. He said: That one is not worthy of milking and riding. Here is another she-camel which is young, grand and fat. So take it. I said to him: I shall not take an animal for which I have not been commanded. The Messenger of Allah (ﷺ) is here near to you. If you like, go to him, and present to him what you presented to me. Do that; if he accepts it from you, I shall accept it; if he rejects it, I shall reject it. He said: I shall do it. He accompanied me and took with him the she-camel which he had presented to me. We came to the Messenger of Allah (ﷺ). He said to him: Prophet of Allah, your messenger came to me to collect zakat on my property. By Allah, neither the Messenger of Allah nor his messenger has ever seen my property before. I gathered my property (camels), and he estimated that a she-camel in her second year would be payable by me. But that has neither milk nor is it worth riding. So I presented to him a grand young she-camel for acceptance as zakat. But he has refused to take her. Look, she is here; I have brought her to you, Messenger of Allah. Take her. The Messenger of Allah (ﷺ) said: That is what is due from you. If you give voluntarily a better (animal) Allah will give a reward to you for it. We accept her from you. She is here, Messenger of Allah; I have brought her to you. So take her. The Messenger of Allah (ﷺ) then ordered me to take possession of it, and he prayed for a blessing on his property
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
+
+## French
+
+Rapporté par Ubayy ibn Ka'b رضي الله عنه : Le Messager d’Allah ﷺ m’a chargé de collecter la zakat. J’ai rendu visite à un homme. Après avoir rassemblé ses chameaux, j’ai constaté qu’il devait donner une chamelle de deux ans. Je lui ai dit : « Donne une chamelle de deux ans, car c’est ce que tu dois verser comme zakat. » Il a répondu : « Celle-ci n’est ni bonne pour la traite ni pour la monte. Voici une autre chamelle, jeune, grande et grasse. Prends-la à la place. » J’ai dit : « Je ne peux pas prendre un animal pour lequel je n’ai pas reçu d’ordre. Le Messager d’Allah ﷺ est tout près d’ici. Si tu veux, va le voir et propose-lui ce que tu m’as proposé. S’il l’accepte, je l’accepterai aussi ; s’il la refuse, je la refuserai. » Il a dit : « Je vais le faire. » Il m’a accompagné avec la chamelle qu’il voulait donner. Nous sommes allés voir le Messager d’Allah ﷺ. Il lui a dit : « Prophète d’Allah, ton envoyé est venu collecter la zakat sur mes biens. Par Allah, ni le Messager d’Allah ni son envoyé n’avaient vu mes biens auparavant. J’ai rassemblé mes chameaux, et il a estimé que je devais donner une chamelle de deux ans. Mais elle n’a ni lait ni valeur pour la monte. J’ai donc proposé une grande chamelle jeune comme zakat, mais il a refusé. La voici, je l’ai amenée devant toi, Messager d’Allah. Prends-la. » Le Messager d’Allah ﷺ a dit : « C’est ce que tu dois. Si tu donnes volontairement un animal meilleur, Allah t’en récompensera. Nous l’acceptons de toi. » L’homme a répété : « La voici, Messager d’Allah, je l’ai amenée pour toi. Prends-la. » Le Messager d’Allah ﷺ m’a alors ordonné de la prendre, et il a invoqué la bénédiction sur ses biens
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Muhammad bin Manshur\], telah menceritakan kepada Kami \[Ya'qub bin Ibrahim\] Telah menceritakan kepada Kami \[ayahku\] dari \[Ibnu Ishaq\], ia berkata; telah menceritakan kepadaku \[Abdullah bin Abu Bakr\] dari \[Yahya bin Abdullah bin Abdurrahman bin Sa'd bin Zurarah\] dari \['Umarah bin 'Amr bin Hazm\] dari \[Ubai bin Ka'b\], ia berkata; Nabi shallallahu 'alaihi wasallam telah mengutusku sebagai petugas pengambil zakat, kemudian aku melewati seseorang, tatkala ia telah mengumpulkan hartanya maka aku tidak mendapatkan ia memiliki kewajiban padanya, kecuali satu ekor bintu makhadh (yang berumur satu tahun), kemudian aku katakan kepadanya; berikan bintu makhadh, sesungguhnya itulah zakatmu. Ia berkata; itu tidak memiliki susu, dan tidak dapat ditunggangi. Akan tetapi ini, ini adalah unta muda yang besar dan gemuk. Ambillah unta tersebut. Kemudian aku katakan kepadanya; aku tidak akan mengambilnya, selama aku tidak diperintahkan untuk mengambilnya. Ini, Rasulullah shallAllahu wa'alaihi wa sallam dekat, apabila engkau ingin datang kepada beliau dan menawarkan kepada beliau apa yang telah engkau tawarkan kepadaku maka lakukanlah. Apabila beliau menerimanya maka aku menerimanya dan apabila beliau menolaknya maka aku menolaknya. Ia berkata; aku akan lakukan. Kemudian ia keluar bersamaku, ia keluar dengan membawa unta yang telah ditawarkan kepadaku hingga Kami sampai kepada Rasulullah shallAllahu wa'alaihi wa sallam. Kemudian ia berkata; wahai Nabi Allah, utusanmu telah datang kepadaku untuk mengambil zakat harta dariku. Demi Allah, Rasulullah dan utusannya tidak mengambil hartaku sama sekali sebelumnya, kemudian saya kumpulkan hartaku untuknya, dan ia mengaku bahwa yang harus saya berikan adalah bintu makhadh, dan itu tidak memiliki susu dan tidak dapat dinaiki. Saya menawarkan kepadanya unta muda yang besar agar ia mengambilnya. Kemudian ia menolak. Dan inilah unta tersebut, saya telah membawanya kepada anda wahai Rasulullah, ambillah. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam berkata kepadanya: "Itu adalah yang menjadi kewajibanmu, kemudian apabila engkau merelakan untuk memberikan yang terbaik maka Allah akan memberimu pahala karenanya, dan Kami menerimanya darimu." Ia berkata; ini unta tersebut wahai Rasulullah, aku telah membawanya kepada anda, ambillah. Ubai berkata; kemudian Rasulullah shallAllahu wa'alaihi wa sallam memerintahkan untuk menerimanya dan mendoakan untuknya agar hartanya berkah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Muhammad bin Manshur], telah menceritakan kepada Kami [Ya'qub bin Ibrahim] Telah menceritakan kepada Kami [ayahku] dari [Ibnu Ishaq], ia berkata; telah menceritakan kepadaku [Abdullah bin Abu Bakr] dari [Yahya bin Abdullah bin Abdurrahman bin Sa'd bin Zurarah] dari ['Umarah bin 'Amr bin Hazm] dari [Ubai bin Ka'b], ia berkata; Nabi shallallahu 'alaihi wasallam telah mengutusku sebagai petugas pengambil zakat, kemudian aku melewati seseorang, tatkala ia telah mengumpulkan hartanya maka aku tidak mendapatkan ia memiliki kewajiban padanya, kecuali satu ekor bintu makhadh (yang berumur satu tahun), kemudian aku katakan kepadanya; berikan bintu makhadh, sesungguhnya itulah zakatmu. Ia berkata; itu tidak memiliki susu, dan tidak dapat ditunggangi. Akan tetapi ini, ini adalah unta muda yang besar dan gemuk. Ambillah unta tersebut. Kemudian aku katakan kepadanya; aku tidak akan mengambilnya, selama aku tidak diperintahkan untuk mengambilnya. Ini, Rasulullah shallAllahu wa'alaihi wa sallam dekat, apabila engkau ingin datang kepada beliau dan menawarkan kepada beliau apa yang telah engkau tawarkan kepadaku maka lakukanlah. Apabila beliau menerimanya maka aku menerimanya dan apabila beliau menolaknya maka aku menolaknya. Ia berkata; aku akan lakukan. Kemudian ia keluar bersamaku, ia keluar dengan membawa unta yang telah ditawarkan kepadaku hingga Kami sampai kepada Rasulullah shallAllahu wa'alaihi wa sallam. Kemudian ia berkata; wahai Nabi Allah, utusanmu telah datang kepadaku untuk mengambil zakat harta dariku. Demi Allah, Rasulullah dan utusannya tidak mengambil hartaku sama sekali sebelumnya, kemudian saya kumpulkan hartaku untuknya, dan ia mengaku bahwa yang harus saya berikan adalah bintu makhadh, dan itu tidak memiliki susu dan tidak dapat dinaiki. Saya menawarkan kepadanya unta muda yang besar agar ia mengambilnya. Kemudian ia menolak. Dan inilah unta tersebut, saya telah membawanya kepada anda wahai Rasulullah, ambillah. Kemudian Rasulullah shallAllahu wa'alaihi wa sallam berkata kepadanya: "Itu adalah yang menjadi kewajibanmu, kemudian apabila engkau merelakan untuk memberikan yang terbaik maka Allah akan memberimu pahala karenanya, dan Kami menerimanya darimu." Ia berkata; ini unta tersebut wahai Rasulullah, aku telah membawanya kepada anda, ambillah. Ubai berkata; kemudian Rasulullah shallAllahu wa'alaihi wa sallam memerintahkan untuk menerimanya dan mendoakan untuknya agar hartanya berkah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
 
 ## Russian
 
+‘Абдуллах ибн Му‘авия аль-Гадыри из Гадырат Кайс передаёт, что Пророк ﷺ сказал: «Тот, кто совершает три действия, познал истинный вкус веры. Это тот, кто поклоняется одному лишь Аллаху, верит, что нет бога \[заслуживающего поклонение\], кроме Аллаха, и каждый год выплачивает закят со своего имущества по доброй воле, так что душа его побуждает его к этому, и не отдаёт при этом ни старых, ни паршивых, ни больных, ни самых плохих животных, но отдаёт среднее из того, чем владеет, ибо, поистине, Аллах не просит у вас лучшее из вашего имущества, но и не велит вам отдавать худшее»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-‘Абдуллах ибн Му‘авия аль-Гадыри из Гадырат Кайс передаёт, что Пророк ﷺ сказал: «Тот, кто совершает три действия, познал истинный вкус веры. Это тот, кто поклоняется одному лишь Аллаху, верит, что нет бога [заслуживающего поклонение], кроме Аллаха, и каждый год выплачивает закят со своего имущества по доброй воле, так что душа его побуждает его к этому, и не отдаёт при этом ни старых, ни паршивых, ни больных, ни самых плохих животных, но отдаёт среднее из того, чем владеет, ибо, поистине, Аллах не просит у вас лучшее из вашего имущества, но и не велит вам отдавать худшее»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ubey b. Ka'b (r.a.)dan; demiştir ki: Resûlullah (s.a.v.) beni zekât memuru olarak gönderdi de (develeri olan) bir adama uğradım. Malını benim için biraraya toplayınca o malda ona ancak bir yaşını bitirip iki yaşına basmış bir dişi deve (zekât vâcib) olduğu kanaatine vardım. Bunun üzerine ona: (Zekât olarak) bir yaşını bitirip iki yaşına basmış bir dişi deve ver, dedim. Onun ne sütü var ne de (taşımaya elverişli olan bir) sırtı. Ama bu genç biri ve semiz bir dişi devedir. Binaenaleyh bunu al, dedi. Ona: Emr olunmadığım şeyi almam. İşte Resûlullah (s.a.v.) yakınında. Ona gidip bana takdim ettiğini O'na takdim etmeyi arzu edersen bunu yap! Eğer O, senden bunu kabul ederse, ben de ederim. Şayet kabul etmezse, ben de kabul etmem, dedim. Tamam, yaparım dedi. Hemen bana takdim ettiği deveyi getirdi ve benimle beraber çıkıp Resûlullah (s.a.v.)'a geldik. O'na: Ey Allah'ın Peygamberi Malımın zekâtını benden almak için bana (şu) elçin geldi. -Allah'a yemin ederim ki, daha önce ne Resûlullah (s.a.v.) ne de onun elçisi benim malımın arasında bulunmadı (malımı görmedi)- Malımı onun için bir araya topladım da onda benim üzerime (vâcib) olan şeyin, bir yaşını bitirip iki yaşına basmış bir dişi deve olduğunu söyledi. Halbuki onun ne sütü var ne de (taşımaya elverişli olan bir) sırtı. Alması için ona iri ve genç bir dişi deveyi takdim ettim de bende.n almadı. İşte o (takdim ettiğim deve) budur. O'nu sana getirdim ya Resûlullah (buyurun) al, dedi. Resûlullah (s.a.v.) O'na: "Sana (vâcib) olan odur. Ama (ondan daha) iyisini tatavvu olarak verirsen, Allah sana onun sevabını verir. Biz de onu senden kabul ederiz," buyurdu. O'da: İşte o, budur ya Resûlullah! Onu sana getirdim (buyrun) al, dedi. Bunun üzerine Resûlullah (s.a.v.) de onun teslim alınmasını emretti ve o adama malının bereketi (çoğalması) için duâ etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابی بن کعب رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے مجھے صدقہ وصول کرنے کے لیے بھیجا، میں ایک شخص کے پاس سے گزرا، جب اس نے اپنا مال اکٹھا کیا تو میں نے اس پر صرف ایک بنت مخاض کی زکاۃ واجب پائی، میں نے اس سے کہا: ایک بنت مخاض دو، یہی تمہاری زکاۃ ہے، وہ بولا: بنت مخاض میں نہ تو دودھ ہے اور نہ وہ اس قابل ہے کہ ( اس پر ) سواری کی جا سکے، یہ لو ایک اونٹنی جوان، بڑی اور موٹی، میں نے اس سے کہا: میں ایسی چیز کبھی نہیں لے سکتا جس کے لینے کا مجھے حکم نہیں، البتہ رسول اللہ صلی اللہ علیہ وسلم تو تم سے قریب ہیں اگر تم چاہو تو ان کے پاس جا کر وہی بات پیش کرو جو تم نے مجھ سے کہی ہے، اب اگر آپ صلی اللہ علیہ وسلم قبول فرما لیتے ہیں تو میں بھی اسے لے لوں گا اور اگر آپ واپس کر دیتے ہیں تو میں بھی واپس کر دوں گا، اس نے کہا: ٹھیک ہے میں چلتا ہوں اور وہ اس اونٹنی کو جو اس نے میرے سامنے پیش کی تھی، لے کر میرے ساتھ چلا، جب ہم رسول اللہ صلی اللہ علیہ وسلم کے پاس پہنچے تو اس نے آپ صلی اللہ علیہ وسلم سے کہا: اللہ کے نبی! آپ کا قاصد میرے پاس مال کی زکاۃ لینے آیا، قسم اللہ کی! اس سے پہلے کبھی نہ رسول اللہ صلی اللہ علیہ وسلم نے میرے مال کو دیکھا اور نہ آپ کے قاصد نے، میں نے اپنا مال اکٹھا کیا تو اس نے کہا: تجھ پر ایک بنت مخاض لازم ہے اور بنت مخاض نہ دودھ دیتی ہے اور نہ ہی وہ سواری کے لائق ہوتی ہے، لہٰذا میں نے اسے ایک بڑی موٹی اور جوان اونٹنی پیش کی، لیکن اسے لینے سے اس نے انکار کر دیا اور وہ اونٹنی یہ ہے جسے لے کر میں آپ کی خدمت میں آیا ہوں، اللہ کے رسول! اسے لے لیجئے، رسول اللہ صلی اللہ علیہ وسلم نے اس سے فرمایا: تم پر واجب تو بنت مخاض ہی ہے، لیکن اگر تم خوشی سے اسے دے رہے ہو تو اللہ تمہیں اس کا اجر عطا کرے گا اور ہم اسے قبول کر لیں گے ، وہ شخص بولا: اے اللہ کے رسول! اسے لے لیجئے، یہ وہی اونٹنی ہے پھر رسول اللہ صلی اللہ علیہ وسلم نے اسے لے لینے کا حکم دیا اور اس کے لیے اس کے مال میں برکت کی دعا کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1583</td></tr><tr><td>Arabic No</td><td>1583</td></tr><tr><td>Reference</td><td>Book 9 Hadith 28</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1583 |
+| Arabic No | 1583 |
+| Reference | Book 9 Hadith 28 |

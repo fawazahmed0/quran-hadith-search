@@ -12,54 +12,95 @@
 
 ## Arabic
 
+| Grade |  |
+| --- | --- |
+| Daif | Ahmad Muhammad Shakir |
+| Daif | Al-Albani |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3759 |
+| Arabic No | 3759 |
+| Reference | Book 49 Hadith 157 |
 
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 49 Hadith 157</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Ahmad Muhammad Shakir |
+| Daif | Al-Albani |
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 49 Hadith 157</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3759 |
+| Arabic No | 3759 |
+| Reference | Book 49 Hadith 157 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Daif | Ahmad Muhammad Shakir |
+| Daif | Al-Albani |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 49 Hadith 157</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3759 |
+| Arabic No | 3759 |
+| Reference | Book 49 Hadith 157 |
 
 ## English
 
+| Grade |  |
+| --- | --- |
+| Daif | Ahmad Muhammad Shakir |
+| Daif | Al-Albani |
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 49 Hadith 157</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3759 |
+| Arabic No | 3759 |
+| Reference | Book 49 Hadith 157 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qasim bin Dinar Al Kufi\] telah menceritakan kepada kami \['Ubaidullah\] dari \[Isra'il\] dari \[Abdul A'la\] dari \[Sa'id bin Jubair\] dari \[Ibnu Abbas\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Abbas adalah bagian dariku dan aku adalah bagian darinya." Abu Isa berkata; "Hadits ini adalah hadits shahih gharib, kami tidak mengetahuinya kecuali dari hadits Isra'il
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qasim bin Dinar Al Kufi] telah menceritakan kepada kami ['Ubaidullah] dari [Isra'il] dari [Abdul A'la] dari [Sa'id bin Jubair] dari [Ibnu Abbas] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Abbas adalah bagian dariku dan aku adalah bagian darinya." Abu Isa berkata; "Hadits ini adalah hadits shahih gharib, kami tidak mengetahuinya kecuali dari hadits Isra'il
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 49 Hadith 157</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Ahmad Muhammad Shakir |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3759 |
+| Arabic No | 3759 |
+| Reference | Book 49 Hadith 157 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs (r.a.)’den rivâyete göre, Rasûlullah (s.a.v.) şöyle buyurmuştur: “Abbâs benden ben Abbâs’tanım.” Diğer tahric: Müsned: 2598 Tirmizî: Bu hadis hasen sahih garibtir. Sadece İsrail’in rivâyeti olarak bilmekteyiz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 49 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Ahmad Muhammad Shakir |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3759 |
+| Arabic No | 3759 |
+| Reference | Book 49 Hadith 157 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”عباس مجھ سے ہیں اور میں ان سے ہوں“۔ امام ترمذی کہتے ہیں: یہ حدیث حسن صحیح غریب ہے، ہم اسے صرف اسرائیل کی روایت سے جانتے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Ahmad Muhammad Shakir</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3759</td></tr><tr><td>Arabic No</td><td>3759</td></tr><tr><td>Reference</td><td>Book 49 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Ahmad Muhammad Shakir |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3759 |
+| Arabic No | 3759 |
+| Reference | Book 49 Hadith 157 |

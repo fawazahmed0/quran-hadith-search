@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى، أَخْبَرَنَا عِيسَى، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ يَزِيدَ بْنِ جَابِرٍ، قَالَ حَدَّثَنِي عَطَاءٌ الْخُرَاسَانِيُّ، عَنْ مَوْلَى، امْرَأَتِهِ أُمِّ عُثْمَانَ قَالَ سَمِعْتُ عَلِيًّا، - رضى الله عنه - عَلَى مِنْبَرِ الْكُوفَةِ يَقُولُ ‏ "‏ إِذَا كَانَ يَوْمُ الْجُمُعَةِ غَدَتِ الشَّيَاطِينُ بِرَايَاتِهَا إِلَى الأَسْوَاقِ فَيَرْمُونَ النَّاسَ بِالتَّرَابِيثِ أَوِ الرَّبَائِثِ وَيُثَبِّطُونَهُمْ عَنِ الْجُمُعَةِ وَتَغْدُو الْمَلاَئِكَةُ فَيَجْلِسُونَ عَلَى أَبْوَابِ الْمَسْجِدِ فَيَكْتُبُونَ الرَّجُلَ مِنْ سَاعَةٍ وَالرَّجُلَ مِنْ سَاعَتَيْنِ حَتَّى يَخْرُجَ الإِمَامُ فَإِذَا جَلَسَ الرَّجُلُ مَجْلِسًا يَسْتَمْكِنُ فِيهِ مِنَ الاِسْتِمَاعِ وَالنَّظَرِ فَأَنْصَتَ وَلَمْ يَلْغُ كَانَ لَهُ كِفْلاَنِ مِنْ أَجْرٍ فَإِنْ نَأَى وَجَلَسَ حَيْثُ لاَ يَسْمَعُ فَأَنْصَتَ وَلَمْ يَلْغُ كَانَ لَهُ كِفْلٌ مِنْ أَجْرٍ وَإِنْ جَلَسَ مَجْلِسًا يَسْتَمْكِنُ فِيهِ مِنَ الاِسْتِمَاعِ وَالنَّظَرِ فَلَغَا وَلَمْ يُنْصِتْ كَانَ لَهُ كِفْلٌ مِنْ وِزْرٍ وَمَنْ قَالَ يَوْمَ الْجُمُعَةِ لِصَاحِبِهِ صَهْ ‏.‏ فَقَدْ لَغَا وَمَنْ لَغَا فَلَيْسَ لَهُ فِي جُمُعَتِهِ تِلْكَ شَىْءٌ ‏"‏ ‏.‏ ثُمَّ يَقُولُ فِي آخِرِ ذَلِكَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ذَلِكَ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَاهُ الْوَلِيدُ بْنُ مُسْلِمٍ عَنِ ابْنِ جَابِرٍ قَالَ بِالرَّبَائِثِ وَقَالَ مَوْلَى امْرَأَتِهِ أُمِّ عُثْمَانَ بْنِ عَطَاءٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
+
 حدثنا ابراهيم بن موسى، اخبرنا عيسى، حدثنا عبد الرحمن بن يزيد بن جابر، قال حدثني عطاء الخراساني، عن مولى، امراته ام عثمان قال سمعت عليا، - رضى الله عنه - على منبر الكوفة يقول " اذا كان يوم الجمعة غدت الشياطين براياتها الى الاسواق فيرمون الناس بالترابيث او الربايث ويثبطونهم عن الجمعة وتغدو الملايكة فيجلسون على ابواب المسجد فيكتبون الرجل من ساعة والرجل من ساعتين حتى يخرج الامام فاذا جلس الرجل مجلسا يستمكن فيه من الاستماع والنظر فانصت ولم يلغ كان له كفلان من اجر فان ناى وجلس حيث لا يسمع فانصت ولم يلغ كان له كفل من اجر وان جلس مجلسا يستمكن فيه من الاستماع والنظر فلغا ولم ينصت كان له كفل من وزر ومن قال يوم الجمعة لصاحبه صه . فقد لغا ومن لغا فليس له في جمعته تلك شىء " . ثم يقول في اخر ذلك سمعت رسول الله صلى الله عليه وسلم يقول ذلك . قال ابو داود رواه الوليد بن مسلم عن ابن جابر قال بالربايث وقال مولى امراته ام عثمان بن عطاء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
 
 ## Bengali
 
+। ‘আত্বা আল-খুরাসানী (রহঃ) সূত্রে বর্ণিত। তিনি তার স্ত্রী উম্মু ‘উসমানের মুক্তদাস হতে বর্ণনা করেন। তিনি বলেছেন, একদা আমি ‘আলী (রাঃ)-কে কুফার মসজিদের মিম্বারে দাঁড়িয়ে বলতে শুনেছি- জুমু‘আহর দিন এলে সকালবেলা শয়তানেরা তাদের ঢাল নিয়ে বাজারে ঘুরে বেড়ায় এবং মানুষকে অনর্থক কাজে আটকে রেখে জুমু‘আহয় যেতে বিলম্ব করায়। আর ফিরিশতারাও সকাল সকালবেলা মসজিদের দরজায় এসে বসে থাকেন এবং ইমামের খুত্ববাহ আরম্ভ না করা পর্যন্ত লিখতে থাকে। অমুক ব্যক্তি প্রথম ঘন্টায় এসেছে, অমুক ব্যক্তি দ্বিতীয় ঘন্টায় এসেছে। কেউ যদি এমন স্থানে বসে যেখান থেকে খুত্ববাহ শুনতে পায় এবং ইমামকেও দেখতে পায়, এমতাবস্থায় সে কোন অনর্থক কাজ না করে চুপ থেকে (খুত্ববাহ শুনলে) সে দ্বিগুণ সওয়াব পাবে। আর যদি সে যদি দুূরে অবস্থান করে এবং এমন জায়গায় বসে যেখান থেকে খুত্ববাহ শুনতে পায় না, কিন্তু নীরব থাকে ও অনর্থক কিছু না করে, তাহলে সে এক গুণ সওয়াব লাভ করবে। আর যদি সে এমন স্থানে বসে যেখান থেকে খুত্ববাহ শুনতে পায় এবং ইমামকেও দেখতে পায় কিন্তু সে চুপ না থাকে না এবং অনর্থক কাজ করে তাহলে তার গুনাহ হবে। আর যে ব্যক্তি জুমু‘আহর দিন তার সাথীকে বলে, চুপ করো, সেও অনর্থক কাজ করলো। যে ব্যক্তি অনর্থক কাজে লিপ্ত হয়, সে জুমু‘আহর কোন সওয়াব পায় না। অতঃপর সবশেষে ‘আলী (রাঃ) বলেন, একথাগুলো আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আত্বা আল-খুরাসানী (রহঃ) সূত্রে বর্ণিত। তিনি তার স্ত্রী উম্মু ‘উসমানের মুক্তদাস হতে বর্ণনা করেন। তিনি বলেছেন, একদা আমি ‘আলী (রাঃ)-কে কুফার মসজিদের মিম্বারে দাঁড়িয়ে বলতে শুনেছি- জুমু‘আহর দিন এলে সকালবেলা শয়তানেরা তাদের ঢাল নিয়ে বাজারে ঘুরে বেড়ায় এবং মানুষকে অনর্থক কাজে আটকে রেখে জুমু‘আহয় যেতে বিলম্ব করায়। আর ফিরিশতারাও সকাল সকালবেলা মসজিদের দরজায় এসে বসে থাকেন এবং ইমামের খুত্ববাহ আরম্ভ না করা পর্যন্ত লিখতে থাকে। অমুক ব্যক্তি প্রথম ঘন্টায় এসেছে, অমুক ব্যক্তি দ্বিতীয় ঘন্টায় এসেছে। কেউ যদি এমন স্থানে বসে যেখান থেকে খুত্ববাহ শুনতে পায় এবং ইমামকেও দেখতে পায়, এমতাবস্থায় সে কোন অনর্থক কাজ না করে চুপ থেকে (খুত্ববাহ শুনলে) সে দ্বিগুণ সওয়াব পাবে। আর যদি সে যদি দুূরে অবস্থান করে এবং এমন জায়গায় বসে যেখান থেকে খুত্ববাহ শুনতে পায় না, কিন্তু নীরব থাকে ও অনর্থক কিছু না করে, তাহলে সে এক গুণ সওয়াব লাভ করবে। আর যদি সে এমন স্থানে বসে যেখান থেকে খুত্ববাহ শুনতে পায় এবং ইমামকেও দেখতে পায় কিন্তু সে চুপ না থাকে না এবং অনর্থক কাজ করে তাহলে তার গুনাহ হবে। আর যে ব্যক্তি জুমু‘আহর দিন তার সাথীকে বলে, চুপ করো, সেও অনর্থক কাজ করলো। যে ব্যক্তি অনর্থক কাজে লিপ্ত হয়, সে জুমু‘আহর কোন সওয়াব পায় না। অতঃপর সবশেষে ‘আলী (রাঃ) বলেন, একথাগুলো আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কে বলতে শুনেছি।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ali ibn AbuTalib: Ali said on the pulpit in the mosque of Kufah: When Friday comes, the devils go to the markets with their flags, and involve people in their needs and prevent them from the Friday prayer. The angels come early in the morning, sit at the door of the mosque, and record that so-and-so came at the first hour, and so-and-so came at the second hour until the imam comes out (for preaching). When a man sits in a place where he can listen (to the sermon) and look (at the imam), where he remains silent and does not interrupt, he will receive a double reward. If he stays away, sits in a place where he cannot listen (to the sermon), silent, and does not interrupt, he will receive the reward only once. If he sits in a place where he can listen (to the sermon) and look (at the imam), and he does not remain silent, he will have the burden of it. If anyone says to his companion sitting besides him to be silent (while the imam is preaching), he is guilty of idle talk. Anyone who interrupts (during the sermon) will receive nothing (no reward) on that Friday. Then he (the narrator) says in the end of this tradition: I heard the Messenger of Allah (ﷺ) say so. Abu Dawud said: This tradition has been narrated by al-Walid b. Muslim from Ibn Jabir. This version adds: bi'l-raba'ith (instead of al-raba'ith, needs preventing the people from prayer). Further, this adds: Freed slave of his wife Umm 'Uthman b. 'Ata
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
+
+## French
+
+Rapporté par Ali رضي الله عنه alors qu'il était sur la chaire dans la mosquée de Koufa : Ali a dit : « Lorsque le vendredi arrive, les diables vont dans les marchés avec leurs drapeaux, ils occupent les gens avec leurs besoins et les détournent de la prière du vendredi. Les anges, eux, viennent tôt le matin, s’asseyent à la porte de la mosquée et notent : untel est arrivé à la première heure, untel à la deuxième heure, jusqu’à ce que l’imam sorte pour le prêche. Quand une personne s’assoit à un endroit où elle peut écouter le sermon et voir l’imam, qu’elle reste silencieuse et ne coupe pas la parole, elle aura une double récompense. Si elle s’assoit à un endroit où elle ne peut pas écouter le sermon, mais reste silencieuse et ne coupe pas la parole, elle n’aura la récompense qu’une seule fois. Si elle s’assoit à un endroit où elle peut écouter et voir, mais qu’elle ne reste pas silencieuse, elle portera la charge de son comportement. Si quelqu’un dit à son voisin de se taire pendant le sermon, il commet une parole inutile. Celui qui interrompt pendant le sermon n’aura aucune récompense ce vendredi-là. » Puis il (le rapporteur) ajoute à la fin de ce récit : « J’ai entendu le Messager d’Allah ﷺ dire cela. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ibrahim bin Musa\] telah mengabarkan kepada kami \[Isa\] telah menceritakan kepada kami \[Abdurrahman bin Yazid bin Jabir\] dia berkata; telah menceritakan kepadaku \['Atha' Al Khurasani\] dari \[bekas budak isterinya Ummu Ustman\] dia berkata; aku mendengar \[Ali radliallahu 'anhu\] berkata ketika di atas mimbar di Kufah: "Apabila datang hari jum'at, maka setan akan berpagi-pagi dengan membawa benderanya menuju pasar-pasar sambil menaburkan rintangan atau penghalang-penghalang sehingga mereka mengakhirkan shalat jum'at, sementara para Malaikat berpagi-pagi dan duduk di pintu-pintu masjid mencacat manusia berdasarkan tingkatan mereka yang lebih awal dan orang yang berikutnya sampai Imam keluar, maka apabila seseorang duduk diam untuk mendengar dan memperhatikan serta tidak lalai, maka baginya dua bagian pahala, dan barangsiapa yang menjauh (dari imam), tidak mendengar dan diam serta tidak lalai maka baginya satu bagian dari pahala, dan barangsiapa duduk mendekat (kepada imam) kemudian duduk untuk mendengarkan dan memperhatikan, namun dirinya lalai dan tidak biasa diam, maka baginya satu bagian dari dosa, dan barangsiapa berkata kepada temannya "diamlah" pada waktu (khutbah) jum'at, maka ia telah lalai (bebuat sia-sia), dan barangsiapa lalai, maka ia tidak mendapatkan bagian dari Jum'atnya." Di akhir dari hadits tersebut, Ali berkata; "saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda seperti itu." Abu Daud mengatakan; "di riwayatkan pula oleh \[Al Walid bin Muslim\] dari \[Ibnu Jabir\] dia berkata dengan redaksi lafadz "bir rabaa'is (rintangan)." Dan berkata pula bekas budak istrinya yaitu Ummu Utsman bin 'Atha' seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami [Isa] telah menceritakan kepada kami [Abdurrahman bin Yazid bin Jabir] dia berkata; telah menceritakan kepadaku ['Atha' Al Khurasani] dari [bekas budak isterinya Ummu Ustman] dia berkata; aku mendengar [Ali radliallahu 'anhu] berkata ketika di atas mimbar di Kufah: "Apabila datang hari jum'at, maka setan akan berpagi-pagi dengan membawa benderanya menuju pasar-pasar sambil menaburkan rintangan atau penghalang-penghalang sehingga mereka mengakhirkan shalat jum'at, sementara para Malaikat berpagi-pagi dan duduk di pintu-pintu masjid mencacat manusia berdasarkan tingkatan mereka yang lebih awal dan orang yang berikutnya sampai Imam keluar, maka apabila seseorang duduk diam untuk mendengar dan memperhatikan serta tidak lalai, maka baginya dua bagian pahala, dan barangsiapa yang menjauh (dari imam), tidak mendengar dan diam serta tidak lalai maka baginya satu bagian dari pahala, dan barangsiapa duduk mendekat (kepada imam) kemudian duduk untuk mendengarkan dan memperhatikan, namun dirinya lalai dan tidak biasa diam, maka baginya satu bagian dari dosa, dan barangsiapa berkata kepada temannya "diamlah" pada waktu (khutbah) jum'at, maka ia telah lalai (bebuat sia-sia), dan barangsiapa lalai, maka ia tidak mendapatkan bagian dari Jum'atnya." Di akhir dari hadits tersebut, Ali berkata; "saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda seperti itu." Abu Daud mengatakan; "di riwayatkan pula oleh [Al Walid bin Muslim] dari [Ibnu Jabir] dia berkata dengan redaksi lafadz "bir rabaa'is (rintangan)." Dan berkata pula bekas budak istrinya yaitu Ummu Utsman bin 'Atha' seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Ата аль-Хорасани передаёт со слов вольноотпущенника своей жены Умм ‘Усман: «Я слышал, как ‘Али, да будет доволен им Аллах, сказал на минбаре Куфы: “Когда наступает пятница, шайтаны отправляются со своими знамёнами на рынок и стараются задержать людей и помешать им пойти на пятничную молитву. А ангелы приходят и садятся у дверей мечети и записывают приходящих раньше и приходящих позже до тех пор, пока не появится имам, и, если человек сел так, чтобы ему было хорошо слышно и видно, молча слушал и не пустословил, ему запишется два кифля награды. Если он сел далеко, где ему плохо слышно, но прислушивался и не пустословил, ему записывается один кифль награды. Если человек сел так, чтобы ему было хорошо видно и слышно, но не слушал и пустословил, ему записывается один кифль греха. Кто во время пятничной молитвы скажет своему товарищу: “Тсс!” тот уже пустословит, а кто пустословил, тот не получит никакой пользы от этой пятничной молитвы”. И в конце он сказал: “Я слышал, как Посланник Аллаха ﷺ говорил это”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
 
 ## Turkish
 
+Ümmü Osman’ın azatlısından; demiştir ki: Ali (b. Ebi Talib)’i Kufe minberinde şöyle derken işittim. Cuma günü olduğu zaman şeytanlar sancakları ile sokaklara çıkıp insanlara (onları) başka işten alıkoyacak mühim işlerini hatırlatırlar ve cumaya gitmelerine mani olurlar.melekler de gidip mescidin kapısına otururlar ve imam (minbere) çıkıncaya kadar camiye gelenleri geliş sırasına göre yazarlar. Kişi (hutbeyi) işitebileceği ve (imamı) görebileceği bir yere oturup susar bir şey konuşmaz ve boş bir işle meşgul olmazsa, kendisine iki sevaptan iki nasip vardır. (Eğer uzak oturur ve hutbeyi duyamayacağı bir yerde ise, susar konuşmaz ve boş bir şeyle meşgul olmazsa, ona sevaptan bir nasip vardır. (Hutbeyi) işitebileceği ve (imamı) görebileceği bir yere oturur fakat konuşur ve susmazsa ona da günahtan bir nasip vardır.Her kim Cuma günü (yanındaki) arkadaşına “sus” derse, boş işle uğramış olur, kim de boş şeyle uğraşır ise, onun (kıldığı) bu cumasından hiçbir şey (sevab) yoktur. Daha sonra Ali (r.a.) "ben, bunları Resûlullah (s.a.v.)'dan duydum" dedi. Ahmed b. Hanbeİ, I, 93; Beyhakî, es-Siınenu'l-kübra, IH, 220. Ebû Dâvûd dedi ki: Bu hadisi Velid b. Müslim İbn Cabir'den (şeksiz) olarak (Rabais) diye ibaresini şeklinde rivayet etmiştir. Haber aslında Hz. Ali'nin bir hutbesidir. Ancak Hz.Ali hutbesinde söylediği şeylerin kendi kafasından çıkmadığını, aksine bunları Resûlullah'tan işittiğini ilâve etmiştir. Buna göre hadis merfu hükmündedir. Zaten bu tip şeylerin aklen bilinmesi mümkün değildir. Hz. Ali'nin haberinden anladığımıza göre cuma günü şeytanlar ellerin­de bayrakları, sancakları olduğu halde yahut da boyunları bukağılı olarak sokaklara çarşılara çıkıp müslümanlara bazı ihtiyaçlarım, mühim işlerini ha­tırlatırlar ve onların cumaya gitmelerini engellemeye çalışırlar. Melekler ise, camilerin kapısına oturup cumaya gelen müslümanları geliş sırasına göre kay­dederler. Bu iş cumhura göre, sabahtan itibaren; Mâlikîlere göre ise, zeval­den sonra başlar, önce gelenlerin sevabı sonra gelenlere nisbetle daha fazladır. Ebû Hureyre'den yapılan bir rivayete göre, namaza ilk gelenler bir deve, ondan sonrakiler sığır, daha sonrakiler de^bir koç kurban etmiş gibi sevab alırlar. Daha sonra gelenler de sırayla bir tavuk ve yumurta tasadduk etmiş gibidir­ler. Meleklerin bu yazma işleri hatib minbere çıkıncaya kadar devam efler. Hatib minbere çıkınca ise, defterleri kapatır, hutbeyi dinlemeye başlarlar.\[Ebû Dâvûd, Tahare\] Camiye gelip de hatibin sesini duyabileceği, kendisini görebileceği bir yere oturana ve hiç konuşmadan, fuzulî işlerle meşgul olmadan hutbeyi din­leyen kimseye iki ecir, hatibin sesini duyamayacak kadar uzak bîr yere otu­ran, fakat konuşmayana da bir ecir verilir. Hatibî görebileceği ve sesini duyabileceği bir yere oturduğu halde hutbeyi dinlemeyen, konuşan veya boş bir şeyle meşgul olan kimseye de bir günah vardır. Hatta bir kimsenin, ya­nında konuşmakta olan arkadaşına "sus" demesi bile, cumanın sevabım kay­betmeye kâfidir. Bu şekilde hareket eden kimseden cuma borcu sakıt olur, fakat cuma kılmanın sevabını alamaz. Hz. Ali'nin Resûlullah'a nisbet ettiği bu ifâdesinden, hutbe okunurken emir bi'1-ma'ruf ve nehiy ani’l-Mmünker yap­mak için bile konuşmanın caiz olmadığı anlaşılmaktadır
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ümmü Osman’ın azatlısından; demiştir ki: Ali (b. Ebi Talib)’i Kufe minberinde şöyle derken işittim. Cuma günü olduğu zaman şeytanlar sancakları ile sokaklara çıkıp insanlara (onları) başka işten alıkoyacak mühim işlerini hatırlatırlar ve cumaya gitmelerine mani olurlar.melekler de gidip mescidin kapısına otururlar ve imam (minbere) çıkıncaya kadar camiye gelenleri geliş sırasına göre yazarlar. Kişi (hutbeyi) işitebileceği ve (imamı) görebileceği bir yere oturup susar bir şey konuşmaz ve boş bir işle meşgul olmazsa, kendisine iki sevaptan iki nasip vardır. (Eğer uzak oturur ve hutbeyi duyamayacağı bir yerde ise, susar konuşmaz ve boş bir şeyle meşgul olmazsa, ona sevaptan bir nasip vardır. (Hutbeyi) işitebileceği ve (imamı) görebileceği bir yere oturur fakat konuşur ve susmazsa ona da günahtan bir nasip vardır.Her kim Cuma günü (yanındaki) arkadaşına “sus” derse, boş işle uğramış olur, kim de boş şeyle uğraşır ise, onun (kıldığı) bu cumasından hiçbir şey (sevab) yoktur. Daha sonra Ali (r.a.) "ben, bunları Resûlullah (s.a.v.)'dan duydum" dedi. Ahmed b. Hanbeİ, I, 93; Beyhakî, es-Siınenu'l-kübra, IH, 220. Ebû Dâvûd dedi ki: Bu hadisi Velid b. Müslim İbn Cabir'den (şeksiz) olarak (Rabais) diye ibaresini şeklinde rivayet etmiştir. Haber aslında Hz. Ali'nin bir hutbesidir. Ancak Hz.Ali hutbesinde söylediği şeylerin kendi kafasından çıkmadığını, aksine bunları Resûlullah'tan işittiğini ilâve etmiştir. Buna göre hadis merfu hükmündedir. Zaten bu tip şeylerin aklen bilinmesi mümkün değildir. Hz. Ali'nin haberinden anladığımıza göre cuma günü şeytanlar ellerin­de bayrakları, sancakları olduğu halde yahut da boyunları bukağılı olarak sokaklara çarşılara çıkıp müslümanlara bazı ihtiyaçlarım, mühim işlerini ha­tırlatırlar ve onların cumaya gitmelerini engellemeye çalışırlar. Melekler ise, camilerin kapısına oturup cumaya gelen müslümanları geliş sırasına göre kay­dederler. Bu iş cumhura göre, sabahtan itibaren; Mâlikîlere göre ise, zeval­den sonra başlar, önce gelenlerin sevabı sonra gelenlere nisbetle daha fazladır. Ebû Hureyre'den yapılan bir rivayete göre, namaza ilk gelenler bir deve, ondan sonrakiler sığır, daha sonrakiler de^bir koç kurban etmiş gibi sevab alırlar. Daha sonra gelenler de sırayla bir tavuk ve yumurta tasadduk etmiş gibidir­ler. Meleklerin bu yazma işleri hatib minbere çıkıncaya kadar devam efler. Hatib minbere çıkınca ise, defterleri kapatır, hutbeyi dinlemeye başlarlar.[Ebû Dâvûd, Tahare] Camiye gelip de hatibin sesini duyabileceği, kendisini görebileceği bir yere oturana ve hiç konuşmadan, fuzulî işlerle meşgul olmadan hutbeyi din­leyen kimseye iki ecir, hatibin sesini duyamayacak kadar uzak bîr yere otu­ran, fakat konuşmayana da bir ecir verilir. Hatibî görebileceği ve sesini duyabileceği bir yere oturduğu halde hutbeyi dinlemeyen, konuşan veya boş bir şeyle meşgul olan kimseye de bir günah vardır. Hatta bir kimsenin, ya­nında konuşmakta olan arkadaşına "sus" demesi bile, cumanın sevabım kay­betmeye kâfidir. Bu şekilde hareket eden kimseden cuma borcu sakıt olur, fakat cuma kılmanın sevabını alamaz. Hz. Ali'nin Resûlullah'a nisbet ettiği bu ifâdesinden, hutbe okunurken emir bi'1-ma'ruf ve nehiy ani’l-Mmünker yap­mak için bile konuşmanın caiz olmadığı anlaşılmaktadır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عطاء خراسانی اپنی بیوی ام عثمان کے غلام سے روایت کرتے ہیں کہ انہوں نے کہا: میں نے کوفہ کے منبر پر علی رضی اللہ عنہ کو کہتے ہوئے سنا کہ جب جمعہ کا دن آتا ہے تو شیطان اپنے جھنڈے لے کر بازاروں میں جاتے ہیں اور لوگوں کو ضرورتوں و حاجتوں کی یاد دلا کر ان کو جمعہ میں آنے سے روکتے ہیں اور فرشتے صبح سویرے مسجد کے دروازے پر آ کر بیٹھتے ہیں اور لکھتے ہیں کہ کون پہلی ساعت ( گھڑی ) میں آیا، اور کون دوسری ساعت ( گھڑی ) میں آیا، یہاں تک کہ امام ( خطبہ جمعہ کے لیے ) نکلتا ہے، پھر جب آدمی ایسی جگہ بیٹھتا ہے، جہاں سے وہ خطبہ سن سکتا ہے اور امام کو دیکھ سکتا ہے اور ( دوران خطبہ ) چپ رہتا ہے، کوئی لغو حرکت نہیں کرتا تو اس کو دوہرا ثواب ملتا ہے اور اگر کوئی شخص دور بیٹھتا ہے جہاں سے خطبہ سنائی نہیں دیتا، لیکن خاموش رہتا ہے اور کوئی بیہودہ بات نہیں کرتا تو ایسے شخص کو ثواب کا ایک حصہ ملتا ہے اور اگر کوئی ایسی جگہ بیٹھا، جہاں سے خطبہ سن سکتا ہے اور امام کو دیکھ سکتا ہے لیکن ( دوران خطبہ ) بیہودہ باتیں کرتا رہا اور خاموش نہ رہا تو اس پر گناہ کا ایک حصہ لاد دیا جاتا ہے اور جس شخص نے جمعہ کے دن اپنے ( بغل کے ) ساتھی سے کہا: چپ رہو، تو اس نے لغو حرکت کی اور جس شخص نے لغو حرکت کی تو اسے اس جمعہ کا ثواب کچھ نہ ملے گا، پھر وہ اس روایت کے اخیر میں کہتے ہیں: میں نے اسے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا۔ ابوداؤد کہتے ہیں: اسے ولید بن مسلم نے ابن جابر سے روایت کیا ہے۔ اس میں بغیر شک کے «ربائث» ہے، نیز اس میں «مولى امرأته أم عثمان بن عطاء» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1051</td></tr><tr><td>Arabic No</td><td>1051</td></tr><tr><td>Reference</td><td>Book 2 Hadith 662</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1051 |
+| Arabic No | 1051 |
+| Reference | Book 2 Hadith 662 |

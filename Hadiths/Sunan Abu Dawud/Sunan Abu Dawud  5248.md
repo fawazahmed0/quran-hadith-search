@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِسْحَاقُ بْنُ إِسْمَاعِيلَ، حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ عَجْلاَنَ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَا سَالَمْنَاهُنَّ مُنْذُ حَارَبْنَاهُنَّ وَمَنْ تَرَكَ شَيْئًا مِنْهُنَّ خِيفَةً فَلَيْسَ مِنَّا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
+
 حدثنا اسحاق بن اسماعيل، حدثنا سفيان، عن ابن عجلان، عن ابيه، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " ما سالمناهن منذ حاربناهن ومن ترك شييا منهن خيفة فليس منا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যেদিন থেকে সাপের সঙ্গে আমাদের যুদ্ধ শুরু হয়েছে, সেদিন থেকে ঐগুলোর সঙ্গে ‘আমরা শান্তিচুক্তি করিনি। অতএব যে ব্যক্তি ভয়ে সেগুলোকে (হত্যা না করে) ছেড়ে দিবে সে আমাদের অন্তর্ভুক্ত নয়।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যেদিন থেকে সাপের সঙ্গে আমাদের যুদ্ধ শুরু হয়েছে, সেদিন থেকে ঐগুলোর সঙ্গে ‘আমরা শান্তিচুক্তি করিনি। অতএব যে ব্যক্তি ভয়ে সেগুলোকে (হত্যা না করে) ছেড়ে দিবে সে আমাদের অন্তর্ভুক্ত নয়।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: We have not made peace with them since we fought with them, so he who leaves any of them alone through fear does not belong to us
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
+
+## French
+
+Rapporté par Abu Hurayrah رضي الله عنه : Le Prophète ﷺ a dit : « Nous n’avons pas fait la paix avec eux depuis que nous avons combattu contre eux, donc celui qui en laisse un par peur ne fait pas partie des nôtres. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ishaq bin Isma'il\] berkata, telah menceritakan kepada kami \[Sufyan\] dari \[Ibnu Ajlan\] dari \[Bapaknya\] dari \[Abu Hurairah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami tidak pernah berdamai dengan mereka (ular) semenjak kami memeranginya, barangsiapa meninggalkan sesuatu darinya karena takut dengannya, maka ia bukan dari golonganku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ishaq bin Isma'il] berkata, telah menceritakan kepada kami [Sufyan] dari [Ibnu Ajlan] dari [Bapaknya] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Kami tidak pernah berdamai dengan mereka (ular) semenjak kami memeranginya, barangsiapa meninggalkan sesuatu darinya karena takut dengannya, maka ia bukan dari golonganku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre r.a.'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "Biz kendileriyle savaştığımızdan bu yana yılanlarla hiç barış yapmadık, (Binaenaleyh intikam alacakları) korkusuyla onlardan birini (öldürmeyi) bırakan kimse benden değildir." İzah 5249 da
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب سے ہماری سانپوں سے لڑائی شروع ہوئی ہے ہم نے کبھی ان سے صلح نہیں کی ( سانپ ہمیشہ سے انسان کا دشمن رہا ہے، اس کا پالنا اور پوسنا کبھی درست نہیں ) جو شخص کسی بھی سانپ کو ڈر کر مارنے سے چھوڑ دے وہ ہم میں سے نہیں ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5248</td></tr><tr><td>Arabic No</td><td>5248</td></tr><tr><td>Reference</td><td>Book 43 Hadith 476</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5248 |
+| Arabic No | 5248 |
+| Reference | Book 43 Hadith 476 |

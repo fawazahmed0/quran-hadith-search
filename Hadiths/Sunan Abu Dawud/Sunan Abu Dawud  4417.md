@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عَوْفٍ الطَّائِيُّ، حَدَّثَنَا الرَّبِيعُ بْنُ رَوْحِ بْنِ خُلَيْدٍ، حَدَّثَنَا مُحَمَّدُ بْنُ خَالِدٍ، - يَعْنِي الْوَهْبِيَّ - حَدَّثَنَا الْفَضْلُ بْنُ دَلْهَمٍ، عَنِ الْحَسَنِ، عَنْ سَلَمَةَ بْنِ الْمُحَبَّقِ، عَنْ عُبَادَةَ بْنِ الصَّامِتِ، عَنِ النَّبِيِّ صلى الله عليه وسلم بِهَذَا الْحَدِيثِ فَقَالَ نَاسٌ لِسَعْدِ بْنِ عُبَادَةَ يَا أَبَا ثَابِتٍ قَدْ نَزَلَتِ الْحُدُودُ لَوْ أَنَّكَ وَجَدْتَ مَعَ امْرَأَتِكَ رَجُلاً كَيْفَ كُنْتَ صَانِعًا قَالَ كُنْتُ ضَارِبَهُمَا بِالسَّيْفِ حَتَّى يَسْكُتَا أَفَأَنَا أَذْهَبُ فَأَجْمَعُ أَرْبَعَةَ شُهَدَاءَ فَإِلَى ذَلِكَ قَدْ قَضَى الْحَاجَةَ ‏.‏ فَانْطَلَقُوا فَاجْتَمَعُوا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالُوا يَا رَسُولَ اللَّهِ أَلَمْ تَرَ إِلَى أَبِي ثَابِتٍ قَالَ كَذَا وَكَذَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ كَفَى بِالسَّيْفِ شَاهِدًا ‏"‏ ‏.‏ ثُمَّ قَالَ ‏"‏ لاَ لاَ أَخَافُ أَنْ يَتَتَايَعَ فِيهَا السَّكْرَانُ وَالْغَيْرَانُ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ رَوَى وَكِيعٌ أَوَّلَ هَذَا الْحَدِيثِ عَنِ الْفَضْلِ بْنِ دَلْهَمٍ عَنِ الْحَسَنِ عَنْ قَبِيصَةَ بْنِ حُرَيْثٍ عَنْ سَلَمَةَ بْنِ الْمُحَبَّقِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ وَإِنَّمَا هَذَا إِسْنَادُ حَدِيثِ ابْنِ الْمُحَبَّقِ أَنَّ رَجُلاً وَقَعَ عَلَى جَارِيَةِ امْرَأَتِهِ ‏.‏ قَالَ أَبُو دَاوُدَ الْفَضْلُ بْنُ دَلْهَمٍ لَيْسَ بِالْحَافِظِ كَانَ قَصَّابًا بِوَاسِطَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
+
 حدثنا محمد بن عوف الطايي، حدثنا الربيع بن روح بن خليد، حدثنا محمد بن خالد، - يعني الوهبي - حدثنا الفضل بن دلهم، عن الحسن، عن سلمة بن المحبق، عن عبادة بن الصامت، عن النبي صلى الله عليه وسلم بهذا الحديث فقال ناس لسعد بن عبادة يا ابا ثابت قد نزلت الحدود لو انك وجدت مع امراتك رجلا كيف كنت صانعا قال كنت ضاربهما بالسيف حتى يسكتا افانا اذهب فاجمع اربعة شهداء فالى ذلك قد قضى الحاجة . فانطلقوا فاجتمعوا عند رسول الله صلى الله عليه وسلم فقالوا يا رسول الله الم تر الى ابي ثابت قال كذا وكذا فقال رسول الله صلى الله عليه وسلم " كفى بالسيف شاهدا " . ثم قال " لا لا اخاف ان يتتايع فيها السكران والغيران " . قال ابو داود روى وكيع اول هذا الحديث عن الفضل بن دلهم عن الحسن عن قبيصة بن حريث عن سلمة بن المحبق عن النبي صلى الله عليه وسلم . وانما هذا اسناد حديث ابن المحبق ان رجلا وقع على جارية امراته . قال ابو داود الفضل بن دلهم ليس بالحافظ كان قصابا بواسط
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
 
 ## Bengali
 
+। উবাদাহ ইবনু সামিত (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে অনুরূপ হাদীস বর্ণিত। লোকজন সা‘দ ইবনু উবাদাহ (রাঃ)-কে বললো, হে সাবিতের পিতা! হাদ্দ সংক্রান্ত আয়াত নাযিল হয়েছে। অতএব আপনি যদি আপনার স্ত্রীর সঙ্গে কোনো পুরুষ লোককে দেখতে পান তাহলে আপনি কি করবেন? তিনি বলেন, আমি তরবারির আঘাতে উভয়কে নিস্তব্ধ করে দিতাম। আমি কি যাবো এবং চারজন সাক্ষী একত্র করবো, আর এ সুযোগে তারা তাদের অপকর্ম সেরে নিবে? অতএব তারা গিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট একত্র হয়ে বললো, হে আল্লাহর রাসূল! আপনি কি সাবিতের পিতাকে দেখেননি, তিনি এই এই কথা বলেছেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তরবারিই যথেষ্ট সাক্ষী। অতঃপর তিনি বলেন, না না, আমি আশঙ্কা করি যে, কোনো উন্মত্ত ও আত্মমর্যাদাবোধ সম্পন্ন লোকই এ পদ্ধতি অনুসরণ করতে পারে। আরেক বর্ণনায় রয়েছেঃ এক ব্যক্তি তার স্ত্রীর ক্রীতদাসীর সঙ্গে সংগমে লিপ্ত হয়।’ ইমাম আবূ দাঊদ (রহঃ) বলেন, আল-ফাদল ইবনু দালহাম হাদীসের হাফিয নন। তিনি ওয়াসিত অঞ্চলের কসাই ছিলেন।\[1\] দুর্বলঃ যঈফাহ হা/ ২৩৪১।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উবাদাহ ইবনু সামিত (রাঃ) থেকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সূত্রে অনুরূপ হাদীস বর্ণিত। লোকজন সা‘দ ইবনু উবাদাহ (রাঃ)-কে বললো, হে সাবিতের পিতা! হাদ্দ সংক্রান্ত আয়াত নাযিল হয়েছে। অতএব আপনি যদি আপনার স্ত্রীর সঙ্গে কোনো পুরুষ লোককে দেখতে পান তাহলে আপনি কি করবেন? তিনি বলেন, আমি তরবারির আঘাতে উভয়কে নিস্তব্ধ করে দিতাম। আমি কি যাবো এবং চারজন সাক্ষী একত্র করবো, আর এ সুযোগে তারা তাদের অপকর্ম সেরে নিবে? অতএব তারা গিয়ে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট একত্র হয়ে বললো, হে আল্লাহর রাসূল! আপনি কি সাবিতের পিতাকে দেখেননি, তিনি এই এই কথা বলেছেন। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ তরবারিই যথেষ্ট সাক্ষী। অতঃপর তিনি বলেন, না না, আমি আশঙ্কা করি যে, কোনো উন্মত্ত ও আত্মমর্যাদাবোধ সম্পন্ন লোকই এ পদ্ধতি অনুসরণ করতে পারে। আরেক বর্ণনায় রয়েছেঃ এক ব্যক্তি তার স্ত্রীর ক্রীতদাসীর সঙ্গে সংগমে লিপ্ত হয়।’ ইমাম আবূ দাঊদ (রহঃ) বলেন, আল-ফাদল ইবনু দালহাম হাদীসের হাফিয নন। তিনি ওয়াসিত অঞ্চলের কসাই ছিলেন।[1] দুর্বলঃ যঈফাহ হা/ ২৩৪১।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ubadah ibn as-Samit: The tradition mentioned above (No. 4401) has also been transmitted by Ubadah ibn as-Samit through a different chain of narrators. This version has: The people said to Sa'd ibn Ubadah: AbuThabit, the prescribed punishments have been revealed: if you find a man with your wife, what will you do? He said: I shall strike them with a sword so much that they become silent (i.e. die). Should I go and gather four witnesses? Until that (time) the need would be fulfilled. So they went away and gathered with the Messenger of Allah (ﷺ) and said: Messenger of Allah! did you not see AbuThabit. He said so-and-so. The Messenger of Allah (ﷺ) said: The sword is a sufficient witness. He then said: No, no, a furious and a jealous man may follow this course. Abu Dawud said: This tradition has been transmitted by Waki' from al-Fadl b. Dilham from al-Hasan, from Qabisah b. Huraith, from Salamah b. al-Muhabbaq, from the Prophet (ﷺ). And this is the chain of the tradition narrated by Ibn al-Muhabbaq to the effect that a man had sexual intercourse with a slave girl of his wife. Abu Dawud said: Al-Fadl b. Dilham was not the memoriser of traditions. He was a butcher in Wasit
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
+
+## French
+
+Rapporté par Ubadah ibn as-Samit رضي الله عنه : La tradition mentionnée ci-dessus (n° 4401) a aussi été transmise par Ubadah ibn as-Samit par une autre chaîne de rapporteurs. Cette version rapporte : Les gens dirent à Sa’d ibn Ubadah : AbuThabit, les peines prescrites ont été révélées : si tu trouves un homme avec ta femme, que feras-tu ? Il répondit : « Je les frapperai à l’épée jusqu’à ce qu’ils se taisent (c’est-à-dire meurent). Dois-je aller chercher quatre témoins ? Pendant ce temps, le besoin serait déjà satisfait. » Ils partirent alors voir le Messager d’Allah ﷺ et dirent : « Messager d’Allah ! As-tu entendu ce qu’a dit AbuThabit ? » Le Messager d’Allah ﷺ dit : « L’épée suffit comme témoin. » Puis il ajouta : « Non, non, un homme jaloux et furieux pourrait agir ainsi. » Abu Dawud a dit : Cette tradition a été transmise par Waki’ d’après al-Fadl b. Dilham d’après al-Hasan, d’après Qabisah b. Huraith, d’après Salamah b. al-Muhabbaq, du Prophète ﷺ. Et c’est la chaîne de la tradition rapportée par Ibn al-Muhabbaq à propos d’un homme ayant eu des rapports avec la servante de sa femme. Abu Dawud a dit : Al-Fadl b. Dilham n’était pas un mémorisateur de traditions. Il était boucher à Wasit
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Yahya\] dari \[Sa'id bin Abu Arubah\] dari \[Qatadah\] dari \[Al Hasan\] dari \[Haththan bin Abdullah Ar Raqqasyi\] dari \[Ubadah bin Ash Shamit\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ambillah dariku, abillah dariku. Allah telah menjadikan bagi wanita-wanita itu hukuman had. Janda dan duda yang berzina, hukumannya adalah dera seratus kali dan dirajam. Perawan dan perjaka yang berzina, maka hukumannya adalah dera seratus kali dan diasingkan selama satu tahun." Telah menceritakan kepada kami \[Wahb bin Baqiyyah\] dan \[Muhammad bin Ash Shabbah bin Sufyan\] keduanya berkata; telah menceritakan kepada kami \[Husyaim\] dari \[Manshur\] dari \[Al Hasan\] dengan sanad dan makna yang sama dengan hadits Yahya. Ia menyebutkan, "Dera seratus kali dan rajam." Telah menceritakan kepada kami \[Muhamad bin auf Ath Tha'i\] berkata, telah menceritakan kepada kami \[Ar rabi' bin rauh bin Khulaid\] berkata, telah menceritakan kepada kami \[Muhammad bin Khalid\] -maksudnya Muhammad bin Khalid Al Wahbi- berkata, telah menceritakan kepada kami \[Al Fadhl bin Dalham\] dari \[Al Hasan\] dari \[Salamah bin Al Muhabbaq\] dari \[Ubadah bin Ash Shamit\] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini; Orang-orang berkata kepada Sa'd bin Ubadah, "Wahai Abu Tsabit, hudud telah ditetapkan. Sekiranya engkau mendapati seorang laki-laki sedang bersama isterimu, maka apa yang engkau lakukan?" Sa'd menjawab, "Aku akan membunuh keduanya dengan pedang hingga mereka mati. Sebab tidak masuk akal jika aku pergi mencari empat orang saksi! Jika aku lakukan, tentu mereka telah selesai (melakukan zina)." Orang-orang itu lalu pergi dan berkumpul di sisi Rasulullah shallallahu 'alaihi wasallam, mereka bertanya, "Wahai Rasulullah, apa pendapatmu dengan jawaban Abu Tsabit, ia mengatakan begini dan begini?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Cukuplah pedang sebagai saksi." Kemudian beliau bersabda lagi: "Tidak, aku tidak kawatir orang yang lagi marah dan cemburu (suami) akan bertambah mewabah (semua suami yang cemburu main hakim hakim sendiri).", Abu Daud berkata; \[Waki'\] meriwayatkan permulaan hadits ini dari \[Al Fadhal bin Dahlam\] dari \[Al Hasan\] dari \[Qabishah bin Huraits\] dari \[Salamah bin Al Muhabbaq\] dari Nabi shallallahu 'alaihi wasallam, hanyasanya sanad ini (yang disebutkan oleh Waki') adalah sanad hadits Ibnu Al Muhabbaq (yaitu hadits;) "bahwasanya ada seorang laki-laki yang berbuat zina dengan seorang budak perempuan istrinya", Abu Daud berkata; "Al Fadhal bin Dalham bukan seorang yang hafidh (hafal ribuan hadits) namun dia hanya seorang tukang jagal di Washitha
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya] dari [Sa'id bin Abu Arubah] dari [Qatadah] dari [Al Hasan] dari [Haththan bin Abdullah Ar Raqqasyi] dari [Ubadah bin Ash Shamit] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ambillah dariku, abillah dariku. Allah telah menjadikan bagi wanita-wanita itu hukuman had. Janda dan duda yang berzina, hukumannya adalah dera seratus kali dan dirajam. Perawan dan perjaka yang berzina, maka hukumannya adalah dera seratus kali dan diasingkan selama satu tahun." Telah menceritakan kepada kami [Wahb bin Baqiyyah] dan [Muhammad bin Ash Shabbah bin Sufyan] keduanya berkata; telah menceritakan kepada kami [Husyaim] dari [Manshur] dari [Al Hasan] dengan sanad dan makna yang sama dengan hadits Yahya. Ia menyebutkan, "Dera seratus kali dan rajam." Telah menceritakan kepada kami [Muhamad bin auf Ath Tha'i] berkata, telah menceritakan kepada kami [Ar rabi' bin rauh bin Khulaid] berkata, telah menceritakan kepada kami [Muhammad bin Khalid] -maksudnya Muhammad bin Khalid Al Wahbi- berkata, telah menceritakan kepada kami [Al Fadhl bin Dalham] dari [Al Hasan] dari [Salamah bin Al Muhabbaq] dari [Ubadah bin Ash Shamit] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini; Orang-orang berkata kepada Sa'd bin Ubadah, "Wahai Abu Tsabit, hudud telah ditetapkan. Sekiranya engkau mendapati seorang laki-laki sedang bersama isterimu, maka apa yang engkau lakukan?" Sa'd menjawab, "Aku akan membunuh keduanya dengan pedang hingga mereka mati. Sebab tidak masuk akal jika aku pergi mencari empat orang saksi! Jika aku lakukan, tentu mereka telah selesai (melakukan zina)." Orang-orang itu lalu pergi dan berkumpul di sisi Rasulullah shallallahu 'alaihi wasallam, mereka bertanya, "Wahai Rasulullah, apa pendapatmu dengan jawaban Abu Tsabit, ia mengatakan begini dan begini?" Rasulullah shallallahu 'alaihi wasallam menjawab: "Cukuplah pedang sebagai saksi." Kemudian beliau bersabda lagi: "Tidak, aku tidak kawatir orang yang lagi marah dan cemburu (suami) akan bertambah mewabah (semua suami yang cemburu main hakim hakim sendiri).", Abu Daud berkata; [Waki'] meriwayatkan permulaan hadits ini dari [Al Fadhal bin Dahlam] dari [Al Hasan] dari [Qabishah bin Huraits] dari [Salamah bin Al Muhabbaq] dari Nabi shallallahu 'alaihi wasallam, hanyasanya sanad ini (yang disebutkan oleh Waki') adalah sanad hadits Ibnu Al Muhabbaq (yaitu hadits;) "bahwasanya ada seorang laki-laki yang berbuat zina dengan seorang budak perempuan istrinya", Abu Daud berkata; "Al Fadhal bin Dalham bukan seorang yang hafidh (hafal ribuan hadits) namun dia hanya seorang tukang jagal di Washitha
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Саляма ибн аль-Мухаббак передаёт от ‘Убады ибн ас-Самита от Пророка ﷺ этот хадис. Он сказал, что люди сказали Са‘ду ибн ‘Убаде: «О Абу Сабит! Было ниспослано предписание о наказаниях, установленных Шариатом… А как бы ты поступил, если бы застал со своей женой чужого мужчину?» Он ответил: «Я бы ударял их мечом, пока они не замолчали бы (навеки)! Неужели я ещё пойду искать четырёх свидетелей? За это время он уже удовлетворит свою похоть!» Потом все они собрались у Посланника Аллаха ﷺ и люди сказали: «О Посланник Аллаха! Знаешь, Абу Сабит сказал то-то и то-то!» Посланник Аллаха ﷺ сказал: «Достаточно меча в качестве свидетеля…» А потом он добавил: «Нет-нет (не убивайте мечом в таких случаях), я боюсь, что так начнут поступать гневливые и ревнивые люди»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Seleme b. el-Muhabbak'tan; Ubâde b. Sâmit (r.a.), Rasulullah sallallahu aleyhi ve sellem'den, bu hadisi rivayet etti. Bunun üzerine insanlar Sa'd b. Ubâde (r.a.)'a; "Ey Ebâ Sabit ! Şüphesiz hadler indi. Şayet sen, karınla birlikte bir adam bulsan ne yapardın?" dediler, Said (r.a.); "Onlar susuncaya (ölünceye) kadar, kılıçla vururdum. ( O durumda) gidip de dört tane şahit mi toplayayım?! O zamana kadar zaten iş biter" dedi. (Oradakiler) gidip, Rasulullah (s.a.v.)'in yanında toplandılar ve ; " Ya Rasulullah ! Ebû Sâbit'e baksana ! Şöyle şöyle dedi" dediler. Rasulullah (s.a.v.): "Şahit olarak kılınç yeter" buyurdu, sonradan da; "Hayır hayır ben o konuda kindarların ve kıskançların aceleyle kötülük yapmalarından korkarım" dedi. İbn Mâce, hudûd da tahric etti bunu. Ebû Davud der ki: Baş tarafını, Vekî, Fazl b. Delhem'den, O haseriden, Hasen, Kabisa b. Hureys'ten, O da Seleme b. Muhabbık vasıtasıyla Rasulullah (s.a.v.) den rivayet etmiştir. Bu, İbnul-Muhabhık' in isnadı (onda) "Bir adam, karısının cariyesi ile temasta bulundu" şeklindedir. Ebû Davud: "Fail b. Delhem "Hafız" değildir. Vâsıf da kasaptı" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبادہ بن صامت رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم سے یہی حدیث روایت کرتے ہیں اس میں ہے کہ کچھ لوگوں نے سعد بن عبادہ سے کہا: اے ابوثابت! حدود نازل ہو چکے ہیں اگر آپ اپنی بیوی کے ساتھ کسی مرد کو پائیں تو کیا کریں، انہوں نے کہا: ان دونوں کا کام تلوار سے تمام کر دوں گا، کیا میں چار گواہ جمع کرنے جاؤں گا تب تک تو وہ اپنا کام پورا کر چکے گا، چنانچہ وہ چلے اور رسول اللہ صلی اللہ علیہ وسلم کے پاس پہنچے اور ان لوگوں نے عرض کیا: اللہ کے رسول! کیا آپ نے ابوثابت کو نہیں سنا وہ ایسا ایسا کہہ رہے ہیں تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ازروئے گواہ تلوار ہی کافی ہے پھر آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں، نہیں، اسے قتل مت کرنا کیونکہ مجھے اندیشہ ہے کہ غصہ ور، اور غیرت مند پیچھے پڑ کر ( بغیر اس کی تحقیق کئے کہ اس سے زنا سرزد ہوا ہے یا نہیں محض گمان ہی پر ) اسے قتل نہ کر ڈالیں ۔ ابوداؤد کہتے ہیں: اس حدیث کا ابتدائی حصہ وکیع نے فضل بن دلہم سے، فضل نے حسن سے، حسن نے قبیصہ بن حریث سے، قبیصہ نے سلمہ بن محبق سے سلمہ نے نبی اکرم صلی اللہ علیہ وسلم سے مرفوعاً روایت کیا ہے، یہ سند جس کا ذکر وکیع نے کیا ہے ابن محبق والی روایت کی سند ہے جس میں ہے کہ ایک شخص نے اپنی بیوی کی لونڈی سے مجامعت کر لی۔ ابوداؤد کہتے ہیں: فضل بن دلہم حافظ حدیث نہیں تھے، وہ واسط میں ایک قصاب تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4417</td></tr><tr><td>Arabic No</td><td>4417</td></tr><tr><td>Reference</td><td>Book 40 Hadith 67</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4417 |
+| Arabic No | 4417 |
+| Reference | Book 40 Hadith 67 |

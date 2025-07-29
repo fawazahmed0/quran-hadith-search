@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، أَنَّ إِسْحَاقَ بْنَ مَنْصُورٍ، حَدَّثَهُمْ عَنْ حَمَّادِ بْنِ سَلَمَةَ، عَنْ رَجُلٍ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، - رضى الله عنها - عَنِ النَّبِيِّ صلى الله عليه وسلم نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
+
 حدثنا محمد بن العلاء، ان اسحاق بن منصور، حدثهم عن حماد بن سلمة، عن رجل، عن هشام بن عروة، عن ابيه، عن عايشة، - رضى الله عنها - عن النبي صلى الله عليه وسلم نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) হতে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This tradition has also been narrated on the authority of ‘A’ishah through a different chain
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
+
+## French
+
+Ce hadith a aussi été rapporté d’après ‘Aisha رضي الله عنها par une autre chaîne de transmission
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 От Хишама ибн ‘Урвы, передавшего от своего отца, передавшего со слов ‘Аиши, да будет доволен ею Аллах, передавшей от Пророка ﷺ передаётся хадис, похожий (на предыдущий)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Urve babası (Zübeyr) den rivayet ettiğine göre Aişe (r.anha) validemiz Resulullah (sallallahu aleyhi ve sellem) Efendimizden yukarıdaki (98 nolu) Hadisin benzerini nakletmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ام المؤمنین عائشہ رضی اللہ عنہا سے اسی طرح مرفوعاً مروی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>99</td></tr><tr><td>Arabic No</td><td>99</td></tr><tr><td>Reference</td><td>Book 1 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 99 |
+| Arabic No | 99 |
+| Reference | Book 1 Hadith 99 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ سَعِيدٍ أَبُو سَعِيدٍ الأَشَجُّ، قَالَ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ، قَالَ ضَحَّى رَسُولُ اللَّهِ صلى الله عليه وسلم بِكَبْشٍ أَقْرَنَ فَحِيلٍ يَمْشِي فِي سَوَادٍ وَيَأْكُلُ فِي سَوَادٍ وَيَنْظُرُ فِي سَوَادٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |
+
 اخبرنا عبد الله بن سعيد ابو سعيد الاشج، قال حدثنا حفص بن غياث، عن جعفر بن محمد، عن ابيه، عن ابي سعيد، قال ضحى رسول الله صلى الله عليه وسلم بكبش اقرن فحيل يمشي في سواد وياكل في سواد وينظر في سواد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদুল্লাহ ইবন সাঈদ আবু সাঈদ আশাজ্জ (রহঃ) ... আবু সাঈদ (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দুটি শিংওয়ালা হৃষ্টপুষ্ট দুম্বা কুরবানী করলেন, যার পাসমূহ শুভ্র ছিল আর পূর্ণ শরীর কালো আর তার পেট ছিল কালো, আর চোখও ছিল কালো।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Sa'eed said:"The Messenger of Allah sacrificed a horned, intact ram, with black feet some black at the stomach and black around its eyes." (Sahih)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |
+
+## French
+
+Rapporté par Abu Sa'eed : Le Messager d'Allah a sacrifié un bélier à cornes, sans défaut, avec les pieds noirs, un peu de noir sur le ventre et du noir autour des yeux. (Sahih)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Abdullah bin Sa'id Abu Sa'id Al Asyaj\], ia berkata; telah menceritakan kepada kami \[Hafsh bin Ghiyats\] dari \[Ja'far bin Muhammad\] dari \[ayahnya\] dari \[Abu Sa'id\], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkurban dengan seekor kambing kibas yang bertanduk dan kuat, ia berkaki hitam, bermulut hitam, dan mermata hitam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Abdullah bin Sa'id Abu Sa'id Al Asyaj], ia berkata; telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [Ja'far bin Muhammad] dari [ayahnya] dari [Abu Sa'id], ia berkata; Rasulullah shallallahu 'alaihi wasallam berkurban dengan seekor kambing kibas yang bertanduk dan kuat, ia berkaki hitam, bermulut hitam, dan mermata hitam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4390</td></tr><tr><td>Arabic No</td><td>4390</td></tr><tr><td>Reference</td><td>Book 43 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4390 |
+| Arabic No | 4390 |
+| Reference | Book 43 Hadith 30 |

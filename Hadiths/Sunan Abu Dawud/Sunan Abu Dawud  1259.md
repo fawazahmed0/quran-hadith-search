@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا عُثْمَانُ بْنُ حَكِيمٍ، أَخْبَرَنِي سَعِيدُ بْنُ يَسَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عَبَّاسٍ، أَنَّ كَثِيرًا، مِمَّا كَانَ يَقْرَأُ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي رَكْعَتَىِ الْفَجْرِ بِـ ‏(‏ آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا ‏)‏ هَذِهِ الآيَةَ قَالَ هَذِهِ فِي الرَّكْعَةِ الأُولَى وَفِي الرَّكْعَةِ الآخِرَةِ بِـ ‏(‏ آمَنَّا بِاللَّهِ وَاشْهَدْ بِأَنَّا مُسْلِمُونَ ‏)‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
+
 حدثنا احمد بن يونس، حدثنا زهير، حدثنا عثمان بن حكيم، اخبرني سعيد بن يسار، عن عبد الله بن عباس، ان كثيرا، مما كان يقرا رسول الله صلى الله عليه وسلم في ركعتى الفجر ب ( امنا بالله وما انزل الينا ) هذه الاية قال هذه في الركعة الاولى وفي الركعة الاخرة ب ( امنا بالله واشهد بانا مسلمون)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
 
 ## Bengali
 
+। ‘আবদুল্লাহ ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিকাংশ সময় ফজরের দু’ রাক‘আতে ‘‘আমান্না বিল্লাহি ওয়ামা উনযিলা ইলাইনা’’ (সূরাহ আল-বাকারাহ : ১৩৬) এ আয়াতটি তিলাওয়াত করতেন। তিনি বলেন, তবে এ আয়াতটি প্রথম রাক‘আতে পাঠ করতেন। আর দ্বিতীয় রাক‘আতে পাঠ করতেনঃ ‘‘আমান্না বিল্লাহি ওয়াশহাদ বিআন্না মুসলিমূন’’ (সূরাহ আলে-‘ইমরান : ৫২)।\[1\] সহীহ : মুসলিমে এ কথা বাদে : অধিকাংশ সময়।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আবদুল্লাহ ইবনু ‘আব্বাস রাযিয়াল্লাহু ‘আনহুমা সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম অধিকাংশ সময় ফজরের দু’ রাক‘আতে ‘‘আমান্না বিল্লাহি ওয়ামা উনযিলা ইলাইনা’’ (সূরাহ আল-বাকারাহ : ১৩৬) এ আয়াতটি তিলাওয়াত করতেন। তিনি বলেন, তবে এ আয়াতটি প্রথম রাক‘আতে পাঠ করতেন। আর দ্বিতীয় রাক‘আতে পাঠ করতেনঃ ‘‘আমান্না বিল্লাহি ওয়াশহাদ বিআন্না মুসলিমূন’’ (সূরাহ আলে-‘ইমরান : ৫২)।[1] সহীহ : মুসলিমে এ কথা বাদে : অধিকাংশ সময়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abd Allah b. 'Abbas:The Messenger of Allah (ﷺ) used to recite in both rak'ahs of the dawn prayer: "Say: We believe in Allah and in the revelation given to us" (3:84) . This is in the first rak'ah and in the second rak'ah (he recited): "We believe in Allah and bear witness that we submit ourself (to Him)." (3:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
+
+## French
+
+Rapporté par Abd Allah b. 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ récitait dans les deux unités de la prière de l’aube : « Dis : Nous croyons en Allah et en ce qui nous a été révélé » (3:84) dans la première unité, et dans la seconde : « Nous croyons en Allah et témoigne que nous nous soumettons à Lui. » (3:)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\] telah menceritakan kepada kami \[Zuhair\] telah menceritakan kepada kami \[Utsman bin Hakim\] telah menceritakan kepadaku \[Sa'id bin Yasar\] dari \[Abdullah bin Abbas\] bahwa kebanyakan yang di baca Rasulullah shallallahu 'alaihi wasallam dalam dua raka'at fajar adalah "Kami beriman kepada Allah dan apa yang diturunkan kepada kami" (QS Al Baqarah; 136). Kata Ibnu Abbas; "ayat ini di baca beliau di raka'at pertama, sedangkan di raka'at terakhir beliau membaca "……kami beriman kepada Allah; dan saksikanlah bahwa Sesungguhnya kami adalah orang-orang yang berserah diri." (QS Ali Imran;)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Zuhair] telah menceritakan kepada kami [Utsman bin Hakim] telah menceritakan kepadaku [Sa'id bin Yasar] dari [Abdullah bin Abbas] bahwa kebanyakan yang di baca Rasulullah shallallahu 'alaihi wasallam dalam dua raka'at fajar adalah "Kami beriman kepada Allah dan apa yang diturunkan kepada kami" (QS Al Baqarah; 136). Kata Ibnu Abbas; "ayat ini di baca beliau di raka'at pertama, sedangkan di raka'at terakhir beliau membaca "……kami beriman kepada Allah; dan saksikanlah bahwa Sesungguhnya kami adalah orang-orang yang berserah diri." (QS Ali Imran;)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Абдуллаха ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что среди того, что Посланник Аллаха ﷺ читал в двух рак‘атах перед утренней молитвой, был аят «Мы уверовали в Аллаха и в то, что ниспослано нам…», который он читал в первом рак‘ате, и аят «Мы уверовали в Аллаха, так засвидетельствуй же, что мы предавшиеся Аллаху (мусульмане)…», который он читал во втором рак‘ате
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
 
 ## Turkish
 
+Abdullah b. Abbas (r.a.)'dan rivayet edildiğine göre; Sabah namazının iki rekat (sünnet)inde Resûlullah (s.a.v.)'in en çok okuduğu; "Biz Allah'a ve bize indirilene iman ettik"\[Bakara 136\] (âyetini); -(İbn Abbâs) dedi ki: Bunu birinci rekatte okurdu-; ikinci rekatta da; "Biz Allah'a iman ettik, şahid ol ki, biz müslümanlarız"\[Âl-i İmran 52\] (âyetini) okurdu
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abdullah b. Abbas (r.a.)'dan rivayet edildiğine göre; Sabah namazının iki rekat (sünnet)inde Resûlullah (s.a.v.)'in en çok okuduğu; "Biz Allah'a ve bize indirilene iman ettik"[Bakara 136] (âyetini); -(İbn Abbâs) dedi ki: Bunu birinci rekatte okurdu-; ikinci rekatta da; "Biz Allah'a iman ettik, şahid ol ki, biz müslümanlarız"[Âl-i İmran 52] (âyetini) okurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ فجر کی دونوں رکعتوں میں رسول اللہ صلی اللہ علیہ وسلم اکثر جس آیت کی تلاوت کرتے تھے وہ «آمنا بالله وما أنزل إلينا» ۱؎ والی آیت ہوتی، ابن عباس رضی اللہ عنہما کہتے ہیں: اسے پہلی رکعت میں پڑھتے اور دوسری رکعت میں«آمنا بالله واشهد بأنا مسلمون» ۲؎ پڑھتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (727)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1259</td></tr><tr><td>Arabic No</td><td>1259</td></tr><tr><td>Reference</td><td>Book 5 Hadith 10</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (727) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1259 |
+| Arabic No | 1259 |
+| Reference | Book 5 Hadith 10 |

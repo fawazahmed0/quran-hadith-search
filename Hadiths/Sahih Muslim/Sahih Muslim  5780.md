@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا أَبِي، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ غَيْرَ أَنَّهُ لَمْ يَذْكُرْ قِصَّةَ عَطَاءِ بْنِ يَسَارٍ فِي أَوَّلِ الْحَدِيثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه عبيد الله بن معاذ، حدثنا ابي، حدثنا شعبة، بهذا الاسناد غير انه لم يذكر قصة عطاء بن يسار في اول الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) উবাইদুল্লাহ ইবনু মু'আয (রহঃ) ..... শু'বাহ্ (রহঃ) এর সূত্রে হাদীস রিওয়ায়াত করেছেন। তবে তিনি হাদীসের শুরুতে 'আতা ইবনু ইয়াসার (রহঃ) সম্পর্কিত ঘটনা পেশ করেননি। (ইসলামিক ফাউন্ডেশন ৫৫৮৮, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters except for the fact that no mention has been made of the account of 'Ata b. Yasir as in the previous hadith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## French
 
+Ce hadith a été rapporté par Shu’ba avec la même chaîne de transmetteurs, sauf qu’il n’est pas fait mention du récit de ‘Ata b. Yasir comme dans le hadith précédent
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-97) Bize bu hadîsi Ubeydullah b. Muâz dahî rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki): Bize Şu'be bu isnadla rivayet etti. Şu kadar var ki o, hadîsin başındaki Ata' b. Yesar kıssasını anmadı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبید اللہ بن معاذ کے والد نے کہا : ہمیں شعبہ نے اسی سند کے ساتھ یہ حدیث سنا ئی مگر انھوں نے حدیث کے آغاز میں عطاء بن یسار کا واقعہ بیان نہیں کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5780</td></tr><tr><td>Arabic No</td><td>2218.09</td></tr><tr><td>Reference</td><td>Book 39 Hadith 132</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5780 |
+| Arabic No | 2218.09 |
+| Reference | Book 39 Hadith 132 |

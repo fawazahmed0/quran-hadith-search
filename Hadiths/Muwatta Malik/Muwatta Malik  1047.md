@@ -14,62 +14,102 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، أَنَّهُ بَلَغَهُ أَنَّ عَبْدَ اللَّهِ بْنَ عَبَّاسٍ، كَانَ يَقُولُ مَا فَرَى الأَوْدَاجَ فَكُلُوهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |
+
 وحدثني عن مالك، انه بلغه ان عبد الله بن عباس، كان يقول ما فرى الاوداج فكلوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik that Abdullah ibn Abbas used to say, "You can eat anything that has had its jugular vein cut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malik (r.a.)'e ulaşan haberlere göre, Abdullah b. Abbas şöyle derdi: "Boyun damarları kesilerek kesim yapılan hayvanın etinden yiyebilirsiniz." (Sadece İmam-ı Malik'in Muvatta'ında geçmektedir)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Mauquf Daif | Salim al-Hilali |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Daif</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1047</td></tr><tr><td>Arabic No</td><td>1047</td></tr><tr><td>Reference</td><td>Book 24 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1047 |
+| Arabic No | 1047 |
+| Reference | Book 24 Hadith 6 |

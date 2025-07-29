@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، حَدَّثَنَا عُبَيْدُ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَسْهَمَ لِرَجُلٍ وَلِفَرَسِهِ ثَلاَثَةَ أَسْهُمٍ سَهْمًا لَهُ وَسَهْمَيْنِ لِفَرَسِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
+
 حدثنا احمد بن حنبل، حدثنا ابو معاوية، حدثنا عبيد الله، عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم اسهم لرجل ولفرسه ثلاثة اسهم سهما له وسهمين لفرسه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইবনু ‘উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সৈনিক ও তার ঘোড়ার জন্য তিন ভাগ গানীমাত নির্ধারণ করেন। এক ভাগ সৈনিকের এবং দু’ ভাগ ঘোড়ার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Umar said “The Apostle of Allaah(ﷺ) allotted three portions for a man and his horse, one for him and two for his horse
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
+
+## French
+
+Ibn ‘Umar رضي الله عنه a dit : Le Messager d’Allah ﷺ attribuait trois parts à un homme et son cheval : une pour l’homme et deux pour son cheval
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\], telah menceritakan kepada kami \[Abu Mu'awiyah\] telah menceritakan kepada kami \['Ubaidullah\] dari \[Nafi'\] dari \[Ibnu Umar\] bahwa Rasulullah shallallahu 'alaihi wasallam memberikan tiga saham kepada seseorang dan kudanya, satu saham untuknya dan dua saham untuk kudanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal], telah menceritakan kepada kami [Abu Mu'awiyah] telah menceritakan kepada kami ['Ubaidullah] dari [Nafi'] dari [Ibnu Umar] bahwa Rasulullah shallallahu 'alaihi wasallam memberikan tiga saham kepada seseorang dan kudanya, satu saham untuknya dan dua saham untuk kudanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer'den demiştir ki Rasûlullah (S.A.V.) mücahid ve atı için birisi kendisine ikisi de atına (olmak üzere ganimet mallarından) üç pay vermiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے آدمی اور اس کے گھوڑے کو تین حصہ دیا: ایک حصہ اس کا اور دو حصہ اس کے گھوڑے کا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2733</td></tr><tr><td>Arabic No</td><td>2733</td></tr><tr><td>Reference</td><td>Book 15 Hadith 257</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (2863) Sahih Muslim (1762) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2733 |
+| Arabic No | 2733 |
+| Reference | Book 15 Hadith 257 |

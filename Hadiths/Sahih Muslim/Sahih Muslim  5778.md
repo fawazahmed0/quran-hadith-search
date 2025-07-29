@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَبُو كَامِلٍ الْجَحْدَرِيُّ، حَدَّثَنَا عَبْدُ الْوَاحِدِ، - يَعْنِي ابْنَ زِيَادٍ - حَدَّثَنَا مَعْمَرٌ، عَنِ الزُّهْرِيِّ، بِإِسْنَادِ يُونُسَ نَحْوَ حَدِيثِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابو كامل الجحدري، حدثنا عبد الواحد، - يعني ابن زياد - حدثنا معمر، عن الزهري، باسناد يونس نحو حديثه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ কামিল জাহদারী (রহঃ) ..... যুহরী (রহঃ) হতে ইউনুস (রহঃ) এর সূত্রে তার বর্ণিত হাদীসের অবিকল হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৫৫৮৬, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Zuhri with a different chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## French
 
+Ce hadith a été rapporté par Zuhri avec une chaîne de transmetteurs différente
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-95) Bize bu hadîsi Ebû Kâmil El-Cahderî de rivayet etti. (Dediki): Bize Abdü'l-Vâhid (yâni İbni Ziyâd) rivayet etti. (Dediki): Bize Ma'mer, Zührî'den Yûnus'un isnadı ile onun hadîsi gibi rivayette bulundu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معمر نے زہری سے یونس کی سند کے ساتھ اسی ( یونس ) کی حدیث کے مانند حدیث بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5778</td></tr><tr><td>Arabic No</td><td>2218.07</td></tr><tr><td>Reference</td><td>Book 39 Hadith 130</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5778 |
+| Arabic No | 2218.07 |
+| Reference | Book 39 Hadith 130 |

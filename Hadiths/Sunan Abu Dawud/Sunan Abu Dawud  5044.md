@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا حَمَّادٌ، عَنْ خَالِدٍ الْحَذَّاءِ، عَنْ أَبِي قِلاَبَةَ، عَنْ بَعْضِ، آلِ أُمِّ سَلَمَةَ قَالَ كَانَ فِرَاشُ النَّبِيِّ صلى الله عليه وسلم نَحْوًا مِمَّا يُوضَعُ الإِنْسَانُ فِي قَبْرِهِ وَكَانَ الْمَسْجِدُ عِنْدَ رَأْسِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
+
 حدثنا مسدد، حدثنا حماد، عن خالد الحذاء، عن ابي قلابة، عن بعض، ال ام سلمة قال كان فراش النبي صلى الله عليه وسلم نحوا مما يوضع الانسان في قبره وكان المسجد عند راسه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
 
 ## Bengali
 
+। উম্মু সালামাহ (রাঃ)-এর কোনো আত্মীয়র সূত্রে বর্ণিত। তিনি বলেন, সাধারণতঃ মৃত ব্যক্তিকে কবরে যেভাবে রাখা হয় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিছানা সেই পদ্ধতিতে বিছানো ছিলো এবং তাঁর মাথার দিকে মাসজিদ ছিলো।\[1\] দুর্বলঃ মিশকাত হা/ ৪৭১৭।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উম্মু সালামাহ (রাঃ)-এর কোনো আত্মীয়র সূত্রে বর্ণিত। তিনি বলেন, সাধারণতঃ মৃত ব্যক্তিকে কবরে যেভাবে রাখা হয় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর বিছানা সেই পদ্ধতিতে বিছানো ছিলো এবং তাঁর মাথার দিকে মাসজিদ ছিলো।[1] দুর্বলঃ মিশকাত হা/ ৪৭১৭।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Umm Salamah, Ummul Mu'minin: Some relative of Umm Salamah said: The bed of the Prophet (ﷺ) was set as a man is laid in his grave; the mosque was towards his head
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
+
+## French
+
+Rapporté par Umm Salamah (la mère des croyants) رضي الله عنها : Un parent d’Umm Salamah a dit : Le lit du Prophète ﷺ était disposé comme on place un homme dans sa tombe ; la mosquée se trouvait du côté de sa tête
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Hammad\] dari \[Khalid Al Hadzdza\] dari \[Abu Qilabah\] dari \[sebagian keluarga Ummu Salamah\] ia berkata, "Kasur Nabi shallallahu 'alaihi wasallam itu seukuran tempat manusia ketika diletakkan dalam kubur. Sementara masjid beliau terletak dekat dengan kepala beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Hammad] dari [Khalid Al Hadzdza] dari [Abu Qilabah] dari [sebagian keluarga Ummu Salamah] ia berkata, "Kasur Nabi shallallahu 'alaihi wasallam itu seukuran tempat manusia ketika diletakkan dalam kubur. Sementara masjid beliau terletak dekat dengan kepala beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ümmü Seleme'nin aile fertlerinin birinden (rivayet edildiğine göre) Nebi (s.a.v.)'in yatağı(nın konumu) insanın kabrine konuluşu gibiymiş. Mescid de baş tarafında (kalır) imiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام سلمہ کی اولاد میں سے ایک شخص سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم کا بستر اس طرح بچھایا جاتا جس طرح انسان اپنی قبر میں لٹایا جاتا ہے، اور مسجد ( نماز پڑھنے کی جگہ یا مسجد نبوی ) آپ کے سرہانے ہوتی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5044</td></tr><tr><td>Arabic No</td><td>5044</td></tr><tr><td>Reference</td><td>Book 43 Hadith 272</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5044 |
+| Arabic No | 5044 |
+| Reference | Book 43 Hadith 272 |

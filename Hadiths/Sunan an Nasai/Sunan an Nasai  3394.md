@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ يَحْيَى بْنِ أَيُّوبَ، قَالَ حَدَّثَنَا حَفْصُ بْنُ غِيَاثٍ، قَالَ حَدَّثَنَا الأَعْمَشُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي الأَحْوَصِ، عَنْ عَبْدِ اللَّهِ، أَنَّهُ قَالَ طَلاَقُ السُّنَّةِ تَطْلِيقَةٌ وَهِيَ طَاهِرٌ فِي غَيْرِ جِمَاعٍ فَإِذَا حَاضَتْ وَطَهُرَتْ طَلَّقَهَا أُخْرَى فَإِذَا حَاضَتْ وَطَهُرَتْ طَلَّقَهَا أُخْرَى ثُمَّ تَعْتَدُّ بَعْدَ ذَلِكَ بِحَيْضَةٍ ‏.‏ قَالَ الأَعْمَشُ سَأَلْتُ إِبْرَاهِيمَ فَقَالَ مِثْلَ ذَلِكَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |
+
 اخبرنا محمد بن يحيى بن ايوب، قال حدثنا حفص بن غياث، قال حدثنا الاعمش، عن ابي اسحاق، عن ابي الاحوص، عن عبد الله، انه قال طلاق السنة تطليقة وهي طاهر في غير جماع فاذا حاضت وطهرت طلقها اخرى فاذا حاضت وطهرت طلقها اخرى ثم تعتد بعد ذلك بحيضة . قال الاعمش سالت ابراهيم فقال مثل ذلك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন ইয়াহইয়া (রহঃ) ... আবদুল্লাহ্ (রাঃ) থেকে বর্ণিত, তিনি বলেছেনঃ সুন্নত তালাক হলো, যে পাক অবস্থায় সহবাস করা হয়নি। তাতে এক তালাক দেওয়া। এরপর যখন হায়য় হওয়ার পর পাক হয়, তখন তাকে আর এক তালাক দেওয়া। এরপর যখন সে আবার হয়েয থেকে পাক হয়, তখন আরো এক তালাক দেওয়া, এরপর সে এক হায়েয পর্যন্ত ইদ্দত পালন করবে। আ'মাশ (রহঃ) বলেন, আমি ইবরাহীমকে জিজ্ঞাসা করলে, তিনি এরূপ বললেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdullah that he said:"The Sunnah divorce is a divorce issued when she is pure (not menstruating) without having had intercourse with her. If she menstruates and becomes pure again, give her another divorce, and if she menstruates and becomes pure again, give her another divorce, then after that, she should wait for another menstrual cycle." (One of the narrators) Al-A'mash said: "I asked Ibrahim, and he said something similar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |
+
+## French
+
+Rapporté par ‘Abdullah : Le divorce selon la Sunna consiste à divorcer quand elle est purifiée (sans avoir ses règles) et sans avoir eu de rapports avec elle. Si elle a ses règles puis redevient pure, donne-lui un autre divorce, et si elle a de nouveau ses règles puis redevient pure, donne-lui un autre divorce, puis après cela, elle doit attendre une nouvelle période de règles.” Al-A’mash a dit : “J’ai demandé à Ibrahim, et il a dit quelque chose de similaire.”
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Yahya bin Ayyub\], Ia berkata; telah menceritakan kepada kami \[Hafsh bin Ghiyats\], ia berkata; telah menceritakan kepada kami \[Al A'masy\] dari \[Abu Ishaq\] dari \[Al Ahwash\] dari \[Abdullah\] ia berkata; mencerai yang sesuai sunnah yaitu mencerai ketika ia dalam keadaan suci dan belum dilakukan jima', jika ia haid lalu suci, maka ia menceraikannya kedua kalinya, jika ia haid dan bersuci maka ia menceraikan ketiga kalinya, kemudian ia menunggu masa iddah setelah itu dengan sekali haid. Al A'masy berkata saya bertanya kepada Ibrahim, dan ia berkata seperti itu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Yahya bin Ayyub], Ia berkata; telah menceritakan kepada kami [Hafsh bin Ghiyats], ia berkata; telah menceritakan kepada kami [Al A'masy] dari [Abu Ishaq] dari [Al Ahwash] dari [Abdullah] ia berkata; mencerai yang sesuai sunnah yaitu mencerai ketika ia dalam keadaan suci dan belum dilakukan jima', jika ia haid lalu suci, maka ia menceraikannya kedua kalinya, jika ia haid dan bersuci maka ia menceraikan ketiga kalinya, kemudian ia menunggu masa iddah setelah itu dengan sekali haid. Al A'masy berkata saya bertanya kepada Ibrahim, dan ia berkata seperti itu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی الله عنہ کہتے ہیں کہ طلاق سنت اس طرح ہے کہ جب عورت پاک ہو اور اس پاکی کے دنوں میں عورت سے جماع نہ کیا ہو تو اسے ایک طلاق دے، پھر جب دوبارہ اسے حیض آئے اور اس حیض سے پاک ہو جائے تو اسے دوسری طلاق دے پھر جب ( تیسری بار ) حیض سے ہو جائے اور اس حیض سے پاک ہو جائے تو اسے ایک اور طلاق دے۔ پھر اس کے بعد عورت ایک حیض کی عدت گزارے۔ اعمش کہتے ہیں: میں نے ابراہیم نخعی سے پوچھا تو انہوں نے بھی اسی طرح بتایا ۲؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3394</td></tr><tr><td>Arabic No</td><td>3394</td></tr><tr><td>Reference</td><td>Book 27 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3394 |
+| Arabic No | 3394 |
+| Reference | Book 27 Hadith 6 |

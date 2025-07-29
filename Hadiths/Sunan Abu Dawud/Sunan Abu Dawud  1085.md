@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا يَعْلَى بْنُ الْحَارِثِ، سَمِعْتُ إِيَاسَ بْنَ سَلَمَةَ بْنِ الأَكْوَعِ، يُحَدِّثُ عَنْ أَبِيهِ، قَالَ كُنَّا نُصَلِّي مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم الْجُمُعَةَ ثُمَّ نَنْصَرِفُ وَلَيْسَ لِلْحِيطَانِ فَىْءٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
+
 حدثنا احمد بن يونس، حدثنا يعلى بن الحارث، سمعت اياس بن سلمة بن الاكوع، يحدث عن ابيه، قال كنا نصلي مع رسول الله صلى الله عليه وسلم الجمعة ثم ننصرف وليس للحيطان فىء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
 
 ## Bengali
 
+। ইয়াস ইবনু সালামাহ ইবনুল আকওয়া‘ (রাঃ) হতে তার পিতার সূত্রে বর্ণিত। তিনি বলেছেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে জুমু‘আহর সালাত আদায় করে ফিরে আসার পরও প্রাচীরসমূহে ছায়া দেখা যেতো না।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইয়াস ইবনু সালামাহ ইবনুল আকওয়া‘ (রাঃ) হতে তার পিতার সূত্রে বর্ণিত। তিনি বলেছেন, আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাথে জুমু‘আহর সালাত আদায় করে ফিরে আসার পরও প্রাচীরসমূহে ছায়া দেখা যেতো না।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salamah b. al-Akwa' reported on the authority of his father:We used to offer the Friday prayer along with the Messenger of Allah (ﷺ) and return (to our homes) while no shade of the walls was seen (at that time)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
+
+## French
+
+Salamah ibn al-Akwa’ رضي الله عنه a rapporté de la part de son père : Nous faisions la prière du vendredi avec le Messager d’Allah ﷺ et nous rentrions chez nous alors que l’ombre des murs n’apparaissait pas encore
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\] telah menceritakan kepada kami \[Ya'la bin Al Harits\] saya mendengar \[Iyas bin Salamah bin Al Akwa'\] bercerita dari \[ayahnya\] dia berkata; "Kami shalat Jum'at bersama Rasulullah shallallahu 'alaihi wasallam, kemudian kami beranjak pergi sedangkan tembok sudah tidak memiliki bayang-bayang lagi (ditengah hari)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Ya'la bin Al Harits] saya mendengar [Iyas bin Salamah bin Al Akwa'] bercerita dari [ayahnya] dia berkata; "Kami shalat Jum'at bersama Rasulullah shallallahu 'alaihi wasallam, kemudian kami beranjak pergi sedangkan tembok sudah tidak memiliki bayang-bayang lagi (ditengah hari)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Салямы ибн аль-Аква‘, да будет доволен им Аллах: «Мы совершали с посланником Аллаха ﷺ пятничную молитву и уходили, когда стены ещё не отбрасывали тени»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İyâs b. Seleme, babası Seleme b. el-Ekvâ, şöyle dediğini haber vermiştir: Biz Resûlullah (s.a.v.)'le birlikte cum'a'yı kılar, ve (henüz) duvarların gölgesi yokken (mescidden) ayrılırdık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سلمہ بن الاکوع رضی اللہ عنہ کہتے ہیں کہ ہم رسول اللہ صلی اللہ علیہ وسلم کے ساتھ جمعہ پڑھتے تھے پھر نماز سے فارغ ہو کر واپس آتے تھے اور دیواروں کا سایہ نہ ہوتا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4168) Sahih Muslim (860)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1085</td></tr><tr><td>Arabic No</td><td>1085</td></tr><tr><td>Reference</td><td>Book 2 Hadith 696</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4168) Sahih Muslim (860) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1085 |
+| Arabic No | 1085 |
+| Reference | Book 2 Hadith 696 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا إِبْرَاهِيمُ بْنُ مُوسَى الرَّازِيُّ، أَخْبَرَنَا عِيسَى، حَدَّثَنَا زَكَرِيَّا، عَنْ عَامِرٍ الشَّعْبِيِّ، قَالَ سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ بِهَذَا الْحَدِيثِ قَالَ ‏ "‏ وَبَيْنَهُمَا مُشَبَّهَاتٌ لا يَعْلَمُهَا كَثِيرٌ مِنَ النَّاسِ فَمَنِ اتَّقَى الشُّبُهَاتِ اسْتَبْرَأَ عِرْضَهُ وَدِينَهُ وَمَنْ وَقَعَ فِي الشُّبُهَاتِ وَقَعَ فِي الْحَرَامِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
+
 حدثنا ابراهيم بن موسى الرازي، اخبرنا عيسى، حدثنا زكريا، عن عامر الشعبي، قال سمعت النعمان بن بشير، قال سمعت رسول الله صلى الله عليه وسلم يقول بهذا الحديث قال " وبينهما مشبهات لا يعلمها كثير من الناس فمن اتقى الشبهات استبرا عرضه ودينه ومن وقع في الشبهات وقع في الحرام
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আমির আশ-শাবী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, নু‘মান ইবনু বাশীর (রাঃ)-কে বলতে শুনেছি, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে উক্ত হাদীস বলতে শুনেছিঃ তিনি বলেনঃ এ দুইয়ের (হালাল-হারামের) মাঝে অনেক সন্দেহজনক বস্তু রয়েছে। অনেক লোকই এ বিষয়ে জ্ঞান রাখে না। সুতরাং যে ব্যক্তি সন্দেহজনক বস্তু বর্জন করবে সে তার দ্বীন ও সম্মান সংরক্ষণ করতে সক্ষম হবে। পক্ষান্তরে যে ব্যক্তি সন্দেহজনক কাজে জড়াবে যে, সে শিঘ্রই হারামে লিপ্ত হবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Nu'man b. Bashir:I heard Messenger of Allah (ﷺ) say: But between them are certain doubtful things which many people do not recognize. He who guards against doubtful things keeps his religion and his honor blameless, but he who falls into doubtful things falls into what is unlawful
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
+
+## French
+
+Rapporté par Al-Nu‘man ibn Bashir : J’ai entendu le Messager d’Allah ﷺ dire : « Mais entre ce qui est licite et illicite, il y a des choses douteuses que beaucoup de gens ne connaissent pas. Celui qui évite les choses douteuses préserve sa religion et son honneur, mais celui qui tombe dans les choses douteuses tombe dans ce qui est interdit. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ан-Ну‘ман ибн Башир, да будет доволен Аллах им и его отцом, передаёт в этом хадисе: «Я слышал, как Посланник Аллаха ﷺ сказал: “А между ними находится сомнительное, относительно которого у многих людей нет знания, и кто избегает сомнительного, тот оберегает свою религию и честь, а кто впал в сомнительное, тот впал в запретное”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbrahim b. Musa er-Râzî, İsa'dan; İsa, Zekeriyya'dan, o da Âmir eş-Şa'bruui Nu'man b. Beşîr'in şöyle dediğini rivayet etmiştir: Rasûlullah (s.a.v.)'i söyle buyururken işittim: Aynen yukarıdaki (3329.) hadis-. (Bu rivayete göre) Şa'bî, Rasûlullah'ın şöyle buyurduğunu da söyledi: "Onlar (helâller ve haramlar) arasında şüpheli şeyler vardır, insanların çoğu onları bilmezler. Şüphelerden sakınan kişi, ırzını ve dinini kurtarmış demektir. Kim de şüpheli şeylere dalarsa harama dalmış olur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نعمان بن بشیر رضی اللہ عنہما کہتے ہیں میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا آپ یہی حدیث بیان فرما رہے تھے اور فرما رہے تھے: ان دونوں کے درمیان کچھ شبہے کی چیزیں ہیں جنہیں بہت سے لوگ نہیں جانتے، جو شبہوں سے بچا وہ اپنے دین اور اپنی عزت و آبرو کو بچا لے گیا، اور جو شبہوں میں پڑا وہ حرام میں پھنس گیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (52) Sahih Muslim (1599)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3330</td></tr><tr><td>Arabic No</td><td>3330</td></tr><tr><td>Reference</td><td>Book 23 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (52) Sahih Muslim (1599) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3330 |
+| Arabic No | 3330 |
+| Reference | Book 23 Hadith 5 |

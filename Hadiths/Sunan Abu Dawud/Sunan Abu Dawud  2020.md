@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا أَبُو عَاصِمٍ، عَنْ جَعْفَرِ بْنِ يَحْيَى بْنِ ثَوْبَانَ، أَخْبَرَنِي عُمَارَةُ بْنُ ثَوْبَانَ، حَدَّثَنِي مُوسَى بْنُ بَاذَانَ، قَالَ أَتَيْتُ يَعْلَى بْنَ أُمَيَّةَ فَقَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ احْتِكَارُ الطَّعَامِ فِي الْحَرَمِ إِلْحَادٌ فِيهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
+
 حدثنا الحسن بن علي، حدثنا ابو عاصم، عن جعفر بن يحيى بن ثوبان، اخبرني عمارة بن ثوبان، حدثني موسى بن باذان، قال اتيت يعلى بن امية فقال ان رسول الله صلى الله عليه وسلم قال " احتكار الطعام في الحرم الحاد فيه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
 
 ## Bengali
 
+। মূসা ইবনু বাযান (রহ.) বলেন, আমি ইয়া‘লা ইবনু উমায়্যাহ (রাযি.)-এর কাছে এলে তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হেরেম এলাকায় খাদ্যশস্য গুদামজাত করে রাখা ধর্মদ্রোহিতার নামান্তর।\[1\] দুর্বলঃ যঈফ আল-জামি‘উস সাগীর (১৮৪), মিশকাত (২৭২৩)।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মূসা ইবনু বাযান (রহ.) বলেন, আমি ইয়া‘লা ইবনু উমায়্যাহ (রাযি.)-এর কাছে এলে তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ হেরেম এলাকায় খাদ্যশস্য গুদামজাত করে রাখা ধর্মদ্রোহিতার নামান্তর।[1] দুর্বলঃ যঈফ আল-জামি‘উস সাগীর (১৮৪), মিশকাত (২৭২৩)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ya'la ibn Umayyah: The Prophet (ﷺ) said: Hoarding up food (to sell it at a high price) in the sacred territory is a deviation (from right to wrong)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
+
+## French
+
+Rapporté par Ya'la ibn Umayyah رضي الله عنه : Le Prophète ﷺ a dit : « Stocker de la nourriture (pour la vendre plus cher) dans le territoire sacré est une faute. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali\], telah menceritakan kepada kami \[Abu 'Ashim\] dari \[Ja'far bin Yahya bin Tsauban\], telah mengabarkan kepada kami \['Imarah bin Tsauban\], telah menceritakan kepadaku \[Musa bin Badzan\]; ia berkata; aku telah mendatangi \[Ya'la bin Umayyah\] dan dia berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Penimbunan makanan di tanah Haram merupakan perbuatan kufur yang dilakukan di dalamnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abu 'Ashim] dari [Ja'far bin Yahya bin Tsauban], telah mengabarkan kepada kami ['Imarah bin Tsauban], telah menceritakan kepadaku [Musa bin Badzan]; ia berkata; aku telah mendatangi [Ya'la bin Umayyah] dan dia berkata; sesungguhnya Rasulullah shallallahu 'alaihi wasallam bersabda: "Penimbunan makanan di tanah Haram merupakan perbuatan kufur yang dilakukan di dalamnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Я‘ля ибн Умаййи, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Удерживание съестного на Заповедной территории есть отклонение от правильного к ложному в нём»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ya'Ia b. Ümeyye (demiştir ki: Resûlullah sallallahu aleyhi ve sellem şöyle buyurdu: "Harem dâhilinde gıda maddeleri karaborsacılığı yapmak orada zulüm yapmaktır)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یعلیٰ بن امیہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: حرم میں غلہ روک کر رکھنا اس میں الحاد ( کج روی ) ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2020</td></tr><tr><td>Arabic No</td><td>2020</td></tr><tr><td>Reference</td><td>Book 11 Hadith 300</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2020 |
+| Arabic No | 2020 |
+| Reference | Book 11 Hadith 300 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يَعْقُوبُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا هُشَيْمٌ، قَالَ أَنْبَأَنَا مَنْصُورٌ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ الْقَاسِمِ، عَنِ الْقَاسِمِ، عَنْ عَائِشَةَ، قَالَتْ إِنَّمَا أَذِنَ النَّبِيُّ صلى الله عليه وسلم لِسَوْدَةَ فِي الإِفَاضَةِ قَبْلَ الصُّبْحِ مِنْ جَمْعٍ لأَنَّهَا كَانَتِ امْرَأَةً ثَبِطَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 24 Hadith 420</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |
+
 اخبرنا يعقوب بن ابراهيم، قال حدثنا هشيم، قال انبانا منصور، عن عبد الرحمن بن القاسم، عن القاسم، عن عايشة، قالت انما اذن النبي صلى الله عليه وسلم لسودة في الافاضة قبل الصبح من جمع لانها كانت امراة ثبطة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 24 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াকূব ইবন ইবরাহীম (রহঃ) ... আয়েশা (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সাওদা (রাঃ)-কে ভোরের পূর্বেই মুযদালিফা হতে চলে যাওয়ার অনুমতি দান করেন। কেননা তিনি ছিলেন একজন মােটা ও ধীর গতির মহিলা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 24 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Aishah said:"The Prophet allowed Sawdah to leave Jam (Al-Muzdalifah) before dawn because she was a heavyset woman
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 24 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |
+
+## French
+
+Rapporté par Aïcha رضي الله عنها : "Le Prophète a permis à Sawda de quitter Jam (Al-Muzdalifah) avant l’aube parce qu’elle était corpulente
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ya'qub bin Ibrahim\], ia berkata; telah menceritakan kepada kami \[Husyaim\], ia berkata; telah memberitakan kepada kami \[Manshur\] dari \[Abdur Rahman bin Al Qasim\] dari \[Al Qasim\] dari \[Aisyah\], ia berkata; "Nabi shallallahu 'alaihi wasallam mengizinkan Saudah untuk melakukan thawaf ifadhah sebelum subuh dari Muzdalifah, karena ia adalah wanita yang lambat geraknya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ya'qub bin Ibrahim], ia berkata; telah menceritakan kepada kami [Husyaim], ia berkata; telah memberitakan kepada kami [Manshur] dari [Abdur Rahman bin Al Qasim] dari [Al Qasim] dari [Aisyah], ia berkata; "Nabi shallallahu 'alaihi wasallam mengizinkan Saudah untuk melakukan thawaf ifadhah sebelum subuh dari Muzdalifah, karena ia adalah wanita yang lambat geraknya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 24 Hadith 420</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 24 Hadith 420</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے ام المؤمنین سودہ رضی اللہ عنہا کو مزدلفہ سے فجر ہونے سے پہلے لوٹ جانے کی اجازت دی، اس لیے کہ وہ ایک بھاری بدن کی سست رفتار عورت تھیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3037</td></tr><tr><td>Arabic No</td><td>3037</td></tr><tr><td>Reference</td><td>Book 24 Hadith 420</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3037 |
+| Arabic No | 3037 |
+| Reference | Book 24 Hadith 420 |

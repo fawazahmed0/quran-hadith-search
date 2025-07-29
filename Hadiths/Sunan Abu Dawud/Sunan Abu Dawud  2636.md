@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا سُفْيَانُ، عَنْ عَمْرٍو، أَنَّهُ سَمِعَ جَابِرًا، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ الْحَرْبُ خُدْعَةٌ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
+
 حدثنا سعيد بن منصور، حدثنا سفيان، عن عمرو، انه سمع جابرا، ان رسول الله صلى الله عليه وسلم قال " الحرب خدعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আমর (রহঃ) সূত্রে বর্ণিত। তিনি জাবির (রাঃ)-এর নিকট শুনেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যুদ্ধ হচ্ছে ধোঁকা বা রণকৌশল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir reported the Apostle of Allaah(ﷺ) as saying “War is deception.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
+
+## French
+
+Rapporté par Jabir رضي الله عنه : Le Messager d’Allah ﷺ a dit : « La guerre est tromperie. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Manshur\], telah menceritakan kepada kami \[Sufyan\] dari \['Amr\] bahwa ia mendengar \[Jabir\] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Perang adalah tipu muslihat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Sufyan] dari ['Amr] bahwa ia mendengar [Jabir] bahwa Rasulullah shallallahu 'alaihi wasallam berkata: "Perang adalah tipu muslihat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr'dan rivayet olunduğuna göre, Kendisi Câbir'i (r.a.) şöyle derken işitmiş; "Rasûlullah (s.a.v.) "Harb hud'a dır" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: لڑائی دھوکہ و فریب کا نام ہے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (3030) Sahih Muslim (1739)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2636</td></tr><tr><td>Arabic No</td><td>2636</td></tr><tr><td>Reference</td><td>Book 15 Hadith 160</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (3030) Sahih Muslim (1739) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2636 |
+| Arabic No | 2636 |
+| Reference | Book 15 Hadith 160 |

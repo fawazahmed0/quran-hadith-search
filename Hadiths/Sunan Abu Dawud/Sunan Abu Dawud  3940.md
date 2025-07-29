@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ مَنْ أَعْتَقَ شِرْكًا لَهُ فِي مَمْلُوكٍ أُقِيمَ عَلَيْهِ قِيمَةَ الْعَدْلِ فَأَعْطَى شُرَكَاءَهُ حِصَصَهُمْ وَأُعْتِقَ عَلَيْهِ الْعَبْدُ وَإِلاَّ فَقَدْ عَتَقَ مِنْهُ مَا عَتَقَ ‏"‏ ‏.‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
+
 حدثنا القعنبي، عن مالك، عن نافع، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم قال " من اعتق شركا له في مملوك اقيم عليه قيمة العدل فاعطى شركاءه حصصهم واعتق عليه العبد والا فقد عتق منه ما عتق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো ব্যক্তি যৌথ মালিকানাভুক্ত কৃতদাসের নিজের অংশ মুক্ত করলে তার সঠিক মূল্য নিরূপণ করতে হবে। অতঃপর সে অন্য শরীকদের অংশও পরিশোধ করবে এবং এর বিনিময়ে গোলামটি আযাদ হবে। অন্যথায় তাকে যতটুকু আযাদ করা হয়েছে সে ততটুকুই আযাদ হবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু উমার (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ কোনো ব্যক্তি যৌথ মালিকানাভুক্ত কৃতদাসের নিজের অংশ মুক্ত করলে তার সঠিক মূল্য নিরূপণ করতে হবে। অতঃপর সে অন্য শরীকদের অংশও পরিশোধ করবে এবং এর বিনিময়ে গোলামটি আযাদ হবে। অন্যথায় তাকে যতটুকু আযাদ করা হয়েছে সে ততটুকুই আযাদ হবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abd Allah b. 'Umar reported the Messenger of Allah (ﷺ) as saying:If anyone emancipates his share in slave, a fair price for the slave should be fixed, give his partners their shares, and the slave be thus emancipated. Otherwise he is emancipated to the extent of the share which he emancipated
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
+
+## French
+
+Rapporté par Abd Allah ibn ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Si quelqu’un affranchit sa part dans un esclave, on doit fixer un prix équitable pour l’esclave, donner à ses partenaires leur part, et l’esclave sera ainsi affranchi. Sinon, il sera affranchi à hauteur de la part qui a été libérée. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] dari \[Malik\] dari \[Nafi'\] dari \[Abdullah bin Umar\], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membebaskan bagiannya dalam diri seorang budak, maka budak tersebut dinilai dengan nilai pertengahan. Lalu ia memberikan bagian para sekutunya kepada mereka, dan budak tersebut dibebaskan, jika tidak maka ia telah membebaskan darinya bagian yang telah ia bebaskan." Telah menceritakan kepada kami \[Muammal\] telah menceritakan kepada kami \[Isma'il\] dari \[Ayyub\] dari \[Nafi'\] dari \[Ibnu Umar\] dari Nabi shallallahu 'alaihi wasallam dengan maknanya. Ia berkata, "Nafi' dimungkinkan mengatakan, 'Sungguh ia telah membebaskan darinya bagian yang telah ia bebaskan', dan mungkin juga ia tidak mengatakannya." Telah menceritakan kepada kami \[Sulaiman bin Daud Al 'Ataki\] telah menceritakan kepada kami \[Hammad\] dari \[Ayyub\] dari \[Nafi'\] dari \[Ibnu Umar\] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini. Ayyub berkata, "Aku tidak tahu, lafadz tersebut ada dalam hadits Nabi shallallahu 'alaihi wasallam, atau sesuatu yang ia dikatakan oleh Nafi', yaitu ucapan, 'jika tidak maka ia telah membebaskan darinya bagian yang telah ia bebaskan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] dari [Malik] dari [Nafi'] dari [Abdullah bin Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa membebaskan bagiannya dalam diri seorang budak, maka budak tersebut dinilai dengan nilai pertengahan. Lalu ia memberikan bagian para sekutunya kepada mereka, dan budak tersebut dibebaskan, jika tidak maka ia telah membebaskan darinya bagian yang telah ia bebaskan." Telah menceritakan kepada kami [Muammal] telah menceritakan kepada kami [Isma'il] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan maknanya. Ia berkata, "Nafi' dimungkinkan mengatakan, 'Sungguh ia telah membebaskan darinya bagian yang telah ia bebaskan', dan mungkin juga ia tidak mengatakannya." Telah menceritakan kepada kami [Sulaiman bin Daud Al 'Ataki] telah menceritakan kepada kami [Hammad] dari [Ayyub] dari [Nafi'] dari [Ibnu Umar] dari Nabi shallallahu 'alaihi wasallam dengan hadits ini. Ayyub berkata, "Aku tidak tahu, lafadz tersebut ada dalam hadits Nabi shallallahu 'alaihi wasallam, atau sesuatu yang ia dikatakan oleh Nafi', yaitu ucapan, 'jika tidak maka ia telah membebaskan darinya bagian yang telah ia bebaskan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от ‘Абдуллаха ибн ‘Умара, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Кто освободил свою долю раба, тот должен оценить его и выплатить совладельцам их доли остатка его стоимости, и тогда раб становится свободным. А в противном случае (, если освободивший стеснён в средствах,) он остаётся освобождённым лишь настолько, насколько его освободил (этот человек)»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Ömer'den rivayet edildiğine göre; Resulullah (s.a.v.) şöyle buyurmuştur: "Her kim kölesi üzerinde bulunan hissesini azad ederse bu kimse için (kölenin kalan kısmına) adaletli bir kıymet takdiri yapılır. (Yapılan bu takdire göre) ortaklarına (köle üzerindeki) paylarını verir ve (tümüyle onun adına azad edilmiş olur. Eğer (onun, kölenin kalan kısmını azad etmeye yetecek kadar malı) yoksa o zaman (köleden sadece) azatlanan kısmı azad edilmiş olur. (Ortaklarının hissesi yine köle olarak kalır)." Ayrıca bu hadis; Buharî, ıtk. Şirket; Müslim, ilk, eymân; Tirmizî, ahkâm; îbn Mace, ilk: Ahmet! b. Hanbel, II. 15,77. 116, 142, 156. dada var. İzah 3948 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما سے رویت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جو شخص ( مشترک ) غلام میں سے اپنا حصہ آزاد کر دے تو اس غلام کی واجبی قیمت لگا کر ہر ایک شریک کو اس کے حصہ کے مطابق ادا کرے گا اور غلام اس کی طرف سے آزاد ہو جائے گا اور اگر اس کے پاس مال نہیں ہے تو جتنا آزاد ہوا ہے اتنا ہی حصہ آزاد رہے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (2522) Sahih Muslim (1501)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3940</td></tr><tr><td>Arabic No</td><td>3940</td></tr><tr><td>Reference</td><td>Book 31 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (2522) Sahih Muslim (1501) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3940 |
+| Arabic No | 3940 |
+| Reference | Book 31 Hadith 15 |

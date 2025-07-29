@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا أَبُو دَاوُدَ، سَمِعْتُ شُعْبَةَ، يَقُولُ السَّاعَةَ يَخْرُجُ السَّاعَةَ يَخْرُجُ حَدَّثَنَا أَبُو الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ كُنْتُ فِي الصَّفِّ الثَّانِي يَوْمَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى النَّجَاشِيِّ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |
+
 اخبرنا عمرو بن علي، قال حدثنا ابو داود، سمعت شعبة، يقول الساعة يخرج الساعة يخرج حدثنا ابو الزبير، عن جابر، قال كنت في الصف الثاني يوم صلى رسول الله صلى الله عليه وسلم على النجاشي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু আলী (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত। তিনি বলেন, যে দিন রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাজাশীর উপর জানাজার সালাত আদায় করেছিলেন সেদিন আমি দ্বিতীয় কাতারে ছিলাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Jabir said:"I was in the second row on the day the Messenger of Allah offered the funeral prayer for An-Najashi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |
+
+## French
+
+Rapporté par Jabir : J’étais dans le deuxième rang le jour où le Messager d’Allah ﷺ a fait la prière funéraire pour An-Najashi
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin 'Ali\] dia berkata; telah menceritakan kepada kami \[Abu Dawud\]; Aku mendengar \[Syu'bah\] berkata; "Sekarang Abu Jubair akan keluar (dari rumahnya), sekarang Abu Jubair akan keluar (dari rumahnya). Telah menceritakan kepada kami \[Abu Az Zubair\] dari \[Jabir\] dia berkata; "Aku berada di barisan kedua di hari ketika Rasulullah shallallahu 'alaihi wasallam menshalati An Najasyi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin 'Ali] dia berkata; telah menceritakan kepada kami [Abu Dawud]; Aku mendengar [Syu'bah] berkata; "Sekarang Abu Jubair akan keluar (dari rumahnya), sekarang Abu Jubair akan keluar (dari rumahnya). Telah menceritakan kepada kami [Abu Az Zubair] dari [Jabir] dia berkata; "Aku berada di barisan kedua di hari ketika Rasulullah shallallahu 'alaihi wasallam menshalati An Najasyi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی الله عنہما کہتے ہیں کہ جس دن رسول اللہ صلی اللہ علیہ وسلم نے نجاشی کی نماز ( جنازہ ) پڑھی تھی میں دوسری صف میں تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1974</td></tr><tr><td>Arabic No</td><td>1974</td></tr><tr><td>Reference</td><td>Book 21 Hadith 157</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Abu Ghuddah |
+| Sahih Isnaad | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1974 |
+| Arabic No | 1974 |
+| Reference | Book 21 Hadith 157 |

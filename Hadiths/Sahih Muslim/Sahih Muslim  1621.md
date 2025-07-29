@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا عَجِلَ بِهِ السَّيْرُ جَمَعَ بَيْنَ الْمَغْرِبِ وَالْعِشَاءِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن يحيى، قال قرات على مالك عن نافع، عن ابن عمر، قال كان رسول الله صلى الله عليه وسلم اذا عجل به السير جمع بين المغرب والعشاء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... 'আবদুল্লাহ ইবনু উমার (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, কোন সফরে দ্রুত চলতে হলে রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাগরিব এবং ইশার সালাত একসাথে আদায় করতেন। (ইসলামী ফাউন্ডেশন ১৪৯১, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar reported:When the Messenger of Allah (ﷺ) was in a state of hurry on a journey, he combined the sunset and 'Isha' prayers
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## French
 
+Rapporté par Ibn 'Umar رضي الله عنه : Lorsque le Messager d’Allah ﷺ était pressé lors d’un voyage, il regroupait les prières du maghrib et de l’isha
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Yahya\], katanya; Aku pernah menyetorkan hapalan di hadapan \[Malik\] dari \[Nafi'\] dari \[Ibnu Umar\] katanya; "Ketika beliau melakukan perjalanan dengan terburu-buru, maka Rasulullah shallallahu 'alaihi wasallam menjamak antara shalat Magrib dan Isya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Yahya], katanya; Aku pernah menyetorkan hapalan di hadapan [Malik] dari [Nafi'] dari [Ibnu Umar] katanya; "Ketika beliau melakukan perjalanan dengan terburu-buru, maka Rasulullah shallallahu 'alaihi wasallam menjamak antara shalat Magrib dan Isya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Умар сказал: «Когда Посланнику Аллаха ﷺ, находящемуся в пути, надо было спешить, он объединял закатную молитву с вечерней»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize, Yahya b. Yahya rivayet etti. Dediki: Mâlik'e, Nâfi'den dinlediğim, onun da İbni Ömer'den rivayet ettiği şu hadîsi okudum: İbni Ömer: Resulullah (Sallallahu Aleyhi ve Sellem) : «Sefere acele ettiği zaman akşam ile yatsı'yı bir arada kılardı.» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 امام مالک ؒ نے نافع سے اور ا نھوں نے حضرت ابن عمر رضی اللہ تعالیٰ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم کو جب چلنے کی جلدی ہوتی تو مغرب اور عشاء کی نمازیں جمع کرلیتے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1621</td></tr><tr><td>Arabic No</td><td>703.01</td></tr><tr><td>Reference</td><td>Book 6 Hadith 52</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1621 |
+| Arabic No | 703.01 |
+| Reference | Book 6 Hadith 52 |

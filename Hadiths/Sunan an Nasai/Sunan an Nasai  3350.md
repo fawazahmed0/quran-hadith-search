@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا الْعَبَّاسُ بْنُ مُحَمَّدٍ الدُّورِيُّ، قَالَ حَدَّثَنَا عَلِيُّ بْنُ الْحَسَنِ بْنِ شَقِيقٍ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ الْمُبَارَكِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ عُرْوَةَ بْنِ الزُّبَيْرِ، عَنْ أُمِّ حَبِيبَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم تَزَوَّجَهَا وَهِيَ بِأَرْضِ الْحَبَشَةِ زَوَّجَهَا النَّجَاشِيُّ وَأَمْهَرَهَا أَرْبَعَةَ آلاَفٍ وَجَهَّزَهَا مِنْ عِنْدِهِ وَبَعَثَ بِهَا مَعَ شُرَحْبِيلَ ابْنِ حَسَنَةَ وَلَمْ يَبْعَثْ إِلَيْهَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِشَىْءٍ وَكَانَ مَهْرُ نِسَائِهِ أَرْبَعَمِائَةِ دِرْهَمٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |
+
 اخبرنا العباس بن محمد الدوري، قال حدثنا علي بن الحسن بن شقيق، قال انبانا عبد الله بن المبارك، عن معمر، عن الزهري، عن عروة بن الزبير، عن ام حبيبة، ان رسول الله صلى الله عليه وسلم تزوجها وهي بارض الحبشة زوجها النجاشي وامهرها اربعة الاف وجهزها من عنده وبعث بها مع شرحبيل ابن حسنة ولم يبعث اليها رسول الله صلى الله عليه وسلم بشىء وكان مهر نسايه اربعماية درهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আব্বাস ইবন মুহাম্মদ দাওরী (রহঃ) ... উম্মে হাবীবা (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন তাঁকে বিবাহ করেন, তখন তিনি ছিলেন হাবশায়। নাজ্জাশী তাকে বিবাহ দেন এবং তাঁর মাহর আদায় করেন। চার হাজার দিরহাম এবং তার নিজের পক্ষ হতে বিবাহ উপঢৌকন আদায় করেন। আর তাকে ঐ সকল দিয়ে শুরাহবীল ইবন হাসানা (রাঃ)-এর সাথে পাঠিয়ে দেন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার নিকট কিছুই পাঠাননি। আর তাঁর অন্যান্য স্ত্রীদের মাহর ছিল চারশত দিরহাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Umm Habibah that the Messenger of Allah married her when she was in Ethiopia. An-NajaShi performed the marriage for her and gave her a dowry of four thousand, and he fitted her out from his own wealth, and sent her with Shurahbil bin Hasanah. The Messenger of Allah did not send her anything, and the dowry of his wives was four hundred Dirhams
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |
+
+## French
+
+Rapporté par Umm Habibah : Le Messager d’Allah ﷺ l’a épousée alors qu’elle était en Éthiopie. An-Najashi a célébré le mariage pour elle et lui a donné une dot de quatre mille, l’a équipée avec ses propres biens, et l’a envoyée avec Shurahbil bin Hasanah. Le Messager d’Allah ﷺ ne lui a rien envoyé, et la dot de ses épouses était de quatre cents dirhams
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Al Abbas bin Muhammad Ad Duri\], ia berkata; telah menceritakan kepada kami \[Ali bin Al Hasan bin Asy Syaqiq\], ia berkata; telah memberitakan kepada kami \[Abdullah bin Al Mubarak\] dari \[Ma'mar\] dari \[Az Zuhri\] dari \['Urwah bin Az Zubair\] dari \[Ummu Habibah\] bahwa Rasulullah shallallahu 'alaihi wasallam menikahinya saat berada di negeri Habasyah. Ia dinikahkan oleh An Najasyi, ia memberinya mahar empat ribu, dan memberi perbekalannya dari dirinya sendiri, dan mengirimnya bersama dengan Syurahbil bin Hasanah. Rasulullah shallallahu 'alaihi wasallam tidak mengirimkan kepadanya sesuatupun, dan mahar para isterinya adalah empat ratus dirham
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Al Abbas bin Muhammad Ad Duri], ia berkata; telah menceritakan kepada kami [Ali bin Al Hasan bin Asy Syaqiq], ia berkata; telah memberitakan kepada kami [Abdullah bin Al Mubarak] dari [Ma'mar] dari [Az Zuhri] dari ['Urwah bin Az Zubair] dari [Ummu Habibah] bahwa Rasulullah shallallahu 'alaihi wasallam menikahinya saat berada di negeri Habasyah. Ia dinikahkan oleh An Najasyi, ia memberinya mahar empat ribu, dan memberi perbekalannya dari dirinya sendiri, dan mengirimnya bersama dengan Syurahbil bin Hasanah. Rasulullah shallallahu 'alaihi wasallam tidak mengirimkan kepadanya sesuatupun, dan mahar para isterinya adalah empat ratus dirham
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین ام حبیبہ رضی الله عنہا سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے ان سے اس وقت نکاح کیا جب وہ سر زمین حبشہ میں تھیں، ان کی شادی نجاشی بادشاہ نے کرائی اور ان کا مہر چار ہزار ( درہم ) مقرر کیا۔ اور اپنے پاس سے تیار کر کے انہیں شرحبیل بن حسنہ رضی اللہ عنہ کے ساتھ ( رسول اللہ صلی اللہ علیہ وسلم کے پاس ) بھیج دیا۔ رسول اللہ صلی اللہ علیہ وسلم نے ان کے پاس ( حبشہ میں ) کوئی چیز نہ بھیجی، رسول اللہ صلی اللہ علیہ وسلم کی ( دوسری ) بیویوں کا مہر چار سو درہم تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3350</td></tr><tr><td>Arabic No</td><td>3350</td></tr><tr><td>Reference</td><td>Book 26 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3350 |
+| Arabic No | 3350 |
+| Reference | Book 26 Hadith 155 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي مُحَمَّدُ بْنُ إِسْمَاعِيلَ بْنِ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا أَبُو النَّضْرِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ هِشَامِ بْنِ عُرْوَةَ، عَنِ امْرَأَتِهِ، فَاطِمَةَ عَنْ أَسْمَاءَ بِنْتِ أَبِي بَكْرٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم لَعَنَ الْوَاصِلَةَ وَالْمُسْتَوْصِلَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 48 Hadith 55</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |
+
 اخبرني محمد بن اسماعيل بن ابراهيم، قال حدثنا ابو النضر، قال حدثنا شعبة، عن هشام بن عروة، عن امراته، فاطمة عن اسماء بنت ابي بكر، ان رسول الله صلى الله عليه وسلم لعن الواصلة والمستوصلة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 48 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবন ইসমাঈল (রহঃ) ... আসমা বিনত আবূ বকর (রাঃ) হতে বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম চুল যোজনাকারিণী ও যোজনা প্রার্থিনী নারীর প্রতি অভিসম্পাত করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 48 Hadith 55</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |
 
 ## English
 
+It was narrated from Hisham bin 'Urwah, from his wife Fatimah, from Asma' bint Abi Bakr, that:The Messenger of Allah \[SAW\] cursed the woman who affixes hair extensions and the woman who has that done
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Hisham bin 'Urwah, from his wife Fatimah, from Asma' bint Abi Bakr, that:The Messenger of Allah [SAW] cursed the woman who affixes hair extensions and the woman who has that done
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 48 Hadith 55</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |
+
+## French
+
+Rapporté par Hisham bin 'Urwah, de son épouse Fatimah, d'Asma' bint Abi Bakr رضي الله عنها : Le Messager d'Allah ﷺ a maudit la femme qui pose des extensions de cheveux et celle qui les fait poser
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |
 
 ## Indonesian
 
+Telah mengabarkan kepadaku \[Muhammad bin Isma'il bin Ibrahim\] ia berkata; telah menceritakan kepada kami \[Abu An Nadlr\] ia berkata; telah menceritakan kepada kami \[Syu'bah\] dari \[Hisyam bin Urwah\] dari isterinya \[Fatimah\] dari \[Asma binti Abu Bakar\] berkata, "Rasulullah shallallahu 'alaihi wasallam melaknat wanita yang menyambung rambut dan wanita yang minta untuk disambungkan rambutnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepadaku [Muhammad bin Isma'il bin Ibrahim] ia berkata; telah menceritakan kepada kami [Abu An Nadlr] ia berkata; telah menceritakan kepada kami [Syu'bah] dari [Hisyam bin Urwah] dari isterinya [Fatimah] dari [Asma binti Abu Bakar] berkata, "Rasulullah shallallahu 'alaihi wasallam melaknat wanita yang menyambung rambut dan wanita yang minta untuk disambungkan rambutnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 48 Hadith 55</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 48 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5094</td></tr><tr><td>Arabic No</td><td>5094</td></tr><tr><td>Reference</td><td>Book 48 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5094 |
+| Arabic No | 5094 |
+| Reference | Book 48 Hadith 55 |

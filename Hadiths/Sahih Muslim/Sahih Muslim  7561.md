@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا إِسْمَاعِيلُ ابْنُ عُلَيَّةَ، ح وَحَدَّثَنَا إِسْحَاقُ، بْنُ إِبْرَاهِيمَ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كِلاَهُمَا عَنْ أَبِي حَيَّانَ، بِهَذَا الإِسْنَادِ ‏.‏ بِمِثْلِ حَدِيثِهِمَا غَيْرَ أَنَّ ابْنَ عُلَيَّةَ فِي حَدِيثِهِ الْعِنَبِ ‏.‏ كَمَا قَالَ ابْنُ إِدْرِيسَ وَفِي حَدِيثِ عِيسَى الزَّبِيبِ ‏.‏ كَمَا قَالَ ابْنُ مُسْهِرٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو بكر بن ابي شيبة، حدثنا اسماعيل ابن علية، ح وحدثنا اسحاق، بن ابراهيم اخبرنا عيسى بن يونس، كلاهما عن ابي حيان، بهذا الاسناد . بمثل حديثهما غير ان ابن علية في حديثه العنب . كما قال ابن ادريس وفي حديث عيسى الزبيب . كما قال ابن مسهر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবু বাকর ইবনু আবু শাইবাহ, ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আবু হাইয়্যান (রহঃ) হতে এ সূত্রে অনুরূপ বর্ণনা করেছেন। তবে ইবনু উলাইয়্যাহ আবু ইদরীস এর মতো তার হাদীসে (আঙ্গুর) বাক্যটি উল্লেখ করেছেন। আর রাবী ঈসা ইবনু মুসহির (রহঃ) এর ন্যায় তার হাদীসের মধ্যে عِنَبِ (আঙ্গুর) শব্দটি উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ৭২৭৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted on the same authority but with a slight variation of wording
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## French
 
+Rapporté par Ibn ‘Umar رضي الله عنه : Ce hadith a été transmis par la même autorité mais avec une légère différence dans les mots
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-33) Bize Ebû Bekr b. Ebî Şeybe dahî rivayet ettj. (Dediki): Bize İsmail b. Uleyye rivayet etti. H. Bize İshak b. İbrahim de rivayet etti. (Dediki): Bize İsa b. Yûnus haber verdi, Her iki râvi Ebû Hayyan'dan bu isnadla yukarkilerin hadîsi gibi rivayette bulunmuşlardır. Yalnız İbni Uleyye'nin hadîsinde İbni İdris'in dediği gibi «Üzüm»; İsa'nın hadîsinde ise îbni Müshir'in dediği gibi «Kuru üzüm» denilmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسماعیل بن علیہ اور عیسیٰ بن یونس دونوں نے ابوحیان سے اسی سند کے ساتھ ان دونوں کی حدیث کے مانند روایت کی ، البتہ ابن علیہ کی حدیث میں ہے : انگور ، جس طرح ابن ادریس نے کہا ہے ۔ اور عیسیٰ کی روایت میں کشمش ہے ۔ جس طرح ابن مسہر نے کہا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>7561</td></tr><tr><td>Arabic No</td><td>3032.03</td></tr><tr><td>Reference</td><td>Book 56 Hadith 38</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 7561 |
+| Arabic No | 3032.03 |
+| Reference | Book 56 Hadith 38 |

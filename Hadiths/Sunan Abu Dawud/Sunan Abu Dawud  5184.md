@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,138 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، عَنْ مَالِكٍ، عَنْ رَبِيعَةَ بْنِ أَبِي عَبْدِ الرَّحْمَنِ، عَنْ غَيْرِ، وَاحِدٍ، مِنْ عُلَمَائِهِمْ فِي هَذَا فَقَالَ عُمَرُ لأَبِي مُوسَى أَمَا إِنِّي لَمْ أَتَّهِمْكَ وَلَكِنْ خَشِيتُ أَنْ يَتَقَوَّلَ النَّاسُ عَلَى رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
+
 حدثنا عبد الله بن مسلمة، عن مالك، عن ربيعة بن ابي عبد الرحمن، عن غير، واحد، من علمايهم في هذا فقال عمر لابي موسى اما اني لم اتهمك ولكن خشيت ان يتقول الناس على رسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
 
 ## Bengali
 
+। রাবী‘আহ ইবনু আবূ আব্দুর রাহমান (রহঃ) এবং তাদের একাধিক আলিমের সূত্রে এ ঘটনাটি বর্ণিত। উমার (রাঃ) আবূ মূসা (রাঃ)-কে বলেন, জেনে রাখুন! আমি আপনাকে অপবাদ দিচ্ছি না। কিন্তু আমি ভয় করছি যে, মানুষ হয় তো দায়িত্বহীনভাবে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হাদীস বর্ণনা করবে।\[1\]’ সনদ সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। রাবী‘আহ ইবনু আবূ আব্দুর রাহমান (রহঃ) এবং তাদের একাধিক আলিমের সূত্রে এ ঘটনাটি বর্ণিত। উমার (রাঃ) আবূ মূসা (রাঃ)-কে বলেন, জেনে রাখুন! আমি আপনাকে অপবাদ দিচ্ছি না। কিন্তু আমি ভয় করছি যে, মানুষ হয় তো দায়িত্বহীনভাবে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর হাদীস বর্ণনা করবে।[1]’ সনদ সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Abu Musa through a different chain of narrators in a similar manner. This version has :‘Umar said to Abd Musa: I do not blame you, but I am afraid that the people may talk carelessly about the Messenger of Allah (May peace be upon him)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
+
+## French
+
+Le récit mentionné ci-dessus a aussi été transmis par Abu Musa par une autre chaîne de transmetteurs de façon similaire. Dans cette version, ‘Umar a dit à Abu Musa : « Je ne t’en veux pas, mais j’ai peur que les gens ne rapportent à la légère des propos du Messager d’Allah ﷺ. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Rabi b. Ebi Abdirrahman ile onların bu konuda (bilgisi olan) birçok ilim adamlarından (rivayet edildiğine göre) Hz. Ömer, Hz. Ebu Musa'ya şöyle demiştir: Şunu iyi bil ki ben (bu (5180.) hadisten dolayı) Seni suçlamadım. Fakat halkın Rasûlullah (s.a.v.) hakkında hadis uyduracağından endişe ettim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ربیعہ بن ابوعبدالرحمٰن اور دوسرے بہت سے علماء سے اس سلسلہ میں مروی ہے عمر رضی اللہ عنہ نے ابوموسیٰ اشعری رضی اللہ عنہ سے کہا: میں نے تمہیں جھوٹا نہیں سمجھا لیکن میں ڈرا کہ لوگ رسول اللہ صلی اللہ علیہ وسلم سے منسوب کر کے جھوٹی حدیثیں نہ بیان کرنے لگیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5184</td></tr><tr><td>Arabic No</td><td>5184</td></tr><tr><td>Reference</td><td>Book 43 Hadith 412</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5184 |
+| Arabic No | 5184 |
+| Reference | Book 43 Hadith 412 |

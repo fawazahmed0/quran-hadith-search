@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، وَأَبُو سَعِيدٍ الأَشَجُّ جَمِيعًا عَنْ وَكِيعٍ، - قَالَ الأَشَجُّ حَدَّثَنَا وَكِيعٌ، - حَدَّثَنَا الأَعْمَشُ، عَنْ زِيَادِ بْنِ الْحُصَيْنِ أَبِي جَهْمَةَ، عَنْ أَبِي الْعَالِيَةِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ ‏(‏ مَا كَذَبَ الْفُؤَادُ مَا رَأَى‏)‏ ‏(‏ وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى‏)‏ قَالَ رَآهُ بِفُؤَادِهِ مَرَّتَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، وابو سعيد الاشج جميعا عن وكيع، - قال الاشج حدثنا وكيع، - حدثنا الاعمش، عن زياد بن الحصين ابي جهمة، عن ابي العالية، عن ابن عباس، قال ( ما كذب الفواد ما راى) ( ولقد راه نزلة اخرى) قال راه بفواده مرتين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু শাইবাহ (রহঃ) ..... ইবনু আব্বাস (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আল্লাহর বাণীঃ “তিনি যা দেখেছেন, তার অন্তকরণ তা অস্বীকার করেনি" "এবং নিশ্চয়ই তিনি তাকে আরো একবার দেখেছেন"- (সূরাহ্ আন নাজম ৫৩ঃ ১১ ও ১৩) আয়াতদ্বয়ের ব্যাখ্যা হচ্ছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তার প্রভুকে দু'বার অন্তকরণ দ্বারাই দেখেন। (অর্থাৎ বাহ্যিক চোখে প্রত্যক্ষ করেননি)। (ইসলামিক ফাউন্ডেশনঃ ৩৩৪, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is narrated on the authority of Ibn Abbas that the words:" The heart belied not what he saw" (al-Qur'an, Iiii. 11) and" Certainly he saw Him in another descent" (al-Qur'an, Iiii. 13) imply that he saw him twice with his heart
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## French
 
+Rapporté par Ibn ‘Abbas : Les paroles : « Le cœur n’a pas menti sur ce qu’il a vu » (Coran, 53:11) et « Il l’a certes vu lors d’une autre descente » (Coran, 53:13) signifient qu’il l’a vu deux fois avec son cœur
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] dan \[Abu Sa'id al-Asyajj\] semuanya dari \[Waki'\], \[al-Asyajj\] berkata, telah menceritakan kepada kami \[Waki'\] telah menceritakan kepada kami \[al-A'masy\] dari \[Ziyad bin al-Hushain Abu Jahmah\] dari \[Abu al-Aliyah\] dari \[Ibnu Abbas\] dia berkata, "Hatinya tidak mendustakan sesuatu yang telah dia lihat. Dan sungguh Muhammad telah melihat Jibril itu (dalam rupanya yang asli) pada waktu yang lain." Ibnu Abbas berkata, "Beliau telah melihat Jibril dengan hatinya dua kali." Telah menceritakan kepada kami \[Abu Bakar bin Abu Syaibah\] telah menceritakan kepada kami \[Hafsh bin Ghiyats\] dari \[al-A'masy\] telah menceritakan kepada kami \[Abu Jahmah\] dengan sanad ini
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] dan [Abu Sa'id al-Asyajj] semuanya dari [Waki'], [al-Asyajj] berkata, telah menceritakan kepada kami [Waki'] telah menceritakan kepada kami [al-A'masy] dari [Ziyad bin al-Hushain Abu Jahmah] dari [Abu al-Aliyah] dari [Ibnu Abbas] dia berkata, "Hatinya tidak mendustakan sesuatu yang telah dia lihat. Dan sungguh Muhammad telah melihat Jibril itu (dalam rupanya yang asli) pada waktu yang lain." Ibnu Abbas berkata, "Beliau telah melihat Jibril dengan hatinya dua kali." Telah menceritakan kepada kami [Abu Bakar bin Abu Syaibah] telah menceritakan kepada kami [Hafsh bin Ghiyats] dari [al-A'masy] telah menceritakan kepada kami [Abu Jahmah] dengan sanad ini
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Ибн ‘Аббас сказал об аяте «И сердце не солгало о том, что он увидел» (сура «ан-Наджм», аят 11), а также «Он уже видел его другое нисхождение» (сура «ан-Наджм», аят 13): «(Это значит), что он (Пророк ﷺ) дважды видел (Джибриля) сердцем своим»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ebu Bekr b. Ebi Şeybe ile Ebu Sa'id el-Eşecc hep birden Veki'den rivayet ettiler. Eşecc dedi ki: Bize Vekî' rivayet etti. (Dediki): Bize A'meş, Ziyad b. Husayn Ebu Cehme'den, o da Ebu'l-Âliye'den, o da İbni Abbas'tan naklen rivayet etti ki İbni Abbas : «Onun gördüğünü gönül yalanlamadı, yemin olsun ki, onu bir başka inişte de gördü.» âyetleri hakkında onu kalbi ile iki defa gördü demiştir. Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وکیع نے کہا : ہمیں اعمش نے زیاد بن حصین ابو جہمہ سے حدیث سنائی ، انہوں نے ابو عالیہ سے اور انہوں نے حضرت ابن عباس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی ، انہوں نے آیت : ﴿مَا كَذَبَ الْفُؤَادُ مَا رَأَى﴾ ’’جھوٹ نہ دیکھا دل نے جو دیکھا ‘ ‘ اور ﴿وَلَقَدْ رَآهُ نَزْلَةً أُخْرَى﴾ ’’اور آپ نے اسے ایک بار اترتے ہوئے دیکھا ‘ ‘ ( کےبارے میں ) کہا : رسول ا للہ ﷺ نے اسے ( رب تعالیٰ کو ) اپنے دل دو بار دیکھا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>437</td></tr><tr><td>Arabic No</td><td>176.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 342</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 437 |
+| Arabic No | 176.02 |
+| Reference | Book 1 Hadith 342 |

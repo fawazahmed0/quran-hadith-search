@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُصَرِّفُ بْنُ عَمْرٍو الْيَامِيُّ، حَدَّثَنَا يُونُسُ، - يَعْنِي ابْنَ بُكَيْرٍ - حَدَّثَنَا ابْنُ إِسْحَاقَ، حَدَّثَنِي مُحَمَّدُ بْنُ جَعْفَرِ بْنِ الزُّبَيْرِ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي ثَوْرٍ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، قَالَتْ لَمَّا اطْمَأَنَّ رَسُولُ اللَّهِ صلى الله عليه وسلم بِمَكَّةَ عَامَ الْفَتْحِ طَافَ عَلَى بَعِيرٍ يَسْتَلِمُ الرُّكْنَ بِمِحْجَنٍ فِي يَدِهِ ‏.‏ قَالَتْ وَأَنَا أَنْظُرُ إِلَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
+
 حدثنا مصرف بن عمرو اليامي، حدثنا يونس، - يعني ابن بكير - حدثنا ابن اسحاق، حدثني محمد بن جعفر بن الزبير، عن عبيد الله بن عبد الله بن ابي ثور، عن صفية بنت شيبة، قالت لما اطمان رسول الله صلى الله عليه وسلم بمكة عام الفتح طاف على بعير يستلم الركن بمحجن في يده . قالت وانا انظر اليه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
 
 ## Bengali
 
+। সাফিয়্যাহ বিনতু শাইবাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিরাপদ হওয়ার পর তাঁর উটে সওয়ার হয়ে বায়তুল্লাহ তাওয়াফ করেন এবং তাঁর হাতের লাঠির সাহায্যে (ইশারায়) হাজরে আসওয়াদে চুমু দিলেন। সাফিয়্যাহ বলেন, আমি এ দৃশ্য তাকিয়ে দেখেছিলাম।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাফিয়্যাহ বিনতু শাইবাহ (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, মক্কা বিজয়ের সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিরাপদ হওয়ার পর তাঁর উটে সওয়ার হয়ে বায়তুল্লাহ তাওয়াফ করেন এবং তাঁর হাতের লাঠির সাহায্যে (ইশারায়) হাজরে আসওয়াদে চুমু দিলেন। সাফিয়্যাহ বলেন, আমি এ দৃশ্য তাকিয়ে দেখেছিলাম।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Safiyyah, daughter of Shaybah: When the Messenger of Allah (ﷺ) had some rest at Mecca in the year of its Conquest, he performed circumambulation on a camel and touched the corner (black Stone) with a crooked stick in his hand. She said: I was looking at him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
+
+## French
+
+Rapporté par Safiyyah, fille de Shaybah رضي الله عنها : Lorsque le Messager d’Allah ﷺ s’est reposé à La Mecque l’année de sa conquête, il a fait le tawaf sur un chameau et a touché l’angle (de la Pierre Noire) avec un bâton recourbé qu’il tenait à la main. Elle a dit : « Je le regardais. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Musharrif bin 'Amr Al Yami\], telah menceritakan kepada Kami \[Yunus yaitu Ibnu Bukair\], telah menceritakan kepada Kami \[Ibnu Ishaq\], telah menceritakan kepadaku \[Muhammad bin Ja'far bin Az Zubair\] dari \['Ubaidullah bin Abdullah bin Abu Tsaur\], dari \[Shafiyah binti Syaibah\], ia berkata; tatkala Rasulullah shallAllahu wa'alaihi wa sallam tinggal di Mekkah pada saat penaklukan Mekkah, beliau berthawaf di atas unta dan menyentuh rukun menggunakan tongkat di tangannya. Shafiyah berkata; dan aku melihat beliau
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Musharrif bin 'Amr Al Yami], telah menceritakan kepada Kami [Yunus yaitu Ibnu Bukair], telah menceritakan kepada Kami [Ibnu Ishaq], telah menceritakan kepadaku [Muhammad bin Ja'far bin Az Zubair] dari ['Ubaidullah bin Abdullah bin Abu Tsaur], dari [Shafiyah binti Syaibah], ia berkata; tatkala Rasulullah shallAllahu wa'alaihi wa sallam tinggal di Mekkah pada saat penaklukan Mekkah, beliau berthawaf di atas unta dan menyentuh rukun menggunakan tongkat di tangannya. Shafiyah berkata; dan aku melihat beliau
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сафийя бинт Шейба, да будет доволен ею Аллах, передаёт: «Когда Посланник Аллаха ﷺ остановился в Мекке в год её покорения, он совершил таваф верхом на верблюде, касаясь Чёрного камня изогнутой палкой, которая была в его руке». Она сказала: «И я в это время смотрела на него»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Safiyye bınt Şeybe'den; demiştir ki: Resûlullah (S.A.V.) Fetih yılında Mekke'yi fethedince (Beyt'i) hayvan üzerinde elindeki bastonla (Hacer-i Esved'in bulunduğu) rüknü selamlayarak tavaf etti. Ben de kendisine bakıyordum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 صفیہ بنت شیبہ رضی اللہ عنہا کہتی ہیں کہ فتح مکہ کے سال رسول اللہ صلی اللہ علیہ وسلم کو جب مکہ میں اطمینان ہوا تو آپ نے اونٹ پر سوار ہو کر طواف کیا، آپ صلی اللہ علیہ وسلم اپنے ہاتھ کی چھڑی سے حجر اسود کا استلام کر رہے تھے، اور میں آپ کو دیکھ رہی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1878</td></tr><tr><td>Arabic No</td><td>1878</td></tr><tr><td>Reference</td><td>Book 11 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1878 |
+| Arabic No | 1878 |
+| Reference | Book 11 Hadith 158 |

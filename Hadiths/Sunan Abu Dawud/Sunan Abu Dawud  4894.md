@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ، - يَعْنِي ابْنَ مُحَمَّدٍ - عَنِ الْعَلاَءِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ الْمُسْتَبَّانِ مَا قَالاَ فَعَلَى الْبَادِي مِنْهُمَا مَا لَمْ يَعْتَدِ الْمَظْلُومُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
+
 حدثنا عبد الله بن مسلمة، حدثنا عبد العزيز، - يعني ابن محمد - عن العلاء، عن ابيه، عن ابي هريرة، ان رسول الله صلى الله عليه وسلم قال " المستبان ما قالا فعلى البادي منهما ما لم يعتد المظلوم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পরস্পর তিরস্কারকারীর মধ্যে যে প্রথমে আরম্ভ করে উভয়ের দোষ তার উপর বর্তাবে, যতক্ষণ না অপরজন সীমালঙ্ঘন করে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ পরস্পর তিরস্কারকারীর মধ্যে যে প্রথমে আরম্ভ করে উভয়ের দোষ তার উপর বর্তাবে, যতক্ষণ না অপরজন সীমালঙ্ঘন করে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (May peace be upon him) as saying:when two men abuse one another, what they say is laid to the charge of the one who began it, so long as the one who is wronged does not go over the score
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
+
+## French
+
+Abu Huraira رضي الله عنه a rapporté cela du Messager d’Allah ﷺ : « Quand deux hommes s’insultent, ce qu’ils disent est compté contre celui qui a commencé, tant que celui qui est insulté ne dépasse pas les limites. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Maslamah\] berkata, telah menceritakan kepada kami \[Abdul Aziz\] -maksudnya Abdul Aziz bin Muhammad- dari \[Al 'Ala'\] dari \[Bapaknya\] dari \[Abu Hurairah\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling mencaci dengan apa yang mereka ucapkan, maka yang menaggung dosanya adalah yang memulai, yaitu selama orang yang terzhalimi tidak melampaui batas
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Maslamah] berkata, telah menceritakan kepada kami [Abdul Aziz] -maksudnya Abdul Aziz bin Muhammad- dari [Al 'Ala'] dari [Bapaknya] dari [Abu Hurairah] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Dua orang yang saling mencaci dengan apa yang mereka ucapkan, maka yang menaggung dosanya adalah yang memulai, yaitu selama orang yang terzhalimi tidak melampaui batas
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Ebû Hureyre'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) şöyle buyurmuştur: "Karşılıklı olarak sövüşen her iki kişinin söyledikleri (kötü sözleri)nin günahı, (kendisine küfredilerek haksızlığa uğrayan) mazlum kimse (küfrü başlatan kimseden) daha da ileri gitmediği sürece (küfre) ilk defa başlayan kimsenin üzerindedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: باہم گالی گلوچ کرنے والے جو کچھ کہتے ہیں اس کا گناہ اس شخص پر ہو گا جس نے ابتداء کی ہو گی جب تک کہ مظلوم اس سے تجاوز نہ کرے ( اگر وہ تجاوز کر جائے تو زیادتی و تجاوز کا گناہ اس پر ہو گا ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2587)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4894</td></tr><tr><td>Arabic No</td><td>4894</td></tr><tr><td>Reference</td><td>Book 43 Hadith 122</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2587) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4894 |
+| Arabic No | 4894 |
+| Reference | Book 43 Hadith 122 |

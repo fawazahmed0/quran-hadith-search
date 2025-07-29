@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُثْمَانُ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا سُفْيَانُ بْنُ عُيَيْنَةَ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، فِي هَذَا الْخَبَرِ عَنِ النَّبِيِّ صلى الله عليه وسلم فَنَقَشَ فِيهِ ‏"‏ مُحَمَّدٌ رَسُولُ اللَّهِ ‏"‏ ‏.‏ وَقَالَ ‏"‏ لاَ يَنْقُشْ أَحَدٌ عَلَى نَقْشِ خَاتَمِي هَذَا ‏"‏ ‏.‏ ثُمَّ سَاقَ الْحَدِيثَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
+
 حدثنا عثمان بن ابي شيبة، حدثنا سفيان بن عيينة، عن ايوب بن موسى، عن نافع، عن ابن عمر، في هذا الخبر عن النبي صلى الله عليه وسلم فنقش فيه " محمد رسول الله " . وقال " لا ينقش احد على نقش خاتمي هذا " . ثم ساق الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
 
 ## Bengali
 
+। ইবনু উমার (রাঃ) এ বিষয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রূপা দিয়ে একটি আংটি বানালেন এবং তাতে ‘মুহাম্মাদুর রাসূলুল্লাহ’ অংকিত করে বলেন, কেউ যেন তার আংটিতে এ বাক্য অংকিত না করে। অতঃপর বর্ণনাকারী অবশিষ্ট হাদীস বর্ণনা করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু উমার (রাঃ) এ বিষয়ে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সূত্রে বর্ণনা করেন যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রূপা দিয়ে একটি আংটি বানালেন এবং তাতে ‘মুহাম্মাদুর রাসূলুল্লাহ’ অংকিত করে বলেন, কেউ যেন তার আংটিতে এ বাক্য অংকিত না করে। অতঃপর বর্ণনাকারী অবশিষ্ট হাদীস বর্ণনা করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been transmitted by Ibn 'Umar through a different chain of narrators from the Prophet (ﷺ). This version adds:He engraved on it "Muhammad, the Messenger of Allah." and said: "No one must engrave anything in the manner of this signet-ring of mine. He then transmitted the rest of the tradition
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
+
+## French
+
+La tradition mentionnée ci-dessus a aussi été transmise par Ibn ‘Umar رضي الله عنه par une autre chaîne de rapporteurs du Prophète ﷺ. Cette version ajoute : Il y fit graver : « Muhammad, le Messager d’Allah » et dit : « Personne ne doit graver quoi que ce soit de la même manière que ma bague-sceau. » Puis il transmit le reste de la tradition
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Умара, да будет доволен Аллах им и его отцом, что Пророк ﷺ велел выгравировать на своём перстне: «Мухаммад, Посланник Аллаха» и сказал: «Пусть никто не вырезает на своём перстне то, что выгравировано на этом моём перстне». И он привёл хадис полностью
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Osman b. Ebî Şeybe haber verdi, Bize Eyyûb b. Musa'dan naklen Sufyân b. Uyeyne haber verdi. Eyyûb, Nâfi'den o da İbn Ömer'den bu (4218.) haberi nakledip; şöyle dedi: Rasûlullah (s.a.v.) ona "Muhammedün rasulullah" sözünü kazıttı ve "Benim bu yüzüğümün nakşı üstüne (bunun benzerini) kimse kazıtmasın" buyurdu. Ravî sonra hadîsin kalanını nakletti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ابن عمر رضی اللہ عنہما سے اس روایت میں مرفوعاً مروی ہے اس میں ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے «محمد رسول الله» کندہ کرایا، اور فرمایا: کوئی میری اس انگوٹھی کے طرز پر کندہ نہ کرائے پھر راوی نے آگے پوری حدیث بیان کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (2091)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4219</td></tr><tr><td>Arabic No</td><td>4219</td></tr><tr><td>Reference</td><td>Book 36 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (2091) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4219 |
+| Arabic No | 4219 |
+| Reference | Book 36 Hadith 6 |

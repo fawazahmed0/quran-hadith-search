@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا الْعَبَّاسُ بْنُ الْوَلِيدِ بْنِ مَزِيدٍ، قَالَ أَخْبَرَنِي أَبِي قَالَ، حَدَّثَنَا الأَوْزَاعِيُّ، قَالَ حَدَّثَنِي الزُّهْرِيُّ، قَالَ حَدَّثَنَا عَطَاءُ بْنُ يَزِيدَ، عَنْ أَبِي أَيُّوبَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ الْوِتْرُ حَقٌّ فَمَنْ شَاءَ أَوْتَرَ بِخَمْسٍ وَمَنْ شَاءَ أَوْتَرَ بِثَلاَثٍ وَمَنْ شَاءَ أَوْتَرَ بِوَاحِدَةٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |
+
 اخبرنا العباس بن الوليد بن مزيد، قال اخبرني ابي قال، حدثنا الاوزاعي، قال حدثني الزهري، قال حدثنا عطاء بن يزيد، عن ابي ايوب، ان رسول الله صلى الله عليه وسلم قال " الوتر حق فمن شاء اوتر بخمس ومن شاء اوتر بثلاث ومن شاء اوتر بواحدة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |
 
 ## Bengali
 
+। আব্বাস ইবনু ওয়ালীদ (রহঃ) ... আবূ আইয়ুব (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বিতরের সালাত ওয়াজিব। অতএব, যে ইচ্ছা করে সে পাঁচ রাকআত দ্বারা বেজোড় করে দেবে আর যে ইচ্ছা করে সে তিন রাকআত দ্বারা বেজোড় করে দেবে আর যে ইচ্ছা করে সে এক রাকআত দ্বারা বেজোড় করে দেবে। \[সহীহ। পূর্বোক্ত হাদীস দ্রষ্টব্য\]
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্বাস ইবনু ওয়ালীদ (রহঃ) ... আবূ আইয়ুব (রাঃ) থেকে বর্ণিত যে, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, বিতরের সালাত ওয়াজিব। অতএব, যে ইচ্ছা করে সে পাঁচ রাকআত দ্বারা বেজোড় করে দেবে আর যে ইচ্ছা করে সে তিন রাকআত দ্বারা বেজোড় করে দেবে আর যে ইচ্ছা করে সে এক রাকআত দ্বারা বেজোড় করে দেবে। [সহীহ। পূর্বোক্ত হাদীস দ্রষ্টব্য]
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Al-Awza'I said:"Az-Zuhri narrated to me, he said: 'Ata bin Yazid, from Abu Ayyub: The Messenger of Allah (ﷺ) said: 'Witr is a duty, and whoever wants to pray witr with seven (rak'ahs), let him do so; whoever wants to pray witr with five, let him do so, whoever wants to pray witr with three, let him do so; and whoever wants to pray witr with one, let him do so
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |
+
+## French
+
+Rapporté par Al-Awza'i : "Az-Zuhri m'a rapporté, il a dit : 'Ata bin Yazid, de la part d'Abu Ayyub : Le Messager d'Allah (ﷺ) a dit : 'Le witr est une obligation, et celui qui veut prier le witr avec sept rak'ahs, qu'il le fasse ; celui qui veut prier le witr avec cinq, qu'il le fasse ; celui qui veut prier le witr avec trois, qu'il le fasse ; et celui qui veut prier le witr avec une, qu'il le fasse
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Al 'Abbas bin Al Walid bin Mazid\] dia berkata; \[bapakku\] telah mengabarkan kepadaku, dia berkata; telah menceritakan kepada kami \[Al Auza'i\] dia berkata; telah menceritakan kepadaku \[Az Zuhri\] dia berkata; telah menceritakan kepada kami \['Atha bin Yazid\] dari \[Abu Ayyub\], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat witir itu benar. Barangsiapa hendak shalat witir, maka ia boleh mengerjakannya lima rakaat. Barangsiapa hendak shalat witir, maka ia boleh mengerjakannya tiga rakaat, dan barangsiapa hendak shalat witir, maka ia boleh mengerjakannya satu rakaat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Al 'Abbas bin Al Walid bin Mazid] dia berkata; [bapakku] telah mengabarkan kepadaku, dia berkata; telah menceritakan kepada kami [Al Auza'i] dia berkata; telah menceritakan kepadaku [Az Zuhri] dia berkata; telah menceritakan kepada kami ['Atha bin Yazid] dari [Abu Ayyub], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Shalat witir itu benar. Barangsiapa hendak shalat witir, maka ia boleh mengerjakannya lima rakaat. Barangsiapa hendak shalat witir, maka ia boleh mengerjakannya tiga rakaat, dan barangsiapa hendak shalat witir, maka ia boleh mengerjakannya satu rakaat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اوزاعی نے زہری سے اور زہری نے عطاء بن یزید سے اور عطاء نے ابوایوب رضی اللہ عنہ سے روایت کی ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: وتر حق ہے، جو چاہے پانچ پڑھے، جو چاہے تین پڑھے اور جو چاہے ایک پڑھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1711</td></tr><tr><td>Arabic No</td><td>1711</td></tr><tr><td>Reference</td><td>Book 20 Hadith 114</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1711 |
+| Arabic No | 1711 |
+| Reference | Book 20 Hadith 114 |

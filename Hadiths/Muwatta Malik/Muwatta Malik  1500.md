@@ -14,62 +14,108 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مَالِكٌ، عَنْ نَافِعٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّهُ قَالَ جَاءَتِ الْيَهُودُ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَذَكَرُوا لَهُ أَنَّ رَجُلاً مِنْهُمْ وَامْرَأَةً زَنَيَا فَقَالَ لَهُمْ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَا تَجِدُونَ فِي التَّوْرَاةِ فِي شَأْنِ الرَّجْمِ ‏"‏ ‏.‏ فَقَالُوا نَفْضَحُهُمْ وَيُجْلَدُونَ ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ سَلاَمٍ كَذَبْتُمْ إِنَّ فِيهَا الرَّجْمَ ‏.‏ فَأَتَوْا بِالتَّوْرَاةِ فَنَشَرُوهَا فَوَضَعَ أَحَدُهُمْ يَدَهُ عَلَى آيَةِ الرَّجْمِ ثُمَّ قَرَأَ مَا قَبْلَهَا وَمَا بَعْدَهَا فَقَالَ لَهُ عَبْدُ اللَّهِ بْنُ سَلاَمٍ ارْفَعْ يَدَكَ فَرَفَعَ يَدَهُ فَإِذَا فِيهَا آيَةُ الرَّجْمِ فَقَالُوا صَدَقَ يَا مُحَمَّدُ فِيهَا آيَةُ الرَّجْمِ ‏.‏ فَأَمَرَ بِهِمَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَرُجِمَا ‏.‏ فَقَالَ عَبْدُ اللَّهِ بْنُ عُمَرَ فَرَأَيْتُ الرَّجُلَ يَحْنِي عَلَى الْمَرْأَةِ يَقِيهَا الْحِجَارَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |
+
 حدثنا مالك، عن نافع، عن عبد الله بن عمر، انه قال جاءت اليهود الى رسول الله صلى الله عليه وسلم فذكروا له ان رجلا منهم وامراة زنيا فقال لهم رسول الله صلى الله عليه وسلم " ما تجدون في التوراة في شان الرجم " . فقالوا نفضحهم ويجلدون . فقال عبد الله بن سلام كذبتم ان فيها الرجم . فاتوا بالتوراة فنشروها فوضع احدهم يده على اية الرجم ثم قرا ما قبلها وما بعدها فقال له عبد الله بن سلام ارفع يدك فرفع يده فاذا فيها اية الرجم فقالوا صدق يا محمد فيها اية الرجم . فامر بهما رسول الله صلى الله عليه وسلم فرجما . فقال عبد الله بن عمر فرايت الرجل يحني على المراة يقيها الحجارة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 রেওয়ায়ত ১. আবদুল্লাহ্ ইবন উমর (রাঃ) বলেন, ইহুদীদের একদল রাসূলুল্লাহ সাল্লাল্লাহু আলায়হি ওয়া সাল্লামের নিকট আসিয়া বলিল, তাহাদের একজন পুরুষ ও একজন স্ত্রীলোক ব্যভিচারে লিপ্ত হইয়াছে। রাসূলুল্লাহ্ সাল্লাল্লাহু আলায়হি ওয়া সাল্লাম তাহাদেরকে জিজ্ঞাসা করিলেন : রজম বা প্রস্তরাঘাতের ব্যাপারে তাওরাতে কি আদেশ রহিয়াছে? তাহারা বলিলঃ আমরা ব্যভিচারকারীকে লজ্জিত করি এবং বেত্ৰাঘাত করিয়া থাকি। আবদুল্লাহ ইবন সালাম বলিলেন, তোমরা মিথ্যা বলিতেছ। তাওরাতে প্রস্তরাঘাতের শাস্তি রহিয়াছে। তাওরাত আনয়ন কর, উহা পড়িয়া দেখ। অতঃপর তাহারা তাওরাত খুলিল এক ব্যক্তি বেত্রাঘাতের উপর হাত রাখিয়া পূর্বাপর অবশিষ্ট আয়াত পড়িয়া শুনাইল। আবদুল্লাহ ইবন সালাম তাহাকে বলিলঃ তোমার হাত উঠাও তো। সে তাহার হাত উঠাইলে দেখা গেল উহাতে প্রস্তরাঘাতের আয়াত রহিয়াছে। অতঃপর সকল ইহুদীই স্বীকার করিল যে, আবদুল্লাহ ইবন সালাম ঠিকই বলিয়াছে তাওরাতে প্রস্তাঘাতের আয়াত বিদ্যমান রহিয়াছে। রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উভয়কে প্রস্তরাঘাতের আদেশ করিলেন। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর আদেশে উভয়কে প্রস্তরাঘাত করা হইল। আবদুল্লাহ্ ইবন উমর (রাঃ) বলেনঃ আমি দেখিলাম, পুরুষটি ঐ নারীকে আঘাত হইতে রক্ষা করিতে তাহার উপর ঝুঁকিয়া পড়িতেছিল। মালিক (রহঃ) বলেনঃ উহার উপর ঝুঁকিয়া পড়িতেছিল অর্থ পুরুষ নিজে প্রস্তরাঘাত সহ্য করিয়াও ঐ নারীকে প্রস্তরাঘাত হইতে রক্ষা করিতে যাইয়া তাহার উপর উপুড় হইয়া পড়িয়ছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malik said in the case of an umm walad who injured someone, "The blood-money of that injury is the responsibility of her master from his property, unless the blood-money of the injury is greater than the value of the umm walad. Her master does not have to pay more than her value. That is because when the master of a slave or slave-girl surrenders his slave or slave-girl for an injury which one of them has done, he does not owe any more than that, even if the blood-money is greater. As the master of the umm walad cannot surrender her because of the precedent of the sunna, when he pays her price, it is as if he had surrendered her. He does not have to pay more than that. This is the best of what I have heard about the matter. The master is not obliged to assume responsibility for more than an umm walad's value because of her criminal action." Malik related to me from Nafi that Abdullah ibn Umar said, "The Jews came to the Messenger of Allah, may Allah bless him and grant him peace, and mentioned to him that a man and woman from among them had committed adultery. The Messenger of Allah, may Allah bless him and grant him peace, asked them, 'What do you find in the Torah about stoning?' They said, 'We make their wrong action known and flog them.' Abdullah ibn Salam said, 'You have lied! It has stoning for it, so bring the Torah.' They spread it out and one of them placed his hand over the ayat of stoning. Then he read what was before it and what was after it. Abdullah ibn Salam told him to lift his hand. He lifted his hand and there was the ayat of stoning. They said, 'He has spoken the truth, Muhammad. The ayat of stoning is in it.' So the Messenger of Allah, may Allah bless him and grant him peace, gave the order and they were stoned . " Abdullah ibn Umar added, "I saw the man leaning over the woman to protect her from the stones." Malik commented, "By leaning he meant throwing himself over her so that the stones fell on him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami Malik dari \[Nafi'\] dari \[Abdullah bin Umar\] berkata; "Orang-orang Yahudi menemui Rasulullah shallallahu 'alaihi wasallam dan menyebutkan bahwa ada seorang laki-laki dan wanita dari mereka telah berbuat berzina. Rasulullah shallallahu 'alaihi wasallam bertanya: 'Apa yang kalian dapatkan dalam Taurat tentang rajam? ' Mereka menjawab, "Kami akan membuka aib mereka dan menjilidnya." Abdullah bin Salam pun berkata; "Kalian dusta! Sesungguhnya di dalamnya ada hukum rajam.' Maka mereka pun menghadirkan kitab Taurat seraya membukanya, namun salah seorang dari mereka meletakkan tangannya pada ayat rajam. Kamuidan ia membaca ayat yang sebelumnya dan sesudahnya. Abdullah bin Salam lalu berkata orang itu, "Angkatlah tanganmu! ' Orang Yahudi itu lantas mengangkat tangannya dan ternyata di dalamnya ada ayat rajam. Mereka berkata; 'Wahai Muhammad, ia benar. Dalam Taurat memang ada ayat rajam." Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk merajam mereka berdua." Abdullah bin Umar berkata; "Saya melihat lelaki itu membungkuk ke arah wanita untuk melindunginya dari lemparan batu." Malik berkata; "Laki-laki itu melindungi wanita tersebut dengan tubuhnya hingga batu yang dilempar mengenai tubuhnya sendiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami Malik dari [Nafi'] dari [Abdullah bin Umar] berkata; "Orang-orang Yahudi menemui Rasulullah shallallahu 'alaihi wasallam dan menyebutkan bahwa ada seorang laki-laki dan wanita dari mereka telah berbuat berzina. Rasulullah shallallahu 'alaihi wasallam bertanya: 'Apa yang kalian dapatkan dalam Taurat tentang rajam? ' Mereka menjawab, "Kami akan membuka aib mereka dan menjilidnya." Abdullah bin Salam pun berkata; "Kalian dusta! Sesungguhnya di dalamnya ada hukum rajam.' Maka mereka pun menghadirkan kitab Taurat seraya membukanya, namun salah seorang dari mereka meletakkan tangannya pada ayat rajam. Kamuidan ia membaca ayat yang sebelumnya dan sesudahnya. Abdullah bin Salam lalu berkata orang itu, "Angkatlah tanganmu! ' Orang Yahudi itu lantas mengangkat tangannya dan ternyata di dalamnya ada ayat rajam. Mereka berkata; 'Wahai Muhammad, ia benar. Dalam Taurat memang ada ayat rajam." Maka Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk merajam mereka berdua." Abdullah bin Umar berkata; "Saya melihat lelaki itu membungkuk ke arah wanita untuk melindunginya dari lemparan batu." Malik berkata; "Laki-laki itu melindungi wanita tersebut dengan tubuhnya hingga batu yang dilempar mengenai tubuhnya sendiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Ömer r.a.'den: «Yahudiler Resuluîlah Sallallahu Aleyhi ve Sellem'e gelerek kendilerinden bir erkekle bir kadının zina ettiğini haber verdiler. Bunun üzerine Resuluîlah Sallallahu Aleyhi ve Sellem kendilerine: «Tevratta recm karşılığında, ceza olarak ne var?» diye so­runca: «Zina edenlere meydan dayağı atılarak onları rezil ederiz» dediler. Bunu işiten Abdullah b. Selam «Yalan söylüyorsunuz, Tevrat'ta recm cezası vardır» dedi. Hemen Tevratı getirip açtılar. Biri elini recm. ayeti üzerine koyarak, önünü ve sonunu okumağa başlayınca, Abdullah b. Selam ona: «Elini kaldır» dedi. Elini kaldı­rınca, recm ayeti gözüktü, Bunun üzerine Yahudiler: «Doğru ya Muhammed, Tevratta recm ayeti vardır» dediklerinde, Resuluî­lah Sallallahu Aleyhi ve Sellem zina edenlerin recm edilmelerini emretti, recmolundular. İbn Ömer (r.a.) der ki: Recm edilen adamı gördüm, atılan taş lardan korumak için kadının üzerine eğiliyordu.» Diğer tahric: Buhari, Hudud; Müslim, Hudud; Şafiî, Risale, no:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ تعالیٰ عنہ سے روایت ہے کہ یہودی رسول اللہ کے پاس آئے اور بیان کیا کہ ہم میں سے ایک مرد اور عورت نے زنا کیا تو رسول اللہ صلی اللہ علیہ وآلہ وسلم نے فرمایا کہ تورات میں کیا حکم ہے رجم کا؟ یہودیوں نے کہا ہم میں جو کوئی زنا کرے اس کو ہم رسوا کرتے ہیں اور کوڑے مارتے ہیں عبداللہ بن سلام نے کہا تم جھوٹ بولتے ہو تورات میں رجم ہے لاؤ تم تورات کو پڑھو اس کو ، انہوں نے تورات کو کھولا اور ایک شخص نے ان میں سے اپنا ہاتھ رجم کی آیت پر رکھ لیا اور اس کے اول اور آخر کی آیتیں پڑھیں عبداللہ بن سلام نے اس سے کہا اپنا ہاتھ اٹھا اس نے جو ہاتھ اٹھایا تو رجم کی آیت نکلی تب سب یہودی کہنے لگے کہ سچ کہا عبداللہ بن سلام نے آیت رجم کی موجود ہے پھر رسول اللہ صلی اللہ علیہ وآلہ وسلم نے حکم کیا رجم کا تو وہ مرد اور عورت رجم کئے گئے عبداللہ بن عمر نے کہا کہ میں نے مرد کو دیکھا کہ وہ عورت کی طرف جھکتا تھا اس کو بچانے پتھروں سے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1500</td></tr><tr><td>Arabic No</td><td>1500</td></tr><tr><td>Reference</td><td>Book 41 Hadith 1</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1500 |
+| Arabic No | 1500 |
+| Reference | Book 41 Hadith 1 |

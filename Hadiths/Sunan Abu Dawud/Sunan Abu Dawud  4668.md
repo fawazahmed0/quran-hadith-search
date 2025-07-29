@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، حَدَّثَنَا عَمْرٌو، - يَعْنِي ابْنَ يَحْيَى - عَنْ أَبِيهِ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ لاَ تُخَيِّرُوا بَيْنَ الأَنْبِيَاءِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
+
 حدثنا موسى بن اسماعيل، حدثنا وهيب، حدثنا عمرو، - يعني ابن يحيى - عن ابيه، عن ابي سعيد الخدري، قال قال النبي صلى الله عليه وسلم " لا تخيروا بين الانبياء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা নবীগণের মধ্যে মর্যাদার পার্থক্য করো না।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমরা নবীগণের মধ্যে মর্যাদার পার্থক্য করো না।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Sa’id al-Khudri reported the Messenger of Allah (May peace be upon him) as saying :Do not distinguish between the Prophets
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri : Le Messager d’Allah ﷺ a dit : « Ne faites pas de distinction entre les Prophètes. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] berkata, telah menceritakan kepada kami \[Wuhaib\] berkata, telah menceritakan kepada kami \[Amru\] -maksudnya Amru bin Yahya- dari \[Bapaknya\] dari \[Abu Sa'id Al Khudri\] ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Jangan kalian membeda-bedakan antara para Nabi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] berkata, telah menceritakan kepada kami [Wuhaib] berkata, telah menceritakan kepada kami [Amru] -maksudnya Amru bin Yahya- dari [Bapaknya] dari [Abu Sa'id Al Khudri] ia berkata, "Nabi shallallahu 'alaihi wasallam bersabda: "Jangan kalian membeda-bedakan antara para Nabi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Са‘ида аль-Худри, что Пророк ﷺ сказал: «Не превозносите одних пророков над другими»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Said el-Hudri'den (rivayet edildiğine göre) Nebi (s.a.v.) "Nebilerin birini diğerinden üstün görmeyiniz" buyurmuştur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ ابو سعید خدری رضی اللہ عنہ کہتے ہیں کہ
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (2412) Sahih Muslim (2374)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4668</td></tr><tr><td>Arabic No</td><td>4668</td></tr><tr><td>Reference</td><td>Book 42 Hadith 73</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (2412) Sahih Muslim (2374) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4668 |
+| Arabic No | 4668 |
+| Reference | Book 42 Hadith 73 |

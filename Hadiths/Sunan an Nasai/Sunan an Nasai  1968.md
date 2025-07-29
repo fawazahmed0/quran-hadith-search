@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ حَدَّثَنَا عَبْدُ اللَّهِ، عَنْ مُوسَى بْنِ عُقْبَةَ، عَنْ عَبْدِ الْوَاحِدِ بْنِ حَمْزَةَ، أَنَّ عَبَّادَ بْنَ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، أَخْبَرَهُ أَنَّ عَائِشَةَ قَالَتْ مَا صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم عَلَى سُهَيْلِ ابْنِ بَيْضَاءَ إِلاَّ فِي جَوْفِ الْمَسْجِدِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |
+
 اخبرنا سويد بن نصر، قال حدثنا عبد الله، عن موسى بن عقبة، عن عبد الواحد بن حمزة، ان عباد بن عبد الله بن الزبير، اخبره ان عايشة قالت ما صلى رسول الله صلى الله عليه وسلم على سهيل ابن بيضاء الا في جوف المسجد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সুওয়ায়দ ইবনু নসর (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ইবনু বায়দা (রাঃ)-এর উপর মসজিদের অভ্যন্তরেই জানাজার সালাত আদায় করেছিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Abdul-Wahid bin Hamzah that 'Abbad bin 'Abdullah bin Az-Zubair told him that 'Aishah said:"the Messenger of Allah did not offer the funeral prayer for Suhail bin Baida anywhere but inside the Masjid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |
+
+## French
+
+Rapporté par ‘Abdul-Wahid bin Hamzah, selon ‘Abbad bin ‘Abdullah bin Az-Zubair, d’après ‘Aishah : Le Messager d’Allah ﷺ n’a fait la prière funéraire pour Suhail bin Baida qu’à l’intérieur de la mosquée
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid bin Naslr\] dia berkata; telah menceritakan kepada kami \['Abdullah\] dari \[Musa bin 'Uqbah\] dari \['Abdul Wahid bin Hamzah\], \['Abbad bin 'Abdullah bin Az Zubair\] mengabarkan kepadanya bahwasanya \['Aisyah\] dia berkata; "Tidaklah Rasulullah shallallahu 'alaihi wasallam menshalati Suhail bin Baidla' melainkan di dalam masjid
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid bin Naslr] dia berkata; telah menceritakan kepada kami ['Abdullah] dari [Musa bin 'Uqbah] dari ['Abdul Wahid bin Hamzah], ['Abbad bin 'Abdullah bin Az Zubair] mengabarkan kepadanya bahwasanya ['Aisyah] dia berkata; "Tidaklah Rasulullah shallallahu 'alaihi wasallam menshalati Suhail bin Baidla' melainkan di dalam masjid
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا بیان کرتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے سہیل بن بیضاء ۱؎ کی نماز جنازہ مسجد کے صحن ہی میں پڑھی تھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1968</td></tr><tr><td>Arabic No</td><td>1968</td></tr><tr><td>Reference</td><td>Book 21 Hadith 151</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1968 |
+| Arabic No | 1968 |
+| Reference | Book 21 Hadith 151 |

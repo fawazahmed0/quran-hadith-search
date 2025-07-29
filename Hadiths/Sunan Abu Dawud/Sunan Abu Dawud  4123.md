@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ وَعْلَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ إِذَا دُبِغَ الإِهَابُ فَقَدْ طَهُرَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
+
 حدثنا محمد بن كثير، اخبرنا سفيان، عن زيد بن اسلم، عن عبد الرحمن بن وعلة، عن ابن عباس، قال سمعت رسول الله صلى الله عليه وسلم يقول " اذا دبغ الاهاب فقد طهر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ চামড়া দাবাগাত করা হলে পবিত্র হয়।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ চামড়া দাবাগাত করা হলে পবিত্র হয়।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:That he heard the Messenger of Allah (ﷺ) say: When a skin is tanned, it is pure
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
+
+## French
+
+Rapporté par Ibn ‘Abbas رضي الله عنه : Il a entendu le Messager d’Allah ﷺ dire : « Quand une peau est tannée, elle devient pure. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\] berkata, telah mengabarkan kepada kami \[Sufyan\] dari \[Zaid bin Aslam\] dari \['Abdurrahman bin Wa'lah\] dari \[Ibnu Abbas\] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kulit disamak, maka ia telah suci
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Zaid bin Aslam] dari ['Abdurrahman bin Wa'lah] dari [Ibnu Abbas] ia berkata, "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika kulit disamak, maka ia telah suci
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом: «Я слышал, как Посланник Аллаха ﷺ говорил: “Если шкура выдублена, она считается чистой”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas'dan rivayet olunmuştur; dedi ki: Rasûlullah (s.a.v.)'i; "Deri tabaklandığı zaman temiz olur" buyururken işittim. Bu hadis; Müslim, Hayz; Nesâî, Fer; Darimî, .edahii; Muvatta, saya; Ahmed b. Hanbel I. 219.227,237, 270. 274. 280. 314 328. 343, 365, 372. VI 73. 104. 148, 153. te de var. İzah 4124 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: جب چمڑہ دباغت دے دیا جائے تو وہ پاک ہو جاتا ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (366)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4123</td></tr><tr><td>Arabic No</td><td>4123</td></tr><tr><td>Reference</td><td>Book 34 Hadith 104</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (366) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4123 |
+| Arabic No | 4123 |
+| Reference | Book 34 Hadith 104 |

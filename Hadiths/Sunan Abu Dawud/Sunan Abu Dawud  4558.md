@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، ح وَحَدَّثَنَا ابْنُ مُعَاذٍ، حَدَّثَنَا أَبِي ح، وَحَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، أَخْبَرَنَا يَزِيدُ بْنُ زُرَيْعٍ، كُلُّهُمْ عَنْ شُعْبَةَ، عَنْ قَتَادَةَ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ هَذِهِ وَهَذِهِ سَوَاءٌ ‏"‏ ‏.‏ قَالَ يَعْنِي الإِبْهَامَ وَالْخِنْصَرَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
+
 حدثنا مسدد، حدثنا يحيى، ح وحدثنا ابن معاذ، حدثنا ابي ح، وحدثنا نصر بن علي، اخبرنا يزيد بن زريع، كلهم عن شعبة، عن قتادة، عن عكرمة، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم " هذه وهذه سواء " . قال يعني الابهام والخنصر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এটা এবং ওটা সমান, অর্থাৎ বৃদ্ধা ও কনিষ্ঠা আঙ্গুলের দিয়াত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ এটা এবং ওটা সমান, অর্থাৎ বৃদ্ধা ও কনিষ্ঠা আঙ্গুলের দিয়াত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:The Messenger of Allah (ﷺ) as saying: This and that are equal, that is, the thumb and the little finger
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
+
+## French
+
+Rapporté par Ibn 'Abbas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Cela et cela sont égaux », c’est-à-dire le pouce et l’auriculaire
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] berkata, telah menceritakan kepada kami \[Yahya\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Ibnu Mu'adz\] berkata, telah menceritakan kepada kami \[Bapakku\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Nashr bin Ali\] berkata, telah mengabarkan kepada kami \[Yazid bin Zurai'\] semuanya dari \[Syu'bah\] dari \[Qatadah\] dari \[Ikrimah\] dari \[Ibnu Abbas\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini dengan ini (tebusannya) sama, yakni ibu jari dengan jari kelingking
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Yahya]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ibnu Mu'adz] berkata, telah menceritakan kepada kami [Bapakku]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Nashr bin Ali] berkata, telah mengabarkan kepada kami [Yazid bin Zurai'] semuanya dari [Syu'bah] dari [Qatadah] dari [Ikrimah] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Ini dengan ini (tebusannya) sama, yakni ibu jari dengan jari kelingking
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «(Компенсация /дийа/ за) этот палец равна компенсации за этот». Он имел в виду большой палец и мизинец
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.a) den; Rasûlullah (s.a.v); baş parmakla küçük parmağı kastederek; "Bu ve bu eşittir" buyurdu. Diğer tahric edenler: Buharî. diyât: Tirmizî, diyât; Nesâî, kasâme; İbn Mâce, diyet; Ahme b. Hanbel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: یہ اور یہ برابر ہیں یعنی انگوٹھا اور چھنگلی ( کانی انگلی ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6895)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4558</td></tr><tr><td>Arabic No</td><td>4558</td></tr><tr><td>Reference</td><td>Book 41 Hadith 65</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6895) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4558 |
+| Arabic No | 4558 |
+| Reference | Book 41 Hadith 65 |

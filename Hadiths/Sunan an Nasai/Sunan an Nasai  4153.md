@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا هَارُونُ بْنُ عَبْدِ اللَّهِ، قَالَ حَدَّثَنَا أَبُو أُسَامَةَ، قَالَ حَدَّثَنِي الْوَلِيدُ بْنُ كَثِيرٍ، قَالَ حَدَّثَنِي عُبَادَةُ بْنُ الْوَلِيدِ، أَنَّ أَبَاهُ الْوَلِيدَ، حَدَّثَهُ عَنْ جَدِّهِ، عُبَادَةَ بْنِ الصَّامِتِ قَالَ بَايَعْنَا رَسُولَ اللَّهِ صلى الله عليه وسلم عَلَى السَّمْعِ وَالطَّاعَةِ فِي عُسْرِنَا وَيُسْرِنَا وَمَنْشَطِنَا وَمَكَارِهِنَا وَعَلَى أَنْ لاَ نُنَازِعَ الأَمْرَ أَهْلَهُ وَعَلَى أَنْ نَقُولَ بِالْعَدْلِ أَيْنَ كُنَّا لاَ نَخَافُ فِي اللَّهِ لَوْمَةَ لاَئِمٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |
+
 اخبرنا هارون بن عبد الله، قال حدثنا ابو اسامة، قال حدثني الوليد بن كثير، قال حدثني عبادة بن الوليد، ان اباه الوليد، حدثه عن جده، عبادة بن الصامت قال بايعنا رسول الله صلى الله عليه وسلم على السمع والطاعة في عسرنا ويسرنا ومنشطنا ومكارهنا وعلى ان لا ننازع الامر اهله وعلى ان نقول بالعدل اين كنا لا نخاف في الله لومة لايم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হারূন ইবন আবদুল্লাহ (রহঃ) ... উবাদা ইবন সামিত (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমরা রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট অনুকূল-প্রতিকূল এবং সুখ-দুঃখ সর্বাবস্থায় শ্রবণ ও আনুগত্য প্রদর্শনের বায়'আত করলাম, আর একথার যে, আমরা আমাদের শাসকের সাথে বিরোধ করবো না, এবং আমরা যেখানেই থাকি না কেন, ন্যায়ানুগ কথা বলবো। আর আল্লাহ্ তা'আলার ব্যাপারে কোন তিরস্কারকারীর তিরস্কারে ভয় করবো না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Ubadah bin As-Samit said:"We pledged to the Messenger of Allah to hear and obey during our hardship and our ease, when we felt energetic and when we felt tired, that we would not contend with the orders of whomever was entrusted with it, that we would stand for justice wherever we may be, and that we would not fear the blame of any blamer for the sake of Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |
+
+## French
+
+Rapporté par 'Ubadah bin As-Samit : Nous avons prêté serment au Messager d'Allah ﷺ d'écouter et d'obéir, aussi bien dans la difficulté que dans la facilité, quand nous étions pleins d'énergie ou fatigués, de ne pas contester les ordres de celui à qui cela était confié, de défendre la justice où que nous soyons, et de ne pas craindre le blâme de quiconque pour Allah
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Harun bin Abdullah\], ia berkata; telah menceritakan kepada kami \[Abu Usamah\], ia berkata; telah menceritakan kepadaku \[Al Walid bin Katsir\], ia berkata; telah menceritakan kepadaku \['Ubadah bin Al Walid\] bahwa \[ayahnya\] telah menceritakan kepadanya dari \[kakeknya yaitu 'Ubadah bin Ash Shamit\], ia berkata; kami membaiat Rasulullah shallallahu 'alaihi wasallam untuk mendengar dan taat dalam keadaan sulit dan mudah, kami senangi maupun kami benci, dan tidak merebut kekuasaan dari pemiliknya, dan melakukan kebenaran dimanapun kami berada, tidak takut kepada celaan orang yang mencela
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Harun bin Abdullah], ia berkata; telah menceritakan kepada kami [Abu Usamah], ia berkata; telah menceritakan kepadaku [Al Walid bin Katsir], ia berkata; telah menceritakan kepadaku ['Ubadah bin Al Walid] bahwa [ayahnya] telah menceritakan kepadanya dari [kakeknya yaitu 'Ubadah bin Ash Shamit], ia berkata; kami membaiat Rasulullah shallallahu 'alaihi wasallam untuk mendengar dan taat dalam keadaan sulit dan mudah, kami senangi maupun kami benci, dan tidak merebut kekuasaan dari pemiliknya, dan melakukan kebenaran dimanapun kami berada, tidak takut kepada celaan orang yang mencela
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4153</td></tr><tr><td>Arabic No</td><td>4153</td></tr><tr><td>Reference</td><td>Book 39 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4153 |
+| Arabic No | 4153 |
+| Reference | Book 39 Hadith 5 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ نَافِعٍ، عَنْ إِبْرَاهِيمَ بْنِ عَبْدِ اللَّهِ بْنِ حُنَيْنٍ، عَنْ أَبِيهِ، عَنْ عَلِيٍّ، قَالَ نَهَانِي رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ لُبْسِ الْقَسِّيِّ وَالْمُعَصْفَرِ وَعَنْ تَخَتُّمِ الذَّهَبِ وَعَنِ الْقِرَاءَةِ فِي الرُّكُوعِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |
+
 اخبرنا قتيبة، عن مالك، عن نافع، عن ابراهيم بن عبد الله بن حنين، عن ابيه، عن علي، قال نهاني رسول الله صلى الله عليه وسلم عن لبس القسي والمعصفر وعن تختم الذهب وعن القراءة في الركوع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... আলী (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে রেশম মিশ্রিত কাপড়, কুসূম রং-এর কাপড়; সোনার আংটি পরিধান করতে এবং রুকুতে কিরাআত থেকে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ali said:"The Messenger of Allah (ﷺ) forbade me from wearing Al-Qassi, and clothes dyed from safflower, and from wearing gold rings, and from reciting Qura'n while bowing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |
+
+## French
+
+Rapporté par 'Ali : « Le Messager d’Allah (ﷺ) m’a interdit de porter de l’Al-Qassi, des vêtements teints au carthame, de porter des bagues en or, et de réciter le Coran pendant l’inclinaison. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dari \[Malik\] dari \[Nafi'\] dari \[Ibrahim bin 'Abdullah bin Hunain\] dari \[bapaknya\] dari \['Ali\] dia berkata; "Rasulullah Shallallahu'alaihi wasallam melarangku memakai pakaian sutra serta pakaian yang dicelup warna kuning, melarangku memakai cincin emas, dan melarangku membaca (Al Qur'an) saat ruku
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dari [Malik] dari [Nafi'] dari [Ibrahim bin 'Abdullah bin Hunain] dari [bapaknya] dari ['Ali] dia berkata; "Rasulullah Shallallahu'alaihi wasallam melarangku memakai pakaian sutra serta pakaian yang dicelup warna kuning, melarangku memakai cincin emas, dan melarangku membaca (Al Qur'an) saat ruku
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھے قسی کے بنے ریشمی کپڑے، اور کسم میں رنگے کپڑے پہننے سے، اور سونے کی انگوٹھی پہننے سے، اور رکوع میں قرآن پڑھنے سے منع کیا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1044</td></tr><tr><td>Arabic No</td><td>1044</td></tr><tr><td>Reference</td><td>Book 12 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1044 |
+| Arabic No | 1044 |
+| Reference | Book 12 Hadith 16 |

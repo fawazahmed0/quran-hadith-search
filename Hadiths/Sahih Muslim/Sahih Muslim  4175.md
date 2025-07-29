@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا ابْنُ أَبِي عَدِيٍّ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه محمد بن المثنى، حدثنا ابن ابي عدي، عن سعيد، عن قتادة، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু মুসান্না (রহঃ) ...... কাতাদাহ (রহঃ) এর সূত্রে এ সানাদে উপরোক্ত হাদীস বর্ণনা করেন। (ইসলামিক ফাউন্ডেশন ৪০৩০, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Qatada with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## French
 
+Rapporté par Qatada : Ce hadith a été transmis par la même chaîne de rapporteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize bu hadîsi Muhammed b. El-Müsennâ da rivayet etti. (Dediki): Bize İbni Ebi Adiy, Saîd'den, o da Katâde'den bu isnâdla bu hadisin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید نے قتادہ سے اسی سند کے ساتھ اسی کے مانند روایت کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4175</td></tr><tr><td>Arabic No</td><td>1622.06</td></tr><tr><td>Reference</td><td>Book 24 Hadith 13</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4175 |
+| Arabic No | 1622.06 |
+| Reference | Book 24 Hadith 13 |

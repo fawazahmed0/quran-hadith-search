@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا أَبُو شِهَابٍ، عَنِ الْحَذَّاءِ، عَنْ أَبِي الْمُتَوَكِّلِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ مَا كُنَّا نَكْتُبُ غَيْرَ التَّشَهُّدِ وَالْقُرْآنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
+
 حدثنا احمد بن يونس، حدثنا ابو شهاب، عن الحذاء، عن ابي المتوكل الناجي، عن ابي سعيد الخدري، قال ما كنا نكتب غير التشهد والقران
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) বলেনঃ আমরা তাশাহুদ ও আল-কুরআন ছাড়া আর কিছু লিখতাম না।\[1\] শায।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) বলেনঃ আমরা তাশাহুদ ও আল-কুরআন ছাড়া আর কিছু লিখতাম না।[1] শায।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Saeed Al-Khudri said:"We used not to write anything but the Tasha-hud and the Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
+
+## French
+
+Abu Sa’id Al-Khudri رضي الله عنه a dit : « Nous n’écrivions rien d’autre que le tachahhud et le Coran. »
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Yunus\] telah menceritakan kepada kami \[Abu Syihab\] dari \[Al Hadzdza\] dari \[Abu Al Mutawakkil An Naji\] dari \[Abu Sa'id Al Khudri\] ia berkata, "Kami tidak pernah menulis selain tasyahud dan Al Qur'an
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Yunus] telah menceritakan kepada kami [Abu Syihab] dari [Al Hadzdza] dari [Abu Al Mutawakkil An Naji] dari [Abu Sa'id Al Khudri] ia berkata, "Kami tidak pernah menulis selain tasyahud dan Al Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Абу Са‘ид аль-Худри, да будет доволен им Аллах, сказал: «Мы не записывали ничего, кроме ташаххуда и Корана»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Saîd el-Hudrî (r.a)'dan şöyle dediği rivayet olunmuştur: Biz (Hz. Nebi zamanında) Kur'an ve şahadet kelimesinden başka bir şey yazmadık
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں ہم لوگ تشہد اور قرآن کے علاوہ کچھ نہیں لکھتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3648</td></tr><tr><td>Arabic No</td><td>3648</td></tr><tr><td>Reference</td><td>Book 26 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3648 |
+| Arabic No | 3648 |
+| Reference | Book 26 Hadith 9 |

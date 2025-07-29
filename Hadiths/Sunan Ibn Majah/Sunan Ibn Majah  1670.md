@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,110 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَلِيُّ بْنُ مُحَمَّدٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ نُمَيْرٍ، عَنْ عُبَيْدَةَ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ: كُنَّا نَحِيضُ عِنْدَ النَّبِيِّ ـ صلى الله عليه وسلم ـ فَيَأْمُرُنَا بِقَضَاءِ الصَّوْمِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 7 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |
+
 حدثنا علي بن محمد، حدثنا عبد الله بن نمير، عن عبيدة، عن ابراهيم، عن الاسود، عن عايشة، قالت: كنا نحيض عند النبي صلى الله عليه وسلم فيامرنا بقضاء الصوم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 7 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আয়িশাহ্ (রাঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর জীবদ্দশায় আমরা ঋতুবতী হতাম। তিনি আমাদের (ছুটে যাওয়া) রোযার কাযা করার নির্দেশ দিতেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 7 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that ‘Aishah said:“We used to menstruate at the time of the Prophet (ﷺ), and he would order us to make up for the (missed) fasts.’”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 7 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |
+
+## French
+
+Rapporté par ‘Aishah : Nous avions nos règles à l’époque du Prophète (ﷺ), et il nous ordonnait de rattraper les jours de jeûne manqués
+
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ali bin Muhammad\] berkata, telah menceritakan kepada kami \[Abdullah bin Numair\] dari \[Ubaidah\] dari \[Ibrahim\] dari \[Al Aswad\] dari \['Aisyah\] ia berkata, "Kami pernah mengalami haidl di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau memerintahkan kami untuk mengqadla puasa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ali bin Muhammad] berkata, telah menceritakan kepada kami [Abdullah bin Numair] dari [Ubaidah] dari [Ibrahim] dari [Al Aswad] dari ['Aisyah] ia berkata, "Kami pernah mengalami haidl di sisi Nabi shallallahu 'alaihi wasallam, lalu beliau memerintahkan kami untuk mengqadla puasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 7 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anha)'dan; şöyle demiştir: Biz, Nebi (Sallallahu Aleyhi ve Sellem)'in yanındayken (Ramazan ayında) aybaşı adetini görürdük. (Temizlendikten) sonra bize (tutmadığımız günler sayısınca) orucu kaza etmemizi emrederdi. Diğer tahric: Tirmizi de bu hadisi rivayet ederek hasen olduğunu söylemiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 7 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ ہمیں نبی اکرم صلی اللہ علیہ وسلم کے پاس حیض آتا تھا تو آپ ہمیں روزے کی قضاء کا حکم دیتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1670</td></tr><tr><td>Arabic No</td><td>1670</td></tr><tr><td>Reference</td><td>Book 7 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1670 |
+| Arabic No | 1670 |
+| Reference | Book 7 Hadith 33 |

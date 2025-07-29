@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ زُرَارَةَ، قَالَ أَخْبَرَنَا عَبْدُ الْعَزِيزِ بْنُ أَبِي حَازِمٍ، عَنْ أَبِيهِ، عَنْ سَهْلٍ، قَالَ كَانَ بَيْنَ مُصَلَّى رَسُولِ اللَّهِ صلى الله عليه وسلم وَبَيْنَ الْجِدَارِ مَمَرُّ الشَّاةِ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عمرو بن زرارة، قال اخبرنا عبد العزيز بن ابي حازم، عن ابيه، عن سهل، قال كان بين مصلى رسول الله صلى الله عليه وسلم وبين الجدار ممر الشاة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সাহল ইবনু সা‘দ (রাযি.) হতে বর্ণিত। তিনি বলেনঃ আল্লাহর রাসূল সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম -এর সালাতের স্থান ও দেয়ালের মাঝখানে একটা বকরী চলার মত ব্যবধান ছিল। (৭৩৩৪; মুসলিম ৪/৪৯, হাঃ ৫০৮) (আধুনিক প্রকাশনীঃ ৪৬৬, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Sahl (bin Sa'd):The distance between the Musalla of Allah's Messenger (ﷺ) and the wall was just sufficient for a sheep to pass through
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
+
+## French
+
+Rapporté par Sahl (bin Sa'd) : La distance entre la place de prière du Messager d’Allah (ﷺ) et le mur était juste suffisante pour qu’une brebis puisse passer
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Amru bin Zurarah\] berkata, telah mengabarkan kepada kami \['Abdul 'Aziz bin Abu Hazim\] dari \[Bapaknya\] dari \[Sahl bin Sa'd\] berkata, "Jarak antara tempat shalat Rasulullah shallallahu 'alaihi wasallam dengan dinding (pembatas) adalah selebar untuk jalan kambing
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Amru bin Zurarah] berkata, telah mengabarkan kepada kami ['Abdul 'Aziz bin Abu Hazim] dari [Bapaknya] dari [Sahl bin Sa'd] berkata, "Jarak antara tempat shalat Rasulullah shallallahu 'alaihi wasallam dengan dinding (pembatas) adalah selebar untuk jalan kambing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Сахль, да будет доволен им Аллах, сказал: «Между тем местом, на котором во время молитвы находился Посланник Аллаха ﷺ и стеной оставалось (расстояние, достаточное для того, чтобы там могла) пройти овца»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 சஹ்ல் பின் சஅத் (ரலி) அவர்கள் கூறியதாவது: (மஸ்ஜிதுந் நபவீ பள்ளிவாச-ல்) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் நின்று தொழும் இடத்திற்கும் (பள்ளி வாச-ன் கிப்லா திசையில் அமைந்த) சுவருக்கும் இடையே ஆடு ஒன்று நடந்து செல்லும் அளவுக்கு இடைவெளி இருந்தது. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl (r.a.)'den şöyle nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellemin namaz kıldığı yer ile duvar arasında bir koyunun geçebileceği kadar mesafe vardı. Tekrar:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے عمرو بن زرارہ نے بیان کیا، کہا کہ ہم سے عبدالعزیز بن ابی حازم نے اپنے باپ ابوحازم سلمہ بن دینار سے بیان کیا، انہوں نے سہل بن سعد سے، انہوں نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم کے سجدہ کرنے کی جگہ اور دیوار کے درمیان ایک بکری کے گزر سکنے کا فاصلہ رہتا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>496</td></tr><tr><td>Arabic No</td><td>496</td></tr><tr><td>Reference</td><td>Book 8 Hadith 143</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 496 |
+| Arabic No | 496 |
+| Reference | Book 8 Hadith 143 |

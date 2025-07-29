@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا نَصْرُ بْنُ عَلِيٍّ، حَدَّثَنِي الْحَارِثُ بْنُ وَجِيهٍ، حَدَّثَنَا مَالِكُ بْنُ دِينَارٍ، عَنْ مُحَمَّدِ بْنِ سِيرِينَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِنَّ تَحْتَ كُلِّ شَعْرَةٍ جَنَابَةً فَاغْسِلُوا الشَّعْرَ وَأَنْقُوا الْبَشَرَ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ الْحَارِثُ بْنُ وَجِيهٍ حَدِيثُهُ مُنْكَرٌ وَهُوَ ضَعِيفٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
+
 حدثنا نصر بن علي، حدثني الحارث بن وجيه، حدثنا مالك بن دينار، عن محمد بن سيرين، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " ان تحت كل شعرة جنابة فاغسلوا الشعر وانقوا البشر " . قال ابو داود الحارث بن وجيه حديثه منكر وهو ضعيف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক পশমের নীচে নাপাকী রয়েছে। সুতরাং তোমরা প্রতিটি পশম (উত্তমরূপে) ধৌত কর এবং শরীর পরিচ্ছন্ন কর। \[1\] দুর্বল : মিশকাত ৪৪৩, যঈফ আল-জামি‘উস সাগীর ১৮৪৭। ইমাম আবূ দাউদ (রহঃ) বলেন, আল-হারিস ইবনু ওয়াজীহ বর্ণিত হাদীসটি মুনকার এবং তিনি হাদীস বর্ণনায় দূর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ প্রত্যেক পশমের নীচে নাপাকী রয়েছে। সুতরাং তোমরা প্রতিটি পশম (উত্তমরূপে) ধৌত কর এবং শরীর পরিচ্ছন্ন কর। [1] দুর্বল : মিশকাত ৪৪৩, যঈফ আল-জামি‘উস সাগীর ১৮৪৭। ইমাম আবূ দাউদ (রহঃ) বলেন, আল-হারিস ইবনু ওয়াজীহ বর্ণিত হাদীসটি মুনকার এবং তিনি হাদীস বর্ণনায় দূর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Messenger of Allah (ﷺ) said: There is sexual defilement under every hair; so wash the hair and cleanse the skin. Abu Dawud said: The tradition narrated by Harith b. Wajih is rejected (Munkar). He is weak (in transmission)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
+
+## French
+
+Rapporté par Abu Hurayrah رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Il y a de l’impureté sous chaque cheveu ; alors lavez les cheveux et nettoyez la peau. » Abu Dawud a dit : La tradition rapportée par Harith b. Wajih est rejetée (Munkar). Il est faible dans la transmission
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Nashr bin Ali\] telah menceritakan kepada saya \[Al-Harits bin Wajih\] telah menceritakan kepada kami \[Malik bin Dinar\] dari \[Muhammad bin Sirin\] dari \[Abu Hurairah\] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; Sesungguhnya di bawah setiap rambut ada junub, maka basuhlah rambut dan cucilah kulit. Abu Dawud berkata; Al-Harits bin Wajih haditsnya munkar dan dia dha'if
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Nashr bin Ali] telah menceritakan kepada saya [Al-Harits bin Wajih] telah menceritakan kepada kami [Malik bin Dinar] dari [Muhammad bin Sirin] dari [Abu Hurairah] dia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda; Sesungguhnya di bawah setiap rambut ada junub, maka basuhlah rambut dan cucilah kulit. Abu Dawud berkata; Al-Harits bin Wajih haditsnya munkar dan dia dha'if
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ сказал: “Поистине, осквернение /джанаба/ кроется под каждым волосом, поэтому мойте волосы и очищайте кожу”».Абу Дауд сказал: «Хадисы от Аль-Хариса ибн Ваджиха отвергаются по причине того, что он является слабым рассказчиком»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a)'den, demiştir ki; Resulullah (sallallahu aleyhi ve sellem) şöyle buyurdu: "Muhakkak her kıl'ın altında cünuplük vardır. Bütün kılları yıkayınız, teni temizleyiniz." Ebu Davud, "Haris b. Vecih'in kendisi zayıf, hadisi münker"dir, dedi. Diğer tahric: Tırmızî, tahare; İbn Mace, tahare
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ہر بال کے نیچے جنابت ہے، لہٰذا تم ( غسل کرتے وقت ) بالوں کو اچھی طرح دھوو، اور کھال کو خوب صاف کرو ۔ ابوداؤد کہتے ہیں: حارث بن وجیہ کی حدیث منکر ہے، اور وہ ضعیف ہیں ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>248</td></tr><tr><td>Arabic No</td><td>248</td></tr><tr><td>Reference</td><td>Book 1 Hadith 248</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 248 |
+| Arabic No | 248 |
+| Reference | Book 1 Hadith 248 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ، حَدَّثَنَا سُلَيْمَانُ يَعْنِي ابْنَ بِلاَلٍ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا عَبْدُ الْوَهَّابِ الثَّقَفِيُّ، - الْمَعْنَى وَاحِدٌ - عَنْ جَعْفَرِ بْنِ مُحَمَّدٍ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى الظُّهْرَ وَالْعَصْرَ بِأَذَانٍ وَاحِدٍ بِعَرَفَةَ وَلَمْ يُسَبِّحْ بَيْنَهُمَا وَإِقَامَتَيْنِ وَصَلَّى الْمَغْرِبَ وَالْعِشَاءَ بِجَمْعٍ بِأَذَانٍ وَاحِدٍ وَإِقَامَتَيْنِ وَلَمْ يُسَبِّحْ بَيْنَهُمَا ‏.‏ قَالَ أَبُو دَاوُدَ هَذَا الْحَدِيثُ أَسْنَدَهُ حَاتِمُ بْنُ إِسْمَاعِيلَ فِي الْحَدِيثِ الطَّوِيلِ وَوَافَقَ حَاتِمَ بْنَ إِسْمَاعِيلَ عَلَى إِسْنَادِهِ مُحَمَّدُ بْنُ عَلِيٍّ الْجُعْفِيُّ عَنْ جَعْفَرٍ عَنْ أَبِيهِ عَنْ جَابِرٍ إِلاَّ أَنَّهُ قَالَ فَصَلَّى الْمَغْرِبَ وَالْعَتَمَةَ بِأَذَانٍ وَإِقَامَةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
+
 حدثنا عبد الله بن مسلمة، حدثنا سليمان يعني ابن بلال، ح وحدثنا احمد بن حنبل، حدثنا عبد الوهاب الثقفي، - المعنى واحد - عن جعفر بن محمد، عن ابيه، ان النبي صلى الله عليه وسلم صلى الظهر والعصر باذان واحد بعرفة ولم يسبح بينهما واقامتين وصلى المغرب والعشاء بجمع باذان واحد واقامتين ولم يسبح بينهما . قال ابو داود هذا الحديث اسنده حاتم بن اسماعيل في الحديث الطويل ووافق حاتم بن اسماعيل على اسناده محمد بن علي الجعفي عن جعفر عن ابيه عن جابر الا انه قال فصلى المغرب والعتمة باذان واقامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
 
 ## Bengali
 
+। জা‘ফর ইবনু মুহাম্মাদ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরাফার ময়দানে এক আযান ও দুই ইকামাতে যুহর ও ‘আসরের সালাত আদায় করেছেন। কিন্তু এই দুই সালাতের মধ্যখানে কোনো তাসবীহ পড়েননি। অনুরূপভাবে তিনি মুযদালিফায় এক আযান ও দুই ইকামাতে মাগরিব ও ‘ইশার সালাত আদায় করেছেন এবং দুই সালাতের মাঝখানে কোনো তাসবীহ পড়েননি।\[1\] সহীহঃ মুসলিম, জাবির সূত্রে। এটাই সঠিক। এর পূর্বের ১৯০৫ নং হাদীস। ইমাম আবূ দাঊদ (রহ.) বলেন, জাবির থেকে বর্ণিত হাদীসে রয়েছেঃ ‘‘অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাগরিব ও ‘ইশা এক আযান ও এক ইকামাতে আদায় করেছেন।’’ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জা‘ফর ইবনু মুহাম্মাদ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আরাফার ময়দানে এক আযান ও দুই ইকামাতে যুহর ও ‘আসরের সালাত আদায় করেছেন। কিন্তু এই দুই সালাতের মধ্যখানে কোনো তাসবীহ পড়েননি। অনুরূপভাবে তিনি মুযদালিফায় এক আযান ও দুই ইকামাতে মাগরিব ও ‘ইশার সালাত আদায় করেছেন এবং দুই সালাতের মাঝখানে কোনো তাসবীহ পড়েননি।[1] সহীহঃ মুসলিম, জাবির সূত্রে। এটাই সঠিক। এর পূর্বের ১৯০৫ নং হাদীস। ইমাম আবূ দাঊদ (রহ.) বলেন, জাবির থেকে বর্ণিত হাদীসে রয়েছেঃ ‘‘অতঃপর নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মাগরিব ও ‘ইশা এক আযান ও এক ইকামাতে আদায় করেছেন।’’ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ja’far bin Muhammad reported on the authority of his father The Prophet (ﷺ) prayed the noon and the afternoon prayers with one adhan and two iqamahs at ‘Arafah and he did not offer supererogatory prayers between them. He prayed the sunset and night prayers at Al Muzdalifah with one adhan and two iqamahs and he did not offer supererogatory prayers between them. Abu Dawud said This tradition has been narrated by Hatim bin Isma’il as a part of the lengthy tradition. Muhammad bin ‘Ali Al Ju’fi narrated it from Ja’far from his father on the authority of Jabir, like the tradition transmitted by Hatim bin Isma’il. But this version has He offered the sunset and night prayers with one adhan and one iqamah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
+
+## French
+
+Rapporté par Ja’far bin Muhammad, d’après son père : Le Prophète ﷺ a prié le midi et l’après-midi à ‘Arafah avec un seul appel à la prière et deux iqamahs, sans prière surérogatoire entre les deux. Il a prié le coucher du soleil et la nuit à Al-Muzdalifah avec un seul appel à la prière et deux iqamahs, sans prière surérogatoire entre les deux. Abu Dawud dit : Ce récit a aussi été rapporté par Hatim bin Isma’il dans une version plus longue. Muhammad bin ‘Ali Al Ju’fi l’a transmis de Ja’far, de son père, d’après Jabir, comme la version de Hatim bin Isma’il, mais dans cette version, il est dit qu’il a prié le coucher du soleil et la nuit avec un seul appel à la prière et une seule iqamah
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abdullah bin Maslamah\], telah menceritakan kepada Kami \[Sulaiman yaitu Ibnu Bilal\]. Telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada Kami \[Ahmad bin Hanbal\], telah menceritakan kepada Kami \[Abdul Wahhab Ats Tsaqafi\] dan maknanya satu, dari \[Ja'far bin Muhammad\], dari \[ayahnya\], bahwa Nabi shallallahu 'alaihi wasallam melakukan Shalat Zhuhur, dan 'Ashar dengan satu adzan di 'Arafah. Dan tidak melakukan shalat sunah serta dua iqamah. Beliau melakukan Shalat Maghrib, serta Isya' dijama', dengan satu adzan dan dua iqamah, serta tidak melakukan shalat sunah diantara keduanya. Abu Daud berkata; hadits ini di sanadkan oleh \[Hatim bin Isma'il\] dalam hadits yang panjang dan sanad Hatim bin Isma'il telah disepakati oleh \[Muhammad bin Ali Al Ju'fi\], dari \[Ja'far\], dari \[ayahnya\] dari \[Jabir\] hanya saja ia berkata; kemudian melakukan Shalat Maghrib serta 'Isya' dengan satu adzan dan satu iqamah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abdullah bin Maslamah], telah menceritakan kepada Kami [Sulaiman yaitu Ibnu Bilal]. Telah diriwayatkan melalui jalur yang lain: Telah menceritakan kepada Kami [Ahmad bin Hanbal], telah menceritakan kepada Kami [Abdul Wahhab Ats Tsaqafi] dan maknanya satu, dari [Ja'far bin Muhammad], dari [ayahnya], bahwa Nabi shallallahu 'alaihi wasallam melakukan Shalat Zhuhur, dan 'Ashar dengan satu adzan di 'Arafah. Dan tidak melakukan shalat sunah serta dua iqamah. Beliau melakukan Shalat Maghrib, serta Isya' dijama', dengan satu adzan dan dua iqamah, serta tidak melakukan shalat sunah diantara keduanya. Abu Daud berkata; hadits ini di sanadkan oleh [Hatim bin Isma'il] dalam hadits yang panjang dan sanad Hatim bin Isma'il telah disepakati oleh [Muhammad bin Ali Al Ju'fi], dari [Ja'far], dari [ayahnya] dari [Jabir] hanya saja ia berkata; kemudian melakukan Shalat Maghrib serta 'Isya' dengan satu adzan dan satu iqamah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Джа‘фар ибн Мухаммад передаёт от своего отца, что Пророк ﷺ совершил полуденную молитву (зухр) вместе с послеполуденной (‘аср) с одним азаном и двумя икаматами на ‘Арафате, не совершая никаких дополнительных молитв между ними, и совершил в Муздалифе закатную (магриб) и вечернюю (‘иша) молитвы с одним азаном и двумя икаматами, соединив их, и не совершал между ними никаких дополнительных молитв
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhamrned (b. Ali b. Huseyn el-Bâkır)dan rivayet olunduğuna göre, Nebi (S.A.V.) Arafat'ta öğle ile ikindiyi aralarında sünnet kılmaksızın, bir ezan ve iki kametle, kılmıştır. Akşam ile yatsıyı da (Müzdelife'de) aralarında sünnet kılmaksızın, birleştirerek bir ezan ve iki kametle kılmıştır. Ebu Davud dediki: Bu hadisi Hatim b. îsmail de (muttasıl bir senedle) uzunca bir hadiste (Resulullah s.a.v.'e) ulaştırdı. Bu hadisi Ca­fer, babası (Muhammed) ve Câbir senediyle (muttasıl olarak Resûl-i Ekrem'e) isnâd etmekte, Muhammed b. Ali el-Cu'fi de Hatim b. İsmail'e uymuştur. Ancak Muhammed b. AH el-Cu'fî (ondan farklı olarak) "Akşam namazıyla yatsıyı bir ezan ve bir kametle kıldırdı" demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جعفر بن محمد اپنے والد محمد باقر سے روایت کرتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے عرفات میں ظہر اور عصر ایک اذان سے پڑھی، ان کے درمیان کوئی نفل نہیں پڑھی، البتہ اقامت دو تھیں، اور مغرب و عشاء جمع ( مزدلفہ ) میں ایک اذان اور دو اقامتوں سے پڑھی، ان کے درمیان بھی کوئی نفل نہیں پڑھی۔ ابوداؤد کہتے ہیں: اس حدیث کو حاتم بن اسماعیل نے ایک لمبی حدیث میں مسنداً بیان کیا ہے اور حاتم بن اسماعیل کی طرح اسے محمد بن علی الجعفی نے جعفر سے، اور جعفر نے اپنے والد محمد سے، محمد نے جابر رضی اللہ عنہ سے روایت کیا ہے البتہ اس میں یہ الفاظ ہیں کہ آپ نے مغرب اور عشاء ایک اذان اور ایک اقامت سے پڑھی ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1906</td></tr><tr><td>Arabic No</td><td>1906</td></tr><tr><td>Reference</td><td>Book 11 Hadith 186</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1906 |
+| Arabic No | 1906 |
+| Reference | Book 11 Hadith 186 |

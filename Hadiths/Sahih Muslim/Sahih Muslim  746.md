@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ أَحْمَدُ الدَّارِمِيُّ، حَدَّثَنَا زَكَرِيَّاءُ بْنُ عَدِيٍّ، حَدَّثَنَا يَزِيدُ، - يَعْنِي ابْنَ زُرَيْعٍ - عَنْ رَوْحِ بْنِ الْقَاسِمِ، حَدَّثَنَا أَيُّوبُ بْنُ مُوسَى، بِهَذَا الإِسْنَادِ وَقَالَ أَفَأَحُلُّهُ فَأَغْسِلُهُ مِنَ الْجَنَابَةِ ‏.‏ وَلَمْ يَذْكُرِ الْحَيْضَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه احمد الدارمي، حدثنا زكرياء بن عدي، حدثنا يزيد، - يعني ابن زريع - عن روح بن القاسم، حدثنا ايوب بن موسى، بهذا الاسناد وقال افاحله فاغسله من الجنابة . ولم يذكر الحيضة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবনু সাঈদ আদ দারিমী (রহঃ) এর সূত্রে আইয়ুব ইবনু মূসা (রাযিঃ) হতে এ সূত্রে হাদীসটি বর্ণিত আছে। সেখানে উল্লেখ আছে যে, “আমি কি তা খুলে অপবিত্রতা থেকে গোসল করব?" সেখানে তিনি হায়িযের কথা উল্লেখ করেননি। (ইসলামিক ফাউন্ডেশনঃ ৬৩৭, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith is narrated by the same chain of transmitters by Ahmad al. Darimi, Zakariya b. 'Adi, Yazid, i. e. ' Ibn Zurai', Rauh b. al-Qasim, Ayyub b. Musa with the same chain of transmitters, and there is a mention of these words:" Should I undo the plait and wash it, because of sexual intercourse?" and there is no mention of menstruation
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## French
 
+Rapporté par Ahmad al-Darimi, Zakariya b. ‘Adi, Yazid (c’est-à-dire Ibn Zurai’), Rauh b. al-Qasim, Ayyub b. Musa : Avec la même chaîne de transmetteurs, et il est mentionné ces mots : « Dois-je défaire ma tresse et la laver à cause d’un rapport intime ? » Il n’est pas fait mention des menstrues
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) В этой версии она сказала: «…распускать ли мне их и мыть (чтобы очистится) от осквернения /джанаба/?»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bu Hadîs-î bana Ahmed ed-Darimi dahî rivayet etti. (Dediki) Bize Zekeriya b. Adiy rivayet etti. (D.edi ki): Bize yezîd yanî İbni Zürey, Ravh b. Kaasim'den rivayet etti. (Dediki): Bize Eyyüb b. Musa bu isnadla rivayet etti. ve: «Onu cünüplükten dolayı çözerek yıkayayımmı?» dedi Hayzı zikretmedi. AÇIKLAMALAR 331.sayfada
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ایوب بن موسیٰ سے ( سفیان ثوری کے بجائے ) روح بن قاسم نے اسی ( سابقہ سند ) کے ساتھ روایت کی کہ انہوں ( ام سلمہ ؓ ) نے کہا : کیا میں چوٹی کو کھول کر غسل جنابت کروں؟ ...... انہوں ( روح بن قاسم ) نے حیض کا تذکرہ نہیں کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>746</td></tr><tr><td>Arabic No</td><td>330.03</td></tr><tr><td>Reference</td><td>Book 3 Hadith 68</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 746 |
+| Arabic No | 330.03 |
+| Reference | Book 3 Hadith 68 |

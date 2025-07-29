@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، حَدَّثَنَا ابْنُ لَهِيعَةَ، عَنْ حَفْصِ بْنِ هَاشِمِ بْنِ عُتْبَةَ بْنِ أَبِي وَقَّاصٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنْ أَبِيهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا دَعَا فَرَفَعَ يَدَيْهِ مَسَحَ وَجْهَهُ بِيَدَيْهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
+
 حدثنا قتيبة بن سعيد، حدثنا ابن لهيعة، عن حفص بن هاشم بن عتبة بن ابي وقاص، عن السايب بن يزيد، عن ابيه، ان النبي صلى الله عليه وسلم كان اذا دعا فرفع يديه مسح وجهه بيديه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
 
 ## Bengali
 
+। আস-সায়িব ইবনু ইয়াযীদ (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আর সময় দু’ হাত উপরে উঠাতেন এবং দু’ হাত দিয়ে স্বীয় মুখমন্ডল মুছতেন।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আস-সায়িব ইবনু ইয়াযীদ (রহঃ) হতে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দু‘আর সময় দু’ হাত উপরে উঠাতেন এবং দু’ হাত দিয়ে স্বীয় মুখমন্ডল মুছতেন।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Yazid ibn Sa'id al-Kindi: When the Prophet (ﷺ) made supplication (to Allah) he would raise his hands and wipe his face with his hands
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
+
+## French
+
+Rapporté par Yazid ibn Sa’id al-Kindi : Lorsque le Prophète ﷺ faisait une invocation à Allah, il levait les mains et essuyait son visage avec
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Qutaibah bin Sa'id\], telah menceritakan kepada Kami \[Ibnu Lahi'ah\] dari \[Hafsh bin Hasyim bin 'Utbah bin Abu Waqqash\] dari \[As Saib bin Yazid\] dari \[ayahnya\] bahwa Nabi shallallahu 'alaihi wasallam apabila berdoa maka beliau mengangkat kedua tangannya dan mengusap wajahnya dengan keduanya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Qutaibah bin Sa'id], telah menceritakan kepada Kami [Ibnu Lahi'ah] dari [Hafsh bin Hasyim bin 'Utbah bin Abu Waqqash] dari [As Saib bin Yazid] dari [ayahnya] bahwa Nabi shallallahu 'alaihi wasallam apabila berdoa maka beliau mengangkat kedua tangannya dan mengusap wajahnya dengan keduanya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ас-Саиб ибн Язид передаёт от своего отца, что, когда Пророк ﷺ обращался к Аллаху с мольбами, он поднимал руки и проводил ими по лицу
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 es-Sâib b. Yezid babasından, Resulullah (s.a.v.) ellerini kaldırıp da dua ettiğinde onları yüzüne sürerdi" diye rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یزید رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم جب دعا مانگتے تو اپنے دونوں ہاتھ اوپر اٹھاتے اور انہیں اپنے چہرے پر پھیرتے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1492</td></tr><tr><td>Arabic No</td><td>1492</td></tr><tr><td>Reference</td><td>Book 8 Hadith 77</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1492 |
+| Arabic No | 1492 |
+| Reference | Book 8 Hadith 77 |

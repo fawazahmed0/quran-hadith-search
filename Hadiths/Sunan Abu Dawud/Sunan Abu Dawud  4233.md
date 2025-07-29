@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا يَزِيدُ بْنُ هَارُونَ، وَأَبُو عَاصِمٍ قَالاَ حَدَّثَنَا أَبُو الأَشْهَبِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ طَرَفَةَ، عَنْ عَرْفَجَةَ بْنِ أَسْعَدَ، بِمَعْنَاهُ ‏.‏ قَالَ يَزِيدُ قُلْتُ لأَبِي الأَشْهَبِ أَدْرَكَ عَبْدُ الرَّحْمَنِ بْنُ طَرَفَةَ جَدَّهُ عَرْفَجَةَ قَالَ نَعَمْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
+
 حدثنا الحسن بن علي، حدثنا يزيد بن هارون، وابو عاصم قالا حدثنا ابو الاشهب، عن عبد الرحمن بن طرفة، عن عرفجة بن اسعد، بمعناه . قال يزيد قلت لابي الاشهب ادرك عبد الرحمن بن طرفة جده عرفجة قال نعم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
 
 ## Bengali
 
+। আব্দুর রাহমান ইবনু তারাফা (রহঃ) আরফাজাহ ইবনু আস‘আদ সূত্রে পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণনা করেন।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুর রাহমান ইবনু তারাফা (রহঃ) আরফাজাহ ইবনু আস‘আদ সূত্রে পূর্বোক্ত হাদীসের সমার্থক হাদীস বর্ণনা করেন।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above (No. 4220) has also been transmitted by Arfajah ibn As'ad through a different chain to the same effect. Yazid said:I asked AbulAshhab: Did AbdurRahman ibn Tarafah meet his grandfather Arfajah? He replied: Yes
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
+
+## French
+
+La tradition mentionnée ci-dessus (n° 4220) a aussi été transmise par Arfajah ibn As'ad à travers une autre chaîne, avec le même contenu. Yazid a dit : « J’ai demandé à AbulAshhab : Est-ce qu’AbdurRahman ibn Tarafah a connu son grand-père Arfajah ? » Il a répondu : « Oui. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Язид ибн Харун и Абу ‘Асым передают: «Нам рассказал Абу аль-Ашхаб со слов ‘Абдуррахмана ибн Тарафы со слов ‘Арфаджи ибн Ас‘ада подобный хадис. Язид сказал: «Я спросил: “Застал ли ‘Абдуррахман ибн Тарафа своего деда ‘Арфаджу?” Он ответил: “Да”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Hasen b. Ali haber verdi, bize Yezîd b. Harun ve Ebû Asım haber verdiler. Onlar, "Bize Ebûl-Eşheb, Abdurrahman b. Tarafe'den o da Arfece b. Esad'dan önceki (4232.) hadisin mânâsını haber verdi" dediler. Yezid der ki: Ebu Eşheb'e, "Abdurrahman b. Tarafe dedesi Arface'ye yetişti mı?" dedim. "Evet" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی عرفجہ بن اسعد سے اسی مفہوم کی حدیث مروی ہے، یزید کہتے ہیں میں نے ابواشہب سے پوچھا: عبدالرحمٰن بن طرفہ نے اپنے دادا عرفجہ کا زمانہ پایا ہے، تو انہوں نے کہا: ہاں ( پایا ہے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4233</td></tr><tr><td>Arabic No</td><td>4233</td></tr><tr><td>Reference</td><td>Book 36 Hadith 20</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4233 |
+| Arabic No | 4233 |
+| Reference | Book 36 Hadith 20 |

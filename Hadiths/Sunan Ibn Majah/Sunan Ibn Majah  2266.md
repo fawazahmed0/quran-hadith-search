@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَزْهَرُ بْنُ مَرْوَانَ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ أَبِي الزُّبَيْرِ، وَسَعِيدِ بْنِ مِينَاءَ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّ رَسُولَ اللَّهِ ـ صلى الله عليه وسلم ـ نَهَى عَنِ الْمُحَاقَلَةِ وَالْمُزَابَنَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |
+
 حدثنا ازهر بن مروان، حدثنا حماد بن زيد، عن ايوب، عن ابي الزبير، وسعيد بن ميناء، عن جابر بن عبد الله، ان رسول الله صلى الله عليه وسلم نهى عن المحاقلة والمزابنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির ইবনে আবদুল্লাহ (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মুহাকালা ও মুযাবানা ধরনের ক্রয়-বিক্রয় করতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 lt was narrated from Sabir bin 'Abdullah that :the Messenger of Allah (ﷺ) forbade the Muhaqalah and the Muzabanah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |
+
+## French
+
+Rapporté par Sabir bin 'Abdullah : Le Messager d'Allah (ﷺ) a interdit la Muhaqalah et la Muzabanah
+
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Azhar bin Marwan\] berkata, telah menceritakan kepada kami \[Hammad bin Zaid\] dari \[Ayyub\] dari \[Abu Az Zubair\] dari \[Sa'id bin Mina\] dari \[Jabir bin Abdullah\] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang jual beli dengan sistem Muhaqalah dan Muzabanah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Azhar bin Marwan] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Az Zubair] dari [Sa'id bin Mina] dari [Jabir bin Abdullah] berkata, "Rasulullah shallallahu 'alaihi wasallam melarang jual beli dengan sistem Muhaqalah dan Muzabanah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbîr bin Abdillah (r.a.)'dan; Şöyle demiştir: Resulullah (Sallallahu Aleyhi ve Sellem) Muhâkale ve Müzâbene'den nehiy buyurmuştur. EBU DAVUD HADİSLERİ VE İZAH İÇİN: 3404 –
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے محاقلہ اور مزابنہ سے منع کیا ہے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Hadith</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2266</td></tr><tr><td>Arabic No</td><td>2266</td></tr><tr><td>Reference</td><td>Book 12 Hadith 130</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Hadith | Al-Albani |
+| Sahih | Muhammad Fouad Abd al-Baqi |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2266 |
+| Arabic No | 2266 |
+| Reference | Book 12 Hadith 130 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدَانُ، حَدَّثَنَا عَبْدُ اللَّهِ، حَدَّثَنَا يُونُسُ، عَنِ الزُّهْرِيِّ، حَدَّثَنَا عَطَاءُ بْنُ يَزِيدَ، أَنَّ عُبَيْدَ اللَّهِ بْنَ عَدِيٍّ، حَدَّثَهُ أَنَّ الْمِقْدَادَ بْنَ عَمْرٍو الْكِنْدِيَّ حَلِيفَ بَنِي زُهْرَةَ حَدَّثَهُ وَكَانَ، شَهِدَ بَدْرًا مَعَ النَّبِيِّ صلى الله عليه وسلم أَنَّهُ قَالَ يَا رَسُولَ اللَّهِ إِنْ لَقِيتُ كَافِرًا فَاقْتَتَلْنَا، فَضَرَبَ يَدِي بِالسَّيْفِ فَقَطَعَهَا، ثُمَّ لاَذَ بِشَجَرَةٍ وَقَالَ أَسْلَمْتُ لِلَّهِ‏.‏ آقْتُلُهُ بَعْدَ أَنْ قَالَهَا قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ لاَ تَقْتُلْهُ ‏"‏‏.‏ قَالَ يَا رَسُولَ اللَّهِ فَإِنَّهُ طَرَحَ إِحْدَى يَدَىَّ، ثُمَّ قَالَ بَعْدَ مَا قَطَعَهَا، آقْتُلُهُ قَالَ ‏"‏ لاَ تَقْتُلْهُ، فَإِنْ قَتَلْتَهُ فَإِنَّهُ بِمَنْزِلَتِكَ قَبْلَ أَنْ تَقْتُلَهُ، وَأَنْتَ بِمَنْزِلَتِهِ قَبْلَ أَنْ يَقُولَ كَلِمَتَهُ الَّتِي قَالَ ‏"‏‏.‏ وَقَالَ حَبِيبُ بْنُ أَبِي عَمْرَةَ عَنْ سَعِيدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم لِلْمِقْدَادِ ‏"‏ إِذَا كَانَ رَجُلٌ مُؤْمِنٌ يُخْفِي إِيمَانَهُ مَعَ قَوْمٍ كُفَّارٍ، فَأَظْهَرَ إِيمَانَهُ، فَقَتَلْتَهُ، فَكَذَلِكَ كُنْتَ أَنْتَ تُخْفِي إِيمَانَكَ بِمَكَّةَ مِنْ قَبْلُ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبدان، حدثنا عبد الله، حدثنا يونس، عن الزهري، حدثنا عطاء بن يزيد، ان عبيد الله بن عدي، حدثه ان المقداد بن عمرو الكندي حليف بني زهرة حدثه وكان، شهد بدرا مع النبي صلى الله عليه وسلم انه قال يا رسول الله ان لقيت كافرا فاقتتلنا، فضرب يدي بالسيف فقطعها، ثم لاذ بشجرة وقال اسلمت لله. اقتله بعد ان قالها قال رسول الله صلى الله عليه وسلم " لا تقتله ". قال يا رسول الله فانه طرح احدى يدى، ثم قال بعد ما قطعها، اقتله قال " لا تقتله، فان قتلته فانه بمنزلتك قبل ان تقتله، وانت بمنزلته قبل ان يقول كلمته التي قال ". وقال حبيب بن ابي عمرة عن سعيد، عن ابن عباس، قال قال النبي صلى الله عليه وسلم للمقداد " اذا كان رجل مومن يخفي ايمانه مع قوم كفار، فاظهر ايمانه، فقتلته، فكذلك كنت انت تخفي ايمانك بمكة من قبل
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হাবীব ইবনু আবূ আমরা (রহ.) সা‘ঈদ (রহ.)-এর সূত্রে ইবনু ‘আব্বাস (রাঃ) থেকে বর্ণনা করেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মিকদাদ (রাঃ)-কে বলেছেনঃ উক্ত মু‘মিন লোকটি যখন কাফেরদের মাঝে অবস্থান করছিল তখন সে আপন ঈমান গোপন রেখেছিল। এরপর সে তার ঈমান প্রকাশ করল আর তুমি তাকে হত্যা করে ফেললে। তুমিও তো এর আগে মক্কা্য় থাকাকালে আপন ঈমান লুকিয়ে রেখেছিলে। (আধুনিক প্রকাশনী- ৬৩৮৭, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Al-Miqdad bin 'Amr Al-Kindi:An ally of Bani Zuhra who took part in the battle of Badr with the Prophet, that he said, "O Allah's Apostle! If I meet an unbeliever and we have a fight, and he strikes my hand with the sword and cuts it off, and then takes refuge from me under a tree, and says, 'I have surrendered to Allah (i.e. embraced Islam),' may I kill him after he has said so?" Allah's Messenger (ﷺ) said, "Do not kill him." Al- Miqdad said, "But O Allah's Messenger (ﷺ)! He had chopped off one of my hands and he said that after he had cut it off. May I kill him?" The Prophet (ﷺ) said. "Do not kill him for if you kill him, he would be in the position in which you had been before you kill him, and you would be in the position in which he was before he said the sentence." The Prophet (ﷺ) also said to Al-Miqdad, "If a faithful believer conceals his faith (Islam) from the disbelievers, and then when he declares his Islam, you kill him, (you will be sinful). Remember that you were also concealing your faith (Islam) at Mecca before
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
+
+## French
+
+Rapporté par Al-Miqdad bin 'Amr Al-Kindi : Un allié des Bani Zuhra qui a participé à la bataille de Badr avec le Prophète a dit : « Ô Messager d’Allah ! Si je rencontre un non-croyant et que nous nous battons, et qu’il me frappe la main avec son épée et me la coupe, puis qu’il se réfugie sous un arbre et dise : ‘Je me suis soumis à Allah (c’est-à-dire que je me suis converti à l’islam)’, puis-je le tuer après qu’il ait dit cela ? » Le Messager d’Allah (ﷺ) a dit : « Ne le tue pas. » Al-Miqdad a dit : « Mais ô Messager d’Allah (ﷺ) ! Il m’a coupé une main et il a dit cela après. Puis-je le tuer ? » Le Prophète (ﷺ) a dit : « Ne le tue pas, car si tu le tues, il serait dans la situation où tu étais avant de le tuer, et toi, tu serais dans la situation où il était avant de prononcer cette phrase. » Le Prophète (ﷺ) a aussi dit à Al-Miqdad : « Si un croyant cache sa foi (l’islam) aux non-croyants, puis qu’il déclare son islam et que tu le tues, (tu seras fautif). Souviens-toi que toi aussi tu cachais ta foi (l’islam) à La Mecque auparavant. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Abdan\] telah menceritakan kepada kami \['Abdullah\] telah menceritakan kepada kami \[Yunus\] dari \[Az Zuhri\] telah menceritakan kepada kami \['Atho' bin Yazid\], bahwasanya \[Ubaidullah bin Adi\] menceritakan kepadanya, \[Al Miqdad bin 'Amru Al Kindi\] sekutu bani Zuhrah menceritakan kepadanya -ia termasuk orang yang ikut perang badar bersama Nabi shallallahu 'alaihi wasallam - ia berkata; 'ya Rasulullah, saya menjumpai orang kafir, kemudian terjadi duel antara kami. Ia berhasil menyabet tanganku dengan pedang sehingga tanganku putus. Ia kemudian bersembunyi dariku di sebuah pohon dan mengatakan; 'Saya telah masuk Islam karena Allah', bolehkah saya membunuhnya setelah ia mengucapkan kalimah laa-ilaaha-illallah? ' Rasulullah Shallallahu'alaihiwasallam menjawab: "kamu tidak boleh membunuhnya." Miqdad melanjutkan; 'ya Rasulullah, ia telah menghilangkan salah satu tanganku, kemudian ia mengucapkan kalimat itu setelah memutuskannya, bolehkah saya membunuhnya? ' Nabi menjawab; "kamu tidak boleh membunuhnya, jika kamu tetap membunuhnya berarti dia berada di posisimu ketika kamu belum membunuhnya, sedang kamu berada diposisi dia ketika sebelum ia mengucapkannya." Sedang Habib bin Abi 'Amrah mengatakan; dari Sa'id dari Ibn 'Abbas mengatakan, Nabi shallallahu 'alaihi wasallam berkata kepada Miqdad: "Jika seorang mukmin menyembunyikan keimanannya bersama komunitas orang kafir selanjutnya ia menyatakan terus terang keimanannya, dan engkau kemudian membunuhnya, kamu dahulu juga seperti itu, dahulu kamu menyembunyikan keimananmu di Makkah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Abdan] telah menceritakan kepada kami ['Abdullah] telah menceritakan kepada kami [Yunus] dari [Az Zuhri] telah menceritakan kepada kami ['Atho' bin Yazid], bahwasanya [Ubaidullah bin Adi] menceritakan kepadanya, [Al Miqdad bin 'Amru Al Kindi] sekutu bani Zuhrah menceritakan kepadanya -ia termasuk orang yang ikut perang badar bersama Nabi shallallahu 'alaihi wasallam - ia berkata; 'ya Rasulullah, saya menjumpai orang kafir, kemudian terjadi duel antara kami. Ia berhasil menyabet tanganku dengan pedang sehingga tanganku putus. Ia kemudian bersembunyi dariku di sebuah pohon dan mengatakan; 'Saya telah masuk Islam karena Allah', bolehkah saya membunuhnya setelah ia mengucapkan kalimah laa-ilaaha-illallah? ' Rasulullah Shallallahu'alaihiwasallam menjawab: "kamu tidak boleh membunuhnya." Miqdad melanjutkan; 'ya Rasulullah, ia telah menghilangkan salah satu tanganku, kemudian ia mengucapkan kalimat itu setelah memutuskannya, bolehkah saya membunuhnya? ' Nabi menjawab; "kamu tidak boleh membunuhnya, jika kamu tetap membunuhnya berarti dia berada di posisimu ketika kamu belum membunuhnya, sedang kamu berada diposisi dia ketika sebelum ia mengucapkannya." Sedang Habib bin Abi 'Amrah mengatakan; dari Sa'id dari Ibn 'Abbas mengatakan, Nabi shallallahu 'alaihi wasallam berkata kepada Miqdad: "Jika seorang mukmin menyembunyikan keimanannya bersama komunitas orang kafir selanjutnya ia menyatakan terus terang keimanannya, dan engkau kemudian membunuhnya, kamu dahulu juga seperti itu, dahulu kamu menyembunyikan keimananmu di Makkah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Ибн ‘Аббаса (да будет доволен Аллах ими обоими), что (однажды) Пророк ﷺ сказал аль-Микъдаду (да будет доволен им Аллах): «Если верующий человек будет скрывать свою веру от неверных, (среди которых он живёт,) после чего объявит о ней, а ты убьёшь его(, ты совершишь грех). В таком же положении был и ты, когда прежде скрывал свою веру в Мекке»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ubeydullah b. Adiy'in Zühre oğullarının yeminli dostu olan ve Nebi Sallallahu Aleyhi ve Sellem ile birlikte Bedir'de savaşa katılan el-Mikdad b. Amr el-Kind! şöyle anlatmıştır: Bir gün Nebi Sallallahu Aleyhi ve Sellem' e "Ya Resulallah! Ben bir kafirle karşılaşsam onunla vuruşsak da o benim elimi kılıcı ile vurup koparsa, sonra benden kaçıp bir ağaca sığınsa 'Ben Allah için Müslüman oldum' dese, onu bu kelime-İ tevhidden sonra öldürebilir miyim?" diye sordum. Nebi Sallallahu Aleyhi ve Sellem "Hayır, onu öldürme!" buyurdu. Bunun üzerine "Ya Resulallah! O benim iki elimden birisini kesip kopardı, tevhid kelimesini elimi kopardıktan sonra söyledi. Ben onu öldürebilir miyim?" dedim. Nebi Sallallahu Aleyhi ve Sellem "Sakın öldürme! Onu öldürürsen o seni öldürmezden önceki konumunda olur, sen de 'onun söylediğitevhid kelimesini söylemezden önceki konumunda olursun" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6866</td></tr><tr><td>Arabic No</td><td>6866</td></tr><tr><td>Reference</td><td>Book 87 Hadith 5</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6866 |
+| Arabic No | 6866 |
+| Reference | Book 87 Hadith 5 |

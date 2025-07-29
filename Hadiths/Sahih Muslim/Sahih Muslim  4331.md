@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، وَمُحَمَّدُ بْنُ بَشَّارٍ، - وَاللَّفْظُ لاِبْنِ الْمُثَنَّى - قَالاَ حَدَّثَنَا مُحَمَّدُ بْنُ جَعْفَرٍ، حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، عَنِ النَّضْرِ بْنِ أَنَسٍ، عَنْ بَشِيرِ بْنِ نَهِيكٍ، عَنْ أَبِي، هُرَيْرَةَ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ فِي الْمَمْلُوكِ بَيْنَ الرَّجُلَيْنِ فَيُعْتِقُ أَحَدُهُمَا قَالَ ‏ "‏ يَضْمَنُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا محمد بن المثنى، ومحمد بن بشار، - واللفظ لابن المثنى - قالا حدثنا محمد بن جعفر، حدثنا شعبة، عن قتادة، عن النضر بن انس، عن بشير بن نهيك، عن ابي، هريرة عن النبي صلى الله عليه وسلم قال في المملوك بين الرجلين فيعتق احدهما قال " يضمن
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু মুসান্না ও মুহাম্মাদ ইবনু বাশশার (রহঃ) উভয়েই ..... আবূ হুরাইরাহ (রাযিঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে বর্ণিত। তিনি বলেছেনঃ দুজনের অংশীদারিত্বে কোন গোলামের একজন মালিক যদি তার অংশ আযাদ করে দেয়, তবে সে (অপরের অংশের) যামিন হবে। (ইসলামিক ফাউন্ডেশন ৪১৮৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported Allah's Apostle (ﷺ) as saying:In case the slave is owned by two persons, and one of them emancipates him, he will guarantee (his full freedom)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## French
 
+Rapporté par Abu Huraira : Le Messager d’Allah ﷺ a dit : « Si un esclave appartient à deux personnes et que l’une d’elles l’affranchit, elle doit garantir sa liberté totale. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Muhammed b. El-Müsennâ ile Muhammed b. Beşşar rivayet ettiler. Lâfız İbni'l-Müsennâ'nındir. (Dedilerki): Bize Muhammed b. Ca'fer rivayet etti. (Dediki): Bize Şu'be, Katade'dçn, o da Nadir b. Enes'den, o da Beşîr b. Nehîk'den, o da Ebû Hureyre'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen rivayet etti. İki kişi arasında (ortak mal) olup da birinin âzâd ettiği memlûk hakkında: «(Diğeri) öder!» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن جعفر نے کہا : ہمیں شعبہ نے قتادہ سے حدیث بیان کی ، انہوں نے نضر بن انس سے ، انہوں نے بشیر بن نہیک سے ، انہوں نے حضرت ابوہریرہ رضی اللہ عنہ سے اور انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی ، آپ نے دو آدمیوں کے مشترکہ غلام کے بارے میں جن میں سے ایک ( اپنا حصہ ) آزاد کر دیتا ہے ، فرمایا : " وہ ( دوسرے کا ) ضامن ہے ۔ ( کہ اس کے حصے کی قیمت اسے مل جائے گی)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4331</td></tr><tr><td>Arabic No</td><td>1502.02</td></tr><tr><td>Reference</td><td>Book 27 Hadith 78</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4331 |
+| Arabic No | 1502.02 |
+| Reference | Book 27 Hadith 78 |

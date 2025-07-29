@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ بَكْرِ بْنِ مُضَرَ، عَنِ ابْنِ الْهَادِ، عَنْ عَبْدِ اللَّهِ بْنِ دِينَارٍ، عَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ مَا رَأَيْتُ مِنْ نَاقِصَاتِ عَقْلٍ وَلاَ دِينٍ أَغْلَبَ لِذِي لُبٍّ مِنْكُنَّ ‏"‏ ‏.‏ قَالَتْ وَمَا نُقْصَانُ الْعَقْلِ وَالدِّينِ قَالَ ‏"‏ أَمَّا نُقْصَانُ الْعَقْلِ فَشَهَادَةُ امْرَأَتَيْنِ شَهَادَةُ رَجُلٍ وَأَمَّا نُقْصَانُ الدِّينِ فَإِنَّ إِحْدَاكُنَّ تُفْطِرُ رَمَضَانَ وَتُقِيمُ أَيَّامًا لاَ تُصَلِّي ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
+
 حدثنا احمد بن عمرو بن السرح، حدثنا ابن وهب، عن بكر بن مضر، عن ابن الهاد، عن عبد الله بن دينار، عن عبد الله بن عمر، ان رسول الله صلى الله عليه وسلم قال " ما رايت من ناقصات عقل ولا دين اغلب لذي لب منكن " . قالت وما نقصان العقل والدين قال " اما نقصان العقل فشهادة امراتين شهادة رجل واما نقصان الدين فان احداكن تفطر رمضان وتقيم اياما لا تصلي
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
 
 ## Bengali
 
+। আব্দুল্লাহ ইবনু উমার (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ বুদ্ধি ও দীনদারীতে অপূর্ণ হওয়া সত্ত্বেও বুদ্ধিমান পুরুষকে হতভম্ব করে দেয়ার ক্ষেত্রে তোমাদের (মহিলাদের) কোনো একজনের চেয়ে অধিক পারদর্শী আর কাউকে আমি দেখিনি। এক মহিলা বললেন, বদ্ধি ও দীনের ক্ষেত্রে অপূর্ণতা কি? তিনি বললেন, বুদ্ধির অপূর্ণতা হলো, দু’ জন মহিলার সাক্ষ্য একজন পুরুষের সাক্ষ্যের সমান। আর দীনের অপূর্ণতা হলো, তোমাদের কেউ কেউ রমযানের সওম ভঙ্গ করে থাকে আর একাধারে কিছুদিন সালাত পড়া থেকে বিরত থাকে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুল্লাহ ইবনু উমার (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ বুদ্ধি ও দীনদারীতে অপূর্ণ হওয়া সত্ত্বেও বুদ্ধিমান পুরুষকে হতভম্ব করে দেয়ার ক্ষেত্রে তোমাদের (মহিলাদের) কোনো একজনের চেয়ে অধিক পারদর্শী আর কাউকে আমি দেখিনি। এক মহিলা বললেন, বদ্ধি ও দীনের ক্ষেত্রে অপূর্ণতা কি? তিনি বললেন, বুদ্ধির অপূর্ণতা হলো, দু’ জন মহিলার সাক্ষ্য একজন পুরুষের সাক্ষ্যের সমান। আর দীনের অপূর্ণতা হলো, তোমাদের কেউ কেউ রমযানের সওম ভঙ্গ করে থাকে আর একাধারে কিছুদিন সালাত পড়া থেকে বিরত থাকে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abd Allah b. 'Umar reported the Messenger of Allah (ﷺ) as saying:I did not see more defective in respect of reason and religion than the wise of you (women). A woman asked: What is the defect of reason and religion ? He replied: The defect of reason is the testimony of two women for one man, and the defect of faith is that one of you does not fast during Ramadan (when one is menstruating), and keep away from prayer for some days
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
+
+## French
+
+Rapporté par Abd Allah b. ‘Umar رضي الله عنه : Le Messager d’Allah ﷺ a dit : « Je n’ai jamais vu de personnes plus déficientes en raison et en religion que les plus sages d’entre vous (les femmes). » Une femme a demandé : « En quoi consiste ce défaut de raison et de religion ? » Il a répondu : « Le défaut de raison, c’est que le témoignage de deux femmes équivaut à celui d’un homme. Le défaut de religion, c’est qu’une d’entre vous ne jeûne pas pendant le Ramadan (lorsqu’elle a ses règles) et s’abstient de prier pendant quelques jours. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Amru bin As Sarh\] berkata, telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Bakr bin Mudhar\] dari \[Ibnul Had\] dari \[Abdullah bin Dinar\] dari \[Abdullah bin Umar\] bahwa Rasulullah bersabda: "Aku tidak pernah melihat seorang yang mempunyai hati, yang agama dan akalnya kurang selain kalian (para wanita)." Seorang wanita bertanya, "Apakah kekurangan para wanita dalam hal agama dan akal?" beliau bersabda: "Kurangnya akal itu adalah, bahwa persaksian dua orang wanita sebanding dengan persaksian seorang laki-laki. Sedangkan kurangnya agama kalian adalah, bahwa salah seorang dari kalian berbuka di sebagian ramadhan (karena haidh atau menyusui) dan tidak mengerjakan shalat selama beberapa hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Amru bin As Sarh] berkata, telah menceritakan kepada kami [Ibnu Wahb] dari [Bakr bin Mudhar] dari [Ibnul Had] dari [Abdullah bin Dinar] dari [Abdullah bin Umar] bahwa Rasulullah bersabda: "Aku tidak pernah melihat seorang yang mempunyai hati, yang agama dan akalnya kurang selain kalian (para wanita)." Seorang wanita bertanya, "Apakah kekurangan para wanita dalam hal agama dan akal?" beliau bersabda: "Kurangnya akal itu adalah, bahwa persaksian dua orang wanita sebanding dengan persaksian seorang laki-laki. Sedangkan kurangnya agama kalian adalah, bahwa salah seorang dari kalian berbuka di sebagian ramadhan (karena haidh atau menyusui) dan tidak mengerjakan shalat selama beberapa hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что, когда Пророк ﷺ стал обращаться (во время молитвы) в сторону Каабы (после того, как люди обращались в сторону Иерусалима), люди спросили: «О Посланник Аллаха, а как же те, кто до самой смерти молился, обратившись в сторону Иерусалима?» Тогда Всевышний Аллах ниспослал: «Аллах не оставит без вознаграждения их веру…»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Ömer'den (rivayet edildiğine göre) Rasûlullah (s.a.v.) kadınlara hitaben): "Dini ve aklı noksan olup akıllı bir erkeğe sizden daha çok galebe çalan görmedim" buyurmuş, (orada bulunan kadınlardan biri): "Ey Alah'ın rasulü, akıl ve din noksanlığı ne demektir?" demiş, (Hz. Nebi de): "Akıl noksanlığı iki kadın'ın şahidliği (nin) bir erkeğin şalıidliği (ne denk sayılması) dır. Din noksanlığı ise birinizin (hayızlı ve nifaslı iken) ramazanda oruç yemesi ve (o) günleri namazsız geçirmesidir" demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: عقل اور دین میں ناقص ہوتے ہوئے عقل والے پر غلبہ پانے والا میں نے تم عورتوں سے زیادہ کسی کو نہیں دیکھا ( ایک عورت ) نے کہا: عقل اور دین میں کیا نقص ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا: عقل کا نقص تو یہ ہے کہ دو عورتوں کی گواہی ایک مرد کی گواہی کے برابر ہوتی ہے، اور دین کا نقص یہ ہے کہ ( حیض و نفاس میں ) تم میں کوئی نہ روزے رکھتی ہے اور نہ نماز پڑھتی ہے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muslim (79)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4679</td></tr><tr><td>Arabic No</td><td>4679</td></tr><tr><td>Reference</td><td>Book 42 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muslim (79) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4679 |
+| Arabic No | 4679 |
+| Reference | Book 42 Hadith 84 |

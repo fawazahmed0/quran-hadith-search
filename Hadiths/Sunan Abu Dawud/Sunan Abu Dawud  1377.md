@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ سَعِيدٍ الْهَمْدَانِيُّ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، أَخْبَرَنِي مُسْلِمُ بْنُ خَالِدٍ، عَنِ الْعَلاَءِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أَبِيهِ، عَنْ أَبِي هُرَيْرَةَ، قَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَإِذَا أُنَاسٌ فِي رَمَضَانَ يُصَلُّونَ فِي نَاحِيَةِ الْمَسْجِدِ فَقَالَ ‏"‏ مَا هَؤُلاَءِ ‏"‏ ‏.‏ فَقِيلَ هَؤُلاَءِ نَاسٌ لَيْسَ مَعَهُمْ قُرْآنٌ وَأُبَىُّ بْنُ كَعْبٍ يُصَلِّي وَهُمْ يُصَلُّونَ بِصَلاَتِهِ ‏.‏ فَقَالَ النَّبِيُّ صلى الله عليه وسلم ‏"‏ أَصَابُوا وَنِعْمَ مَا صَنَعُوا ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ لَيْسَ هَذَا الْحَدِيثُ بِالْقَوِيِّ مُسْلِمُ بْنُ خَالِدٍ ضَعِيفٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
+
 حدثنا احمد بن سعيد الهمداني، حدثنا عبد الله بن وهب، اخبرني مسلم بن خالد، عن العلاء بن عبد الرحمن، عن ابيه، عن ابي هريرة، قال خرج رسول الله صلى الله عليه وسلم فاذا اناس في رمضان يصلون في ناحية المسجد فقال " ما هولاء " . فقيل هولاء ناس ليس معهم قران وابى بن كعب يصلي وهم يصلون بصلاته . فقال النبي صلى الله عليه وسلم " اصابوا ونعم ما صنعوا " . قال ابو داود ليس هذا الحديث بالقوي مسلم بن خالد ضعيف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রমাযান মাসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বেরিয়ে দেখলেন যে, মসজিদের এক পাশে কতিপয় লোক সালাত আদায় করছে। তিনি জিজ্ঞেস করলেনঃ এরা কারা? বলা হলো, এরা কুরআন মুখস্ত না জানার কারণে উবাই ইবনু কা‘ব (রাঃ) এর ইমামতিতে (তারাবীহ) সালাত আদায় করছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এরা ঠিকই করছে এবং চমৎকার কাজই করছে!\[1\] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, এ হাদীস শক্তিশালী নয়। মুসলিম ইবনু খালিদ (রহঃ) দুর্বল বর্ণনাকারী।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা রমাযান মাসে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বেরিয়ে দেখলেন যে, মসজিদের এক পাশে কতিপয় লোক সালাত আদায় করছে। তিনি জিজ্ঞেস করলেনঃ এরা কারা? বলা হলো, এরা কুরআন মুখস্ত না জানার কারণে উবাই ইবনু কা‘ব (রাঃ) এর ইমামতিতে (তারাবীহ) সালাত আদায় করছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এরা ঠিকই করছে এবং চমৎকার কাজই করছে![1] দুর্বল। ইমাম আবূ দাউদ (রহঃ) বলেন, এ হাদীস শক্তিশালী নয়। মুসলিম ইবনু খালিদ (রহঃ) দুর্বল বর্ণনাকারী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Hurairah: The Messenger of Allah (ﷺ) came out and saw that the people were praying during (the night of) Ramadan in the corner of the mosque. He asked: Who are these people ? It was said to him that those were people who had not learnt Quran. But Ubayy b. Ka'b is praying and they would pray behind him. The Prophet (ﷺ) said: They did right and it is good what they did. Abu Dawud said: This tradition is not strong, the narrator Muslim b. Khalid is weak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ sortit et vit des gens en train de prier pendant la nuit du Ramadan dans un coin de la mosquée. Il demanda : « Qui sont ces gens ? » On lui répondit que c’étaient des personnes qui n’avaient pas appris le Coran, mais que Ubayy b. Ka’b priait et qu’ils priaient derrière lui. Le Prophète ﷺ dit : « Ils ont bien fait et ce qu’ils font est bien. » Abu Dawud a dit : Ce récit n’est pas solide, le rapporteur Muslim b. Khalid est faible
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Sa'id Al hamdani\] telah menceritakan kepada kami \[Abdullah bin Wahb\] telah mengabarkan kepadaku \[Muslim bin Khalid\] dari \[Al 'Ala' bin Abdurrahman\] dari \[ayahnya\] dari \[Abu Hurairah\] dia berkata; "Rasulullah shallallahu 'alaihi wasallam keluar, dan beliau melihat orang-orang tengah mengerjakan shalat di pojok-pojok masid, beliau bersabda: "Apa yang sedang di perbuat oleh mereka?" maka di jawab; "Beberapa orang yang tidak hafal Al Qur'an, sedangkan Ubay bin Ka'b tengah mengerjakan shalat yang di ikuti oleh mereka." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Mereka benar, alangkah baiknya amal perbuatan mereka." Abu Daud berkata; 'Hadits ini tidaklah kuat, sebab Muslim bin Khalid riwayatnya lemah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Sa'id Al hamdani] telah menceritakan kepada kami [Abdullah bin Wahb] telah mengabarkan kepadaku [Muslim bin Khalid] dari [Al 'Ala' bin Abdurrahman] dari [ayahnya] dari [Abu Hurairah] dia berkata; "Rasulullah shallallahu 'alaihi wasallam keluar, dan beliau melihat orang-orang tengah mengerjakan shalat di pojok-pojok masid, beliau bersabda: "Apa yang sedang di perbuat oleh mereka?" maka di jawab; "Beberapa orang yang tidak hafal Al Qur'an, sedangkan Ubay bin Ka'b tengah mengerjakan shalat yang di ikuti oleh mereka." Maka Nabi shallallahu 'alaihi wasallam bersabda: "Mereka benar, alangkah baiknya amal perbuatan mereka." Abu Daud berkata; 'Hadits ini tidaklah kuat, sebab Muslim bin Khalid riwayatnya lemah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах: «Однажды в рамадане Посланник Аллаха ﷺ вышел и увидел людей, которые молились в одном из углов мечети. Он спросил: “Кто это?” Ему сказали: “Это люди, которые не знают ничего из Корана. Убайй ибн Ка‘б молится, и они совершают молитву под его руководством”. Пророк ﷺ сказал: “Они поступают правильно, и их деяние прекрасно”». Абу Дауд сказал, что хадис не является сильным, поскольку в иснаде его есть слабый передатчик Муслим ибн Халид
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre (r.a.)'den; demiştir ki: (Bir gece) Resûlullah (s.a.v.) (mescide) çıktı. Bir de gördü ki, halk ramazanda mescidin bir köşesinde (cemaatle) namaz kılıyorlar. Bunun üzerine: "Bunlar(ın hâli) ne?" buyurdu. Bunlar ezberlerinde Kur'ân olmayan kimselerdir. Übeyy b. Ka'b namaz kılıyor. Onlar da onun namazına (uyarak) namaz kılıyorlar, diye cevab verildi. Nebi (s.a.v.) de: "Doğru hareket ediyorlar. Yaptıkları ne güzel!" buyurdu. Ebû Dâvûd dedi ki: Bu hadis sahih değildir. (Çünkü) Müslim b. Hâlid zayıftır. Sadece Ebû Dâvûd rivayet etmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1377</td></tr><tr><td>Arabic No</td><td>1377</td></tr><tr><td>Reference</td><td>Book 6 Hadith 7</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1377 |
+| Arabic No | 1377 |
+| Reference | Book 6 Hadith 7 |

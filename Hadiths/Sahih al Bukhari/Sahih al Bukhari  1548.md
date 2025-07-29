@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ صَلَّى النَّبِيُّ صلى الله عليه وسلم بِالْمَدِينَةِ الظُّهْرَ أَرْبَعًا، وَالْعَصْرَ بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ، وَسَمِعْتُهُمْ يَصْرُخُونَ بِهِمَا جَمِيعًا‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا سليمان بن حرب، حدثنا حماد بن زيد، عن ايوب، عن ابي قلابة، عن انس رضى الله عنه قال صلى النبي صلى الله عليه وسلم بالمدينة الظهر اربعا، والعصر بذي الحليفة ركعتين، وسمعتهم يصرخون بهما جميعا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
 ## Bengali
 
+আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের সালাত মাদ্বীনায় চার রাক‘আত আদায় করলেন এবং ‘আসরের সালাত যুল-হুলাইফায় দু’ রাক‘আত আদায় করেন। আমি শুনতে পেলাম তাঁরা সকলে উচ্চস্বরে হাজ্জ ও ‘উমরাহ’র তালবিয়া পাঠ করছেন। \[1\] (১৫৪০) (আধুনিক প্রকাশনীঃ ১৪৪৬, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস ইবনু মালিক (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যুহরের সালাত মাদ্বীনায় চার রাক‘আত আদায় করলেন এবং ‘আসরের সালাত যুল-হুলাইফায় দু’ রাক‘আত আদায় করেন। আমি শুনতে পেলাম তাঁরা সকলে উচ্চস্বরে হাজ্জ ও ‘উমরাহ’র তালবিয়া পাঠ করছেন। [1] (১৫৪০) (আধুনিক প্রকাশনীঃ ১৪৪৬, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas:The Prophet (ﷺ) offered four rak'at of the Zuhr prayer in Medina and two rak'at of the 'Asr prayer in Dhul-Hulaifa and I heard them (the companions of the Prophet) reciting Talbiya together loudly to the extent of shouting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
+
+## French
+
+Rapporté par Anas : Le Prophète (ﷺ) a prié quatre rak'at du Zuhr à Médine et deux rak'at du 'Asr à Dhul-Hulaifa, et j'ai entendu les compagnons du Prophète réciter la Talbiya ensemble à haute voix, presque en criant
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Harb\] telah menceritakan kepada kami \[Hammad bin Zaid\] dari \[Ayyub\] dari \[Abu Qalabah\] dari \[Anas radliallahu 'anhu\] berkata; Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur di Madinah empat raka'at dan shalat 'Ashar di Dzul Hulaifah dua raka'at. Dan aku mendengar mereka melakukan talbiyah dengan mengeraskan suara mereka pada keduanya (hajji dan 'umrah)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Harb] telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dari [Abu Qalabah] dari [Anas radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam melaksanakan shalat Zhuhur di Madinah empat raka'at dan shalat 'Ashar di Dzul Hulaifah dua raka'at. Dan aku mendengar mereka melakukan talbiyah dengan mengeraskan suara mereka pada keduanya (hajji dan 'umrah)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается что Анас, да будет доволен им Аллах, сказал: «Пророк ﷺ совершил полуденную молитву /зухр/ в четыре рак‘ата в Медине. А потом в Зуль-Хулейфе он совершил послеполуденную молитву /‘аср/ уже в два рак‘ата. И я слышал как сподвижники произносили громко тальбию хаджа и умры»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் (ரலி) கூறியதாவது நபி (ஸல்) அவர்கள் (ஹஜ் பயணத்தின் போது) மதீனாவில் நான்கு ரக்அத்கள் லுஹ்ர் தொழுதார்கள். ‘துல்ஹுலைஃபா’ வில் இரண்டு ரக்அத்கள் அஸ்ர் தொழு தார்கள். அனைவரும் ஹஜ், உம்ராவிற் கான ‘தல்பியா’வை உரத்த குரலில் கூறியதை நான் கேட்டேன். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes İbn Malik r.a. şöyle nakleder: "Resulullah Sallallahu Aleyhi ve Sellem öğle namazını Medine'de dört rekat, ikindi namazını Zul-Huleyfe'de iki rekat olarak kılmıştır. Onların, hem hac hem de umre için gidenlerin, (telbiye getirirken) seslerini hep birlikte yükselttiklerini işittim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے سلیمان بن حرب نے بیان کیا، کہا کہ ہم سے حماد بن زید نے بیان کیا، ان سے ابوایوب نے، ان سے ابوقلابہ نے اور ان سے انس بن مالک نے کہ نبی کریم صلی اللہ علیہ وسلم نے نماز ظہر مدینہ منورہ میں چار رکعت پڑھی۔ لیکن نماز عصر ذوالحلیفہ میں دو رکعت پڑھی۔ میں نے خود سنا کہ لوگ بلند آواز سے حج اور عمرہ دونوں کے لیے لبیک کہہ رہے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1548</td></tr><tr><td>Arabic No</td><td>1548</td></tr><tr><td>Reference</td><td>Book 25 Hadith 34</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1548 |
+| Arabic No | 1548 |
+| Reference | Book 25 Hadith 34 |

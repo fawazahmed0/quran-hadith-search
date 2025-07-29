@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُلَيْمَانُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ عَبْدِ الْعَزِيزِ بْنِ رُفَيْعٍ، عَنْ عَطَاءِ بْنِ أَبِي رَبَاحٍ، عَنْ حِزَامِ بْنِ حَكِيمٍ، قَالَ قَالَ حَكِيمُ بْنُ حِزَامٍ ابْتَعْتُ طَعَامًا مِنْ طَعَامِ الصَّدَقَةِ فَرَبِحْتُ فِيهِ قَبْلَ أَنْ أَقْبِضَهُ فَأَتَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَذَكَرْتُ ذَلِكَ لَهُ فَقَالَ ‏ "‏ لاَ تَبِعْهُ حَتَّى تَقْبِضَهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>4603</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |
+
 اخبرنا سليمان بن منصور، قال حدثنا ابو الاحوص، عن عبد العزيز بن رفيع، عن عطاء بن ابي رباح، عن حزام بن حكيم، قال قال حكيم بن حزام ابتعت طعاما من طعام الصدقة فربحت فيه قبل ان اقبضه فاتيت رسول الله صلى الله عليه وسلم فذكرت ذلك له فقال " لا تبعه حتى تقبضه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>4603</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুলায়মান ইবন মানসূর (রহঃ) ... হাকীম ইবন হিযাম (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি সাদকার খাদ্য ক্রয় করলাম এবং তা আপন অধিকারে আনার পূর্বেই তা দ্বারা মুনাফা করলাম। এরপর আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর নিকট উপস্থিত হয়ে তাঁর নিকট সে ব্যাপারে জিজ্ঞাসা করলাম। তিনি বললেনঃ তুমি তা নিজের অধিকারে না এনে বিক্রি করবে না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>4603</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hakim bin Hizam said:"I bought some food and made food and made a profit on it (by selling it) before I took possession of it. I came to the Messenger of Allah and told him about that and he said: 'Do not sell it until you take possession of it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>4603</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |
+
+## French
+
+Rapporté par Hakim bin Hizam : « J’ai acheté de la nourriture et j’ai fait un bénéfice en la revendant avant d’en avoir pris possession. Je suis allé voir le Messager d’Allah et je lui ai parlé de cela, et il a dit : “Ne la vends pas avant d’en avoir pris possession.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Sulaiman bin Manshur\], ia berkata; telah menceritakan kepada kami \[Abu Al Ahwash\] dari \[Abdul 'Aziz bin Rufai'\] dari \['Atho' bin Abu Rabah\] dari \[Hizam bin Hakim\], ia berkata; telah berkata \[Hakim bin Hizam\]; saya membeli makanan dari makanan sedekah kemudian mendapatkan keuntungan padanya sebelum mengambilnya, kemudian saya datang kepada Rasulullah shallallahu 'alaihi wasallam dan menyebutkan hal tersebut kepada beliau. Kemudian beliau bersabda: "Janganlah engkau menjualnya hingga engkau mengambilnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Sulaiman bin Manshur], ia berkata; telah menceritakan kepada kami [Abu Al Ahwash] dari [Abdul 'Aziz bin Rufai'] dari ['Atho' bin Abu Rabah] dari [Hizam bin Hakim], ia berkata; telah berkata [Hakim bin Hizam]; saya membeli makanan dari makanan sedekah kemudian mendapatkan keuntungan padanya sebelum mengambilnya, kemudian saya datang kepada Rasulullah shallallahu 'alaihi wasallam dan menyebutkan hal tersebut kepada beliau. Kemudian beliau bersabda: "Janganlah engkau menjualnya hingga engkau mengambilnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>4603</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>4603</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4603</td></tr><tr><td>Arabic No</td><td>4603</td></tr><tr><td>Reference</td><td>Book 44 Hadith 155</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4603 |
+| Arabic No | 4603 |
+| Reference | Book 44 Hadith 155 |

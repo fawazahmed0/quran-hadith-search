@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي سُوَيْدُ بْنُ سَعِيدٍ، حَدَّثَنَا عَلِيُّ بْنُ مُسْهِرٍ، ح وَحَدَّثَنَاهُ إِسْحَاقُ بْنُ إِبْرَاهِيمَ، وَعَبْدُ بْنُ حُمَيْدٍ قَالاَ أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، جَمِيعًا عَنْ هِشَامِ بْنِ عُرْوَةَ، فِي هَذَا الإِسْنَادِ بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني سويد بن سعيد، حدثنا علي بن مسهر، ح وحدثناه اسحاق بن ابراهيم، وعبد بن حميد قالا اخبرنا عبد الرزاق، اخبرنا معمر، جميعا عن هشام بن عروة، في هذا الاسناد بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়াইদ ইবনু সাঈদ, ইসহাক ইবনু ইবরাহীম ও আবদ ইবনু হুমায়দ (রহঃ) ..... হিশাম উরওয়াহ থেকে এ সূত্রে উপরের হাদীসের অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২১৯০, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated by Ibn 'Urwa with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## French
 
+Rapporté par Ibn 'Urwa : Ce hadith a été rapporté par Ibn 'Urwa avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bana Süveyd b. Saîd b. Saîd rivayet etti. (Dediki): Bize Alîyyu'bnu Müshir rivayet etti. H. Bize İshâk b. İbrahim ile Abd b. Humeyd dahî rivayet ettiler. Dededilerki. Bize Abdürrazzâk haber verdi. (Dediki): Bize Ma'mer haber verdi. Bu ravîler hep birden Hişâm b. Urve'den bu isnâdda, bu hadîsin mislini rivayet etmişlerdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 علی بن مسہر اور معمر ( راشد ) دونوں نے باقی ماندہ اسی سند کے ساتھ ہشام بن عروہ سے اسی کے مانند ر وایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2321</td></tr><tr><td>Arabic No</td><td>1001.02</td></tr><tr><td>Reference</td><td>Book 12 Hadith 58</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2321 |
+| Arabic No | 1001.02 |
+| Reference | Book 12 Hadith 58 |

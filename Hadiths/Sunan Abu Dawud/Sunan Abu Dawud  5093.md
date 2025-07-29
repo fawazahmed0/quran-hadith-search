@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْعَلاَءِ، أَنَّ زَيْدَ بْنَ حُبَابٍ، أَخْبَرَهُمْ عَنْ أَبِي هِلاَلٍ، عَنْ قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا رَأَى الْهِلاَلَ صَرَفَ وَجْهَهُ عَنْهُ ‏.‏ قَالَ أَبُو دَاوُدَ لَيْسَ عَنِ النَّبِيِّ صلى الله عليه وسلم فِي هَذَا الْبَابِ حَدِيثٌ مُسْنَدٌ صَحِيحٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
+
 حدثنا محمد بن العلاء، ان زيد بن حباب، اخبرهم عن ابي هلال، عن قتادة، ان رسول الله صلى الله عليه وسلم كان اذا راى الهلال صرف وجهه عنه . قال ابو داود ليس عن النبي صلى الله عليه وسلم في هذا الباب حديث مسند صحيح
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
 
 ## Bengali
 
+। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নতুন চাঁদ দেখে তাঁর মুখমন্ডল (চাঁদ) থেকে অন্যত্র ঘুরাতেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, চাঁদের উদয় সংক্রান্ত অনুচ্ছেদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোনো বিশুদ্ধ হাদীস নেই।\[1\] সনদ দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। কাতাদাহ (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নতুন চাঁদ দেখে তাঁর মুখমন্ডল (চাঁদ) থেকে অন্যত্র ঘুরাতেন। ইমাম আবূ দাঊদ (রহঃ) বলেন, চাঁদের উদয় সংক্রান্ত অনুচ্ছেদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর কোনো বিশুদ্ধ হাদীস নেই।[1] সনদ দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Qatadah: When the Messenger of Allah (ﷺ) saw the new moon, he turned away his face from it. Abu Dawud said: On this subject there is no tradition which has perfect chain and is sound
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
+
+## French
+
+Rapporté par Qatadah رضي الله عنه : Quand le Messager d’Allah ﷺ voyait la nouvelle lune, il détournait son visage d’elle. Abu Dawud a dit : Sur ce sujet, il n’existe pas de tradition ayant une chaîne parfaite et authentique
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad Ibnul 'Ala\] bahwa \[Zaid bin Hubab\] mengabarkan kepadanya dari \[Abu Hilal\] dari \[Qatadah\] berkata, "Jika Rasulullah shallallahu 'alaihi wasallam melihat Hilal, beliau memalingkan wajah darinya." Abu Dawud berkata, "Dalam bab ini tidak ada hadits dari Nabi shallallahu 'alaihi wasallam dengan sanad yang shahih
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad Ibnul 'Ala] bahwa [Zaid bin Hubab] mengabarkan kepadanya dari [Abu Hilal] dari [Qatadah] berkata, "Jika Rasulullah shallallahu 'alaihi wasallam melihat Hilal, beliau memalingkan wajah darinya." Abu Dawud berkata, "Dalam bab ini tidak ada hadits dari Nabi shallallahu 'alaihi wasallam dengan sanad yang shahih
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Katade'den (rivayet edildiğine göre) Rasulullah (s.a.v.).hilali (yeni ay'ı) gördüğü zaman yüzünü ondan çevirir (sonra dua eder) miş. Ebu Davud der ki: Bu mevzuda Nebi (s.a.v.)'den (rivayet edilmiş ve) senedi (Hz, Nebie) ulaştırılmış sahih bir hadis yoktur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قتادہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم جب نیا چاند دیکھتے تو آپ اس سے اپنا منہ پھیر لیتے۔ ابوداؤد کہتے ہیں: نبی اکرم صلی اللہ علیہ وسلم سے اس باب میں کوئی صحیح مسند حدیث نہیں ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5093</td></tr><tr><td>Arabic No</td><td>5093</td></tr><tr><td>Reference</td><td>Book 43 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5093 |
+| Arabic No | 5093 |
+| Reference | Book 43 Hadith 321 |

@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، عَنْ بَكْرِ بْنِ مُضَرَ، عَنِ ابْنِ الْهَادِ، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه ابو الطاهر، اخبرنا ابن وهب، عن بكر بن مضر، عن ابن الهاد، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Abu Tahir with this chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## French
 
+Rapporté par Abu Tahir رضي الله عنه : Ce hadith a été rapporté par cette chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн аль-Хади передал с этим иснадом хадис, подобный предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bana Hasen b. Aliy el-Hulvânî ile Ebû Bekir b. İshâk rivâyet ettiler, dediler ki: Bize İtmü Ebi Meryem rivâyet etti. ki): Bize Muhammed b. Ca'fer haber verdi. ki: Bana Zeyd b. Eşlem, Iyâd b. Abdillâh'dan, o da Ebû Said-i Hudrî'den, o da Nebiy (sallallahü aleyhi ve sellem)’den naklen haber verdi. H
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (لیث کے بجائے ) بکر بن مضر نے ابن ہاد سے اسی سند کے ساتھ اسی طرح روایت کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>242</td></tr><tr><td>Arabic No</td><td>79.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 242 |
+| Arabic No | 79.02 |
+| Reference | Book 1 Hadith 148 |

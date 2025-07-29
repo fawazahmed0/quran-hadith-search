@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,138 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ عَمْرٍو الْغَزِّيُّ، سَمِعْتُ أَبَا مُسْهِرٍ، قِيلَ لَهُ أُبْنَى ‏.‏ قَالَ نَحْنُ أَعْلَمُ هِيَ يُبْنَى فِلَسْطِينَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
+
 حدثنا عبد الله بن عمرو الغزي، سمعت ابا مسهر، قيل له ابنى . قال نحن اعلم هي يبنى فلسطين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আব্দুল্লাহ ইবনু ‘আমর আল-গাযযী (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি শুনেছি আবু মুসহিরকে উবনা নামক জনপদ সম্পর্কে জিজ্ঞেস করা হলে তিনি বললেন, ‘আমরা তো ফিলিস্তীনের ‘ইউবনা’ নামক স্থানকেই ‘উবনা’ বলে জানি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Mishar was told about Ubna. He said “We know it better. This is Yubna of Palestine
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
+
+## French
+
+Abu Mishar a été interrogé au sujet de Ubna. Il a dit : « Nous la connaissons mieux. C’est Yubna en Palestine. »
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullahb.Amr el-Gazzî dedi ki: Ben Ebû Müshir'e Ubnâ (neresidir) diye sorulduğunu işittim, (o da): "Biz (bunu başkaların­dan) daha iyi biliriz. Orası Yübnâ Filistin (Filistin Yübnâsı denilen bir yer)dir." diye cevap verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو غزی کہتے ہیں کہ ابومسہر کے سامنے ابنیٰ کا تذکرہ آیا تو میں نے ان کو کہتے ہوئے سنا: ہم جانتے ہیں یہ یُبنی ہے جو فلسطین میں ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Maqtu</td><td>Al-Albani</td></tr><tr><td>Maqtu</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2617</td></tr><tr><td>Arabic No</td><td>2617</td></tr><tr><td>Reference</td><td>Book 15 Hadith 141</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Maqtu | Al-Albani |
+| Maqtu | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2617 |
+| Arabic No | 2617 |
+| Reference | Book 15 Hadith 141 |

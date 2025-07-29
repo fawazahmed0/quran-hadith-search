@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ جَرِيرٍ، عَنْ مُغِيرَةَ، عَنِ الشَّعْبِيِّ، قَالَ كَانَ عَلِيٌّ رضى الله عنه يَرْزُقُ النَّاسَ الطِّلاَءَ يَقَعُ فِيهِ الذُّبَابُ وَلاَ يَسْتَطِيعُ أَنْ يُخْرَجَ مِنْهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |
+
 اخبرنا سويد، قال انبانا عبد الله، عن جرير، عن مغيرة، عن الشعبي، قال كان علي رضى الله عنه يرزق الناس الطلاء يقع فيه الذباب ولا يستطيع ان يخرج منه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... শা'বী (রহঃ) থেকে বর্ণিত। তিনি বলেন, আলী (রাঃ) লোকদেরকে দ্রাক্ষারস পান করাতেন, আর তা এত গাঢ় হতো যে, যদি তাতে মাছি পতিত হতো, তবে সে বের হতে পারতো না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Ash-Sha'bi said:"Ali, may Allah be pleased with him, used to give the people thickened grape juice into which flies would fall and not be able to get out again
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |
+
+## French
+
+Rapporté par Ash-Sha'bi : "'Ali, que Allah l'agrée, donnait aux gens du jus de raisin épaissi dans lequel des mouches tombaient et ne pouvaient plus en sortir
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah memberitakan kepada kami \[Abdullah\] dari \[Jarir\] dari \[Mughirah\] dari \[Asy Sya'bi\] ia berkata, " \[Ali\] memberikan minuman perasan nabidz kepada orang-orang, yang jika ada lalat jatuh dan masuk ke dalamnya maka tidak akan bisa keluar lagi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah memberitakan kepada kami [Abdullah] dari [Jarir] dari [Mughirah] dari [Asy Sya'bi] ia berkata, " [Ali] memberikan minuman perasan nabidz kepada orang-orang, yang jika ada lalat jatuh dan masuk ke dalamnya maka tidak akan bisa keluar lagi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Mauquf | Abu Ghuddah |
+| Sahih Isnaad Mauquf | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Mauquf</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Mauquf</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5718</td></tr><tr><td>Arabic No</td><td>5718</td></tr><tr><td>Reference</td><td>Book 51 Hadith 180</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5718 |
+| Arabic No | 5718 |
+| Reference | Book 51 Hadith 180 |

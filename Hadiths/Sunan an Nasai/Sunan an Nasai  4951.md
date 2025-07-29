@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,120 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا يَحْيَى بْنُ مُوسَى الْبَلْخِيُّ، قَالَ حَدَّثَنَا ابْنُ نُمَيْرٍ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ إِسْحَاقَ، عَنْ أَيُّوبَ بْنِ مُوسَى، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، مِثْلَهُ كَانَ ثَمَنُ الْمِجَنِّ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم يُقَوَّمُ عَشْرَةَ دَرَاهِمَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 46 Hadith 81</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |
+
 اخبرنا يحيى بن موسى البلخي، قال حدثنا ابن نمير، قال حدثنا محمد بن اسحاق، عن ايوب بن موسى، عن عطاء، عن ابن عباس، مثله كان ثمن المجن على عهد رسول الله صلى الله عليه وسلم يقوم عشرة دراهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 46 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবন মূসা বলখী (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে অনুরূপ বর্ণিত যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সময়ে ঢালের মূল্য ছিল দশ দিরহাম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 46 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:A similar report was narrated from Ibn 'Abbas. The price of a shield at the time of the Messenger of Allah was estimated to be ten Dirhams
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 46 Hadith 81</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |
+
+## French
+
+Rapporté par Ibn 'Abbas : Un rapport similaire a été rapporté de la part d'Ibn 'Abbas. Le prix d'un bouclier à l'époque du Messager d'Allah ﷺ était estimé à dix dirhams
+
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 46 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 46 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Shadh | Abu Ghuddah |
+| Shadh | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Abu Ghuddah</td></tr><tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4951</td></tr><tr><td>Arabic No</td><td>4951</td></tr><tr><td>Reference</td><td>Book 46 Hadith 81</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4951 |
+| Arabic No | 4951 |
+| Reference | Book 46 Hadith 81 |

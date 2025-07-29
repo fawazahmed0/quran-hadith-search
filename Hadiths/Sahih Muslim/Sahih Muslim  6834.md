@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَهُ غَيْرَ أَنَّهُ قَالَ ‏ "‏ فَلَهُ عَشْرُ أَمْثَالِهَا أَوْ أَزِيدُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو كريب، حدثنا ابو معاوية، عن الاعمش، بهذا الاسناد . نحوه غير انه قال " فله عشر امثالها او ازيد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবু কুরায়ব (রহঃ) ..... আমাশ (রহঃ) এর সানাদে এ সূত্রে অবিকল হাদীস বর্ণনা করেছেন। তবে পার্থক্য এই যে, তিনি বলেছেন, তার জন্যে রয়েছে দশগুণ প্রতিদান কিংবা আমি আরও বৃদ্ধি করে দিব। (ইসলামিক ফাউন্ডেশন ৬৫৯০, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been transmitted on the authority of A'mash with the same chain of transmitters and he (further) said:There is for him ten like that (the good he performed) or more than that
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## French
 
+Rapporté par A’mash à travers la même chaîne de transmetteurs : Un hadith semblable a été transmis, et il a ajouté : « Il recevra dix fois autant (de récompense pour le bien accompli) ou plus encore. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-22) Bize Ebû Kureyb rivayet etti. (Dedikî): Bize Ebû Muâviye, A'meş'den bu isnadla, bu hadîsin mislini rivayet etti. Yalnız o: «Onun için on misli vardır. Yahut ziyade ederim...» dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابومعاویہ نے اعمش سے اسی سند کے ساتھ اسی کے مانند روایت بیان کی ، مگر انہوں نے کہا : " اس کے لیے اس جیسی دس نیکیاں ملتی ہیں ، یا میں ( اس سے بھی ) زیادہ دیتا ہوں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6834</td></tr><tr><td>Arabic No</td><td>2687.02</td></tr><tr><td>Reference</td><td>Book 48 Hadith 30</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6834 |
+| Arabic No | 2687.02 |
+| Reference | Book 48 Hadith 30 |

@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ ابْنُ أَبِي عُمَرَ، حَدَّثَنَا مَرْوَانُ، - يَعْنِي الْفَزَارِيَّ - حَدَّثَنَا سَعِيدُ بْنُ عُبَيْدٍ، الطَّائِيُّ عَنْ عَلِيِّ بْنِ رَبِيعَةَ، عَنِ الْمُغِيرَةِ بْنِ شُعْبَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه ابن ابي عمر، حدثنا مروان، - يعني الفزاري - حدثنا سعيد بن عبيد، الطايي عن علي بن ربيعة، عن المغيرة بن شعبة، عن النبي صلى الله عليه وسلم مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু আবূ উমর (রহঃ) ..... মুগীরাহ ইবনু শুবাহ (রাযিঃ) নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে অনুরূপ বর্ণিত হয়েছে। (ইসলামী ফাউন্ডেশন ২০২৭, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated from the Messenger of Allah (ﷺ) through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## French
 
+Rapporté par le Messager d’Allah ﷺ : Ce hadith a été rapporté du Messager d’Allah ﷺ par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис с другим иснадом подобен предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize, bu hadisi İbni Ebi Ömer dahî rivayet etti. (dediki): Bize Mervân yâni Fezâri rivayet etti. (dediki): Bize Saîdü'bnü Ubeyd-i Tâî, Alîyyü'bnü Rabîa'dan o da Mugîratü'bnü Şu'be'den, o da Peygamber (Sallallahu Aleyhi ve Sellem)'den naklen bu hadîsin mislini rivayet etti. İzah için buraya tıklayın
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 مروان بن معاویہ فزاری نے کہا : ہمیں سعید بن عبید طا ئی نے علی بن ربیعہ سے حدیث سنا ئی انھوں نے حضرت مغیرہ بن شعبہ رضی اللہ تعالیٰ عنہ سے اور انھوں نے نبی صلی اللہ علیہ وسلم سے اس ( سابقہ حدیث ) کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2159</td></tr><tr><td>Arabic No</td><td>933.03</td></tr><tr><td>Reference</td><td>Book 11 Hadith 37</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2159 |
+| Arabic No | 933.03 |
+| Reference | Book 11 Hadith 37 |

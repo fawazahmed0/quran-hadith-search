@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، حَدَّثَنَا خَالِدٌ، عَنْ مُحَمَّدِ بْنِ عَمْرٍو، عَنْ أَبِي سَلَمَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَهْدَتْ لَهُ يَهُودِيَّةٌ بِخَيْبَرَ شَاةً مَصْلِيَّةً نَحْوَ حَدِيثِ جَابِرٍ قَالَ فَمَاتَ بِشْرُ بْنُ الْبَرَاءِ بْنِ مَعْرُورٍ الأَنْصَارِيُّ فَأَرْسَلَ إِلَى الْيَهُودِيَّةِ ‏ "‏ مَا حَمَلَكِ عَلَى الَّذِي صَنَعْتِ ‏"‏ ‏.‏ فَذَكَرَ نَحْوَ حَدِيثِ جَابِرٍ فَأَمَرَ بِهَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَقُتِلَتْ وَلَمْ يَذْكُرْ أَمْرَ الْحِجَامَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
+
 حدثنا وهب بن بقية، حدثنا خالد، عن محمد بن عمرو، عن ابي سلمة، ان رسول الله صلى الله عليه وسلم اهدت له يهودية بخيبر شاة مصلية نحو حديث جابر قال فمات بشر بن البراء بن معرور الانصاري فارسل الى اليهودية " ما حملك على الذي صنعت " . فذكر نحو حديث جابر فامر بها رسول الله صلى الله عليه وسلم فقتلت ولم يذكر امر الحجامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
 
 ## Bengali
 
+। জাবির (রাঃ) বর্ণিত হাদীসের অনুরূপ হাদীস আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত হয়েছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে খায়বারে এক ইয়াহুদী নারী একটা ভূনা ছাগী উপহার দিয়েছিল। বর্ণনাকারী বলেন, বিশর ইবনুল বারাআ ইবনু মারূর আনসারী (বিষক্রিয়ায়) মৃত্যুবরণ করায় তিনি ইয়াহুদী নারীকে ডেকে এনে বললেন, তুমি কেন এরূপ করলে? অতঃপর জাবির (রাঃ) বর্ণিত হাদীসের অনুরূপ। এতে আরো রয়েছে। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে মহিলাটিকে হত্যার নির্দেশ দিলেন এবং তাকে হত্যা করা হলো। কিন্তু বর্ণনাকারী এ হাদীসে রক্তমোক্ষণের কথা উল্লেখ করেননি।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। জাবির (রাঃ) বর্ণিত হাদীসের অনুরূপ হাদীস আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত হয়েছে। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে খায়বারে এক ইয়াহুদী নারী একটা ভূনা ছাগী উপহার দিয়েছিল। বর্ণনাকারী বলেন, বিশর ইবনুল বারাআ ইবনু মারূর আনসারী (বিষক্রিয়ায়) মৃত্যুবরণ করায় তিনি ইয়াহুদী নারীকে ডেকে এনে বললেন, তুমি কেন এরূপ করলে? অতঃপর জাবির (রাঃ) বর্ণিত হাদীসের অনুরূপ। এতে আরো রয়েছে। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাকে মহিলাটিকে হত্যার নির্দেশ দিলেন এবং তাকে হত্যা করা হলো। কিন্তু বর্ণনাকারী এ হাদীসে রক্তমোক্ষণের কথা উল্লেখ করেননি।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSalamah: A Jewess presented a roasted sheep to the Messenger of Allah (ﷺ) at Khaybar. He then mentioned the rest of the tradition like that of Jabir (No. 4495). He said: Then Bashir ibn al-Bara' ibn Ma'rur al-Ansari died. He sent someone to call on the Jewess, and said to her (when she came): What motivated you to do the work you have done? He then mentioned the rest of the tradition similar to the one mentioned by Jabir (No. 4495). The Messenger of Allah (ﷺ) then ordered regarding her and she was killed. But he (AbuSalamah) did not mention the matter of cupping
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
+
+## French
+
+Rapporté par Abu Salamah : Une femme juive offrit un mouton rôti au Messager d’Allah ﷺ à Khaybar. Il rapporta ensuite le reste du récit comme celui de Jabir (n°4495). Il dit : Puis Bashir ibn al-Bara’ ibn Ma’rur al-Ansari mourut. Le Prophète ﷺ fit venir la femme juive et lui demanda : « Qu’est-ce qui t’a poussée à faire cela ? » Il rapporta ensuite le reste du récit semblable à celui de Jabir (n°4495). Le Messager d’Allah ﷺ ordonna alors qu’elle soit tuée. Mais il ne mentionna pas la saignée
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Салямы, что одна иудейка в Хайбаре подарила Посланнику Аллаха ﷺ отравленную овцу. Он передал нечто похожее на хадис Джабира, и сказал: «Бишр ибн аль-Бара ибн Ма‘рур аль-Ансари скончался из-за этого яда, и Посланник Аллаха ﷺ послал за иудейкой и спросил: “Что заставило тебя сделать то, что ты сделала?”» Он передал нечто похожее на хадис Джабира и сказал: «А потом по велению Посланника Аллаха ﷺ её казнили». И он не упоминал о кровопускании
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Seleme (r.a)'den, şöyle (dediği) rivayet edilmiştir: Hayberde, yahûdi bir kadın Rasûiullah (s.a.v)'e ateşte kızartılmış bir koyun hediye etti. Râvi (yukarıdaki 4510.) Câbir hadisinin bir benzerini söyleyip şöyle dedi: Bişr b. Berâ b. Ma'rûr el-Ensâri öldü. Bunun üzerine Rasûlufiah Yahûdi kadın'a haber gönderip (çağırdı). Ona: "Niçin böyle birşey yaptın?" dedi. -Ravi yine Câbir (4510.) hadîsinin benzerini söyledi.- Rasûhıllah emretti ve kadın öldürüldü. (Bu hadisin) Ravî (si) kan aldırma mes'elesini anmadı. Bu hadîs mürseldir. İzah 4514 te
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسلمہ رضی اللہ عنہ کہتے ہیں کہ خیبر کی ایک یہودی عورت نے رسول اللہ صلی اللہ علیہ وسلم کو بھنی ہوئی بکری تحفہ میں بھیجی، پھر راوی نے ویسے ہی بیان کیا جیسے جابر کی حدیث میں ہے، ابوسلمہ کہتے ہیں: پھر بشر بن براء بن معرور انصاری فوت ہو گئے، تو آپ نے اس یہودی عورت کو بلا بھیجا اور فرمایا: تجھے ایسا کرنے پر کس چیز نے آمادہ کیا تھا؟ پھر راوی نے اسی طرح ذکر کیا جیسے جابر کی حدیث میں ہے رسول اللہ صلی اللہ علیہ وسلم نے اس کے سلسلہ میں حکم دیا: تو وہ قتل کر دی گئی، اور انہوں نے پچھنا لگوانے کا ذکر نہیں کیا ہے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Lighairihi</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4511</td></tr><tr><td>Arabic No</td><td>4511</td></tr><tr><td>Reference</td><td>Book 41 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Lighairihi | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4511 |
+| Arabic No | 4511 |
+| Reference | Book 41 Hadith 18 |

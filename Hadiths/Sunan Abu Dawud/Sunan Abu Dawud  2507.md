@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سَعِيدُ بْنُ مَنْصُورٍ، حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ أَبِي الزِّنَادِ، عَنْ أَبِيهِ، عَنْ خَارِجَةَ بْنِ زَيْدٍ، عَنْ زَيْدِ بْنِ ثَابِتٍ، قَالَ ‏:‏ كُنْتُ إِلَى جَنْبِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَغَشِيَتْهُ السَّكِينَةُ فَوَقَعَتْ فَخِذُ رَسُولِ اللَّهِ صلى الله عليه وسلم عَلَى فَخِذِي، فَمَا وَجَدْتُ ثِقَلَ شَىْءٍ أَثْقَلَ مِنْ فَخِذِ رَسُولِ اللَّهِ صلى الله عليه وسلم ثُمَّ سُرِّيَ عَنْهُ فَقَالَ ‏:‏ ‏"‏ اكْتُبْ ‏"‏ ‏.‏ فَكَتَبْتُ فِي كَتِفٍ ‏:‏ لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ وَالْمُجَاهِدُونَ فِي سَبِيلِ اللَّهِ ‏.‏ إِلَى آخِرِ الآيَةِ، فَقَامَ ابْنُ أُمِّ مَكْتُومٍ - وَكَانَ رَجُلاً أَعْمَى - لَمَّا سَمِعَ فَضِيلَةَ الْمُجَاهِدِينَ فَقَالَ ‏:‏ يَا رَسُولَ اللَّهِ فَكَيْفَ بِمَنْ لاَ يَسْتَطِيعُ الْجِهَادَ مِنَ الْمُؤْمِنِينَ فَلَمَّا قَضَى كَلاَمَهُ غَشِيَتْ رَسُولَ اللَّهِ صلى الله عليه وسلم السَّكِينَةُ فَوَقَعَتْ فَخِذُهُ عَلَى فَخِذِي وَوَجَدْتُ مِنْ ثِقَلِهَا فِي الْمَرَّةِ الثَّانِيَةِ كَمَا وَجَدْتُ فِي الْمَرَّةِ الأُولَى ثُمَّ سُرِّيَ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏:‏ ‏"‏ اقْرَأْ يَا زَيْدُ ‏"‏ ‏.‏ فَقَرَأْتُ ‏(‏ لاَ يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِنِينَ ‏)‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏(‏ غَيْرُ أُولِي الضَّرَرِ ‏)‏ الآيَةَ كُلَّهَا ‏.‏ قَالَ زَيْدٌ ‏:‏ فَأَنْزَلَهَا اللَّهُ وَحْدَهَا فَأَلْحَقْتُهَا، وَالَّذِي نَفْسِي بِيَدِهِ لَكَأَنِّي أَنْظُرُ إِلَى مُلْحَقِهَا عِنْدَ صَدْعٍ فِي كَتِفٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
+
 حدثنا سعيد بن منصور، حدثنا عبد الرحمن بن ابي الزناد، عن ابيه، عن خارجة بن زيد، عن زيد بن ثابت، قال : كنت الى جنب رسول الله صلى الله عليه وسلم فغشيته السكينة فوقعت فخذ رسول الله صلى الله عليه وسلم على فخذي، فما وجدت ثقل شىء اثقل من فخذ رسول الله صلى الله عليه وسلم ثم سري عنه فقال : " اكتب " . فكتبت في كتف : لا يستوي القاعدون من المومنين والمجاهدون في سبيل الله . الى اخر الاية، فقام ابن ام مكتوم - وكان رجلا اعمى - لما سمع فضيلة المجاهدين فقال : يا رسول الله فكيف بمن لا يستطيع الجهاد من المومنين فلما قضى كلامه غشيت رسول الله صلى الله عليه وسلم السكينة فوقعت فخذه على فخذي ووجدت من ثقلها في المرة الثانية كما وجدت في المرة الاولى ثم سري عن رسول الله صلى الله عليه وسلم فقال : " اقرا يا زيد " . فقرات ( لا يستوي القاعدون من المومنين ) فقال رسول الله صلى الله عليه وسلم ( غير اولي الضرر ) الاية كلها . قال زيد : فانزلها الله وحدها فالحقتها، والذي نفسي بيده لكاني انظر الى ملحقها عند صدع في كتف
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
 
 ## Bengali
 
+। যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পাশে ছিলাম। এমতাবস্থায় প্রশান্তি ও নীরবতা তাঁকে আচ্ছন্ন করলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঊরু আমার ঊরুর উপর পড়লো। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঊরুর চেয়ে অধিক ভারি কোনো জিনিসি অনুভব করিনি। অতঃপর ওয়াহীর প্রভাব কেটে গেলে তিনি বললেনঃ লিখো! কাজেই আমি (ছাগলের) কাঁধের (চামড়ার) উপর লিখলাম, ‘‘মুমিনদের মধ্যে যারা ঘরে বসে থাকে, তারা সম্মানের দিক দিয়ে মুজাহিদগণের সমান নয়।’’ \[সূরা আন-নিসাঃ আয়াত ৯৫\] ইবনু উম্মু মাকতুম (রাঃ) মুজাহিদদের মর্যাদার কথা শুনে দাঁড়ালেন। তিনি ছিলেন জন্মান্ধ। তিনি বললেন, হে আল্লাহর রাসূল! মুমিনদের মধ্যে যারা জিহাদ করতে অক্ষম তাদের অবস্থা কি হবে? তিনি কথা শেষ করার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে (ওহী অবতীর্ণের কারণে) প্রশান্তি ও নীরবতা আচ্ছন্ন করে ফেললো। তাঁর ঊরু আমার ঊরুর উপর পতিত হলো। আমি প্রথমবারের মতই দ্বিতীয়বার অনুরূপ ভারি অনুভব করলাম। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঊরুর উপর থেকে ওয়াহীর প্রভাব কেটে গেলে তিনি বললেনঃ হে যায়িদ! পড়ো। আমি পড়লাম, ‘‘মুমিনদের মধ্যে যারা ঘরে বসে থাকে, তারা সম্মানের দিক দিয়ে মুজাহিদগণের সমান নয়।’’ অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘‘অক্ষমতার ওজর ছাড়াই...’’ পুরো আয়াত বলেন। যায়িদ (রাঃ) বলেন, দ্বিতীয়বার মহান আল্লাহ আলাদাভাবে এ অংশটুকু অবতীর্ণ করলেন। আমি নির্দিষ্ট জায়গাতে এটি সংযোজন করে দিলাম। ঐ সত্ত্বার শপথ যাঁর হাতে আমার প্রাণ! হাড়ের ফাটা স্থানে উল্লেখিত অংশটুকু সংযোজন করার দৃশ্য এখনো আমার চোখের সামনে ভেসে উঠেছে।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। যায়িদ ইবনু সাবিত (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর পাশে ছিলাম। এমতাবস্থায় প্রশান্তি ও নীরবতা তাঁকে আচ্ছন্ন করলো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঊরু আমার ঊরুর উপর পড়লো। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঊরুর চেয়ে অধিক ভারি কোনো জিনিসি অনুভব করিনি। অতঃপর ওয়াহীর প্রভাব কেটে গেলে তিনি বললেনঃ লিখো! কাজেই আমি (ছাগলের) কাঁধের (চামড়ার) উপর লিখলাম, ‘‘মুমিনদের মধ্যে যারা ঘরে বসে থাকে, তারা সম্মানের দিক দিয়ে মুজাহিদগণের সমান নয়।’’ [সূরা আন-নিসাঃ আয়াত ৯৫] ইবনু উম্মু মাকতুম (রাঃ) মুজাহিদদের মর্যাদার কথা শুনে দাঁড়ালেন। তিনি ছিলেন জন্মান্ধ। তিনি বললেন, হে আল্লাহর রাসূল! মুমিনদের মধ্যে যারা জিহাদ করতে অক্ষম তাদের অবস্থা কি হবে? তিনি কথা শেষ করার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে (ওহী অবতীর্ণের কারণে) প্রশান্তি ও নীরবতা আচ্ছন্ন করে ফেললো। তাঁর ঊরু আমার ঊরুর উপর পতিত হলো। আমি প্রথমবারের মতই দ্বিতীয়বার অনুরূপ ভারি অনুভব করলাম। অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর ঊরুর উপর থেকে ওয়াহীর প্রভাব কেটে গেলে তিনি বললেনঃ হে যায়িদ! পড়ো। আমি পড়লাম, ‘‘মুমিনদের মধ্যে যারা ঘরে বসে থাকে, তারা সম্মানের দিক দিয়ে মুজাহিদগণের সমান নয়।’’ অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘‘অক্ষমতার ওজর ছাড়াই...’’ পুরো আয়াত বলেন। যায়িদ (রাঃ) বলেন, দ্বিতীয়বার মহান আল্লাহ আলাদাভাবে এ অংশটুকু অবতীর্ণ করলেন। আমি নির্দিষ্ট জায়গাতে এটি সংযোজন করে দিলাম। ঐ সত্ত্বার শপথ যাঁর হাতে আমার প্রাণ! হাড়ের ফাটা স্থানে উল্লেখিত অংশটুকু সংযোজন করার দৃশ্য এখনো আমার চোখের সামনে ভেসে উঠেছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Zaid bin Thabit said “I was beside the Apostle of Allaah(ﷺ) when the divinely-inspired calmness overtook him and the thigh of the Apostle of Allaah(ﷺ) fell on my thigh. I did not find any weightier than the thigh of the Apostle of Allaah(ﷺ). He then regained his composure and said “Write down. I wrote on a shoulder. Not equal are thise believers who sit (at home), other than those who have a (disabling) hurt, and those who strive in the way of Allaah. When Ibn Umm Makhtum who was blind heard the excellence of the warriors. He stood up and said “Apostle of Allaah(ﷺ) how is it for those believers who are unable to fight (in the path of Allaah)? When he finished his question his divinely-inspired calmness overtook him, and his thigh fell on my thigh and I found its weight the second time as I found the first time.” When the Apostle of Allaah(ﷺ) regained his composure, he said “Apostle of Allaah(ﷺ) said “Other than those who have a (disabling hurt). Zaid said “Allaah, the exalted, revealed it alone and I appended it.” By Him in Whose hands is my life, I am seeing, as it were the place where I put it (i.e., the verse) at the crack in the shoulder.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
+
+## French
+
+Zaid bin Thabit رضي الله عنه a dit : « J’étais auprès du Messager d’Allah ﷺ quand la révélation est descendue sur lui, et la cuisse du Messager d’Allah ﷺ est tombée sur la mienne. Je n’ai jamais ressenti de poids plus lourd que la cuisse du Messager d’Allah ﷺ. Ensuite, il a repris ses esprits et a dit : “Écris.” J’ai écrit sur une omoplate : “Ne sont pas égaux ceux des croyants qui restent chez eux, sauf ceux qui ont une excuse, et ceux qui combattent dans le chemin d’Allah.” Quand Ibn Umm Makhtum, qui était aveugle, a entendu parler du mérite des combattants, il s’est levé et a dit : “Ô Messager d’Allah ﷺ, qu’en est-il de ceux qui ne peuvent pas combattre dans le chemin d’Allah ?” Dès qu’il a fini sa question, la révélation est descendue à nouveau, et la cuisse du Prophète ﷺ est retombée sur la mienne, aussi lourde que la première fois. Quand le Messager d’Allah ﷺ a repris ses esprits, il a dit : “Sauf ceux qui ont une excuse.” Zaid a dit : “Allah, le Très-Haut, a révélé ce passage seul, et je l’ai ajouté.” Par Celui qui détient ma vie dans Sa main, je vois encore l’endroit où j’ai placé ce verset sur l’omoplate. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sa'id bin Manshur\], telah menceritakan kepada kami \[Abdurrahman bin Abu Az Zinad\], dari \[ayahnya\], dari \[Kharijah bin Zaid\] dari \[Zaid bin Tsabit\], ia berkata; aku pernah berada di sisi Rasulullah shallallahu 'alaihi wasallam, kemudian beliau diliputi oleh ketenangan, kemudian paha Rasulullah shallallahu 'alaihi wasallam terjatuh di atas pahaku, dan tidaklah aku mendapatkan sesuatu yang lebih berat daripada paha Rasulullah shallallahu 'alaihi wasallam. Kemudian rasa berat tersebut hilang dari beliau. Kemudian beliau berkata: "Tulislah!" Kemudian aku tuliskan di tulang pundak hewan firman Allah: "Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) dengan orang-orang yang berjihad di jalan Allah……" hingga akhir ayat. Kemudian Ibnu Ummi Maktum orang yang buta berdiri tatkala ia mendengar keutamaan orang-orang yang berjihad dijalan Allah, lalu berkata; wahai Rasulullah, bagaimana dengan orang mukmin yang tidak mampu untuk berjihad? Kemudian tatkala ia telah selesai berbicara maka Rasulullah shallallahu 'alaihi wasallam diliputi rasa tenang kemudian pahanya terjatuh di atas pahaku dan aku merasakan beratnya lagi sebagaimana aku merasakannya pada kali pertama. Kemudian rasa berat tersebut hilang dari Rasulullah shallallahu 'alaihi wasallam. Beliau berkata: "Bacalah wahai Zaid!" kemudian aku membaca: "Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) …" kemudian beliau berkata: "Selain orang-orang yang berudzur." Zaid berkata; Allah menurunkan ayat tersebut tersendiri, kemudian aku menggabungkannya. Demi Dzat yang jiwaku ada di tanganNya, sungguh sepertinya aku melihat gabungannya pada belahan tulang pundak
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sa'id bin Manshur], telah menceritakan kepada kami [Abdurrahman bin Abu Az Zinad], dari [ayahnya], dari [Kharijah bin Zaid] dari [Zaid bin Tsabit], ia berkata; aku pernah berada di sisi Rasulullah shallallahu 'alaihi wasallam, kemudian beliau diliputi oleh ketenangan, kemudian paha Rasulullah shallallahu 'alaihi wasallam terjatuh di atas pahaku, dan tidaklah aku mendapatkan sesuatu yang lebih berat daripada paha Rasulullah shallallahu 'alaihi wasallam. Kemudian rasa berat tersebut hilang dari beliau. Kemudian beliau berkata: "Tulislah!" Kemudian aku tuliskan di tulang pundak hewan firman Allah: "Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) dengan orang-orang yang berjihad di jalan Allah……" hingga akhir ayat. Kemudian Ibnu Ummi Maktum orang yang buta berdiri tatkala ia mendengar keutamaan orang-orang yang berjihad dijalan Allah, lalu berkata; wahai Rasulullah, bagaimana dengan orang mukmin yang tidak mampu untuk berjihad? Kemudian tatkala ia telah selesai berbicara maka Rasulullah shallallahu 'alaihi wasallam diliputi rasa tenang kemudian pahanya terjatuh di atas pahaku dan aku merasakan beratnya lagi sebagaimana aku merasakannya pada kali pertama. Kemudian rasa berat tersebut hilang dari Rasulullah shallallahu 'alaihi wasallam. Beliau berkata: "Bacalah wahai Zaid!" kemudian aku membaca: "Tidaklah sama antara mukmin yang duduk (yang tidak ikut berperang) …" kemudian beliau berkata: "Selain orang-orang yang berudzur." Zaid berkata; Allah menurunkan ayat tersebut tersendiri, kemudian aku menggabungkannya. Demi Dzat yang jiwaku ada di tanganNya, sungguh sepertinya aku melihat gabungannya pada belahan tulang pundak
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
 
 ## Turkish
 
+Zeyd b. Sabit (r.a.)'den; demiştir ki: Ben Rasûlullah (s.a.v.)'in yanında (oturuyor) idim. Kendisini bir sükûnet kapladı. Derken Rasûlullah (s.a.v.)'in dizi benim dizimin üzerine düştü. Rasûlullah'ın dizinden daha ağır birşey görmedim. Sonra (bu hal) ondan çekilip gidince (bana hitaben); "Yaz!" dedi. Ben de (onun mübarek ağzından çıkan; "inananlardan yerlerinde oturanlar ile mallarıyla canlarıyla Allah yolunda cîhad edenler bir olmaz. "\[Nisa 95\] âyetini sonuna kadar bir kürek kemiği üzerine yazdım. Bu esnada â'mâ bir adam olan İbn Ümm-i Mektum mücâhidlerin faziletini işitince ayağa kalktı ve; Ey Allah'ın Rasûlü müzminlerden cihada gücü yetmeyenlerin durumu nasıldır? dedi. (İbn Ümm-i Mektum) sözünü bitirince Rasûlullah (s.a.v.)'i (yeniden) bir sükunet hali daha kapladı ve dizi dizi­min üzerine düştü. Dizinin ağırlığını (bu) ikinci defa (ki düşüşün) de de (aynen) birinci defaki gibi (herşeyden daha ağır) buldum. Sonra (bu hal) Rasûlullah (s.a.v.)'den çekilip gidince (bana hitaben); "Ey Zeydî (yazdığını) oku!" dedi. Ben de (yazdığım âyetin) (kısmını) okudum. Rasûlullah (s.a.v.)'de (bu kısma) “Özürsüz olarak (sözü ilâve edilecek)" dedi (ve) âyetin tümünü okudu. Zeyd dedi ki: Allah (bu âyette bulunan -özürsüz olarak- anlamındaki) kelimeyi başlıbaşına indirdi. Ben de (âyete) ilâve ettim. Hayatım elinde olan Allah'a yemin olsun ki onun kemikte bulunan çatlağın yanındaki ilâve edildiği yeri görür gibiyim
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Zeyd b. Sabit (r.a.)'den; demiştir ki: Ben Rasûlullah (s.a.v.)'in yanında (oturuyor) idim. Kendisini bir sükûnet kapladı. Derken Rasûlullah (s.a.v.)'in dizi benim dizimin üzerine düştü. Rasûlullah'ın dizinden daha ağır birşey görmedim. Sonra (bu hal) ondan çekilip gidince (bana hitaben); "Yaz!" dedi. Ben de (onun mübarek ağzından çıkan; "inananlardan yerlerinde oturanlar ile mallarıyla canlarıyla Allah yolunda cîhad edenler bir olmaz. "[Nisa 95] âyetini sonuna kadar bir kürek kemiği üzerine yazdım. Bu esnada â'mâ bir adam olan İbn Ümm-i Mektum mücâhidlerin faziletini işitince ayağa kalktı ve; Ey Allah'ın Rasûlü müzminlerden cihada gücü yetmeyenlerin durumu nasıldır? dedi. (İbn Ümm-i Mektum) sözünü bitirince Rasûlullah (s.a.v.)'i (yeniden) bir sükunet hali daha kapladı ve dizi dizi­min üzerine düştü. Dizinin ağırlığını (bu) ikinci defa (ki düşüşün) de de (aynen) birinci defaki gibi (herşeyden daha ağır) buldum. Sonra (bu hal) Rasûlullah (s.a.v.)'den çekilip gidince (bana hitaben); "Ey Zeydî (yazdığını) oku!" dedi. Ben de (yazdığım âyetin) (kısmını) okudum. Rasûlullah (s.a.v.)'de (bu kısma) “Özürsüz olarak (sözü ilâve edilecek)" dedi (ve) âyetin tümünü okudu. Zeyd dedi ki: Allah (bu âyette bulunan -özürsüz olarak- anlamındaki) kelimeyi başlıbaşına indirdi. Ben de (âyete) ilâve ettim. Hayatım elinde olan Allah'a yemin olsun ki onun kemikte bulunan çatlağın yanındaki ilâve edildiği yeri görür gibiyim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زید بن ثابت رضی اللہ عنہ کہتے ہیں کہ میں رسول اللہ صلی اللہ علیہ وسلم کے پہلو میں تھا تو آپ کو سکینت نے ڈھانپ لیا ( یعنی وحی اترنے لگی ) ( اسی دوران ) رسول اللہ صلی اللہ علیہ وسلم کی ران میری ران پر پڑ گئی تو کوئی بھی چیز مجھے آپ کی ران سے زیادہ بوجھل محسوس نہیں ہوئی، پھر آپ صلی اللہ علیہ وسلم سے وحی کی کیفیت ختم ہوئی تو آپ نے فرمایا: لکھو ، میں نے شانہ ( کی ایک ہڈی ) پر «لا يستوي القاعدون من المؤمنين والمجاهدون في سبيل الله» اپنی جانوں اور مالوں سے اللہ کی راہ میں جہاد کرنے والے مومن اور بغیر عذر کے بیٹھ رہنے والے مومن برابر نہیں ( سورۃ النساء: ۹۵ ) آخر آیت تک لکھ لیا، عبداللہ بن ام مکتوم رضی اللہ عنہ ( ایک نابینا شخص تھے ) نے جب مجاہدین کی فضیلت سنی تو کھڑے ہو کر کہا: اللہ کے رسول! مومنوں میں سے جو جہاد کی طاقت نہیں رکھتا اس کا کیا حال ہے؟ جب انہوں نے اپنی بات پوری کر لی تو رسول اللہ صلی اللہ علیہ وسلم کو پھر سکینت نے ڈھانپ لیا ( وحی اترنے لگی ) ، آپ صلی اللہ علیہ وسلم کی ران میری ران پر پڑی تو میں نے اس کا بھاری پن پھر دوسری بار محسوس کیا جس طرح پہلی بار محسوس کیا تھا، آپ صلی اللہ علیہ وسلم سے وحی کی جب کیفیت ختم ہوئی تو آپ نے فرمایا: زید! پڑھو ، تو میں نے «لا يستوي القاعدون من المؤمنين» پوری آیت پڑھی، تو رسول اللہ صلی اللہ علیہ وسلم نے: «غير أولي الضرر» کا اضافہ فرمایا، زید کہتے ہیں: تو «غير أولي الضرر» کو اللہ نے الگ سے نازل کیا، میں نے اس کو اس کے ساتھ شامل کر دیا، اللہ کی قسم! گویا میں شانہ کے دراز کو دیکھ رہا ہوں جہاں میں نے اسے شامل کیا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2507</td></tr><tr><td>Arabic No</td><td>2507</td></tr><tr><td>Reference</td><td>Book 15 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2507 |
+| Arabic No | 2507 |
+| Reference | Book 15 Hadith 31 |

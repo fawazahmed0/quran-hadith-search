@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْحَسَنُ بْنُ عَلِيٍّ، حَدَّثَنَا عَبْدُ الرَّزَّاقِ، أَخْبَرَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، عَنِ ابْنِ سِيرِينَ، أَخْبَرَنِي يُونُسُ بْنُ جُبَيْرٍ، أَنَّهُ سَأَلَ ابْنَ عُمَرَ فَقَالَ كَمْ طَلَّقْتَ امْرَأَتَكَ فَقَالَ وَاحِدَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
+
 حدثنا الحسن بن علي، حدثنا عبد الرزاق، اخبرنا معمر، عن ايوب، عن ابن سيرين، اخبرني يونس بن جبير، انه سال ابن عمر فقال كم طلقت امراتك فقال واحدة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
 
 ## Bengali
 
+। ইউনুস ইবনু জুরাইর (রহ.) ইবনু উমার (রাযি.)-কে জিজ্ঞেস করেন, আপনি আপনার স্ত্রীকে কত তালাক দিয়েছিলেন? তিনি বললেন, এক তালাক।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইউনুস ইবনু জুরাইর (রহ.) ইবনু উমার (রাযি.)-কে জিজ্ঞেস করেন, আপনি আপনার স্ত্রীকে কত তালাক দিয়েছিলেন? তিনি বললেন, এক তালাক।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yunus bin Jubair said that he asked Ibn ‘Umar “How many times did you pronounce divorce to your wife? He replied, once.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
+
+## French
+
+Yunus bin Jubair a dit qu’il demanda à Ibn ‘Umar رضي الله عنه : « Combien de fois as-tu prononcé le divorce à ta femme ? » Il répondit : « Une seule fois. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Hasan bin Ali\], telah menceritakan kepada kami \[Abdurrazzaq\], telah mengabarkan kepada kami \[Ma'mar\] dari \[Ayyub\] dari \[Ibnu Sirin\], telah mengabarkan kepadaku \[Yunus bin Jubair\] bahwa ia telah bertanya kepada \[Ibnu Umar\]; berapa kali engkau menceraikan isterimu? Ia berkata; satu kali
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Hasan bin Ali], telah menceritakan kepada kami [Abdurrazzaq], telah mengabarkan kepada kami [Ma'mar] dari [Ayyub] dari [Ibnu Sirin], telah mengabarkan kepadaku [Yunus bin Jubair] bahwa ia telah bertanya kepada [Ibnu Umar]; berapa kali engkau menceraikan isterimu? Ia berkata; satu kali
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Юнуса ибн Джубайра, что он спросил Ибн ‘Умара: «Сколько раз ты давал развод своей жене?» Он ответил: «Один раз»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yunus b. Cübeyr'den rivayet edildiğine göre; (Yunus) İbn Ömer'e; Hanımını kaç defa boşadın? diye sormuş da, (İbn Ömer): Bir defa, diye cevap vermiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن سیرین کہتے ہیں کہ مجھے یونس بن جبیر نے خبر دی کہ انہوں نے ابن عمر رضی اللہ عنہما سے دریافت کیا کہ آپ نے اپنی بیوی کو کتنی طلاق دی؟ تو انہوں نے کہا: ایک۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2183</td></tr><tr><td>Arabic No</td><td>2183</td></tr><tr><td>Reference</td><td>Book 13 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih Sahih Bukhari (5333) Sahih Muslim (1471) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2183 |
+| Arabic No | 2183 |
+| Reference | Book 13 Hadith 9 |

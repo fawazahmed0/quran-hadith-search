@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ يَحْيَى، قَالَ قَرَأْتُ عَلَى مَالِكٍ عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَمَرَ بِقَتْلِ الْكِلاَبِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن يحيى، قال قرات على مالك عن نافع، عن ابن عمر، ان رسول الله صلى الله عليه وسلم امر بقتل الكلاب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইয়াহইয়া ইবনু ইয়াহুইযা (রহঃ) ..... ইবনু উমর (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম কুকুর হত্যা করার জন্যে আদেশ করেছেন। (ইসলামিক ফাউন্ডেশন ৩৮৭১, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar (Allah be pleased with them) reported Allah's Messenger (ﷺ) giving command for killing dogs
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## French
 
+Rapporté par Ibn 'Umar رضي الله عنهما : Le Messager d’Allah ﷺ a ordonné de tuer les chiens
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Yahya bin Yahya\] dia berkata; saya bacakan di hadapan \[Malik\]; dari \[Nafi'\] dari \[Ibnu Umar\], bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk membunuh anjing
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Yahya bin Yahya] dia berkata; saya bacakan di hadapan [Malik]; dari [Nafi'] dari [Ibnu Umar], bahwa Rasulullah shallallahu 'alaihi wasallam memerintahkan untuk membunuh anjing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Yahya b. Yahya rivayet etti. (Dediki): Mâlik'e, Nâfi'den dinlediğim, onun da İbni Ömer'den rivayet ettiği şu hadîsi okudum : Resûlullah (Sallallahu Aleyhi ve Sellem) köpeklerin öldürülmesini emir buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 امام مالک نے نافع سے اور انہوں نے حضرت ابن عمر رضی اللہ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے کتوں کو مار دینے کا حکم دیا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4016</td></tr><tr><td>Arabic No</td><td>1570.01</td></tr><tr><td>Reference</td><td>Book 22 Hadith 55</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4016 |
+| Arabic No | 1570.01 |
+| Reference | Book 22 Hadith 55 |

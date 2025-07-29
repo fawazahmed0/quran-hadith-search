@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، قَالَ حَدَّثَنِي سَلَمَةُ بْنُ كُهَيْلٍ، عَنِ الْحَسَنِ الْعُرَنِيِّ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَدَّمَنَا رَسُولُ اللَّهِ صلى الله عليه وسلم لَيْلَةَ الْمُزْدَلِفَةِ أُغَيْلِمَةَ بَنِي عَبْدِ الْمُطَّلِبِ عَلَى حُمُرَاتٍ فَجَعَلَ يَلْطَحُ أَفْخَاذَنَا وَيَقُولُ ‏ "‏ أُبَيْنِيَّ لاَ تَرْمُوا الْجَمْرَةَ حَتَّى تَطْلُعَ الشَّمْسُ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ اللَّطْحُ الضَّرْبُ اللَّيِّنُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
+
 حدثنا محمد بن كثير، اخبرنا سفيان، قال حدثني سلمة بن كهيل، عن الحسن العرني، عن ابن عباس، قال قدمنا رسول الله صلى الله عليه وسلم ليلة المزدلفة اغيلمة بني عبد المطلب على حمرات فجعل يلطح افخاذنا ويقول " ابيني لا ترموا الجمرة حتى تطلع الشمس " . قال ابو داود اللطح الضرب اللين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী ‘আব্দুল মুত্তালিবের অল্প বয়স্কদেরকে মুযদালিফার রাতে গাধার পিঠে চড়িয়ে আগেভাগেই \[মিনায়\] পাঠান এবং তিনি আমাদের উরুতে হালকা আঘাত করে বলেনঃ হে আমার প্রিয় সন্তান! সূর্যোদয়ের পূর্বে তোমরা জামরায় কংকর মারবে না। ইমাম আবূ দাঊদ (রহ.) বলেন, (اللَّطْخُ) ‘আল-লাতখু’ শব্দের অর্থ হচ্ছে মৃদু আঘাত করা।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বনী ‘আব্দুল মুত্তালিবের অল্প বয়স্কদেরকে মুযদালিফার রাতে গাধার পিঠে চড়িয়ে আগেভাগেই [মিনায়] পাঠান এবং তিনি আমাদের উরুতে হালকা আঘাত করে বলেনঃ হে আমার প্রিয় সন্তান! সূর্যোদয়ের পূর্বে তোমরা জামরায় কংকর মারবে না। ইমাম আবূ দাঊদ (রহ.) বলেন, (اللَّطْخُ) ‘আল-লাতখু’ শব্দের অর্থ হচ্ছে মৃদু আঘাত করা।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Messenger of Allah (ﷺ) sent ahead some boys from Banu AbdulMuttalib on donkeys on the night of al-Muzdalifah. He began to pat our thighs (out of love) and said: O young! boys do not throw pebbles at the jamrah till the sun rises. Abu Dawud said: The Arabic word al-lath means to strike softly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas : Le Messager d’Allah ﷺ a envoyé en avance certains garçons des Banu AbdulMuttalib sur des ânes la nuit d’Al Muzdalifah. Il a commencé à tapoter nos cuisses (par affection) et a dit : « Ô jeunes garçons, ne jetez pas de cailloux sur la jamrah avant le lever du soleil. » Abu Dawud a dit : Le mot arabe « al-lath » signifie frapper doucement
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Muhammad bin Katsir\], telah mengabarkan kepada Kami \[Sufyan\], ia berkata; telah menceritakan kepadaku \[Salamah bin Kuhail\] dari \[Al Hasan Al 'Urabi\] dari \[Ibnu Abbas\], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam mendahulukan Kami pada malam di Muzdalifah yaitu anak-anak Bani Abdul Muththalib di atas keledai. Kemudian beliau menepuk paha Kami dan berkata: "Wahai anak-anakku, janganlah melempar jumrah hingga matahari terbit." Abu Daud berkata; Al Lathkhu (menepuk) adalah memukul dengan ringan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Muhammad bin Katsir], telah mengabarkan kepada Kami [Sufyan], ia berkata; telah menceritakan kepadaku [Salamah bin Kuhail] dari [Al Hasan Al 'Urabi] dari [Ibnu Abbas], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam mendahulukan Kami pada malam di Muzdalifah yaitu anak-anak Bani Abdul Muththalib di atas keledai. Kemudian beliau menepuk paha Kami dan berkata: "Wahai anak-anakku, janganlah melempar jumrah hingga matahari terbit." Abu Daud berkata; Al Lathkhu (menepuk) adalah memukul dengan ringan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн ‘Аббас, да будет доволен Аллах им и его отцом, передает: «Посланник Аллаха ﷺ отправил нас, мальчиков из бану ‘абдульмутталиб, прежде остальных на ослах в ночь Муздалифы. При этом он похлопал нас по бёдрам, приговаривая: “Сыночки мои, не бросайте камешки, пока не взойдёт солнце!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbâs (r.a.)'tan; demiştir ki: Resûlullah (S.A.V.) Müzdelife gecesinde Abdulmuttalib oğulları(ndan) biz(im gibi) çocukları (Minâ'ya) eşeklerle önden gönderdi. (O esnada) uyluklarımıza hafifçe vurarak; "Ey yavrularım, güneş doğuncaya kadar Cemre(-i Akabe)'ye (taş) atmayınız." diyordu. Tirmizî, hac; Nesâî, menâsik; İbn Mâce, menâsik; Ahmed b. Hanbel, I, 311, 326, 343. Ebû Dâvûd dedi ki: (kelimesi) hafifçe vurmak de­mektir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے عبدالمطلب کی اولاد میں سے ہم چھوٹے بچوں کو گدھوں پر سوار کر کے مزدلفہ کی رات پہلے ہی روانہ کر دیا تھا، آپ صلی اللہ علیہ وسلم ہماری رانوں پر دھیرے سے مارتے تھے اور فرماتے تھے: اے میرے چھوٹے بچو! جمرہ پر کنکریاں نہ مارنا جب تک کہ آفتاب طلوع نہ ہو جائے ۔ ابوداؤد کہتے ہیں: «لطح» کے معنی آہستہ مارنے کے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1940</td></tr><tr><td>Arabic No</td><td>1940</td></tr><tr><td>Reference</td><td>Book 11 Hadith 220</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1940 |
+| Arabic No | 1940 |
+| Reference | Book 11 Hadith 220 |

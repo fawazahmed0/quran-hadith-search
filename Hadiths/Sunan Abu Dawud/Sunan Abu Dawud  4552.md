@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,138 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَبِهِ عَنْ أَبِي إِسْحَاقَ، عَنْ عَلْقَمَةَ، وَالأَسْوَدِ، قَالَ عَبْدُ اللَّهِ فِي شِبْهِ الْعَمْدِ خَمْسٌ وَعِشْرُونَ حِقَّةً وَخَمْسٌ وَعِشْرُونَ جَذَعَةً وَخَمْسٌ وَعِشْرُونَ بَنَاتِ لَبُونٍ وَخَمْسٌ وَعِشْرُونَ بَنَاتِ مَخَاضٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
+
 وبه عن ابي اسحاق، عن علقمة، والاسود، قال عبد الله في شبه العمد خمس وعشرون حقة وخمس وعشرون جذعة وخمس وعشرون بنات لبون وخمس وعشرون بنات مخاض
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Ali:The bloodwit for unintentional murder is in four parts: twenty five she-camels in their fourth year, twenty five she-camels in their fifth year, twenty five she-camels in their third year, and twenty twenty five she-camels in their second year
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
+
+## French
+
+Rapporté par Ali رضي الله عنه : Le prix du sang pour un meurtre involontaire se divise en quatre parts : vingt-cinq chamelles dans leur quatrième année, vingt-cinq chamelles dans leur cinquième année, vingt-cinq chamelles dans leur troisième année, et vingt-cinq chamelles dans leur deuxième année
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
 
 ## Indonesian
 
+dengan sanad itu juga, dari \[Abu Ishaq\] dari \[Alqamah\] dan \[Al Aswad\], \[Abdullah\] berkata tentang diyat pembunuhan semi sengaja, "Dua puluh lima hiqqah, di tambah dua puluh lima jadz'ah, ditambah dua puluh lima bintu labun dan dua puluh lima bintu makhadh
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-dengan sanad itu juga, dari [Abu Ishaq] dari [Alqamah] dan [Al Aswad], [Abdullah] berkata tentang diyat pembunuhan semi sengaja, "Dua puluh lima hiqqah, di tambah dua puluh lima jadz'ah, ditambah dua puluh lima bintu labun dan dua puluh lima bintu makhadh
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Али, да будет доволен им Аллах, сказал, что за неумышленное убийство выплачивается компенсация /дийа/, состоящая из четырёх категорий (верблюдов): двадцать пять трёхлетних верблюдиц, двадцать пять четырёхлетних верблюдиц, двадцать пять двухлетних верблюдиц и двадцать пять годовалых верблюдиц
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah (b. Mes'ud) (r.a) şöyle demiştir: Amde benzeyen öldürme(nin diyeti): Yirmibeş tane dört yaşına girmiş dişi deve, yirmibeş tane beş yaşına girmiş dişi deve, yirmibeş tane üç yaşına girmiş dişi deve, yirmibeş de iki yaşına girmiş dişi devedir. Hanefiler Abdullah b. Mes'ud'un bu haberi ile amel etmektedirler
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4552</td></tr><tr><td>Arabic No</td><td>4552</td></tr><tr><td>Reference</td><td>Book 41 Hadith 59</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4552 |
+| Arabic No | 4552 |
+| Reference | Book 41 Hadith 59 |

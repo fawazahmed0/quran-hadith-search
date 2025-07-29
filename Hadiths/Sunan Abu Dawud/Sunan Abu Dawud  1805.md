@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الْمَلِكِ بْنُ شُعَيْبِ بْنِ اللَّيْثِ، حَدَّثَنِي أَبِي، ‏(‏ عَنْ جَدِّي، ‏)‏ عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ، قَالَ تَمَتَّعَ رَسُولُ اللَّهِ صلى الله عليه وسلم فِي حَجَّةِ الْوَدَاعِ بِالْعُمْرَةِ إِلَى الْحَجِّ فَأَهْدَى وَسَاقَ مَعَهُ الْهَدْىَ مِنْ ذِي الْحُلَيْفَةِ وَبَدَأَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَأَهَلَّ بِالْعُمْرَةِ ثُمَّ أَهَلَّ بِالْحَجِّ وَتَمَتَّعَ النَّاسُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالْعُمْرَةِ إِلَى الْحَجِّ فَكَانَ مِنَ النَّاسِ مَنْ أَهْدَى وَسَاقَ الْهَدْىَ وَمِنْهُمْ مَنْ لَمْ يُهْدِ فَلَمَّا قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَكَّةَ قَالَ لِلنَّاسِ ‏ "‏ مَنْ كَانَ مِنْكُمْ أَهْدَى فَإِنَّهُ لاَ يَحِلُّ لَهُ مِنْ شَىْءٍ حَرُمَ مِنْهُ حَتَّى يَقْضِيَ حَجَّهُ وَمَنْ لَمْ يَكُنْ مِنْكُمْ أَهْدَى فَلْيَطُفْ بِالْبَيْتِ وَبِالصَّفَا وَالْمَرْوَةِ وَلْيُقَصِّرْ وَلْيَحْلِلْ ثُمَّ لْيُهِلَّ بِالْحَجِّ وَلْيُهْدِ فَمَنْ لَمْ يَجِدْ هَدْيًا فَلْيَصُمْ ثَلاَثَةَ أَيَّامٍ فِي الْحَجِّ وَسَبْعَةً إِذَا رَجَعَ إِلَى أَهْلِهِ ‏"‏ ‏.‏ وَطَافَ رَسُولُ اللَّهِ صلى الله عليه وسلم حِينَ قَدِمَ مَكَّةَ فَاسْتَلَمَ الرُّكْنَ أَوَّلَ شَىْءٍ ثُمَّ خَبَّ ثَلاَثَةَ أَطْوَافٍ مِنَ السَّبْعِ وَمَشَى أَرْبَعَةَ أَطْوَافٍ ثُمَّ رَكَعَ حِينَ قَضَى طَوَافَهُ بِالْبَيْتِ عِنْدَ الْمَقَامِ رَكْعَتَيْنِ ثُمَّ سَلَّمَ فَانْصَرَفَ فَأَتَى الصَّفَا فَطَافَ بِالصَّفَا وَالْمَرْوَةِ سَبْعَةَ أَطْوَافٍ ثُمَّ لَمْ يَحْلِلْ مِنْ شَىْءٍ حَرُمَ مِنْهُ حَتَّى قَضَى حَجَّهُ وَنَحَرَ هَدْيَهُ يَوْمَ النَّحْرِ وَأَفَاضَ فَطَافَ بِالْبَيْتِ ثُمَّ حَلَّ مِنْ كُلِّ شَىْءٍ حَرُمَ مِنْهُ وَفَعَلَ النَّاسُ مِثْلَ مَا فَعَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم مَنْ أَهْدَى وَسَاقَ الْهَدْىَ مِنَ النَّاسِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
+
 حدثنا عبد الملك بن شعيب بن الليث، حدثني ابي، ( عن جدي، ) عن عقيل، عن ابن شهاب، عن سالم بن عبد الله بن عمر، قال تمتع رسول الله صلى الله عليه وسلم في حجة الوداع بالعمرة الى الحج فاهدى وساق معه الهدى من ذي الحليفة وبدا رسول الله صلى الله عليه وسلم فاهل بالعمرة ثم اهل بالحج وتمتع الناس مع رسول الله صلى الله عليه وسلم بالعمرة الى الحج فكان من الناس من اهدى وساق الهدى ومنهم من لم يهد فلما قدم رسول الله صلى الله عليه وسلم مكة قال للناس " من كان منكم اهدى فانه لا يحل له من شىء حرم منه حتى يقضي حجه ومن لم يكن منكم اهدى فليطف بالبيت وبالصفا والمروة وليقصر وليحلل ثم ليهل بالحج وليهد فمن لم يجد هديا فليصم ثلاثة ايام في الحج وسبعة اذا رجع الى اهله " . وطاف رسول الله صلى الله عليه وسلم حين قدم مكة فاستلم الركن اول شىء ثم خب ثلاثة اطواف من السبع ومشى اربعة اطواف ثم ركع حين قضى طوافه بالبيت عند المقام ركعتين ثم سلم فانصرف فاتى الصفا فطاف بالصفا والمروة سبعة اطواف ثم لم يحلل من شىء حرم منه حتى قضى حجه ونحر هديه يوم النحر وافاض فطاف بالبيت ثم حل من كل شىء حرم منه وفعل الناس مثل ما فعل رسول الله صلى الله عليه وسلم من اهدى وساق الهدى من الناس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
 
 ## Bengali
 
+। ‘আব্দুল্লাহ ইবনু উমার (রাযি.) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হজে (হজ্জে) হজ্জ ও ‘উমরা একত্রে সম্পন্ন করে তামাত্তু ‘হজ (হজ্জ) করেছেন। তিনি যুল-হুলাইফা থেকে কুরবানীর পশু সাথে নিয়ে যান। সকলকে তামাত্তু করার নির্দেশ দেয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথমে ‘উমরার জন্য তালবিয়া পড়েন, তারপর হজের (হজ্জের) জন্য তালবিয়া পড়েন (ইহরাম বাঁধেন)। তাঁর সাথে লোকজনও হজের (হজ্জের) সাথে ‘উমরার নিয়্যাত করে তামাত্তু’ করলো। কেউ কেউ সাথে কুরবানীর পশু এনেছিল আবার কেউ কেউ আনেনি। রাসূলুল্লাহ মক্কায় পৌঁছে লোকদেরকে বললেনঃ ‘যারা সাথে করে কুরবানীর পশু এনেছো তাদের জন্য হজ (হজ্জ) আদায় করা পর্যন্ত (ইহরাম অবস্থায়) নিষিদ্ধকৃত কাজ বৈধ নয়। আর তোমাদের যারা সাথে করে কুরবানীর পশু আনোনি, তারা বায়তুল্লাহ তাওয়াফ এবং সাফা মারওয়া সাঈ করে, চুল খাটো করে, ইহরাম খুলে ফেলবে এবং হজের (হজ্জের) জন্য (নতুন করে) ইহরাম বাঁধবে, অতঃপর কুরবানী করবে। কিন্তু যারা কুরবানী দিতে অক্ষম তারা হজের (হজ্জের) মৌসুমে তিনটি সত্তম এবং বাড়ীতে ফিরে সাতটি সত্তম (মোট দশটি সত্তম) পালন করবে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কায় পৌঁছে প্রথমে বায়তুল্লাহ তাওয়াফ করলেন, তারপর ‘হাজরে আসওয়াদ’ চুম্বন করলেন। তিনি তাওয়াফের সাত চক্করের প্রথম তিন চক্করে দ্রুত পায়ে চললেন এবং অবশিষ্ট চার চক্করে স্বাভাবিক গতিতে হাঁটলেন। বায়তুল্লাহ তাওয়াফ শেষ করে তিনি মাকামে ইবরাহীমের পাশে দুই রাক‘আত সালাত আদায় করলেন, সালাতের সালাম ফিরিয়ে উঠে সাফা পাহাড়ে গিয়ে সাফা মারওয়ার মাঝে সাত বার সাঈ করলেন। অতঃপর হাজ্জ সমাপন করে কুরবানীর দিন (দশম তারিখ) কুরবানী করা পর্যন্ত তিনি ইহরাম অবস্থায় থাকলেন। অতঃপর ফিরে এসে বায়তুল্লাহ তাওয়াফ করলেন এবং ইহরাম খুলে যেসব জিনিস এ সময় নিষিদ্ধ ছিলো তা হালাল করলেন। আর যারা সাথে করে কুরবানীর পশু এনেছিল তারাও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অনুসরণ করলো।\[1\] সহীহঃ কিন্তু তার একথাটি শাযঃ ‘‘রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথমে ‘উমরার জন্য তালবিয়া পড়েন, তারপর হজ্জের জন্য তালবিয়া পড়েন।’’
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আব্দুল্লাহ ইবনু উমার (রাযি.) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিদায় হজে (হজ্জে) হজ্জ ও ‘উমরা একত্রে সম্পন্ন করে তামাত্তু ‘হজ (হজ্জ) করেছেন। তিনি যুল-হুলাইফা থেকে কুরবানীর পশু সাথে নিয়ে যান। সকলকে তামাত্তু করার নির্দেশ দেয়ার পর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথমে ‘উমরার জন্য তালবিয়া পড়েন, তারপর হজের (হজ্জের) জন্য তালবিয়া পড়েন (ইহরাম বাঁধেন)। তাঁর সাথে লোকজনও হজের (হজ্জের) সাথে ‘উমরার নিয়্যাত করে তামাত্তু’ করলো। কেউ কেউ সাথে কুরবানীর পশু এনেছিল আবার কেউ কেউ আনেনি। রাসূলুল্লাহ মক্কায় পৌঁছে লোকদেরকে বললেনঃ ‘যারা সাথে করে কুরবানীর পশু এনেছো তাদের জন্য হজ (হজ্জ) আদায় করা পর্যন্ত (ইহরাম অবস্থায়) নিষিদ্ধকৃত কাজ বৈধ নয়। আর তোমাদের যারা সাথে করে কুরবানীর পশু আনোনি, তারা বায়তুল্লাহ তাওয়াফ এবং সাফা মারওয়া সাঈ করে, চুল খাটো করে, ইহরাম খুলে ফেলবে এবং হজের (হজ্জের) জন্য (নতুন করে) ইহরাম বাঁধবে, অতঃপর কুরবানী করবে। কিন্তু যারা কুরবানী দিতে অক্ষম তারা হজের (হজ্জের) মৌসুমে তিনটি সত্তম এবং বাড়ীতে ফিরে সাতটি সত্তম (মোট দশটি সত্তম) পালন করবে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম মক্কায় পৌঁছে প্রথমে বায়তুল্লাহ তাওয়াফ করলেন, তারপর ‘হাজরে আসওয়াদ’ চুম্বন করলেন। তিনি তাওয়াফের সাত চক্করের প্রথম তিন চক্করে দ্রুত পায়ে চললেন এবং অবশিষ্ট চার চক্করে স্বাভাবিক গতিতে হাঁটলেন। বায়তুল্লাহ তাওয়াফ শেষ করে তিনি মাকামে ইবরাহীমের পাশে দুই রাক‘আত সালাত আদায় করলেন, সালাতের সালাম ফিরিয়ে উঠে সাফা পাহাড়ে গিয়ে সাফা মারওয়ার মাঝে সাত বার সাঈ করলেন। অতঃপর হাজ্জ সমাপন করে কুরবানীর দিন (দশম তারিখ) কুরবানী করা পর্যন্ত তিনি ইহরাম অবস্থায় থাকলেন। অতঃপর ফিরে এসে বায়তুল্লাহ তাওয়াফ করলেন এবং ইহরাম খুলে যেসব জিনিস এ সময় নিষিদ্ধ ছিলো তা হালাল করলেন। আর যারা সাথে করে কুরবানীর পশু এনেছিল তারাও রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অনুসরণ করলো।[1] সহীহঃ কিন্তু তার একথাটি শাযঃ ‘‘রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম প্রথমে ‘উমরার জন্য তালবিয়া পড়েন, তারপর হজ্জের জন্য তালবিয়া পড়েন।’’
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Abd Allah bin Umar said At the Farewell Pilgrimage the Apostle of Allaah(ﷺ) put on ihram first for ‘Umrah and afterwards for Hajj and drove the sacrificial animals along with him from Dhu Al Hulaifah. The Apostle of Allaah(ﷺ) first raised his voice in talbiyah for ‘Umrah and afterwards he did so for Hajj; and the people along with the Apostle of Allaah(ﷺ) did it first for ‘Umrah and afterwards for Hajj. Some of the people had brought sacrificial animals and others had not, so when the Apostle of Allaah(ﷺ) came to Makkah , he said to the people. Those of you who have brought sacrificial animals must not treat as lawful anything which has become unlawful for you till you complete your Hajj; but those of you who have not brought sacrificial animals should go round the House(Ka’bah) and run between Al Safa’ and Al Marwah, clip their hair, put off ihram, and afterwards raise their voice in talbiyah for Hajj and bring sacrificial animals. Those who cannot get sacrificial animals should fast three days during Hajj and seven days when they return to their families. The Apostle of Allaah(ﷺ) then performed circumambulation when he came to Makkah first touching the corner then running during three circuits out of seven and walking during four and when he had finished his circumambulation of the House (Ka’bah) he prayed two rak’ahs at Maqam Ibrahim, then giving the salutation and departing he went to Al Safa’ and ran seven times between Al Safa’ and Al Marwah. After that he did not treat anything as lawful which had become unlawful for him till he had completed his Hajj, sacrificed his animals on the day of sacrifice, went quickly and performed the circumambulation of the House(the Ka’bah), after which all that had been unlawful became lawful for him. Those people who had brought sacrificial animals did as the Apostle of Allaah(ﷺ) did
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
+
+## French
+
+Rapporté par ‘Abd Allah ibn Umar : Lors du Pèlerinage d’Adieu, l’Envoyé d’Allah ﷺ a d’abord mis l’ihram pour la ‘umrah, puis pour le hajj, et il a emmené avec lui les animaux à sacrifier depuis Dhu Al-Hulaifah. L’Envoyé d’Allah ﷺ a d’abord élevé la voix en talbiyah pour la ‘umrah, puis il l’a fait pour le hajj ; et les gens avec lui ont fait de même, d’abord pour la ‘umrah, puis pour le hajj. Certains avaient amené des animaux à sacrifier, d’autres non. Quand l’Envoyé d’Allah ﷺ est arrivé à La Mecque, il a dit aux gens : « Ceux d’entre vous qui ont amené des animaux à sacrifier ne doivent rien rendre licite de ce qui leur est interdit jusqu’à la fin de leur hajj ; mais ceux qui n’ont pas amené d’animaux doivent faire le tour de la Ka‘bah, parcourir la distance entre Al-Safa et Al-Marwah, se couper les cheveux, quitter l’ihram, puis prononcer la talbiyah pour le hajj et amener des animaux à sacrifier. Ceux qui ne trouvent pas d’animaux doivent jeûner trois jours pendant le hajj et sept jours à leur retour chez eux. » L’Envoyé d’Allah ﷺ a ensuite fait la circumambulation à son arrivée à La Mecque, touchant d’abord l’angle, courant pendant trois tours sur sept et marchant pendant quatre. Après avoir fini la circumambulation de la Ka‘bah, il a prié deux rak‘as au Maqam Ibrahim, puis, après les salutations, il est allé à Al-Safa et a parcouru sept fois la distance entre Al-Safa et Al-Marwah. Après cela, il n’a rien rendu licite de ce qui lui était interdit jusqu’à ce qu’il ait terminé son hajj, sacrifié ses animaux le jour du sacrifice, puis accompli rapidement la circumambulation de la Ka‘bah, après quoi tout ce qui était interdit est devenu licite pour lui. Ceux qui avaient amené des animaux à sacrifier ont fait comme l’Envoyé d’Allah ﷺ
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Абдуллах ибн ‘Умар, да будет доволен Аллах им и его отцом, передаёт: «Во время прощального паломничества Посланник Аллаха ﷺ совершил ‘умру и хадж. Он гнал с собой жертвенный скот из Зуль-Хулейфы. Сначала Посланник Аллаха ﷺ произнёс тальбию для ‘умры, а потом для хаджа. И люди совершали хадж с ‘умрой вместе с посланником Аллаха ﷺ, однако некоторые из них гнали жертвенный скот, а другие нет. Посланник Аллаха ﷺ прибыл в Мекку и сказал людям: “Кто пригнал жертвенный скот, тому не разрешается ничего из того, что запрещается паломнику, пока он не закончит совершение хаджа. Что же касается того, кто не пригнал жертвенный скот, пусть совершит обход вокруг Каабы и пробег между холмами Сафа и Марва, а потом пусть укоротит волосы и снимет ихрам. Позже он должен объявить о намерении совершить хадж и принести в жертву животное. А кто не имеет возможности совершить жертвоприношение, тот должен поститься три дня в хадже и ещё семь по возвращении”. Когда Посланник Аллаха ﷺ прибыл в Мекку, он совершил обход вокруг Каабы. Сначала он приложился к йеменскому углу Каабы. Три круга он прошёл быстрым шагом, почти бегом, а оставшиеся четыре обычным шагом. После завершения обхода он совершил молитву в два рак‘ата у места стояния Ибрахима. Завершив молитву, он отправился на холм Сафа и пробежал между холмами Сафа и Марва семь раз. После этого он соблюдал все запреты, налагаемые на паломника в ихраме, до самого завершения хаджа и зарезал свой жертвенный скот в день жертвоприношения. Потом он совершил обход вокруг Каабы, после чего для него снова стало дозволенным всё, что обычно запрещается паломнику в ихраме. Люди, которые гнали жертвенный скот, поступили так же, как Посланник Аллаха ﷺ»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Salim b. Abdullah’tan, Abdullah b. Ömer'in şöyle de­diği rivayet olunmuştur: Resûlullah (s.a.v.) Veda Haccında umreyle haccı (birleştirerek) temettü' yaptı ve hedy kurbanı kesti. Hedyi Zulhüleyfe'den beraberinde götürdü. Resûlullah (s.a.v.) önce umre, sonra da hac için telbiye getirdi. Halk da Resûlullah (s.a.v.) ile birlikte umreyle haccı (birleştirerek) temettü' yaptı(lar). Halkdan bazıları hedy kurbanı almış ve göndermiş, bazıları da almamıştı. Resûlullah (s.a.v.) Mekke'ye varınca halka (hitaben); "Sizden her kim hedy kurbanı getirdi ise o kimse haccınıedâ edinceye kadar kendisine haram olan hiç bir şeyi (kendisine) helâl kılamaz. Sizden kim hedy getirmedi ise, hemen Beyt'i ve Safa ile Mene'yi tavaf etsin ve saçını kısaltarak ihramdan çıksın! Daha son­ra hac için telbiye getirerek kurban kessin! Hedy kurbanı bulamayan (kimse) hac esnasında üç, ailesi yanına döndüğü zamanda yedi gün oruç tutsun" buyurdu. Resûlullah (s.a.v.), Mekkeye vardığında tavaf yaptı ve ilk işi rüknü selâmlamak oldu. Sonra yedi tavafın üçünde remel ile yürüdü, dördünü ise, âdi yürüyüşle yürüdü. Nihayet Beyt'i tavafım bitirince (Hz.İbrahim'e âid) makamın yanında iki rekat namaz kıldı. Sonra selam vererek namazdan çıktı ve Safâ'ya giderek Safa ile Merve arasında yedi tavaf yaptı. Sonra haccını bitirinceye kadar (ihramlı olduğu için) kendisine haram kılınan hiç bir şeyi kendisine helâl kılmadı. Bayram günü kurbanını kesti. Ve (Mekke'ye) inip, Beyt'i tavaf etti. Ondan sonra (ihram'a girince) kendisine haram kılınan her şeyi kendisine helâl kıldı. Halkdan (yanında) hedy götürenler de Resûlullah (s.a.v.)'İn yaptığı gibi yaptılar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمر رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے حجۃ الوداع میں عمرے کو حج کے ساتھ ملا کر تمتع کیا تو آپ نے ہدی کے جانور تیار کئے، اور ذی الحلیفہ سے اپنے ساتھ لے کر گئے تو پہلے رسول اللہ صلی اللہ علیہ وسلم نے عمرے کا تلبیہ پکارا پھر حج کا ( یعنی پہلے «لبيك بعمرة» کہا پھر «لبيك بحجة» کہا ) ۱؎ اور رسول اللہ صلی اللہ علیہ وسلم کے ساتھ لوگوں نے بھی عمرے کو حج میں ملا کر تمتع کیا، تو لوگوں میں کچھ ایسے تھے جنہوں نے ہدی تیار کیا اور اسے لے گئے، اور بعض نے ہدی نہیں بھیجا، جب رسول اللہ صلی اللہ علیہ وسلم مکہ پہنچے تو لوگوں سے فرمایا: تم میں سے جو ہدی لے کر آیا ہو تو اس کے لیے ( احرام کی وجہ سے ) حرام ہوئی چیزوں میں سے کوئی چیز حلال نہیں جب تک کہ وہ اپنا حج مکمل نہ کر لے، اور تم لوگوں میں سے جو ہدی لے کر نہ آیا ہو تو اسے چاہیئے کہ بیت اللہ کا طواف کرے، صفا و مروہ کی سعی کرے، بال کتروائے اور حلال ہو جائے، پھر حج کا احرام باندھے اور ہدی دے جسے ہدی نہ مل سکے تو ایام حج میں تین روزے رکھے اور سات روزے اس وقت جب اپنے گھر والوں کے پاس لوٹ کر آ جائے ، اور رسول اللہ صلی اللہ علیہ وسلم جب مکہ آئے تو آپ نے طواف کیا، سب سے پہلے آپ صلی اللہ علیہ وسلم نے حجر اسود کا استلام کیا، پھر پہلے تین پھیروں میں تیز چلے اور آخری چار پھیروں میں عام چال، بیت اللہ کے طواف سے فارغ ہو کر آپ صلی اللہ علیہ وسلم نے مقام ابراہیم پر دو رکعتیں پڑھیں، پھر سلام پھیرا اور پلٹے تو صفا پر آئے اور صفا و مروہ میں سات بار سعی کی، پھر ( آپ کے لیے محرم ہونے کی وجہ سے ) جو چیز حرام تھی وہ حلال نہ ہوئی یہاں تک کہ آپ صلی اللہ علیہ وسلم نے اپنا حج پورا کر لیا اور یوم النحر ( دسویں ذی الحجہ ) کو اپنا ہدی نحر کر دیا، پھر لوٹے اور بیت اللہ کا طواف ( افاضہ ) کیا پھر ہر حرام چیز آپ کے لیے حلال ہو گئی اور لوگوں میں سے جنہوں نے ہدی دی اور اسے ساتھ لے کر آئے تو انہوں نے بھی اسی طرح کیا جیسے رسول اللہ صلی اللہ علیہ وسلم نے کیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Shadh</td><td>Al-Albani</td></tr><tr><td>Shadh</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (1691) Sahih Muslim (1227)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1805</td></tr><tr><td>Arabic No</td><td>1805</td></tr><tr><td>Reference</td><td>Book 11 Hadith 85</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Shadh | Al-Albani |
+| Shadh | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (1691) Sahih Muslim (1227) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1805 |
+| Arabic No | 1805 |
+| Reference | Book 11 Hadith 85 |

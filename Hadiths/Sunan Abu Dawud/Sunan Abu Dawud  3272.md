@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ الْمِنْهَالِ، حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، حَدَّثَنَا حَبِيبٌ الْمُعَلِّمُ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ سَعِيدِ بْنِ الْمُسَيَّبِ، ‏:‏ أَنَّ أَخَوَيْنِ، مِنَ الأَنْصَارِ كَانَ بَيْنَهُمَا مِيرَاثٌ فَسَأَلَ أَحَدُهُمَا صَاحِبَهُ الْقِسْمَةَ فَقَالَ ‏:‏ إِنْ عُدْتَ تَسْأَلُنِي عَنِ الْقِسْمَةِ فَكُلُّ مَالٍ لِي فِي رِتَاجِ الْكَعْبَةِ ‏.‏ فَقَالَ لَهُ عُمَرُ ‏:‏ إِنَّ الْكَعْبَةَ غَنِيَّةٌ عَنْ مَالِكَ، كَفِّرْ عَنْ يَمِينِكَ وَكَلِّمْ أَخَاكَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏:‏ ‏ "‏ لاَ يَمِينَ عَلَيْكَ، وَلاَ نَذْرَ فِي مَعْصِيَةِ الرَّبِّ وَفِي قَطِيعَةِ الرَّحِمِ وَفِيمَا لاَ تَمْلِكُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
+
 حدثنا محمد بن المنهال، حدثنا يزيد بن زريع، حدثنا حبيب المعلم، عن عمرو بن شعيب، عن سعيد بن المسيب، : ان اخوين، من الانصار كان بينهما ميراث فسال احدهما صاحبه القسمة فقال : ان عدت تسالني عن القسمة فكل مال لي في رتاج الكعبة . فقال له عمر : ان الكعبة غنية عن مالك، كفر عن يمينك وكلم اخاك سمعت رسول الله صلى الله عليه وسلم يقول : " لا يمين عليك، ولا نذر في معصية الرب وفي قطيعة الرحم وفيما لا تملك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । সাঈদ ইবনুল মুসাইয়্যাব (রহঃ) সূত্রে বর্ণিত। আনসার সম্প্রদায়ের দু’ ভাইয়ের মধ্যে একটি (যৌথ) মীরাস ছিলো। এক ভাই অপর ভাইয়ের কাছে তা বণ্টনের দাবি করলে সে বললো, তুমি পুনরায় মীরাস বণ্টনের কথা বললে আমি আমার সমস্ত সম্পদ কা‘বা ঘরের জন্য ওয়াকফ করে দিবো। ‘উমার (রাঃ) লোকটিকে বললেন, কা‘বা ঘর তোমার সম্পত্তির মুখাপেক্ষী নয়। তোমার শপথের কাফফারাহ আদায় করো এবং তোমার ভাইয়ের সাথে (বণ্টনের) কথাবার্তা বলো। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ মহান রবের নাফরমানীতে, আত্মীয়তার সম্পর্ক ছিন্ন করণে এবং যার মালিক তুমি নও তাতে তোমার কোনো শপথ ও মানত জায়িয নেই।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'id ibn al-Musayyab said:There were two brothers among the Ansar who shared an inheritance. When one of them asked the other for the portion due to him, he replied: If you ask me again for the portion due to you, all my property will be devoted to the decoration of the Ka'bah. Umar said to him: The Ka'bah does not need your property. Make atonement for your oath and speak to your brother. I heard the Messenger of Allah (ﷺ) say: An oath or vow to disobey the Lord, or to break ties of relationship or about something over which one has no control is not binding on you
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
+
+## French
+
+Sa’id ibn al-Musayyab a dit : Il y avait deux frères parmi les Ansar qui partageaient un héritage. Quand l’un d’eux a demandé à l’autre la part qui lui revenait, il a répondu : « Si tu me demandes encore ta part, tous mes biens seront consacrés à la décoration de la Kaaba. » Omar lui a dit : « La Kaaba n’a pas besoin de tes biens. Fais l’expiation de ton serment et parle à ton frère. J’ai entendu le Messager d’Allah ﷺ dire : Un serment ou un vœu qui consiste à désobéir au Seigneur, à rompre les liens de parenté ou à propos de quelque chose sur laquelle on n’a aucun contrôle n’est pas obligatoire pour toi. »
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Al Minhal\], telah menceritakan kepada kami \[Yazid? bin Zurai'\], telah menceritakan kepada kami \[Habib Al Mu'allim\] dari \['Amr bin Syu'aib\] dari \[Sa'id bin Al Musayyab\] bahwa dua orang bersaudara dari kalangan anshar, diantara mereka terdapat warisan. Kemudian salah seorang diantara mereka meminta pembagian kepada saudaranya tersebut. Kemudian ia berkata; apabila engkau kembali meminta pembagian kepadaku maka seluruh hartaku ada di pintu Ka'bah. Kemudian \[Umar\] berkata; kepadanya; sesungguhnya Ka'bah tidak butuh kepada hartamu. Bayarlah kafarah sumpahmu, dan berbicaralah dengan saudaramu. Aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak boleh ada sumpah atas dirimu, tidak boleh ada nadzardalam bermaksiat kepada Tuhan (Allah), dan dalam memutuskan hubungan kekerabatan, serta dalam perkara yang tidak engkau mampu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Al Minhal], telah menceritakan kepada kami [Yazid? bin Zurai'], telah menceritakan kepada kami [Habib Al Mu'allim] dari ['Amr bin Syu'aib] dari [Sa'id bin Al Musayyab] bahwa dua orang bersaudara dari kalangan anshar, diantara mereka terdapat warisan. Kemudian salah seorang diantara mereka meminta pembagian kepada saudaranya tersebut. Kemudian ia berkata; apabila engkau kembali meminta pembagian kepadaku maka seluruh hartaku ada di pintu Ka'bah. Kemudian [Umar] berkata; kepadanya; sesungguhnya Ka'bah tidak butuh kepada hartamu. Bayarlah kafarah sumpahmu, dan berbicaralah dengan saudaramu. Aku telah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Tidak boleh ada sumpah atas dirimu, tidak boleh ada nadzardalam bermaksiat kepada Tuhan (Allah), dan dalam memutuskan hubungan kekerabatan, serta dalam perkara yang tidak engkau mampu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
 
 ## Russian
 
+Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды два человека попросили Пророка ﷺ рассудить их и Пророк ﷺ попросил истца предоставить доказательства, однако у того не было доказательств. Тогда (Посланник Аллаха ﷺ) велел ответчику поклясться, и тот поклялся Аллахом, кроме Которого нет иного божества, и Посланник Аллаха ﷺ сказал: «Ты сделал это, однако тебе прощено за искренность, с которой ты свидетельствовал, что нет бога \[заслуживающего поклонение\], кроме Аллаха». Абу Дауд сказал: «Из этого хадиса следует, что он не велел ему искупать клятву»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передается от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что однажды два человека попросили Пророка ﷺ рассудить их и Пророк ﷺ попросил истца предоставить доказательства, однако у того не было доказательств. Тогда (Посланник Аллаха ﷺ) велел ответчику поклясться, и тот поклялся Аллахом, кроме Которого нет иного божества, и Посланник Аллаха ﷺ сказал: «Ты сделал это, однако тебе прощено за искренность, с которой ты свидетельствовал, что нет бога [заслуживающего поклонение], кроме Аллаха». Абу Дауд сказал: «Из этого хадиса следует, что он не велел ему искупать клятву»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Saîd b. Müseyyeb'den rivayet edildiğine göre; Ensar'dan iki kardeş arasında (ortak) bir miras vardı. Birisi, diğerinden (mirası) taksim etmeyi istedi. Bunun üzerine kardeşi; Eğer bir daha taksimi istersen bütün malım Kabe'ye olsun, dedi. O zaman Ömer (r.a.) şöyle dedi: Kabe'nin senin malına ihtiyacı yok. Yemininin keffaretini ver ve kardeşinle konuş. Ben Rasûlullah (Sallallahu Aleyhi ve Sellem)'i: "Rabbine isyanda, sıla-i rahmi kesmekte ve sahibi olmadığın şeyde; sana yemin (yeminin gereğine sadakat) de yoktur, nezir de" buyururken duydum
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن مسیب سے روایت ہے کہ انصار کے دو بھائیوں میں میراث کی تقسیم کا معاملہ تھا، ان میں کے ایک نے دوسرے سے میراث تقسیم کر دینے کے لیے کہا تو اس نے کہا: اگر تم نے دوبارہ تقسیم کرنے کا مطالبہ کیا تو میرا سارا مال کعبہ کے دروازے کے اندر ہو گا ۱؎تو عمر رضی اللہ عنہ نے اس سے کہا: کعبہ تمہارے مال کا محتاج نہیں ہے، اپنی قسم کا کفارہ دے کر اپنے بھائی سے ( تقسیم میراث کی ) بات چیت کرو ( کیونکہ ) میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا ہے آپ فرما رہے تھے: قسم اور نذر اللہ کی نافرمانی اور رشتہ توڑنے میں نہیں اور نہ اس مال میں ہے جس میں تمہیں اختیار نہیں ( ایسی قسم اور نذر لغو ہے ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3272</td></tr><tr><td>Arabic No</td><td>3272</td></tr><tr><td>Reference</td><td>Book 22 Hadith 31</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Al-Albani |
+| Daif Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3272 |
+| Arabic No | 3272 |
+| Reference | Book 22 Hadith 31 |

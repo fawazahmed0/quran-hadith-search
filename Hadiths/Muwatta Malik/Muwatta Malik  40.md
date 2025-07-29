@@ -14,62 +14,106 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي عَنْ مَالِكٍ، عَنْ نَافِعٍ، أَنَّ ابْنَ عُمَرَ، كَانَ يَنَامُ جَالِسًا ثُمَّ يُصَلِّي وَلاَ يَتَوَضَّأُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |
+
 وحدثني عن مالك، عن نافع، ان ابن عمر، كان ينام جالسا ثم يصلي ولا يتوضا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |
 
 ## Bengali
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Yahya related to me from Malik from Nafithat Ibn Umar used to sleep sitting and then would pray without doing wudu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |
 
 ## French
 
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |
 
 ## Indonesian
 
+Perawi menerangkan; telah menceritakan kepadaku, dari Malik dari \[Nafi'\], bahwa \[Ibnu Umar\] pernah tidur dengan duduk kemudian dia shalat dan tidak berwudlu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Perawi menerangkan; telah menceritakan kepadaku, dari Malik dari [Nafi'], bahwa [Ibnu Umar] pernah tidur dengan duduk kemudian dia shalat dan tidak berwudlu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Malik: Nafi der ki: Abdullah b. Ömer oturarak uyur, sonra da abdest almadan namaz kılardı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن عمر سے روایت ہے کہ وہ بیٹھے بیٹھے سو جاتے تھے پھر نماز پڑھتے تھے اور وضو نہیں کرتے تھے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Mauquf Sahih</td><td>Salim al-Hilali</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>40</td></tr><tr><td>Arabic No</td><td>40</td></tr><tr><td>Reference</td><td>Book 2 Hadith 9</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Mauquf Sahih | Salim al-Hilali |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 40 |
+| Arabic No | 40 |
+| Reference | Book 2 Hadith 9 |

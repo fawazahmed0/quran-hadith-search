@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ حَرْبٍ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ سِمَاكِ بْنِ عَطِيَّةَ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، قَالَ أُمِرَ بِلاَلٌ أَنْ يَشْفَعَ، الأَذَانَ وَأَنْ يُوتِرَ الإِقَامَةَ إِلاَّ الإِقَامَةَ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا سليمان بن حرب، قال حدثنا حماد بن زيد، عن سماك بن عطية، عن ايوب، عن ابي قلابة، عن انس، قال امر بلال ان يشفع، الاذان وان يوتر الاقامة الا الاقامة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আনাস (রাযি.) হতে বর্ণিত। তিনি বলেন, বিলাল (রাযি.)-কে আযানের শব্দ দু’ দু’বার এবং قَدْقَامَتِ الصَّلاَةُ ব্যতীত ইক্বামাত(ইকামত/একামত)ের শব্দগুলো বেজোড় করে বলার নির্দেশ দেয়া হয়েছিল। (৬০৩) (আধুনিক প্রকাশনীঃ ৫৭০, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas:Bilal was ordered to repeat the wording of the Adhan for prayers twice, and to pronounce the wording of the Iqama once except "Qad-qamat-is-salat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
+
+## French
+
+Rapporté par Anas : Bilal a reçu l’ordre de répéter chaque phrase de l’Adhan pour la prière deux fois, et de prononcer chaque phrase de l’Iqama une seule fois, sauf « Qad-qamat-is-salat »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Harb\] berkata, telah menceritakan kepada kami \[Hammad bin Zaid\] dari \[Simak bin 'Athiyyah\] dari \[Ayyub\] dari \[Abu Qalabah\] dari \[Anas bin Malik\] berkata, "Bilal diperintahkan untuk mengumandangkan kalimat adzan dengan genap (dua kali dua kali) dan mengganjilkan iqamat, kecuali kalimat iqamat 'Qad qaamatish shalah (shalat telah dikumandangkan)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Harb] berkata, telah menceritakan kepada kami [Hammad bin Zaid] dari [Simak bin 'Athiyyah] dari [Ayyub] dari [Abu Qalabah] dari [Anas bin Malik] berkata, "Bilal diperintahkan untuk mengumandangkan kalimat adzan dengan genap (dua kali dua kali) dan mengganjilkan iqamat, kecuali kalimat iqamat 'Qad qaamatish shalah (shalat telah dikumandangkan)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Анас, да будет доволен им Аллах, сказал: «Билялу было велено повторять слова азана чётное число раз, а слова икъамы — нечётное»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் (ரலி) அவர்கள் கூறியதாவது: தொழுகை அறிவிப்பின் வாசகங்களை இரட்டையாகவும் ‘இகாமத்’தின் வாசகங்களை -‘கத் காமத்திஸ் ஸலாத்’ (தொழுகை தொடங்கிவிட்டது) எனும் வாசகத்தைத் தவிர- ஒற்றைப்படையாகவும் கூறும்படி பிலால் (ரலி) அவர்களுக்குக் கட்டளையிடப்பட்டது.3 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
 ## Turkish
 
+Enes bin Malik (r.a.)'den şöyle nakledilmiştir: Bilal ezanı ikişer ikişer kameti de الإقامة (Ked kametu’s\*selah) kısmı hariç teker teker okumakla emrolundu." Diğer tahric: Tirmizi Salat; Dârimî, Namaz
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Enes bin Malik (r.a.)'den şöyle nakledilmiştir: Bilal ezanı ikişer ikişer kameti de الإقامة (Ked kametu’s*selah) kısmı hariç teker teker okumakla emrolundu." Diğer tahric: Tirmizi Salat; Dârimî, Namaz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے سلیمان بن حرب نے بیان کیا، کہا ہم سے حماد بن زید نے بیان کیا سماک بن عطیہ سے، انہوں نے ایوب سختیانی سے، انہوں نے ابوقلابہ سے، انہوں نے انس رضی اللہ عنہ سے کہ بلال رضی اللہ عنہ کو حکم دیا گیا کہ اذان کے کلمات دو دو مرتبہ کہیں اور سوا «قد قامت الصلوة» کے تکبیر کے کلمات ایک ایک دفعہ کہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>605</td></tr><tr><td>Arabic No</td><td>605</td></tr><tr><td>Reference</td><td>Book 10 Hadith 3</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 605 |
+| Arabic No | 605 |
+| Reference | Book 10 Hadith 3 |

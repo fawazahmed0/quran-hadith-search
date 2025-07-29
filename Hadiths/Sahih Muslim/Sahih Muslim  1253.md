@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا كَثِيرُ بْنُ هِشَامٍ، عَنْ هِشَامٍ الدَّسْتَوَائِيِّ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، قَالَ نَهَى رَسُولُ اللَّهِ صلى الله عليه وسلم عَنْ أَكْلِ الْبَصَلِ وَالْكُرَّاثِ ‏.‏ فَغَلَبَتْنَا الْحَاجَةُ فَأَكَلْنَا مِنْهَا فَقَالَ ‏ "‏ مَنْ أَكَلَ مِنْ هَذِهِ الشَّجَرَةِ الْمُنْتِنَةِ فَلاَ يَقْرَبَنَّ مَسْجِدَنَا فَإِنَّ الْمَلاَئِكَةَ تَأَذَّى مِمَّا يَتَأَذَّى مِنْهُ الإِنْسُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو بكر بن ابي شيبة، حدثنا كثير بن هشام، عن هشام الدستوايي، عن ابي الزبير، عن جابر، قال نهى رسول الله صلى الله عليه وسلم عن اكل البصل والكراث . فغلبتنا الحاجة فاكلنا منها فقال " من اكل من هذه الشجرة المنتنة فلا يقربن مسجدنا فان الملايكة تاذى مما يتاذى منه الانس
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু হাতিম (রহঃ) ..... জাবির ইবনু আবদুল্লাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে এ রসুন জাতীয় উদ্ভিদ খাবে- কোন কোন সময় আবার তিনি বলেছেনঃ যে ব্যক্তি পিয়াজ, রসুন বা মূলা খাবে সে যেন আমার মসজিদের কাছেও না আসে। কেননা মানুষ যেসব জিনিস দ্বারা কষ্ট পায় মালাকগণও সেসব জিনিস দ্বারা কষ্ট পায়। (ইসলামী ফাউন্ডেশন ১১৩৪, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Jabir reported:The Messenger of Allah (ﷺ) forbade eating of onions and leek. When we were overpowered by a desire (to eat) we ate them. Upon this he (the Holy Prophet) said: He who eats of this offensive plant must not approach our mosque, for the angels are harmed by the same things as men
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## French
 
+Rapporté par Jabir : Le Messager d’Allah ﷺ a interdit de manger des oignons et des poireaux. Quand nous avions très envie d’en manger, nous en mangions. À ce sujet, le Prophète ﷺ a dit : « Celui qui mange de cette plante à l’odeur forte ne doit pas s’approcher de notre mosquée, car les anges sont dérangés par ce qui dérange les humains. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## Indonesian
 
+Dan telah menceritakan kepadaku \[Abu ath-Thahir\] dan \[Harmalah\] keduanya berkata, telah mengabarkan kepada kami \[Ibnu Wahb\] telah mengabarkan kepadaku \[Yunus\] dari \[Ibnu Syihab\] dia berkata, telah menceritakan kepadaku \['Atha' bin Abi Rabah\] bahwa \[Jabir bin Abdullah\] berkata, dan dalam riwayat Harmalah, "Dan dia mengklaim bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, 'Barangsiapa yang makan bawang putih atau bawang merah, maka hendaklah dia memisahkan diri dari kami atau memisahkan diri dari masjid kami, dan hendaklah dia duduk di rumahnya, dan beliau pernah dibawakan satu keranjang berisi sayur mayur berupa bawang merah, lalu beliau mendapatkan ia mempunyai bau, lalu beliau bertanya, maka beliau diberitahu sebab di dalamnya berisi bawang merah. Maka beliau bersabda, 'Dekatkanlah ia kepada sebagian pemiliknya. Ketika beliau melihatnya, maka beliau membenci untuk memakannya. Beliau bersabda, 'Makanlah, karena aku membisiki malaikat yang mana kamu tidak membisikinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepadaku [Abu ath-Thahir] dan [Harmalah] keduanya berkata, telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Yunus] dari [Ibnu Syihab] dia berkata, telah menceritakan kepadaku ['Atha' bin Abi Rabah] bahwa [Jabir bin Abdullah] berkata, dan dalam riwayat Harmalah, "Dan dia mengklaim bahwa Rasulullah Shallallahu'alaihiwasallam bersabda, 'Barangsiapa yang makan bawang putih atau bawang merah, maka hendaklah dia memisahkan diri dari kami atau memisahkan diri dari masjid kami, dan hendaklah dia duduk di rumahnya, dan beliau pernah dibawakan satu keranjang berisi sayur mayur berupa bawang merah, lalu beliau mendapatkan ia mempunyai bau, lalu beliau bertanya, maka beliau diberitahu sebab di dalamnya berisi bawang merah. Maka beliau bersabda, 'Dekatkanlah ia kepada sebagian pemiliknya. Ketika beliau melihatnya, maka beliau membenci untuk memakannya. Beliau bersabda, 'Makanlah, karena aku membisiki malaikat yang mana kamu tidak membisikinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Джабира ибн ‘Абдуллаха, что Посланник Аллаха ﷺ сказал: «Пусть тот, кто ел чеснок или лук, сторонится нас (или наших мечетей) и сидит в своём доме». (Джабир также рассказал), что (однажды) Посланнику Аллаха ﷺ принесли блюдо с овощами. Почувствовав исходящий от них запах (лука или чеснока), он спросил о том, что находится на блюде, и ему перечислили названия овощей, которые там были. Тогда он велел кому-то из (находившихся вместе с ним) сподвижников: “Принесите (этот котёл)”. Увидев же, что (в нём находится), он отказался есть это, а ему сказал: “Ешь, а я (не ем этого по той причине, что) веду тайные беседы с теми, с кем не можешь беседовать ты”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ஜாபிர் பின் அப்தில்லாஹ் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் "வெள்ளைப் பூண்டோ வெங்காயமோ சாப்பிட்டவர் "நம்மிடமிருந்து" அல்லது "நமது பள்ளிவாசலிலிருந்து" விலகியிருக்கட்டும்; அவர் (கூட்டுத் தொழுகைக்கு வராமல்) தம் இல்லத்திலேயே அமர்ந்துகொள்ளட்டும்" என்று கூறினார்கள். )ஒரு முறை) அல்லாஹ்வின் தூதர் (ஸல்) அவர்களிடம் ஒரு பாத்திரம் கொண்டு வரப்பட்டது. அதில் காய்கறிகளும் கீரைகளும் இருந்தன. அவற்றில் (துர்)வாடை வீசுவதை நபியவர்கள் உணர்ந்தார்கள். (அவற்றைப் பற்றி) அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கேட்க, அதிலுள்ள கீரைகள் குறித்து அவர்களுக்குத் தெரிவிக்கப்பட்டது. அப்போது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் அதைத் தம் தோழர்களில் ஒருவருக்குக் கொடுத்துவிடுமாறு கூறினார்கள். அத்தோழரும் அதை உண்ண விரும்பாமலிருந்ததைக் கண்டபோது அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள், "நீங்கள் சாப்பிடுங்கள். ஏனெனில், நீங்கள் உரையாடாத (வான)வர்களுடன் நான் உரையாட வேண்டியதுள்ளது"என்று கூறினார்கள். இந்த ஹதீஸ் இரு அறிவிப்பாளர்தொடர்களில் வந்துள்ளது. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (Bana Ebü't - Tâhir ile Harmele rivâyet ettiler. Dediler ki: Bize İbn Vehb haber verdi. ki): Bana Yûnus, İbn Şihâb'dan naklen haber verdi. ki: Bana Ata' b. Ebî Rebâh rivâyet etti ki Câbir b. Abdillâh Şöyle dedi: (Harmele'nin rivâyetinde: Zü'metti.) tâbiri vardır. Resûlüllah (sallallahü aleyhi ve sellem): kim sarımsak veya soğan yediyse bizden yahut bizim mescidimizden ırak olsun! Evinde otursun!» buyurdular. da varki Resûlüllah (sallallahü aleyhi ve sellem)’e içinde bakla nev'inden sebzeler bulunan bir tabak getirildi. Efendimiz sebzelerin kokusunu duyarak (Bunların ne olduğunu) sordu. Müteakiben sebzelerin içinde bakla nevileri olduğunu kendisine haber verdiler. Resûlüllah (sallallahü aleyhi ve sellem) onları ashabından birine, yaklaştırmalarını söyledi. Fakat o da tabağı görünce sebzeleri yemek istemedi. Peygamber (sallallahü aleyhi ve sellem): ye! Çünkü ben senin münâcaat etmediğinle munâcaatda bulunurum.» buyurdular
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو طاہر اور حرملہ نے کہا : ہمیں ابن وہب نے خبر دی ، کہا : مجھے یونس نے ابن شہاب سے خبر دی ، انھوں نے کہا : مجھے عطاء بن ابی رباح نے حدیث بیان کی کہ حضرت جابر بن عبداللہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ نےکہا ۔ حرملہ کی روایت میں ہے ، ان ( جابر ‌رضی ‌اللہ ‌عنہ ‌ ‌ ) کو یقین تھا ۔ کہ رسول اللہ ﷺ نے فرمایا : ’’جس نے لہسن یا پیاز کھایا وہ ہم سے دور رہے یا ہماری مسجدوں سے دور رہے اور اپنے گھر بیٹھے ۔ ‘ ‘ اور ایسا ہو ا کہ ( ایک دفعہ ) آپ کے پاس ایک ہانڈی لائی گئی جس میں کچھ سبز ترکاریاں تھیں ، آپ نے ان سے کچھ بو محسوس کی تو ان کے متعلق پوچھا ۔ آپ کو ان ترکاریوں کے بارے میں بتایا گیا جو اس میں ( ڈالی گئی ) تھیں تو آپ نے اسے ، اپنے ساتھیوں میں سے ایک کے پاس لے جانے کو کہا ۔ جب اس نے بھی اسے دیکھ کر ( آپ کی ناپسندیدگی کی بنا پر ) اس کو ناپسند کیا تو آپ نے فرمایا : ’’تم کھا لو کیونکہ میں ان سے سرگوشی کرتا ہوں جن سے تم سرگوشی نہیں کرتےہو ۔ ‘ ‘ ( اس سے فرشتے مراد ہیں ۔ صحیح ابن خزیمہ اور صحیح ابن حبان کی روایت میں اس بات کی صراحت موجود ہے ۔)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1253</td></tr><tr><td>Arabic No</td><td>564.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 90</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1253 |
+| Arabic No | 564.01 |
+| Reference | Book 5 Hadith 90 |

@@ -18,78 +18,90 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَحْمَدُ بْنُ يُونُسَ، حَدَّثَنَا زُهَيْرٌ، حَدَّثَنَا أَبُو الزُّبَيْرِ، ح وَحَدَّثَنَا يَحْيَى بْنُ، يَحْيَى أَخْبَرَنَا أَبُو خَيْثَمَةَ، عَنْ أَبِي الزُّبَيْرِ، عَنْ جَابِرٍ، وَابْنِ، عُمَرَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم نَهَى عَنِ النَّقِيرِ وَالْمُزَفَّتِ وَالدُّبَّاءِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا احمد بن يونس، حدثنا زهير، حدثنا ابو الزبير، ح وحدثنا يحيى بن، يحيى اخبرنا ابو خيثمة، عن ابي الزبير، عن جابر، وابن، عمر ان رسول الله صلى الله عليه وسلم نهى عن النقير والمزفت والدباء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবনু ইউনুস ও ইয়াহইয়া ইবনু ইয়াহইয়া (রহঃ) ..... জাবির ও ইবনু উমার (রাযিঃ) হতে বর্ণিত যে, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নাকীর, মুযাফফাত ও দুব্বা (-তে নবীয তৈরি করা) হতে বারণ করেছেন। (ইসলামিক ফাউন্ডেশন ৫০৩৩, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is reported on the authority of Jabir and Ibn Umar that Allah's Messenger (ﷺ) forbade (the preparation) of Nabidh in hollow stump and varnished jar and gourd
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## French
 
+Rapporté par Jabir et Ibn ‘Umar : Le Messager d’Allah ﷺ a interdit (la préparation) du Nabidh dans le tronc creux, la jarre vernissée et la courge
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ahmed b. Yûnus rivayet etti. (Dediki): Bize Züheyr rivayet etti. (Dediki): Bize Elbu'z-Zübeyr rivayet etti. H. Bize Yahya b. Yahya da rivayet etti. (Dediki): Bize Ebû Hayseme Ebû'z-Zübeyr'den, o da Câbır ile İbn~i Ömer'den naklen haber verdi ki: Resûlullah (Sallallahu Aleyhi ve Sellem) nekîr, müzefiet ve dübbâ'dan nehiy buyurmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5202</td></tr><tr><td>Arabic No</td><td>1998.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 76</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5202 |
+| Arabic No | 1998.01 |
+| Reference | Book 36 Hadith 76 |

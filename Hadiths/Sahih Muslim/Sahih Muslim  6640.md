@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مِنْجَابُ بْنُ الْحَارِثِ التَّمِيمِيُّ، أَخْبَرَنَا ابْنُ مُسْهِرٍ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ، إِبْرَاهِيمَ الْحَنْظَلِيُّ أَخْبَرَنَا عِيسَى بْنُ يُونُسَ، كِلاَهُمَا عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ ‏.‏ وَلَمْ يَذْكُرْ فِي حَدِيثِ عِيسَى ‏"‏ وَيَتَحَرَّى الصِّدْقَ وَيَتَحَرَّى الْكَذِبَ ‏"‏ ‏.‏ وَفِي حَدِيثِ ابْنِ مُسْهِرٍ ‏"‏ حَتَّى يَكْتُبَهُ اللَّهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا منجاب بن الحارث التميمي، اخبرنا ابن مسهر، ح وحدثنا اسحاق بن، ابراهيم الحنظلي اخبرنا عيسى بن يونس، كلاهما عن الاعمش، بهذا الاسناد . ولم يذكر في حديث عيسى " ويتحرى الصدق ويتحرى الكذب " . وفي حديث ابن مسهر " حتى يكتبه الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মিনজাব ইবনুল হারিস আত তামীমী (রহঃ), ইসহাক ইবনু ইবরাহীম আল হানযালী (রহঃ) ...... উভয়ে আ'মাশ থেকে এ সানাদে হুবহু হাদীস বর্ণনা করেছেন। তবে তিনি ঈসা (রহঃ) এর হাদীসে “সত্য বলার চেষ্টা করে এবং মিথ্যা বলার চেষ্টা করে” কথাটি উল্লেখ করেননি। আর ইবনু মুসহির (রহঃ) বর্ণিত হাদীসে "অবশেষে আল্লাহ তা লিখবেন" কথাটি উল্লেখ আছে। (ইসলামিক ফাউন্ডেশন ৬৪০২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been reported on the authority of A'mash with the same chain of transmitters and no mention is made in the hadith transmitted on the authority of 'Isa (of these words):" He who endeavours to tell the truth and endeavours to tell a lie," and in the hadith transmitted on the authority of Mushir (the words are):" Until Allah records it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## French
 
+Rapporté par A'mash : Ce hadith a été rapporté avec la même chaîne de transmission, mais dans le hadith transmis par 'Isa, il n’est pas mentionné : « Celui qui s’efforce de dire la vérité ou de mentir », et dans le hadith transmis par Mushir, il est dit : « Jusqu’à ce qu’Allah l’inscrive. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-105) Bize Mincâb b. Haris Et-Temîmî rivayet etti. (Dediki): Bize İbni Müshîr haber verdi. H. Bize İshâk b. İbrahim El-Hanzalî de rivayet etti. (Dediki): Bize İsâ b. Yûnus haber verdi. Her iki râvi A'meş'den bu isnadla rivayette bulunmuşlardır. İsa'nın hadîsinde: «Doğruluğu araştırır ve yalancılığı araştırır.» cümlelerim anmamıştır. İbni Müshir'in hadîsinde ise: «Nihayet Allah onu yazar...» cümlesi vardır
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابن مسہر اور عیسیٰ بن یونس دونوں نے اعمش سے اسی سند کے ساتھ خبر دی ، انہوں نے عیسیٰ کی روایت میں : " صدق کا قصد کرتا رہتا ہے اور جھوٹ کا قصد کرتا رہتا ہے " کے الفاظ ذکر نہیں کیے ۔ اور ابن مسہر کی روایت میں ( " اللہ کے نزدیک " کے بجائے ) " حتی کہ اللہ اس کو لکھ لیتا ہے " کے الفاظ ہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6640</td></tr><tr><td>Arabic No</td><td>2607.04</td></tr><tr><td>Reference</td><td>Book 45 Hadith 137</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6640 |
+| Arabic No | 2607.04 |
+| Reference | Book 45 Hadith 137 |

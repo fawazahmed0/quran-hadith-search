@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي أَبُو الطَّاهِرِ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني ابو الطاهر، اخبرنا ابن وهب، اخبرني يونس، عن ابن شهاب، بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ তাহির (রহঃ) ইবনু শিহাব (রহঃ) এর সূত্রে এ সানাদে হুবহু হাদীস রিওয়ায়াত করেন। (ইসলামিক ফাউন্ডেশন ৫৮৫৪, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Ibn Shihab with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## French
 
+Rapporté par Ibn Shihab رضي الله عنه : Ce hadith a été rapporté avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-90) Bana Ebû't-Tâhir de rivayet etti. (Dediki): Bize İbni Vehb haber verdi, (Dediki): Bana Yûnus, İbni Şihab'dan bu isııadla bu hadîsinin benzerini haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یونس نے ابن شہاب سے اسی سند کے ساتھ اسی کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6063</td></tr><tr><td>Arabic No</td><td>2336.02</td></tr><tr><td>Reference</td><td>Book 43 Hadith 121</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6063 |
+| Arabic No | 2336.02 |
+| Reference | Book 43 Hadith 121 |

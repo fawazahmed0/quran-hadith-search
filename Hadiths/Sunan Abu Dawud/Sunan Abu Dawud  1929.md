@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ عَبْدِ اللَّهِ بْنِ مَالِكٍ، قَالَ صَلَّيْتُ مَعَ ابْنِ عُمَرَ الْمَغْرِبَ ثَلاَثًا وَالْعِشَاءَ رَكْعَتَيْنِ فَقَالَ لَهُ مَالِكُ بْنُ الْحَارِثِ مَا هَذِهِ الصَّلاَةُ قَالَ صَلَّيْتُهُمَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي هَذَا الْمَكَانِ بِإِقَامَةٍ وَاحِدَةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
+
 حدثنا محمد بن كثير، حدثنا سفيان، عن ابي اسحاق، عن عبد الله بن مالك، قال صليت مع ابن عمر المغرب ثلاثا والعشاء ركعتين فقال له مالك بن الحارث ما هذه الصلاة قال صليتهما مع رسول الله صلى الله عليه وسلم في هذا المكان باقامة واحدة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
 
 ## Bengali
 
+। ‘আব্দুল্লাহ ইবনু মালিক (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি ইবনু ‘উমার (রাযি.)-এর সাথে মাগরিবের তিন এবং ‘ইশার দুই রাক‘আত সালাত আদায় করেছি। মালিক ইবনুল হারিস (রহ.) তাকে বললেন, এ আবার কেমন সালাত? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে আমি এ দুটি সালাত এই স্থানে এক ইকামাতে আদায় করেছি।\[1\] সহীহ ‘‘প্রত্যেক সালাত’’ অতিরিক্তসহ। যেমন পূর্বের হাদীসে রয়েছে।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আব্দুল্লাহ ইবনু মালিক (রাযি.) সূত্রে বর্ণিত। তিনি বলেন, আমি ইবনু ‘উমার (রাযি.)-এর সাথে মাগরিবের তিন এবং ‘ইশার দুই রাক‘আত সালাত আদায় করেছি। মালিক ইবনুল হারিস (রহ.) তাকে বললেন, এ আবার কেমন সালাত? তিনি বললেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে আমি এ দুটি সালাত এই স্থানে এক ইকামাতে আদায় করেছি।[1] সহীহ ‘‘প্রত্যেক সালাত’’ অতিরিক্তসহ। যেমন পূর্বের হাদীসে রয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah ibn Malik said:I offered three rak'ahs of the sunset prayer and two rak'ahs of the night prayer along with Ibn Umar. Thereupon Malik ibn al-Harith said: What is this prayer? He said: I offered these prayers along with the Messenger of Allah (ﷺ) in this place with a single iqamah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
+
+## French
+
+Rapporté par Abdullah ibn Malik : J’ai accompli trois unités de prière du coucher du soleil et deux unités de la prière de la nuit avec Ibn Umar. Malik ibn al-Harith a alors demandé : « Quelle est cette prière ? » Il a répondu : « J’ai accompli ces prières avec le Messager d’Allah ﷺ à cet endroit avec un seul iqamah. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Абдуллах ибн Малик рассказывает: «Я совершал вместе с Ибн ‘Умаром закатную молитву /магриб/ в три рак‘ата и вечернюю молитву /‘иша/ в два рак‘ата, и Малик ибн аль-Харис сказал ему: “Что это за молитва?” Он ответил: “Я совершал её вместе с Посланником Аллаха ﷺ на этом месте с одним икаматом”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Mâlik'den; demiştir ki: İbn Ömer'le beraber (Müzdelife'de) akşam namazını üç (rekat), yatsıyı da iki rekat olarak (birleştirip) kıldım. Mâlik b. el-Hâris Abdullah b. Ömer'e: Bu namaz da nedir? dedi. O da: Ben bunları Resûlullah (S.A.V.)'le birlikte burada (bu şekilde) bir ikâmetle kıldım, diye cevap verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مالک کہتے ہیں کہ میں نے ابن عمر رضی اللہ عنہما کے ساتھ مغرب تین رکعت اور عشاء دو رکعت پڑھی، تو مالک بن حارث نے ان سے کہا: یہ کون سی نماز ہے؟ انہوں نے کہا: میں نے رسول اللہ صلی اللہ علیہ وسلم کے ساتھ یہ دونوں اسی جگہ ایک تکبیر سے پڑھیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1929</td></tr><tr><td>Arabic No</td><td>1929</td></tr><tr><td>Reference</td><td>Book 11 Hadith 209</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1929 |
+| Arabic No | 1929 |
+| Reference | Book 11 Hadith 209 |

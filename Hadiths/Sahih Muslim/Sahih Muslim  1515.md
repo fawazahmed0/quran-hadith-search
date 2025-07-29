@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، حَدَّثَنَا الْمُعْتَمِرُ، ح وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَخْبَرَنَا جَرِيرٌ، كِلاَهُمَا عَنِ التَّيْمِيِّ، بِهَذَا الإِسْنَادِ ‏.‏ بِنَحْوِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا محمد بن عبد الاعلى، حدثنا المعتمر، ح وحدثنا اسحاق بن ابراهيم، قال اخبرنا جرير، كلاهما عن التيمي، بهذا الاسناد . بنحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু আবদুল আ'লা, ইসহাক ইবনু ইবরাহীম (রহঃ) ..... আত তায়মী (রহঃ) থেকে একই সানাদে অনুরূপ হাদীস বর্ণনা করেছেন। (ইসলামী ফাউন্ডেশন ১৩৮৭, ইসলামীক সেন্টার ১৩৯৯)।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been transmitted by Taimi with the same chain of narrators
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## French
 
+Rapporté par Taimi : Ce hadith a été transmis avec la même chaîne de rapporteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (….) Bize Muhammed b. Abdilâ'lâ da rivayet etti. (Dediki): Bize Mu'temir rivayet etti. H. Bize İshâk b. İbrahim de rivayet etti. Dediki : Bize Cerîr rivayet etti. Bunların ikisi de Teymî'den bu isnâdla bu hadîsin benzerini rivayet etmişlerdir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عتمر بن سلیمان اور جریر دونوں نے تیمی سے اسی سند کے ساتھ اسی کے مطابق روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1515</td></tr><tr><td>Arabic No</td><td>663.02</td></tr><tr><td>Reference</td><td>Book 5 Hadith 348</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1515 |
+| Arabic No | 663.02 |
+| Reference | Book 5 Hadith 348 |

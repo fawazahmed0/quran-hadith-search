@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا الْمُغِيرَةُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ حَدَّثَنَا زَيْدُ بْنُ عَلِيٍّ، - وَهُوَ أَبُو أُسَامَةَ - قَالَ حَدَّثَنَا جَعْفَرُ بْنُ بُرْقَانَ، عَنْ حَبِيبِ بْنِ أَبِي مَرْزُوقٍ، عَنْ عَطَاءٍ، عَنْ جَابِرٍ، ‏:‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم صَلَّى عَلَى قَبْرِ امْرَأَةٍ بَعْدَ مَا دُفِنَتْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 21 Hadith 208</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |
+
 اخبرنا المغيرة بن عبد الرحمن، قال حدثنا زيد بن علي، - وهو ابو اسامة - قال حدثنا جعفر بن برقان، عن حبيب بن ابي مرزوق، عن عطاء، عن جابر، : ان النبي صلى الله عليه وسلم صلى على قبر امراة بعد ما دفنت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 21 Hadith 208</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুগীরা ইবনু আব্দুর রহমান (রহঃ) ... জাবির (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এক মহিলার কবরে জানাযার সালাত আদায় করেছিলেন তাকে দাফন করার পর।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 21 Hadith 208</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Jabir:That the Prophet prayed at the grave of a woman after she had been buried
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 21 Hadith 208</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |
+
+## French
+
+Rapporté par Jabir : Le Prophète a prié près de la tombe d'une femme après qu'elle ait été enterrée
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Al Mughirah bin 'Abdurrahman\] dia berkata; telah menceritakan kepada kami \[Zaid bin 'Ali\] yaitu Abu Usmah dia berkata; telah menceritakan kepada kami \[Ja'far bin Burqan\] dari \[Habib bin Abu Marzuq\] dari \['Atha\] dari \[Jabir\] bahwasanya Nabi shallallahu 'alaihi wasallam shalat jenazah atas kuburan seorang wanita setelah ia dimakamkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Al Mughirah bin 'Abdurrahman] dia berkata; telah menceritakan kepada kami [Zaid bin 'Ali] yaitu Abu Usmah dia berkata; telah menceritakan kepada kami [Ja'far bin Burqan] dari [Habib bin Abu Marzuq] dari ['Atha] dari [Jabir] bahwasanya Nabi shallallahu 'alaihi wasallam shalat jenazah atas kuburan seorang wanita setelah ia dimakamkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 21 Hadith 208</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 21 Hadith 208</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی الله عنہما کہتے ہیں نبی اکرم صلی اللہ علیہ وسلم نے ایک عورت کی قبر پر اسے دفن کر دئیے جانے کے بعد نماز جنازہ پڑھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2025</td></tr><tr><td>Arabic No</td><td>2025</td></tr><tr><td>Reference</td><td>Book 21 Hadith 208</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2025 |
+| Arabic No | 2025 |
+| Reference | Book 21 Hadith 208 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا حَمَّادٌ، عَنْ عَمْرٍو، عَنْ طَاوُسٍ، أَنَّ عُمَرَ، اسْتَشَارَ النَّاسَ فِي الْجَنِينِ فَقَالَ حَمَلُ بْنُ مَالِكٍ قَضَى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي الْجَنِينِ غُرَّةً ‏.‏ قَالَ طَاوُسٌ إِنَّ الْفَرَسَ غُرَّةٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 45 Hadith 111</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |
+
 اخبرنا قتيبة، قال حدثنا حماد، عن عمرو، عن طاوس، ان عمر، استشار الناس في الجنين فقال حمل بن مالك قضى رسول الله صلى الله عليه وسلم في الجنين غرة . قال طاوس ان الفرس غرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 45 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা (রহঃ) ... তাউস (রহঃ) থেকে বর্ণিত। উমর (রাঃ) গর্ভস্থ বাচ্চার ব্যাপারে পরামর্শ করলেন, তখন হামল ইবন মালিক (রাঃ) বললেনঃ রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এতে একটি গুররা অর্থাৎ একটি দাস অথবা দাসী দিতে আদেশ করেছেন। তাউস (রহঃ) বলেন, গুররা অর্থ ঘোড়া।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 45 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hamal bin Malik said:"The Messenger of Allah ruled that a slave (should be given as Diyah) for a fetus." Tawus said: "A horse would do in place of a slave
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 45 Hadith 111</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |
+
+## French
+
+Rapporté par Hamal bin Malik : Le Messager d'Allah a jugé qu'un esclave devait être donné comme Diyah pour un fœtus. Tawus a dit : "Un cheval pouvait remplacer un esclave
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] telah menceritakan kepada kami \[Hammad\] dari \['Amru\] dari \[Thawus\] bahwa Umar meminta pendapat orang-orang mengenai janin, lalu \[Hamal bin Malik\] berkata; "Rasulullah shallallahu 'alaihi wasallam telah memutuskan (diyat) untuk seorang janin adalah ghurrah (seorang budak)." Thawus berkata; "Sesungguhnya kuda terasuk ghurrah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] telah menceritakan kepada kami [Hammad] dari ['Amru] dari [Thawus] bahwa Umar meminta pendapat orang-orang mengenai janin, lalu [Hamal bin Malik] berkata; "Rasulullah shallallahu 'alaihi wasallam telah memutuskan (diyat) untuk seorang janin adalah ghurrah (seorang budak)." Thawus berkata; "Sesungguhnya kuda terasuk ghurrah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 45 Hadith 111</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 45 Hadith 111</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4816</td></tr><tr><td>Arabic No</td><td>4816</td></tr><tr><td>Reference</td><td>Book 45 Hadith 111</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4816 |
+| Arabic No | 4816 |
+| Reference | Book 45 Hadith 111 |

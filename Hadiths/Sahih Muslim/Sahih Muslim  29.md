@@ -18,78 +18,72 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## French
 
+Rapporté par le père d’Ibn Abī-Zinād : « J’ai rencontré cent transmetteurs à Médine, tous étaient fiables. On ne prenait pas de récits de celui dont on disait : ‘Il n’est pas des gens d’ici.’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن عبد العزیز نے سلیمان بن موسیٰ سے روایت کی ، انہوں نے کہا : میں نے طاوس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے عرض کی : فلاں نے ان ان الفاظ سے مجھے حدیث سنائی ۔ انہوں نے کہا : اگر تمہارے صاحب ثقاہت میں بھر پو ہیں تو ان سے اخذ کر لو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>29</td></tr><tr><td>Reference</td><td>Book 0 Hadith 29</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 29 |
+| Reference | Book 0 Hadith 29 |

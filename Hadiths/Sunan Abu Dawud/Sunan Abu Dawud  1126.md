@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا هُشَيْمٌ، أَخْبَرَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ عَمْرَةَ، عَنْ عَائِشَةَ، - رضى الله عنها - قَالَتْ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم فِي حُجْرَتِهِ وَالنَّاسُ يَأْتَمُّونَ بِهِ مِنْ وَرَاءِ الْحُجْرَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
+
 حدثنا زهير بن حرب، حدثنا هشيم، اخبرنا يحيى بن سعيد، عن عمرة، عن عايشة، - رضى الله عنها - قالت صلى رسول الله صلى الله عليه وسلم في حجرته والناس ياتمون به من وراء الحجرة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
 
 ## Bengali
 
+। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর হুজরাতে সালাত আদায় করছিলেন আর লোকজন হুজরার বাইরে পেছনের দিক থেকে তাঁর ইকতিদা করেছিলো।\[1\] সহীহ : বুখারী, এর চেয়ে পরিপূর্ণ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আয়িশাহ্ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম তাঁর হুজরাতে সালাত আদায় করছিলেন আর লোকজন হুজরার বাইরে পেছনের দিক থেকে তাঁর ইকতিদা করেছিলো।[1] সহীহ : বুখারী, এর চেয়ে পরিপূর্ণ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aishah said:The Messenger of Allah (ﷺ) offered the prayer in his apartment and people were following him behind apartment
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
+
+## French
+
+Rapporté par Aishah رضي الله عنها : Le Messager d’Allah ﷺ a prié dans son appartement et les gens priaient derrière lui, de l’autre côté de l’appartement
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Zuhair bin Harb\] telah menceritakan kepada kami \[Husyaim\] telah mengabarkan kepadaku \[Yahya bin Sa'id\] dari \['Amrah\] dari \[Aisyah radliallahu 'anha\] dia berkata; Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat di kamarnya, ternyata orang-orang mengikuti beliau dari belakang kamarnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Husyaim] telah mengabarkan kepadaku [Yahya bin Sa'id] dari ['Amrah] dari [Aisyah radliallahu 'anha] dia berkata; Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat di kamarnya, ternyata orang-orang mengikuti beliau dari belakang kamarnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Aişe (r.anhâ)'dan; demiştir ki: Resûlullah (Sallallahu Aleyhi ve Sellem) odasında namaz kılar, insanlar da odanın arkasından ona uyarlardı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے اپنے حجرے کے اندر نماز پڑھی اور لوگ حجرے کے پیچھے سے آپ کی اقتداء کر رہے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (729)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1126</td></tr><tr><td>Arabic No</td><td>1126</td></tr><tr><td>Reference</td><td>Book 2 Hadith 737</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (729) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1126 |
+| Arabic No | 1126 |
+| Reference | Book 2 Hadith 737 |

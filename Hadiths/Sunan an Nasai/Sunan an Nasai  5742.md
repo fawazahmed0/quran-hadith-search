@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدٌ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، قَالَ سَمِعْتُ سُفْيَانَ، سُئِلَ عَنِ النَّبِيذِ، قَالَ انْتَبِذْ عَشِيًّا وَاشْرَبْهُ غُدْوَةً ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 51 Hadith 204</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |
+
 اخبرنا سويد، قال انبانا عبد الله، قال سمعت سفيان، سيل عن النبيذ، قال انتبذ عشيا واشربه غدوة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 51 Hadith 204</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ (রহঃ) ... আবদুল্লাহ (রহঃ) থেকে বর্ণিত। তিনি বলেন, আমি শুনেছি, সুফইয়ানকে নবীয সম্পর্কে জিজ্ঞাসা করা হলে তিনি বললেনঃ তা সন্ধ্যায় ভিজিয়ে রেখে ভোরে পান করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 51 Hadith 204</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah said:"I heard Sufyan being asked about Nabidh. He said: 'Make Nabidh at night and drink it in the morning
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 51 Hadith 204</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |
+
+## French
+
+Rapporté par Abdullah : J'ai entendu Sufyan à qui on demandait au sujet du Nabidh. Il a dit : "Préparez du Nabidh la nuit et buvez-le le matin
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid\] ia berkata; telah memberitakan kepada kami \[Abdullah\] ia berkata, "Aku mendengar \[Sufyan\] ditanya tentang perasan nabidz, ia lalu menjawab, "Buatlah di malam hari lalu minumlah di pagi hari
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid] ia berkata; telah memberitakan kepada kami [Abdullah] ia berkata, "Aku mendengar [Sufyan] ditanya tentang perasan nabidz, ia lalu menjawab, "Buatlah di malam hari lalu minumlah di pagi hari
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 51 Hadith 204</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 51 Hadith 204</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad Maqtu | Abu Ghuddah |
+| Sahih Isnaad Maqtu | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad Maqtu</td><td>Abu Ghuddah</td></tr><tr><td>Sahih Isnaad Maqtu</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5742</td></tr><tr><td>Arabic No</td><td>5742</td></tr><tr><td>Reference</td><td>Book 51 Hadith 204</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5742 |
+| Arabic No | 5742 |
+| Reference | Book 51 Hadith 204 |

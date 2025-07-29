@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ مَا أَذِنَ اللَّهُ عَزَّ وَجَلَّ لِشَىْءٍ يَعْنِي أَذَنَهُ لِنَبِيٍّ يَتَغَنَّى بِالْقُرْآنِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |
+
 اخبرنا قتيبة، قال حدثنا سفيان، عن الزهري، عن ابي سلمة، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال " ما اذن الله عز وجل لشىء يعني اذنه لنبي يتغنى بالقران
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... আবূ হুরায়রা (রাঃ) থেকে বর্ণিত যে, তিনি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছেনঃ আল্লাহ তা'আলা কোন জিনিসকে ঐরূপ শোনেন না যেরূপ তিনি কুরআন শোনেন, সূললিত কণ্ঠের অধিকারী নবীর মুখে যিনি সুললিত কণ্ঠে কুরআন পাঠ করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Abu Hurairah that:The Prophet (ﷺ) said: "Allah, the Mighty and Sublime, never listens to anything as He listens to a Prophet chanting the Quran
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Prophète (ﷺ) a dit : "Allah, le Tout-Puissant, n'écoute rien autant qu'Il écoute un Prophète qui récite le Coran en chantant
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\] dari \[Abu Salamah\] dari \[Abu Hurairah\] bahwa Rasulullah Shallallahu'alaihi wasallam bersabda: "Allah tidak pernah mengijinkan untuk sesuatu sebagaimana Dia mengijinkan Nabi-Nya untuk memperindah suara saat membaca Al Qur'an
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Salamah] dari [Abu Hurairah] bahwa Rasulullah Shallallahu'alaihi wasallam bersabda: "Allah tidak pernah mengijinkan untuk sesuatu sebagaimana Dia mengijinkan Nabi-Nya untuk memperindah suara saat membaca Al Qur'an
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: نبی کے خوش الحانی سے قرآن پڑھنے کو اللہ تعالیٰ جس طرح سنتا ہے اس طرح کسی اور چیز کو نہیں سنتا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1018</td></tr><tr><td>Arabic No</td><td>1018</td></tr><tr><td>Reference</td><td>Book 11 Hadith 143</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1018 |
+| Arabic No | 1018 |
+| Reference | Book 11 Hadith 143 |

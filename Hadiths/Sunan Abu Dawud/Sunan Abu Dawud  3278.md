@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ خَلَفٍ، حَدَّثَنَا عَبْدُ الأَعْلَى، حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنِ الْحَسَنِ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ سَمُرَةَ، نَحْوَهُ قَالَ ‏:‏ ‏ "‏ فَكَفِّرْ عَنْ يَمِينِكَ، ثُمَّ ائْتِ الَّذِي هُوَ خَيْرٌ ‏"‏ ‏.‏ قَالَ أَبُو دَاوُدَ ‏:‏ أَحَادِيثُ أَبِي مُوسَى الأَشْعَرِيِّ وَعَدِيِّ بْنِ حَاتِمٍ وَأَبِي هُرَيْرَةَ فِي هَذَا الْحَدِيثِ رُوِيَ عَنْ كُلِّ وَاحِدٍ مِنْهُمْ فِي بَعْضِ الرِّوَايَةِ الْحِنْثُ قَبْلَ الْكَفَّارَةِ وَفِي بَعْضِ الرِّوَايَةِ الْكَفَّارَةُ قَبْلَ الْحِنْثِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
+
 حدثنا يحيى بن خلف، حدثنا عبد الاعلى، حدثنا سعيد، عن قتادة، عن الحسن، عن عبد الرحمن بن سمرة، نحوه قال : " فكفر عن يمينك، ثم ايت الذي هو خير " . قال ابو داود : احاديث ابي موسى الاشعري وعدي بن حاتم وابي هريرة في هذا الحديث روي عن كل واحد منهم في بعض الرواية الحنث قبل الكفارة وفي بعض الرواية الكفارة قبل الحنث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আব্দুর রাহমান (রাঃ) সূত্রে পূর্বের হাদীসের অনুরূপ বর্ণিত। এতে আছেঃ ‘‘প্রথমে কাফফারাহ দিবে, তারপর কল্যাণকর কাজটি করবে।’’ আবূ দাঊদ (রহঃ) বলেন, এ অনুচ্ছেদে আবূ মূসা আল-আশ‘আরী, ‘আদী ইবনু হাতিম ও আবূ হুরাইরাহ (রাঃ) থেকে যেসব হাদীস বর্ণিত হয়েছে তার কতগুলোতে রয়েছে, শপথ ভঙ্গের পর কাফফারাহ আদায় করবে, আর কতগুলোতে রয়েছে, শপথ ভঙ্গের আগে কাফফারাহ আদায় করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A similar tradition has been transmitted by 'Abd al-Rahman b. Samurah through a different chain if narrators. This version has:"Make atonement for your oath and then do the thing that is better." Abu Dawud said: The version of this tradition transmitted by Abu Musa al-Ash'ari, 'Adi b. Hatim and Abu Hurairah are variant. Some of them indicate breaking the oath before making atonement, and other making atonement before breaking the oath
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
+
+## French
+
+Une tradition similaire a été rapportée par ‘Abd al-Rahman b. Samurah par une autre chaîne de transmetteurs. Cette version dit : « Expie ton serment, puis fais ce qui est meilleur. » Abu Dawud a dit : Les versions de ce hadith transmises par Abu Musa al-Ash’ari, ‘Adi b. Hatim et Abu Huraira sont différentes. Certaines indiquent de rompre le serment avant d’expier, d’autres d’expier avant de rompre le serment
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Ash Shabah Al Bazzaz\], telah menceritakan kepada kami \[Husyaim\], telah mengabarkan kepada kami \[Yunus\], dan \[Manshur bin Zadzan\] dari \[Al Hasan\] dari \[Abdurrahman bin Samurah\] ia berkata; Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Wahai Abdurrahman bin Samurah, apabila engkau bersumpah kemudian engkau melihat selainnya lebih baik maka lakukan yang lebih baik dan bayarlah kafarah sumpahmu." Abu Daud berkata; aku mendengar Ahmad memberikan keringanan untuk membayar kafarah sebelum membatalkan sumpah. Telah menceritakan kepada kami \[Yahya bin Khalaf\], telah menceritakan kepada kami \[Abdul A'la\], telah menceritakan kepada kami \[Sa'id\] dari \[Qatadah\], dari \[Al Hasan\] dari \[Abdurrahman bin Samurah\] seperti itu. Ia berkata; bayarlah kafarah sumpahmu kemudian lakukan sesuatu yang lebih baik. Abu Daud berkata; hadits-hadits Abu Musa Al Asy'ari dan 'Adi bin Hatim serta Abu Hurairah dalam hadits ini diriwayatkan dari setiap mereka dalam sebagian riwayat: membatalkan sumpah sebelum kafarah, dan dalam sebagian riwayat kafarah sebelum membatalkan sumpah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Ash Shabah Al Bazzaz], telah menceritakan kepada kami [Husyaim], telah mengabarkan kepada kami [Yunus], dan [Manshur bin Zadzan] dari [Al Hasan] dari [Abdurrahman bin Samurah] ia berkata; Nabi shallallahu 'alaihi wasallam berkata kepadaku: "Wahai Abdurrahman bin Samurah, apabila engkau bersumpah kemudian engkau melihat selainnya lebih baik maka lakukan yang lebih baik dan bayarlah kafarah sumpahmu." Abu Daud berkata; aku mendengar Ahmad memberikan keringanan untuk membayar kafarah sebelum membatalkan sumpah. Telah menceritakan kepada kami [Yahya bin Khalaf], telah menceritakan kepada kami [Abdul A'la], telah menceritakan kepada kami [Sa'id] dari [Qatadah], dari [Al Hasan] dari [Abdurrahman bin Samurah] seperti itu. Ia berkata; bayarlah kafarah sumpahmu kemudian lakukan sesuatu yang lebih baik. Abu Daud berkata; hadits-hadits Abu Musa Al Asy'ari dan 'Adi bin Hatim serta Abu Hurairah dalam hadits ini diriwayatkan dari setiap mereka dalam sebagian riwayat: membatalkan sumpah sebelum kafarah, dan dalam sebagian riwayat kafarah sebelum membatalkan sumpah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что один человек пришёл к Пророку ﷺ с чернокожей рабыней и сказал: «О Посланник Аллаха! Я должен освободить верующего раба». (Посланник Аллаха ﷺ) спросил рабыню: «Где Аллах?» Она указала пальцем на небо. Тогда (Посланник Аллаха ﷺ) спросил её: «А кто я?» Она указала на него и на небеса, имея в виду, что он Посланник Аллаха. Тогда он сказал: «Освободи её, ибо она верующая»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Katâde, Hasen'den o da Abdurrahman b. Semüre'den (önceki 3277.) hadisin benzerini rivayet etmişlerdir. Katâde,-(bu rivayette, öncekinden farklı olarak Rasûlullah (s.a.v.'in); "Yemininden dolayı keffaret öde, sonra o hayırlı olanı yap" (buyurduğunu) söyledi. Ebü Dâvûd dedi ki: Ebû Muse'l-Eş'arî, Adiyy b. Hâtem ve Ebû Hureyre'nin hadisle­ri bu hadisin manasındadır. Bunlardan her birinden (yapılan) bazı rivayet (ler)de; yemini bozmak keffaretten önce, bazılarında ise keffaret yemini bozmaktan öncedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی عبدالرحمٰن بن سمرہ رضی اللہ عنہ سے اسی طرح مروی ہے اس میں ہے: تو قسم کا کفارہ ادا کرو پھر اس چیز کو اختیار کرو جو بہتر ہے ۔ ابوداؤد کہتے ہیں: ابوموسی اشعری، عدی بن حاتم اور ابوہریرہ رضی اللہ عنہم کی روایات جو اس موضوع سے متعلق ہیں ان میں بعض میں «الكفارة قبل الحنث» ہے اور بعض میں «الحنث قبل الكفارة» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1652)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3278</td></tr><tr><td>Arabic No</td><td>3278</td></tr><tr><td>Reference</td><td>Book 22 Hadith 37</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1652) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3278 |
+| Arabic No | 3278 |
+| Reference | Book 22 Hadith 37 |

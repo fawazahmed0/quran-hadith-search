@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَدَّابُ بْنُ خَالِدٍ، حَدَّثَنَا هَمَّامٌ، حَدَّثَنَا قَتَادَةُ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم زَجَرَ عَنِ الشُّرْبِ قَائِمًا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا هداب بن خالد، حدثنا همام، حدثنا قتادة، عن انس، ان النبي صلى الله عليه وسلم زجر عن الشرب قايما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হাদ্দাব ইবনু খালিদ (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম দাঁড়িয়ে পান করা হতে শাসন করেছেন। (ইসলামিক ফাউন্ডেশন ৫১০২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Anas reported Allah's Apostle (ﷺ) disapproved the drinking of water while standing
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## French
 
+Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a désapprouvé le fait de boire de l’eau en étant debout
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Haddab bin Khalid\]; Telah menceritakan kepada kami \[Hammam\]; Telah menceritakan kepada kami \[Qatadah\] dari \[Anas\] bahwa Nabi Shallallahu A'laihi Wa Sallam melarang minum sambil berdiri
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Haddab bin Khalid]; Telah menceritakan kepada kami [Hammam]; Telah menceritakan kepada kami [Qatadah] dari [Anas] bahwa Nabi Shallallahu A'laihi Wa Sallam melarang minum sambil berdiri
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Heddâb b Hâlid rivayet etti. (Dediki): Bize Hemmam rivayet etti. (Dediki): Bize Katâde, Enes'den rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem) ayakta su içmekten men etmiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہمام نے کہا : ہمیں قتادہ نے حدیث بیان کی ، انھوں نے حضرت انس رضی اللہ تعالیٰ عنہ سے روایت کی کہ نبی کریم صلی اللہ علیہ وسلم نے کھڑے ہوکرپانی پینے سے ڈانٹ کر منع فرمایا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5274</td></tr><tr><td>Arabic No</td><td>2024.01</td></tr><tr><td>Reference</td><td>Book 36 Hadith 148</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5274 |
+| Arabic No | 2024.01 |
+| Reference | Book 36 Hadith 148 |

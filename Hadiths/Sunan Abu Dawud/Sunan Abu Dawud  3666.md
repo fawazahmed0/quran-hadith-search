@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا جَعْفَرُ بْنُ سُلَيْمَانَ، عَنِ الْمُعَلَّى بْنِ زِيَادٍ، عَنِ الْعَلاَءِ بْنِ بَشِيرٍ الْمُزَنِيِّ، عَنْ أَبِي الصِّدِّيقِ النَّاجِيِّ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ جَلَسْتُ فِي عِصَابَةٍ مِنْ ضُعَفَاءِ الْمُهَاجِرِينَ وَإِنَّ بَعْضَهُمْ لَيَسْتَتِرُ بِبَعْضٍ مِنَ الْعُرْىِ وَقَارِئٌ يَقْرَأُ عَلَيْنَا إِذْ جَاءَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَامَ عَلَيْنَا فَلَمَّا قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم سَكَتَ الْقَارِئُ فَسَلَّمَ ثُمَّ قَالَ ‏"‏ مَا كُنْتُمْ تَصْنَعُونَ ‏"‏ ‏.‏ قُلْنَا يَا رَسُولَ اللَّهِ إِنَّهُ كَانَ قَارِئٌ لَنَا يَقْرَأُ عَلَيْنَا فَكُنَّا نَسْتَمِعُ إِلَى كِتَابِ اللَّهِ ‏.‏ قَالَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ الْحَمْدُ لِلَّهِ الَّذِي جَعَلَ مِنْ أُمَّتِي مَنْ أُمِرْتُ أَنْ أَصْبِرَ نَفْسِي مَعَهُمْ ‏"‏ ‏.‏ قَالَ فَجَلَسَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَسَطَنَا لِيَعْدِلَ بِنَفْسِهِ فِينَا ثُمَّ قَالَ بِيَدِهِ هَكَذَا فَتَحَلَّقُوا وَبَرَزَتْ وُجُوهُهُمْ لَهُ - قَالَ - فَمَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَرَفَ مِنْهُمْ أَحَدًا غَيْرِي ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَبْشِرُوا يَا مَعْشَرَ صَعَالِيكِ الْمُهَاجِرِينَ بِالنُّورِ التَّامِّ يَوْمَ الْقِيَامَةِ تَدْخُلُونَ الْجَنَّةَ قَبْلَ أَغْنِيَاءِ النَّاسِ بِنِصْفِ يَوْمٍ وَذَاكَ خَمْسُمِائَةِ سَنَةٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
+
 حدثنا مسدد، حدثنا جعفر بن سليمان، عن المعلى بن زياد، عن العلاء بن بشير المزني، عن ابي الصديق الناجي، عن ابي سعيد الخدري، قال جلست في عصابة من ضعفاء المهاجرين وان بعضهم ليستتر ببعض من العرى وقاري يقرا علينا اذ جاء رسول الله صلى الله عليه وسلم فقام علينا فلما قام رسول الله صلى الله عليه وسلم سكت القاري فسلم ثم قال " ما كنتم تصنعون " . قلنا يا رسول الله انه كان قاري لنا يقرا علينا فكنا نستمع الى كتاب الله . قال فقال رسول الله صلى الله عليه وسلم " الحمد لله الذي جعل من امتي من امرت ان اصبر نفسي معهم " . قال فجلس رسول الله صلى الله عليه وسلم وسطنا ليعدل بنفسه فينا ثم قال بيده هكذا فتحلقوا وبرزت وجوههم له - قال - فما رايت رسول الله صلى الله عليه وسلم عرف منهم احدا غيري . فقال رسول الله صلى الله عليه وسلم " ابشروا يا معشر صعاليك المهاجرين بالنور التام يوم القيامة تدخلون الجنة قبل اغنياء الناس بنصف يوم وذاك خمسماية سنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
 
 ## Bengali
 
+। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি একদল নিঃস্ব মুহাজিরদের সঙ্গে বসলাম। তাদের অবস্থা এতই শোচনীয় ছিলো যে, (পরিধেয় বস্ত্র খুবই ছোট হওয়ায়) পরস্পর পরস্পরের সতর আড়াল করে বসছিল। একজন পাঠক আমাদেরকে (কুরআন) পড়ে শুনাচ্ছিলেন। এ সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এসে দাঁড়ালে পাঠক তার পাঠ বন্ধ করলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম করার পর প্রশ্ন করলেনঃ তোমরা কি করছিলে? আমরা বললাম, হে আল্লাহর রাসূল! ইনি আমাদের নিকট কুরআন পড়েন আর আমরা মহান আল্লাহর কিতাব মনোযোগ দিয়ে শুনি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সমস্ত প্রশংসা আল্লাহর জন্য, যিনি আমার উম্মাতের মধ্যে এমন ধৈর্যশীল লোক রেখেছেন যাদের সাথে আমাকেও ধৈর্য্য ধারণের আদেশ দিয়েছেন। আবূ সাঈদ আল-খুদরী বলেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের মাঝে এসে বসলেন এবং আমাদের জামা‘আতকে পূর্ণাঙ্গ করলেন। অতঃপর তিনি উপস্থিত লোকদেরকে হাত দিয়ে ইশারা করে গোল করে বসার আদেশ দিলেন। তারা গোলাকার হয়ে বসলেন এবং সবার চেহারা তাঁর দিকে উদ্ভাসিত হয়ে উঠলো। আবূ সাঈদ আল-খুদরী (রাঃ) বলেন, আমার মনে হয়, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমি ছাড়া তাদের মধ্যে আর কাউকে চিনতে পারেননি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে নিঃস্ব-দুর্বল মুহাজিরগণ! তোমাদের জন্য কিয়ামতের দিনের পরিপূর্ণ নূরের সুসংবাদ। তোমরা ধনীদের চেয়ে অর্ধ দিবস আগে জান্নাতে প্রবেশ করবে। আর এই অর্ধ দিবসের পরিমাণ হলো পাঁচশ বছর।\[1\] দুর্বলঃ তবে জান্নাতের প্রবেশের বাক্যটি সহীহ। মিশকাত
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ সাঈদ আল-খুদরী (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একদা আমি একদল নিঃস্ব মুহাজিরদের সঙ্গে বসলাম। তাদের অবস্থা এতই শোচনীয় ছিলো যে, (পরিধেয় বস্ত্র খুবই ছোট হওয়ায়) পরস্পর পরস্পরের সতর আড়াল করে বসছিল। একজন পাঠক আমাদেরকে (কুরআন) পড়ে শুনাচ্ছিলেন। এ সময় রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এসে দাঁড়ালে পাঠক তার পাঠ বন্ধ করলেন। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সালাম করার পর প্রশ্ন করলেনঃ তোমরা কি করছিলে? আমরা বললাম, হে আল্লাহর রাসূল! ইনি আমাদের নিকট কুরআন পড়েন আর আমরা মহান আল্লাহর কিতাব মনোযোগ দিয়ে শুনি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সমস্ত প্রশংসা আল্লাহর জন্য, যিনি আমার উম্মাতের মধ্যে এমন ধৈর্যশীল লোক রেখেছেন যাদের সাথে আমাকেও ধৈর্য্য ধারণের আদেশ দিয়েছেন। আবূ সাঈদ আল-খুদরী বলেন, অতঃপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাদের মাঝে এসে বসলেন এবং আমাদের জামা‘আতকে পূর্ণাঙ্গ করলেন। অতঃপর তিনি উপস্থিত লোকদেরকে হাত দিয়ে ইশারা করে গোল করে বসার আদেশ দিলেন। তারা গোলাকার হয়ে বসলেন এবং সবার চেহারা তাঁর দিকে উদ্ভাসিত হয়ে উঠলো। আবূ সাঈদ আল-খুদরী (রাঃ) বলেন, আমার মনে হয়, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমি ছাড়া তাদের মধ্যে আর কাউকে চিনতে পারেননি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে নিঃস্ব-দুর্বল মুহাজিরগণ! তোমাদের জন্য কিয়ামতের দিনের পরিপূর্ণ নূরের সুসংবাদ। তোমরা ধনীদের চেয়ে অর্ধ দিবস আগে জান্নাতে প্রবেশ করবে। আর এই অর্ধ দিবসের পরিমাণ হলো পাঁচশ বছর।[1] দুর্বলঃ তবে জান্নাতের প্রবেশের বাক্যটি সহীহ। মিশকাত
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuSa'id al-Khudri: I was sitting in the company of the poor members of the emigrants. Some of them were sitting together because of lack of clothing while a reader was reciting to us. All of a sudden the Messenger of Allah (ﷺ) came along and stood beside us. When the Messenger of Allah (ﷺ) stood, the reader stopped and greeted him. He asked: What were you doing? We said: Messenger of Allah! We had a reader who was reciting to us and we were listening to the Book of Allah, the Exalted. The Messenger of Allah (ﷺ) then said: Praise be to Allah Who has put among my people those with whom I have been ordered to stay. The Messenger of Allah (ﷺ) then sat among us so as to be like one of us, and when he had made a sign with his hand they sat in a circle with their faces turned towards him. The narrator said: I think that the Messenger of Allah (ﷺ) did not recognize any of them except me. The Messenger of Allah (ﷺ) then said: Rejoice, you group of poor emigrants, in the announcement that you will have perfect light on the Day of Resurrection. You will enter Paradise half a day before the rich, and that is five hundred years
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
+
+## French
+
+Rapporté par Abu Sa’id al-Khudri : J’étais assis avec les pauvres parmi les émigrants. Certains étaient regroupés à cause du manque de vêtements, pendant qu’un lecteur nous récitait. Soudain, le Messager d’Allah ﷺ est venu et s’est tenu près de nous. Quand il s’est arrêté, le lecteur s’est interrompu et l’a salué. Il a demandé : « Que faisiez-vous ? » Nous avons répondu : « Messager d’Allah ! Nous avions un lecteur qui nous récitait le Livre d’Allah, l’Exalté, et nous l’écoutions. » Le Messager d’Allah ﷺ a alors dit : « Louange à Allah qui a placé parmi ma communauté des gens avec qui j’ai été ordonné de rester. » Il s’est assis parmi nous, comme l’un d’entre nous, et quand il a fait un signe de la main, ils se sont assis en cercle face à lui. Le narrateur dit : « Je pense que le Messager d’Allah ﷺ n’a reconnu personne d’autre que moi. » Le Messager d’Allah ﷺ a ensuite dit : « Réjouissez-vous, groupe de pauvres émigrants, car il vous est annoncé que vous aurez une lumière parfaite le Jour de la Résurrection. Vous entrerez au Paradis une demi-journée avant les riches, ce qui équivaut à cinq cents ans. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Ja'far bin Sulaiman\] dari \[Al Mu'allim bin Ziyad\] dari \[Al 'Ala bin Basyir Al Muzni\] dari \[Abu Ash Shiddiq An Nahi\] dari \[Abu Sa'id Al Khudri\] ia berkata, "Aku duduk di antara beberapa orang lemah dari kalangan orang-orang muhajirin, dan sebagian mereka menutupi sebagian aurat sementara sebagian yang lain membacakan Al Qur'an kepada kami, tiba-tiba Rasulullah shallallahu 'alaihi wasallam datang dan berdiri di sisi kami. Tatkala Rasulullah shallallahu 'alaihi wasallam berdiri orang-orang yang membaca Al Qur'an diam. Lalu beliau mengucapkan salam dan bertanya: "Apakah yang kalian lakukan?" Kami menjawab, "Wahai Rasulullah, dia adalah orang yang pandai membaca Al-Qur'an di antara kami, ia membacakan kepada kami dan yang mendengarnya." Abu Sa'id berkata, "Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Segala puji bagi Allah Yang telah menjadikan di antara umatku, seseorang yang aku diperintahkan untuk bersabar bersama mereka." Abu Sa'id berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam duduk di tengah-tengah kami agar bisa bersama kami." Kemudian bersabda dengan isyarat tangannya seperti ini -mereka lalu melingkar dan wajah-wajah mereka nampak bagi beliau-." Abu Sa'id berkata, "Aku tidak melihat Rasulullah shallallahu 'alaihi wasallam mengetahui seorangpun di antara mereka selain diriku. Kemudian beliau bersabda: "Bergembiralah kalian wahai orang-orang fakir muhajirin dengan mendapatkan cahaya sempurna pada Hari Kiamat, kalian akan masuk Surga setengah hari sebelum orang-orang kaya, dan setengah hari itu adalah lima ratus ribu tahun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Ja'far bin Sulaiman] dari [Al Mu'allim bin Ziyad] dari [Al 'Ala bin Basyir Al Muzni] dari [Abu Ash Shiddiq An Nahi] dari [Abu Sa'id Al Khudri] ia berkata, "Aku duduk di antara beberapa orang lemah dari kalangan orang-orang muhajirin, dan sebagian mereka menutupi sebagian aurat sementara sebagian yang lain membacakan Al Qur'an kepada kami, tiba-tiba Rasulullah shallallahu 'alaihi wasallam datang dan berdiri di sisi kami. Tatkala Rasulullah shallallahu 'alaihi wasallam berdiri orang-orang yang membaca Al Qur'an diam. Lalu beliau mengucapkan salam dan bertanya: "Apakah yang kalian lakukan?" Kami menjawab, "Wahai Rasulullah, dia adalah orang yang pandai membaca Al-Qur'an di antara kami, ia membacakan kepada kami dan yang mendengarnya." Abu Sa'id berkata, "Rasulullah shallallahu 'alaihi wasallam lalu bersabda: "Segala puji bagi Allah Yang telah menjadikan di antara umatku, seseorang yang aku diperintahkan untuk bersabar bersama mereka." Abu Sa'id berkata, "Kemudian Rasulullah shallallahu 'alaihi wasallam duduk di tengah-tengah kami agar bisa bersama kami." Kemudian bersabda dengan isyarat tangannya seperti ini -mereka lalu melingkar dan wajah-wajah mereka nampak bagi beliau-." Abu Sa'id berkata, "Aku tidak melihat Rasulullah shallallahu 'alaihi wasallam mengetahui seorangpun di antara mereka selain diriku. Kemudian beliau bersabda: "Bergembiralah kalian wahai orang-orang fakir muhajirin dengan mendapatkan cahaya sempurna pada Hari Kiamat, kalian akan masuk Surga setengah hari sebelum orang-orang kaya, dan setengah hari itu adalah lima ratus ribu tahun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Са‘ида аль-Худри, да будет доволен им Аллах: «Однажды я сидел с группой бедных мухаджиров, и некоторые из них прятались за другими, потому что на них почти не было одежды. Кто-то читал нам Коран, и к нам подошёл Посланник Аллаха ﷺ и встал возле нас. Тогда чтец замолчал, и Посланник Аллаха ﷺ поприветствовал нас и спросил: “Что вы делали?” Мы сказали: “О Посланник Аллаха, этот человек читал нам Коран, и мы слушали Книгу Аллаха”. Тогда Посланник Аллаха ﷺ сказал: “Хвала Аллаху, Который включил в мою общину тех, вместе с кем мне велено проявлять терпение”. С этими словами Посланник Аллаха ﷺ сел среди нас как один из нас, а потом сделал нам знак рукой, чтобы мы сели кругом и он мог видеть лица сидящих. Я думаю, что из всех сидящих там он не знал никого, кроме меня. Посланник Аллаха ﷺ сказал: “Радуйтесь, о бедняки из числа мухаджиров, совершенному свету в Судный день. Вы войдёте в Рай на полдня раньше богатых, а это пятьсот лет”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Saîd el-Hudrî(r.a)'den şöyle dediği rivayet olunmuştur: Muhacirlerin fakirlerinden oluşan bir cemaatle birlikte oturuyordum. Onlardan bazıları (avret mahallerine yakın olan) bazı çıplak yerlerini (üzerleri iyi örtülü olan) bazı (arkadaşlarının arkalarına gizlenmek suretiyle) örtüyorlardı. (Orada bulunan bir Kur'an) okuyucu (su) bize (Kur'an) okuyordu. O sırada Rasûlullah (s.a.v.) çıkageldi ve yanımıza gelip durdu. Rasûlullah (s.a.v.) gelince (Kur'an) okuyan (kimse okumayı bırakıp) sustu. Bunun üzerine (Hz. Nebi bize) selâm verdi ve, "Ne yapıyorsunuz?" diye sordu. (Biz de) "Ey Allah'ın Rasıilu, bu bizim okuyucumuzdur. Bize Kur'an okuyordu, biz de yüce Allah'ın kitabını dinliyorduk" cevabını verdik. Bunun üzerine Allah'ın Rasûlu (s.a.v.), "Ümmetimden, kendileri ile birlikte sabretmekle emrolunduğum kimseler yaratan Allah'a hamd olsun" diye hamdü senada bulundu. Aramızda kendisini (yakınlık bakımından hepimize) eşit (derecede) tutabilmek için (tam) ortamıza oturdu. (Ravi Hz. Nebi'in aralarına oturuş şeklini anlatabilmek için) eliyle, "İşte şöyle" diye işaret etti, (sonra sözlerine devamla şöyle dedi: Orada bulunan halk) hemen (onun etrafında) halka oldular, (hepsinin yüzleri) onun karşısına geldi. (Fakat) Rasûlullah (s.a.v.)'in karanlıkta onlardan, benden başka birini tanıyabildiğini zannetmiyordum. Rasûlullah (s.a.v.) (bizi karşısında bu şekilde görünce); "Ey muhacirlerin fakirleri, sizi kıyamet gününde (kavuşacağınız) tam bir nurla müjdeliyorum. Siz cennet'e zenginlerden yarım gün önce gireceksiniz. Bir (tam) gün (dünya senesiyle) beşyüz senedir" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابو سعید خدری رضی اللہ عنہ کہتے ہیں میں غریب و خستہ حال مہاجرین کی جماعت میں جا بیٹھا، ان میں بعض بعض کی آڑ میں برہنگی کے سبب چھپتا تھا اور ایک قاری ہم میں قرآن پڑھ رہا تھا، اتنے میں رسول اللہ صلی اللہ علیہ وسلم تشریف لائے اور ہمارے درمیان آ کر کھڑے ہو گئے، جب آپ صلی اللہ علیہ وسلم کھڑے ہو گئے تو قاری خاموش ہو گیا، آپ نے ہمیں سلام کیا پھر فرمایا: تم لوگ کیا کر رہے تھے؟ ہم نے عرض کیا: ہمارے یہ قاری ہیں ہمیں قرآن پڑھ کر سنا رہے تھے اور ہم اللہ کی کتاب سن رہے تھے۔ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: سبھی تعریفیں اس اللہ تعالیٰ کے لیے ہیں جس نے میری امت میں ایسے لوگوں کو پیدا کیا کہ مجھے حکم دیا گیا کہ میں اپنے آپ کو ان کے ساتھ روکے رکھوں ۔ پھر آپ صلی اللہ علیہ وسلم ہمارے درمیان میں آ کر بیٹھ گئے تاکہ اپنے آپ کو ہمارے برابر کر لیں، آپ صلی اللہ علیہ وسلم نے اپنے ہاتھ کے اشارے سے حلقہ بنا کر بیٹھنے کا اشارہ کیا، تو سبھی لوگ حلقہ بنا کر بیٹھ گئے اور ان سب کا رخ آپ کی طرف ہو گیا۔ ابو سعید خدری رضی اللہ عنہ کہتے ہیں: تو میرے علاوہ رسول اللہ صلی اللہ علیہ وسلم نے کسی کو نہیں پہچانا، پھر آپ صلی اللہ علیہ وسلم نے فرمایا: اے فقرائے مہاجرین کی جماعت! تمہارے لیے قیامت کے دن نور کامل کی بشارت ہے، تم لوگ جنت میں مالداروں سے آدھے دن پہلے داخل ہو گے، اور یہ پانچ سو برس ہو گا ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3666</td></tr><tr><td>Arabic No</td><td>3666</td></tr><tr><td>Reference</td><td>Book 26 Hadith 26</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3666 |
+| Arabic No | 3666 |
+| Reference | Book 26 Hadith 26 |

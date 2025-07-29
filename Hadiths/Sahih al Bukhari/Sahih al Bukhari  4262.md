@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ وَاقِدٍ، حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنْ أَيُّوبَ، عَنْ حُمَيْدِ بْنِ هِلاَلٍ، عَنْ أَنَسٍ ـ رضى الله عنه ـ أَنَّ النَّبِيَّ صلى الله عليه وسلم نَعَى زَيْدًا وَجَعْفَرًا وَابْنَ رَوَاحَةَ لِلنَّاسِ، قَبْلَ أَنْ يَأْتِيَهُمْ خَبَرُهُمْ فَقَالَ ‏ "‏ أَخَذَ الرَّايَةَ زَيْدٌ فَأُصِيبَ، ثُمَّ أَخَذَ جَعْفَرٌ فَأُصِيبَ، ثُمَّ أَخَذَ ابْنُ رَوَاحَةَ فَأُصِيبَ ـ وَعَيْنَاهُ تَذْرِفَانِ ـ حَتَّى أَخَذَ الرَّايَةَ سَيْفٌ مِنْ سُيُوفِ اللَّهِ حَتَّى فَتَحَ اللَّهُ عَلَيْهِمْ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا احمد بن واقد، حدثنا حماد بن زيد، عن ايوب، عن حميد بن هلال، عن انس رضى الله عنه ان النبي صلى الله عليه وسلم نعى زيدا وجعفرا وابن رواحة للناس، قبل ان ياتيهم خبرهم فقال " اخذ الراية زيد فاصيب، ثم اخذ جعفر فاصيب، ثم اخذ ابن رواحة فاصيب وعيناه تذرفان حتى اخذ الراية سيف من سيوف الله حتى فتح الله عليهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
 ## Bengali
 
+আনাস (রাঃ) হতে বর্ণিত যে, মুসলিমদের নিকট খবর এসে পৌঁছার পূর্বেই নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাদেরকে যায়দ, জা‘ফার ও ইবনু রাওয়াহা (রাঃ)-এর (শাহাদাতের) কথা জানিয়ে দিয়েছিলেন। তিনি বলেন, যায়দ (রাঃ) পতাকা হাতে এগিয়ে গেলে তাঁকে শহীদ করা হয়। অতঃপর জা‘ফার (রাঃ) পতাকা হতে এগিয়ে গেলে তাকেও শহীদ করা হয়। অতঃপর ইবনু রাওয়াহা (রাঃ) পতাকা হাতে নিলে তাকেও শহীদ করা হল। এ সময়ে তাঁর দু’চোখ থেকে অশ্রু ঝরছিল। (তিনি বললেন) শেষে আল্লাহর তলোয়ারদের মধ্য হতে আল্লাহর এক তলোয়ার (খালিদ বিন ওয়ালীদ) পতাকা ধারণ করল। ফলে আল্লাহ তাদের বিরুদ্ধে বিজয় দান করলেন। \[১২৪৬\] (আধুনিক প্রকাশনীঃ ৩৯২৯, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আনাস (রাঃ) হতে বর্ণিত যে, মুসলিমদের নিকট খবর এসে পৌঁছার পূর্বেই নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম তাদেরকে যায়দ, জা‘ফার ও ইবনু রাওয়াহা (রাঃ)-এর (শাহাদাতের) কথা জানিয়ে দিয়েছিলেন। তিনি বলেন, যায়দ (রাঃ) পতাকা হাতে এগিয়ে গেলে তাঁকে শহীদ করা হয়। অতঃপর জা‘ফার (রাঃ) পতাকা হতে এগিয়ে গেলে তাকেও শহীদ করা হয়। অতঃপর ইবনু রাওয়াহা (রাঃ) পতাকা হাতে নিলে তাকেও শহীদ করা হল। এ সময়ে তাঁর দু’চোখ থেকে অশ্রু ঝরছিল। (তিনি বললেন) শেষে আল্লাহর তলোয়ারদের মধ্য হতে আল্লাহর এক তলোয়ার (খালিদ বিন ওয়ালীদ) পতাকা ধারণ করল। ফলে আল্লাহ তাদের বিরুদ্ধে বিজয় দান করলেন। [১২৪৬] (আধুনিক প্রকাশনীঃ ৩৯২৯, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas:The Prophet (ﷺ) had informed the people of the martyrdom of Zaid, Ja'far and Ibn Rawaha before the news of their death reached. The Prophet (ﷺ) said, "Zaid took the flag (as the commander of the army) and was martyred, then Ja'far took it and was martyred, and then Ibn Rawaha took it and was martyred." At that time the Prophet's eyes were shedding tears. He added, "Then the flag was taken by a Sword amongst the Swords of Allah (i.e. Khalid) and Allah made them (i.e. the Muslims) victorious
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
+
+## French
+
+Rapporté par Anas : Le Prophète (ﷺ) avait informé les gens du martyre de Zaid, Ja'far et Ibn Rawaha avant même que la nouvelle de leur mort n’arrive. Le Prophète (ﷺ) a dit : « Zaid a pris l’étendard (en tant que chef de l’armée) et il a été tué, puis Ja'far l’a pris et il a été tué, puis Ibn Rawaha l’a pris et il a été tué. » À ce moment-là, les yeux du Prophète étaient remplis de larmes. Il a ajouté : « Ensuite, l’étendard a été pris par une épée parmi les épées d’Allah (c’est-à-dire Khalid) et Allah a accordé la victoire aux musulmans. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Waqid\] Telah menceritakan kepada kami \[Hammad bin Zaid\] dari \[Ayyub\] dai \[Humaid bin Hilal\] dari \[Anas\] radliallahu 'anhu, bahwasanya Nabi shallallahu 'alaihi wasallam pernah mengumumkan kematian Zaid bin Haritsah, Ja'far bin Abi Thalib dan Abdullah bin Rawahah kepada para sahabat sebelum berita kematian mereka sampai. Nabi sabdakan: "Bendera perang diambil oleh Zaid, lantas ia gugur, kemudian Ja'far mengambil alih benderanya, ia pun gugur, lantas diambil alih oleh Abdullah bin Rawahah dan ia pun gugur -seraya kedua mata beliau berlinang-, lantas bendera diambil oleh "si pedang Allah", Khalid bin Al Walid hingga Allah membuka kemenangan bagi mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Waqid] Telah menceritakan kepada kami [Hammad bin Zaid] dari [Ayyub] dai [Humaid bin Hilal] dari [Anas] radliallahu 'anhu, bahwasanya Nabi shallallahu 'alaihi wasallam pernah mengumumkan kematian Zaid bin Haritsah, Ja'far bin Abi Thalib dan Abdullah bin Rawahah kepada para sahabat sebelum berita kematian mereka sampai. Nabi sabdakan: "Bendera perang diambil oleh Zaid, lantas ia gugur, kemudian Ja'far mengambil alih benderanya, ia pun gugur, lantas diambil alih oleh Abdullah bin Rawahah dan ia pun gugur -seraya kedua mata beliau berlinang-, lantas bendera diambil oleh "si pedang Allah", Khalid bin Al Walid hingga Allah membuka kemenangan bagi mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Анаса, да будет доволен им Аллах, что Пророк ﷺ сообщил людям о смерти Зейда, Джа‘фара и Ибн Равахи ещё до того, как известия о них (были доставлены гонцами), и он сказал: «Зейд взял знамя и был сражён, потом взял его Джа‘фар и был сражён, а потом взял его Ибн Раваха и (тоже) был сражён — и (когда Пророк ﷺ говорил это,) глаза его были полны слёз (, после чего он продолжил), — а затем взял его меч из числа мечей Аллаха, и Аллах даровал им победу»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் (ரலி) அவர்கள் கூறிய தாவது: ஸைத் (பின் ஹாரிஸா -ரலி) அவர்களும் ஜஅஃபர் (பின் அபீதாலிப் -ரலி) அவர்களும் (அப்துல்லாஹ்) இப்னு ரவாஹா (ரலி) அவர்களும் (மூத்தா போர்க் களத்தில்) கொல்லப்பட்டுவிட்ட செய்தியை, அது (மதீனாவிற்கு) வந்து சேர்வதற்கு முன்பே (இறைவனால் அறிவிக்கப்பெற்று மக்களுக்கு) நபி (ஸல்) அவர்கள் அறிவித்தார்கள். அப்போது சொன்னார்கள்: (முதலில் இஸ்லாமியச் சேனையின்) கொடியை ஸைத் பிடித்தார். அவர் கொல்லப்பட்டுவிட்டார். அடுத்து ஜஅஃபர் பிடித்தார். அவரும் கொல்லப்பட்டு விட்டார். அடுத்து இப்னு ரவாஹா பிடித்தார். அவரும் கொல்லப்பட்டுவிட்டார். அறிவிப்பாளர் கூறுகிறார்: அப்போது நபி (ஸல்) அவர்களுடைய கண்கள் இரண்டும் கண்ணீரைச் சொரிந்துகொண்டி ருந்தன. இறுதியில், அக்கொடியை அல்லாஹ்வின் வாட்களில் ஒரு வாள் (காலித் பின் அல்வலீத்) எடுத்தது. அல்லாஹ் (அவரது கரத்தில்) முஸ்லிம்களுக்கு வெற்றியை அளித்துவிட்டான்” என்று சொன்னார்கள்.306 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes r.a.'dan rivayete göre "Nebi Sallallahu Aleyhi ve Sellem şehadet haberleri kendilerine gelmeden önce insanlara Zeyd'in, Cafer'in ve İbn Revaha"nın şehit düştükleri haberini vererek şöyle buyurdu: Sancağı Zeyd aldı o isabet aldı, sonra Cafer aldı o da isabet aldı, sonra İbn Revaha' aldı o da isabet aldı. -Bu arada gözlerinden yaş akıyordu.- Sonra sancağı Allah'ın kılıçlarından bir kılıç aldı ve nihayet Allah onlara zafer nasip etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے احمد بن واقد نے بیان کیا ‘ کہا ہم سے حماد بن زید نے بیان کیا ‘ ان سے ایوب سختیانی نے ‘ ان سے حمید بن ہلال نے اور ان سے انس بن مالک رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے زید ‘ جعفر اور عبداللہ بن رواحہ رضی اللہ عنہم کی شہادت کی خبر اس وقت صحابہ رضی اللہ عنہم کو دے دی تھی جب ابھی ان کے متعلق کوئی خبر نہیں آئی تھی۔ آپ صلی اللہ علیہ وسلم فرماتے جا رہے تھے کہ اب زید جھنڈا اٹھائے ہوئے ہیں ‘ اب وہ شہید کر دیئے گئے ‘ اب جعفر نے جھنڈا اٹھا لیا ‘ وہ بھی شہید کر دیئے گئے۔ اب ابن رواحہ نے جھنڈا اٹھا لیا ‘ وہ بھی شہید کر دیئے گئے۔ نبی کریم صلی اللہ علیہ وسلم کی آنکھوں سے آنسو جاری تھے۔ آخر اللہ کی تلواروں میں سے ایک تلوار خالد بن ولید نے جھنڈا اپنے ہاتھ میں لے لیا اور اللہ نے ان کے ہاتھ پر فتح عنایت فرمائی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4262</td></tr><tr><td>Arabic No</td><td>4262</td></tr><tr><td>Reference</td><td>Book 64 Hadith 296</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4262 |
+| Arabic No | 4262 |
+| Reference | Book 64 Hadith 296 |

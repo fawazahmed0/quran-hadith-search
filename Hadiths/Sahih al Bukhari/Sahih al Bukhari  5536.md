@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا عَبْدُ الْعَزِيزِ بْنُ مُسْلِمٍ، حَدَّثَنَا عَبْدُ اللَّهِ بْنُ دِينَارٍ، قَالَ سَمِعْتُ ابْنَ عُمَرَ ـ رضى الله عنهما ـ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ "‏ الضَّبُّ لَسْتُ آكُلُهُ وَلاَ أُحَرِّمُهُ ‏"‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا موسى بن اسماعيل، حدثنا عبد العزيز بن مسلم، حدثنا عبد الله بن دينار، قال سمعت ابن عمر رضى الله عنهما قال النبي صلى الله عليه وسلم " الضب لست اكله ولا احرمه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘উমার (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যব্ব আমি খাই না, আর হারামও বলি না। (আধুনিক প্রকাশনী- ৫১২৯, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Umar:The Prophet (ﷺ) said, "I do not eat mastigure, but I do not prohibit its eating
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
+
+## French
+
+Rapporté par Ibn 'Umar : Le Prophète (ﷺ) a dit : « Je ne mange pas de lézard mastigure, mais je n’en interdis pas la consommation. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\] telah menceritakan kepada kami \[Abdul Aziz bin Muslim\] telah menceritakan kepada kami \[Abdullah bin Dinar\] dia berkata; saya mendengar \[Ibnu Umar\] radliallahu 'anhuma berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Mengenai daging biawak, maka saya tidak memakannya dan tidak pula mengharamkannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abdul Aziz bin Muslim] telah menceritakan kepada kami [Abdullah bin Dinar] dia berkata; saya mendengar [Ibnu Umar] radliallahu 'anhuma berkata; Nabi shallallahu 'alaihi wasallam bersabda: "Mengenai daging biawak, maka saya tidak memakannya dan tidak pula mengharamkannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ибн ‘Умар, да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Ящерицу я не ем, но и не запрещаю»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 நபி (ஸல்) அவர்கள் கூறினார்கள்: உடும்பை நான் உண்ணவுமாட்டேன்; அதை (உண்ண வேண்டாமென) நான் தடை செய்யவுமாட்டேன். இதை அப்துல்லாஹ் பின் உமர் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Ömer r.a.'dan, dedi ki: "Nebi Sallallahu Aleyhi ve Sellem şöyle buyurdu: Keleri ne yerim, ne de yenilmesini haram ederim
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے موسیٰ بن اسماعیل نے بیان کیا، انہوں نے کہا ہم سے عبدالعزیز بن مسلم نے بیان کیا، ان سے عبداللہ بن دینار نے بیان کیا، انہوں نے کہا کہ میں نے عبداللہ بن عمر رضی اللہ عنہما سے سنا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ ساہنہ میں خود نہیں کھاتا لیکن اسے حرام بھی نہیں قرار دیتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5536</td></tr><tr><td>Arabic No</td><td>5536</td></tr><tr><td>Reference</td><td>Book 72 Hadith 61</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5536 |
+| Arabic No | 5536 |
+| Reference | Book 72 Hadith 61 |

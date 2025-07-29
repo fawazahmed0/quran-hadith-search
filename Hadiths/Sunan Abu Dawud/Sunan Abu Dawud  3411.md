@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ سَهْلٍ الرَّمْلِيُّ، حَدَّثَنَا زَيْدُ بْنُ أَبِي الزَّرْقَاءِ، عَنْ جَعْفَرِ بْنِ بُرْقَانَ، بِإِسْنَادِهِ وَمَعْنَاهُ قَالَ فَحَزَرَ وَقَالَ عِنْدَ قَوْلِهِ وَكُلَّ صَفْرَاءَ وَبَيْضَاءَ يَعْنِي الذَّهَبَ وَالْفِضَّةَ لَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
+
 حدثنا محمد بن سهل الرملي، حدثنا زيد بن ابي الزرقاء، عن جعفر بن برقان، باسناده ومعناه قال فحزر وقال عند قوله وكل صفراء وبيضاء يعني الذهب والفضة له
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জা‘ফার ইবনু বুরকান (রহঃ) তার সনদে অনুরূপ অর্থবোধক হাদীস বর্ণনা করেছেন। তিনি বলেন, তিনি (‘আব্দুল্লাহ) ফলের পরিমাণ নির্ধারণ করলেন। বর্ণনাকারী বলেন, ‘সাফরা’ ও ‘বাইদা’ এর অর্থ হলোঃ সোনা ও রূপা।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The tradition mentioned above has also been narrated by Ja'far b. Burqan through his chain and to the same effect. This version has:He said: He assessed, and after the words of kull safara' wa baida', he said: that is, gold and silver will belong to him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
+
+## French
+
+Le récit mentionné ci-dessus a aussi été rapporté par Ja’far b. Burqan avec sa chaîne de transmission et dans le même sens. Cette version précise : Il a dit : Il a évalué, et après les mots « kull safara’ wa baida’ », il a ajouté : c’est-à-dire que l’or et l’argent lui appartiendraient
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 В версии Джафара ибн Буркана содержится пояснение: под жёлтым и белым подразумеваются соответственно золото и серебро
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ali b. Sehl er-Remlî haber verdi, bize Zeyd b. Ebî Zerkâ, Ca'fer b. Bürkân'dan, önceki isnad ve mana ile haber verdi; Ca'fer, (tahamin etti manasına); dedi. "Her sarı ve beyaz" kelimelerinin yanında da, "yani altın ve gümüş" dedi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جعفر بن برقان سے اسی مفہوم کی حدیث اسی طریق سے مروی ہے اس میں لفظ «فحزر» ہے اور «وكل صفراء وبيضاء» کی تفسیر سونے چاندی سے کی ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Isnaad</td><td>Al-Albani</td></tr><tr><td>Sahih Isnaad</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3411</td></tr><tr><td>Arabic No</td><td>3411</td></tr><tr><td>Reference</td><td>Book 23 Hadith 86</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Isnaad | Al-Albani |
+| Sahih Isnaad | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3411 |
+| Arabic No | 3411 |
+| Reference | Book 23 Hadith 86 |

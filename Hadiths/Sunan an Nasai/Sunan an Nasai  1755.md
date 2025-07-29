@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,114 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ إِسْمَاعِيلُ بْنِ إِبْرَاهِيمَ، عَنْ أَبِي عَامِرٍ، عَنْ هِشَامٍ، عَنْ قَتَادَةَ، عَنْ عَزْرَةَ، عَنْ سَعِيدِ بْنِ عَبْدِ الرَّحْمَنِ بْنِ أَبْزَى، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يُوتِرُ ‏.‏ وَسَاقَ الْحَدِيثَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 20 Hadith 158</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |
+
 اخبرنا محمد بن اسماعيل بن ابراهيم، عن ابي عامر، عن هشام، عن قتادة، عن عزرة، عن سعيد بن عبد الرحمن بن ابزى، ان النبي صلى الله عليه وسلم كان يوتر . وساق الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 20 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মদ ইবনু ইসমাঈল (রহঃ) ... সাঈদ ইবনু আব্দুর রহমান (রাঃ) থেকে বর্ণিত যে, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বিতরের সালাত আদায় করতেন। রাবী হাদীসটি শেষ পর্যন্ত বর্ণনা করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 20 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Sa'eed bin Abdur-Rahman bin Abza that:The Prophet (ﷺ) used to recite in witr and he quoted the same hadith
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 20 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |
+
+## French
+
+Rapporté par Sa'eed bin Abdur-Rahman bin Abza : Le Prophète (ﷺ) récitait dans la prière du witr, et il a rapporté le même hadith
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 20 Hadith 158</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 20 Hadith 158</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعید بن عبدالرحمٰن بن ابزیٰ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم وتر پڑھتے تھے، پھر راوی نے پوری حدیث بیان کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>-</td><td>Abu Ghuddah</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1755</td></tr><tr><td>Arabic No</td><td>1755</td></tr><tr><td>Reference</td><td>Book 20 Hadith 158</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| \- | Abu Ghuddah |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1755 |
+| Arabic No | 1755 |
+| Reference | Book 20 Hadith 158 |

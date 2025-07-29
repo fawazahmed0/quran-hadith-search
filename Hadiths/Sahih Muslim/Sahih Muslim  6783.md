@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قَالَ أَبُو إِسْحَاقَ إِبْرَاهِيمُ بْنُ مُحَمَّدٍ حَدَّثَنَا مُحَمَّدُ بْنُ يَحْيَى، حَدَّثَنَا ابْنُ أَبِي مَرْيَمَ، حَدَّثَنَا أَبُو غَسَّانَ، حَدَّثَنَا زَيْدُ بْنُ أَسْلَمَ، عَنْ عَطَاءِ بْنِ يَسَارٍ، ‏.‏ وَذَكَرَ الْحَدِيثَ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قال ابو اسحاق ابراهيم بن محمد حدثنا محمد بن يحيى، حدثنا ابن ابي مريم، حدثنا ابو غسان، حدثنا زيد بن اسلم، عن عطاء بن يسار، . وذكر الحديث نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) আবু ইসহাক ইবরাহীম ইবনু মুহাম্মদ (রহঃ) ..... আতা ইবনু ইয়াসার (রহঃ) এর সানাদে যায়দ ইবনু আসলাম (রহঃ) তার হুবহু হাদীস উল্লেখ করেছেন। (ইসলামিক ফাউন্ডেশন ৬৫৩৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of 'Ata' b. Yasir through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## French
 
+Rapporté par Ata ibn Yasir (à travers une autre chaîne) : Ce hadith a été rapporté par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (M-6-2) Bize Ebu İshak İbrahim b. Muhammed (Dediki): Bize Muhammed b. Yahya rivayet etti. (Dediki): Bize İbni Ebi Meryem rivayet etti. (Dediki): Bize Ebu Gassan rivayet etti. (Dediki): Bize Zeyd b. Eslem, Ata' b. Yesar'dan rivayet etti. Ve hadisi yukarki gibi nakletmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 محمد بن یحییٰ نے کہا : ہمیں ابن ابی مریم نے حدیث بیان کی ، کہا : ہمیں ابوغسان نے حدیث بیان کی ، کہا : مجھے زید بن اسلم نے عطاء بن یسار سے حدیث بیان کی ، پھر اسی طرح حدیث سنائی ( جس طرح حفص بن میسرہ کی روایت ہے ۔)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6783</td></tr><tr><td>Arabic No</td><td>2669.03</td></tr><tr><td>Reference</td><td>Book 47 Hadith 9</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6783 |
+| Arabic No | 2669.03 |
+| Reference | Book 47 Hadith 9 |

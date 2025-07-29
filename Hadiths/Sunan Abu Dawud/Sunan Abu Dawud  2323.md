@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، أَنَّ يَزِيدَ بْنَ زُرَيْعٍ، حَدَّثَهُمْ حَدَّثَنَا خَالِدٌ الْحَذَّاءُ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي بَكْرَةَ، عَنْ أَبِيهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ شَهْرَا عِيدٍ لاَ يَنْقُصَانِ رَمَضَانُ وَذُو الْحِجَّةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
+
 حدثنا مسدد، ان يزيد بن زريع، حدثهم حدثنا خالد الحذاء، عن عبد الرحمن بن ابي بكرة، عن ابيه، عن النبي صلى الله عليه وسلم قال شهرا عيد لا ينقصان رمضان وذو الحجة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
 
 ## Bengali
 
+। আব্দুর রহমান ইবনু আবূ বাকরাহ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুই ঈদের মাস সাধারণত ঊনত্রিশ দিনে হয় না। তা হলো রমাযান এবং যিলহজ মাস।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আব্দুর রহমান ইবনু আবূ বাকরাহ (রহ.) থেকে তার পিতার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ দুই ঈদের মাস সাধারণত ঊনত্রিশ দিনে হয় না। তা হলো রমাযান এবং যিলহজ মাস।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Bakrah:The Prophet (ﷺ) as saying: The two months of 'Id (festival), Ramadan and Dhu al-Hijjah, are not defective
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
+
+## French
+
+Rapporté par Abu Bakrah رضي الله عنه : « Le Prophète ﷺ a dit : “Les deux mois de la fête (‘Id), Ramadan et Dhou al-Hijja, ne sont pas incomplets.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] bahwa \[Yazid bin Zurai'\] telah menceritakan kepada mereka; telah menceritakan kepada kami \[Khalid Al Hadzdza'\] dari \[Abdurrahman bin Abu Bakrah\] dari \[ayahnya\] dari Nabi shallallahu 'alaihi wasallam beliau berkata: "Dua bulan 'Id tidaklah berkurang (pahalanya) yaitu Bulan Ramadhan (setelahnya adalah 'Idul Fithri), dan Bulan Dzul Hijjah (padanya 'Idul Adlha)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] bahwa [Yazid bin Zurai'] telah menceritakan kepada mereka; telah menceritakan kepada kami [Khalid Al Hadzdza'] dari [Abdurrahman bin Abu Bakrah] dari [ayahnya] dari Nabi shallallahu 'alaihi wasallam beliau berkata: "Dua bulan 'Id tidaklah berkurang (pahalanya) yaitu Bulan Ramadhan (setelahnya adalah 'Idul Fithri), dan Bulan Dzul Hijjah (padanya 'Idul Adlha)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Абду-р-Рахман, сын Абу Бакры, передаёт от своего отца, Пророк ﷺ сказал: «Два праздничных месяца рамадан и зуль-хиджжа не уменьшаются»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Bekre (r.a.)'den; Rasûlullah (s.a.v.)'in şöyle buyurduğu rivayet edilmiştir; "İki bayram ayı eksik olmazlar, onlar Ramazan ve Zülhiccedir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوبکرہ رضی اللہ عنہ نبی اکرم صلی اللہ علیہ وسلم سے روایت کرتے ہیں آپ نے فرمایا: عید کے دونوں مہینے رمضان اور ذی الحجہ کم نہیں ہوتے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1912) Sahih Muslim (1089)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2323</td></tr><tr><td>Arabic No</td><td>2323</td></tr><tr><td>Reference</td><td>Book 14 Hadith 11</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1912) Sahih Muslim (1089) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2323 |
+| Arabic No | 2323 |
+| Reference | Book 14 Hadith 11 |

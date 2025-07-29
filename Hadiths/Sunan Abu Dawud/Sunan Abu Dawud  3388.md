@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ، حَدَّثَنَا يَحْيَى، حَدَّثَنَا سُفْيَانُ، عَنْ أَبِي إِسْحَاقَ، عَنْ أَبِي عُبَيْدَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ اشْتَرَكْتُ أَنَا وَعَمَّارٌ، وَسَعْدٌ، فِيمَا نُصِيبُ يَوْمَ بَدْرٍ قَالَ فَجَاءَ سَعْدٌ بِأَسِيرَيْنِ وَلَمْ أَجِئْ أَنَا وَعَمَّارٌ بِشَىْءٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
+
 حدثنا عبيد الله بن معاذ، حدثنا يحيى، حدثنا سفيان، عن ابي اسحاق، عن ابي عبيدة، عن عبد الله، قال اشتركت انا وعمار، وسعد، فيما نصيب يوم بدر قال فجاء سعد باسيرين ولم اجي انا وعمار بشىء
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি, ‘আম্মার ও সা‘দ (রাঃ) এ মর্মে চুক্তি করি যে, ‘আমরা বদরের যুদ্ধে যা পাবো, তাতে ‘আমরা সমান অংশীদার হবো। তিনি বলেন, সা‘দ দু’জন দুশমনকে বন্দী করে আনলেন কিন্তু আমি ও ‘আম্মার কিছুই লাভ করতে পারিনি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Mas'ud: I Ammar, and Sa'd became partners in what we would receive on the day of Badr. Sa'd then brought two prisoners, but I and Ammar did not bring anything
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
+
+## French
+
+Rapporté par Abdullah ibn Mas’ud رضي الله عنه : Ammar, Sa’d et moi sommes devenus partenaires pour ce que nous obtiendrions le jour de Badr. Sa’d a alors amené deux prisonniers, mais Ammar et moi n’avons rien apporté
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \['Ubaidullah bin Mu'adz\], telah menceritakan kepada kami \[Yahya\] telah menceritakan kepada kami \[Sufyan\] dari \[Abu Ishaq\] dari \[Abu 'Ubaidah\] dari \[Abdullah\] ia berkata; aku dan 'Ammar serta Sa'd bersekutu pada apa yang kami dapatkan ketika perang Badr, Abdullah berkata; kemudian Sa'd membawa dua orang tawanan sementara aku dan 'Ammar tidak membawa sesuatu pun
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami ['Ubaidullah bin Mu'adz], telah menceritakan kepada kami [Yahya] telah menceritakan kepada kami [Sufyan] dari [Abu Ishaq] dari [Abu 'Ubaidah] dari [Abdullah] ia berkata; aku dan 'Ammar serta Sa'd bersekutu pada apa yang kami dapatkan ketika perang Badr, Abdullah berkata; kemudian Sa'd membawa dua orang tawanan sementara aku dan 'Ammar tidak membawa sesuatu pun
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Абдуллах, да будет доволен им Аллах, передаёт: «В день битвы при Бадре я договорился с ‘Аммаром и Са‘дом, что мы поделим друг с другом любые захваченные трофеи. Случилось так, что Са‘д захватил двух пленных, а мы с ‘Аммаром так ничего и не захватили»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah (b. Mes'ud)'un şöyle dediği rivayet edilmiştir: Ben, Ammâr ve Sa'd, Bedir günü, ele geçireceğimiz (ganimet) de ortak olmayı kararlaştırdık. Sa'd iki esir getirdi, Ammâr ile ben ise bir şey getiremedik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن مسعود رضی اللہ عنہ کہتے ہیں میں، عمار اور سعد تینوں نے بدر کے دن حاصل ہونے والے مال غنیمت میں حصے کا معاملہ کیا تو سعد دو قیدی لے کر آئے اور میں اور عمار کچھ نہ لائے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3388</td></tr><tr><td>Arabic No</td><td>3388</td></tr><tr><td>Reference</td><td>Book 23 Hadith 63</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3388 |
+| Arabic No | 3388 |
+| Reference | Book 23 Hadith 63 |

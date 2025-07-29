@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي نَجِيحٍ، عَنْ عَبْدِ اللَّهِ بْنِ كَثِيرٍ، عَنْ أَبِي الْمِنْهَالِ، قَالَ سَمِعْتُ ابْنَ عَبَّاسٍ، قَالَ قَدِمَ رَسُولُ اللَّهِ صلى الله عليه وسلم الْمَدِينَةَ وَهُمْ يُسْلِفُونَ فِي التَّمْرِ السَّنَتَيْنِ وَالثَّلاَثَ فَنَهَاهُمْ وَقَالَ ‏ "‏ مَنْ أَسْلَفَ سَلَفًا فَلْيُسْلِفْ فِي كَيْلٍ مَعْلُومٍ وَوَزْنٍ مَعْلُومٍ إِلَى أَجَلٍ مَعْلُومٍ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |
+
 اخبرنا قتيبة بن سعيد، قال حدثنا سفيان، عن ابن ابي نجيح، عن عبد الله بن كثير، عن ابي المنهال، قال سمعت ابن عباس، قال قدم رسول الله صلى الله عليه وسلم المدينة وهم يسلفون في التمر السنتين والثلاث فنهاهم وقال " من اسلف سلفا فليسلف في كيل معلوم ووزن معلوم الى اجل معلوم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 কুতায়বা ইবন সাঈদ (রহঃ) ... ইবন আব্বাস (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম যখন মদীনায় আসেন, তখনও তারা খেজুরে দুই অথবা তিন বছর পর্যন্ত দাদন বেচাকেনা করতো। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিষেধ করে বলেনঃ যে ব্যক্তি দাদন ক্রয় করবে, সে যেন পরিমাপ, ওজন এবং সময় নির্ধারণ করে নেয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Abu Al-Minhal said:"I heard Ibn 'Abbas say: 'When the Prophet came (to al-Madinah), they used to pay in advance for dates, two or three years in advance. He forbade them that and said: 'whoever pays in advance for dates, let him pay for a known amount or a known weight, to be delivered at a known time
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |
+
+## French
+
+Rapporté par Abu Al-Minhal : "J'ai entendu Ibn 'Abbas dire : 'Quand le Prophète est arrivé à Médine, ils payaient à l'avance pour des dattes, deux ou trois ans à l'avance. Il leur a interdit cela et a dit : 'Celui qui paie à l'avance pour des dattes, qu'il le fasse pour une quantité ou un poids connu, à livrer à une date connue
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah bin Sa'id\], ia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Ibnu Abu Najih\] dari \[Abdullah bin Katsir\] dari \[Abu Al Minhal\], ia berkata; saya mendengar \[Ibnu Abbas\] berkata; Rasulullah shallallahu 'alaihi wasallam datang ke Madinah dan mereka melakukan jual beli secara salaf pada kurma selama dalam jangka dua tahun dan tiga tahun. Kemudian beliau melarang mereka dan bersabda: "Barang siapa yang memberikan hutang maka hendaknya ia menghutangi pada takaran yang diketahui, timbangan yang diketahui hingga jangka yang diketahui
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah bin Sa'id], ia berkata; telah menceritakan kepada kami [Sufyan] dari [Ibnu Abu Najih] dari [Abdullah bin Katsir] dari [Abu Al Minhal], ia berkata; saya mendengar [Ibnu Abbas] berkata; Rasulullah shallallahu 'alaihi wasallam datang ke Madinah dan mereka melakukan jual beli secara salaf pada kurma selama dalam jangka dua tahun dan tiga tahun. Kemudian beliau melarang mereka dan bersabda: "Barang siapa yang memberikan hutang maka hendaknya ia menghutangi pada takaran yang diketahui, timbangan yang diketahui hingga jangka yang diketahui
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4616</td></tr><tr><td>Arabic No</td><td>4616</td></tr><tr><td>Reference</td><td>Book 44 Hadith 168</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4616 |
+| Arabic No | 4616 |
+| Reference | Book 44 Hadith 168 |

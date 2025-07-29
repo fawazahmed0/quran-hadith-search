@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ سَمِعْتُ أَبَا سَلَمَةَ، يُحَدِّثُ عَنْ عَائِشَةَ، قَالَتْ إِنْ كَانَ لَيَكُونُ عَلَىَّ الصِّيَامُ مِنْ رَمَضَانَ فَمَا أَقْضِيهِ حَتَّى يَجِيءَ شَعْبَانُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 230</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |
+
 اخبرنا عمرو بن علي، قال حدثنا يحيى، قال حدثنا يحيى بن سعيد، قال سمعت ابا سلمة، يحدث عن عايشة، قالت ان كان ليكون على الصيام من رمضان فما اقضيه حتى يجيء شعبان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 230</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু আলী (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, যদি আমার উপর রমযানের সাওম অনাদায়ী থেকে যেত তবে আমি তা পূনরায় শাবান মাস না আসা পর্যন্ত কাযা করতাম না।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 230</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"I would own fasts from Ramadan and I would not make them up until Shaban came
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 230</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |
+
+## French
+
+Rapporté par 'Aishah : « Il m’arrivait d’avoir des jours de jeûne à rattraper du Ramadan et je ne les rattrapais qu’à l’arrivée de Sha’ban. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin 'Ali\] dia berkata; telah menceritakan kepada kami \[Yahya\] dia berkata; telah menceritakan kepada kami \[Yahya bin Sa'id\] dia berkata; Aku mendengar \[Abu Salamah\] menceritakan dari \['Aisyah\] dia berkata; "Jika saya harus melaksanakan puasa Ramadlan, maka saya tidak mengqadlanya hingga datang -bulan- Sya'ban
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin 'Ali] dia berkata; telah menceritakan kepada kami [Yahya] dia berkata; telah menceritakan kepada kami [Yahya bin Sa'id] dia berkata; Aku mendengar [Abu Salamah] menceritakan dari ['Aisyah] dia berkata; "Jika saya harus melaksanakan puasa Ramadlan, maka saya tidak mengqadlanya hingga datang -bulan- Sya'ban
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 230</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 230</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ مجھ پر رمضان کے روزہ ہوتے تھے تو میں قضاء نہیں کر پاتی تھی یہاں تک کہ شعبان آ جاتا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2319</td></tr><tr><td>Arabic No</td><td>2319</td></tr><tr><td>Reference</td><td>Book 22 Hadith 230</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2319 |
+| Arabic No | 2319 |
+| Reference | Book 22 Hadith 230 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، عَنْ يَحْيَى، عَنْ شُعْبَةَ، عَنْ أَبِي إِسْحَاقَ، عَنِ الأَسْوَدِ، عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏ أَنَّهُ كَانَ يَقْرَأُ ‏(‏فَهَلْ مِنْ مُدَّكِرٍ‏)‏‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا مسدد، عن يحيى، عن شعبة، عن ابي اسحاق، عن الاسود، عن عبد الله رضى الله عنه عن النبي صلى الله عليه وسلم. انه كان يقرا (فهل من مدكر)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
 ## Bengali
 
+قَالَ مُجَاهِدٌ يَسَّرْنَا هَوَّنَّا قِرَاءَتَهُ. মুজাহিদ (রহ.) বলেন, يَسَّرْنَا আমি এর পঠন পদ্ধতি সহজ করে দিয়েছি। ৪৮৭০. ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়তেন। \[৩৩৪১\] (আধুনিক প্রকাশনীঃ ৪৫০৩, ইসলামিক ফাউন্ডেশনঃ)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-قَالَ مُجَاهِدٌ يَسَّرْنَا هَوَّنَّا قِرَاءَتَهُ. মুজাহিদ (রহ.) বলেন, يَسَّرْنَا আমি এর পঠন পদ্ধতি সহজ করে দিয়েছি। ৪৮৭০. ‘আবদুল্লাহ্ (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু ‘আলাইহি ওয়াসাল্লাম فَهَلْ مِنْ مُدَّكِرٍ পড়তেন। [৩৩৪১] (আধুনিক প্রকাশনীঃ ৪৫০৩, ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated 'Abdullah bin Masud:The Prophet (ﷺ) used to recite: "Fahal-min-Maddakir (then is there any that will receive admonition?)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
+
+## French
+
+Rapporté par 'Abdullah bin Masud : Le Prophète (ﷺ) récitait : « Fahal-min-Maddakir » (Y a-t-il donc quelqu’un pour réfléchir ?)
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] dari \[Yahya\] dari \[Syu'bah\] dari \[Abu Ishaq\] dari \[Al Aswad\] dari \[Abdullah radliallahu 'anhu\] dari Nabi shallallahu 'alaihi wasallam bahwasanya beliau membaca ayat: "FAHAL MIN MUDDAKIR." (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar:)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Syu'bah] dari [Abu Ishaq] dari [Al Aswad] dari [Abdullah radliallahu 'anhu] dari Nabi shallallahu 'alaihi wasallam bahwasanya beliau membaca ayat: "FAHAL MIN MUDDAKIR." (maka adakah orang yang mau mengambil pelajaran?). (AL Qamar:)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абдуллах, да будет доволен им Аллах, передаёт, что Пророк ﷺ читал “Найдётся ли поминающий?”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அப்துல்லாஹ் பின் மஸ்ஊத் (ரலி) அவர்கள் கூறியதாவது: (குர்ஆனின் 54ஆவது அத்தியாயத்தில் இடம்பெற்றுள்ள ‘ஃபஹல் மின்(ம்) முத்தகிர்’ எனும் தொடரைப் பிரபலமான முறைப்படி) ‘ஃஹல் மின்(ம்) முத்தகிர்’ (நல்லுணர்வு பெறுவோர் எவரும் உண்டா?) என்றே நபி (ஸல்) அவர்கள் ஓதிவந்தார்கள். (‘முஸ்தகிர்’ என்றோ, ‘முஸ்ஸகிர்’ என்றோ ஓதவில்லை.) அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
 ## Turkish
 
+Abduııah İbn Mes'ud'dan, Nebi Sallallahu Aleyhi ve Sellem'in \[şu ayeti\] فهل من مدكر fehel min muddekir şeklinde okuduğu rivayet edilmiştir
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abduııah İbn Mes'ud'dan, Nebi Sallallahu Aleyhi ve Sellem'in [şu ayeti] فهل من مدكر fehel min muddekir şeklinde okuduğu rivayet edilmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے مسدد نے بیان کیا، ان سے یحییٰ بن سعید قطان نے بیان کیا، ان سے شعبہ نے، ان سے ابواسحاق نے، ان سے اسود نے اور ان سے عبداللہ بن مسعود رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم «فهل من مدكر‏» ( سو ہے کوئی نصیحت حاصل کرنے والا؟ ) پڑھا کرتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4870</td></tr><tr><td>Arabic No</td><td>4870</td></tr><tr><td>Reference</td><td>Book 65 Hadith 391</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4870 |
+| Arabic No | 4870 |
+| Reference | Book 65 Hadith 391 |

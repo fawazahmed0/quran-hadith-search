@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا عَبْدُ اللَّهِ بْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ بْنُ يَزِيدَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُرْوَةُ بْنُ الزُّبَيْرِ، وَسَعِيدُ بْنُ الْمُسَيَّبِ، وَعَلْقَمَةُ بْنُ وَقَّاصٍ، وَعُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ، عَنْ حَدِيثِ، عَائِشَةَ وَكُلٌّ حَدَّثَنِي طَائِفَةً، مِنَ الْحَدِيثِ قَالَتْ وَلَشَأْنِي فِي نَفْسِي كَانَ أَحْقَرَ مِنْ أَنْ يَتَكَلَّمَ اللَّهُ فِيَّ بِأَمْرٍ يُتْلَى ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
+
 حدثنا سليمان بن داود المهري، اخبرنا عبد الله بن وهب، قال اخبرني يونس بن يزيد، عن ابن شهاب، قال اخبرني عروة بن الزبير، وسعيد بن المسيب، وعلقمة بن وقاص، وعبيد الله بن عبد الله، عن حديث، عايشة وكل حدثني طايفة، من الحديث قالت ولشاني في نفسي كان احقر من ان يتكلم الله في بامر يتلى
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
 
 ## Bengali
 
+। ইবনু শিহাব (রহঃ) বর্ণনা করেন, আমাকে উরওয়াহ ইবনু যুবায়র, সাঈদ ইবনুল মুসাইয়্যাব, আলকামাহ ইবনু ওয়াক্কাস ও উবাইদুল্লাহ ইবনু আব্দুল্লাহ (রহঃ) আইশাহ (রাঃ)-এর হাদীস সম্পর্কে জানিয়েছেন যে, তিনি বলেছেন, আমি নিজেকে এই পর্যায়ের মনে করতাম না যে, মহান আল্লাহ আমার সম্পর্কে এমন কথা বলবেন যা তিলাওয়াত করা হবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু শিহাব (রহঃ) বর্ণনা করেন, আমাকে উরওয়াহ ইবনু যুবায়র, সাঈদ ইবনুল মুসাইয়্যাব, আলকামাহ ইবনু ওয়াক্কাস ও উবাইদুল্লাহ ইবনু আব্দুল্লাহ (রহঃ) আইশাহ (রাঃ)-এর হাদীস সম্পর্কে জানিয়েছেন যে, তিনি বলেছেন, আমি নিজেকে এই পর্যায়ের মনে করতাম না যে, মহান আল্লাহ আমার সম্পর্কে এমন কথা বলবেন যা তিলাওয়াত করা হবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘A’ishah said:I thought in my mind that my affair was far inferior to the speaking of Allah about me with a command that will be recited
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
+
+## French
+
+Rapporté par Aishah (la mère des croyants) رضي الله عنها : J’ai pensé en moi-même que mon affaire était bien trop insignifiante pour qu’Allah parle de moi par un commandement qui serait récité
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Dawud Al Mahri\] berkata, telah mengabarkan kepada kami \[Abdullah bin Wahb\] ia berkata; telah mengabarkan kepadaku \[Yunus bin Yazid\] dari \[Ibnu Syihab\] ia berkata; telah mengabarkan kepadaku \[Urwah Ibnu Az Zubair\] dan \[Sa'id Ibnul Musayyab\] dan \[Alqamah bin Waqqash\] dan \[Ubaidullah bin Abdullah\] tentang peristiwa (fitnah) yang menimpa \['Aisyah\], setiap dari mereka menceritakan kepadaku sebagian tentang peristiwa 'Aisyah. 'Aisyah berkata, "Menurutku, perkara yang menimpaku itu lebih hina (tidak pantas) untuk Allah sebutkan pada sesuatu yang dibaca (Al-Qur'an)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Dawud Al Mahri] berkata, telah mengabarkan kepada kami [Abdullah bin Wahb] ia berkata; telah mengabarkan kepadaku [Yunus bin Yazid] dari [Ibnu Syihab] ia berkata; telah mengabarkan kepadaku [Urwah Ibnu Az Zubair] dan [Sa'id Ibnul Musayyab] dan [Alqamah bin Waqqash] dan [Ubaidullah bin Abdullah] tentang peristiwa (fitnah) yang menimpa ['Aisyah], setiap dari mereka menceritakan kepadaku sebagian tentang peristiwa 'Aisyah. 'Aisyah berkata, "Menurutku, perkara yang menimpaku itu lebih hina (tidak pantas) untuk Allah sebutkan pada sesuatu yang dibaca (Al-Qur'an)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ‘Амира ибн Шахра: «Я был у негуса, и его сын прочитал стих из Евангелия, и я засмеялся, а он воскликнул: “Неужели ты смеёшься над речью Всеблагого и Всевышнего Аллаха?!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Hz. Aişe'den (rivayet edildiğine göre) demiştir ki: (Bana şu meşhur olan iftira edilince) benim halim kendimce Allah'ın benim hakkımda okunan bir vahiyle konuşacağı bir seviyede değildi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا کہتی ہیں میرے جی میں میرا معاملہ اس سے کمتر تھا کہ اللہ تعالیٰ میرے بارے میں ایسی گفتگو فرمائے گا کہ وہ ہمیشہ تلاوت کی جائے گی ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4735</td></tr><tr><td>Arabic No</td><td>4735</td></tr><tr><td>Reference</td><td>Book 42 Hadith 140</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4735 |
+| Arabic No | 4735 |
+| Reference | Book 42 Hadith 140 |

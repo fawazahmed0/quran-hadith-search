@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَمْرُو بْنُ عُثْمَانَ، حَدَّثَنَا سُفْيَانُ، حَدَّثَنِي عَبَّاسُ بْنُ عَبْدِ اللَّهِ بْنِ مَعْبَدِ بْنِ عَبَّاسٍ، بِهَذَا الْحَدِيثِ قَالَ فِيهِ وَالاِبْتِهَالُ هَكَذَا وَرَفَعَ يَدَيْهِ وَجَعَلَ ظُهُورَهُمَا مِمَّا يَلِي وَجْهَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
+
 حدثنا عمرو بن عثمان، حدثنا سفيان، حدثني عباس بن عبد الله بن معبد بن عباس، بهذا الحديث قال فيه والابتهال هكذا ورفع يديه وجعل ظهورهما مما يلي وجهه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
 
 ## Bengali
 
+। ‘আব্বাস ইবনু ‘আবদুল্লাহ ইবনু মা‘বাদ ইবনু ‘আব্বাস (রহঃ) হতে এ হাদীস বর্ণিত। তিনি বলেছেন, কাকুতি মিনতির প্রার্থনা এরূপঃ দু’ হাতের পৃষ্ঠকে চেহারার কাছাকাছি নিয়ে যাবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ‘আব্বাস ইবনু ‘আবদুল্লাহ ইবনু মা‘বাদ ইবনু ‘আব্বাস (রহঃ) হতে এ হাদীস বর্ণিত। তিনি বলেছেন, কাকুতি মিনতির প্রার্থনা এরূপঃ দু’ হাতের পৃষ্ঠকে চেহারার কাছাকাছি নিয়ে যাবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 In another version Ibn 'Abbas said:Earnest supplication should be made like this: he raised his hand and made his palms in the direction of his face
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
+
+## French
+
+Dans une autre version, Ibn Abbas رضي الله عنه a dit : L’invocation intense doit se faire ainsi : il a levé la main et tourné la paume vers son visage
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Аббас ибн ‘Абдуллах ибн Ма‘бад ибн ‘Аббас передавая этот хадис, сказал: «Истовое воззвание /ибтихаль/ вот так» и поднял руки так, что их внешняя сторона оказалась напротив лица
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Süfyan, Abbas b. Abdullah b. Ma'bed b. Abbas'dan önceki (1489.) hadisi rivayet edip "(azaptan korunmak için) yalvarma(nın edebi) şöyledir" dedi ve ellerini, üstleri yüzü tarafına gelecek şekilde kaldırdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی ابن عباس رضی اللہ عنہما سے یہی حدیث مروی ہے اس میں ہے: ابتہال اس طرح ہے اور انہوں نے دونوں ہاتھ اتنے بلند کئے کہ ہتھیلیوں کی پشت اپنے چہرے کے قریب کر دی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Muquf</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1490</td></tr><tr><td>Arabic No</td><td>1490</td></tr><tr><td>Reference</td><td>Book 8 Hadith 75</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Muquf | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1490 |
+| Arabic No | 1490 |
+| Reference | Book 8 Hadith 75 |

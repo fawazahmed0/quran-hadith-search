@@ -18,78 +18,90 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا سَعِيدُ بْنُ عَمْرٍو الأَشْعَثِيُّ، أَخْبَرَنَا عَبْثَرٌ، عَنِ الشَّيْبَانِيِّ، عَنْ مُحَارِبِ بْنِ، دِثَارٍ عَنِ ابْنِ عُمَرَ، عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏ قَالَ وَأُرَاهُ قَالَ وَالنَّقِيرِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا سعيد بن عمرو الاشعثي، اخبرنا عبثر، عن الشيباني، عن محارب بن، دثار عن ابن عمر، عن النبي صلى الله عليه وسلم . بمثله . قال واراه قال والنقير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…/...) সাঈদ ইবনু আমর আশ'আসী (রহঃ) ..... ইবনু উমর (রাযিঃ) এর সানাদে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম হতে হুবহু রিওয়ায়াত করেছেন। তিনি বলেন, আমার ধারণা তিনি ‘নাকীর’ এর বিষয়েও বলেছেন। (ইসলামিক ফাউন্ডেশন ৫০২৭, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muharib b. Dithar reported a hadith like this on the authority of Ibn 'Umar through a different chain of transmitters. He (the narrator) said:I think he also made a mention of hollow stump
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## French
 
+Rapporté par Muharib b. Dithar : Un hadith similaire a été rapporté de la part d’Ibn ‘Umar par une autre chaîne de transmetteurs. Le narrateur a dit : « Je pense qu’il a aussi mentionné le tronc creux. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Said b. Amr El-Eş'asî de rivayet etti. (Dediki): Bize Abser, Şeybânî'den, o da Muharip b. Disar'dan, o da İbn-i Ömer'den, o da Nebi (Sallallahu Aleyhi ve Sellem)'den naklen bu hadisin mislini haber verdi. İbn-i Disar: «Zannederim İbn-i Ömer nekîr'den de dedi.» demiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5196</td></tr><tr><td>Arabic No</td><td>1997.11</td></tr><tr><td>Reference</td><td>Book 36 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5196 |
+| Arabic No | 1997.11 |
+| Reference | Book 36 Hadith 70 |

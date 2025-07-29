@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا حَفْصُ بْنُ عُمَرَ النَّمَرِيُّ، حَدَّثَنَا شُعْبَةُ، عَنْ عَبْدِ الْمَلِكِ بْنِ عُمَيْرٍ، عَنْ زَيْدِ بْنِ عُقْبَةَ الْفَزَارِيِّ، عَنْ سَمُرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ الْمَسَائِلُ كُدُوحٌ يَكْدَحُ بِهَا الرَّجُلُ وَجْهَهُ فَمَنْ شَاءَ أَبْقَى عَلَى وَجْهِهِ وَمَنْ شَاءَ تَرَكَ إِلاَّ أَنْ يَسْأَلَ الرَّجُلُ ذَا سُلْطَانٍ أَوْ فِي أَمْرٍ لاَ يَجِدُ مِنْهُ بُدًّا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
+
 حدثنا حفص بن عمر النمري، حدثنا شعبة، عن عبد الملك بن عمير، عن زيد بن عقبة الفزاري، عن سمرة، عن النبي صلى الله عليه وسلم قال " المسايل كدوح يكدح بها الرجل وجهه فمن شاء ابقى على وجهه ومن شاء ترك الا ان يسال الرجل ذا سلطان او في امر لا يجد منه بدا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
 
 ## Bengali
 
+। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ভিক্ষাবৃত্তি হচ্ছে ক্ষতবিক্ষতকারী। মানুষ এর দ্বারা স্বীয় মুখমন্ডল ক্ষতবিক্ষত করে। কাজেই যার ইচ্ছে ভিক্ষাবৃত্তি করে স্বীয় মুখকে ক্ষতবিক্ষত রাখুক। আর যে ইচ্ছে তা পরিহার করুক। তবে রাষ্ট্রপ্রধানের কাছে চাওয়া কিংবা নিরুপায় হয়ে কিছু চাওয়ার বিষয়টি ভিন্ন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সামুরাহ ইবনু জুনদুব (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, ভিক্ষাবৃত্তি হচ্ছে ক্ষতবিক্ষতকারী। মানুষ এর দ্বারা স্বীয় মুখমন্ডল ক্ষতবিক্ষত করে। কাজেই যার ইচ্ছে ভিক্ষাবৃত্তি করে স্বীয় মুখকে ক্ষতবিক্ষত রাখুক। আর যে ইচ্ছে তা পরিহার করুক। তবে রাষ্ট্রপ্রধানের কাছে চাওয়া কিংবা নিরুপায় হয়ে কিছু চাওয়ার বিষয়টি ভিন্ন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Samurah ibn Jundub: The Prophet (ﷺ) said: Acts of begging are lacerations with which a man disfigures his face, so he who wishes may preserve his self-respect, and he who wishes may abandon it; but this does not apply to one who begs from a ruler, or in a situation which makes it necessary
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
+
+## French
+
+Rapporté par Samurah ibn Jundub رضي الله عنه : Le Prophète ﷺ a dit : « La mendicité est comme des blessures qui défigurent le visage d’un homme. Celui qui veut préserver sa dignité le peut, et celui qui veut l’abandonner le peut aussi. Mais cela ne concerne pas celui qui demande à un dirigeant ou dans une situation de nécessité. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Hafsh bin Umar An Namari\], telah menceritakan kepada Kami \[Syu'bah\] dari \[Abdul Malik bin 'Umair\] dari \[Zaid bin 'Uqbah Al Fazari\] dari \[Samurah\] dari Nabi shalla Allahu 'alaihi wa sallam beliau bersabda: "Sesungguhnya meminta-minta itu perbuatan buruk, dengannya seseorang mencoreng wajahnya, barangsiapa yang mau maka ia biarkan coreng di wajahnya dan barangsiapa yang mau maka ia tinggalkan, kecuali jika seseorang meminta kepada pemimpin atau meminta sesuatu yang harus ia dapatkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Hafsh bin Umar An Namari], telah menceritakan kepada Kami [Syu'bah] dari [Abdul Malik bin 'Umair] dari [Zaid bin 'Uqbah Al Fazari] dari [Samurah] dari Nabi shalla Allahu 'alaihi wa sallam beliau bersabda: "Sesungguhnya meminta-minta itu perbuatan buruk, dengannya seseorang mencoreng wajahnya, barangsiapa yang mau maka ia biarkan coreng di wajahnya dan barangsiapa yang mau maka ia tinggalkan, kecuali jika seseorang meminta kepada pemimpin atau meminta sesuatu yang harus ia dapatkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
 
 ## Russian
 
+Самура \[ибн Джундуб\], да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Обращения к людям с просьбами отметины на лице человека, и кто желает, может оставить их на своём лице, а кто желает, может убрать их. Исключением является тот случай, когда человек обращается с просьбой к обладающему властью или просит о том, без чего он действительно не может обойтись»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Самура [ибн Джундуб], да будет доволен им Аллах, передаёт, что Пророк ﷺ сказал: «Обращения к людям с просьбами отметины на лице человека, и кто желает, может оставить их на своём лице, а кто желает, может убрать их. Исключением является тот случай, когда человек обращается с просьбой к обладающему властью или просит о том, без чего он действительно не может обойтись»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Semure r.a. Nebi sallallahu aleyhi ve sellem’den şöyle demiştir: "Dilenmeler, tırmalamalardır, kişi onlarla yüzünde iz yapar. Dileyen yüzünü korur dileyen de korumaz. Ancak kişinin yetki sahibinden veya kaçınılmaz bir iş için (başkasından) istemesi hariç
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سمرہ رضی اللہ عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: سوال کرنا آدمی کا اپنے چہرے کو زخم لگانا ہے تو جس کا جی چاہے اپنے چہرے پر ( نشان زخم ) باقی رکھے اور جس کا جی چاہے اسے ( مانگنا ) ترک کر دے، سوائے اس کے کہ آدمی حاکم سے مانگے یا کسی ایسے مسئلہ میں مانگے جس میں کوئی اور چارہ کار نہ ہو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1639</td></tr><tr><td>Arabic No</td><td>1639</td></tr><tr><td>Reference</td><td>Book 9 Hadith 84</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1639 |
+| Arabic No | 1639 |
+| Reference | Book 9 Hadith 84 |

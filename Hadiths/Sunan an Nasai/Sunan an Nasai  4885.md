@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ هَاشِمٍ، قَالَ حَدَّثَنَا الْوَلِيدُ، قَالَ حَدَّثَنَا ابْنُ جُرَيْجٍ، عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ تَعَافَوُا الْحُدُودَ قَبْلَ أَنْ تَأْتُونِي بِهِ فَمَا أَتَانِي مِنْ حَدٍّ فَقَدْ وَجَبَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |
+
 اخبرنا محمد بن هاشم، قال حدثنا الوليد، قال حدثنا ابن جريج، عن عمرو بن شعيب، عن ابيه، عن جده، عن النبي صلى الله عليه وسلم قال " تعافوا الحدود قبل ان تاتوني به فما اتاني من حد فقد وجب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন হাশিম (রহঃ) ... আমর ইবন শুআয়ব (রহঃ) তাঁর পিতার মাধ্যমে তাঁর দাদা হতে বর্ণনা করেন যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আল বলেছেনঃ কোন অপরাধীকে আমার নিকট আনার পূর্বে ক্ষমা করে দেবে। যখন আমার নিকট কোন মোকদ্দমা উপস্থিত হয়, তখন শাস্তি অবধারিত হয়ে যায়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated form 'Amr bin Shu'ainb, from his father, from his grandfather, that the Prophet said:"Pardon matters that may deserve a Hadd punishment before you bring it to my attention, for whatever is brought to my attention, the Hadd punishment becomes binding." (Saif)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |
+
+## French
+
+Rapporté par 'Amr bin Shu'aib, de son père, de son grand-père : Le Prophète a dit : "Pardonnez les affaires qui pourraient mériter une peine légale (Hadd) avant de m'en informer, car une fois que cela m'est rapporté, la peine devient obligatoire." (Saif)
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |
 
 ## Indonesian
 
+Telah mengkhabarkan kepada kami \[Muhammad bin Hasyim\], dia berkata; telah menceritakan kepada kami \[Al Walid\], dia berkata; telah menceritakan kepada kami \[Ibnu Juraij\] dari \['Amr bin Syu'aib\] dari \[ayahnya\] dari \[kakeknya\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Saling memaafkanlah kalian dari hukuman sebelum kalian mendatangiku karena hukuman yang telah sampai kepadaku wajib dilaksanakan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengkhabarkan kepada kami [Muhammad bin Hasyim], dia berkata; telah menceritakan kepada kami [Al Walid], dia berkata; telah menceritakan kepada kami [Ibnu Juraij] dari ['Amr bin Syu'aib] dari [ayahnya] dari [kakeknya] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Saling memaafkanlah kalian dari hukuman sebelum kalian mendatangiku karena hukuman yang telah sampai kepadaku wajib dilaksanakan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4885</td></tr><tr><td>Arabic No</td><td>4885</td></tr><tr><td>Reference</td><td>Book 46 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4885 |
+| Arabic No | 4885 |
+| Reference | Book 46 Hadith 16 |

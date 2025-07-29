@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنِي أَحْمَدُ بْنُ سُلَيْمَانَ، قَالَ حَدَّثَنَا عَارِمٌ، قَالَ حَدَّثَنَا حَمَّادُ بْنُ زَيْدٍ، عَنِ ابْنِ عَوْنٍ، عَنْ إِبْرَاهِيمَ، عَنِ الأَسْوَدِ، عَنْ عَائِشَةَ، قَالَتْ تُوُفِّيَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَلَيْسَ عِنْدَهُ أَحَدٌ غَيْرِي - قَالَتْ - وَدَعَا بِالطَّسْتِ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |
+
 اخبرني احمد بن سليمان، قال حدثنا عارم، قال حدثنا حماد بن زيد، عن ابن عون، عن ابراهيم، عن الاسود، عن عايشة، قالت توفي رسول الله صلى الله عليه وسلم وليس عنده احد غيري - قالت - ودعا بالطست
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইন সুলায়মান (রহঃ) .... আয়েশা (রাঃ) থেকে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ওফাত বরণ করেছেন, তখন তাঁর কাছে আমি ব্যতীত কেউ ছিল না। তিনি (পেশাব করার জন্য) পাত্র চেয়েছিলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Aishah said:"The Messenger of Allah died when no one was with him except me." She said: "And he called for a vessel
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |
+
+## French
+
+Rapporté par 'Aishah : Le Messager d'Allah est décédé alors que personne n'était avec lui sauf moi. Elle a dit : Et il a demandé un récipient
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ahmad bin Sulaiman\] berkata; telah menceritakan kepada kami \['Arim\] berkata; telah menceritakan kepada kami \[Hammad bin Zaid\] dari \[Ibnu 'Aun\] dari \[Ibrahim\] dari \[Al Aswad\] dari \[Aisyah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam meninggal dan tidak ada seorangpun di sisinya selain diriku, beliau meminta dibawakan baskom
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ahmad bin Sulaiman] berkata; telah menceritakan kepada kami ['Arim] berkata; telah menceritakan kepada kami [Hammad bin Zaid] dari [Ibnu 'Aun] dari [Ibrahim] dari [Al Aswad] dari [Aisyah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam meninggal dan tidak ada seorangpun di sisinya selain diriku, beliau meminta dibawakan baskom
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے انتقال کے وقت میرے سوا آپ کے پاس کوئی اور نہ تھا اس وقت آپ نے ( پیشاب کے لیے ) طشت منگا رکھا تھا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3625</td></tr><tr><td>Arabic No</td><td>3625</td></tr><tr><td>Reference</td><td>Book 30 Hadith 15</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3625 |
+| Arabic No | 3625 |
+| Reference | Book 30 Hadith 15 |

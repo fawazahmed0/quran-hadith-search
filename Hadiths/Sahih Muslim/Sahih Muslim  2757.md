@@ -18,78 +18,94 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا حُسَيْنُ بْنُ عَلِيٍّ، عَنْ زَائِدَةَ، عَنْ عَبْدِ الْمَلِكِ، بْنِ عُمَيْرٍ بِهَذَا الإِسْنَادِ فِي ذِكْرِ الصِّيَامِ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏.‏ بِمِثْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابو بكر بن ابي شيبة، حدثنا حسين بن علي، عن زايدة، عن عبد الملك، بن عمير بهذا الاسناد في ذكر الصيام عن النبي صلى الله عليه وسلم . بمثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূ বাকর ইবনু শায়বাহ্ (রহঃ) ..... 'আবদুল মালিক ইবনু উমায়র (রাযিঃ) থেকে এ সানাদে অনুরূপ হাদীস বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৬২৪, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 A hadith like this has been reported from the Messenger of Allah (ﷺ) by 'Abd al-Malik with the same chain of transmitters in connection with fast
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## French
 
+Un hadith similaire a été rapporté du Messager d’Allah ﷺ par ‘Abd al-Malik avec la même chaîne de transmetteurs concernant le jeûne
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 – Рассказал нам Абу Бакр ибн Абу Шейба: Рассказал нам Хусайн ибн ‘Али от Заиды, передавшего от ‘Абдуль-Малика ибн ‘Умайра с этим иснадом в упоминании поста от Пророка ﷺ такой же хадис
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Ebû Bekir b. Ebî Şeybe rivayet etti. (Dediki) Bize Hüseyin b. Aliy, Zâid'den, o da Abdülmelik b. Umeyr'den bu isnâdla oruç bahsinde Nebi (Sallallahu Aleyhi ve Sellem)'den bu hadîsin mislini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 زائد ہ نے عبد الملک بن عمیر سے اسی سند کے ساتھ نبی صلی اللہ علیہ وسلم سے روزوں کے ذکر میں اس ( سابقہ حدیث ) کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2757</td></tr><tr><td>Arabic No</td><td>1163.03</td></tr><tr><td>Reference</td><td>Book 13 Hadith 263</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2757 |
+| Arabic No | 1163.03 |
+| Reference | Book 13 Hadith 263 |

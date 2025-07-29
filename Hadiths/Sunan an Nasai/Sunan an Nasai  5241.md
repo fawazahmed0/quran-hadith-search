@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي سَلَمَةَ، وَسُلَيْمَانَ بْنِ يَسَارٍ، أَنَّهُمَا سَمِعَا أَبَا هُرَيْرَةَ، يُخْبِرُ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ إِنَّ الْيَهُودَ وَالنَّصَارَى لاَ يَصْبُغُونَ فَخَالِفُوهُمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 48 Hadith 202</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |
+
 اخبرنا اسحاق بن ابراهيم، قال حدثنا سفيان، عن الزهري، عن ابي سلمة، وسليمان بن يسار، انهما سمعا ابا هريرة، يخبر عن رسول الله صلى الله عليه وسلم قال " ان اليهود والنصارى لا يصبغون فخالفوهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 48 Hadith 202</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... আবু সালামা এবং সুলায়মান ইবন ইয়াসার (রহঃ), তাঁরা উভয়ে আবু হুরায়রা (রাঃ)-কে বলতে শুনেছেন, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ ইয়াহুদী-নাসারা চুলে রং করে না, অতএব তোমরা তাদের বিরোধিতা করবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 48 Hadith 202</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |
 
 ## English
 
+Abu Hurairah narrated that :The Messenger of Allah \[SAW\] said: "The Jews and the Christians do not dye their hair, so be different from them
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Hurairah narrated that :The Messenger of Allah [SAW] said: "The Jews and the Christians do not dye their hair, so be different from them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 48 Hadith 202</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |
+
+## French
+
+Rapporté par Abu Hurairah : Le Messager d'Allah ﷺ a dit : "Les Juifs et les Chrétiens ne teignent pas leurs cheveux, alors soyez différents d'eux
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] ia berkata; telah menceritakan kepada kami \[Sufyan\] dari \[Az Zuhri\] dari \[Abu Salamah\] dan \[Sulaiman bin Yasar\] bahwa keduanya mendengar \[Abu Hurairah\] mengabarkan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya orang-orang Yahudi dan Nashara tidak mewarnai (rambut atau janggut), maka selisihilah mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] ia berkata; telah menceritakan kepada kami [Sufyan] dari [Az Zuhri] dari [Abu Salamah] dan [Sulaiman bin Yasar] bahwa keduanya mendengar [Abu Hurairah] mengabarkan dari Rasulullah shallallahu 'alaihi wasallam, beliau bersabda: "Sesungguhnya orang-orang Yahudi dan Nashara tidak mewarnai (rambut atau janggut), maka selisihilah mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 48 Hadith 202</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 48 Hadith 202</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5241</td></tr><tr><td>Arabic No</td><td>5241</td></tr><tr><td>Reference</td><td>Book 48 Hadith 202</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5241 |
+| Arabic No | 5241 |
+| Reference | Book 48 Hadith 202 |

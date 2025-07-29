@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## French
 
+Rapporté par Suwayd bin Sa’īd : Alī bin Mus’hir nous a rapporté, il a dit : « Hamzah az-Zayyāt et moi avons entendu d’Abān bin Abī Ayyāsh environ mille hadiths. » Alī dit : « J’ai rencontré Hamzah, puis il m’a informé qu’il avait vu le Prophète ﷺ \[en rêve\], et il lui a présenté ce qu’il avait entendu d’Abān. Mais \[le Prophète\] n’en a reconnu qu’une petite partie, environ cinq ou six \[hadiths\]. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>79</td></tr><tr><td>Reference</td><td>Book 0 Hadith 79</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 79 |
+| Reference | Book 0 Hadith 79 |

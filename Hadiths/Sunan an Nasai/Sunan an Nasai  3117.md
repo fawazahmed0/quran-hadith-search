@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عِصْمَةُ بْنُ الْفَضْلِ، قَالَ حَدَّثَنَا زَيْدُ بْنُ حُبَابٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ شُرَيْحٍ، قَالَ سَمِعْتُ مُحَمَّدَ بْنَ شُمَيْرٍ الرُّعَيْنِيَّ، يَقُولُ سَمِعْتُ أَبَا عَلِيٍّ التُّجِيبِيَّ، أَنَّهُ سَمِعَ أَبَا رَيْحَانَةَ، يَقُولُ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ حُرِّمَتْ عَيْنٌ عَلَى النَّارِ سَهِرَتْ فِي سَبِيلِ اللَّهِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |
+
 اخبرنا عصمة بن الفضل، قال حدثنا زيد بن حباب، عن عبد الرحمن بن شريح، قال سمعت محمد بن شمير الرعيني، يقول سمعت ابا علي التجيبي، انه سمع ابا ريحانة، يقول سمعت رسول الله صلى الله عليه وسلم يقول " حرمت عين على النار سهرت في سبيل الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসমত ইবন ফযল (রহঃ) ... আবূ রায়হানা (রাঃ) বলেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে চক্ষু আল্লাহ্ রাস্তায় বিনিদ্র থাকে, সে চক্ষুর জন্য জাহান্নামের আগুন হারাম করা হয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu 'Ali At-Tujibi (said) that he heard Abu Raihanah say:"I heard the Messenger of Allah (ﷺ) say: 'The eye that stays awake in the cause of Allah will be forbidden to the Fire
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |
+
+## French
+
+Rapporté par Abu 'Ali At-Tujibi, qui a entendu Abu Raihanah dire : « J’ai entendu le Messager d’Allah (ﷺ) dire : L’œil qui veille pour la cause d’Allah sera protégé du Feu. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Ishmah bin Al Fadhl\], ia berkata; telah menceritakan kepada kami \[Zaid bin Hubab\] dari \[Abdur Rahman bin Syuraih\], ia berkata; saya pernah mendengar \[Muhammad bin Syumair Ar Ru'aini\] berkata; saya pernah mendengar \[Abu Ali At Tujibi\] bahwa ia mendengar \[Abu Raihanah\] berkata; saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Mata yang begadang di jalan Allah diharamkan bagi neraka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Ishmah bin Al Fadhl], ia berkata; telah menceritakan kepada kami [Zaid bin Hubab] dari [Abdur Rahman bin Syuraih], ia berkata; saya pernah mendengar [Muhammad bin Syumair Ar Ru'aini] berkata; saya pernah mendengar [Abu Ali At Tujibi] bahwa ia mendengar [Abu Raihanah] berkata; saya pernah mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: "Mata yang begadang di jalan Allah diharamkan bagi neraka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوریحانہ رضی الله عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا ہے: ”جو آنکھ اللہ کے راستے میں جاگی ہو وہ آنکھ جہنم پر حرام ہے“ ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3117</td></tr><tr><td>Arabic No</td><td>3117</td></tr><tr><td>Reference</td><td>Book 25 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3117 |
+| Arabic No | 3117 |
+| Reference | Book 25 Hadith 33 |

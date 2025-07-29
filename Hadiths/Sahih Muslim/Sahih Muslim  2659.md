@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، أَخْبَرَنَا عَبْدُ الرَّزَّاقِ، حَدَّثَنَا مَعْمَرٌ، عَنْ أَيُّوبَ، بِهَذَا الإِسْنَادِ إِلاَّ أَنَّهُ قَالَ عَنِ ابْنِ سَعِيدِ بْنِ جُبَيْرٍ، لَمْ يُسَمِّهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا اسحاق بن ابراهيم، اخبرنا عبد الرزاق، حدثنا معمر، عن ايوب، بهذا الاسناد الا انه قال عن ابن سعيد بن جبير، لم يسمه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবনু ইব্রাহীম (রহঃ) ... আইয়ূব (রহঃ) থেকে এ সানাদের সাথে বর্ণনা করেছেন। তবে তিনি বলেছেন, ইবনু সাঈদ ইবনু জুবায়র (রহঃ) এ হাদীস সরাসরি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে শুনেননি। (ইসলামিক ফাউন্ডেশন ২৫২৬, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Ayyub with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## French
 
+Ce hadith a été rapporté par Ayyub avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize İshak b. İbrahim rivayet etti. (Dediki) Bize Abdurrazzâk haber verdi. (Dediki) Bize Ma'msr, Eyyûb'dan bu isnadla rivayette bulundu. Şu kadar var kî o : «Said b. Cübeyr'in oğlundan» demiş, adını söylememiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اسحاق بن ابراہیم ، عبدالرزاق ، معمر ، حضرت ایوب سے اس سند کے ساتھ اسی طرح روایت نقل کی گئی ہے سوائے اس کے کہ اس میں ابن سعید بن جبیر ہے نام ذکر نہیں کیاگیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2659</td></tr><tr><td>Arabic No</td><td>1130.04</td></tr><tr><td>Reference</td><td>Book 13 Hadith 165</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2659 |
+| Arabic No | 1130.04 |
+| Reference | Book 13 Hadith 165 |

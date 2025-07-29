@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَاهُ أَحْمَدُ بْنُ عُثْمَانَ النَّوْفَلِيُّ، حَدَّثَنَا أَبُو دَاوُدَ، حَدَّثَنَا شُعْبَةُ، بِهَذَا الإِسْنَادِ نَحْوَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثناه احمد بن عثمان النوفلي، حدثنا ابو داود، حدثنا شعبة، بهذا الاسناد نحوه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবনু উসমান নাওফালী (রহঃ) ..... শু'বাহ্ (রহঃ) এর সূত্রে এ সানাদে অনুরূপ বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশন ৩৬৪২, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Shu'ba with the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## French
 
+Rapporté par Shu’ba : Ce hadith a été rapporté avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize bu hadîsi Ahmed b. Osman en-Nevfelî de rivayet etti. (Dediki): Bize Ebû Dâvûd rivayet etti. (Dediki): Bize Şu'be bu isnâdla bu hadîsin benzerini rivayet etti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوداؤد نے ہمیں حدیث بیان کی ، ( کہا : ) ہمیں شعبہ نے اسی سند سے اسی کے ہم معنی حدیث بیان کی
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3784</td></tr><tr><td>Arabic No</td><td>1504.09</td></tr><tr><td>Reference</td><td>Book 20 Hadith 15</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3784 |
+| Arabic No | 1504.09 |
+| Reference | Book 20 Hadith 15 |

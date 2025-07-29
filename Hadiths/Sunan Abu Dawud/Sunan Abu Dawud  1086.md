@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ أَبِي حَازِمٍ، عَنْ سَهْلِ بْنِ سَعْدٍ، قَالَ كُنَّا نَقِيلُ وَنَتَغَدَّى بَعْدَ الْجُمُعَةِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
+
 حدثنا محمد بن كثير، اخبرنا سفيان، عن ابي حازم، عن سهل بن سعد، قال كنا نقيل ونتغدى بعد الجمعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
 
 ## Bengali
 
+। সাহল ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা জুমু‘আহর সালাতের পর দুপুরের বিশ্রাম গ্রহণ ও খাবার খেতাম।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সাহল ইবনু সা‘দ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমরা জুমু‘আহর সালাতের পর দুপুরের বিশ্রাম গ্রহণ ও খাবার খেতাম।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sahl b. Sa'd said:We had a siesta or lunch after the Friday prayer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
+
+## French
+
+Rapporté par Sahl ibn Sa’d رضي الله عنه : Nous faisions la sieste ou déjeunions après la prière du vendredi
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\] telah mengabarkan kepada kami \[Sufyan\] dari \[Abu Hazim\] dari \[Sahl bin Sa'd\] dia berkata; "Kami melaksanakan qailulah (tidur siang) dan makan siang setelah melaksanakan shalat Jum'at
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Abu Hazim] dari [Sahl bin Sa'd] dia berkata; "Kami melaksanakan qailulah (tidur siang) dan makan siang setelah melaksanakan shalat Jum'at
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Сахля ибн Са‘да, да будет доволен им Аллах, передаёт: «Мы отдыхали и обедали после пятничной молитвы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sehl b. Sa'd'den; demiştir ki: Biz cum'a'dan sonra kaylûle yapar ve kahvaltı ederdik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سہل بن سعد رضی اللہ عنہ کہتے ہیں کہ ہم جمعہ کے بعد قیلولہ کرتے تھے اور دوپہر کا کھانا کھاتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (939) Sahih Muslim (859)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1086</td></tr><tr><td>Arabic No</td><td>1086</td></tr><tr><td>Reference</td><td>Book 2 Hadith 697</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (939) Sahih Muslim (859) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1086 |
+| Arabic No | 1086 |
+| Reference | Book 2 Hadith 697 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا سُوَيْدُ بْنُ نَصْرٍ، قَالَ أَخْبَرَنَا عَبْدُ اللَّهِ، عَنْ شَرِيكٍ، عَنْ مُغِيرَةَ، عَنْ إِبْرَاهِيمَ، وَالشَّعْبِيِّ، قَالاَ السَّكَرُ خَمْرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |
+
 اخبرنا سويد بن نصر، قال اخبرنا عبد الله، عن شريك، عن مغيرة، عن ابراهيم، والشعبي، قالا السكر خمر
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 সুওয়ায়দ ইবন নাসর (রহঃ) ... ইবরাহীম এবং শা'বী (রহঃ) বলেন, (سكر) অর্থ মদ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from Al-Mughirah that Ibrahim and Al-Sha'bi said:"Strong drink is Khamr
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |
+
+## French
+
+Rapporté par Al-Mughirah, d’après Ibrahim et Al-Sha'bi : "La boisson forte, c’est le khamr
+
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Suwaid bin Nashr\] ia berkata; telah mengabarkan kepada kami \[Abdullah\] dari \[Syarik\] dari \[Mughirah\] dari \[Ibrahim\] dan \[Asy Sya'bi\] keduanya berkata; "Minuman yang memabukkan adalah khamer
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Suwaid bin Nashr] ia berkata; telah mengabarkan kepada kami [Abdullah] dari [Syarik] dari [Mughirah] dari [Ibrahim] dan [Asy Sya'bi] keduanya berkata; "Minuman yang memabukkan adalah khamer
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Abu Ghuddah |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Abu Ghuddah</td></tr><tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5574</td></tr><tr><td>Arabic No</td><td>5574</td></tr><tr><td>Reference</td><td>Book 51 Hadith 36</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5574 |
+| Arabic No | 5574 |
+| Reference | Book 51 Hadith 36 |

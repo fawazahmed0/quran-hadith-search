@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا يَحْيَى، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَطَاءٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ إِذَا أَكَلَ أَحَدُكُمْ فَلاَ يَمْسَحَنَّ يَدَهُ بِالْمِنْدِيلِ حَتَّى يَلْعَقَهَا أَوْ يُلْعِقَهَا ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
+
 حدثنا مسدد، حدثنا يحيى، عن ابن جريج، عن عطاء، عن ابن عباس، قال قال رسول الله صلى الله عليه وسلم " اذا اكل احدكم فلا يمسحن يده بالمنديل حتى يلعقها او يلعقها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
 
 ## Bengali
 
+। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ আহার করার পর আঙ্গুল চেটে খাওয়ার বা খাওয়ানোর পূর্বে যেন রুমালে হাত না মুছে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু আব্বাস (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ তোমাদের কেউ আহার করার পর আঙ্গুল চেটে খাওয়ার বা খাওয়ানোর পূর্বে যেন রুমালে হাত না মুছে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn ‘Abbas reported the Messenger of Allah (ﷺ) as saying :When one of you eats, he must not wipe his hand with a handkerchief till he licks it or gives it to someone to lick
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
+
+## French
+
+Ibn ‘Abbas رضي الله عنه a rapporté que le Messager d’Allah ﷺ a dit : « Quand l’un d’entre vous mange, il ne doit pas s’essuyer la main avec un mouchoir avant de l’avoir léchée ou de l’avoir donnée à quelqu’un pour qu’il la lèche. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Yahya\] dari \[Ibnu Juraij\] dari \['Atha\] dari \[Ibnu Abbas\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorangii kalian makan, maka janganlah ia usap tangannya menggunakan sapu tangan hingga ia menjilatnya atau menjilatkannya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Yahya] dari [Ibnu Juraij] dari ['Atha] dari [Ibnu Abbas] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Jika salah seorangii kalian makan, maka janganlah ia usap tangannya menggunakan sapu tangan hingga ia menjilatnya atau menjilatkannya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, что Посланник Аллаха ﷺ сказал: «Пусть никто из вас не вытирает руку платком, пока не оближет пальцы или не даст облизать другому»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.a)'dan rivayet olunduğuna göre; Rasûlullah (s.a.v.) şöyle buyurmuştur: "Biriniz (yemeğini) yediği zaman elini yalamadıkça yahutta yalatmadıkça mendille silmesin." Ayrıca bu hadis'i Buharî, et'ime; Müslim, eşribe; Tirmizî, et'ime; İbn Mâce, et'ime; Dârimî, et'ime; Ahmed b. Hanbel, I, 221, 293, 346, 370, II, 341, 415, III, 301, 331, 337, 366, 394, VI, 386. da tahric etti. İzah; 3948 de
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جب تم میں سے کوئی شخص کھانا کھائے تو اپنا ہاتھ اس وقت تک رومال سے نہ پونچھے جب تک کہ اسے خود چاٹ نہ لے یا کسی کو چٹا نہ دے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5456) Sahih Muslim (2031)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3847</td></tr><tr><td>Arabic No</td><td>3847</td></tr><tr><td>Reference</td><td>Book 28 Hadith 112</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5456) Sahih Muslim (2031) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3847 |
+| Arabic No | 3847 |
+| Reference | Book 28 Hadith 112 |

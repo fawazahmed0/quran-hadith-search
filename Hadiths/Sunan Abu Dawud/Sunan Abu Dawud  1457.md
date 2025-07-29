@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ الْحَرَّانِيُّ، حَدَّثَنَا عِيسَى بْنُ يُونُسَ، حَدَّثَنَا ابْنُ أَبِي ذِئْبٍ، عَنِ الْمَقْبُرِيِّ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ ‏(‏ الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ‏)‏ أُمُّ الْقُرْآنِ وَأُمُّ الْكِتَابِ وَالسَّبْعُ الْمَثَانِي ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
+
 حدثنا احمد بن ابي شعيب الحراني، حدثنا عيسى بن يونس، حدثنا ابن ابي ذيب، عن المقبري، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " ( الحمد لله رب العالمين ) ام القران وام الكتاب والسبع المثاني
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সূরাহ ‘‘আলহামদু লিল্লাহি রব্বিল ‘আলামীন’’ হচ্ছে উম্মুল কিতাব, উম্মুল কুরআন এবং বারবার পঠিতব্য সাতটি আয়াত।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ সূরাহ ‘‘আলহামদু লিল্লাহি রব্বিল ‘আলামীন’’ হচ্ছে উম্মুল কিতাব, উম্মুল কুরআন এবং বারবার পঠিতব্য সাতটি আয়াত।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah reported the Messenger of Allah (ﷺ) as saying:All praise be to Allah, the Lord of the Universe" (1) is the epitome or basis of the Qur'an, the epitome or basis of the Book, and the seven oft-repeated verses
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
+
+## French
+
+Rapporté par Abu Huraira رضي الله عنه : Le Messager d’Allah ﷺ a dit : « “Louange à Allah, Seigneur de l’univers” est le résumé ou la base du Coran, la base du Livre, et les sept versets répétés. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Ahmad bin Abu Syu'aib Al Harani\], telah menceritakan kepada Kami \[Isa bin Yunus\], telah menceritakan kepada Kami \[Ibnu Abu Dzi'b\] dari \[Al Maburi\] dari \[Abu Hurairah\], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Al Hamdulillaahi rabbil 'aalamiin (Surat Al Faatihah) adalah Ummul Kitab, serta As Sab'ul matsani
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Ahmad bin Abu Syu'aib Al Harani], telah menceritakan kepada Kami [Isa bin Yunus], telah menceritakan kepada Kami [Ibnu Abu Dzi'b] dari [Al Maburi] dari [Abu Hurairah], ia berkata; Rasulullah shallAllahu wa'alaihi wa sallam bersabda: "Al Hamdulillaahi rabbil 'aalamiin (Surat Al Faatihah) adalah Ummul Kitab, serta As Sab'ul matsani
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «“Хвала Аллаху, Господу миров” мать Корана, мать Книги и семь повторяемых»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Hureyre (r.a.); "Resûlullah (s.a.v.) şöyle buyurdu" demiştir: "Fatiha Suresi, ümmü'I-Kur'an, ümmü'l-kitab ve seb'ü'l-mesânî'dir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: «الحمد لله رب العالمين» ام القرآن اور ام الکتاب ہے اور سبع مثانی ۱؎ ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (4704)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1457</td></tr><tr><td>Arabic No</td><td>1457</td></tr><tr><td>Reference</td><td>Book 8 Hadith 42</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (4704) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1457 |
+| Arabic No | 1457 |
+| Reference | Book 8 Hadith 42 |

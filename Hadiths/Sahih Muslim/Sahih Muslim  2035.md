@@ -18,78 +18,98 @@
 
 ## Arabic
 
+حَدَّثَنِي أَبُو الطَّاهِرِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ إِبْرَاهِيمَ بْنِ سَعْدٍ، عَنْ أَبِيهِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، ‏.‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَأُ فِي الصُّبْحِ يَوْمَ الْجُمُعَةِ بِـ ‏(‏ الم \* تَنْزِيلُ‏)‏ فِي الرَّكْعَةِ الأُولَى وَفِي الثَّانِيَةِ ‏(‏ هَلْ أَتَى عَلَى الإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا‏)‏
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حَدَّثَنِي أَبُو الطَّاهِرِ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ إِبْرَاهِيمَ بْنِ سَعْدٍ، عَنْ أَبِيهِ، عَنِ الأَعْرَجِ، عَنْ أَبِي هُرَيْرَةَ، ‏.‏ أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَقْرَأُ فِي الصُّبْحِ يَوْمَ الْجُمُعَةِ بِـ ‏(‏ الم * تَنْزِيلُ‏)‏ فِي الرَّكْعَةِ الأُولَى وَفِي الثَّانِيَةِ ‏(‏ هَلْ أَتَى عَلَى الإِنْسَانِ حِينٌ مِنَ الدَّهْرِ لَمْ يَكُنْ شَيْئًا مَذْكُورًا‏)‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
+حدثني ابو الطاهر، حدثنا ابن وهب، عن ابراهيم بن سعد، عن ابيه، عن الاعرج، عن ابي هريرة، . ان النبي صلى الله عليه وسلم كان يقرا في الصبح يوم الجمعة ب ( الم \* تنزيل) في الركعة الاولى وفي الثانية ( هل اتى على الانسان حين من الدهر لم يكن شييا مذكورا)
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-حدثني ابو الطاهر، حدثنا ابن وهب، عن ابراهيم بن سعد، عن ابيه، عن الاعرج، عن ابي هريرة، . ان النبي صلى الله عليه وسلم كان يقرا في الصبح يوم الجمعة ب ( الم * تنزيل) في الركعة الاولى وفي الثانية ( هل اتى على الانسان حين من الدهر لم يكن شييا مذكورا)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবূত তহির (রহঃ) ..... আবূ হুরাররাহ (রাযিঃ) থেকে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম জুমুআর দিন ফজরের সালাতে প্রথম রাকাআতে "আলিফ লা~ম মী~ম তানীল" (সূরাহ আস সিজদা) এবং দ্বিতীয় রাক'আতে "হাল আতা আলাল ইনসা-নি হীনুম মিনাদ দাহরি লাম ইয়াকুন শায়আম মাযকুরা" (সূরা দাহর) সূরাদ্বয় পাঠ করতেন। (ইসলামী ফাউন্ডেশন ১৯০৫, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported that the Messenger of Allah (ﷺ) used to recite in the dawn prayer on Friday:" Alif-Lam-Mim, Tanzil" in the first rak'ah, and in the second one:" Surely there came over the man a time when he was nothing that could be mentioned
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## French
 
+Rapporté par Abu Huraira : Le Messager d’Allah ﷺ récitait, lors de la prière de l’aube du vendredi, « Alif-Lam-Mim, Tanzil » dans la première rak'a, et dans la seconde : « Il est certes venu sur l’homme un temps où il n’était rien dont on puisse parler. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## Indonesian
 
+Telah menceritakan kepadaku \[Abu Thahir\] telah menceritakan kepada kami \[Ibnu Wahb\] dari \[Ibrahim bin Sa'd\] dari \[bapaknya\] dari \[Al A'raj\] dari \[Abu Hurairah\] bahwa dalam shalat Shubuh pada hari Jum'at biasanya Nabi shallallahu 'alaihi wasallam membaca "ALIF LAAM MIIM TANZIIL" (surat As Sajadah) pada raka'at pertama, dan pada raka'at kedua, "HAL ATAA 'ALAL INSAANI HIINUM MINAD DAHRI LAM YAKUN SYAI'AN MADZKUURAA." (surat Al Insan)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepadaku [Abu Thahir] telah menceritakan kepada kami [Ibnu Wahb] dari [Ibrahim bin Sa'd] dari [bapaknya] dari [Al A'raj] dari [Abu Hurairah] bahwa dalam shalat Shubuh pada hari Jum'at biasanya Nabi shallallahu 'alaihi wasallam membaca "ALIF LAAM MIIM TANZIIL" (surat As Sajadah) pada raka'at pertama, dan pada raka'at kedua, "HAL ATAA 'ALAL INSAANI HIINUM MINAD DAHRI LAM YAKUN SYAI'AN MADZKUURAA." (surat Al Insan)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается со слов Абу Хурайры, что во время утренней молитвы в пятницу Пророк ﷺ обычно читал в первом рак‘ате “Алиф. Лям. Мим. Ниспослание…”, а во втором “Разве не прошло для человека то время, когда он был безвестен?”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூஹுரைரா (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் வெள்ளிக்கிழமை சுப்ஹுத் தொழுகையின் முதல் ரக்அத்தில் "அலிஃப் லாம் மீம் தன்ஸீல்" ("அஸ்ஸஜ்தா"எனும் 32ஆவது) அத்தியாயத்தையும் இரண்டாவது ரக்அத்தில் ‘ஹல் அத்தா அலல் இன்சானி ஹீனும் மினத் தஹ்ரி லம் யகுன் ஷைஅம் மத்கூரா" எனும் (76ஆவது) அத்தியாயத்தையும் ஓதுவார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Ebû't-Tâhir rivayet etti. (Dediki): Bize ibni Vehb, İbrahim b. Sa'd'dan, o da babasından, o da A'rac'dan, o da Ebû Hureyre'den naklen rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem) cum'a günü sabah namazının ilk rek'atmda Secde sûresini, ikincide Hel'etâ'yı okurmuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ۔ ابراہیم بن سعد نے اپنے والد ( سعد بن ابراہیم ) سے ، انھوں نے عبدالرحمان اعرج سے اور انھوں نے حضرت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے روایت کی کہ نبی اکرم صلی اللہ علیہ وسلم جمعے کے دن صبح کی نماز کی پہلی رکعت میں الم ﴿﴾ تَنزِيلُ الْكِتَابِ اور دوسری رکعت میں هَلْ أَتَىٰ عَلَى الْإِنسَانِ حِينٌ مِّنَ الدَّهْرِ‌لَمْ يَكُن شَيْئًا مَّذْكُورً‌ا پڑھتے تھے ۔ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2035</td></tr><tr><td>Arabic No</td><td>880.02</td></tr><tr><td>Reference</td><td>Book 7 Hadith 85</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2035 |
+| Arabic No | 880.02 |
+| Reference | Book 7 Hadith 85 |

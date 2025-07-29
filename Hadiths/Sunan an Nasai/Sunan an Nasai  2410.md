@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ عَاصِمٍ، عَنْ أَبِي عُثْمَانَ، عَنْ رَجُلٍ، قَالَ أَبُو ذَرٍّ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ مَنْ صَامَ ثَلاَثَةَ أَيَّامٍ مِنْ كُلِّ شَهْرٍ فَقَدْ تَمَّ صَوْمُ الشَّهْرِ أَوْ فَلَهُ صَوْمُ الشَّهْرِ ‏"‏ ‏.‏ شَكَّ عَاصِمٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |
+
 اخبرنا محمد بن حاتم، قال انبانا حبان، قال انبانا عبد الله، عن عاصم، عن ابي عثمان، عن رجل، قال ابو ذر سمعت رسول الله صلى الله عليه وسلم يقول " من صام ثلاثة ايام من كل شهر فقد تم صوم الشهر او فله صوم الشهر " . شك عاصم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মদ ইবন হাতিম (রহঃ) ... আবু যর (রাঃ) বলেছেন, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি ঐ যে ব্যক্তি প্রতি মাসে তিন দিন সওম পালন করল সে যেন সারা মাস সাওম পালন করল অথবা তিনি বলেছেনঃ তার জন্য সারা মাস সাওম পালন করার সওয়াব রয়েছে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu 'Uthman reported from a man, that Abu Dharrr said:"I heard the Messenger of Allah say: "Whoever fasts three days of each month has fasted the month in full' or 'will have (the reward of) fasting the month."' 'Asim was in doubt
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |
+
+## French
+
+Rapporté par Abu ‘Uthman, d’un homme, qu’Abu Dharr a dit : J’ai entendu le Messager d’Allah dire : « Celui qui jeûne trois jours chaque mois a jeûné le mois entier » ou « aura la récompense du jeûne du mois. » ‘Asim avait un doute
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Hatim\] dia berkata; telah memberitakan kepada kami \[Hibban\] dia berkata; telah memberitakan kepada kami \['Abdullah\] dari \['Ashim\] dari \[Abu 'Utsman\] dari \[seorang laki-laki\], dia berkata; \[Abu Dzarr\] berkata; "Barangsiapa berpuasa tiga hari dalam setiap bulan, telah sempurna puasanya dalam sebulan, atau ia telah mendapatkan pahala puasa sebulan." Ashim merasa ragu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Hatim] dia berkata; telah memberitakan kepada kami [Hibban] dia berkata; telah memberitakan kepada kami ['Abdullah] dari ['Ashim] dari [Abu 'Utsman] dari [seorang laki-laki], dia berkata; [Abu Dzarr] berkata; "Barangsiapa berpuasa tiga hari dalam setiap bulan, telah sempurna puasanya dalam sebulan, atau ia telah mendapatkan pahala puasa sebulan." Ashim merasa ragu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوعثمان ایک شخص سے روایت کرتے ہیں کہ ابوذر رضی اللہ عنہ کہتے ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: ”جس نے ہر مہینے میں تین روزہ رکھے تو اس نے ( گویا ) پورے مہینے کے روزہ رکھے“، یا یہ ( فرمایا ) : ”اس کے لیے پورے مہینے کے روزہ کا ثواب ہے“، عاصم راوی کو یہاں شک ہوا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif Isnaad</td><td>Abu Ghuddah</td></tr><tr><td>Daif Isnaad</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2410</td></tr><tr><td>Arabic No</td><td>2410</td></tr><tr><td>Reference</td><td>Book 22 Hadith 321</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif Isnaad | Abu Ghuddah |
+| Daif Isnaad | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2410 |
+| Arabic No | 2410 |
+| Reference | Book 22 Hadith 321 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مُحَمَّدِ بْنِ يَحْيَى، حَدَّثَنَا يَعْقُوبُ بْنُ إِسْحَاقَ الْمُقْرِئُ الْحَضْرَمِيُّ، حَدَّثَنَا سُهَيْلُ بْنُ مِهْرَانَ، - أَخُو حَزْمٍ الْقُطَعِيِّ - حَدَّثَنَا أَبُو عِمْرَانَ، عَنْ جُنْدُبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ مَنْ قَالَ فِي كِتَابِ اللَّهِ عَزَّ وَجَلَّ بِرَأْيِهِ فَأَصَابَ فَقَدْ أَخْطَأَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
+
 حدثنا عبد الله بن محمد بن يحيى، حدثنا يعقوب بن اسحاق المقري الحضرمي، حدثنا سهيل بن مهران، - اخو حزم القطعي - حدثنا ابو عمران، عن جندب، قال قال رسول الله صلى الله عليه وسلم " من قال في كتاب الله عز وجل برايه فاصاب فقد اخطا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
 
 ## Bengali
 
+। যুনদুব (রাঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুরআনের ব্যাখ্যায় নিজ মনগড়া কথা বলে, তার কথা সঠিক হয়ে গেলেও সে ভুল করেছে।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। যুনদুব (রাঃ)-এর সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যে ব্যক্তি কুরআনের ব্যাখ্যায় নিজ মনগড়া কথা বলে, তার কথা সঠিক হয়ে গেলেও সে ভুল করেছে।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jundub: The Prophet (ﷺ) said: If anyone interprets the Book of Allah in the light of his opinion even if he is right, he has erred
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
+
+## French
+
+Rapporté par Jundub : Le Prophète ﷺ a dit : « Si quelqu’un interprète le Livre d’Allah selon sa propre opinion, même s’il a raison, il s’est trompé. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Muhammad bin Yahya\] telah menceritakan kepadaku \[Ya'qub bin Ishaq Al Muqri' Al Hadlrami\] telah menceritakan kepada kami \[Suhail bin Mihran\] saudara Hazm Al Qutha'I, telah menceritakan kepada kami \[Abu 'Imran\] dari \[Jundub\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berbicara tentang Kitabullah 'azza wajalla menggunakan pendapatnya, meskipun benar maka ia telah salah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Muhammad bin Yahya] telah menceritakan kepadaku [Ya'qub bin Ishaq Al Muqri' Al Hadlrami] telah menceritakan kepada kami [Suhail bin Mihran] saudara Hazm Al Qutha'I, telah menceritakan kepada kami [Abu 'Imran] dari [Jundub] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Barangsiapa berbicara tentang Kitabullah 'azza wajalla menggunakan pendapatnya, meskipun benar maka ia telah salah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джундуба, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Кто сказал о Книге Всемогущего и Великого Аллаха по своему мнению и оказался прав, тот всё равно ошибся»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Cündüb (b. Abdillah el-Becelî)'den Rasulullah Sallallahu Aleyhi ve Sellem'in şöyle buyurduğu rivayet olunmuştur: "Aziz ve Celil olan Allah'ın Kitabı üzerinde (sırf kendi) görüşüne dayanarak fikir beyan eden kimse, (konuşmasında) isabet bile etse yine de hata etmiş olur." Diğer tahric: Müslim, münafikîn; Tirmizî, tefsir; Darimî, mukaddime; Ahmed, b. Hanbel, V
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جندب رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس نے اللہ تعالیٰ کی کتاب میں اپنی عقل سے کوئی بات کہی اور درستگی کو پہنچ گیا تو بھی اس نے غلطی کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3652</td></tr><tr><td>Arabic No</td><td>3652</td></tr><tr><td>Reference</td><td>Book 26 Hadith 12</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3652 |
+| Arabic No | 3652 |
+| Reference | Book 26 Hadith 12 |

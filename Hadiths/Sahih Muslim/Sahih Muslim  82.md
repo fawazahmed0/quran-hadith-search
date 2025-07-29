@@ -18,78 +18,70 @@
 
 ## Arabic
 
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
-
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## French
 
+Rapporté par Ahmad bin Yūsuf al-Azdī : Il a dit : « J’ai entendu Abd ar-Razzāq dire : ‘Je n’ai jamais vu Ibn al-Mubārak accuser aussi clairement quelqu’un de “mensonge” sauf envers Abd ul-Quddūs ; en effet, je l’ai entendu lui dire : “Tu es un menteur.”’ »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>82</td></tr><tr><td>Reference</td><td>Book 0 Hadith 82</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 82 |
+| Reference | Book 0 Hadith 82 |

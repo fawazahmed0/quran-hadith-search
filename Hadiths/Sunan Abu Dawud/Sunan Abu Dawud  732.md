@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عِيسَى بْنُ إِبْرَاهِيمَ الْمِصْرِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، عَنِ اللَّيْثِ بْنِ سَعْدٍ، عَنْ يَزِيدَ بْنِ مُحَمَّدٍ الْقُرَشِيِّ، وَيَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ حَلْحَلَةَ، عَنْ مُحَمَّدِ بْنِ عَمْرِو بْنِ عَطَاءٍ، نَحْوَ هَذَا قَالَ فَإِذَا سَجَدَ وَضَعَ يَدَيْهِ غَيْرَ مُفْتَرِشٍ وَلاَ قَابِضِهِمَا وَاسْتَقْبَلَ بِأَطْرَافِ أَصَابِعِهِ الْقِبْلَةَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
+
 حدثنا عيسى بن ابراهيم المصري، حدثنا ابن وهب، عن الليث بن سعد، عن يزيد بن محمد القرشي، ويزيد بن ابي حبيب، عن محمد بن عمرو بن حلحلة، عن محمد بن عمرو بن عطاء، نحو هذا قال فاذا سجد وضع يديه غير مفترش ولا قابضهما واستقبل باطراف اصابعه القبلة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
 
 ## Bengali
 
+। মুহাম্মাদ ইবনু ‘আমর ইবনু ‘আত্বা সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। বর্ণনাকারী বলেন, তিনি সিজদাতে নিজের দু’ হাত একেবারে বিছিয়েও দিতেন না আবার তা শরীরের সাথে মিলিয়েও রাখতেন না। তিনি তাঁর পায়ের আঙ্গুলগুলো কিবলামুখী করে রাখতেন।\[1\] সহীহ : বুখারী।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। মুহাম্মাদ ইবনু ‘আমর ইবনু ‘আত্বা সূত্রে পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। বর্ণনাকারী বলেন, তিনি সিজদাতে নিজের দু’ হাত একেবারে বিছিয়েও দিতেন না আবার তা শরীরের সাথে মিলিয়েও রাখতেন না। তিনি তাঁর পায়ের আঙ্গুলগুলো কিবলামুখী করে রাখতেন।[1] সহীহ : বুখারী।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 The above mentioned tradition has also been reported by Muhammad b. ‘Amr b. ‘Ata’ through a different chain of narrators. This version adds:“When he prostrated himself he neither placed his arms on the ground nor closed them; putting forward his fingers towards the qiblah.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
+
+## French
+
+Ce même récit a aussi été rapporté par Muhammad b. ‘Amr b. ‘Ata’ à travers une autre chaîne de transmetteurs. Cette version ajoute : « Quand il se prosternait, il ne posait pas ses bras au sol ni ne les serrait contre lui ; il dirigeait ses doigts vers la qibla. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Мухаммад ибн ‘Амр ибн ‘Атаъ передавая похожий хадис, сказал: «Совершая земной поклон, он опирался ладонями (о землю) и не касался локтями ни земли, ни тела, а кончики его пальцев (ног) были направлены в сторону киблы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Muhammed b. Amr b. Ata'dan bir Önceki (731) hadisin aynısı (rivayet edilmiştir. Ancak Muhammed bir önceki rivayetinden fazla olarak şunları) söylemiştir: "Secdeye vardığı zaman (kollarını) yaymaksızın ve onları (yanlarına) çekmeksizin ellerini yere koyardı ve (secde halinde iken de el ve ayak) parmaklarını kıbleye yöneltirdi." Diğer tahric: Buharî, ezan, Müslim, salat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اس سند سے بھی محمد بن عمرو بن عطاء سے اسی طرح مروی ہے، اس میں ہے جب آپ سجدہ کرتے تو اپنے دونوں ہاتھ زمین پر رکھتے، نہ ہی انہیں بچھاتے اور نہ ہی انہیں سمیٹے رکھتے، اور اپنی انگلیوں کے کناروں سے قبلہ کا استقبال کرتے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (828)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>732</td></tr><tr><td>Arabic No</td><td>732</td></tr><tr><td>Reference</td><td>Book 2 Hadith 342</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (828) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 732 |
+| Arabic No | 732 |
+| Reference | Book 2 Hadith 342 |

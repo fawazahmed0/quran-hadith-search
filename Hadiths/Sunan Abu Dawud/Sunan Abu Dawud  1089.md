@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هَنَّادُ بْنُ السَّرِيِّ، حَدَّثَنَا عَبْدَةُ، عَنْ مُحَمَّدٍ، - يَعْنِي ابْنَ إِسْحَاقَ - عَنِ الزُّهْرِيِّ، عَنِ السَّائِبِ، قَالَ لَمْ يَكُنْ لِرَسُولِ اللَّهِ صلى الله عليه وسلم إِلاَّ مُؤَذِّنٌ وَاحِدٌ بِلاَلٌ ثُمَّ ذَكَرَ مَعْنَاهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
+
 حدثنا هناد بن السري، حدثنا عبدة، عن محمد، - يعني ابن اسحاق - عن الزهري، عن السايب، قال لم يكن لرسول الله صلى الله عليه وسلم الا موذن واحد بلال ثم ذكر معناه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
 
 ## Bengali
 
+। আস-সায়িব ইবনু ইয়াযীদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মাত্র একজন মুয়াযযিন ছিলেন। তিনি হলেন বিলাল (রাঃ)। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আস-সায়িব ইবনু ইয়াযীদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর মাত্র একজন মুয়াযযিন ছিলেন। তিনি হলেন বিলাল (রাঃ)। অতঃপর বর্ণনাকারী পূর্বোক্ত হাদীসের অনুরূপ বর্ণনা করেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sa'ib said:There was no other mu'adhdhin (pronouncer) of the Messenger of Allah (ﷺ) except Bilal. The narrator then reported the tradition to the same effect
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
+
+## French
+
+Rapporté par Sa’ib رضي الله عنه : Il n’y avait pas d’autre muezzin pour le Messager d’Allah ﷺ que Bilal. Le narrateur a ensuite rapporté la tradition dans le même sens
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Ас-Саиба, что у Посланника Аллаха ﷺ был только один муаззин, а именно Биляль. Далее он привёл хадис подобный предыдущему
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sâib (b. Yezîd)'den; demiştir ki: Resulullah (s.a.v.)'in sadece bir müezzini vardı. O da Bilâl'di. Bundan sonra Muhammed b. îshâk, Yûnus'un (1087.) hadisindeki mânâyı nakletti. Diğer kaynaklar: Buhari, Cum'a; Nesâî, Cum'a; îbn Mâce, ikâme; Ahmed b. Hanbel, III
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 رسول اللہ صلی اللہ علیہ وسلم کے پاس سوائے ایک مؤذن بلال رضی اللہ عنہ کے کوئی اور مؤذن نہیں تھا ۱؎۔ پھر راوی نے اسی مفہوم کی حدیث ذکر کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1089</td></tr><tr><td>Arabic No</td><td>1089</td></tr><tr><td>Reference</td><td>Book 2 Hadith 700</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1089 |
+| Arabic No | 1089 |
+| Reference | Book 2 Hadith 700 |

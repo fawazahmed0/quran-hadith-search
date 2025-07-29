@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ أَبِي شُعَيْبٍ الْحَرَّانِيُّ، حَدَّثَنِي الْحَارِثُ بْنُ عُمَيْرٍ الْبَصْرِيُّ، عَنْ أَيُّوبَ السَّخْتِيَانِيِّ، عَنْ أَبِي قِلاَبَةَ، عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، قَالَ كُسِفَتِ الشَّمْسُ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَجَعَلَ يُصَلِّي رَكْعَتَيْنِ رَكْعَتَيْنِ وَيَسْأَلُ عَنْهَا حَتَّى انْجَلَتْ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
+
 حدثنا احمد بن ابي شعيب الحراني، حدثني الحارث بن عمير البصري، عن ايوب السختياني، عن ابي قلابة، عن النعمان بن بشير، قال كسفت الشمس على عهد رسول الله صلى الله عليه وسلم فجعل يصلي ركعتين ركعتين ويسال عنها حتى انجلت
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
 
 ## Bengali
 
+। নু‘মান ইবনু বাশীর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে সূর্যগ্রহণ হলে তিনি দু’ দু’ রাক‘আত সালাত আদায় করেন এবং সূর্য গ্রহণমুক্ত হয়েছে কিনা তা জিজ্ঞেস করতে থাকেন।\[1\] মুনকার।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নু‘মান ইবনু বাশীর (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, একবার নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যুগে সূর্যগ্রহণ হলে তিনি দু’ দু’ রাক‘আত সালাত আদায় করেন এবং সূর্য গ্রহণমুক্ত হয়েছে কিনা তা জিজ্ঞেস করতে থাকেন।[1] মুনকার।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated An-Nu'man ibn Bashir: There was an eclipse of the sun in the time of the Prophet (ﷺ). He began to pray a series of pairs of rak'ahs enquiring about the sun (at the end of them) till it became clear
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
+
+## French
+
+Rapporté par An-Nu’man ibn Bashir رضي الله عنه : Il y eut une éclipse du soleil à l’époque du Prophète ﷺ. Il commença à prier une série de deux unités, en s’enquérant de l’état du soleil à la fin de chaque prière, jusqu’à ce qu’il redevienne clair
+
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Abu Syu'aib Al Harrani\] telah menceritakan kepadaku \[Al Harits bin 'Umair Al Bahsri\] dari \[Ayyub As Sakhtiyani\] dari \[Abu Qilabah\] dari \[An Nu'man bin Basyir\] dia berkata; "Telah terjadi gerhana Matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, beliau mengerjakan shalat dua raka'at, dua raka'at, dan beliau bertanya (tentang gerhana) hingga gerhana selesai
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Abu Syu'aib Al Harrani] telah menceritakan kepadaku [Al Harits bin 'Umair Al Bahsri] dari [Ayyub As Sakhtiyani] dari [Abu Qilabah] dari [An Nu'man bin Basyir] dia berkata; "Telah terjadi gerhana Matahari pada zaman Rasulullah shallallahu 'alaihi wasallam, beliau mengerjakan shalat dua raka'at, dua raka'at, dan beliau bertanya (tentang gerhana) hingga gerhana selesai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от ан-Ну‘мана ибн Башира, да будет доволен Аллах им и его отцом: «Во времена Посланника Аллаха ﷺ произошло солнечное затмение, и Посланник Аллаха ﷺ стал совершать молитву по два рак‘ата, периодически спрашивая о состоянии солнца, пока затмение не кончилось»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 en-Nu'mân b. Beşîr'den; demiştir ki: Resûlullah (S.A.V.) zamanında güneş tutuldu. Bunun üzerine, Hz. Peygamber güneş açılıncaya kadar iki rekat, iki rekat namaz kılmaya başladı. (Her iki rekatın bitiminde) güneşin açılıp açılmadığını (cemaate) soruyor(du)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نعمان بن بشیر رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم کے زمانہ میں سورج گرہن لگا تو آپ دو دو رکعتیں پڑھتے جاتے اور سورج کے متعلق پوچھتے جاتے یہاں تک کہ وہ صاف ہو گیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Munkar</td><td>Al-Albani</td></tr><tr><td>Munkar</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1193</td></tr><tr><td>Arabic No</td><td>1193</td></tr><tr><td>Reference</td><td>Book 3 Hadith 33</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Munkar | Al-Albani |
+| Munkar | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1193 |
+| Arabic No | 1193 |
+| Reference | Book 3 Hadith 33 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ سَالِمٍ، عَنْ أَبِيهِ، عَنْ عَامِرِ بْنِ رَبِيعَةَ الْعَدَوِيِّ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم أَنَّهُ قَالَ ‏ "‏ إِذَا رَأَيْتُمُ الْجَنَازَةَ فَقُومُوا حَتَّى تُخَلِّفَكُمْ أَوْ تُوضَعَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 21 Hadith 99</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |
+
 اخبرنا قتيبة، قال حدثنا الليث، عن ابن شهاب، عن سالم، عن ابيه، عن عامر بن ربيعة العدوي، عن رسول الله صلى الله عليه وسلم انه قال " اذا رايتم الجنازة فقوموا حتى تخلفكم او توضع
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 21 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । কুতায়বা (রহঃ) ... আমির ইবনু রাবী’আ (রাঃ) সুত্রে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত যে, তিনি বলেছেন তোমরা যখন জানাজা দেখবে তখন তোমরা তার পিছনে না পড়া পর্যন্ত কিংবা তা না রাখা পর্যন্ত দাঁড়িয়ে থাকবে।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 21 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated form 'Amir bin Rabi'ah Al-'Adawi that the Messenger of Allah said:"When you see a funeral, stand up until it has passed you, or (the body) is placed (in the grave)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 21 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |
+
+## French
+
+Rapporté par ‘Amir bin Rabi’ah Al-‘Adawi : Le Messager d’Allah ﷺ a dit : "Quand vous voyez un cortège funéraire, levez-vous jusqu’à ce qu’il vous ait dépassé, ou que le corps soit déposé dans la tombe
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Qutaibah\] dia berkata; telah menceritakan kepada kami \[Al Laits\] dari \[Ibnu Syihab\] dari \[Salim\] dari \[bapaknya\] dari \['Amir bin Rabi'ah Al 'Adawi\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jika kalian melihat jenazah, berdirilah hingga jenazah melewati kalian atau jenazah diletakkan
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Qutaibah] dia berkata; telah menceritakan kepada kami [Al Laits] dari [Ibnu Syihab] dari [Salim] dari [bapaknya] dari ['Amir bin Rabi'ah Al 'Adawi] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Jika kalian melihat jenazah, berdirilah hingga jenazah melewati kalian atau jenazah diletakkan
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 21 Hadith 99</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 21 Hadith 99</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عامر بن ربیعہ عدوی رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جب تم جنازہ دیکھو تو کھڑے ہو جاؤ یہاں تک کہ وہ تم سے آگے نکل جائے، یا رکھ دیا جائے“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1916</td></tr><tr><td>Arabic No</td><td>1916</td></tr><tr><td>Reference</td><td>Book 21 Hadith 99</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1916 |
+| Arabic No | 1916 |
+| Reference | Book 21 Hadith 99 |

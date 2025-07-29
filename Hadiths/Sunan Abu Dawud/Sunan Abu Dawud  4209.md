@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ عُبَيْدٍ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّهُ سُئِلَ عَنْ خِضَابِ النَّبِيِّ، صلى الله عليه وسلم فَذَكَرَ أَنَّهُ لَمْ يَخْضِبْ وَلَكِنْ قَدْ خَضَبَ أَبُو بَكْرٍ وَعُمَرُ رَضِيَ اللَّهُ عَنْهُمَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
+
 حدثنا محمد بن عبيد، حدثنا حماد، عن ثابت، عن انس، انه سيل عن خضاب النبي، صلى الله عليه وسلم فذكر انه لم يخضب ولكن قد خضب ابو بكر وعمر رضي الله عنهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
 
 ## Bengali
 
+। আনাস (রাঃ) সূত্রে বর্ণিত। তাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর খেযাব ব্যবহার সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) খেযাব ব্যবহার করেননি; কিন্তু আবূ বাকর (রাঃ)-ও খেযাব লাগিয়েছেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আনাস (রাঃ) সূত্রে বর্ণিত। তাকে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর খেযাব ব্যবহার সম্পর্কে জিজ্ঞেস করা হলে তিনি বলেন, তিনি (সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম) খেযাব ব্যবহার করেননি; কিন্তু আবূ বাকর (রাঃ)-ও খেযাব লাগিয়েছেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Thabit said that Anas was asked about the hair-dye of the Prophet (ﷺ). He replied:He did not dye his hair, but Abu Bakr and 'Umar dyed their hair
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
+
+## French
+
+Thabit a dit qu’on a demandé à Anas رضي الله عنه si le Prophète ﷺ se teignait les cheveux. Il a répondu : « Il ne se teignait pas les cheveux, mais Abu Bakr et ‘Umar le faisaient. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Ubaid\] berkata, telah menceritakan kepada kami \[Hammad\] dari \[Tsabit\] dari \[Anas\] Bahwasanya ia pernah ditanya tentang warna cat (rambut) Nabi shallallahu 'alaihi wasallam. Lalu ia menyebutkan bahwa Rasulullah tidak pernah mengecat rambutnya, hanya saja hal itu pernah dilakukan oleh Abu Bakar dan Umar radliallahu 'anhuma
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Ubaid] berkata, telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas] Bahwasanya ia pernah ditanya tentang warna cat (rambut) Nabi shallallahu 'alaihi wasallam. Lalu ia menyebutkan bahwa Rasulullah tidak pernah mengecat rambutnya, hanya saja hal itu pernah dilakukan oleh Abu Bakar dan Umar radliallahu 'anhuma
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
 
 ## Russian
 
+Сабит (\[аль-Бунани) передаёт, что когда Анаса (ибн Малика) спросили о том, красился ли Пророк ﷺ он ответил, что он не красился, но Абу Бакр и ‘Умар (да будет доволен Аллах ими обоими) красились
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Сабит ([аль-Бунани) передаёт, что когда Анаса (ибн Малика) спросили о том, красился ли Пророк ﷺ он ответил, что он не красился, но Абу Бакр и ‘Умар (да будет доволен Аллах ими обоими) красились
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Sâbit'ten rivayet edildiğine göre: Enes (r.a)'a, Hz. Nebi (s.a.v.)'in boyanması konusu soruldu. O da Resûlullah’ın boyanmadığını, ama Ebû Bekir ve Ömer'in boyandıklarını söyledi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ سے روایت ہے کہ ان سے نبی اکرم صلی اللہ علیہ وسلم کے خضاب کے متعلق پوچھا گیا تو انہوں نے کہا: آپ صلی اللہ علیہ وسلم نے تو خضاب لگایا ہی نہیں، ہاں ابوبکر و عمر رضی اللہ عنہما نے لگایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Bukhari (5895) Sahih Muslim (2341)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4209</td></tr><tr><td>Arabic No</td><td>4209</td></tr><tr><td>Reference</td><td>Book 35 Hadith 51</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Bukhari (5895) Sahih Muslim (2341) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4209 |
+| Arabic No | 4209 |
+| Reference | Book 35 Hadith 51 |

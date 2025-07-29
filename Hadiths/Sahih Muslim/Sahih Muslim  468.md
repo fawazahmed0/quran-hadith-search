@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا ابْنُ نُمَيْرٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، وَوَكِيعٌ، ح وَحَدَّثَنَا أَبُو بَكْرِ بْنُ أَبِي شَيْبَةَ، حَدَّثَنَا وَكِيعٌ، ح وَحَدَّثَنَا أَبُو كُرَيْبٍ، حَدَّثَنَا أَبُو مُعَاوِيَةَ، كِلاَهُمَا عَنِ الأَعْمَشِ، بِهَذَا الإِسْنَادِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا ابن نمير، حدثنا ابو معاوية، ووكيع، ح وحدثنا ابو بكر بن ابي شيبة، حدثنا وكيع، ح وحدثنا ابو كريب، حدثنا ابو معاوية، كلاهما عن الاعمش، بهذا الاسناد
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু নুমায়র আবূ বাকর ইবনু আবূ শাইবাহ ও আবূ কুরায়ব (রহঃ) ..... আ'মাশ (রহঃ) এর সূত্রে এ সনদে উক্ত হাদীস বর্ণনা করেছেন। (ইসলামিক ফাউন্ডেশনঃ ৩৬৪, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith is also narrated by another chain of narrators, i. e. Ibn Numair, Abu Mu'awiya, Waki', Abu Bakr b. Abi Shaiba, Abu Kuraib, A'mash
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## French
 
+Rapporté par Ibn Numair, Abu Mu'awiya, Waki', Abu Bakr b. Abi Shaiba, Abu Kuraib, et A'mash : Ce hadith est également rapporté par une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Этот хадис подобен предыдущему, но с другим иснадом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 மேற்கண்ட ஹதீஸ் மேலும் நான்கு அறிவிப்பாளர்தொடர்கள் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize İbn Numeyr de tahdis etti. Bize Ebu Muaviye ve Vekı' tahdis etti. (H) Bize Ebu Bekr b. Ebi Şeybe de tahdis etti, bize Vekı' tahdis etti. (H) Bize Ebu Kureyb de tahdis etti, bize Ebu Muaviye tahdis etti. Her ikisi (Veki' ile Ebu Muaviye) A'meş'ten bu isnad ile (hadisi rivayet etti)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 اعمش کے دوشاگردوں ابو معاویہ اور وکیع نے اپنی اپنی سند کے ساتھ مذکورہ بالا روایت بیان کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>468</td></tr><tr><td>Arabic No</td><td>190.02</td></tr><tr><td>Reference</td><td>Book 1 Hadith 374</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 468 |
+| Arabic No | 190.02 |
+| Reference | Book 1 Hadith 374 |

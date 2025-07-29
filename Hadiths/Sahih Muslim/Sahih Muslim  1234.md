@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عُبَيْدُ اللَّهِ بْنُ مُعَاذٍ الْعَنْبَرِيُّ، حَدَّثَنَا أَبِي، حَدَّثَنَا كَهْمَسٌ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ بْنِ الشِّخِّيرِ، عَنْ أَبِيهِ، قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَرَأَيْتُهُ تَنَخَّعَ فَدَلَكَهَا بِنَعْلِهِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبيد الله بن معاذ العنبري، حدثنا ابي، حدثنا كهمس، عن يزيد بن عبد الله بن الشخير، عن ابيه، قال صليت مع رسول الله صلى الله عليه وسلم فرايته تنخع فدلكها بنعله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 উবায়দুল্লাহ ইবনু মুআয আল আম্বারী (রহঃ) ..... আবদুল্লাহ ইবনু শিখখীর (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, আমি রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পিছনে সালাত আদায় করেছি। আমি দেখলাম তিনি কাশি ফেলে তা জুতা দিয়ে ঘষে (মাটির সাথে মিশিয়ে) দিলেন। (ইসলামী ফাউন্ডেশন ১১১৪, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah b. Shakhkhir reported on the authority of his father that he said:I said prayer with the Messenger of Allah (ﷺ) and saw him spitting and rubbing it off with his shoe
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## French
 
+Rapporté par Abdullah ibn Shakhkhir d’après son père : J’ai prié avec le Messager d’Allah ﷺ et je l’ai vu cracher puis essuyer cela avec sa chaussure
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ubaidullah bin Mu'adz al-Anbari\] telah menceritakan kepada kami \[Bapakku\] telah menceritakan kepada kami \[Kahmas\] dari \[Yazid bin Abdullah bin asy-Syikhkhir\] dari \[Bapaknya\] dia berkata, "Saya shalat bersama Rasulullah Shallallahu'alaihiwasallam lalu saya melihat beliau meludah, lalu dia menggosok-gosoknya dengan sandalnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ubaidullah bin Mu'adz al-Anbari] telah menceritakan kepada kami [Bapakku] telah menceritakan kepada kami [Kahmas] dari [Yazid bin Abdullah bin asy-Syikhkhir] dari [Bapaknya] dia berkata, "Saya shalat bersama Rasulullah Shallallahu'alaihiwasallam lalu saya melihat beliau meludah, lalu dia menggosok-gosoknya dengan sandalnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что ‘Абдуллах ибн аш-Шиххир сказал: «(Однажды) я молился вместе с Посланником Аллаха ﷺ и видел, как он сплюнул и растёр плевок сандалией»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ubeydullâh b. Muâz El-Anberi rivayet etti. (Dediki): Bize babam rivayet etti. (Dediki) : Bize Kehmes, Yezîd b. Abdillâh b. Sıhhîr'den, o da babasından naklen rivayet etti. Şöyle demiş: Resulullah (Sallallahu Aleyhi ve Sellem) ile birlikde namaz kıldım. Onun tükürdüğünü, arkasından tükürüğü ayakkabı ile ovaladığını gördüm.»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 کہمس نے یزید بن عبداللہ بن شخیر سے ، انھوں نے اپنے والد سےروایت کی ، انھوں نےکہا : میں نے رسول اللہ ﷺ کے ساتھ ( آپ کی اقتدا میں ) نماز ادا کی ، میں نے آپ کو دیکھا کہ آپ نے ( گلے سے ) بلغم نکالا اور ( چونکہ پاؤں کے نیچے ریت تھی اس لیے ) اسے اپنے جوتے سے مسل دیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1234</td></tr><tr><td>Arabic No</td><td>554.01</td></tr><tr><td>Reference</td><td>Book 5 Hadith 72</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1234 |
+| Arabic No | 554.01 |
+| Reference | Book 5 Hadith 72 |

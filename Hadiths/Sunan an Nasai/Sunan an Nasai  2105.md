@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ حَاتِمٍ، قَالَ أَنْبَأَنَا حِبَّانُ بْنُ مُوسَى، - خُرَاسَانِيٌّ - قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ، عَنْ مَعْمَرٍ، عَنِ الزُّهْرِيِّ، عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ إِذَا دَخَلَ رَمَضَانُ فُتِّحَتْ أَبْوَابُ الرَّحْمَةِ وَغُلِّقَتْ أَبْوَابُ جَهَنَّمَ وَسُلْسِلَتِ الشَّيَاطِينُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |
+
 اخبرنا محمد بن حاتم، قال انبانا حبان بن موسى، - خراساني - قال انبانا عبد الله، عن معمر، عن الزهري، عن ابي هريرة، عن النبي صلى الله عليه وسلم قال " اذا دخل رمضان فتحت ابواب الرحمة وغلقت ابواب جهنم وسلسلت الشياطين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু হাতিম (রহঃ) ... আবূ হুরায়রা (রাঃ) সূত্রে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণিত। তিনি বলেনঃ যখন রমযান আগমন করে তখন রহমতের দরজাসমুহ খুলে দেয়া হয়, জাহান্নামের দরজাসমূহ বন্ধ করে দেয়া হয় আর শয়তানদেরকে শৃঙ্খলাবদ্ধ করে রাখা হয়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated Az-Zuhri, from Abu Hurairah that the Prophet said:"When Ramadan begins, the gates of mercy are opened and the gates of Hall are closed, and the devils are chained up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |
+
+## French
+
+Rapporté par Az-Zuhri, d’après Abu Hurairah : Le Prophète ﷺ a dit : « Quand le Ramadan commence, les portes de la miséricorde sont ouvertes, les portes de l’Enfer sont fermées et les démons sont enchaînés. »
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Hatim\] dia berkata; telah memberitakan kepada kami \[Hibban bin Musa Al Khurasani\] dia berkata; telah memberitakan kepada kami \['Abdullah\] dari \[Ma'mar\] dari \[Az Zuhri\] dari \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika masuk -bulan- Ramadlan, pintu rahmat dibuka, pintu neraka Jahanam ditutup, dan syetan dirantai
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Hatim] dia berkata; telah memberitakan kepada kami [Hibban bin Musa Al Khurasani] dia berkata; telah memberitakan kepada kami ['Abdullah] dari [Ma'mar] dari [Az Zuhri] dari [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam bersabda: "Jika masuk -bulan- Ramadlan, pintu rahmat dibuka, pintu neraka Jahanam ditutup, dan syetan dirantai
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی الله عنہ روایت کرتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”جب رمضان آتا ہے تو رحمت کے دروازے کھول دئیے جاتے ہیں، جہنم کے دروازے بند کر دئیے جاتے ہیں، اور شیاطین جکڑ دئیے جاتے ہیں“۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih Lighairihi</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2105</td></tr><tr><td>Arabic No</td><td>2105</td></tr><tr><td>Reference</td><td>Book 22 Hadith 16</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih Lighairihi | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2105 |
+| Arabic No | 2105 |
+| Reference | Book 22 Hadith 16 |

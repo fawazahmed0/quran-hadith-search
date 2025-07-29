@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنَا مُحَمَّدُ بْنُ الْمُثَنَّى، حَدَّثَنَا عَبْدُ الْوَهَّابِ، قَالَ سَمِعْتُ يَحْيَى بْنَ سَعِيدٍ، يَقُولُ أَخْبَرَتْنِي عَمْرَةُ، أَنَّهَا سَمِعَتْ عَائِشَةَ، رضى الله عنها ح. وَحَدَّثَنَاهُ ابْنُ أَبِي عُمَرَ، حَدَّثَنَا سُفْيَانُ، عَنْ يَحْيَى، بِهَذَا الإِسْنَادِ مِثْلَهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنا محمد بن المثنى، حدثنا عبد الوهاب، قال سمعت يحيى بن سعيد، يقول اخبرتني عمرة، انها سمعت عايشة، رضى الله عنها ح. وحدثناه ابن ابي عمر، حدثنا سفيان، عن يحيى، بهذا الاسناد مثله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনুল মুসান্না ও ইবনু আবূ উমর (রাযিঃ) এ সানাদেও পূর্বোক্ত হাদীসের অনুরূপ বর্ণিত হয়েছে। (ইসলামিক ফাউন্ডেশন ২৭৯৩, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadlth has been narrated by Yahya through the same chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## French
 
+Rapporté par Yahya : Ce hadith a été rapporté par Yahya avec la même chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Bize Muhammedü'bnu'l-Müsennâ rivayet etti. (Dediki): Bize Abdüivahhâb rivayet etti. (Dediki): Yahya b. Saîd'i şöyle derken işittim : Bana, Amra haber verdi, o da Âişe (Radiyallahu anhaj'dan işitmiş. H. Bize, bu hadîsi İbni Ebi Ömer de rivayet etti. (Dediki): Bize Süfyân, Yahya'dan bu isnâdla bu hadîsin mislini rivayet eyledi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبد الوہاب اور سفیان بن عیینہ نے یحییٰ سے اسی سند کے ساتھ اسی طرح حدیث بیان کی ،
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2926</td></tr><tr><td>Arabic No</td><td>1211.17</td></tr><tr><td>Reference</td><td>Book 15 Hadith 135</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2926 |
+| Arabic No | 1211.17 |
+| Reference | Book 15 Hadith 135 |

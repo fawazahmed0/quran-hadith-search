@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا مُحَمَّدُ بْنُ مَعْدَانَ بْنِ عِيسَى، قَالَ حَدَّثَنَا الْحَسَنُ بْنُ أَعْيَنَ، قَالَ حَدَّثَنَا مَعْقِلٌ، عَنْ عَطَاءٍ، قَالَ أُخْبِرْتُ أَنَّ أُمَّ حَبِيبَةَ بِنْتَ أَبِي سُفْيَانَ قَالَتْ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏ "‏ مَنْ رَكَعَ ثِنْتَىْ عَشْرَةَ رَكْعَةً فِي يَوْمِهِ وَلَيْلَتِهِ سِوَى الْمَكْتُوبَةِ بَنَى اللَّهُ لَهُ بِهَا بَيْتًا فِي الْجَنَّةِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 20 Hadith 199</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |
+
 اخبرنا محمد بن معدان بن عيسى، قال حدثنا الحسن بن اعين، قال حدثنا معقل، عن عطاء، قال اخبرت ان ام حبيبة بنت ابي سفيان قالت سمعت رسول الله صلى الله عليه وسلم يقول " من ركع ثنتى عشرة ركعة في يومه وليلته سوى المكتوبة بنى الله له بها بيتا في الجنة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 20 Hadith 199</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । মুহাম্মাদ ইবনু মা’দান (রহঃ) ... উম্মে হাবীবা বিনত আবূ সূফিয়ান (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছি, যে ব্যক্তি দিবা রাত্রি ফরয সালাত ব্যতীত বার রাকআত (সুন্নাতে মুওয়াক্কাকাদার) সালাত আদায় করবে আল্লাহ তা'আলা তার জন্য জান্নাতে একটি ঘর বানাবেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 20 Hadith 199</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Ata said:"I was told that Umm Habibah bin Abi Sufyan said: "I heard the Messenger of Allah (ﷺ) say: 'Whoever prays twelve rak'ahs during the day and night, apart from the prescribed prayers, Allah (SWT) will build for him a house in Paradise
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 20 Hadith 199</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |
+
+## French
+
+Rapporté par ‘Ata : On m’a dit que Oumm Habibah bint Abi Soufyan a dit : "J’ai entendu le Messager d’Allah (ﷺ) dire : Celui qui prie douze rak‘a pendant la journée et la nuit, en plus des prières obligatoires, Allah (SWT) lui construira une maison au Paradis
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Muhammad bin Ma'dah bin 'Isa\] dia berkata; telah menceritakan kepada kami \[Al Hasan bin A'yan\] dia berkata; telah menceritakan kepada kami \[Ma'qil\] dari \['Atha\] dia berkata; Aku diberi kabar bahwasanya \[Ummu Habibah bintu Abu Sufyan\] berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barangsiapa mengerjakan dua belas rakaat pada siang dan malamnya selain shalat wajib, Allah membangunkan baginya sebuah rumah di surga
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Muhammad bin Ma'dah bin 'Isa] dia berkata; telah menceritakan kepada kami [Al Hasan bin A'yan] dia berkata; telah menceritakan kepada kami [Ma'qil] dari ['Atha] dia berkata; Aku diberi kabar bahwasanya [Ummu Habibah bintu Abu Sufyan] berkata; "Aku mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: 'Barangsiapa mengerjakan dua belas rakaat pada siang dan malamnya selain shalat wajib, Allah membangunkan baginya sebuah rumah di surga
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 20 Hadith 199</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 20 Hadith 199</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین ام حبیبہ بنت ابی سفیان رضی اللہ عنہا کہتی ہیں کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے سنا: جس نے فرض کے علاوہ دن رات میں بارہ رکعتیں پڑھیں، اللہ تعالیٰ اس کی وجہ سے اس کے لیے جنت میں ایک گھر بنائے گا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1796</td></tr><tr><td>Arabic No</td><td>1796</td></tr><tr><td>Reference</td><td>Book 20 Hadith 199</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1796 |
+| Arabic No | 1796 |
+| Reference | Book 20 Hadith 199 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,126 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، وَمُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، عَنْ يَزِيدَ، - وَهُوَ ابْنُ زُرَيْعٍ - قَالَ حَدَّثَنِي عَبْدُ الرَّحْمَنِ بْنُ أَبِي عَتِيقٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، سَمِعْتُ عَائِشَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ مَرْضَاةٌ لِلرَّبِّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
+
 اخبرنا حميد بن مسعدة، ومحمد بن عبد الاعلى، عن يزيد، - وهو ابن زريع - قال حدثني عبد الرحمن بن ابي عتيق، قال حدثني ابي قال، سمعت عايشة، عن النبي صلى الله عليه وسلم قال " السواك مطهرة للفم مرضاة للرب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । হুমায়দ ইবনু মাসআদাহ ও মুহাম্মদ ইবনু আবদুল আ’লা (রহঃ) ... আয়িশা (রাঃ) থেকে বর্ণিত। তিনি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে বর্ণনা করেনঃ তিনি বলেছেন যে, মিসওয়াক মুখের পবিত্রতা অর্জনের উপকরণ ও আল্লাহর সন্তোষ লাভের উপায়।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdur-Rahman bin Abu 'Atiq said:"My father told me: 'I heard 'Aishah say, (narrating) from the Prophet (ﷺ): "Siwak is a means of purification for the mouth and is pleasing to the Lord
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
+
+## French
+
+Rapporté par Abdur-Rahman bin Abu 'Atiq : Mon père m’a dit : "J’ai entendu 'Aishah dire, rapportant du Prophète (ﷺ) : 'Le siwak purifie la bouche et plaît au Seigneur
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Humaid bin Mas'adah\] dan \[Muhammad bin Abdul A'la\] dari \[Yazid\] yaitu Ibnu Jura'i dia berkata; telah menyampaikan kepadaku \[Abdurrahman bin Abu 'Atiq\] dia berkata; \[ayahku\] telah berkata kepadaku; saya mendengar dari \[Aisyah\] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Bersiwak mendatangkan kewangian mulut, dan mendapat ridha Allah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Humaid bin Mas'adah] dan [Muhammad bin Abdul A'la] dari [Yazid] yaitu Ibnu Jura'i dia berkata; telah menyampaikan kepadaku [Abdurrahman bin Abu 'Atiq] dia berkata; [ayahku] telah berkata kepadaku; saya mendengar dari [Aisyah] dari Nabi shallallahu 'alaihi wasallam beliau bersabda: "Bersiwak mendatangkan kewangian mulut, dan mendapat ridha Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdurrahman b. ebî Atîk (radıyallahü anh), şöyle demiştir: Babam bana şunları aktardı: Âişe (radıyallahü anha)’dan duydum, Rasûlüllah (sallallahü aleyhi ve sellem)‘in şöyle buyurduğunu bize aktardı: ağız ve diş sağlığı için temizleyici bir malzemedir. Ayrıca misvak kullanma işi; Rabbimizin rızasını kazandıracak işlerdendir.) Cuma: 8; Dârimî, Tahara:
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ام المؤمنین عائشہ رضی اللہ عنہا نبی اکرم صلی الله علیہ وسلم سے روایت کرتی ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا: مسواک منہ کی پاکیزگی، رب تعالیٰ کی رضا کا ذریعہ ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5</td></tr><tr><td>Arabic No</td><td>5</td></tr><tr><td>Reference</td><td>Book 1 Hadith 5</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5 |
+| Arabic No | 5 |
+| Reference | Book 1 Hadith 5 |

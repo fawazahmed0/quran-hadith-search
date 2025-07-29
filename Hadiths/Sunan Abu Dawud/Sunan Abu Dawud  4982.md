@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا وَهْبُ بْنُ بَقِيَّةَ، عَنْ خَالِدٍ، - يَعْنِي ابْنَ عَبْدِ اللَّهِ - عَنْ خَالِدٍ، - يَعْنِي الْحَذَّاءَ - عَنْ أَبِي تَمِيمَةَ، عَنْ أَبِي الْمَلِيحِ، عَنْ رَجُلٍ، قَالَ كُنْتُ رَدِيفَ النَّبِيِّ صلى الله عليه وسلم فَعَثَرَتْ دَابَّتُهُ فَقُلْتُ تَعِسَ الشَّيْطَانُ ‏.‏ فَقَالَ ‏ "‏ لاَ تَقُلْ تَعِسَ الشَّيْطَانُ فَإِنَّكَ إِذَا قُلْتَ ذَلِكَ تَعَاظَمَ حَتَّى يَكُونَ مِثْلَ الْبَيْتِ وَيَقُولَ بِقُوَّتِي وَلَكِنْ قُلْ بِسْمِ اللَّهِ فَإِنَّكَ إِذَا قُلْتَ ذَلِكَ تَصَاغَرَ حَتَّى يَكُونَ مِثْلَ الذُّبَابِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
+
 حدثنا وهب بن بقية، عن خالد، - يعني ابن عبد الله - عن خالد، - يعني الحذاء - عن ابي تميمة، عن ابي المليح، عن رجل، قال كنت رديف النبي صلى الله عليه وسلم فعثرت دابته فقلت تعس الشيطان . فقال " لا تقل تعس الشيطان فانك اذا قلت ذلك تعاظم حتى يكون مثل البيت ويقول بقوتي ولكن قل بسم الله فانك اذا قلت ذلك تصاغر حتى يكون مثل الذباب
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
 
 ## Bengali
 
+। আবুল মালীহ (রহঃ) হতে এক ব্যক্তির সুত্রে বর্ণিত। তিনি বলেন, আমি জন্তুযানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পিছনে বসা ছিলাম। হঠাৎ তাঁর সাওয়ারী হোঁচট খেলে আমি বললাম, শয়তান ধংস হয়েছে। তিনি বললেন, একথা বলো না যে, শয়তান ধংস হয়েছে। কেননা তুমি একথা বললে সে অহংকারে ঘরের মতো বড় আকৃতির হয়ে যাবে এবং সে বলবে, আমার ক্ষমতায় হয়েছে। অতএব বলো, আল্লাহর নামে। যখন তুমি 'আল্লাহর নামে' বলবে তখন শয়তান হ্রাসপ্রাপ্ত হয়ে মাছির মত হয়ে যাবে। \[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবুল মালীহ (রহঃ) হতে এক ব্যক্তির সুত্রে বর্ণিত। তিনি বলেন, আমি জন্তুযানে নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর পিছনে বসা ছিলাম। হঠাৎ তাঁর সাওয়ারী হোঁচট খেলে আমি বললাম, শয়তান ধংস হয়েছে। তিনি বললেন, একথা বলো না যে, শয়তান ধংস হয়েছে। কেননা তুমি একথা বললে সে অহংকারে ঘরের মতো বড় আকৃতির হয়ে যাবে এবং সে বলবে, আমার ক্ষমতায় হয়েছে। অতএব বলো, আল্লাহর নামে। যখন তুমি 'আল্লাহর নামে' বলবে তখন শয়তান হ্রাসপ্রাপ্ত হয়ে মাছির মত হয়ে যাবে। [1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu al-Malih reported on the authority of a man :I was riding on a mount behind the prophet (May peace be upon him). It stumbled. Thereupon I said: May the devil perish! He said: do not say; may the devil perish! For you say that, he will swell so much so that he will be like a house, and say: by my power. But say: in the name of Allah; for when you say that, he will diminish so much so that he will be like a fly
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
+
+## French
+
+Abu al-Malih a rapporté d’un homme : « J’étais assis derrière le Prophète ﷺ sur une monture qui a trébuché. J’ai alors dit : “Que le diable périsse !” Il a dit : “Ne dis pas : ‘Que le diable périsse !’ Car si tu dis cela, il enflera jusqu’à devenir aussi gros qu’une maison et dira : ‘C’est par ma force.’ Mais dis : ‘Au nom d’Allah.’ Car si tu dis cela, il rétrécira jusqu’à devenir aussi petit qu’une mouche.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Wahb bin Baqiyyah\] dari \[Khalid\] -maksudnya bin Abdullah- dari \[Khalid\] -maksudnya Khalid bin Al Hadzdza- dari \[Abu Tamim\] dari \[Abul Malih\] dari \[seorang laki-laki\] ia berkata, "Aku membonceng di belakang Nabi shallallahu 'alaihi wasallam, maka ketika hewan tunggangan beliau lambat saat berjalan aku berkata, 'Celakalah setan ini'. beliau lalu bersabda: "Jangan engkau berkata, 'Celakalah setan ini', sebab jika engkau berkata seperti itu ia (setan) akan semakin besar hingga seperti rumah seraya berkata 'demi kekuatanku'. Tetapi hendaklah engkau katakan 'Bismillah (dengan menyebut nama Allah). Jika engkau ucapkan itu maka setan akan semakin kecil hingga seperti lalat
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Wahb bin Baqiyyah] dari [Khalid] -maksudnya bin Abdullah- dari [Khalid] -maksudnya Khalid bin Al Hadzdza- dari [Abu Tamim] dari [Abul Malih] dari [seorang laki-laki] ia berkata, "Aku membonceng di belakang Nabi shallallahu 'alaihi wasallam, maka ketika hewan tunggangan beliau lambat saat berjalan aku berkata, 'Celakalah setan ini'. beliau lalu bersabda: "Jangan engkau berkata, 'Celakalah setan ini', sebab jika engkau berkata seperti itu ia (setan) akan semakin besar hingga seperti rumah seraya berkata 'demi kekuatanku'. Tetapi hendaklah engkau katakan 'Bismillah (dengan menyebut nama Allah). Jika engkau ucapkan itu maka setan akan semakin kecil hingga seperti lalat
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû'l-Melâh'dan (rivayet edildiğine göre) Bir adam şöyle demiştir: Ben (bir gün) Rasûlullah (s.a.v.)'in terkisinde idim. Hayvanının ayağı sürçüverdi. Bunun üzerine ben "Hay burnu sürtülesice şeytan" dedim. (Hz. Nebi de:) Burnu sürtülesice şeytan, deme. Çünkü sen bunu söyleyince o, ev gibi oluncaya kadar büyür ve: "(Bu iş) benim kuvvetimle (oluyor)" der. Fakat sen "Bismillah de! Çünkü sen bunu söyleyince, o karasinek gibi kalıncaya kadar küçülür
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوالملیح ایک شخص سے روایت کرتے ہیں کہ اس نے کہا: میں نبی اکرم صلی اللہ علیہ وسلم کے پیچھے سوار تھا، کہ آپ کی سواری پھسل گئی، میں نے کہا: شیطان مرے، تو آپ نے فرمایا: یوں نہ کہو کہ شیطان مرے اس لیے کہ جب تم ایسا کہو گے تو وہ پھول کر گھر کے برابر ہو جائے گا، اور کہے گا: میرے زور و قوت کا اس نے اعتراف کر لیا، بلکہ یوں کہو: اللہ کے نام سے اس لیے کہ جب تم یہ کہو گے تو وہ پچک کر اتنا چھوٹا ہو جائے گا جیسے مکھی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4982</td></tr><tr><td>Arabic No</td><td>4982</td></tr><tr><td>Reference</td><td>Book 43 Hadith 210</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4982 |
+| Arabic No | 4982 |
+| Reference | Book 43 Hadith 210 |

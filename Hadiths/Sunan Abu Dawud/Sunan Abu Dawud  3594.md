@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي سُلَيْمَانُ بْنُ بِلاَلٍ، ح وَحَدَّثَنَا أَحْمَدُ بْنُ عَبْدِ الْوَاحِدِ الدِّمَشْقِيُّ، حَدَّثَنَا مَرْوَانُ، - يَعْنِي ابْنَ مُحَمَّدٍ - حَدَّثَنَا سُلَيْمَانُ بْنُ بِلاَلٍ، أَوْ عَبْدُ الْعَزِيزِ بْنُ مُحَمَّدٍ - شَكَّ الشَّيْخُ - عَنْ كَثِيرِ بْنِ زَيْدٍ، عَنِ الْوَلِيدِ بْنِ رَبَاحٍ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ الصُّلْحُ جَائِزٌ بَيْنَ الْمُسْلِمِينَ ‏"‏ ‏.‏ زَادَ أَحْمَدُ ‏"‏ إِلاَّ صُلْحًا أَحَلَّ حَرَامًا أَوْ حَرَّمَ حَلاَلاً ‏"‏ ‏.‏ وَزَادَ سُلَيْمَانُ بْنُ دَاوُدَ وَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ الْمُسْلِمُونَ عَلَى شُرُوطِهِمْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
+
 حدثنا سليمان بن داود المهري، اخبرنا ابن وهب، اخبرني سليمان بن بلال، ح وحدثنا احمد بن عبد الواحد الدمشقي، حدثنا مروان، - يعني ابن محمد - حدثنا سليمان بن بلال، او عبد العزيز بن محمد - شك الشيخ - عن كثير بن زيد، عن الوليد بن رباح، عن ابي هريرة، قال قال رسول الله صلى الله عليه وسلم " الصلح جايز بين المسلمين " . زاد احمد " الا صلحا احل حراما او حرم حلالا " . وزاد سليمان بن داود وقال رسول الله صلى الله عليه وسلم " المسلمون على شروطهم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
 
 ## Bengali
 
+। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম সমাজে পরস্পরের মধ্যে সন্ধি স্থাপন বৈধ। ইমাম আহমাদের বর্ণানয় রয়েছেঃ তবে এমন সন্ধি বৈধ নয় যা হালালকে হারাম এবং হারামকে হালাল করে। সুলাইমান ইবনু দাঊদের বর্ণনায় রয়েছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুসলিমরা নিজেদের (চুক্তিপত্রের) শর্তসমূহ পালন করতে বাধ্য।\[1\] হাসান সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ হুরাইরাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ মুসলিম সমাজে পরস্পরের মধ্যে সন্ধি স্থাপন বৈধ। ইমাম আহমাদের বর্ণানয় রয়েছেঃ তবে এমন সন্ধি বৈধ নয় যা হালালকে হারাম এবং হারামকে হালাল করে। সুলাইমান ইবনু দাঊদের বর্ণনায় রয়েছেঃ রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ মুসলিমরা নিজেদের (চুক্তিপত্রের) শর্তসমূহ পালন করতে বাধ্য।[1] হাসান সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated AbuHurayrah: The Prophet (ﷺ) said: Conciliation between Muslims is permissible. The narrator Ahmad added in his version: "except the conciliation which makes lawful unlawful and unlawful lawful." Sulayman ibn Dawud added: The Messenger of Allah (ﷺ) said: Muslims are on (i.e. stick to) their conditions
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
+
+## French
+
+Rapporté par Abu Hurayrah : Le Prophète ﷺ a dit : « La réconciliation entre musulmans est permise. » Le narrateur Ahmad a ajouté dans sa version : « sauf la réconciliation qui rend licite ce qui est illicite et illicite ce qui est licite. » Sulayman ibn Dawud a ajouté : Le Messager d’Allah ﷺ a dit : « Les musulmans respectent leurs engagements. »
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Sulaiman bin Daud Al Mahri\] telah mengabarkan kepada kami \[Ibnu Wahb\] telah mengabarkan kepadaku \[Sulaiman bin Bilal\]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami \[Ahmad bin Abdul Wahid Ad Dimasyqi\] telah menceritakan kepada kami \[Marwan bin Muhammad\] telah menceritakan kepada kami \[Sulaiman bin Bilal\] atau \[Abdul Aziz bin Muhammad\] -Syeikh merasa ragu- dari \[Katsir bin Zaid\] dari \[Al Walid bin Rabah\] dari \[Abu Hurairah\] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perjanjian damai diperbolehkan di antara orang-orang Muslim." Ahmad menambahkan, "kecuali perjanjian damai yang menghalalkan sesuatu yang haram atau mengharamkan yang halal." Sedangkan \[Sulaiman bin Daud\] menambahkan, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang Muslim terikat di atas syarat-syarat mereka
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri] telah mengabarkan kepada kami [Ibnu Wahb] telah mengabarkan kepadaku [Sulaiman bin Bilal]. (dalam jalur lain disebutkan) Telah menceritakan kepada kami [Ahmad bin Abdul Wahid Ad Dimasyqi] telah menceritakan kepada kami [Marwan bin Muhammad] telah menceritakan kepada kami [Sulaiman bin Bilal] atau [Abdul Aziz bin Muhammad] -Syeikh merasa ragu- dari [Katsir bin Zaid] dari [Al Walid bin Rabah] dari [Abu Hurairah] ia berkata, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Perjanjian damai diperbolehkan di antara orang-orang Muslim." Ahmad menambahkan, "kecuali perjanjian damai yang menghalalkan sesuatu yang haram atau mengharamkan yang halal." Sedangkan [Sulaiman bin Daud] menambahkan, "Rasulullah shallallahu 'alaihi wasallam bersabda: "Orang-orang Muslim terikat di atas syarat-syarat mereka
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры, да будет доволен им Аллах, что Посланник Аллаха ﷺ сказал: «Примирение (на определённых условиях) /сульх/ между мусульманами разрешается». В версии Ахмада добавлено: «… за исключением примирения, которое объявляет запретное дозволенным, а дозволенное запретным». А Сулейман ибн Дауд добавляет: «Посланник Аллаха ﷺ сказал: “Мусульмане должны соблюдать свои условия”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre'den rivayet olunduğuna göre Rasûllah (s.a.v.) şöyle buyurmuştur: "Müslümanlar arasında sulh caizdir." Ahmed (b. Abdulvahid ed-Dımışkî bu hadise) ilâve (olarak şu cümleyi de rivayet) etmiştir: "Ancak bir haramı helâl kılan ya da bir helâli haram kılan sulh müstesnadır." Süleyman b. Dâvûd da (bu hadise) ilâve (olarak şu cümleyi rivayet) etmiştir: "Rasûlullah (s.a.v.); Müslümanlar şartları üzerindedirler buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مسلمانوں کے درمیان مصالحت جائز ہے ۔ احمد بن عبدالواحد نے اتنا اضافہ کیا ہے: سوائے اس صلح کے جو کسی حرام شے کو حلال یا کسی حلال شے کو حرام کر دے ۔ اور سلیمان بن داود نے اپنی روایت میں یہ اضافہ کیا ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: مسلمان اپنی شرطوں پر قائم رہیں گے ۱؎ ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan Sahih</td><td>Al-Albani</td></tr><tr><td>Hasan Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>3594</td></tr><tr><td>Arabic No</td><td>3594</td></tr><tr><td>Reference</td><td>Book 25 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan Sahih | Al-Albani |
+| Hasan Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan Sahih | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 3594 |
+| Arabic No | 3594 |
+| Reference | Book 25 Hadith 24 |

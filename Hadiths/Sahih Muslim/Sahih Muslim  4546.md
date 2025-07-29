@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِي حَجَّاجُ بْنُ الشَّاعِرِ، حَدَّثَنَا عَبْدُ الصَّمَدِ، حَدَّثَنَا حَمَّادٌ، عَنْ ثَابِتٍ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يَقُولُ يَوْمَ أُحُدٍ ‏ "‏ اللَّهُمَّ إِنَّكَ إِنْ تَشَأْ لاَ تُعْبَدْ فِي الأَرْضِ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثني حجاج بن الشاعر، حدثنا عبد الصمد، حدثنا حماد، عن ثابت، عن انس، ان رسول الله صلى الله عليه وسلم كان يقول يوم احد " اللهم انك ان تشا لا تعبد في الارض
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## Bengali
 
+হাজ্জাজ ইবনু শাইর (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উহুদের যুদ্ধের দিন বলেছিলেন, হে আল্লাহ! তুমি যদি চাও পৃথিবীতে তোমার ইবাদাত করা হবে না।\* (ইসলামিক ফাউন্ডেশন ৪৩৯৬, ইসলামিক সেন্টার)
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-হাজ্জাজ ইবনু শাইর (রহঃ) ..... আনাস (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম উহুদের যুদ্ধের দিন বলেছিলেন, হে আল্লাহ! তুমি যদি চাও পৃথিবীতে তোমার ইবাদাত করা হবে না।* (ইসলামিক ফাউন্ডেশন ৪৩৯৬, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is narrated on the authority of Anas that the Messenger of Allah (ﷺ) said on the day of the Battle of Uhud:O Allah, if Thou wilt (defeat Muslims), there will be none on the earth to worship Thee
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## French
 
+Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dit le jour de la bataille de Uhud : « Ô Allah, si Tu fais que les musulmans soient vaincus, il ne restera plus personne sur terre pour T’adorer. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## Indonesian
 
+Dan telah menceritakan kepadaku \[Hajjaj bin Sya'ir\] telah menceritakan kepada kami \[Abdush Shamad\] telah menceritakan kepada kami \[Hammad\] dari \[Tsabit\] dari \[Anas\], bahwa Rasulullah shallallahu 'alaihi wasallam pernah berdoa saat terjadinya perang uhud: "Ya Allah, jika Engkau menghendaki (kemenangan atas orang kafir dan mengalahkan pasukan Islam) niscaya Engkau tidak di sembah di muka bumi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Dan telah menceritakan kepadaku [Hajjaj bin Sya'ir] telah menceritakan kepada kami [Abdush Shamad] telah menceritakan kepada kami [Hammad] dari [Tsabit] dari [Anas], bahwa Rasulullah shallallahu 'alaihi wasallam pernah berdoa saat terjadinya perang uhud: "Ya Allah, jika Engkau menghendaki (kemenangan atas orang kafir dan mengalahkan pasukan Islam) niscaya Engkau tidak di sembah di muka bumi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அனஸ் பின் மாலிக் (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் உஹுதுப் போர் நாளில் "இறைவா! நீ (இந்த முஸ்லிம் படையை அழிக்க) நாடினால் (இனி) உன்னை மட்டுமே வழிபடுவோர் யாரும் இப்புவியில் இருக்கமாட்டார்கள்" என்று பிரார்த்தித்துக்கொண்டிருந்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Haccâc b. Eş-Şâir de rivayet etti. (Dediki): Bize Abdüssamed rivayet etti. (Dediki): Bize Hammâd, Sâbit'ten, o da Enes'den naklen rivayet ettiki, Resûlullah (Sallallahu Aleyhi ve Sellem), Uhud (harbi) gününde: «Allahım! Sen dilersen yeryüzünde sana ibâdet edecek kimse kalmaz!» diye duâ ediyormuş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حضرت انس رضی اللہ عنہ سے روایت ہے کہ ( جنگِ ) احد کے دن رسول اللہ صلی اللہ علیہ وسلم ( بار بار ) یہ فرما رہے تھے : " اے اللہ! اگر تو یہ چاہتا ہے تو ( آج کےبعد ) زمین میں تیری عبادے نہ کی جائے گی ۔ " ( تیری عبادت کرنے والی آخری امت ختم ہو جائے گی)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4546</td></tr><tr><td>Arabic No</td><td>1743</td></tr><tr><td>Reference</td><td>Book 32 Hadith 27</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4546 |
+| Arabic No | 1743 |
+| Reference | Book 32 Hadith 27 |

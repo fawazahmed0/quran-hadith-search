@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي زُهَيْرُ بْنُ حَرْبٍ، حَدَّثَنَا عَفَّانُ، حَدَّثَنَا حَمَّادٌ، أَخْبَرَنَا ثَابِتٌ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏ "‏ لاَ تَقُومُ السَّاعَةُ حَتَّى لاَ يُقَالَ فِي الأَرْضِ اللَّهُ اللَّهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني زهير بن حرب، حدثنا عفان، حدثنا حماد، اخبرنا ثابت، عن انس، ان رسول الله صلى الله عليه وسلم قال " لا تقوم الساعة حتى لا يقال في الارض الله الله
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 যুহারর ইবনু হারব (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেন, যতক্ষণ পর্যন্ত পৃথিবীতে 'আল্লাহ আল্লাহ বলার মতো লোক থাকবে ততক্ষণ পর্যন্ত কিয়ামত হবে না। 'আবদ ইবনু হুমায়দ (রহঃ) ..... আনাস (রাযিঃ) থেকে বর্ণিত আছে যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম ইরশাদ করেনঃ ‘আল্লাহু আল্লাহু বলার মতো একটি মানুষ অবশিষ্ট থাকতে কিয়ামত হবে না। (ইসলামিক ফাউন্ডেশনঃ ২৭৩, ২৭৪; ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It is narrated on the authority of Anas that verily the Messenger of Allah (ﷺ) said:"The Hour (Resurrection) will not occur until 'Allah, Allah' is not said on earth
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## French
 
+Rapporté par Anas رضي الله عنه : Le Messager d’Allah ﷺ a dit : « L’Heure (la Résurrection) n’aura pas lieu tant que l’on ne dira plus : “Allah, Allah” sur terre. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Zuhair bin Harb\] telah menceritakan kepada kami \[Affan\] telah menceritakan kepada kami \[Hammad\] telah mengabarkan kepada kami \[Tsabit\] dari \[Anas\] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kiamat tidak akan terjadi hingga di bumi tidak diucapkan lagi 'Allah, Allah
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Zuhair bin Harb] telah menceritakan kepada kami [Affan] telah menceritakan kepada kami [Hammad] telah mengabarkan kepada kami [Tsabit] dari [Anas] bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: "Kiamat tidak akan terjadi hingga di bumi tidak diucapkan lagi 'Allah, Allah
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передают со слов Анаса (да будет доволен им Аллах) о том, что Посланник Аллаха ﷺ сказал: «Не наступит (Судный) Час до тех пор, пока не перестанут говорить на земле: “Аллах! Аллах!”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: பூமியில் "அல்லாஹ், அல்லாஹ்" என்று சொல்லப்படாதபோதுதான் மறுமை நாள் நிகழும். இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். - அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் கூறினார்கள்: "அல்லாஹ், அல்லாஹ்" என்று சொல்லிக்கொண்டிருக்கும் (இறைநம்பிக்கையாளர்) எவர்மீதும் மறுமை நாள் நிகழாது. இதை அனஸ் (ரலி) அவர்கள் அறிவிக்கிறார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Züheyr b. Harb rivayet etti. (Dediki): Bize Affân rivayet etti. (Dediki): Bize Hammad rivayet etti. (Dediki): Bize Sabit, Enes'den naklen haber verdiki, Enes Resulullah (Sallallahu aleyhi ve Sellem)'in şöyle buyurduğunu rivayet etti: "Yeryüzünde Allah Allah diyen kalmayıncaya kadar kıyamet kopmayacaktır. " Yalnız Müslim rivayet etmiştir; Tuhfetu'l-Eşraf
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حماد نے کہا : ہمیں ثابت نے حضرت انس ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے حدیث سنائی کہ رسول اللہ ﷺ نے فرمایا : ’’ قیامت قائم نہیں ہو گی یہاں تک کہ ( وہ وقت آ جائے گا جب ) زمین میں اللہ اللہ نہیں کہا جارہا ہو گا ۔ ‘ ‘
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>375</td></tr><tr><td>Arabic No</td><td>148.01</td></tr><tr><td>Reference</td><td>Book 1 Hadith 282</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 375 |
+| Arabic No | 148.01 |
+| Reference | Book 1 Hadith 282 |

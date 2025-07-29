@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ حُمَيْدِ بْنِ نَافِعٍ، عَنْ زَيْنَبَ بِنْتِ أَبِي سَلَمَةَ، أَنَّهَا أَخْبَرَتْهُ بِهَذِهِ الأَحَادِيثِ الثَّلاَثَةِ، قَالَتْ زَيْنَبُ دَخَلْتُ عَلَى أُمِّ حَبِيبَةَ حِينَ تُوُفِّيَ أَبُوهَا أَبُو سُفْيَانَ فَدَعَتْ بِطِيبٍ فِيهِ صُفْرَةٌ خَلُوقٌ أَوْ غَيْرُهُ فَدَهَنَتْ مِنْهُ جَارِيَةً ثُمَّ مَسَّتْ بِعَارِضَيْهَا ثُمَّ قَالَتْ وَاللَّهِ مَا لِي بِالطِّيبِ مِنْ حَاجَةٍ غَيْرَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ ‏"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ تُحِدَّ عَلَى مَيِّتٍ فَوْقَ ثَلاَثِ لَيَالٍ إِلاَّ عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ‏"‏ ‏.‏ قَالَتْ زَيْنَبُ وَدَخَلْتُ عَلَى زَيْنَبَ بِنْتِ جَحْشٍ حِينَ تُوُفِّيَ أَخُوهَا فَدَعَتْ بِطِيبٍ فَمَسَّتْ مِنْهُ ثُمَّ قَالَتْ وَاللَّهِ مَا لِي بِالطِّيبِ مِنْ حَاجَةٍ غَيْرَ أَنِّي سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ وَهُوَ عَلَى الْمِنْبَرِ ‏"‏ لاَ يَحِلُّ لاِمْرَأَةٍ تُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ أَنْ تُحِدَّ عَلَى مَيِّتٍ فَوْقَ ثَلاَثِ لَيَالٍ إِلاَّ عَلَى زَوْجٍ أَرْبَعَةَ أَشْهُرٍ وَعَشْرًا ‏"‏ ‏.‏ قَالَتْ زَيْنَبُ وَسَمِعْتُ أُمِّي أُمَّ سَلَمَةَ تَقُولُ جَاءَتِ امْرَأَةٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَتْ يَا رَسُولَ اللَّهِ إِنَّ ابْنَتِي تُوُفِّيَ عَنْهَا زَوْجُهَا وَقَدِ اشْتَكَتْ عَيْنَهَا أَفَنَكْحُلُهَا فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ لاَ ‏"‏ ‏.‏ مَرَّتَيْنِ أَوْ ثَلاَثًا كُلُّ ذَلِكَ يَقُولُ ‏"‏ لاَ ‏"‏ ‏.‏ ثُمَّ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ إِنَّمَا هِيَ أَرْبَعَةُ أَشْهُرٍ وَعَشْرٌ وَقَدْ كَانَتْ إِحْدَاكُنَّ فِي الْجَاهِلِيَّةِ تَرْمِي بِالْبَعْرَةِ عَلَى رَأْسِ الْحَوْلِ ‏"‏ ‏.‏ قَالَ حُمَيْدٌ فَقُلْتُ لِزَيْنَبَ وَمَا تَرْمِي بِالْبَعْرَةِ عَلَى رَأْسِ الْحَوْلِ فَقَالَتْ زَيْنَبُ كَانَتِ الْمَرْأَةُ إِذَا تُوُفِّيَ عَنْهَا زَوْجُهَا دَخَلَتْ حِفْشًا وَلَبِسَتْ شَرَّ ثِيَابِهَا وَلَمْ تَمَسَّ طِيبًا وَلاَ شَيْئًا حَتَّى تَمُرَّ بِهَا سَنَةٌ ثُمَّ تُؤْتَى بِدَابَّةٍ حِمَارٍ أَوْ شَاةٍ أَوْ طَائِرٍ فَتَفْتَضُّ بِهِ فَقَلَّمَا تَفْتَضُّ بِشَىْءٍ إِلاَّ مَاتَ ثُمَّ تَخْرُجُ فَتُعْطَى بَعْرَةً فَتَرْمِي بِهَا ثُمَّ تُرَاجِعُ بَعْدُ مَا شَاءَتْ مِنْ طِيبٍ أَوْ غَيْرِهِ ‏.‏ قَالَ أَبُو دَاوُدَ الْحِفْشُ بَيْتٌ صَغِيرٌ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
+
 حدثنا القعنبي، عن مالك، عن عبد الله بن ابي بكر، عن حميد بن نافع، عن زينب بنت ابي سلمة، انها اخبرته بهذه الاحاديث الثلاثة، قالت زينب دخلت على ام حبيبة حين توفي ابوها ابو سفيان فدعت بطيب فيه صفرة خلوق او غيره فدهنت منه جارية ثم مست بعارضيها ثم قالت والله ما لي بالطيب من حاجة غير اني سمعت رسول الله صلى الله عليه وسلم يقول " لا يحل لامراة تومن بالله واليوم الاخر ان تحد على ميت فوق ثلاث ليال الا على زوج اربعة اشهر وعشرا " . قالت زينب ودخلت على زينب بنت جحش حين توفي اخوها فدعت بطيب فمست منه ثم قالت والله ما لي بالطيب من حاجة غير اني سمعت رسول الله صلى الله عليه وسلم يقول وهو على المنبر " لا يحل لامراة تومن بالله واليوم الاخر ان تحد على ميت فوق ثلاث ليال الا على زوج اربعة اشهر وعشرا " . قالت زينب وسمعت امي ام سلمة تقول جاءت امراة الى رسول الله صلى الله عليه وسلم فقالت يا رسول الله ان ابنتي توفي عنها زوجها وقد اشتكت عينها افنكحلها فقال رسول الله صلى الله عليه وسلم " لا " . مرتين او ثلاثا كل ذلك يقول " لا " . ثم قال رسول الله صلى الله عليه وسلم " انما هي اربعة اشهر وعشر وقد كانت احداكن في الجاهلية ترمي بالبعرة على راس الحول " . قال حميد فقلت لزينب وما ترمي بالبعرة على راس الحول فقالت زينب كانت المراة اذا توفي عنها زوجها دخلت حفشا ولبست شر ثيابها ولم تمس طيبا ولا شييا حتى تمر بها سنة ثم توتى بدابة حمار او شاة او طاير فتفتض به فقلما تفتض بشىء الا مات ثم تخرج فتعطى بعرة فترمي بها ثم تراجع بعد ما شاءت من طيب او غيره . قال ابو داود الحفش بيت صغير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
 
 ## Bengali
 
+। হুমাইদ ইবনু নাফি‘ (রহ.) সূত্রে বর্ণিত। যাইনাব বিনতু আবূ সালামাহ (রাযি.) তাকে এ তিনটি হাদীস বর্ণনা করেছেন। যাইনাব (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী উম্মু হাবীবাহ (রাযি.)-এর পিতা আবূ সুফিয়ান (রাযি.) মারা গেলে আমি তার কাছে যাই। এ সময় উম্মু হাবীবাহ (রাযি.) হলুদ রং-এর সুগন্ধি বা অন্য কিছুর জন্য ডাকলেন। সেটা দিয়ে একটি বালিকাকে সুগন্ধি মাখলেন এবং তার গাল স্পর্শ করলেন। অতঃপর বললেন, আল্লাহর শপথ! আমার কোনো সুগন্ধির প্রয়োজন ছিলো না। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে নারী আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে তার পক্ষে মৃত ব্যক্তির জন্য তিন দিনের অধিক শোক পালন বৈধ নয়। কিন্তু স্ত্রী স্বীয় স্বামীর মৃত্যুতে চার মাস দশ দিন শোক পালন করবে। যাইনাব (রাযি.) বলেন, অতঃপর যাইনাব বিনুত জাহশের ভাই মারা গেলে আমি তার ঘরে প্রবেশ করি। তিনি সুগন্ধি নিয়ে আহবান করলেন এবং তা লাগিয়ে বললেন, আল্লাহর শপথ! আমার সুগন্ধির কোনো দরকার ছিলো না। শুধু এজন্যই ব্যবহার করলাম যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বারে দাঁড়িয়ে বলতে শুনেছিঃ যে মহিলা আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে তার পক্ষে মৃতের জন্য তিন দিনের অধিক শোক পালন করা বৈধ নয়। স্ত্রী কেবল তার স্বামীর মৃত্যুতে চার মাস দশ দিন শোক পালন করবে। যাইনাব (রহ.) বলেন, আমি আমার মা উম্মু সালামাহ (রাযি.)-কে বলতে শুনেছি, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এক মহিলা এসে বললো, হে আল্লাহর রাসূল! আমার কন্যার স্বামী মারা গেছে এবং কন্যার চোখের রোগ ধরেছে। আমরা কি তার চোখে সুরমা লাগিয়ে দিবো? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ না। মহিলাটি দুই অথবা তিনবার জিজ্ঞেস করলো আর তিনি প্রতিবারই না বললেন। এরপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সে চার মাস দশ দিন অপেক্ষা করবে। অথচ জাহিলী যুগে তোমাদের কোনো নারীকে এক বছর ইদ্দাত পালন করতে হতো, অতঃপর পায়খানা নিক্ষেপ করে পবিত্র হতো। হুমাইদ (রহ.) বলেন, আমি যাইনাবকে জিজ্ঞেস করি, বছর শেষে পায়খানা নিক্ষেপের অর্থ কি? যাইনাব বলেন, জাহিলী যুগে কোনো নারীর স্বামী মারা গেলে সে একটি কুড়ে ঘরে প্রবেশ করতো এবং খুবই মন্দ পোশাক পড়তো, কোনো সুগন্ধি মাখতো না। এভাবে সে এক বছর অতিবাহিত করতো। অতঃপর তার কাছে চতুস্পদ জন্তু, যেমন গাধা, বকরী বা পাখি আনা হতো। সে তার গায়ে বুলাতো, সে যেটার গায়ে হাত বুলাতো সেটা কমই জীবিত থাকতো। অতঃপর মহিলাকে বের করে এনে কিছু পায়খানা দেয়া হতো। সে তা নিক্ষেপ করতো। তারপর সে যে কোনো কাজ, যেমন সুগন্ধি ব্যবহার ইত্যাদি করতো। ইমাম আবূ দাঊদ (রহ.) বলেন, ‘আল-হাফশ’ অর্থ সংকীর্ণ ঘর।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। হুমাইদ ইবনু নাফি‘ (রহ.) সূত্রে বর্ণিত। যাইনাব বিনতু আবূ সালামাহ (রাযি.) তাকে এ তিনটি হাদীস বর্ণনা করেছেন। যাইনাব (রাযি.) বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর স্ত্রী উম্মু হাবীবাহ (রাযি.)-এর পিতা আবূ সুফিয়ান (রাযি.) মারা গেলে আমি তার কাছে যাই। এ সময় উম্মু হাবীবাহ (রাযি.) হলুদ রং-এর সুগন্ধি বা অন্য কিছুর জন্য ডাকলেন। সেটা দিয়ে একটি বালিকাকে সুগন্ধি মাখলেন এবং তার গাল স্পর্শ করলেন। অতঃপর বললেন, আল্লাহর শপথ! আমার কোনো সুগন্ধির প্রয়োজন ছিলো না। আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে বলতে শুনেছিঃ যে নারী আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে তার পক্ষে মৃত ব্যক্তির জন্য তিন দিনের অধিক শোক পালন বৈধ নয়। কিন্তু স্ত্রী স্বীয় স্বামীর মৃত্যুতে চার মাস দশ দিন শোক পালন করবে। যাইনাব (রাযি.) বলেন, অতঃপর যাইনাব বিনুত জাহশের ভাই মারা গেলে আমি তার ঘরে প্রবেশ করি। তিনি সুগন্ধি নিয়ে আহবান করলেন এবং তা লাগিয়ে বললেন, আল্লাহর শপথ! আমার সুগন্ধির কোনো দরকার ছিলো না। শুধু এজন্যই ব্যবহার করলাম যে, আমি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে মিম্বারে দাঁড়িয়ে বলতে শুনেছিঃ যে মহিলা আল্লাহ ও শেষ দিনের প্রতি ঈমান রাখে তার পক্ষে মৃতের জন্য তিন দিনের অধিক শোক পালন করা বৈধ নয়। স্ত্রী কেবল তার স্বামীর মৃত্যুতে চার মাস দশ দিন শোক পালন করবে। যাইনাব (রহ.) বলেন, আমি আমার মা উম্মু সালামাহ (রাযি.)-কে বলতে শুনেছি, একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট এক মহিলা এসে বললো, হে আল্লাহর রাসূল! আমার কন্যার স্বামী মারা গেছে এবং কন্যার চোখের রোগ ধরেছে। আমরা কি তার চোখে সুরমা লাগিয়ে দিবো? রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ না। মহিলাটি দুই অথবা তিনবার জিজ্ঞেস করলো আর তিনি প্রতিবারই না বললেন। এরপর রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ সে চার মাস দশ দিন অপেক্ষা করবে। অথচ জাহিলী যুগে তোমাদের কোনো নারীকে এক বছর ইদ্দাত পালন করতে হতো, অতঃপর পায়খানা নিক্ষেপ করে পবিত্র হতো। হুমাইদ (রহ.) বলেন, আমি যাইনাবকে জিজ্ঞেস করি, বছর শেষে পায়খানা নিক্ষেপের অর্থ কি? যাইনাব বলেন, জাহিলী যুগে কোনো নারীর স্বামী মারা গেলে সে একটি কুড়ে ঘরে প্রবেশ করতো এবং খুবই মন্দ পোশাক পড়তো, কোনো সুগন্ধি মাখতো না। এভাবে সে এক বছর অতিবাহিত করতো। অতঃপর তার কাছে চতুস্পদ জন্তু, যেমন গাধা, বকরী বা পাখি আনা হতো। সে তার গায়ে বুলাতো, সে যেটার গায়ে হাত বুলাতো সেটা কমই জীবিত থাকতো। অতঃপর মহিলাকে বের করে এনে কিছু পায়খানা দেয়া হতো। সে তা নিক্ষেপ করতো। তারপর সে যে কোনো কাজ, যেমন সুগন্ধি ব্যবহার ইত্যাদি করতো। ইমাম আবূ দাঊদ (রহ.) বলেন, ‘আল-হাফশ’ অর্থ সংকীর্ণ ঘর।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Humaid ibn Nafi' reported the following three traditions on the authority of Zaynab, daughter of Abu Salamah: Zainab said: I visited Umm Habibah when her father AbuSufyan, died. She asked for some yellow perfume containing saffron (khaluq) or something else. Then she applied it to a girl and touched her cheeks. She said: I have no need of perfume, but I heard the Messenger of Allah (ﷺ) say: It is not lawful for a woman who believes in Allah and the Last Day to observe mourning for one who has died, more than three nights, except for four months and ten days in the case of a husband. Zaynab said: I also visited Zaynab, daughter of Jahsh, when her brother died. She asked for some perfume and used it upon herself. She then said: I have no need of perfume, but I heard the Messenger of Allah (ﷺ) say when he was on the pulpit: It is not lawful for a woman who believes in Allah and the Last Day to observe mourning for one who has died, more than three nights, except for four months and ten days in the case of a husband. Zaynab said: I heard my mother, Umm Salamah, say: A woman came to the Messenger of Allah (ﷺ) and said: Messenger of Allah, the husband of my daughter has died, and she is suffering from sore eyes; may we put antimony in her eyes? The Messenger of Allah (ﷺ) said: No. He said this twice or thrice. Each time he said: No. The Messenger of Allah (ﷺ) said: The waiting period is now four months and ten days. In pre-Islamic days one of you used to throw away a piece of dung at the end of a year. Humayd said: I asked Zaynab: What do you mean by throwing away a piece of dung at the end of a year. Zaynab replied: When the husband of a woman died, she entered a small cell and put on shabby clothes, not touching perfume or any other thing until a year passed. Then an animal such as donkey or sheep or bird was provided for her. She rubbed herself with it. The animal with which she rubbed herself rarely survived. She then came out and was given a piece of dung which she threw away. She then used perfume or something else which she desired. Abu Dawud said: The Arabic word "hafsh" means a small cell
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
+
+## French
+
+Humaid ibn Nafi' rapporte trois récits d’après Zaynab, fille d’Abu Salamah رضي الله عنها : Zaynab a dit : J’ai rendu visite à Umm Habibah رضي الله عنها quand son père Abu Sufyan est décédé. Elle a demandé un parfum jaune contenant du safran (khaluq) ou autre chose. Elle en a mis sur une jeune fille et s’en est frotté les joues. Elle a dit : « Je n’ai pas besoin de parfum, mais j’ai entendu le Messager d’Allah ﷺ dire : “Il n’est pas permis à une femme qui croit en Allah et au Jour dernier de porter le deuil pour une personne décédée plus de trois nuits, sauf pour son mari : quatre mois et dix jours.” » Zaynab a dit : J’ai aussi rendu visite à Zaynab, fille de Jahsh رضي الله عنها, quand son frère est mort. Elle a demandé du parfum et en a mis sur elle-même. Elle a dit : « Je n’ai pas besoin de parfum, mais j’ai entendu le Messager d’Allah ﷺ dire, alors qu’il était sur le minbar : “Il n’est pas permis à une femme qui croit en Allah et au Jour dernier de porter le deuil pour une personne décédée plus de trois nuits, sauf pour son mari : quatre mois et dix jours.” » Zaynab a dit : J’ai entendu ma mère, Umm Salamah رضي الله عنها, dire : Une femme est venue voir le Messager d’Allah ﷺ et a dit : « Ô Messager d’Allah, le mari de ma fille est mort et elle souffre des yeux ; pouvons-nous lui mettre du khôl ? » Le Messager d’Allah ﷺ a dit : « Non. » Il l’a répété deux ou trois fois. À chaque fois, il a dit : « Non. » Le Messager d’Allah ﷺ a dit : « Le délai d’attente est maintenant de quatre mois et dix jours. À l’époque préislamique, l’une d’entre vous jetait un morceau de fumier à la fin de l’année. » Humayd a demandé à Zaynab : « Que veux-tu dire par jeter un morceau de fumier à la fin de l’année ? » Zaynab a répondu : « Quand le mari d’une femme mourait, elle entrait dans une petite pièce et portait des vêtements usés, sans toucher au parfum ni à rien d’autre jusqu’à ce qu’une année passe. Ensuite, on lui amenait un animal, comme un âne, un mouton ou un oiseau. Elle s’en frottait le corps. L’animal ne survivait presque jamais. Ensuite, elle sortait et on lui donnait un morceau de fumier qu’elle jetait. Elle utilisait alors du parfum ou ce qu’elle voulait. » Abu Dawud a dit : Le mot arabe « hafsh » signifie une petite pièce
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Зейнаб бинт Абу Саляма, да будет доволен Аллах ею и её отцом: «Когда умер Абу Суфьян ибн Харб, да будет доволен им Аллах, отец (жены Пророка ﷺ) Умм Хабибы, да будет доволен ею Аллах, я зашла к ней, а она велела принести жёлтые благовония из шафрана или чего-то другого, умастила ими рабыню, нанесла их на щёки себе, а потом сказала: “Клянусь Аллахом, нет мне нужды в этих благовониях, однако я слышала, как Посланник Аллаха ﷺ сказал, стоя на минбаре: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур свыше трёх дней по кому-то, кроме мужа, по нему она должна соблюдать траур четыре месяца и десять дней””». Зейнаб сказала: «А потом я зашла к Зейнаб бинт Джахш, да будет доволен ею Аллах, когда умер её брат, и она тоже велела принести себе благовония, умастилась ими, а потом сказала: “Клянусь Аллахом, нет мне нужды в этих благовониях, однако я слышала, как Посланник Аллаха ﷺ сказал, стоя на минбаре: “Не дозволено женщине, верующей в Аллаха и в Последний день, соблюдать траур по покойному свыше трёх дней, и только по мужу она должна соблюдать траур четыре месяца и десять дней””». Зейнаб также сказала: «Я слышала, как моя мать Умм Саляма рассказывала: “К Посланнику Аллаха ﷺ пришла одна женщина и сказала: “О Посланник Аллаха, муж моей дочери умер, а у неё болят глаза. Можно ли нам подвести ей глаза сурьмой?” Посланник Аллаха ﷺ сказал “Нет” два или три раза. Затем Посланник Аллаха ﷺ сказал: “Траур следует соблюдать четыре месяца и десять дней. А ведь во времена невежества одна из вас бросала верблюжий помёт спустя год после смерти мужа!””» Хумайд, один из передатчиков хадиса, спросил Зейнаб: «А что означают его слова “Одна из вас бросала верблюжий помёт спустя год после смерти мужа!”?» Зейнаб ответила: «В те времена, если у женщины умирал муж, она входила в крошечное жилище, надевала худшую одежду и не прикасалась ни к благовониям, ни к чему-то подобному, а по прошествии года к ней приводили животное. Это мог быть осёл, овца или птица, и она вытиралась об него, после чего животное редко оставалось в живых. А потом ей давали помёт, и она бросала его (, что символизировало окончание траура). После этого она снова могла использовать благовония и всё остальное, от чего отказалась в этот период»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Humeyd b. Nâfi'den rivâyet edildiğine göre, Zeyneb bint Ebî Seleme ona şu üç hadîsi şöyle anlatmıştır; babası Ebû Süfyan öldüğü zaman Ümmü Habibe'nin yanına girdim. İçinde halûk sarısı bulunan bir koku yahut da başka bir şey istedi; ve onu önce bir cariyeye sürdü, sonra kendi yanaklarına sürdü ve şunları söyledi: benim kokuya hiçbir ihtiyacım yoktur fakat ben Resûlüllah (sallallahü aleyhi ve sellem)'i minber üzerinde: Allah'a ve âhiret gününe imân eden bir kadına, ölü için (üç gün ve) üç geceden fazla yas tutmak helâl değildir. Yalnız koca için dört ay on gün yas müstesna!" derken işittim. bint Ebi Seleme, ikinci hadîsi de şöyle anlatmıştır; Erkek kardeşi öldüğü zaman Zeyneb bint-i Cahş'ın yanına girdim. Bir koku isteyip ondan süründü sonra şöyle dedi; kokuya hiçbir ihtiyacım yok; ancak ben Resûlüllah (sallallahü aleyhi ve sellem)'i minber üzerinde; Allah'a ve ahiret gününe imân eden bir kadına ölü için üç gün ve geceden fazla yas tutmak helâl değildir. Ancak koca için tutulan dört ay ongun yas müstesna!" derken işittim. hadîsi anlatırken Hazret-i Zeyneb dedi ki; Annem Ümmü Seleme'yi Şöyle derken işittim; Bir kadın Resûlüllah'a geldi ve; Allah'ın Rasûlü! Kızımın kocası vefat etti. Kendisinin de gözü ağrıyor. Ona sürme çekebilir miyim? diye sordu. Resûlüllah (sallallahü aleyhi ve sellem) iki veya üç defa; Hayır olmaz" , cevabını verdi. Sonra Resûlüllah (sallallahü aleyhi ve sellem) şöyle buyurdu: Bu iddet topu topu dört ay on gündür. Halbuki sizden biriniz câhiliyye döneminde tezeği senenin sonunda atardı." (Bu hadisi Zeyneb'den nakleden) Humeyd dedi kî; Zeyneb'e; Tezeği senettin sonunda atardı" ne demektir? diye sordum. Zeyneb şu cevâbı verdi; kocası öldüğü zaman küçük bir eve girer, en kötü elbisesini giyer, bir sene geçinceye kadar, koku ve hiçbir şey sürünmezdi. Sonra kendisine bir hayvan; eşek veya koyun yahut kuş getirilir de onunla silinirdi. Silindiği şey ekseriya ölürdü. Sonra dışarıya çıkar, kendisine bir hayvan tezeği verilerek onu atardı. Ondan sonra dilediği koku ve saireye avdet ederdi. Dâvud dedi ki: Metinde geçen el-Hıfş kelimesi " küçük bir ev" demektir. cenâiz 31, hayz 12, talâk 46-49; Müslim, talâk 58; Tirmizî, talâk 18; Nesâî, talâk 58-59; İbn Mâce, talâk 35; Dârimî, talâk 12, 13; Muvatta', talâk 101-102; Ahmed b. Hanbel, VI
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حمید بن نافع کہتے ہیں کہ زینب بنت ابی سلمہ رضی اللہ عنہما نے انہیں ان تینوں حدیثوں کی خبر دی کہ جب ام المؤمنین ام حبیبہ رضی اللہ عنہا کے والد ابوسفیان رضی اللہ عنہ کا انتقال ہوا تو میں ان کے پاس گئی، انہوں نے زرد رنگ کی خوشبو منگا کر ایک لڑکی کو لگائی پھر اپنے دونوں رخساروں پر بھی مل لی اس کے بعد کہنے لگیں: اللہ کی قسم! مجھے خوشبو لگانے کی قطعاً حاجت نہ تھی، میں نے تو ایسا صرف اس بنا پر کیا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو فرماتے ہوئے سنا تھا: کسی عورت کے لیے جو اللہ تعالیٰ اور آخرت کے دن پر ایمان رکھتی ہو یہ حلال نہیں کہ وہ کسی میت پر تین دن سے زیادہ سوگ منائے، ہاں خاوند پر چار مہینے دس دن تک سوگ منانا ہے ۔ زینب رضی اللہ عنہا کہتی ہیں: میں ام المؤمنین زینب بنت جحش رضی اللہ عنہا کے پاس گئی جس وقت کہ ان کے بھائی کا انتقال ہو گیا تھا، انہوں نے ( بھی ) خوشبو منگا کر لگائی اس کے بعد کہنے لگیں: اللہ کی قسم! مجھے خوشبو لگانے کی کوئی ضرورت نہیں تھی، میں نے ایسا صرف اس بنا پر کیا ہے کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو منبر پر فرماتے سنا: کسی بھی عورت کے لیے جو اللہ اور آخرت کے دن پر ایمان رکھتی ہو یہ حلال نہیں کہ وہ کسی میت پر تین دن سے زیادہ سوگ منائے ہاں شوہر کی وفات پر سوگ چار مہینے دس دن ہے ۔ زینب رضی اللہ عنہا کہتی ہیں: میں نے اپنی والدہ ام سلمہ رضی اللہ عنہا کو کہتے ہوئے سنا: ایک عورت نے رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہو کر عرض کیا: اللہ کے رسول! میری بیٹی کے شوہر کی وفات ہو گئی ہے اور اس کی آنکھیں دکھ رہی ہیں، کیا ہم اسے سرمہ لگا دیں؟ آپ صلی اللہ علیہ وسلم نے فرمایا: نہیں ، اس نے دو بار یا تین بار پوچھا، آپ صلی اللہ علیہ وسلم نے ہر بار فرمایا: نہیں ، پھر فرمایا: تم چار مہینے دس دن صبر نہیں کر سکتی، حالانکہ زمانہ جاہلیت میں جب تم میں سے کسی عورت کا شوہر مر جاتا تھا تو ایک سال پورے ہونے پر اسے مینگنی پھینکنی پڑتی تھی ۔ حمید راوی کہتے ہیں میں نے زینب رضی اللہ عنہا سے پوچھا: مینگنی پھینکنے سے کیا مراد ہے؟ تو انہوں نے بتایا کہ جاہلیت کے زمانہ میں جب کسی عورت کا شوہر مر جاتا تو وہ ایک معمولی سی جھونپڑی میں رہائش اختیار کرتی، پھٹے پرانے اور میلے کچیلے کپڑے پہنتی، نہ خوشبو استعمال کر سکتی اور نہ ہی کوئی زینت و آرائش کر سکتی تھی، جب سال پورا ہو جاتا تو اسے گدھا یا کوئی پرندہ یا بکری دی جاتی جسے وہ اپنے بدن سے رگڑتی، وہ جانور کم ہی زندہ رہ پاتا، پھر اس کو مینگنی دی جاتی جسے وہ سر پر گھما کر اپنے پیچھے پھینک دیتی، اس کے بعد وہ عدت سے باہر آتی اور زیب و زینت کرتی اور خوشبو استعمال کرتی۔ ابوداؤد کہتے ہیں:«حفش» چھوٹے گھر ( تنگ کوٹھری ) کو کہتے ہیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1281، 1282) Sahih Muslim (1486)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2299</td></tr><tr><td>Arabic No</td><td>2299</td></tr><tr><td>Reference</td><td>Book 13 Hadith 125</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1281، 1282) Sahih Muslim (1486) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2299 |
+| Arabic No | 2299 |
+| Reference | Book 13 Hadith 125 |

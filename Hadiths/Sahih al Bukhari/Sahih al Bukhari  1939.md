@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو مَعْمَرٍ، حَدَّثَنَا عَبْدُ الْوَارِثِ، حَدَّثَنَا أَيُّوبُ، عَنْ عِكْرِمَةَ، عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ احْتَجَمَ النَّبِيُّ صلى الله عليه وسلم وَهُوَ صَائِمٌ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا ابو معمر، حدثنا عبد الوارث، حدثنا ايوب، عن عكرمة، عن ابن عباس رضى الله عنهما قال احتجم النبي صلى الله عليه وسلم وهو صايم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইবনু ‘আব্বাস (রাঃ) হতে বর্ণিত। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সায়িম অবস্থায় শিঙ্গা লাগিয়েছেন। (১৮৩৫) (আধুনিক প্রকাশনীঃ১৮০০ , ইসলামিক ফাউন্ডেশনঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Ibn 'Abbas:The Prophet (ﷺ) was cupped while he was fasting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
+
+## French
+
+Rapporté par Ibn ‘Abbas : Le Prophète (ﷺ) s’est fait pratiquer une saignée alors qu’il jeûnait
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abu Ma'mar\] telah menceritakan kepada kami \['Abdul Warits\] telah menceritakan kepada kami \[Ayyub\] dari \['Ikrimah\] dari \[Ibnu 'Abbas radliallahu 'anhuma\] bahwa Nabi shallallahu 'alaihi wasallam berbekam ketika sedang berpuasa
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abu Ma'mar] telah menceritakan kepada kami ['Abdul Warits] telah menceritakan kepada kami [Ayyub] dari ['Ikrimah] dari [Ibnu 'Abbas radliallahu 'anhuma] bahwa Nabi shallallahu 'alaihi wasallam berbekam ketika sedang berpuasa
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается, что Ибн ‘Аббас, да будет доволен Аллах им и его отцом, сказал: «Пророк ﷺ сделал себе кровопускание будучи постящимся»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு அப்பாஸ் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் நோன்பு நோற்றி ருந்தபோது குருதி உறிஞ்சி எடுத்துக் கொண்டார்கள்.25 அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abdullah İbn Abbas'ın şöyle dediği nakledilmiştir: "Nebi Sallallahu Aleyhi ve Sellem oruçlu iken kan aldırdı
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے ابومعمر عبداللہ بن عمری نے بیان کیا، کہا ہم سے عبدالوارث بن سعید نے بیان کیا، ان سے ایوب سختیانی نے بیان کیا، ان سے عکرمہ نے اور ان سے ابن عباس رضی اللہ عنہما نے کہ نبی کریم صلی اللہ علیہ وسلم نے روزہ کی حالت میں پچھنا لگوایا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1939</td></tr><tr><td>Arabic No</td><td>1939</td></tr><tr><td>Reference</td><td>Book 30 Hadith 46</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1939 |
+| Arabic No | 1939 |
+| Reference | Book 30 Hadith 46 |

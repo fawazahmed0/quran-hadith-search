@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُسَدَّدٌ، حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ هِلاَلِ بْنِ خَبَّابٍ، عَنْ مَيْسَرَةَ أَبِي صَالِحٍ، عَنْ سُوَيْدِ بْنِ غَفَلَةَ، قَالَ سِرْتُ أَوْ قَالَ أَخْبَرَنِي مَنْ، سَارَ مَعَ مُصَدِّقِ النَّبِيِّ صلى الله عليه وسلم فَإِذَا فِي عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏"‏ أَنْ لاَ تَأْخُذْ مِنْ رَاضِعِ لَبَنٍ وَلاَ تَجْمَعْ بَيْنَ مُفْتَرِقٍ وَلاَ تُفَرِّقْ بَيْنَ مُجْتَمِعٍ ‏"‏ ‏.‏ وَكَانَ إِنَّمَا يَأْتِي الْمِيَاهَ حِينَ تَرِدُ الْغَنَمُ فَيَقُولُ أَدُّوا صَدَقَاتِ أَمْوَالِكُمْ ‏.‏ قَالَ فَعَمَدَ رَجُلٌ مِنْهُمْ إِلَى نَاقَةٍ كَوْمَاءَ - قَالَ - قُلْتُ يَا أَبَا صَالِحٍ مَا الْكَوْمَاءُ قَالَ عَظِيمَةُ السَّنَامِ - قَالَ - فَأَبَى أَنْ يَقْبَلَهَا قَالَ إِنِّي أُحِبُّ أَنْ تَأْخُذَ خَيْرَ إِبِلِي ‏.‏ قَالَ فَأَبَى أَنْ يَقْبَلَهَا قَالَ فَخَطَمَ لَهُ أُخْرَى دُونَهَا فَأَبَى أَنْ يَقْبَلَهَا ثُمَّ خَطَمَ لَهُ أُخْرَى دُونَهَا فَقَبِلَهَا وَقَالَ إِنِّي آخِذُهَا وَأَخَافُ أَنْ يَجِدَ عَلَىَّ رَسُولُ اللَّهِ صلى الله عليه وسلم يَقُولُ لِي عَمَدْتَ إِلَى رَجُلٍ فَتَخَيَّرْتَ عَلَيْهِ إِبِلَهُ ‏.‏ قَالَ أَبُو دَاوُدَ وَرَوَاهُ هُشَيْمٌ عَنْ هِلاَلِ بْنِ خَبَّابٍ نَحْوَهُ إِلاَّ أَنَّهُ قَالَ ‏"‏ لاَ يُفَرِّقْ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
+
 حدثنا مسدد، حدثنا ابو عوانة، عن هلال بن خباب، عن ميسرة ابي صالح، عن سويد بن غفلة، قال سرت او قال اخبرني من، سار مع مصدق النبي صلى الله عليه وسلم فاذا في عهد رسول الله صلى الله عليه وسلم " ان لا تاخذ من راضع لبن ولا تجمع بين مفترق ولا تفرق بين مجتمع " . وكان انما ياتي المياه حين ترد الغنم فيقول ادوا صدقات اموالكم . قال فعمد رجل منهم الى ناقة كوماء - قال - قلت يا ابا صالح ما الكوماء قال عظيمة السنام - قال - فابى ان يقبلها قال اني احب ان تاخذ خير ابلي . قال فابى ان يقبلها قال فخطم له اخرى دونها فابى ان يقبلها ثم خطم له اخرى دونها فقبلها وقال اني اخذها واخاف ان يجد على رسول الله صلى الله عليه وسلم يقول لي عمدت الى رجل فتخيرت عليه ابله . قال ابو داود ورواه هشيم عن هلال بن خباب نحوه الا انه قال " لا يفرق
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
 
 ## Bengali
 
+। সুওয়াইদ ইবনু গাফালার (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি সফর করেছি অথবা যে ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যাকাত আদায়কারীর সঙ্গে সফর করেছেন তিনি আমাকে বর্ণনা করেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে (নিয়ম ছিলো) দু প্রদানকারী পশু নেয়া যাবে না। বিচ্ছিন্নকে একত্র করা এবং একত্রকে বিচ্ছিন্ন করা যাবে না। এরপর লোকেরা তাদের পশুপালকে পানি পান করানোর জন্য কূপের কাছে নিয়ে এলে আদায়কারী পানির কূপের নিকট এসে বলতেন, তোমরা তোমাদের সম্পদের যাকাত আদায় করো’। বর্ণনাকারী বলেন, তাদের এক ব্যক্তি একটি কূমাআ উষ্ট্রী নিয়ে এলো। আমি বললাম, হে আবূ সলিহ! কূমাআ কি? তিনি বললেন, উঁচু কুঁজবিশিষ্ট। বর্ণনাকারী বলেন, (আদায়কারী সেটা গ্রহণে অস্বীকৃতি জানালে) যাকাতদাতা বললো, আমি আকাঙ্খা করেছি যে, আপনি আমার সর্বোৎকৃষ্ট উটটি গ্রহণ করুন। বর্ণনাকারী বলেন, আদায়কারী তা গ্রহণ না করায় সে ওটার চেয়ে নিকৃষ্ট মানের একটি উটে লাগাম ধরে নিয়ে এলো কিন্তু তিনি এটাও গ্রহণ করতে অস্বীকৃতি জানালে পরে ওটার চাইতে আরো নিকৃষ্ট মানের একটি উট লাগাম ধরে নিয়ে আসেন এবং তিনি তা গ্রহণ করলেন। অতঃপর বললেন, আমি তা গ্রহণে এজন্য ভয় করছি যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার উপর ক্ষুদ্ধ হয়ে একথা না বলেন যে, এ ব্যক্তি তার উটের উপর তোমাকে স্বাধীনতা দেয়ায় তুমি তার উত্তম সম্পদটিই নিয়ে এসেছো।\[1\] হাসান।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। সুওয়াইদ ইবনু গাফালার (রহঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি সফর করেছি অথবা যে ব্যক্তি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর যাকাত আদায়কারীর সঙ্গে সফর করেছেন তিনি আমাকে বর্ণনা করেছেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর যুগে (নিয়ম ছিলো) দু প্রদানকারী পশু নেয়া যাবে না। বিচ্ছিন্নকে একত্র করা এবং একত্রকে বিচ্ছিন্ন করা যাবে না। এরপর লোকেরা তাদের পশুপালকে পানি পান করানোর জন্য কূপের কাছে নিয়ে এলে আদায়কারী পানির কূপের নিকট এসে বলতেন, তোমরা তোমাদের সম্পদের যাকাত আদায় করো’। বর্ণনাকারী বলেন, তাদের এক ব্যক্তি একটি কূমাআ উষ্ট্রী নিয়ে এলো। আমি বললাম, হে আবূ সলিহ! কূমাআ কি? তিনি বললেন, উঁচু কুঁজবিশিষ্ট। বর্ণনাকারী বলেন, (আদায়কারী সেটা গ্রহণে অস্বীকৃতি জানালে) যাকাতদাতা বললো, আমি আকাঙ্খা করেছি যে, আপনি আমার সর্বোৎকৃষ্ট উটটি গ্রহণ করুন। বর্ণনাকারী বলেন, আদায়কারী তা গ্রহণ না করায় সে ওটার চেয়ে নিকৃষ্ট মানের একটি উটে লাগাম ধরে নিয়ে এলো কিন্তু তিনি এটাও গ্রহণ করতে অস্বীকৃতি জানালে পরে ওটার চাইতে আরো নিকৃষ্ট মানের একটি উট লাগাম ধরে নিয়ে আসেন এবং তিনি তা গ্রহণ করলেন। অতঃপর বললেন, আমি তা গ্রহণে এজন্য ভয় করছি যে, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমার উপর ক্ষুদ্ধ হয়ে একথা না বলেন যে, এ ব্যক্তি তার উটের উপর তোমাকে স্বাধীনতা দেয়ায় তুমি তার উত্তম সম্পদটিই নিয়ে এসেছো।[1] হাসান।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Suwayd ibn Ghaflah said:I went myself or someone who accompanied the collector of the Prophet (ﷺ) told me: It was recorded in the document written by the Messenger of Allah (ﷺ) not to accept a milking goat or she-camel or a (suckling) baby (as zakat on animals); and those which are in separate flocks are not to be brought together, and those which are in one flock are not to be separated. The collector used to visit the water-hole when the sheep went there and say: Pay the sadaqah (zakat) on your property. The narrator said: A man wanted to give him his high-humped camel (kawma'). The narrator (Hilal) asked: What is kawma', AbuSalih? He said: A camel a high hump. The narrator continued: He (the collector) refused to accept it. He said: I wish you could take the best of my camels. He refused to accept it. He then brought another camel lower in quality than the previous one. He refused to accept it too. He then brought another camel lower in quality than the previous one. He accepted it, saying: I shall take it, but I am afraid the Messenger of Allah (ﷺ) might be angry with me, saying to me: You have purposely taken from a man a camel of your choice. Abu Dawud said: This tradition has also been narrated by Hushaim from Hilal bin Khabbab to the same effect. But he said: Those which are in one flock are not to be separated
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
+
+## French
+
+Suwayd ibn Ghaflah a dit : Je me suis rendu moi-même, ou quelqu’un qui accompagnait le collecteur du Prophète ﷺ m’a raconté : Il était écrit dans le document rédigé par le Messager d’Allah ﷺ de ne pas accepter comme zakat une chèvre ou une chamelle laitière, ni un petit encore allaitant ; et que les animaux de troupeaux séparés ne devaient pas être rassemblés, et ceux d’un même troupeau ne devaient pas être séparés. Le collecteur se rendait au point d’eau quand les moutons y allaient et disait : « Payez la zakat sur vos biens. » Le narrateur a dit : Un homme voulait lui donner son chameau à bosse haute (kawma’). Le narrateur (Hilal) a demandé : « Qu’est-ce que kawma’, Abu Salih ? » Il a répondu : « Un chameau à grande bosse. » Le narrateur a continué : Le collecteur a refusé de l’accepter. L’homme a dit : « J’aimerais que tu prennes le meilleur de mes chameaux. » Il a refusé aussi. Il a alors amené un autre chameau de moindre qualité, mais le collecteur a encore refusé. Puis il en a amené un encore moins bon, et cette fois il l’a accepté en disant : « Je vais le prendre, mais j’ai peur que le Messager d’Allah ﷺ soit mécontent de moi et me dise : “Tu as délibérément choisi un chameau à ton goût chez un homme.” » Abu Dawud a dit : Ce récit a aussi été rapporté par Hushaim d’après Hilal ibn Khabbab avec le même sens. Mais il a dit : « Ceux qui sont dans un même troupeau ne doivent pas être séparés. »
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Musaddad\], telah menceritakan kepada Kami \[Abu 'Awanah\] dari \[Hilal bin Khabba\] dari \[Maisarah Abu Shalih\] dari \[Suwaid bin Ghafalah\], ia berkata; aku berjalan -atau ia berkata; telah mengabarkan kepadaku \[orang yang berjalan\] bersama petugas pengambil zakat Nabi shallallahu 'alaihi wasallam, ternyata pada zaman Rasulullah shallAllahu wa'alaihi wa sallam dikata; janganlah engkau mengambil zakat dari anak yang sedang menetek susu, dan janganlah engkau menggabungkan antara hewan yang dipisahkandan jangan memisahkan antara hewan yang telah dijadikan satu. Dan sesungguhnya air datang ketika kambing datang, kemudian petugas pengambil zakat berkata; Tunaikan zakat harta kalian. Maisarah berkata; kemudian salah seorang diantara mereka mendatangi unta kauma'. Kemudian aku katakan; wahai Abu Shalih, apakah kauma' itu? Ia berkata; yang besar punuknya. Maisarah berkata; kemudian ia enggan menerimanya. Orang tersebut berkata; sesungguhnya aku ingin anda mengambil unta terbaikku. Maisarah berkata; kemudian ia enggan untuk menerimanya. Maisarah berkata; kemudian orang tersebut menuntun untanya yang lain, lalu petugas zakat tersebut enggan untuk menerimanya, kemudian orang tersebut menuntun untanya yang lain selain unta tersebut, lalu petugas zakat tersebut menerimanya dan berkata; sesungguhnya aku mengambilnya dan aku merasa khawatir Rasulullah shallallahu 'alaihi wasallam marah kepadaku dan berkata: "Engkau mendatangi seseorang dan memilih unta terbaiknya." Abu Daud berkata; dan \[Husyaim\] telah meriwayatkannya dari \[Hilal bin Khabbab\] seperti itu, hanya saja ia berkata; tidak dipisahkan…
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Musaddad], telah menceritakan kepada Kami [Abu 'Awanah] dari [Hilal bin Khabba] dari [Maisarah Abu Shalih] dari [Suwaid bin Ghafalah], ia berkata; aku berjalan -atau ia berkata; telah mengabarkan kepadaku [orang yang berjalan] bersama petugas pengambil zakat Nabi shallallahu 'alaihi wasallam, ternyata pada zaman Rasulullah shallAllahu wa'alaihi wa sallam dikata; janganlah engkau mengambil zakat dari anak yang sedang menetek susu, dan janganlah engkau menggabungkan antara hewan yang dipisahkandan jangan memisahkan antara hewan yang telah dijadikan satu. Dan sesungguhnya air datang ketika kambing datang, kemudian petugas pengambil zakat berkata; Tunaikan zakat harta kalian. Maisarah berkata; kemudian salah seorang diantara mereka mendatangi unta kauma'. Kemudian aku katakan; wahai Abu Shalih, apakah kauma' itu? Ia berkata; yang besar punuknya. Maisarah berkata; kemudian ia enggan menerimanya. Orang tersebut berkata; sesungguhnya aku ingin anda mengambil unta terbaikku. Maisarah berkata; kemudian ia enggan untuk menerimanya. Maisarah berkata; kemudian orang tersebut menuntun untanya yang lain, lalu petugas zakat tersebut enggan untuk menerimanya, kemudian orang tersebut menuntun untanya yang lain selain unta tersebut, lalu petugas zakat tersebut menerimanya dan berkata; sesungguhnya aku mengambilnya dan aku merasa khawatir Rasulullah shallallahu 'alaihi wasallam marah kepadaku dan berkata: "Engkau mendatangi seseorang dan memilih unta terbaiknya." Abu Daud berkata; dan [Husyaim] telah meriwayatkannya dari [Hilal bin Khabbab] seperti itu, hanya saja ia berkata; tidak dipisahkan…
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сувайд ибн Гафаля сказал: «Однажды я сопровождал сборщика закята (или: рассказал мне сопровождавший сборщика закята), отправленного Пророком ﷺ а во времена Посланника Аллаха ﷺ было запрещено брать животное, дающее молоко, объединять разъединённые стада или разъединять объединённые. Сборщик закята подходил к источникам воды, когда к ним пригоняли овец на водопой, и говорил: “Отдавайте закят со своего имущества”. Один человек, услышав это, направился к верблюдице с большими горбами, однако сборщик закята отказался принять её. Тот сказал: “Но я желаю, чтобы ты взял лучшего из моих верблюдов”. Однако он отказался брать эту верблюдицу. Тогда он привёл ему за недоуздок верблюдицу похуже, однако он отказался брать эту верблюдицу. Тогда он привёл ему за недоуздок верблюдицу похуже, и он принял её, сказав: “Поистине, я возьму её, но я боюсь, что Посланник Аллаха ﷺ разгневается на меня и скажет мне: ты пришёл к человеку и выбрал лучшего из его верблюдов”»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Meysere, Ebû Salih'ten, O'da Süveyd b. Gâfele'den rivayet ettiğine göre, Süveyd (ya) "ben gittim" dedi ya da şöyle söyledi: "Bana Peygamber (s.a.v.)'in zekât memuruyla giden bir kişi haber verdi. Resûlullah (s.a.v.)'in (zekât) mektubunda şu vardı. "Süt emen (veya sütlü) hayvanı alma, ayrı olan (mallar)ı bir araya toplama, toplu olanı da birbirinden ayırma" Davar, subaşına geldiği zaman zekât memuru da gelir ve (sahiplerine): "Mallarınızın zekâtlarını ödeyin" derdi. (Süveyd veya zekât memuruyla giden kişi söze devam ederek) dedi ki: "Onlardan biri Kevmâ' olan bir dişi deveyi vermek istedi. Hilâl b. Habbâb (Meysere'ye) dedi ki: Ey Ebâ Salih! Kevmâ nedir? dedim. O'da. Hörgücü büyük olan (deve)dir, dedi. Zekât memuru onu kabul etmedi. Mal sahibi: Develerimin iyisini almanı arzuluyorum, dedi. Zekât memuru onu da kabul etmedi. Mal sahibi (değerce) ondan düşük olan bir diğer deveyi onun için yularladı (ve öne sürdü), onu da kabul etmedi. Sonra (değerce) ondan daha düşük olan bir diğerini yularladı da onu kabul etti ve şöyle dedi: Ben bunu alıyorum. Ama yine de Resûlullah (s.a.v.)'in, "Gittin de adamın en iyi devesini aldın" deyip bana kızmasından korkarım. Nesâî, zekât, Ahmed b. Hanbel, IV-315; Ebu Davud dedi ki: Bunun benzerini Huşeym, Hilal b. Hab-bâb'tan rivayet etmiştir. Ancak şu var ki ("ayırma" kelimesi yeri­ne) "ayırmasın" demiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سوید بن غفلہ رضی اللہ عنہ کہتے ہیں کہ میں خود گیا، یا یوں کہتے ہیں: جو رسول اللہ صلی اللہ علیہ وسلم کے محصل کے ساتھ گیا تھا اس نے مجھ سے بیان کیا کہ آپ کی کتاب میں لکھا تھا: ہم زکاۃ میں دودھ والی بکری یا دودھ پیتا بچہ نہ لیں، نہ جدا مال اکٹھا کیا جائے اور نہ اکٹھا مال جدا کیا جائے ، رسول اللہ صلی اللہ علیہ وسلم کا مصدق اس وقت آتا جب بکریاں پانی پر جاتیں اور وہ کہتا: اپنے مالوں کی زکاۃ ادا کرو، ایک شخص نے اپنا کوبڑے کوہان والا اونٹ کو دینا چاہا تو مصدق نے اسے لینے سے انکار کر دیا، اس شخص نے کہا: نہیں، میری خوشی یہی ہے کہ تو میرا بہتر سے بہتر اونٹ لے، مصدق نے پھر لینے سے انکار کر دیا، اب اس نے تھوڑے کم درجے کا اونٹ کھینچا، مصدق نے اس کے لینے سے بھی انکار کر دیا، اس نے اور کم درجے کا اونٹ کھینچا تو مصدق نے اسے لے لیا اور کہا: میں لے لیتا ہوں لیکن مجھے ڈر لگتا ہے کہ کہیں رسول اللہ صلی اللہ علیہ وسلم مجھ پر غصہ نہ ہوں اور آپ مجھ سے کہیں: تو نے ایک شخص کا بہترین اونٹ لے لیا۔ ابوداؤد کہتے ہیں: اسے ہشیم نے ہلال بن خباب سے اسی طرح روایت کیا ہے، مگر اس میں «لا تفرق» کی بجائے «لا يفرق» ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Hasan</td><td>Al-Albani</td></tr><tr><td>Hasan</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1579</td></tr><tr><td>Arabic No</td><td>1579</td></tr><tr><td>Reference</td><td>Book 9 Hadith 24</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Hasan | Al-Albani |
+| Hasan | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1579 |
+| Arabic No | 1579 |
+| Reference | Book 9 Hadith 24 |

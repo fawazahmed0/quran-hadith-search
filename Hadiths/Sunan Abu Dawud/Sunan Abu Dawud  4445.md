@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ اللَّهِ بْنُ مَسْلَمَةَ الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنِ ابْنِ شِهَابٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُتْبَةَ بْنِ مَسْعُودٍ، عَنْ أَبِي هُرَيْرَةَ، وَزَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، أَنَّهُمَا أَخْبَرَاهُ أَنَّ رَجُلَيْنِ اخْتَصَمَا إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ أَحَدُهُمَا يَا رَسُولَ اللَّهِ اقْضِ بَيْنَنَا بِكِتَابِ اللَّهِ ‏.‏ وَقَالَ الآخَرُ وَكَانَ أَفْقَهَهُمَا أَجَلْ يَا رَسُولَ اللَّهِ فَاقْضِ بَيْنَنَا بِكِتَابِ اللَّهِ وَائْذَنْ لِي أَنْ أَتَكَلَّمَ ‏.‏ قَالَ ‏"‏ تَكَلَّمْ ‏"‏ ‏.‏ قَالَ إِنَّ ابْنِي كَانَ عَسِيفًا عَلَى هَذَا - وَالْعَسِيفُ الأَجِيرُ - فَزَنَى بِامْرَأَتِهِ فَأَخْبَرُونِي أَنَّمَا عَلَى ابْنِي الرَّجْمَ فَافْتَدَيْتُ مِنْهُ بِمِائَةِ شَاةٍ وَبِجَارِيَةٍ لِي ثُمَّ إِنِّي سَأَلْتُ أَهْلَ الْعِلْمِ فَأَخْبَرُونِي أَنَّمَا عَلَى ابْنِي جَلْدُ مِائَةٍ وَتَغْرِيبُ عَامٍ وَإِنَّمَا الرَّجْمُ عَلَى امْرَأَتِهِ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ أَمَا وَالَّذِي نَفْسِي بِيَدِهِ لأَقْضِيَنَّ بَيْنَكُمَا بِكِتَابِ اللَّهِ أَمَّا غَنَمُكَ وَجَارِيَتُكَ فَرَدٌّ إِلَيْكَ ‏"‏ ‏.‏ وَجَلَدَ ابْنَهُ مِائَةً وَغَرَّبَهُ عَامًا وَأَمَرَ أُنَيْسًا الأَسْلَمِيَّ أَنْ يَأْتِيَ امْرَأَةَ الآخَرِ فَإِنِ اعْتَرَفَتْ رَجَمَهَا فَاعْتَرَفَتْ فَرَجَمَهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
+
 حدثنا عبد الله بن مسلمة القعنبي، عن مالك، عن ابن شهاب، عن عبيد الله بن عبد الله بن عتبة بن مسعود، عن ابي هريرة، وزيد بن خالد الجهني، انهما اخبراه ان رجلين اختصما الى رسول الله صلى الله عليه وسلم فقال احدهما يا رسول الله اقض بيننا بكتاب الله . وقال الاخر وكان افقههما اجل يا رسول الله فاقض بيننا بكتاب الله وايذن لي ان اتكلم . قال " تكلم " . قال ان ابني كان عسيفا على هذا - والعسيف الاجير - فزنى بامراته فاخبروني انما على ابني الرجم فافتديت منه بماية شاة وبجارية لي ثم اني سالت اهل العلم فاخبروني انما على ابني جلد ماية وتغريب عام وانما الرجم على امراته . فقال رسول الله صلى الله عليه وسلم " اما والذي نفسي بيده لاقضين بينكما بكتاب الله اما غنمك وجاريتك فرد اليك " . وجلد ابنه ماية وغربه عاما وامر انيسا الاسلمي ان ياتي امراة الاخر فان اعترفت رجمها فاعترفت فرجمها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
 
 ## Bengali
 
+। উবাইদুল্লাহ ইবনু আব্দুল্লাহ ইবনু উতবাহ ইবনু মাসঊদ (রহঃ) সূত্রে বর্ণিত। আবূ হুরাইরাহ এবং যায়িদ ইবনু খালিদ আল-জুহানী (রাঃ) তার নিকট বর্ণনা করেছেন যে, দু’ বিবাদমান ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলো। তাদের একজন বললো, হে আল্লাহর রাসূল! কুরআন অনুসারে আমাদের মাঝে ফায়সালা করে দিন। দ্বিতীয়জন বললো, সে ছিলো তাদের দু’ জনের মধ্যে অধিক বুদ্ধিমান, হ্যাঁ ঠিক আছে, হে আল্লাহর রাসূল! আমাদের মাঝে আল্লাহর কিতাব অনুসারে ফায়সালা করে দিন, আর আমাকে কিছু বলার অনুমতি দিন। তিনি বললেনঃ বলো। সে বললো, আমার ছেলে এই লোকটির শ্রমিক ছিলো। সে তার স্ত্রীর সঙ্গে যেনা করেছে। কতক লোক আমাকে জানিয়েছে, আমার ছেলের দন্ড হলো পাথর নিক্ষেপে হত্যা। সুতরাং আমি তার পক্ষ থেকে একশী বকরী ও আমার একটি দাসী জরিমানা দেই। পুনরায় আমি এ ব্যাপারে জ্ঞানীদের প্রশ্ন করলে তারা আমাকে বলেন যে, আমার ছেলের শাস্তি হলো একশো বেত্রাঘাত ও এক বছরের নির্বাসন, আর এই লোকটির স্ত্রীর শাস্তি হলো পাথর নিক্ষেপে হত্যা করা। এ ঘটনা শুনে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জেনে রাখো, যে পবিত্র সত্তার হাতে আমার প্রাণ, তাঁর কসম! আমি অবশ্যই তোমাদের মাঝে মহান আল্লাহর কিতাব মোতাবেক ফায়সালা করবো। তোমার বকরী ও দাসী তুমি ফিরে পাবে। অতঃপর তিনি তার ছেলেকে একশো বেত্রাঘাত করেন এবং এক বছরের নির্বাসন দেন এবং উনাইস আল-আসলামীকে আদেশ দেন অপর লোকটির স্ত্রীর নিকট যেতে এবং সে যদি স্বীকারোক্তি করে তাহলে তাকে রজম করতে। অতএব সে স্বীকারোক্তি করলে তিনি তাকে রজম করলেন।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। উবাইদুল্লাহ ইবনু আব্দুল্লাহ ইবনু উতবাহ ইবনু মাসঊদ (রহঃ) সূত্রে বর্ণিত। আবূ হুরাইরাহ এবং যায়িদ ইবনু খালিদ আল-জুহানী (রাঃ) তার নিকট বর্ণনা করেছেন যে, দু’ বিবাদমান ব্যক্তি রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট আসলো। তাদের একজন বললো, হে আল্লাহর রাসূল! কুরআন অনুসারে আমাদের মাঝে ফায়সালা করে দিন। দ্বিতীয়জন বললো, সে ছিলো তাদের দু’ জনের মধ্যে অধিক বুদ্ধিমান, হ্যাঁ ঠিক আছে, হে আল্লাহর রাসূল! আমাদের মাঝে আল্লাহর কিতাব অনুসারে ফায়সালা করে দিন, আর আমাকে কিছু বলার অনুমতি দিন। তিনি বললেনঃ বলো। সে বললো, আমার ছেলে এই লোকটির শ্রমিক ছিলো। সে তার স্ত্রীর সঙ্গে যেনা করেছে। কতক লোক আমাকে জানিয়েছে, আমার ছেলের দন্ড হলো পাথর নিক্ষেপে হত্যা। সুতরাং আমি তার পক্ষ থেকে একশী বকরী ও আমার একটি দাসী জরিমানা দেই। পুনরায় আমি এ ব্যাপারে জ্ঞানীদের প্রশ্ন করলে তারা আমাকে বলেন যে, আমার ছেলের শাস্তি হলো একশো বেত্রাঘাত ও এক বছরের নির্বাসন, আর এই লোকটির স্ত্রীর শাস্তি হলো পাথর নিক্ষেপে হত্যা করা। এ ঘটনা শুনে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেনঃ জেনে রাখো, যে পবিত্র সত্তার হাতে আমার প্রাণ, তাঁর কসম! আমি অবশ্যই তোমাদের মাঝে মহান আল্লাহর কিতাব মোতাবেক ফায়সালা করবো। তোমার বকরী ও দাসী তুমি ফিরে পাবে। অতঃপর তিনি তার ছেলেকে একশো বেত্রাঘাত করেন এবং এক বছরের নির্বাসন দেন এবং উনাইস আল-আসলামীকে আদেশ দেন অপর লোকটির স্ত্রীর নিকট যেতে এবং সে যদি স্বীকারোক্তি করে তাহলে তাকে রজম করতে। অতএব সে স্বীকারোক্তি করলে তিনি তাকে রজম করলেন।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Hurairah and Zaid b. Khalid al-Juhani said:Two men brought a dispute before the Messenger of Allah (ﷺ). One of them said: Pronounce judgement between us in accordance with Allah’s Book, Messenger of Allah! The other who had more understanding said: Yes, Messenger of Allah! Pronounce judgement between us in accordance with Allah’s Book, and allow me to speak. He (the Prophet) said: Speak, He then said: My son who was a hired servant with this(man) committed fornication with his wife, and when I was told that my son must be stoned to death, I ransomed him with a hundred sheep and a slave girl of mine; but when I asked the learned, they told me that my son should receive a hundred lashes and be banished for a year, and that stoning to death applied only to man’s wife. The apostle of Allah (ﷺ) replied: By him in whose hand my soul is, I shall certainly pronounce judgment between you in accordance with Allah’s Book. Your sheep and your slave girl must be returned to you, and your son shall receive a hundred lashes and be banished for a year. And he commanded Unias al-Aslami go to that man’s wife, and if she confessed, he should stone her to death. She confessed and he stoned her
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
+
+## French
+
+Abu Hurairah رضي الله عنه et Zaid b. Khalid al-Juhani رضي الله عنه ont dit : Deux hommes portèrent un différend devant le Messager d’Allah ﷺ. L’un d’eux dit : « Juge entre nous selon le Livre d’Allah, Messager d’Allah ! » L’autre, qui comprenait mieux, dit : « Oui, Messager d’Allah ! Juge entre nous selon le Livre d’Allah, et permets-moi de parler. » Le Prophète ﷺ dit : « Parle. » Il dit alors : « Mon fils, qui était employé chez cet homme, a commis la fornication avec sa femme. Quand j’ai appris que mon fils devait être lapidé à mort, je l’ai racheté avec cent moutons et une esclave. Mais quand j’ai demandé aux savants, ils m’ont dit que mon fils devait recevoir cent coups de fouet et être exilé un an, et que la lapidation ne s’appliquait qu’à la femme de l’homme. » Le Messager d’Allah ﷺ répondit : « Par Celui qui détient mon âme, je vais certainement juger entre vous selon le Livre d’Allah. Tes moutons et ton esclave te sont rendus, et ton fils recevra cent coups de fouet et sera exilé un an. » Il ordonna ensuite à Unias al-Aslami d’aller voir la femme de cet homme, et si elle avouait, il devait la lapider à mort. Elle avoua et il la lapida
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdullah bin Maslamah Al Qa'nabi\] dari \[Malik\] dari \[Ibnu Syihab\] dari \[Ubaidullah bin Abdullah bin Utbah bin Mas'ud\] dari \[Abu Hurairah\] dan \[Zaid bin Khalid Al juhani\] bahwa keduanya telah mengabarkan kepadanya, bahwa ada dua orang laki-laki bersengketa dan mengadu kepada Rasulullah shallallahu 'alaihi wasallam. salah seorang dari mereka berkata, "Wahai Rasulullah, berilah putusan kepada kami sesuai dengan Kitabullah. Kemudian yang lainnya -dan ia yang lebih paham di antara keduanya- berkata, "Benar, wahai Rasulullah, berilah putusan kepada kami sesuai dengan Kitabullah. Dan berilah kesempatan kepadaku untuk berbicara." Beliau bersabda: "Berbicaralah." Laki-laki itu lalu berkata, "Anakku kerja kepada orang ini, lalu anakku berzina dengan isterinya. Kemudian orang-orang memberi kabar kepadaku bahwa anakku harus dirajam, maka aku menebusnya dengan seratus ekor domba dan seorang budak wanita kepunyaanku. Setelah itu aku bertanya kepada ahli ilmu, mereka memberi kabar kepadaku bahwa anakku harus didera seratus kali dan diasingkan selama satu tahun, sementara wanita tersebut harus dirajam." Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku ada dalam tangan-Nya, sungguh aku akan memberi putusan kepada kalian sesuai dengan Kitabullah. Kambing dan pembantu wanita milikmu akan dikembalikan kepadamu." Beliau lalu mendera putera laki-laki itu dan mengasingkannya selama satu tahun. Kemudian memerintahkan Unais Al Aslami untuk mendatangkan wanita tersebut, jika ia mengakui maka akan dirajam, wanita itu pun mengakuinya dan akhirnya dirajam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdullah bin Maslamah Al Qa'nabi] dari [Malik] dari [Ibnu Syihab] dari [Ubaidullah bin Abdullah bin Utbah bin Mas'ud] dari [Abu Hurairah] dan [Zaid bin Khalid Al juhani] bahwa keduanya telah mengabarkan kepadanya, bahwa ada dua orang laki-laki bersengketa dan mengadu kepada Rasulullah shallallahu 'alaihi wasallam. salah seorang dari mereka berkata, "Wahai Rasulullah, berilah putusan kepada kami sesuai dengan Kitabullah. Kemudian yang lainnya -dan ia yang lebih paham di antara keduanya- berkata, "Benar, wahai Rasulullah, berilah putusan kepada kami sesuai dengan Kitabullah. Dan berilah kesempatan kepadaku untuk berbicara." Beliau bersabda: "Berbicaralah." Laki-laki itu lalu berkata, "Anakku kerja kepada orang ini, lalu anakku berzina dengan isterinya. Kemudian orang-orang memberi kabar kepadaku bahwa anakku harus dirajam, maka aku menebusnya dengan seratus ekor domba dan seorang budak wanita kepunyaanku. Setelah itu aku bertanya kepada ahli ilmu, mereka memberi kabar kepadaku bahwa anakku harus didera seratus kali dan diasingkan selama satu tahun, sementara wanita tersebut harus dirajam." Rasulullah shallallahu 'alaihi wasallam bersabda: "Demi Dzat yang jiwaku ada dalam tangan-Nya, sungguh aku akan memberi putusan kepada kalian sesuai dengan Kitabullah. Kambing dan pembantu wanita milikmu akan dikembalikan kepadamu." Beliau lalu mendera putera laki-laki itu dan mengasingkannya selama satu tahun. Kemudian memerintahkan Unais Al Aslami untuk mendatangkan wanita tersebut, jika ia mengakui maka akan dirajam, wanita itu pun mengakuinya dan akhirnya dirajam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Хурайры и Зейда ибн Халида аль-Джухани, да будет доволен Аллах ими обоими: «Как-то два человек обратились к Посланнику Аллаха ﷺ со своим делом и один из них сказал: “О Посланник Аллаха, рассуди нас согласно Книге Аллаха!” Второй, который был более просвещённым в вопросах религии, сказал: “Да, рассуди нас согласно Книге Аллаха и позволь мне высказаться”. (Посланник Аллаха ﷺ) сказал: “Говори”. Тот сказал: “Мой сын был наёмным работником у этого человека и совершил прелюбодеяние с его женой. Мне сказали, что за это моего сына следует подвергнуть побиванию камнями, но я отдал сто овец и рабыню в качестве выкупа за него. А потом я спросил об этом обладающих знанием и они сказали мне, что мой сын должен получить сто ударов и отправиться в изгнание на год, а побить камнями следует жену этого человека”. Тогда Посланник Аллаха ﷺ сказал: “Клянусь Тем, в Чьей руке моя душа, я обязательно рассужу вас согласно Книге Аллаха! Рабыня и овцы должны быть возвращены тебе”. И он велел нанести его сыну сто ударов и отправить его в изгнание на год. И он велел Унайсу аль-Аслями пойти к жене второго и, если она признается, побить её камнями. И она призналась и он побил её камнями»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Hureyre ve Zeyd b. Halid el-Cüheni (radıyallahu anhûmâ)'dan; şöyle haber vermişlerdir: İki adam, Rasulullah'a dâvalarını getirdiler, (dâvâlaştılar). Birisi: "Yâ Rasulullah! Aramızda Allah'ın kitabı ile hükmet" dedi. Öbür hasım: -O ikisinin daha anlayışlısı idi-. "Evet, yâ Rasulullah! Aramızda Allah'ın Kitabı ile hükmet. Bana da izin ver konuşayım" dedi. Rasulullah : "Haydi konuş" buyurdu. Adam şöyle dedi: " Oğlum bu adam'ın yanında ücretli (işçi) idi. Karısı ile zina etti. Bana, oğlumun recmedilceğini söylediler. Ben de, yüz koyun ve bir de câriye vererek oğlumu kurtardım. Sonra ilim adamlarına sordum. Onlar, oğluma yüz değnek had ve bir yıl sürgün gerektiğini, sadece onun karısının recmedileceğini söylediler. Resûlullah (s.av); "Canım elinde olan Allah'a yemin ederim ki, aranızda, Allah'ın Kitabı ile hükmedeceğim. Koyunların ve cariyen sana geri verilecektir" buyurdu. Adamın oğluna yüz deynek vurdu. Ve bir yıl sürgün etti. Üneys el-Eslemî'ye de, diğerinin karısına gitmesini, eğer itiraf ederse recmetmesini emretti: Kadın îtirâf etti, Üneys de recmetti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوہریرہ اور زید بن خالد جہنی رضی اللہ عنہما روایت کرتے ہیں کہ دو آدمی رسول اللہ صلی اللہ علیہ وسلم کے پاس جھگڑا لے گئے، ان میں سے ایک نے کہا: اللہ کے رسول! ہمارے مابین اللہ کی کتاب کی روشنی میں فیصلہ فرما دیجئیے، اور دوسرے نے جو ان دونوں میں زیادہ سمجھ دار تھا کہا: ہاں، اللہ کے رسول! ہمارے درمیان اللہ کی کتاب سے فیصلہ فرمائیے، لیکن پہلے مجھے کچھ کہنے کی اجازت دیجئیے، آپ نے فرمایا: اچھا کہو اس نے کہنا شروع کیا: میرا بیٹا اس کے یہاں «عسیف» یعنی مزدور تھا، اس نے اس کی بیوی سے زنا کر لیا تو ان لوگوں نے مجھے بتایا کہ میرے بیٹے پر رجم ہے، تو میں نے اسے اپنی سو بکریاں اور ایک لونڈی فدیئے میں دے دی، پھر میں نے اہل علم سے مسئلہ پوچھا، تو ان لوگوں نے مجھے بتایا کہ میرے بیٹے پر سو کوڑے اور ایک سال کی جلا وطنی ہے، اور رجم اس کی بیوی پر ہے تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: سنو! قسم ہے اس ذات کی جس کے ہاتھ میں میری جان ہے، میں ضرور بالضرور تم دونوں کے درمیان اللہ کی کتاب سے فیصلہ کروں گا، رہی تمہاری بکریاں اور تمہاری لونڈی تو یہ تمہیں واپس ملیں گی اور اس کے بیٹے کو آپ نے سو کوڑے لگوائے، اور اسے ایک سال کے لیے جلا وطن کر دیا، اور انیس اسلمی کو حکم دیا کہ وہ اس دوسرے شخص کی بیوی کے پاس جائیں، اور اس سے پوچھیں اگر وہ اقرار کرے تو اسے رجم کر دیں، چنانچہ اس نے اقرار کر لیا، تو انہوں نے اسے رجم کر دیا۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (6633، 6634) Sahih Muslim (1698)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>4445</td></tr><tr><td>Arabic No</td><td>4445</td></tr><tr><td>Reference</td><td>Book 40 Hadith 95</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (6633، 6634) Sahih Muslim (1698) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 4445 |
+| Arabic No | 4445 |
+| Reference | Book 40 Hadith 95 |

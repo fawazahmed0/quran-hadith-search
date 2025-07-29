@@ -18,78 +18,92 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وَحَدَّثَنِيهِ حَرْمَلَةُ بْنُ يَحْيَى، أَخْبَرَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، بِهَذَا الإِسْنَادِ ‏.‏ نَحْوَ حَدِيثِ مَالِكٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 وحدثنيه حرملة بن يحيى، اخبرنا ابن وهب، اخبرني يونس، عن ابن شهاب، بهذا الاسناد . نحو حديث مالك
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 হারমালাহ ইবনু ইয়াহইয়া (রহঃ) উপরোল্লিখিত একাধিক সূত্রের বর্ণনাকারীগণ এ সূত্রে মালিকের হাদীসের হুবহু রিওয়ায়াত করেছেন। (ইসলামিক ফাউন্ডেশন ৫৮৩৯, ইসলামিক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 This hadith has been narrated on the authority of Ibn Shibab through another chain of transmitters
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## French
 
+Rapporté par Aïcha رضي الله عنها : Ce hadith a été rapporté par Ibn Shihab à travers une autre chaîne de transmetteurs
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (m-77-2) Bana bu hadîsi Harmele b. Yahya da rivayet etti. (Dediki): Bize İbni Vehb haber verdi. (Dediki): Bana Yûnus İbni Şihâb'dan bu isnadla Mâlik'in hadîsi gibi haber verdi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یونس نے ابن شہاب سے اسی سند کے ساتھ امام مالک کی حدیث کے مانند روایت کی ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6047</td></tr><tr><td>Arabic No</td><td>2327.03</td></tr><tr><td>Reference</td><td>Book 43 Hadith 105</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6047 |
+| Arabic No | 2327.03 |
+| Reference | Book 43 Hadith 105 |

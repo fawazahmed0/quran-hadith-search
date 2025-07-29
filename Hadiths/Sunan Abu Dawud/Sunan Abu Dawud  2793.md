@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى بْنُ إِسْمَاعِيلَ، حَدَّثَنَا وُهَيْبٌ، عَنْ أَيُّوبَ، عَنْ أَبِي قِلاَبَةَ، عَنْ أَنَسٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم نَحَرَ سَبْعَ بَدَنَاتٍ بِيَدِهِ قِيَامًا وَضَحَّى بِالْمَدِينَةِ بِكَبْشَيْنِ أَقْرَنَيْنِ أَمْلَحَيْنِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
+
 حدثنا موسى بن اسماعيل، حدثنا وهيب، عن ايوب، عن ابي قلابة، عن انس، ان النبي صلى الله عليه وسلم نحر سبع بدنات بيده قياما وضحى بالمدينة بكبشين اقرنين املحين
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আনাস (রাঃ) সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিজ হাতে সাতটি উটকে দাঁড়িয়ে থাকাবস্থায় কুরবানী করেন এবং মদীনাতে শিংযুক্ত দু’টি ধূসর বর্নের দুম্বা কুরবানী করেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Anas:The Prophet (ﷺ) sacrificed seven camels standing with his own hand, and sacrificed at Medina two horned rams which were white with black markings
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
+
+## French
+
+Rapporté par Anas : Le Prophète ﷺ a sacrifié de sa propre main sept chameaux debout, et à Médine deux béliers cornus blancs avec des marques noires
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa bin Isma'il\], telah menceritakan kepada kami \[Wahb\] dari \[Ayyub\], dari \[Abu Qilabah\], dari \[Anas\] bahwa Nabi shallallahu 'alaihi wasallam menyembelih tujuh unta dengan tangannya dalam keadaan berdiri, dan beliau di Madinah berkurban dengan dua domba yang bertanduk dan berwarna abu-Abu
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa bin Isma'il], telah menceritakan kepada kami [Wahb] dari [Ayyub], dari [Abu Qilabah], dari [Anas] bahwa Nabi shallallahu 'alaihi wasallam menyembelih tujuh unta dengan tangannya dalam keadaan berdiri, dan beliau di Madinah berkurban dengan dua domba yang bertanduk dan berwarna abu-Abu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Анаса, да будет доволен им Аллах, что Пророк ﷺ заколол семь верблюдов стоя и принёс в Медине в жертву двух баранов с чёрно-белой шерстью
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Enes r.a.'den rivayet olunduğuna göre: Nebi (s.a.v.) yedi tane deveyi, ayakta (yatırmadan) kendi eliyle boğazlamış, boynuzlu ve alacalı iki koç'u da Medine'de kesmiştir
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 انس رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے اپنے ہاتھ سے سات اونٹ کھڑے کر کے نحر کئے اور مدینہ میں دو سینگ دار مینڈھوں کی قربانی کی جن کا رنگ سیاہ اور سفید تھا ( یعنی ابلق تھے سفید کھال کے اندر سیاہ دھاریاں تھیں ) ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (1712)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2793</td></tr><tr><td>Arabic No</td><td>2793</td></tr><tr><td>Reference</td><td>Book 16 Hadith 6</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (1712) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2793 |
+| Arabic No | 2793 |
+| Reference | Book 16 Hadith 6 |

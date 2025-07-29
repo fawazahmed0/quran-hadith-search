@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,140 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ مُحَمَّدِ بْنِ حَنْبَلٍ، قَالَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ حَدَّثَنِي صَفْوَانُ بْنُ عَمْرٍو، عَنْ عَبْدِ الرَّحْمَنِ بْنِ جُبَيْرِ بْنِ نُفَيْرٍ، عَنْ أَبِيهِ، عَنْ عَوْفِ بْنِ مَالِكٍ الأَشْجَعِيِّ، قَالَ خَرَجْتُ مَعَ زَيْدِ بْنِ حَارِثَةَ فِي غَزْوَةِ مُؤْتَةَ فَرَافَقَنِي مَدَدِيٌّ مِنْ أَهْلِ الْيَمَنِ لَيْسَ مَعَهُ غَيْرُ سَيْفِهِ فَنَحَرَ رَجُلٌ مِنَ الْمُسْلِمِينَ جَزُورًا فَسَأَلَهُ الْمَدَدِيُّ طَائِفَةً مِنْ جِلْدِهِ فَأَعْطَاهُ إِيَّاهُ فَاتَّخَذَهُ كَهَيْئَةِ الدَّرَقِ وَمَضَيْنَا فَلَقِينَا جُمُوعَ الرُّومِ وَفِيهِمْ رَجُلٌ عَلَى فَرَسٍ لَهُ أَشْقَرَ عَلَيْهِ سَرْجٌ مُذْهَبٌ وَسِلاَحٌ مُذْهَبٌ فَجَعَلَ الرُّومِيُّ يُغْرِي بِالْمُسْلِمِينَ فَقَعَدَ لَهُ الْمَدَدِيُّ خَلْفَ صَخْرَةٍ فَمَرَّ بِهِ الرُّومِيُّ فَعَرْقَبَ فَرَسَهُ فَخَرَّ وَعَلاَهُ فَقَتَلَهُ وَحَازَ فَرَسَهُ وَسِلاَحَهُ فَلَمَّا فَتَحَ اللَّهُ عَزَّ وَجَلَّ لِلْمُسْلِمِينَ بَعَثَ إِلَيْهِ خَالِدُ بْنُ الْوَلِيدِ فَأَخَذَ مِنَ السَّلَبِ قَالَ عَوْفٌ فَأَتَيْتُهُ فَقُلْتُ يَا خَالِدُ أَمَا عَلِمْتَ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَضَى بِالسَّلَبِ لِلْقَاتِلِ قَالَ بَلَى وَلَكِنِّي اسْتَكْثَرْتُهُ ‏.‏ قُلْتُ لَتَرُدَّنَّهُ عَلَيْهِ أَوْ لأُعَرِّفَنَّكَهَا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَأَبَى أَنْ يَرُدَّ عَلَيْهِ قَالَ عَوْفٌ فَاجْتَمَعْنَا عِنْدَ رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَصَصْتُ عَلَيْهِ قِصَّةَ الْمَدَدِيِّ وَمَا فَعَلَ خَالِدٌ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ يَا خَالِدُ مَا حَمَلَكَ عَلَى مَا صَنَعْتَ ‏"‏ قَالَ يَا رَسُولَ اللَّهِ اسْتَكْثَرْتُهُ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ يَا خَالِدُ رُدَّ عَلَيْهِ مَا أَخَذْتَ مِنْهُ ‏"‏ ‏.‏ قَالَ عَوْفٌ فَقُلْتُ لَهُ دُونَكَ يَا خَالِدُ أَلَمْ أَفِ لَكَ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ وَمَا ذَلِكَ ‏"‏ فَأَخْبَرْتُهُ قَالَ فَغَضِبَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَقَالَ ‏"‏ يَا خَالِدُ لاَ تَرُدَّ عَلَيْهِ هَلْ أَنْتُمْ تَارِكُونَ لِي أُمَرَائِي لَكُمْ صِفْوَةُ أَمْرِهِمْ وَعَلَيْهِمْ كَدَرُهُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
+
 حدثنا احمد بن محمد بن حنبل، قال حدثنا الوليد بن مسلم، قال حدثني صفوان بن عمرو، عن عبد الرحمن بن جبير بن نفير، عن ابيه، عن عوف بن مالك الاشجعي، قال خرجت مع زيد بن حارثة في غزوة موتة فرافقني مددي من اهل اليمن ليس معه غير سيفه فنحر رجل من المسلمين جزورا فساله المددي طايفة من جلده فاعطاه اياه فاتخذه كهيية الدرق ومضينا فلقينا جموع الروم وفيهم رجل على فرس له اشقر عليه سرج مذهب وسلاح مذهب فجعل الرومي يغري بالمسلمين فقعد له المددي خلف صخرة فمر به الرومي فعرقب فرسه فخر وعلاه فقتله وحاز فرسه وسلاحه فلما فتح الله عز وجل للمسلمين بعث اليه خالد بن الوليد فاخذ من السلب قال عوف فاتيته فقلت يا خالد اما علمت ان رسول الله صلى الله عليه وسلم قضى بالسلب للقاتل قال بلى ولكني استكثرته . قلت لتردنه عليه او لاعرفنكها عند رسول الله صلى الله عليه وسلم فابى ان يرد عليه قال عوف فاجتمعنا عند رسول الله صلى الله عليه وسلم فقصصت عليه قصة المددي وما فعل خالد فقال رسول الله صلى الله عليه وسلم " يا خالد ما حملك على ما صنعت " قال يا رسول الله استكثرته . فقال رسول الله صلى الله عليه وسلم " يا خالد رد عليه ما اخذت منه " . قال عوف فقلت له دونك يا خالد الم اف لك فقال رسول الله صلى الله عليه وسلم " وما ذلك " فاخبرته قال فغضب رسول الله صلى الله عليه وسلم فقال " يا خالد لا ترد عليه هل انتم تاركون لي امرايي لكم صفوة امرهم وعليهم كدره
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আওফ ইবনু মালিক আল-আশজা‘ঈ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, আমি যায়িদ ইবনু হারিস (রাঃ)-এর সাথে মুতার যুদ্ধে বের হই। এ সময় ইয়ামেনের মাদাদ গোত্রীয় এক সাহায্যকারী ব্যক্তি আমার সঙ্গী হলো। তার কাছে একটি তরবারি ছাড়া আর কিছু ছিলো না। মুসলিমদের এক ব্যক্তি একটি উট যাবাহ করলে মাদাদী লোকটি তার কাছে চামড়ার অংশ বিশেষ চাইলো। সে তাকে কিছু চামড়া দিলে সে তা দিয়ে ঢালের মতো তৈরি করলো। ‘আমরা রোমীয় সৈন্যদের মুখোমুখী হলাম। তাদের এক ব্যক্তি একটি লাল রঙের ঘোড়ার উপর সওয়ার ছিলো। সেটি সোনার কারুকার্য খচিত এবং তার অস্ত্রও ছিলো স্বর্ণে মোড়ানো। রোমীয় সৈন্যটি মুসলিমদের বিরুদ্ধে উত্তেজিত হয়ে যুদ্ধ করছিল। ইয়ামেনী মাদাদ গোত্রীয় লোকটি একটি পাথরের আড়ালে ঐ লোকটির অপেক্ষায় ওঁৎ পেতে বসেছিল। রোমক সৈন্যটি যখন তার কাছ দিয়ে যাচ্ছিল, সে তার ঘোড়াকে আঘাত করে ঘোড়ার পা কেটে ফেলায় লোকটি পিঠ থেকে পড়ে যায়, ফলে ইয়ামেনী তার উপর চেপে বসে তাকে হত্যা করে তার ঘোড়া ও অস্ত্র নিয়ে আসলো। মহান আল্লাহ যখন মুসলিমদের বিজয় দিলেন, খালিদ ইবনুল ওয়ালীদ (রাঃ) লোক পাঠিয়ে তার কাছ থেকে মালপত্র নিয়ে নিলেন। ‘আওফ (রাঃ) বলেন, আমি এসে বললাম, হে খালিদ! তুমি কি জানো না, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম নিহতের মালপত্র হত্যাকারীকে দেয়ার নির্দেশ দিয়েছেন? তিনি বললেন, হ্যাঁ। কিন্তু আমার ধারণা, এক্ষেত্রে এটা বেশি হয়ে যাচ্ছে। আমি বললাম, তার মাল অবশ্যই তাকে ফেরত দাও। অন্যথায় তোমার এ কাজের কথা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-কে অবহিত করবো। তিনি লোকটিকে তার প্রাপ্য ফেরত দিতে অসম্মতি জানান। ‘আওফ (রাঃ) বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর নিকট সমবেত হই, ইয়ামেনীর ঘটনাটি তাঁকে জানাই এবং খালিদের আচরণের কথাও অবহিত করি। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ হে খালিদ! কিসে তোমাকে একাজে উদ্ভুদ্ধ করেছে? তিনি বললেন, হে আল্লাহর রাসূল! আমার কাছে তার জন্য মালপত্র অত্যধিক মনে হয়েছে। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ খালিদ! তার প্রাপ্য থেকে তুমি যা নিয়েছ তা তাকে ফেরত দাও। ‘আওফ (রাঃ) বলেন, আমি বললাম, হে খালিদ! এখন হলো তো, তোমাকে যা বলেছিলাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বললেনঃ এ কি কথা! ‘আওফ (রাঃ) বললেন, আমি তাকে আমাদের পরস্পরের বিতর্কের কথা বললাম। রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এতে অসন্তুষ্ট হয়ে বললেনঃ হে খালিদ! তার মাল ফিরিয়ে দিও না। তোমরা কি আমার নিযুক্ত নেতাদের পরিত্যাগ করবে? তারা ভালো করলে তা থেকে তোমরা উপকৃত হবে, আর খারাপ করলে সেটা তাদের উপর চাপিয়ে দিবে?
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ‘Awf bin malik Al Ashja’I said “I went out with Zaid bin Harith in the battle of Mutah. For the reinforcement of the Muslim army a man from the people of Yemen accompanied me. He had only his sword with him. A man from the Muslims slaughtered a Camel. The man for the reinforcement asked him for a part of its skin which he gave him. He made it like the shape of a shield. We went on and met the Byzantine armies. There was a man among them on a reddish horse with a golden saddle and golden weapons. This Byzantinian soldiers began to attack the Muslims desperately. The man for reinforcement sat behind a rock for (attacking) him. He hamstrung his horse and overpowered him and then killed him. He took his horse and weapons. When Allah, Most High, bestowed victory on the Muslims. Khalid bin Al Walid sent for him and took his spoils. ‘Awf said “I came to him and said “Khalid, do you know that the Apostle of Allaah(ﷺ) had decided to give spoils to the killer? He said “Yes, I thought it abundant. I said “You should return it to him, or I shall tell you about it before the Apostle of Allaah(ﷺ). But he refused to return it. ‘Awf said “We then assembled with the Apostle of Allaah(ﷺ). I told him the story of the man of reinforcement and what Khalid had done. The Apostle of Allaah(ﷺ) said “Khalid, what made you do the work you have done?” He said “Apostle of Allaah(ﷺ), I considered it to be abundant. The Apostle of Allaah(ﷺ) said “Khalid, return it to him what you have taken from him.” ‘Awf said “I said to him “here you are, Khalid. Did I not keep my word? The Apostle of Allaah(ﷺ) said “What is that? I then informed him.” He said “The Apostle of Allaah(ﷺ) became angry and said “Khalid, do not return it to him. Are you going to leave my commanders? You may take from them what is best for you and eave to them what is worst
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
+
+## French
+
+‘Awf bin Malik Al Ashja’i a dit : « Je suis parti avec Zayd bin Harith à la bataille de Mu’tah. Pour renforcer l’armée musulmane, un homme du Yémen m’a accompagné. Il n’avait que son épée avec lui. Un musulman a abattu un chameau. L’homme du renfort lui a demandé un morceau de sa peau, qu’il lui a donné. Il en a fait un bouclier. Nous avons continué et affronté les armées byzantines. Il y avait parmi eux un homme sur un cheval roux, avec une selle et des armes dorées. Ce soldat byzantin attaquait les musulmans avec acharnement. L’homme du renfort s’est caché derrière un rocher pour l’attaquer. Il a coupé les jarrets de son cheval, l’a maîtrisé puis l’a tué. Il a pris son cheval et ses armes. Quand Allah, le Très-Haut, a accordé la victoire aux musulmans, Khalid bin Al Walid a envoyé chercher cet homme et a pris son butin. ‘Awf a dit : « Je suis allé le voir et lui ai dit : “Khalid, sais-tu que le Messager d’Allah ﷺ avait décidé de donner le butin au tueur ?” Il a répondu : “Oui, mais je l’ai trouvé trop important.” J’ai dit : “Tu dois le lui rendre, ou j’en parlerai au Messager d’Allah ﷺ.” Mais il a refusé. ‘Awf a dit : « Nous nous sommes alors réunis auprès du Messager d’Allah ﷺ. Je lui ai raconté l’histoire de l’homme du renfort et ce que Khalid avait fait. Le Messager d’Allah ﷺ a dit : “Khalid, pourquoi as-tu fait cela ?” Il a répondu : “Messager d’Allah, je l’ai trouvé trop important.” Le Messager d’Allah ﷺ a dit : “Khalid, rends-lui ce que tu lui as pris.” ‘Awf a dit : “Je lui ai dit : ‘Voilà, Khalid. N’ai-je pas tenu parole ?’” Le Messager d’Allah ﷺ a demandé : “Qu’est-ce que c’est ?” Je lui ai alors expliqué. Il s’est mis en colère et a dit : “Khalid, ne le lui rends pas. Allez-vous abandonner mes commandants ? Prenez d’eux ce qui est le meilleur pour vous et laissez-leur ce qui est le moins bon.” »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Muhammad bin Hanbal\], ia berkata; telah menceritakan kepada kami \[Al Walid bin Muslim\], ia berkata; telah menceritakan kepadaku \[Shafwan bin 'Amr\] dari \[Abdurrahman bin Jubair bin Nufair\], dari \[ayahnya\] dari \['Auf bin Malik Al Asyja'i\], ia berkata; aku keluar bersama Zaid bin Haritsah pada perang Muktah. Kemudian aku disertai bala bantuan dari penduduk Yaman dengan hanya membawa pedangnya. Kemudian salah seorang muslim menyembelih unta dan seorang bala bantuan meminta kulit unta tersebut, kemudian ia memberikan kepadanya. Lalu orang-orang tersebut menjadikannya seperti tameng. Dan kami berjalan dan bertemu dengan orang-orang Romawi, dan diantara mereka terdapat seorang laki-laki yang menunggang kuda berwarna blonde padanya terdapat pelana emas serta senjata yang dilapisi emas. Kemudian orang Romawi tersebut menyerang muslimin dengan tiba-tiba. Kemudian seorang bala bantuan tersebut menunggunya di balik batu besar, kemudian orang Romawi tersebut lewat, lalu orang bala bantuan tersebut memotong kaki kudanya, maka orang Romawi tersebut terjatuh dan salah seorang bala bantuan tersebut membunuhnya dan mengumpulkan kuda serta senjatanya. Kemudian tatkala Allah 'azza wajalla memenangkan untuk orang-orang muslim, khalid bin Al Walid mengirim utusan kepadanya dan mengambil sebagian dari salab tersebut. 'Auf berkata; kemudian aku mendatangi Khalid dan berkata; wahai Khalid, bukanlah engkau telah mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam memutuskan bahwa salab adalah untuk orang yang yang membunuh? Ia berkata; benar. Akan tetapi aku menganggapnya terlalu banyak. Maka aku katakan; sungguh engkau kembalikan kepadanya aku akan memberitahukanmu di hadapan Rasulullah shallallahu 'alaihi wasallam. Kemudian ia enggan untuk mengembalikannya. 'Auf berkata; kemudian kami berkumpul di sisi Rasulullah shallallahu 'alaihi wasallam, lalu aku ceritakan kisah orang bantuan tersebut kepada beliau dan apa yang dilakukan Khalid. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Wahai Khalid apa yang mendorongmu untuk melakukan apa yang telah engkau perbuat?" ia berkata; wahai Rasulullah, sungguh aku menganggapnya sudah terlalu banyak. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Khalid, kembalikan kepadanya apa yang telah engkau ambil!" Lalu aku katakan kepadanya; sebentar wahai Khalid, bukankah aku telah memenuhi janjiku kepadamu? Kemudian Rasulullah shallallahu 'alaihi wasallam berkata; apakah itu? Kemudian aku beritahukan kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam marah dan berkata: "Wahai Khalid, jangan engkau kembalikan kepadanya! Apakah kalian akan meninggalkan para pemimpinku? Kalian mendapatkan urusan mereka yang telah bersih dan bagi mereka urusan yang masih keruh." Telah menceritakan kepada kami \[Ahmad bin Muhammad bin Hanbal\], ia berkata; telah menceritakan kepada kami \[Al Walid\], ia berkata; saya bertanya kepada \[Tsaur\] mengenai hadits ini. Kemudian ia menceritakan kepadaku dari \[Khalid bin Ma'dan\], dari \[Jubair bin Nufair\] dari \['Auf bin Malik Al Asyja'i\] seperti hadits tersebut
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal], ia berkata; telah menceritakan kepada kami [Al Walid bin Muslim], ia berkata; telah menceritakan kepadaku [Shafwan bin 'Amr] dari [Abdurrahman bin Jubair bin Nufair], dari [ayahnya] dari ['Auf bin Malik Al Asyja'i], ia berkata; aku keluar bersama Zaid bin Haritsah pada perang Muktah. Kemudian aku disertai bala bantuan dari penduduk Yaman dengan hanya membawa pedangnya. Kemudian salah seorang muslim menyembelih unta dan seorang bala bantuan meminta kulit unta tersebut, kemudian ia memberikan kepadanya. Lalu orang-orang tersebut menjadikannya seperti tameng. Dan kami berjalan dan bertemu dengan orang-orang Romawi, dan diantara mereka terdapat seorang laki-laki yang menunggang kuda berwarna blonde padanya terdapat pelana emas serta senjata yang dilapisi emas. Kemudian orang Romawi tersebut menyerang muslimin dengan tiba-tiba. Kemudian seorang bala bantuan tersebut menunggunya di balik batu besar, kemudian orang Romawi tersebut lewat, lalu orang bala bantuan tersebut memotong kaki kudanya, maka orang Romawi tersebut terjatuh dan salah seorang bala bantuan tersebut membunuhnya dan mengumpulkan kuda serta senjatanya. Kemudian tatkala Allah 'azza wajalla memenangkan untuk orang-orang muslim, khalid bin Al Walid mengirim utusan kepadanya dan mengambil sebagian dari salab tersebut. 'Auf berkata; kemudian aku mendatangi Khalid dan berkata; wahai Khalid, bukanlah engkau telah mengetahui bahwa Rasulullah shallallahu 'alaihi wasallam memutuskan bahwa salab adalah untuk orang yang yang membunuh? Ia berkata; benar. Akan tetapi aku menganggapnya terlalu banyak. Maka aku katakan; sungguh engkau kembalikan kepadanya aku akan memberitahukanmu di hadapan Rasulullah shallallahu 'alaihi wasallam. Kemudian ia enggan untuk mengembalikannya. 'Auf berkata; kemudian kami berkumpul di sisi Rasulullah shallallahu 'alaihi wasallam, lalu aku ceritakan kisah orang bantuan tersebut kepada beliau dan apa yang dilakukan Khalid. Kemudian Rasulullah shallallahu 'alaihi wasallam berkata: "Wahai Khalid apa yang mendorongmu untuk melakukan apa yang telah engkau perbuat?" ia berkata; wahai Rasulullah, sungguh aku menganggapnya sudah terlalu banyak. Kemudian Rasulullah shallallahu 'alaihi wasallam bersabda: "Wahai Khalid, kembalikan kepadanya apa yang telah engkau ambil!" Lalu aku katakan kepadanya; sebentar wahai Khalid, bukankah aku telah memenuhi janjiku kepadamu? Kemudian Rasulullah shallallahu 'alaihi wasallam berkata; apakah itu? Kemudian aku beritahukan kepada beliau. Kemudian Rasulullah shallallahu 'alaihi wasallam marah dan berkata: "Wahai Khalid, jangan engkau kembalikan kepadanya! Apakah kalian akan meninggalkan para pemimpinku? Kalian mendapatkan urusan mereka yang telah bersih dan bagi mereka urusan yang masih keruh." Telah menceritakan kepada kami [Ahmad bin Muhammad bin Hanbal], ia berkata; telah menceritakan kepada kami [Al Walid], ia berkata; saya bertanya kepada [Tsaur] mengenai hadits ini. Kemudian ia menceritakan kepadaku dari [Khalid bin Ma'dan], dari [Jubair bin Nufair] dari ['Auf bin Malik Al Asyja'i] seperti hadits tersebut
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Avf b. Malik el-Eşcaîden demiştir ki: Zeyd b. Harise ile birlikte Mûte savaşına çık (mış) tim. Yemen halkından gönüllü bir asker de bana arkadaş olmuştu. Yanında bir de kılıcı vardı. Derken müslümanlardan bir asker bir deve kesti. Gönüllü asker de onun derisinden bir kısmını ondan istedi. O da isteğini ona verdi. O gönüllü de bu deriden bir nevi kalkan şeklinde bazı şeyler yaptı. Yola koyulduk ve bir rum topluluğuyla karşılaştık. Onların arasında altın yaldızlı bir eğeri olan al bir at üzerinde birisi vardı. Bu rum askeri, müslümanlara müthiş bir şekilde saldırıyordu. O sırada gönüllü asker onu (vurmak) için bir kayanın arkasına oturdu. Rum askeri onun yanına varınca hemen (harekete geçip) atının ayaklarını kesti. Bunun üzerine rum askeri atından düştü. Gönüllü müslüman asker de üzerine çullanarak onu öldürdü ve atıyla silahını ele geçirdi. Aziz ve Celil olan Allah müslümanlara (zafer kapılarını) açınca Halid b. Velid, o gönüllüye (birisini) gönder (ip yanına çağır) dı ve (elinde bulunan) selebin bir kısmını (ondan) aldı. (Daha sonra ravi) Avf (sözlerine devam ederek şunları) söyledi. Bunun üzerine Halid'in yanına varıp: "Ey Halid sen Rasûlullah (s.a.v.)'in, seleb'in katile ait olduğuna dair hüküm verdiğini bilmiyor musun?” dedim. O da, "Evet, (biliyorum) fakat ben bu (kadar) selebi (onun için biraz) fazla buluyorum" diye cevap verdi. Ben de: Ya bunu ona geri verirsin ya da seni Rasûlullah (s.a.v.)'in yanında cezalandırırım." diye (onu) tehdid ettim (Fakat selebi) ona geri vermeye yanaşmadı. Derken (ikimiz) Rasûlullah (s.a.v.)'in yanında bir araya geldik. Ben Hz. Peygamber'e gönüllü askerin macerasını ve Halid'in (ona) nasıl muamelede bulunduğunu anlattım. Bunun üzerine Rasulullah (s.a.v.): Ey Halid! Seni bu harekete sevkeden (sebep)nedir?" diye sordu (Hz. Halid de) “Ey Allah'ın Rasulü bu (selebi onun için biraz) fazla buldum” cevabını verdi. Bunun üzerine Rasûlullah (Hz. Halid'e) "Ey Halid ondan aldığını ona geri ver." buyurdu. Ben de (bunu duyunca Halid'e) "Al işte (dediğimi) yaptım mı ey Halid" diye karşılık verdim. (Bu sözümü işiten) Rasûlullah (s.a.v.): Bu nedir? dedi. Ben de 'Halidle aramızda geçen münakaşayı) kendisine anlattım. Rasûlullah (S.A.V.) (bana) öfkelendi ve "Ey Halid (bu selebi) ona iade etme (dedi ve bana hitaben) siz kumandanlarımı bana bırakır mısınız hiç? Oysa onların işlerinin en temiz olanı sizin olur, bulanık olanı da kendi üzerlerinde kalır" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عوف بن مالک اشجعی رضی اللہ عنہ کہتے ہیں کہ میں زید بن حارثہ رضی اللہ عنہ کے ساتھ غزوہ موتہ میں نکلا تو اہل یمن میں سے ایک مددی میرے ساتھ ہو گیا، اس کے پاس ایک تلوار کے سوا کچھ نہ تھا، پھر ایک مسلمان نے کچھ اونٹ ذبح کئے تو مددی نے اس سے تھوڑی سی کھال مانگی، اس نے اسے دے دی، مددی نے اس کھال کو ڈھال کی شکل کا بنا لیا، ہم چلے تو رومی فوجیوں سے ملے، ان میں ایک شخص اپنے سرخ گھوڑے پر سوار تھا، اس پر ایک سنہری زین تھی، ہتھیار بھی سنہرا تھا، تو رومی مسلمانوں کے خلاف لڑنے کے لیے اکسانے لگا تو مددی اس سوار کی تاک میں ایک چٹان کی آڑ میں بیٹھ گیا، وہ رومی ادھر سے گزرا تو مددی نے اس کے گھوڑے کے پاؤں کاٹ ڈالے، وہ گر پڑا، اور مددی اس پر چڑھ بیٹھا اور اسے قتل کر کے گھوڑا اور ہتھیار لے لیا، پھر جب اللہ عزوجل نے مسلمانوں کو فتح دی تو خالد بن ولید رضی اللہ عنہ نے مددی کے پاس کسی کو بھیاد اور سامان میں سے کچھ لے لیا۔ عوف رضی اللہ عنہ کہتے ہیں: تو میں خالد رضی اللہ عنہ کے پاس آیا اور میں نے کہا: خالد! کیا تم نہیں جانتے ہو کہ رسول اللہ صلی اللہ علیہ وسلم نے قاتل کے لیے سلب کا فیصلہ کیا ہے؟ خالد رضی اللہ عنہ نے کہا: کیوں نہیں، میں جانتا ہوں لیکن میں نے اسے زیادہ سمجھا، تو میں نے کہا: تم یہ سامان اس کو دے دو، ورنہ میں رسول اللہ صلی اللہ علیہ وسلم سے اس معاملہ کو ذکر کروں گا، لیکن خالد رضی اللہ عنہ نے لوٹانے سے انکار کیا۔ عوف رضی اللہ عنہ کہتے ہیں: ہم لوگ رسول اللہ صلی اللہ علیہ وسلم کے پاس اکٹھا ہوئے تو میں نے آپ سے مددی کا واقعہ اور خالد رضی اللہ عنہ کی سلوک بیان کیا، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: خالد! تم نے جو یہ کام کیا ہے اس پر تمہیں کس چیز نے آمادہ کیا؟ خالد نے کہا: اللہ کے رسول! میں نے اسے زیادہ جانا، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: خالد! تم نے جو کچھ لیا تھا واپس لوٹا دو ۔ عوف رضی اللہ عنہ کہتے ہیں میں نے کہا: خالد! کیا میں نے جو وعدہ کیا تھا اسے پورا نہ کیا؟ تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: وہ کیا ہے؟ عوف رضی اللہ عنہ کہتے ہیں: میں نے اسے آپ سے بتایا۔ عوف کہتے ہیں: تو رسول اللہ صلی اللہ علیہ وسلم غصہ ہو گئے، اور فرمایا: خالد! واپس نہ دو، کیا تم لوگ چاہتے ہو کہ میرے امیروں کو چھوڑ دو کہ وہ جو اچھا کام کریں اس سے تم نفع اٹھاؤ اور بری بات ان پر ڈال دیا کرو ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1753)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2719</td></tr><tr><td>Arabic No</td><td>2719</td></tr><tr><td>Reference</td><td>Book 15 Hadith 243</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1753) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2719 |
+| Arabic No | 2719 |
+| Reference | Book 15 Hadith 243 |

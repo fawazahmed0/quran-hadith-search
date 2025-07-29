@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَحْمَدُ بْنُ حَنْبَلٍ، حَدَّثَنَا مُعْتَمِرُ بْنُ سُلَيْمَانَ، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ يَعْرِضُ رَاحِلَتَهُ وَهُوَ يُصَلِّي إِلَيْهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا احمد بن حنبل، حدثنا معتمر بن سليمان، عن عبيد الله، عن نافع، عن ابن عمر، ان النبي صلى الله عليه وسلم كان يعرض راحلته وهو يصلي اليها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমাদ ইবনু হাম্বাল (রহঃ) ..... ইবনু উমর (রাযিঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম তার উট আড়াআড়ি করে বসাতেন। অতঃপর তা সামনে রেখে সালাত আদায় করতেন। (ইসলামিক ফাউন্ডেশনঃ ৯৯৮, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn 'Umar said:The Apostle of Allah (ﷺ) used to place his camel (towards the Ka'ba) and said prayer in its direction
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## French
 
+Rapporté par Ibn Umar رضي الله عنه : Le Messager d’Allah ﷺ avait l’habitude de placer son chameau en direction de la Kaaba et priait dans cette direction
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Ahmad bin Hanbal\] telah menceritakan kepada kami \[Mu'tamir bin Sulaiman\] dari \[Ubaidullah\] dari \[Nafi'\] dari \[Ibnu Umar\] "Bahwa Nabi Shallallahu'alaihiwasallam dahulu menjadikan unta kendaraannya sebagai penghalang (sutrah), dan beliau shalat menghadapnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Ahmad bin Hanbal] telah menceritakan kepada kami [Mu'tamir bin Sulaiman] dari [Ubaidullah] dari [Nafi'] dari [Ibnu Umar] "Bahwa Nabi Shallallahu'alaihiwasallam dahulu menjadikan unta kendaraannya sebagai penghalang (sutrah), dan beliau shalat menghadapnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Ибн ‘Умара, что Пророк ﷺ нередко (опускал на землю) перед собой свою верблюдицу и молился, обратившись к ней лицом
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 இப்னு உமர் (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் (திறந்தவெளியில் தொழும்போது) தமது வாகன (ஒட்டக)த்தைக் குறுக்கே (தடுப்பாக) வைத்து,அதை நோக்கித் தொழுவார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Ahmed b. Hanbel rivayet etti. (Dediki): Bize Mutemir b. Süleyman, Ubeydullah'dan, o da Nâfı'den, o da İbn-i Ömer'den naklen rivayet ettiki: Nebi (Sallallahu Aleyhi ve Sellem) hayvanını önüne aykırı olarak çeker ve ona doğru namaz kılarmış
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 معتمر بن سلیمان نے عبید اللہ سے ، انہوں نے نافع سے اور انہوں نے حضرت ابن عمر ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے روایت کی کہ نبی اکرمﷺ ( بوقت ضرورت ) اپنی سواری کو سامنے کر کے ( بٹھا لیتے اور ) اس کی طرف ( منہ کر کے ) نماز پڑھ لیتے
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1117</td></tr><tr><td>Arabic No</td><td>502.01</td></tr><tr><td>Reference</td><td>Book 4 Hadith 279</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1117 |
+| Arabic No | 502.01 |
+| Reference | Book 4 Hadith 279 |

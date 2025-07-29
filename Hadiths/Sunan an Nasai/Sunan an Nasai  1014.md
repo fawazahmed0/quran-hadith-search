@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ، قَالَ حَدَّثَنَا جَرِيرُ بْنُ حَازِمٍ، عَنْ قَتَادَةَ، قَالَ سَأَلْتُ أَنَسًا كَيْفَ كَانَتْ قِرَاءَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ كَانَ يَمُدُّ صَوْتَهَ مَدًّا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |
+
 اخبرنا عمرو بن علي، قال حدثنا عبد الرحمن، قال حدثنا جرير بن حازم، عن قتادة، قال سالت انسا كيف كانت قراءة رسول الله صلى الله عليه وسلم قال كان يمد صوته مدا
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু আলী (রহঃ) ... কাতাদা (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি আনাস (রাঃ) কে প্রশ্ন করলাম, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর কুরআন পাঠ কিরূপ ছিল? তিনি বললেন, তিনি তাঁর স্বর লম্বা করে পড়তেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Qatadah said:"I asked Anas: 'How did the Messenger of Allah (ﷺ) recite Quran?' He said: 'He used to elongate the sounds
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |
+
+## French
+
+Rapporté par Qatadah : J'ai demandé à Anas : "Comment le Messager d'Allah (ﷺ) récitait-il le Coran ?" Il a répondu : "Il allongeait les sons
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amr bin 'Ali\] dia berkata; telah menceritakan kepada kami \['Abdurrahman\] dia berkata; telah menceritakan kepada kami \[Jarir bin Hazim\] dari \[Qatadah\] dia berkata; "Aku bertanya kepada \[Anas\], 'Bagaimana bacaan (Al Qur'an) Rasulullah Shallallahu'alaihi wasallam? ' la menjawab, "Rasulullah Shallallahu'alaihi wasallam memanjangkan suaranya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amr bin 'Ali] dia berkata; telah menceritakan kepada kami ['Abdurrahman] dia berkata; telah menceritakan kepada kami [Jarir bin Hazim] dari [Qatadah] dia berkata; "Aku bertanya kepada [Anas], 'Bagaimana bacaan (Al Qur'an) Rasulullah Shallallahu'alaihi wasallam? ' la menjawab, "Rasulullah Shallallahu'alaihi wasallam memanjangkan suaranya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 قتادہ کہتے ہیں کہ میں نے انس رضی اللہ عنہ سے پوچھا کہ رسول اللہ صلی اللہ علیہ وسلم کی قرأت کیسی ہوتی تھی؟ تو انہوں نے کہا: آپ اپنی آواز خوب کھینچتے تھے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih Bukhari</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1014</td></tr><tr><td>Arabic No</td><td>1014</td></tr><tr><td>Reference</td><td>Book 11 Hadith 139</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih Bukhari | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1014 |
+| Arabic No | 1014 |
+| Reference | Book 11 Hadith 139 |

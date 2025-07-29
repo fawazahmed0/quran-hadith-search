@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,149 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ هِشَامٍ الْمِصْرِيُّ، حَدَّثَنَا بِشْرُ بْنُ الْمُفَضَّلِ، حَدَّثَنَا دَاوُدُ، عَنْ أَبِي نَضْرَةَ، عَنْ أَبِي سَعِيدٍ، قَالَ نَزَلَتْ فِي يَوْمِ بَدْرٍ ‏(‏ وَمَنْ يُوَلِّهِمْ يَوْمَئِذٍ دُبُرَهُ ‏)‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
+
 حدثنا محمد بن هشام المصري، حدثنا بشر بن المفضل، حدثنا داود، عن ابي نضرة، عن ابي سعيد، قال نزلت في يوم بدر ( ومن يولهم يوميذ دبره)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আবূ সাঈদ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, বদরের যুদ্ধের দিন এ আয়াত অবতীর্ণ হয়ঃ ‘‘যে ব্যক্তি সেদিন পশ্চাঁদমুখী হয়ে পলায়ন করবে।’’ (সূরা আল-আনফালঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Sa’id said “The verse “If any do turn his back to them on such a day” was revealed on the day of the Battle of Badr.”
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
+
+## French
+
+Abu Sa‘id رضي الله عنه a dit : Le verset « Si quelqu’un tourne le dos ce jour-là » a été révélé le jour de la bataille de Badr
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Hisyam Al Mishri\], telah menceritakan kepada kami \[Bisyr bin Al Mufadhdhal\], telah menceritakan kepada kami \[Daud\], dari \[Abu Nadhrah\], dari \[Abu Sa'id\], ia berkata; telah turun mengenai waktu perang Badr ayat: "Barangsiapa yang membelakangi mereka (mundur) di waktu itu…
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Hisyam Al Mishri], telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal], telah menceritakan kepada kami [Daud], dari [Abu Nadhrah], dari [Abu Sa'id], ia berkata; telah turun mengenai waktu perang Badr ayat: "Barangsiapa yang membelakangi mereka (mundur) di waktu itu…
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
 
 ## Russian
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
 
 ## Turkish
 
+Ebû Sâid (r.a.)'den demiştir ki: "Kim o gün savaşmak için bir tarafa çekilmek ya da başka bir birliğe katılmak dışında arkasını döner (de savaş'tan firar eder)se"\[Enfâl 16.\] (mealindeki ayet-i kerime) Bedir (savaşı) günü indi
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Ebû Sâid (r.a.)'den demiştir ki: "Kim o gün savaşmak için bir tarafa çekilmek ya da başka bir birliğe katılmak dışında arkasını döner (de savaş'tan firar eder)se"[Enfâl 16.] (mealindeki ayet-i kerime) Bedir (savaşı) günü indi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوسعید خدری رضی اللہ عنہ کہتے ہیں کہ «ومن يولهم يومئذ دبره» ۱؎ بدر کے دن نازل ہوئی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Sahih</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2648</td></tr><tr><td>Arabic No</td><td>2648</td></tr><tr><td>Reference</td><td>Book 15 Hadith 172</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Isnaad Sahih | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2648 |
+| Arabic No | 2648 |
+| Reference | Book 15 Hadith 172 |

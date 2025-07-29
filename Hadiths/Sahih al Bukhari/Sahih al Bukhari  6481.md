@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُوسَى، حَدَّثَنَا مُعْتَمِرٌ، سَمِعْتُ أَبِي، حَدَّثَنَا قَتَادَةُ، عَنْ عُقْبَةَ بْنِ عَبْدِ الْغَافِرِ، عَنْ أَبِي سَعِيدٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم ‏ "‏ذَكَرَ رَجُلاً فِيمَنْ كَانَ سَلَفَ أَوْ قَبْلَكُمْ آتَاهُ اللَّهُ مَالاً وَوَلَدًا ـ يَعْنِي أَعْطَاهُ قَالَ ـ فَلَمَّا حُضِرَ قَالَ لِبَنِيهِ أَىَّ أَبٍ كُنْتُ قَالُوا خَيْرَ أَبٍ‏.‏ قَالَ فَإِنَّهُ لَمْ يَبْتَئِرْ عِنْدَ اللَّهِ خَيْرًا ـ فَسَّرَهَا قَتَادَةُ لَمْ يَدَّخِرْ ـ وَإِنْ يَقْدَمْ عَلَى اللَّهِ يُعَذِّبْهُ فَانْظُرُوا، فَإِذَا مُتُّ فَأَحْرِقُونِي، حَتَّى إِذَا صِرْتُ فَحْمًا فَاسْحَقُونِي ـ أَوْ قَالَ فَاسْهَكُونِي ـ ثُمَّ إِذَا كَانَ رِيحٌ عَاصِفٌ فَأَذْرُونِي فِيهَا‏.‏ فَأَخَذَ مَوَاثِيقَهُمْ عَلَى ذَلِكَ وَرَبِّي فَفَعَلُوا فَقَالَ اللَّهُ كُنْ‏.‏ فَإِذَا رَجُلٌ قَائِمٌ، ثُمَّ قَالَ أَىْ عَبْدِي مَا حَمَلَكَ عَلَى مَا فَعَلْتَ قَالَ مَخَافَتُكَ ـ أَوْ فَرَقٌ مِنْكَ ـ فَمَا تَلاَفَاهُ أَنْ رَحِمَهُ اللَّهُ ‏"‏‏.‏ فَحَدَّثْتُ أَبَا عُثْمَانَ فَقَالَ سَمِعْتُ سَلْمَانَ غَيْرَ أَنَّهُ زَادَ فَأَذْرُونِي فِي الْبَحْرِ‏.‏ أَوْ كَمَا حَدَّثَ‏.‏ وَقَالَ مُعَاذٌ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، سَمِعْتُ عُقْبَةَ، سَمِعْتُ أَبَا سَعِيدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا موسى، حدثنا معتمر، سمعت ابي، حدثنا قتادة، عن عقبة بن عبد الغافر، عن ابي سعيد رضى الله عنه عن النبي صلى الله عليه وسلم "ذكر رجلا فيمن كان سلف او قبلكم اتاه الله مالا وولدا يعني اعطاه قال فلما حضر قال لبنيه اى اب كنت قالوا خير اب. قال فانه لم يبتير عند الله خيرا فسرها قتادة لم يدخر وان يقدم على الله يعذبه فانظروا، فاذا مت فاحرقوني، حتى اذا صرت فحما فاسحقوني او قال فاسهكوني ثم اذا كان ريح عاصف فاذروني فيها. فاخذ مواثيقهم على ذلك وربي ففعلوا فقال الله كن. فاذا رجل قايم، ثم قال اى عبدي ما حملك على ما فعلت قال مخافتك او فرق منك فما تلافاه ان رحمه الله ". فحدثت ابا عثمان فقال سمعت سلمان غير انه زاد فاذروني في البحر. او كما حدث. وقال معاذ حدثنا شعبة، عن قتادة، سمعت عقبة، سمعت ابا سعيد، عن النبي صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
 ## Bengali
 
+আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগের অথবা পূর্ব যুগের এক ব্যক্তির কথা উল্লেখ করলেন। আল্লাহ্ তাকে ধন-সম্পদ ও সন্তানাদি দান করেছিলেন। মৃত্যুর সময় হাজির হলে সে তার সন্তানদেরকে জিজ্ঞেস করলো, আমি কেমন পিতা ছিলাম? তারা বলল, উত্তম। সে বললো, যে আল্লাহর কাছে কোন সম্পদ জমা রাখেনি, সে আল্লাহর কাছে হাযির হলে তিনি তাকে শাস্তি দেবেন। তোমরা খেয়াল রাখবে, আমি মারা গেলে আমাকে জ্বালিয়ে দেবে। আমি যখন কয়লা হয়ে যাব তাকে ছাই করে ফেলবে। অতঃপর যখন প্রবল বাতাস বইবে, তখন তোমরা তা উড়িয়ে দেবে। এ ব্যাপারে সে তাদের কাছ থেকে দৃঢ় অঙ্গীকার নিল। রাবী বলেন, আমার প্রতিপালকের কসম! তারা তাই করল। অতঃপর আল্লাহ্ বললেন, এসে যাও। হঠাৎ সে ব্যক্তি দাঁড়িয়ে গেল। তখন তিনি বললেন, হে আমার বান্দা! এ কাজে কিসে তোমাকে প্রেরণা দিল? সে বললো, আপনার ভীতি অথবা আপনার থেকে সরে থাকার কারণে। তখন তিনি এর প্রতিদানে তাকে ক্ষমা করে দিলেন। আমি আবূ ‘উসমানকে বর্ণনা করেছি, তিনি বলেছেন, আমি সালমানকে শুনেছি, তিনি এছাড়া অতিরিক্ত করেছেন....আমার ছাইগুলো সমুদ্রে ছিটিয়ে দেবে। অথবা তিনি যেমনটি বর্ণনা করেছেন। মু‘আয (রহ.) .... ‘উকবাহ (রহ.) বলেনঃ আমি আবূ সা‘ঈদ (রাঃ)-কে শুনেছি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে। \[৩৪৭৮\] (আধুনিক প্রকাশনী- ৬০৩১, ইসলামিক ফাউন্ডেশন)
 
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-আবূ সা‘ঈদ খুদরী (রাঃ) হতে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আগের অথবা পূর্ব যুগের এক ব্যক্তির কথা উল্লেখ করলেন। আল্লাহ্ তাকে ধন-সম্পদ ও সন্তানাদি দান করেছিলেন। মৃত্যুর সময় হাজির হলে সে তার সন্তানদেরকে জিজ্ঞেস করলো, আমি কেমন পিতা ছিলাম? তারা বলল, উত্তম। সে বললো, যে আল্লাহর কাছে কোন সম্পদ জমা রাখেনি, সে আল্লাহর কাছে হাযির হলে তিনি তাকে শাস্তি দেবেন। তোমরা খেয়াল রাখবে, আমি মারা গেলে আমাকে জ্বালিয়ে দেবে। আমি যখন কয়লা হয়ে যাব তাকে ছাই করে ফেলবে। অতঃপর যখন প্রবল বাতাস বইবে, তখন তোমরা তা উড়িয়ে দেবে। এ ব্যাপারে সে তাদের কাছ থেকে দৃঢ় অঙ্গীকার নিল। রাবী বলেন, আমার প্রতিপালকের কসম! তারা তাই করল। অতঃপর আল্লাহ্ বললেন, এসে যাও। হঠাৎ সে ব্যক্তি দাঁড়িয়ে গেল। তখন তিনি বললেন, হে আমার বান্দা! এ কাজে কিসে তোমাকে প্রেরণা দিল? সে বললো, আপনার ভীতি অথবা আপনার থেকে সরে থাকার কারণে। তখন তিনি এর প্রতিদানে তাকে ক্ষমা করে দিলেন। আমি আবূ ‘উসমানকে বর্ণনা করেছি, তিনি বলেছেন, আমি সালমানকে শুনেছি, তিনি এছাড়া অতিরিক্ত করেছেন....আমার ছাইগুলো সমুদ্রে ছিটিয়ে দেবে। অথবা তিনি যেমনটি বর্ণনা করেছেন। মু‘আয (রহ.) .... ‘উকবাহ (রহ.) বলেনঃ আমি আবূ সা‘ঈদ (রাঃ)-কে শুনেছি নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম থেকে। [৩৪৭৮] (আধুনিক প্রকাশনী- ৬০৩১, ইসলামিক ফাউন্ডেশন)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abu Sa'id:The Prophet (ﷺ) mentioned a man from the previous generation or from the people preceding your age whom Allah had given both wealth and children. The Prophet (ﷺ) said, "When the time of his death approached, he asked his children, 'What type of father have I been to you?' They replied: You have been a good father. He said, 'But he (i.e. your father) has not stored any good deeds with Allah (for the Hereafter): if he should face Allah, Allah will punish him. So listen, (O my children), when I die, burn my body till I become mere coal and then grind it into powder, and when there is a stormy wind, throw me (my ashes) in it.' So he took a firm promise from his children (to follow his instructions). And by Allah they (his sons) did accordingly(fulfilled their promise.) Then Allah said, "Be"' and behold! That man was standing there! Allah then said. "O my slave! What made you do what you did?" That man said, "Fear of You." So Allah forgave him
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
+
+## French
+
+Rapporté par Abu Sa'id : Le Prophète (ﷺ) a parlé d’un homme d’une génération précédente ou d’un peuple avant le vôtre, à qui Allah avait donné à la fois des richesses et des enfants. Le Prophète (ﷺ) a dit : « Quand sa mort approchait, il a demandé à ses enfants : “Quel genre de père ai-je été pour vous ?” Ils ont répondu : Tu as été un bon père. Il a dit : “Mais moi (votre père), je n’ai rien préparé de bon auprès d’Allah (pour l’Au-delà) : si je me présente devant Allah, Il me punira. Alors écoutez, (mes enfants), quand je mourrai, brûlez mon corps jusqu’à ce qu’il ne reste que des cendres, puis réduisez-les en poudre, et lorsqu’il y aura un vent fort, jetez-moi (mes cendres) dedans.” Il a donc fait promettre fermement à ses enfants de suivre ses instructions. Et, par Allah, ils l’ont fait. Ensuite, Allah a dit : “Sois !” et voilà que cet homme se tenait debout ! Allah a alors dit : “Ô Mon serviteur ! Qu’est-ce qui t’a poussé à faire cela ?” Cet homme a répondu : “La crainte de Toi.” Alors Allah lui a pardonné
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musa\] telah menceritakan kepada kami \[Mu'tamir\] saya mendengar \[Ayahku\] telah menceritakan kepada kami \[Qatadah\] dari \['Uqbah bin Abdul Ghafir\] dari \[Abu Sa'id Al Khudri\] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau menceritakan seseorang di zaman dahulu atau orang sebelum kalian, Allah mengaruniai kepadanya harta dan anak -maksudnya Allah memberinya-. Menjelang wafat, ia berkata kepada anak-anaknya; "Hai anak-anakku, bagaimana keadaanku selaku ayah bagi kalian? Anak-anaknya menjawab; 'Engkau adalah sebaik-baik ayah.' Beliau melanjutkan; 'Orang tadi merasa dirinya bukan orang baik di sisi Allah (orang shalih), -Qatadah menafsirkan; 'Bahwa dia menyangka belum memiliki amalan- hingga dirinya berprasangka jika Allah menakdirkan, pasti Dia menyiksanya. (Kata orang tadi); 'Lihatlah, kalau aku mati, maka bakarlah aku, jika diriku telah menjadi arang, tumbuklah aku -atau berkata- haluskanlah aku. Jika angin berhembus kencang, maka taburkanlah abuku dalam angin itu.' Maka sang ayah mengambil janji teguh anak-anaknya, akhirnya mereka melakukan yang diwasiatkan oleh ayahnya, lalu Allah berfirman: '(Jadilah engkau) ' tiba-tiba orang itu berdiri tegap. Allah bertanya: '(Hai hamba-Ku, apa yang mendorongmu berbuat seperti itu? Hamba itu menjawab; 'Karena aku merasa takut terhadap-Mu.' Dan segala perbuatan yang membinasakan dirinya Allah merahmatinya (karena rasa takutnya kepada Allah).' Lalu aku ceritakan kepada \[Abu Utsman\] dia berkata; saya mendengar \[Salman\] namun dia sedikit menambahkan; 'Lalu taburkanlah (abuku) di lautan atau sebagaimana yang ia ceritakan.' \[Mu'adz\] mengatakan; telah menceritakan kepada kami \[Syu'bah\] dari \[Qatadah\] saya mendengar \['Uqbah\] saya mendengar \[Abu Sa'id Al khudri\] dari Nabi shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musa] telah menceritakan kepada kami [Mu'tamir] saya mendengar [Ayahku] telah menceritakan kepada kami [Qatadah] dari ['Uqbah bin Abdul Ghafir] dari [Abu Sa'id Al Khudri] radliallahu 'anhu dari Nabi shallallahu 'alaihi wasallam beliau menceritakan seseorang di zaman dahulu atau orang sebelum kalian, Allah mengaruniai kepadanya harta dan anak -maksudnya Allah memberinya-. Menjelang wafat, ia berkata kepada anak-anaknya; "Hai anak-anakku, bagaimana keadaanku selaku ayah bagi kalian? Anak-anaknya menjawab; 'Engkau adalah sebaik-baik ayah.' Beliau melanjutkan; 'Orang tadi merasa dirinya bukan orang baik di sisi Allah (orang shalih), -Qatadah menafsirkan; 'Bahwa dia menyangka belum memiliki amalan- hingga dirinya berprasangka jika Allah menakdirkan, pasti Dia menyiksanya. (Kata orang tadi); 'Lihatlah, kalau aku mati, maka bakarlah aku, jika diriku telah menjadi arang, tumbuklah aku -atau berkata- haluskanlah aku. Jika angin berhembus kencang, maka taburkanlah abuku dalam angin itu.' Maka sang ayah mengambil janji teguh anak-anaknya, akhirnya mereka melakukan yang diwasiatkan oleh ayahnya, lalu Allah berfirman: '(Jadilah engkau) ' tiba-tiba orang itu berdiri tegap. Allah bertanya: '(Hai hamba-Ku, apa yang mendorongmu berbuat seperti itu? Hamba itu menjawab; 'Karena aku merasa takut terhadap-Mu.' Dan segala perbuatan yang membinasakan dirinya Allah merahmatinya (karena rasa takutnya kepada Allah).' Lalu aku ceritakan kepada [Abu Utsman] dia berkata; saya mendengar [Salman] namun dia sedikit menambahkan; 'Lalu taburkanlah (abuku) di lautan atau sebagaimana yang ia ceritakan.' [Mu'adz] mengatakan; telah menceritakan kepada kami [Syu'bah] dari [Qatadah] saya mendengar ['Uqbah] saya mendengar [Abu Sa'id Al khudri] dari Nabi shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
 ## Russian
 
+Передают со слов Абу Са‘ид аль-Худри, да будет доволен им Аллах, от Пророка ﷺ, который упомянул человека из предшествующих поколений (т.е. из числа сынов Исраиля) или до вас, кого Аллах наделил богатством и детьми. Сказал (Пророк ﷺ): «Когда подошло время его смерти, он сказал своим детям: “Каким отцом я был для вас?” Они ответили: “Ты был хорошим отцом”. Он сказал: “Но ведь, поистине, он (т.е. ваш отец) не оставил у Аллаха добрых дел (для мира вечного), — и Катада прокомментировал: “Не оставил ни какого припаса”, — Если он предстанет перед Аллахом, то Аллах накажет его непременно. Так слушайте же, (о дети мои), когда я умру, сожгите моё тело, пока я не превращусь в уголь, затем сотрите меня в порошок, — или же сказал: измельчите меня —а затем, когда будет сильный ветер, развейте меня по нему (т.е. мой пепел). И он взял с них завет (т.е. твёрдое обещание следовать его завещанию), и , клянусь своим Господом , они (его сыновья) так и поступили. Тогда Аллах сказал: “Будь!” (И в тот же миг) тот человек стоял там (перед Аллахом). Затем Он сказал. “О мой раб! Что заставило тебя сделать то, что ты сделал?” Он ответил: “Страх перед Тобой — или боязнь Тебя”. И его ничего не постигло, кроме как Аллах простил его». \\nОт Сальмана аль-Фариси передаётся подобный хадис, однако он добавил: «И развейте меня над морем»
 
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Передают со слов Абу Са‘ид аль-Худри, да будет доволен им Аллах, от Пророка ﷺ, который упомянул человека из предшествующих поколений (т.е. из числа сынов Исраиля) или до вас, кого Аллах наделил богатством и детьми. Сказал (Пророк ﷺ): «Когда подошло время его смерти, он сказал своим детям: “Каким отцом я был для вас?” Они ответили: “Ты был хорошим отцом”. Он сказал: “Но ведь, поистине, он (т.е. ваш отец) не оставил у Аллаха добрых дел (для мира вечного), — и Катада прокомментировал: “Не оставил ни какого припаса”, — Если он предстанет перед Аллахом, то Аллах накажет его непременно. Так слушайте же, (о дети мои), когда я умру, сожгите моё тело, пока я не превращусь в уголь, затем сотрите меня в порошок, — или же сказал: измельчите меня —а затем, когда будет сильный ветер, развейте меня по нему (т.е. мой пепел). И он взял с них завет (т.е. твёрдое обещание следовать его завещанию), и , клянусь своим Господом , они (его сыновья) так и поступили. Тогда Аллах сказал: “Будь!” (И в тот же миг) тот человек стоял там (перед Аллахом). Затем Он сказал. “О мой раб! Что заставило тебя сделать то, что ты сделал?” Он ответил: “Страх перед Тобой — или боязнь Тебя”. И его ничего не постигло, кроме как Аллах простил его». \nОт Сальмана аль-Фариси передаётся подобный хадис, однако он добавил: «И развейте меня над морем»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 அபூசயீத் அல்குத்ரீ (ரலி) அவர்கள் கூறியதாவது: நபி (ஸல்) அவர்கள் ‘முன்சென்ற’ அல்லது ‘உங்களுக்குமுன் வாழ்ந்த’ ஒரு மனிதரைப் பற்றிக் குறிப்பிட்டார்கள். அல்லாஹ் அவருக்குச் செல்வத்தையும் குழந்தைகளையும் வழங்கியிருந்தான். அவருக்கு இறப்பு நெருங்கியபோது அவர் தம் மக்களிடம் “உங்களுக்கு நான் எப்படிப்பட்ட தந்தையாக இருந்தேன்?” என்று கேட்டார். அவர்கள், “சிறந்த தந்தையாக இருந்தீர்கள்” என்று பதில் கூறினர். அவர் தமக்காக அல்லாஹ்விடம் எந்த நன்மையும் சேமித்திருக்கவில்லை. அல்லாஹ்வின் முன்னிலையில் தாம் சென்றால் தம்மை அவன் வேதனை செய்துவிடுவான் என அவர் அஞ்சினார். ஆகவே, (அவர் தம் மக்களிடம்) “நன்றாகக் கவனியுங்கள். நான் இறந்துவிட்டால் என்னைப் பொசுக்கிவிடுங்கள். நான் (வெந்து) கரியாக மாறிவிட்டால் என்னைப் ‘பொடிப் பொடியாக்கிவிடுங்கள்’. அல்லது ‘துகள் துகளாக்கிவிடுங்கள்’. பிறகு சூறாவளிக் காற்று வீசும் நாளில் காற்றில் என்னைத் தூவிவிடுங்கள்” என்று கூறி, தாம் கூறியபடி செய்யவேண்டுமென அவர்களிடம் அவர் உறுதிமொழியும் வாங்கிக் கொண்டார். என் இறைவன் மீதாணையாக! அவ்வாறே அவர்களும் செய்தனர். அப்போது அல்லாஹ் “(பழையபடி முழு மனிதனாக) ஆகிவிடு!” என்று கூறினான். உடனே (அந்த) மனிதர் (உயிர்பெற்று) எழுந்தார். (அவரிடம்) அல்லாஹ், “என் அடியானே! இவ்வாறு நீ செய்யக் காரணமென்ன?” என்று கேட்டான். அந்த மனிதர் உன்னைக் குறித்த அச்சமே என்னை இவ்வாறு செய்யத் தூண்டியது” என்று பதிலளித்தார். (இறுதியில்) அவர் அடைந்தது இறையருளைத்தான்.70 இந்த ஹதீஸ் இரு அறிவிப்பாளர் தொடர்களில் வந்துள்ளது. சல்மான் அல்ஃபார்சி (ரலி) அவர்களும் இதைப் போன்றே அறிவித்துள்ளார்கள். ஆனால் (காற்றில் என்னைத் தூவிவிடுங்கள் எனுமிடத்தில்) ‘கடலில் என்னைத் தூவிவிடுங்கள்’ என்றோ, வேறுவிதமாகவோ கூடுதலாக அறிவித்தார்கள். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebu Said el-Hudri'nin nakline göre Nebi Sallallahu Aleyhi ve Sellem şöyle bir olay anlatmıştır: "Sizden önce geçenler içinde -veya sizden öncekiler içinde- bir adam vardl. Allah ona mal ve eulat vermişti." Resulullah Sallallahu Aleyhi ve Sellem şöyle devam etti: "Kendisine ölüm yaklaşınca oğullarına 'ben sizler için ne çeşit bir baba oldum?' dedi. Oğulları 'Sen bize hayırlı bir baba oldun' dediler. O da 'Şurası muhakkak ki bu baba Allah yanında bir hayır biriktirmemiştir' dedi." Katade bu "Iem yebteir" sözünü "Allah yanında bir hayır biriktirmemiştir" şeklinde tefsir etmiştir. "Baba şöyle devam etti: 'Bu baba Allah huzuruna vardığında Allah ona azap edecektir. Bunun için bakınız! Ben öldüğüm zaman beni yıkayınız, kapkara kömür olduğum zaman beni ezip öğüterek ufalayınız -veya beni iyice inceltiniz.Sonra şiddetli esen bir rüzgar olduğu zaman benim zerrelerimi rüzgara verip uçurunuz' dedi ve oğullarından bu söylediklerini yapacaklarına dair 'Rabbime yemin olsun ki yapacağız!' diye kesin ahd ve söz aldı. Sonra oğulları onun kendilerine söylediği bu işleri yaptıilir Allah o kimseye 'OL! buyurdu. O da hemen bir adam olup, ayakta durdu. Sonra Allah ona 'Ey kulum bu yaptığın uasiyete seni seukeden nedir?' diye sordu. O zat 'Senin mehafetin -veya senden korkmaktır-' dedi. Allah 'onu Allah'ın kendisine merhamet etmesi telafi eder' buyurdu." Fethu'l-Bari Açıklaması: "Allah'tan korkma." Allah'tan korkma, yüce makamlardan birisidir. Bu, imanın gerektirdiği şeylerdendir. Allahu Teala bu konuda şöyle buyurmuştur: "Şu halde eğer iman etmiş kimseler iseniz onlardan korkmayın, benden korkun. "(Al-i İmran 175) "Şu halde insanlardan korkmayın, benden korkun. "(Maide 44) "Kulları içinden ancak alimler Allah'tan (gereğince) korkar. "(fatır 28) Bundan önce "Ben sizin içinizde Allah'ı en iyi bileniniz ve O'ndan en çok korkanınızım"(Ahmed İbn Hanbel, VI, 122) hadisi geçmişti. Kul, Rabbine ne kadar yakın olursa onun dışındakileri bir yana bırakarak ondan o derece korku içinde olur. Allah'Cı Teala melekleri "Onlar üstlerindeki Rablerinden korkarlar"(Nahl 50) şeklinde nitelerken Nebileri "O Nebiler ki Allah'ın gönderdiği emirleri duyururlar, Allah'tan korkarlar ve ondan başka kimseden korkmazlar"(Ahzab 39) şeklinde nitelemektedir. Allah'a yakın olanların (mukarrabCın) korkuları daha fazla olur. Çünkü onlardan, başkalarından istenmeyen şeyler talep edilir ve onlar bu mertebelerinin hakkını verirler. Zira o kulun Allah için yapmas1 gereken şey, erişmiş olduğu mertebeye şükretmektir. Dolayısıyla onun işgal ettiği mertebenin yüceliğinden dolayı yapacağı şükür katlanır. Kul istikamet üzere dosdoğru olduğunda korkusu ya kötü akıbete uğramaktan kaynaklanır. Çünkü Allahu Teala "Allah kişi ile onun kalbi arasına girer"(Enfal 24) buyurmaktadır. Ya da derecesinin nispeten eksikleceği endişesinden kaynaklanır. Bu kişi doğru yoldan sapmışsa korkusu yaptığı fiilin kötü akıbetindendir. Bu korku, pişmanlık duygusu ve günahtan vazgeçmekle birlikte ona fayda sağlar. Çünkü korku, yapılan fiilin çirkinliğini bilmekten ve o fiile karşı yöneltilen tehdide inanmaktan ve kendisine tövbe etmenin nasip olmayacağı düşüncesinden kaynaklanır ya da kişinin Allahu Teala'ın bağışlamayı dilediği kişilerden olmadığı düşüncesinden doğar. Netice olarak kul günahından korkmakta, Rabbinden kendisini bağışladığı kimselerin zümresine katmasını talep etmektedir. Bu konuya bundan önceki hadis de dahildir. O hadiste şöyle bir cümle yer almaktaydı: "Bir diğeri de varlıklı ve güzel bir kadının davet ettiği erkektir ki o 'ben Allah'tan korkarım' der." Bu konuya giren bir başka hadis ise mağaraya sığınan üç kişiden söz eden rivayettir. Onlardan birisi Allah korkusuyla bir kadından çekinen ve kendisine verdiği malı ona bağışlayan erkektir. Bu hadisin açıklaması Enbiya Bölümünde İsrailoğulları başlığı altında geçmişti. "Amelinin kötülüğünü düşünerek" bu kişinin kefen soyucu olduğu daha önce geçmişti. "Fe zerrCınl" Bu fiil "tezriye" kökünden türeme olup, zerrelere parçalamak imlamınadır. "TezrCıhu'r-riyah = rüzgarın savurduğu"(Kehf 45) tabiri de bundandır. "Onu Allah'ın merhamet etmesi telafi eder." Yani ortadan kaldırır. İbn Ebi Cemre şöyle demiştir: Burada sözü edilen kişi, inanmış bir mu'mindi. Çünkü o hesaba çekileceğine ve yapılan kötülüklere ceza verileceğine kesin olarak inanmıştl. Yaptığı vasiyete gelince, her halde bu tövbenin geçerli olması için onların dininde caizdi. İsrailoğullarının şeriatında tövbelerinin geçerli olması için kendilerini öldürmesi biçiminde bir hüküm olduğu sabittir. Hadisten Çıkan Sonuçlar 1- İbn Ebi Cemre'ye göre bu hadisten bir şeye ona yakın olanla isim vermenin caiz olduğu anlaşılmaktadır. Çünkü hadiste "hadarahu'l-mevtu =ona ölüm gelip çattı" denilmektedir. Oysa bu durumda o kişiye gelip çatan ölüm değil, onun ön alametleridir. 2- Hadisten Muhammed ümmetinin fazileti ve üstünlüğü anlaşılmaktadır. Zira bu ümmete böylesi ağır şer'i mükellefiyetler getirilmemiştir ve hoşgörülü bir din (el-hanmyye es-semha) getirilmek suretiyle ihsanda bulunulmuştur. 3- Hadisten Allahu Teala'ın kudretinin ne kadar büyük olduğu anlaşılmaktadır. Zira o sözkonusu kişinin bedenini ezilip ufaltılarak dağıldıktan sonra toplamış bir araya getirmiştir. Biz de şu hatırlatmayı yapalım: Bunların kıyamet günü alacaklara dair bir haber verme olduğu daha önce geçmişti
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے موسیٰ بن اسماعیل نے بیان کیا، کہا ہم سے معتمر نے بیان کیا، کہا میں نے اپنے والد سے سنا، ان سے قتادہ نے بیان کیا، ان سے عقبہ بن عبدالغافر نے اور ان سے ابو سعید خدری رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے پچھلی امتوں کے ایک شخص کا ذکر فرمایا کہ اللہ تعالیٰ نے اسے مال و اولاد عطا فرمائی تھی۔ فرمایا کہ جب اس کی موت کا وقت آیا تو اس نے اپنے لڑکوں سے پوچھا، باپ کی حیثیت سے میں نے کیسا اپنے آپ کو ثابت کیا؟ لڑکوں نے کہا کہ بہترین باپ۔ پھر اس شخص نے کہا کہ اس نے اللہ کے پاس کوئی نیکی نہیں جمع کی ہے۔ قتادہ نے «لم يبتئر» کی تفسیر «لم يدخر» کہ نہیں جمع کی، سے کی ہے۔ اور اس نے یہ بھی کہا کہ اگر اسے اللہ کے حضور میں پیش کیا گیا تو اللہ تعالیٰ اسے عذاب دے گا ( اس نے اپنے لڑکوں سے کہا کہ ) دیکھو، جب میں مر جاؤں تو میری لاش کو جلا دینا اور جب میں کوئلہ ہو جاؤں تو مجھے پیس دینا اور کسی تیز ہوا کے دن مجھے اس میں اڑا دینا۔ اس نے اپنے لڑکوں سے اس پر وعدہ لیا چنانچہ لڑکوں نے اس کے ساتھ ایسا ہی کیا۔ پھر اللہ تعالیٰ نے فرمایا کہ ہو جا۔ چنانچہ وہ ایک مرد کی شکل میں کھڑا نظر آیا۔ پھر فرمایا، میرے بندے! یہ جو تو نے کرایا ہے اس پر تجھے کس چیز نے آمادہ کیا تھا؟ اس نے کہا کہ تیرے خوف نے۔ اللہ تعالیٰ نے اس کا بدلہ یہ دیا کہ اس پر رحم فرمایا۔ میں نے یہ حدیث عثمان سے بیان کی تو انہوں نے بیان کیا کہ میں نے سلمان سے سنا۔ البتہ انہوں نے یہ لفظ بیان کیے کہ ”مجھے دریا میں بہا دینا“ یا جیسا کہ انہوں نے بیان کیا اور معاذ نے بیان کیا کہ ہم سے شعبہ نے بیان کیا، ان سے قتادہ نے، انہوں نے عقبہ سے سنا، انہوں نے ابوسعید رضی اللہ عنہ سے سنا اور انہوں نے نبی کریم صلی اللہ علیہ وسلم سے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>6481</td></tr><tr><td>Arabic No</td><td>6481</td></tr><tr><td>Reference</td><td>Book 81 Hadith 70</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 6481 |
+| Arabic No | 6481 |
+| Reference | Book 81 Hadith 70 |

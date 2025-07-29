@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,106 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَلِيُّ بْنُ الْحُسَيْنِ، قَالَ حَدَّثَنَا أُمَيَّةُ، عَنْ شُعْبَةَ، عَنْ حَبِيبٍ، قَالَ حَدَّثَنِي أَبُو الْعَبَّاسِ، - وَكَانَ رَجُلاً مِنْ أَهْلِ الشَّامِ وَكَانَ شَاعِرًا وَكَانَ صَدُوقًا - عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم وَسَاقَ الْحَدِيثَ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 22 Hadith 309</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |
+
 اخبرنا علي بن الحسين، قال حدثنا امية، عن شعبة، عن حبيب، قال حدثني ابو العباس، - وكان رجلا من اهل الشام وكان شاعرا وكان صدوقا - عن عبد الله بن عمرو قال قال لي رسول الله صلى الله عليه وسلم وساق الحديث
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 22 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আলী ইবনু হুসাইন (রহঃ) ... আব্দুল্লাহ ইবনু আমর (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমাকে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেন, তারপর দীর্ঘ হাদীস বর্ণনা করলেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 22 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that 'Abdullah bin 'Amr said:"The Messenger of Allah said to me" and he quoted the same Hadith. 'Ata said: "someone who heard him told me that Ibn 'Umar (said) that the Prophet said: 'Whoever fasts every day of his life, then he has not fasted
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 22 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |
+
+## French
+
+Rapporté par 'Abdullah bin 'Amr : Le Messager d'Allah ﷺ m'a dit, et il a rapporté le même hadith. 'Ata a ajouté : "Quelqu'un qui l'a entendu m'a dit qu'Ibn 'Umar a rapporté que le Prophète ﷺ a dit : Celui qui jeûne tous les jours de sa vie, alors il n'a pas vraiment jeûné
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 22 Hadith 309</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 22 Hadith 309</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو رضی الله عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا، پھر راوی نے پوری حدیث ذکر کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2398</td></tr><tr><td>Arabic No</td><td>2398</td></tr><tr><td>Reference</td><td>Book 22 Hadith 309</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2398 |
+| Arabic No | 2398 |
+| Reference | Book 22 Hadith 309 |

@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، حَدَّثَنَا مَالِكٌ، عَنْ عَامِرِ بْنِ عَبْدِ اللَّهِ بْنِ الزُّبَيْرِ، عَنْ عَمْرِو بْنِ سُلَيْمٍ، عَنْ أَبِي قَتَادَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي وَهُوَ حَامِلٌ أُمَامَةَ بِنْتَ زَيْنَبَ بِنْتِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَإِذَا سَجَدَ وَضَعَهَا وَإِذَا قَامَ حَمَلَهَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
+
 حدثنا القعنبي، حدثنا مالك، عن عامر بن عبد الله بن الزبير، عن عمرو بن سليم، عن ابي قتادة، ان رسول الله صلى الله عليه وسلم كان يصلي وهو حامل امامة بنت زينب بنت رسول الله صلى الله عليه وسلم فاذا سجد وضعها واذا قام حملها
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
 
 ## Bengali
 
+। আবূ ক্বাতাদাহ (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বীয় কন্যা যাইনাবের মেয়ে উমামাহকে কাঁধে নিয়ে সালাত আদায় করছিলেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদার সময় তাকে নামিয়ে রাখতেন এবং দাঁড়ানোর সময় উঠিয়ে নিতেন।\[1\] সহীহ : বুখারী ও মুসলিম।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। আবূ ক্বাতাদাহ (রাঃ) সূত্রে বর্ণিত। একদা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম স্বীয় কন্যা যাইনাবের মেয়ে উমামাহকে কাঁধে নিয়ে সালাত আদায় করছিলেন। তিনি সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম সিজদার সময় তাকে নামিয়ে রাখতেন এবং দাঁড়ানোর সময় উঠিয়ে নিতেন।[1] সহীহ : বুখারী ও মুসলিম।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Qatadah said:The Messenger of Allah (ﷺ) was leading the people in prayer with Umamah daughter of Zainab daughter of the Messenger of Allah(ﷺ) (in his lap). When he prostrated, he put her down and when he got up(after prostration) he lifted her up
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
+
+## French
+
+Rapporté par Abu Qatadah رضي الله عنه : Le Messager d’Allah ﷺ dirigeait la prière en portant Umamah, la fille de Zaynab, elle-même fille du Messager d’Allah ﷺ, sur ses genoux. Quand il se prosternait, il la posait par terre et quand il se relevait, il la reprenait
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\] telah menceritakan kepada kami \[Malik\] dari \['Amir bin Abdullah bin Az Zubair\] dari \['Amru bin Sulaim\] dari \[Abu Qatadah\] bahwa Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat sambil menggendong Umamah binti Zainab binti Rasulullah shallallahu 'alaihi wasallam, apabila beliau sujud, beliau menaruh Umamah, dan apabila berdiri beliau menggendongnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi] telah menceritakan kepada kami [Malik] dari ['Amir bin Abdullah bin Az Zubair] dari ['Amru bin Sulaim] dari [Abu Qatadah] bahwa Rasulullah shallallahu 'alaihi wasallam mengerjakan shalat sambil menggendong Umamah binti Zainab binti Rasulullah shallallahu 'alaihi wasallam, apabila beliau sujud, beliau menaruh Umamah, dan apabila berdiri beliau menggendongnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Абу Катады, да будет доволен им Аллах, что Посланник Аллаха ﷺ иногда совершал молитву, держа на руках Умаму, дочь Зейнаб, дочери Пророка ﷺ. Совершая земной поклон, он клал её, а поднимаясь, брал её на руки вновь
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ebû Katâde'den rivayet olunmuştur: Resûlullah (Sallallahu aleyhi ve Sellem) kızı Zeyneb'in kızı Ümâme'yi (omuzunda) taşır olduğu halde namaz kılardı. Secdeye varacağı zaman indirir, (kıyama) kalkacağında da (omuzuna) bindirirdi. Diğer tahric: Nesâî, İmame
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ابوقتادہ رضی اللہ عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نماز پڑھ رہے تھے اور اپنی نواسی امامہ بنت زینب کو کندھے پر اٹھائے ہوئے تھے، جب آپ صلی اللہ علیہ وسلم سجدے میں جاتے تو انہیں اتار دیتے اور جب کھڑے ہوتے تو انہیں اٹھا لیتے تھے ۱؎۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih Bukhari (516) Sahih Muslim (543)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>917</td></tr><tr><td>Arabic No</td><td>917</td></tr><tr><td>Reference</td><td>Book 2 Hadith 528</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih Bukhari (516) Sahih Muslim (543) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 917 |
+| Arabic No | 917 |
+| Reference | Book 2 Hadith 528 |

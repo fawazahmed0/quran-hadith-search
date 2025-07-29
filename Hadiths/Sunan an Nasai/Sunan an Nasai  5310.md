@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,122 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عِيسَى بْنُ يُونُسَ، قَالَ حَدَّثَنَا سَعِيدٌ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَرْخَصَ لِعَبْدِ الرَّحْمَنِ بْنِ عَوْفٍ وَالزُّبَيْرِ بْنِ الْعَوَّامِ فِي قُمُصِ حَرِيرٍ مِنْ حِكَّةٍ كَانَتْ بِهِمَا ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 48 Hadith 271</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |
+
 اخبرنا اسحاق بن ابراهيم، قال انبانا عيسى بن يونس، قال حدثنا سعيد، عن قتادة، عن انس، ان رسول الله صلى الله عليه وسلم ارخص لعبد الرحمن بن عوف والزبير بن العوام في قمص حرير من حكة كانت بهما
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 48 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ইসহাক ইবন ইবরাহীম (রহঃ) ... আনাস (রাঃ) থেকে বর্ণিত। রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লামআবদুর রহমান ইবন আউফ এবং যুবায়র ইবনুল আওয়াম (রাঃ)-কে রেশমী জামা পরার অনুমতি দান করেছিলেন; কেননা তাদের খুজলী রোগ হয়েছিল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 48 Hadith 271</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |
 
 ## English
 
+It was narrated from Anas that:The Messenger of Allah \[SAW\] granted a concession to 'Abdur-Rahman bin 'Awf and Az-Zubair bin Al-'Awwam allowing them to wear silken shirts because of scabies that they were suffering from
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-It was narrated from Anas that:The Messenger of Allah [SAW] granted a concession to 'Abdur-Rahman bin 'Awf and Az-Zubair bin Al-'Awwam allowing them to wear silken shirts because of scabies that they were suffering from
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 48 Hadith 271</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |
+
+## French
+
+Rapporté par Anas : Le Messager d'Allah ﷺ a accordé une permission à 'Abdur-Rahman bin 'Awf et Az-Zubair bin Al-'Awwam de porter des chemises en soie à cause de la gale dont ils souffraient
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \[Ishaq bin Ibrahim\] ia berkata; telah memberitakan kepada kami \[Isa bin Yunus\] ia berkata; telah menceritakan kepada kami \[Sa'id\] dari \[Qatadah\] dari \[Anas\] berkata, "Rasulullah shallallahu 'alaihi wasallam memberi keringanan 'Abdurrahman bin Auf dan Az Zubair bin Al Awwam untuk memakai kemeja dari sutera karena penyakit gatal yang mereka derita
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami [Ishaq bin Ibrahim] ia berkata; telah memberitakan kepada kami [Isa bin Yunus] ia berkata; telah menceritakan kepada kami [Sa'id] dari [Qatadah] dari [Anas] berkata, "Rasulullah shallallahu 'alaihi wasallam memberi keringanan 'Abdurrahman bin Auf dan Az Zubair bin Al Awwam untuk memakai kemeja dari sutera karena penyakit gatal yang mereka derita
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 48 Hadith 271</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 48 Hadith 271</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Sahih - Agreed Upon | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih - Agreed Upon</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5310</td></tr><tr><td>Arabic No</td><td>5310</td></tr><tr><td>Reference</td><td>Book 48 Hadith 271</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5310 |
+| Arabic No | 5310 |
+| Reference | Book 48 Hadith 271 |

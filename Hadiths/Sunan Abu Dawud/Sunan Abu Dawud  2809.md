@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا الْقَعْنَبِيُّ، عَنْ مَالِكٍ، عَنْ أَبِي الزُّبَيْرِ الْمَكِّيِّ، عَنْ جَابِرِ بْنِ عَبْدِ اللَّهِ، أَنَّهُ قَالَ نَحَرْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِالْحُدَيْبِيَةِ الْبَدَنَةَ عَنْ سَبْعَةٍ وَالْبَقَرَةَ عَنْ سَبْعَةٍ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
+
 حدثنا القعنبي، عن مالك، عن ابي الزبير المكي، عن جابر بن عبد الله، انه قال نحرنا مع رسول الله صلى الله عليه وسلم بالحديبية البدنة عن سبعة والبقرة عن سبعة
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । জাবির ইবনু ‘আব্দুল্লাহ (রাঃ) সূত্রে বর্ণিত। তিনি বলেন, ‘আমরা রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর সাথে হুদায়বিয়াতে সাতজনের পক্ষ থেকে একটি উট এবং সাতজনের পক্ষ থেকে একটি গরু কুরবানী করেছি।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Jabir ibn Abdullah: We sacrificed along with the Messenger of Allah (ﷺ) at al-Hudaybiyyah a camel for seven and a cow for seven people
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
+
+## French
+
+Rapporté par Jabir ibn Abdullah : Nous avons sacrifié avec le Messager d’Allah ﷺ à al-Hudaybiyyah un chameau pour sept personnes et une vache pour sept personnes
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Al Qa'nabi\], dari \[Malik\], dari \[Abu Az Zubair Al Makki\], dari \[Jabir bin Abdullah\], bahwa ia berkata; kami menyembelih satu ekor unta bersama Rasulullah shallallahu 'alaihi wasallam di Hudaibiyah untuk tujuh orang dan seekor sapi untuk tujuh ekor
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Al Qa'nabi], dari [Malik], dari [Abu Az Zubair Al Makki], dari [Jabir bin Abdullah], bahwa ia berkata; kami menyembelih satu ekor unta bersama Rasulullah shallallahu 'alaihi wasallam di Hudaibiyah untuk tujuh orang dan seekor sapi untuk tujuh ekor
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от Джабира ибн ‘Абдуллаха, да будет доволен Аллах им и его отцом: «В Худайбии мы резали верблюдицу от семерых и корову от семерых»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Câbir b. Abdullah'dan demiştir ki: (Hudeybiye sulhu yapıldığı gün) Hudeybiye'de Resulullah (s.a.v.) ile birlikte yedi kişi için bir deve, (yine) yedi kişi için bir sığır kurban ettik
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 جابر بن عبداللہ رضی اللہ عنہما کہتے ہیں کہ ہم نے حدیبیہ میں رسول اللہ صلی اللہ علیہ وسلم کے ساتھ سات آدمیوں کی طرف سے اونٹ نحر کئے، اور گائے بھی سات آدمیوں کی طرف سے ذبح کی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Sahih</td><td>Shuaib Al Arnaut</td></tr><tr><td>Sahih Muslim (1318)</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2809</td></tr><tr><td>Arabic No</td><td>2809</td></tr><tr><td>Reference</td><td>Book 16 Hadith 22</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Sahih | Shuaib Al Arnaut |
+| Sahih Muslim (1318) | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2809 |
+| Arabic No | 2809 |
+| Reference | Book 16 Hadith 22 |

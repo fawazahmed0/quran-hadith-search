@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,134 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا هِشَامُ بْنُ عَمَّارٍ، حَدَّثَنَا مَالِكُ بْنُ أَنَسٍ، قَالَ بَلَغَنِي عَنْ عَمْرِو بْنِ شُعَيْبٍ، عَنْ أَبِيهِ، عَنْ جَدِّهِ، أَنَّ النَّبِيَّ ـ صلى الله عليه وسلم ـ نَهَى عَنْ بَيْعِ الْعُرْبَانِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |
+
 حدثنا هشام بن عمار، حدثنا مالك بن انس، قال بلغني عن عمرو بن شعيب، عن ابيه، عن جده، ان النبي صلى الله عليه وسلم نهى عن بيع العربان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ‘আমর ইবনে শু‘আইব (রাঃ) থেকে পর্যায়ক্রমে তার পিতা ও তার দাদার সূত্রে বর্ণিত। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম ‘উরবান ধরনের ক্রয়-বিক্রয় করতে নিষেধ করেছেন।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated from 'Amr bin Shu'aib, from his father, from his grandfather that :the Prophet (ﷺ) forbade the deal involving earnest money
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |
+
+## French
+
+Rapporté par 'Amr bin Shu'aib, de son père, de son grand-père : Le Prophète (ﷺ) a interdit la transaction impliquant un acompte
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Hisyam bin Ammar\] berkata, telah menceritakan kepada kami \[Malik bin Anas\] berkata, telah sampai kepadaku dari \['Amru bin Syu'aib\] dari \[Bapaknya\] dari \[Kakeknya\] berkata, "Nabi shallallahu 'alaihi wasallam melarang jual beli dengan sistem 'Urban (membeli dengan cara panjer, jika gagal uang tidak kembali)
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Hisyam bin Ammar] berkata, telah menceritakan kepada kami [Malik bin Anas] berkata, telah sampai kepadaku dari ['Amru bin Syu'aib] dari [Bapaknya] dari [Kakeknya] berkata, "Nabi shallallahu 'alaihi wasallam melarang jual beli dengan sistem 'Urban (membeli dengan cara panjer, jika gagal uang tidak kembali)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Amr bin Şuayb'ın dedesi (r.a.)'den şöyle demiştir: Nebi (Sallallahu Aleyhi ve Sellem) örban (kaparolu) satışı yasaklamıştır. AÇIKLAMA
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عمرو بن العاص رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے بیعانہ ( عربان کی بیع ) سے منع فرمایا ہے۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Fouad Abd al-Baqi</td></tr><tr><td>Daif</td><td>Shuaib Al Arnaut</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2192</td></tr><tr><td>Arabic No</td><td>2192</td></tr><tr><td>Reference</td><td>Book 12 Hadith 56</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Fouad Abd al-Baqi |
+| Daif | Shuaib Al Arnaut |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2192 |
+| Arabic No | 2192 |
+| Reference | Book 12 Hadith 56 |

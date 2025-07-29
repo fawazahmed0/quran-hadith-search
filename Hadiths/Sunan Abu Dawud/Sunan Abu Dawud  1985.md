@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,151 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا أَبُو يَعْقُوبَ الْبَغْدَادِيُّ، ثِقَةٌ حَدَّثَنَا هِشَامُ بْنُ يُوسُفَ، عَنِ ابْنِ جُرَيْجٍ، عَنْ عَبْدِ الْحَمِيدِ بْنِ جُبَيْرِ بْنِ شَيْبَةَ، عَنْ صَفِيَّةَ بِنْتِ شَيْبَةَ، قَالَتْ أَخْبَرَتْنِي أُمُّ عُثْمَانَ بِنْتُ أَبِي سُفْيَانَ، أَنَّ ابْنَ عَبَّاسٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لَيْسَ عَلَى النِّسَاءِ الْحَلْقُ إِنَّمَا عَلَى النِّسَاءِ التَّقْصِيرُ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
+
 حدثنا ابو يعقوب البغدادي، ثقة حدثنا هشام بن يوسف، عن ابن جريج، عن عبد الحميد بن جبير بن شيبة، عن صفية بنت شيبة، قالت اخبرتني ام عثمان بنت ابي سفيان، ان ابن عباس، قال قال رسول الله صلى الله عليه وسلم " ليس على النساء الحلق انما على النساء التقصير
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
 
 ## Bengali
 
+। ইবনু ‘আব্বাস (রাযি.) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নারীদের জন্য মাথা কামানোর দরকার নেই, তাদেরকে চুল ছাঁটতে হবে।\[1\] সহীহ।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। ইবনু ‘আব্বাস (রাযি.) বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ নারীদের জন্য মাথা কামানোর দরকার নেই, তাদেরকে চুল ছাঁটতে হবে।[1] সহীহ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Abdullah ibn Abbas: The Prophet (ﷺ) said: Shaving is not a duty laid on women; only clipping the hair is incumbent on them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
+
+## French
+
+Rapporté par Abdullah ibn Abbas رضي الله عنه : Le Prophète ﷺ a dit : « Le rasage n’est pas une obligation pour les femmes ; seule la coupe des cheveux leur est demandée. »
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
 
 ## Indonesian
 
+Telah menceritakan kepada Kami \[Abu Ya'qub Al Baghdadi\], ia adalah orang-orang Tsiqah, telah menceritakan kepada Kami \[Hisyam bin Yusuf\] dari \[Ibnu Juraij\] dari \[Abdul Hamid bin Jubair bin Syaibah\] dari \[Shafiyyah binti Syaibah\], ia berkata; telah mengabarkan kepadaku \[Ummu Utsman binti Abu Sufyan\] bahwa \[Ibnu Abbas\] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wanita tidak wajib menggundul rambut akan tetapi yang wajib atas wanita adalah mengurangi
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada Kami [Abu Ya'qub Al Baghdadi], ia adalah orang-orang Tsiqah, telah menceritakan kepada Kami [Hisyam bin Yusuf] dari [Ibnu Juraij] dari [Abdul Hamid bin Jubair bin Syaibah] dari [Shafiyyah binti Syaibah], ia berkata; telah mengabarkan kepadaku [Ummu Utsman binti Abu Sufyan] bahwa [Ibnu Abbas] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Wanita tidak wajib menggundul rambut akan tetapi yang wajib atas wanita adalah mengurangi
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передаётся от Ибн ‘Аббаса, да будет доволен Аллах им и его отцом, с другим иснадом, что Посланник Аллаха ﷺ сказал: «Женщины не должны брить голову. Им следует только укоротить волосы»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 İbn Abbas (r.â.)'dan; demiştir ki: Resulullah (s.a.v.); "Kadınlara tıraş olmak gerekmez. Kadınlara gereken sadece saçlan kısaltmaktır" buyurdu
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عبداللہ بن عباس رضی اللہ عنہما کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: عورتوں پر حلق نہیں بلکہ صرف «تقصير» ( بال کٹانا ) ہے ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Shuaib Al Arnaut</td></tr><tr><td>Isnaad Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1985</td></tr><tr><td>Arabic No</td><td>1985</td></tr><tr><td>Reference</td><td>Book 11 Hadith 265</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Shuaib Al Arnaut |
+| Isnaad Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1985 |
+| Arabic No | 1985 |
+| Reference | Book 11 Hadith 265 |

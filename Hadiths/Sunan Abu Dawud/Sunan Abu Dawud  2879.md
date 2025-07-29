@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا سُلَيْمَانُ بْنُ دَاوُدَ الْمَهْرِيُّ، حَدَّثَنَا ابْنُ وَهْبٍ، أَخْبَرَنِي اللَّيْثُ، عَنْ يَحْيَى بْنِ سَعِيدٍ، عَنْ صَدَقَةِ، عُمَرَ بْنِ الْخَطَّابِ رضى الله عنه قَالَ نَسَخَهَا لِي عَبْدُ الْحَمِيدِ بْنُ عَبْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ بْنِ عُمَرَ بْنِ الْخَطَّابِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ هَذَا مَا كَتَبَ عَبْدُ اللَّهِ عُمَرُ فِي ثَمْغٍ فَقَصَّ مِنْ خَبَرِهِ نَحْوَ حَدِيثِ نَافِعٍ قَالَ غَيْرَ مُتَأَثِّلٍ مَالاً فَمَا عَفَا عَنْهُ مِنْ ثَمَرِهِ فَهُوَ لِلسَّائِلِ وَالْمَحْرُومِ - قَالَ وَسَاقَ الْقِصَّةَ - قَالَ وَإِنْ شَاءَ وَلِيُّ ثَمْغٍ اشْتَرَى مِنْ ثَمَرِهِ رَقِيقًا لِعَمَلِهِ وَكَتَبَ مُعَيْقِيبٌ وَشَهِدَ عَبْدُ اللَّهِ بْنُ الأَرْقَمِ بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ هَذَا مَا أَوْصَى بِهِ عَبْدُ اللَّهِ عُمَرُ أَمِيرُ الْمُؤْمِنِينَ إِنْ حَدَثَ بِهِ حَدَثٌ أَنَّ ثَمْغًا وَصِرْمَةَ بْنَ الأَكْوَعِ وَالْعَبْدَ الَّذِي فِيهِ وَالْمِائَةَ سَهْمٍ الَّتِي بِخَيْبَرَ وَرَقِيقَهُ الَّذِي فِيهِ وَالْمِائَةَ الَّتِي أَطْعَمَهُ مُحَمَّدٌ صلى الله عليه وسلم بِالْوَادِي تَلِيهِ حَفْصَةُ مَا عَاشَتْ ثُمَّ يَلِيهِ ذُو الرَّأْىِ مِنْ أَهْلِهَا أَنْ لاَ يُبَاعَ وَلاَ يُشْتَرَى يُنْفِقُهُ حَيْثُ رَأَى مِنَ السَّائِلِ وَالْمَحْرُومِ وَذِي الْقُرْبَى وَلاَ حَرَجَ عَلَى مَنْ وَلِيَهُ إِنْ أَكَلَ أَوْ آكَلَ أَوِ اشْتَرَى رَقِيقًا مِنْهُ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
+
 حدثنا سليمان بن داود المهري، حدثنا ابن وهب، اخبرني الليث، عن يحيى بن سعيد، عن صدقة، عمر بن الخطاب رضى الله عنه قال نسخها لي عبد الحميد بن عبد الله بن عبد الله بن عمر بن الخطاب بسم الله الرحمن الرحيم هذا ما كتب عبد الله عمر في ثمغ فقص من خبره نحو حديث نافع قال غير متاثل مالا فما عفا عنه من ثمره فهو للسايل والمحروم - قال وساق القصة - قال وان شاء ولي ثمغ اشترى من ثمره رقيقا لعمله وكتب معيقيب وشهد عبد الله بن الارقم بسم الله الرحمن الرحيم هذا ما اوصى به عبد الله عمر امير المومنين ان حدث به حدث ان ثمغا وصرمة بن الاكوع والعبد الذي فيه والماية سهم التي بخيبر ورقيقه الذي فيه والماية التي اطعمه محمد صلى الله عليه وسلم بالوادي تليه حفصة ما عاشت ثم يليه ذو الراى من اهلها ان لا يباع ولا يشترى ينفقه حيث راى من السايل والمحروم وذي القربى ولا حرج على من وليه ان اكل او اكل او اشترى رقيقا منه
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । ইয়াহইয়া ইবনু সাঈদ (রহঃ) সূত্রে বর্ণিত। তিনি ‘উমার ইবনুল খাত্তাব (রাঃ)-এর ওয়াক্‌ফ দলীল সম্পর্কে বলেন, ‘আব্দুল হামীদ ইবনু ‘আব্দুল্লাহ ইবনু ‘আব্দুল্লাহ ইবনু ‘উমার ইবনুল খাত্তার (রাঃ) আমাকে ওয়াকফ দলীলটির অনুলিপি দিয়েছেন। (তা হলোঃ) বিসমিল্লাহির রহমানির রহীম। আল্লাহর বান্দা ‘উমার (রাঃ) তার ‘সামাগ’ নামক ফলের বাগান ওয়াকফ করেছেন- এটা তারই দলীল। অতঃপর ইয়াহইয়া ইবনু সাঈদ পুরো হাদীস নাফি‘ বর্ণিত হাদীসের অনুরূপ বর্ণনা করেন। ‘উমার (রাঃ) বলেন, এই ওয়াকফকৃত সম্পত্তির আয় সঞ্চয় করা যাবে না। দলীলে উল্লেখিত খাতসমূহে এ সম্পত্তির আয় খরচ করার পর কিছু উদ্ধৃত্ত থাকলে তা ভিক্ষুক এবং বঞ্চিতদের জন্য ব্যয় করবে। অতঃপর ইয়াহইয়া সম্পূর্ণ ঘটনা বর্ণনা করেন। দলীলে এও উল্লেখ ছিলো, ‘সামাগ’ এর মোতাওয়াল্লী প্রয়োজনে বাগানের আয় থেকে দাস ক্রয় করতে পারবে (বাগান দেখাশুনার জন্য)। ওয়াকফের এই দলীল মু‘আইকিব (রাঃ) নাকল করেন এবং এর সাক্ষী হন ‘আব্দুল্লাহ ইবনু আরকাম (রাঃ)। দলীলের অনুলিপি এরূপঃ ‘‘বিসমিল্লাহির রহমানির রহীম। আল্লাহর বান্দা এবং মু‘মিনগণের নেতা ‘উমার এ ওসিয়াত করেন। তার মৃত্যুর পর সামাগের সম্পত্তি, সিরমা ইবনুল আকওয়া (বাগান) এবং এখানে কর্মরত গোলাম, খায়বারের একশো ভাগ জমি এবং সেখানে কর্মরত গোলাম এবং খায়বারের নিকটস্থ উপত্যকায় মুহাম্মাদ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম আমাকে যে একশো ভাগ জমি প্রদান করেছেন- এগুলোর আজীবন মোতাওয়াল্লী হবেন হাফসাহ (রাঃ)। তার মৃত্যুর পর এর মোতাওয়াল্লী হবে তার পরিবারের বিচক্ষণ ব্যক্তি। মোতাওয়াল্লী এসব শর্তগুলো মানবেঃ এ সম্পত্তি বিক্রি করা যাবে না। ক্রয় করে এর সাথে আর সম্পত্তি যোগ করা যাবে না। মোতওয়াল্লী তার বুঝ অনুযায়ী এর আয় ভিক্ষুক, বঞ্চিত এবং গরীব নিকটাত্মীয়দের জন্য ব্যয় করেন। তিনি এ থেকে প্রয়োজ পরিমাণ নিতে পারবেন এবং গোলাম ক্রয় করতে পারবেন।’’
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated Yahya b. Sa'id:'Abd al-Hamid b. Abd 'Allah b. 'Abd Allah b. 'Umar b. al-Khattab copied to me a document about the religious endowment (waqf) made by 'Umar b. al-Khattab : In the name of Allah, the Compassionate, the Merciful. This is what Allah's servant 'Umar has written about Thamgh. He narrated the tradition like the one transmitted by Nafi'. He added: "provided he is not storing up goods (for himself)". The surplus fruit will be devoted to the beggar and the deprived. He then went on with the tradition, saying: If the man in charge of Thamgh wishes to buy a slave for his work for its fruits (by selling them), he may do so. Mu'iqib penned it and 'Abd Allah b. al-Arqam witnessed it : In the name of Allah, the Compassionate, the Merciful. This is what Allah's servant 'Umar , Commander of Faithful, directed, in case of some incident happens to him (i.e. he dies), that Thamg, Sirmah b. al-Akwa', the servant who is there, the hundred shares in (the land of) Khaibr, the servant who is there and the hundred sahres which Muhammad (ﷺ) had donated to me in the valley (nearly) will remain in the custody of Hafsah during her life, then the men of opinion from her family will be in charge of these (endowments), that these will neither be sold not purchased, spending (its produce) where they think (necessary on the beggar, deprived and relatives). There is no harm to the one in charge (of this endowment) if he eats himself, or feeds, or buys slaves with it
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
+
+## French
+
+Rapporté par Yahya ibn Sa'id : 'Abd al-Hamid ibn 'Abd Allah ibn 'Umar ibn al-Khattab m’a transmis un document concernant la fondation pieuse (waqf) faite par 'Umar ibn al-Khattab : Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Voici ce qu’a écrit le serviteur d’Allah, 'Umar, au sujet de Thamgh. Il a rapporté la tradition comme celle transmise par Nafi'. Il a ajouté : « à condition qu’il n’en fasse pas de réserves pour lui-même. » Les fruits excédentaires seront donnés aux mendiants et aux nécessiteux. Il a poursuivi en disant : Si le responsable de Thamgh souhaite acheter un esclave pour travailler avec les fruits (en les vendant), il peut le faire. Mu'iqib a rédigé le document et 'Abd Allah ibn al-Arqam en a été témoin : Au nom d’Allah, le Tout Miséricordieux, le Très Miséricordieux. Voici ce que le serviteur d’Allah, 'Umar, Commandeur des croyants, a ordonné, au cas où il lui arriverait quelque chose (c’est-à-dire s’il meurt), que Thamgh, Sirmah ibn al-Akwa', le serviteur qui s’y trouve, les cent parts à Khaybar, le serviteur qui s’y trouve et les cent parts que Muhammad ﷺ m’a données dans la vallée, restent sous la garde de Hafsah pendant sa vie, puis les hommes de confiance de sa famille en auront la charge, et ces biens ne seront ni vendus ni achetés, et leurs revenus seront dépensés selon ce qu’ils jugeront nécessaire pour les mendiants, les nécessiteux et les proches. Celui qui gère ces biens ne commet pas de faute s’il en consomme lui-même, en donne à manger, ou achète des esclaves avec
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Yazid? bin Zurai'\], dan telah diriwayatkan dari jalur yang lain: dan telah mencerityakan kepada kami \[Musaddad\] telah menceritakan kepada kami \[Bisyr bin Al Mufadhdhal\], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami \[Musaddad\], telah menceritakan kepada kami \[Yahya\] dari \[Ibnu 'Aun\], dari \[Nafi'\] dari \[Ibnu Umar\], ia berkata; Umar mendapatkan tanah Khaibar, kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; aku telah mendapatkan tanah dan belum pernah mendapatkan harta yang lebih berharga menurutku daripadanya. Apakah yang anda perintahkan kepadaku? Beliau berkata: "Apabila engkau mau, maka engkau tahan pokoknya dan bersedekah dengannya." Kemudian Umar bersedekah dengannya, dengan syarat bahwa pokoknya tidka dijual, dan tidak diberikan, serta tidak diwariskan untuk orang-orang faqir, para kaum kerabat, serta para budak. Dan dengan syarat di jalan Allah, serta ibnu Sabil. Dan ia menambahkan dari Bisyr; serta tamu. Kemudian lafazh mereka sama: "Tidak mengapa bagi orang yang mengurusnya untuk memakan sebagian darinya dengan cara yang baik. Memberi makan teman, tanpa mengembangkannya." Dan Muhammad mengatakan; tidak mengumpulkan dan menjadikannya harta pokok. Telah menceritakan kepada kami \[Sulaiman bin Daud Al Mahri\], telah menceritakan kepada kami \[Ibnu Wahb\], telah mengabarkan kepadaku \[Al Laits\], dari \[Yahya bin Sa'id\] mengenai sedekah Umar bin Al Khathab radliallahu 'anhu, ia berkata; \[Abdul Hamid bin Abdullah bin Umar bin Al Khathab\] menyalinnya untukku; bismillahirrahmanirrahim, ini adalah yang ditulis hamba Allah \[Umar\] apabila terjadi sesuatu padanya, bahwa Tsamgh, dan Shirmah bin Al Akwa' (dua harta milik Umar di Madinah) serta budak yang ada padanya, dan seratus saham yang ada di Khaibar, budak yang ada padanya, serta seratus (wasaq) yang telah Muhammad shallallahu 'alaihi wasallam berikan kepadanya di sebuah bukit akan diurus oleh Hafshah selama ia masih hidup, kemudian orang-orang yang memiliki pemikiran yang baik dari kalangan keluarganya. Tidak boleh dijual, dan tidak boleh dibeli, ia nafkahkan ke tempat yang ia pandang baik, kepada orang yang meminta, dan orang miskin yang tidak mendapat bagian, para kaum kerabat, dan tidak mengapa orang yang mengurusnya untuk makan atau memberi makan, atau membeli budak darinya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yazid? bin Zurai'], dan telah diriwayatkan dari jalur yang lain: dan telah mencerityakan kepada kami [Musaddad] telah menceritakan kepada kami [Bisyr bin Al Mufadhdhal], dan telah diriwayatkan dari jalur yang lain: Telah menceritakan kepada kami [Musaddad], telah menceritakan kepada kami [Yahya] dari [Ibnu 'Aun], dari [Nafi'] dari [Ibnu Umar], ia berkata; Umar mendapatkan tanah Khaibar, kemudian ia datang kepada Nabi shallallahu 'alaihi wasallam dan berkata; aku telah mendapatkan tanah dan belum pernah mendapatkan harta yang lebih berharga menurutku daripadanya. Apakah yang anda perintahkan kepadaku? Beliau berkata: "Apabila engkau mau, maka engkau tahan pokoknya dan bersedekah dengannya." Kemudian Umar bersedekah dengannya, dengan syarat bahwa pokoknya tidka dijual, dan tidak diberikan, serta tidak diwariskan untuk orang-orang faqir, para kaum kerabat, serta para budak. Dan dengan syarat di jalan Allah, serta ibnu Sabil. Dan ia menambahkan dari Bisyr; serta tamu. Kemudian lafazh mereka sama: "Tidak mengapa bagi orang yang mengurusnya untuk memakan sebagian darinya dengan cara yang baik. Memberi makan teman, tanpa mengembangkannya." Dan Muhammad mengatakan; tidak mengumpulkan dan menjadikannya harta pokok. Telah menceritakan kepada kami [Sulaiman bin Daud Al Mahri], telah menceritakan kepada kami [Ibnu Wahb], telah mengabarkan kepadaku [Al Laits], dari [Yahya bin Sa'id] mengenai sedekah Umar bin Al Khathab radliallahu 'anhu, ia berkata; [Abdul Hamid bin Abdullah bin Umar bin Al Khathab] menyalinnya untukku; bismillahirrahmanirrahim, ini adalah yang ditulis hamba Allah [Umar] apabila terjadi sesuatu padanya, bahwa Tsamgh, dan Shirmah bin Al Akwa' (dua harta milik Umar di Madinah) serta budak yang ada padanya, dan seratus saham yang ada di Khaibar, budak yang ada padanya, serta seratus (wasaq) yang telah Muhammad shallallahu 'alaihi wasallam berikan kepadanya di sebuah bukit akan diurus oleh Hafshah selama ia masih hidup, kemudian orang-orang yang memiliki pemikiran yang baik dari kalangan keluarganya. Tidak boleh dijual, dan tidak boleh dibeli, ia nafkahkan ke tempat yang ia pandang baik, kepada orang yang meminta, dan orang miskin yang tidak mendapat bagian, para kaum kerabat, dan tidak mengapa orang yang mengurusnya untuk makan atau memberi makan, atau membeli budak darinya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Яхья ибн Са‘ид сказал о милостыне ‘Умара ибн аль-Хаттаба, да будет доволен им Аллах: «‘Абду-ль-Хамид ибн ‘Абдуллах ибн ‘Абдуллах ибн ‘Умар ибн аль-Хаттаб переписал для меня этот документ: “Это написано рабом Аллаха ‘Умаром о Самге (земле, оставленной в качестве милостыни)…”» И он пересказал историю, подобную истории Нафи‘, и сказал: «…не получая никакой иной прибыли, а остальные плоды должны отдаваться просящему и нищему». И он пересказал историю до слов: «И если присматривающий за Самгом пожелает, он может купить невольников для работы на средства, полученные от продажи плодов». Записал Муайкыб, а засвидетельствовал ‘Абдуллах ибн аль-Аркам: «С именем Аллаха Милостивого, Милосердного. Это завещал раб Аллаха ‘Умар, повелитель верующих, на случай, если с ним произойдёт что-нибудь. Самг, пальмы Ибн аль-Аква‘, и раба, который там, и сотню долей в Хайбаре с его невольниками, которые там, и сотню, которую дал ему Мухаммад ﷺ в долине, получает в распоряжение Хафса. Если же она умрёт, то всем этим должен распоряжаться наиболее разумный из числа её родных. Это имущество не должно продаваться и покупаться. Управляющий должен тратить доходы от него на просящих, нищих и близких по своему усмотрению. Если же управляющий имуществом будет питаться тем, что оно приносит, в пределах разумного, или накормит им кого-то, или купит рабов на получаемую прибыль, в этом не будет ничего дурного»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
 
 ## Turkish
 
+Yahya b.'Said, Ömer b. Hattab'ın vakfından (bahsederken) dedi ki: Abdulhamid b. Abdillâh b. Abdillâh b. Ömer b. el-Hattab bana (o vakfın vakfiyesinin) bir suretini yazıverdı (ki şöyledir): "Bismillahirrahmanirrahim şu (yazı), Allah'ın kulu Ömer'in (Medine' yakınlarında bulunan) semg (denilen yer) de yazmış olduğu vakfiyedir. (Yahya b. Said, Hz. Ömer'in mallarını vakfetmesiyle ilgili haberini bir önceki 2878.) Nafi' hadisine uygun şekilde anlattı, (ancak bir önceki hadiste geçen -gayra mutemevvilin mâlen- kelimesi yerine) "gayra müteessilin = aslına dokunmayarak" (kelimesini) rivayet etti. (Yahya b. Said rivayetine devamla vakfiyenin kalan metninin şöyle olduğunu söyledi. Mütevelli, vakfın gelirinden bir kısmını örfe uygun bir şekilde yedikten, bir kısmını da gerekli yerlere harcadıktan sonra) meyvesinden kalan kısmı dilenci(ler) ve muhtaç(lar) içindir. (Ravi el-Leys) dedi ki: (Yahya b. Said, Hz. Ömer'in mallarını vakfetmesi olayını olduğu gibi) anlatmaya devam etti ve şöyle dedi: Semg (deki vakfın) mütevellisi dilerse onun meyvesinden (bir kısmını satarak parasıyla vakfın) hizmeti(ni yürütmesi) için bir köle satın alabilir. (Bu vakfiyeyi) Muaykîb yazdı, Abdullah b. el-Erkam'da şahid oldu. (Birinci vakfiyye burada sona erdi, ikinci vakfiyye de şöyledir:) "Bismillahirrahmanirrahim şu, Allah'ın kulu Ömer'in yaptığı vasiyyettir. Eğer kendisine ölüm gelirse Semg (denilen yerdeki arazi) ile İbn'ül-Ekva bölümü (denilen küçük hurmalık) ve oradaki (hizmetleri yürüten) köleye ve Hayberdeki (bana düşen) yüz hisse ile oradaki köleye ve Muhammed (s.a.v.)\*in vadi (el-kura)'da ona verdiği, yüz (yük ağırlığındaki yiyeceğe) (kızım) Hafsa hayatı boyunca mütevelli olacaktır. Sonra da onun ailesinden aklı başında birisi mütevelli olacaktır. (Şu şartla ki bu vakıf) satılamaz. (Onunla bir şey) satın alınamaz. (Ancak mütevelli onun gelirini) dilenci ve muhtaç (kimseler) le (kendi) yakınlar(ın)dan (uygun) gördüğü birisine verebilir. Ayrıca Vakfa mütmöm da hürriyetine kavuşturmak için) köle satın almasında bir sakınca yoktur
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Yahya b.'Said, Ömer b. Hattab'ın vakfından (bahsederken) dedi ki: Abdulhamid b. Abdillâh b. Abdillâh b. Ömer b. el-Hattab bana (o vakfın vakfiyesinin) bir suretini yazıverdı (ki şöyledir): "Bismillahirrahmanirrahim şu (yazı), Allah'ın kulu Ömer'in (Medine' yakınlarında bulunan) semg (denilen yer) de yazmış olduğu vakfiyedir. (Yahya b. Said, Hz. Ömer'in mallarını vakfetmesiyle ilgili haberini bir önceki 2878.) Nafi' hadisine uygun şekilde anlattı, (ancak bir önceki hadiste geçen -gayra mutemevvilin mâlen- kelimesi yerine) "gayra müteessilin = aslına dokunmayarak" (kelimesini) rivayet etti. (Yahya b. Said rivayetine devamla vakfiyenin kalan metninin şöyle olduğunu söyledi. Mütevelli, vakfın gelirinden bir kısmını örfe uygun bir şekilde yedikten, bir kısmını da gerekli yerlere harcadıktan sonra) meyvesinden kalan kısmı dilenci(ler) ve muhtaç(lar) içindir. (Ravi el-Leys) dedi ki: (Yahya b. Said, Hz. Ömer'in mallarını vakfetmesi olayını olduğu gibi) anlatmaya devam etti ve şöyle dedi: Semg (deki vakfın) mütevellisi dilerse onun meyvesinden (bir kısmını satarak parasıyla vakfın) hizmeti(ni yürütmesi) için bir köle satın alabilir. (Bu vakfiyeyi) Muaykîb yazdı, Abdullah b. el-Erkam'da şahid oldu. (Birinci vakfiyye burada sona erdi, ikinci vakfiyye de şöyledir:) "Bismillahirrahmanirrahim şu, Allah'ın kulu Ömer'in yaptığı vasiyyettir. Eğer kendisine ölüm gelirse Semg (denilen yerdeki arazi) ile İbn'ül-Ekva bölümü (denilen küçük hurmalık) ve oradaki (hizmetleri yürüten) köleye ve Hayberdeki (bana düşen) yüz hisse ile oradaki köleye ve Muhammed (s.a.v.)*in vadi (el-kura)'da ona verdiği, yüz (yük ağırlığındaki yiyeceğe) (kızım) Hafsa hayatı boyunca mütevelli olacaktır. Sonra da onun ailesinden aklı başında birisi mütevelli olacaktır. (Şu şartla ki bu vakıf) satılamaz. (Onunla bir şey) satın alınamaz. (Ancak mütevelli onun gelirini) dilenci ve muhtaç (kimseler) le (kendi) yakınlar(ın)dan (uygun) gördüğü birisine verebilir. Ayrıca Vakfa mütmöm da hürriyetine kavuşturmak için) köle satın almasında bir sakınca yoktur
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 یحییٰ بن سعید سے عمر بن خطاب رضی اللہ عنہ کے صدقہ کے متعلق روایت ہے، وہ کہتے ہیں کہ عبدالحمید بن عبداللہ بن عبداللہ بن عمر بن خطاب نے مجھے عمر بن خطاب رضی اللہ عنہ کے صدقے کی کتاب نقل کر کے دی، اس میں یوں لکھا ہوا تھا: «بسم الله الرحمن الرحيم» ، یہ وہ کتاب ہے جسے اللہ کے بندے عمر نے ثمغ ( اس مال یا باغ کا نام ہے جس کو عمر رضی اللہ عنہ نے مدینہ یا خیبر میں وقف کیا تھا ) کے متعلق لکھا ہے ، پھر وہی تفصیل بیان کی جو نافع کی حدیث میں ہے اس میں ہے: مال جوڑنے والے نہ ہوں، جو پھل اس سے گریں وہ مانگنے اور نہ مانگنے والے فقیروں اور محتاجوں کے لیے ہیں ، راوی کہتے ہیں: اور انہوں نے پورا قصہ بیان کیا، اور کہا کہ: ثمغ کا متولی پھلوں کے بدلے ( باغ کے ) کام کاج کے لیے غلام خریدنا چاہے تو اس کے پھل سے خرید سکتا ہے ، معیقیب نے اسے لکھا اور عبداللہ بن ارقم نے اس بات کی یوں گواہی دی۔ «بسم الله الرحمن الرحيم» ، یہ وہ وصیت نامہ ہے جس کی اللہ کے بندے امیر المؤمنین عمر رضی اللہ عنہ نے وصیت کی اگر مجھے کوئی حادثہ پیش آ جائے ( یعنی مر جاؤں ) تو ثمغ اور صرمہ بن اکوع اور غلام جو اس میں ہے اور خیبر کے میرے سو حصے اور جو غلام وہاں ہیں اور میرے سو وہ حصے جو رسول اللہ صلی اللہ علیہ وسلم نے مجھے خیبر سے قریب کی وادی میں دیئے تھے ان سب کی متولیہ تاحیات حفصہ رہیں گی، حفصہ کے بعد ان کے اہل میں سے جو صاحب رائے ہو گا وہ متولی ہو گا لیکن کوئی چیز نہ بیچی جائے گی، نہ خریدی جائے گی، سائل و محروم اور اقرباء پر ان کی ضروریات کو دیکھ کر خرچ کیا جائے گا، ان کا متولی اگر اس میں سے کھائے یا کھلائے یا ان کی حفاظت و خدمت کے لیے ان کی آمدنی سے غلام خرید لے تو کوئی حرج و مضائقہ نہیں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Sahih</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Hasan</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2879</td></tr><tr><td>Arabic No</td><td>2879</td></tr><tr><td>Reference</td><td>Book 18 Hadith 18</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Al-Albani |
+| Sahih | Muhammad Muhyi Al-Din Abdul Hamid |
+| Hasan | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2879 |
+| Arabic No | 2879 |
+| Reference | Book 18 Hadith 18 |

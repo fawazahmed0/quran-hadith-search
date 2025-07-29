@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -14,62 +16,142 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا مُحَمَّدُ بْنُ كَثِيرٍ، أَخْبَرَنَا سُفْيَانُ، عَنْ زَيْدِ بْنِ أَسْلَمَ، عَنْ رَجُلٍ، مِنْ أَصْحَابِهِ عَنْ رَجُلٍ، مِنْ أَصْحَابِ النَّبِيِّ صلى الله عليه وسلم قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ "‏ لاَ يُفْطِرُ مَنْ قَاءَ وَلاَ مَنِ احْتَلَمَ وَلاَ مَنِ احْتَجَمَ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
+
 حدثنا محمد بن كثير، اخبرنا سفيان، عن زيد بن اسلم، عن رجل، من اصحابه عن رجل، من اصحاب النبي صلى الله عليه وسلم قال قال رسول الله صلى الله عليه وسلم " لا يفطر من قاء ولا من احتلم ولا من احتجم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
 
 ## Bengali
 
+। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবী সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কারো বমি হলে, স্বপ্নদোষ হলে এবং রক্তমোক্ষণ করালে সে সওম ভংগ করবে না।\[1\] দুর্বল।
 
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-। নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম-এর জনৈক সাহাবী সূত্রে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ কারো বমি হলে, স্বপ্নদোষ হলে এবং রক্তমোক্ষণ করালে সে সওম ভংগ করবে না।[1] দুর্বল।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Narrated A man from the Companions: The Messenger of Allah (ﷺ) said: Neither vomiting, nor emission, nor cupping breaks the fast of the one who is fasting
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
+
+## French
+
+Rapporté par un homme parmi les Compagnons : Le Messager d’Allah ﷺ a dit : « Ni le fait de vomir, ni une émission, ni la saignée ne rompent le jeûne de celui qui jeûne. »
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Muhammad bin Katsir\] telah mengabarkan kepada kami \[Sufyan\] dari \[Zaid bin Aslam\] dari \[seorang laki-laki sahabatnya\] dari \[seorang sahabat Nabi shallallahu 'alaihi wasallam\], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah batal puasa orang yang muntah, orang yang bermimpi, dan orang yang berbekam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Muhammad bin Katsir] telah mengabarkan kepada kami [Sufyan] dari [Zaid bin Aslam] dari [seorang laki-laki sahabatnya] dari [seorang sahabat Nabi shallallahu 'alaihi wasallam], ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: "Tidaklah batal puasa orang yang muntah, orang yang bermimpi, dan orang yang berbekam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Передается от одного из сподвижников Пророка ﷺ что Посланник Аллаха ﷺ сказал: «Не нарушается пост того, кого одолела рвота, того, у кого случилась поллюция, и того, кому сделали кровопускание»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Nebi (s.a.v.)'in ashabından birisi, "Rasûlullah şöyle buyurdu' 'demiştir: "(Kasıtlı olmadan) kusanın, ihtilâm-olanın ve kan aldıranın orucu bozulmaz
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 نبی اکرم صلی اللہ علیہ وسلم کے اصحاب میں سے ایک شخص سے روایت ہے، وہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: جس نے قے کی اس کا روزہ نہیں ٹوٹتا، اور نہ اس شخص کا جس کو احتلام ہو گیا، اور نہ اس شخص کا جس نے پچھنا لگایا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Muhammad Muhyi Al-Din Abdul Hamid</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2376</td></tr><tr><td>Arabic No</td><td>2376</td></tr><tr><td>Reference</td><td>Book 14 Hadith 64</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Muhammad Muhyi Al-Din Abdul Hamid |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2376 |
+| Arabic No | 2376 |
+| Reference | Book 14 Hadith 64 |

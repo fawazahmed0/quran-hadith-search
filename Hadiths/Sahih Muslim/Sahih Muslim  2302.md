@@ -18,78 +18,98 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ سَلاَّمٍ الْجُمَحِيُّ، حَدَّثَنَا الرَّبِيعُ، - يَعْنِي ابْنَ مُسْلِمٍ - عَنْ مُحَمَّدِ بْنِ زِيَادٍ، عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ "‏ مَا يَسُرُّنِي أَنَّ لِي أُحُدًا ذَهَبًا تَأْتِي عَلَىَّ ثَالِثَةٌ وَعِنْدِي مِنْهُ دِينَارٌ إِلاَّ دِينَارٌ أُرْصِدُهُ لِدَيْنٍ عَلَىَّ ‏"‏ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا عبد الرحمن بن سلام الجمحي، حدثنا الربيع، - يعني ابن مسلم - عن محمد بن زياد، عن ابي هريرة، ان النبي صلى الله عليه وسلم قال " ما يسرني ان لي احدا ذهبا تاتي على ثالثة وعندي منه دينار الا دينار ارصده لدين على
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আবদুর রহমান ইবনু সাল্লাম আল জুমাহী (রহঃ) ..... আবূ হুরায়রাহ (রাযিঃ) থেকে বর্ণিত। তিনি বলেন, রসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম বলেছেনঃ যদি উহুদ পাহাড় আমার জন্য স্বর্ণে পরিণত হয় এবং তিন দিনের বেশী আমার কাছে এক দীনারও অবশিষ্ট থাকুক- এটা আমি চাই না। তবে আমার উপর যে ঋণ রয়েছে তা পরিশোধ করার পরিমাণ অর্থ আমার কাছে থাকুক। (ইসলামিক ফাউন্ডেশন ২১৭১, ইসলামীক সেন্টার)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Abu Huraira reported that the Prophet (ﷺ) said:Nothing is more delighting to me than this that Uhud should be of gold for me, and no dinar is left with me out of it before three nights pass except a dinar which I would set aside for the repayment of debt upon me
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## French
 
+Rapporté par Abu Huraira رضي الله عنه : Le Prophète ﷺ a dit : « Rien ne me réjouirait plus que d’avoir la montagne d’Uhud en or pour moi, et qu’il ne me reste aucun dinar de cette richesse après trois nuits, sauf un dinar que je garderais pour rembourser une dette. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Selon Abou Hourayra (que Dieu l'agrée) le Prophète (paix et bénédiction de Dieu sur lui) a dit : "Je ne serai pas heureux si je possède de l'or autant que la montagne de 'Uhud et qu'à la troisième nuit, j'en ai encore un dinar, sauf au cas où celui-ci aurait été conservé pour que je m'acquitte d'une dette". Ceux qui thésaurisent des fortunes et la dureté de leur châtiment
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## Indonesian
 
+Telah menceritakan kepada kami \[Abdurrahman bin Sallam Al Juhami\] Telah menceritakan kepada kami \[Ar Rabi', yaitu putranya Muslim\] dari \[Muhammad bin Ziyad\] dari \[Abu Hurairah\] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah mengembirakanku, seandainya aku memiliki emas sebesar bukit Uhud, jika pada hari ketiga emas itu masih tersisa padaku satu dinar, selain yang telah kusediakan untuk membayar hutangku." Dan telah menceritakan kepada kami \[Muhammad bin Basysyar\] Telah menceritakan kepada kami \[Muhammad bin Ja'far\] Telah menceritakan kepada kami \[Syu'bah\] dari \[Muhammad bin Ziyad\] ia berkata, saya mendengar \[Abu Hurairah\] dari Nabi shallallahu 'alaihi wasallam semisalnya
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah menceritakan kepada kami [Abdurrahman bin Sallam Al Juhami] Telah menceritakan kepada kami [Ar Rabi', yaitu putranya Muslim] dari [Muhammad bin Ziyad] dari [Abu Hurairah] bahwa Nabi shallallahu 'alaihi wasallam bersabda: "Tidaklah mengembirakanku, seandainya aku memiliki emas sebesar bukit Uhud, jika pada hari ketiga emas itu masih tersisa padaku satu dinar, selain yang telah kusediakan untuk membayar hutangku." Dan telah menceritakan kepada kami [Muhammad bin Basysyar] Telah menceritakan kepada kami [Muhammad bin Ja'far] Telah menceritakan kepada kami [Syu'bah] dari [Muhammad bin Ziyad] ia berkata, saya mendengar [Abu Hurairah] dari Nabi shallallahu 'alaihi wasallam semisalnya
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Сообщается со слов Абу Хурайры, что Пророк ﷺ сказал: «(Если окажется) у меня (гора) золота (величиной с гору) Ухуд, я не порадуюсь ни одному динару из этого, который останется у меня на третий (день), кроме того динара, что я приберегу для (уплаты) долга»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 நபி (ஸல்) அவர்கள் கூறினார்கள்: உஹுத் மலை அளவிற்கு என்னிடம் தங்கம் இருந்து, அதிலிருந்து ஒரேயொரு பொற்காசு என்னிடம் (எஞ்சி) இருந்தாலும் (அதை மக்கள் நலனுக்காகச் செலவிடாமல்) மூன்று இரவுகள்கூட கழிந்துசெல்வது எனக்கு மகிழ்ச்சியளிக்காது; கடனை அடைப்பதற்காக நான் எடுத்து வைக்கும் பொற்காசைத் தவிர. இதை அபூஹுரைரா (ரலி) அவர்கள் அறிவிக்கிறார்கள். - மேற்கண்ட ஹதீஸ் அபூஹுரைரா ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bize Abâurrahmân b. Sellâm El-Cumahi rivayet etti. (Dediki): Bize Rabî' yâni İbni Müslim, Muhammed b. Ziyâd'dan, o da Ebû Hureyre'den naklen rivayet etti ki, Nebi (Sallallahu Aleyhi ve Sellem), «Benim Uhud dağı kadar altın'ım olsa üçüncü gece gelirken yanımda ondan bir dînâr kalmasını arzu etmem! Ancak borcum Için hazırladığım dînâr müstesna.» buyurmuşlar
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ربیع بن مسلم نے محمد بن زیادسے اور انھوں نے حضرت ابوہریرۃ رضی اللہ تعالیٰ عنہ سے روایت کی کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا : " میرے لئے یہ بات خوشی کاباعث نہیں کہ میرے پاس احد پہاڑ کے برابر سونا ہو اور تیسرا دن مجھ پر اس طرح آئے کہ میرے پاس اس میں سے کوئی دینار بچا ہوا موجود ہوسوائے اس دینار کے جس کو میں اپنا قرض چکانے کے لئے رکھ لوں ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>2302</td></tr><tr><td>Arabic No</td><td>991.01</td></tr><tr><td>Reference</td><td>Book 12 Hadith 39</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 2302 |
+| Arabic No | 991.01 |
+| Reference | Book 12 Hadith 39 |

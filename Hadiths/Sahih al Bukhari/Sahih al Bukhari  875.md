@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Russian](#russian)
@@ -16,70 +18,90 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنَا يَحْيَى بْنُ قَزَعَةَ، حَدَّثَنَا إِبْرَاهِيمُ بْنُ سَعْدٍ، عَنِ الزُّهْرِيِّ، عَنْ هِنْدَ بِنْتِ الْحَارِثِ، عَنْ أُمِّ سَلَمَةَ، قَالَتْ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا سَلَّمَ قَامَ النِّسَاءُ حِينَ يَقْضِي تَسْلِيمَهُ، وَهُوَ يَمْكُثُ فِي مَقَامِهِ يَسِيرًا قَبْلَ أَنْ يَقُومَ‏.‏ قَالَتْ نُرَى ـ وَاللَّهُ أَعْلَمُ ـ أَنَّ ذَلِكَ كَانَ لِكَىْ يَنْصَرِفَ النِّسَاءُ قَبْلَ أَنْ يُدْرِكَهُنَّ الرِّجَالُ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثنا يحيى بن قزعة، حدثنا ابراهيم بن سعد، عن الزهري، عن هند بنت الحارث، عن ام سلمة، قالت كان رسول الله صلى الله عليه وسلم اذا سلم قام النساء حين يقضي تسليمه، وهو يمكث في مقامه يسيرا قبل ان يقوم. قالت نرى والله اعلم ان ذلك كان لكى ينصرف النساء قبل ان يدركهن الرجال
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
 ## Bengali
 
-
-<div dir="rtl" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
 ## English
 
+Narrated Umm Salama:Whenever Allah's Messenger (ﷺ) completed the Salat with Taslim, the women used to get up immediately and Allah's Messenger (ﷺ) would remain at his place for sometime before getting up. The sub-narrator (Az-Zuhri) said, "We think, and Allah knows better, that he did so, so that the women might leave before the men could catch up with them
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Narrated Umm Salama:Whenever Allah's Messenger (ﷺ) completed the Salat with Taslim, the women used to get up immediately and Allah's Messenger (ﷺ) would remain at his place for sometime before getting up. The subnarrator (Az-Zuhri) said, "We think, and Allah knows better, that he did so, so that the women might leave before the men could catch up with them
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
+
+## French
+
+Rapporté par Umm Salama : Chaque fois que le Messager d’Allah (ﷺ) terminait la Salat avec le Taslim, les femmes se levaient immédiatement et le Messager d’Allah (ﷺ) restait à sa place un moment avant de se lever. Le sous-narrateur (Az-Zuhri) a dit : « Nous pensons, et Allah sait mieux, qu’il faisait cela pour que les femmes puissent partir avant que les hommes ne les rejoignent. »
+
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 உம்மு சலமா (ரலி) அவர்கள் கூறியதாவது: அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் (தொழுகையில்) சலாம் கொடுத்து முடித்ததும் பெண்கள் எழுந்து (சென்று) விடுவார்கள். நபி (ஸல்) அவர்கள், எழுவதற்குமுன் சற்று நேரம் (தாம் தொழுத) அதே இடத்திலேயே வீற்றி ருப்பார்கள். “அ(வ்வாறு அவர்கள் அமர்ந்திருந் த)து, ஆண்கள் பெண்களை நெருங்கு வதற்குமுன் பெண்கள் திரும்பிச் சென்றுவிடட்டும் என்பதற்காகத்தான்” என்றே கருதப்படுகிறது. அல்லாஹ் நன்கு அறிந்தவன். அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 ہم سے یحییٰ بن قزعہ نے بیان کیا، انہوں نے کہا کہ ہم سے ابراہیم بن سعد نے بیان کیا، انہوں نے زہری سے بیان کیا، ان سے ہند بنت حارث نے بیان کیا، ان سے ام سلمہ رضی اللہ عنہا نے، انہوں نے فرمایا کہ رسول اللہ صلی اللہ علیہ وسلم جب سلام پھیرتے تو آپ صلی اللہ علیہ وسلم کے سلام پھیرتے ہی عورتیں جانے کے لیے اٹھ جاتی تھیں اور نبی کریم صلی اللہ علیہ وسلم تھوڑی دیر ٹھہرے رہتے کھڑے نہ ہوتے۔ زہری نے کہا کہ ہم یہ سمجھتے ہیں، آگے اللہ جانے، یہ اس لیے تھا تاکہ عورتیں مردوں سے پہلے نکل جائیں۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>875</td></tr><tr><td>Arabic No</td><td>875</td></tr><tr><td>Reference</td><td>Book 10 Hadith 266</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 875 |
+| Arabic No | 875 |
+| Reference | Book 10 Hadith 266 |

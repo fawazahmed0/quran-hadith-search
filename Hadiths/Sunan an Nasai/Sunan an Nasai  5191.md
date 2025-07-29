@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,112 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا أَحْمَدُ بْنُ عَمْرِو بْنِ السَّرْحِ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي أَبُو إِدْرِيسَ الْخَوْلاَنِيُّ، أَنَّ رَجُلاً، مِمَّنْ أَدْرَكَ النَّبِيَّ صلى الله عليه وسلم لَبِسَ خَاتَمًا مِنْ ذَهَبٍ نَحْوَهُ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ وَحَدِيثُ يُونُسَ أَوْلَى بِالصَّوَابِ مِنْ حَدِيثِ النُّعْمَانِ ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 48 Hadith 152</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |
+
 اخبرنا احمد بن عمرو بن السرح، قال حدثنا ابن وهب، قال اخبرني يونس، عن ابن شهاب، قال اخبرني ابو ادريس الخولاني، ان رجلا، ممن ادرك النبي صلى الله عليه وسلم لبس خاتما من ذهب نحوه . قال ابو عبد الرحمن وحديث يونس اولى بالصواب من حديث النعمان
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 48 Hadith 152</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 আহমদ ইবন আমর ইবন সারহ (রহঃ) ... আবু ইদরিস খাওলানী (রাঃ) থেকে বর্ণিত যে, রাসূলুল্লাহ্ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সাহাবীদের একজন সোনার আংটি পরলেন—তারপর পূর্বের অনুরূপ।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 48 Hadith 152</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |
 
 ## English
 
+Abu Idris Al-Khawlani narrated that:A man, among those who met the Prophet \[SAW\], wore a gold ring. A similar report
 
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Abu Idris Al-Khawlani narrated that:A man, among those who met the Prophet [SAW], wore a gold ring. A similar report
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 48 Hadith 152</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |
+
+## French
+
+Rapporté par Abu Idris Al-Khawlani : Un homme, parmi ceux qui ont rencontré le Prophète ﷺ, portait une bague en or. Un récit similaire
+
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |
 
 ## Indonesian
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 48 Hadith 152</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 48 Hadith 152</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |
 
 ## Urdu
 
+| Grade |  |
+| --- | --- |
+| Daif | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Daif</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>5191</td></tr><tr><td>Arabic No</td><td>5191</td></tr><tr><td>Reference</td><td>Book 48 Hadith 152</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 5191 |
+| Arabic No | 5191 |
+| Reference | Book 48 Hadith 152 |

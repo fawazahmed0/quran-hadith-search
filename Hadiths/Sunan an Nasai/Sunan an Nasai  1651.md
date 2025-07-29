@@ -4,6 +4,8 @@
 
 [English](#english)
 
+[French](#french)
+
 [Indonesian](#indonesian)
 
 [Turkish](#turkish)
@@ -12,54 +14,124 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، عَنْ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا هِشَامٌ، عَنِ الْحَسَنِ، عَنْ سَعْدِ بْنِ هِشَامِ بْنِ عَامِرٍ، قَالَ قَدِمْتُ الْمَدِينَةَ فَدَخَلْتُ عَلَى عَائِشَةَ - رضى الله عنها - قَالَتْ مَنْ أَنْتَ قُلْتُ أَنَا سَعْدُ بْنُ هِشَامِ بْنِ عَامِرٍ ‏.‏ قَالَتْ رَحِمَ اللَّهُ أَبَاكَ ‏.‏ قُلْتُ أَخْبِرِينِي عَنْ صَلاَةِ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏ قَالَتْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ وَكَانَ ‏.‏ قُلْتُ أَجَلْ ‏.‏ قَالَتْ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ يُصَلِّي بِاللَّيْلِ صَلاَةَ الْعِشَاءِ ثُمَّ يَأْوِي إِلَى فِرَاشِهِ فَيَنَامُ فَإِذَا كَانَ جَوْفُ اللَّيْلِ قَامَ إِلَى حَاجَتِهِ وَإِلَى طَهُورِهِ فَتَوَضَّأَ ثُمَّ دَخَلَ الْمَسْجِدَ فَيُصَلِّي ثَمَانِيَ رَكَعَاتٍ يُخَيَّلُ إِلَىَّ أَنَّهُ يُسَوِّي بَيْنَهُنَّ فِي الْقِرَاءَةِ وَالرُّكُوعِ وَالسُّجُودِ وَيُوتِرُ بِرَكْعَةٍ ثُمَّ يُصَلِّي رَكْعَتَيْنِ وَهُوَ جَالِسٌ ثُمَّ يَضَعُ جَنْبَهُ فَرُبَّمَا جَاءَ بِلاَلٌ فَآذَنَهُ بِالصَّلاَةِ قَبْلَ أَنْ يُغْفِيَ وَرُبَّمَا يُغْفِي وَرُبَّمَا شَكَكْتُ أَغْفَى أَوْ لَمْ يُغْفِ حَتَّى يُؤْذِنَهُ بِالصَّلاَةِ فَكَانَتْ تِلْكَ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم حَتَّى أَسَنَّ وَلَحُمَ - فَذَكَرَتْ مِنْ لَحْمِهِ مَا شَاءَ اللَّهُ - قَالَتْ وَكَانَ النَّبِيُّ صلى الله عليه وسلم يُصَلِّي بِالنَّاسِ الْعِشَاءَ ثُمَّ يَأْوِي إِلَى فِرَاشِهِ فَإِذَا كَانَ جَوْفُ اللَّيْلِ قَامَ إِلَى طَهُورِهِ وَإِلَى حَاجَتِهِ فَتَوَضَّأَ ثُمَّ يَدْخُلُ الْمَسْجِدَ فَيُصَلِّي سِتَّ رَكَعَاتٍ يُخَيَّلُ إِلَىَّ أَنَّهُ يُسَوِّي بَيْنَهُنَّ فِي الْقِرَاءَةِ وَالرُّكُوعِ وَالسُّجُودِ ثُمَّ يُوتِرُ بِرَكْعَةٍ ثُمَّ يُصَلِّي رَكْعَتَيْنِ وَهُوَ جَالِسٌ ثُمَّ يَضَعُ جَنْبَهُ وَرُبَّمَا جَاءَ بِلاَلٌ فَآذَنَهُ بِالصَّلاَةِ قَبْلَ أَنْ يُغْفِيَ وَرُبَّمَا أَغْفَى وَرُبَّمَا شَكَكْتُ أَغْفَى أَمْ لاَ حَتَّى يُؤْذِنَهُ بِالصَّلاَةِ قَالَتْ فَمَا زَالَتْ تِلْكَ صَلاَةُ رَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |
+
 اخبرنا عمرو بن علي، عن عبد الاعلى، قال حدثنا هشام، عن الحسن، عن سعد بن هشام بن عامر، قال قدمت المدينة فدخلت على عايشة - رضى الله عنها - قالت من انت قلت انا سعد بن هشام بن عامر . قالت رحم الله اباك . قلت اخبريني عن صلاة رسول الله صلى الله عليه وسلم . قالت ان رسول الله صلى الله عليه وسلم كان وكان . قلت اجل . قالت ان رسول الله صلى الله عليه وسلم كان يصلي بالليل صلاة العشاء ثم ياوي الى فراشه فينام فاذا كان جوف الليل قام الى حاجته والى طهوره فتوضا ثم دخل المسجد فيصلي ثماني ركعات يخيل الى انه يسوي بينهن في القراءة والركوع والسجود ويوتر بركعة ثم يصلي ركعتين وهو جالس ثم يضع جنبه فربما جاء بلال فاذنه بالصلاة قبل ان يغفي وربما يغفي وربما شككت اغفى او لم يغف حتى يوذنه بالصلاة فكانت تلك صلاة رسول الله صلى الله عليه وسلم حتى اسن ولحم - فذكرت من لحمه ما شاء الله - قالت وكان النبي صلى الله عليه وسلم يصلي بالناس العشاء ثم ياوي الى فراشه فاذا كان جوف الليل قام الى طهوره والى حاجته فتوضا ثم يدخل المسجد فيصلي ست ركعات يخيل الى انه يسوي بينهن في القراءة والركوع والسجود ثم يوتر بركعة ثم يصلي ركعتين وهو جالس ثم يضع جنبه وربما جاء بلال فاذنه بالصلاة قبل ان يغفي وربما اغفى وربما شككت اغفى ام لا حتى يوذنه بالصلاة قالت فما زالت تلك صلاة رسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 । আমর ইবনু আলী (রহঃ) ... সা'দ ইবনু হিশাম (রাঃ) থেকে বর্ণিত। তিনি বলেন, আমি একবার মদীনাতে গেলে আয়িশা (রাঃ) এর খেদমতে উপস্থিত হলাম। আয়িশা (রাঃ) বললেন, তুমি কে? আমি বললাম, আমি সা’দ ইবনু হিশাম ইবনু আমির। তিনি বললেন, তোমার পিতার উপর আল্লাহ রহমত বর্ষণ করুন! আমি বললাম, আপনি আমাকে রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সালাত সষ্পর্কে অবহিত করুন। তিনি বললেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এরূপ এরূপ ছিলেন না? আমি বললাম, নিশ্চয়। তিনি বললেন, রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম রাত্রে ইশার সালাত আদায় করতেন। তারপর তার বিছানায় গিয়ে ঘুমিয়ে যেতেন। যখন অর্ধরাত্রি হয়ে যেত তিনি তার প্রাকৃতিক প্রয়োজন সারার জন্য এবং উযুর পানি নেয়ার জন্য উঠে যেতেন এবং উযু করে নিতেন। তারপর মসজিদে প্রবেশ করে আট রাকআত সালাত আদায় করতেন। আমার ধারণা হত, যেন তিনি উপরোক্ত রাকআত সমুহের কিরাআত, রুকু এবং সিজদাতে সমতা বিধান করতেন। অতঃপর একটি রাকআত দ্বারা উপরোক্ত সালাত সমূহকে বেজোড় করে দিতেন। পরে বসা অবস্থায় দু’রাকআত সালাত আদায় করতেন। তারপর তিনি শুয়ে পড়তেন। কখনো কখনো বিলাল (রাঃ) এসে তাকে হালকা নিন্দ্রা আসার পূর্বেই সালাতের সংবাদ দিতেন আর কখনো কখনো তার হালকা নিন্দ্রা এসে যেত, এবং কখনো কখনো আমার সন্দেহ হয়ে যেত যে, তিনি হালকা নিদ্রা গেলেন কি না। ইতিমধ্যে তাকে সালাতের সংবাদ দেওয়া হত। এই ছিল রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সালাত। যখন তিনি বার্ধক্যে উপনীত হলেন এবং তার শরীর ভারী হয়ে গেল। আয়িশা (রাঃ) আল্লাহর যা ইচ্ছা ছিল তার ভারী হওয়া সম্পর্কে উল্লেখ করলেন। তিনি বলেন, নবী সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম লোকদের নিয়ে ইশার সালাত আদায় করতেন। তারপর নিদ্রা যেতেন। যখন অর্ধ রাত্রি হত তিনি উযুর পানি নেয়ার জন্য এবং প্রাকৃতিক প্রয়োজন সারার জন্য নিদ্রা থেকে উঠে যেতেন এবং উযু করতেন ও মসজিদে প্রবেশ করে দু’রাকআত সালাত আদায় করতেন। আমি ধারনা করতাম যে, উক্ত দু’রাকআত সালাতে কিরাআত, রুকু এবং সিজদায় সমতা বিধান করতেন। অতঃপর একটি রাকআত দ্বারা উক্ত সালাত সমূহকে বেজোড় করে দিতেন। তারপর বসা অবস্থায় দু’রাকআত সালাত আদায় করতেন। পরে নিদ্রা যেতেন। কখনো কখনো বিলাল (রাঃ) এসে তাকে হালকা নিদ্রা যাওয়ার পুর্বে সালাতের সংবাদ দিতেন আর কখনো হালকা নিদ্রা যেতেন। আর কখনো কখনো আমরে সন্দেহ হয়ে যেত যে, তিনি হালকা নিদ্রা গেলেন কিনা। ইতিমধ্যে তাঁকে সালাতের সংবাদ দেয়া হত। আয়িশা (রাঃ) বলেন, এই ছিল রাসুলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর সব সময়ের সালাত।
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 It was narrated that Sa'd bin Hisham bin 'Amir said:" I came to Al-Madinah and entered upon Aishah, may Allah (SWT) be pleased with her. She said: 'Who are you?' I said: 'I am Sa'd bin Hisham bin 'Amir.' She said: 'May Allah have mercy on your father.' I said: 'Tell me about the prayer of the Messenger of Allah (ﷺ).' She said: 'The Messenger of Allah (ﷺ) did such and such.' I said: 'Yes indeed.' She said: 'The Messenger of Allah (ﷺ) used to pray Isha' at night, then he would go to his bed and sleep. In the middle of the night, he would get up to relieve himself and go to his water for purification and perform wudu. Then he went into the Masjid and prayed eight rak'ahs. I think he made the recitation, bowing and prostration equal in length. Then he prayed one rak'ah of witr, then he prayed two rak'ahs sitting down. Then he lay down on his side. Sometimes Bilal would come and tell him that it was time to pray before he napped, and sometimes he napped. And sometimes I was not sure if he had napped or not before he told him that it was time to pray. This is how the Messenger of Allah (ﷺ) used to pray until he grew older and gained weight"- and she mentioned whatever Allah (SWT) willed about his gaining weight. She said: "And the Prophet (ﷺ) used to lead the people in praying witr, then he would go to his bed. In the middle of the night, he would get up and go to water for purification, and to relieve himself, then he would perform wudu. Then he would go into the masjid and pray six rak'ahs, and I think he made the recitation, bowing, and prostration equal in length. Then he prayed one rak'ah of witr, then he prayed two rak'ahs sitting down. Then he lay down on his side. Sometimes Bilal would come and tell him that it was time to pray before he napped, and sometimes he napped. And sometimes I was not sure if he had napped or not before he told him that it was time to pray." She said: "And this is how the Messenger of Allah (ﷺ) continued to pray
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |
+
+## French
+
+Rapporté par Sa’d bin Hisham bin ‘Amir : "Je suis venu à Médine et je suis entré chez Aishah, رضي الله عنها. Elle m’a demandé : 'Qui es-tu ?' J’ai répondu : 'Je suis Sa’d bin Hisham bin ‘Amir.' Elle a dit : 'Qu’Allah fasse miséricorde à ton père.' J’ai dit : 'Raconte-moi la prière du Messager d’Allah (ﷺ).' Elle a dit : 'Le Messager d’Allah (ﷺ) faisait ceci et cela.' J’ai répondu : 'Oui, en effet.' Elle a dit : 'Le Messager d’Allah (ﷺ) priait ‘Isha la nuit, puis il allait se coucher et dormait. Au milieu de la nuit, il se levait pour aller aux toilettes et se purifier, puis il faisait ses ablutions. Ensuite, il entrait dans la mosquée et priait huit unités. Je pense qu’il rendait la récitation, l’inclinaison et la prosternation de même durée. Ensuite, il priait une unité de witr, puis il priait deux unités assis. Ensuite, il s’allongeait sur le côté. Parfois, Bilal venait lui dire qu’il était l’heure de prier avant qu’il ne fasse une sieste, et parfois il faisait une sieste. Et parfois, je ne savais pas s’il avait dormi ou non avant que Bilal ne vienne lui dire qu’il était l’heure de prier. C’est ainsi que le Messager d’Allah (ﷺ) priait jusqu’à ce qu’il vieillisse et prenne du poids" – et elle a mentionné ce qu’Allah (SWT) a voulu au sujet de sa prise de poids. Elle a dit : "Et le Prophète (ﷺ) dirigeait les gens pour la prière du witr, puis il allait se coucher. Au milieu de la nuit, il se levait, allait se purifier et aux toilettes, puis faisait ses ablutions. Ensuite, il entrait dans la mosquée et priait six unités, et je pense qu’il rendait la récitation, l’inclinaison et la prosternation de même durée. Ensuite, il priait une unité de witr, puis il priait deux unités assis. Ensuite, il s’allongeait sur le côté. Parfois, Bilal venait lui dire qu’il était l’heure de prier avant qu’il ne fasse une sieste, et parfois il faisait une sieste. Et parfois, je ne savais pas s’il avait dormi ou non avant que Bilal ne vienne lui dire qu’il était l’heure de prier." Elle a dit : "Et c’est ainsi que le Messager d’Allah (ﷺ) a continué à prier
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |
 
 ## Indonesian
 
+Telah mengabarkan kepada kami \['Amru bin 'Ali\] dari \['Abdul A'la\] dia berkata; telah menceritakan kepada kami \[Hisyam\] dari \[Al Hasan\] dari \[Sa'ad bin Hisyam bin 'Amir\] dia berkata; "Aku datang ke Madinah lalu aku menemui \[Aisyah\] Radliallahu? nha, kemudian ia berkata; 'Siapa kamu? ' Aku menjawab; 'Sa'ad bin Hisyam bin Amir'. ia lalu berkata; 'Semoga Allah memberikan rahmat kepada ayahmu! ' Aku berkata lagi, 'Kabarkanlah kepadaku tentang cara shalat Rasulullah shallallahu 'alaihi wasallam? ' la menjawab; 'Rasulullah shallallahu 'alaihi wasallam dulu begini dan begitu'. Aku berkata; "Tentu'. Aisyah berkata; 'Rasulullah shallallahu 'alaihi wasallam shalat Isya' pada malam hari, kemudian kembali ke tempat tidurnya, lalu tidur. Pada tengah malam beliau bangun untuk hajatnya dan bersuci, lalu berwudlu dan masuk ke masjid, kemudian shalat delapan rakaat. Terbayang olehku bahwa beliau menyamakan (lama) bacaannya dan ruku' serta sujudnya. Setelah itu shalat witir satu rakaat, kemudian shalat dua rakaat sambil duduk. Kemudian beliau berbaring miring. Kadangkala Bilal datang dan mengumandangkan adzan untuk shalat sebelum beliau tidur atau sedang tidur. Mungkin juga aku ragu apakah beliau sudah tidur atau belum tidur! hingga Bilal mengumandangkan adzan untuk shalat. Begitulah cara Rasulullah shallallahu 'alaihi wasallam shalat hingga beliau tua dan bertambah gemuk.' Aisyah menceritakan daging (gemuk) nya Rasulullah shallallahu 'alaihi wasallam masya Allah. dia berkata; 'Rasulullah shallallahu 'alaihi wasallam shalat Isya' bersama para sahabat kemudian kembali ke tempat tidurnya. Pada tengah malam beliau bangun ke tempat bersucinya dan hajatnya, lalu berwudhu, kemudian masuk ke masjid lalu shalat enam rakaat. Terbayang olehku bahwa beliau menyamakan bacaannya, ruku'nya, serta sujudnya. Beliau juga shalat witir satu rakaat. Kemudian shalat dua rakaat sambil duduk, lalu berbaring miring. Kadangkala Bilal datang lalu mengumandangkan adzan untuk shalat sebelum beliau tidur atau sedang tidur. Aku juga ragu apakah beliau sudah tidur? Hingga Bilal mengumandangkan adzan untuk shalat.' Aisyah berkata; 'Maka senantiasa seperti itulah cara shalat Rasulullah shallallahu 'alaihi wasallam
 
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-Telah mengabarkan kepada kami ['Amru bin 'Ali] dari ['Abdul A'la] dia berkata; telah menceritakan kepada kami [Hisyam] dari [Al Hasan] dari [Sa'ad bin Hisyam bin 'Amir] dia berkata; "Aku datang ke Madinah lalu aku menemui [Aisyah] Radliallahu? nha, kemudian ia berkata; 'Siapa kamu? ' Aku menjawab; 'Sa'ad bin Hisyam bin Amir'. ia lalu berkata; 'Semoga Allah memberikan rahmat kepada ayahmu! ' Aku berkata lagi, 'Kabarkanlah kepadaku tentang cara shalat Rasulullah shallallahu 'alaihi wasallam? ' la menjawab; 'Rasulullah shallallahu 'alaihi wasallam dulu begini dan begitu'. Aku berkata; "Tentu'. Aisyah berkata; 'Rasulullah shallallahu 'alaihi wasallam shalat Isya' pada malam hari, kemudian kembali ke tempat tidurnya, lalu tidur. Pada tengah malam beliau bangun untuk hajatnya dan bersuci, lalu berwudlu dan masuk ke masjid, kemudian shalat delapan rakaat. Terbayang olehku bahwa beliau menyamakan (lama) bacaannya dan ruku' serta sujudnya. Setelah itu shalat witir satu rakaat, kemudian shalat dua rakaat sambil duduk. Kemudian beliau berbaring miring. Kadangkala Bilal datang dan mengumandangkan adzan untuk shalat sebelum beliau tidur atau sedang tidur. Mungkin juga aku ragu apakah beliau sudah tidur atau belum tidur! hingga Bilal mengumandangkan adzan untuk shalat. Begitulah cara Rasulullah shallallahu 'alaihi wasallam shalat hingga beliau tua dan bertambah gemuk.' Aisyah menceritakan daging (gemuk) nya Rasulullah shallallahu 'alaihi wasallam masya Allah. dia berkata; 'Rasulullah shallallahu 'alaihi wasallam shalat Isya' bersama para sahabat kemudian kembali ke tempat tidurnya. Pada tengah malam beliau bangun ke tempat bersucinya dan hajatnya, lalu berwudhu, kemudian masuk ke masjid lalu shalat enam rakaat. Terbayang olehku bahwa beliau menyamakan bacaannya, ruku'nya, serta sujudnya. Beliau juga shalat witir satu rakaat. Kemudian shalat dua rakaat sambil duduk, lalu berbaring miring. Kadangkala Bilal datang lalu mengumandangkan adzan untuk shalat sebelum beliau tidur atau sedang tidur. Aku juga ragu apakah beliau sudah tidur? Hingga Bilal mengumandangkan adzan untuk shalat.' Aisyah berkata; 'Maka senantiasa seperti itulah cara shalat Rasulullah shallallahu 'alaihi wasallam
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |
 
 ## Turkish
 
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
 
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 سعد بن ہشام بن عامر کہتے ہیں میں مدینہ آیا تو ام المؤمنین عائشہ رضی اللہ عنہا کے پاس آیا، انہوں نے پوچھا: تم کون ہو؟ میں نے کہا: میں سعد بن ہشام بن عامر ہوں، انہوں نے کہا: اللہ تمہارے باپ پر رحم کرے، میں نے کہا: مجھے رسول اللہ صلی اللہ علیہ وسلم کی نماز کے متعلق کچھ بتائیے، تو انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم ایسا ایسا کرتے تھے، میں نے کہا: اچھا، انہوں نے کہا: رسول اللہ صلی اللہ علیہ وسلم رات میں عشاء کی نماز پڑھتے تھے، پھر آپ اپنے بچھونے کی طرف آتے اور سو جاتے، پھر جب آدھی رات ہوتی، تو قضائے حاجت کے لیے اٹھتے اور وضو کے پانی کے پاس آتے، اور وضو کرتے، پھر مسجد آتے اور آٹھ رکعتیں پڑھتے، تو پھر ایسا محسوس ہوتا کہ ان میں قرآت، رکوع اور سجدے سب برابر برابر ہیں، اور ایک رکعت وتر پڑھتے، پھر بیٹھ کر دو رکعت پڑھتے، پھر آپ اپنے پہلو کے بل لیٹ جاتے، تو کبھی اس سے پہلے کہ آپ کی آنکھ لگے بلال رضی اللہ عنہ آپ کے پاس آتے، اور آپ کو نماز کی اطلاع دیتے، اور کبھی آپ کی آنکھ لگ جاتی، اور کبھی مجھے شک ہوتا کہ آپ سوئے یا نہیں سوئے یہاں تک کہ وہ آپ کو نماز کی خبر دیتے، تو یہ رسول اللہ صلی اللہ علیہ وسلم کی نماز تھی، یہاں تک کہ آپ عمردراز ہو گئے، اور جسم پر گوشت چڑھ گیا، پھر انہوں نے آپ کے جسم پر گوشت چڑھنے کا حال بیان کیا جو اللہ نے چاہا، وہ کہتی ہیں: نبی اکرم صلی اللہ علیہ وسلم لوگوں کو عشاء کی نماز پڑھاتے، پھر اپنے بچھونے کی طرف آتے، تو جب آدھی رات ہو جاتی تو آپ اپنی پاکی اور حاجت کے لیے اٹھ کر جاتے، پھر وضو کرتے، پھر مسجد آتے تو چھ رکعتیں پڑھتے، ایسا محسوس ہوتا کہ آپ ان میں قرآت، رکوع اور سجدے میں برابری رکھتے ہیں، پھر آپ ایک رکعت وتر پڑھتے، پھر دو رکعت بیٹھ کر پڑھتے، پھر اپنے پہلو کے بل لیٹتے تو کبھی بلال رضی اللہ عنہ آپ کی آنکھ لگنے سے پہلے ہی آ کر نماز کی اطلاع دیتے، اور کبھی آنکھ لگ جانے پر آتے، اور کبھی مجھے شک ہوتا کہ آپ کی آنکھ لگی یا نہیں یہاں تک کہ وہ آپ کو نماز کی خبر دیتے، وہ کہتی ہیں: تو برابر یہی رسول اللہ صلی اللہ علیہ وسلم کی نماز رہی۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>Grade</th> <th></th> </tr> </thead> <tbody> <tr><td>Sahih</td><td>Abu Ghuddah</td></tr><tr><td>Sahih</td><td>Al-Albani</td></tr><tr><td>Daif</td><td>Zubair Ali Zai</td></tr></tbody></table><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>1651</td></tr><tr><td>Arabic No</td><td>1651</td></tr><tr><td>Reference</td><td>Book 20 Hadith 54</td></tr></tbody></table></div>
+
+| Grade |  |
+| --- | --- |
+| Sahih | Abu Ghuddah |
+| Sahih | Al-Albani |
+| Daif | Zubair Ali Zai |
+
+| References: |  |
+| --- | --- |
+| Hadith No | 1651 |
+| Arabic No | 1651 |
+| Reference | Book 20 Hadith 54 |

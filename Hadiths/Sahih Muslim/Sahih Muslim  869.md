@@ -18,78 +18,96 @@
 
 ## Arabic
 
-
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حَدَّثَنِي مُحَمَّدُ بْنُ رَافِعٍ، حَدَّثَنَا حُجَيْنٌ، حَدَّثَنَا اللَّيْثُ، عَنْ عُقَيْلٍ، عَنِ ابْنِ شِهَابٍ، أَخْبَرَنِي أَبُو بَكْرِ بْنُ عَبْدِ الرَّحْمَنِ بْنِ الْحَارِثِ، أَنَّهُ سَمِعَ أَبَا هُرَيْرَةَ، يَقُولُ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم إِذَا قَامَ إِلَى الصَّلاَةِ يُكَبِّرُ حِينَ يَقُومُ بِمِثْلِ حَدِيثِ ابْنِ جُرَيْجٍ وَلَمْ يَذْكُرْ قَوْلَ أَبِي هُرَيْرَةَ ‏.‏ إِنِّي أَشْبَهُكُمْ صَلاَةً بِرَسُولِ اللَّهِ صلى الله عليه وسلم ‏.‏
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
 
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
-<div dir="rtl" lang="ar" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 حدثني محمد بن رافع، حدثنا حجين، حدثنا الليث، عن عقيل، عن ابن شهاب، اخبرني ابو بكر بن عبد الرحمن بن الحارث، انه سمع ابا هريرة، يقول كان رسول الله صلى الله عليه وسلم اذا قام الى الصلاة يكبر حين يقوم بمثل حديث ابن جريج ولم يذكر قول ابي هريرة . اني اشبهكم صلاة برسول الله صلى الله عليه وسلم
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## Bengali
 
-
-<div dir="ltr" lang="bn" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 মুহাম্মাদ ইবনু রাফি' (রহঃ) ..... আবূ হুরাইরাহ (রাযিঃ) হতে বর্ণিত। তিনি বলেন, রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়া সাল্লাম যখন সালাতের জন্য দাঁড়াতেন তখন তাকবীর বলে সালাত শুরু করতেন। ..... উপরের (ইবনু খুরায়য-এর) হাদীসের অনুরূপ। কিন্তু এ বর্ণনায় আবূ হুরাইরার কথা, "আমি তোমাদের সবার তুলনায় অধিক পরিমাণে রাসূলুল্লাহ সাল্লাল্লাহু আলাইহি ওয়াসাল্লাম এর অনুরূপ সালাত আদায় করতে পারি" কথাটুকু উল্লেখ নেই। (ইসলামিক ফাউন্ডেশনঃ ৭৫৩, ইসলামিক সেন্টারঃ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## English
 
-
-<div dir="ltr" lang="en" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Ibn al-Harith reported:He had heard Abu Huraira say: The Messenger of Allah (ﷺ) recited takbir on standing for prayer, and the rest of the hadith is like that transmitted by Ibn Juraij (recorded above), but he did not mention Abu Huraira as saying:" My prayer has the best resemblance amongst you with the prayer of the Messenger of Allah (ﷺ)
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## French
 
+Rapporté par Ibn al-Harith : Il a entendu Abu Huraira dire : Le Messager d’Allah ﷺ prononçait le takbir en se levant pour prier, et le reste du hadith est semblable à celui transmis par Ibn Juraij (mentionné plus haut), mais il n’a pas rapporté qu’Abu Huraira ait dit : « Ma prière ressemble le plus à celle du Messager d’Allah ﷺ parmi vous. »
 
-<div dir="ltr" lang="fr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## Indonesian
 
-
-<div dir="ltr" lang="id" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
-
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## Russian
 
-
-<div dir="ltr" lang="ru" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 (…) Сообщается, что Абу Хурайра сказал: «Посланник Аллаха ﷺ всегда произносил слова “Аллаху акбар” когда становился на молитву…» подобно предыдущему хадису, но в этой версии нет слов Абу Хурайры: «Поистине, (моя молитва) подобна молитве Посланника Аллаха ﷺ в большей степени, нежели (молитва любого) из вас»
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## Tamil
 
-
-<div dir="ltr" lang="ta" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 மேற்கண்ட ஹதீஸ் அபூஹுரைரா (ரலி) அவர்களிடமிருந்தே மற்றோர் அறிவிப்பாளர் தொடர் வழியாகவும் வந்துள்ளது. அதில் அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுகைக்காக நின்றவுடன் தக்பீர் கூறுவார்கள் என ஹதீஸ் தொடங்குகிறது. ஆனால், உங்களிலேயே அல்லாஹ்வின் தூதர் (ஸல்) அவர்கள் தொழுததைப் போன்று தொழுகின்றவன் நானே என அபூஹுரைரா (ரலி) அவர்கள் குறிப்பிட்டது அதில் இடம் பெறவில்லை. அத்தியாயம் :
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## Turkish
 
-
-<div dir="ltr" lang="tr" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 Bana Muhammed b. Râfi rivayet etti. (Dediki): Bize Huceyn rivayet etti. (Dediki): Bize Leys, Ukayl'den, o da İbni Şihâb'dan naklen rivayet etti. (Demişki): Bana Ebu Bekr b. Abdirrahman b. Haris, Ebu Hureyre'yi şöyle derken işittiğini haber verdi: — Resulullah (Sallallahu Aleyhi ve Sellem) namaza kalktığı vakit (tam) namaza dururken tekbîr alırdı... (Bundan sonra) hadisi İbni Cüreyc'in rivayeti gibi tahdîs etmiş; yalnız Ebu Hureyre'nin: — «Şüphesiz ki içinizde namazı Resulullah (Sallallahu Aleyhi ve Sellem) in namazına en ziyade benzeyeniniz benim» sözünü zikretmemiş
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
 
 ## Urdu
 
-
-<div dir="rtl" lang="ur" style={{fontSize:'larger',backgroundColor:'#f8f9fa',padding:20}}>
 عقیل نے ابن شہاب سے روایت کی ، کہا : مجھے ابو بکر بن عبد الرحمن بن حارث نے بتایا کہ انہوں نے حضرت ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ سے سنا ، کہہ رہے تھے کہ رسول اللہﷺ جب نماز کے لیے کھڑے ہوتے تو کھڑے ہوتے وقت تکبیر کہتے ...... آگے ابن جریج کی حدیث کی طرح ہے اور ( عقیل نے ) ابو ہریرہ ‌رضی ‌اللہ ‌عنہ ‌ ‌ کا یہ قول کہ میں نماز میں تم سب کی نسبت رسول اللہﷺ سے زیادہ مشابہ ہوں ، بیان نہیں کیا ۔
-</div>
-<div style={{backgroundColor:'#f8f9fa',padding:20, marginBottom: 10}}><table> <thead> <tr> <th>References:</th> <th></th> </tr> </thead> <tbody><tr><td>Hadith No</td><td>869</td></tr><tr><td>Arabic No</td><td>392.03</td></tr><tr><td>Reference</td><td>Book 4 Hadith 32</td></tr></tbody></table></div>
+
+| References: |  |
+| --- | --- |
+| Hadith No | 869 |
+| Arabic No | 392.03 |
+| Reference | Book 4 Hadith 32 |
